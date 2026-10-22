@@ -1,0 +1,16 @@
+{
+  "name": "legislacao-ma",
+  "owner": {
+    "name": "Klayton Campos"
+  },
+  "metadata": {
+    "description": "Skills de legislação tributária do Maranhão para o Claude Code, atualizadas toda semana."
+  },
+  "plugins": [
+    {
+      "name": "legislacao-tributaria-ma",
+      "source": "./plugins/legislacao-tributaria-ma",
+      "description": "Legislação tributária do Maranhão (ICMS): CTE, RICMS-MA e anexos, normas da SEFAZ-MA e convênios, protocolos e ajustes do CONFAZ, em texto integral e atualizado toda semana."
+    }
+  ]
+}

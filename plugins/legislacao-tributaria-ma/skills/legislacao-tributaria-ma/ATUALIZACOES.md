@@ -1,0 +1,349 @@
+# Registro de atualizações da base
+
+## 2026-10-19 19:02
+
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 025/26 – GABIN**: Acrescenta o Anexo 51 ao Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714/03, para dispor sobre as remessas de mercadorias destinadas à demonstração
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 028/26 – GABIN**: Modifica o Regulamento do ICMS – RICMS, relativamente à emissão de documentos fiscais nas operações e prestações que especifica.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 026/26 – GABIN**: Acrescenta o Anexo 4.48 ao Anexo 4.0 do Regulamento do ICMS - RICMS, para dispor sobre os procedimentos referentes ao ICMS incidente nas operações de venda a bo
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 024/26 – GABIN**: Dispõe sobre os procedimentos dos tabeliães, escrivães e demais serventuários de ofício, como responsáveis tributários solidários, nas transmissões ou doações q
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 022/26 – GABIN**: Modifica dispositivos do RICMS, relativamente à Nota Fiscal Eletrônica e ao Documento Auxiliar da Nota Fiscal, considerando o disposto no Ajuste SINIEF nº 07/05
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 023/26 – GABIN**: Altera o Regulamento do ICMS RICMS, aprovado pelo Decreto nº 19.714/03, relativamente ao prazo para a transmissão dos arquivos da Declaração de Informações Econ
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 020/26 – GABIN**: Dispõe sobre o credenciamento de contribuintes para o pagamento do ICMS relativo às operações com mercadorias sujeitas à substituição tributária do imposto que 
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 018/26 – GABIN**: Modifica o Anexo 44 do Regulamento do ICMS – RICMS
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 017/26 – GABIN**: Altera o Anexo 50 do Regulamento do ICMS – RICMS, que dispõe sobre a remessa interestadual e interna de bens e mercadorias
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 016/26 – GABIN**: Altera o inciso XVI do art. 1o do Anexo 1.2 (Isenção por Tempo Determinado) do Regulamento do ICMS - RICMS
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 14/26 – GABIN**: Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714/03
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 015/26 – GABIN**: Prorroga, até 31 de dezembro de 2028, as disposições do art. 41 do Anexo 1.2 e do art. 27 do Anexo 1.4 do Regulamento do ICMS – RICMS
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 013/26 – GABIN**: Prorroga o benefício previsto no inciso I do art. 11 do Anexo 1.5 do RICMS
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 012/26 – GABIN**: Altera o Regulamento do ICMS – RICMS, aprovado pelo Decreto 19.714, de 10 de julho de 2003
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 011/26 – GABIN**: Altera dispositivos do Regulamento do ICMS – RICMS, ao teor da revogação do Ajuste SINIEF 11/25 pelo Ajuste SINIEF 12/26
+- SEFAZ norma complementar alterada: **ESOLUÇÃO ADMINISTRATIVA Nº 007/26 – GABIN**: Dispõe sobre a prorrogação de benefícios previstos nos Anexos 1.2, 1.4 e 1.5 do Regulamento do ICMS - RICMS.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 008/26 – GABIN**: Altera o RICMS (Decreto 19.714/2003) nas disposições sobre a Nota Fiscal Eletrônica e o Documento Auxiliar da Nota Fiscal Eletrônica.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 006/26 – GABIN**: Acrescenta dispositivos ao RICMS/03 considerando atendidas condicionantes de desoneração federal quando o não cumprimento decorrer do art. 4º da LC 224/2025.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 046/25 – GABIN**: Prorroga, até 31 de dezembro de 2027, as disposições do art. 42 do Anexo 1.2 do Regulamento do ICMS – RICMS.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 050/25 – GABIN**: Altera o Anexo 48 do Regulamento do ICMS-RICMS, aprovado pelo Decreto nº 19.714/03
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 049/25 – GABIN**: Altera o Anexo 49 do Regulamento do ICMS-RICMS
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 051/25 – GABIN**: Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714/03
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 048/25 – GABIN**: Altera o Anexo 1.4 do RICMS para prorrogar a vigência da redução da base de cálculo do ICMS nas saídas internas de querosene de aviação (QAV).
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 045/25 – GABIN**: Acrescenta o Anexo 4.26.1 ao RICMS (Decreto 19.714/03), sobre concessão, manutenção, suspensão e cancelamento da inscrição no CAD-ICMS do setor de combustíveis.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 042/25 – GABIN**: Altera o Anexo 30 do RICMS (Decreto 19.714/2003), sobre cumprimento de obrigações tributárias do depositário em recinto alfandegado.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 040/25 – GABIN**: Acrescenta o Anexo 4.47 ao RICMS (Decreto 19.714), sobre substituição tributária nas operações com nafta não petroquímica, ICMS devido nas operações subsequente
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 037/25 – GABIN**: Revoga dispositivo do Anexo 1.1 do RICMS, aprovado pelo Decreto nº 19.714, relativamente à isenção do ICMS nas operações com medicamentos destinados ao tratamen
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 034/25 – GABIN**: Altera o RICMS (Decreto 19.714) sobre saídas com fim específico de exportação e emissão de documento fiscal em remessa consignada via e-commerce.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 035/25 – GABIN**: Altera o RICMS (Decreto 19.714) sobre obrigações tributárias de prestadores de serviços de comunicação na emissão da NF Fatura de Serviços de Comunicação Eletrô
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 036/25 – GABIN**: Prorroga e altera dispositivos do Anexo 1.4 do RICMS sobre redução da base de cálculo do ICMS nas saídas de insumos agropecuários especificados.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 031/25 – GABIN**: Acrescenta e altera dispositivos do Anexo 1.2 do RICMS/MA para conceder isenção de ICMS nas operações do Programa de Segurança Alimentar e Nutricional.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 033/25 – GABIN**: Acrescenta inciso III ao art. 27 do Anexo 1.1 do RICMS/03, isentando de ICMS a aquisição de armas, munições e equipamentos de segurança institucional por órgãos
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 030/25 – GABIN**: Altera o Anexo 1.2 do RICMS sobre isenção de ICMS em fármacos e medicamentos destinados a órgãos públicos, conforme Convênio ICMS 84/2025.
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA N° 032/25 – GABIN**: Acrescenta e altera dispositivos do Anexo 1.2 do RICMS/MA para conceder isenção de ICMS nas doações gratuitas de alimentos, nas hipóteses que menciona.
+- CONFAZ NOVO: convenio 115/2026: "> CONVÊNIO ICMS Nº 115, DE 13 DE OUTUBRO DE 2026 Publicado no DOU de 14.10.2026 Altera o Convênio ICMS nº 217, de 21 de dezembro de 2023, que autoriza a remissão de crédito tribut
+  - ↳ norma alterada rebaixada: convenio 217/2023
+- CONFAZ NOVO: convenio 116/2026: "> CONVÊNIO ICMS Nº 116, DE 13 DE OUTUBRO DE 2026 Publicado no DOU de 14.10.2026 Autoriza a instituição de programa de parcelamento de débitos fiscais relacionados com o ICMS, na f
+- CONFAZ NOVO: convenio 117/2026: "> CONVÊNIO ICMS Nº 117, DE 13 DE OUTUBRO DE 2026 Publicado no DOU de 14.10.2026 Altera o Convênio ICMS nº 77, de 2 de setembro de 2020, que autoriza os Estados do Amapá, Piauí, Ri
+- CONFAZ NOVO: convenio 118/2026: "> CONVÊNIO ICMS Nº 118, DE 13 DE OUTUBRO DE 2026 Publicado no DOU de 14.10.2026 Altera o Convênio ICMS nº 79, de 2 de setembro de 2020, que autoriza as unidades federadas que menc
+  - ↳ norma alterada rebaixada: convenio 79/2020
+- CONFAZ NOVO: convenio 119/2026: "> CONVÊNIO ICMS Nº 119, DE 13 DE OUTUBRO DE 2026 Publicado no DOU de 14.10.2026 Autoriza a concessão de remissão e instituição de programa de anistia e parcelamento de débitos tri
+- CONFAZ NOVO: convenio 120/2026: "> CONVÊNIO ICMS Nº 120, DE 13 DE OUTUBRO DE 2026 Publicado no DOU de 14.10.2026 Altera o Convênio ICMS nº 92, de 28 de julho de 2026, que autoriza a dispensa de juros e multas med
+  - ↳ norma alterada rebaixada: convenio 92/2026
+- CONFAZ NOVO: convenio 121/2026: "> CONVÊNIO ICMS Nº 121, DE 13 DE OUTUBRO DE 2026 Publicado no DOU de 14.10.2026 Altera o Convênio ICMS nº 35, de 11 de abril de 2025, que autoriza a instituição de programa de rec
+  - ↳ norma alterada rebaixada: convenio 35/2025
+
+## 2026-10-13 23:35
+
+- CONFAZ NOVO: convenio 1/2026: Prorroga as disposições do Convênio ICMS nº 151, de 3 de outubro de 2025, que autoriza a redução de juros e multas de débitos fiscais relacionados com o ICM e o ICMS, e convalida o
+- CONFAZ NOVO: convenio 2/2026: Altera o Convênio ICMS nº 210, de 8 de dezembro de 2023, que autoriza as unidades federadas que menciona a instituir transação nos termos que especifica.
+- CONFAZ NOVO: convenio 3/2026: Autoriza o Estado de Mato Grosso a conceder isenção do ICMS, nas operações internas e em relação à diferença entre as alíquotas interna e interestadual, incidente nas aquisições de
+- CONFAZ NOVO: convenio 4/2026: Concede isenção e suspensão do ICMS nas operações e prestações relacionadas com a Copa do Mundo Feminina da FIFA 2027, e dá outras providências.
+- CONFAZ NOVO: convenio 5/2026: Autoriza a concessão de isenção do ICMS nas operações internas com cimento quando destinado a concessionárias de serviços de pedágio e construtoras, contratadas pela administração 
+- CONFAZ NOVO: convenio 6/2026: Autoriza a concessão de redução de base de cálculo do ICMS nas saídas de bombas centrífugas.
+- CONFAZ NOVO: convenio 7/2026: Altera o Convênio ICMS nº 109, de 3 de outubro de 2024, que dispõe sobre a remessa interestadual de mercadorias entre estabelecimentos de mesma titularidade.
+  - ↳ norma alterada rebaixada: convenio 109/2024
+- CONFAZ NOVO: convenio 8/2026: Dispõe sobre a adesão do Estado do Pará e altera o Convênio ICMS nº 125, de 16 de dezembro de 2011, que autoriza a exclusão da gorjeta da base de cálculo do ICMS incidente no forne
+- CONFAZ NOVO: convenio 9/2026: Altera o Convênio ICMS nº 52, de 25 de junho de 1992, que estende às Áreas de Livre Comércio dos Estados do Amapá, Roraima e Rondônia os benefícios do Convênio ICM 65/88, de 06.12.
+  - ↳ norma alterada rebaixada: convenio 52/1992
+  - ↳ norma alterada rebaixada: convenio 65/1988
+- CONFAZ NOVO: convenio 10/2026: Prorroga e altera o Convênio ICMS nº 52, de 26 de setembro de 1991, que concede redução da base de cálculo nas operações com equipamentos industriais e implementos agrícolas.
+  - ↳ norma alterada rebaixada: convenio 52/1991
+- CONFAZ NOVO: convenio 11/2026: Dispõe sobre a exclusão do Estado de São Paulo, prorroga e altera o Convênio ICMS nº 41, de 1º de abril de 2005, que autoriza as unidades federadas que especifica a conceder reduçã
+  - ↳ norma alterada rebaixada: convenio 41/2005
+- CONFAZ NOVO: convenio 12/2026: Dispõe sobre a exclusão do Estado de São Paulo e prorroga as disposições do Convênio ICMS nº 147, de 15 de dezembro de 1992, e do Convênio ICMS nº 13, de 29 de março de 1994.
+  - ↳ norma alterada rebaixada: convenio 13/1994
+- CONFAZ NOVO: convenio 14/2026: Prorroga e altera o Convênio ICMS nº 97, de 25 de setembro de 1992, que autoriza o Estado de Minas Gerais a reduzir a base de cálculo do ICMS nas saídas de pó de alumínio.
+- CONFAZ NOVO: convenio 15/2026: Prorroga e altera o Convênio ICMS nº 16, de 3 de abril de 2020, que autoriza o Estado de São Paulo a conceder redução na base de cálculo do ICMS nas saídas internas com mercadorias
+- CONFAZ NOVO: convenio 16/2026: Dispõe sobre a adesão do Estado do Acre e altera o Convênio ICMS nº 63, de 26 de julho de 2013, que autoriza o Estado do Amapá a conceder benefícios fiscais à indústria do segmento
+- CONFAZ NOVO: convenio 17/2026: Autoriza a concessão de redução da base de cálculo do ICMS nas saídas interestaduais de café conilon cru, em coco ou em grão destinadas a contribuinte do imposto.
+- CONFAZ NOVO: convenio 18/2026: Convalida a entrega de Anexos de Combustíveis em PDF, dispensa a cobrança de acréscimos legais e estabelece prazo para a compensação dos valores entre as unidades federadas, decorr
+- CONFAZ NOVO: convenio 19/2026: Dispõe sobre a exclusão do Estado de São Paulo, prorroga e altera o Convênio ICMS nº 1, de 6 de fevereiro de 2013, que autoriza a concessão de isenção do ICMS em operações com obra
+- CONFAZ NOVO: convenio 20/2026: Prorroga e altera o Convênio ICMS nº 153, de 10 de dezembro de 2004, que autoriza as unidades federadas a concederem benefícios fiscais na modalidade redução de base de cálculo do 
+- CONFAZ NOVO: convenio 21/2026: Prorroga as disposições de convênios ICMS que dispõem sobre benefícios fiscais e altera o Convênio ICMS nº 22, de 14 de abril de 2023.
+- CONFAZ NOVO: convenio 22/2026: Altera o Convênio ICMS nº 5, de 27 de janeiro de 2026, que autoriza a concessão de isenção do ICMS nas operações internas com cimento quando destinado a concessionárias de serviços
+  - ↳ norma alterada rebaixada: convenio 5/2026
+- CONFAZ NOVO: convenio 23/2026: Altera o Convênio ICMS nº 217, de 21 de dezembro de 2023, que autoriza o Estado de Goiás a remitir crédito tributário de pequeno valor inscrito em dívida ativa, reduzir juros e mul
+- CONFAZ NOVO: convenio 24/2026: Dispõe sobre a exclusão do Estado do Paraná e altera o Convênio ICMS nº 213, de 15 de dezembro de 2017, que dispõe sobre a substituição tributária nas operações com aparelhos celul
+  - ↳ norma alterada rebaixada: convenio 142/2018
+  - ↳ norma alterada rebaixada: convenio 213/2017
+- CONFAZ NOVO: convenio 25/2026: Prorroga as disposições do Convênio ICMS nº 151, de 3 de outubro de 2025, que autoriza a redução de juros e multas de débitos fiscais relacionados com o ICM e o ICMS, e convalida o
+- CONFAZ NOVO: convenio 26/2026: Dispõe sobre a adesão do Estado de Goiás e altera o Convênio ICMS nº 30, de 11 de abril de 2025, que autoriza a concessão de redução na base de cálculo do ICMS nas operações de ent
+- CONFAZ NOVO: convenio 27/2026: Autoriza a concessão de benefícios fiscais destinados aos estabelecimentos localizados nos municípios declarados em estado de calamidade pública, definidos por legislação estadual,
+- CONFAZ NOVO: convenio 28/2026: Autoriza a considerar atendidas as condicionantes de desoneração ou de redução de carga de tributos federais previstas nos convênios ICMS quando o não cumprimento decorra do dispos
+- CONFAZ NOVO: convenio 29/2026: Altera o Convênio ICMS nº 139, de 28 de novembro de 2018, que autoriza as unidades federadas que menciona a reduzir multas e demais acréscimos legais, e a conceder parcelamento de 
+- CONFAZ NOVO: convenio 30/2026: Altera o Convênio ICMS nº 79, de 2 de setembro de 2020, que autoriza as unidades federadas que menciona a dispensar ou reduzir juros, multas e demais acréscimos legais, mediante qu
+- CONFAZ NOVO: convenio 31/2026: Altera o Convênio ICMS n o 55, de 11 de abril de 2025, que autoriza a dispensa ou redução de juros, multas e demais acréscimos legais, mediante quitação ou parcelamento de débitos 
+- CONFAZ NOVO: convenio 32/2026: Dispõe sobre a adesão do Estado de Sergipe e altera o Convênio ICMS nº 194, de 8 de dezembro de 2023, que autoriza a concessão de isenção do ICMS nas operações interestaduais com v
+- CONFAZ NOVO: convenio 33/2026: Prorroga as disposições do Convênio ICMS nº 77, de 4 de julho de 2025, que autoriza a concessão de isenção do ICMS, nas operações internas e em relação à diferença entre as alíquot
+- CONFAZ NOVO: convenio 34/2026: Revigora e prorroga as disposições do Convênio ICMS nº 139, de 3 de setembro de 2021, que autoriza o Estado de Minas Gerais a conceder crédito presumido do ICMS equivalente ao mont
+- CONFAZ NOVO: convenio 35/2026: Altera o Convênio ICMS nº 35, de 11 de abril de 2025, que autoriza a instituição de programa de recuperação de créditos tributários, na forma que especifica.
+  - ↳ norma alterada rebaixada: convenio 35/2025
+- CONFAZ NOVO: convenio 36/2026: Dispõe sobre a adesão do Estado do Acre e altera o Convênio ICMS nº 19, de 25 de abril de 2024, que autoriza as unidades federadas que menciona a conceder redução da base de cálcul
+- CONFAZ NOVO: convenio 37/2026: Autoriza a concessão de isenção de ICMS nas aquisições e operações realizadas pela Fundação Butantan.
+- CONFAZ NOVO: convenio 38/2026: Autoriza a concessão de remissão e anistia do ICMS e demais acréscimos, conforme o caso, na forma que especifica.
+- CONFAZ NOVO: convenio 39/2026: Altera o Convênio ICMS nº 199, de 22 de dezembro de 2022, e o Convênio ICMS nº 15, de 31 de março de 2023.
+  - ↳ norma alterada rebaixada: convenio 15/2023
+  - ↳ norma alterada rebaixada: convenio 199/2022
+- CONFAZ NOVO: convenio 40/2026: Altera o Convênio ICMS nº 219, de 21 de dezembro de 2023, que autoriza os Estados e o Distrito Federal a conceder suspensão do ICMS nas operações de remessas para estocagem subterr
+- CONFAZ NOVO: convenio 41/2026: Altera o Convênio ICMS nº 214, de 21 de dezembro de 2023, que autoriza o Estado da Paraíba a conceder isenção do ICMS, nas operações internas e em relação à diferença entre as alíq
+- CONFAZ NOVO: convenio 42/2026: Altera o Convênio ICMS n° 168, de 5 de dezembro de 2025, que autoriza a concessão de remissão e anistia em relação a créditos tributários vinculados ao ICMS nas hipóteses e condiçõ
+- CONFAZ NOVO: convenio 43/2026: Dispõe sobre a adesão dos Estados do Maranhão e Paraná e altera o Convênio ICMS nº 149, de 1º de outubro de 2021, que autoriza as unidades federadas que menciona a conceder crédito
+- CONFAZ NOVO: convenio 44/2026: Autoriza a instituição de transação administrativa nos termos que especifica.
+- CONFAZ NOVO: convenio 45/2026: Autoriza a concessão de anistia ou remissão do crédito tributário relativo ao ICMS, decorrente da complementação da diferença da alíquota interna, referente ao estoque de mercadori
+- CONFAZ NOVO: convenio 46/2026: Dispõe sobre a adesão do Estado do Paraná à cláusula primeira e altera o Convênio ICMS nº 139, de 3 de setembro de 2021, que autoriza o Estado de Minas Gerais a conceder crédito pr
+- CONFAZ NOVO: convenio 47/2026: Dispõe sobre a adesão do Estado de Alagoas e altera o Convênio ICMS nº 95, de 25 de agosto de 2017, que autoriza o Estado de Santa Catarina a conceder remissão de créditos tributár
+- CONFAZ NOVO: convenio 48/2026: Altera o Convênio ICMS nº 16, de 3 de abril de 2020, que autoriza o Estado de São Paulo a conceder redução na base de cálculo do ICMS nas saídas internas com mercadorias de cobre, 
+  - ↳ norma alterada rebaixada: convenio 15/2026
+- CONFAZ NOVO: convenio 49/2026: Altera o Convênio ICMS nº 17, de 5 de abril de 2013, que dispõe sobre concessão de regime especial na cessão de meios de rede entre empresas de telecomunicação.
+  - ↳ norma alterada rebaixada: convenio 17/2013
+- CONFAZ NOVO: convenio 50/2026: Altera o Convênio ICMS nº 49, de 25 de abril de 2024, que autoriza os Estados e o Distrito Federal a conceder regime especial aos estabelecimentos que exerçam como atividade econôm
+- CONFAZ NOVO: convenio 51/2026: Exclui as operações destinadas ao Estado de São Paulo do Convênio ICMS nº 45, de 23 de julho de 1999, que autoriza os Estados e o Distrito Federal a estabelecer o regime de substit
+  - ↳ norma alterada rebaixada: convenio 45/1999
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: convenio 52/2026: Altera o Convênio ICMS nº 83, de 15 de dezembro de 2000, que dispõe sobre o regime de substituição tributária nas operações interestaduais com energia elétrica não destinada à come
+  - ↳ norma alterada rebaixada: convenio 83/2000
+- CONFAZ NOVO: convenio 53/2026: Autoriza a concessão de isenção do ICMS incidente sobre a diferença entre as alíquotas interna e interestadual nas operações de doação de mercadorias destinadas ao atendimento da s
+- CONFAZ NOVO: convenio 54/2026: Altera o Convênio ICMS nº 161, de 5 de dezembro de 2025, que autoriza a concessão de isenção do ICMS nas operações com medicamento destinado a tratamento de distrofia muscular de D
+- CONFAZ NOVO: convenio 55/2026: Dispõe sobre a adesão do Estado do Espírito Santo e altera o Convênio ICMS nº 44, de 6 de abril de 2026, que autoriza a instituição de transação administrativa nos termos que espec
+  - ↳ norma alterada rebaixada: convenio 44/2026
+- CONFAZ NOVO: convenio 56/2026: Altera o Convênio ICMS nº 139, de 28 de novembro de 2018, que autoriza as unidades federadas que menciona a reduzir multas e demais acréscimos legais, e a conceder parcelamento de 
+- CONFAZ NOVO: convenio 57/2026: Altera o Convênio ICMS nº 210, de 8 de dezembro de 2023, que autoriza as unidades federadas que menciona a instituir transação nos termos que especifica.
+- CONFAZ NOVO: convenio 58/2026: Dispõe sobre a adesão do Estado do Pará e altera o Convênio ICMS nº 44, de 6 de abril de 2026, que autoriza a instituição de transação administrativa nos termos que especifica.
+  - ↳ norma alterada rebaixada: convenio 44/2026
+- CONFAZ NOVO: convenio 59/2026: Altera o Convênio ICMS nº 35, de 11 de abril de 2025, que autoriza a instituição de programa de recuperação de créditos tributários, na forma que especifica.
+  - ↳ norma alterada rebaixada: convenio 35/2025
+- CONFAZ NOVO: convenio 60/2026: Autoriza a concessão de ampliação do prazo de pagamento do ICMS nas condições que especifica.
+- CONFAZ NOVO: convenio 61/2026: Altera o Convênio ICMS nº 143, de 24 de setembro de 2010, que autoriza as unidades federadas que menciona a isentar o ICMS devido na operação relativa à saída de gênero alimentício
+- CONFAZ NOVO: convenio 62/2026: Autoriza a concessão de anistia de créditos tributários relativos ao ICMS, decorrentes de multas moratórias provenientes de instabilidade técnica nos sistemas de arrecadação.
+- CONFAZ NOVO: convenio 63/2026: Altera o Convênio ICMS nº 87, de 9 de julho de 2010, que autoriza o Estado de São Paulo a conceder isenção do ICMS incidente nas prestações de serviço de transporte ferroviário de 
+- CONFAZ NOVO: convenio 64/2026: Altera o Convênio ICMS nº 170, de 20 de outubro de 2023, que autoriza as unidades federadas que menciona a conceder isenção de ICMS nas operações interestaduais com gado bovino des
+- CONFAZ NOVO: convenio 65/2026: Autoriza a concessão de isenção e anistia do ICMS nas operações com o produto "colorau" ou "coloral".
+- CONFAZ NOVO: convenio 66/2026: Altera o Convênio ICMS n° 102, de 8 de julho de 2021, que autoriza as unidades federadas que menciona a conceder isenção do ICMS nas saídas internas promovidas por produtores enqua
+- CONFAZ NOVO: convenio 67/2026: Altera o Convênio ICMS nº 199, de 22 de dezembro de 2022, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com combustíveis nos termos da Lei
+  - ↳ norma alterada rebaixada: convenio 199/2022
+- CONFAZ NOVO: convenio 68/2026: Altera o Convênio ICMS nº 15, de 31 de março de 2023, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com gasolina e etanol anidro combustív
+  - ↳ norma alterada rebaixada: convenio 15/2023
+- CONFAZ NOVO: convenio 69/2026: Dispõe sobre a adesão do Estado do Amapá e altera o Convênio ICMS nº 54, de 16 de maio de 2007, que autoriza as unidades da Federação que menciona a conceder isenção do ICMS no for
+- CONFAZ NOVO: convenio 70/2026: Altera o Convênio ICMS nº 113, de 11 de julho de 2022, que autoriza o Estado de Alagoas a reduzir juros, multas e demais acréscimos legais, em relação a débitos fiscais referentes 
+- CONFAZ NOVO: convenio 71/2026: Altera o Convênio ICMS nº 55, de 11 de abril de 2025, que autoriza a dispensa ou redução de juros, multas e demais acréscimos legais, mediante quitação ou parcelamento de débitos f
+- CONFAZ NOVO: convenio 72/2026: Altera o Convênio ICMS nº 172, de 23 de novembro de 2017, que autoriza ao Estado de Alagoas a reduzir multas e demais acréscimos legais mediante parcelamento de débitos fiscais rel
+- CONFAZ NOVO: convenio 73/2026: Altera o Convênio ICMS n° 82, de 4 de julho de 2025, que autoriza a instituição do Programa de Recuperação de Créditos Fiscais - REFIS, com a finalidade de regularizar créditos, co
+- CONFAZ NOVO: convenio 74/2026: Autoriza a isenção do ICMS nas operações de saídas internas de lenha e tora de eucalipto e cavaco de bambu realizadas por produtor rural, bem como, a conceder remissão e anistia, n
+- CONFAZ NOVO: convenio 75/2026: Autoriza a concessão de remissão e anistia do ICMS e demais acréscimos, conforme o caso, na forma que especifica.
+- CONFAZ NOVO: convenio 76/2026: Autoriza a concessão de isenção de ICMS nas operações internas e na importação, em doação, de mercadorias e bens destinados ao Centro Regional Integrado de Oncologia – CRIO, para f
+- CONFAZ NOVO: convenio 77/2026: Autoriza a concessão de isenção do ICMS incidente nas prestações de serviço de transporte intermunicipal realizado por meio de balsa na travessia de veículos e passageiros no trech
+- CONFAZ NOVO: convenio 78/2026: Dispõe sobre a adesão do Estado de Mato Grosso do Sul e altera o Convênio ICMS nº 85, de 30 de setembro de 2011, que autoriza os Estados que menciona a conceder crédito outorgado d
+  - ↳ norma alterada rebaixada: convenio 85/2011
+- CONFAZ NOVO: convenio 79/2026: Autoriza a concessão de isenção do ICMS nas operações internas relativas às aquisições de armas e munições por órgãos da Administração Pública Direta de Municípios Paulistas e suas
+- CONFAZ NOVO: convenio 80/2026: Altera o Convênio ICMS nº 4, de 27 de janeiro de 2026, que concede isenção e suspensão do ICMS nas operações e prestações relacionadas com a Copa do Mundo Feminina da FIFA 2027, e 
+  - ↳ norma alterada rebaixada: convenio 4/2026
+- CONFAZ NOVO: convenio 81/2026: Altera o Convênio ICMS nº 113, de 10 de dezembro de 2004, que dispõe sobre procedimentos a serem observados pelos prestadores de serviços de comunicação.
+  - ↳ norma alterada rebaixada: convenio 113/2004
+- CONFAZ NOVO: convenio 82/2026: Altera o Convênio ICMS nº 33, de 11 de abril de 2025, que autoriza a concessão de remissão e anistia dos créditos tributários relativos ao ICMS, na forma que especifica.
+- CONFAZ NOVO: convenio 83/2026: Altera o Convênio ICMS nº 41, de 25 de abril de 2024, que autoriza o Estado de Pernambuco a conceder isenção de ICMS nas operações interestaduais com leite em estado natural, nas c
+- CONFAZ NOVO: convenio 84/2026: Autoriza a redução de juros e multas mediante quitação ou parcelamento de débitos fiscais relacionados ao ICM e ao ICMS, na forma que especifica.
+- CONFAZ NOVO: convenio 85/2026: Altera o Convênio ICMS nº 79, de 2 de setembro de 2020, que autoriza as unidades federadas que menciona a dispensar ou reduzir juros, multas e demais acréscimos legais, mediante qu
+- CONFAZ NOVO: convenio 86/2026: Altera o Convênio ICMS nº 139, de 28 de novembro de 2018, que autoriza as unidades federadas que menciona a reduzir multas e demais acréscimos legais, e a conceder parcelamento de 
+- CONFAZ NOVO: convenio 87/2026: Altera o Convênio ICMS nº 6, de 3 de abril de 2009, que reduz a base de cálculo do ICMS nas operações interestaduais com os produtos classificados nas posições 40.11 - PNEUMÁTICOS 
+- CONFAZ NOVO: convenio 88/2026: Altera o Convênio ICMS nº 34, de 7 de julho de 2006, que dispõe sobre a dedução da parcela das contribuições para o PIS/PASEP e a COFINS, referente às operações subsequentes, da ba
+  - ↳ norma alterada rebaixada: convenio 34/2006
+- CONFAZ NOVO: convenio 89/2026: Exclui o Estado de São Paulo e altera o Convênio ICMS nº 118, de 29 de setembro de 2017, que dispõe sobre a substituição tributária nas operações com tintas e vernizes relacionados
+  - ↳ norma alterada rebaixada: convenio 142/2018
+  - ↳ norma alterada rebaixada: convenio 118/2017
+- CONFAZ NOVO: convenio 90/2026: Exclui o Estado de São Paulo e altera o Convênio ICMS nº 102, de 29 de setembro de 2017, que dispõe sobre a substituição tributária nas operações com pneumáticos, câmaras de ar e p
+  - ↳ norma alterada rebaixada: convenio 102/2017
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: convenio 91/2026: Altera o Convênio ICMS16/26 nº 217, de 21 de dezembro de 2023, que autoriza o Estado de Goiás a remitir crédito tributário de pequeno valor inscrito em dívida ativa, reduzir juros 
+  - ↳ norma alterada rebaixada: convenio 16/2026
+- CONFAZ NOVO: convenio 92/2026: Autoriza a dispensa de juros e multas mediante pagamento à vista de débitos fiscais relacionados com o ICMS.
+- CONFAZ NOVO: convenio 93/2026: Autoriza a concessão de crédito presumido nas operações com óleo diesel marítimo (NCM 2710.19.2, CEST 06.006.08).
+- CONFAZ NOVO: convenio 94/2026: Autoriza a convalidação de procedimentos e altera o prazo para pagamento do imposto previsto nos Convênios ICMS nº 110, de 28 de setembro de 2007, nº 199, de 22 de dezembro de 2022
+- CONFAZ NOVO: convenio 95/2026: Altera o Convênio ICMS nº 113, de 11 de julho de 2022, que autoriza o Estado de Alagoas a reduzir juros, multas e demais acréscimos legais, em relação a débitos fiscais referentes 
+- CONFAZ NOVO: convenio 96/2026: Altera o Convênio ICMS nº 79, de 2 de setembro de 2020, que autoriza as unidades federadas que menciona a dispensar ou reduzir juros, multas e demais acréscimos legais, mediante qu
+- CONFAZ NOVO: convenio 97/2026: Altera o Convênio ICMS nº 121, de 11 de novembro de 2016, que autoriza o Estado de Alagoas a instituir programa de parcelamento e a reduzir débitos do ICMS de microempresa (ME) ou 
+- CONFAZ NOVO: convenio 98/2026: Dispõe sobre a adesão do Distrito Federal e altera o Convênio ICMS nº 217, de 21 de dezembro de 2023, que autoriza o Estado de Goiás a remitir crédito tributário de pequeno valor i
+- CONFAZ NOVO: convenio 99/2026: Altera o Convênio ICMS nº 82, de 13 de julho de 2023, que autoriza o Estado do Amapá a dispensar ou reduzir juros, multas e demais acréscimos legais, mediante quitação ou parcelame
+- CONFAZ NOVO: convenio 100/2026: Autoriza a concessão de isenção do ICMS nas saídas de fármacos e medicamentos fabricados por Laboratórios Públicos Oficiais e destinados a órgãos da Administração Pública.
+- CONFAZ NOVO: convenio 101/2026: Altera o Convênio ICMS nº 194, de 8 de dezembro de 2023, que autoriza a concessão de isenção do ICMS nas operações interestaduais com vans, micro-ônibus e ônibus, novos, relativame
+- CONFAZ NOVO: convenio 102/2026: Autoriza a concessão de isenção de ICMS na importação de equipamento "Flying Theater (o-Ride)", destinado à empresa Iter Participações S.A.
+- CONFAZ NOVO: convenio 103/2026: Altera e prorroga o Convênio ICMS nº 79, de 1º de julho de 2005, que concede isenção do ICMS às operações destinadas aos Programas de Fortalecimento e Modernização das Áreas de Ges
+  - ↳ norma alterada rebaixada: convenio 79/2005
+- CONFAZ NOVO: convenio 104/2026: Autoriza a concessão de isenção do ICMS nas operações internas com areia, piçarra, barro e saibro promovidas pelo extrator e destinadas a empresas de construção civil cuja atividad
+- CONFAZ NOVO: convenio 105/2026: Altera o Convênio ICMS nº 93, de 4 de julho de 2025, que autoriza a concessão de crédito presumido de ICMS correspondente aos valores destinados pelos contribuintes a hospitais fil
+- CONFAZ NOVO: convenio 106/2026: Altera o Convênio ICMS nº 73, de 15 de julho de 2011, que autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações internas e em relação ao diferencial 
+- CONFAZ NOVO: convenio 107/2026: Altera o Convênio ICMS nº 142, de 14 de dezembro de 2018, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativ
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: convenio 108/2026: Altera o Convênio ICMS nº 110, de 28 de setembro de 2007, que dispõe sobre o regime de substituição tributária do Imposto sobre Operações relativas à Circulação de Mercadorias e so
+  - ↳ norma alterada rebaixada: convenio 110/2007
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: convenio 109/2026: Altera o Convênio ICMS nº 32, de 14 de abril de 2023, que autoriza o Estado de Mato Grosso a conceder anistia e remissão do ICMS, na forma que especifica.
+- CONFAZ NOVO: convenio 110/2026: Dispõe sobre a adesão do Estado do Pará e altera o Convênio ICMS nº 66, de 30 de junho de 1994, que autoriza os Estados do Acre, Amazonas e Rondônia a conceder isenção do ICMS nas 
+- CONFAZ NOVO: convenio 111/2026: Autoriza a concessão de remissão e instituição de programa de anistia e de parcelamento de débitos tributários relativos ao ICMS na forma que especifica.
+- CONFAZ NOVO: convenio 112/2026: "> CONVÊNIO ICMS Nº 112, DE 23 DE SETEMBRO DE 2026 Publicado no DOU de 24.09.2026 Altera o Convênio ICMS nº 7, de 13 de março de 2019, que autoriza os Estados que menciona a conced
+- CONFAZ NOVO: convenio 113/2026: "> CONVÊNIO ICMS Nº 113, DE 23 DE SETEMBRO DE 2026 Publicado no DOU de 24.09.2026 Dispõe sobre a adesão do Estado de Santa Catarina e altera o Convênio ICMS nº 79, de 3 de julho de
+  - ↳ norma alterada rebaixada: convenio 79/2026
+- CONFAZ NOVO: convenio 114/2026: Autoriza a redução de juros e multas e a remissão parcial do imposto, na forma que especifica.
+- CONFAZ NOVO: protocolo 1/2026: Dispõe sobre a remessa de café em grão cru, produzido no Estado do Acre, para o Estado de Rondônia, destinado exclusivamente à prestação dos serviços de limpeza, secagem, beneficia
+- CONFAZ NOVO: protocolo 2/2026: Revoga o Protocolo ICMS nº 70, de 30 de setembro de 2011, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 3/2026: Exclui o Estado do Paraná e altera o Protocolo ICMS nº 192, de 11 de dezembro de 2009, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroelet
+- CONFAZ NOVO: protocolo 4/2026: "> PROTOCOLO ICMS Nº 4, DE 2 DE JANEIRO DE 2026 Publicado no DOU de 05.01.26, pelo Despacho 01/26. Revigora e prorroga o Protocolo ICMS nº 44, de 12 de dezembro de 2024, que dispõe
+- CONFAZ NOVO: protocolo 5/2026: Altera o Protocolo ICMS nº 64, de 18 de setembro de 2015, que dispõe sobre remessas de petróleo bruto, combustíveis derivados de petróleo e nafta petroquímica para formação de lote
+- CONFAZ NOVO: protocolo 6/2026: Altera o Protocolo ICMS nº 103, de 16 de agosto de 2012, que dispõe sobre a substituição tributária nas operações com bebidas quentes.
+  - ↳ norma alterada rebaixada: protocolo 103/2012
+- CONFAZ NOVO: protocolo 7/2026: Prorroga as disposições do Protocolo ICMS nº 23, de 8 de abril de 2016, que dispõe sobre as operações realizadas por estabelecimentos industriais localizados na Zona Franca de Mana
+- CONFAZ NOVO: protocolo 8/2026: Altera o Protocolo ICMS nº 28, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 9/2026: Altera o Protocolo ICMS nº 45, de 5 de abril de 2013, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 10/2026: Altera o Protocolo ICMS nº 108, de 11 de outubro de 2013, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 11/2026: Altera o Protocolo ICMS nº 114, de 16 de dezembro de 2011, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 12/2026: Altera o Protocolo ICMS nº 119, de 3 de setembro de 2012, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 13/2026: Altera o Protocolo ICMS nº 175, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 14/2026: Altera o Protocolo ICMS nº 217, de 18 de dezembro de 2012, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 15/2026: Revoga o Protocolo ICMS nº 7, de 5 de março de 2008, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de toucador.
+- CONFAZ NOVO: protocolo 16/2026: Revoga o Protocolo ICMS nº 10, de 5 de março de 2008, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de toucador.
+- CONFAZ NOVO: protocolo 17/2026: Revoga o Protocolo ICMS nº 12, de 23 de abril de 2007, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de toucador
+- CONFAZ NOVO: protocolo 18/2026: Revoga o Protocolo ICMS nº 36, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de toucador.
+- CONFAZ NOVO: protocolo 19/2026: Revoga o Protocolo ICMS nº 55, de 11 de agosto de 2011, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de toucado
+- CONFAZ NOVO: protocolo 20/2026: Revoga o Protocolo ICMS nº 95, de 30 de setembro de 2008, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de touca
+- CONFAZ NOVO: protocolo 21/2026: Revoga o Protocolo ICMS nº 104, de 24 de agosto de 2012, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de toucad
+- CONFAZ NOVO: protocolo 22/2026: Revoga o Protocolo ICMS nº 106, de 16 de novembro de 2008, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de touc
+- CONFAZ NOVO: protocolo 23/2026: Revoga o Protocolo ICMS nº 164, de 24 de setembro de 2010, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de touc
+- CONFAZ NOVO: protocolo 24/2026: Revoga o Protocolo ICMS nº 215, de 18 de dezembro de 2012, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de touc
+- CONFAZ NOVO: protocolo 25/2026: Revoga o Protocolo ICMS nº 98, de 23 de julho de 2009, que dispõe sobre a substituição tributária nas operações com cosméticos, perfumaria, artigos de higiene pessoal e de toucador
+- CONFAZ NOVO: protocolo 26/2026: Altera o Protocolo ICMS nº 64, de 18 de setembro de 2015, que dispõe sobre remessas de petróleo bruto, combustíveis derivados de petróleo e nafta petroquímica para formação de lote
+- CONFAZ NOVO: protocolo 27/2026: Altera o Protocolo ICMS nº 14, de 8 de abril de 2016, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 28/2026: Altera o Protocolo ICMS nº 175, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 29/2026: Altera o Protocolo ICMS nº 64, de 18 de setembro de 2015, que dispõe sobre remessas de petróleo bruto, combustíveis derivados de petróleo e nafta petroquímica para formação de lote
+- CONFAZ NOVO: protocolo 30/2026: Altera o Protocolo ICMS nº 54, de 29 de dezembro de 2017, que dispõe sobre a substituição tributária nas operações com produtos de perfumaria e de higiene pessoal e cosméticos rela
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 31/2026: Altera o Protocolo ICM nº 16, de 25 de julho de 1985, que dispõe sobre a substituição tributária nas operações com lâmina de barbear, aparelho de barbear descartável e isqueiro.
+  - ↳ norma alterada rebaixada: protocolo 16/1985
+- CONFAZ NOVO: protocolo 32/2026: Revigora e prorroga o Protocolo ICMS nº 80, de 28 de dezembro de 2015, que dispõe sobre as operações com insumos e aves, promovidas entre estabelecimentos abatedores e produtores q
+- CONFAZ NOVO: protocolo 33/2026: Altera o Protocolo ICMS nº 13, de 7 de julho de 2006, que dispõe sobre a substituição tributária nas operações com vinhos e sidras.
+  - ↳ norma alterada rebaixada: protocolo 13/2006
+- CONFAZ NOVO: protocolo 34/2026: Altera o Protocolo ICMS nº 14, de 7 de julho de 2006, que dispõe sobre a substituição tributária nas operações com bebidas quentes.
+  - ↳ norma alterada rebaixada: protocolo 14/2006
+- CONFAZ NOVO: protocolo 35/2026: Altera o Protocolo ICMS nº 188, de 11 de dezembro de 2009, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+- CONFAZ NOVO: protocolo 36/2026: Dispõe sobre a exclusão do Distrito Federal e altera o Protocolo ICMS 54, de 29 de dezembro de 2017, que dispõe sobre a substituição tributária nas operações com produtos de perfum
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 37/2026: Prorroga e altera as disposições do Protocolo ICMS nº 76, de 30 de setembro de 2011, que dispõe sobre as operações realizadas por estabelecimentos industriais localizados na Zona F
+- CONFAZ NOVO: protocolo 38/2026: Revigora e prorroga o Protocolo ICMS nº 86, de 14 de dezembro de 2022, que dispõe sobre a suspensão do recolhimento do ICMS na remessa interestadual de mercadorias para armazém ger
+- CONFAZ NOVO: protocolo 39/2026: Altera o Protocolo ICMS nº 64, de 14 de dezembro de 2021, que dispõe sobre procedimentos nas operações interestaduais com cana-de-açúcar entre os Estados de Minas Gerais e São Paul
+- CONFAZ NOVO: protocolo 40/2026: Dispõe sobre a exclusão do Estado de São Paulo do Protocolo ICMS nº 20, de 1º de julho de 2005, que dispõe sobre a substituição tributária nas operações com sorvetes e com preparad
+- CONFAZ NOVO: protocolo 41/2026: Altera o Protocolo ICMS nº 32, de 17 de julho de 2014, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 42/2026: Altera o Protocolo ICMS nº 11, de 21 de maio de 1991, que dispõe sobre a substituição tributária nas operações com cerveja, refrigerantes, água mineral ou potável e gelo.
+  - ↳ norma alterada rebaixada: protocolo 11/1991
+- CONFAZ NOVO: protocolo 43/2026: Altera o Protocolo ICMS nº 104, de 10 de agosto de 2009, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 44/2026: Altera o Protocolo ICMS nº 104, de 16 de outubro de 2008, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 45/2026: Altera o Protocolo ICMS nº 92, de 23 de julho de 2009, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 46/2026: Altera o Protocolo ICMS nº 128, de 16 de agosto de 2010, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 47/2026: Altera o Protocolo ICMS nº 60, de 11 de agosto de 2011, que dispõe sobre a substituição tributária nas operações com materiais de construção e congêneres.
+- CONFAZ NOVO: protocolo 48/2026: Revoga o Protocolo ICMS nº 40, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com produtos de papelaria.
+- CONFAZ NOVO: protocolo 49/2026: Revoga o Protocolo ICMS nº 174, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com artigos de papelaria.
+- CONFAZ NOVO: protocolo 50/2026: Revoga o Protocolo ICMS nº 12, de 20 de abril de 2017, que dispõe sobre a substituição tributária nas operações com produtos de papelaria.
+- CONFAZ NOVO: protocolo 51/2026: Revoga o Protocolo ICMS nº 109, de 10 de agosto de 2009, que dispõe sobre a substituição tributária nas operações com artigos de papelaria.
+- CONFAZ NOVO: protocolo 52/2026: Revoga o Protocolo ICMS nº 135, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com artigos de papelaria.
+- CONFAZ NOVO: protocolo 53/2026: Altera o Protocolo ICMS nº 71, de 30 de setembro de 2011, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 54/2026: Altera o Protocolo ICMS nº 92, de 23 de julho de 2009, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 55/2026: Altera o Protocolo ICMS nº 60, de 11 de agosto de 2011, que dispõe sobre a substituição tributária nas operações com materiais de construção e congêneres.
+- CONFAZ NOVO: protocolo 56/2026: Altera o Protocolo ICMS nº 32, de 17 de julho de 2014, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 57/2026: Altera o Protocolo ICMS nº 104, de 16 de outubro de 2008, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 58/2026: Altera o Protocolo ICMS nº 128, de 16 de agosto de 2010, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 59/2026: Altera o Protocolo ICMS nº 8, de 5 de março de 2008, que dispõe sobre substituição tributária nas operações com produtos eletrodomésticos, eletroeletrônicos e equipamentos de infor
+- CONFAZ NOVO: protocolo 60/2026: Altera o Protocolo ICMS nº 104, de 10 de agosto de 2009, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 61/2026: Altera o Protocolo ICMS nº 15, de 23 de abril de 2007, que dispõe sobre a substituição tributária nas operações com produtos eletrodomésticos, eletroeletrônicos e equipamentos de i
+- CONFAZ NOVO: protocolo 62/2026: Altera o Protocolo ICMS nº 31, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 63/2026: Altera o Protocolo ICMS nº 57, de 11 de agosto de 2011, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 64/2026: Altera o Protocolo ICMS nº 136, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 65/2026: Altera o Protocolo ICMS nº 171, de 6 de dezembro de 2013, que dispõe sobre substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 66/2026: Revoga o Protocolo ICMS nº 27, de 13 de março de 2013, que dispõe sobre a substituição tributária nas operações com máquinas e aparelhos mecânicos, elétricos, eletromecânicos e aut
+- CONFAZ NOVO: protocolo 67/2026: Revoga o Protocolo ICMS nº 30, de 17 de julho de 2014, que dispõe sobre a substituição tributária nas operações com máquinas e aparelhos mecânicos, elétricos, eletromecânicos e aut
+- CONFAZ NOVO: protocolo 68/2026: Revoga o Protocolo ICMS nº 159, de 1º de outubro de 2009, que dispõe sobre a substituição tributária nas operações com máquinas e aparelhos mecânicos, elétricos, eletromecânicos e 
+- CONFAZ NOVO: protocolo 69/2026: Revoga o Protocolo ICMS nº 173, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com máquinas e aparelhos mecânicos e altera o Protocolo ICMS nº 1
+- CONFAZ NOVO: protocolo 70/2026: Revoga o Protocolo ICMS nº 12, de 5 de março de 2008, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio ICMS 1
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 71/2026: Revoga o Protocolo ICMS nº 23, de 23 de abril de 2014, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio ICMS 
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 72/2026: Revoga o Protocolo ICMS nº 28, de 27 de junho de 2014, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio ICMS 
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 73/2026: Revoga o Protocolo ICMS nº 33, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio ICMS 1
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 74/2026: Revoga o Protocolo ICMS nº 34, de 17 de julho de 2014, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio ICMS 
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 75/2026: Altera o Protocolo ICMS nº 32, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 76/2026: Altera o Protocolo ICMS nº 25, de 1º de abril de 2011, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 77/2026: Altera o Protocolo ICMS nº 20, de 20 de fevereiro de 2013, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+- CONFAZ NOVO: protocolo 78/2026: Altera o Protocolo ICMS nº 11, de 5 de março de 2008, que dispõe sobre a substituição tributária nas operações com materiais de construção que especifica.
+- CONFAZ NOVO: protocolo 79/2026: Exclui o Estado de São Paulo do Protocolo ICMS nº 26, de 18 de junho de 2004, que dispõe sobre a substituição tributária nas operações com rações para animais domésticos.
+  - ↳ norma alterada rebaixada: protocolo 26/2004
+- CONFAZ NOVO: protocolo 80/2026: Revoga o Protocolo ICMS nº 216, de 18 de dezembro de 2012, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio I
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 81/2026: Revoga o Protocolo ICMS nº 105, de 16 de novembro de 2008, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio I
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 82/2026: "> PROTOCOLO ICMS Nº 82, DE 1º DE JULHO DE 2026 Publicado no DOU de 06.07.26, pelo Despacho 27/26 . Revoga o Protocolo ICMS nº 58, de 11 de agosto de 2011, que dispõe sobre a subst
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 83/2026: Dispõe sobre remessas de produtos agrícolas, com suspensão do ICMS, para depósito nos Estados do Mato Grosso do Sul e de São Paulo.
+- CONFAZ NOVO: protocolo 84/2026: Altera o Protocolo ICMS nº 40, de 1º de julho de 2019, que estabelece procedimentos diferenciados para a emissão do Conhecimento de Transporte Eletrônico - CT-e - relativo à presta
+- CONFAZ NOVO: protocolo 85/2026: Dispõe sobre a suspensão do ICMS nas remessas de ovinos do Piauí para industrialização no Estado de Pernambuco e respectivo retorno dos produtos industrializados.
+- CONFAZ NOVO: protocolo 86/2026: Altera o Protocolo ICMS n° 27, de 10 de julho de 2024, que dispõe sobre a operação de remessa para industrialização antecipada de chassis de ônibus, de micro-ônibus e de caminhões 
+- CONFAZ NOVO: protocolo 87/2026: Altera o Protocolo ICM nº 11, de 27 de junho de 1985, que dispõe sobre a substituição tributária nas operações com cimento de qualquer espécie.
+  - ↳ norma alterada rebaixada: protocolo 11/1985
+- CONFAZ NOVO: protocolo 88/2026: Revoga o Protocolo ICMS nº 100, de 14 de dezembro de 2007, que dispõe sobre a substituição tributária nas operações com rações tipo "pet" para animais domésticos.
+- CONFAZ NOVO: protocolo 89/2026: Exclui o Estado de São Paulo do Protocolo ICM nº 16, de 25 de julho de 1985, que dispõe sobre a substituição tributária nas operações com lâmina de barbear, aparelho de barbear des
+  - ↳ norma alterada rebaixada: protocolo 16/1985
+- CONFAZ NOVO: protocolo 90/2026: Dispõe sobre a adesão dos Estados do Rio Grande do Sul e Santa Catarina e altera o Protocolo ICMS nº 64, de 18 de setembro de 2015, que dispõe sobre remessas de petróleo bruto, com
+- CONFAZ NOVO: protocolo 91/2026: Revoga o Protocolo ICMS nº 30, de 31 de março de 2026, que altera o Protocolo ICMS nº 54, de 29 de dezembro de 2017, que dispõe sobre a substituição tributária nas operações com pr
+  - ↳ norma alterada rebaixada: protocolo 30/2026
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: protocolo 92/2026: Revoga o Protocolo ICMS nº 22, de 1º de abril de 2011, que dispõe sobre a substituição tributária nas operações com materiais elétricos.
+- CONFAZ NOVO: protocolo 93/2026: Exclui o Estado de São Paulo e altera o Protocolo ICMS nº 41, de 4 de abril de 2008, que dispõe sobre a substituição tributária nas operações interestaduais com autopeças.
+  - ↳ norma alterada rebaixada: protocolo 41/2008
+- CONFAZ NOVO: protocolo 94/2026: Revoga o Protocolo ICMS nº 22, de 14 de março de 2008, que dispõe sobre a substituição tributária nas operações com peças, componentes e acessórios, para autopropulsados e outros f
+- CONFAZ NOVO: protocolo 95/2026: Revoga o Protocolo ICMS nº 26, de 13 de março de 2013, que dispõe sobre a substituição tributária nas operações com materiais elétricos.
+- CONFAZ NOVO: protocolo 96/2026: Revoga o Protocolo ICMS nº 129, de 16 de agosto de 2010, que dispõe sobre a substituição tributária nas operações interestaduais com autopeças.
+- CONFAZ NOVO: protocolo 97/2026: Revoga o Protocolo ICMS nº 33, de 17 de julho de 2014, que dispõe sobre a substituição tributária nas operações com materiais elétricos.
+- CONFAZ NOVO: protocolo 98/2026: Altera o Protocolo ICMS nº 8, de 5 de março de 2008, que dispõe sobre a substituição tributária nas operações com produtos eletrodomésticos, eletroeletrônicos e equipamentos de inf
+- CONFAZ NOVO: protocolo 99/2026: Altera o Protocolo ICMS nº 15, de 23 de abril de 2007, que dispõe sobre a substituição tributária nas operações com produtos eletrodomésticos, eletroeletrônicos e equipamentos de i
+- CONFAZ NOVO: protocolo 100/2026: Revoga o Protocolo ICMS nº 39, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com materiais elétricos.
+- CONFAZ NOVO: protocolo 101/2026: Altera o Protocolo ICMS nº 31, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 102/2026: Altera o Protocolo ICMS nº 57, de 11 de agosto de 2011, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 103/2026: Revoga o Protocolo ICMS nº 94, de 16 de dezembro de 2011, que dispõe sobre a substituição tributária nas operações com materiais elétricos.
+  - ↳ norma alterada rebaixada: protocolo 94/2011
+- CONFAZ NOVO: protocolo 104/2026: Altera o Protocolo ICMS nº 136, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 105/2026: Revoga o Protocolo ICMS nº 113, 16 de dezembro de 2011, que dispõe sobre a substituição tributária nas operações com materiais elétricos.
+- CONFAZ NOVO: protocolo 106/2026: Revoga o Protocolo ICMS nº 112, de 16 de dezembro de 2011, que dispõe sobre a substituição tributária nas operações com máquinas e aparelhos mecânicos, elétricos, eletromecânicos e
+- CONFAZ NOVO: protocolo 107/2026: Revoga o Protocolo ICMS nº 171, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com produtos eletrônicos, eletroeletrônicos e eletrodomésticos.
+- CONFAZ NOVO: protocolo 108/2026: Revoga o Protocolo ICMS nº 132, de 16 de agosto de 2010, que dispõe sobre a substituição tributária nas operações com materiais elétricos.
+- CONFAZ NOVO: protocolo 109/2026: Revoga o Protocolo ICMS nº 27, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com ferramentas.
+- CONFAZ NOVO: protocolo 110/2026: Revoga o Protocolo ICMS nº 29, de 5 de junho de 2009, que dispõe sobre a substituição tributária nas operações com bicicletas.
+- CONFAZ NOVO: protocolo 111/2026: Revoga o Protocolo ICMS nº 29, de 13 de março de 2013, que dispõe sobre a substituição tributária nas operações com ferramentas.
+- CONFAZ NOVO: protocolo 112/2026: Revoga o Protocolo ICMS nº 77, de 5 de dezembro de 2014, que dispõe sobre a substituição tributária nas operações com ferramentas.
+- CONFAZ NOVO: protocolo 113/2026: Revoga o Protocolo ICMS nº 106, de 11 de outubro de 2013, que dispõe sobre a substituição tributária nas operações com bicicletas.
+- CONFAZ NOVO: protocolo 114/2026: Revoga o Protocolo ICMS nº 172, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com ferramentas.
+- CONFAZ NOVO: protocolo 115/2026: Revoga o Protocolo ICMS nº 109, de 3 de setembro de 2012, que dispõe sobre a substituição tributária nas operações com bicicletas.
+- CONFAZ NOVO: protocolo 116/2026: Revoga o Protocolo ICMS nº 110, de 10 de agosto de 2009, que dispõe sobre a substituição tributária nas operações com bicicletas.
+- CONFAZ NOVO: protocolo 117/2026: Revoga o Protocolo ICMS nº 132, de 6 de dezembro de 2013, que dispõe sobre a substituição tributária nas operações com bicicleta.
+- CONFAZ NOVO: protocolo 118/2026: Revoga o Protocolo ICMS nº 133, de 16 de agosto de 2010, que dispõe sobre a substituição tributária nas operações com bicicletas.
+- CONFAZ NOVO: protocolo 119/2026: Dispõe sobre a exclusão do Estado do Tocantins e altera o Protocolo ICMS nº 20, de 1º de julho de 2005, que dispõe sobre a substituição tributária nas operações com sorvetes e com 
+  - ↳ norma alterada rebaixada: protocolo 20/2005
+- CONFAZ NOVO: protocolo 120/2026: Altera o Protocolo ICMS nº 11, de 21 de maio de 1991, que dispõe sobre a substituição tributária nas operações com cerveja, refrigerantes, água mineral ou potável e gelo.
+  - ↳ norma alterada rebaixada: protocolo 11/1991
+- CONFAZ NOVO: protocolo 121/2026: Prorroga as disposições do Protocolo ICMS nº 26, de 20 de maio de 2014, que dispõe sobre as operações com aves, suínos, rações e insumos, no sistema de integração, promovidas entre
+- CONFAZ NOVO: protocolo 122/2026: Revoga o Protocolo ICMS nº 19, de 25 de junho de 1992, que institui substituição tributária para as operações com produtos de venda a domicílio em operações do Estado de São Paulo 
+- CONFAZ NOVO: protocolo 123/2026: Altera o Protocolo ICMS nº 86, de 14 de dezembro de 2022, que dispõe sobre a suspensão do recolhimento do ICMS na remessa interestadual de mercadorias para armazém geral não alfand
+
