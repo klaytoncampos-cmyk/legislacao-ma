@@ -8,7 +8,7 @@ ementa: "Altera o caput do art. 1º do Anexo 1.8 do RICMS/03, que versa sobre a 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a80ac558-d0e9-4180-bd5f-37ada9381a7f
 atualizado_na_fonte: "2025-07-22 10:13:08"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.8, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -58,21 +58,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação.
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-039-2020-20567.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 39-2020"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 039/20 – GABIN"
 tipo: resolucao
 numero: 39
 data: "2020-12-23"
 ementa: "Altera dispositivos do Anexo 4.33 do Regulamento do ICMS - RICMS, aprovado pelo Decreto 19.714, de 10 de julho de 2003, que trata da substituição tributária nas operações com bebidas quentes, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ac746d07-d9e5-4c9e-a698-71c56aecb32a
-atualizado_na_fonte: "2025-08-21 10:26:30"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 17:04:07"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.33, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 39-2020
+# RESOLUÇÃO ADMINISTRATIVA Nº 039/20 – GABIN
 
 _Altera dispositivos do Anexo 4.33 do Regulamento do ICMS - RICMS, aprovado pelo Decreto 19.714, de 10 de julho de 2003, que trata da substituição tributária nas operações com bebidas quentes, e dá outras providências._
 
@@ -284,21 +284,21 @@ Art. 4º Esta Resolução entra em vigor na data de sua publicação, produzindo
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-039-2021-21319.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 39-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 039/2021 - GABIN"
 tipo: resolucao
 numero: 39
 data: "2021-10-22"
 ementa: "Altera a Subseção II do RICMS sobre emissão de documentos fiscais em operações internas de faturamento no Sistema de Compensação de Energia Elétrica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7f75550c-174e-4dc5-8489-9f5894d1d06e
-atualizado_na_fonte: "2026-08-19 14:08:57"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:58:13"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 39-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 039/2021 - GABIN
 
 _Altera a Subseção II do RICMS sobre emissão de documentos fiscais em operações internas de faturamento no Sistema de Compensação de Energia Elétrica._
 
@@ -421,21 +421,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em Exercício.
 <<<DOC normas/resolucao/resolucao-039-2022-21381.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 39-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 039/22 – GABIN"
 tipo: resolucao
 numero: 39
 data: "2022-05-24"
 ementa: "Altera o Anexo 1.2 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para tratar da isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal, nos termos do Convênio ICMS nº 87, de 05 de julho de 2022."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a38dba6a-675c-4eca-994c-95c974921fc9
-atualizado_na_fonte: "2025-08-27 10:01:20"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:58:08"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.5
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 39-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 039/22 – GABIN
 
 _Altera o Anexo 1.2 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para tratar da isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal, nos termos do Convênio ICMS nº 87, de 05 de julho de 2022._
 
@@ -787,7 +787,7 @@ ementa: "Altera o art. 12 do Anexo 1.8 (Das Anistias e das Remissões) do RICMS/
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d7883ca2-e641-458f-aae7-85adf49c3008
 atualizado_na_fonte: "2025-07-21 10:39:10"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.8, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -838,7 +838,7 @@ ementa: "Altera dispositivo do Anexo 1.2 do RICMS/03 que trata da isenção do I
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ec61b5e9-d434-49f3-9741-ba7291c59690
 atualizado_na_fonte: "2025-07-22 10:13:30"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -890,21 +890,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda.
 <<<DOC normas/resolucao/resolucao-040-2021-21320.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 40-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 040/2021 - GABIN"
 tipo: resolucao
 numero: 40
 data: "2021-10-25"
 ementa: "Altera e acrescenta dispositivos ao RICMS sobre obrigatoriedade de emissão de NF-e, modelo 55, série 920, por produtor rural pessoa física inscrito no CAD-ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5ba3a5ca-5f92-45aa-ad17-68c2ac284020
-atualizado_na_fonte: "2026-08-19 14:08:33"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:57:52"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.3, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 40-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 040/2021 - GABIN
 
 _Altera e acrescenta dispositivos ao RICMS sobre obrigatoriedade de emissão de NF-e, modelo 55, série 920, por produtor rural pessoa física inscrito no CAD-ICMS._
 
@@ -975,21 +975,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-040-2022-21382.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 40-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 040/22 – GABIN"
 tipo: resolucao
 numero: 40
 data: "2022-05-24"
 ementa: "Altera o Anexo 1.2 (Isenção por Prazo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a concessão de isenção do ICMS nas operações com equipamentos e componentes para o aproveitamento das energias solar e eólica, nos termos do Convênio ICMS nº 101, de 12 de dezembro de 1997."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=874c51a9-010e-43bd-8197-9992c53b2c17
-atualizado_na_fonte: "2025-08-27 10:01:41"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:57:48"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 6.1
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 40-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 040/22 – GABIN
 
 _Altera o Anexo 1.2 (Isenção por Prazo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a concessão de isenção do ICMS nas operações com equipamentos e componentes para o aproveitamento das energias solar e eólica, nos termos do Convênio ICMS nº 101, de 12 de dezembro de 1997._
 
@@ -1042,7 +1042,7 @@ ementa: "Acrescenta o Anexo 4.47 ao RICMS (Decreto 19.714), sobre substituição
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5473d1d6-0cc7-48b5-ae94-e08374e3115a
 atualizado_na_fonte: "2026-10-19 13:42:47"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.47, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -1129,7 +1129,7 @@ ementa: "Altera e acrescenta dispositivos ao art. 10 do Anexo 1.2 (Isenção por
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b817492f-9eec-4009-bdf6-5170d14419f2
 atualizado_na_fonte: "2025-07-21 10:47:49"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -1741,7 +1741,7 @@ ementa: "Altera o Anexo 3.3 do Regulamento do ICMS - RICMS/03, que estabelece no
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=66191509-1adc-4ca2-9a83-585e0afcafe3
 atualizado_na_fonte: "2025-07-22 10:19:09"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 3.3, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -1807,21 +1807,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-041-2020-20569.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 41-2020"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 041/20 – GABIN"
 tipo: resolucao
 numero: 41
 data: "2020-12-29"
 ementa: "Prorroga prazo dos benefícios do ICMS que especifica, ao teor do Convênio ICMS 133/20."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bcee2889-d269-4428-a176-4804a34551e7
-atualizado_na_fonte: "2025-08-21 10:27:13"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 17:03:17"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, Anexo 1.4, Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 15.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 41-2020
+# RESOLUÇÃO ADMINISTRATIVA Nº 041/20 – GABIN
 
 _Prorroga prazo dos benefícios do ICMS que especifica, ao teor do Convênio ICMS 133/20._
 
@@ -1877,21 +1877,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-041-2021-21321.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 41-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 041/21 – GABIN"
 tipo: resolucao
 numero: 41
 data: "2021-11-22"
 ementa: "Acrescenta inciso LXXXII ao art. 1º do Anexo 1.1 do RICMS sobre isenção de ICMS em mercadorias destinadas a órgãos públicos, conforme Convênio ICMS 187/2021."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1287d4b9-d37b-4eef-9f94-1eb519682b08
-atualizado_na_fonte: "2026-08-19 14:08:20"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:57:36"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 41-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 041/21 – GABIN
 
 _Acrescenta inciso LXXXII ao art. 1º do Anexo 1.1 do RICMS sobre isenção de ICMS em mercadorias destinadas a órgãos públicos, conforme Convênio ICMS 187/2021._
 
@@ -1931,21 +1931,21 @@ Art. 2º Esta Resolução entra em vigor em 1º de dezembro de 2021.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-041-2022-21383.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 41-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 041/22 – GABIN"
 tipo: resolucao
 numero: 41
 data: "2022-05-24"
 ementa: "Altera dispositivo ao art. 45 do Anexo 1.2 do Regulamento do ICMS-RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, relativos à isenção do ICMS no fornecimento de energia elétrica para hospitais filantrópicos, nos termos do Convênio nº 19, de 8 de abril de 2016."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=573401a1-4b64-44be-96b1-93251f587e13
-atualizado_na_fonte: "2025-08-27 10:08:53"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:57:34"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 41-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 041/22 – GABIN
 
 _Altera dispositivo ao art. 45 do Anexo 1.2 do Regulamento do ICMS-RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, relativos à isenção do ICMS no fornecimento de energia elétrica para hospitais filantrópicos, nos termos do Convênio nº 19, de 8 de abril de 2016._
 
@@ -1985,27 +1985,27 @@ ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
 Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
-<<<DOC normas/resolucao/resolucao-042-2012-19904.md>>>
+<<<DOC normas/resolucao/resolucao-042-2013-19904.md>>>
 ---
-documento: "Resolução Administrativa 42"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 042/12 - GABIN"
 tipo: resolucao
 numero: 42
-data: "2012-12-21"
+data: "2013-12-21"
 ementa: "Altera e acrescenta dispositivos ao Anexo 1.4 (Redução da Base de Cálculo) do RICMS/03, que concede redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5c335646-8c4a-403f-941b-a4a34892ebc8
-atualizado_na_fonte: "2025-07-21 10:47:31"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 15:18:53"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# Resolução Administrativa 42
+# RESOLUÇÃO ADMINISTRATIVA Nº 042/12 - GABIN
 
 _Altera e acrescenta dispositivos ao Anexo 1.4 (Redução da Base de Cálculo) do RICMS/03, que concede redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares._
 
-**Data:** 2012-12-21  
+**Data:** 2013-12-21 (ano no PDF: 2012 (provável erro de digitação; mantida a data do portal))  
 **Remete a:** Anexo 1.4, RICMS  
 **Situação:** alteradora (incorporada)
 
@@ -2062,7 +2062,7 @@ ementa: "Altera o Capítulo VII do Título V do RICMS/03, que trata das prestaç
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fabb8a42-27a7-4888-817c-7e8b94b7fc81
 atualizado_na_fonte: "2025-07-22 10:19:31"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -2188,21 +2188,21 @@ Secretário de Estado da Fazenda
 ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
 <<<DOC normas/resolucao/resolucao-042-2020-20570.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 42-2020"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 042/20 – GABIN"
 tipo: resolucao
 numero: 42
 data: "2020-12-29"
 ementa: "Prorroga prazo referente à concessão do benefício fiscal de que trata o art. 497 do Regulamento do ICMS - RICMS, aprovado pelo Decreto 19.714, de 10 de julho de 2003."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fc4f8706-ec81-4560-ae95-3fefefe1eaad
-atualizado_na_fonte: "2025-08-21 10:27:33"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 17:02:58"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 42-2020
+# RESOLUÇÃO ADMINISTRATIVA Nº 042/20 – GABIN
 
 _Prorroga prazo referente à concessão do benefício fiscal de que trata o art. 497 do Regulamento do ICMS - RICMS, aprovado pelo Decreto 19.714, de 10 de julho de 2003._
 
@@ -2242,21 +2242,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-042-2021-21322.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 42-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 042/21 – GABIN"
 tipo: resolucao
 numero: 42
 data: "2021-11-22"
 ementa: "Altera o art. 33 do Anexo 1.1 do RICMS sobre isenção de ICMS nas operações com mercadorias ou bens provenientes do exterior."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a7a529ce-38cb-43b1-916f-01961d0965bf
-atualizado_na_fonte: "2026-08-19 14:08:07"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:56:52"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 42-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 042/21 – GABIN
 
 _Altera o art. 33 do Anexo 1.1 do RICMS sobre isenção de ICMS nas operações com mercadorias ou bens provenientes do exterior._
 
@@ -2299,21 +2299,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, retroagind
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-042-2022-21384.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 42-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 042/22 – GABIN"
 tipo: resolucao
 numero: 42
 data: "2022-06-07"
 ementa: "Altera o §3º do art. 2º do Anexo 1.5.1 do Regulamento do ICMS-RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para prorrogar o prazo referente à concessão de crédito outorgado ao contribuinte do ICMS que financiar investimento em infraestrutura."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8065de3e-f159-438d-aa42-fb7c66c29516
-atualizado_na_fonte: "2025-08-27 10:09:14"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:56:43"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.5.1, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 42-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 042/22 – GABIN
 
 _Altera o §3º do art. 2º do Anexo 1.5.1 do Regulamento do ICMS-RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para prorrogar o prazo referente à concessão de crédito outorgado ao contribuinte do ICMS que financiar investimento em infraestrutura._
 
@@ -2360,7 +2360,7 @@ ementa: "Altera o Anexo 30 do RICMS (Decreto 19.714/2003), sobre cumprimento de 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1e577b22-2102-4b12-84e3-fbf1195be467
 atualizado_na_fonte: "2026-10-19 13:41:37"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 30, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -2425,7 +2425,7 @@ ementa: "Acrescenta o § 8º ao art. 321-D do Regulamento do ICMS - RICMS/03, ap
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bc8b94a5-eb2b-40ef-9ec5-fb10e0829147
 atualizado_na_fonte: "2025-07-21 10:40:32"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -2476,7 +2476,7 @@ ementa: "Acrescenta os artigos 399-O a 399-V ao RICMS/03, que tratam sobre proce
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b61fc5c8-1d3f-42b0-b529-3cc0f640e266
 atualizado_na_fonte: "2025-07-22 10:21:50"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -2618,21 +2618,21 @@ Valor da parcela importada do exterior
 Valor Total da saída interestadual
 <<<DOC normas/resolucao/resolucao-043-2021-21323.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 43-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 043/21 – GABIN"
 tipo: resolucao
 numero: 43
 data: "2021-11-22"
 ementa: "Altera dispositivos do Anexo 1.2 (Isenção por tempo determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto 19.714, de 10 de julho de 2003."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f8d9e727-954b-4839-b237-a752dd0b5321
-atualizado_na_fonte: "2025-08-26 10:39:56"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:56:30"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 43-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 043/21 – GABIN
 
 _Altera dispositivos do Anexo 1.2 (Isenção por tempo determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto 19.714, de 10 de julho de 2003._
 
@@ -2675,21 +2675,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, retroagind
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-043-2022-21385.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 43-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 043/22 – GABIN"
 tipo: resolucao
 numero: 43
 data: "2022-06-08"
 ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o Conhecimento de Transporte Eletrônico – CT-e, o Manifesto Eletrônico de Documentos Fiscais – MDF-e e a Nota Fiscal Eletrônica - NF-e."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ece1e320-9f09-4a2a-be90-0843502293cd
-atualizado_na_fonte: "2025-08-27 10:09:51"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:56:11"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 43-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 043/22 – GABIN
 
 _Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o Conhecimento de Transporte Eletrônico – CT-e, o Manifesto Eletrônico de Documentos Fiscais – MDF-e e a Nota Fiscal Eletrônica - NF-e._
 
@@ -2737,21 +2737,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação.
 FERNANDO ANTONIO RESENDE DE JESUS Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-043-2023-21278.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº43-2023"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 043/23 – GABIN"
 tipo: resolucao
 numero: 43
 data: "2023-12-04"
 ementa: "Altera dispositivo do Anexo 1.4 do RI-CMS/03, que dispõe sobre redução base de cálculo do ICMS, por adesão ao pre-visto no Decreto nº 13.780/2012, de 16 de março de 2012, do Estado da Bahia, com base na Lei Complementar nº 160, de 7 de agosto de 2017, e na cláusula décima terceira do Convênio ICMS nº 190, de 15 de dezembro de 2017."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e6d0d6db-1d56-48d1-bcb8-23acc1d75fa8
-atualizado_na_fonte: "2025-08-26 09:47:18"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:24:58"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº43-2023
+# RESOLUÇÃO ADMINISTRATIVA Nº 043/23 – GABIN
 
 _Altera dispositivo do Anexo 1.4 do RI-CMS/03, que dispõe sobre redução base de cálculo do ICMS, por adesão ao pre-visto no Decreto nº 13.780/2012, de 16 de março de 2012, do Estado da Bahia, com base na Lei Complementar nº 160, de 7 de agosto de 2017, e na cláusula décima terceira do Convênio ICMS nº 190, de 15 de dezembro de 2017._
 
@@ -2806,7 +2806,7 @@ ementa: "Altera o Anexo 3.3 do Regulamento do ICMS - RICMS/03, que estabelece no
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b6af2c7c-4fde-46f0-886c-2853a8b524f0
 atualizado_na_fonte: "2025-07-21 10:40:54"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 3.3, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -2897,7 +2897,7 @@ ementa: "Altera o Anexo 4.36 que dispõe sobre procedimentos adotados quando da 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ff12e050-c3db-4409-b28d-3e8820cd7bc6
 atualizado_na_fonte: "2025-07-22 10:22:12"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.36, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -2949,21 +2949,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-044-2021-21324.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 44-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 044/21 – GABIN"
 tipo: resolucao
 numero: 44
 data: "2021-11-23"
 ementa: "Altera o Anexo Único do inciso XXIII do art. 1º do Anexo 1.2 do RICMS sobre isenção em fármacos e medicamentos destinados a órgãos públicos, conforme Convênio ICMS 87/2002."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=71c1473e-6495-4132-a7c6-49f0a6a1d601
-atualizado_na_fonte: "2026-08-19 14:07:53"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:56:14"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 44-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 044/21 – GABIN
 
 _Altera o Anexo Único do inciso XXIII do art. 1º do Anexo 1.2 do RICMS sobre isenção em fármacos e medicamentos destinados a órgãos públicos, conforme Convênio ICMS 87/2002._
 
@@ -3053,21 +3053,21 @@ II – a partir de 1º de janeiro de 2022, em relação ao inciso II do art. 2º
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-044-2022-21386.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 44-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 044/22 – GABIN"
 tipo: resolucao
 numero: 44
 data: "2022-06-30"
 ementa: "Divulga, para o período de 10 a 31 de julho de 2022, o preço médio praticado ao consumidor final dos combustíveis que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b7f12183-9b66-4dd4-82a3-e2fa88ecdbbb
-atualizado_na_fonte: "2025-08-27 10:10:13"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:55:53"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 44-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 044/22 – GABIN
 
 _Divulga, para o período de 10 a 31 de julho de 2022, o preço médio praticado ao consumidor final dos combustíveis que especifica._
 
@@ -3144,21 +3144,21 @@ II - a partir de 1º de julho de 2022, relativamente ao art. 2º.
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-044-2023-21279.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº44-2023"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 044/23 – GABIN"
 tipo: resolucao
 numero: 44
 data: "2023-12-26"
 ementa: "Acrescenta o Anexo 50, ao Regulamento do ICMS – RICMS/03, aprovado pelo Decreto 19.714, de 10 de julho de 2003, para dispor sobre a remessa interestadual de bens e mercadorias entre estabelecimentos de mesma titularidade."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d02e9aaa-d294-4030-bc19-37b825e9e0fc
-atualizado_na_fonte: "2025-08-26 09:48:51"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:24:52"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 50, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº44-2023
+# RESOLUÇÃO ADMINISTRATIVA Nº 044/23 – GABIN
 
 _Acrescenta o Anexo 50, ao Regulamento do ICMS – RICMS/03, aprovado pelo Decreto 19.714, de 10 de julho de 2003, para dispor sobre a remessa interestadual de bens e mercadorias entre estabelecimentos de mesma titularidade._
 
@@ -3241,21 +3241,21 @@ Art. 2º Esta Resolução Administrativa entra em vigor na data de sua publicaç
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-045-2021-21325.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 45-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 045/21 – GABIN"
 tipo: resolucao
 numero: 45
 data: "2021-11-25"
 ementa: "Altera os Anexos 1.2 e 5.0 do RICMS sobre isenção de ICMS em veículos para pessoas com deficiência, síndrome de Down ou autistas (Convênio ICMS 38/2012)."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f9d61e85-25a4-45d5-962e-e47932f0aca5
-atualizado_na_fonte: "2026-08-19 14:07:37"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:55:58"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 45-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 045/21 – GABIN
 
 _Altera os Anexos 1.2 e 5.0 do RICMS sobre isenção de ICMS em veículos para pessoas com deficiência, síndrome de Down ou autistas (Convênio ICMS 38/2012)._
 
@@ -3383,21 +3383,21 @@ Art. 3º Esta Resolução entra em vigor em 1º de dezembro de 2021.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-045-2022-21387.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 45-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 045/22 – GABIN"
 tipo: resolucao
 numero: 45
 data: "2022-07-04"
 ementa: "Altera o Anexo 5.0 (Modelos de Documentos Fiscais) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fe61b0e7-26d0-4159-a871-ff808b690a78
-atualizado_na_fonte: "2025-08-27 10:10:35"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:55:38"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 45-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 045/22 – GABIN
 
 _Altera o Anexo 5.0 (Modelos de Documentos Fiscais) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003._
 
@@ -3489,7 +3489,7 @@ ementa: "Acrescenta o Anexo 4.26.1 ao RICMS (Decreto 19.714/03), sobre concessã
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7bab0a5d-82c2-4e04-834f-66b86da8f258
 atualizado_na_fonte: "2026-10-19 13:41:26"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.26.1, RICMS, CTE"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -3671,21 +3671,21 @@ ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
 Marcellus Ribeiro Alves Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-046-2021-21326.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 46-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 046/21 – GABIN"
 tipo: resolucao
 numero: 46
 data: "2021-11-26"
 ementa: "Revigora e prorroga benefícios fiscais de ICMS (Convênios 58/21 e 178/21) e revoga dispositivo do Anexo 1.2 do RICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=634d0a51-11e8-4a58-9777-42c1647bce57
-atualizado_na_fonte: "2026-08-19 14:07:23"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:55:40"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, Anexo 1.4, Anexo 1.5, Anexo 36, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 46-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 046/21 – GABIN
 
 _Revigora e prorroga benefícios fiscais de ICMS (Convênios 58/21 e 178/21) e revoga dispositivo do Anexo 1.2 do RICMS._
 
@@ -3738,21 +3738,21 @@ II - produzindo efeitos a partir da data da publicação, em relação aos demai
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-046-2022-21388.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 46-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 046/22 – GABIN"
 tipo: resolucao
 numero: 46
 data: "2022-07-01"
 ementa: "Acrescenta dispositivo ao art. 28 do Anexo 1.4 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que dispõe sobre a redução de base de cálculo do ICMS nas prestações de serviços de comunicação, nos termos do Convênio ICMS nº 19, de 3 de abril de 2018, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=400567ea-f86b-46e3-bdb2-7ea755ae2db8
-atualizado_na_fonte: "2025-08-27 10:10:53"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:55:12"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, Anexo 1.4, Anexo 9.8, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 46-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 046/22 – GABIN
 
 _Acrescenta dispositivo ao art. 28 do Anexo 1.4 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que dispõe sobre a redução de base de cálculo do ICMS nas prestações de serviços de comunicação, nos termos do Convênio ICMS nº 19, de 3 de abril de 2018, e dá outras providências._
 
@@ -3816,7 +3816,7 @@ ementa: "Prorroga, até 31 de dezembro de 2027, as disposições do art. 42 do A
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9fe5b669-4c65-41b7-b8ab-2d4d7f6a5350
 atualizado_na_fonte: "2026-10-19 13:41:08"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3869,7 +3869,7 @@ ementa: "Altera o art. 9º do Anexo 1.2 do RICMS/03 que dispõe sobre isenção 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=940a3594-3185-4b31-a9c3-b1d4e83e0c0b
 atualizado_na_fonte: "2025-07-22 10:23:37"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -3917,21 +3917,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação, retroagind
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-047-2021-21327.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 47-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 047/21 – GABIN"
 tipo: resolucao
 numero: 47
 data: "2021-11-23"
 ementa: "Altera o Anexo Único do inciso XXIII do art. 1º do Anexo 1.2 do RICMS sobre isenção em fármacos e medicamentos destinados a órgãos públicos, conforme Convênio ICMS 87/2002."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3bd1cede-8ebe-4bce-85c6-a679d6850488
-atualizado_na_fonte: "2026-08-19 14:07:11"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:55:23"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 47-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 047/21 – GABIN
 
 _Altera o Anexo Único do inciso XXIII do art. 1º do Anexo 1.2 do RICMS sobre isenção em fármacos e medicamentos destinados a órgãos públicos, conforme Convênio ICMS 87/2002._
 
@@ -4022,21 +4022,21 @@ II – a partir de 1º de janeiro de 2022, em relação ao inciso II do art. 2º
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-048-2021-21328.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 48-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 048/21 – GABIN"
 tipo: resolucao
 numero: 48
 data: "2021-11-26"
 ementa: "Altera o inciso XLIII do art. 1º do Anexo 1.1 do RICMS sobre isenção de ICMS em medicamento para tratamento de portadores do vírus da AIDS, conforme Convênio ICMS 10/2002."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=173b6155-6591-46f2-9686-2352f7c87313
-atualizado_na_fonte: "2026-08-19 14:06:43"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:55:02"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 48-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 048/21 – GABIN
 
 _Altera o inciso XLIII do art. 1º do Anexo 1.1 do RICMS sobre isenção de ICMS em medicamento para tratamento de portadores do vírus da AIDS, conforme Convênio ICMS 10/2002._
 
@@ -4087,21 +4087,21 @@ II - a partir de 1º de janeiro de 2022, em relação aos incisos III e VI do ar
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-048-2022-21390.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 48-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 048/22 – GABIN"
 tipo: resolucao
 numero: 48
 data: "2022-08-02"
 ementa: "Altera o Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações internas e interestaduais com automóveis de passageiros, para utilização como táxi, nos termos do Convênio ICMS 38, de 12 de julho de 2001."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b1641f7a-fb65-4d96-a2c9-a9fde1f455c5
-atualizado_na_fonte: "2025-08-27 10:11:31"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:54:31"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 48-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 048/22 – GABIN
 
 _Altera o Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações internas e interestaduais com automóveis de passageiros, para utilização como táxi, nos termos do Convênio ICMS 38, de 12 de julho de 2001._
 
@@ -4150,7 +4150,7 @@ ementa: "Altera o Anexo 1.4 do RICMS para prorrogar a vigência da redução da 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=16b37b05-3a4d-4f2f-8f87-58bb7e7e9e65
 atualizado_na_fonte: "2026-10-19 13:40:09"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -4205,7 +4205,7 @@ ementa: "Altera dispositivos do Anexo 4.7 do RICMS/03 que dispõe sobre substitu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c413fdad-1b3a-4e36-8552-84812b19e8b3
 atualizado_na_fonte: "2025-07-22 10:24:08"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.7, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -4268,21 +4268,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-049-2021-21329.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 49-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 049/21 – GABIN"
 tipo: resolucao
 numero: 49
 data: "2021-12-10"
 ementa: "Altera e acrescenta dispositivos ao RICMS relativos aos Documentos Fiscais Eletrônicos (DF-e)."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=115f5b73-7cb0-4054-a057-1028319d7a7f
-atualizado_na_fonte: "2026-08-19 14:05:33"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:54:45"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 49-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 049/21 – GABIN
 
 _Altera e acrescenta dispositivos ao RICMS relativos aos Documentos Fiscais Eletrônicos (DF-e)._
 
@@ -4350,21 +4350,21 @@ Art. 3º Esta Resolução entra em vigor em 1º de março de 2022.
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em Exercício.
 <<<DOC normas/resolucao/resolucao-049-2022-21391.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 49-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 049/22 – GABIN"
 tipo: resolucao
 numero: 49
 data: "2022-08-04"
 ementa: "Altera o Anexo 1.1 (Isenção por Prazo Indeterminado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações realizadas com reprodutores e matrizes de animais acuns, ovinos, suínos e bufalinos, puros de origem, puros por cruza, de livro aberto de vacuns ou de cruzamento sob controle de genealogia, nos termos do Convênio ICMS nº 35, de 7 dezembro de 1977."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ab1e01b8-e4ab-4a7b-b7de-b421b39bf081
-atualizado_na_fonte: "2025-08-27 10:11:53"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:53:35"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 49-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 049/22 – GABIN
 
 _Altera o Anexo 1.1 (Isenção por Prazo Indeterminado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações realizadas com reprodutores e matrizes de animais acuns, ovinos, suínos e bufalinos, puros de origem, puros por cruza, de livro aberto de vacuns ou de cruzamento sob controle de genealogia, nos termos do Convênio ICMS nº 35, de 7 dezembro de 1977._
 
@@ -4413,7 +4413,7 @@ ementa: "Altera o Anexo 49 do Regulamento do ICMS-RICMS"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=29f91f4d-604d-40bc-8245-e68eec8a59df
 atualizado_na_fonte: "2026-10-19 13:40:00"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 49, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -4522,7 +4522,7 @@ ementa: "Altera o Anexo 4.12 do RICMS/03 que dispõe sobre substituição tribut
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0094dec7-0b86-4ec0-8487-1a8caacc01b8
 atualizado_na_fonte: "2025-07-22 10:24:27"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.12, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -4607,21 +4607,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-050-2021-21330.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 50-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 050/21 – GABIN"
 tipo: resolucao
 numero: 50
 data: "2021-12-13"
 ementa: "Altera o inciso XIII do art. 1º do Anexo 1.2 do RICMS sobre isenção de ICMS em equipamentos e insumos destinados a serviços de saúde."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=98739004-a33e-4190-af8c-b99ab02c11d2
-atualizado_na_fonte: "2026-08-19 13:59:59"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:54:26"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 50-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 050/21 – GABIN
 
 _Altera o inciso XIII do art. 1º do Anexo 1.2 do RICMS sobre isenção de ICMS em equipamentos e insumos destinados a serviços de saúde._
 
@@ -4685,21 +4685,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação.
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-050-2022-21392.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 50-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 050/22 – GABIN"
 tipo: resolucao
 numero: 50
 data: "2022-08-04"
 ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações internas e interestaduais com automóveis de passageiros, para utilização como táxi, nos termos do Convênio ICMS 38, de 12 de julho de 2001."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=63a515c7-0d95-49bc-b203-42cba5bcf53b
-atualizado_na_fonte: "2025-08-27 10:12:14"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:53:41"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 50-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 050/22 – GABIN
 
 _Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações internas e interestaduais com automóveis de passageiros, para utilização como táxi, nos termos do Convênio ICMS 38, de 12 de julho de 2001._
 
@@ -4748,7 +4748,7 @@ ementa: "Altera o Anexo 48 do Regulamento do ICMS-RICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5658d8d0-e5a6-4f7d-a522-437e20c4b397
 atualizado_na_fonte: "2026-10-19 13:39:51"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 48, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -4921,7 +4921,7 @@ ementa: "Altera o Anexo 4.13 do RICMS/03 que dispõe sobre substituição tribut
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=222c84d1-56bd-45b1-845c-587beb25bfda
 atualizado_na_fonte: "2025-07-22 10:26:55"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.13, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -4998,21 +4998,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-051-2021-21331.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 51-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 051/21 – GABIN"
 tipo: resolucao
 numero: 51
 data: "2021-12-13"
 ementa: "Altera o art. 30 do Anexo 1.1 do RICMS sobre isenção de ICMS nas operações com aceleradores lineares destinados a serviços de saúde."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=be9a1757-97dd-4cfa-bd2a-923e8e0c9f6c
-atualizado_na_fonte: "2026-08-19 13:59:40"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:54:06"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 51-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 051/21 – GABIN
 
 _Altera o art. 30 do Anexo 1.1 do RICMS sobre isenção de ICMS nas operações com aceleradores lineares destinados a serviços de saúde._
 
@@ -5055,21 +5055,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em Exercício.
 <<<DOC normas/resolucao/resolucao-051-2022-21393.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 51-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 051/22 – GABIN"
 tipo: resolucao
 numero: 51
 data: "2022-08-04"
 ementa: "Altera o Anexo 1.2 (Isenção por Prazo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a concessão de isenção do ICMS nas operações com equipamentos e componentes para o aproveitamento das energias solar e eólica, nos termos do Convênios ICMS nº 87 e 94, de 1º de julho de 1997."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=60d75d05-67d0-41b8-9cd7-ec1be00ce341
-atualizado_na_fonte: "2025-08-27 10:16:48"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:53:03"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 51-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 051/22 – GABIN
 
 _Altera o Anexo 1.2 (Isenção por Prazo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a concessão de isenção do ICMS nas operações com equipamentos e componentes para o aproveitamento das energias solar e eólica, nos termos do Convênios ICMS nº 87 e 94, de 1º de julho de 1997._
 
@@ -5126,7 +5126,7 @@ ementa: "Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1baee3f0-fa64-49e8-914c-8c5137be6332
 atualizado_na_fonte: "2026-10-19 13:39:42"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -5181,7 +5181,7 @@ ementa: "Altera dispositivos do Anexo 4.15 do RICMS/03 que dispõe sobre substit
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=24099c79-5811-4f6b-9bd7-d34c45d9d90c
 atualizado_na_fonte: "2025-07-22 10:27:16"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.15, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -5243,21 +5243,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-052-2021-21332.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 52-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 052/21 – GABIN"
 tipo: resolucao
 numero: 52
 data: "2021-12-13"
 ementa: "Altera o Anexo 17 do RICMS sobre procedimentos de controle de remessas de mercadorias para formação de lote de exportação em recintos alfandegados."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1f517bd7-4b6a-4c48-9efe-e61aebb06876
-atualizado_na_fonte: "2026-08-19 13:59:23"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:51:30"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 17, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 52-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 052/21 – GABIN
 
 _Altera o Anexo 17 do RICMS sobre procedimentos de controle de remessas de mercadorias para formação de lote de exportação em recintos alfandegados._
 
@@ -5317,21 +5317,21 @@ Art. 4º Esta Resolução entra em vigor na data de sua publicação.
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em Exercício.
 <<<DOC normas/resolucao/resolucao-052-2022-21394.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 52-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 052/22 – GABIN"
 tipo: resolucao
 numero: 52
 data: "2022-08-10"
 ementa: "Altera o Anexo 1.3 (Do Diferimento do Lançamento e do Pagamento do ICMS) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o diferimento do ICMS incidente sobre as operações de importação e do diferencial de alíquotas nas operações interestaduais com os bens que especifica, nos termos do Convênio ICMS nº 19, de 3 de abril de 2018."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cefdb330-0bb8-4761-8487-278713903820
-atualizado_na_fonte: "2025-08-27 10:17:06"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:52:44"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.3, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 52-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 052/22 – GABIN
 
 _Altera o Anexo 1.3 (Do Diferimento do Lançamento e do Pagamento do ICMS) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o diferimento do ICMS incidente sobre as operações de importação e do diferencial de alíquotas nas operações interestaduais com os bens que especifica, nos termos do Convênio ICMS nº 19, de 3 de abril de 2018._
 
@@ -5942,7 +5942,7 @@ ementa: "Altera dispositivos do Anexo 4.21 do RICMS/03 que dispõe sobre Substit
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f69cd383-2f7d-41c7-a71a-e29655280118
 atualizado_na_fonte: "2025-07-22 10:27:34"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.21, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -6004,21 +6004,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-053-2021-21333.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 53-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 053/21 – GABIN"
 tipo: resolucao
 numero: 53
 data: "2021-12-16"
 ementa: "Altera o art. 29 do Anexo 1.1 do RICMS sobre isenção de ICMS nas operações com medicamentos destinados ao tratamento de câncer."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e6766961-bb4e-4b5c-850a-7d2dd08ca1f1
-atualizado_na_fonte: "2026-08-19 13:58:30"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:51:07"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 53-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 053/21 – GABIN
 
 _Altera o art. 29 do Anexo 1.1 do RICMS sobre isenção de ICMS nas operações com medicamentos destinados ao tratamento de câncer._
 
@@ -6156,21 +6156,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-053-2022-21395.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 53-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 053/22 – GABIN"
 tipo: resolucao
 numero: 53
 data: "2022-08-10"
 ementa: "Altera o caput do art. 28 do Anexo 1.4 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que dispõe sobre a redução de base de cálculo do ICMS nas prestações de serviços de comunicação, nos termos do Convênio ICMS nº 19, de 3 de abril de 2018."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8b8fd3a8-052b-4550-8fc7-7e72a854fc6c
-atualizado_na_fonte: "2025-08-27 10:17:25"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:52:26"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 53-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 053/22 – GABIN
 
 _Altera o caput do art. 28 do Anexo 1.4 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que dispõe sobre a redução de base de cálculo do ICMS nas prestações de serviços de comunicação, nos termos do Convênio ICMS nº 19, de 3 de abril de 2018._
 
@@ -6225,7 +6225,7 @@ ementa: "Altera dispositivos do Anexo 4.22 do RICMS/03 que dispõe sobre Substit
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b93232b8-f5e1-4ad3-a7d4-b58d4c176145
 atualizado_na_fonte: "2025-07-22 10:27:52"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.22, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -6284,21 +6284,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-054-2021-21334.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 54-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 054/21 – GABIN"
 tipo: resolucao
 numero: 54
 data: "2021-12-16"
 ementa: "Altera dispositivos do RICMS sobre fornecimento de informações por instituições financeiras, intermediadores de pagamento e de serviços/negócios."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cf4b02f3-473d-42ba-aeed-16532a0eb95a
-atualizado_na_fonte: "2026-08-19 13:58:19"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:50:32"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 54-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 054/21 – GABIN
 
 _Altera dispositivos do RICMS sobre fornecimento de informações por instituições financeiras, intermediadores de pagamento e de serviços/negócios._
 
@@ -6341,21 +6341,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-054-2022-21396.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 54-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 054/2022 – GABIN"
 tipo: resolucao
 numero: 54
 data: "2022-08-11"
 ementa: "Altera o Anexo 8.5 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre as operações relacionadas com as remessas de mercadorias remetidas em consignação industrial para estabelecimentos industriais, nos termos do Protocolo ICMS nº 52, de 21 de dezembro de 2000."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ac034401-4e7e-4293-b89f-6f3a0c2aa844
-atualizado_na_fonte: "2025-08-27 10:17:43"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:52:04"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 8.5, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 54-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 054/2022 – GABIN
 
 _Altera o Anexo 8.5 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre as operações relacionadas com as remessas de mercadorias remetidas em consignação industrial para estabelecimentos industriais, nos termos do Protocolo ICMS nº 52, de 21 de dezembro de 2000._
 
@@ -6405,7 +6405,7 @@ ementa: "Altera dispositivos do Anexo 4.19 (Substituição Tributária das Opera
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6dea0654-6c82-442d-8a53-53d37c2a9914
 atualizado_na_fonte: "2025-07-22 10:28:13"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.19, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -6521,21 +6521,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-055-2021-21335.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 55-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 055/21 – GABIN"
 tipo: resolucao
 numero: 55
 data: "2021-12-16"
 ementa: "Altera o Anexo 4.45 do RICMS sobre substituição tributária do ICMS nas operações com sorvetes e preparados para fabricação de sorvetes em máquina."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f35ad8c1-8f75-41fe-89a6-7c268b278807
-atualizado_na_fonte: "2026-08-19 13:58:08"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:50:10"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.45, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 55-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 055/21 – GABIN
 
 _Altera o Anexo 4.45 do RICMS sobre substituição tributária do ICMS nas operações com sorvetes e preparados para fabricação de sorvetes em máquina._
 
@@ -6574,21 +6574,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-055-2022-21397.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 55-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 055/22 – GABIN"
 tipo: resolucao
 numero: 55
 data: "2022-08-11"
 ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre os procedimentos fiscais a serem observados na prática de operações de consignação mercantil, nos termos do Ajuste SINIEF nº 02, de 9 de dezembro de 1993."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=306fe327-fc1e-4bdd-bb26-fc9c9af2abb7
-atualizado_na_fonte: "2025-08-27 10:18:05"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:51:47"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 55-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 055/22 – GABIN
 
 _Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre os procedimentos fiscais a serem observados na prática de operações de consignação mercantil, nos termos do Ajuste SINIEF nº 02, de 9 de dezembro de 1993._
 
@@ -6634,7 +6634,7 @@ ementa: "Acrescenta dispositivos ao Anexo 4.23 do RICMS/03, que trata de Faturam
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d0f600f5-7499-454f-b576-5fcf2b75ecc2
 atualizado_na_fonte: "2025-07-22 10:28:32"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.23, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -6687,21 +6687,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, convalidan
 AKIO VALENTE WAKYIAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-056-2021-21336.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 56-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 056/21 – GABIN"
 tipo: resolucao
 numero: 56
 data: "2021-12-20"
 ementa: "Altera o Anexo 4.11 do RICMS sobre substituição tributária nas operações com gasolina automotiva, lubrificantes, diesel e outros derivados de petróleo."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=849b2346-8d88-49c3-a721-b4dca4c84c47
-atualizado_na_fonte: "2026-08-19 13:57:08"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:49:46"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 56-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 056/21 – GABIN
 
 _Altera o Anexo 4.11 do RICMS sobre substituição tributária nas operações com gasolina automotiva, lubrificantes, diesel e outros derivados de petróleo._
 
@@ -6756,21 +6756,21 @@ II - produzindo efeitos a partir da data da publicação, em relação aos demai
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-056-2022-21398.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 56-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 056/22 – GABIN"
 tipo: resolucao
 numero: 56
 data: "2022-08-22"
 ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o Conhecimento de Transporte Eletrônico – CT-e, o Manifesto Eletrônico de Documentos Fiscais - MDF-e, a Nota Fiscal de Consumidor Eletrônica - NFC-e e a Nota Fiscal Eletrônica - NF-e."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3037b64e-1b67-4c5f-bcec-ecd75384ab55
-atualizado_na_fonte: "2025-08-27 10:18:25"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:51:30"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 56-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 056/22 – GABIN
 
 _Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o Conhecimento de Transporte Eletrônico – CT-e, o Manifesto Eletrônico de Documentos Fiscais - MDF-e, a Nota Fiscal de Consumidor Eletrônica - NFC-e e a Nota Fiscal Eletrônica - NF-e._
 
@@ -6865,7 +6865,7 @@ ementa: "Altera o Anexo 4.33 do RICMS/03 que dispõe sobre substituição tribut
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5e532ce9-4796-4622-92e6-f0c21c90dc9a
 atualizado_na_fonte: "2025-07-22 10:28:51"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.33, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -6974,21 +6974,21 @@ Art. 5º Esta Resolução entra em vigor na data de sua publicação, convalidan
 AKIO VALENTE WAKYIAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-057-2021-21337.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 57-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 057/21 – GABIN"
 tipo: resolucao
 numero: 57
 data: "2021-12-21"
 ementa: "Acrescenta arts. 46 e 47 ao Anexo 1.2 do RICMS sobre isenção de ICMS na importação de equipamentos portuários e em máquinas para geração de energia via biogás."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=076c1cfa-787b-45ab-9e27-de8aaecc2eaf
-atualizado_na_fonte: "2026-08-19 13:56:06"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:49:30"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 57-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 057/21 – GABIN
 
 _Acrescenta arts. 46 e 47 ao Anexo 1.2 do RICMS sobre isenção de ICMS na importação de equipamentos portuários e em máquinas para geração de energia via biogás._
 
@@ -7063,7 +7063,7 @@ ementa: "Inclui o art. 20 no Anexo 1.4 do Regulamento do ICMS/03, que versa sobr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=243496c8-1614-447b-ac73-8c223cc0e517
 atualizado_na_fonte: "2025-07-22 10:29:11"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -7124,21 +7124,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-058-2021-21338.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 58-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 058/21 – GABIN"
 tipo: resolucao
 numero: 58
 data: "2021-12-22"
 ementa: "Revigora benefício fiscal e acrescenta dispositivos ao Anexo 1.2 do RICMS sobre isenção de ICMS em mercadorias para enfrentamento à pandemia da Covid-19."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=94757619-5dbb-45a8-a5fd-6a92f983fb22
-atualizado_na_fonte: "2026-08-19 13:55:53"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:49:00"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 58-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 058/21 – GABIN
 
 _Revigora benefício fiscal e acrescenta dispositivos ao Anexo 1.2 do RICMS sobre isenção de ICMS em mercadorias para enfrentamento à pandemia da Covid-19._
 
@@ -7634,7 +7634,7 @@ ementa: "Altera modelo de documento fiscal de Identificação do Condutor Autori
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b9b01f08-d9f8-45fa-9396-8cd264ca8119
 atualizado_na_fonte: "2025-07-22 10:29:33"
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -7742,21 +7742,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, convalidan
 AKIO VALENTE WAKYIAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-059-2021-21339.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 59-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 059/21 – GABIN"
 tipo: resolucao
 numero: 59
 data: "2021-12-13"
 ementa: "Altera o Anexo 17 do RICMS sobre procedimentos de controle de remessas de mercadorias para formação de lote de exportação em recintos alfandegados."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7ad539c6-8c8e-46a6-94e7-98811ac93493
-atualizado_na_fonte: "2026-08-19 13:55:28"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:49:12"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 17, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 59-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 059/21 – GABIN
 
 _Altera o Anexo 17 do RICMS sobre procedimentos de controle de remessas de mercadorias para formação de lote de exportação em recintos alfandegados._
 
@@ -7817,21 +7817,21 @@ Art. 4º Esta Resolução entra em vigor na data de sua publicação.
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em Exercício.
 <<<DOC normas/resolucao/resolucao-060-2013-19974.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 60"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 060/13 - GABIN"
 tipo: resolucao
 numero: 60
 data: "2013-09-24"
 ementa: "Altera dispositivos do Anexo 1.4 do RICMS/03 que tratam sobre concessão de redução da base de cálculo nas operações com equipamentos industriais e implementos agrícolas."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c927b317-0643-4887-8011-0675c1f8777f
-atualizado_na_fonte: "2025-07-22 10:36:00"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:33:30"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 60
+# RESOLUÇÃO ADMINISTRATIVA Nº 060/13 - GABIN
 
 _Altera dispositivos do Anexo 1.4 do RICMS/03 que tratam sobre concessão de redução da base de cálculo nas operações com equipamentos industriais e implementos agrícolas._
 
@@ -7898,21 +7898,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKYIAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-060-2021-21340.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 60-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 060/21 – GABIN"
 tipo: resolucao
 numero: 60
 data: "2021-12-29"
 ementa: "Altera o Anexo 1.4 do RICMS sobre redução da base de cálculo do ICMS em sardinha/atum enlatados (interestadual) e caranguejos vivos (interna e interestadual)."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1bb0b12f-4d37-495e-8b1e-fa8556972da2
-atualizado_na_fonte: "2026-08-19 13:55:13"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:48:01"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 60-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 060/21 – GABIN
 
 _Altera o Anexo 1.4 do RICMS sobre redução da base de cálculo do ICMS em sardinha/atum enlatados (interestadual) e caranguejos vivos (interna e interestadual)._
 
@@ -7960,21 +7960,21 @@ Art. 2º Esta Resolução entra em vigor em 1º de janeiro de 2022.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-060-2022-21402.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 60-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 060/22 – GABIN"
 tipo: resolucao
 numero: 60
 data: "2022-10-11"
 ementa: "Altera o Anexo 4.8 (Da Substituição Tributária nas Operações com Energia Elétrica) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o cumprimento de obrigações tributárias em operações com energia elétrica, inclusive aquelas cuja liquidação financeira ocorra no âmbito da Câmara de Comercialização de Energia Elétrica – CCEE, nos termos do Convênio ICMS nº 15, de 30 de março de 2007."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0eddbf08-395a-4717-8571-bca58f66295b
-atualizado_na_fonte: "2025-08-27 10:19:46"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:50:21"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.8, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 60-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 060/22 – GABIN
 
 _Altera o Anexo 4.8 (Da Substituição Tributária nas Operações com Energia Elétrica) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o cumprimento de obrigações tributárias em operações com energia elétrica, inclusive aquelas cuja liquidação financeira ocorra no âmbito da Câmara de Comercialização de Energia Elétrica – CCEE, nos termos do Convênio ICMS nº 15, de 30 de março de 2007._
 
@@ -8018,21 +8018,21 @@ Art. 2º Esta Resolução entra em vigor em na data da sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-061-2013-19975.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 61"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 061/13 - GABIN"
 tipo: resolucao
 numero: 61
 data: "2013-10-03"
 ementa: "Altera o § 8º do art. 321-N do RICMS/03, que trata da Escrituração Fiscal Digital - EFD."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0d3ce43b-4e49-46bb-8494-aedea70be40d
-atualizado_na_fonte: "2025-07-22 10:36:37"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:33:04"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 61
+# RESOLUÇÃO ADMINISTRATIVA Nº 061/13 - GABIN
 
 _Altera o § 8º do art. 321-N do RICMS/03, que trata da Escrituração Fiscal Digital - EFD._
 
@@ -8068,21 +8068,21 @@ CLAUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-061-2021-21341.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 61-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 061/21 – GABIN"
 tipo: resolucao
 numero: 61
 data: "2021-12-29"
 ementa: "Altera o Anexo 1.2 do RICMS sobre isenção de ICMS em veículos para pessoas com deficiência, síndrome de Down ou autistas, conforme Convênio ICMS 38/2012."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e34cbe76-603b-4c57-9529-7fa34f63d2a6
-atualizado_na_fonte: "2026-08-19 13:53:15"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:47:44"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 61-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 061/21 – GABIN
 
 _Altera o Anexo 1.2 do RICMS sobre isenção de ICMS em veículos para pessoas com deficiência, síndrome de Down ou autistas, conforme Convênio ICMS 38/2012._
 
@@ -8121,21 +8121,21 @@ Art. 2º Esta Resolução entra em vigor em 1º de janeiro de 2022.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-062-2013-19976.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 62"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 062/13 - GABIN"
 tipo: resolucao
 numero: 62
 data: "2013-10-21"
 ementa: "Acrescenta dispositivos ao RICMS/03,que trata sobre operações relacionadas com o Programa Fome Zero. Revoga os Decretos nº19.633/03, 20.201/03 e 20.782/04."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67759786-ae7d-43bc-bdd4-dcb53265f6f4
-atualizado_na_fonte: "2025-07-22 10:36:56"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:32:04"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 62
+# RESOLUÇÃO ADMINISTRATIVA Nº 062/13 - GABIN
 
 _Acrescenta dispositivos ao RICMS/03,que trata sobre operações relacionadas com o Programa Fome Zero. Revoga os Decretos nº19.633/03, 20.201/03 e 20.782/04._
 
@@ -8330,21 +8330,21 @@ Art. 4º Esta Resolução entra em vigor na data de sua publicação.
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-062-2021-21342.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 62-2021"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 062/21 – GABIN"
 tipo: resolucao
 numero: 62
 data: "2021-12-29"
 ementa: "Altera o caput do art. 45 do Anexo 1.2 do RICMS sobre isenção de ICMS no fornecimento de energia elétrica para hospitais filantrópicos."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7de3c9b0-e067-4684-992d-6b8f6f0db6ba
-atualizado_na_fonte: "2026-08-19 13:52:36"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 15:47:25"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 62-2021
+# RESOLUÇÃO ADMINISTRATIVA Nº 062/21 – GABIN
 
 _Altera o caput do art. 45 do Anexo 1.2 do RICMS sobre isenção de ICMS no fornecimento de energia elétrica para hospitais filantrópicos._
 
@@ -8385,21 +8385,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação, retroagind
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-062-2022-21403.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 62-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 062/22 – GABIN"
 tipo: resolucao
 numero: 62
 data: "2022-10-19"
 ementa: "Altera o Anexo 1.2 (Isenção por Prazo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações com equipamentos e componentes para o aproveitamento das energias solar e eólica, nos termos do Convênio ICMS nº 101, de 18 de dezembro de 1997."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4325359c-1d17-402e-9a8b-40b5737822ed
-atualizado_na_fonte: "2025-08-27 10:23:26"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:50:03"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 62-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 062/22 – GABIN
 
 _Altera o Anexo 1.2 (Isenção por Prazo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações com equipamentos e componentes para o aproveitamento das energias solar e eólica, nos termos do Convênio ICMS nº 101, de 18 de dezembro de 1997._
 
@@ -8448,21 +8448,21 @@ Art. 2º Esta Resolução entra em vigor na data da sua publicação, produzindo
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-063-2013-19977.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 63"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 063/13 - GABIN"
 tipo: resolucao
 numero: 63
 data: "2013-10-21"
 ementa: "Acrescenta o art. 33 ao Anexo 1.2 do RICMS/03, que trata sobre isenção do ICMS nas operações relacionadas com o Programa Fome Zero."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=11932aad-efbd-46f9-99cf-724eb7256f7a
-atualizado_na_fonte: "2025-07-22 10:37:18"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:31:44"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 63
+# RESOLUÇÃO ADMINISTRATIVA Nº 063/13 - GABIN
 
 _Acrescenta o art. 33 ao Anexo 1.2 do RICMS/03, que trata sobre isenção do ICMS nas operações relacionadas com o Programa Fome Zero._
 
@@ -8519,21 +8519,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, convalidan
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-063-2022-21404.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 63-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 063/22 – GABIN"
 tipo: resolucao
 numero: 63
 data: "2022-10-19"
 ementa: "Altera o art. 46 do Anexo 1.2 (Isenção Por Tempo Determinado) do Regulamento do ICMS - RICMS, provado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações de importação dos equipamentos especificados por empresas operadoras portuárias, nos termos do Convênio ICMS nº 71, de 08 de abril de 2021."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=78b50ea8-0816-43b6-a40c-3492dffe5cef
-atualizado_na_fonte: "2025-08-27 10:24:04"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:49:44"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 63-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 063/22 – GABIN
 
 _Altera o art. 46 do Anexo 1.2 (Isenção Por Tempo Determinado) do Regulamento do ICMS - RICMS, provado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações de importação dos equipamentos especificados por empresas operadoras portuárias, nos termos do Convênio ICMS nº 71, de 08 de abril de 2021._
 
@@ -8579,21 +8579,21 @@ Art. 2º Esta Resolução entra em vigor na data da sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-064-2013-19978.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 64"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 064/13 - GABIN"
 tipo: resolucao
 numero: 64
 data: "2013-10-21"
 ementa: "Acrescenta o art. 529-A ao RICMS/03, que dispõe sobre normas gerais a serem aplicadas a regimes de substituição tributária."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=41e6bce6-8e47-4ea6-a300-4674d4b905e5
-atualizado_na_fonte: "2025-07-22 10:37:35"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:31:24"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 64
+# RESOLUÇÃO ADMINISTRATIVA Nº 064/13 - GABIN
 
 _Acrescenta o art. 529-A ao RICMS/03, que dispõe sobre normas gerais a serem aplicadas a regimes de substituição tributária._
 
@@ -8634,21 +8634,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, retroagind
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-064-2022-21405.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 64-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 064/22 – GABIN"
 tipo: resolucao
 numero: 64
 data: "2022-10-19"
 ementa: "Altera o Anexo 4.46 (Da Substituição Tributária nas Operações com Produtos de Higiene Pessoal) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bec75a31-7fd2-4917-9a09-bafd63559186
-atualizado_na_fonte: "2025-08-27 10:24:44"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:49:25"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.46, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 64-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 064/22 – GABIN
 
 _Altera o Anexo 4.46 (Da Substituição Tributária nas Operações com Produtos de Higiene Pessoal) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003._
 
@@ -8703,21 +8703,21 @@ Art. 2º Esta Resolução entra em vigor na data da sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-065-2013-19979.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 65"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 065/13 - GABIN"
 tipo: resolucao
 numero: 65
 data: "2013-10-21"
 ementa: "Acrescenta o Anexo 42 ao RICMS/03, que trata das operações com produtos nacionais e estrangeiros destinados aos Jogos Olímpicos e Paraolímpicos 2016."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c7209218-5aa2-4442-81a2-e2b4e7308463
-atualizado_na_fonte: "2025-07-22 10:37:55"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:31:08"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 42, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 65
+# RESOLUÇÃO ADMINISTRATIVA Nº 065/13 - GABIN
 
 _Acrescenta o Anexo 42 ao RICMS/03, que trata das operações com produtos nacionais e estrangeiros destinados aos Jogos Olímpicos e Paraolímpicos 2016._
 
@@ -8826,21 +8826,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, convalidan
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-065-2022-21406.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 65-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 065/22 – GABIN"
 tipo: resolucao
 numero: 65
 data: "2022-10-19"
 ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre os Códigos Fiscais de Operações e Prestações - CFOP, nos termos do Ajuste SINIEF nº 3, de 7 de abril de 2022, e do Convênio s/nº, de 15 de dezembro de 1970."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ccb8eaee-5cd4-4aa6-b720-3ba81589744c
-atualizado_na_fonte: "2025-08-27 10:25:15"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:49:08"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 2.0, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 65-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 065/22 – GABIN
 
 _Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre os Códigos Fiscais de Operações e Prestações - CFOP, nos termos do Ajuste SINIEF nº 3, de 7 de abril de 2022, e do Convênio s/nº, de 15 de dezembro de 1970._
 
@@ -8881,21 +8881,21 @@ Art. 3º Esta Resolução entra em vigor na data da sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-066-2013-19980.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 66"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 066/13 - GABIN"
 tipo: resolucao
 numero: 66
 data: "2013-10-21"
 ementa: "Acrescenta dispositivos ao RICMS/03 que trata da emissão de documentos fiscais nas operações internas de circulação de energia elétrica, sujeitas a faturamento sob o Sistema de Compensação de Energia Elétrica de que trata a Resolução Normativa Nº 482/2012 da ANEEL, e inclui o Anexo 41 que dispõe do manual referente a estas operações."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6bf9c8a0-58bc-4aec-b31e-b3a09a9b0766
-atualizado_na_fonte: "2025-07-22 10:38:15"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:30:49"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 41, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 66
+# RESOLUÇÃO ADMINISTRATIVA Nº 066/13 - GABIN
 
 _Acrescenta dispositivos ao RICMS/03 que trata da emissão de documentos fiscais nas operações internas de circulação de energia elétrica, sujeitas a faturamento sob o Sistema de Compensação de Energia Elétrica de que trata a Resolução Normativa Nº 482/2012 da ANEEL, e inclui o Anexo 41 que dispõe do manual referente a estas operações._
 
@@ -9352,21 +9352,21 @@ ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
 8.1. O MD5 é um algoritmo projetado por Ron Rivest da RSA Data Security e é de domínio público. A função do algoritmo é produzir uma chave de codificação digital (hash code) de 128 bits, para uma mensagem (cadeia de caracteres) de entrada de qualquer tamanho.”
 <<<DOC normas/resolucao/resolucao-066-2022-21407.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 66-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 066/22 – GABIN"
 tipo: resolucao
 numero: 66
 data: "2022-10-19"
 ementa: "Altera dispositivos do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, relativos ao fornecimento de informações prestadas por instituições e intermediadores financeiros e de pagamento, integrantes ou não do Sistema de Pagamentos Brasileiro - SPB, nos termos Convênio ICMS 134, de 9 de dezembro de 2016."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=aae68462-b4cd-489b-8f63-8e4105866612
-atualizado_na_fonte: "2025-08-27 10:25:39"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:48:36"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 66-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 066/22 – GABIN
 
 _Altera dispositivos do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, relativos ao fornecimento de informações prestadas por instituições e intermediadores financeiros e de pagamento, integrantes ou não do Sistema de Pagamentos Brasileiro - SPB, nos termos Convênio ICMS 134, de 9 de dezembro de 2016._
 
@@ -9434,21 +9434,21 @@ Art. 3º Esta Resolução entra em vigor na data da sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-067-2013-19981.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 67"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 067/13 - GABIN"
 tipo: resolucao
 numero: 67
 data: "2013-10-22"
 ementa: "Revoga a alínea 'c' do inciso I do art.260 do Regulamento do ICMS/03 e acrescenta novos dispositivos ao referido Regulamento."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=efd7788d-c160-4705-b07a-9fbeba31c737
-atualizado_na_fonte: "2025-07-22 10:38:32"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:30:29"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 67
+# RESOLUÇÃO ADMINISTRATIVA Nº 067/13 - GABIN
 
 _Revoga a alínea "c" do inciso I do art.260 do Regulamento do ICMS/03 e acrescenta novos dispositivos ao referido Regulamento._
 
@@ -9484,21 +9484,21 @@ Art. 3º Esta Resolução entra em vigor na data de sua publicação.
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-068-2013-19982.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 68"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 068/13 - GABIN"
 tipo: resolucao
 numero: 68
 data: "2013-11-04"
 ementa: "Altera o caput do art. 1º do Anexo 1.8 do RICMS/03, que trata sobre redução de multas e juros de débitos fiscais relacionados com o ICM e o ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9091f466-d956-48d4-8ff3-d87050c25548
-atualizado_na_fonte: "2025-07-22 10:38:49"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:30:04"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.8, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 68
+# RESOLUÇÃO ADMINISTRATIVA Nº 068/13 - GABIN
 
 _Altera o caput do art. 1º do Anexo 1.8 do RICMS/03, que trata sobre redução de multas e juros de débitos fiscais relacionados com o ICM e o ICMS._
 
@@ -9539,21 +9539,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-068-2022-21409.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 68-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 068/22 – GABIN"
 tipo: resolucao
 numero: 68
 data: "2022-10-24"
 ementa: "Acrescenta dispositivos ao Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, relativos à Nota Fiscal Eletrônica e à Nota Fiscal de Consumidor Eletrônica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=60f4b6fa-2072-4c43-a8b3-9b063d5765e6
-atualizado_na_fonte: "2025-08-27 10:26:27"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:47:56"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 68-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 068/22 – GABIN
 
 _Acrescenta dispositivos ao Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, relativos à Nota Fiscal Eletrônica e à Nota Fiscal de Consumidor Eletrônica._
 
@@ -9608,21 +9608,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-069-2013-19983.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 69"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 069/13 - GABIN"
 tipo: resolucao
 numero: 69
 data: "2013-11-05"
 ementa: "Acrescenta o § 10 ao art. 15 do RICMS/03 que trata da exclusão da gorjeta da base de cálculo do ICMS incidente no fornecimento de alimentação e bebidas promovido por bares, restaurantes, hotéis e estabelecimentos similares."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b4a15149-c0bd-452b-ba34-b62baff09bee
-atualizado_na_fonte: "2025-07-22 10:39:08"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:29:17"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 69
+# RESOLUÇÃO ADMINISTRATIVA Nº 069/13 - GABIN
 
 _Acrescenta o § 10 ao art. 15 do RICMS/03 que trata da exclusão da gorjeta da base de cálculo do ICMS incidente no fornecimento de alimentação e bebidas promovido por bares, restaurantes, hotéis e estabelecimentos similares._
 
@@ -9662,21 +9662,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, retroagind
 AKIO VALENTE WAKYIAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-069-2022-21410.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 69-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 069/2022 – GABIN"
 tipo: resolucao
 numero: 69
 data: "2022-11-10"
 ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o Conhecimento de Transporte Eletrônico e o Documento Auxiliar do Conhecimento de Transporte Eletrônico, nos termos do Ajuste SINIEF nº 09, de 25 de outubro de 2007."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d8760a09-0502-4283-bfdd-287000f1032b
-atualizado_na_fonte: "2025-08-27 10:26:47"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:47:31"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 69-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 069/2022 – GABIN
 
 _Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre o Conhecimento de Transporte Eletrônico e o Documento Auxiliar do Conhecimento de Transporte Eletrônico, nos termos do Ajuste SINIEF nº 09, de 25 de outubro de 2007._
 
@@ -9770,21 +9770,21 @@ II - a partir de 3 de abril de 2023, relativamente aos demais dispositivos.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-071-2013-19985.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 71"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 071/13 - GABIN"
 tipo: resolucao
 numero: 71
 data: "2013-11-12"
 ementa: "Altera o caput do art. 1º do Anexo 1.8 do RICMS/03, que trata sobre redução de multas e juros de débitos fiscais relacionados com o ICM e o ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c352165a-8e7e-4513-b252-e045ef2d8568
-atualizado_na_fonte: "2025-07-22 10:40:03"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:28:36"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.8, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 71
+# RESOLUÇÃO ADMINISTRATIVA Nº 071/13 - GABIN
 
 _Altera o caput do art. 1º do Anexo 1.8 do RICMS/03, que trata sobre redução de multas e juros de débitos fiscais relacionados com o ICM e o ICMS._
 
@@ -9820,21 +9820,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 AKIO VALENTE WAKYIAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-071-2022-21412.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 71-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 071/22 – GABIN"
 tipo: resolucao
 numero: 71
 data: "2022-11-25"
 ementa: "Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas importações de produtos imunobiológicos, medicamentos e inseticidas, destinados à vacinação e combate à dengue, malária e febre amarela, realizadas pelo Ministério da Saúde, nos termos do Convênio ICMS nº 95, de 18 de setembro de 1998."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b63371a6-b32e-40b2-8735-4ad0f04fb623
-atualizado_na_fonte: "2025-08-27 10:29:45"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:46:56"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 71-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 071/22 – GABIN
 
 _Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas importações de produtos imunobiológicos, medicamentos e inseticidas, destinados à vacinação e combate à dengue, malária e febre amarela, realizadas pelo Ministério da Saúde, nos termos do Convênio ICMS nº 95, de 18 de setembro de 1998._
 
@@ -9872,21 +9872,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-072-2013-19986.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 72"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 072/13 - GABIN"
 tipo: resolucao
 numero: 72
 data: "2013-11-20"
 ementa: "Prorroga prazos referentes a concessão de benefícios fiscais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2c2409b2-92f9-49d7-bbdb-2a00fdd91f5c
-atualizado_na_fonte: "2025-07-22 10:40:23"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:28:14"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 72
+# RESOLUÇÃO ADMINISTRATIVA Nº 072/13 - GABIN
 
 _Prorroga prazos referentes a concessão de benefícios fiscais._
 
@@ -9926,21 +9926,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda.
 <<<DOC normas/resolucao/resolucao-072-2022-21413.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 72-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 072/22 – GABIN"
 tipo: resolucao
 numero: 72
 data: "2022-11-25"
 ementa: "Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações com equipamentos ou acessórios destinados a portadores de deficiência física ou auditiva, nos termos do Convênio ICMS nº 38, de 7 de agosto de 1991."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6bbef721-8308-4668-9850-001303987229
-atualizado_na_fonte: "2025-08-27 10:30:12"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:46:40"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 72-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 072/22 – GABIN
 
 _Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações com equipamentos ou acessórios destinados a portadores de deficiência física ou auditiva, nos termos do Convênio ICMS nº 38, de 7 de agosto de 1991._
 
@@ -9985,21 +9985,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-073-2013-19987.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 73"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 073/13 - GABIN"
 tipo: resolucao
 numero: 73
 data: "2013-11-20"
 ementa: "Altera dispositivos do Anexo 1.2 do RICMS/03, que dispõe sobre concessão de isenção do ICMS nas operações com fármacos e medicamentos."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c591c862-dea1-455a-9d99-e1bc90352292
-atualizado_na_fonte: "2025-07-22 10:40:43"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:27:57"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 73
+# RESOLUÇÃO ADMINISTRATIVA Nº 073/13 - GABIN
 
 _Altera dispositivos do Anexo 1.2 do RICMS/03, que dispõe sobre concessão de isenção do ICMS nas operações com fármacos e medicamentos._
 
@@ -10303,21 +10303,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-073-2022-21414.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 73-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 073/22 – GABIN"
 tipo: resolucao
 numero: 73
 data: "2022-11-25"
 ementa: "Altera o Anexo 1.2 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d5b5ffdf-8f57-4d5a-9462-81ed583178eb
-atualizado_na_fonte: "2025-08-27 10:30:32"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:46:18"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 73-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 073/22 – GABIN
 
 _Altera o Anexo 1.2 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003_
 
@@ -10369,21 +10369,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-074-2013-19988.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 74"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 074/13 - GABIN"
 tipo: resolucao
 numero: 74
 data: "2013-11-20"
 ementa: "Altera dispositivo do Anexo 1.2 do RICMS/03, que concede isenção do ICMS às operações com equipamentos e insumos destinados à prestação de serviços de saúde;"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=eecdd9fb-f4b6-4397-ad60-e7ad19365329
-atualizado_na_fonte: "2025-07-22 10:41:00"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:27:35"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 74
+# RESOLUÇÃO ADMINISTRATIVA Nº 074/13 - GABIN
 
 _Altera dispositivo do Anexo 1.2 do RICMS/03, que concede isenção do ICMS às operações com equipamentos e insumos destinados à prestação de serviços de saúde;_
 
@@ -10467,21 +10467,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-074-2022-21415.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 74-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 074/22 – GABIN"
 tipo: resolucao
 numero: 74
 data: "2022-12-06"
 ementa: "Altera a Seção I do Capítulo XXI do Título V do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre as condições, os mecanismos de controle e os procedimentos a serem observados em relação às doações de mercadorias e de prestações de serviço de transportes alcançadas pela isenção do ICMS prevista no Convênio ICMS nº 18/03, para atendimento do Programa de Segurança Alimentar e Nutricional, nos termos do Ajuste SINIEF 02, de 23 de maio de 2003."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=098c9419-4f52-4431-b79e-7ae5986e4174
-atualizado_na_fonte: "2025-08-27 10:30:52"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:46:00"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 74-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 074/22 – GABIN
 
 _Altera a Seção I do Capítulo XXI do Título V do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre as condições, os mecanismos de controle e os procedimentos a serem observados em relação às doações de mercadorias e de prestações de serviço de transportes alcançadas pela isenção do ICMS prevista no Convênio ICMS nº 18/03, para atendimento do Programa de Segurança Alimentar e Nutricional, nos termos do Ajuste SINIEF 02, de 23 de maio de 2003._
 
@@ -10543,21 +10543,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, ficando co
 FERNANDO ANTONIO RESENDE DE JESUS Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-075-2013-19989.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 75"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 075/13 - GABIN"
 tipo: resolucao
 numero: 75
 data: "2013-11-20"
 ementa: "Altera o Anexo 1.2 do RICMS/03, que concede isenção do ICMS com medicamentos."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1eafb23d-3721-49c0-8f39-da0397aa3098
-atualizado_na_fonte: "2025-07-22 10:41:20"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:27:18"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 75
+# RESOLUÇÃO ADMINISTRATIVA Nº 075/13 - GABIN
 
 _Altera o Anexo 1.2 do RICMS/03, que concede isenção do ICMS com medicamentos._
 
@@ -10597,21 +10597,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-075-2022-21416.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 75-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 075/22 – GABIN"
 tipo: resolucao
 numero: 75
 data: "2022-12-06"
 ementa: "Altera o Anexo 1.2 (Isenção por Prazo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a concessão de isenção do ICMS nas saídas de veículos destinados a pessoas com deficiência física, visual, mental severa ou profunda, síndrome de Down ou autistas, nos termos do Convênio ICMS 38, de 30 de março de 2012."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6a9ee2b3-ab46-4d9d-9f1e-bc55e259ec2d
-atualizado_na_fonte: "2025-08-27 10:31:15"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:45:42"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 75-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 075/22 – GABIN
 
 _Altera o Anexo 1.2 (Isenção por Prazo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a concessão de isenção do ICMS nas saídas de veículos destinados a pessoas com deficiência física, visual, mental severa ou profunda, síndrome de Down ou autistas, nos termos do Convênio ICMS 38, de 30 de março de 2012._
 
@@ -10652,21 +10652,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, ficando co
 FERNANDO ANTONIO RESENDE DE JESUS Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-076-2022-21417.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 76-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 076/22 – GABIN"
 tipo: resolucao
 numero: 76
 data: "2022-12-06"
 ementa: "Altera o Regulamento do ICMS - RICMS, para dispor sobre os procedimentos de retirada e devolução, pelo adquirente, das mercadorias na venda não presencial de produtos por meio de comércio eletrônico ou canais telefônicos em estabelecimentos do mesmo grupo econômico ou de terceiros, nos termos do Ajuste SINIEF nº 14, de 1º de julho de 2022."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f8c3e3e3-8a7c-458f-b7df-b489f727a848
-atualizado_na_fonte: "2025-08-27 10:31:35"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:45:21"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 76-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 076/22 – GABIN
 
 _Altera o Regulamento do ICMS - RICMS, para dispor sobre os procedimentos de retirada e devolução, pelo adquirente, das mercadorias na venda não presencial de produtos por meio de comércio eletrônico ou canais telefônicos em estabelecimentos do mesmo grupo econômico ou de terceiros, nos termos do Ajuste SINIEF nº 14, de 1º de julho de 2022._
 
@@ -10750,21 +10750,21 @@ ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
 Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-077-2013-19991.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 77"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 077/13 - GABIN"
 tipo: resolucao
 numero: 77
 data: "2013-11-20"
 ementa: "Acrescenta dispositivo ao Anexo 1.4 do RICMS/03, que trata sobre redução da base de cálculo em operações realizadas pelos contribuintes que indica para implantação do Terminal de Grãos do Maranhão - TEGRAM"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5f128fae-8355-407a-8bda-6a3164a0bf32
-atualizado_na_fonte: "2025-07-22 10:41:56"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:26:19"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 77
+# RESOLUÇÃO ADMINISTRATIVA Nº 077/13 - GABIN
 
 _Acrescenta dispositivo ao Anexo 1.4 do RICMS/03, que trata sobre redução da base de cálculo em operações realizadas pelos contribuintes que indica para implantação do Terminal de Grãos do Maranhão - TEGRAM_
 
@@ -10848,21 +10848,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-077-2022-21418.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 77-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 077/22 – GABIN"
 tipo: resolucao
 numero: 77
 data: "2022-12-06"
 ementa: "Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção de ICMS na importação de máquinas, equipamentos, partes e acessórios destinados a empresa de radiodifusão, nos termos do Convênio ICMS nº 10, de 30 de março de 2007."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=087044c6-18b5-4a55-bfbc-6ed858979081
-atualizado_na_fonte: "2025-08-27 10:31:59"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:45:03"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 77-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 077/22 – GABIN
 
 _Altera o Anexo 1.2 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção de ICMS na importação de máquinas, equipamentos, partes e acessórios destinados a empresa de radiodifusão, nos termos do Convênio ICMS nº 10, de 30 de março de 2007._
 
@@ -10903,21 +10903,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, ficando co
 FERNANDO ANTONIO RESENDE DE JESUS Secretário de Estado da Fazenda, em Exercício.
 <<<DOC normas/resolucao/resolucao-078-2013-19992.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 78"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 078/13 - GABIN"
 tipo: resolucao
 numero: 78
 data: "2013-11-27"
 ementa: "Altera dispositivo do Anexo 4.11 do RICMS/03, que trata sobre substituição tributária nas operações com gasolina automotiva, lubrificantes, diesel e outros produtos derivados ou não de petróleo."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a47deb26-0dc6-4f6a-a3ca-9d045342b33a
-atualizado_na_fonte: "2025-07-22 10:42:16"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:26:01"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 78
+# RESOLUÇÃO ADMINISTRATIVA Nº 078/13 - GABIN
 
 _Altera dispositivo do Anexo 4.11 do RICMS/03, que trata sobre substituição tributária nas operações com gasolina automotiva, lubrificantes, diesel e outros produtos derivados ou não de petróleo._
 
@@ -10971,21 +10971,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-078-2022-21419.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 78-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 078/22 – GABIN"
 tipo: resolucao
 numero: 78
 data: "2022-12-06"
 ementa: "Altera o Anexo 1.1 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas saídas de óleo lubrificante usado ou contaminado, nos termos do Convênio ICMS nº 3, de 30 de maio de 1990."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f42b821a-328f-4ac9-b6e3-9371a44f4cbc
-atualizado_na_fonte: "2025-08-27 10:32:19"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:44:44"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 78-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 078/22 – GABIN
 
 _Altera o Anexo 1.1 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas saídas de óleo lubrificante usado ou contaminado, nos termos do Convênio ICMS nº 3, de 30 de maio de 1990._
 
@@ -11025,21 +11025,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 FERNANDO ANTONIO RESENDE DE JESUS Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-079-2013-19993.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 79"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 079/13 - GABIN"
 tipo: resolucao
 numero: 79
 data: "2013-11-27"
 ementa: "Altera dispositivos do Anexo 4.16 (Substituição Tributária das Operações com Pneumáticos) do RICMS/03."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4b8d224d-7300-453f-bb0a-dcbe60e02146
-atualizado_na_fonte: "2025-07-22 10:43:05"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:25:26"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.16, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 79
+# RESOLUÇÃO ADMINISTRATIVA Nº 079/13 - GABIN
 
 _Altera dispositivos do Anexo 4.16 (Substituição Tributária das Operações com Pneumáticos) do RICMS/03._
 
@@ -11118,21 +11118,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-079-2022-21420.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 79-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 079/22 – GABIN"
 tipo: resolucao
 numero: 79
 data: "2022-12-12"
 ementa: "Altera o Anexo 4.11 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que trata da substituição tributária nas ope- rações com gasolina automotiva, lubrificantes, diesel e outros produtos derivados ou não de petróleo."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cbed3bce-e4c2-4cf8-b24a-3f7e7858c43b
-atualizado_na_fonte: "2025-08-27 10:32:40"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:44:28"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 79-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 079/22 – GABIN
 
 _Altera o Anexo 4.11 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que trata da substituição tributária nas ope- rações com gasolina automotiva, lubrificantes, diesel e outros produtos derivados ou não de petróleo._
 
@@ -11172,21 +11172,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, ficando co
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-080-2013-19994.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 80"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 080/13 - GABIN"
 tipo: resolucao
 numero: 80
 data: "2013-11-27"
 ementa: "Altera dispositivo do Anexo 1.4 do RICMS/03, que trata sobre redução da base de cálculo nas prestações de serviço por assinatura."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=db267516-28ec-4047-8a52-a76ba2de38b1
-atualizado_na_fonte: "2025-07-22 10:43:32"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:25:09"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 80
+# RESOLUÇÃO ADMINISTRATIVA Nº 080/13 - GABIN
 
 _Altera dispositivo do Anexo 1.4 do RICMS/03, que trata sobre redução da base de cálculo nas prestações de serviço por assinatura._
 
@@ -11245,21 +11245,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-080-2022-21421.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 80-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 080/22 – GABIN"
 tipo: resolucao
 numero: 80
 data: "2022-12-12"
 ementa: "Altera o Anexo 1.1 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção de ICMS nas ope- rações com oócito, embrião e sêmen bovinos, nos termos do Convênio ICMS nº 70, de 25 de junho de 1992."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=164ab54f-f846-4449-8953-a4fe73f303c5
-atualizado_na_fonte: "2025-08-27 10:33:00"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:44:14"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 80-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 080/22 – GABIN
 
 _Altera o Anexo 1.1 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção de ICMS nas ope- rações com oócito, embrião e sêmen bovinos, nos termos do Convênio ICMS nº 70, de 25 de junho de 1992._
 
@@ -11299,21 +11299,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-081-2013-19995.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 81"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 081/13 - GABIN"
 tipo: resolucao
 numero: 81
 data: "2013-11-27"
 ementa: "Altera dispositivos do Anexo 4.22 (Substituição Tributária das Operações com Veículo Motorizado de Duas Rodas) do RICMS/03."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c47372b0-41a3-4511-bab4-f5be82687d85
-atualizado_na_fonte: "2025-07-22 10:44:19"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:24:49"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.22, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 81
+# RESOLUÇÃO ADMINISTRATIVA Nº 081/13 - GABIN
 
 _Altera dispositivos do Anexo 4.22 (Substituição Tributária das Operações com Veículo Motorizado de Duas Rodas) do RICMS/03._
 
@@ -11447,21 +11447,21 @@ OC → SIGNIFICA QUE O REGISTRO DEVE SER PREENCHIDO SEMPRE QUE HOUVER A INFORMA�
 D - dia; M - mês; A - ano.
 <<<DOC normas/resolucao/resolucao-081-2022-21422.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 81-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 081/22 – GABIN"
 tipo: resolucao
 numero: 81
 data: "2022-12-23"
 ementa: "Altera o Anexo 1.2 (Isenção Por Tempo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações e correspondentes prestações de serviço de transporte realizadas no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV- 2), nos termos do Convênio ICMS nº 63, de 30 de julho de 2020."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8fec196e-1703-44c5-bb9d-509eaf2c3181
-atualizado_na_fonte: "2025-08-27 10:36:51"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:43:51"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 81-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 081/22 – GABIN
 
 _Altera o Anexo 1.2 (Isenção Por Tempo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações e correspondentes prestações de serviço de transporte realizadas no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV- 2), nos termos do Convênio ICMS nº 63, de 30 de julho de 2020._
 
@@ -11504,21 +11504,21 @@ Art. 2º Esta Resolução entra em vigor em na data da sua publicação, produzi
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-082-2013-19996.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 82"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 082/13 - GABIN"
 tipo: resolucao
 numero: 82
 data: "2013-12-19"
 ementa: "Acrescenta o Anexo 43 ao RICMS/03, que dispõe sobre concessão de regime especial nas operações e prestações que envolvam jornais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ed300d9c-8b58-46f6-b4c7-af78baa0dab6
-atualizado_na_fonte: "2025-07-22 10:44:39"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:24:20"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 43, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 82
+# RESOLUÇÃO ADMINISTRATIVA Nº 082/13 - GABIN
 
 _Acrescenta o Anexo 43 ao RICMS/03, que dispõe sobre concessão de regime especial nas operações e prestações que envolvam jornais._
 
@@ -11624,21 +11624,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, convalidan
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-082-2022-21423.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 82-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 082/22 – GABIN"
 tipo: resolucao
 numero: 82
 data: "2022-12-23"
 ementa: "Altera o Anexo 1.1 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção de ICMS nas operações com medicamentos destinados ao tratamento de câncer, nos termos do Convênio ICMS nº 162, de 7 de dezembro de 1994."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=508041ec-f3c0-43e7-a606-3c2199daf615
-atualizado_na_fonte: "2025-08-27 10:37:10"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:43:33"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 82-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 082/22 – GABIN
 
 _Altera o Anexo 1.1 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção de ICMS nas operações com medicamentos destinados ao tratamento de câncer, nos termos do Convênio ICMS nº 162, de 7 de dezembro de 1994._
 
@@ -11771,21 +11771,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-083-2013-19997.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 83"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 083/13 - GABIN"
 tipo: resolucao
 numero: 83
 data: "2013-12-19"
 ementa: "Acrescenta dispositivo ao Anexo 1.1 do RICMS/03, que concede isenção do ICMS a operações realizadas no âmbito do programa Nacional de Oncologia do Ministério da Saúde."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e5e815ea-0028-4484-89d1-556670fe470d
-atualizado_na_fonte: "2025-07-22 10:44:58"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:24:03"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 83
+# RESOLUÇÃO ADMINISTRATIVA Nº 083/13 - GABIN
 
 _Acrescenta dispositivo ao Anexo 1.1 do RICMS/03, que concede isenção do ICMS a operações realizadas no âmbito do programa Nacional de Oncologia do Ministério da Saúde._
 
@@ -11824,21 +11824,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-083-2022-21424.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 83-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 083/22 – GABIN"
 tipo: resolucao
 numero: 83
 data: "2022-12-26"
 ementa: "Altera o Anexo 4.11 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que trata da substituição tributária nas operações com gasolina automotiva, lubrificantes, diesel e outros produtos derivados ou não de petróleo."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=111414f5-f241-4b13-bcac-9a17af40ecc6
-atualizado_na_fonte: "2025-08-27 10:37:29"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:43:13"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 83-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 083/22 – GABIN
 
 _Altera o Anexo 4.11 do Regulamento do ICMS – RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que trata da substituição tributária nas operações com gasolina automotiva, lubrificantes, diesel e outros produtos derivados ou não de petróleo._
 
@@ -11877,21 +11877,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-085-2013-19998.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 85"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 085/13 - GABIN"
 tipo: resolucao
 numero: 85
 data: "2013-12-19"
 ementa: "Altera dispositivo do Anexo 4.20 do RICMS/03, que trata da substituição tributária das operações com transporte."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fae32a76-f812-4322-b074-9f61364f1a05
-atualizado_na_fonte: "2025-07-22 10:46:22"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:23:44"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.20, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 85
+# RESOLUÇÃO ADMINISTRATIVA Nº 085/13 - GABIN
 
 _Altera dispositivo do Anexo 4.20 do RICMS/03, que trata da substituição tributária das operações com transporte._
 
@@ -11932,21 +11932,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, convalidan
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-086-2013-19999.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 86"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 086/13 - GABIN"
 tipo: resolucao
 numero: 86
 data: "2013-12-19"
 ementa: "Acrescenta o art. 29 ao Anexo 1.1 do RICMS/03, que concede isenção do ICMS nas operações com medicamentos destinados ao tratamento do câncer."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=974bf678-5d3c-4737-856b-60f0b898de4e
-atualizado_na_fonte: "2025-07-22 10:49:09"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:23:21"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 86
+# RESOLUÇÃO ADMINISTRATIVA Nº 086/13 - GABIN
 
 _Acrescenta o art. 29 ao Anexo 1.1 do RICMS/03, que concede isenção do ICMS nas operações com medicamentos destinados ao tratamento do câncer._
 
@@ -12158,21 +12158,21 @@ AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 77 Acetato de Gosserrelina
 <<<DOC normas/resolucao/resolucao-086-2022-21427.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 86-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 086/22 – GABIN"
 tipo: resolucao
 numero: 86
 data: "2022-12-29"
 ementa: "Altera o Anexo 1.2 (Isenção Por Tempo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal, nos termos do Convênio ICMS nº 87, de 28 de junho de 2002."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19dee34a-441f-443d-9a7e-85c6e3d7fb40
-atualizado_na_fonte: "2025-08-27 10:38:32"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:41:33"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 86-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 086/22 – GABIN
 
 _Altera o Anexo 1.2 (Isenção Por Tempo Determinado) do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal, nos termos do Convênio ICMS nº 87, de 28 de junho de 2002._
 
@@ -12270,21 +12270,21 @@ II - a partir de 1º de fevereiro de 2023, em relação aos demais dispositivos.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-087-2013-20000.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 87"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 087/13 - GABIN"
 tipo: resolucao
 numero: 87
 data: "2013-12-19"
 ementa: "Inclui o Anexo 4.45 ao RICMS/03, que dispõe sobre substituição tributária nas operações com sorvetes e preparados para fabricação de sorvetes em máquinas."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7f0e2c2f-0b33-4736-bb01-5dee66c1c7ff
-atualizado_na_fonte: "2025-07-22 10:49:35"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:23:01"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.45, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 87
+# RESOLUÇÃO ADMINISTRATIVA Nº 087/13 - GABIN
 
 _Inclui o Anexo 4.45 ao RICMS/03, que dispõe sobre substituição tributária nas operações com sorvetes e preparados para fabricação de sorvetes em máquinas._
 
@@ -12367,21 +12367,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/resolucao/resolucao-087-2022-21428.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 87-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 087/22 – GABIN"
 tipo: resolucao
 numero: 87
 data: "2022-12-29"
 ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS às operações internas e interestaduais com automóveis de passageiros, para utilização como táxi, nos termos do Convênio ICMS nº 38, de 06 de julho de 2001."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3b0c95a0-b31e-4c8b-b928-d699eff81c9a
-atualizado_na_fonte: "2025-08-27 10:38:54"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:40:50"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 87-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 087/22 – GABIN
 
 _Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a isenção do ICMS às operações internas e interestaduais com automóveis de passageiros, para utilização como táxi, nos termos do Convênio ICMS nº 38, de 06 de julho de 2001._
 
@@ -12419,21 +12419,21 @@ Art. 2º Esta Resolução entra em vigor em na data da sua publicação.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-088-2013-20001.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 88"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 088/13 - GABIN"
 tipo: resolucao
 numero: 88
 data: "2013-12-24"
 ementa: "Altera dispositivos do Anexo 4.7 do RICMS/03 que dispõe sobre substituição tributária nas operações com disco fonográfico e fita virgem ou gravada."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=107b79b5-9335-4ebe-bcf3-171843a0d877
-atualizado_na_fonte: "2025-07-22 10:49:54"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:22:46"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.7, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 88
+# RESOLUÇÃO ADMINISTRATIVA Nº 088/13 - GABIN
 
 _Altera dispositivos do Anexo 4.7 do RICMS/03 que dispõe sobre substituição tributária nas operações com disco fonográfico e fita virgem ou gravada._
 
@@ -12568,21 +12568,21 @@ Art. 4º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-088-2022-21429.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 88-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 088/22 - GABIN"
 tipo: resolucao
 numero: 88
 data: "2022-12-29"
 ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre Nota Fiscal Eletrônica, modelo 55, e o Documento Auxiliar da Nota Fiscal Eletrônica, nos termos do Ajuste SINIEF nº 07, de 30 de setembro de 2005."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5f681419-a623-4f37-9dd3-6e26446d3660
-atualizado_na_fonte: "2025-08-27 10:39:13"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:40:34"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 88-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 088/22 - GABIN
 
 _Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre Nota Fiscal Eletrônica, modelo 55, e o Documento Auxiliar da Nota Fiscal Eletrônica, nos termos do Ajuste SINIEF nº 07, de 30 de setembro de 2005._
 
@@ -12655,21 +12655,21 @@ II - a partir de 1º de fevereiro de 2023, em relação aos demais dispositivos.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-089-2013-20002.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 89"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 089/13 - GABIN"
 tipo: resolucao
 numero: 89
 data: "2013-12-24"
 ementa: "Altera dispositivos do Regulamento do ICMS que trata sobre procedimentos para o transporte, no território nacional, de mercadorias ou bens contidos em encomendas aéreas internacionais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=78e7046c-4d6f-4468-9285-83c452d311ce
-atualizado_na_fonte: "2025-07-22 10:50:19"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:22:26"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 89
+# RESOLUÇÃO ADMINISTRATIVA Nº 089/13 - GABIN
 
 _Altera dispositivos do Regulamento do ICMS que trata sobre procedimentos para o transporte, no território nacional, de mercadorias ou bens contidos em encomendas aéreas internacionais._
 
@@ -12708,21 +12708,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-090-2013-20003.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 90"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 090/13 - GABIN."
 tipo: resolucao
 numero: 90
 data: "2013-12-24"
 ementa: "Altera dispositivos do Anexo 9.7 do RICMS/03, que dispõe sobre regime de tributação do ICMS aplicável aos serviços não medidos de televisão por assinatura, via satélite."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=46d39e39-2336-4004-93b1-a410025c94fe
-atualizado_na_fonte: "2025-07-22 10:50:40"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:20:58"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 9.7, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 90
+# RESOLUÇÃO ADMINISTRATIVA Nº 090/13 - GABIN.
 
 _Altera dispositivos do Anexo 9.7 do RICMS/03, que dispõe sobre regime de tributação do ICMS aplicável aos serviços não medidos de televisão por assinatura, via satélite._
 
@@ -12779,21 +12779,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-090-2022-21431.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 90-2022"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 090/22 – GABIN"
 tipo: resolucao
 numero: 90
 data: "2022-12-30"
 ementa: "Altera os Anexos 1.4 e 1.6 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a redução de base de cálculo do ICMS nas operações internas com mercadorias que compõem a cesta básica maranhense, nos termos da Lei nº 11.687, de 23 de dezembro de 2022, e do Convênio ICMS nº 128, de 20 de outubro de 1994, e dá outras disposições."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f9fea071-0182-4d42-967d-0648be85ceb1
-atualizado_na_fonte: "2025-08-27 10:40:10"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-19 14:39:52"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 1.4, Anexo 1.6, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 90-2022
+# RESOLUÇÃO ADMINISTRATIVA Nº 090/22 – GABIN
 
 _Altera os Anexos 1.4 e 1.6 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para dispor sobre a redução de base de cálculo do ICMS nas operações internas com mercadorias que compõem a cesta básica maranhense, nos termos da Lei nº 11.687, de 23 de dezembro de 2022, e do Convênio ICMS nº 128, de 20 de outubro de 1994, e dá outras disposições._
 
@@ -12844,21 +12844,21 @@ II - a partir de 1º de abril de 2023, em relação ao art. 2º.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/resolucao/resolucao-091-2013-20004.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 91"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 091/13 - GABIN"
 tipo: resolucao
 numero: 91
 data: "2013-12-24"
 ementa: "Altera o Anexo 8.3 do RICMS/03, que trata da emissão, escrituração, manutenção e prestação das informações dos documentos fiscais emitidos em via única por sistema eletrônico de processamento de dados para contribuintes prestadores de serviços de comunicação e fornecedores de energia elétrica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1bf49f8c-0eb1-4c74-9eef-ecf2ab59dd5d
-atualizado_na_fonte: "2025-07-22 10:51:16"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:20:37"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 8.3, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 91
+# RESOLUÇÃO ADMINISTRATIVA Nº 091/13 - GABIN
 
 _Altera o Anexo 8.3 do RICMS/03, que trata da emissão, escrituração, manutenção e prestação das informações dos documentos fiscais emitidos em via única por sistema eletrônico de processamento de dados para contribuintes prestadores de serviços de comunicação e fornecedores de energia elétrica._
 
@@ -12899,21 +12899,21 @@ Art. 2º Esta Resolução entra em vigor na data da sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-092-2013-20005.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 92"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 092/13 - GABIN"
 tipo: resolucao
 numero: 92
 data: "2013-12-24"
 ementa: "Altera dispositivos do Anexo 4.19 do RICMS/03 que dispõe sobre substituição tributária das operações com tintas e vernizes."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bf5ce4f3-680b-47f0-8243-63f3a3ade9e5
-atualizado_na_fonte: "2025-07-22 10:51:35"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:20:17"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.19, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 92
+# RESOLUÇÃO ADMINISTRATIVA Nº 092/13 - GABIN
 
 _Altera dispositivos do Anexo 4.19 do RICMS/03 que dispõe sobre substituição tributária das operações com tintas e vernizes._
 
@@ -12950,21 +12950,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-093-2013-20006.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 93"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 093/13 – GABIN"
 tipo: resolucao
 numero: 93
 data: "2013-12-24"
 ementa: "Altera o Anexo 37 do RICMS/03 que trata sobre regime especial nas operações e prestações com revistas e periódicos."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=14182985-e865-49e7-9169-877e38ec23f8
-atualizado_na_fonte: "2025-07-22 10:54:07"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:19:48"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 37, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 93
+# RESOLUÇÃO ADMINISTRATIVA Nº 093/13 – GABIN
 
 _Altera o Anexo 37 do RICMS/03 que trata sobre regime especial nas operações e prestações com revistas e periódicos._
 
@@ -13002,21 +13002,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-094-2013-20007.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 94"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 094/13 - GABIN"
 tipo: resolucao
 numero: 94
 data: "2013-12-24"
 ementa: "Altera o Anexo 4.38 do RICMS/03 que dispõe sobre substituição tributária nas operações com aparelhos celulares."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6fd5dee8-1c20-4108-b343-fa20c0fb8bae
-atualizado_na_fonte: "2025-07-22 10:54:26"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:19:28"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.38, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 94
+# RESOLUÇÃO ADMINISTRATIVA Nº 094/13 - GABIN
 
 _Altera o Anexo 4.38 do RICMS/03 que dispõe sobre substituição tributária nas operações com aparelhos celulares._
 
@@ -13059,21 +13059,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-095-2013-20008.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 95"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 095/13 - GABIN"
 tipo: resolucao
 numero: 95
 data: "2013-12-24"
 ementa: "Altera dispositivos do Anexo 4.16 do RICMS/03 que dispõe sobre substituição tributária das operações com pneumáticos."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6b5a9e60-0f82-488e-9759-44c85025755b
-atualizado_na_fonte: "2025-07-22 10:55:03"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:19:55"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.16, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 95
+# RESOLUÇÃO ADMINISTRATIVA Nº 095/13 - GABIN
 
 _Altera dispositivos do Anexo 4.16 do RICMS/03 que dispõe sobre substituição tributária das operações com pneumáticos._
 
@@ -13108,21 +13108,21 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação, produzindo
 AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/resolucao/resolucao-096-2013-20009.md>>>
 ---
-documento: "RESOLUÇÃO ADMINISTRATIVA Nº 96"
+documento: "RESOLUÇÃO ADMINISTRATIVA Nº 096/13 - GABIN"
 tipo: resolucao
 numero: 96
 data: "2013-12-30"
 ementa: "Revoga o Anexo 4.43 que trata da substituição tributária com materiais elétricos e Anexo 4.44 que dispõe sobre substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno, ambos do RICMS/03."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b5165b58-612b-490e-9c39-33647e517d67
-atualizado_na_fonte: "2025-07-22 10:55:43"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-20 14:18:48"
+extraido_em: "2026-10-24"
 remete_a: "Anexo 4.43, Anexo 4.44, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
 ---
 
-# RESOLUÇÃO ADMINISTRATIVA Nº 96
+# RESOLUÇÃO ADMINISTRATIVA Nº 096/13 - GABIN
 
 _Revoga o Anexo 4.43 que trata da substituição tributária com materiais elétricos e Anexo 4.44 que dispõe sobre substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno, ambos do RICMS/03._
 

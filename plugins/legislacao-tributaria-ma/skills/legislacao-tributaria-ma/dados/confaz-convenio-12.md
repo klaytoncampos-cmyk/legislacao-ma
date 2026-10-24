@@ -1,3 +1,93 @@
+<<<DOC confaz/convenio/convenio-234-2019.md>>>
+---
+documento: "Convênio ICMS 234/19"
+tipo: convenio
+numero: 234
+ano: 2019
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV234_19
+extraido_em: "2026-10-24"
+---
+
+# Convênio ICMS 234/19
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 234/19, DE 13 DE DEZEMBRO DE 2019
+
+Publicado no DOU de 18.12.19, pelo Despacho 96/19.
+
+Altera o Convênio ICMS 18/17, que institui o Portal Nacional da Substituição Tributária e estabelece as regras para a sua manutenção e atualização.
+
+O Conselho Nacional de Política Fazendária - CONFAZ na sua 175ª Reunião Ordinária, realizada em Curitiba, PR, no dia 13 de dezembro de 2019, tendo em vista o disposto nos art. 6º a 9º da Lei Complementar nº 87, de 13 de setembro de 1996, bem como na alínea “a” do inciso XIII do § 1º e no § 7º do art. 13 da Lei Complementar nº 123, de 14 de dezembro de 2006, e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira Fica acrescido o § 2º à cláusula quinta do Convênio ICMS 18/17, de 7 de abril de 2017, renumerando-se o parágrafo único para § 1º, com a seguinte redação:
+
+“§ 2º Para os Estados do Acre, Alagoas, Amazonas, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Tocantins e para o Distrito Federal, este convênio produzirá efeitos a partir de 1º de julho de 2020.”.
+
+Cláusula segunda Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
+<<<DOC confaz/convenio/convenio-235-2019.md>>>
+---
+documento: "Convênio ICMS 235/19"
+tipo: convenio
+numero: 235
+ano: 2019
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV235_19
+extraido_em: "2026-10-24"
+---
+
+# Convênio ICMS 235/19
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 235/19, DE 13 DE DEZEMBRO DE 2019
+
+Publicado no DOU de 18.12.19, pelo Despacho 96/19.
+
+Altera o Convênio ICMS 64/06, que estabelece disciplina para a operação de venda de veículo autopropulsado realizada por pessoa física que explore a atividade de produtor agropecuário ou por qualquer pessoa jurídica, com menos de 12 (doze) meses da aquisição da montadora.
+
+O Conselho Nacional de Política Fazendária – CONFAZ na sua 175ª Reunião Ordinária, realizada em Curitiba, PR, no dia 13 de dezembro de 2019, tendo em vista o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira Fica acrescida a cláusula oitava-A ao Convênio ICMS 64/06, de 7 de julho de 2006, com a seguinte redação:
+
+“Cláusula oitava-A O disposto neste convênio não se aplica ao Estado do Ceará.”.
+
+Cláusula segunda Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
+<<<DOC confaz/convenio/convenio-236-2019.md>>>
+---
+documento: "Convênio ICMS 236/19"
+tipo: convenio
+numero: 236
+ano: 2019
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV236_19
+extraido_em: "2026-10-24"
+---
+
+# Convênio ICMS 236/19
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 236/19, DE 13 DE DEZEMBRO DE 2019
+
+Publicado no DOU de 18.12.19, pelo Despacho 96/19.
+
+Altera o Convênio ICMS 24/11, que dispõe sobre concessão de regime especial, na área do ICMS nas operações e prestações que envolvam revistas e periódicos e dá outras providências.
+
+O Conselho Nacional de Política Fazendária – CONFAZ na sua 175ª Reunião Ordinária, realizada em Curitiba, PR, no dia 13 de dezembro de 2019, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira Fica alterado o § 3º da cláusula sexta do Convênio ICMS 24/11, de 1º de abril de 2011, que passa a vigorar com a seguinte redação:
+
+"§ 3º Os distribuidores, revendedores, consignatários ficam dispensados da emissão de NF-e prevista no caput e nos §§ 1º e 2º desta cláusula, observado o disposto no § 4º desta cláusula.".
+
+Cláusula segunda Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
 <<<DOC confaz/convenio/convenio-236-2021.md>>>
 ---
 documento: "CONVÊNIO ICMS 236/21"
@@ -6,7 +96,7 @@ numero: 236
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV236_21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # CONVÊNIO ICMS 236/21
@@ -112,7 +202,7 @@ numero: 240
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV240_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # Convênio ICMS 240/19

@@ -1,20 +1,20 @@
 <<<DOC normas/instrucao-normativa/instrucao-normativa-001-2004-3396.md>>>
 ---
-documento: "Nº 001 - Instrução normativa"
+documento: "Instrução Normativa Nº 001/2004"
 tipo: instrucao-normativa
 numero: 1
 data: "2004"
 ementa: "Estabelece procedimentos relativos à validação e entrega de arquivos magnéticos previstos no Convênio ICMS 57/95."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0af1d684-38f3-431e-bb10-3c375ee1b93b
-atualizado_na_fonte: "2024-11-26 18:57:47"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-22 18:12:16"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# Nº 001 - Instrução normativa
+# Instrução Normativa Nº 001/2004
 
 _Estabelece procedimentos relativos à validação e entrega de arquivos magnéticos previstos no Convênio ICMS 57/95._
 
@@ -88,27 +88,27 @@ Romualdo Henrique Silva de Oliveira Gerente de Estado da Receita Estadual, em ex
 
 
 CEGAT /UNINF/JLCS
-<<<DOC normas/instrucao-normativa/instrucao-normativa-3394.md>>>
+<<<DOC normas/instrucao-normativa/instrucao-normativa-004-2002-3394.md>>>
 ---
-documento: "Nº 004 - Instrução normativa"
+documento: "INSTRUÇÃO N.º 004/02"
 tipo: instrucao-normativa
 numero: 4
-data: ""
+data: "2002-09-23"
 ementa: "Dispõe sobre o preenchimento da DIEF relativo às operações com combustíveis e lubrificantes demais produtos sujeitos ao regime de substituição tributária nas operações internas e interestaduais e de exportações."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2d4e37d8-8d10-47f7-b682-82a785d917d0
-atualizado_na_fonte: "2024-11-26 18:53:10"
-extraido_em: "2026-10-19"
+atualizado_na_fonte: "2026-10-22 18:12:50"
+extraido_em: "2026-10-24"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# Nº 004 - Instrução normativa
+# INSTRUÇÃO N.º 004/02
 
 _Dispõe sobre o preenchimento da DIEF relativo às operações com combustíveis e lubrificantes demais produtos sujeitos ao regime de substituição tributária nas operações internas e interestaduais e de exportações._
 
-**Data:** não identificada  
+**Data:** 2002-09-23  
 **Remete a:** RICMS  
 **Situação:** vigente (sem revogação identificada)
 

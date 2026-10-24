@@ -6,11 +6,11 @@ orgao: SEFAZ-MA
 categoria_id: 342
 arquivo_id: 14436
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2e774d84-6990-4fd3-bdfb-863829fd3c08
-atualizado_na_fonte: "2026-10-08 14:41:06"
-extraido_em: "2026-10-15"
-paginas: 253
+atualizado_na_fonte: "2026-10-22 08:59:10"
+extraido_em: "2026-10-24"
+paginas: 254
 percentual_tachado: 28.8
-paginas_escaneadas: [153]
+paginas_escaneadas: [154]
 ---
 
 # LEI Nº 7.799, DE 19 DE DEZEMBRO DE 2002
@@ -31,7 +31,7 @@ ALTERAÇÕES:
 Lei nº 7.907/03, Lei nº 7.918/03, Lei nº 8.088/04, Lei nº 8.107/04, Lei nº 8.147/04, Lei nº 8.276/05, Lei nº 8.290/05, Lei nº 8.314/05, Lei nº 8.413/06, Lei nº 8.438/06, Lei nº 8.439/06, Lei nº 8.511/06, Lei nº 8.512/06, Lei nº 8.513/06, Lei nº 8.760/08, Lei nº 8.871/08, Lei nº 8.878/08, Lei nº 8.908/08, Lei nº 9.127/10, Lei nº 9.379/11, Lei nº 9.562/12, Lei nº 10.201/15, Lei nº 10.250/15, Lei nº 10.283/15, Lei nº 10.308/15, Lei nº 10.318/15, Lei nº 10.326/15, Lei nº 10.329/15, Lei nº 10.356/15; Lei nº 10.388/15; Lei 10.390/15, Lei nº 10.488/16; Lei 10.522/16;
 Lei nº 10.542/16, Lei nº 10.573/17; 10.633/17;10.956/18; 11.011/19; Lei 11.184/19; 11.222/20;
 Lei 11.237/20; Lei 11.251/20; Lei 11.387/20, Lei 11.764/22, 11.867/22; 12.120/23, 12.426/24; 12.611/25; 12.577/25; 12.768/26, 12.863/26.
-Medida Provisória nº 069/09; 091/11; 115/11; 216/16; 304/19; 309/20; 332/20; 342/21; 358/21; 359/21; 446/24;475/25;
+Medida Provisória nº 069/09; 091/11; 115/11; 216/16; 304/19; 309/20; 332/20; 342/21; 358/21; 359/21; 446/24;475/25; 561/26
 
 O GOVERNADOR DO ESTADO DO MARANHÃO,
 
@@ -2821,12 +2821,30 @@ Art. 94. O lançamento do imposto será feito de ofício pela Secretaria de Esta
 
 (NR Lei 10.956/18)
 
-Parágrafo único. No caso de veículo usado, a notificação do lançamento será feita mediante a publicação, no Diário Oficial do Estado, do calendário anual de pagamento.
+~~Parágrafo único. No caso de veículo usado, a notificação do lançamento será feita mediante a publicação, no Diário Oficial do Estado, do calendário anual de pagamento.~~
 
-(NR - Lei 10.956/18)
+~~(NR - Lei 10.956/18)~~
 
+§ 1° Para veículo novo, considera-se constituído o crédito tributário e notificado o sujeito passivo do imposto no dia em que for efetivado o registro do veículo no cadastro de contribuintes do IPVA.
+
+(NR e renumeração – MP 561/26)
+§ 2° Para veículo usado, considera-se constituído o crédito tributário e notificado o sujeito passivo do imposto no dia da publicação, no Diário Oficial do Estado, do calendário anual de pagamento, acompanhada da disponibilização do documento de arrecadação no sítio eletrônico da Secretaria de Estado da Fazenda e das informações necessárias à identificação do valor do imposto.
+
+§ 3° Considera-se realizada a cientificação do lançamento:
+I- na hipótese do §1º, na data da efetivação do registro no cadastro de contribuintes do IPVA;
+
+II - na hipótese do § 2°, na data da publicação do calendário anual de pagamento no Diário Oficial do Estado.
+
+§ 4° O sujeito passivo poderá apresentar impugnação no prazo de 30 (trinta) dias, contado da ciência do lançamento.
+
+§ 5° A impugnação apresentada no prazo do §4°suspende a exigibilidade do crédito tributário e será processada na forma do processo administrativo tributário disciplinado nesta Lei.
+
+§ 6° Não apresentada a impugnação no prazo do § 4º, ou sendo ela definitivamente rejeitada, e decorrido o prazo para pagamento sem a quitação do débito tributário, este será inscrito em Dívida Ativa.
+
+(§§ 2° a 6° AC – MP 561/26)
 Art. 95. O IPVA resultará da aplicação da alíquota correspondente sobre a respectiva base de cálculo.
 
+<!-- p. 84 -->
 Parágrafo único. O órgão da Receita Estadual divulgará no mês de dezembro, tabela com valores do imposto.
 
 Art. 96. Fica o Poder Executivo autorizado a disciplinar a forma e condição para pagamento parcelado do IPVA, bem como estabelecer percentual de redução do imposto para pagamento antecipado em cota única e prazo para pagamento do imposto.
@@ -2843,7 +2861,6 @@ Art. 97. Nenhum veículo será registrado, inscrito ou matriculado perante as re
 
 Parágrafo único. O disposto neste artigo aplica-se igualmente aos casos de alteração de cores, licenciamento, transferência, averbação, cancelamento, emissão de 2ª via de DUT, fornecimento de prontuário e a quaisquer outros atos que impliquem alterações no registro, inscrição ou matrícula do veículo.
 
-<!-- p. 84 -->
 ~~Art. 98. O imposto é vinculado ao veículo, não se exigindo, nos casos de transferência, novo pagamento do imposto já solvido neste Estado ou em outra unidade da federação, observando sempre o respectivo exercício.~~
 
 ~~Parágrafo único. Na hipótese deste artigo, o comprovante do pagamento do imposto transmite-se ao novo proprietário do veículo para efeito de registro, inscrição, matrícula ou averbação de qualquer alteração desses assentamentos.~~
@@ -2858,6 +2875,7 @@ II ~~- 5% (cinco por cento) do valor venal do veículo, quando ocorrer:~~
 
 ~~b) deixar, a locadora de veículos, de cumprir as obrigações acessórias, bem como a transferência do licenciamento, em se tratando de veículos registrados em outra unidade da federação, observado o disposto em Regulamento.~~
 
+<!-- p. 85 -->
 II - seja devido proporcionalmente a este Estado por empresa locadora, nos termos desta lei.
 
 (NR - Lei nº 10.488/2016)
@@ -2874,7 +2892,6 @@ I - a partir do mês seguinte ao da transferência para operação do veículo e
 
 II - quando se tratar de veículo destinado à locação avulsa e a permanência neste Estado seja temporária, conforme disposição regulamentar, observado o disposto nesta lei.
 
-<!-- p. 85 -->
 § 1º O imposto pago será restituído proporcionalmente em relação ao período em que se configurar a hipótese prevista no inciso I deste artigo.
 
 § 2º A dispensa do pagamento do imposto será aplicada a qualquer veículo automotor que, cumulativamente, na data da ocorrência do fato gerador:
@@ -2888,6 +2905,8 @@ c) estiver registrado no órgão de trânsito competente deste Estado.
 I - cuja atividade de locação de veículos represente no mínimo 50% (cinquenta por cento) de sua receita bruta;
 
 II - que obtenha reconhecimento dessa condição, segundo disciplina.
+
+<!-- p. 86 -->
 § 4º O disposto neste artigo não se aplica à locação de veículo com o respectivo condutor, situação que será considerada como prestação de serviço de transporte.
 
 § 5º A dispensa do pagamento fica condicionada à regularidade fiscal da empresa locadora.
@@ -2903,7 +2922,6 @@ II - o proprietário de veículo registrado anteriormente em outro Estado, quand
 
 § 1º Também está obrigada a fornecer os dados necessários à inscrição no Cadastro de Contribuintes do IPVA a empresa locadora de veículos que operar neste Estado, em relação a todos os veículos que vierem a ser locados ou colocados à disposição para locação neste Estado, inclusive os veículos licenciados em outra unidade da federação.
 
-<!-- p. 86 -->
 § 2º Quaisquer alterações ocorridas em relação ao proprietário ou ao veículo serão comunicadas às autoridades responsáveis pelo Cadastro de Contribuintes do IPVA.
 
 § 3º Cabe ao alienante e ao adquirente a obrigação de comunicar a alienação do veículo.
@@ -2919,6 +2937,7 @@ III - as empresas locadoras, informações sobre os veículos locados ou colocad
 
 IV - os leiloeiros que realizarem leilões de veículo automotor, relação dos veículos objetos do leilão, bem como valores das transferências e o nome e endereço dos alienantes e dos adquirentes;
 
+<!-- p. 87 -->
 V - os despachantes que auxiliarem no registro ou transferência de veículos, relação desses veículos, bem como os valores das transferências e o nome e endereço alienante e do adquirente;
 
 VI - os notários, informações sobre as transações com veículos perante eles realizadas, sem ônus para as partes do negócio;
@@ -2935,7 +2954,6 @@ Parágrafo único. As autoridades responsáveis pelo registro e manutenção de 
 
 (AC - Lei nº 10.488/2016)
 
-<!-- p. 87 -->
 Art. 98-D. O Poder Executivo manterá o Cadastro de Contribuintes do IPVA, podendo utilizar as informações relativas ao veículo ou ao proprietário constantes de registros de outros órgãos públicos.
 
 (AC - Lei nº 10.488/2016)
@@ -2953,6 +2971,7 @@ II - 5% (cinco por cento) do valor venal do veículo, quando ocorrer:
 
 a) fraude, dolo ou simulação no preenchimento de documento de arrecadação e de requerimento de imunidade ou isenção;
 
+<!-- p. 88 -->
 b) deixar, a locadora de veículos, de cumprir as obrigações acessórias, bem como a transferência do licenciamento, em se tratando de veículos registrados em outra unidade da federação, observado o disposto em Regulamento.
 
 Parágrafo único. As multas previstas neste artigo são impostas por exercício, cumulativamente e serão calculadas sobre o valor do IPVA ou sobre o valor venal do veículo no mês do lançamento de ofício.
@@ -2974,8 +2993,6 @@ Art. 100. Os débitos do imposto sobre a propriedade de veículos automotores - 
 § 2º Os acréscimos moratórios aplicáveis serão os
 
 seguintes:
-
-<!-- p. 88 -->
 (NR - Lei 10.956/18)
 I – multa de mora, calculada no percentual de trinta e três centésimos por cento, por dia de atraso, a partir do primeiro dia subsequente ao do vencimento do prazo previsto para o pagamento do imposto, até o dia em que ocorrer o seu pagamento, limitado a vinte por cento;
 
@@ -2995,6 +3012,7 @@ III - de 10% (dez por cento), se for pago no prazo de 30 (trinta) dias contados 
 
 IV - de 5% (cinco por cento), se for pago antes do ajuizamento da execução do crédito tributário.
 
+<!-- p. 89 -->
 § 1º Condiciona-se o benefício ao pagamento integral do imposto devido.
 
 § 2º O pagamento efetuado nos termos deste artigo implica renúncia à defesa e desistência dos recursos interpostos.
@@ -3011,7 +3029,6 @@ SEÇÃO IX DA DESTINAÇÃO DO PRODUTO ARRECADADO
 
 Art. 104. Do produto da arrecadação do imposto, incluídos os acréscimos correspondentes, 50% (cinquenta por cento) constituirão receita do Estado e 50% (cinquenta por cento) do Município onde estiver licenciado, inscrito ou matriculado o veículo.
 
-<!-- p. 89 -->
 Parágrafo único. O órgão da Receita Estadual providenciará o estorno da importância indevidamente repassada ao Município, em função da repartição do indébito.
 
 Seção X DA RESTITUIÇÃO DO IMPOSTO
@@ -3026,6 +3043,8 @@ II - erro na identificação do sujeito passivo, na determinação da alíquota 
 
 III - reforma, anulação, revogação ou rescisão de decisão condenatória; e,
 IV - quando ocorrer erro de fato.
+
+<!-- p. 90 -->
 § 1º A restituição total ou parcial do imposto deve ser acompanhada da devolução, na mesma proporção, dos valores das multas, juros e atualização monetária, conforme couber, pagos a maior ou indevidamente.
 
 § 2º A restituição poderá ser solicitada ou de ofício, nos termos do regulamento do imposto.
@@ -3043,7 +3062,6 @@ II - a partir do exercício subsequente ao da ocorrência, exceto no caso de sin
 
 Art. 104-C. Poderá ser aplicada a compensação do imposto, conforme procedimentos estabelecidos nesta Lei e em regulamento.
 
-<!-- p. 90 -->
 CAPÍTULO III DO IMPOSTO SOBRE A TRANSMISSÃO “CAUSA MORTIS”
 
 E DOAÇÃO, DE QUAISQUER BENS OU DIREITOS
@@ -3061,6 +3079,7 @@ III - direitos relativos às transmissões referidas nos incisos anteriores;
 IV - bens móveis, semoventes, direitos, títulos e créditos.
 (NR - MP nº069/09, Lei nº 9.127/10)
 
+<!-- p. 91 -->
 § 1º O imposto é devido quando o imóvel transmitido, ou sobre que versam os direitos transmitidos seja situado em território deste Estado, mesmo que a mutação patrimonial decorra de sucessão aberta fora dele.
 
 § 2º Nas transmissões “Causa Mortis” e Doação ocorrem tantos fatos geradores distintos quantos forem os herdeiros, legatários ou donatários.
@@ -3080,10 +3099,7 @@ V - a transmissão decorrente de doação de quaisquer bens e direitos, a qualqu
 
 VI ~~- a transmissão do montante excedente da meação, por ocasião da partilha de quaisquer bens e direitos existentes sob o regime de comunhão, na ação de separação judicial ou de divórcio;~~
 
-VI - o excesso de meação ou quinhão quando, na divisão do patrimônio comum ou partilha, em sucessão causa mortis, dissolução de sociedade conjugal ou de união estável, alteração do regime de bens ou dissolução de condomínio, associação, sociedade empresarial ou civil, qualquer dos cônjuges, companheiros, herdeiros,
-
-<!-- p. 91 -->
-condôminos, associados ou quotistas receber montante que exceda a meação, quinhão, quota ou fração ideal a que fazem jus;
+VI - o excesso de meação ou quinhão quando, na divisão do patrimônio comum ou partilha, em sucessão causa mortis, dissolução de sociedade conjugal ou de união estável, alteração do regime de bens ou dissolução de condomínio, associação, sociedade empresarial ou civil, qualquer dos cônjuges, companheiros, herdeiros, condôminos, associados ou quotistas receber montante que exceda a meação, quinhão, quota ou fração ideal a que fazem jus;
 
 (NR - Lei 11.387/20, com efeitos a partir de 21.03.21)
 
@@ -3096,7 +3112,7 @@ IX - o recebimento de quantias depositadas em contas bancárias de poupança ou 
 
 ~~§ 1º Para os efeitos deste artigo, equipara-se à doação qualquer ato ou fato não oneroso que importe ou resolva a transmissão de quaisquer bens ou direitos, tais como renúncia, desistência e cessão.~~ 4
 
-
+<!-- p. 92 -->
 § 1º Para efeitos deste artigo, equipara-se à doação qualquer ato ou fato não oneroso que importe ou resolva a transmissão de quaisquer bens ou direitos, tais como renúncia translativa, desistência, cessão e perdão de dívida.
 
 (NR - Lei 11.387/20, com efeitos a partir de 21.03.21)
@@ -3117,8 +3133,6 @@ III - a pessoa jurídica de direito público, relativamente à repartição onde
 § 4º Nas doações remuneratórias ou com encargos, incluir-se-ão na incidência do imposto referido neste artigo os valores apurados na remuneração do serviço e os relativos ao cumprimento do encargo.
 
 (Incisos V a IX AC - MP 069/09, Lei 9.127/10) (§§ 1º a 4º NR - MP 069/09, Lei 9.127/10)
-
-<!-- p. 92 -->
 Art.106-A. Para os efeitos deste Capítulo, a união estável será comprovada na forma de que dispuser legislação específica.
 
 (AC – Lei 11.317/20, com efeitos a partir de 21.03.21)
@@ -3133,6 +3147,7 @@ I - à União, aos Estados, ao Distrito Federal, Municípios, suas autarquias, e
 
 II - aos templos de qualquer culto;
 
+<!-- p. 93 -->
 III - aos partidos políticos, inclusive suas fundações, às entidades sindicais dos trabalhadores, às instituições de educação e de assistência social, sem fins lucrativos, atendidos os requisitos da lei.
 
 IV - quando houver renúncia pura e simples à herança ou ao legado, sem ressalva ou condição, desde que o renunciante não indique beneficiário ou tenha praticado ato que demonstre aceitação;
@@ -3155,7 +3170,6 @@ Parágrafo único. A não-incidência prevista neste artigo, relativamente aos i
 
 I - não se aplica ao patrimônio, à renda e aos serviços, relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário, nem exonera o promitente comprador da obrigação de pagar imposto relativamente ao bem imóvel.
 
-<!-- p. 93 -->
 II - é condicionada a que os bens, direitos, títulos ou créditos se destinem ao atendimento das finalidades essenciais das entidades mencionadas neste artigo, bem como que elas:
 
 a) não distribuam qualquer parcela de seu patrimônio ou de suas rendas, a qualquer título;
@@ -3168,6 +3182,7 @@ Art. 107- A. Fica isenta do imposto a transmissão:
 
 I - de bem imóvel urbano, desde que constitua o único bem a ser partilhado e que a sua avaliação seja igual ou inferior a trinta e duas vezes o valor do salário-mínimo vigente no Estado à época da transmissão;
 
+<!-- p. 94 -->
 II - de bem imóvel rural, desde que constitua o único bem a ser partilhado e que a sua avaliação seja igual ou inferior a vinte e uma vezes o valor do salário-mínimo vigente no Estado à época da transmissão;
 
 III - de bens e/ou direitos, transmitidos por doação, cujo valor recebido por donatário não ultrapasse o equivalente a vinte e uma vezes o valor do salário-mínimo vigente no Estado à época da transmissão;
@@ -3191,7 +3206,6 @@ Art. 108. A base de cálculo do imposto é:
 
 I - o valor venal do bem ou direito;
 
-<!-- p. 94 -->
 II - o valor do título ou do crédito.
 
 III - o valor integral do bem na transmissão da posse e da nua-
@@ -3208,6 +3222,8 @@ IV - 50% (cinquenta por cento) do valor do bem na instituição de usufruto e di
 § 2º Entende-se por valor venal o valor corrente de mercado do bem ou
 
 direito.
+
+<!-- p. 95 -->
 ~~§ 3º A Agência da Secretaria de Estado da Fazenda procederá à avaliação dos bens localizados em sua área de circunscrição, sendo que a homologação da avaliação será realizada pela unidade central de administração do ITCD.~~
 
 § 3º Compete à Unidade Central de Administração do ITCD da Secretaria de Estado da Fazenda proceder à avaliação e homologação dos bens localizados em todo território do Estado, podendo o Secretário de Estado da Fazenda, no interesse da melhor prestação dos serviços, designar outras unidades para a realização de tais atividades, observada a legislação específica.
@@ -3229,8 +3245,6 @@ direito.
 § 7º Tratando-se de plano de previdência privada ou outra forma de investimento que envolva capitalização de aportes financeiros, a base de cálculo corresponde ao valor da provisão formada pelos referidos aportes e respectivos rendimentos na data do fato gerador.
 
 (AC – Lei nº 11.184/19)
-
-<!-- p. 95 -->
 § 8º Tratando-se de plano de previdência privada ou assemelhado, cujo contrato envolva capitalização de aportes financeiros e seguro de vida, não se inclui na base de cálculo, a parcela referente ao seguro sob forma de pecúlio ou renda.
 
 (AC – Lei nº 11.184/19)
@@ -3245,6 +3259,7 @@ II - relativamente a bem móvel e respectivos direitos, quando domiciliado neste
 
 § 10. Na transmissão causa mortis, para obtenção da base de cálculo do imposto antes da partilha, presume-se como valor do quinhão:
 
+<!-- p. 96 -->
 I - do herdeiro legítimo, o que lhe cabe no monte partilhável, segundo a legislação civil;
 
 II - do herdeiro testamentário, o valor do legado ou da herança atribuída, segundo a legislação civil.
@@ -3269,7 +3284,6 @@ Art. 110. As alíquotas do ITCD são:
 
 I – nas doações de quaisquer bens ou direitos e nas instituições de usufruto:
 
-<!-- p. 96 -->
 a) 1% (um por cento), caso a soma dos valores venais não seja superior a R$ 100.000,00, respeitadas as disposições sobre os limites e condições de isenção previstas no art. 107-A, da Lei nº 7.799/2002, atualizada pela Lei nº 9.127/2010;
 
 b) 1,5% (um e meio por cento), caso a soma dos valores venais seja superior a R$ 100.000,00 e se estenda até R$ 300.000,00;
@@ -3282,6 +3296,7 @@ a) 3% (três por cento), caso a soma dos valores venais se estenda até R$ 300.0
 
 b) 4% (quatro por cento), caso a soma dos valores venais seja superior a R$ 300.000,00 e se estenda até R$ 600.000,00;
 
+<!-- p. 97 -->
 c) 5% (cinco por cento), caso a soma dos valores venais seja superior a R$ 600.000,00 e se estenda até R$ 900.000,00;
 
 
@@ -3313,7 +3328,6 @@ II - de 4% (quatro por cento) nas
 demais hipóteses de incidência.
 (NR MP nº 069/09, Lei nº 9.127/10)
 
-<!-- p. 97 -->
 SEÇÃO V DO CONTRIBUINTE
 Art. 111. Contribuinte do imposto é:
 
@@ -3330,7 +3344,10 @@ III - na cessão não onerosa, o cessionário;
 IV - na instituição de usufruto, o usufrutuário. (Incisos III e IV AC - MP nº 069/09, Lei nº 9.127/10)
 
 
-SEÇÃO VI DOS RESPONSÁVEIS
+SEÇÃO VI
+
+<!-- p. 98 -->
+DOS RESPONSÁVEIS
 
 Art. 112. Nas transmissões ou doações que se efetuarem sem pagamento do imposto devido, ficam solidariamente por ele responsáveis:
 
@@ -3348,10 +3365,7 @@ Art. 112-A. As entidades de previdência complementar, seguradoras e instituiç�
 
 § 2º O responsável apresentará à Secretaria de Estado da Fazenda, Declaração do Imposto de Transmissão (DIT) que será preenchida em modelo específico disponibilizado na página da SEFAZ na Internet.
 
-§ 3º Sem prejuízo do disposto no § 2º, as entidades de previdência complementar, seguradoras e instituições financeiras prestarão informações à
-
-<!-- p. 98 -->
-Administração Tributária sobre os planos de previdência privada e seguro de pessoas na modalidade de PGBL, VGBL ou semelhantes sob sua administração quando relativas ao fato gerador ITCD.
+§ 3º Sem prejuízo do disposto no § 2º, as entidades de previdência complementar, seguradoras e instituições financeiras prestarão informações à Administração Tributária sobre os planos de previdência privada e seguro de pessoas na modalidade de PGBL, VGBL ou semelhantes sob sua administração quando relativas ao fato gerador ITCD.
 
 (Art. 112-A e §§ - acrescentados pela Lei nº 11.184/19)
 
@@ -3366,6 +3380,7 @@ I - antes do formal de partilha ou de carta de adjudicação judicial expedidos 
 
 (NR Lei nº 11.387/20, com efeitos a partir de 21.03.21)
 
+<!-- p. 99 -->
 II - antes da lavratura da escritura pública e do registro de qualquer instrumento.
 
 ~~Parágrafo único. Os juros de mora sobre débitos em atraso serão calculados e pagos em conformidade com o art. 231 desta Lei.~~
@@ -3391,10 +3406,7 @@ II - gerar Declaração do Imposto de Transmissão (DIT) e anexar os documentos 
 
 SEÇÃO VIII DA FISCALIZAÇÃO
 
-Art. 114. Os escrivães, tabeliães, oficiais de notas, de registro de imóveis e de registro de títulos e documentos e quaisquer outros serventuários da justiça não poderão
-
-<!-- p. 99 -->
-praticar atos que importem transmissão de bens imóveis ou de direitos a eles relativos, bem como cessões sem que os interessados apresentem comprovante original do pagamento do imposto.
+Art. 114. Os escrivães, tabeliães, oficiais de notas, de registro de imóveis e de registro de títulos e documentos e quaisquer outros serventuários da justiça não poderão praticar atos que importem transmissão de bens imóveis ou de direitos a eles relativos, bem como cessões sem que os interessados apresentem comprovante original do pagamento do imposto.
 
 Art. 114-A. A Junta Comercial do Maranhão (JUCEMA) somente fará o registro da transferência da participação societária dos titulares de empresa, nos casos de doação, renúncia ou falecimento, mediante apresentação do comprovante original do pagamento do ITCD – Imposto Sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos pelos interessados.
 
@@ -3402,6 +3414,7 @@ Art. 114-A. A Junta Comercial do Maranhão (JUCEMA) somente fará o registro da 
 
 Art. 115. Os escrivães, tabeliães, oficiais de notas, de registro de imóveis e de registro de títulos e documentos ficam obrigados a facilitar à fiscalização do órgão da Receita Estadual o exame em Cartório, dos livros, registros e outros documentos e a lhe fornecer, gratuitamente, quando solicitada, oficialmente, certidão de atos que forem lavrados, transcritos, averbados ou inscritos e concernentes a imóveis ou direitos a eles relativos.
 
+<!-- p. 100 -->
 Art. 115-A. A Junta Comercial do Estado do Maranhão (JUCEMA) comunicará à autoridade fazendária a entrada de qualquer instrumento que altere a participação societária de titulares de empresas, seja na transferência por cessão, doação, renúncia ou falecimento, na forma disciplinada pela Secretaria de Estado da Fazenda.
 
 (AC - MP 069/09, Lei nº 9.127/10)
@@ -3423,7 +3436,6 @@ Art. 117. A omissão ou inexatidão de declaração relativa a elementos que pos
 
 (NR- MP nº 069/09, Lei nº 9.127/10)
 
-<!-- p. 100 -->
 Art. 117-A. A falta de pagamento do imposto em virtude de fraude, dolo ou simulação sujeitará os contribuintes ou responsáveis multa de 100% (cem por cento)
 
 (AC - MP nº 069/09, Lei nº 9.127/10)
@@ -3440,6 +3452,7 @@ Art. 118-A. As multas previstas neste Capítulo serão reduzidas de acordo com o
 
 (AC - MP 069/09, Lei nº 9.127/10)
 
+<!-- p. 101 -->
 Art. 119. O pagamento espontâneo do imposto, fora dos prazos estabelecidos, sujeitará o contribuinte à multa de 2% (dois por cento) do valor do imposto.
 
 (NR - MP 069/09, Lei nº 9.127/10)
@@ -3467,7 +3480,6 @@ CAPÍTULO I
 
 DA TAXA DE FISCALIZAÇÃO E SERVIÇOS DIVERSOS
 
-<!-- p. 101 -->
 SEÇÃO I DA INCIDÊNCIA
 
 Art. 121. A Taxa de Fiscalização e Serviços Diversos é devida em decorrência da utilização efetiva ou potencial, dos serviços públicos estaduais específico e divisíveis, prestados ao contribuinte ou colocado à sua disposição, e das atividades relacionadas com o Poder de Polícia, especificados no anexo II.
@@ -3476,7 +3488,7 @@ Parágrafo único. Considera-se poder de polícia a atividade da Administração
 
 (AC - MP 115/11, Lei nº 9.562/12)
 
-
+<!-- p. 102 -->
 SEÇÃO II DAS ISENÇÕES
 Art. 122. São isentos da Taxa de Fiscalização e Serviços Diversos os atos e documentos relativos:
 
@@ -3502,7 +3514,6 @@ Art. 123. A Taxa de Fiscalização e Serviços Diversos e emolumentos serão cob
 
 § 1º Nos casos em que a taxa seja exigida anualmente, será calculada proporcionalmente aos meses restantes, quando o início da atividade tributável não coincidir com o ano civil, incluindo-se, porém o mês em que começou a ser exercida.
 
-<!-- p. 102 -->
 § 2° O Poder Executivo estabelecerá critérios para cobrança dos tributos de que trata este artigo.
 
 
@@ -3518,6 +3529,7 @@ Art. 124. O pagamento da taxa será exigido antes da prática do ato, ou da assi
 
 Art. 125. A taxa será paga em estabelecimento bancário autorizado, ou em repartição arrecadadora, na forma disciplinada pela Receita Estadual.
 
+<!-- p. 103 -->
 Art. 126. A taxa paga não será restituível, salvo se as autoridades se negarem a praticar o ato solicitado ou a prestar o serviço relacionado com o pagamento.
 
 
@@ -3537,7 +3549,6 @@ Art. 130. A medida a que se refere o artigo anterior só será suspensa após o 
 
 SEÇÃO VII DAS MULTAS
 
-<!-- p. 103 -->
 Art. 131. A falta de pagamento, total ou parcial, da Taxa de Fiscalização e Serviços Diversos, nos prazos legais, sujeitará o contribuinte à multa de 50% (cinquenta por cento) do valor da taxa devida.
 
 CAPÍTULO II DA TAXA JUDICIÁRIA
@@ -3548,6 +3559,7 @@ Art. 132. A Taxa Judiciária incide sobre a ação ou processo judicial, contenc
 
 SEÇÃO II DAS ISENÇÕES
 
+<!-- p. 104 -->
 Art. 133. São isentos da Taxa Judiciária:
 
 I - as ações de alimentos;
@@ -3577,7 +3589,6 @@ II - nas causas inestimáveis ou em processos acessórios, R$ 3,00 (três reais)
 
 SEÇÃO IV DOS PRAZOS, DAS FORMAS DE PAGAMENTO
 
-<!-- p. 104 -->
 E DA RESTITUIÇÃO
 
 Art. 135. A Taxa Judiciária será paga antes da distribuição do feito.
@@ -3591,7 +3602,7 @@ SEÇÃO V DOS CONTRIBUINTES
 
 Art. 138. Contribuinte da Taxa Judiciária é a pessoa física ou jurídica que propuser, em qualquer juízo ou Tribunal, ação ou processo judicial, contencioso ou administrativo, ordinário, especial ou acessório.
 
-
+<!-- p. 105 -->
 SEÇÃO VI DA FISCALIZAÇÃO
 
 Art. 139. A fiscalização da Taxa Judiciária compete ao órgão da Receita Estadual.
@@ -3610,10 +3621,7 @@ Art. 143. A falta de pagamento, total ou parcial, da Taxa Judiciária, nos prazo
 
 TÍTULO III DA CONTRIBUIÇÃO DE MELHORIA
 
-CAPÍTULO I
-
-<!-- p. 105 -->
-DA INCIDÊNCIA
+CAPÍTULO I DA INCIDÊNCIA
 
 Art. 144. A contribuição de Melhoria tem como fato gerador o benefício por obra pública de imóvel localizado na área beneficiada, observadas as normas da legislação federal.
 
@@ -3626,6 +3634,7 @@ I - da União, Estados, Municípios e demais pessoas jurídicas de Direito Públ
 
 II - de partidos políticos e de templos de qualquer culto;
 
+<!-- p. 106 -->
 III - de instituições de educação e assistência social devidamente reconhecidas, observados os dispositivos fixados em legislação específica.
 
 
@@ -3649,7 +3658,6 @@ Art. 148. São solidariamente responsáveis pelo pagamento da Contribuição de 
 
 CAPÍTULO V DA FISCALIZAÇÃO
 
-<!-- p. 106 -->
 Art. 149. A fiscalização da Contribuição de Melhoria compete ao órgão da Receita Estadual, e em especial, às autoridades e agentes administrativos dos órgãos e entidades a que estiver legada a execução de obra.
 
 
@@ -3664,6 +3672,8 @@ Art. 150. O atraso no pagamento da Contribuição de Melhoria sujeitará o contr
 LIVRO II DA ADMINISTRAÇÃO TRIBUTÁRIA
 
 TÍTULO I
+
+<!-- p. 107 -->
 CAPÍTULO I DA FISCALIZAÇÃO DOS TRIBUTOS
 
 Art. 151. A fiscalização dos tributos estaduais será exercida sobre todas as pessoas naturais ou jurídicas, contribuintes ou não, que forem sujeitos passivos de obrigações tributárias, inclusive sobre as que gozarem de imunidade ou isenção.
@@ -3685,7 +3695,6 @@ IV - os bancos, casas bancárias, caixas econômicas e demais instituições fin
 (Regulamentado pelo Decreto 32.536/2016).
 V - os síndicos, comissários, inventariantes e liquidatários;
 
-<!-- p. 107 -->
 VI - as empresas de administração de bens;
 
 VII - os leiloeiros, corretores e despachantes oficiais;
@@ -3703,6 +3712,7 @@ X - intermediadores de serviços e de negócios, inclusive na internet;
 
 XI - quaisquer outras entidades ou pessoa em razão de seu cargo, ofício, função, ministério, atividade ou profissão.
 
+<!-- p. 108 -->
 (AC – Lei 11.387/20, com efeitos a partir de 21.03.21)
 
 ~~Parágrafo único. A obrigação prevista neste artigo não abrange a prestação de informações quanto a fatos sobre os quais o informante esteja legalmente obrigado a observar segredo em razão do cargo, ofício, função, ministério, atividade ou profissão.~~
@@ -3725,7 +3735,6 @@ Art. 157. No caso de recusa de apresentação de livro ou documento, o agente do
 
 CAPÍTULO II DAS INFRAÇÕES E DAS PENALIDADES
 
-<!-- p. 108 -->
 Art. 158. Constitui infração toda ação ou omissão voluntária ou involuntária, que importe em inobservância, por parte de pessoa física ou jurídica, de norma estabelecida na legislação tributária do Estado.
 
 § 1º Respondem pela infração:
@@ -3740,6 +3749,7 @@ Art. 159. O direito de impor penalidade extingue-se em 5 (cinco) anos, contados 
 
 Art. 160. Os infratores serão punidos com as seguintes penas:
 
+<!-- p. 109 -->
 I - multa;
 
 II - proibição de transacionar com as repartições públicas ou autarquias estaduais e com os estabelecimentos bancários controlados pelo Estado;
@@ -3765,10 +3775,7 @@ II - das condições pessoais do contribuinte, suscetíveis de afetar a obrigaç
 
 § 3º Conluio é o ajuste doloso entre duas ou mais pessoas naturais ou jurídicas visando a qualquer dos efeitos referidos nos parágrafos anteriores.
 
-§ 4º Reincidência é a nova infração a um mesmo dispositivo da legislação tributária, cometida pela mesma pessoa natural ou jurídica dentro de 5 (cinco) anos da data
-
-<!-- p. 109 -->
-em que passar em julgado, administrativamente, a decisão condenatória, referente à infração anterior.
+§ 4º Reincidência é a nova infração a um mesmo dispositivo da legislação tributária, cometida pela mesma pessoa natural ou jurídica dentro de 5 (cinco) anos da data em que passar em julgado, administrativamente, a decisão condenatória, referente à infração anterior.
 
 § 5º Ocorrendo as circunstâncias agravantes referidas nos incisos I e III deste artigo, a multa será aplicada em dobro. No caso de reincidência, será aplicado, na primeira repetição da infração, 50% (cinquenta por cento) da multa e nas repetições subsequentes, mais 10% (dez por cento).
 
@@ -3778,6 +3785,7 @@ Art. 163. O pagamento da multa não dispensa a exigência do tributo, quando dev
 
 Art. 164. Se do processo se apurar a responsabilidade de duas ou mais pessoas, será imposta a cada uma delas a pena relativa à infração que houver cometido.
 
+<!-- p. 110 -->
 Art. 165. As infrações continuadas estão sujeitas a uma pena única, com aumento de 10% (dez por cento) para cada repetição da falta, não podendo o valor total exceder o dobro da pena básica.
 
 Parágrafo único. Considerar-se-ão infrações continuadas, quando se tratar de repetição de infração ainda não apurada ou que já seja objeto de processo, de cuja instauração o infrator não tenha conhecimento.
@@ -3796,10 +3804,7 @@ c) de acordo com a interpretação fiscal, constante de circulares, instruções
 
 Art. 167. Os devedores de tributos estaduais, inclusive os fiadores, declarados remissos, são proibidos de transacionar, a qualquer título, com as repartições públicas ou autárquicas estaduais e com os estabelecimentos bancários controlados pelo Estado, na forma disciplinada em regulamento.
 
-Parágrafo único. A proibição de transacionar, constante deste artigo, compreende a participação em concorrência, coleta ou tomada de preços, a celebração de contratos de qualquer natureza, inclusive de abertura de crédito e levantamento de
-
-<!-- p. 110 -->
-empréstimo em estabelecimento bancário estadual ou controlado pelo Estado, e quaisquer outros atos que importem em transação.
+Parágrafo único. A proibição de transacionar, constante deste artigo, compreende a participação em concorrência, coleta ou tomada de preços, a celebração de contratos de qualquer natureza, inclusive de abertura de crédito e levantamento de empréstimo em estabelecimento bancário estadual ou controlado pelo Estado, e quaisquer outros atos que importem em transação.
 
 Art. 167-A. A partir de 1º de julho de 2005, o Estado divulgará o nome dos contribuintes inscritos em Dívida Ativa, inclusive com menção aos valores devidos, exceto se o crédito tributário estiver parcelado e em situação de adimplência.
 
@@ -3808,6 +3813,7 @@ Art. 167-A. A partir de 1º de julho de 2005, o Estado divulgará o nome dos con
 
 § 2º As informações divulgadas nos termos do caput deste artigo poderão ser utilizadas ou consideradas, no exercício de suas atividades, por entidades de proteção ao crédito ou por centrais de risco de crédito, entidades de registros públicos, cartórios e tabelionatos, entidades do sistema financeiro, bem como por qualquer outra entidade pública ou privada.
 
+<!-- p. 111 -->
 ~~§ 3º Na hipótese do § 2o, poderá, se necessário, ser celebrado convênio entre a Secretaria de Estado da Fazenda e as respectivas entidades.~~
 
 ~~(Art. 167A AC pela Lei nº 8.438/06)~~
@@ -3834,7 +3840,6 @@ I - deixar de recolher, no todo ou em parte, o ICMS devido nos prazos legais, de
 
 (NR Lei nº 11.387/20, com efeitos a partir de 21.03.21)
 
-<!-- p. 111 -->
 ~~II – tiver créditos tributários inscritos em dívida ativa em valor superior a R$ 200.000,00 (duzentos mil reais), decorrente de imposto não declarado, em oito períodos de apuração do imposto, nos doze meses anteriores ao corrente, considerados todos os estabelecimentos da empresa; ou~~
 
 II - tiver créditos tributários inscritos em dívida ativa em valor superior a R$ 200.000,00 (duzentos mil reais), nos doze meses anteriores ao de referência, considerados todos os estabelecimentos da empresa; ou
@@ -3843,6 +3848,7 @@ II - tiver créditos tributários inscritos em dívida ativa em valor superior a
 
 III – tiver créditos tributários inscritos em dívida ativa que ultrapasse a 30% (trinta por cento) do seu patrimônio conhecido ou 25% (vinte e cinco por cento) do faturamento anual declarado.
 
+<!-- p. 112 -->
 § 1º A quantidade de períodos de apuração do imposto, para fins do disposto neste artigo, poderá ser alterada por ato administrativo de competência do Secretário de Estado da Fazenda.
 
 § 2º Não serão computados, para efeitos deste artigo, os créditos tributários cuja exigibilidade esteja suspensa nos termos do Código tributário Nacional.
@@ -3863,7 +3869,6 @@ III – pagamento do ICMS na ocorrência do fato gerador ou anteriormente à emi
 
 IV – inclusão automática na programação de fiscalização;
 
-<!-- p. 112 -->
 V – exigência de apresentação periódica de informações econômicas, patrimoniais e financeiras.
 
 § 1º Compete à secretaria de Estado da Fazenda a inclusão e exclusão no REF, dos contribuintes considerados devedores contumazes, bem como a disponibilização da lista dos contribuintes incluídos em seu site eletrônico.
@@ -3872,6 +3877,7 @@ V – exigência de apresentação periódica de informações econômicas, patr
 
 I – arrolamento administrativo de bens e direitos do sujeito passivo;
 
+<!-- p. 113 -->
 II – proposição de Ações Cautelares Fiscais, com indicação de bens a serem penhorados;
 
 III – representação ao Ministério Público, observada a disciplina pertinente, sempre que constatada a prática de ações que possam configurar, em tese, crime contra a ordem tributária, econômica ou delito de outra natureza;
@@ -3890,7 +3896,6 @@ IV – cancelamento da inscrição no CAD/ICMS.
 
 (Art. 168-B – AC pela Lei 11.184/19)
 
-<!-- p. 113 -->
 TÍTULO II
 
 CAPÍTULO I DO PROCESSO FISCAL
@@ -3899,6 +3904,7 @@ SEÇÃO I DOS ATOS E TERMOS PROCESSUAIS
 
 Art. 169. Os atos e termos processuais, quando a lei não prescrever forma, conterão somente o indispensável à sua finalidade, sem espaço em branco, e sem entrelinhas, rasuras ou emendas não ressalvadas.
 
+<!-- p. 114 -->
 Parágrafo único. Quando a norma prescrever determinada forma, a autoridade julgadora considerará válido o ato se, realizado de outra maneira, alcançar a sua finalidade e não resultar prejuízo ao contraditório e à ampla defesa.
 
 Art. 170. O processo será desdobrado no caso de impugnação parcial, não cumprida a exigência relativa à parte não litigiosa do crédito, resultante de confissão ou desistência do sujeito passivo.
@@ -3925,13 +3931,15 @@ II - a retenção de mercadorias, documentos ou
 
 livros.
 
-<!-- p. 114 -->
 § 1º O início do procedimento exclui a espontaneidade do sujeito passivo em relação aos atos anteriores e, independentemente de intimação, a dos demais envolvidos nas infrações verificadas.
 
 § 2º Para os efeitos do disposto no § 1º, os atos referidos nos incisos I e II valerão pelo prazo de sessenta dias, prorrogável por igual período com qualquer outro ato escrito que indique o prosseguimento dos trabalhos.
 
 
-Art. 175-A. A Administração Tributária, ao exame das informações contidas em sua base de dados e de outras fontes, e uma vez identificada suposta irregularidade fiscal do sujeito passivo, poderá realizar procedimento prévio, antes do início do procedimento fiscal propriamente dito, com o objetivo de oportunizar ao sujeito passivo sua regularização ou, eventualmente, para que este possa prestar esclarecimentos sobre o objeto da suposta ilicitude.
+Art. 175-A. A Administração Tributária, ao exame das informações contidas em sua base de dados e de outras fontes, e uma vez identificada suposta irregularidade fiscal do sujeito passivo, poderá realizar procedimento prévio, antes do início do procedimento fiscal propriamente dito, com o objetivo de oportunizar ao sujeito passivo
+
+<!-- p. 115 -->
+sua regularização ou, eventualmente, para que este possa prestar esclarecimentos sobre o objeto da suposta ilicitude.
 
 § 1º O procedimento prévio previsto no caput terá inicio por meio de intimação fiscal eletrônica – INFISC.
 
@@ -3955,7 +3963,6 @@ II – fixar o prazo de 10 (dez) dias para que o sujeito passivo efetue o recolh
 
 Art. 176. A exigência do crédito tributário será formalizada em auto de infração ou notificação de lançamento.
 
-<!-- p. 115 -->
 (NR – Lei 8.107/04)
 
 (§ 1º - Revogado pela Lei nº 8.511/06)
@@ -3965,6 +3972,7 @@ Parágrafo Único. Sempre que imprescindível para prevenir os efeitos da decad�
 (NR - Lei nº 8.511/06)
 Art. 177. A lavratura do auto de infração é de competência do Auditor Fiscal da Receita Estadual.
 
+<!-- p. 116 -->
 Parágrafo único. Poderá lavrar Auto de Infração, a critério e sob as condições estabelecidas pelo titular do órgão da Receita Estadual, observado o interesse da atividade de fiscalização de mercadorias em trânsito neste Estado, o Técnico da Receita Estadual, no âmbito de suas atribuições.
 
 Art. 178. A notificação de lançamento será expedida, quando o crédito tributário for relativo a:
@@ -3987,17 +3995,19 @@ d) ~~qualquer receita estadual, em razão de recolhimento por meio de cheque, re
 ~~II - não apresentação de declaração de informações fiscais, no prazo regulamentar.~~
 
 (Revogado – (MP 475/25 – Lei 12.577/25)
-III - imposto sobre a transmissão causa mortis e doação, de quaisquer bens ou direitos - ITCD;
+~~III - imposto sobre a transmissão causa mortis e doação, de quaisquer bens ou direitos - ITCD;~~
 
-(AC – MP 475/25 – Lei 12.577/25)
-IV - imposto sobre a propriedade de veículos automotores - IPVA.
-(AC – MP 475/25 – Lei 12.577/25)
+~~(AC – MP 475/25 – Lei 12.577/25)~~
+(Revogado – MP 561/26)
+~~IV - imposto sobre a propriedade de veículos automotores - IPVA.~~
+~~(AC – MP 475/25 – Lei 12.577/25)~~
+(Revogado – MP 561/26)
 
-<!-- p. 116 -->
 ~~§ 1º O sujeito passivo terá prazo de 30 (trinta) dias, contado da ciência por aviso de recebimento da notificação de lançamento, para efetuar o pagamento do imposto e acréscimos legais ou apresentar defesa que, não ocorrendo, implicará na inscrição do crédito tributário em Dívida Ativa.~~
 
 § 1º O sujeito passivo terá prazo de 30 (trinta) dias, contado da ciência da notificação de lançamento, para:
 
+<!-- p. 117 -->
 I - relativamente ao inciso III do caput, efetuar o pagamento do imposto e acréscimos legais ou apresentar impugnação que, não ocorrendo, implicará na inscrição do crédito tributário em Dívida Ativa;
 
 II - relativamente ao inciso IV do caput, apresentar impugnação do valor do crédito tributário constituído na forma do art. 94 desta Lei.
@@ -4028,13 +4038,13 @@ Art. 178-A Todo e qualquer débito do ICMS declarado pelo contribuinte, nas form
 
 (AC – Lei 10.522/2016)
 
-<!-- p. 117 -->
 Parágrafo único. Na falta de recolhimento no prazo regulamentar, o crédito tributário será inscrito na Dívida Ativa Tributária, como todos os encargos previstos na legislação.
 
 (AC – Lei 10.522/2016)
 
 Art. 179. O servidor que verificar a ocorrência de infração à legislação tributária estadual e não for competente para formalizar a exigência, comunicará o fato, em representação circunstanciada, a seu chefe imediato, que adotará as providências necessárias.
 
+<!-- p. 118 -->
 Art. 180. A fase litigiosa do processo inicia-se com a apresentação tempestiva da impugnação ao auto de infração.
 
 Parágrafo único. O sujeito passivo tem capacidade postulatória, em causa própria, para estar no Processo Administrativo Tributário.
@@ -4066,13 +4076,13 @@ III - os motivos de fato e de direito em que se fundamenta;
 
 IV - as diligências que o impugnante pretenda sejam efetuadas expostos os motivos que as justifiquem.
 
-<!-- p. 118 -->
 Art. 183. A autoridade preparadora, assim como a julgadora, quando entender necessário, determinará, de ofício ou a requerimento do sujeito passivo, a realização de diligências, fixando prazo para o seu cumprimento.
 
 Art. 184. Se da realização de diligência resultar agravada a situação do contribuinte ou imputada responsabilidade a terceiro, a nova exigência será formalizada em auto de infração distinto.
 
 Art. 185. Não sendo cumprida nem impugnada a exigência, o crédito tributário será imediatamente inscrito em Dívida Ativa.
 
+<!-- p. 119 -->
 (NR - MP nº 069/09, Lei nº 9.127/10)
 
 ~~Parágrafo único. A autoridade preparadora, antes da inscrição em Dívida Ativa e sempre que constatar erro ou omissão que agrave a situação do sujeito passivo, poderá propor ao julgador de primeira instância a revisão de ofício, do lançamento, com efeito suspensivo.~~
@@ -4102,13 +4112,13 @@ II – pessoalmente, provada com a assinatura do sujeito passivo, e seu mandatá
 
 ~~III- por edital, quando resultarem improfícuos os meios referidos nos incisos anteriores.~~
 
-<!-- p. 119 -->
 III - por edital, publicado no Diário Eletrônico da SEFAZ ou, excepcionalmente, no Diário Oficial do Estado. (Incisos I, II e III NR – Lei 11.184/19)
 
 ~~§ 1º O edital será publicado, uma única vez, em órgão da imprensa oficial local, ou afixado em dependência franqueada ao público, do órgão encarregado da intimação.~~
 
 § 1º Considera-se feita a intimação:
 
+<!-- p. 120 -->
 I – na data em que o intimado efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização;
 
 II – na data da ciência do intimado, ou da declaração de quem fizer a intimação ou lavrar o termo de recusa, se pessoal;
@@ -4139,7 +4149,6 @@ III ~~- na hipótese do inciso anterior, se a data for omitida, 05 (cinco) dias 
 
 § 4º A intimação conterá ordem expressa para que o contribuinte cumpra a exigência ou a impugne, no prazo de 30 (trinta) dias, contados da data que se considerar realizada.
 
-<!-- p. 120 -->
 ~~§ 5º À exceção do ICMS, a intimação dos demais tributos poderá ser feita por edital publicado em qualquer órgão da imprensa. AC Lei nº 8.512/06~~
 
 
@@ -4147,7 +4156,7 @@ III ~~- na hipótese do inciso anterior, se a data for omitida, 05 (cinco) dias 
 
 (§§ 1º a 5º NR - Lei 11.184/19)
 
-
+<!-- p. 121 -->
 SEÇÃO IV DA COMPETÊNCIA
 
 Art.188. O preparo do processo compete ao órgão da Receita Estadual a que estiver circunscricionado o sujeito passivo e, excepcionalmente, ao órgão julgador, nos casos previstos na lei específica.
@@ -4174,7 +4183,6 @@ Art. 192. A Autoridade Julgadora de Primeira Instância proferirá decisão em p
 
 Parágrafo único. Compete, ainda, a Autoridade Julgadora de Primeira Instância, apreciar a Revisão de Ofício de competência da Autoridade Preparadora.
 
-<!-- p. 121 -->
 Art. 193. O julgamento resolverá todas as questões suscitadas no processo e concluirá pela procedência, improcedência total ou parcial e tempestividade do ato impugnado, determinando a intimação do sujeito passivo.
 
 Art. 194. Os processos que contiverem indício de crime contra a ordem tributária terão preferência no julgamento.
@@ -4182,6 +4190,7 @@ Art. 194. Os processos que contiverem indício de crime contra a ordem tributár
 Art. 195. O prazo para a conclusão do julgamento de primeira instância é de
 30 (trinta) dias, contado da data da distribuição do processo.
 
+<!-- p. 122 -->
 Parágrafo único. A distribuição de que trata este artigo, será no mínimo de 10 (dez) e no máximo de 20 (vinte), em função da complexidade do processo.
 
 Art. 196. A área responsável do órgão julgador de primeira instância distribuirá os processos para julgamento, na ordem de data que os tenha recebido, ou por matéria, conforme prioridade preestabelecida.
@@ -4213,13 +4222,13 @@ artigo.
 (AC - Lei 8.438/06)
 Art. 198. A decisão de primeira instância conterá relatório resumido do processo, fundamentos legais, conclusão e ordem de intimação.
 
-<!-- p. 122 -->
 Parágrafo único. Na hipótese de fundamentação, baseada em resolução interpretativa, expedida nos termos desta Lei, far-se-á menção ao enunciado da correspondente resolução aplicada ao fato.
 
 Art. 199. O órgão preparador e o órgão julgador, quando for o caso, dará ciência da decisão de primeira instância ao sujeito passivo, intimando-o, quando for o caso, a cumpri-la no prazo de 30 (trinta) dias, contado da data em que se considerar feita a intimação, ressalvado o disposto no art. 201.
 
 Art. 200. As inexatidões materiais, devidas a lapso manifesto, e os erros de escrita e de cálculo existentes na decisão poderão ser corrigidos pela autoridade julgadora que a tenha proferido, de ofício ou a requerimento do sujeito passivo.
 
+<!-- p. 123 -->
 Art. 201. Da decisão de primeira instância caberá recurso voluntário ao Tribunal Administrativo de Recursos Fiscais, total ou parcial, com efeito suspensivo, no prazo de 20 (vinte) dias, contado da data em que se considerar feita a intimação.
 
 Art. 202. A autoridade julgadora de primeira instância recorrerá de ofício sempre que a decisão exonerar o sujeito passivo do pagamento de tributo e/ou multa, de valor superior a 100 (cem) vezes o valor do salário-mínimo vigente no Estado na data em que proferida a decisão.
@@ -4254,7 +4263,6 @@ I - recurso de ofício, interposto pela Autoridade
 
 Julgadora quando da decisão de improcedência no todo ou em parte do Auto de Infração, que resultar valor superior a R$ 5.000,00 (cinco mil reais);
 
-<!-- p. 123 -->
 II - recurso voluntário, interposto pelo contribuinte;
 
 III - recurso de revista interposto pelo contribuinte e/ou procurador do Estado quando divergirem as decisões camerais.
@@ -4264,6 +4272,7 @@ III - recurso de revista interposto pelo contribuinte e/ou procurador do Estado 
 § 1o Os recursos previstos nos incisos I e II serão apreciados pelas câmaras julgadoras e o recurso previsto no inciso III será apreciado pelo Tribunal Pleno somente após o juízo positivo de admissibilidade realizado pela Presidência do tribunal.
 (NR – Lei 11.184/19)
 
+<!-- p. 124 -->
 § 2o O acórdão será assinado pelo Presidente da Câmara ou do Tribunal Pleno, Relator e Procurador do Estado, se presente à sessão de julgamento.
 
 Art. 206. No processo, a questão preliminar ou prejudicial será julgada antes do exame do mérito.
@@ -4292,15 +4301,13 @@ Art. 212. A decisão definitiva contrária ao sujeito passivo será
 
 cumprida no prazo de 30 (trinta) dias.
 
-Parágrafo único. Esgotado o prazo a que se refere este artigo sem que tenha sido pago o crédito tributário, nem interposto recurso, o órgão competente providenciará a
-
-<!-- p. 124 -->
-imediata inscrição do crédito tributário em Dívida Ativa e encaminhará a respectiva certidão à Procuradoria Geral do Estado, para promover a cobrança judicial.
+Parágrafo único. Esgotado o prazo a que se refere este artigo sem que tenha sido pago o crédito tributário, nem interposto recurso, o órgão competente providenciará a imediata inscrição do crédito tributário em Dívida Ativa e encaminhará a respectiva certidão à Procuradoria Geral do Estado, para promover a cobrança judicial.
 
 Art. 213. A quantia depositada para evitar a correção monetária do crédito tributário ou para liberar a mercadoria será convertida em renda se o sujeito passivo não comprovar, no prazo legal, a propositura de ação judicial.
 
 Parágrafo único. Se o valor depositado não for suficiente para cobrir o crédito tributário, aplicar-se-á à cobrança do restante o disposto no parágrafo único do artigo anterior; se exceder o exigido a autoridade promoverá a restituição da quantia excedente.
 
+<!-- p. 125 -->
 Art. 214. No caso de decisão definitiva favorável ao sujeito passivo, cumpre à autoridade preparadora exonerá-lo de ofício dos gravames decorrentes do litígio.
 
 Art. 214-A. Sem prejuízo da utilização das medidas judiciais para recuperação e acautelamento dos créditos inscritos, se houver indícios da prática de ato ilícito previsto na legislação tributária como causa de responsabilidade de terceiros por parte do contribuinte, sócios, administradores, pessoas relacionadas e demais responsáveis, a Secretaria de Estado da Fazenda ou Procuradoria Geral do Estado poderão:
@@ -4322,13 +4329,13 @@ Art. 214-B. O protocolo de petições, impugnações, recursos e a prática de a
 
 § 1º O peticionamento de manifestações, impugnações, recursos e demais peças processuais, em formato digital, nos autos do processo eletrônico, pode ser feito diretamente pelo interessado ou seu representante, sem necessidade de intervenção da SEFAZ, situação em que a autuação deverá se dar de forma automática, fornecendo-se recibo eletrônico de protocolo.
 
-<!-- p. 125 -->
 § 2º Durante o período de transição entre o processo fiscal físico e o processo fiscal eletrônico, os autos ainda em trâmite no formato físico permanecerão sob esta forma até seu encerramento, devendo as petições, as impugnações, recursos e demais peças processuais serem apresentadas no formato tradicional.
 
 Art. 214-C. Consideram-se realizados os atos processuais por meio eletrônico no dia e hora do seu envio aos sistema da SEFAZ, do que deverá ser fornecido protocolo eletrônico.
 
 § 1º A petição eletrônica, a impugnação, os recursos e demais peças processuais serão considerados tempestivos se transmitidos até às 23h59min (vinte e três horas e cinquenta e nove minutos) do último dia do prazo.
 
+<!-- p. 126 -->
 § 2º No caso do § 1º deste artigo, se o sistema da SEFAZ ficar indisponível, por motivo técnico, o prazo fica automaticamente prorrogado para o primeiro dia útil seguinte ao da resolução do problema.
 
 Art. 214-D. Os documentos produzidos e juntados ao processo eletrônico, com garantia da origem e de seu signatário serão considerados originais para todos os efeitos legais, desde que, cumulativamente:
@@ -4350,10 +4357,7 @@ IV – qualquer impropriedade que dificulte a sua inteligibilidade.
 
 Art. 214-E. A autoridade fazendária, no âmbito de sua competência, poderá determinar ao sujeito passivo que seja realizado, por meio eletrônico, o envio de dados e de documentos necessários à instrução do processo fiscal eletrônico, no prazo de até 30 (trinta) dias.
 
-§ 1º Tratando-se de documento digitalizado juntado ao processo fiscal eletrônico, a autoridade fazendária poderá determinar, no prazo previsto no caput deste
-
-<!-- p. 126 -->
-artigo, a exibição do documento físico e o depósito na área administrativa competente da SEFAZ.
+§ 1º Tratando-se de documento digitalizado juntado ao processo fiscal eletrônico, a autoridade fazendária poderá determinar, no prazo previsto no caput deste artigo, a exibição do documento físico e o depósito na área administrativa competente da SEFAZ.
 
 § 2º Exceto no contenciosa fiscal, tratando-se de dado ou documento indispensável ao deslinde do processo fiscal eletrônico, a autoridade fazendária poderá determinar o arquivamento dos autos por desinteresse processual da parte, se o sujeito passivo, devidamente intimado, não cumprir a diligência no prazo estipulado.
 
@@ -4363,6 +4367,7 @@ Seção II Do Diário Eletrônico e da Comunicação Eletrônica dos Atos
 
 Processuais
 
+<!-- p. 127 -->
 Art. 214-F. A Secretaria de Estado da Fazenda disponibilizará Diário Eletrônico, em sítio da rede mundial de computadores, no qual serão publicados os atos processuais administrativos e comunicações em geral.
 
 § 1º As publicações a que se refere o caput deste artigo deverão ser assinadas digitalmente com base em certificado emitido por autoridade certificadora credenciada na forma da lei específica.
@@ -4389,7 +4394,6 @@ Parágrafo único. As intimações e notificações que viabilizem o acesso à �
 
 (Seção II – AC pela Lei nº 11.184/19)
 
-<!-- p. 127 -->
 CAPÍTULO II DO PROCESSO DA CONSULTA (Regulamentado pelo Decreto nº 31.865/2016)
 
 Art. 215. O sujeito passivo poderá formular consulta sobre dispositivos da legislação tributária aplicáveis a fato determinado.
@@ -4398,6 +4402,7 @@ Art. 215. O sujeito passivo poderá formular consulta sobre dispositivos da legi
 
 Art. 216. A consulta deverá ser protocolada, por escrito, em unidade de atendimento da SEFAZ, ou por meio eletrônico, observados os requisitos de admissibilidade.
 
+<!-- p. 128 -->
 ( NR – Lei 11.184/19)
 
 Art.217. Salvo o disposto no artigo seguinte, nenhum procedimento fiscal será instaurado contra o sujeito passivo, relativamente à espécie consultada, a partir da apresentação da consulta, até o trigésimo dia subsequente à data da ciência.
@@ -4426,7 +4431,6 @@ Art. 220. O preparo do processo compete ao órgão da Receita Estadual do domic�
 
 Art. 221. A solução da consulta é de competência da área de Tributação da Receita Estadual.
 
-<!-- p. 128 -->
 Art. 222. A ineficácia da consulta será declarada pela autoridade competente para sua solução.
 
 Art. 223. De decisão contrária ao consulente não cabe recurso
@@ -4440,6 +4444,7 @@ Art. 225. Não cabe pedido de reconsideração de decisão proferida em processo
 
 CAPÍTULO III DA RESOLUÇÃO INTERPRETATIVA
 
+<!-- p. 129 -->
 Art. 226. A Resolução Interpretativa, de adoção obrigatória, tem por finalidade dirimir conflitos de entendimentos entre Autoridades Julgadoras de Primeira Instância ou entre Câmaras Julgadoras e uniformizar a jurisprudência do Tribunal.
 
 § 1º Têm legitimidade para propor a formulação, revisão ou cancelamento da Resolução Interpretativa o Presidente do Tribunal, a Autoridade Julgadora, o Conselheiro Efetivo, o Procurador do Estado e os Gestores Chefes da Célula para Gestão da Administração Tributária da Gerência de Estado da Receita Estadual.
@@ -4457,16 +4462,18 @@ CAPÍTULO IV DA AUTORIDADE PREPARADORA
 
 ~~Art. 227. Consideram-se Autoridade Preparadora a Agência Central, Especial e Local de Atendimento da Receita Estadual.~~
 
-Art. 227. Considera-se autoridade preparadora o órgão da Receita Estadual responsável pelo lançamento do tributo.
+~~Art. 227. Considera-se autoridade preparadora o órgão da Receita Estadual responsável pelo lançamento do tributo.~~
 
-(NR – MP 475/25 – Lei 12.577/25)
+~~(NR – MP 475/25 – Lei 12.577/25)~~
+Art. 227. Consideram-se Autoridade Preparadora a Agência Central, Especial e Local de Atendimento da Secretaria de Estado da Fazenda.
+
+(NR – MP 561/26)
 ~~Parágrafo único. A autoridade preparadora, antes da inscrição em Dívida Ativa, e sempre que constatar erro ou omissão, que agrave a situação do sujeito passivo, poderá propor ao julgador de primeira instância a revisão de ofício do lançamento, com efeito suspensivo.~~
 
 Parágrafo único. A autoridade preparadora, sempre que constatar erro ou omissão, que agrave a situação do sujeito passivo, poderá propor ao julgador de primeira instância a revisão de ofício do lançamento, com efeito suspensivo.
 
 (NR – MP 475/25 – Lei 12.577/25)
 
-<!-- p. 129 -->
 CAPÍTULO V DAS NULIDADES
 
 Art. 228. São nulos:
@@ -4474,6 +4481,7 @@ I - os atos e termos lavrados por pessoas incompetentes ou impedidas;
 
 II - os despachos e decisões proferidas por autoridade incompetente ou com preterição do direito de defesa.
 
+<!-- p. 130 -->
 § 1º A nulidade será declarada pela autoridade competente para praticar o ato ou julgar a sua legitimidade.
 
 § 2º Na declaração de nulidade, a autoridade dirá os atos alcançados e determinará as providências necessárias ao prosseguimento ou solução do processo.
@@ -4501,12 +4509,14 @@ Art. 231. Os tributos não integralmente pagos nos prazos legais serão acrescid
 vencimento.
 (NR MP nº 069/09, Lei nº 9.127/10)
 
-<!-- p. 130 -->
 § 4º O percentual dos juros de mora relativos ao mês em que o pagamento estiver sendo efetuado será de 1% (um por cento).
 
 § 5º O disposto neste artigo não se aplica na pendência de consulta formulada pelo sujeito passivo dentro do prazo legal para o pagamento de tributo.
 
-§ 6º A falta de pagamento do tributo, apurada em levantamento fiscal de exercício completo, em que não se possa definir o período de apuração, os juros de mora serão calculados a partir do 1º dia do mês de janeiro do exercício seguinte ao que se referir o levantamento.
+§ 6º A falta de pagamento do tributo, apurada em levantamento fiscal de exercício completo, em que não se possa definir o período de apuração, os juros de mora
+
+<!-- p. 131 -->
+serão calculados a partir do 1º dia do mês de janeiro do exercício seguinte ao que se referir o levantamento.
 
 § 7º O pagamento do crédito tributário obedecerá à seguinte ordem de
 
@@ -4540,13 +4550,11 @@ SEÇÃO III DO DEPÓSITO ADMINISTRATIVO
 
 Art. 234. Poderá o sujeito passivo, em qualquer fase do processo administrativo ou judicial, depositar em dinheiro, ou em título da dívida pública estadual, a importância questionada, operando-se a interrupção da incidência da correção monetária e dos juros de mora, a partir do mês seguinte àquele em que for efetuado o depósito.
 
-<!-- p. 131 -->
 § 1º Entende-se por importância questionada a exigida no respectivo processo, corrigida monetariamente com base nos coeficientes vigorantes no mês em que ocorrer o depósito.
 
 § 2º O depósito, quando em dinheiro, será efetuado em instituição financeira oficial, em conta especial vinculada, na forma disciplinada em regulamento.
 
-
-
+<!-- p. 132 -->
 SEÇÃO IV DAS FORMAS ESPECIAIS DO PAGAMENTO
 
 Art. 235. O crédito tributário relativo aos impostos poderá ser pago em parcelas mensais, iguais e consecutivas, na forma estabelecida em regulamento e obedecidas as condições definidas em convênios celebrados pelos Estados.
@@ -4574,11 +4582,11 @@ Art. 238. Poderá ser concedida ao contribuinte a liquidação de crédito tribu
 
 SEÇÃO VI DO ARROLAMENTO DE BENS
 
-<!-- p. 132 -->
 Art. 239. A autoridade fiscal competente procederá ao arrolamento de bens e direitos do sujeito passivo sempre que o valor dos créditos tributários, de sua responsabilidade, for superior a trinta por cento do seu patrimônio conhecido.
 
 § 1° Se o crédito tributário for formalizado contra pessoa física, no arrolamento vem ser identificados, inclusive, os bens e direitos em nome do cônjuge, não gravados com a cláusula de incomunicabilidade.
 
+<!-- p. 133 -->
 § 2° Na falta de outros elementos indicativos, considera-se patrimônio conhecido, o valor constante da última declaração de rendimentos apresentada à Receita Federal.
 
 § 3° A partir da data da notificação do ato de arrolamento, mediante entrega de cópia do respectivo termo, o proprietário dos bens e direitos arrolados e a autoridade cartorial, ao transferi-los, aliená-los ou onerá-los, devem comunicar o fato à unidade do órgão fazendário que circunscricionar o domicílio tributário do sujeito passivo.
@@ -4604,13 +4612,14 @@ III - no Cadastro de Títulos e Documentos e Registros Especiais do domicílio t
 
 Seção VII Da Oferta Antecipada de Garantia em Execução Fiscal
 
-<!-- p. 133 -->
+
 Art. 239-A. Notificado para pagamento do débito inscrito em dívida ativa, o devedor poderá antecipar a oferta de garantia em execução fiscal.
 
 Art. 239-B. O devedor poderá apresentar, para fins de oferta antecipada de garantia em execução fiscal:
 
 ~~I - depósito em dinheiro para fins de caução;~~
 
+<!-- p. 134 -->
 I - depósito integral em dinheiro;
 (NR – Lei 11.222/20)
 II - apólice de seguro-garantia ou carta de fiança bancária que estejam em conformidade com a regulamentação da Procuradoria Geral do Estado;
@@ -4640,13 +4649,13 @@ V - no caso dos demais bens e direitos sujeitos a registro público, com cópia 
 
 § 2º Nas hipóteses dos incisos IV e V, os bens ou direitos serão avaliados pelo valor de mercado, conforme parâmetros informados em veículo de divulgação especializado ou laudo de órgão oficial.
 
-<!-- p. 134 -->
 (Renumerado – Lei 11.222/20)
 
 Art. 239-D. A oferta antecipada de garantia em execução fiscal será apreciada pela Secretaria de Estado da Fazenda - SEFAZ e pela Procuradoria Geral do Estado - PGE, órgão responsável pelo ajuizamento da execução correspondente às inscrições objeto da garantia antecipada.
 
 Parágrafo único. A SEFAZ e a PGE não sendo o caso de indeferimento imediato do pedido, poderão intimar o devedor para apresentar informações complementares.
 
+<!-- p. 135 -->
 Art. 239-E. A Secretaria de Estado da Fazenda e a Procuradoria Geral do Estado poderão recusar a oferta antecipada de garantia em execução fiscal quando:
 
 I - os bens ou direitos forem inúteis ou inservíveis;
@@ -4675,10 +4684,7 @@ Parágrafo único. Aceita a oferta antecipada de garantia, a Procuradoria Geral 
 
 CAPÍTULO VII DAS CERTIDÕES NEGATIVAS
 
-Art. 240. Será exigida certidão negativa de débito pela Receita Estadual,
-
-<!-- p. 135 -->
-nos seguintes casos:
+Art. 240. Será exigida certidão negativa de débito pela Receita Estadual, nos seguintes casos:
 
 I ~~- pedido de restituição de tributo pago indevidamente;~~
 (Revogado – MP 358/21)
@@ -4688,6 +4694,7 @@ III - baixa de inscrição como contribuinte;
 
 IV - baixa de registro na Junta comercial;
 
+<!-- p. 136 -->
 V - transmissão de bens imóveis e direitos a eles relativos;
 
 VI - participação em concorrência, coleta ou tomada de preços, inclusive para prestação de serviços ou obtenção de concessão de serviços públicos.
@@ -4718,7 +4725,6 @@ Art. 243-A A restituição de tributo dependerá de requerimento do sujeito pass
 
 § 3º No prazo de até um ano após o arquivamento, contado da data da ciência da decisão, o sujeito passivo poderá requerer o desarquivamento do seu processo de restituição de tributo, desde que apresente elemento instrutório solicitado pela Secretaria de Estado da Fazenda - SEFAZ, na forma do § 1º deste artigo.
 
-<!-- p. 136 -->
 Art. 243-B. A restituição de tributo será feita pela área da SEFAZ competente para a sua fiscalização.
 
 
@@ -4726,6 +4732,7 @@ Parágrafo único. Ato do Secretário de Estado da Fazenda poderá dispor sobre 
 
 (Vide Portaria nº 449/21)
 
+<!-- p. 137 -->
 Art. 243-C. A restituição de tributo será efetuada depois de verificada a ausência de débito tributário vencido em nome do sujeito passivo perante a Fazenda Pública Estadual.
 
 § 1º Na hipótese de existência de débito tributário vencido, o valor da restituição poderá ser utilizado para quitá-lo, mediante compensação de ofício.
@@ -4755,12 +4762,12 @@ Art. 243-C-A. A restituição de tributo será acrescida de juros equivalentes �
 
 Art. 243-D. O disposto neste Capítulo não se aplica aos casos de pedido de ressarcimento relativo à substituição tributária.
 
-<!-- p. 137 -->
 (Capítulo VIII acrescido pela MP 358/21)
 
 
 LIVRO III DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
+<!-- p. 138 -->
 Art. 244. São incorporadas à legislação tributária estadual as normas gerais de Direito Tributário, constantes do Código Tributário Nacional, bem como todas aquelas editadas, ou que venham a ser pela União, nos limites de sua competência.
 
 Parágrafo único. Ficam, também, incorporados à legislação tributária estadual os convênios, protocolos e ajustes celebrados entre os Estados, ou que vierem a ser celebrados, estabelecendo uma política comum em matéria de isenções, reduções ou outros favores fiscais, relativamente ao Imposto sobre Circulação de Mercadorias e Sobre Prestação de Serviço de Transporte Interestadual e Intermunicipal e de Comunicação.
@@ -4794,12 +4801,14 @@ c) 20% (vinte por cento) no ano de 2018.
 
 Art. 246. O disposto nesta lei não prejudicará a validade dos atos praticados na vigência da legislação anterior.
 
-<!-- p. 138 -->
+
 Art. 247. O preparo dos processos em curso, até a decisão de primeira instância, continuará regido pela legislação precedente.
 
 Art. 248. Não se modificarão os prazos iniciados antes da entrada em vigor
 
 desta lei.
+
+<!-- p. 139 -->
 Art. 249. Os prazos processuais são contínuos e não se interrompem.
 § 1º Computar-se-ão os prazos excluindo o dia do início e incluindo o do
 
@@ -4831,9 +4840,10 @@ Mando, portanto, a todas as autoridades a quem o conhecimento e a execução a p
 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, DE DEZEMBRO DE 2002, 181º DA INDEPENDÊNCIA E 114º DA REPÚBLICA.
 
-<!-- p. 139 -->
+
 ANEXO I REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA
 
+<!-- p. 140 -->
 MERCADORIAS SUJEITAS AO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA I Açúcar de qualquer tipo;
 II Água mineral ou potável e gelo.
 III Álcool hidratado e anidro;
@@ -4872,11 +4882,11 @@ NCM/SH
 
 30.02
 
-<!-- p. 140 -->
 2 Medicamentos, exceto para uso veterinário 30.03
 
 3 Medicamentos, exceto para uso veterinário 30.04
 
+<!-- p. 141 -->
 4 Pastas (“ouates”), algodão, atadura, esparadrapo, haste flexível ou não, com uma ou ambas extremidades de algodão, gazes, pensos, sinapismos, e outros, impregnados ou recobertos de substâncias farmacêuticas ou acondicionados para venda a retalho para usos medicinais, cirúrgicos ou dentários, bem como para higiene ou limpeza.
 
 30.05 56.01
@@ -4932,10 +4942,10 @@ NCM/SH
 4015.11.00
 4015.19.00
 
-<!-- p. 141 -->
 19 Escovas dentifrícias
 9603.21.00
 
+<!-- p. 142 -->
 20 Preparações opacificantes (contrastantes) para exames radiográficos e reagentes de diagnóstico concebidos para serem administrados ao paciente
 
 3006.30
@@ -4968,7 +4978,7 @@ Preparados para fabricação de sorvete em máquina, classificados na posição
 2106.90 da NCM;
 Acessórios ou componentes, casquinhas, coberturas, copos ou copinhos, palitos, pazinhas, taças, recipientes, xaropes e outros produtos destinados a integrar ou acondicionar o sorvete; (NR Lei nº 8.512/06)
 
-<!-- p. 142 -->
+<!-- p. 143 -->
 XXVIII Tintas, vernizes e outros da indústria química:
 
 Tintas à base de polímero acrílico dispersa em meio aquoso: 3209.10.0000 Tinta e vernizes à base de polímero sintético ou de polímeros naturais modificados, dispersos ou dissolvidos em meio aquoso: - à base de polímero acrílico ou vinílicos
@@ -5015,7 +5025,7 @@ Piche (pez) 2706.00.0000, 2715.00.0301, 2715.00.0399, 2715.00.9900 Impermeabiliz
 3212.90.0000.
 Outros definidos em atos do Poder Executivo
 
-<!-- p. 143 -->
+<!-- p. 144 -->
 XXIX Veículos automotores, NBM
 
 8702.90.0000
@@ -5061,7 +5071,7 @@ XXIX Veículos automotores, NBM
 8704.21.0200
 8704.31.0200 XXX Veículos motorizados de duas rodas, NBM: 87.11 XXXI Xarope e extrato concentrado;
 
-<!-- p. 144 -->
+<!-- p. 145 -->
 XXXII Peças, componentes, acessórios e demais produtos classificados nos respectivos
 
 códigos da NBM/SH:
@@ -5074,7 +5084,7 @@ Item PRODUTOS/DESCRIÇÃO NBM/SH 1-Monofilamentos de Polímeros de Cloreto de Vi
 14 - Vidros temperados de dimensões e formatos que permitam a sua aplicação em automóveis ou outros veículos - 7007.11.00
 15 -Vidros formados de folhas contra coladas de dimensões e formatos que permitam a sua aplicação em automóveis ou outros veículos - 7007.21.00
 
-<!-- p. 145 -->
+<!-- p. 146 -->
 16 Espelhos retrovisores para veículos automotores 7009.10.00
 17 Lentes de faróis, lanternas e outros utensílios 7014.00.0
 18 Reservatório de ar comprimido para veículos automotores 7311.00.00
@@ -5097,7 +5107,7 @@ Item PRODUTOS/DESCRIÇÃO NBM/SH 1-Monofilamentos de Polímeros de Cloreto de Vi
 34 Aparelho para filtrar óleos minerais nos motores de ignição por centelha (faísca) ou por compressão - 8421.23.00
 35 Outros (exclusivamente filtros a vácuo) 8421.29.90
 
-<!-- p. 146 -->
+<!-- p. 147 -->
 36 Filtros de entrada de ar para motores de ignição por centelha (faísca) ou por compressão 8421.31.00
 37 Depuradores por conversão catalítica de gases de escape de veículos
 8421.39.20
@@ -5113,7 +5123,7 @@ Item PRODUTOS/DESCRIÇÃO NBM/SH 1-Monofilamentos de Polímeros de Cloreto de Vi
 47 Partes (Aparelhos elétricos de iluminação ou de sinalização (exceto os da posição 8539),limpadores de párabrisas, degeladores e desembaçadores elétricos, dos tipos utilizados em ciclos e automóveis) 8512.90
 48 Microfones e seus suportes; autofalantes, mesmo montados nos seus receptáculos, fones de ouvido (auscultadores), mesmo combinados com microfone; amplificadores elétricos de áudio frequencia, aparelhos elétricos de amplificação de som (de uso em veículos automotores) 8518
 
-<!-- p. 147 -->
+<!-- p. 148 -->
 49 Toca-discos, eletrofones, toca-fitas (leitores de cassete) e outros aparelhos de reprodução de som, sem dispositivo de gravação de som (de uso em veículos automotores) - 8519
 50 Aparelhos transmissores (emissores) de radiotelefonia ou radiotelegrafia (rádio receptor/transmissor) - 8525.10.10
 51 Aparelhos receptores de radio difusão que só funcionam com fonte externa de energia, dos tipos utilizados nos veículos automotores - 8527.2
@@ -5134,7 +5144,7 @@ Item PRODUTOS/DESCRIÇÃO NBM/SH 1-Monofilamentos de Polímeros de Cloreto de Vi
 64 Contadores (por exemplo: contadores de voltas, contadores de produção, taxímetros, totalizadores de caminho percorrido, podômetros); indicadores de velocidade e tacômetros, exceto os das posições 9014 ou 9015 - 9029
 65 Relógios para painéis de instrumentos e relógios semelhantes, para uso automotivo (exceto veículos aéreos, embarcações ou outros veículos)
 
-<!-- p. 148 -->
+<!-- p. 149 -->
 9104.00.00
 66 Assentos dos tipos utilizados em veículos automóveis - 9401.20.00
 67 Partes e peças para assentos dos tipos utilizados em veículos automotores
@@ -5174,7 +5184,7 @@ PRODUTOS ALIMENTÍCIOS.
 
 Chocolates
 
-<!-- p. 149 -->
+<!-- p. 150 -->
 Item Produtos / Descrição Código NCM/SH
 
 1 Chocolate branco em embalagens de conteúdo inferior ou igual a 1 kg
@@ -5254,13 +5264,13 @@ Item Produtos / Descrição Código NCM/SH
 
 Laticínios e matinais
 
-<!-- p. 150 -->
+<!-- p. 151 -->
 Item Produtos / Descrição Código NCM/SH
 20 Leite em pó, blocos ou grânulos, exceto creme de leite 0402.1
 
 0402.2
 
-<!-- p. 151 -->
+<!-- p. 152 -->
 XXXV
 
 ARTEFATOS DE USO DOMÉSTICO
@@ -5334,7 +5344,7 @@ Facas de lâmina cortante ou serrilhada, incluídas as podadeiras de lâmina mó
 
 XXXVI BICICLETAS
 
-<!-- p. 152 -->
+<!-- p. 153 -->
 Item Produtos / Descrição Código NCM/SH
 1 Bicicletas e outros ciclos (incluídos os triciclos) sem motor.
 
@@ -5345,10 +5355,10 @@ Item Produtos / Descrição Código NCM/SH
 4011.50.00
 4013.20.00
 
-<!-- p. 153 -->
-> **[PÁGINA 153 ESCANEADA: conteúdo em imagem, sem texto extraível. Consultar o PDF original.]**
-
 <!-- p. 154 -->
+> **[PÁGINA 154 ESCANEADA: conteúdo em imagem, sem texto extraível. Consultar o PDF original.]**
+
+<!-- p. 155 -->
 NR MP nº 115/11, Lei nº 9.562/12
 
 XLIV
@@ -5421,7 +5431,7 @@ NCM/SH
 
 21 Obras de marcenaria ou de carpintaria, incluídos os 44.18
 
-<!-- p. 155 -->
+<!-- p. 156 -->
 painéis celulares, os painéis montados para revestimento de pavimentos (pisos) e as fasquias para telhados “shingles e shakes”, de madeira
 
 
@@ -5494,7 +5504,7 @@ painéis celulares, os painéis montados para revestimento de pavimentos (pisos)
 
 artefatos, de vidro prensado ou moldado, mesmo armado; cubos, pastilhas e outros artigos semelhantes
 
-<!-- p. 156 -->
+<!-- p. 157 -->
 43 Banheira de hidromassagem 70.19 90.19
 
 44 Vergalhões 72.13 7214.20.00
@@ -5571,7 +5581,7 @@ artefatos, de vidro prensado ou moldado, mesmo armado; cubos, pastilhas e outros
 
 74.15
 
-<!-- p. 157 -->
+<!-- p. 158 -->
 67 Artefatos de higiene/toucador de cobre
 7418.20.00
 68 Manta de subcobertura aluminizada
@@ -5624,7 +5634,7 @@ artefatos, de vidro prensado ou moldado, mesmo armado; cubos, pastilhas e outros
 
 8515.90.00 8515.1 8515.2
 
-<!-- p. 158 -->
+<!-- p. 159 -->
 Redação Anterior – efeitos até 20.12.2011 XLIV MATERIAIS DE CONSTRUÇÃO, ACABAMENTO, BRICOLAGEM OU ADORNO.
 
 Item Produtos / Descrição Código NCM/SH
@@ -5657,7 +5667,7 @@ Item Produtos / Descrição Código NCM/SH
 9 .
 2
 
-<!-- p. 159 -->
+<!-- p. 160 -->
 1
 9 Banheiras, boxes para chuveiros, pias, lavatórios, bidês, sanitários 39.22 e seus assentos e tampas, caixas de descarga e artigos semelhantes para usos sanitários ou higiênicos, de plásticos
 10 Telhas, cumeeiras e caixas d’água de polietileno e outros plásticos
@@ -5704,7 +5714,7 @@ flanges, uniões) para uso na construção civil
 2828.90.19
 3206.41.00
 
-<!-- p. 160 -->
+<!-- p. 161 -->
 2 Odorizantes / desodorizantes de ambiente e
 3307.41.00 superfície
 3307.49.00
@@ -5753,7 +5763,7 @@ flanges, uniões) para uso na construção civil
 9 Esponjas para limpeza
 3924.10.00
 
-<!-- p. 161 -->
+<!-- p. 162 -->
 3
 9
 2 4.
@@ -5815,7 +5825,7 @@ piscinas
 
 2836.50.00
 
-<!-- p. 162 -->
+<!-- p. 163 -->
 alumínio; todos na forma 2833.22.00
 
 líquida, granulada, em pó, pastilhas, tabletes, 2924.1 todos utilizados em piscinas
@@ -5874,7 +5884,7 @@ NCM/SH
 
 85.31
 
-<!-- p. 163 -->
+<!-- p. 164 -->
 12 Aparelhos elétricos de alarme, para proteção contra roubo ou incêndio e aparelhos semelhantes, exceto os de uso automotivo
 
 8531.10
@@ -5930,7 +5940,7 @@ NCM/SH
 
 85.47
 
-<!-- p. 164 -->
+<!-- p. 165 -->
 27 Instrumentos e aparelhos para regulação ou controle, automáticos, suas partes e acessórios – exceto os reguladores de voltagem eletrônicos classificados no código 9032.89.11 e os controladores eletrônicos da
 
 90.32
@@ -5964,10 +5974,10 @@ subposição 9032.89.2
 34 Outros aparelhos elétricos de iluminação e suas partes
 9405.40 9405.9
 
-<!-- p. 165 -->
+<!-- p. 166 -->
 Redação Anterior- efeitos até 20.12.2011
 
-<!-- p. 166 -->
+<!-- p. 167 -->
 XLVI MATERIAIS ELÉTRICOS
 
 Item Produtos / Descrição Código NCM/SH
@@ -6002,7 +6012,7 @@ ligação ou conexão de circuitos elétricos (por exemplo, interruptores, comut
 
 8 5.38 aparelhos das posições 85.35, 85.36 ou 85.37
 
-<!-- p. 167 -->
+<!-- p. 168 -->
 14 Fios, cabos (incluídos os cabos coaxiais) e outros condutores, isolados ou 85.44 não, para usos elétricos (incluídos os de cobre ou alumínio, envernizados
 7413.00.00 76.05 ou oxidados anodicamente), mesmo com peças de conexão; fios e cabos 76.14 telefônicos e para transmissão de dados; cabos de fibras ópticas, 74.08 constituídos de fibras embainhadas individualmente, mesmo com condutores elétricos ou munidos de peças de conexão; cordas, cabos, tranças e semelhantes, de alumínio e de cobre, não isolados para uso elétricos
 15 Isoladores de qualquer matéria, para usos elétricos 85.46
@@ -6016,7 +6026,7 @@ massa, para máquinas, aparelhos e instalações elétricas; tubos isoladores e 
 18 Circuitos impressos, exceto os de uso automotivo
 8534.00.00
 
-<!-- p. 168 -->
+<!-- p. 169 -->
 XLVII ARTIGOS DE PAPELARIA
 
 Item Produtos / Descrição Código NCM/SH
@@ -6063,7 +6073,7 @@ Item Produtos / Descrição Código NCM/SH
 10 Pincéis de escrever e desenhar
 9603.30.00
 
-<!-- p. 169 -->
+<!-- p. 170 -->
 11 Canetas esferográficas, canetas e marcadores, com 96.08 ponta de feltro ou com outras pontas porosas, canetastinteiro e outras canetas, estiletes para duplicadores, lapiseiras, canetas porta-penas, porta-lápis e artigos semelhantes, suas partes (incluídas as tampas e prendedores)
 12 Lápis, minas, pastéis, carvões, gizes para escrever ou 96.09 desenhar e gizes de alfaiate
 13 Massas ou pastas para modelar, próprias para recreação
@@ -6120,10 +6130,10 @@ Papel
 
 impermeável
 
-<!-- p. 170 -->
+<!-- p. 171 -->
 Código Incidência Valor em URF-MA 01.01 Arquivamento de Contrato; Alteração ou Distrato Social 35,96 01.02 Arquivamento de Atas de Constituição 88,26 01.03 Arquivamento de Atas de Aumento de Capital 75,19 01.04 Arquivamento de Atas dos demais casos 32,69 01.05 Arquivamento de outros documentos não especificados 6,54 02.01 Registro, anotação ou cancelamento de firma individual 22,88 02.02 Registro, Proteção de nome comercial 32,69 03.00 Matrícula, Nomeação ou cancelamento de agentes auxiliares do comércio 13,08
 
-<!-- p. 171 -->
+<!-- p. 172 -->
 04.00 Fiscalização ou Inspeção - Armazéns gerais (Matriz ou Filial, Leiloeiros, Tradutores Públicos ou outros agentes auxiliares do comércio) 19,61
 
 05.01 Cadastro - Constituição da Sociedade ou Firma Individual (pago uma só vez) 13,08 05.02 Cadastro Alteração 6,54 06.00 Publicação - Obrigação para todo e qualquer ato 6,54 07.01 Autenticação de livros fiscais 6,54 07.02 Autenticação de Blocos ou Notas 6,54 07.03 Autenticação por via de documento 3,27 08.00 Buscas ou consultas de documentos (por firma) 6,54 09.01 Pedido (requerimento) de Certidão 6,54 09.02 Certidão 6,54 09.03 Lauda – Certidão 6,54 09.04 Busca por mais de 5 anos, por ano – Certidão 3,27 09.05 Por folha fotocopiada – Certidão 3,27 10.00 Reconsideração de despacho ou julgamento - Pedido de reconsideração as Turmas 19,61 11.00 Recursos ou oposição 32,69
@@ -6180,7 +6190,7 @@ Código Incidência Valor em URF-MA
 
 26.00 Termos não especificados, lavrados em repartições públicas do Estado 6,54
 
-<!-- p. 172 -->
+<!-- p. 173 -->
 TABELA C - EMOLUMENTOS DA SECRETARIA DE ESTADO DA FAZENDA
 
 Código Incidência Valor em URF-MA 27.00 Inscrição no Cadastro de contribuintes do ICMS 13,08 28.00 Informações em meio magnético, por 10 KB 3,27 29.00 Informações em papel, por contribuinte, por ano 9,81
@@ -6224,10 +6234,10 @@ executadas por servidores da AGED/MA 47.01 Para quem possuir até 50 (cinquenta)
 
 47.02 Para quem possuir entre 51(cinquenta e um) e 300 (trezentos) animais cadastrados, por animal vacinado. 1,50
 
-<!-- p. 173 -->
+<!-- p. 174 -->
 47.03 Para quem possuir acima de 300 (trezentos) animais cadastrados, por animal vacinado. 2,00
 
-<!-- p. 174 -->
+<!-- p. 175 -->
 48.00 Emissão de laudo de inspeção e contagem de rebanho a pedido do produtor 48.01 Para aqueles que possuam até 100 cabeças de animais 100,00 48.02 Para aqueles que possuam entre 101 e 500 cabeças de animais 210,00 48.03 Para aqueles que possuam acima de 500 cabeças de animais 310,00 49.00 Emissão de laudo de inspeção e contagem de rebanho por determinação do Serviço Veterinário Oficial 49.01 Para aqueles que possuam até 100 cabeças de animais 80,00 49.02 Para aqueles que possuam entre 101 e 500 cabeças de animais 190,00 49.03 Para aqueles que possuam acima de 500 cabeças de animais 290,00 50.00 Afixação do Lacre Sanitário 15,00
 
 51.00 Desinfecção de veículos transportadores de animais vivos, desprovidos de qualquer tipo de cama orgânica ou inorgânica 55,00
@@ -6306,7 +6316,7 @@ Emissão de GTA ou e-GTA, para as demais espécies de animais domésticos, ornam
 
 19,00
 
-<!-- p. 175 -->
+<!-- p. 176 -->
 66.00 Emissão da GTA ou e-GTA realizada pelo Médico Veterinário Privado Habilitado Responsáveis Técnicos pelo manejo e
 
 controle sanitário
@@ -6372,7 +6382,7 @@ ANUAL 347,82
 80.00 Empresas de fabricação, comércio e conserto de joias, pedras ou metais preciosos e semipreciosos.
 ANUAL 605,84
 
-<!-- p. 176 -->
+<!-- p. 177 -->
 81.00 Empresas fornecedoras ou instaladoras de alarmes residenciais ANUAL 208,12 82.00 Empresas fornecedoras ou instaladoras de alarmes para veículos ANUAL 208,12 83.00 Empresas especializadas em confecção de chaves e em conserto de fechaduras ANUAL 124,02 84.00 HOTÉIS 84.01 Até 20 quartos ANUAL 275,12 84.02 De 21 a 50 quartos ANUAL 685,67 84.03 Mais de 50 quartos ANUAL 989,30 85.00 MOTÉIS 85.01 Até 10 quartos ANUAL 128,30 85.02 De 11 a 20 quartos ANUAL 171,06 85.03 De 21 a 50 quartos ANUAL 427,65 85.04 Mais de 50 quartos ANUAL 684,24 86.00 PENSÕES E POUSADAS ANUAL 394,86 86.01 Empresas que ministrem aulas de dança ANUAL 349,80 86.02 Barraquinhas, por dia e por barraca POR VEZ 5,13
 
 Código HIPÓTESES DE INCIDÊNCIA RELATIVAS AO DETRAN Valor em URF-MA 87.01 2ª VIA PD/CNH 75,00 87.02 Segunda via CNH 90,00 87.03 Consulta ao RENACH 55,53
@@ -6386,7 +6396,7 @@ Código HIPÓTESES DE INCIDÊNCIA RELATIVAS AO DETRAN Valor em URF-MA 87.01 2ª 
 96 MUDANÇA DE DADOS DO CONDUTOR 96.01 Consulta ao RENACH 55,53 96.02 Recadastramento no RENACH 59,23
 97 PERMISSÃO PARA DIRIGIR CATEGORIA A e B 97.01 Habilitação A e B 48,12 97.02 Licença de aprendizagem 24,06 97.03 EPDV categoria duas rodas 83,29
 
-<!-- p. 177 -->
+<!-- p. 178 -->
 97.04 EPDV categoria quatro rodas 83,29 97.05 Cadastramento no RENACH 59,23
 98 PERMISSÃO PARA DIRIGIR CATEGORIA A 98.01 Habilitação categoria duas rodas 48,12 98.02 Licença de aprendizagem 24,06 98.03 EPDV categoria duas rodas 83,29 98.04 Cadastramento no RENACH 59,23
 99 PERMISSÃO PARA DIRIGIR CATEGORIA B 99.01 Habilitação categoria quatro rodas 48,12 99.02 Licença de aprendizagem 24,06 99.03 EPDV categoria quatro rodas 83,29 99.04 Cadastramento no RENACH 59,23
@@ -6423,7 +6433,7 @@ Código HIPÓTESES DE INCIDÊNCIA RELATIVAS AO DETRAN Valor em URF-MA 87.01 2ª 
 
 106.06 Credenciamento - Pessoa Jurídica - Outras PJ Não Especificadas Anteriormente 925,47
 
-<!-- p. 178 -->
+<!-- p. 179 -->
 106.07 Alteração de Credenciamento e/ou Descredenciamento 277,64
 
 106.08 Emissão especial de Certificado de Registro de Veículos – CRV 149,93
@@ -6517,7 +6527,7 @@ CRLV 149,93
 
 110.04 Vistoria para registro de Formulário RENAVAM 152,00
 
-<!-- p. 179 -->
+<!-- p. 180 -->
 110.05 Consulta ao RENAVAM 55,53
 
 110.06 Cadastramento no RENAVAM 59,23
@@ -6593,7 +6603,7 @@ CRLV 149,93
 124 Recadastramento no RENAVAM 59,23
 125 MUDANÇA DE PROPRIEDADE 125.01 Mudança de propriedade 48,12
 
-<!-- p. 180 -->
+<!-- p. 181 -->
 125.02 Vistoria para registro no Formulário RENAVAM 152,00
 
 125.03 Consulta ao RENAVAM 55,53
@@ -6675,7 +6685,7 @@ CRLV 149,93
 
 135.02 Consulta RENAVAM 55,53
 
-<!-- p. 181 -->
+<!-- p. 182 -->
 TABELA F - EMOLUMENTOS DA SECTI E ÓRGÃOS VINCULADOS
 
 Código Incidência Valor em URF-MA
@@ -6769,7 +6779,7 @@ especificados anteriormente 512,09
 
 Alimentícios 512,09
 
-<!-- p. 182 -->
+<!-- p. 183 -->
 139.33 Comércio varejista de mercadorias em geral, com predominância de produtos
 
 alimentícios – hipermercado 1.019,99
@@ -6876,7 +6886,7 @@ Urgências 512,09
 
 139.77 Atividades de profissionais da nutrição 512,09
 
-<!-- p. 183 -->
+<!-- p. 184 -->
 139.78 Atividades de psicologia e psicanálise 512,09
 
 139.79 Atividades de terapia ocupacional 512,09
@@ -6975,7 +6985,7 @@ Urgências 512,09
 
 140.28 Fabricação de produtos farmoquímicos 1.291,94
 
-<!-- p. 184 -->
+<!-- p. 185 -->
 140.29 Fabricação de medicamentos alopáticos para uso humano 1.291,94
 
 140.30 Fabricação de medicamentos homeopáticos para uso humano 1.291,94
@@ -7084,7 +7094,7 @@ Complementares 1.019,99
 
 140.69 Serviços de tomografia ate um equipamento 763,94
 
-<!-- p. 185 -->
+<!-- p. 186 -->
 140.70 Obs: Serviços de tomografia (OBS: Mais de um equipamento ) cobrar por
 
 Equipamento 151,11
@@ -7199,7 +7209,7 @@ Artesanal 612,83
 
 141.12 Fabricação de biscoitos e bolachas diferente de produtos artesanal 612,83
 
-<!-- p. 186 -->
+<!-- p. 187 -->
 141.13 Fabricação de produtos derivados do cacau e de chocolates diferente de produtos
 
 Artesanal 612,83
@@ -7323,7 +7333,7 @@ cosméticos, produtos para saúde
 
 256,05
 
-<!-- p. 187 -->
+<!-- p. 188 -->
 141.47
 
 Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional (por veículo), com transporte de
@@ -7440,7 +7450,7 @@ embarcações) por veículos 256,05
 
 embarcações) por veículos 256,05
 
-<!-- p. 188 -->
+<!-- p. 189 -->
 145 Atividades Alto Risco 145.01 Para Serviços de saúde e de Interesse a saúde (por m²) 1,64
 
 145.02 Para Produtos e Serviços de Interesse Sanitário (por m²) 1,64
@@ -7529,7 +7539,7 @@ atividades exercidas
 
 150.21 Serviço de hemoterapia 1019,99
 
-<!-- p. 189 -->
+<!-- p. 190 -->
 150.22 Banco de sangue 763,94
 
 150.23 Posto de coleta de sangue 512,09
@@ -7627,7 +7637,7 @@ Uma 0,84
 
 161.20 Análise microbiológica 256,05
 
-<!-- p. 190 -->
+<!-- p. 191 -->
 161.21 Pesquisa de toxinas botulínica 306,42
 
 161.22 Pesquisa de bacteriófagos fecais 256,05
@@ -7663,7 +7673,7 @@ espectrofotometria de absorção atômica ou por palografia, cada uma 256,05
 
 165.21 Absorção atômica ou por palografia, cada uma 180,49 165.22 Micotoxinas (aflotoxinas, acrotoxina, zearalenoma) 180,49 165.27 Esterilidade 151,11 165.28 Pirogênio 356,79 165.29 Poder bactericida de desinfetantes (sem fornecimentos da diluição de uso) por bactéria 457,52 165.30 Poder bactericida de desinfetantes (com fornecimentos da diluição de uso) por bactéria 125,92 165.31 Poder esporicida, por microorganismos 125,92 165.32 Poder fungicida, por microorganismos 125,92 165.33 Poder fungistático, por microorganismos 125,92 165.34 Poder tuberculicida, por microorganismos 125,92 165.35 Poder bacteriostático, por microorganismos 125,92
 
-<!-- p. 191 -->
+<!-- p. 192 -->
 165.36 Ação residual, por dia e microorganismos 100,74
 
 165.37 Antigernicidade 512,09
@@ -7748,7 +7758,7 @@ ou formulários 256,05
 
 169.06 Análise de detergentes e desinfetantes, por componente 151,11
 
-<!-- p. 192 -->
+<!-- p. 193 -->
 169.07 Análise de arsênio (Gutzeit) 125,92
 
 169.08 Análise de arsênio (calorimetria com dietilditiocarbonato AG) 151,11
@@ -7779,7 +7789,7 @@ ou formulários 256,05
 
 ~~8,51 05.02 Cadastro Alteração 4,25 06.00 Publicação - Obrigação para todo e qualquer ato 4,25 07.01 Autenticação de livros fiscais 4,25 07.02 Autenticação de Blocos ou Notas 4,25 07.03 Autenticação por via de documento 2,13 08.00 Buscas ou consultas de documentos (por firma) 4,25 09.01 Pedido (requerimento) de Certidão 4,25 09.02 Certidão 4,25 09.03 Lauda – Certidão 4,25 09.04 Busca por mais de 5 anos, por ano - Certidão 2,13 09.05 Por folha fotocopiada – Certidão 2,13~~
 
-<!-- p. 193 -->
+<!-- p. 194 -->
 ~~10.00 Reconsideração de despacho ou julgamento - Pedido de reconsideração as~~
 
 ~~Turmas~~
@@ -7874,7 +7884,7 @@ ou formulários 256,05
 
 ~~4,25~~
 
-<!-- p. 194 -->
+<!-- p. 195 -->
 ~~23.01~~
 
 ~~Registro de documentos ou títulos, requerimento da parte, em repartições públicas do Estado, cujos empregados não recebem custas ou emolumentos por estes atos, por linha~~
@@ -7922,7 +7932,7 @@ ou formulários 256,05
 
 ~~5.000,00 39.00 Revogado pela MP nº 069/09, Lei nº 9.127/10 39.00 TABELA D - EMOLUMENTOS DA SAGRIMA, SAF E ÓRGÃOS VINCULADOS~~
 
-<!-- p. 195 -->
+<!-- p. 196 -->
 ~~Código Incidência Valor R$ 39.01 Títulos de legitimação de posse e outras concessões: de área até 50~~
 
 ~~hectares~~
@@ -8006,7 +8016,7 @@ ou formulários 256,05
 
 ~~2,13~~
 
-<!-- p. 196 -->
+<!-- p. 197 -->
 ~~50.04 Para Suínos, destinados a quaisquer finalidades por lote de 05 (cinco)~~
 
 ~~cabeças, ou fração~~
@@ -8039,7 +8049,7 @@ ou formulários 256,05
 
 ~~114,37 1.13 Exame documentoscópio e de laboratório, para fins particulares 154,10 1.14 Laudo de vistoria em imóveis e semoventes, para fins particulares 93,91 INSTITUTO DE IDENTIFICAÇÃO 1.15 Cédulas de identidade 1.16 1ª via 2,41 1.17 2ª via 2,41 1.18 Atestado de antecedentes criminais 7,22 1.19 Atos relativos a serviços diversos – xérox 2,41 1.20 Atestado de residência 7,22 1.21 Atestado de antecedentes políticos ou sociais 7,22 1.22 Atestado para outros fins 7,22~~
 
-<!-- p. 197 -->
+<!-- p. 198 -->
 ~~1.23 Certidão (por folha) 6,02~~
 
 ~~CÓDIGO~~ ~~HIPÓTESES DE INCIDÊNCIA RELATIVAS À VISTORIA E DOCUMENTAÇÃO~~
@@ -8100,7 +8110,7 @@ ou formulários 256,05
 
 ~~ANUAL 503,24~~
 
-<!-- p. 198 -->
+<!-- p. 199 -->
 ~~2.16~~
 
 ~~Empresas de desmanche, recuperação ou revenda de peças de veículos usadas, ferros-velhos e empresas de reciclagem de metais.~~
@@ -8130,7 +8140,7 @@ ou formulários 256,05
 
 ~~76.01 Adição e Mudança de categoria 31,30 76.02 Licença de aprendizagem 15,65~~
 
-<!-- p. 199 -->
+<!-- p. 200 -->
 ~~76.03 EPDV categoria duas rodas 54,18 76.04 EPDV categoria quatro rodas 54,18 76.05 Consulta ao RENACH 30,00 77 AUTORIZAÇÃO PARA ESTRANGEIRO DIRIGIR VEÍCULO~~
 
 ~~77.01 Autorização para conduzir veículo 31,30 77.02 Cadastramento no RENACH 38,53 78 AVERBAÇÃO DE REGISTRO DE CANDIDATO / CONDUTOR~~
@@ -8145,12 +8155,12 @@ ou formulários 256,05
 
 ~~83.02 Licença de aprendizagem 15,65 83.03 EPDV categoria quatro rodas 54,18 83.04 Consulta ao RENACH 30,00 84 MUDANÇA DE DADOS DO CONDUTOR 84.01 Consulta ao RENACH 30,00 84.02 Recadastramento no RENACH 38,53 85 PERMISSÃO PARA DIRIGIR CATEGORIA A e B 85.01 Habilitação A e B 31,30 85.02 Licença de aprendizagem 15,65 85.03 EPDV categoria duas rodas 54,18 85.04 EPDV categoria quatro rodas 54,18 85.05 Cadastramento no RENACH 38,53 86 PERMISSÃO PARA DIRIGIR CATEGORIA A 86.01 Habilitação categoria duas rodas 31,30 86.02 Licença de aprendizagem 15,65 86.03 EPDV categoria duas rodas 54,18 86.04 Cadastramento no RENACH 38,53 87 PERMISSÃO PARA DIRIGIR CATEGORIA B 87.01 Habilitação categoria quatro rodas 31,30~~
 
-<!-- p. 200 -->
+<!-- p. 201 -->
 ~~87.02 Licença de aprendizagem 15,65 87.03 EPDV categoria quatro rodas 54,18 87.04 Cadastramento no RENACH 38,53 88 REABILITAÇÃO DE CONDUTOR CATEGORIA DUAS RODAS 88.01 Habilitação categoria duas rodas 31,30 88.02 Licença de aprendizagem 15,65 88.03 EPDV categoria duas rodas 54,18 88.04 Consulta ao RENACH 30,00 89 REABILITAÇÃO DE CONDUTOR CATEGORIA QUATRO RODAS 89.01 Habilitação categoria duas rodas 31,30 89.02 Licença de aprendizagem 15,65 89.03 EPDV categoria quatro rodas 54,18 89.04 Consulta ao RENACH 30,00 90 REABILITAÇÃO DE CONDUTOR CATEGORIA DUAS E QUATRO RODAS 90.01 Reabilitação de Condutor A e B 31,30 90.02 Licença de aprendizagem 15,65 90.03 EPDV categoria duas rodas 54,18 90.04 EPDV categoria quatro rodas 54,18 90.05 Consulta ao RENACH 30,00 91 EXAME PRÁTICO DE DIREÇÃO VEICULAR DE DEFICIENTE FÍSICO 91.01 EPDV categoria quatro rodas 54,18 91.02 Exame médico 30,10 91.03 Consulta ao RENACH 30,00 92 RENOVAÇÃO DA CNH 92.01 Renovação da CNH 45,00~~
 
 ~~92.02 Consulta ao RENACH 30,00 93 Registro de livros de oficinas/desmanches 150,00 94 Cadastramento de oficinas mecânicas e desmanches 675,00 95 Registro e Licença de Centro de Formação de Condutores 162,53 96 Registro e Licença de Clínicas Médicas 150,49 97 Exame de Aptidão Física e Mental 68,12 98 Exame psicológico 68,12 99 Exame teórico técnico 35,00 100 CREDENCIAMENTO - PESSOA FÍSICA 100.01 Credenciamento - Pessoa Física - Instrutores e Diretores de CFC 150,00 100.02 Credenciamento - Pessoa Física – Despachantes 120,00 100.03 Credenciamento - Pessoa Física - Médicos e Psicólogos 150,00 100.04 Credenciamento - Pessoa Física - Inspetor de Trânsito 150,00 100.05 Credenciamento - Pessoa Física - Outras PF Não Especificadas Anteriormente 120,00 100.06 Alteração de Credenciamento e/ou Descredenciamento - Pessoas Físicas 150,00~~
 
-<!-- p. 201 -->
+<!-- p. 202 -->
 ~~100.07 Alteração de Credenciamento e/ou Descredenciamento - Pessoas Jurídicas 150,00 101 CREDENCIAMENTO - PESSOA JURÍDICA 101.01 Credenciamento - Pessoa Jurídica - Centro de Formação de Condutores - CFC 675,00 101.02 Credenciamento - Pessoa Jurídica - Clínicas Médicas e Psicológicas 625,00 101.03 Credenciamento - Pessoa Jurídica - Empresas Despachantes 500,00 101.04 Credenciamento - Pessoa Jurídica - Concessionárias de Veículos 900,00 101.05 Credenciamento - Pessoa Jurídica - Estampadora de Placas 675,00 101.06 Credenciamento - Pessoa Jurídica - Agentes Financeiros 2.700,00 101.07 Credenciamento - Pessoa Jurídica - Outras PJ Não Especificadas Anteriormente 500,00 102 Alteração de Credenciamento e/ou Descredenciamento 150,00 103 Emissão especial de Certificado de Registro de Veículos - CRV 97,52~~
 
 ~~104 Emissão especial de Certificado de Registro de Licenciamento de Veículos – CRLV~~
@@ -8160,17 +8170,17 @@ ou formulários 256,05
 
 ~~107.01 Vistoria Eletrônica 115,00 107.02 Vistoria Domiciliar 190,00 108 REGISTRO DE VEÍCULO SEM GRAVAME 108.01 Primeiro emplacamento 31,30 108.02 Lacração de placas 16,86 108.03 Autorização para confecção de placas 10,84 108.04 Vistoria para registro no Formulário RENAVAM 30,00 108.05 Consulta ao RENAVAM 30,00 108.06 Cadastramento no RENAVAM 38,53 109 REGISTRO DE VEÍCULO COM GRAVAME 109.01 Primeiro emplacamento 31,30 109.02 Lacração de placas 16,86~~
 
-<!-- p. 202 -->
+<!-- p. 203 -->
 ~~109.03 Autorização para confecção de placas 10,84 109.04 Vistoria para registro no Formulário RENAVAM 30,00 109.05 Consulta ao RENAVAM 30,00 109.06 Cadastramento no RENAVAM 38,53 109.07 Cadastramento no SNG (Sistema Nacional de Gravame) 120,00 110 Renovação de Licenciamento de Veículo 54,18 111 BAIXA DE GRAVAME DE VEÍCULO 111.01 Baixa de Alienação Fiduciária, Reserva de Domínio e Arrendamento Mercantil 31,30 111.02 Vistoria para registro no Formulário RENAVAM 30,00 111.03 Consulta ao RENAVAM 30,00 112 BAIXA DE VEÍCULO 112.01 Certidão 26,49 112.02 Consulta ao RENAVAM 30,00 112.03 Descadastramento no RENAVAM 38,53 113 Certidões 26,49 114 COMUNICAÇÃO DE VENDA DO VEÍCULO 114.01 Cadastramento no Sistema Local 38,53 115 INFORMAÇÃO DE VENDA DE VEÍCULO 115.01 Cadastramento no Sistema Local 38,53 116 Depósito de Veículo (diária) 3,61 117 2ª VIA DO CRV 117.01 2ª via do CRV 31,30 117.02 Vistoria para registro no Formulário RENAVAM 30,00 117.03 Consulta ao RENAVAM 30,00 117.04 Recadastramento no RENAVAM 38,53 118 2ª VIA DO CRLV 118.01 2ª via do CRLV 31,30 118.02 Vistoria para registro no Formulário RENAVAM 30,00 118.03 Consulta ao RENAVAM 30,00 119 Registro de cópia fotostática 3,61 120 MUDANÇA DE CARACTERÍSTICA 120.01 Alteração de características/dados do veículo 31,30~~
 
 ~~120.02 Vistoria para registro no Formulário RENAVAM ( 2) 60,00 120.03 Consulta ao RENAVAM 30,00 120.04 Recadastramento no RENAVAM 38,53 121 MUDANÇA DE CATEGORIA 121.01 Mudança de Categoria 31,30 121.02 Relacração de placa 16,86 121.03 Autorização e confecção de placas 10,84 121.04 Vistoria para registro no Formulário RENAVAM 30,00 121.05 Consulta ao RENAVAM 30,00~~
 
-<!-- p. 203 -->
+<!-- p. 204 -->
 ~~121.06 Recadastramento no RENAVAM 38,53 122 MUDANÇA DE DADOS DE VEÍCULO 122.01 Alteração de dados do veículo 31,30 122.02 Vistoria para registro no Formulário RENAVAM 30,00 122.03 Consulta ao RENAVAM 30,00 122.04 Recadastramento no RENAVAM 38,53 123 MUDANÇA DE MUNICÍPIO (MARANHÃO) 123.01 Alteração de características/dados do veículo 31,30 123.02 Relacração de placas 16,86 123.03 Autorização para confecção de tarjeta 10,84 123.04 Vistoria para registro no Formulário RENAVAM 30,00 123.05 Consulta ao RENAVAM 30,00 123.06 Recadastramento no RENAVAM 38,53 124 MUDANÇA DE PLACA DE 2 PARA 3 LETRAS 124.01 Mudança de placa 31,30 124.02 Relacração de placa 16,86 124.03 Autorização para confecção de placas 10,84 124.04 Vistoria para registro no Formulário RENAVAM 30,00 124.05 Consulta ao RENAVAM 30,00 124.06 Recadastramento no RENAVAM 38,53 125 MUDANÇA DE PROPRIEDADE 125.01 Mudança de propriedade 31,30 125.02 Vistoria para registro no Formulário RENAVAM 30,00 125.03 Consulta ao RENAVAM 30,00 125.04 Recadastramento no RENAVAM 38,53 126 MUDANÇA DE UNIDADE DA FEDERAÇÃO DE VEÍCULO 126.01 Mudança de veículo de outro estado 31,30 126.02 Relacração de placas / tarjeta 16,86 126.03 Vistoria para registro no Formulário RENAVAM 30,00 126.04 Consulta ao RENAVAM 30,00 126.05 Recadastramento no RENAVAM 38,53 127 GRAVAÇÃO DE CHASSI (FABRICAÇÃO PRÓPRIA) 127.01 Gravação de chassi 31,30 127.02 Vistoria para registro no Formulário RENAVAM (antes e depois) 36,12 128 GRAVAÇÃO DE CHASSI VEÍCULO USADO~~
 
 ~~128.01 Gravação de chassi 31,30 128.02 Vistoria para registro no Formulário RENAVAM (antes e depois) 36,12 128.03 Consulta ao RENAVAM 30,00 129 REGRAVAÇÃO DE CHASSI 129.01 Alteração de dados do veículo 31,30~~
 
-<!-- p. 204 -->
+<!-- p. 205 -->
 ~~129.02 Vistoria para registro no formulário RENAVAM 30,00 129.03 Consulta ao RENAVAM 30,00 129.04 Autorização para regravação do chassi 32,51 129.05 Recadastramento no RENAVAM 38,53 130 SUBSTITUIÇÃO DE TARJETA 130.01 Autorização para confecção de tarjeta 7,22 130.02 Vistoria para registro no formulário RENAVAM 18,06 131 SUBSTITUIÇÃO DE PLACA TRASEIRA 131.01 Lacração de placas 16,86 131.02 Autorização para confecção de placas 10,84 131.03 Vistoria para registro no formulário RENAVAM 30,00 132 SUBSTITUIÇÃO DE PLACA DIANTEIRA 132.01 Autorização para confecção de placas 10,84 132.02 Vistoria para registro no formulário RENAVAM 30,00 133 SUBSTITUIÇÃO DE LACRE 133.01 Relacração de placas 16,86 133.02 Vistoria para registro no formulário RENAVAM 30,00 134 BLOQUEIO DE GRANDE, MÉDIA E PEQUENA MONTA 134.01 Bloqueio 38,53 134.02 Certidão 26,49 135 UTILIZAÇÃO DE PLACA DE EXPERIÊNCIA 135.01 Utilização de placa de experiência 250,00 135.02 Autorização para confecção de placas 10,84 136 Vistoria com emissão de Laudo 45,00 137 Reboque por KM rodado 6,02 137.01 Habilitação de terceiros à base de dados – AC Lei nº 8.088/04 108,48 137.02 Reabilitação de terceiros à base de dados - AC Lei nº 8.088/04 162,71 137.03 Controle de carga horário eletrônico de prática de direção veicular – AC~~
 
 ~~Lei nº 8.088/04 16,27~~
@@ -8181,7 +8191,7 @@ ou formulários 256,05
 
 ~~137.05 Laudo vistoria técnica de segurança veicular - AC Lei nº 8.088/04 144,64 137.06 Credenciamento de fabricante de placa - AC Lei nº 8.088/04 244,07 137.07 Credenciamento de inspetor de trânsito - AC Lei nº 8.088/04 225,99 138 Outras Taxas Detran 138.01 Telex 6,02 138.02 Permissão Internacional para dirigir – PID 152,00 138.03 Taxa complementar para processo de primeira habilitação 112,00 138.04 Utilização de viatura do Detran em exame prático de categoria A/B 30,00 138.05 Utilização de viatura do Detran em exame prático de categoria C/D/E 60,00 138.06 Reinício de processo 409,00~~
 
-<!-- p. 205 -->
+<!-- p. 206 -->
 ~~138.07 Conversão de habilitação estrangeira 52,00 138.08 Cópia do processo de habilitação 25,00 139 Atos relativos a serviços diversos – xérox 2,41 140 RENOVAÇÃO DO LICENCIAMENTO DO VEÍCULO 140.01 Renovação do licenciamento 55,00 140.02 Consulta RENAVAM 30,00 141 CÓPIA ORIGINAL CRLV – PRIMEIRA SOLICITAÇÃO 141.01 Segunda via do CRLV 60,00 142 CÓPIA ORIGINAL CRLV – PRIMEIRA SOLICITAÇÃO 142.01 Segunda via do CRLV 60,00 142.02 Vistoria 115,00 142.03 Consulta RENAVAM 30,00 TABELA F - EMOLUMENTOS DA SECTI E ÓRGÃOS VINCULADOS Código Incidência Valor~~
 
 ~~149 Registro de diploma de curso de nível superior de formados por escolas do País ou reconhecidas pelo Governo Federal~~
@@ -8216,7 +8226,7 @@ ou formulários 256,05
 
 ~~49,14~~
 
-<!-- p. 206 -->
+<!-- p. 207 -->
 ~~159.01 Licença para venda de medicamentos por pessoas idôneas, nas localidades onde~~
 
 ~~não houver farmácia ou drogaria - Renovação anual~~
@@ -8277,7 +8287,7 @@ ou formulários 256,05
 
 ~~174 MAIOR RISCO EPIDEMIOLÓGICO 174.01 Conservas de produtos de origem vegetal 496,90 174.02 Doces / produtos confeitaria (com creme) 496,90 174.03 Massas frescas 496,90~~
 
-<!-- p. 207 -->
+<!-- p. 208 -->
 ~~174.04 Panificação (fab/distribuição) 496,90 174.05 Produtos alimentícios infantis 496,90 174.06 Produtos congelados 496,90~~
 
 ~~174.07 Produtos dietéticos 496,90 174.08 Refeições industriais 496,90 174.09 Sorvetes e similares 496,90 174.10 Congêneres (acima) grupo 496,90 175 MENOR RISCO EPIDEMIOLÓGICO 175.01 Aditivos 398,61 175.02 Água mineral 398,61 175.03 Amidos e derivados 398,61 175.04 Bebidas analcóolicas, sucos e outros 398,61 175.05 Biscoitos e bolachas 398,61 175.06 Cacau, chocolates e sucedâneos 398,61 175.07 Cerealista, depósito e beneficiamento de grãos 398,61 175.08 Condimentos, molhos especiarias 398,61 175.09 Confeitos, caramelos, bombons e similares 398,61 175.10 Desidratora de frutas (uva, passas, banana, maçã, etc) 398,61 175.11 Desidratora de vegetais 398,61 175.12 Farinhas (moinhos) e similares 398,61 175.13 Gelatinas, pudins, pós para sobremesas e sorvetes 398,61 175.14 Gelo 398,61 176 GORDURAS, ÓLEOS, AZEITES, CREMES (FAB/REF/ENVASADORA) 398,61 176.01 Massas secas 398,61 176.02 Refinadora e envasadora de açúcar 398,61 176.03 Refinadora e envasadora de sal 398,61 176.04 Salgadinhos / batata frita (empacotados) 398,61 176.05 Salgadinhos e frituras 398,61 176.06 Suplementos alimentares enriquecidos 398,61 176.07 Tempero à base de sal 398,61 176.08 Torrefada de café 398,61 176.09 Congêneres 398,61~~
@@ -8287,7 +8297,7 @@ ou formulários 256,05
 
 ~~177.01 Açougue 232,07 177.02 Assadoras de aves e outros tipos de carne 133,78 177.03 Cantina escolar 98,29 177.04 Casa de carnes 166,54 177.05 Casa de frios (lacticínios embutidos) 133,78 177.06 Casa de sucos / caldo de cana e similares 98,29~~
 
-<!-- p. 208 -->
+<!-- p. 209 -->
 ~~177.07 Comércio atacadista / dep. de produtos perecíveis 264,83 177.08 Confeitaria 199,31 177.09 Cozinhas de escolas 166,54 177.10 Cozinha clube / hotel / motel / creche / boite e similares 166,54 177.11 Cozinha de lactários / hospital / maternidade / casa de saúde 166,54 177.12 Feira livre / ambulante / ambulante (c/ venda de carne, pescados e outros) 98,29 177.13 Lanchonetes e petiscarias 166,54~~
 
 ~~177.14 Supermercado / mini box (somatório das atividades) 333,09 177.15 Mercearia / armazém (única atividade) 166,54 177.16 Padaria / panificadoras 199,31 177.17 Pastelaria 264,83 177.18 Peixaria (pescados e frutos do mar) 199,31 177.19 Pizzaria 264,83 177.20 Produtos congelados 264,83 177.21 Restaurante / buffet / churrascaria 264,83 177.22 Rotisserie 264,83 177.23 Serv-carro / drive-in / quiosque / trailler e similares 264,83 177.24 Sorveteria e/ou posto de venda 199,31 177.25 Congêneres (acima) 199,31~~
@@ -8299,7 +8309,7 @@ ou formulários 256,05
 
 ~~177.27 Supermercados 663,44 177.28 Restaurante 663,44 177.29 Casas de doce 264,83 177.30 Casa de chocolates 264,83 177.31 Casa de caldos 199,31 177.32 Trailler 199,31 177.33 Posto de pão 133,78 178 MENOR RISCO EPIDEMIOLÓGICO 178.01 Boite / wiskeria 333,09 178.02 Bomboniere 133,78 178.03 Café 133,78 178.04 Depósito de bebidas 333,09 178.05 Depósito de frutas e verduras 166,54 178.06 Bar 166,54 178.07 Depósito de produtos não perecíveis 166,54 178.08 Envasadora de chás / cafés / condimentos / especiarias 166,54 178.09 Feira livre / comércio ambulante de alimentos não perecíveis 133,78 178.10 Quitanda, frutas e verduras 133,78 178.11 Venda ambulante (carrinho pipoca / milho / sanduíche, etc) 98,29~~
 
-<!-- p. 209 -->
+<!-- p. 210 -->
 ~~178.12 Comércio atacadista produtos não perecíveis 333,09 178.13 Congêneres 166,54~~
 
 ~~178.14 Estabelecimento com mais de uma atividade (acima), o valor da taxa será a soma~~
@@ -8333,7 +8343,7 @@ ou formulários 256,05
 
 ~~182 MAIOR RISCO EPIDEMIOLÓGICO 182.01 Agrotóxicos 496,90 182.02 Com. Distrib. de medicamentos 496,90 182.03 Com. Distrib. de produtos laboratorial 496,90 182.04 Com. Distrib. de produtos médico / hospitalar 496,90 182.05 Com. Distrib. de produtos odontológicos 496,90 182.06 Com. Distrib. de produtos veterinários 496,90 182.07 Com. Distrib. de saneantes domissanitários 496,90 182.08 Com. Distrib. de alimentos 496,90 182.09 Produtos químicos 663,44 182.10 Congêneres 663,44~~
 
-<!-- p. 210 -->
+<!-- p. 211 -->
 ~~182.11 Estab com mais de uma atividade (acima), o valor da taxa será a soma das~~
 
 ~~atividades exercidas~~
@@ -8345,7 +8355,7 @@ ou formulários 256,05
 
 ~~185 MAIOR RISCO EPIDEMIOLÓGICO / AMBULATÓRIOS / CLÍNICAS 185.01 Ambulatório médico 166,54 185.02 Ambulatório veterinário 133,78 185.03 Banco de leite humano 98,29 185.04 Banco de órgãos (olhos, rins, fígado, etc) 98,29 185.05 Clínica médica 663,44 185.06 Clínica veterinária 333,09 185.07 Hemodiálise 166,54 185.08 Policlínica 663,44 185.09 Pronto socorro 166,54 186 FONTES DE RADIAÇÕES IONIZANTES 186.01 Medicina nuclear 663,44 186.02 Radioimunoensaio 333,09 186.03 Radioterapia 333,09 186.04 Radiologia médica 333,09 186.05 Radiologia odontológica 199,31 187 ESTABELECIMENTOS FARMACÊUTICOS 187.01 Farmácia (alopática) 496,90 187.02 Farmácia (homeopática) 496,90 187.03 Drogaria 496,90 187.04 Posto de medicamentos 333,09 187.05 Dispensário de medicamentos 333,09 187.06 Ervanaria 333,09 187.07 Unidade volante 333,09~~
 
-<!-- p. 211 -->
+<!-- p. 212 -->
 ~~187.08 Farmácia privativa (hosp. / clínica / assoc. etc) 333,09~~
 
 ~~188 ATOS RELATIVOS À FISCALIZAÇÃO DE ESTABELECIMENTOS HOSPITALARES~~
@@ -8380,7 +8390,7 @@ ou formulários 256,05
 
 ~~190.04 Agência transfusional de sangue 333,09 190.05 Serviço industrial derivados de sangue 663,44 191 MENOR RISCO EPIDEMIOLÓGICO 191.01 Clínica de psicoterapia / desintoxicação 496,90 191.02 Clínica de psicanálise 496,90 191.03 Clínica de odontologia 496,90 191.04 Clínica de tratamento e repouso 496,90 191.05 Clínica de ortopedia 333,09 191.06 Consultório médico 333,09 191.07 Consultório nutricional 333,09 191.08 Consultório odontológico 333,09 191.09 Consultório de psicanálise 333,09 191.10 Consultório veterinário 333,09 191.11 Estabelecimento de massagem 333,09 191.12 Laboratório de prótese dentária 333,09 191.13 Laboratório de prótese auditiva 333,09 191.14 Laboratório de prótese ortopédica 333,09 191.15 Laboratório de ótica 333,09 191.16 Ótica 333,09 191.17 Serviços eventuais (arterial, coleta e tipo de sangue) 166,54 191.18 Congêneres 166,54~~
 
-<!-- p. 212 -->
+<!-- p. 213 -->
 ~~191.19 Estabelecimento com mais de uma atividade o valor da taxa será a soma das~~
 
 ~~atividades exercidas~~
@@ -8395,7 +8405,7 @@ ou formulários 256,05
 
 ~~194.02 Academia de ginástica 264,83 194.03 Agência bancária e similares 166,54 194.04 Barbearia 166,54 194.05 Camping 166,54 194.06 Cárcere 166,54 194.07 Casa de espetáculo (discoteca / bailes / similares) 166,54 194.08 Cemitério / necrotério 333,09 194.09 Cinema / auditório / teatro 166,54 194.10 Circo / rodeio 166,54 194.11 Comércio geral (eletrodoméstico, calçados, disco, vestuário, etc) 166,54 194.12 Dormitório (por cômodo) 166,54 194.13 Escritório em geral 166,54 194.14 Estação de tratamento de água para abastecimento 166,54 194.15 Estação de tratamento de esgoto 166,54 194.16 Estética facial 166,54 194.17 Floricultura / mudas 166,54 194.18 Garagem / estacionamento coberto 166,54~~
 
-<!-- p. 213 -->
+<!-- p. 214 -->
 ~~194.19 Hotel (hospedagem por cômodo) 16,38 194.20 Igrejas e similares 98,29 194.21 Lavanderia 166,54 194.22 Motel (hospedagem por cômodo) 16,38 194.23 Oficina / consertos 98,29 194.24 Orfanato / patronato 166,54 194.25 Parque 166,54 194.26 Pensão (cômodo) 10,92 194.27 Piscina coletiva 166,54 194.28 Posto combustível / lubrificante 166,54 194.29 Quartel 166,54 194.30 Salão de beleza / manicure / cabeleireiro 166,54 194.31 Serviço e veículo de transporte de alimentos 166,54 194.32 Serviço de coleta, transporte e destino do lixo 166,54 194.33 Serviço de lavagem de veículo 166,54 194.34 Serviço de limpeza de fossas 166,54 194.35 Serviço de limpeza / desinf. de caixa / poço d'agua 166,54 194.36 Transportadora produtos perecíveis (por veículo) 166,54 194.37 Transporte coletivo (terrestre, aéreo e marítimo) 166,54 194.38 Congêneres 166,54~~
 
 ~~194.39 Estabelecimento com mais de uma atividade o valor da taxa será a soma das~~
@@ -8407,7 +8417,7 @@ ou formulários 256,05
 
 ~~196.02 Residência (por m²) 1,64 197 MENOR RISCO EPIDEMIOLÓGICO 197.01 Ampliação (por m²) 1,64 197.02 Habitação popular até 40 m² (por m²) ISENTO 197.03 Sala comercial (por m²) 0,68 197.04 Ginásio / estádio e similares (por m²) 0,68 197.05 Galpão depósito e similares (por m²) 0,68 197.06 Garagem / estacionamento coberto (por m²) 0,68 197.07 Estabelecimento de saúde (por m²) 1,64 197.08 Estabelecimento de ensino (por m²) 1,64 197.09 Estabelecimento de ginástica e lazer (por m²) 1,64 197.10 Maternal / creche / jardim de infância / asilo (por m²) 1,64 197.11 Habitação coletiva - internatos e similares (por m²) 1,64~~
 
-<!-- p. 214 -->
+<!-- p. 215 -->
 ~~197.12 Cemitério e afins (por m²) 1,64 197.13 Congêneres (por m²) 1,64 197.14 Análise de projetos 197.14.1 Apartamento / residência e similares (por m²) 1,64 197.14.2 Estabelecimento de saúde (por m²) 0,41 197.14.3 Estabelecimento de ensino (por m²) 1,64 197.14.4 Estabelecimento de ginástica / lazer e similares (por m²) 1,64 197.14.5 Estabelecimento e locais de trabalho (por m²) 1,64 197.14.6 Maternal / creche / jardim de infância / asilo (por m²) 0,41 197.14.7 Cemitérios e afins (por m²) 1,64 197.14.8 Congêneres (acima-por m²) 1,64 198 ATOS RELATIVOS À FISCALIZAÇÃO DE ANÁLISE LABORATORIAL 199 ÁGUA 199.01 Análise química de potabilidade 133,78 199.02 Análise bacteriológica de potabilidade 117,40 199.03 Análise de potabilidade (química + bacteriológica) 232,07 199.04 Análise de potabilidade com exame detalhado do resíduo 232,07 199.05 Para cada elemento do resíduo (acréscimo de) 30,03~~
 
 ~~199.06 Análise microbiológica de água mineral incluindo pseudomonas, enterecocus e~~
@@ -8433,7 +8443,7 @@ ou formulários 256,05
 
 ~~166,54 201.02 Exame microscópico e microbiológico 166,54 201.03 Determinação de glúten 98,29 201.04 Determinação de fibras 98,29~~
 
-<!-- p. 215 -->
+<!-- p. 216 -->
 ~~201.05 Determinação de colesterol, em alimentos com ovos 98,29~~
 
 ~~201.06 Determinação de cafeína em alimentos (com prévia consulta junto a seção~~
@@ -8479,7 +8489,7 @@ ou formulários 256,05
 
 ~~203.01 Condimentos industrializados 166,54 203.02 Condimentos naturais 166,54 203.03 Vinagres 166,54 203.04 Coadjuvantes para alimentos 199,31 203.05 Fermentos biológicos 166,54~~
 
-<!-- p. 216 -->
+<!-- p. 217 -->
 ~~203.06 Fermentos químicos 166,54 203.07 Preparação enzimática, por enzima analisada 166,54~~
 
 ~~204.00 ATOS RELATIVOS À FISCALIZAÇÃO DE EMBALAGENS PARA~~
@@ -8526,7 +8536,7 @@ ou formulários 256,05
 
 ~~205.23.2 Outras toxinas ARBITRAR~~
 
-<!-- p. 217 -->
+<!-- p. 218 -->
 ~~205.23.3 Análise por cromatografia líquida em alta resolução (CLAR) ARBITRAR 205.24 Disenfetantes e outros 205.24.1 Esterilidade 98,29 205.24.2 Pirogênio 232,07~~
 
 ~~205.24.3 Poder bactericida de desinfetantes (sem fornecimentos da diluição de uso) por~~
@@ -8562,7 +8572,7 @@ ou formulários 256,05
 
 ~~166,54 207.07 Antibiótico (análise química) 117,40~~
 
-<!-- p. 218 -->
+<!-- p. 219 -->
 ~~207.08 Antibiótico (análise microbiológica) 117,40 208 Pesticidade e outros~~
 
 ~~208.01 Resíduos de pesticidas organoclorados e posclorado, cada um 333,09 208.02 Resíduos de fosfina, carbonato, deltametrina, cada uma 333,09 208.03 Resíduos de óxido de etileno, etilenocloridina, etiniloglicol, cada um 166,54 208.04 Benzeno em solventes para tintas 133,78 208.05 Formulação de pesticidas (cada princípio ativo) 208.06 Bifeniles oliclorados (PCB'S) 333,09 209 Outras análises 209.01 Titulação potenciometria 98,29 209.02 Determinação de cianeto 98,29 209.03 Espectro na região UV - VIS 98,29 209.04 Espectro na região infravermelho com interpretação 98,29 209.05 Unidade, segundo Karl Fischer 98,29 209.06 Análise de detergentes e desinfetantes, por componente 98,29 209.07 Análise de arsênio (Gutzeit) 81,91 209.08 Análise de arsênio (calorimetria com dietilditiocarbonato AG) 98,29 209.09 Análise de flúor (eletrodo seletivo) 98,29 209.10 Análise de metais pesados (sem chumbo) com gás sulfúrico 81,91 209.11 Consulta técnica ARBITRAR 210 REGISTRO DE PRODUTOS 210.01 Processo para registro de produtos (por produto)~~
@@ -8574,7 +8584,7 @@ ou formulários 256,05
 
 ~~210.03 2ª via certificado de registro de produto 65,53 210.04 Desarquivamento de processos de registro de produtos (por processo) 32,76 211 SERVIÇOS DIVERSOS 211.01 2ª via do alvará sanitário 65,53 212 VISTORIA (A PEDIDO DO INTERESSADO) 212.01 De natureza simples 166,54 212.02 De natureza complexa 264,83 212.03 Vistos 212.04 Em receitas de notificação de receitas ISENTO 212.05 Fornecimento de notificação de receita (por bloco), branco e azul 5,46 213 GUIAS 213.01 Livre trânsito produto sujeito à fiscalização sanitária (por guia) 32,76 213.02 Requisição de entorpecentes 32,76 214 LICENÇAS 214.01 Importação de produtos sujeitos à fiscalização sanitária 232,07 214.02 Comércio de entorpecentes (por guia) 166,54~~
 
-<!-- p. 219 -->
+<!-- p. 220 -->
 ~~215 LIBERAÇÃO DE PRODUTOS DE INTERESSE À SAÚDE 215.01 Liberação petit parquet (por volume) 10,92 215.02 Liberação colix posteaux (por volume) 10,92 215.03 Liberação de produtos (paciente em estados terminal) ISENTO 216 AUTENTICAÇÃO 216.01 Livros farmácia / drogaria / laboratório / prótese / ótica e similares, por folha 0,27 217 REGISTROS 32,76 217.01 Diploma e certidões 32,76 217.02 Certificado (aux. Farmac. / protético / ótico / outros) 32,76 217.03 Baixa alvará sanitário estabelecimento sujeito à fiscalização sanitária 32,76 217.04 Baixa de responsabilidade técnica 32,76~~
 
 ~~217.05 Mudança de responsabilidade técnica (estabelecimento sujeito à fiscalização~~
@@ -8616,7 +8626,7 @@ ou formulários 256,05
 
 ~~05.01 Cadastro - Constituição da Sociedade ou Firma Individual (pago uma só vez) 4,00~~
 
-<!-- p. 220 -->
+<!-- p. 221 -->
 ~~05.02 Cadastro Alteração 2,00~~
 
 ~~06.00 Publicação - Obrigação para todo e qualquer ato 2,00~~
@@ -8704,7 +8714,7 @@ ou formulários 256,05
 
 ~~2,00~~
 
-<!-- p. 221 -->
+<!-- p. 222 -->
 ~~21.01~~
 
 ~~Petições ou representações solicitando privilégio, concessão ou prorrogação de prazo para o início de concessão 2,00~~
@@ -8782,7 +8792,7 @@ ou formulários 256,05
 
 ~~Código Incidência Valor~~
 
-<!-- p. 222 -->
+<!-- p. 223 -->
 ~~39.01 Títulos de legitimação de posse e outras concessões: de área até 50 hectares 2,00~~
 
 ~~39.02 Títulos de legitimação de posse e outras concessões: de mais de 50 até 100 hectares 2,00~~
@@ -8877,7 +8887,7 @@ ou formulários 256,05
 
 ~~50.09 Para Peixes Ornamentais por centena ou fração 1,00~~
 
-<!-- p. 223 -->
+<!-- p. 224 -->
 ~~50.10~~
 
 ~~Para as demais espécies de Animais Domésticos, Ornamentais, Exóticos e Silvestres, destinados a quaisquer finalidades~~
@@ -8956,7 +8966,7 @@ ou formulários 256,05
 
 ~~Bar, Boate, Drive-in, Casas Noturnas, Restaurantes, Lanchonetes, Lojas de Conveniências e Similares em que sejam comercializadas ou consumidas bebidas alcoólicas.~~
 
-<!-- p. 224 -->
+<!-- p. 225 -->
 ~~2.02.1 Com Show e Com Dança ANUAL 822,00~~
 
 ~~2.02.2 Com Show e Sem Dança ANUAL 722,00~~
@@ -9043,7 +9053,7 @@ ou formulários 256,05
 
 ~~2.25.3 De 21 a 50 quartos ANUAL 300,00~~
 
-<!-- p. 225 -->
+<!-- p. 226 -->
 ~~2.25.4 Mais de 50 quartos ANUAL 480,00~~
 
 ~~2.26 PENSÕES E POUSADAS ANUAL 277,00~~
@@ -9118,7 +9128,7 @@ ou formulários 256,05
 
 ~~83.02 Licença de aprendizagem 13,00~~
 
-<!-- p. 226 -->
+<!-- p. 227 -->
 ~~83.03 EPDV categoria quatro rodas 45,00~~
 
 ~~83.04 Consulta ao RENACH 22,00~~
@@ -9197,7 +9207,7 @@ ou formulários 256,05
 
 ~~91.01 EPDV categoria quatro rodas 45,00~~
 
-<!-- p. 227 -->
+<!-- p. 228 -->
 ~~91.02 Exame médico 25,00~~
 
 ~~91.03 Consulta ao RENACH 22,00~~
@@ -9280,7 +9290,7 @@ ou formulários 256,05
 
 ~~112.01 Certidão 22,00~~
 
-<!-- p. 228 -->
+<!-- p. 229 -->
 ~~112.02 Consulta ao RENAVAM 22,00~~
 
 ~~112.03 Descadastramento no RENAVAM 32,00~~
@@ -9353,7 +9363,7 @@ ou formulários 256,05
 
 ~~123.06 Recadastramento no RENAVAM 32,00~~
 
-<!-- p. 229 -->
+<!-- p. 230 -->
 ~~124.00~~ ~~MUDANÇA DE PLACA DE 2 PARA 3 LETRAS~~
 
 ~~124.01 Mudança de placa 26,00~~
@@ -9432,7 +9442,7 @@ ou formulários 256,05
 
 ~~133.01 Relacração de placas 14,00~~
 
-<!-- p. 230 -->
+<!-- p. 231 -->
 ~~133.02 Vistoria para registro no formulário RENAVAM 15,00~~
 
 ~~134.00~~ ~~BLOQUEIO DE GRANDE, MÉDIA E PEQUENA MONTA~~
@@ -9527,7 +9537,7 @@ ou formulários 256,05
 
 ~~57,00~~
 
-<!-- p. 231 -->
+<!-- p. 232 -->
 ~~56.04~~
 
 ~~Atos relativos à fiscalização de espetáculos, jogos e diversões temporárias ou permanentes:~~
@@ -9620,7 +9630,7 @@ ou formulários 256,05
 
 ~~459,00~~
 
-<!-- p. 232 -->
+<!-- p. 233 -->
 ~~60.01~~
 
 ~~Pelo funcionamento de cabaré, dancing, boite, grilroom, restaurante dançante, restaurante musical, bar musical ou similares, por mês, - 1ª classe (na capital)~~
@@ -9725,7 +9735,7 @@ ou formulários 256,05
 
 ~~9,00~~
 
-<!-- p. 233 -->
+<!-- p. 234 -->
 ~~61.06~~
 
 ~~Pela exploração de jogos como bingo, diversões eletrônicas e similares, permanentes ou temporárias, por ano - na capital~~
@@ -9814,7 +9824,7 @@ ou formulários 256,05
 
 ~~75.00 ADIÇÃO DE CATEGORIA 75.01 Adição de categoria duas rodas 26,00~~
 
-<!-- p. 234 -->
+<!-- p. 235 -->
 ~~75.02 Licença de aprendizagem 13,00~~
 
 ~~75.03 Consulta ao RENACH 22,00~~
@@ -9881,7 +9891,7 @@ ou formulários 256,05
 
 ~~86.04 Cadastramento no RENACH 32,00~~
 
-<!-- p. 235 -->
+<!-- p. 236 -->
 ~~87.00 PERMISSÃO PARA DIRIGIR CATEGORIA B 87.01 Habilitação categoria quatro rodas 26,00~~
 
 ~~87.02 Licença de aprendizagem 13,00~~
@@ -9956,7 +9966,7 @@ ou formulários 256,05
 
 ~~106.00 Credenciamento e Renovação de despachantes (pessoa jurídica) 125,00~~
 
-<!-- p. 236 -->
+<!-- p. 237 -->
 ~~107.00 Vistoria especial (com deslocamento) 81,00~~
 
 ~~108.00 REGISTRO DE VEÍCULO SEM GRAVAME 108.01 Primeiro emplacamento 26,00~~
@@ -10025,7 +10035,7 @@ ou formulários 256,05
 
 ~~120.00~~ ~~MUDANÇA DE CARACTERÍSTICA~~
 
-<!-- p. 237 -->
+<!-- p. 238 -->
 ~~120.01 Alteração de características/dados do veículo 26,00~~
 
 ~~120.02 Vistoria para registro no Formulário RENAVAM ( 2) 30,00~~
@@ -10100,7 +10110,7 @@ ou formulários 256,05
 
 ~~127.00~~ ~~GRAVAÇÃO DE CHASSI (FABRICAÇÃO PRÓPRIA)~~
 
-<!-- p. 238 -->
+<!-- p. 239 -->
 ~~127.01 Gravação de chassi 26,00~~
 
 ~~127.02 Vistoria para registro no Formulário RENAVAM(antes e depois) 30,00~~
@@ -10177,7 +10187,7 @@ ou formulários 256,05
 
 ~~138.00 Telex 5,00~~
 
-<!-- p. 239 -->
+<!-- p. 240 -->
 ~~139.00 Atos relativos a serviços diversos - xerox 2,00~~
 
 ~~140.00 Atestado de antecedentes criminais ou policiais 9,00~~
@@ -10246,7 +10256,7 @@ ou formulários 256,05
 
 ~~6,00~~
 
-<!-- p. 240 -->
+<!-- p. 241 -->
 ~~TABELA DAS TAXAS DE FISCALIZAÇÃO DE SERVIÇOS DIVERSOS~~
 
 ~~Art. 98 da Lei 3.875/77, com a nova redação dada pela Lei 7.383/100 TABELA G - EMOLUMENTOS DA GERÊNCIA DE QUALIDADE DE VIDA~~
@@ -10336,7 +10346,7 @@ ou formulários 256,05
 
 ~~167.02 Renovação anual 16,00~~
 
-<!-- p. 241 -->
+<!-- p. 242 -->
 ~~168.00~~
 
 ~~Mercadorias, supermercados médios, pousadas, escolas, motéis, restaurantes, hotéis, bares classe “B”: Início das atividades 15,00~~
@@ -10420,7 +10430,7 @@ ou formulários 256,05
 
 ~~176.01 Massas secas 146,00~~
 
-<!-- p. 242 -->
+<!-- p. 243 -->
 ~~176.02 Refinadora e envasadora de açúcar 146,00~~
 
 ~~176.03 Refinadora e envasadora de sal 146,00~~
@@ -10497,7 +10507,7 @@ ou formulários 256,05
 
 ~~177.27 Supermercados 243,00~~
 
-<!-- p. 243 -->
+<!-- p. 244 -->
 ~~177.28 Restaurante 243,00~~
 
 ~~177.29 Casas de doce 97,00~~
@@ -10578,7 +10588,7 @@ ou formulários 256,05
 
 ~~180.02 Equip. / instrumentos laboratorial 182,00~~
 
-<!-- p. 244 -->
+<!-- p. 245 -->
 ~~180.03 Equip. / instrumentos médico / hospitalar 182,00~~
 
 ~~180.04 Equip. / instrumento odontológico 182,00~~
@@ -10658,7 +10668,7 @@ ou formulários 256,05
 
 ~~185.05 Clínica médica 243,00~~
 
-<!-- p. 245 -->
+<!-- p. 246 -->
 ~~185.06 Clínica veterinária 122,00~~
 
 ~~185.07 Hemodiálise 61,00~~
@@ -10737,7 +10747,7 @@ ou formulários 256,05
 
 ~~191.01 Clínica de psicoterapia / desintoxicação 182,00~~
 
-<!-- p. 246 -->
+<!-- p. 247 -->
 ~~191.02 Clínica de psicanálise 182,00~~
 
 ~~191.03 Clínica de odontologia 182,00~~
@@ -10804,7 +10814,7 @@ ou formulários 256,05
 
 ~~192.11 Estabelecimento de ensino (todos os graus) regime internato 182,00~~
 
-<!-- p. 247 -->
+<!-- p. 248 -->
 ~~193.00 MAIOR RISCO EPIDEMIOLÓGICO 193.01 Radiologia industrial 243,00 193.02 Sauna 122,00~~
 
 ~~193.03 Zoológico 61,00~~
@@ -10883,7 +10893,7 @@ ou formulários 256,05
 
 ~~194.36 Transportadora produtos perecíveis (por veículo) 61,00~~
 
-<!-- p. 248 -->
+<!-- p. 249 -->
 ~~194.37 Transporte coletivo (terrestre, aéreo e marítimo) 61,00~~
 
 ~~194.38 Congêneres 61,00~~
@@ -10968,7 +10978,7 @@ ou formulários 256,05
 
 ~~Análise microbiológica de água mineral incluindo pseudomonas, enterecocus e clostidio sulfito redutor (iniciativa) 49,00~~
 
-<!-- p. 249 -->
+<!-- p. 250 -->
 ~~199.07 Eficiência de filtros para água (bacteriológico) 49,00~~
 
 ~~199.08 Eficiência de filtros para água (químico) 49,00~~
@@ -11050,7 +11060,7 @@ ou formulários 256,05
 
 ~~201.09.14 Colesterol 61,00~~
 
-<!-- p. 250 -->
+<!-- p. 251 -->
 ~~201.09.15~~
 
 ~~Óleos de amêndoa, gérmen de trigo e outros (para determinação do índice de acidez, peróxido, iodo, saponificação e refração) 73,00~~
@@ -11138,7 +11148,7 @@ ou formulários 256,05
 
 ~~205.12 Vitamina PP (nicotinamina ou niacina) 43,00~~
 
-<!-- p. 251 -->
+<!-- p. 252 -->
 ~~205.13 Vitamina K (menadiona) em matéria prima 43,00~~
 
 ~~205.14 Pantotenato de cálcio ARBITRAR~~
@@ -11217,7 +11227,7 @@ ou formulários 256,05
 
 ~~206.00 ATOS RELATIVOS A FISCALIZAÇÃO DE MEDICAMENTOS~~
 
-<!-- p. 252 -->
+<!-- p. 253 -->
 ~~207.00~~
 
 ~~Testes físicos em medicamentos e matérias - primas (densidade, viscosidade, ponto de fusão, pH, umidade, teste de desintegração, de comprimido) cada um~~
@@ -11292,7 +11302,7 @@ ou formulários 256,05
 
 ~~212.02 De natureza complexa 97,00~~
 
-<!-- p. 253 -->
+<!-- p. 254 -->
 ~~212.03 Vistos 212.04 Em receitas de notificação de receitas ISENTO~~
 
 ~~212.05 Fornecimento de notificação de receita (por bloco), branco e azul 2,00~~

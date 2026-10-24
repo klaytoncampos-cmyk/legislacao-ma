@@ -6,7 +6,7 @@ numero: 10
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_010_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/89
@@ -150,7 +150,7 @@ numero: 10
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1999/AJ_010_99
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/99
@@ -234,7 +234,7 @@ numero: 10
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2003/AJ010_03
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/03
@@ -284,7 +284,7 @@ numero: 10
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2007/AJ_010_07
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/07
@@ -324,7 +324,7 @@ numero: 10
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2008/AJ_010_08
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/08
@@ -364,7 +364,7 @@ numero: 10
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_010_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/12
@@ -412,7 +412,7 @@ numero: 10
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_010_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/13
@@ -462,7 +462,7 @@ numero: 10
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2014/AJ_010_14
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 010/14
@@ -496,7 +496,7 @@ numero: 10
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2015/AJ_010_15
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/15
@@ -542,7 +542,7 @@ numero: 10
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/AJ_010_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/16
@@ -804,7 +804,7 @@ numero: 10
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_010_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/17
@@ -860,7 +860,7 @@ numero: 10
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0010_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/18
@@ -890,7 +890,7 @@ numero: 10
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-10-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/20
@@ -940,7 +940,7 @@ numero: 10
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-10-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/23
@@ -994,7 +994,7 @@ numero: 10
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ010_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 10/26
@@ -1032,7 +1032,7 @@ numero: 11
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1997/AJ_011_97
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/97
@@ -1176,7 +1176,7 @@ numero: 11
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2003/AJ011_03
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/03
@@ -1206,7 +1206,7 @@ numero: 11
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2004/AJ011_04
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/04
@@ -1246,7 +1246,7 @@ numero: 11
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2007/AJ_011_07
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/07
@@ -1278,7 +1278,7 @@ numero: 11
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2008/AJ_011_08
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/08
@@ -1522,7 +1522,7 @@ numero: 11
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_011_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/12
@@ -1586,7 +1586,7 @@ numero: 11
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_011_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/13
@@ -1705,7 +1705,7 @@ numero: 11
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2015/AJ_011_15
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/15
@@ -1738,7 +1738,7 @@ numero: 11
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/AJ_011_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/16
@@ -1770,7 +1770,7 @@ numero: 11
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_011_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/17
@@ -1824,7 +1824,7 @@ numero: 11
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-11-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/21
@@ -1854,7 +1854,7 @@ numero: 11
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ011_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/22
@@ -1886,7 +1886,7 @@ numero: 11
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ011_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/25
@@ -1946,7 +1946,7 @@ numero: 11
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ011_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 11/26
@@ -1976,7 +1976,7 @@ numero: 12
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2003/AJ012_03
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/03
@@ -2022,7 +2022,7 @@ numero: 12
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2004/AJ012_04
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/04
@@ -2078,7 +2078,7 @@ numero: 12
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2007/AJ_012_07
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/07
@@ -2108,7 +2108,7 @@ numero: 12
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_012_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/13
@@ -2160,7 +2160,7 @@ numero: 12
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2015/AJ_012_15
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/15
@@ -2376,7 +2376,7 @@ numero: 12
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_012_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/17
@@ -2430,7 +2430,7 @@ numero: 12
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0012_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/18
@@ -2466,7 +2466,7 @@ numero: 12
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ012_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/19
@@ -2518,7 +2518,7 @@ numero: 12
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-12-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/23
@@ -2588,7 +2588,7 @@ numero: 12
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ012_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/25
@@ -2672,7 +2672,7 @@ numero: 12
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ012_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 12/26
@@ -2700,7 +2700,7 @@ numero: 13
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_013_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/89
@@ -2740,7 +2740,7 @@ numero: 13
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2007/AJ_013_07
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/07
@@ -2772,7 +2772,7 @@ numero: 13
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2009/AJ_013_09
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/09
@@ -2808,7 +2808,7 @@ numero: 13
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2011/AJ_013_11
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/11
@@ -2860,7 +2860,7 @@ numero: 13
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_013_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/12
@@ -2896,7 +2896,7 @@ numero: 13
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_013_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/13
@@ -2990,7 +2990,7 @@ numero: 13
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2014/AJ_013_14
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 013/14
@@ -3020,7 +3020,7 @@ numero: 13
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2015/AJ_013_15
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/15
@@ -3060,7 +3060,7 @@ numero: 13
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0013_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/18
@@ -3110,7 +3110,7 @@ numero: 13
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ013_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/19
@@ -3168,7 +3168,7 @@ numero: 13
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ013_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/25
@@ -3278,7 +3278,7 @@ numero: 13
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ013_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 13/26
@@ -3326,7 +3326,7 @@ numero: 14
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2003/AJ014_03
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/03
@@ -3358,7 +3358,7 @@ numero: 14
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2004/AJ014_04
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/04
@@ -3392,7 +3392,7 @@ numero: 14
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2007/AJ_014_07
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/07
@@ -3449,7 +3449,7 @@ numero: 14
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2010/AJ_014_10
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/10
@@ -3479,7 +3479,7 @@ numero: 14
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_014_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/12
@@ -3721,7 +3721,7 @@ numero: 14
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2014/AJ_014_14
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 014/14
@@ -3757,7 +3757,7 @@ numero: 14
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/AJ_014_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/16
@@ -3787,7 +3787,7 @@ numero: 14
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_014_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/17
@@ -3983,7 +3983,7 @@ numero: 14
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0014_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/18
@@ -4013,7 +4013,7 @@ numero: 14
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ014_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/19
@@ -4111,7 +4111,7 @@ numero: 14
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ014_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/22
@@ -4209,7 +4209,7 @@ numero: 14
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ014_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/25
@@ -4239,7 +4239,7 @@ numero: 14
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ014_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 14/26
@@ -4295,7 +4295,7 @@ numero: 15
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2003/AJ015_03
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 15/03
@@ -4327,7 +4327,7 @@ numero: 15
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2011/AJ_015_11
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 15/11
@@ -4365,7 +4365,7 @@ numero: 15
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_015_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 15/12
@@ -4451,7 +4451,7 @@ numero: 15
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/AJ_015_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 15/16
@@ -4481,7 +4481,7 @@ numero: 15
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_015_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 15/17
@@ -4533,7 +4533,7 @@ numero: 15
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0015_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 15/18
@@ -4571,7 +4571,7 @@ numero: 15
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ015_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINEF 15/24
@@ -4639,7 +4639,7 @@ numero: 15
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ015_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 15/26
@@ -4669,7 +4669,7 @@ numero: 16
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_016_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 16/89
@@ -4757,7 +4757,7 @@ numero: 16
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_016_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 16/13
@@ -4797,7 +4797,7 @@ numero: 16
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2015/AJ_016_15
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 16/15
@@ -4827,7 +4827,7 @@ numero: 16
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_016_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 16/17
@@ -4879,7 +4879,7 @@ numero: 16
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0016_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 16/18
@@ -4917,7 +4917,7 @@ numero: 16
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ016_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 16/25
@@ -4947,7 +4947,7 @@ numero: 17
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_017_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 17/13
@@ -4975,7 +4975,7 @@ numero: 17
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2014/AJ_017_14
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 017/14
@@ -5005,7 +5005,7 @@ numero: 17
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/AJ_017_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 17/16
@@ -5487,7 +5487,7 @@ numero: 17
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0017_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 17/18
@@ -5521,7 +5521,7 @@ numero: 17
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-17-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 17/20
@@ -5561,7 +5561,7 @@ numero: 17
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ017_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 17/22
@@ -5621,7 +5621,7 @@ numero: 17
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-17-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 17/23
@@ -5659,7 +5659,7 @@ numero: 17
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ017_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINEF 17/24
@@ -5713,7 +5713,7 @@ numero: 17
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ017_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 17/25
@@ -5743,7 +5743,7 @@ numero: 18
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2011/AJ_018_11
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 18/11
@@ -6111,7 +6111,7 @@ numero: 18
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_018_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 18/13
@@ -6151,7 +6151,7 @@ numero: 18
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ018_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 18/19
@@ -6195,7 +6195,7 @@ numero: 19
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_019_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 19/89
@@ -6655,7 +6655,7 @@ numero: 19
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_019_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 19/12
@@ -6797,7 +6797,7 @@ numero: 19
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/AJ_019_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 19/16
@@ -7661,7 +7661,7 @@ numero: 19
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0019_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 19/18
@@ -7703,7 +7703,7 @@ numero: 19
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ019_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 19/19
@@ -7755,7 +7755,7 @@ numero: 19
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-19-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 19/21
@@ -7787,7 +7787,7 @@ numero: 19
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ019_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINEF 19/24
@@ -7831,7 +7831,7 @@ numero: 20
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_020_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 20/89
@@ -7983,7 +7983,7 @@ numero: 20
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_020_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 20/12
@@ -8035,7 +8035,7 @@ numero: 20
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2014/AJ_020_14
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 020/14
@@ -8111,7 +8111,7 @@ numero: 20
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-20-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 20/21
@@ -8141,7 +8141,7 @@ numero: 20
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ020_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 20/22
@@ -8173,7 +8173,7 @@ numero: 20
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-20-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 20/23
@@ -8213,7 +8213,7 @@ numero: 20
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ020_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 20/26
@@ -8247,7 +8247,7 @@ numero: 21
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_021_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/89
@@ -8277,7 +8277,7 @@ numero: 21
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2010/AJ_021_10
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/10
@@ -9111,7 +9111,7 @@ numero: 21
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_021_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/12
@@ -9145,7 +9145,7 @@ numero: 21
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_021_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/13
@@ -9175,7 +9175,7 @@ numero: 21
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_021_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/17
@@ -9205,7 +9205,7 @@ numero: 21
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0021_18
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/18
@@ -9249,7 +9249,7 @@ numero: 21
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-21-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/20
@@ -9287,7 +9287,7 @@ numero: 21
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ021_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/22
@@ -9327,7 +9327,7 @@ numero: 21
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-21-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/23
@@ -9359,7 +9359,7 @@ numero: 21
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ021_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/24
@@ -9391,7 +9391,7 @@ numero: 21
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ021_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 21/26
@@ -9447,7 +9447,7 @@ numero: 22
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_022_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 22/12
@@ -9483,7 +9483,7 @@ numero: 22
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2014/AJ_022_14
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 022/14
@@ -9511,7 +9511,7 @@ numero: 22
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_022_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 22/17
@@ -9541,7 +9541,7 @@ numero: 22
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ022_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 22/19
@@ -9581,7 +9581,7 @@ numero: 22
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-22-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 22/20
@@ -9611,7 +9611,7 @@ numero: 22
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ022_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 22/22
@@ -9651,7 +9651,7 @@ numero: 22
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ022_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 22/24
@@ -9731,7 +9731,7 @@ numero: 23
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_023_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 23/89
@@ -9779,7 +9779,7 @@ numero: 23
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_023_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 23/12
@@ -9817,7 +9817,7 @@ numero: 23
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/aj_023_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 23/16
@@ -9857,7 +9857,7 @@ numero: 23
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_023_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 23/17
@@ -9911,7 +9911,7 @@ numero: 23
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ023_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 23/19
@@ -9961,7 +9961,7 @@ numero: 23
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/aj-23-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 23/21
@@ -9993,7 +9993,7 @@ numero: 23
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ023_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 23/22
@@ -10031,7 +10031,7 @@ numero: 23
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-23-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 23/23
@@ -10065,7 +10065,7 @@ numero: 24
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_024_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 24/89
@@ -10095,7 +10095,7 @@ numero: 24
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_024_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 24/13
@@ -10133,7 +10133,7 @@ numero: 24
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/aj_024_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 24/16
@@ -10169,7 +10169,7 @@ numero: 24
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_024_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 24/17
@@ -10225,7 +10225,7 @@ numero: 24
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/aj-24-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 24/21
@@ -10259,7 +10259,7 @@ numero: 24
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ024_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 24/22
@@ -10321,7 +10321,7 @@ numero: 24
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ024_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 24/26
@@ -10385,7 +10385,7 @@ numero: 25
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/aj_025_16
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/16
@@ -10439,7 +10439,7 @@ numero: 25
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_025_17
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/17
@@ -10469,7 +10469,7 @@ numero: 25
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ025_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/19
@@ -10499,7 +10499,7 @@ numero: 25
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-25-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/21
@@ -10557,7 +10557,7 @@ numero: 25
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ025_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/22
@@ -10601,7 +10601,7 @@ numero: 25
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-25-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/23
@@ -10633,7 +10633,7 @@ numero: 25
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ025_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/24
@@ -10713,7 +10713,7 @@ numero: 25
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ025_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/25
@@ -10753,7 +10753,7 @@ numero: 25
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ025_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 25/26
@@ -10807,7 +10807,7 @@ numero: 26
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_026_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 26/89
@@ -10839,7 +10839,7 @@ numero: 26
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_026_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 26/13
@@ -10931,7 +10931,7 @@ numero: 26
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ026_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 26/19
@@ -10973,7 +10973,7 @@ numero: 26
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-26-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 26/20
@@ -11011,7 +11011,7 @@ numero: 26
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-26-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 26/23
@@ -11041,7 +11041,7 @@ numero: 26
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ026_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 26/24
@@ -11075,7 +11075,7 @@ numero: 26
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ026_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 26/26
@@ -11151,7 +11151,7 @@ numero: 27
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_027_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 27/89
@@ -11187,7 +11187,7 @@ numero: 27
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2012/AJ_027_12
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 27/12
@@ -11233,7 +11233,7 @@ numero: 27
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_027_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 27/13
@@ -11263,7 +11263,7 @@ numero: 27
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-27-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 27/20
@@ -11303,7 +11303,7 @@ numero: 27
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ027_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 27/22
@@ -11333,7 +11333,7 @@ numero: 27
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ027_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 27/25
@@ -11371,7 +11371,7 @@ numero: 27
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ027_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 27/26
@@ -11401,7 +11401,7 @@ numero: 28
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/1989/AJ_028_89
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 28/89
@@ -12075,7 +12075,7 @@ numero: 28
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_028_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 28/13
@@ -12133,7 +12133,7 @@ numero: 28
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ028_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 28/19
@@ -12163,7 +12163,7 @@ numero: 28
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-28-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 28/21
@@ -12195,7 +12195,7 @@ numero: 28
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ028_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 28/22
@@ -12241,7 +12241,7 @@ numero: 28
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ028_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 28/25
@@ -12271,7 +12271,7 @@ numero: 29
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ029_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 29/25
@@ -12305,7 +12305,7 @@ numero: 29
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ029_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 29/26
@@ -12335,7 +12335,7 @@ numero: 30
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ030_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 30/25
@@ -12365,7 +12365,7 @@ numero: 31
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ031_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 31/19
@@ -12395,7 +12395,7 @@ numero: 31
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ031_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 31/22
@@ -12495,7 +12495,7 @@ numero: 31
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ031_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 31/24
@@ -12523,7 +12523,7 @@ numero: 32
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_032_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 32/13
@@ -12557,7 +12557,7 @@ numero: 32
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ032_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 32/19
@@ -12655,7 +12655,7 @@ numero: 32
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-32-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 32/21
@@ -12705,7 +12705,7 @@ numero: 32
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ032_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 32/24
@@ -12769,7 +12769,7 @@ numero: 32
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/ajuste-sinief-32-25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 32/25
@@ -12843,7 +12843,7 @@ numero: 32
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ032_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 32/26
@@ -12877,7 +12877,7 @@ numero: 33
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_033_13
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 33/13
@@ -12907,7 +12907,7 @@ numero: 33
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ033_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 33/19
@@ -12951,7 +12951,7 @@ numero: 33
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-33-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 33/20
@@ -12993,7 +12993,7 @@ numero: 33
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-33-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 33/21
@@ -13023,7 +13023,7 @@ numero: 33
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ033_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 33/22
@@ -13057,7 +13057,7 @@ numero: 33
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ033_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 33/24
@@ -13103,7 +13103,7 @@ numero: 33
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ033_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 33/25
@@ -13133,7 +13133,7 @@ numero: 34
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-34-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 34/20
@@ -13171,7 +13171,7 @@ numero: 34
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-34-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 34/21
@@ -13201,7 +13201,7 @@ numero: 34
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ034_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 34/22
@@ -13233,7 +13233,7 @@ numero: 34
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ034_24
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 34/24
@@ -13301,7 +13301,7 @@ numero: 34
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ034_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 34/26
@@ -13371,7 +13371,7 @@ numero: 35
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-35-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 35/20
@@ -13409,7 +13409,7 @@ numero: 35
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ035_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 35/25
@@ -13437,7 +13437,7 @@ numero: 36
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ036_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 36/19
@@ -14129,7 +14129,7 @@ numero: 36
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-36-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 36/20
@@ -14167,7 +14167,7 @@ numero: 36
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ036_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 36/26
@@ -14213,7 +14213,7 @@ numero: 37
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2019/AJ037_19
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 37/19
@@ -14483,7 +14483,7 @@ numero: 37
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-37-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 37/23
@@ -14531,7 +14531,7 @@ numero: 37
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ037_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 37/25
@@ -14561,7 +14561,7 @@ numero: 37
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ037_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 37/26
@@ -14601,7 +14601,7 @@ numero: 38
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-38-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 38/21
@@ -14675,7 +14675,7 @@ numero: 38
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ038_26
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 38/26
@@ -14715,7 +14715,7 @@ numero: 39
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-39-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 39/20
@@ -14771,7 +14771,7 @@ numero: 39
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-39-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 39/21
@@ -14805,7 +14805,7 @@ numero: 39
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ039_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 39/22
@@ -14837,7 +14837,7 @@ numero: 40
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/aj-40-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 40/21
@@ -14933,7 +14933,7 @@ numero: 40
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ040_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 40/22
@@ -14967,7 +14967,7 @@ numero: 41
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/aj-41-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 41/21
@@ -14999,7 +14999,7 @@ numero: 41
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ041_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 41/25
@@ -15029,7 +15029,7 @@ numero: 42
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-42-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 42/20
@@ -15067,7 +15067,7 @@ numero: 43
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ043_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 43/22
@@ -15099,7 +15099,7 @@ numero: 43
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-43-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 43/23
@@ -15151,7 +15151,7 @@ numero: 43
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ043_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 43/25
@@ -15181,7 +15181,7 @@ numero: 44
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-44-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # Ajuste SINIEF 44/20
@@ -15239,7 +15239,7 @@ numero: 44
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2021/ajuste-sinief-44-21
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 44/21
@@ -15271,7 +15271,7 @@ numero: 44
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ044_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 44/25
@@ -15301,7 +15301,7 @@ numero: 45
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ045_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 45/22
@@ -15339,7 +15339,7 @@ numero: 45
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ045_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 45/25
@@ -15369,7 +15369,7 @@ numero: 46
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ046_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 46/22
@@ -15411,7 +15411,7 @@ numero: 46
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-46-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 46/23
@@ -15463,7 +15463,7 @@ numero: 46
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ046_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 46/25
@@ -15551,7 +15551,7 @@ numero: 47
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-47-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 47/23
@@ -15597,7 +15597,7 @@ numero: 48
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2020/ajuste-sinief-48-20
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # Ajuste SINIEF 48/20
@@ -15627,7 +15627,7 @@ numero: 48
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ048_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 48/22
@@ -15681,7 +15681,7 @@ numero: 49
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ049_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 49/22
@@ -15723,7 +15723,7 @@ numero: 49
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2023/ajuste-sinief-49-23
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 49/23
@@ -15753,7 +15753,7 @@ numero: 49
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2025/AJ049_25
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 49/25
@@ -15991,7 +15991,7 @@ numero: 50
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ050_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 50/22
@@ -16063,7 +16063,7 @@ numero: 54
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ054_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 54/22
@@ -16093,7 +16093,7 @@ numero: 55
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ055_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 55/22
@@ -16167,7 +16167,7 @@ numero: 58
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2022/AJ058_22
-extraido_em: "2026-10-19"
+extraido_em: "2026-10-24"
 ---
 
 # AJUSTE SINIEF 58/22

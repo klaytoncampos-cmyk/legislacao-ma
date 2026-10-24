@@ -16,7 +16,7 @@ Esta skill traz o **texto integral** das normas, extraído das fontes oficiais:
   e todas as do ano corrente. O texto das normas citadas já vem **consolidado** pelo CONFAZ, com as alterações incorporadas e as notas
   "Nova redação dada… pelo Prot. X"; a norma alteradora serve para conferir o texto original da alteração e suas regras de vigência.
 
-Os documentos (5.473 nesta edição: 143 da SEFAZ-MA, 1.823 normas complementares, 3.507 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
+Os documentos (5.476 nesta edição: 143 da SEFAZ-MA, 1.824 normas complementares, 3.509 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
 `<<<DOC caminho>>>`. Use sempre `scripts/buscar.py`, que separa os documentos e busca/lê cada um pelo seu caminho. `INDICE.md` (na raiz da skill) lista todos os documentos, com descrição,
 situação (vigente/parcial/revogado), data de atualização na fonte e caminho.
 
