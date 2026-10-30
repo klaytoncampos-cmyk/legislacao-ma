@@ -8,7 +8,7 @@ ementa: "Alterar a redação do art. 4º da Portaria nº 312/GABIN, de 1º de de
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f5c9aef4-8919-4e88-87b0-0f7f2a3962aa
 atualizado_na_fonte: "2025-06-25 17:03:01"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -56,7 +56,7 @@ ementa: "Prorroga, excepcionalmente, o prazo para recadastramento de contribuint
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=435052b7-151d-4cd3-b8b3-0d6c6b22e838
 atualizado_na_fonte: "2026-10-09 17:04:25"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -115,7 +115,7 @@ ementa: "Dispõe sobre a autorização de que trata a alínea “b” do inciso 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4d3def64-3581-4a2b-a670-e6e56770efb9
 atualizado_na_fonte: "2025-07-01 15:35:37"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 4.41, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -295,7 +295,7 @@ ementa: "Tornar público que a empresa TAM LINHAS AÉREAS S.A."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=64cc3312-7021-4fae-8b04-2eb2887f2c2e
 atualizado_na_fonte: "2025-07-01 15:36:29"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -347,7 +347,7 @@ ementa: "Dispõe sobre os procedimentos a serem observados neste Estado quando d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a5e2e0da-0377-4792-9b34-67e8f35781f4
 atualizado_na_fonte: "2026-10-13 10:30:09"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -412,7 +412,7 @@ ementa: "Alterar a redação do caput art. 4º da Portaria nº 312/ GABIN, de 1�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03f5034f-abdf-4500-bc94-cee67bc68293
 atualizado_na_fonte: "2025-06-25 17:07:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -461,7 +461,7 @@ ementa: "Art. 1º. Definir que para fins da base de cálculo do Imposto sobre a 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=70134eb6-f097-408d-9bdd-791be32de4aa
 atualizado_na_fonte: "2026-10-09 17:06:57"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -507,7 +507,7 @@ ementa: "Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 201
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=14d3c712-ff42-4d78-beef-836b0120d84c
 atualizado_na_fonte: "2025-08-11 15:02:46"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -576,7 +576,7 @@ ementa: "Determina que a partirr de 2007 os débitos de ICMS de valor declarado 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d13ef3e0-690c-4d2b-820c-d36429a3a09f
 atualizado_na_fonte: "2025-06-23 13:49:28"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -740,7 +740,7 @@ ementa: "Criar no âmbito desta Gerência o Grupo Especial de Gestão do Crédit
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d14e163c-f4b5-40e7-a857-30d7fe7e37e4
 atualizado_na_fonte: "2025-06-18 17:05:49"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -811,7 +811,7 @@ ementa: "Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 201
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6f528f99-8a48-49a8-b1b9-beb5147ac693
 atualizado_na_fonte: "2025-08-01 13:59:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -891,7 +891,7 @@ ementa: "Dispõe sobre a instrução e a tramitação de processos de consulta f
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0f227b36-d83f-46ee-a838-1f2a9b598b64
 atualizado_na_fonte: "2026-10-09 17:08:17"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1021,7 +1021,7 @@ ementa: "Considerando a obrigatoriedade dos contribuintes à Declaração de Inf
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2270c581-154e-4e78-943d-2a56c2f3214c
 atualizado_na_fonte: "2025-07-01 15:47:06"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1091,7 +1091,7 @@ ementa: "Dispõe sobre regras complementares à fruição do benefício da redu�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c3c96376-ee1a-4fa3-90b5-822252e4f045
 atualizado_na_fonte: "2025-08-01 14:01:47"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 48.0
@@ -1891,7 +1891,7 @@ ementa: "Considerando que os pagamentos realizados referentes às intimações f
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b24740e5-a01c-4e21-87ba-9752c3364815
 atualizado_na_fonte: "2025-07-01 15:47:42"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2051,7 +2051,7 @@ ementa: "Altera a Portaria nº 160, de 08 de junho de 2020, que dispõe sobre os
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=05101b0b-7c6e-4142-a237-e36a3361b41a
 atualizado_na_fonte: "2026-10-09 17:08:39"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.3, Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2096,7 +2096,7 @@ ementa: "Altera a Portaria nº 140/16, que dispõe sobre o cálculo dos crédito
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e6538c40-e47e-40fc-a3c2-31d26886a34a
 atualizado_na_fonte: "2025-07-03 15:12:01"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2146,7 +2146,7 @@ ementa: "Determinar que seja aceito como comprovação o laudo apresentado à Se
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cfa91db1-49f4-43e9-ac8c-748e8b57a390
 atualizado_na_fonte: "2026-10-13 10:37:24"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2191,7 +2191,7 @@ ementa: "Excluir do regime de substituição tributária as operações interest
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1c243b39-2481-43ee-a2e5-21397799f773
 atualizado_na_fonte: "2025-06-23 17:31:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2248,7 +2248,7 @@ ementa: "Prorroga, excepcionalmente, o prazo para o pagamento parcelado do IPVA,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4e870dda-bd9e-47bc-a46c-9f12fd20b810
 atualizado_na_fonte: "2026-10-09 15:02:17"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2303,7 +2303,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=28143e93-c16b-4cff-90f1-28e46da71302
 atualizado_na_fonte: "2025-08-22 14:24:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2375,7 +2375,7 @@ ementa: "Prorroga, excepcionalmente o prazos para a transmissão dos arquivos di
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3a4f3d1c-ba01-414a-aa3b-570cfcac669f
 atualizado_na_fonte: "2026-10-07 18:27:36"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2418,7 +2418,7 @@ ementa: "Criar no âmbito desta Secretaria o Núcleo de Estudos Econômico-Fisca
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96622d4e-fbc9-4155-8b77-fe8934458342
 atualizado_na_fonte: "2025-06-25 17:13:30"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2534,7 +2534,7 @@ ementa: "Estabelece limite mensal de utilização do óleo diesel marítimo por 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5362408d-4567-46d9-a27b-b754961b83cc
 atualizado_na_fonte: "2026-10-09 15:04:51"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2605,7 +2605,7 @@ ementa: "Dispõe sobre o registro de inventário que será entregue pelo contrib
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=76f7ac65-20e2-4224-96b2-bdaef72ddd4e
 atualizado_na_fonte: "2025-06-18 17:07:07"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2772,7 +2772,7 @@ ementa: "Fixa critério para a definição do valor venal de bem ou direito na t
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4ff0dae1-3715-4255-a160-54d98505ce63
 atualizado_na_fonte: "2026-10-09 15:05:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -2824,7 +2824,7 @@ ementa: "Adota procedimentos relativos às normas do Ajuste SINIEF n.º 7, de 28
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5506d204-ea4e-497e-b0a6-9bb4435abb68
 atualizado_na_fonte: "2025-06-18 16:13:32"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2873,7 +2873,7 @@ ementa: "Define hipótese de suspensão de ofício de contribuintes do ICMS, com
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e647fded-a0b7-48b2-a5a2-5b198c17d614
 atualizado_na_fonte: "2025-08-11 15:13:08"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS, CTE"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 18.0
@@ -2994,7 +2994,7 @@ ementa: "Aprovar o POP constante dos Anexos I, II e III, relativos ao ICMS, que 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e2798fec-b967-4b36-a19f-b67e1aa7b936
 atualizado_na_fonte: "2025-06-25 17:15:14"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3684,7 +3684,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fd174c30-ba1b-45de-b2d3-cfa87ab25389
 atualizado_na_fonte: "2025-08-11 15:13:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3764,7 +3764,7 @@ ementa: "Estabelece critérios para concessão de credenciamento tributário par
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7679974e-d5d8-412e-8893-294939253ff3
 atualizado_na_fonte: "2025-06-18 17:38:49"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -3846,7 +3846,7 @@ ementa: "Institui nova versão do Programa DIEF, por meio do qual os contribuint
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ab2aefed-747a-4e1a-b8f0-585765497401
 atualizado_na_fonte: "2025-07-01 16:08:54"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3945,7 +3945,7 @@ ementa: "Inclui novos estabelecimentos e produtos ao anexo único da Portaria n�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=08e4a3a7-c43c-4eaf-a67d-5e3db081de31
 atualizado_na_fonte: "2025-06-23 16:20:14"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -4038,7 +4038,7 @@ ementa: "Cancelar as multas e Notificações de lançamentos por omissão na ent
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c811d3fb-8b69-434a-a954-c423cd33d579
 atualizado_na_fonte: "2025-07-01 16:09:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4087,7 +4087,7 @@ ementa: "Determinar o recredenciamento de todos os contribuintes que exercem a a
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f7ca3019-666c-413b-9060-d574e076d79f
 atualizado_na_fonte: "2025-06-25 12:12:47"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4273,7 +4273,7 @@ ementa: "O processo de restituição do Imposto sobre a Propriedade de Veículos
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0fce4466-e204-49f6-b60a-956f53e6de03
 atualizado_na_fonte: "2025-08-11 15:15:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4345,7 +4345,7 @@ ementa: "Prorroga o prazo de entrega dos arquivos da Escrituração Fiscal Digit
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9c796d34-1256-46d2-833e-0eb8890c519a
 atualizado_na_fonte: "2025-06-23 17:34:01"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 18, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4396,7 +4396,7 @@ ementa: "Dispensar, nos termos do inciso II, do artigo 314 do RICMS/03, a aprese
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b24537cb-a959-47ae-a9cd-68e6d3631d47
 atualizado_na_fonte: "2026-10-13 10:42:19"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4458,7 +4458,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a4ecb1a3-eeaf-440b-bca1-8425f1df9d9f
 atualizado_na_fonte: "2025-08-01 14:11:31"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4538,7 +4538,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f640198d-84b3-45e8-9297-feb4d19c6de6
 atualizado_na_fonte: "2025-08-22 14:26:57"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4610,7 +4610,7 @@ ementa: "Dispõe sobre os critérios para o credenciamento de Conta Gráfica e d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=81aa006e-178c-496f-a555-92e9006b010c
 atualizado_na_fonte: "2025-07-03 15:24:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -4753,7 +4753,7 @@ ementa: "Prorroga os prazos para o pagamento do IPVA, relativo ao exercício de 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f3a927d6-e059-4d58-a604-fe90168a1a37
 atualizado_na_fonte: "2025-08-01 14:44:04"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4806,7 +4806,7 @@ ementa: "Inclui produtos no anexo único da Portaria nº 523, de 29 de dezembro 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=173a75bd-e06a-4345-9f47-cb82286745f2
 atualizado_na_fonte: "2025-06-25 12:17:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4873,7 +4873,7 @@ ementa: "Definir, com base no § 6°, do artigo 66 da Lei Nº 7.799, de 19 de de
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5c2e707c-9c39-4f41-95c1-af8d26cea2c8
 atualizado_na_fonte: "2025-06-23 17:46:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -4970,7 +4970,7 @@ ementa: "Disciplinar a entrega do arquivo digital da DIEF, no período de janeir
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2397a605-7993-44ba-9adc-3abe89f8d5d1
 atualizado_na_fonte: "2025-07-01 16:16:11"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5013,7 +5013,7 @@ ementa: "Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no an
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3f9a5057-72f2-4ab1-ac83-68681d5d5747
 atualizado_na_fonte: "2026-09-16 13:55:06"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -6710,7 +6710,7 @@ ementa: "Aprovar o Manual de Orientação de Preenchimento das Notas Fiscais Ele
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=362383b8-c122-4336-a436-fd24cf26f1ca
 atualizado_na_fonte: "2026-10-13 10:43:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -6917,7 +6917,7 @@ ementa: "Art. 1º Aprovar o Procedimento Operacional Padrão, para o cálculo do
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b9e05534-e721-436b-be0f-6077639f60b9
 atualizado_na_fonte: "2026-10-15 08:42:49"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -8171,7 +8171,7 @@ ementa: "Dispõe sobre protocolo de petições por meio de correio eletrônico n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ed5b6df4-65ee-438c-978f-dc74d0f9da9e
 atualizado_na_fonte: "2025-08-11 15:20:57"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8303,7 +8303,7 @@ ementa: "Determina prazo para cadastramento de pessoa jurídica fornecedora de p
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=704613cf-de96-4359-a546-d6c2a7a7bf00
 atualizado_na_fonte: "2025-06-18 16:34:55"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8399,7 +8399,7 @@ ementa: "Alterar o art. 1º da Portaria nº 342-GABIN, de 13 de julho de 2015."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=60403b70-77d6-4008-b5cc-95d1950428d4
 atualizado_na_fonte: "2025-07-01 16:22:18"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8444,7 +8444,7 @@ ementa: "Dispõe sobre a relação dos atos normativos instituidores de incentiv
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3ab38334-707f-4e11-8149-7563bc90092c
 atualizado_na_fonte: "2025-07-03 15:37:33"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.1, Anexo 1.2, Anexo 1.3, Anexo 1.4, Anexo 1.5, Anexo 1.7, Anexo 4.4, Anexo 4.24, Anexo 8.1, Anexo 8.2, RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9588,7 +9588,7 @@ ementa: "Prorroga, excepcionalmente, o prazo para pagamento do Imposto sobre a P
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c7835930-b600-4f25-8257-b36e5603378c
 atualizado_na_fonte: "2026-10-15 08:45:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9633,7 +9633,7 @@ ementa: "Incluir o §3º ao art. 1º da Portaria nº 336-GABIN, de 10 de julho d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2ccb7019-28c3-437c-b64e-56017de55808
 atualizado_na_fonte: "2025-07-01 16:23:00"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9681,7 +9681,7 @@ ementa: "Dispõe sobre a renovação de ofício dos pedidos de reconhecimento de
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=390b8ab0-2877-428d-83dc-ed5994ae7439
 atualizado_na_fonte: "2026-10-09 18:02:31"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 11.2
@@ -9745,7 +9745,7 @@ ementa: "Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 201
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=393303cc-c458-4bf8-8268-5f49c9fa6982
 atualizado_na_fonte: "2025-08-11 15:21:43"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9825,7 +9825,7 @@ ementa: "Declarar devedor remisso por falta de pagamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bcca34c1-9177-4bac-8706-51ae8b51e795
 atualizado_na_fonte: "2025-07-02 13:48:07"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9895,7 +9895,7 @@ ementa: "Considerando o disposto no artigo 314 do RICMS/03, aprovado pelo Decret
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b939978b-3fd7-4582-ad44-8ee632ce2960
 atualizado_na_fonte: "2026-10-13 10:44:43"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9950,7 +9950,7 @@ ementa: "Dispõe sobre os critérios para o Credenciamento de Conta Gráfica e d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3a33787c-0642-432e-9313-48e389f53c78
 atualizado_na_fonte: "2025-07-03 15:40:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10107,7 +10107,7 @@ ementa: "Altera o Anexo Único da Portaria no 84 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2179a82-2937-4aba-8e3b-b96359cb67cd
 atualizado_na_fonte: "2025-07-03 15:41:38"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.1, Anexo 1.2, Anexo 1.3, Anexo 1.4, Anexo 1.5, Anexo 1.7, Anexo 4.4, Anexo 4.24, Anexo 4.33, Anexo 8.1, Anexo 8.2, Anexo 9.5, Anexo 36, RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12045,7 +12045,7 @@ ementa: "Prorroga excepcionalmente os prazos para o pagamento do IPVA, relativo 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4d2b0311-a883-4625-8bf9-fd87c2dd119f
 atualizado_na_fonte: "2025-08-11 15:26:31"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12106,7 +12106,7 @@ ementa: "Definir, com base no § 6°, do artigo 66 da Lei N º 7 .799 , de 19 de
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=55c964b2-97ed-42e9-a521-0364e95a2ed6
 atualizado_na_fonte: "2025-06-23 16:28:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12184,7 +12184,7 @@ ementa: "Desconsiderar, para efeito de cálculo dos Índices de Participação d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ae36cce1-12c3-442b-98c9-cd9bcc7e6ce5
 atualizado_na_fonte: "2025-07-03 15:44:01"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12261,7 +12261,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=511f4e2c-67bc-4d03-97a3-5034e2b031f3
 atualizado_na_fonte: "2025-08-01 14:46:05"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12341,7 +12341,7 @@ ementa: "Aprova o Procedimento Operacional Padrão para o cálculo dos Índices 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=367eca9b-35bc-4de0-a2e9-1e40b5d8fa54
 atualizado_na_fonte: "2026-10-07 18:37:43"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -13696,7 +13696,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=12fefb7e-9468-40bb-b6fb-42d55436b8d9
 atualizado_na_fonte: "2025-08-22 14:29:25"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -13768,7 +13768,7 @@ ementa: "Altera a Portaria nº 449/2021-GABIN relativamente à delegação de co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cd6571bc-cec0-48e3-87ce-a6e7e62a1e63
 atualizado_na_fonte: "2026-10-07 18:37:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -13831,7 +13831,7 @@ ementa: "Dispõe sobre a criação da Unidade de Planejamento, Controle e Avalia
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a2c36ef3-d903-41e5-8238-88f1a76740c7
 atualizado_na_fonte: "2025-06-25 17:22:47"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -13900,7 +13900,7 @@ ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complemen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b8b0e517-b432-4c25-86a8-9afd36ba8734
 atualizado_na_fonte: "2025-07-02 14:31:50"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14185,7 +14185,7 @@ ementa: "Prorrogar o prazo para a entrega dos arquivos digitais da EFD, referent
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b45d09ac-bb62-49f9-9cfd-87437a89394f
 atualizado_na_fonte: "2025-06-25 17:23:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14228,7 +14228,7 @@ ementa: "Será suspensa de ofício a inscrição do contribuinte que tenha Termo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67bc469e-65c8-49a8-84d0-7ab7f88e360a
 atualizado_na_fonte: "2025-06-25 17:23:56"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14272,7 +14272,7 @@ ementa: "Dispõe sobre a obrigatoriedade do recadastramento para os produtores r
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=15d1bc56-6117-42e3-a541-cb9a4d799ee7
 atualizado_na_fonte: "2025-07-01 16:37:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -14324,7 +14324,7 @@ ementa: "Dispõe sobre os procedimentos a serem adotados para os efeitos do cons
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=11f0d0b1-d6c3-44f9-b312-c4d88c1e15a7
 atualizado_na_fonte: "2025-08-01 14:51:39"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14371,7 +14371,7 @@ ementa: "Dispõe sobre a exclusão do Regime de substituição tributária, na f
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8ad0526a-c07c-43cf-82e8-82bc1a95e5bb
 atualizado_na_fonte: "2025-06-23 16:41:17"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14449,7 +14449,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c988504e-4f59-4cd6-af09-c0090f52b200
 atualizado_na_fonte: "2025-08-01 14:52:46"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14526,7 +14526,7 @@ ementa: "Aprova o Procedimento Operacional Padrão, para o cálculo dos Índices
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=252952ab-1bfa-45a2-836e-7172a1edeec5
 atualizado_na_fonte: "2026-10-09 15:45:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -15855,7 +15855,7 @@ ementa: "Dispõe sobre a emissão de documentos fiscais relativos ao abastecimen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=489d629e-3dc4-4844-8509-0ed463d80b83
 atualizado_na_fonte: "2025-08-01 14:55:50"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -15963,7 +15963,7 @@ ementa: "Determinar que 10 dias antes do cancelamento ou suspensão previstos no
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=08673e44-f2ff-484f-8985-2418c84367af
 atualizado_na_fonte: "2025-07-03 15:49:57"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16019,7 +16019,7 @@ ementa: "Modifica a Portaria nº 358/2017-GABIN, que dispõe sobre os requisitos
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=651d37d6-ea0f-49a9-9915-f88f89cae85c
 atualizado_na_fonte: "2026-10-07 18:43:12"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, Anexo 18, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16094,7 +16094,7 @@ ementa: "Permitir que para fins de determinação da base de cálculo do Imposto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd03a7ef-8d5a-4857-9bb1-8d2868e5f08d
 atualizado_na_fonte: "2026-09-23 10:04:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -16140,7 +16140,7 @@ ementa: "Ficam prorrogados os prazos de entrega da Declaração de Informações
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=199a9e40-7939-454a-8d22-889304250d3d
 atualizado_na_fonte: "2025-06-23 18:08:49"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16187,7 +16187,7 @@ ementa: "Para fins de cálculo do valor dos créditos previstos no art. 2º do D
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=51fb4af1-e406-416d-8c6f-b90cd9ff6af4
 atualizado_na_fonte: "2025-07-01 16:51:25"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16233,7 +16233,7 @@ ementa: "Estabelece hipótese de suspensão de ofício da inscrição estadual, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6406422c-d5c4-4e72-b3cc-101c1df86b70
 atualizado_na_fonte: "2026-10-09 15:46:36"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -16327,7 +16327,7 @@ ementa: "Dispõe sobre procedimentos e outras condições para fruição do cré
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=48be63a8-6dc0-4304-9e65-b105c4afcfb4
 atualizado_na_fonte: "2026-10-09 18:07:42"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 2.1
@@ -16629,7 +16629,7 @@ ementa: "Dispõe sobre o parcelamento eletrônico de crédito tributário de ICM
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7f2da583-bccd-42b6-a67f-b2468a6bd349
 atualizado_na_fonte: "2025-08-01 14:59:52"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17231,7 +17231,7 @@ ementa: "Estabelece hipótese de suspensão de ofício da inscrição estadual, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67b548a4-654b-40d5-8a8c-4446012b794b
 atualizado_na_fonte: "2026-10-09 15:47:04"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17350,7 +17350,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2826661-fc2b-43ea-9af6-2293127633ad
 atualizado_na_fonte: "2025-08-01 15:00:09"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17430,7 +17430,7 @@ ementa: "Torna sem efeito as isenções concedidas a adquirentes de veículos co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fefcde7a-f518-44d3-96c5-9c939fb876f5
 atualizado_na_fonte: "2026-10-09 15:49:39"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17510,7 +17510,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9d12a9d1-6774-49b8-a2c5-5b2a2af03bd5
 atualizado_na_fonte: "2025-08-11 15:34:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17590,7 +17590,7 @@ ementa: "Art. 1º Aprovar o Procedimento Operacional Padrão, para o cálculo do
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5625504d-52b4-4963-905b-f8a6f150a425
 atualizado_na_fonte: "2026-10-09 18:08:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -18924,7 +18924,7 @@ ementa: "Prorrogar, excepcionalmente, até 31 de março de 2022, o prazo para os
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6a51edf4-61e3-4661-856b-e9d7c31c1015
 atualizado_na_fonte: "2025-08-22 14:31:50"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -18967,7 +18967,7 @@ ementa: "Dispõe sobre a prorrogação do prazo para recadastramento dos produto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=70f3df0f-c51b-4e47-a597-f829c95cb0f4
 atualizado_na_fonte: "2025-07-01 16:59:14"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -19025,7 +19025,7 @@ ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de cont
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9451a741-09f8-48bc-8b88-af0fa82ed1ff
 atualizado_na_fonte: "2025-08-01 15:04:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.3, Anexo 1.4, RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 7.7
@@ -19240,7 +19240,7 @@ ementa: "Aprovar o Procedimento Operacional Padrão, para o cálculo dos Índice
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=300c5d82-8e6e-474c-ab15-b316dde1398a
 atualizado_na_fonte: "2025-08-11 15:38:51"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -20579,7 +20579,7 @@ ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complemen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=596eafd0-c967-41c5-9569-7a60b3df8217
 atualizado_na_fonte: "2025-07-01 17:01:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -20765,7 +20765,7 @@ ementa: "Disciplinar a entrega do arquivo digital da DIEF nas condições que es
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8b6703ea-dd9e-4193-bbca-8a066a3c7cce
 atualizado_na_fonte: "2025-07-01 17:01:47"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -20820,7 +20820,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=05b04ec3-751a-44bd-9211-24dda3b6813a
 atualizado_na_fonte: "2025-08-01 15:07:48"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0

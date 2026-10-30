@@ -6,7 +6,7 @@ numero: 45
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV045_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/99
@@ -220,7 +220,7 @@ numero: 45
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV045_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/03
@@ -262,7 +262,7 @@ numero: 45
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV045_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/07
@@ -310,7 +310,7 @@ numero: 45
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2009/CV045_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/09
@@ -406,7 +406,7 @@ numero: 45
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV045_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/11
@@ -438,7 +438,7 @@ numero: 45
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV045_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/12
@@ -472,7 +472,7 @@ numero: 45
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV045_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 45/19
@@ -522,7 +522,7 @@ numero: 45
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV045_22
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/22
@@ -554,7 +554,7 @@ numero: 45
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV045_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/23
@@ -596,7 +596,7 @@ numero: 45
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV045_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 45/26
@@ -632,7 +632,7 @@ numero: 46
 ano: 1990
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1990/CV046_90
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/90
@@ -670,7 +670,7 @@ numero: 46
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV046_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/94
@@ -780,7 +780,7 @@ numero: 46
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv046_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 046/98
@@ -827,7 +827,7 @@ numero: 46
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV046_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/99
@@ -956,7 +956,7 @@ numero: 46
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV046_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/03
@@ -996,7 +996,7 @@ numero: 46
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV046_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/07
@@ -1066,7 +1066,7 @@ numero: 46
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2009/CV046_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/09
@@ -1094,7 +1094,7 @@ numero: 46
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV046_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/15
@@ -1136,7 +1136,7 @@ numero: 46
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV046_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 46/19
@@ -1200,7 +1200,7 @@ numero: 46
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV046_22
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/22
@@ -1234,7 +1234,7 @@ numero: 46
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV046_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 46/26
@@ -1274,7 +1274,7 @@ numero: 47
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV047_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/93
@@ -1360,7 +1360,7 @@ numero: 47
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV047_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/97
@@ -1437,7 +1437,7 @@ numero: 47
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv047_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 047/98
@@ -1521,7 +1521,7 @@ numero: 47
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV047_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/00
@@ -1557,7 +1557,7 @@ numero: 47
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV047_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/01
@@ -1597,7 +1597,7 @@ numero: 47
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV047_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/04
@@ -1640,7 +1640,7 @@ numero: 47
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV047_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/05
@@ -1710,7 +1710,7 @@ numero: 47
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV047_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/12
@@ -1744,7 +1744,7 @@ numero: 47
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV047_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/14
@@ -1780,7 +1780,7 @@ numero: 47
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV047_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/15
@@ -1810,7 +1810,7 @@ numero: 47
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV047_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 47/19
@@ -1840,7 +1840,7 @@ numero: 47
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV047_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/21
@@ -1935,7 +1935,7 @@ numero: 47
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV047_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 47/26
@@ -1979,7 +1979,7 @@ numero: 48
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV048_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/93
@@ -2025,7 +2025,7 @@ numero: 48
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV048_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/94
@@ -2077,7 +2077,7 @@ numero: 48
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV048_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/97
@@ -2175,7 +2175,7 @@ numero: 48
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV048_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/00
@@ -2303,7 +2303,7 @@ numero: 48
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV048_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/03
@@ -2345,7 +2345,7 @@ numero: 48
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV048_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/06
@@ -2403,7 +2403,7 @@ numero: 48
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV048_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/07
@@ -2553,7 +2553,7 @@ numero: 48
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV048_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/08
@@ -2603,7 +2603,7 @@ numero: 48
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2009/CV048_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/09
@@ -2631,7 +2631,7 @@ numero: 48
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV048_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/13
@@ -3187,7 +3187,7 @@ numero: 48
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV048_17
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/17
@@ -3263,7 +3263,7 @@ numero: 48
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV048_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 48/19
@@ -3293,7 +3293,7 @@ numero: 48
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV048_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/21
@@ -3361,7 +3361,7 @@ numero: 48
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV048_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 48/26
@@ -3395,7 +3395,7 @@ numero: 49
 ano: 1985
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1985/CV049_85
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/85
@@ -3453,7 +3453,7 @@ numero: 49
 ano: 1990
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1990/CV049_90
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/90
@@ -3491,7 +3491,7 @@ numero: 49
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV049_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/94
@@ -3525,7 +3525,7 @@ numero: 49
 ano: 1995
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV049_95
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/95
@@ -3809,7 +3809,7 @@ numero: 49
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV049_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/02
@@ -3855,7 +3855,7 @@ numero: 49
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV049_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/11
@@ -3887,7 +3887,7 @@ numero: 49
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV049_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/13
@@ -4137,7 +4137,7 @@ numero: 49
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV049_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/15
@@ -4169,7 +4169,7 @@ numero: 49
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV049_17
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/17
@@ -4671,7 +4671,7 @@ numero: 49
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV049_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 49/19
@@ -4703,7 +4703,7 @@ numero: 49
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV049_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/21
@@ -4740,7 +4740,7 @@ numero: 49
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV049_22
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/22
@@ -4770,7 +4770,7 @@ numero: 49
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV049_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/23
@@ -4802,7 +4802,7 @@ numero: 49
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV049_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/24
@@ -4976,7 +4976,7 @@ numero: 49
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV049_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 49/26
@@ -5010,7 +5010,7 @@ numero: 50
 ano: 1987
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1987/CV050_87
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/87
@@ -5048,7 +5048,7 @@ numero: 50
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV050_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/92
@@ -5088,7 +5088,7 @@ numero: 50
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV050_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/93
@@ -5200,7 +5200,7 @@ numero: 50
 ano: 1995
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV050_95
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/95
@@ -5238,7 +5238,7 @@ numero: 50
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV050_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/99
@@ -5345,7 +5345,7 @@ numero: 50
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV050_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/00
@@ -8577,7 +8577,7 @@ numero: 50
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV050_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/03
@@ -8621,7 +8621,7 @@ numero: 50
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV050_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/08
@@ -9143,7 +9143,7 @@ numero: 50
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV050_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/10
@@ -9183,7 +9183,7 @@ numero: 50
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV050_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/12
@@ -9217,7 +9217,7 @@ numero: 50
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV050_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/14
@@ -9269,7 +9269,7 @@ numero: 50
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV050_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/15
@@ -9311,7 +9311,7 @@ numero: 50
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV050_17
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/17
@@ -9359,7 +9359,7 @@ numero: 50
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV050_18
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/18
@@ -9448,7 +9448,7 @@ numero: 50
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV050_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 50/19
@@ -9488,7 +9488,7 @@ numero: 50
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV050_22
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/22
@@ -9566,7 +9566,7 @@ numero: 50
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV050_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/23
@@ -9606,7 +9606,7 @@ numero: 50
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV050_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/24
@@ -9640,7 +9640,7 @@ numero: 50
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV050_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 50/26
@@ -9670,7 +9670,7 @@ numero: 51
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV051_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/94
@@ -9890,7 +9890,7 @@ numero: 51
 ano: 1995
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV051_95
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/95
@@ -9930,7 +9930,7 @@ numero: 51
 ano: 1996
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV051_96
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/96
@@ -9970,7 +9970,7 @@ numero: 51
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV051_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/99
@@ -10080,7 +10080,7 @@ numero: 51
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV051_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/00
@@ -10788,7 +10788,7 @@ numero: 51
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV051_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/01
@@ -10874,7 +10874,7 @@ numero: 51
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV051_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/03
@@ -10921,7 +10921,7 @@ numero: 51
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV051_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/04
@@ -10961,7 +10961,7 @@ numero: 51
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV051_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/07
@@ -11087,7 +11087,7 @@ numero: 51
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV051_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/10
@@ -11155,7 +11155,7 @@ numero: 51
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV051_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/11
@@ -11207,7 +11207,7 @@ numero: 51
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV051_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/13
@@ -11247,7 +11247,7 @@ numero: 51
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV051_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/14
@@ -11279,7 +11279,7 @@ numero: 51
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV051_17
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/17
@@ -11319,7 +11319,7 @@ numero: 51
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV051_18
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/18
@@ -11383,7 +11383,7 @@ numero: 51
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV051_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/21
@@ -11419,7 +11419,7 @@ numero: 51
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV051_22
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/22
@@ -11451,7 +11451,7 @@ numero: 51
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV051_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/23
@@ -11481,7 +11481,7 @@ numero: 51
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV051_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/24
@@ -11527,7 +11527,7 @@ numero: 51
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV051_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 51/26
@@ -11557,7 +11557,7 @@ numero: 52
 ano: 1991
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV052_91
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/91
@@ -13956,7 +13956,7 @@ numero: 52
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV052_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/92
@@ -14040,7 +14040,7 @@ numero: 52
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV052_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/93
@@ -14338,7 +14338,7 @@ numero: 52
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV052_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/94
@@ -14400,7 +14400,7 @@ numero: 52
 ano: 1995
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV052_95
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/95
@@ -14478,7 +14478,7 @@ numero: 52
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV052_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/05
@@ -14644,7 +14644,7 @@ numero: 52
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV052_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/06
@@ -14684,7 +14684,7 @@ numero: 52
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2009/CV052_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/09
@@ -14716,7 +14716,7 @@ numero: 52
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV052_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/10
@@ -14778,7 +14778,7 @@ numero: 52
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV052_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/13
@@ -14822,7 +14822,7 @@ numero: 52
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV052_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/15
@@ -14852,7 +14852,7 @@ numero: 52
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV052_17
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/17
@@ -17007,7 +17007,7 @@ numero: 52
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV052_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/24
@@ -17053,7 +17053,7 @@ numero: 52
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV052_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 52/26
@@ -17081,7 +17081,7 @@ numero: 53
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV053_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 53/00
@@ -17192,7 +17192,7 @@ numero: 53
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV053_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 53/05
@@ -17328,7 +17328,7 @@ numero: 53
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV053_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 53/07

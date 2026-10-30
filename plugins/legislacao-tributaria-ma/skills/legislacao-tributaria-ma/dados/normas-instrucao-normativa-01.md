@@ -8,7 +8,7 @@ ementa: "Estabelece procedimentos relativos à validação e entrega de arquivos
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0af1d684-38f3-431e-bb10-3c375ee1b93b
 atualizado_na_fonte: "2026-10-22 18:12:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -98,7 +98,7 @@ ementa: "Dispõe sobre o preenchimento da DIEF relativo às operações com comb
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2d4e37d8-8d10-47f7-b682-82a785d917d0
 atualizado_na_fonte: "2026-10-22 18:12:50"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0

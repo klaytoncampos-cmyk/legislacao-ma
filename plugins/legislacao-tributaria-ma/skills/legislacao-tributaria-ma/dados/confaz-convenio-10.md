@@ -1,3 +1,1491 @@
+<<<DOC confaz/convenio/convenio-133-2008.md>>>
+---
+documento: "CONVÊNIO ICMS 133/08"
+tipo: convenio
+numero: 133
+ano: 2008
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV133_08
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 133/08
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 133, DE 5 DE DEZEMBRO DE 2008
+
+Publicado no DOU de 09.12.08, pelo Despacho 99/08.
+
+Retificação no DOU de 12.12.08.
+
+Ratificação Nacional no DOU de 29.12.08, pelo Ato Declaratório 17/08.
+
+Alterado pelos Convs. ICMS 90/11, 126/11, 09/13, 55/13, 22/14, 120/14, 163/15, 37/16.
+
+Autorizada, pelo Conv. ICMS 126/11, a convalidação da manutenção do crédito do ICMS prevista na cláusula segunda-A (redação acrescida).
+
+Autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas operações com produtos nacionais e estrangeiros destinados aos Jogos Olímpicos e Paraolímpicos de 2016.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 132ª reunião ordinária, realizada em Foz do Iguaçu, PR, no dia 5 de dezembro de 2008, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+> Nova redação dada ao caput da cláusula primeira pelo Conv. ICMS 163/15, efeitos a partir de 30.12.15.
+
+Cláusula primeira Ficam os Estados e o Distrito Federal autorizados a conceder isenção do ICMS nas operações com aparelhos, máquinas, equipamentos e demais instrumentos e produtos, nacionais ou estrangeiros, inclusive animais, destinados à realização dos Jogos Olímpicos e Paraolímpicos de 2016, seus eventos testes e eventos correlatos.
+
+> Redação original, efeitos até 29.12.15.
+
+~~Cláusula primeira Ficam os Estados e o Distrito Federal autorizados a conceder isenção do ICMS nas operações com aparelhos, máquinas, equipamentos e demais instrumentos e produtos, nacionais ou estrangeiros, inclusive animais, destinados à realização dos Jogos Olímpicos e Paraolímpicos de 2016.~~
+
+§ 1º O benefício fiscal previsto no caput somente se aplica às operações realizadas pelos seguintes entes:
+
+I - Comitê Organizador dos Jogos Olímpicos e Paraolímpicos de 2016;
+
+> Nova redação do inciso II pelo Conv. ICMS 09/13, efeitos a partir 30.04.13.
+
+II - Comitê Olímpico Internacional, bem como as sociedades por ele controladas, direta ou indiretamente, inclusive a que detenha os direitos de emissora anfitriã, assim como o laboratório para realização de exames anti-doping credenciado pela Agência Mundial Anti-doping - WADA e a Corte Arbitral do Esporte;
+
+> Redação original efeitos de 29.12.08 a 29.04.13.
+
+~~II - Comitê Olímpico Internacional;~~
+
+> Nova redação do inciso III pelo Conv. ICMS 09/13, efeitos a partir 30.04.13.
+
+III - Comitê Paraolímpico Internacional, bem como as sociedades por ele controladas, direta ou indiretamente, no Brasil ou no exterior;
+
+> Redação original efeitos de 29.12.08 a 29.04.13.
+
+~~III - Comitê Paraolímpico Internacional;~~
+
+IV - Federações Internacionais Desportivas;
+
+V - Comitê Olímpico Brasileiro;
+
+VI - Comitê Paraolímpico Brasileiro;
+
+VII - Comitês Olímpicos e Paraolímpicos de outras nacionalidades;
+
+VIII - Entidades Nacionais e Regionais de Administração de Desporto Olímpico ou Paraolímpico;
+
+IX - mídia credenciada aos Jogos Olímpicos e Paraolímpicos de 2016;
+
+> Nova redação do inciso X pelo Conv. ICMS 09/13, efeitos a partir 30.04.13.
+
+X - patrocinadores, apoiadores e fornecedores oficiais e licenciados, locais e internacionais, dos Jogos Olímpicos e Paraolímpicos Rio 2016;
+
+> Redação original efeitos de 29.12.08 a 29.04.13.
+
+~~X - patrocinadores dos Jogos Olímpicos e Paraolímpicos de 2016;~~
+
+XI - fornecedores de serviços e bens destinados à organização e à realização dos Jogos Olímpicos e Paraolímpicos de 2016.
+
+> Nova redação do §2º pelo Conv. ICMS 09/13, efeitos a partir 30.04.13.
+
+§ 2º O disposto nesta cláusula estende-se às doações realizadas, ao final dos aludidos Jogos, a qualquer ente relacionado nos incisos do § 1º desta cláusula, a Órgãos Públicos Federais, Estaduais e Municipais e a organizações não governamentais, associações sem fins lucrativos e fundações cujos objetivos sociais estejam voltados a divulgação do esporte e do movimento olímpicos.
+
+> Redação original do §2º, efeitos de 29.12.08 a 29.04.13.
+
+~~§ 2º O disposto de que trata esta cláusula estende-se às doações realizadas, ao final dos aludidos Jogos, a qualquer ente relacionado nos incisos do § 1º desta cláusula e a órgãos públicos federais, estaduais e municipais.~~
+
+§ 3º A isenção prevista no caput não se aplica a mercadoria ou bem destinado a membros dos entes mencionados no § 1º desta cláusula que não tenha relação com os Jogos Olímpicos e Paraolímpicos de 2016.
+
+§ 4º O disposto neste artigo não alcança aparelhos, máquinas, equipamentos e demais instrumentos e produtos, nacionais e estrangeiros, destinados ao ativo imobilizado de empresas que exerçam atividades no país ou a obras de construção civil realizadas por empresas privadas, salvo se destinados às doações previstas no § 2º desta cláusula.
+
+§ 5º As unidades da Federação que implementarem este convênio poderão dele excluir quaisquer das hipóteses previstas nos incisos IX a XI desta cláusula.
+
+> Nova redação do §6º pelo Conv. ICMS 09/13, efeitos a partir 30.04.13.
+
+§ 6º Ficam os estados autorizados a conceder a isenção prevista no caput desta cláusula à aquisição de energia elétrica e à utilização dos serviços de transporte intermunicipal e interestadual e de comunicação pelo Comitê Organizador dos Jogos Olímpicos e Paraolímpicos de 2016, desde que destinados à realização dos referidos jogos, observado o disposto no § 3º desta cláusula e na cláusula quarta deste convênio.
+
+> Redação original do § 6º à cláusula primeira pelo Conv. ICMS 90/11, efeitos 21.10.11. até 29.04.13.
+
+~~§ 6º Fica o Estado do Rio de Janeiro autorizado a conceder a isenção prevista no caput desta cláusula à aquisição de energia elétrica e à utilização dos serviços de transporte intermunicipal e interestadual e de comunicação pelo Comitê Organizador dos Jogos Olímpicos e Paraolímpicos de 2016, desde que destinados à realização dos referidos jogos, observado o disposto no § 3º desta cláusula e na cláusula quarta deste convênio.~~
+
+> Acrescido o § 7º à cláusula primeira pelo Conv. ICMS 90/11, efeitos a partir de 21.10.11.
+
+§ 7º O disposto no § 6º desta cláusula fica condicionado à redução do valor do imposto dispensado no preço do produto ou serviço
+
+> Nova redação dada ao caput da cláusula primeira-A pelo Conv. ICMS 163/15, efeitos a partir de 30.12.15.
+
+Cláusula primeira-A Ficam os Estados e o Distrito Federal autorizados a conceder isenção do ICMS na importação de aparelhos, máquinas, equipamentos, materiais promocionais e demais instrumentos, inclusive animais, destinados à realização dos Jogos Olímpicos e Paraolímpicos de 2016, seus eventos testes e eventos correlatos.
+
+> Acrescida à cláusula primeira-A pelo Conv. ICMS 55/13, efeitos de 08.08.13 a 29.12.15.
+
+~~Cláusula primeira-A Ficam os Estados e o Distrito Federal autorizados a conceder isenção do ICMS na importação de equipamentos ou materiais esportivos destinados às competições, ao treinamento e à preparação de atletas e equipes brasileiras.~~
+
+§ 1º O benefício fiscal previsto no caput somente se aplica às operações realizadas por órgãos da União, dos Estados, do Distrito Federal e dos Municípios e suas respectivas autarquias e fundações, por atletas das modalidades olímpicas e paraolímpicas, pelo Comitê Olímpico Brasileiro - COB e pelo Comitê Paraolímpico Brasileiro - CPB, bem como pelas entidades nacionais de administração do desporto que lhes sejam filiadas ou vinculadas.
+
+> Nova redação dada ao § 2º da cláusula primeira-A pelo Conv. ICMS 163/15, efeitos a partir de 30.12.15.
+
+§ 2º A isenção de que trata o caput aplica-se exclusivamente às competições desportivas em jogos olímpicos e paraolímpicos e seus eventos correlatos.
+
+> Redação original, efeitos até 29.12.15.
+
+~~§ 2º A isenção de que trata o caput aplica-se exclusivamente às competições desportivas em jogos olímpicos e paraolímpicos.~~
+
+§ 3º A isenção aplica-se a equipamento ou material esportivo, sem similar nacional, homologado pela entidade desportiva internacional da respectiva modalidade esportiva para as competições a que se refere o § 2º.
+
+§ 4º A isenção a que se refere esta cláusula somente se aplica às operações que estejam contempladas com isenção ou tributação com alíquota zero pelo Imposto de Importação ou pelo Imposto sobre Produtos Industrializados.
+
+Cláusula segunda O benefício fiscal a que se refere a cláusula primeira somente se aplica às operações que, cumulativamente, estejam contempladas:
+
+> Nova redação dada ao inciso I do caput da cláusula segunda pelo Conv. ICMS 37/16, efeitos a partir de 24.05.16.
+
+I - com isenção, tributação com alíquota zero ou não incidência do Imposto de Importação e IPI;
+
+> Redação original, efeitos até 23.05.16.
+
+~~I - com isenção ou tributação com alíquota zero pelo Imposto de Importação ou IPI;~~
+
+II - com desoneração das contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/PASEP) e para a Contribuição para o Financiamento da Seguridade Social (COFINS).
+
+> Acrescida a cláusula segunda-A pelo Conv. ICMS 126/11, efeitos a partir de 09.01.12.
+
+Cláusula segunda-A Ficam as unidades federadas autorizadas a não exigir o estorno de crédito fiscal, nos termos de art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, nas operações e prestações abrangidas pela isenção de que trata este convênio.
+
+Cláusula terceira A isenção prevista na cláusula primeira deste convênio fica condicionada à nomeação da cidade do Rio de Janeiro como sede dos Jogos Olímpicos e Paraolímpicos de 2016, sendo aplicada a partir da nomeação.
+
+> Nova redação da cláusula quarta pelo Conv. ICMS 09/13, efeitos a partir 30.04.13.
+
+Cláusula quarta Na hipótese de revenda de bem adquirido com o benefício previsto neste convênio, o imposto será integralmente devido, à exceção das operações que venham a ser realizadas pelo Comitê Organizador dos Jogos Olímpicos e Paraolímpicos de 2016, em decorrência de sua desmobilização, que ficam isentas do imposto.
+
+> Redação original da cláusula quarta, efeitos de 29.12.08 a 29.04.13.
+
+~~Cláusula quarta Na hipótese de revenda de bem adquirido com o benefício previsto neste convênio, será devido o imposto integralmente.~~
+
+> Acrescida a cláusula quarta-A pelo Conv. ICMS 22/14, efeitos a partir de 14.04.14.
+
+Cláusula quarta-A Os Entes definidos nos incisos I a VIII, do § 1º da cláusula primeira, ficam autorizados a emitirem documento de controle e movimentação de bens, na operação de importação, nas saídas e movimentações, internas e interestaduais, de mercadorias, bens, aparelhos, máquinas, equipamentos e demais instrumentos utilizados na organização e realização dos Jogos Rio 2016, bem como nos eventos testes, que contenham as seguintes indicações:
+
+I - nome, número de inscrição no Cadastro Nacional de Pessoas Jurídicas - CNPJ - dos remetentes e destinatários dos bens;
+
+II - local de entrega dos bens;
+
+III - descrição dos bens, quantidade, valor unitário e total e respectivo código NCM;
+
+IV - data de saída dos bens;
+
+V - número da nova fiscal original ou da Declaração de Importação - DI, conforme o caso;
+
+VI - numeração sequencial do documento;
+
+VII - a seguinte expressão: ‘Uso autorizado pelo Convênio ICMS 133/08’.
+
+§ 1º Quando as mercadorias forem transportadas por veículo próprio, o documento previsto neste convênio poderá ser utilizado para acobertar a operação;
+
+§ 2º O remetente e o destinatário dos bens deverão conservar, para exibição aos respectivos Fiscos, pelo prazo de cinco anos, contados a partir do primeiro dia do exercício subsequente ao do transporte dos bens, uma cópia do documento de controle e movimentação de bens.
+
+> Acrescida o § 3º à clausula quarta-A pelo Conv. ICMS 163/15, efeitos a partir de 30.12.15.
+
+§ 3º O Comitê Organizador dos Jogos Olímpicos Rio 2016 fica autorizado a emitir, em nome das empresas domiciliadas no exterior Omega S/A, CNPJ 19.311.027/0001-23, e Swiss Timing Ltda., CNPJ 21.567.266/0001-90, documento de controle e movimentação de bens, nas operações de importação, nas saídas e movimentações internas, de mercadorias, aparelhos, máquinas, equipamentos e demais instrumentos utilizados na organização e realização dos Jogos Rio 2016, em território do Estado do Rio de Janeiro, bem como nos eventos testes e demais eventos correlatos, contendo as mesmas indicações constantes nos incisos I a VII desta cláusula.
+
+> Acrescida a cláusula quarta-B pelo Conv. ICMS 22/14, efeitos a partir de 14.04.14.
+
+Cláusula quarta-B Nas saídas internas e interestaduais de mercadorias utilizadas na organização e realização das Competições, tratando-se de destinatário não contribuinte do imposto, a entrega das mercadorias poderá ser efetuada em qualquer de seus domicílios ou em domicílio de outra pessoa, desde que esta também seja não contribuinte do imposto, e o local da entrega esteja expressamente indicado no documento fiscal relativo à operação.
+
+> Acrescida a cláusula quarta-C pelo Conv. ICMS 120/14, efeitos a partir de 30.12.14.
+
+Cláusula quarta-C A critério das unidades federadas, poderá ser dispensada a exigência da Guia para a Liberação de Mercadoria Estrangeira sem Comprovação do Recolhimento do ICMS (GLME) nas importações de mercadoria ou bem relacionados com os jogos Olímpicos e Paraolímpicos de 2016 despachados sob amparo do Regime Aduaneiro Especial de Admissão Temporária, nos termos da legislação federal específica.
+
+§ 1º O ICMS, quando devido, será recolhido por ocasião do despacho aduaneiro de nacionalização da mercadoria ou bem importados ou nas hipóteses de extinção do regime aduaneiro especial previstas na legislação federal, nos termos da legislação estadual.
+
+§ 2º O transporte das mercadorias ou bens de que trata o § 1º desta cláusula far-se-á com cópia da Declaração Simplificada de Importação - DSI, conforme disposto em legislação específica, ou por documento que venha a substituí-lo, que deverá ser apresentado ao Fisco Estadual sempre que exigido.
+
+§ 3º Os Estados poderão firmar com a Secretaria da Receita Federal do Brasil (RFB) protocolo para o controle das operações das importações realizadas com base em normativa específica da Receita Federal do Brasil.
+
+> Nova redação da cláusula quinta pelo Conv. ICMS 09/13, efeitos a partir 30.04.13.
+
+Cláusula quinta Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2017.
+
+> Redação original da cláusula quinta, efeitos de 29.12.08 a 29.04.13.
+
+~~Cláusula quinta Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2016.~~
+
+Foz de Iguaçu, PR, 5 de dezembro de 2008.
+
+## RETIFICAÇÃO
+
+Publicada no DOU de 12.12.08.
+
+No Convênio ICMS 133/08, de 5 de dezembro de 2008, publicado no DOU de 9 de dezembro de 2008, Seção 1, página 30,
+
+a) na ementa, onde se lê: “... aos Jogos Olímpicos e Paraolímpicos de 2016, ou a eventos a eles relacionados.”, leia-se: “...destinados aos Jogos Olímpicos e Paraolímpicos de 2016.”;
+
+b) na cláusula primeira, onde se lê: “... dos Jogos Olímpicos e Paraolímpicos de 2016 ou a eventos a eles relacionados.”, leia-se: “...dos Jogos Olímpicos e Paraolímpicos de 2016.”.
+
+MANUEL DOS ANJOS MARQUES TEIXEIRA
+<<<DOC confaz/convenio/convenio-133-2013.md>>>
+---
+documento: "CONVÊNIO ICMS 133/13"
+tipo: convenio
+numero: 133
+ano: 2013
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV133_13
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 133/13
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 133, DE 11 DE OUTUBRO DE 2013
+
+Publicado no DOU de 18.10.13, pelo Despacho 213/13 .
+
+Ratificação Nacional no DOU de 07.11.13, pelo Ato Declaratório 20/13 .
+
+Dispõe sobre a adesão do Estado do Rio de Janeiro ao Convênio ICMS 37/89, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na prestação de serviços de transporte de passageiros de transporte urbano ou metropolitano.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 151ª reunião ordinária, realizada em Fortaleza, CE, no dia 11 de outubro de 2013, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte:
+
+CONVÊNIO
+
+Cláusula primeira Aplicam-se ao Estado do Rio de Janeiro as disposições contidas no Convênio ICMS 37/89 , de 24 de abril de 1989.
+
+Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+<<<DOC confaz/convenio/convenio-133-2016.md>>>
+---
+documento: "CONVÊNIO ICMS 133/16"
+tipo: convenio
+numero: 133
+ano: 2016
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV133_16
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 133/16
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 133, DE 9 DE DEZEMBRO DE 2016
+
+Publicado no DOU de 15.12.16, pelo Despacho 214/16.
+
+Altera o Convênio ICMS 48/13, que institui o sistema de Registro e Controle das |Operações com o Papel Imune Nacional - RECOPI NACIONAL e disciplina, para as unidades federadas que especifica, o credenciamento do contribuinte que realize operações com papel destinado à impressão de livro, jornal ou periódico.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 163ª Reunião Ordinária, realizada em Palmas, TO, no dia 9 de dezembro de 2016, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira O caput da cláusula primeira do Convênio ICMS 48/13, de 12 de junho de 2013, passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Os estabelecimentos localizados nos estados de Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e Tocantins e o Distrito Federal, que realizem operações sujeitas a não incidência do imposto sobre as operações com o papel destinado à impressão de livro, jornal ou periódico deverão se credenciar nas Secretarias da Fazenda e no Sistema de Registro e Controle das Operações com Papel Imune Nacional - RECOPI NACIONAL.”.
+
+Cláusula segunda Este convênio entra em vigor na data da publicação, produzindo efeitos a partir de 1º de janeiro de 2017.
+<<<DOC confaz/convenio/convenio-133-2019.md>>>
+---
+documento: "Convênio ICMS 133/19"
+tipo: convenio
+numero: 133
+ano: 2019
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV133_19
+extraido_em: "2026-10-30"
+---
+
+# Convênio ICMS 133/19
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 133/19, DE 5 DE JULHO DE 2019
+
+Publicado no DOU de 11.07.19, pelo Despacho 47/19.
+
+Ratificação Nacional no DOU de 29.07.19, pelo Ato Declaratório 9/19.
+
+Prorroga disposições de convênios que concedem benefícios fiscais.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 173ª Reunião Ordinária, realizada em Brasília, DF, no dia 5 de julho de 2019, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira Ficam prorrogadas até 30 de abril de 2020 as disposições contidas nos convênios a seguir indicados:
+
+I - Convênio ICMS 52/91, de 26 de setembro de 1991, que concede redução da base de cálculo nas operações com equipamentos industriais e implementos agrícolas;
+
+II - Convênio ICMS 11/02, de 15 de março de 2002, que autoriza o Estado de Mato Grosso do Sul a conceder isenção de ICMS sobre parcela do serviço de transporte de gás natural.
+
+Cláusula segunda Ficam prorrogadas até 31 de outubro de 2020 as disposições contidas nos convênios a seguir indicados:
+
+I - Convênio ICMS 24/89, de 28 de março de 1989, que isenta do ICMS as operações de entrada de mercadoria importadas para a industrialização de componentes e derivados de sangue, nos casos que especifica;
+
+II - Convênio ICMS 104/89, de 24 de outubro de 1989, que autoriza a concessão de isenção do ICMS na importação de bens destinados a ensino, pesquisa e serviços médico-hospitalares;
+
+III - Convênio ICMS 03/90, de 30 de maio de 1990, que concede isenção do ICMS às saídas de óleo lubrificante usado ou contaminado;
+
+IV - Convênio ICMS 74/90, de 12 de dezembro de 1990, que autoriza os Estados que menciona a conceder isenção do ICMS nas operações relativas às saídas de rapadura de qualquer tipo;
+
+V - Convênio ICMS 16/91, de 25 de junho de 1991, que autoriza o Estado de Roraima a conceder isenção do ICMS nas operações que especifica;
+
+VI - Convênio ICMS 38/91, de 7 de agosto de 1991, que dispõe sobre a concessão de isenção do ICMS nas aquisições de equipamentos e acessórios destinados às instituições que atendam aos portadores de deficiência física, auditiva, mental, visual e múltipla;
+
+VII - Convênio ICMS 39/91, de 7 de agosto de 1991, que autoriza os Estados que menciona a conceder isenção do ICMS nas operações que especifica;
+
+VIII - Convênio ICMS 41/91, de 7 de agosto de 1991, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na importação, pela APAE, dos remédios que especifica;
+
+IX - Convênio ICMS 57/91, de 26 de setembro de 1991, que autoriza o Distrito Federal a conceder isenção do ICMS, decorrente da aplicação do diferencial de alíquota, nas aquisições que especifica;
+
+X - Convênio ICMS 58/91, de 26 de setembro de 1991, que dispõe sobre isenção do ICMS nas saídas de bulbos de cebola;
+
+XI – Convênio ICMS 75/91, de 5 de dezembro de 1991, que dispõe sobre concessão de redução de Base de Cálculo nas saídas de aeronaves, peças acessórios e outras mercadorias que especifica;
+
+XII - Convênio ICMS 02/92, de 26 de março de 1992, que autoriza os Estados do Ceará, Maranhão e Rio Grande do Norte a conceder crédito presumido aos estabelecimentos extratores de sal marinho;
+
+XIII - Convênio ICMS 03/92, de 26 de março de 1992, que autoriza os Estados que menciona a conceder isenção do ICMS nas operações de saídas de algaroba e seus derivados;
+
+XIV - Convênio ICMS 04/92, de 26 de março de 1992, que autoriza o Estado de Minas Gerais a conceder isenção nas operações com produtos típicos de artesanato;
+
+XV - Convênio ICMS 20/92, de 3 de abril de 1992, que autoriza os Estados e o Distrito Federal a isentar do ICMS a importação do exterior de reprodutores e matrizes caprinas;
+
+XVI - Convênio ICMS 55/92, de 25 de junho de 1992, que autoriza o Estado da Bahia a isentar do ICMS os produtos típicos comercializados pela Fundação Pró-TAMAR;
+
+XVII - Convênio ICMS 78/92, de 30 de julho de 1992, que autoriza os Estados e o Distrito Federal a não exigir o imposto nas doações de mercadorias, por contribuintes do imposto, à Secretaria da Educação;
+
+XVIII- Convênio ICMS 97/92, de 25 de setembro de 1992, que autoriza o Estado de Minas Gerais a reduzir a base de cálculo do ICMS nas saídas de pó de alumínio;
+
+XIX - Convênio ICMS 123/92, de 25 de setembro de 1992, que autoriza os Estados e o Distrito Federal a conceder isenção às operações internas e interestaduais com pós-larva de camarão;
+
+XX - Convênio ICMS 142/92, de 15 de dezembro de 1992, que autoriza o Estado do Paraná a conceder isenção do ICMS à União dos Escoteiros do Brasil - Região Paraná;
+
+XXI - Convênio ICMS 147/92, de 15 de dezembro de 1992, que autoriza o Estado de Santa Catarina a conceder isenção do ICMS nas saídas internas de mexilhão, marisco, ostra, berbigão e vieira;
+
+XXII - Convênio ICMS 09/93, de 30 de abril de 1993, que autoriza os Estados que menciona e o Distrito Federal a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares;
+
+XXIII - Convênio ICMS 29/93, de 30 de abril de 1993, que autoriza os Estados que menciona a conceder isenção do ICMS nas prestações internas de serviço de transporte de calcário a programas estaduais de preservação ambiental;
+
+XXIV - Convênio ICMS 50/93, de 30 de abril de 1993, que autoriza os Estados que menciona a conceder redução da base de cálculo do ICMS nas saídas internas de tijolos e telhas cerâmicos;
+
+XXV - Convênio ICMS 61/93, de 30 de abril de 1993, que autoriza o Estado do Paraná a conceder isenção do ICMS nas operações internas com mercadorias destinadas à construção de casas populares;
+
+XXVI - Convênio ICMS 132/93, de 9 de dezembro de 1993, que autoriza o Estado do Rio de Janeiro a conceder redução da base de cálculo do ICMS nas operações que especifica;
+
+XXVII - Convênio ICMS 138/93, de 9 de dezembro de 1993, que autoriza a concessão de crédito presumido do ICMS aos fabricantes de sacaria de juta e malva.
+
+XXVIII- Convênio ICMS 13/94, de 29 de março de 1994, que autoriza o Estado do Rio de Janeiro a conceder redução da base de cálculo do ICMS nas saídas internas de pedra britada e de mão;
+
+XXIX - Convênio ICMS 55/94, de 30 de junho de 1994, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS nas saídas de cadernos escolares personalizados, nas condições que especifica;
+
+XXX - Convênio ICMS 59/94, de 30 de junho de 1994, que autoriza o Estado da Bahia a reduzir a base de cálculo do ICMS nas saídas internas e interestaduais de N-Dipropilamina (D.P.A.);
+
+XXXI – Convênio ICMS 32/95, de 04 de abril de 1995, que autoriza os Estados e o Distrito Federal a conceder isenção nas operações internas com veiculos automotores, máquinas e equipamentos quando adquiridos pelos Corpos de Bombeiros Voluntários para utilização nas suas atividades específicas;
+
+XXXII - Convênio ICMS 42/95, de 28 de junho de 1995, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na entrada de bens para integrar o ativo fixo das Companhias Estaduais de Saneamento;
+
+XXXIII - Convênio ICMS 82/95, de 26 de outubro de 1995, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS às doações de mercadorias efetuadas ao Governo do Estado, para distribuição a pessoas necessitadas;
+
+XXXIV - Convênio ICMS 20/96, de 22 de março de 1996, que autoriza o Estado do Paraná a conceder isenção do ICMS nas saídas promovidas pelo Programa do Voluntariado do Paraná - PROVOPAR, na forma que especifica;
+
+XXXV - Convênio ICMS 29/96, de 31 de maio de 1996, que autoriza o Estado do Rio Grande do Norte a conceder isenção do ICMS nas prestações internas de serviços de transporte de hortifrutigranjeiros;
+
+XXXVI - Convênio ICMS 33/96, de 31 de maio de 1996, que autoriza os Estados que menciona a reduzir a base de cálculo do ICMS nas operações internas com ferros e aços não planos comuns;
+
+XXXVII - Convênio ICMS 84/97, de 26 de setembro de 1997, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na comercialização de produtos destinados a órgãos ou entidades da administração pública;
+
+XXXVIII - Convênio ICMS 123/97, de 12 de dezembro de 1997, que concede isenção do ICMS nas operações que destinem mercadorias ao Programa de Modernização e Consolidação da Infraestrutura Acadêmica das IFES e HUS;
+
+XXXIX - Convênio ICMS 136/97, de 12 de dezembro de 1997, que autoriza os Estados de Minas Gerais, Mato Grosso do Sul e Pernambuco a reduzir a base de cálculo do ICMS nas operações internas com as mercadorias que menciona, destinadas ao emprego na construção de imóveis populares, sob a coordenação da COHAB;
+
+XL - Convênio ICMS 04/98, de 18 de fevereiro de 1998, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas operações com transporte ferroviário;
+
+XLI - Convênio ICMS 05/98, de 20 de março de 1998, que autoriza os Estados que menciona a conceder isenção na importação de equipamento médico-hospitalar;
+
+XLII - Convênio ICMS 47/98, de 19 de junho de 1998, que isenta do ICMS as operações que indica, relativas à Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA;
+
+XLIII - Convênio ICMS 57/98, de 19 de junho de 1998, que isenta do ICMS as saídas de mercadorias doadas a órgãos e entidades da administração direta e indireta para distribuição às vítimas da seca;
+
+XLIV - Convênio ICMS 91/98, de 18 de setembro de 1998, que autoriza os Estados de Santa Catarina, do Distrito Federal, do Espírito Santo e do Pará a conceder isenção do ICMS nas operações internas com veículos automotores adquiridos por Associação de Pais e Amigos dos Excepcionais - APAE;
+
+XLV- Convênio ICMS 95/98, de 18 de setembro de 1998, que concede isenção do ICMS nas importações de produtos imunobiológicos, medicamentos e inseticidas, destinados à vacinação e combate à dengue, malária e febre amarela, realizadas pela Fundação Nacional de Saúde;
+
+XLVI – Convênio ICMS 116/98, de 11 de dezembro de 1998, que concede isenção do ICMS às operações com preservativos;
+
+XLVII – Convênio ICMS 01/99, de 02 de março de 1999, que concede isenção do ICMS às operações com equipamentos e insumos destinados à prestação de serviços de saúde;
+
+XLVIII - Convênio ICMS 33/99, de 23 de julho de 1999, que autoriza o Estado de Mato Grosso a conceder isenção do ICMS relativo ao diferencial de alíquotas devido nas operações realizadas pela FERRONORTE S.A. - Ferrovias Norte Brasil;
+
+XLIX - Convênio ICMS 05/00, de 24 de março de 2000, que autoriza os Estados do Rio de Janeiro e Minas Gerais a conceder isenção do ICMS nas importações de insumos destinados à fabricação de vacinas e de acessórios de uso exclusivo em laboratórios realizadas pela Fundação Oswaldo Cruz e Fundação Ezequiel Dias;
+
+L - Convênio ICMS 33/00, de 26 de abril de 2000, que autoriza os Estados e o Distrito Federal a celebrar transação, a não constituir crédito ou a desconstituí-lo, nos casos e condições que menciona;
+
+LI - Convênio ICMS 63/00, de 15 de setembro de 2000, que autoriza os Estados de Alagoas, Bahia, Ceará, Espírito Santo, Minas Gerais, Maranhão, Paraíba, Pernambuco, Piauí, Rio de Janeiro, e Rio Grande do Norte a isentar do ICMS as operações com leite de cabra;
+
+LII – Convênio ICMS 74/00, de 15 de setembro de 2000, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas importações das mercadorias que especifica, destinadas ao Instituto Estadual de Hematologia – HEMORIO;
+
+LIII - Convênio ICMS 96/00, de 15 de setembro de 2000, que autoriza os Estados do Amazonas e Roraima a conceder isenção nas operações internas com pescado regional, exceto Pirarucu;
+
+LIV - Convênio ICMS 33/01, de 6 de julho de 2001, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas saídas de bolas de aço forjadas classificadas no código 7326.11.00 da NBM/SH;
+
+LV - Convênio ICMS 41/01, de 6 de julho de 2001, que autoriza o Estado do Paraná a conceder isenção do ICMS nas operações internas com equipamento de monitoramento automático de energia elétrica;
+
+LVI - Convênio ICMS 49/01, de 6 de julho de 2001, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas operações com vacina contra a tuberculose;
+
+LVII - Convênio ICMS 116/01, de 7 de dezembro de 2001, que autoriza os Estados de Mato Grosso do Sul, Santa Catarina e o Distrito Federal a conceder crédito presumido do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares;
+
+LVIII - Convênio ICMS 117/01, de 7 de dezembro de 2001, que autoriza o Estado de São Paulo a conceder isenção do ICMS às saídas de mercadorias doadas ao Fundo Social de Solidariedade do Palácio do Governo do Estado de São Paulo;
+
+LIX - Convênio ICMS 125/01, de 7 de dezembro de 2001, que autoriza os Estados do Ceará, Espírito Santo, Pernambuco e Rio de Janeiro a conceder isenção do ICMS relativo à importação de obras de arte destinadas à exposição pública;
+
+LX - Convênio ICMS 140/01, de 7 de dezembro de 2001, que concede isenção do ICMS nas operações com medicamentos;
+
+LXI - Convênio ICMS 31/02, de 15 de março de 2002, que autoriza os Estados da Bahia, Mato Grosso, Pará, Paraná, Piauí, Santa Catarina e o Distrito Federal a conceder isenção do ICMS na importação de bens destinados a ensino e pesquisa;
+
+LXII - Convênio ICMS 40/02, de 15 de março de 2002, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS relativo ao diferencial de alíquotas e a reduzir a base de cálculo;
+
+LXIII - Convênio ICMS 63/02, de 28 de junho de 2002, que autoriza o Estado de Mato Grosso a conceder isenção do ICMS devido nas importações destinadas a construção, operação, exploração e conservação em seu território, da FASE-II da estrada de ferro FERRONORTE;
+
+LXIV - Convênio ICMS 74/02, de 28 de junho de 2002, que autoriza o Estado da Bahia a conceder isenção do ICMS nas aquisições de mercadorias destinadas à implantação do Sistema de Trens Metropolitanos de Salvador (Metrô);
+
+LXV - Convênio ICMS 87/02, de 28 de junho de 2002, que concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal;
+
+LXVI - Convênio ICMS 117/02, de 20 de setembro de 2002, que autoriza o Estado de Goiás a conceder isenção do ICMS nas importações de soro conservante de córnea pela Fundação Banco de Olhos de Goiás;
+
+LXVII - Convênio ICMS 133/02, de 21 de outubro de 2002, que reduz a base de cálculo do ICMS nas operações interestaduais realizadas por estabelecimento fabricante ou importador, sujeitos ao regime de cobrança monofásica das contribuições para o PIS/PASEP e da COFINS, a que se refere a Lei Federal nº 10.485, de 03.07.2002;
+
+LXVIII - Convênio ICMS 150/02, de 13 de dezembro de 2002, que Autoriza o Estado do Tocantins a conceder isenção do ICMS, para alimentação alternativa (multimistura);
+
+LXIX - Convênio ICMS 02/03, de 17 de janeiro de 2003, que autoriza o Estado da Bahia a reduzir a base de cálculo do ICMS nas operações internas com óleo diesel;
+
+LXX - Convênio ICMS 08/03, de 4 de abril de 2003, que autoriza os Estados do Espírito Santo, Maranhão, Mato Grosso do Sul, Minas Gerais, Paraná, Piauí, Rio Grande do Sul, Rio de Janeiro, Santa Catarina, São Paulo, Tocantins e o Distrito Federal a conceder crédito presumido na saída de adesivo hidroxilado produzido com material resultante da moagem ou trituração de garrafa PET;
+
+LXXI - Convênio ICMS 14/03, de 4 de abril de 2003, que Autoriza os Estados de Goiás, Mato Grosso, Minas Gerais e Rio de Janeiro a conceder isenção do ICMS na importação de mercadorias que especifica;
+
+LXXII - Convênio ICMS 18/03, de 4 de abril de 2003, que dispõe sobre isenção de ICMS nas operações relacionadas ao Programa Fome Zero;
+
+LXXIII - Convênio ICMS 62/03, de 4 de julho de 2003, que concede benefícios fiscais a operações relacionadas com o Projeto Integrado de Exploração Agropecuária e Agroindustrial do Estado de Roraima;
+
+LXXIV - Convênio ICMS 74/03, de 10 de outubro de 2003, que autoriza os Estados do Amapá, Maranhão, Paraíba e Paraná a conceder crédito presumido do ICMS aos contribuintes enquadrados em programa estadual de incentivo à cultura;
+
+LXXV - Convênio ICMS 81/03, de 10 de outubro de 2003, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS nas operações com o produto “dispositivo simulador de glândula mamária humana feminina;
+
+LXXVI - Convênio ICMS 87/03, de 10 de outubro de 2003, que autoriza o Estado do Amapá a conceder isenção do ICMS nas operações internas promovidas pelo Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá - IEPA;
+
+LXXVII - Convênio ICMS 89/03, de 10 de outubro de 2003, que Autoriza o Estado da Paraíba a conceder isenção do ICMS nas operações internas com água dessalinizada;
+
+LXXVIII - Convênio ICMS 90/03, de 10 de outubro de 2003, que autoriza os Estados da Paraíba e Rio Grande do Norte a conceder isenção do ICMS nas saídas internas de fibra de sisal efetuadas por estabelecimento produtor;
+
+LXXIX - Convênio ICMS 125/03, de 12 de dezembro de 2003, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS relativo ao diferencial de alíquotas e à importação e redução da base de cálculo do ICMS nas operações internas com mercadorias e bens destinados à aplicação no Programa de Eletrificação Rural vinculado ao Programa Nacional de Universalização denominado “Programa Luz no Campo” do Ministério de Minas e Energia;
+
+LXXX - Convênio ICMS 133/03, de 12 de dezembro de 2003, que autoriza a concessão de isenção do ICMS nas saídas internas de mercadorias promovidas por cooperativas sociais;
+
+LXXXI - Convênio ICMS 02/04, de 29 de janeiro de 2004, que autoriza o Estado do Espírito Santo a isentar do ICMS as saídas internas de mercadorias e bens doados a órgãos e entidades da administração pública direta e indireta estadual e municipais;
+
+LXXXII - Convênio ICMS 04/04, de 2 de abril de 2004, que autoriza os Estados que menciona a conceder isenção do ICMS à prestação de serviço de transporte intermunicipal de cargas;
+
+LXXXIII - Convênio ICMS 07/04, de 2 de abril de 2004, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS relativo ao diferencial de alíquotas e à importação e redução da base de cálculo do ICMS nas operações internas com mercadorias e bens destinados à aplicação no Programa de Governo ao Noroeste Mineiro adquiridos pela CEMIG - CIA ENERGÉTICA DE MINAS GERAIS;
+
+LXXXIV - Convênio ICMS 13/04, de 2 de abril de 2004, que autoriza o Estado do Paraná a conceder isenção de ICMS nas operações ou prestações internas destinadas à COMPANHIA DE HABITAÇÃO DO PARANÁ - COHAPAR;
+
+LXXXV - Convênio ICMS 15/04, de 2 de abril de 2004, que autoriza o Estado de Goiás a conceder isenção do ICMS nas saídas internas, em doação, de mercadorias e bens destinados a Organização das Voluntárias do Estado de Goiás - OVG;
+
+LXXXVI - Convênio ICMS 44/04, de 18 de junho de 2004, que autoriza o Estado do Amapá a conceder isenção do ICMS nas operações internas com castanha-do-brasil;
+
+LXXXVII - Convênio ICMS 70/04, de 24 de setembro de 2004, que autoriza o Estado do Amazonas a conceder isenção do ICMS relativo ao diferencial de alíquotas nas operações com bens adquiridos para doação a órgãos e entidades vinculados à administração pública direta estadual;
+
+LXXXVIII - Convênio ICMS 128/04, de 10 de dezembro de 2004, que autoriza o Estado de São Paulo a conceder isenção do ICMS às saídas internas das mercadorias médico-hospitalares;
+
+LXXXIX - Convênio ICMS 129/04, de 10 de dezembro de 2004, que autoriza unidades federadas a conceder isenção nas saídas de bens e mercadorias recebidas em doação, efetuadas pela organização não governamental “AMIGOS DO BEM - Instituição Nacional Contra a Fome e a Miséria no Sertão Nordestino”;
+
+XC - Convênio ICMS 137/04, de 10 de dezembro de 2004, que autoriza o Estado do Amapá a conceder isenção nas saídas internas com os produtos comercializados pelas Cooperativas de Oleiros;
+
+XCI - Convênio ICMS 153/04, de 10 de dezembro de 2004, que autoriza as unidades federadas a concederem benefícios fiscais na modalidade redução de base de cálculo do ICMS.
+
+XCII - Convênio ICMS 28/05, de 1º de abril de 2005, que autoriza os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e Tocantins a conceder isenção do ICMS relativo à importação de bens destinados à modernização de Zonas Portuárias do Estado.
+
+XCIII - Convênio ICMS 32/05, de 1º de abril de 2005, que autoriza o Estado de Goiás a conceder isenção do ICMS nas saídas em doação de arroz, feijão e carne destinados à instituição filantrópica “Vila São José Bento Cottolengo”;
+
+XCIV - Convênio ICMS 40/05, de 1º de abril de 2005, que autoriza o Estado do Pará a conceder isenção do ICMS nas operações internas com equipamentos de informática destinados a micro e pequenas empresas vinculadas ao Projeto Empreender;
+
+XCV - Convênio ICMS 41/05, de 1º de abril de 2005, que autoriza as unidades federadas que especifica a conceder redução da base de cálculo do ICMS nas saídas internas de areia, lavada ou não;
+
+XCVI - Convênio ICMS 51/05, de 30 de maio de 2005, que autoriza o Distrito Federal a conceder isenção de ICMS nas operações de importação efetuadas pelas fundações de apoio à Fundação Universidade de Brasília;
+
+XCVII - Convênio ICMS 65/05, de 1º de julho de 2005, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas operações e prestações relacionadas com transporte ferroviário;
+
+XCVIII - Convênio ICMS 79/05, de 1º de julho de 2005, que concede isenção do ICMS às operações destinadas aos Programas de Fortalecimento e Modernização das Áreas de Gestão, de Planejamento e de Controle Externo dos Estados e do Distrito Federal;
+
+XCIX - Convênio ICMS 122/05, de 30 de setembro de 2005, que autoriza o Distrito Federal a conceder isenção de ICMS na importação do exterior, efetuada pela Companhia do Metropolitano do Distrito Federal - METRÔ-DF, ou por sua conta e ordem, de equipamentos ferroviários que especifica, e dá outra providência;
+
+C - Convênio ICMS 130/05, de 16 de dezembro de 2005, que autoriza o Estado de São Paulo a conceder isenção nas saídas de aviões;
+
+CI - Convênio ICMS 131/05, de 16 de dezembro de 2005, que autoriza os Estados do Acre, Alagoas, Paraná e São Paulo a conceder isenção nas operações internas com farinha de mandioca não temperada;
+
+CII - Convênio ICMS 140/05, de 16 de dezembro de 2005, que autoriza o Estado do Piauí a conceder isenção do ICMS nas saídas internas, em doação, de mercadorias e bens destinados a Sociedade de São Vicente de Paulo;
+
+CIII - Convênio ICMS 161/05, de 16 de dezembro de 2005, que autoriza o Estado da Bahia a conceder isenção do ICMS nas saídas internas de cisternas para captação de água de chuva;
+
+CIV - Convênio ICMS 170/05, de 16 de dezembro de 2005, que autoriza o Estado do Amapá a conceder isenção do ICMS na importação de óleo diesel nas condições que especifica;
+
+CV - Convênio ICMS 03/06, de 24 de março de 2006, que concede isenção do ICMS incidente nas saídas internas de bens destinados à modernização de Zonas Portuárias das unidades federadas;
+
+CVI - Convênio ICMS 09/06, de 24 de março de 2006, que concede isenção do ICMS nas transferências de bens destinados à manutenção do Gasoduto Brasil-Bolívia;
+
+CVII - Convênio ICMS 19/06, de 24 de março de 2006, que autoriza os Estados de Goiás e do Rio de Janeiro a conceder isenção do ICMS correspondente ao diferencial de alíquotas na operação de entrada de equipamentos e componentes para o aproveitamento da energia solar que específica;
+
+CVIII - Convênio ICMS 27/06, de 24 de março de 2006, que autoriza os Estados que identifica e o Distrito Federal a conceder crédito outorgado do ICMS correspondente ao valor do ICMS destinado pelos seus respectivos contribuintes a projetos culturais credenciados pelas respectivas Secretarias de Cultura;
+
+CIX - Convênio ICMS 30/06, de 7 de julho de 2006, que concede isenção do ICMS na operação de circulação de mercadorias caracterizada pela emissão e negociação do Certificado de Depósito Agropecuário - CDA e do Warrant Agropecuário - WA, nos mercados de bolsa e de balcão como ativos financeiros, instituídos pela Lei nº 11.076, de 30 de dezembro de 2004;
+
+CX - Convênio ICMS 31/06, de 7 de julho de 2006, que autoriza os Estados do Ceará, Paraná e Rio Grande do Sul e o Distrito Federal a conceder isenção de ICMS nas operações com cimento asfáltico de petróleo, denominado “asfalto ecológico” ou “asfalto de borracha”;
+
+CXI - Convênio ICMS 32/06, de 7 de julho de 2006, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na importação de locomotiva e trilho para estrada de ferro;
+
+CXII - Convênio ICMS 35/06, de 7 de julho de 2006, que autoriza o Estado de Pernambuco e de Mato Grosso a conceder isenção do ICMS incidente nas prestações internas de serviço de transporte ferroviário de cargas;
+
+CXIII - Convênio ICMS 51/06, de 7 de julho de 2006, que autoriza os Estados do Amapá e do Amazonas a conceder isenção do ICMS nas operações internas com quelônios criados em cativeiro;
+
+CXIV - Convênio ICMS 74/06, de 3 de agosto de 2006, que autoriza os Estados do Acre, Alagoas, Amazonas, Goiás, Minas Gerais, Paraíba, Rio Grande do Norte, Rondônia, Roraima, São Paulo e Tocantins a parcelar e a dispensar juros e multas de débitos fiscais nas operações realizadas por contribuinte que participe de evento promocionais destinados a promover incremento nas vendas a consumidor final, por meio da concessão de descontos sobre o preço dos produtos;
+
+CXV - Convênio ICMS 80/06, de 1º de setembro de 2006, que autoriza o Estado do Amazonas a conceder isenção do ICMS nas operações internas de saída de energia elétrica;
+
+CXVI - Convênio ICMS 82/06, 6 de outubro de 2006, que autoriza o Estado do Paraná a permitir a compensação de créditos fiscais para abatimento do imposto incidente nas operações interestaduais com sucata;
+
+CXVII - Convênio ICMS 85/06, 6 de outubro de 2006, que autoriza o Estado do Piauí a conceder isenção do ICMS nas saídas internas promovidas pelos projetos sociais que especifica;
+
+CXVIII - Convênio ICMS 95/06, 6 de outubro de 2006, que autoriza o Estado do Pará a conceder isenção do ICMS nas saídas internas de materiais escolares e didáticos;
+
+CXIX - Convênio ICMS 97/06, 6 de outubro de 2006, que autoriza os Estados e o Distrito Federal a conceder dispensa do pagamento do diferencial de alíquotas na aquisição interestadual de bens destinados à modernização de Zonas Portuárias;
+
+CXX - Convênio ICMS 130/06, de 15 de dezembro de 2006, que autoriza o Estado de Mato Grosso do Sul a conceder isenção do ICMS na importação de bens efetuada pela Rede Mato-Grossense de Televisão e na subsequente transferência de parte desses bens ao Estado de Mato Grosso;
+
+CXXI - Convênio ICMS 133/06, de 15 de dezembro de 2006, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na importação de máquinas, aparelhos e equipamentos industrial, bem como suas partes e peças, destinados a integrar o ativo imobilizado do Serviço Nacional de Aprendizagem Industrial - SENAI -, do Serviço Nacional de Aprendizagem Comercial - SENAC - e do Serviço Nacional de Aprendizagem Rural - SENAR;
+
+CXXII - Convênio ICMS 144/06, de 15 de dezembro de 2006, que autoriza o Estado do Rio de Janeiro a isentar do ICMS a saída interna de mercadorias efetuada pelo Instituto Nacional do Câncer - INCA;
+
+CXXIII - Convênio ICMS 09/07, de 30 de março de 2007, que autoriza os Estados a conceder isenção do ICMS nas operações internas e interestaduais e na importação de medicamentos e equipamentos destinados a pesquisas que envolvam seres humanos, inclusive em programas de acesso expandido;
+
+CXXIV - Convênio ICMS 23/07, de 30 de março de 2007, que isenta o ICMS na saída de reagente para diagnóstico da doença de chagas destinada a órgão ou entidade da administração pública direta, suas autarquias e fundações;
+
+CXXV - Convênio ICMS 57/07, de 5 de junho de 2007, que autoriza o Estado de São Paulo a conceder isenção do ICMS nas operações internas com bens e mercadorias destinados à implantação da Linha 4 - Amarela da Companhia do Metropolitano de São Paulo - METRÔ;
+
+CXXVI – Convênio ICMS 65/07, de 06 de julho de 2007, que autoriza os Estados e o Distrito Federal a conceder isenção de ICMS em operações destinadas à fabricação de aeronaves para exportação.
+
+CXXVII - Convênio ICMS 66/07, de 6 de julho de 2007, que autoriza os Estados de Alagoas, Amazonas, Bahia, Pará, Paraná, Pernambuco e Santa Catarina a conceder créditos presumido nas aquisições de equipamento medidor de deslocamento de fluxo volumétrico de combustíveis;
+
+CXXVIII - Convênio ICMS 89/07, de 6 de julho de 2007, que autoriza os Estados do Acre, Amazonas, Bahia, Ceará, Espírito Santo, Mato Grosso, Pará, Paraíba, Piauí e do Rio Grande do Sul, a isentar do ICMS o fornecimento de alimentação e bebidas não alcoólicas realizados por restaurantes populares integrantes de programas específicos instituídos pela União, Estado ou Municípios;
+
+CXXIX - Convênio ICMS 92/07, de 6 de julho de 2007, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS nas operações internas com bens e mercadorias destinados à construção de Centro Administrativo do Governo do Estado;
+
+CXXX - Convênio ICMS 147/07, de 14 de dezembro de 2007, que isenta do ICMS as operações com laptops educacionais, adquiridos no âmbito do Programa Nacional de Informática na Educação - ProInfo - em seu Projeto Especial Um Computador por Aluno UCA, do Ministério da Educação – MEC;
+
+CXXXI - Convênio ICMS 04/08, de 4 de abril de 2008, que autoriza os Estados do Piauí e do Rio Grande do Norte e São Paulo a conceder isenção do ICMS nas operações e prestações destinadas às entidades que relaciona;
+
+CXXXII - Convênio ICMS 05/08, de 4 de abril de 2008, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas saídas internas de munições destinadas às Forças Armadas;
+
+CXXXIII - Convênio ICMS 07/08, de 4 de abril de 2008, que autoriza o Estado de Santa Catarina a conceder isenção do ICMS nas operações internas e nas correspondentes prestações de serviços de transportes destinadas a Cruz Azul no Brasil;
+
+CXXXIV - Convênio ICMS 08/08, de 4 de abril de 2008, que autoriza o Estado de Santa Catarina a conceder isenção do ICMS nas operações internas e nas correspondentes prestações de serviços de transportes destinadas ao Centro de Recuperação Nova Esperança - CERENE;
+
+CXXXV - Convênio ICMS 88/08, de 4 de julho de 2008, que autoriza o Estado do Amazonas a conceder isenção do ICMS nas operações internas com sacolas ecológicas confeccionadas em fibras vegetais pela Associação das Donas de Casa do Estado do Amazonas;
+
+CXXXVI - Convênio ICMS 159/08, de 17 de dezembro de 2008, que autoriza os Estados que menciona a reduzir a base de cálculo do ICMS nas saídas interestaduais de Etilenoglicol (MEG) e Polietileno Tereftalato (Resina PET);
+
+CXXXVII - Convênio ICMS 08/09, de 3 de abril de 2009, que autoriza o Estado do Piauí a conceder isenção de ICMS nas operações de importação efetuadas pela fundação de apoio à Fundação Universidade Federal do Piauí;
+
+CXXXVIII - Convênio ICMS 20/09, de 3 de abril de 2009, que autoriza o Estado do Maranhão a conceder isenção do ICMS nas saídas internas de geladeiras e borrachas de geladeiras realizadas no âmbito do Projeto Doação e Troca de Borracha de Geladeira para comunidade de baixa renda;
+
+CXXXIX - Convênio ICMS 26/09, de 3 de abril de 2009, que estabelece disciplina em relação às operações com partes e peças substituídas em virtude de garantia, por empresa nacional da indústria aeronáutica, por estabelecimento de rede de comercialização de produtos aeronáuticos, por oficina reparadora ou de conserto e manutenção de aeronaves;
+
+CXL - Convênio ICMS 34/09, de 3 de abril de 2009, que autoriza o Estado do Pará e do Piauí a conceder isenção de ICMS, relativo ao diferencial de alíquota, na entrada de bens e mercadorias pela Companhia de Saneamento do Pará - COSANPA e pela Empresa Águas e Esgotos do Piauí S.A. - AGESPISA;
+
+CXLI - Convênio ICMS 76/09, de 3 de julho de 2009, que autoriza as unidades federadas que menciona a conceder crédito presumido do ICMS na aquisição de equipamento Emissor de Cupom Fiscal - ECF, com requisito de Memória de Fita- detalhe - MFD para fins de substituição de equipamento sem requisito de MFD;
+
+CXLII - Convênio ICMS 16/10, de 26 de março de 2010, que autoriza o Estado de Goiás a conceder redução de base de cálculo do ICMS na operação interna com madeira produzida em regime de reflorestamento e destinada à industrialização, à utilização como lenha ou à transformação em carvão vegetal;
+
+CXLIII - Convênio ICMS 26/10, de 26 de março de 2010, que autoriza o Estado de Sergipe a isentar o ICMS devido na operação relativa à aquisição de produtos agropecuários decorrente do Programa de Aquisição de Alimentos - Compra Direta Local da Agricultura Familiar, produzidos por agricultores familiares que se enquadrem no Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF e que se destinem ao atendimento das demandas de suplementação alimentar e nutricionais dos programas sociais do Estado de Sergipe;
+
+CXLIV - Convênio ICMS 47/10, de 26 de março de 2010, que autoriza o Estado do Paraná a conceder isenção na saída interna de mercadoria promovida pela Associação dos Amigos do MON - Museu Oscar Niemeyer;
+
+CXLV - Convênio ICMS 73/10, de 3 de maio de 2010, que concede isenção do ICMS nas operações com medicamento destinado ao tratamento dos portadores de Gripe A (H1N1);
+
+CXLVI - Convênio ICMS 89/10, de 9 de julho de 2010, que autoriza os Estados a isentar do ICMS a importação do exterior de pós-larvas de camarão e reprodutores SPF, para fins de melhoramento genético, e as saídas internas e interestaduais com reprodutores de camarão marinho;
+
+CXLVII - Convênio ICMS 106/10, de 9 de julho de 2010, que autoriza os Estados e o Distrito Federal a isentar do ICMS a comercialização de sanduíches denominados "Big Mac" efetuada durante o evento “McDia Feliz”;
+
+CXLVIII - Convênio ICMS 118/10, de 9 de julho de 2010, que autoriza os Estados da Bahia, Mato Grosso, Pernambuco, Rio Grande do Sul e São Paulo a reduzir a base de cálculo do ICMS nas saídas interestaduais de Para-Xileno (PX) e Ácido Tereftálico Purificado (PTA);
+
+CXLIX - Convênio ICMS 138/10, de 24 de setembro de 2010, que autoriza os Estados de Pernambuco e Roraima a conceder isenção do ICMS nas saídas internas de geladeiras no âmbito do Programa de Eficiência Energética;
+
+CL - Convênio ICMS 73/11, de 15 de julho de 2011, que autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações internas e em relação ao diferencial de alíquotas, incidente nas aquisições de mercadorias destinadas às obras de mobilidade urbana, no contexto da preparação da Copa do Mundo de Futebol FIFA 2014;
+
+CLI – Convênio ICMS 85/11, de 30 de setembro de 2011, que autoriza os Estados que menciona a concederem crédito outorgado de ICMS destinado a aplicação em investimentos em infraestrutura.
+
+CLII - Convênio ICMS 98/11, de 30 de setembro de 2011, que autoriza o Estado do Amapá a conceder benefícios fiscais à indústria localizada no Estado do Amapá, nas condições que especifica;
+
+CLIII - Convênio ICMS 46/12, de 16 de abril de 2012, que autoriza o Estado de São Paulo a conceder crédito outorgado e anistia nas aquisições de materiais refratários por empresas siderúrgicas;
+
+CLIV – Convênio ICMS 56/12, de 22 de junho de 2012, que dispõe sobre a instituição de crédito presumido em substituição aos estornos de débitos decorrentes das prestações de serviços de telecomunicações;
+
+CLV - Convênio ICMS 61/12, de 22 de junho de 2012, que autoriza a Secretaria da Receita Federal do Brasil a arrecadar o ICMS devido nas importações realizadas ao amparo do Regime de Tributação Unificada - RTU, e concede redução da base de cálculo do ICMS nas operações de importação alcançadas por esse Regime;
+
+CLVI - Convênio ICMS 91/12, de 28 de setembro, que autoriza os Estados e o Distrito Federal a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares, e dispõe da exclusão dos entes federados que cita, das disposições do Convênio ICMS 09/93;
+
+CLVII - Convênio ICMS 95/12, de 28 de setembro de 2012, que dispõe sobre a concessão de redução de base de cálculo do ICMS nas saídas de veículos militares, peças, acessórios e outras mercadorias que especifica;
+
+CLVIII - Convênio ICMS 127/12, de 17 de dezembro de 2012, que autoriza o Estado de Pernambuco e o Distrito Federal a conceder isenção do ICMS nas operações internas de remessa de suínos para abate;
+
+CLIX - Convênio ICMS 129/12, de 17 de dezembro de 2012, que autoriza aos estados que menciona conceder isenção de ICMS nas operações com mercadorias destinadas à Fundação Museu da Imagem e do Som - MIS do Estado do Rio de Janeiro;
+
+CLX - Convênio ICMS 147/12, de 17 de dezembro de 2012, que autoriza o Estado do Acre a conceder isenção do ICMS nas saídas internas de geladeiras, decorrentes de doação efetuada pela Companhia de Eletricidade do Acre - ELETROACRE no âmbito do Programa Eletrobrás na Comunidade;
+
+CLXI - Convênio ICMS 1/13, de 6 de fevereiro de 2013, que autoriza a concessão de isenção do ICMS em operações com obras de arte na Feira Internacional de Arte do Rio de Janeiro (ArtRio) e na Feira Internacional de Arte de São Paulo (SP Arte);
+
+CLXII - Convênio ICMS 24/13, de 5 de abril de 2013, que autoriza os estados do Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo a conceder isenção do ICMS na importação de locomotiva por operador de transporte multimodal de cargas;
+
+CLXIII - Convênio ICMS 27/13, de 5 de abril de 2013, que autoriza o Estado de Rondônia a conceder isenção do ICMS correspondente à diferença de alíquotas pela entrada no Estado de geladeiras, a serem doadas pela empresa CENTRAIS ELETRICAS DE RONDONIA S/A - ELETROBRAS Distribuição Rondônia, no âmbito de seus projetos de eficiência energética;
+
+CLXIV - Convênio ICMS 30/13, de 11 de abril de 2013, que autoriza o Estado de São Paulo a conceder isenção do ICMS incidente na importação de tesseras para mosaico, realizadas pelo Santuário Nacional de Nossa Senhora da Conceição Aparecida;
+
+CLXV - Convênio ICMS 58/13, de 26 de julho de 2013, que autoriza o Estado do Acre, Bahia, Ceará, Paraíba, Rondônia e o Distrito Federal a conceder crédito outorgado de ICMS às empresas que utilizem mão-de-obra carcerária e de egressos do sistema prisional;
+
+CLXVI - Convênio ICMS 62/13, de 26 de julho de 2013, que autoriza os Estados do Paraná e Minas Gerais a conceder isenção do ICMS nas saídas de produtos que especifica, resultantes da utilização de pneus inservíveis de caminhões fora-de-estrada;
+
+CLXVII - Convênio ICMS 63/13, de 26 de julho de 2013, que autoriza o Estado do Amapá a conceder benefícios fiscais à indústria do segmento de café localizada no Estado do Amapá;
+
+CLXVIII - Convênio ICMS 64/13, de 26 de julho de 2013, que autoriza o Estado do Amapá a conceder redução de base de cálculo à indústria do segmento de colchões localizada no Estado do Amapá;
+
+CLXIX - Convênio ICMS 80/13, de 26 de julho de 2013, que autoriza o Estado do Amapá a conceder benefícios fiscais à empresas extratoras de pedra britada e de mão, localizada no Estado do Amapá;
+
+CLXX - Convênio ICMS 81/13, de 26 de julho de 2013, que autoriza o Estado do Amapá a conceder redução de base de cálculo do ICMS incidente na aquisição de bens do ativo por indústrias de mineração e metalurgia, localizadas no Estado do Amapá;
+
+CLXXI - Convênio ICMS 82/13, de 26 de julho de 2013, que dispõe sobre a concessão de isenção do ICMS relativo ao diferencial de alíquota, bem como, na importação de bens destinados à modernização de Zona Portuária do Estado do Amapá;
+
+CLXXII - Convênio ICMS 113/13, de 11 de outubro de 2013, que autoriza o Estado do Paraná a conceder isenção de ICMS nas saídas e importação de equipamentos, aparelhos e instrumentos, suas respectivas partes, peças e acessórios, destinadas ao Instituto Tecnológico SIMEPAR;
+
+CLXXIII - Convênio ICMS 126/13, de 11 de outubro de 2013, que autoriza à redução a base de cálculo do ICMS nas operações com bovinos destinados aos estados que especifica.
+
+CLXXIV - Convênio ICMS 17/14, de 21 de março de 2014, que autoriza a concessão de redução de base de cálculo do ICMS à indústria do segmento de fabricação de quadros e painéis elétricos e eletrônicos localizada no Estado do Amapá;
+
+CLXXV - Convênio ICMS 112/14, de 19 de novembro de 2014, que autoriza o Estado de Pernambuco a conceder isenção do ICMS nas saídas internas de lâmpadas, material elétrico e equipamentos, doados ao Poder Executivo Estadual pela Companhia Energética de Pernambuco - CELPE, para instalação de sistemas de iluminação e refrigeração em prédios públicos da Administração Direta, no âmbito do Programa de Eficiência Energética – PEE;
+
+CLXXVI – Convênio ICMS 127/14, de 05 de dezembro de 2014, que autoriza o Estado do Rio Grande do Sul a conceder isenção do ICMS nas operações interestaduais com arroz orgânico destinado à merenda escolar da rede pública de ensino;
+
+CLXXVII – Convênio ICMS 19/16, de 8 de abril de 2016, que autoriza o Estado de Mato Grosso a conceder isenção do ICMS incidente no fornecimento de energia elétrica a hospitais filantrópicos, desde que classificados como entidade beneficente de assistência social, nos termos da Lei (federal) n° 12.101, de 27 de novembro de 2009; e
+
+CLXXVIII – Convênio ICMS 100/17, de 29 de setembro de 2017, que autoriza a concessão de redução de base de cálculo na prestação de serviço de transporte intermunicipal de passageiro.
+
+CLXXIX – Convênio ICMS 52/19, de 05 de abril de 2019, que autoriza o Estado do Rio Grande do Sul a conceder crédito presumido de ICMS correspondente aos valores destinados ao aparelhamento da segurança pública estadual no âmbito do Programa de Incentivo ao Aparelhamento da Segurança Pública do Estado do Rio Grande do Sul – PISEG/RS.
+
+Cláusula terceira Ficam prorrogadas até 31 de dezembro de 2024 as disposições contidas no Convênio ICMS 76/98, de 18 de setembro de 1998, que autoriza a conceder isenção do ICMS às operações internas e interestaduais de pirarucu e tambaqui criados em cativeiro.
+
+Cláusula quarta Este convênio entra em vigor na data da publicação da sua ratificação nacional.
+<<<DOC confaz/convenio/convenio-133-2020.md>>>
+---
+documento: "CONVÊNIO ICMS 133/20"
+tipo: convenio
+numero: 133
+ano: 2020
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV133_20
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 133/20
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 133/20, DE 29 DE OUTUBRO DE 2020
+
+Publicado no DOU de 03.11.20, pelo Despacho 81/20.
+
+Ratificação Nacional no DOU de 19.11.20, pelo Ato Declaratório 21/20
+
+Prorroga disposições de convênios que concedem benefícios fiscais.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 329ª Reunião Extraordinária, realizada em Brasília, DF, no dia 29 de outubro de 2020, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira Ficam prorrogadas até 31 de março de 2021 as disposições contidas nos convênios a seguir indicados:
+
+I - Convênio ICMS 24/89, de 28 de março de 1989, que isenta do ICMS as operações de entrada de mercadoria importadas para a industrialização de componentes e derivados de sangue, nos casos que especifica;
+
+II - Convênio ICMS 104/89, de 24 de outubro de 1989, que autoriza a concessão de isenção do ICMS na importação de bens destinados a ensino, pesquisa e serviços médico-hospitalares;
+
+III - Convênio ICMS 03/90, de 30 de maio de 1990, que concede isenção do ICMS às saídas de óleo lubrificante usado ou contaminado;
+
+IV - Convênio ICMS 23/90, de 13 de setembro de 1990, que dispõe sobre o aproveitamento dos valores pagos a título de direitos autorais, artísticos e conexos como crédito do ICMS;
+
+V - Convênio ICMS 74/90, de 12 de dezembro de 1990, que autoriza os Estados que menciona a conceder isenção do ICMS nas operações relativas às saídas de rapadura de qualquer tipo;
+
+VI - Convênio ICMS 16/91, de 25 de junho de 1991, que autoriza o Estado de Roraima a conceder isenção do ICMS nas operações que especifica;
+
+VII - Convênio ICMS 38/91, de 7 de agosto de 1991, que dispõe sobre a concessão de isenção do ICMS nas aquisições de equipamentos e acessórios destinados às instituições que atendam aos portadores de deficiência física, auditiva, mental, visual e múltipla;
+
+VIII - Convênio ICMS 39/91, de 7 de agosto de 1991, que autoriza os Estados que menciona a conceder isenção do ICMS nas operações que especifica;
+
+IX - Convênio ICMS 41/91, de 7 de agosto de 1991, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na importação, pela APAE, dos remédios que especifica;
+
+X - Convênio ICMS 52/91, de 26 de setembro de 1991, que concede redução da base de cálculo nas operações com equipamentos industriais e implementos agrícolas;
+
+XI – Convênio ICMS 58/91, de 26 de setembro de 1991, que dispõe sobre isenção do ICMS nas saídas de bulbos de cebola.;
+
+XII - Convênio ICMS 75/91, de 5 de dezembro de 1991, que dispõe sobre a concessão de redução de base de cálculo do ICMS nas saídas de aeronaves, peças, acessórios e outras mercadorias que especifica;
+
+XIII – Convênio ICMS 02/92, de 26 de março de 1992, que autoriza os Estados do Ceará, Maranhão e Rio Grande do Norte a conceder crédito presumido aos estabelecimentos extratores de sal marinho;
+
+XIV – Convênio ICMS 03/92, de 26 de março de 1992, que autoriza os Estados que menciona a conceder isenção do ICMS nas operações de saídas de algaroba e seus derivados;
+
+XV – Convênio ICMS 04/92, de 26 de março de 1992, que autoriza o Estado de Minas Gerais a conceder isenção nas operações com produtos típicos de artesanato;
+
+XVI - Convênio ICMS 20/92, de 3 de abril de 1992, que autoriza os Estados e o Distrito Federal a isentar do ICMS a importação do exterior de reprodutores e matrizes caprinas;
+
+XVII – Convênio ICMS 55/92, de 25 de junho de 1992, que autoriza o Estado da Bahia a isentar do ICMS os produtos típicos comercializados pela Fundação Pró-TAMAR;
+
+XVIII – Convênio ICMS 78/92, de 30 de julho de 1992, que autoriza os Estados e o Distrito Federal a não exigir o imposto nas doações de mercadorias, por contribuintes do imposto, à Secretaria da Educação;
+
+XIX - Convênio ICMS 97/92, de 25 de setembro de 1992, que autoriza o Estado de Minas Gerais a reduzir a base de cálculo do ICMS nas saídas de pó de alumínio;
+
+XX – Convênio ICMS 123/92, de 25 de setembro de 1992, que autoriza os Estados e o Distrito Federal a conceder isenção às operações internas e interestaduais com pós-larva de camarão;
+
+XXI – Convênio ICMS 142/92, de 15 de dezembro de 1992, que autoriza o Estado do Paraná a conceder isenção do ICMS à União dos Escoteiros do Brasil - Região Paraná;
+
+XXII - Convênio ICMS 147/92, de 15 de dezembro de 1992, que autoriza o Estado de Santa Catarina a conceder isenção do ICMS nas saídas internas de mexilhão, marisco, ostra, berbigão e vieira;
+
+XXIII – Convênio ICMS 09/93, de 30 de abril de 1993, que autoriza os Estados que menciona e o Distrito Federal a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares;
+
+XXIV – Convênio ICMS 29/93, de 30 de abril de 1993, que autoriza os Estados que menciona a conceder isenção do ICMS nas prestações internas de serviço de transporte de calcário a programas estaduais de preservação ambiental;
+
+XXV – Convênio ICMS 50/93, de 30 de abril de 1993, que autoriza os Estados que menciona a conceder redução da base de cálculo do ICMS nas saídas internas de tijolos e telhas cerâmicos;
+
+XXVI - Convênio ICMS 61/93, de 10 de setembro de 1993, que autoriza o Estado do Paraná a conceder isenção do ICMS nas operações internas com mercadorias destinadas à construção de casas populares;
+
+XXVII - Convênio ICMS 132/93, de 9 de dezembro de 1993, que autoriza o Estado do Rio de Janeiro a conceder redução da base de cálculo do ICMS nas operações que especifica;
+
+XXVIII – Convênio ICMS 138/93, de 9 de dezembro de 1993, que autoriza a concessão de crédito presumido do ICMS aos fabricantes de sacaria de juta e malva;
+
+XXIX – Convênio ICMS 13/94, de 29 de março de 1994, que autoriza o Estado do Rio de Janeiro a conceder redução da base de cálculo do ICMS nas saídas internas de pedra britada e de mão;
+
+XXX - Convênio ICMS 55/94, de 30 de junho de 1994, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS nas saídas de cadernos escolares personalizados, nas condições que especifica.
+
+XXXI - Convênio ICMS 32/95, de 4 de abril de 1995, que autoriza os Estados e o Distrito Federal a conceder isenção nas operações internas com veículos automotores, máquinas e equipamentos quando adquiridos pelos Corpos de Bombeiros Voluntários para utilização nas suas atividades específicas;
+
+XXXII – Convênio ICMS 42/95, de 28 de junho de 1995, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na entrada de bens para integrar o ativo fixo das Companhias Estaduais de Saneamento;
+
+XXXIII - Convênio ICMS 82/95, de 26 de outubro de 1995, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS às doações de mercadorias efetuadas ao Governo do Estado, para distribuição a pessoas necessitadas;
+
+XXXIV - Convênio ICMS 20/96, de 22 de março de 1996, que autoriza o Estado do Paraná a conceder isenção do ICMS nas saídas promovidas pelo Programa do Voluntariado do Paraná - PROVOPAR, na forma que especifica;
+
+XXXV - Convênio ICMS 29/96, de 31 de maio de 1996, que autoriza o Estado do Rio Grande do Norte a conceder isenção do ICMS nas prestações internas de serviços de transporte de hortifrutigranjeiros;
+
+XXXVI – Convênio ICMS 33/96, de 31 de maio de 1996, que autoriza os Estados que menciona a reduzir a base de cálculo do ICMS nas operações internas com ferros e aços não planos comuns;
+
+XXXVII – Convênio ICMS 84/97, de 26 de setembro de 1997, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na comercialização de produtos destinados a órgãos ou entidades da administração pública;
+
+XXXVIII - Convênio ICMS 100/97, de de novembro de 1997, que reduz a base de cálculo do ICMS nas saídas dos insumos agropecuários que especifica, e dá outras providências;
+
+XXXIX - Convênio ICMS 125/97, de 12 de dezembro de 1997, que autoriza o Estado do Paraná a isentar do ICMS as operações que especifica;
+
+XL - Convênio ICMS 136/97, de 12 de dezembro de 1997, que autoriza os Estados de Minas Gerais, Mato Grosso do Sul e Pernambuco a reduzir a base de cálculo do ICMS nas operações internas com as mercadorias que menciona, destinadas ao emprego na construção de imóveis populares, sob a coordenação da COHAB;
+
+XLI – Convênio ICMS 04/98, de 18 de fevereiro de 1998, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas operações com transporte ferroviário;
+
+XLII – Convênio ICMS 05/98, de 20 de março de 1998, que autoriza os Estados que menciona a conceder isenção na importação de equipamento médico-hospitalar;
+
+XLIII – Convênio ICMS 47/98, de 19 de junho de 1998, que isenta do ICMS as operações que indica, relativas à Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA;
+
+XLIV – Convênio ICMS 57/98, de 19 de junho de 1998, que isenta do ICMS as saídas de mercadorias doadas a órgãos e entidades da administração direta e indireta para distribuição às vítimas da seca;
+
+XLV – Convênio ICMS 91/98, de 18 de setembro de 1998, que autoriza os Estados de Santa Catarina, do Distrito Federal, do Espírito Santo e do Pará a conceder isenção do ICMS nas operações internas com veículos automotores adquiridos por Associação de Pais e Amigos dos Excepcionais - APAE;
+
+XLVI - Convênio ICMS 95/98, de 18 de setembro de 1998, que concede isenção do ICMS nas importações de produtos imunobiológicos, medicamentos e inseticidas, destinados à vacinação e combate à dengue, malária e febre amarela, realizadas pela Fundação Nacional de Saúde;
+
+XLVII - Convênio ICMS 116/98, de 11 de dezembro de 1998, que concede isenção do ICMS às operações com preservativos;
+
+XLVIII - Convênio ICMS 01/99, de 2 de março de 1999, que concede isenção do ICMS às operações com equipamentos e insumos destinados à prestação de serviços de saúde;
+
+XLIX - Convênio ICMS 33/99, de 23 de julho de 1999, que autoriza o Estado de Mato Grosso a conceder isenção do ICMS relativo ao diferencial de alíquotas devido nas operações realizadas pela FERRONORTE S.A. - Ferrovias Norte Brasil;
+
+L – Convênio ICMS 05/00, de 24 de março de 2000, que autoriza as unidades federadas que menciona a conceder isenção do ICMS nas importações de vacinas e insumos destinados à sua fabricação, bem como de bens e acessórios de uso exclusivo em laboratórios realizadas pela Fundação Oswaldo Cruz e Fundação Ezequiel Dias;
+
+LI – Convênio ICMS 33/00, de 26 de abril de 2000, que autoriza os Estados e o Distrito Federal a celebrar transação, a não constituir crédito ou a desconstituí-lo, nos casos e condições que menciona;
+
+LII - Convênio ICMS 63/00, de 15 de setembro de 2000, que autoriza os Estados de Alagoas, Bahia, Ceará, Espírito Santo, Minas Gerais, Maranhão, Paraíba, Pernambuco, Piauí, Rio de Janeiro, e Rio Grande do Norte a isentar do ICMS as operações com leite de cabra;
+
+LIII – Convênio ICMS 74/00, de 15 de setembro de 2000, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas importações das mercadorias que especifica, destinadas ao Instituto Estadual de Hematologia – HEMORIO;
+
+LIV - Convênio ICMS 96/00, de 15 de dezembro de 2000, que autoriza os Estados do Amazonas e Roraima a conceder isenção nas operações internas com pescado regional, exceto Pirarucu;
+
+LV - Convênio ICMS 33/01, de 6 de julho de 2001, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas saídas de bolas de aço forjadas classificadas no código 7326.11.00 da NBM/SH;
+
+LVI - Convênio ICMS 38/01, de 6 de julho de 2001, que concede isenção do ICMS às operações internas e interestaduais com automóveis de passageiros, para utilização como táxi;
+
+LVII – Convênio ICMS 41/01, de 6 de julho de 2001, que autoriza o Estado do Paraná a conceder isenção do ICMS nas operações internas com equipamento de monitoramento automático de energia elétrica;
+
+LVIII – Convênio ICMS 49/01, de 6 de julho de 2001, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas operações com vacina contra a tuberculose;
+
+LIX - Convênio ICMS 59/01, de 6 de julho de 2001, que autoriza as unidades federadas que menciona a conceder crédito presumido nas operações internas com leite fresco;
+
+LX - Convênio ICMS 116/01, de 7 de dezembro de 2001, que autoriza os Estados de Mato Grosso do Sul, Santa Catarina e o Distrito Federal a conceder crédito presumido do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares;
+
+LXI – Convênio ICMS 117/01, de 7 de dezembro de 2001, que autoriza o Estado de São Paulo a conceder isenção do ICMS às saídas de mercadorias doadas ao Fundo Social de Solidariedade do Palácio do Governo do Estado de São Paulo;
+
+LXII – Convênio ICMS 125/01, de 7 de dezembro de 2001, que autoriza os Estados que menciona a conceder isenção do ICMS relativo à importação de obras de arte destinadas à exposição pública;
+
+LXIII - Convênio ICMS 140/01, de 19 de dezembro de 2001, que concede isenção do ICMS nas operações com medicamentos;
+
+LXIV - Convênio ICMS 11/02, de 15 de março de 2002, que autoriza o Estado de Mato Grosso do Sul a conceder isenção de ICMS sobre parcela do serviço de transporte de gás natural;
+
+LXV – Convênio ICMS 31/02, de 15 de março de 2002, que autoriza os Estados da Bahia, Mato Grosso, Pará, Paraná, Piauí, Santa Catarina e o Distrito Federal a conceder isenção do ICMS na importação de bens destinados a ensino e pesquisa;
+
+LXVI – Convênio ICMS 40/02, de 15 de março de 2002, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS relativo ao diferencial de alíquotas e a reduzir a base de cálculo;
+
+LXVII - Convênio ICMS 63/02, de 28 de junho de 2002, que autoriza o Estado de Mato Grosso a conceder isenção do ICMS devido nas importações destinadas a construção, operação, exploração e conservação em seu território, da FASE-II da estrada de ferro FERRONORTE;
+
+LXVIII – Convênio ICMS 74/02, de 28 de junho de 2002, que autoriza o Estado da Bahia a conceder isenção do ICMS nas aquisições de mercadorias destinadas à implantação do Sistema de Trens Metropolitanos de Salvador (Metrô);
+
+LXIX – Convênio ICMS 87/02, de 28 de junho de 2002, que concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal;
+
+LXX – Convênio ICMS 117/02, de 20 de setembro de 2002, que autoriza o Estado de Goiás a conceder isenção do ICMS nas importações de soro conservante de córnea pela Fundação Banco de Olhos de Goiás;
+
+LXXI - Convênio ICMS 133/02, de 21 de outubro de 2002, que reduz a base de cálculo do ICMS nas operações interestaduais realizadas por estabelecimento fabricante ou importador, sujeitos ao regime de cobrança monofásica das contribuições para o PIS/PASEP e da COFINS, a que se refere a Lei Federal nº 10.485, de 03.07.2002;
+
+LXXII – Convênio ICMS 150/02, de 13 de dezembro de 2002, que autoriza o Estado do Tocantins a conceder isenção do ICMS, para alimentação alternativa (multimistura);
+
+LXXIII – Convênio ICMS 02/03, de 17 de janeiro de 2003, que autoriza o Estado da Bahia a reduzir a base de cálculo do ICMS nas operações internas com óleo diesel;
+
+LXXIV – Convênio ICMS 08/03, de 4 de abril de 2003, que autoriza os Estados do Espírito Santo, Maranhão, Mato Grosso do Sul, Minas Gerais, Paraná, Piauí, Rio Grande do Sul, Rio de Janeiro, Santa Catarina, São Paulo, Tocantins e o Distrito Federal a conceder crédito presumido na saída de adesivo hidroxilado produzido com material resultante da moagem ou trituração de garrafa PET;
+
+LXXV – Convênio ICMS 14/03, de 4 de abril de 2003, que autoriza os Estados de Goiás, Mato Grosso, Minas Gerais e Rio de Janeiro a conceder isenção do ICMS na importação de mercadorias que especifica;
+
+LXXVI - Convênio ICMS 18/03, de 4 de abril de 2003, que dispõe sobre isenção de ICMS nas operações relacionadas ao Programa Fome Zero;
+
+LXXVII - Convênio ICMS 22/03, de 4 de abril de 2003, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS nas operações internas promovidas pelo Serviço Voluntário de Assistência Social (SERVAS);
+
+LXXVIII – Convênio ICMS 62/03, de 4 de julho de 2003, que concede benefícios fiscais a operações relacionadas com o Projeto Integrado de Exploração Agropecuária e Agroindustrial do Estado de Roraima;
+
+LXXIX - Convênio ICMS 65/03, de 4 de julho de 2003, que autoriza os Estados que especifica a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares.
+
+LXXX – Convênio ICMS 74/03, de 10 de outubro de 2003, que autoriza as unidades federadas que menciona a conceder crédito presumido do ICMS aos contribuintes enquadrados em programa estadual de incentivo à cultura;
+
+LXXXI – Convênio ICMS 81/03, de 10 de outubro de 2003, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS nas operações com o produto “dispositivo simulador de glândula mamária humana feminina”;
+
+LXXXII – Convênio ICMS 87/03, de 10 de outubro de 2003, que autoriza o Estado do Amapá a conceder isenção do ICMS nas operações internas promovidas pelo Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá - IEPA;
+
+LXXXIII – Convênio ICMS 89/03, de 10 de outubro de 2003, que autoriza o Estado da Paraíba a conceder isenção do ICMS nas operações internas com água dessalinizada;
+
+LXXXIV – Convênio ICMS 90/03, de 10 de outubro de 2003, que autoriza os Estados da Paraíba e Rio Grande do Norte a conceder isenção do ICMS nas saídas internas de fibra de sisal efetuadas por estabelecimento produtor;
+
+LXXXV - Convênio ICMS 133/03, de 12 de dezembro de 2003, que autoriza a concessão de isenção do ICMS nas saídas internas de mercadorias promovidas por cooperativas sociais.
+
+LXXXVI – Convênio ICMS 02/04, de 29 de janeiro de 2004, que autoriza o Estado do Espírito Santo a isentar do ICMS as saídas internas de mercadorias e bens doados a órgãos e entidades da administração pública direta e indireta estaduais e municipais;
+
+LXXXVII – Convênio ICMS 04/04, de 2 de abril de 2004, que autoriza os Estados que menciona a conceder isenção do ICMS à prestação de serviço de transporte intermunicipal de cargas;
+
+LXXXVIII - Convênio ICMS 13/04, de 2 de abril de 2004, que Autoriza o Estado do Paraná a conceder isenção de ICMS nas operações ou prestações internas destinadas à COMPANHIA DE HABITAÇÃO DO PARANÁ – COHAPAR;
+
+LXXXIX – Convênio ICMS 15/04, de 2 de abril de 2004, que autoriza o Estado de Goiás a conceder isenção do ICMS nas saídas internas, em doação, de mercadorias e bens destinados a Organização das Voluntárias do Estado de Goiás - OVG;
+
+XC – Convênio ICMS 44/04, de 18 de junho de 2004, que autoriza o Estado do Amapá a conceder isenção do ICMS nas operações internas com castanha-do-brasil;
+
+XCI - Convênio ICMS 70/04, de 24 de setembro de 2004, que autoriza o Estado do Amazonas a conceder isenção do ICMS relativo ao diferencial de alíquotas nas operações com bens adquiridos para doação a órgãos e entidades vinculados à administração pública direta estadual;
+
+XCII – Convênio ICMS 128/04, de 10 de dezembro de 2004, que autoriza o Estado de São Paulo a conceder isenção do ICMS às saídas internas das mercadorias médico-hospitalares;
+
+XCIII - Convênio ICMS 137/04, de 10 de dezembro de 2004, que autoriza o Estado do Amapá a conceder isenção nas saídas internas com os produtos comercializados pelas Cooperativas de Oleiros;
+
+XCIV - Convênio ICMS 153/04, de 10 de dezembro de 2004, que autoriza as unidades federadas a concederem benefícios fiscais na modalidade redução de base de cálculo do ICMS;
+
+XCV – Convênio ICMS 23/05, de 1º de abril de 2005, que autoriza o Estado de Santa Catarina a reduzir a base de cálculo nas saídas de laboratório didático móvel;
+
+XCVI – Convênio ICMS 28/05, de 1º de abril de 2005, que autoriza os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e Tocantins a conceder isenção do ICMS relativo à importação de bens destinados à modernização de Zonas Portuárias do Estado;
+
+XCVII – Convênio ICMS 32/05, de 1º de abril de 2005, que autoriza o Estado de Goiás a conceder isenção do ICMS nas saídas em doação de arroz, feijão e carne destinados à instituição filantrópica “Vila São José Bento Cottolengo”;
+
+XCVIII - Convênio ICMS 40/05, de 1º de abril de 2005, que autoriza o Estado do Pará a conceder isenção do ICMS nas operações internas com equipamentos de informática destinados a micro e pequenas empresas vinculadas ao Projeto Empreender;
+
+XCIX - Convênio ICMS 41/05, de 1º de abril de 2005, que autoriza as unidades federadas que especifica a conceder redução da base de cálculo do ICMS nas saídas internas de areia, lavada ou não;
+
+C - Convênio ICMS 51/05, de 30 de maio de 2005, que autoriza o Distrito Federal a conceder isenção de ICMS nas operações de importação efetuadas pelas fundações de apoio à Fundação Universidade de Brasília;
+
+CI – Convênio ICMS 65/05, de 1º de julho de 2005, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas operações e prestações relacionadas com transporte ferroviário;
+
+CII – Convênio ICMS 79/05, de 1º de julho de 2005, que concede isenção do ICMS às operações destinadas aos Programas de Fortalecimento e Modernização das Áreas de Gestão, de Planejamento e de Controle Externo dos Estados e do Distrito Federal;
+
+CIII – Convênio ICMS 122/05, de 30 de setembro de 2005, que autoriza o Distrito Federal a conceder isenção de ICMS na importação do exterior, efetuada pela Companhia do Metropolitano do Distrito Federal - METRÔ-DF, ou por sua conta e ordem, de equipamentos ferroviários que especifica, e dá outra providência;
+
+CIV – Convênio ICMS 130/05, de 16 de dezembro de 2005, que autoriza o Estado de São Paulo a conceder isenção nas saídas de aviões;
+
+CV - Convênio ICMS 131/05, de 16 de dezembro de 2005, que autoriza os Estados do Acre, Alagoas, Paraná e São Paulo a conceder isenção nas operações internas com farinha de mandioca não temperada;
+
+CVI – Convênio ICMS 140/05, de 16 de dezembro de 2005, que autoriza o Estado do Piauí a conceder isenção do ICMS nas saídas internas, em doação, de mercadorias e bens destinados a Sociedade de São Vicente de Paulo;
+
+CVII – Convênio ICMS 161/05, de 16 de dezembro de 2005, que autoriza o Estado da Bahia a conceder isenção do ICMS nas saídas internas de cisternas para captação de água de chuva;
+
+CVIII – Convênio ICMS 170/05, de 16 de dezembro de 2005, que autoriza o Estado do Amapá a conceder isenção do ICMS na importação de óleo diesel nas condições que especifica;
+
+CIX – Convênio ICMS 03/06, de 24 de março de 2006, que concede isenção do ICMS incidente nas saídas internas de bens destinados à modernização de Zonas Portuárias das unidades federadas;
+
+CX - Convênio ICMS 09/06, de 24 de março de 2006, que concede isenção do ICMS nas transferências de bens destinados à manutenção do Gasoduto Brasil-Bolívia;
+
+CXI - Convênio ICMS 19/06, de 24 de março de 2006, que autoriza os Estados de Goiás e do Rio de Janeiro a conceder isenção do ICMS correspondente ao diferencial de alíquotas na operação de entrada de equipamentos e componentes para o aproveitamento da energia solar que específica;
+
+CXII – Convênio ICMS 27/06, de 24 de março de 2006, que autoriza os Estados que identifica e o Distrito Federal a conceder crédito outorgado do ICMS correspondente ao valor do ICMS destinado pelos seus respectivos contribuintes a projetos culturais credenciados pelas respectivas Secretarias de Cultura;
+
+CXIII - Convênio ICMS 30/06, de 7 de julho de 2006, que concede isenção do ICMS na operação de circulação de mercadorias caracterizada pela emissão e negociação do Certificado de Depósito Agropecuário - CDA e do Warrant Agropecuário - WA, nos mercados de bolsa e de balcão como ativos financeiros, instituídos pela Lei nº 11.076, de 30 de dezembro de 2004;
+
+CXIV - Convênio ICMS 31/06, de 7 de julho de 2006, que autoriza os Estados do Ceará, Paraná e Rio Grande do Sul e o Distrito Federal a conceder isenção de ICMS nas operações com cimento asfáltico de petróleo, denominado “asfalto ecológico” ou “asfalto de borracha”;
+
+CXV – Convênio ICMS 32/06, de 7 de julho de 2006, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na importação de locomotiva e trilho para estrada de ferro;
+
+CXVI – Convênio ICMS 35/06, de 7 de julho de 2006, que autoriza o Estado de Pernambuco e de Mato Grosso a conceder isenção do ICMS incidente nas prestações internas de serviço de transporte ferroviário de cargas;
+
+CXVII – Convênio ICMS 51/06, de 7 de julho de 2006, que autoriza os Estados do Amapá e do Amazonas a conceder isenção do ICMS nas operações internas com quelônios criados em cativeiro;
+
+CXVIII – Convênio ICMS 74/06, de 3 de agosto de 2006, que autoriza as unidades federadas que menciona a parcelar e a dispensar juros e multas de débitos fiscais nas operações realizadas por contribuinte que participe de evento promocionais destinados a promover incremento nas vendas a consumidor final, por meio da concessão de descontos sobre o preço dos produtos;
+
+CXIX - Convênio ICMS 80/06, de 1º de setembro de 2006, que autoriza o Estado do Amazonas a conceder isenção do ICMS nas operações internas de saída de energia elétrica;
+
+CXX – Convênio ICMS 82/06, de 6 de outubro de 2006, que autoriza o Estado do Paraná a permitir a compensação de créditos fiscais para abatimento do imposto incidente nas operações interestaduais com sucata;
+
+CXXI – Convênio ICMS 85/06, de 6 de outubro de 2006, que autoriza o Estado do Piauí a conceder isenção do ICMS nas saídas internas promovidas pelos projetos sociais que especifica;
+
+CXXII - Convênio ICMS 95/06, de 6 de outubro de 2006, que autoriza o Estado do Pará a conceder isenção do ICMS nas saídas internas de materiais escolares e didáticos;
+
+CXXIII - Convênio ICMS 97/06, de 6 de outubro de 2006, que autoriza os Estados e o Distrito Federal a conceder dispensa do pagamento do diferencial de alíquotas na aquisição interestadual de bens destinados à modernização de Zonas Portuárias;
+
+CXXIV - Convênio ICMS 113/06, de 6 de outubro de 2006, que dispõe sobre a concessão de redução na base de cálculo do ICMS devido nas saídas de biodiesel (B-100).
+
+CXXV - Convênio ICMS 133/06, de 15 de dezembro de 2006, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na importação de máquinas, aparelhos e equipamentos industrial, bem como suas partes e peças, destinados a integrar o ativo imobilizado do Serviço Nacional de Aprendizagem Industrial - SENAI -, do Serviço Nacional de Aprendizagem Comercial - SENAC - e do Serviço Nacional de Aprendizagem Rural - SENAR;
+
+CXXVI – Convênio ICMS 144/06, de 15 de dezembro de 2006, que autoriza o Estado do Rio de Janeiro a isentar do ICMS a saída interna de mercadorias efetuada pelo Instituto Nacional do Câncer - INCA;
+
+CXXVII – Convênio ICMS 09/07, de 30 de março de 2007, que autoriza os Estados a conceder isenção do ICMS nas operações internas e interestaduais e na importação de medicamentos e equipamentos destinados a pesquisas que envolvam seres humanos, inclusive em programas de acesso expandido;
+
+CXXVIII - Convênio ICMS 10/07, de 30 de março de 2007, que autoriza os Estados e o Distrito Federal a conceder isenção de ICMS na importação de máquinas, equipamentos, partes e acessórios destinados a empresa de radiodifusão.
+
+CXXIX – Convênio ICMS 23/07, de 30 de março de 2007, que isenta o ICMS na saída de reagente para diagnóstico da doença de chagas destinada a órgão ou entidade da administração pública direta, suas autarquias e fundações;
+
+CXXX - Convênio ICMS 57/07, de 5 de junho de 2007, que autoriza o Estado de São Paulo a conceder isenção do ICMS nas operações internas com bens e mercadorias destinados à implantação da Linha 4 - Amarela da Companhia do Metropolitano de São Paulo - METRÔ;
+
+CXXXI – Convênio ICMS 65/07, de 6 de julho de 2007, que autoriza os Estados e o Distrito Federal a conceder isenção de ICMS em operações destinadas à fabricação de aeronaves para exportação;
+
+CXXXII – Convênio ICMS 66/07, de 6 de julho de 2007, que autoriza os Estados de Alagoas, Amazonas, Bahia, Pará, Paraná, Pernambuco e Santa Catarina a conceder créditos presumido nas aquisições de equipamento medidor de deslocamento de fluxo volumétrico de combustíveis;
+
+CXXXIII – Convênio ICMS 89/07, de 6 de julho de 2007, que autoriza as unidades federadas que menciona a conceder insenção do ICMS incidente no fornecimento de alimentação e bebidas não alcoólicas realizados por restaurantes populares integrantes de programas específicos instituídos pela União, Estado ou Municípios;
+
+CXXXIV - Convênio ICMS 130/07, de 27 de novembro de 2007, q eu dispõe sobre a isenção e redução de base de cálculo do ICMS em operação com bens ou mercadorias destinadas às atividades de pesquisa, exploração ou produção de petróleo e gás natural;
+
+CXXXV – Convênio ICMS 04/08, de 4 de abril de 2008, que autoriza os Estados do Piauí e do Rio Grande do Norte e São Paulo a conceder isenção do ICMS nas operações e prestações destinadas às entidades que relaciona;
+
+CXXXVI – Convênio ICMS 05/08, de 4 de abril de 2008, que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas saídas internas de munições destinadas às Forças Armadas;
+
+CXXXVII - Convênio ICMS 07/08, de 4 de abril de 2008, que autoriza o Estado de Santa Catarina a conceder isenção do ICMS nas operações internas e nas correspondentes prestações de serviços de transportes destinadas a Cruz Azul no Brasil;
+
+CXXXVIII – Convênio ICMS 08/08, de 4 de abril de 2008, que autoriza o Estado de Santa Catarina a conceder isenção do ICMS nas operações internas e nas correspondentes prestações de serviços de transportes destinadas ao Centro de Recuperação Nova Esperança - CERENE;
+
+CXXXIX - Convênio ICMS 88/08, de 4 de julho de 2008, que autoriza o Estado do Amazonas a conceder isenção do ICMS nas operações internas com sacolas ecológicas confeccionadas em fibras vegetais pela Associação das Donas de Casa do Estado do Amazonas;
+
+CXL - Convênio ICMS 134/08, de 5 de dezembro de 20085, que autoriza o Estado de Goiás a conceder redução da base de cálculo do ICMS na operação interestadual com bovino proveniente dos municípios da Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE -, para ser abatido no Distrito Federal;
+
+CXLI – Convênio ICMS 159/08, de 17 de dezembro de 2008, que autoriza os Estados que menciona a reduzir a base de cálculo do ICMS nas saídas interestaduais de Etilenoglicol (MEG) e Polietileno Tereftalato (Resina PET);
+
+CXLII – Convênio ICMS 08/09, de 3 de abril de 2009, que autoriza o Estado do Piauí a conceder isenção de ICMS nas operações de importação efetuadas pela fundação de apoio à Fundação Universidade Federal do Piauí;
+
+CXLIII – Convênio ICMS 20/09, de 3 de abril de 2009, que autoriza o Estado do Maranhão a conceder isenção do ICMS nas saídas internas de geladeiras e borrachas de geladeiras realizadas no âmbito do Projeto Doação e Troca de Borracha de Geladeira para comunidade de baixa renda;
+
+CXLIV - Convênio ICMS 26/09, de 3 de abril de 2009, que estabelece disciplina em relação às operações com partes e peças substituídas em virtude de garantia, por empresa nacional da indústria aeronáutica, por estabelecimento de rede de comercialização de produtos aeronáuticos, por oficina reparadora ou de conserto e manutenção de aeronaves;
+
+CXLV - Convênio ICMS 34/09, de 3 de abril de 2009, que autoriza o Estado do Pará e do Piauí a conceder isenção de ICMS, relativo ao diferencial de alíquota, na entrada de bens e mercadorias pela Companhia de Saneamento do Pará - COSANPA e pela Empresa Águas e Esgotos do Piauí S.A. - AGESPISA;
+
+CXLVI – Convênio ICMS 76/09, de 3 de julho de 2009, que autoriza as unidades federadas que menciona a conceder crédito presumido do ICMS na aquisição de equipamento Emissor de Cupom Fiscal - ECF, com requisito de Memória de Fita- detalhe - MFD para fins de substituição de equipamento sem requisito de MFD;
+
+CXLVII - Convênio ICMS 16/10, de 26 de março de 2010, que autoriza as unidades federadas que menciona a conceder redução de base de cálculo do ICMS na operação interna com madeira nas hipóteses que especifica;
+
+CXLVIII – Convênio ICMS 26/10, de 26 de março de 2010, que autoriza o Estado de Sergipe a isentar o ICMS devido na operação relativa à aquisição de produtos agropecuários decorrente do Programa de Aquisição de Alimentos - Compra Direta Local da Agricultura Familiar, produzidos por agricultores familiares que se enquadrem no Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF e que se destinem ao atendimento das demandas de suplementação alimentar e nutricionais dos programas sociais do Estado de Sergipe;
+
+CXLIX - Convênio ICMS 45/10, de 26 de março de 2010, que autoriza as unidades federadas que especifica a conceder isenção do ICMS nas saídas de locomotivas.
+
+CL - Convênio ICMS 47/10, de 26 de março de 2010, que autoriza o Estado do Paraná a conceder isenção na saída interna de mercadoria promovida pela Associação dos Amigos do MON - Museu Oscar Niemeyer;
+
+CLI – Convênio ICMS 73/10, de 3 de maio de 2010, que concede isenção do ICMS nas operações com medicamento destinado ao tratamento dos portadores de Gripe A (H1N1);
+
+CLII – Convênio ICMS 89/10, de 9 de julho de 2010, que autoriza os Estados a isentar do ICMS a importação do exterior de pós-larvas de camarão e reprodutores SPF, para fins de melhoramento genético, e as saídas internas e interestaduais com reprodutores de camarão marinho;
+
+CLIII – Convênio ICMS 106/10, de 9 de julho de 2010, que autoriza os Estados e o Distrito Federal a isentar do ICMS a comercialização de sanduíches denominados "Big Mac" efetuada durante o evento “McDia Feliz”;
+
+CLIV - Convênio ICMS 118/10, de 9 de julho de 2010, que autoriza os Estados da Bahia, Mato Grosso, Pernambuco, Rio Grande do Sul e São Paulo a reduzir a base de cálculo do ICMS nas saídas interestaduais de Para-Xileno (PX) e Ácido Tereftálico Purificado (PTA);
+
+CLV – Convênio ICMS 138/10, de 24 de setembro de 2010, que autoriza os Estados de Pernambuco e Roraima a conceder isenção do ICMS nas saídas internas de geladeiras no âmbito do Programa de Eficiência Energética;
+
+CLVI - Convênio ICMS 73/11, de 15 de julho de 2011, que autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações internas e em relação ao diferencial de alíquotas, incidente nas aquisições de mercadorias destinadas às obras de mobilidade urbana, no contexto da preparação da Copa do Mundo de Futebol FIFA 2014;
+
+CLVII - Convênio ICMS 98/11, de 30 de setembro de 2011, que autoriza o Estado do Amapá a conceder benefícios fiscais à indústria localizada no Estado do Amapá, nas condições que especifica;
+
+CLVIII - Convênio ICMS 38/12, de 30 de março de 2012, que concede isenção do ICMS nas saídas de veículos destinados a pessoas portadoras de deficiência física, visual, mental ou autista;
+
+CLIX - Convênio ICMS 46/12, de 16 de abril de 2012, que autoriza o Estado de São Paulo a conceder crédito outorgado e anistia nas aquisições de materiais refratários por empresas siderúrgicas;
+
+CLX – Convênio ICMS 56/12, de 22 de junho de 2012, que dispõe sobre a instituição de crédito presumido em substituição aos estornos de débitos decorrentes das prestações de serviços de telecomunicações;
+
+CLXI - Convênio ICMS 61/12, de 22 de junho de 2012, que autoriza a Secretaria da Receita Federal do Brasil a arrecadar o ICMS devido nas importações realizadas ao amparo do Regime de Tributação Unificada - RTU, e concede redução da base de cálculo do ICMS nas operações de importação alcançadas por esse Regime;
+
+CLXII – Convênio ICMS 91/12, de 28 de setembro de 2012, que autoriza os Estados e o Distrito Federal a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares, e dispõe da exclusão dos entes federados que cita, das disposições do Convênio ICMS 09/93;
+
+CLXIII – Convênio ICMS 95/12, de 28 de setembro de 2012, que dispõe sobre a concessão de redução de base de cálculo do ICMS nas saídas de veículos militares, peças, acessórios e outras mercadorias que especifica;
+
+CLXIV - Convênio ICMS 127/12, de 17 de dezembro de 2012, que autoriza o Estado de Pernambuco e o Distrito Federal a conceder isenção do ICMS nas operações internas de remessa de suínos para abate;
+
+CLXV – Convênio ICMS 129/12, de 17 de dezembro de 2012, que autoriza aos estados que menciona conceder isenção de ICMS nas operações com mercadorias destinadas à Fundação Museu da Imagem e do Som - MIS do Estado do Rio de Janeiro;
+
+CLXVI – Convênio ICMS 147/12, de 17 de dezembro de 2012, que autoriza o Estado do Acre a conceder isenção do ICMS nas saídas internas de geladeiras, decorrentes de doação efetuada pela Companhia de Eletricidade do Acre - ELETROACRE no âmbito do Programa Eletrobrás na Comunidade;
+
+CLXVII - Convênio ICMS 01/13, de 6 de fevereiro de 2013, que autoriza a concessão de isenção do ICMS em operações com obras de arte na Feira Internacional de Arte do Rio de Janeiro (ArtRio) e na Feira Internacional de Arte de São Paulo (SP Arte);
+
+CLXVIII - Convênio ICMS 24/13, de 5 de abril de 2013, que autoriza os estados do Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo a conceder isenção do ICMS na importação de locomotiva por operador de transporte multimodal de cargas;
+
+CLXIX – Convênio ICMS 27/13, de 5 de abril de 2013, que autoriza o Estado de Rondônia a conceder isenção do ICMS correspondente à diferença de alíquotas pela entrada no Estado de geladeiras, a serem doadas pela empresa CENTRAIS ELETRICAS DE RONDONIA S/A - ELETROBRAS Distribuição Rondônia, no âmbito de seus projetos de eficiência energética;
+
+CLXX – Convênio ICMS 30/13, de 11 de abril de 2013, que autoriza o Estado de São Paulo a conceder isenção do ICMS incidente na importação de tesseras para mosaico, realizadas pelo Santuário Nacional de Nossa Senhora da Conceição Aparecida;
+
+CLXXI - Convênio ICMS 46/13, de 12 de junho de 2013, que autoriza os Estados que menciona a conceder isenção do ICMS nas saídas internas de milho em grão destinadas a pequenos produtores agropecuários, bem como a agroindústrias de pequeno porte, para utilização no respectivo processo produtivo, promovidas pela Companhia Nacional de Abastecimento – CONAB, pelo Centro de Abastecimento e Logística do Acre - CEASA/AC, pelas Centrais de Abastecimento do Pará S.A - CEASA/PA e pelo Centro de Abastecimento e Logística de Pernambuco - CEASA/PE;
+
+CLXXII – Convênio ICMS 58/13, de 26 de julho de 2013, que autoriza o Estado do Acre, Bahia, Ceará, Paraíba, Rondônia e o Distrito Federal a conceder crédito outorgado de ICMS às empresas que utilizem mão-de-obra carcerária e de egressos do sistema prisional;
+
+CLXXIII – Convênio ICMS 62/13, de 26 de julho de 2013, que autoriza os Estados do Paraná e Minas Gerais a conceder isenção do ICMS nas saídas de produtos que especifica, resultantes da utilização de pneus inservíveis de caminhões fora-de-estrada;
+
+CLXXIV - Convênio ICMS 82/13, de 26 de julho de 2013, que dispõe sobre a concessão de isenção do ICMS relativo ao diferencial de alíquota, bem como, na importação de bens destinados à modernização de Zona Portuária do Estado do Amapá;
+
+CLXXV - Convênio ICMS 113/13, de 11 de outubro de 2013, que autoriza o Estado do Paraná a conceder isenção de ICMS nas saídas e importação de equipamentos, aparelhos e instrumentos, suas respectivas partes, peças e acessórios, destinadas ao Instituto Tecnológico SIMEPAR;
+
+CLXXVI – Convênio ICMS 126/13, de 11 de outubro de 2013, que autoriza à redução a base de cálculo do ICMS nas operações com bovinos destinados aos estados que especifica;
+
+CLXXVII - Convênio ICMS 161/13, de 6 de dezembro de 2013, que autoriza o Estado do Paraná a conceder isenção do ICMS nas operações internas com bens e mercadorias destinados à implantação do Metrô Curitibano;
+
+CLXXVIII – Convênio ICMS 17/14, de 21 de março de 2014, que autoriza a concessão de redução de base de cálculo do ICMS à indústria do segmento de fabricação de quadros e painéis elétricos e eletrônicos localizada no Estado do Amapá;
+
+CLXXIX - Convênio ICMS 106/14, de 21 de outubro de 2014, que autoriza o Estado de São Paulo a conceder isenção do ICMS em operações com bens e mercadorias a serem comercializados na Feira Escandinava;
+
+CLXXX - Convênio ICMS 112/14, de 19 de novembro de 2014, que autoriza o Estado de Pernambuco a conceder isenção do ICMS nas saídas internas de lâmpadas, material elétrico e equipamentos, doados ao Poder Executivo Estadual pela Companhia Energética de Pernambuco - CELPE, para instalação de sistemas de iluminação e refrigeração em prédios públicos da Administração Direta, no âmbito do Programa de Eficiência Energética – PEE;
+
+CLXXXI – Convênio ICMS 127/14, de 05 de dezembro de 2014, que autoriza o Estado do Rio Grande do Sul a conceder isenção do ICMS nas operações interestaduais com arroz orgânico destinado à merenda escolar da rede pública de ensino;
+
+CLXXXII - Convênio ICMS 57/15, de 30 de junho de 2015, que autoriza a concessão de crédito presumido de ICMS para a execução de programa social;
+
+CLXXXIII - Convênio ICMS 137/15, de 20 de novembro de 2015, que autoriza o Distrito Federal a isentar do ICMS a venda de mercadorias e o fornecimento de alimentação e bebidas pela Associação Grupo dos Cônjuges dos Chefes de Missão – GCCM;
+
+CLXXXIV - Convênio ICMS 19/16, de 8 de abril de 2016, que autoriza o Estado de Mato Grosso a conceder isenção do ICMS incidente no fornecimento de energia elétrica a hospitais filantrópicos, desde que classificados como entidade beneficente de assistência social, nos termos da Lei (federal) n° 12.101, de 27 de novembro de 2009;
+
+CLXXXV - Convênio ICMS 64/16, de 8 de julho de 2016, que autoriza o Estado do Espírito Santo a isentar do ICMS a venda de mercadorias e o fornecimento de alimentação e bebidas pela Associação Capixaba contra o Câncer Infantil – ACACCI;
+
+CLXXXVI - Convênio ICMS 73/16, de 8 de julho de 2016, que autoriza as unidades federadas que menciona a concederem redução de base de cálculo do ICMS nas operações internas com querosene de aviação - QAV e gasolina de aviação – GAV;
+
+CLXXXVII - Convênio ICMS 101/16, de 23 de setembro de 2016, que autoriza a concessão de isenção do ICMS nas operações com areia, brita, tijolo e telha de barro;
+
+CLXXXVIII - Convênio ICMS 04/17, de 8 de fevereiro de 2017, que autoriza o Estado do Ceará a conceder crédito presumido nas aquisições de equipamento emissor de Cupom Fiscal Eletrônico CF-e – SAT;
+
+CLXXXIX - Convênio ICMS 09/17, de 8 de fevereiro de 2017, que autoriza o Estado do Paraná a conceder isenção na saída interna de mercadoria promovida pela Pastoral da Criança;
+
+CXC - Convênio ICMS 100/17, de 29 de setembro de 2017, que autoriza a concessão de redução de base de cálculo na prestação de serviço de transporte intermunicipal de passageiro;
+
+CXCI - Convênio ICMS 24/18, de 3 de abril de 20148, que Autoriza o Estado de Goiás a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares;
+
+CXCII - Convênio ICMS 90/18, de 28 de setembro de 2018, que autoriza as unidades federadas que menciona a conceder redução de base de cálculo do ICMS nas prestações internas de serviços de comunicação a que se refere;
+
+CXCIII - Convênio ICMS 95/18, de 28 de setembro de 2018, que autoriza os Estados do Amazonas e do Paraná a conceder isenção do ICMS incidente no fornecimento de energia elétrica para pessoas físicas enquadradas em programa social;
+
+CXCIV - Convênio ICMS 129/18, de 12 de novembro de 2018, que autoriza o Estado de Minas Gerais a conceder remissão e anistia de crédito tributário de ICMS inscrito em dívida ativa com o objetivo de estimular a realização de projetos desportivos estaduais;
+
+CXCV – Convênio ICMS 52/19, de 05 de abril de 2019, que autoriza o Estado do Rio Grande do Sul a conceder crédito presumido de ICMS correspondente aos valores destinados ao aparelhamento da segurança pública estadual no âmbito do Programa de Incentivo ao Aparelhamento da Segurança Pública do Estado do Rio Grande do Sul – PISEG/RS;
+
+CXCVI - Convênio ICMS 65/19, de 5 de julho de 2019, que autoriza o Estado do Amapá a conceder isenção do ICMS nas condições que especifica;
+
+CXCVII - Convênio ICMS 75/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a isentar do ICMS em operações internas com mercadorias ou bens em doação destinadas a entidades filantrópicas de educação ou de assistência social e as organizações da sociedade civil.
+
+CXCVIII - Convênio ICMS 76/19, de 5 de julho de 2019, que autoriza o Estado do Rio Grande do Norte a conceder isenção do ICMS nas saídas internas de mercadorias efetuadas por contribuintes do imposto cuja receita total de vendas seja doada à entidade sem fins lucrativos, devidamente reconhecida como de utilidade pública estadual.
+
+CXCIX - Convênio ICMS 77/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder crédito outorgado de ICMS equivalente ao valor destinado por contribuinte do imposto a projetos culturais credenciados pelos órgãos da administração pública estadual;
+
+CC – Convênio ICMS 78/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder crédito outorgado de ICMS equivalente ao valor destinado por contribuinte do imposto a projetos esportivos e desportivos credenciados pelos órgãos da administração pública estadual;
+
+CCI - Convênio ICMS 79/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder redução de base de cálculo nas operações internas com óleo diesel e biodiesel destinadas a empresa concessionária ou permissionária de transporte coletivo de passageiros por qualquer modal;
+
+CCII - Convênio ICMS 80/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder isenção do ICMS incidente na operação de importação de máquinas e equipamentos sem similar produzido no País, efetuada por editora de livros ou empresa jornalística para emprego exclusivo no processo de industrialização de livros, jornais ou periódicos;
+
+CCIII - Convênio ICMS 81/19, de 5 de julho de 2019, que autoriza o Estado do Pará a conceder isenção do ICMS incidente nas operações internas com pedra, areia, seixo, barro e brita promovidas pelo extrator;
+
+CCIV - Convênio ICMS 82/19, de 5 de julho de 2019, que autoriza o Estado do Pará a conceder isenção do ICMS incidente na primeira saída interna com ouro, realizadas por garimpeiros;
+
+CCV - Convênio ICMS 83/19, de 5 de julho de 2019, que autoriza o Estado do Pará a conceder isenção do ICMS incidente na operação interna com madeira em tora, cavaco, galhada e sapopema, realizada pelo extrator florestal;
+
+CCVI - Convênio ICMS 85/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder redução de base de cálculo do ICMS incidente nas operações internas e de importação de gás natural destinado ao consumo veicular;
+
+CCVII - Convênio ICMS 86/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder isenção e redução de base de cálculo do ICMS incidente no fornecimento de energia elétrica;
+
+CCVIII - Convênio ICMS 87/19, de 5 de julho de 2019, que autoriza o Estado de Mato Grosso a não constituir crédito tributário e a não efetuar cobrança ou inscrição de débito relativo ao ICMS em dívida ativa, nas condições que especifica, quando seu valor for inferior a 20 (vinte) UPF/MT;
+
+CCIX - Convênio ICMS 89/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder parcelamento do imposto devido por substituição tributária, relativo às mercadorias existentes em estoque por ocasião da sua inclusão no regime;
+
+CCX - Convênio ICMS 90/19, de 5 de julho de 2019, que autoriza o Estado do Amapá a conceder isenção do ICMS devido nas operações internas com energia elétrica destinada a estabelecimento minerador;
+
+CCXI – Convênio ICMS 91/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder crédito outorgado de ICMS equivalente ao valor destinado por contribuinte do imposto a projetos de assistência social credenciados pelos órgãos da administração pública estadual;
+
+CCXII - Convênio ICMS 92/19, de 5 de julho de 2019, que autoriza o Estado de São Paulo a conceder isenção do ICMS nas operações de fornecimento de energia elétrica que indica;
+
+Revogado o inciso CCXIII da cláusula primeira pelo Conv. ICMS 148/20, efeitos a partir de 29.12.20.
+
+CCXIII - REVOGADO
+
+Redação original, efeitos até 28.12.20.
+
+CCXIII - Convênio ICMS 94/19, de 5 de julho de 2019, que autoriza as unidades federadas que menciona a conceder crédito presumido, parcelamento, remissão e anistia, como forma de incentivo fiscal à cultura, por intermédio do Sistema de Financiamento à Cultura – SIFC – e de mecanismos como o Tesouro Estadual, o Fundo Estadual de Cultura – FEC – e o Incentivo Fiscal à Cultura – IFC –, entre outros;
+
+CCXIV - Convênio ICMS 103/19, de 5 de julho de 2019, que autoriza o Estado do Rio Grande do Norte a conceder redução de base de cálculo nas prestações interestaduais de serviço de transporte de sal marinho;
+
+CCXV - Convênio ICMS 127/19, de 5 de julho de 2019, que altera o Convênio ICMS 95/07, que autoriza o Estado de Mato Grosso a conceder isenção do ICMS nas saídas internas de geladeiras e lâmpadas decorrentes de doações efetuadas pelas Centrais Elétricas Matogrossenses S/A – CEMAT, bem como do retorno das sucatas aos fabricantes, no âmbito do Projeto Eficientização Energética em Comunidades de Baixa Renda;
+
+CCXVI - Convênio ICMS 128/19, de 5 de julho de 2019, que autoriza o Estado da Bahia a conceder isenção do ICMS incidente na operação de importação de placas testes e soluções diluentes destinados à montagem de Kits diagnósticos para detecção imuno-rápida de Zika, Dengue, Chikungunya, Febre Amarela, Vírus da Imunodeficiência Humana - HIV, Hepatite B, Hepatite C, Sífilis e Leishmaniose;
+
+CCXVII - Convênio ICMS 149/19, de 10 de outubro de 2019, que autoriza a dispensa de juros e multa moratória do ICMS no pagamento de débitos do sujeito passivo com a utilização de seus créditos financeiros decorrentes do fornecimento de mercadorias, realização de obras, e prestação de serviços ao Poder Executivo da unidade federada;
+
+CCXVIII - Convênio ICMS 153/19, de 10 de outubro de 2019, que autoriza as unidades federadas que menciona a conceder desconto sobre o saldo devedor do ICMS como medida de incentivo ao contribuinte pontual e adimplente com as obrigações tributárias;
+
+CCXIX - Convênio ICMS 178/19, de 10 de outubro de 2019, que autoriza as unidades federadas que menciona a conceder crédito presumido do ICMS a contribuinte excluído do Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - SIMPLES NACIONAL, nos termos previstos neste convênio.
+
+CCXX - Convênio ICMS 181/19, de 10 de outubro de 2019, que autoriza a concessão de isenção nas saídas internas de queijo, requeijão e doce de leite, realizadas por produtor rural, resultantes de fabricação própria artesanal, na forma que especifica;
+
+CCXXI - Convênio ICMS 215/19, de 13 de dezembro de 2019, que autoriza o Estado do Amazonas a reduzir a base de cálculo do ICMS nas operações interestaduais com gado bovino destinado ao Estado de Roraima;
+
+CCXXII - Convênio ICMS 218/19, de 13 de dezembro de 2019, que autoriza as unidades federadas que menciona a conceder redução da base de cálculo do ICMS incidente nas prestações de serviço de transporte intermunicipal de pessoas;
+
+CCXXIII - Convênio ICMS 225/19, de 13 de dezembro de 2019, que autoriza as unidades federadas que menciona a conceder crédito outorgado do ICMS correspondente aos valores recolhidos pelos contribuintes para fundos com destinação de recursos para segurança pública, administração fazendária, infraestrutura, educação, assistência social e saúde;
+
+CCXXIV - Convênio ICMS 229/19, de 13 de dezembro de 2019, que altera o Convênio ICMS 95/07, que autoriza o Estado de Mato Grosso a conceder isenção do ICMS nas saídas internas de geladeira e lâmpadas decorrentes de doações efetuadas pela concessionária de energia elétrica, bem como retorno das sucatas aos fabricantes, no âmbito do Projeto Eficientização Energética em Comunidades de Baixa Renda;
+
+CCXXV - Convênio ICMS 233/19, de 13 de dezembro de 2019, que autoriza as unidades federadas que menciona a conceder redução de base de cálculo do ICMS relativa à diferença entre a alíquota interna e a interestadual nas aquisições interestaduais destinadas ao ativo imobilizado do estabelecimento que explore as atividades econômicas que especifica;
+
+CCXXVI - Convênio ICMS 16/20, de 3 de abril de 2020, que autoriza o Estado de São Paulo a conceder redução na base de cálculo do ICMS nas saídas internas com mercadorias de cobre;
+
+CCXXVII - Convênio ICMS 64/20, de 30 de julho de 2020, que autoriza os Estados e o Distrito Federal a não exigir o ICMS devido pelo descumprimento de compromissos assumidos como requisito à concessão de benefícios fiscais previstos no Convênio ICMS 73/16 e no Convênio ICMS 188/17, bem como reinstituídos nos termos da Lei Complementar 160/17 e do Convênio ICMS 190/17, quando derivar exclusivamente dos efeitos econômicos negativos relacionados à pandemia da doença infecciosa viral respiratória causada pelo novo Coronavírus (COVID-19);
+
+CCXXVIII - Convênio ICMS 66/20, de 30 de julho de 2020, que autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações e prestações internas e de importação com mercadorias utilizadas para ao uso no âmbito das medidas de prevenção ao contágio, de enfretamento e de contingenciamento da pandemia da doença infecciosa viral respiratória causada pelo novo agentes do coronavírus (SARS-CoV-2), realizadas por órgão da administração pública estadual ou municipal, suas Fundações e Autarquias.
+
+Cláusula segunda Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional.
+<<<DOC confaz/convenio/convenio-133-2021.md>>>
+---
+documento: "CONVÊNIO ICMS 133/21"
+tipo: convenio
+numero: 133
+ano: 2021
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV133_21
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 133/21
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 133, DE 03 DE SETEMBRO DE 2021
+
+Publicado no DOU de 08.09.2021, pelo despacho 61/21.
+
+Ratificação Nacional no DOU de 24.09.21, pelo Ato Declaratório 23/21.
+
+Alterado pelo Conv. ICMS 166/21.
+
+Altera o Convênio ICMS nº 87/02, que concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 336ª Reunião Extraordinária, realizada em Brasília, DF, no dia 03 de setembro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+> Revogada a cláusula primeira pelo Conv. ICMS 166/21, efeitos a partir de 26.10.21.
+
+Cláusula primeira. Revogada.
+
+> Redação original, efeitos até 25.10.21.
+
+~~Cláusula primeira A cláusula primeira-B do Convênio ICMS nº87, de 28 de junho de 2002, passa a vigorar com a seguinte redação:~~
+
+~~“Cláusula primeira-B Os benefícios previstos neste convênio não se aplicam nas operações originadas no Estado de Goiás em relação aos itens 225 a 241 do Anexo Único.”.~~
+
+Cláusula segunda Os itens a seguir indicados ficam acrescidos ao Anexo Único do Convênio ICMS nº 87/02:
+
+“
+
+| ITEM | FÁRMACOS | NCM | MEDICAMENTOS | NCM |
+| FÁRMACOS | MEDICAMENTOS |
+| 238 | Risanquizumabe | 3002.13.00 | Risanquizumabe – 75 mg/0,83 mL – solução injetável | 3002.15.90 |
+| 239 | Ranibizumabe | 3002.13.00 | Ranibizumabe - 10mg/ml - solução injetável | 3002.15.90 |
+| 240 | Delamanida | 2934.99.39 | Delamanida – 50 mg – comprimido revestido | 3003.90.89 3004.90.79 |
+| 241 | Bedaquilina | 2933.49.90 | Bedaquilina – 100 mg – comprimido | 3003.90.79 3004.90.69 |
+
+”.
+
+Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2022.
+<<<DOC confaz/convenio/convenio-133-2022.md>>>
+---
+documento: "CONVÊNIO ICMS 133/22"
+tipo: convenio
+numero: 133
+ano: 2022
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV133_22
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 133/22
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 133, DE 23 DE SETEMBRO DE 2022
+
+Publicado no DOU de 27.09.22., pelo despacho 60/22.
+
+Ratificação Nacional no DOU de 17.10.22, pelo Ato Declaratório 36/22.
+
+Dispõe sobre a adesão do Estado do Amapá e altera o Convênio ICMS nº 213/21, que autoriza as unidades federadas que menciona a conceder redução de base de cálculo do ICMS nas operações internas e interestaduais com caranguejos vivos.
+
+O Conselho Nacional de Política Fazendária – CONFAZ, na sua 186ª Reunião Ordinária, realizada em Maceió, AL, no dia 23 de setembro 2022, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira O Estado do Amapá fica incluído nas disposições do Convênio ICMS nº 213, de 9 de dezembro de 2021.
+
+Cláusula segunda Os dispositivos a seguir indicados do Convênio ICMS nº 213/21 passam a vigorar com as seguintes redações:
+
+I – a cláusula primeira:
+
+“Cláusula primeira Os Estados do Amapá, Maranhão e Pará ficam autorizados a conceder redução de base de cálculo do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - incidente nas operações internas e interestaduais com caranguejos vivos, produzidos em seus territórios, de modo que a carga tributária seja equivalente à aplicação do percentual de, no mínimo, 1,0% (um por cento) sobre o valor da respectiva operação.”;
+
+II – a cláusula segunda:
+
+“Cláusula segunda Os Estados do Amapá, Maranhão e Pará ficam autorizados a não exigir o estorno do crédito tributário de que trata o art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, na hipótese de concessão do benefício previsto neste convênio.”.
+
+Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
+<<<DOC confaz/convenio/convenio-133-2023.md>>>
+---
+documento: "CONVÊNIO ICMS 133/23"
+tipo: convenio
+numero: 133
+ano: 2023
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV133_23
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 133/23
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 133, DE 29 DE SETEMBRO DE 2023
+
+Publicado no DOU de 03.10.2023., pelo despacho 54/23.
+
+Ratificação Nacional no DOU de 06.10.23, pelo Ato Declaratório 38/23.
+
+Prorroga as disposições do Convênio ICMS nº 85/11, que autoriza os Estados que menciona a conceder crédito outorgado de ICMS destinado a aplicação em investimentos em infraestrutura.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 190ª Reunião Ordinária, realizada no Rio de Janeiro, RJ, no dia 29 de setembro de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira As disposições contidas no Convênio ICMS nº 85, de 30 de setembro de 2011, ficam prorrogadas até 31 de dezembro de 2026.
+
+Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
+<<<DOC confaz/convenio/convenio-134-2002.md>>>
+---
+documento: "CONVÊNIO ICMS 134/02"
+tipo: convenio
+numero: 134
+ano: 2002
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV134_02
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 134/02
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+CONVÊNIO ICMS 134/02
+
+Publicado no DOU de 05.11.02
+
+Altera o Convênio ICMS 51/00, de 15.09.00, que disciplina as operações com veículos automotores novos efetuados por meio de faturamento direto para o consumidor.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 67ª reunião extraordinária, realizada em Brasília - DF, no dia 04 de novembro de 2002, considerando a edição do Decreto Federal n° 4.441, de 25 de outubro de 2002, que introduziu alterações nas alíquotas do IPI incidente sobre os veículos automotores, e tendo em vista o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira
+
+Fica acrescida a alínea "k" aos incisos I e II do parágrafo único da cláusula segunda do Convênio ICMS 51/00 , de 15 de setembro de 2000, com as seguintes redações:
+
+I - ao inciso I:
+
+"k) com alíquota do IPI de 13%, 39,49%;";
+
+II - ao inciso II:
+
+"k) com alíquota do IPI de 13%, 71,04%;".
+
+Cláusula segunda
+
+Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
+
+Brasília, DF, 04 de novembro de 2002.
+<<<DOC confaz/convenio/convenio-134-2006.md>>>
+---
+documento: "CONVÊNIO ICMS 134/06"
+tipo: convenio
+numero: 134
+ano: 2006
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV134_06
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 134/06
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+CONVÊNIO ICMS 134/06
+
+Publicado no DOU de 20.12.06, pelo Despacho
+
+18/06 .
+
+Altera o Convênio ICMS 83/00, que dispõe sobre o regime de substituição tributária nas operações interestaduais com energia elétrica não destinada à comercialização ou à industrialização.
+
+O Conselho Nacional de Política Fazendária - CONFAZ
+
+, na sua 124ª reunião ordinária, realizada em Macapá, AP, no dia 15 de dezembro de 2006, tendo em vista o disposto no art. 9º, § 1º, inciso II e § 2º da Lei Complementar nº 87, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira
+
+Fica alterada a cláusula quarta do Convênio ICMS 83/00 , de 15 de dezembro de 2000, que passa a vigorar com a seguinte redação:
+
+"Cláusula quarta Ficando atribuída a condição de substituto tributário, de que trata a cláusula primeira, o contribuinte deverá inscrever-se no Cadastro de Contribuintes da Unidade Federada de destino da energia elétrica, observadas as exigências do Convênio ICMS 81/93, de 10 de setembro de 1993.
+
+Parágrafo único. Para efeito das demais obrigações aplicar-se-ão as disposições do Convênio ICMS 81/93.".
+
+Cláusula segunda
+
+Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Macapá-AP, 15 de dezembro de 2006.
+<<<DOC confaz/convenio/convenio-134-2010.md>>>
+---
+documento: "CONVÊNIO ICMS 134/10"
+tipo: convenio
+numero: 134
+ano: 2010
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV134_10
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 134/10
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 134, DE 24 DE SETEMBRO DE 2010
+
+Publicado no DOU de 28.09.10, pelo Despacho 464/10 .
+
+Ratificação Nacional no DOU de 15.10.10, pelo Ato Declaratório 11/10 .
+
+Altera o Convênio ICMS 76/94, que dispõe sobre a substituição tributária nas operações com produtos farmacêuticos.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 139ª reunião ordinária, realizada em Belo Horizonte, MG, no dia 24 de setembro de 2010, tendo em vista o disposto no art. 9º da Lei Complementar n° 87, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira Passam a vigorar com as seguintes redações os caput dos itens 1 e 2 do § 1º da cláusula segunda do Convênio ICMS 76/94 , de 30 de junho de 1994:
+
+“1. Produtos classificados nas posições 3002 (soros e vacinas), exceto nos itens 3002.30 e 3002.90, 3003 (medicamentos), exceto no código 3003.90.56, e 3004 (medicamentos), exceto no código 3004.90.46, nos itens 3306.10 (dentifrícios), 3306.20 (fios dentais), 3306.90 (enxaguatórios bucais) e nos códigos 3005.10.10 (ataduras, esparadrapos, gazes, sinapismos, pensos, etc.), 3006.30 (preparações opacificantes (contrastantes) para exames radiográficos e reagentes de diagnóstico concebidos para serem administrados ao paciente), 3006.60.00 (preparações químicas contraceptivas à base de hormônios) e 9603.21.00 (escovas dentifrícias), todos da NBM/SH (LISTA NEGATIVA):
+
+2. Produtos classificados nas posições 3002 (soros e vacinas), exceto nos itens 3002.30 e 3002.90, 3003 (medicamentos), exceto no código 3003.90.56, e 3004 (medicamentos), exceto no código 3004.90.46, e nos códigos 3005.10.10 (ataduras, esparadrapos, gazes, sinapismos, pensos, etc.), 3006.30 (preparações opacificantes (contrastantes) para exames radiográficos e reagentes de diagnóstico concebidos para serem administrados ao paciente) e 3006.60.00 (preparações químicas contraceptivas à base de hormônios), todos da NBM/SH, quando beneficiados com a outorga do crédito para o PIS/PASEP e COFINS previsto no art. 3° da Lei Federal 10.147/00 (LISTA POSITIVA):”.
+
+Cláusula segunda Fica acrescentado o inciso XVIII ao Anexo Único do Convênio ICMS 76/94 , de 30 de junho de 1994:
+
+“
+
+| XVIII | Preparações opacificantes (contrastantes) para exames radiográficos e reagentes de diagnóstico concebidos para serem administrados ao paciente | 3006.30 |
+
+.”.
+
+Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da ratificação.
+<<<DOC confaz/convenio/convenio-134-2012.md>>>
+---
+documento: "CONVÊNIO ICMS 134/12"
+tipo: convenio
+numero: 134
+ano: 2012
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV134_12
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 134/12
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 134, DE 17 DE DEZEMBRO DE 2012
+
+Publicado no DOU de 20.12.12, pelo Despacho 276/12.
+
+Ratificação no DOU de 08.01.13, pelo Ato Declaratório 01/13.
+
+Altera o Convênio ICMS 103/11, que concede isenção do ICMS nas operações com fármacos e medicamentos derivados do plasma humano, efetuados pela Empresa Brasileira de Hemoderivados e Biotecnologia - HEMOBRÁS
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 148ª reunião ordinária, realizada em São Luis, MA, no dia 17 de dezembro de 2012, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira Ficam acrescidos aos itens VII, VIII e IX à cláusula primeira Convênio ICMS 103/11, de 30 de setembro de 2011, com a seguinte redação:
+
+| Item | Fármacos | NCM Fármacos | Medicamentos | NCM Medicamentos |
+| VII | Concentrado de Fator VIII | 3504.00.90 | Concentrado de Fator VIII da Coagulação Recombinante Frasco de 250 UI | 3002.10.39 |
+| VIII | Concentrado de Fator VIII | 3504.00.90 | Concentrado de Fator VIII da Coagulação Recombinante Frasco de 500 UI | 3002.10.39 |
+| IX | Concentrado de Fator VIII | 3504.00.90 | Concentrado de Fator VIII da Coagulação Recombinante Frasco de 1.000 UI | 3002.10.39 |
+
+Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+<<<DOC confaz/convenio/convenio-134-2014.md>>>
+---
+documento: "CONVÊNIO ICMS 134/14"
+tipo: convenio
+numero: 134
+ano: 2014
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV134_14
+extraido_em: "2026-10-30"
+---
+
+# CONVÊNIO ICMS 134/14
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+CONVÊNIO ICMS 134, DE 5 DE DEZEMBRO DE 2014
+
+## CONVÊNIO ICMS 134, DE 5 DE DEZEMBRO DE 2014
+
+Publicado no DOU de 10.12.14, pelo Despacho 222/14.
+
+Altera o Convênio ICMS 74/94, que dispõe sobre a substituição tributária nas operações tintas, vernizes e outras mercadorias da indústria química.
+
+O Conselho Nacional de Política Fazendária - CONFAZ e o Secretário da Receita Federal do Brasil, na sua 155ª reunião ordinária, realizada em São Paulo, SP, no dia 5 de dezembro de 2014, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), no art. 9º da Lei Complementar n. 87/96, de 13 de setembro de 1996 e o disposto no Convênio ICMS 81/93, de 10 de setembro de 1993, e 70/97, de 25 de julho de 1997, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira O item V do Anexo Único do Convênio ICMS 74/94, de 30 de junho de 1994, passa a vigorar com a seguinte redação:
+
+“
+
+| V | Piche, Pez, Betume e Asfalto | 2706.00.00 e 2714 |
+
+“ .
+
+Cláusula segunda Fica revogado o § 2º da cláusula primeira do Convênio ICMS 74/94, de 30 de junho de 1994.
+
+Cláusula terceira Este convênio entra em vigor na data de sua publicação no Diário Oficial da União produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao de sua publicação.
 <<<DOC confaz/convenio/convenio-134-2016.md>>>
 ---
 documento: "CONVÊNIO ICMS 134/16"
@@ -6,7 +1494,7 @@ numero: 134
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV134_16
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 134/16
@@ -298,7 +1786,7 @@ numero: 134
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV134_17
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 134/17
@@ -328,7 +1816,7 @@ numero: 135
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV135_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/01
@@ -378,7 +1866,7 @@ numero: 135
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV135_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/02
@@ -434,7 +1922,7 @@ numero: 135
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV135_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/05
@@ -504,7 +1992,7 @@ numero: 135
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV135_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/06
@@ -649,7 +2137,7 @@ numero: 135
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV135_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/07
@@ -681,7 +2169,7 @@ numero: 135
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV135_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/10
@@ -713,7 +2201,7 @@ numero: 135
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV135_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/12
@@ -835,7 +2323,7 @@ numero: 135
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV135_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/13
@@ -881,7 +2369,7 @@ numero: 135
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV135_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/14
@@ -911,7 +2399,7 @@ numero: 135
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV135_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/20
@@ -951,7 +2439,7 @@ numero: 135
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV135_25
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 135/25
@@ -1013,7 +2501,7 @@ numero: 136
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV136_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/93
@@ -1095,7 +2583,7 @@ numero: 136
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV136_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/94
@@ -1181,7 +2669,7 @@ numero: 136
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV136_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/05
@@ -1244,7 +2732,7 @@ numero: 136
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV136_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/06
@@ -1294,7 +2782,7 @@ numero: 136
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV136_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/07
@@ -1375,7 +2863,7 @@ numero: 136
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV136_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/08
@@ -1523,7 +3011,7 @@ numero: 136
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV136_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/10
@@ -1553,7 +3041,7 @@ numero: 136
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV136_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/13
@@ -1593,7 +3081,7 @@ numero: 136
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV136_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/14
@@ -1625,7 +3113,7 @@ numero: 136
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV136_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 136/19
@@ -1669,7 +3157,7 @@ numero: 136
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV136_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 136/21
@@ -1703,7 +3191,7 @@ numero: 137
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV137_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/05
@@ -1750,7 +3238,7 @@ numero: 137
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV137_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/06
@@ -2022,7 +3510,7 @@ numero: 137
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV137_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/08
@@ -2062,7 +3550,7 @@ numero: 137
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV137_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/10
@@ -2092,7 +3580,7 @@ numero: 137
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV137_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/12
@@ -2122,7 +3610,7 @@ numero: 137
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV137_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/13
@@ -2168,7 +3656,7 @@ numero: 137
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV137_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/20
@@ -2212,7 +3700,7 @@ numero: 137
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV137_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/21
@@ -2246,7 +3734,7 @@ numero: 137
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV137_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 137/24
@@ -2276,7 +3764,7 @@ numero: 138
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV138_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 138/01
@@ -3210,7 +4698,7 @@ numero: 138
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV138_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 138/05
@@ -3264,7 +4752,7 @@ numero: 138
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV138_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 138/08
@@ -3574,7 +5062,7 @@ numero: 138
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV138_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 138/11
@@ -3612,7 +5100,7 @@ numero: 138
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV138_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 138/12
@@ -3646,7 +5134,7 @@ numero: 138
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV138_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 138/13
@@ -3683,7 +5171,7 @@ numero: 138
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV138_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 138/14
@@ -3725,7 +5213,7 @@ numero: 138
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV138_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 138/19
@@ -3755,7 +5243,7 @@ numero: 138
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV138_22
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 138/22
@@ -3787,7 +5275,7 @@ numero: 139
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV139_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/03
@@ -3825,7 +5313,7 @@ numero: 139
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV139_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/04
@@ -3857,7 +5345,7 @@ numero: 139
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV139_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/05
@@ -3923,7 +5411,7 @@ numero: 139
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV139_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/11
@@ -3962,7 +5450,7 @@ numero: 139
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV139_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/12
@@ -3992,7 +5480,7 @@ numero: 139
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV139_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/13
@@ -4024,7 +5512,7 @@ numero: 139
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV139_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/14
@@ -4054,7 +5542,7 @@ numero: 139
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV139_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/15
@@ -4088,7 +5576,7 @@ numero: 139
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV139_18
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/18
@@ -4360,7 +5848,7 @@ numero: 139
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV139_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 139/21
@@ -4430,7 +5918,7 @@ numero: 140
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV140_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 140/01
@@ -4624,7 +6112,7 @@ numero: 140
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV140_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 140/10
@@ -4662,7 +6150,7 @@ numero: 140
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV140_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 140/13
@@ -4710,7 +6198,7 @@ numero: 140
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV140_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 140/14
@@ -4742,7 +6230,7 @@ numero: 140
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV140_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 140/19
@@ -4772,7 +6260,7 @@ numero: 141
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV141_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 141/01
@@ -4824,7 +6312,7 @@ numero: 141
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV141_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 141/02
@@ -4868,7 +6356,7 @@ numero: 141
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV141_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 141/04
@@ -4910,7 +6398,7 @@ numero: 141
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV141_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 141/06
@@ -4961,7 +6449,7 @@ numero: 141
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV141_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 141/07
@@ -4995,7 +6483,7 @@ numero: 141
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV141_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 141/13
@@ -5023,7 +6511,7 @@ numero: 141
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV141_22
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 141/22
@@ -5086,7 +6574,7 @@ numero: 142
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV142_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/02
@@ -5593,7 +7081,7 @@ numero: 142
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV142_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/03
@@ -5629,7 +7117,7 @@ numero: 142
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV142_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/07
@@ -5661,7 +7149,7 @@ numero: 142
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV142_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/11
@@ -5995,7 +7483,7 @@ numero: 142
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV142_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/13
@@ -6025,7 +7513,7 @@ numero: 142
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/18
@@ -8865,7 +10353,7 @@ numero: 142
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV142_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 142/19
@@ -8895,7 +10383,7 @@ numero: 142
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV142_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/20
@@ -8939,7 +10427,7 @@ numero: 142
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV142_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/24
@@ -8971,7 +10459,7 @@ numero: 142
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV142_25
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 142/25
@@ -9014,7 +10502,7 @@ numero: 143
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/cv143_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/92
@@ -9060,7 +10548,7 @@ numero: 143
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV143_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/02
@@ -9144,7 +10632,7 @@ numero: 143
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV143_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/03
@@ -9178,7 +10666,7 @@ numero: 143
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV143_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/05
@@ -9224,7 +10712,7 @@ numero: 143
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV143_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/06
@@ -9326,7 +10814,7 @@ numero: 143
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV143_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/07
@@ -9376,7 +10864,7 @@ numero: 143
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV143_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/10
@@ -9522,7 +11010,7 @@ numero: 143
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV143_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/13
@@ -9580,7 +11068,7 @@ numero: 143
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV143_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/14
@@ -9612,7 +11100,7 @@ numero: 143
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV143_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/21
@@ -9656,7 +11144,7 @@ numero: 143
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV143_22
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/22
@@ -9686,7 +11174,7 @@ numero: 143
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV143_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/24
@@ -9724,7 +11212,7 @@ numero: 143
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV143_25
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 143/25
@@ -9795,7 +11283,7 @@ numero: 144
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV144_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 144/93
@@ -9833,7 +11321,7 @@ numero: 144
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV144_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 144/03
@@ -9877,7 +11365,7 @@ numero: 144
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV144_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 144/07
@@ -9911,7 +11399,7 @@ numero: 144
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV144_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 144/10
@@ -9939,7 +11427,7 @@ numero: 144
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV144_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 144/11
@@ -10033,7 +11521,7 @@ numero: 144
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV144_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 144/13
@@ -10063,7 +11551,7 @@ numero: 144
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV144_18
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 144/18
@@ -10101,7 +11589,7 @@ numero: 144
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV144_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # Convênio ICMS 144/19
@@ -10131,7 +11619,7 @@ numero: 144
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV144_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 144/20
@@ -10169,7 +11657,7 @@ numero: 145
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV145_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 145/07
@@ -10203,7 +11691,7 @@ numero: 145
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV145_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 145/08
@@ -10243,7 +11731,7 @@ numero: 145
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV145_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 145/11
@@ -10281,7 +11769,7 @@ numero: 145
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV145_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 145/13
@@ -10463,7 +11951,7 @@ numero: 146
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV146_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/93
@@ -10519,7 +12007,7 @@ numero: 146
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV146_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/02
@@ -10559,7 +12047,7 @@ numero: 146
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV146_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/06
@@ -10597,7 +12085,7 @@ numero: 146
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV146_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/07
@@ -10641,7 +12129,7 @@ numero: 146
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV146_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/08
@@ -10673,7 +12161,7 @@ numero: 146
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV146_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/13
@@ -10733,7 +12221,7 @@ numero: 146
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV146_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/15
@@ -11886,7 +13374,7 @@ numero: 146
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV146_18
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/18
@@ -11918,7 +13406,7 @@ numero: 146
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV146_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/20
@@ -11961,7 +13449,7 @@ numero: 146
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV146_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 146/23
@@ -12021,7 +13509,7 @@ numero: 147
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV147_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 147/92
@@ -12113,7 +13601,7 @@ numero: 147
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV147_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 147/02
@@ -12215,7 +13703,7 @@ numero: 147
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV147_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 147/05
@@ -12313,7 +13801,7 @@ numero: 147
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV147_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 147/06
@@ -12357,7 +13845,7 @@ numero: 147
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV147_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 147/07
@@ -12439,7 +13927,7 @@ numero: 147
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV147_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 147/15
@@ -12467,7 +13955,7 @@ numero: 147
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV147_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 147/20
@@ -12499,7 +13987,7 @@ numero: 147
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV147_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 147/23
@@ -12550,7 +14038,7 @@ numero: 148
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV148_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/92
@@ -12670,7 +14158,7 @@ numero: 148
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV148_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/02
@@ -12791,7 +14279,7 @@ numero: 148
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV148_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/06
@@ -12840,7 +14328,7 @@ numero: 148
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV148_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/07
@@ -13084,7 +14572,7 @@ numero: 148
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV148_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/10
@@ -13126,7 +14614,7 @@ numero: 148
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV148_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/15
@@ -13158,7 +14646,7 @@ numero: 148
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV148_18
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/18
@@ -13190,7 +14678,7 @@ numero: 148
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV148_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/21
@@ -13240,7 +14728,7 @@ numero: 148
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV148_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 148/23
@@ -13270,7 +14758,7 @@ numero: 149
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV149_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/02
@@ -13310,7 +14798,7 @@ numero: 149
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV149_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/05
@@ -13352,7 +14840,7 @@ numero: 149
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV149_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/06
@@ -13522,7 +15010,7 @@ numero: 149
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV149_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/07
@@ -13554,7 +15042,7 @@ numero: 149
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV149_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/08
@@ -13604,7 +15092,7 @@ numero: 149
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV149_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/13
@@ -13682,7 +15170,7 @@ numero: 149
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV149_15
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/15
@@ -13740,7 +15228,7 @@ numero: 149
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV149_17
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/17
@@ -13802,7 +15290,7 @@ numero: 149
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV149_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/20
@@ -13844,7 +15332,7 @@ numero: 149
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV149_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/21
@@ -13925,7 +15413,7 @@ numero: 149
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV149_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 149/24
@@ -13961,7 +15449,7 @@ numero: 150
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV150_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 150/94
@@ -13999,7 +15487,7 @@ numero: 150
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV150_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 150/05
@@ -14047,7 +15535,7 @@ numero: 150
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV150_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # CONVÊNIO ICMS 150/07
@@ -14157,2222 +15645,3 @@ Endereço....: AVENIDA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX - XX CEP: 0000000000
 | Local e Data | VARZEA DA PALMA-MG 17/07/2007 15:25:22 | Cargo: MEGA CHEFE |
 | Assinatura do Responsável | | | | Fones: 03532176333 |
 | | | | | “ |
-<<<DOC confaz/convenio/convenio-150-2008.md>>>
----
-documento: "CONVÊNIO ICMS 150/08"
-tipo: convenio
-numero: 150
-ano: 2008
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV150_08
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 150/08
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 150, DE 5 DE DEZEMBRO DE 2008
-
-Publicado no DOU de 09.12.08, pelo Despacho 99/08 .
-
-Altera dispositivos do Convênio ICMS 54/02, que estabelece procedimentos para o controle de operações interestaduais com combustíveis derivados de petróleo e álcool etílico anidro combustível - AEAC.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 132ª reunião ordinária, realizada em Foz do Iguaçu, PR, no dia 5 de dezembro de 2008, tendo em vista o disposto no art. 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira O Anexo VIII do Convênio ICMS 54/02 , de 28 de junho de 2002, passa a vigorar conforme o seguinte modelo:
-
-## ANEXO VIII - DEMONSTRATIVO DA APURAÇÃO DO ICMS A RECOLHER DECORRENTE DAS SAÍDAS INTERESTADUAIS DE AEAC MISTURADO À GASOLINA
-
-| PERÍODO: | | | | | | | | | CATEGORIA: | DIS - DISTRIBUIDOR | | | FLS. | / |
-| DADOS DO EMITENTE DO RELATÓRIO |
-| CNPJ | | | INSCRIÇÃO ESTADUAL | |
-| RAZÃO SOCIAL: | |
-| ENDEREÇO | | | UF: | |
-| QUADRO 1 - APURAÇÃO DA MÉDIA PONDERADA DO VALOR E ALÍQUOTA DAS OPERAÇÕES COM AEAC |
-| HISTÓRICO | QTDE DE AEAC | VL UNIT MÉDIO | BASE DE CÁLCULO | ALÍQ MÉDIA | ICMS (entradas) |
-| ESTOQUE INICIAL | | | | | |
-| (+) Recebimentos (Entradas) de AEAC | | | | | |
-| (=) TOTAL DISPONÍVEL NO PERÍODO | | | | | |
-| preço e Alíquota MédiOS Ponderados | | | | | |
-| (-) Remessas (Saídas) de AEAC | | | | | |
-| (-) aeac misturado à gasolina no período | | | | | |
-| (=) TOTAL DAS SAÍDAS | | | | | |
-| (-) Perdas | | | | | |
-| (+) Ganhos | | | | | |
-| (=) ESTOQUE FINAL | | | | | |
-
-| QUADRO 2 - RESUMO DOS RECEBIMENTOS (Entradas) E DAS REMESSAS (Saídas) DE GASOLINA E CÁLCULO DA PROPORÇÃO DESCRIÇÃO Qtde Gasolina C Qtde Gasolina A AEAC na mistura Estoque Inicial Recebimentos (Entradas) por fornecedor (CNPJ) CNPJ 1 CNPJ 2 CNPJ n TOTAL DO PERÍODO Remessas (Saídas) Ao Próprio Estado Transferências Ao Próprio Estado Congêneres Ao Próprio Estado Outras Saídas AO EXTERIOR A UF 1 A UF2 TOTAL DO PERÍODO Saídas de gasolina “C” adquirida de terceiros Saídas de gasolina “C” recebida em transferência Saídas de gasolina “C” de produção própria SOMA das Saídas de gasolina “C” de produção própria e recebida em transferência Proporção das saídas de gasolina “C” de produção própria e recebida em transferência |
-| QUADRO 2 - RESUMO DOS RECEBIMENTOS (Entradas) E DAS REMESSAS (Saídas) DE GASOLINA E CÁLCULO DA PROPORÇÃO |
-| DESCRIÇÃO | Qtde Gasolina C | Qtde Gasolina A | AEAC na mistura |
-| Estoque Inicial | | | |
-| Recebimentos (Entradas) por fornecedor (CNPJ) |
-| CNPJ 1 | | | |
-| CNPJ 2 | | | |
-| CNPJ n | | | |
-| TOTAL DO PERÍODO | | | |
-| Remessas (Saídas) |
-| Ao Próprio Estado Transferências | | | |
-| Ao Próprio Estado Congêneres | | | |
-| Ao Próprio Estado Outras Saídas | | | |
-| AO EXTERIOR | | | |
-| A UF 1 | | | |
-| A UF2 | | | |
-| TOTAL DO PERÍODO | | | |
-| Saídas de gasolina “C” adquirida de terceiros | | | |
-| Saídas de gasolina “C” recebida em transferência | | | |
-| Saídas de gasolina “C” de produção própria | | | |
-| SOMA das Saídas de gasolina “C” de produção própria e recebida em transferência | | | |
-| Proporção das saídas de gasolina “C” de produção própria e recebida em transferência | | | |
-
-| QUADRO 3 - APURAÇÃO DO IMPOSTO A RECOLHER EM FAVOR DA UF DO EMITENTE DESTE ANEXO |
-| UF Destinatária da gasolina C | Qtd AEAC na Gasolina C | QTD PROPORCIONAL DE AEAC NA GASOLINA C | Preço Médio | Base de Cálculo | Alíq. Média | ICMS A RECOLHER |
-| UF1 | | | | | | |
-| UF2 | | | | | | |
-| TOTAL DO PERÍODO | | | | | | |
-
-| QUADRO 4 - RELAÇÃO DOS RECEBIMENTOS (Entradas) DE AEAC NO PERÍODO |
-| CNPJ | | INSCRIÇÃO ESTADUAL | |
-| RAZÃO SOCIAL | |
-| ENDEREÇO | | UF | |
-| NOTA FISCAL | CFOP | FRETE | PLACAS DO VEICULO | QUANTIDADE | VALOR | VALOR | BASE DE | ALÍQUOTA | ICMS |
-| NÚMERO | DATA | TRANSPORTADOR | DE AEAC | UNITÁRIO | DA OPERAÇÃO | CÁLCULO | |
-| TOTAL DO REMETENTE..................................................................... | | | | | | |
-| CNPJ | | INSCRIÇÃO ESTADUAL | |
-| RAZÃO SOCIAL | |
-| ENDEREÇO | | UF | |
-| NOTA FISCAL | CFOP | FRETE | PLACAS DO VEICULO | QUANTIDADE | VALOR | VALOR | BASE DE | ALÍQUOTA | ICMS |
-| NÚMERO | DATA | TRANSPORTADOR | DE AEAC | UNITÁRIO | DA OPERAÇÃO | CÁLCULO | |
-| TOTAL DO REMETENTE..................................................................... | | | | | | |
-| TOTAL DOS RECEBIMENTOS............................................................ | | | | | | |
-
-| | QUADRO 5 - RELAÇÃO DAS REMESSAS (Saídas) DE AEAC NO PERÍODO |
-| CNPJ | | INSCRIÇÃO ESTADUAL | |
-| RAZÃO SOCIAL | |
-| ENDEREÇO | | UF | |
-| NOTA FISCAL | CFOP | FRETE | PLACAS DO VEICULO | QUANTIDADE | VALOR | VALOR | |
-| NÚMERO | DATA | TRANSPORTADOR | DE AEAC | UNITÁRIO | DA OPERAÇÃO | |
-| TOTAL DO DESTINATÁRIO............................................................... | | | | |
-| CNPJ | | INSCRIÇÃO ESTADUAL | |
-| RAZÃO SOCIAL | |
-| ENDEREÇO | | UF | |
-| NOTA FISCAL | CFOP | FRETE | PLACAS DO VEICULO | QUANTIDADE | VALOR | VALOR | |
-| NÚMERO | DATA | TRANSPORTADOR | DE AEAC | UNITÁRIO | DA OPERAÇÃO | |
-| TOTAL DO DESTINATÁRIO.............................................................. | | | | |
-| TOTAL DAS REMESSAS................................................................... | | | | |
-
-| QUADRO 6 - RESUMO DAS REMESSAS (Saídas) DE AEAC NO PERÍODO |
-
-| REMESSAS (Saídas) DE AEAC | Quantidade |
-| AO PRÓPRIO ESTADO | |
-| - Transferências | |
-| - Saídas para congêneres | |
-| - Outras saídas | |
-| AO EXTERIOR | |
-| A UF1 | |
-| A UF2 | |
-| TOTAL DO PERÍODO | |
-
-| Declaro, na forma e sob as penas da lei, que as informações contidas neste relatório são a expressão da verdade e que as mesmas foram extraídas dos livros e documentos fiscais do contribuinte emitente. | IDENTIFICAÇÃO DO SIGNATÁRIO |
-| NOME | |
-| CPF-MF | |
-| LOCAL E DATA | | CÉDULA DE IDENTIDADE | | UF | |
-| ASSINATURA DO | | CARGO | |
-| RESPONSÁVEL | | TELEFONES | |
-| VISTO DA FISCALIZAÇÃO | |
-
-Cláusula segunda Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos relativamente a fatos geradores a partir de 1º de fevereiro de 2009.
-
-Foz de Iguaçu, PR, 5 de dezembro de 2008.
-<<<DOC confaz/convenio/convenio-150-2010.md>>>
----
-documento: "CONVÊNIO ICMS 150/10"
-tipo: convenio
-numero: 150
-ano: 2010
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV150_10
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 150/10
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 150, DE 24 DE SETEMBRO DE 2010
-
-Publicado no DOU de 28.09.10, pelo Despacho 464/10 .
-
-Ratificação Nacional no DOU de 15.10.10, pelo Ato Declaratório 11/10 .
-
-Altera o Convênio ICMS 10/02, que concede isenção do ICMS a operações com medicamento destinado ao tratamento dos portadores do vírus da AIDS.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 139ª reunião ordinária, realizada em Belo Horizonte, MG, no dia 24 de setembro de 2010, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira Fica acrescentado o item 8 da alínea “b” ao inciso II da cláusula primeira do Convênio ICMS 10/02 , de 15 de março de 2002, com a seguinte redação:
-
-“8 - Fumarato de tenofovir desoproxila, 3003.90.78;”.
-
-Cláusula segunda Fica revogado o item 8 da alínea “b” do inciso I da cláusula primeira do Convênio ICMS 10/02 .
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da ratificação.
-<<<DOC confaz/convenio/convenio-150-2012.md>>>
----
-documento: "CONVÊNIO ICMS 150/12"
-tipo: convenio
-numero: 150
-ano: 2012
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV150_12
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 150/12
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 150, DE 17 DE DEZEMBRO DE 2012
-
-Publicado no DOU de 20.12.12, pelo Despacho 276/12.
-
-Ratificação no DOU de 08.01.13, pelo Ato Declaratório 01/13.
-
-Altera o Convênio ICMS 54/12, que concede isenção do ICMS nas saídas interestaduais de rações para animais e dos insumos utilizados em sua fabricação, cujos destinatários estejam domiciliados em municípios com situação de emergência ou de calamidade pública declarada em decreto governamental, em decorrência da estiagem que atinge o Semi-árido brasileiro.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 148ª reunião ordinária, realizada no dia 17 de dezembro de 2012, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira O Anexo I do Convênio ICMS 54/12, para as operações destinadas ao Estado do Piauí, passa a contemplar os seguintes diplomas legais:
-
-I - Decreto nº 15.008, de 05 de dezembro de 2012;
-
-II - Decreto nº 15.009, de 05 de dezembro de 2012;
-
-III - Decreto nº 15.010, de 05 de dezembro de 2012.
-
-Cláusula segunda Ficam acrescentados os municípios listados a seguir ao Anexo I do Convênio ICMS 54, de 25 de maio de 2012, com a seguinte redação:
-
-## “ANEXO I
-
-| ESTADO Decreto Estadual | MUNICÍPIO |
-| Piauí - Decreto nº 15.008, de 05 de dezembro de 2012. | 1. Francisco Macêdo |
-| 2. Bocaina |
-| 3. Caridade do Piauí |
-| 4. Nova Santa Rita |
-| 5. Paulistana |
-| 6. Ribeira do Piauí |
-| 7. Rio Grande do Piauí |
-| 8. São João da Canabrava |
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional.
-<<<DOC confaz/convenio/convenio-150-2020.md>>>
----
-documento: "CONVÊNIO ICMS 150/20"
-tipo: convenio
-numero: 150
-ano: 2020
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV150_20
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 150/20
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 150/20, DE 9 DE DEZEMBRO DE 2020
-
-Publicado no DOU de 11.12.20, pelo despacho 96/20.
-
-Altera o Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 179ª Reunião Ordinária, realizada em Brasília, DF, no dia 9 de dezembro de 2020, tendo em vista o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º e nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Ficam alterados os dispositivos a seguir indicados do Convênio ICMS 142/18, de14 de dezembro de 2018, que passam a vigorar com as seguintes redações:
-
-I - os itens 3.0, 5.0, 6.0, 7.0, 8.0, 10.0, 11.0, 13.0, 15.0, 21.0 e 22.0 do Anexo IV:
-
-“
-
-| ITEM | CEST | NCM/SH | DESCRIÇÃO |
-| 3.0 | 03.003.00 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro descartável |
-| 5.0 | 03.005.00 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, em copo plástico descartável |
-| 6.0 | 03.006.00 | 2201 | Outras águas minerais, gasosa ou não, ou potável, naturais; exceto as classificadas no CEST 03.003.00, 03.003.01, 03.005.00, 03.005.01 a 03.005.05, 03.024.00 e 03.025.00 |
-| 7.0 | 03.007.00 | 2202.10.00 | Água aromatizada artificialmente, exceto os refrescos e refrigerantes |
-| 8.0 | 03.008.00 | 2202.99.00 | Outras águas minerais, gasosa ou não, ou potável, naturais, inclusive gaseificadas ou aromatizadas artificialmente, exceto os refrescos e refrigerantes |
-| 10.0 | 03.010.00 | 2202.10.00 2202.99.00 | Refrigerante em vidro descartável |
-| 11.0 | 03.011.00 | 2202.10.00 2202.99.00 | Demais refrigerantes, exceto os classificados no CEST 03.010.00, 03.010.01, 03.010.02, 03.010.03 e 03.011.01 |
-| 13.0 | 03.013.00 | 2106.90 2202.99.00 | Bebidas energéticas em lata |
-| 15.0 | 03.015.00 | 2106.90 2202.99.00 | Bebidas hidroeletrolíticas |
-| 21.0 | 03.021.00 | 2203.00.00 | Cerveja em garrafa de vidro retornável |
-| 22.0 | 03.022.00 | 2202.91.00 | Cerveja sem álcool em garrafa de vidro retornável |
-
-”;
-
-II – os itens 2.0, 3.0, 4.0 e 6.0 do Anexo XII
-
-“
-
-| ITEM | CEST | NCM/SH | DESCRIÇÃO |
-| 2.0 | 11.002.00 | 3401.20.90 3808.94.19 | Sabões em pó, flocos, palhetas, grânulos ou outras formas semelhantes, para lavar roupas, inclusive adicionados de propriedades desinfetantes ou sanitizantes. |
-| 3.0 | 11.003.00 | 3401.20.90 3808.94.19 | Sabões líquidos para lavar roupas, inclusive adicionados de propriedades desinfetantes ou sanitizantes. |
-| 4.0 | 11.004.00 | 3402.20.00 3808.94.19 | Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes, inclusive adicionados de propriedades desinfetantes ou sanitizantes. |
-| 6.0 | 11.006.00 | 3402.20.00 3808.94.19 | Detergente líquido para lavar roupa, inclusive adicionados de propriedades desinfetantes ou sanitizantes. |
-
-”;
-
-III – os itens 3, 5, 6, 7, 8, 10, 11, 12, 16 e 18 em “BEBIDAS NÃO ALCOÓLICAS CONSTANTES DOS ANEXOS IV E XVII” do Anexo XXVII:
-
-“
-
-| ITEM | CEST | NCM/SH | DESCRIÇÃO |
-| 3 | 03.003.00 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro descartável |
-| 5 | 03.005.00 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, em copo plástico descartável |
-| 6 | 03.006.00 | 2201 | Outras águas minerais, gasosa ou não, ou potável, naturais; exceto as classificadas no CEST 03.003.00, 03.003.01, 03.005.00, 03.005.01 a 03.005.05, 03.024.00 e 03.025.00 |
-| 7 | 03.007.00 | 2202.10.00 | Água aromatizada artificialmente, exceto os refrescos e refrigerantes |
-| 8 | 03.008.00 | 2202.99.00 | Outras águas minerais, gasosa ou não, ou potável, naturais, inclusive gaseificadas ou aromatizadas artificialmente, exceto os refrescos e refrigerantes |
-| 10 | 03.010.00 | 2202.10.00 2202.99.00 | Refrigerante em vidro descartável |
-| 11 | 03.011.00 | 2202.10.00 2202.99.00 | Demais refrigerantes, exceto os classificados no CEST 03.010.00, 03.010.01, 03.010.02, 03.010.03 e 03.011.01 |
-| 12 | 03.013.00 | 2106.90 2202.99.00 | Bebidas energéticas em lata |
-| 16 | 03.015.00 | 2106.90 2202.99.00 | Bebidas hidroeletrolíticas |
-| 18 | 03.022.00 | 2202.91.00 | Cerveja sem álcool em garrafa de vidro retornável |
-
-”;
-
-IV - os itens 1 e 3 em “DETERGENTES CONSTANTES DO ANEXO XII” do Anexo XXVII:
-
-“
-
-| ITEM | CEST | NCM/SH | DESCRIÇÃO |
-| 1 | 11.004.00 | 3402.20.00 3808.94.19 | Detergentes em pó, flocos, palhetas, grânulos ou outras formas semelhantes, inclusive adicionados de propriedades desinfetantes ou sanitizantes. |
-| 3 | 11.006.00 | 3402.20.00 3808.94.19 | Detergente líquido para lavar roupa, , inclusive adicionados de propriedades desinfetantes ou sanitizantes |
-
-”.
-
-Cláusula segunda Ficam acrescidos os dispositivos a seguir indicados ao Convênio ICMS 142/18, com as seguintes redações:
-
-I - os itens 3.1, 5.1 a 5.5, 10.1, 10.2, 10.3, 13.1, 13.2, 21.1, 21.2, 21.3, 21.4, 22.1, 22.2, 22.3, 22.4 ao Anexo IV:
-
-“
-
-| ITEM | CEST | NCM/SH | DESCRIÇÃO |
-| 3.1 | 03.003.01 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em embalagem de vidro descartável |
-| 5.1 | 03.005.01 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em copo plástico descartável |
-| 5.2 | 03.005.02 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, em jarra descartável |
-| 5.3 | 03.005.03 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em jarra descartável |
-| 5.4 | 03.005.04 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, em demais embalagens descartáveis |
-| 5.5 | 03.005.05 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em demais embalagens descartáveis |
-| 10.1 | 03.010.01 | 2202.10.00 2202.99.00 | Refrigerante em embalagem pet |
-| 10.2 | 03.010.02 | 2202.10.00 2202.99.00 | Refrigerante em lata |
-| 10.3 | 03.010.03 | 2202.10.00 2202.99.00 | Cápsula de refrigerante |
-| 13.1 | 03.013.01 | 2106.90 2202.99.00 | Bebidas energéticas em embalagem PET |
-| 13.2 | 03.013.02 | 2106.90 2202.99.00 | Bebidas energéticas em vidro |
-| 21.1 | 03.021.01 | 2203.00.00 | Cerveja em garrafa de vidro descartável |
-| 21.2 | 03.021.02 | 2203.00.00 | Cerveja em garrafa de alumínio |
-| 21.3 | 03.021.03 | 2203.00.00 | Cerveja em lata |
-| 21.4 | 03.021.04 | 2203.00.00 | Cerveja em barril |
-| 22.1 | 03.022.01 | 2202.91.00 | Cerveja sem álcool em garrafa de vidro descartável |
-| 22.2 | 03.022.02 | 2202.91.00 | Cerveja sem álcool em garrafa de alumínio |
-| 22.3 | 03.022.03 | 2202.91.00 | Cerveja sem álcool em lata |
-| 22.4 | 03.022.04 | 2202.91.00 | Cerveja sem álcool em barril |
-
-.”;
-
-II - os itens 28 a 42 em “BEBIDAS NÃO ALCOÓLICAS CONSTANTES DOS ANEXOS IV E XVII” do Anexo XXVII:
-
-“
-
-| ITEM | CEST | NCM/SH | DESCRIÇÃO |
-| 28 | 03.003.01 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em embalagem de vidro descartável |
-| 29 | 03.005.01 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em copo plástico descartável |
-| 30 | 03.005.02 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, em jarra descartável |
-| 31 | 03.005.03 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em jarra descartável |
-| 32 | 03.005.04 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, em demais embalagens descartáveis |
-| 33 | 03.005.05 | 2201.10.00 | Água mineral, gasosa ou não, ou potável, naturais, adicionadas de sais, em demais embalagens descartáveis |
-| 34 | 03.010.01 | 2202.10.00 2202.99.00 | Refrigerante em embalagem pet |
-| 35 | 03.010.02 | 2202.10.00 2202.99.00 | Refrigerante em lata |
-| 36 | 03.010.03 | 2202.10.00 2202.99.00 | Cápsula de refrigerante |
-| 37 | 03.013.01 | 2106.90 2202.99.00 | Bebidas energéticas em embalagem PET |
-| 38 | 03.013.02 | 2106.90 2202.99.00 | Bebidas energéticas em vidro |
-| 39 | 03.022.01 | 2202.91.00 | Cerveja sem álcool em garrafa de vidro descartável |
-| 40 | 03.022.02 | 2202.91.00 | Cerveja sem álcool em garrafa de alumínio |
-| 41 | 03.022.03 | 2202.91.00 | Cerveja sem álcool em lata |
-| 42 | 03.022.04 | 2202.91.00 | Cerveja sem álcool em barril |
-
-.”.
-
-Cláusula terceira Ficam revogados os dispositivos a seguir indicados do Convênio ICMS 142/18:
-
-I - os itens 1.0, 2.0, 4.0, 14.0 e 16.0 do Anexo IV;
-
-II – os itens 1, 2, 4, 15 e 17 em “BEBIDAS NÃO ALCOÓLICAS CONSTANTES DOS ANEXOS IV E XVII” do Anexo XXVII.
-
-Cláusula quarta Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir
-
-I - do primeiro dia do terceiro mês subsequente ao da sua publicação, em relação aos incisos II e IV da cláusula primeira deste convênio; e
-
-II - do primeiro dia do sexto mês subsequente ao da sua publicação em relação aos demais dispositivos.
-
-Parágrafo único. Para o Estado do Paraná e para o Distrito Federal este convênio entra em vigor em data definida por ato específico publicado pelo poder executivo das referidas unidades federadas.
-<<<DOC confaz/convenio/convenio-150-2021.md>>>
----
-documento: "CONVÊNIO ICMS 150/21"
-tipo: convenio
-numero: 150
-ano: 2021
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV150_21
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 150/21
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 150, DE 1º DE OUTUBRO DE 2021
-
-Publicado no DOU de 06.10.21, pelo despacho 68/21.
-
-Ratificação Nacional no DOU de 22.10.21, pelo Ato Declaratório 26/21.
-
-Dispõe sobre a adesão do Estado de Pernambuco e altera o Convênio ICMS nº 19/18, que autoriza as unidades federadas que menciona a conceder redução na base de cálculo do ICMS nas prestações de serviços de comunicação.
-
-O Conselho Nacional de Política Fazendária – CONFAZ, na sua 182ª Reunião Ordinária, realizada em Brasília, DF, no dia 1º de outubro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira O Estado de Pernambuco fica incluído nas disposições do Convênio ICMS nº 19, de 03 de abril de 2018.
-
-Cláusula segunda O “caput” da cláusula primeira do Convênio ICMS nº 19/18 passa a vigorar com a seguinte redação:
-
-“Cláusula primeira Os Estados de Alagoas, Bahia, Ceará, Espírito Santo, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Rondônia, Sergipe e Tocantins ficam autorizados a conceder redução de base de cálculo do Imposto sobre Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - nas prestações internas de serviços de comunicação, em até 75% (setenta e cinco por cento), desde que o contribuinte, cumulativamente, atenda as seguintes condições:”.
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do primeiro mês subsequente ao da ratificação.
-<<<DOC confaz/convenio/convenio-150-2022.md>>>
----
-documento: "CONVÊNIO ICMS 150/22"
-tipo: convenio
-numero: 150
-ano: 2022
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV150_22
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 150/22
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 150, DE 23 DE SETEMBRO DE 2022
-
-Publicado no DOU de 27.09.22., pelo despacho 60/22.
-
-Ratificação Nacional no DOU de 17.10.22, pelo Ato Declaratório 36/22.
-
-Dispõe sobre a adesão do Estado do Amapá e altera o Convênio ICMS nº 27/06, que autoriza as unidades federadas que menciona a conceder crédito outorgado do ICMS correspondente ao valor do ICMS destinado pelos seus respectivos contribuintes a projetos culturais credenciados pelas respectivas Secretarias de Cultura.
-
-O Conselho Nacional de Política Fazendária – CONFAZ, na sua 186ª Reunião Ordinária, realizada em Maceió, AL, no dia 23 de setembro 2022, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira O Estado do Amapá fica incluído nas disposições do Convênio ICMS nº 27, de 24 de março de 2006.
-
-Cláusula segunda Os dispositivos a seguir indicados do Convênio ICMS nº 27/06 passam a vigorar com as seguintes redações:
-
-I – o “caput” da cláusula primeira:
-
-“Cláusula primeira Os Estados do Acre, Amapá, Alagoas, Bahia, Ceará, Espírito Santo, Goiás, Mato Grosso, Mato Grosso do Sul, Pará, Paraná, Rio Grande do Norte, Rio de Janeiro, Santa Catarina, São Paulo e o Distrito Federal ficam autorizados a conceder crédito outorgado do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - correspondente ao valor do ICMS destinado pelos seus respectivos contribuintes a projetos culturais credenciados pelas respectivas Secretarias de Cultura, na forma a ser regulamentada na legislação estadual ou distrital.”;
-
-II – o § 3º da cláusula primeira:
-
-“§ 3 º Os Estados do Amapá, Espírito Santo e Rio Grande do Norte ficam autorizados a destinar o percentual de até 20% (vinte por cento) dos recursos de que trata o “caput” da cláusula primeira deste convênio para a construção, formação, organização, manutenção, ampliação e equipamento de museus e bibliotecas físicas ou virtuais, bem como de suas coleções e acervos.”.
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
-<<<DOC confaz/convenio/convenio-150-2024.md>>>
----
-documento: "CONVÊNIO ICMS 150/24"
-tipo: convenio
-numero: 150
-ano: 2024
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV150_24
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 150/24
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 150, DE 6 DE DEZEMBRO DE 2024
-
-Publicado no DOU de 11.12.24. pelo despacho 51/24.
-
-Ratificação Nacional no DOU de 24.12.24, pelo Ato Declaratório 35/24.
-
-Altera o Convênio ICMS nº 15, de 31 de março de 2023, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com gasolina e etanol anidro combustível, nos termos da Lei Complementar nº 192, de 11 de março de 2022, e estabelece procedimentos para o controle, apuração, repasse e dedução do imposto.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 195ª Reunião Ordinária, realizada em Foz do Iguaçu, PR, no dia 6 de dezembro de 2024, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira O § 1º da cláusula décima quarta do Convênio ICMS no 15, de 31 de março de 2023, publicado no Diário Oficial da União de 6 de abril de 2023, passa a vigorar com a seguinte redação:
-
-"§ 1º O disposto nesta cláusula aplica-se também ao estabelecimento que tiver recebido combustível derivado de petróleo ou EAC, daquele estabelecimento indicado no "caput" e aos estabelecimentos subsequentes na cadeia de comercialização.".
-
-Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do 1º mês subsequente ao da publicação.
-<<<DOC confaz/convenio/convenio-151-1994.md>>>
----
-documento: "CONVÊNIO ICMS 151/94"
-tipo: convenio
-numero: 151
-ano: 1994
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV151_94
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 151/94
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 151/94
-
-· Publicado DOU de 14.12.94.
-
-· Ratificação Nacional DOU de 02.01.95 pelo Ato COTEPE-ICMS 13/94 .
-
-Prorroga disposições de Convênios que concedem benefícios fiscais.
-
-O Ministro de Estado da Fazenda e os Secretários de Fazenda, Economia ou Finanças dos Estados e do Distrito Federal, na 76ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Boa Vista, RR, no dia 7 de dezembro de 1994, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Ficam prorrogadas, como seguem, as disposições contidas:
-
-I - até 30 de junho de 1995:
-
-a) no Convênio ICM S 36/9 2 , de 3 de abril de 1992.
-
-II - até 31 de dezembro de 1995:
-
-a) no Convênio ICM 1 0 /8 1 , de 23 de outubro de 1981;
-
-b) no Convênio I C MS 57/9 1 , de 26 de setembro de 1991;
-
-c) no Convênio IC M S 142/9 2 , de 15 de dezembro de 1992;
-
-d) no Convênio ICMS 147/9 2 , de 15 de dezembro de 1992;
-
-e) no Convênio ICMS 09/9 3 , de 30 de abril de 1993;
-
-f) no Convênio ICMS 20/9 3 , de 30 de abril de 1993;
-
-g) no Convênio ICMS 37/9 3 , de 30 de abril de 1993;
-
-h) no Convênio ICMS 38/9 3 , de 30 de abril de 1993;
-
-i) no Convênio ICMS 115/9 3 , de 9 de dezembro de 1993;
-
-j) no Convênio ICMS 132/9 3 , de 9 de dezembro de 1993;
-
-l) no Convênio ICM S 13/9 4 , de 29 de março de 1994;
-
-m) no Convênio ICMS 14/9 4 , de 29 de março de 1994;
-
-n) no Convênio ICMS 70/9 4 , de 30 de junho de 1994.
-
-III - até 31 de dezembro de 1996:
-
-a) no Convênio IC M 33/7 7 , de 15 de setembro de 1977;
-
-b) no Convênio IC M S 08/8 9 , de 28 de março de 1989;
-
-c) no Convênio ICMS 94/9 1 , de 5 de dezembro de 1991;
-
-d) no Convênio ICMS 55/9 2 , de 25 de junho de 1992;
-
-e) no Convênio ICMS 160/9 2 , de 15 de dezembro de 1992;
-
-f) no Convênio ICMS 29/9 3 , de 30 de abril de 1993;
-
-g) no Convênio ICMS 34/9 3 , de 30 de abril de 1993;
-
-h) no Convênio ICMS 39/9 3 , de 30 de abril de 1993;
-
-i) no Convênio ICMS 46/9 3 , de 30 de abril de 1993;
-
-j) no Convênio ICMS 50/9 3 , de 30 de abril de 1993;
-
-l) no Convênio ICMS 55/9 3 , de 10 de setembro de 1993;
-
-m) no Convênio ICMS 61/9 3 , de 10 de setembro de 1993;
-
-n) no Convênio ICMS 62/9 3 , de 10 de setembro de 1993;
-
-o) no Convênio ICMS 83/9 3 , de 10 de setembro de 1993;
-
-p) no Convênio ICMS 138/9 3 , de 9 de dezembro de 1993;
-
-q) no Convênio ICMS 50/9 4 , de 30 de junho de 1994.
-
-IV - até 31 de dezembro de 1997:
-
-a) no Convênio ICM 34/7 7 , de 15 de setembro de 1977;
-
-b) no Convênio ICMS 03/9 0 , de 30 de maio de 1990;
-
-c) no Convênio ICMS 58/9 1 , de 26 de setembro de 1991;
-
-d) no Convênio ICMS 04/9 2 , de 26 de março de 1992;
-
-e) no Convênio ICMS 53/9 3 , de 30 de abril de 1993.
-
-V - até 31 de dezembro de 1998:
-
-a) no Convênio ICMS 83/9 1 , de 5 de dezembro de 1991.
-
-VI - por tempo indeterminado:
-
-a) no I Convênio do Rio de Janeir o , de 27 de fevereiro de 1967, cláusula primeira, item 8, com alteração do Convênio de Cuiabá de 7 de junho de 1967, item 5º;
-
-b) no V Convênio do Rio de Janeir o , de 16 de outubro de 1968, cláusula nona;
-
-c) no Convênio AE 05/7 2 , de 22 de novembro de 1972, cláusula primeira, alínea “a”;
-
-d) no Convênio AE 15/7 4 , de 11 de dezembro de 1974;
-
-e) no Convênio ICM 01/7 5 , de 27 de fevereiro de 1975, cláusula primeira, inciso III, alínea “f”;
-
-f) no Convênio ICM 24/7 5 , de 5 de novembro de 1975;
-
-g) no Convênio ICM 26/7 5 , de 5 de novembro de 1975;
-
-h) no Convênio ICM 32/7 5 , de 5 de novembro de 1975;
-
-i) no Convênio ICM 40/7 5 , de 10 de dezembro de 1975;
-
-j) no Convênio ICM 15/8 1 , de 23 de outubro de 1981;
-
-l) no Convênio ICM 12/8 5 , de 12 de março de 1985;
-
-m) no Convênio ICMS 20/8 9 , de 28 de março de 1989;
-
-n) no Convênio ICMS 37/8 9 , de 24 de abril de 1989;
-
-o) no Convênio ICMS 98/8 9 , de 24 de outubro de 1989;
-
-p) no Convênio ICMS 70/9 0 , de 12 de dezembro de 1990;
-
-q) no Convênio ICMS 84/9 0 , de 12 de dezembro de 1990, cláusula primeira;
-
-r) no Convênio ICMS 59/9 1 , de 26 de setembro de 1991;
-
-s) no Convênio ICMS 18/9 2 , de 3 de abril de 1992.
-
-Cláusula segunda Este Convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de janeiro de 1995.
-
-Boa Vista, RR, 7 de dezembro de 1994.
-<<<DOC confaz/convenio/convenio-151-2005.md>>>
----
-documento: "CONVÊNIO ICMS 151/05"
-tipo: convenio
-numero: 151
-ano: 2005
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV151_05
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 151/05
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 151/05
-
-Publicado no DOU de 21.12.05.
-
-Autoriza o Distrito Federal e o Estado de Rondônia a não aplicar disposições do Convênio ICMS 58/95, que dispõe sobre a impressão e emissão simultânea de documentos fiscais.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 120ª reunião ordinária, realizada em Mata de São João, BA, no dia 16 de dezembro de 2005, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira Fica o Distrito Federal autorizado a dispensar quaisquer dos dispositivos de segurança previstos na cláusula segunda do Convênio ICMS 58/95 , de 28 de junho de 1995, nas emissões de documentos fiscais relativos a operações internas de fornecimento de energia elétrica realizadas por concessionárias de serviços públicos.
-
-Cláusula segunda Fica o Estado de Rondônia e o Distrito Federal, autorizados a dispensar quaisquer dos dispositivos de segurança previstos na cláusula segunda do Convênio ICMS 58/95 , nas emissões de documentos fiscais relativos a operações internas com água canalizada realizadas por concessionárias de serviços públicos.
-
-Cláusula terceira Ficam convalidados os atos praticados pelas concessionárias de serviços públicos de fornecimento de energia elétrica do Distrito Federal relativos à emissão de documentos fiscais nas operações internas, sem os dispositivos de segurança previstos na cláusula segunda do Convênio ICMS 58/95 , no período de 14 de dezembro de 2001 até a data da publicação deste convênio.
-
-Cláusula quarta Ficam convalidados os atos praticados pelas concessionárias de serviços públicos de fornecimento de água canalizada do Estado de Rondônia e do Distrito Federal relativos à emissão de documentos fiscais nas operações internas, sem os dispositivos de segurança previstos na cláusula segunda do Convênio ICMS 58/95 , no período de 14 de dezembro de 2001 até a data da publicação deste convênio.
-
-Cláusula quinta Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
-
-Mata de São João, BA, 16 de dezembro de 2005.
-<<<DOC confaz/convenio/convenio-151-2008.md>>>
----
-documento: "CONVÊNIO ICMS 151/08"
-tipo: convenio
-numero: 151
-ano: 2008
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV151_08
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 151/08
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 151, DE 5 DE DEZEMBRO DE 2008
-
-Publicado no DOU de 09.12.08, pelo Despacho 99/08 .
-
-Ratificação Nacional no DOU de 29.12.08, pelo Ato Declaratório 17/08 .
-
-Dispõe sobre a adesão do Estado do Amazonas ao Convênio ICMS 28/05, que autoriza os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e Tocantins a conceder isenção do ICMS relativo à importação de bens destinados à modernização de Zonas Portuárias do Estado.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 132ª reunião ordinária, realizada em Foz do Iguaçu, PR, no dia 5 de dezembro de 2008, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira Fica o Estado do Amazonas incluído nas disposições do Convênio ICMS 28/05 , de 1º de abril de 2005.
-
-Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional.
-
-Foz de Iguaçu, PR, 5 de dezembro de 2008.
-<<<DOC confaz/convenio/convenio-151-2013.md>>>
----
-documento: "CONVÊNIO ICMS 151/13"
-tipo: convenio
-numero: 151
-ano: 2013
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV151_13
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 151/13
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 151, DE 18 DE OUTUBRO DE 2013
-
-Publicado no DOU de 21.10.13, pelo Despacho 218/13 .
-
-Ratificação Nacional no DOU de 13.11.13, pelo Ato Declaratório 21/13 .
-
-Altera o Convênio ICMS 11/09 que autoriza os Estados do Acre, Alagoas, Ceará, Espírito Santo, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Rio Grande do Norte, Rondônia, Roraima e Tocantins e o Distrito Federal a dispensar ou reduzir juros e multas mediante parcelamento de débitos fiscais relacionados com o ICM e o ICMS, na forma que especifica.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 207ª reunião extraordinária, realizada em Brasília, DF, no dia 18 de outubro de 2013, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Fica a cláusula segunda do Convênio ICMS 11/09 , de 3 de abril de 2009, acrescida do seguinte parágrafo:
-
-“§ 17. Fica o Estado do Rio Grande do Norte autorizado a prorrogar:
-
-I - até 30 de setembro de 2013, o prazo previsto no caput da cláusula primeira;
-
-II - até 31 de janeiro de 2014, o prazo previsto no caput desta cláusula;
-
-III - até 30 de setembro de 2013, o prazo previsto no inciso I do § 1º desta cláusula.”
-
-Cláusula segunda Este convênio entra em vigor na data da publicação da sua ratificação nacional.
-<<<DOC confaz/convenio/convenio-151-2015.md>>>
----
-documento: "CONVÊNIO ICMS 151/15"
-tipo: convenio
-numero: 151
-ano: 2015
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV151_15
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 151/15
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 151, DE 11 DE DEZEMBRO DE 2015
-
-Publicado no DOU de 15.12.15, pelo Despacho 236/15.
-
-Ratificação Nacional no DOU de 30.12.15, pelo Ato Declaratório 30/15.
-
-Autoriza a concessão de isenção do ICMS incidente nas operações internas de mercadorias ou bens alcançados pelos benefícios previstos no Convênio ICMS 130/07, e autoriza a dispensa de exigência do ICMS nas operações internas com mercadorias ou bens, realizadas por empresas participantes de consórcio contratado para prestar serviços às concessionárias ou autorizadas nas atividades de pesquisa, exploração ou produção de petróleo e gás natural.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 159ª Reunião Ordinária, realizada em Maceió, AL, no dia 11 de dezembro de 2015, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Fica o Estado de Alagoas autorizado a isentar o ICMS incidente nas operações internas com mercadorias e bens, alcançadas pelos benefícios previstos no Convênio ICMS 130/07, de 27 de novembro de 2007, realizadas entre as empresas integrantes ou que passaram a integrar o consórcio contratado para prestar serviços às concessionárias ou autorizadas a desenvolver as atividades de pesquisa, exploração ou produção de petróleo e gás natural.
-
-§ 1º As operações de que trata o caput compreendem apenas aquelas que tenham como origem e destino as empresas integrantes do mesmo consórcio e cujas mercadorias ou bens sejam objeto de prestação de serviço para o qual o consórcio foi contratado.
-
-§ 2º A isenção do ICMS prevista no caput aplica-se nas operações internas:
-
-I - em que participe empresa que passou a integrar o consórcio mediante autorização da Secretaria da Receita Federal do Brasil;
-
-II - desoneradas dos impostos federais, em razão de isenção, suspensão ou alíquota zero.
-
-§ 3ª Fica a unidade federada autorizada a estabelecer em sua legislação tributária as demais obrigações e condições a ser observadas para fruição do benefício.
-
-Cláusula segunda Fica o Estado de Alagoas autorizado a não exigir o ICMS incidentes nas operações ocorridas até a data de início da vigência deste convênio, desde que tenham sido realizadas em termos compatíveis com o disposto na cláusula primeira deste convênio.
-
-Clausula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da ratificação.
-<<<DOC confaz/convenio/convenio-151-2017.md>>>
----
-documento: "CONVÊNIO ICMS 151/17"
-tipo: convenio
-numero: 151
-ano: 2017
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV151_17
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 151/17
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 151, DE 19 DE OUTUBRO DE 2017
-
-Publicado no DOU de 26.10.17, pelo Despacho 147/17.
-
-Altera o Convênio ICMS 52/17, que dispõe sobre as normas gerais a serem aplicadas aos regimes de substituição tributária e de antecipação do ICMS com encerramento de tributação, relativos às operações subsequentes, instituídos por convênios ou protocolos firmados entres os Estados e o Distrito Federal.
-
-O Conselho Nacional de Política Fazendária – CONFAZ, na sua 290ª Reunião Extraordinária, realizada em Brasília, DF, no dia 19 de outubro de 2017, tendo em vista o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea "a" do inciso XIII do § 1º e nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006, resolve celebrar o seguinte:
-
-C O N V Ê N I O
-
-Cláusula primeira O § 2º da cláusula trigésima quarta do Convênio ICMS 52/17, de 07 de abril de 2017, passa a vigorar com a seguinte redação:
-
-"§ 2º A implementação da redução dos acordos vigentes dar-se-á até 20 de dezembro de 2017.".
-
-Cláusula segunda Ficam revogados os incisos I e II do § 2º da cláusula trigésima quarta do Convênio ICMS 52/17.
-
-Cláusula terceira Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
-<<<DOC confaz/convenio/convenio-151-2021.md>>>
----
-documento: "CONVÊNIO ICMS 151/21"
-tipo: convenio
-numero: 151
-ano: 2021
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV151_21
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 151/21
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 151, DE 1º DE OUTUBRO DE 2021
-
-Publicado no DOU de 06.10.21, pelo despacho 68/21.
-
-Ratificação Nacional no DOU de 22.10.21, pelo Ato Declaratório 26/21.
-
-Adesão do PR, a partir de 20.10.23, pelo Conv. ICMS 160/23.
-
-Alterado pelo Conv. ICMS 160/23, 189/23, 119/24, 151/24, 95/25.
-
-Adesão do RJ, a partir de 29.12.23, pelo Conv. ICMS 189/23.
-
-Adesão de GO, a partir de 19.11.24, pelo Conv. ICMS 119/24.
-
-Adesão de RN, a partir de 25.07.25, pelo Conv. ICMS 95/25.
-
-Prorrogado, até 31.12.26, pelo Conv. ICMS 21/26.
-
-Autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações com máquinas, equipamentos, aparelhos e componentes para a geração de energia elétrica a partir do biogás.
-
-O Conselho Nacional de Política Fazendária – CONFAZ, na sua 182ª Reunião Ordinária, realizada em Brasília, DF, no dia 1º de outubro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-> Nova redação dada ao caput da cláusula primeira pelo Conv. ICMS 95/25, efeitos a partir de 25.07.25.
-
-Cláusula primeira Os Estados de Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraná, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - incidente nas operações internas e em relação ao ICMS devido em razão da diferença entre as alíquotas interna e interestadual com os produtos a seguir indicados e respectivas classificações na Nomenclatura Comum do Mercosul baseada no Sistema Harmonizado - NCM/SH - quando destinados à geração de energia elétrica a partir do biogás.
-
-> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 119/24, efeitos de 19.11.24 24.07.25.
-
-~~Cláusula primeira Os Estados de Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraná, Piauí, Rio de Janeiro, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - incidente nas operações internas e em relação ao ICMS devido em razão da diferença entre as alíquotas interna e interestadual com os produtos a seguir indicados e respectivas classificações na Nomenclatura Comum do Mercosul baseada no Sistema Harmonizado - NCM/SH - quando destinados à geração de energia elétrica a partir do biogás:~~
-
-> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 189/23, efeitos de 29.12.23 a 18.11.24
-
-~~Cláusula primeira Os Estados de Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraná, Piauí, Rio de Janeiro, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - incidente nas operações internas e em relação ao ICMS devido em razão da diferença entre as alíquotas interna e interestadual com os produtos a seguir indicados e respectivas classificações na Nomenclatura Comum do Mercosul baseada no Sistema Harmonizado - NCM/SH - quando destinados à geração de energia elétrica a partir do biogás:~~
-
-> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 160/23, efeitos de 20.10.23 a 28.12.23
-
-~~Cláusula primeira Os Estados de Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraná, Piauí e Santa Catarina ficam autorizados a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – incidente nas operações internas e em relação ao ICMS devido em razão da diferença entre as alíquotas interna e interestadual com os produtos a seguir indicados e respectivas classificações na Nomenclatura Comum do Mercosul baseada no Sistema Harmonizado - NCM/SH - quando destinados à geração de energia elétrica a partir do biogás:~~
-
-> Redação original, efeitos até 19.10.23.
-
-~~Cláusula primeira Os Estados de Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Piauí e Santa Catarina ficam autorizados a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – incidente nas operações internas e em relação ao ICMS devido em razão da diferença entre as alíquotas interna e interestadual com os produtos a seguir indicados e respectivas classificações na Nomenclatura Comum do Mercosul baseada no Sistema Harmonizado - NCM/SH - quando destinados à geração de energia elétrica a partir do biogás:~~
-
-I - sistema para tratamento de efluentes – 84798999;
-
-II - aparelhos para coleta e drenagem de gás, combate a espumas e monitoramento de pressão em sistemas de produção de biogás - 84798999;
-
-III - sistema de armazenamento de gás para planta de biogás - 84798999;
-
-IV- ventilador para bombeamento - 84798999;
-
-V - distribuidor de água para lavagem interna - 84798999;
-
-VI - equipamento de bombeamento – 84798999;
-
-VII - subestação de energia elétrica e painel de controle – 85372090;
-
-VIII - grupo motogerador - motor de pistão ignição por centelha e motogerador em container – 85022019;
-
-IX - conjunto membrana dupla para biogás biodigestor horizontal e conjunto membrana dupla para biogás gasômetro – 73110000;
-
-X - agitador horizontal de fundo (fixo); agitador horizontal de superfície do biorreator; agitador inclinado do biorreator; agitador vertical do biorreator; agitador submersível – 84798210;
-
-XI - desumificador de ar; filtro prensa rotativo tipo rosca desaguadora; planta de upgrade de biometano; sistema de purificação – 84213990;
-
-XII - combinação de máquinas para produção de gás combustível a partir de Biogás – 84213990;
-
-XIII – transformador – 85043400;
-
-XIV- desumidificador de biogás; composto resfriador e eliminador de gotas – 84195090;
-
-XV - unidade controladora de temperatura; fluido anticongelante e módulo comunicação Modbus No Clp – 84198999;
-
-XVI - tanque em chapas de aço vitrificados – 73090090;
-
-XVII - decanter centrífugo rotativo horizontal – 8421199;
-
-XVIII – sistema biodigestor – 84059000;
-
-XIX – soprador de biogás – 84145990;
-
-> Acrescidos os incisos XX, XXI, XXII e XXIII à cláusula primeira pelo Conv. ICMS 151/24, efeitos a partir de 27.12.24.
-
-XX - bombas de ar ou de vácuo, compressores de ar ou de outros gases e ventiladores; coifas aspirantes (exaustores) para extração ou reciclagem, com ventilador incorporado, mesmo filtrantes; cabinas (câmaras) de segurança biológica estanques aos gases, mesmo filtrantes - 84.14;
-
-XXI - contadores de gases - do tipo utilizado em postos (estações) de serviço ou garagens) - 9028.10.11;
-
-XXII - planta de upgrade de biometano, sistema de purificação ou combinação de máquinas para produção de gás combustível a partir de biogás - 8421.39.90;
-
-XXIII - cromatógrafo de fase gasosa - 9027.20.11.
-
-Cláusula segunda A unidade federada fica autorizada a não exigir o estorno do crédito fiscal de que trata o art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, nas operações de que trata este convênio
-
-> Nova redação dada ao caput da cláusula terceira pelo Conv. ICMS 189/23, efeitos a partir de 29.12.23.
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 30 de abril de 2026.
-
-> Redação original, efeitos até 28.12.23.
-
-~~Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2023.~~
-
-.
-<<<DOC confaz/convenio/convenio-151-2025.md>>>
----
-documento: "CONVÊNIO ICMS 151/25"
-tipo: convenio
-numero: 151
-ano: 2025
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV151_25
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 151/25
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 151, DE 3 DE OUTUBRO DE 2025
-
-Publicado no DOU de 07.10.2025, edição extra, pelo despacho 32/25.
-
-Ratificação Nacional no DOU de 24.10.25 pelo Ato Declaratório 26/25.
-
-Alterado pelo Conv. ICMS 01/26, 25/26.
-
-Vide cláusula segunda do Conv. ICMS 01/26, quanto a convalidação das condições e procedimentos de 29.12.25 a 21.01.26.
-
-Vide cláusula segunda do Conv. ICMS 25/26, quanto a convalidação das condições e procedimentos de 30.01.26 a 03.03.26.
-
-Autoriza a redução de juros e multas de débitos fiscais relacionados com o ICM e o ICMS.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 198ª Reunião Ordinária, realizada em Porto Alegre, RS, no dia 3 de outubro de 2025, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira O Estado do Pará fica autorizado a instituir programa destinado a reduzir multas e juros relacionados com o Imposto sobre Operações relativas à Circulação de Mercadorias – ICM – e o Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – cujos fatos geradores tenham ocorrido até 31 de março de 2025, constituídos ou não, inclusive os espontaneamente denunciados pelo contribuinte, inscritos ou não em dívida ativa, ainda que ajuizados, observadas as condições e limites estabelecidos neste convênio.
-
-§ 1º O débito será consolidado, de forma individualizada, na data do pedido de ingresso no programa, com todos os acréscimos legais previstos na legislação vigente na data dos respectivos fatos geradores da obrigação tributária.
-
-§ 2º As disposições deste convênio também se aplicam aos saldos de parcelamento e aos remanescentes de parcelamentos em curso que não tenham sido beneficiados anteriormente por dispensa ou redução de multas ou juros derivados da implementação de convênios anteriores que trataram desta mesma matéria.
-
-Cláusula segunda O débito poderá ser pago, nas seguintes condições:
-
-> Nova redação dada ao inciso I da cláusula segunda pelo Conv ICMS 25/26, efeitos a partir de 03.03.26.
-
-I - em parcela única, com redução de até 95% (noventa e cinco por cento) das multas e juros, se recolhidos, em espécie, integralmente até 27 de fevereiro de 2026;
-
-> Redação anterior dada ao inciso I da cláusula segunda pelo Conv ICMS 1/26, efeitos de 21.01.26 a 02.03.26.
-
-~~I - em parcela única, com redução de até 95% (noventa e cinco por cento) das multas e juros, se recolhidos, em espécie, integralmente até 30 de janeiro de 2026;~~
-
-> Redação original, efeitos até 20.01.26.
-
-~~I - em parcela única, com redução de até 95% (noventa e cinco por cento) das multas e juros, se recolhidos, em espécie, integralmente até 29 de dezembro de 2025;~~
-
-II - em até 12 (doze) parcelas mensais e sucessivas, com redução de até 75% (setenta e cinco por cento) das multas e juros;
-
-III - em até 24 (vinte e quatro) parcelas mensais e sucessivas, com redução de até 65% (sessenta e cinco por cento) das multas e juros;
-
-IV - em até 36 (trinta e seis) parcelas mensais e sucessivas, com redução de até 60% (sessenta por cento) das multas e juros;
-
-V - em até 48 (quarenta e oito) parcelas mensais e sucessivas, com redução de até 55% (cinquenta e cinco por cento) das multas e juros;
-
-VI - em até 60 (sessenta) parcelas mensais e sucessivas, com redução de até 50% (cinquenta por cento) das multas e juros;
-
-> Nova redação dada ao §1º da cláusula segunda pelo Conv ICMS 25/26, efeitos a partir de 03.03.26.
-
-§ 1º Nas hipóteses previstas nos incisos II, III, IV, V e VI do “caput” desta cláusula, o recolhimento da 1ª (primeira) parcela deverá ser efetivado até 27 de fevereiro de 2026 e as demais parcelas no último dia útil de cada mês, nos termos da legislação estadual.
-
-> Redação anterior dada ao §1º da cláusula segunda pelo Conv ICMS 1/26, efeitos de 21.01.26 a 02.03.26.
-
-~~§ 1º Nas hipóteses previstas nos incisos II, III, IV, V e VI do “caput” desta cláusula, o recolhimento da 1ª (primeira) parcela deverá ser efetivado até 30 de janeiro de 2026 e as demais parcelas no último dia útil de cada mês, nos termos da legislação estadual.~~
-
-> Redação original, efeitos até 20.01.26.
-
-~~§ 1º Nas hipóteses previstas nos incisos II, III, IV, V e VI do “caput” desta cláusula, o recolhimento da 1ª (primeira) parcela deverá ser efetivado até 29 de dezembro de 2025 e as demais parcelas no último dia útil de cada mês, nos termos da legislação estadual.~~
-
-§ 2° No pagamento de parcela em atraso serão aplicados os acréscimos legais previstos na legislação.
-
-Cláusula terceira O benefício previsto neste convênio impõe ao sujeito passivo a autorização de débito automático das parcelas em conta corrente mantida em instituição bancária conveniada com a Secretaria de Estado da Fazenda.
-
-Cláusula quarta O parcelamento de que trata este convênio fica condicionado a que o contribuinte:
-
-I - manifeste, formalmente, sua desistência em relação a ações judiciais e recursos administrativos contra a Fazenda Pública, visando ao afastamento da cobrança do débito fiscal objeto do pagamento parcelado, em caráter irretratável, na forma da legislação estadual;
-
-II - formalize sua opção, mediante requerimento cujo modelo será disponibilizado pela Secretaria de Estado da Fazenda;
-
-III - cumpra outras condições expressamente previstas na legislação tributária estadual.
-
-§ 1º A formalização da opção do contribuinte e a homologação do fisco dar-se-á no momento do pagamento da parcela única ou da primeira parcela.
-
-> Nova redação dada ao §2º da cláusula quarta pelo Conv ICMS 25/26, efeitos a partir de 03.03.26.
-
-§ 2º A legislação estadual fixará o prazo máximo de opção do contribuinte pelo parcelamento, que não poderá exceder a 27 de fevereiro de 2026.
-
-> Redação anterior dada ao §2º da cláusula quarta pelo Conv ICMS 1/26, efeitos de 21.01.26 a 02.03.26.
-
-~~§ 2º A legislação estadual fixará o prazo máximo de opção do contribuinte pelo parcelamento, que não poderá exceder a 30 de janeiro de 2026.~~
-
-> Redação original, efeitos até 20.01.26
-
-~~§ 2º A legislação estadual fixará o prazo máximo de opção do contribuinte pelo parcelamento, que não poderá exceder a 29 de dezembro de 2025.~~
-
-Cláusula quinta O contrato celebrado em decorrência do parcelamento de que trata este convênio será considerado descumprido e automaticamente rescindido, independentemente de qualquer ato da autoridade fazendária, quando ocorrer:
-
-I - a inobservância de qualquer das exigências estabelecidas neste convênio;
-
-II - o atraso, por prazo superior a 60 (sessenta) dias, com o pagamento de qualquer parcela ou o pagamento da última parcela;
-
-III - o descumprimento de outras condições, a serem estabelecidas pela Secretaria de Estado da Fazenda.
-
-Parágrafo único. Ocorrida a rescisão nos termos do caput desta cláusula, deverão ser restabelecidos, em relação ao saldo devedor, os valores originários das multas e dos juros dispensados, prosseguindo-se na cobrança do débito remanescente.
-
-Cláusula sexta A legislação estadual poderá dispor sobre:
-
-I - o valor mínimo de cada parcela;
-
-II - a redução do valor dos honorários advocatícios;
-
-III - atualização monetária;
-
-IV - outras condições não previstas neste convênio para concessão da anistia e rescisão do contrato em decorrência do parcelamento de que trata este convênio.
-
-Cláusula sétima O disposto neste convênio não autoriza a restituição ou compensação de importâncias já pagas.
-
-Cláusula oitava Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
-<<<DOC confaz/convenio/convenio-152-2002.md>>>
----
-documento: "CONVÊNIO ICMS 152/02"
-tipo: convenio
-numero: 152
-ano: 2002
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV152_02
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 152/02
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 152/02
-
-Publicado no DOU de 19.12.02
-
-Ratificação Nacional DOU de 08.01.03, pelo Ato Declaratório
-
-1/03 .
-
-Altera o Convênio ICMS 100/97, de 04.11.97, que reduz a base de cálculo do ICMS nas saídas dos insumos agropecuários.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 108ª reunião ordinária, realizada em Natal, RN, no dia 13 de dezembro de 2002, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira
-
-Passa a vigorar com a seguinte redação o inciso VI da cláusula primeira do Convênio ICMS 100/97 , de 4 de novembro de 1997:
-
-"VI - alho em pó, sorgo, sal mineralizado, farinhas de peixe, de ostra, de carne, de osso, de pena, de sangue e de víscera, calcário calcítico, caroço de algodão, farelos e tortas de algodão, de babaçu, de cacau, de amendoim, de linhaça, de mamona, de milho e de trigo, farelos de arroz, de girassol, de glúten de milho, de gérmen de milho desengordurado, de quirera de milho, de casca e de semente de uva e de polpa cítrica, glúten de milho, feno, e outros resíduos industriais, destinados à alimentação animal ou ao emprego na fabricação de ração animal;".
-
-Cláusula segunda
-
-Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de janeiro de 2003.
-
-Natal, RN, 13 de dezembro de 2002.
-<<<DOC confaz/convenio/convenio-152-2006.md>>>
----
-documento: "CONVÊNIO ICMS 152/06"
-tipo: convenio
-numero: 152
-ano: 2006
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV152_06
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 152/06
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 152/06
-
-Publicado no DOU de 20.12.06, pelo Despacho
-
-18/06 .
-
-Ratificação Nacional DOU de 08.01.07, pelo Ato Declaratório
-
-02/07 .
-
-Prorroga o Convênio ICMS 104/89, que autoriza a concessão de isenção do ICMS na importação de bens destinados a ensino, pesquisa e serviços médico-hospitalares.
-
-O Conselho Nacional de Política Fazendária - CONFAZ,
-
-na sua 124ª reunião ordinária, realizada em Macapá, AP, no dia 15 de dezembro de 2006, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira
-
-Ficam prorrogadas, até 30 de abril de 2007, as disposições contidas no Convênio ICMS 104/89 , de 24 de outubro de 1989.
-
-Cláusula segunda
-
-Este convênio entra em vigor na data da publicação de sua ratificação nacional.
-
-Macapá, AP, 15 de dezembro de 2006.
-<<<DOC confaz/convenio/convenio-152-2008.md>>>
----
-documento: "CONVÊNIO ICMS 152/08"
-tipo: convenio
-numero: 152
-ano: 2008
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV152_08
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 152/08
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 152, DE 5 DE DEZEMBRO DE 2008
-
-Publicado no DOU de 09.12.08, pelo Despacho 99/08 .
-
-Altera a vigência da cláusula segunda do Convênio ICMS 117/08, que altera o Convênio ICMS 126/98, que dispõe sobre concessão de regime especial, na área do ICMS, para prestações de serviços de telecomunicações e convalida procedimentos adotados.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 132ª reunião ordinária, realizada em Foz do Iguaçu, PR, no dia 5 de dezembro de 2008, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira Fica alterada a cláusula segunda do Convênio ICMS 117/08 , de 26 de setembro de 2008, com a seguinte redação:
-
-“Cláusula segunda A cláusula décima do Convênio ICMS 126/98, passará a ter, a partir de 1º de julho de 2009, a seguinte redação:
-
-“Cláusula décima Na prestação de serviços de comunicação entre empresas de telecomunicação relacionadas no Ato COTEPE 10/08, de 23 de abril de 2008, prestadoras de Serviço Telefônico Fixo Comutado - STFC, Serviço Móvel Celular - SMC ou Serviço Móvel Pessoal - SMP, o imposto incidente sobre a cessão dos meios de rede será devido apenas sobre o preço do serviço cobrado do usuário final.
-
-§ 1º Aplica-se, também, o disposto nesta cláusula às empresas prestadoras de Serviço Limitado Especializado - SLE, Serviço Móvel Especializado - SME e Serviço de Comunicação Multimídia - SCM, que tenham como tomadoras de serviço as empresas referidas no caput , desde que observado o disposto no § 2º e as demais obrigações estabelecidas em cada unidade federada.
-
-§ 2º O tratamento previsto nesta cláusula fica condicionado à comprovação do uso do serviço como meio de rede, da seguinte forma:
-
-I - apresentação de demonstrativo de tráfego, contrato de cessão de meios de rede ou outro documento, contendo a natureza e o detalhamento dos serviços, endereços e características do local de instalação do meio;
-
-II - declaração expressa do tomador do serviço confirmando o uso como meio de rede;
-
-III - utilização de código específico para as prestações de que trata esta cláusula, no arquivo previsto no Convênio ICMS 115/03, de 12 de dezembro de 2003;
-
-IV - indicação, no corpo da nota fiscal, do número do contrato ou do relatório de tráfego ou de identificação específica do meio de rede que comprove a natureza dos serviços e sua finalidade.”.
-
-Cláusula segunda Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
-
-Foz de Iguaçu, PR, 5 de dezembro de 2008.
-<<<DOC confaz/convenio/convenio-152-2015.md>>>
----
-documento: "CONVÊNIO ICMS 152/15"
-tipo: convenio
-numero: 152
-ano: 2015
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV152_15
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 152/15
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 152, DE 11 DE DEZEMBRO DE 2015
-
-Publicado no DOU de 15.12.15, pelo Despacho 236/15.
-
-Alterado pelos Convs. ICMS 183/15, 9/16, 29/16, 105/16, 221/17, 239/19.
-
-Altera o Convênio 93/15, que dispõe sobre os procedimentos a serem observados nas operações e prestações que destinem bens e serviços a consumidor final não contribuinte do ICMS, localizado em outra unidade federada.
-
-O Conselho Nacional de Política Fazendária - CONFAZ na sua 159ª Reunião Ordinária, realizada em Maceió, AL, no dia 11 de dezembro de 2015, tendo em vista o disposto nos incisos VII e VIII do § 2º do art. 155 da Constituição Federal e no art. 99 do Ato das Disposições Constitucionais Transitórias - ADCT da Constituição Federal, bem como nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte:
-
-CONVÊNIO
-
-Cláusula primeira Os dispositivos a seguir indicados do Convênio ICMS 93/15, de 17 de setembro de 2015, passam a vigorar com as seguintes redações:
-
-I - o § 1º da cláusula segunda:
-
-“§ 1º A base de cálculo do imposto de que tratam os incisos I e II do caput é única e corresponde ao valor da operação ou o preço do serviço, observado o disposto no § 1º do art. 13 da Lei Complementar nº 87, de 13 de setembro de 1996.”;
-
-Cláusula segunda Ficam acrescidos ao Convênio ICMS 93/15, de 17 de setembro de 2015, os seguintes dispositivos:
-
-I - à clausula segunda:
-
-a) o § 1º-A:
-
-“§ 1º-A O ICMS devido ás unidades federadas de origem e destino deverão ser calculados por meio da aplicação das seguintes fórmulas:
-
-ICMS origem = BC x ALQ inter
-
-ICMS destino = [BC x ALQ intra] - ICMS origem
-
-Onde:
-
-BC = base de cálculo do imposto, observado o disposto no § 1º;
-
-ALQ inter = alíquota interestadual aplicável à operação ou prestação;
-
-ALQ intra = alíquota interna aplicável à operação ou prestação no Estado de destino.”;
-
-b) o § 5º:
-
-“§ 5º No cálculo do imposto devido à unidade federada de destino, o remetente deve calcular, separadamente, o imposto correspondente ao diferencial de alíquotas, por meio da aplicação sobre a respectiva base de cálculo de percentual correspondente:
-
-I - à alíquota interna da unidade federada de destino sem considerar o adicional de até 2% (dois por cento);
-
-II - ao adicional de até 2% (dois por cento).
-
-II - a cláusula terceira-A:
-
-“Cláusula terceira-A As operações de que trata este convênio devem ser acobertadas por Nota Fiscal Eletrônica - NFe, modelo 55, a qual deve conter as informações previstas no Ajuste SINIEF 07/05, de 30 de setembro de 2005.”;
-
-III - à cláusula quarta, os §§ 2º e 3º, passando o parágrafo único a ser renumerado como § 1º:
-
-“§ 2º O recolhimento do imposto de que trata o inciso II do § 5º da cláusula segunda deve ser feito em documento de arrecadação ou GNRE distintos.”
-
-§ 3º As unidades federadas de destino do bem ou do serviço podem, na forma de sua legislação, disponibilizar aplicativo que calcule o imposto a que se refere a alínea “c” dos incisos I e II da cláusula segunda, devendo o imposto ser recolhido no prazo previsto no § 2º da cláusula quinta.”;
-
-IV - o § 5º à cláusula quinta:
-
-“§ 5º Na hipótese prevista no § 4º o contribuinte deve recolher o imposto previsto na alínea “c” dos incisos I e II da cláusula segunda no prazo previsto no respectivo convênio ou protocolo que dispõe sobre a substituição tributária.”.
-
-V - à cláusula sexta, o parágrafo único:
-
-“Parágrafo único. As unidades federadas de destino podem dispensar o contribuinte de obrigações acessórias, exceto a emissão de documento fiscal.”;
-
-Cláusula terceira Acordam os Estados e o Distrito Federal que até 30 de junho de 2016:
-
-I - a inscrição no Cadastro de Contribuintes do ICMS dar-se-á de forma simplificada, ficando dispensada a apresentação de documentos;
-
-II - a fiscalização relativa ao descumprimento das obrigações acessórias previstas neste Convênio será de caráter exclusivamente orientador, desde que ocorra o pagamento do imposto.
-
-> Acrescido o parágrafo único da cláusula terceira pelo Conv. ICMS 183/15, efeitos a partir 29.12.15.
-
-Parágrafo único. O disposto no inciso I do caput desta cláusula não se aplica aos Estados de Alagoas, Goiás, Mato Grosso, Paraíba, Rio de Janeiro e do Rio Grande do Sul.
-
-> Acrescida a cláusula terceira-A pelo Conv. ICMS 9/16, efeitos a partir de 22.02.16.
-
-Cláusula terceira-A Para o recolhimento do imposto de que trata a alínea “c” dos incisos I e II do caput da cláusula segunda do Convênio ICMS 93/15, de 17 de setembro de 2015, o contribuinte remetente, desde que, na data de 31 de dezembro de 2015, encontre-se inscrito na unidade federada de origem, poderá, em relação aos fatos geradores que ocorrerem no período de 1º de janeiro a 30 de abril de 2016, independentemente de ser inscrito na unidade federada de destino, recolher o referido imposto à essa unidade federada no prazo previsto no § 2º da cláusula quinta do mencionado convênio, ficando, nesta hipótese, dispensado do cumprimento do § 1º da mesma cláusula.
-
-> Renumerado o parágrafo único para § 1º da cláusula terceira-A pelo Conv. ICMS 29/16, efeitos a partir de 13.04.16.
-
-§ 1º O prazo de recolhimento previsto nesta cláusula aplica-se inclusive na hipótese da partilha prevista na cláusula décima do Convênio ICMS 93/15.
-
-> Nova redação dada ao § 2º da cláusula terceira-A pelo Conv. ICMS 239/19, efeitos a partir de 18.12.19.
-
-§ 2º Fica o Distrito Federal autorizado a estender o disposto no caput desta cláusula aos fatos geradores a serem realizados até 31 de dezembro de 2020.
-
-> Nova redação dada ao § 2º da cláusula terceira-A pelo Conv. ICMS 221/17, efeitos de 19.12.17 a 17.12.19
-
-~~§ 2º Fica o Distrito Federal autorizado a estender o disposto no caput aos fatos geradores a serem realizados até 31 de dezembro de 2019.~~
-
-> Redação anterior dada ao § 2º da cláusula terceira-A pelo Conv. ICMS 105/16, efeitos de 28.09.16 a 18.12.17.
-
-~~§ 2º Fica o Distrito Federal autorizado a estender o disposto no caput aos fatos geradores a serem realizados até 31 de dezembro de 2017.~~
-
-> Acrescido o § 2º à cláusula terceira-A pelo Conv. ICMS 29/16, efeitos de 13.04.16 a 27.09.16.
-
-~~§ 2º Fica o Distrito Federal autorizado a estender o disposto no caput aos fatos geradores a serem realizados até 30 de novembro de 2016.~~
-
-Cláusula quarta Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2016.
-<<<DOC confaz/convenio/convenio-153-1994.md>>>
----
-documento: "CONVÊNIO ICMS 153/94"
-tipo: convenio
-numero: 153
-ano: 1994
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV153_94
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/94
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 153/94
-
-Publicado DOU de 14.12.94.
-
-Ratificação Nacional DOU de 02.01.95 pelo
-
-Ato COTEPE-ICMS 13/94 .
-
-Altera dispositivos do Convênio ICMS 74/94, de 30.06.94, que dispõe sobre substituição tributária nas operações com tintas, vernizes e outras mercadorias da indústria química.
-
-O Ministro de Estado da Fazenda e os Secretários de Fazenda, Economia ou Finanças dos Estados e do Distrito Federal, na 76ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Boa Vista, RR, no dia 7 de dezembro de 1994, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira
-
-Passam a vigorar com a seguinte redação os dispositivos adiante indicados do Convênio ICMS 74/94 , de 30 de junho de 1994:
-
-I - a cláusula nona:
-
-"Cláusula nona Este Convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de maio de 1995";
-
-II - o item IX do Anexo:
-
-"IX - xadrez e pós assemelhados 2821.10, 3204.17.0000, 3206."
-
-Cláusula segunda
-
-Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
-
-Boa Vista, RR, 7 de dezembro de 1994.
-<<<DOC confaz/convenio/convenio-153-2004.md>>>
----
-documento: "CONVÊNIO ICMS 153/04"
-tipo: convenio
-numero: 153
-ano: 2004
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV153_04
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/04
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 153/04
-
-Publicado no DOU de 22.12.04.
-
-Ratificação Nacional DOU de 10.01.05, pelo Ato Declaratório 01/05.
-
-Retificação no DOU de 23.12.04, 22.03.05. e 22.05.12.
-
-Alterado pelos Convs. ICMS 03/05, 19/05, 22/05, 69/05, 94/05, 20/12, 20/26.
-
-Vide convalidação de procedimentos, período de 01.01.05 a 14.02.05, na cláusula segunda do Conv. ICMS 03/05.
-
-Prorrogado, até 31.07.05, pelo Conv. ICMS 19/05.
-
-Vide convalidação de procedimentos, período de 01.01.05 a 24.04.05, na cláusula segunda do Conv. ICMS 22/05.
-
-Prorrogado, até 31.10.05, pelo Conv.ICMS 67/05.
-
-Exclusão do RN das disposições da cláusula terceira, a partir de 22.07.05, pelo Conv. ICMS 68/05.
-
-Prorrogado, até 31.12.05, pelo Conv. ICMS 106/05.
-
-Prorrogado, até 30.04.06, pelo Conv. ICMS 139/05.
-
-Prorrogado, até 30.10.06, pelo Conv. ICMS 20/06.
-
-Prorrogado, até 31.12.06, pelo Conv. ICMS 116/06.
-
-Vide Conv. ICMS 149/06.
-
-Vide convalidação de procedimentos, período entre 01.01.07 e 05.02.07, na cláusula segunda do Conv. ICMS 01/07.
-
-Revigorado, até 31.03.07, pelo Conv. ICMS 01/07.
-
-Prorrogado, até 30.04.07, pelo Conv. ICMS 05/07.
-
-Prorrogado, até 31.07.07, pelo Conv. ICMS 48/07.
-
-Prorrogado, até 31.08.07, pelo Conv. ICMS 76/07.
-
-Prorrogado, até 30.09.07, pelo Conv. ICMS 106/07.
-
-Prorrogado, até 31.10.07, pelo Conv. ICMS 117/07.
-
-Prorrogado, até 31.12.07, pelo Conv. ICMS 124/07.
-
-Prorrogado, até 30.04.08, pelo Conv. ICMS 148/07.
-
-Adesão do PR, a partir de 30.04.08, pelo Conv. ICMS 02/08.
-
-Prorrogado, até 31.07.08, pelo Conv. ICMS 53/08.
-
-Prorrogado, até 31.12.08, pelo Conv. ICMS 71/08.
-
-Adesão da BA, a partir de 25.07.08, pelo Conv. ICMS 79/08.
-
-Prorrogado, até 31.07.09, pelo Conv. ICMS 138/08.
-
-Prorrogado, até 31.12.09, pelo Conv. ICMS 69/09.
-
-Prorrogado, até 31.01.10, pelo Conv. ICMS 119/09.
-
-Prorrogado, até 31.12.12, pelo Conv. ICMS 01/10.
-
-Prorrogado, até 31.12.14, pelo Conv. ICMS 101/12.
-
-Prorrogado, até 31.05.15, pelo Conv. ICMS 191/13.
-
-Prorrogado, até 31.12.15, pelo Conv. ICMS 27/15.
-
-Prorrogado, até 30.04.17, pelo Conv. ICMS 107/15.
-
-Prorrogado, até 30.09.19, pelo Conv. ICMS 49/17.
-
-Vide cláusula terceira do Conv. ICMS 49/17, quanto a observância das disposições do Conv. ICMS 42/16, no que couber.
-
-Prorrogado, até 31.10.20, pelo Conv. ICMS 133/19.
-
-Prorrogado, até 31.12.20, pelo Conv. ICMS 101/20.
-
-Prorrogado, até 31.03.21, pelo Conv. ICMS 133/20.
-
-Prorrogado, até 31.03.22, pelo Conv. ICMS 28/21.
-
-Prorrogado, até 30.04.24, pelo Conv. ICMS 178/21.
-
-Prorrogado, até 30.04.26, pelo Conv. ICMS 226/23.
-
-Prorrogado, até 31.12.26, pelo Conv. ICMS 20/26.
-
-Exclusão de SP, das disposições das cláusulas segunda e quinta, a partir de 01.05.26, pelo Conv. ICMS 20/26.
-
-Autoriza as unidades federadas a concederem benefícios fiscais na modalidade redução de base de cálculo do ICMS.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 116ª reunião ordinária, realizada em Foz do Iguaçu, PR, no dia 10 de dezembro de 2004, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira Ficam os Estados do Rio Grande do Sul, Pernambuco e Santa Catarina autorizados a reduzir a base de cálculo do ICMS nas operações realizadas por indústrias vinícolas e por produtoras de derivados de uva e vinho, na forma e condições estabelecidas na legislação estadual, em montante calculado por litro, limitado aos seguintes valores:
-
-I - nas saídas internas:
-
-a) Produtos elaborados a partir de uva tipo americana e híbrida: R$ 0,1941;
-
-b) Produtos elaborados a partir de uva tipo vinífera: R$ 0,3235.
-
-II - na saídas interestaduais:
-
-a) para os estados das regiões sul e sudeste, exceto para o Espírito Santo;
-
-1. Produtos elaborados a partir de uva tipo americana e híbrida: R$ 0,2750;
-
-2. Produtos elaborados a partir de uva tipo vinífera: R$ 0,4583.
-
-b) para os estados das regiões norte, nordeste e centro-oeste e para o Espírito Santo:
-
-1. Produtos elaborados a partir de uva tipo americana e híbrida: R$ 0,4714;
-
-2. Produtos elaborados a partir de uva tipo vinífera: R$ 0,7857.
-
-Parágrafo único Os valores indicados nos incisos I e II, desta cláusula, serão convertidos em UPF-RS, vigente na data de publicação deste Convênio, para o estado do Rio Grande do Sul.
-
-> Nova redação dada ao caput da cláusula segunda pelo Conv. ICMS 20/26, efeitos a partir de 01.05.26.
-
-Cláusula segunda Os Estados do Ceará, Paraná, Rio Grande do Norte e Santa Catarina ficam autorizados a conceder redução de cinquenta por cento na base de cálculo do ICMS incidente sobre a saída promovida pelo estabelecimento fabricante dos produtos a seguir discriminados, classificados nas posições, subposições e códigos da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH:
-
-> Redação original, efeitos até 30.04.26.
-
-~~Cláusula segunda Ficam os Estados do Ceará, do Paraná, do Rio Grande do Norte, de Santa Catarina e de São Paulo autorizados a conceder redução de cinqüenta por cento na base de cálculo do ICMS incidente sobre a saída promovida pelo estabelecimento fabricante dos produtos a seguir discriminados, classificados nas posições, subposições e códigos da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH:~~
-
-I - louças, outros artigos de uso doméstico e artigo de higiene ou toucador, de porcelana, classificados na posição 6911;
-
-II - copos de cristal de chumbo, exceto os de vitrocerâmica, classificados no código 7013.21.0000;
-
-III - objetos para serviço de mesa (exceto copos) ou de cozinha, de cristal de chumbo, exceto de vitrocerâmica, classificados no código 7013.31.0000;
-
-IV - outros objetos de cristal de chumbo, classificados na subposição 7013.91.
-
-Parágrafo único O benefício de que trata esta cláusula será utilizado em substituição à apropriação de todos os créditos de ICMS decorrentes das entradas de quaisquer insumos ou serviços utilizados pelo estabelecimento industrial, na fabricação ou na comercialização de cristal ou de porcelana.
-
-> Nova redação dada ao caput da cláusula terceira, pelo Conv. ICMS 03/05, efeitos a partir de 15.02.05.
-
-Cláusula terceira Ficam os Estados de Alagoas, do Rio Grande do Norte, de Pernambuco, da Paraíba e de Sergipe autorizados a conceder redução de até quatorze inteiros e setenta e um centésimo por cento na base de cálculo do ICMS nas operações internas sujeitas à alíquota de dezessete por cento, e de até vinte inteiros e oitenta e três centésimos por cento nas operações interestaduais sujeitas à alíquota de doze por cento, sobre as saídas de cana-de-açúcar, em substituição ao sistema normal de tributação.
-
-> Redação original, efeitos até 14.02.05.
-
-~~Cláusula terceira Ficam os Estados de Alagoas, do Rio Grande do Norte, de Pernambuco, da Paraíba e de Sergipe autorizados a conceder redução de até dois e meio por cento na base de cálculo do ICMS sobre as saídas de cana-de-açúcar, em substituição ao sistema normal de tributação.~~
-
-> Nova redação dada ao § 1° da cláusula terceira, pelo Conv. ICMS 22/05, efeitos a partir de 25.04.05.
-
-§ 1° O disposto nesta cláusula não se aplica às saídas de cana-de-açúcar alcançadas pelos efeitos do Convênio ICMS 09/99, de 16 de abril de 1999.
-
-> Redação original, efeitos até 24.04.05
-
-~~§ 1° O disposto nesta cláusula não se aplica às saídas de cana-de-açúcar alcançadas pelos efeitos do Convênio ICMS 02/97, de 3 de fevereiro de 1997.~~
-
-§ 2° O contribuinte que optar pela sistemática de que trata esta cláusula não poderá utilizar-se de quaisquer outros créditos relativos às entradas tributadas.
-
-Cláusula quarta Ficam os Estados da Bahia, do Espírito Santo, de Goiás, de Mato Grosso, de Mato Grosso do Sul, de Minas Gerais, do Paraná, do Rio Grande do Sul, de Rondônia, de São Paulo e do Tocantins autorizados a conceder ao remetente ou ao destinatário, redução de até quarenta e cinco por cento na base de cálculo do ICMS incidente sobre a saída interna de novilho precoce do estabelecimento produtor com destino ao que irá promover o seu abate.
-
-§ 1º Para efeito do benefício de que trata esta cláusula, consideram-se como precoces os animais que apresentem, no máximo, quatro dentes incisivos permanentes e os primeiros médios da segunda dentição e, a critério de cada unidade federada, peso de carcaça igual ou superior a 225 quilogramas para os machos e 180 quilogramas para as fêmeas.
-
-§ 2º Fica vedado o aproveitamento de quaisquer outros créditos relacionados com a atividade de produção do novilho precoce.
-
-§ 3º A fruição do benefício é condicionada à inspeção sanitária federal ou estadual do abate dos animais de que trata esta cláusula em que fique caracterizada a condição de novilho precoce.
-
-§ 4º A unidade federada poderá, ainda, condicionar a fruição do benefício às regras de controle, conforme dispuser a sua legislação.
-
-§ 5º Relativamente ao § 1º, além dos requisitos previstos, o animal deverá possuir, por ocasião do abate, de 3 (três) a 10 (dez) milímetros de gordura na carcaça.
-
-> Nova redação dada ao caput da cláusula quinta pelo Conv. ICMS 20/26, efeitos a partir de 01.05.26.
-
-Cláusula quinta Os Estados de Minas Gerais, Paraná, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder ao produtor rural, em substituição aos créditos a que teria direito, na forma e nas condições estabelecidas na sua legislação, redução de até cinquenta por cento na base de cálculo do ICMS incidente sobre as saídas de alho.
-
-> Redação original, efeitos até 30.04.26.
-
-~~Cláusula quinta Ficam os Estados de Santa Catarina, de Minas Gerais, de São Paulo, do Paraná e do Rio Grande do Sul autorizados a conceder ao produtor rural, em substituição aos créditos a que teria direito, na forma e nas condições estabelecidas na sua legislação, redução de até cinqüenta por cento na base de cálculo do ICMS incidente sobre as saídas de alho.~~
-
-> Revogada a cláusula sexta pelo Conv. ICMS 94/05, efeitos a partir de 24.10.05.
-
-Cláusula sexta REVOGADA
-
-> Redação original, efeitos até 23.10.05.
-
-~~Cláusula sexta Ficam os Estados do Paraná, do Rio Grande do Sul e de Santa Catarina autorizados, na forma e condições estabelecidas na respectiva legislação, a conceder redução de até sessenta por cento na base de cálculo do ICMS incidente sobre a saída nas operações internas e interestaduais com maçã.~~
-
-> Redação anterior dada ao parágrafo único da cláusula sexta, pelo Conv. ICMS 03/05, efeitos de 15.02.05 a 23.10.15.
-
-~~Parágrafo único. A utilização do benefício previsto no caput condiciona-se à utilização proporcional dos créditos do imposto.~~
-
-> Redação original, efeitos até 14.02.05.
-
-~~Parágrafo único A utilização do benefício previsto no caput desta cláusula implica renúncia a quaisquer outros créditos do imposto.~~
-
-> Nova redação dada ao caput da cláusula sétima pelo Conv. ICMS 20/12, efeitos a partir de 01.06.12.
-
-Cláusula sétima Ficam os Estados do Acre, Alagoas, Amapá, Bahia, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraná, Pernambuco, Rio de Janeiro, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo e Sergipe e o Distrito Federal, autorizados a conceder redução da base de cálculo do ICMS, aos estabelecimentos industrializadores da mandioca, de forma que nas saídas dos produtos obtidos na industrialização daquela mercadoria, realizada no Estado, resulte uma carga tributária equivalente a 7% (sete por cento).
-
-> Redação anterior dada ao caput da cláusula sétima pelo Conv. ICMS 03/05, efeitos de 15.02.05 a 31.05.12.
-
-~~Cláusula sétima Ficam os Estados do Amapá, de Mato Grosso do Sul, do Paraná, de São Paulo, de Sergipe, do Pará, de Pernambuco, de Goiás, da Bahia, do Maranhão, de Santa Catarina, de Mato Grosso, de Alagoas, de Minas Gerais, do Acre, do Espírito Santo, do Rio Grande do Sul e de Rondônia autorizados a conceder, aos estabelecimentos industrializadores da mandioca, redução de cinqüenta e oito inteiros e oitocentos e vinte e quatro milésimos por cento na base de cálculo do ICMS nas operações internas sujeitas à alíquota de dezessete por cento, e de quarenta e um inteiros e seiscentos e sessenta e seis milésimos por cento nas operações interestaduais sujeitas à alíquota de doze por cento, sobre as saídas dos produtos resultantes da industrialização daquela mercadoria, realizada no Estado, resultando numa carga tributária de sete por cento em ambas as operações.~~
-
-> Redação original, efeitos até 14.02.05.
-
-~~Cláusula sétima Ficam os Estados de Mato Grosso do Sul, do Paraná, de São Paulo, de Sergipe, do Pará, de Pernambuco, de Goiás, da Bahia, do Maranhão, de Santa Catarina, de Mato Grosso, de Alagoas, de Minas Gerais, do Acre, do Espírito Santo, do Rio Grande do Sul e de Rondônia autorizados a conceder, aos estabelecimentos industrializadores da mandioca, redução de cinqüenta e oito inteiros e oitocentos e vinte e quatro milésimos por cento na base de cálculo do ICMS nas operações internas sujeitas à alíquota de dezessete por cento, e de quarenta e um inteiros e seiscentos e sessenta e seis milésimos por cento nas operações interestaduais sujeitas à alíquota de doze por cento, sobre as saídas dos produtos resultantes da industrialização daquela mercadoria, realizada no Estado, resultando numa carga tributária de sete por cento em ambas as operações.~~
-
-§ 1º Os estabelecimentos beneficiários consignarão, normalmente, nas notas fiscais acobertadoras das operações que praticarem com os produtos por eles industrializados (farinhas, féculas etc.), os valores da operação e da base de cálculo reduzida e o destaque do ICMS calculado pelas respectivas alíquotas.
-
-> Nova redação dada ao § 2º da cláusula sétima pelo Conv. ICMS 69/05, efeitos a partir de 22.07.05.
-
-§ 2º A aplicação do benefício previsto no caput poderá ser condicionada à utilização proporcional dos créditos do imposto.
-
-> Redação original, efeitos até 21.07.05.
-
-~~§ 2º A fruição do benefício de que trata esta cláusula veda ao estabelecimento industrial a apropriação de quaisquer créditos fiscais decorrentes da aquisição de matérias-primas e dos demais insumos utilizados na fabricação dos seus produtos, bem como dos serviços recebidos.~~
-
-> Revogado o § 3º da cláusula sétima pelo Conv. ICMS 69/05, efeitos a partir de 22.07.05.
-
-§ 3º REVOGADO
-
-> Redação anterior dada ao § 3º da cláusula sétima, pelo Conv. ICMS 19/05, efeitos de 01.05.05 a 21.07.05.
-
-~~§ 3º Tratando-se de operações internas já sujeitas à alíquota de sete por cento, o creditamento dos valores fiscais relativos à aquisição de matérias-primas e dos demais insumos utilizados na fabricação dos produtos originários da mandioca, bem como dos serviços tomados, atenderá o disposto no Convênio ICMS 53/04, de 18 de junho de 2004.~~
-
-> Redação original, efeitos até 30.04.05.
-
-~~§ 3º Tratando-se de operações internas já sujeitas à alíquota de sete por cento, o creditamento dos valores fiscais relativos à aquisição de matérias-primas e dos demais insumos utilizados na fabricação dos produtos originários da mandioca, bem como dos serviços tomados, será proporcional ao volume dessas operações.~~
-
-§ 4° Os Estados poderão fixar critérios para que o contribuinte se habilite ao benefício tratado no caput desta cláusula.
-
-Cláusula oitava Ficam os Estados de Mato Grosso do Sul e Rondônia autorizados a conceder redução de até sessenta e sete por cento na base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS incidente nas saídas de carne e demais produtos comestíveis frescos, resfriados, congelados, salgados, secos ou temperados, resultantes do abate de aves, leporídeos, bovinos, bufalinos, caprinos, ovinos e suínos.
-
-Cláusula nona Ficam os Estados de Mato Grosso do Sul e Rondônia autorizados a conceder redução na base de cálculo do ICMS nas saídas de couro bovino ou bufalino, conforme segue:
-
-I - wet-blue, wet-white, e respectivas raspas, redução de até quarenta por cento na base de cálculo do imposto incidente na respectiva operação;
-
-II - semi-acabado ou crust e respectivas raspas, redução de até sessenta por cento na base de cálculo do imposto incidente na respectiva operação;
-
-III - acabado e respectivas raspas, redução de até oitenta por cento na base de cálculo do imposto incidente na respectiva operação.
-
-Cláusula décima Fica o Estado de Mato Grosso do Sul autorizado a conceder redução de até cinqüenta por cento do ICMS nas saídas de algodão em caroço, algodão em pluma e caroço de algodão.
-
-Parágrafo único Este benefício não poderá ser adotado cumulativamente com o previsto no Convênio ICMS 106/03, de 12 de dezembro de 2003.
-
-> Nova redação dada à cláusula décima primeira, pelo Conv. ICMS 03/05, efeitos a partir de 15.02.05.
-
-Cláusula décima primeira Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 30 de abril de 2005.
-
-> Redação original, efeitos até 14.02.05.
-
-~~Cláusula décima segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional.~~
-
-Foz do Iguaçu, PR, 10 de dezembro de 2004.
-<<<DOC confaz/convenio/convenio-153-2005.md>>>
----
-documento: "CONVÊNIO ICMS 153/05"
-tipo: convenio
-numero: 153
-ano: 2005
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV153_05
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/05
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 153/05
-
-Publicado no DOU de 21.12.05.
-
-Altera o Convênio ICMS 85/01, que estabelece requisitos de hardware, de software e gerais para desenvolvimento de equipamento Emissor de Cupom Fiscal (ECF), os procedimentos aplicáveis ao contribuinte usuário de ECF e às empresas credenciadas.
-
-O Conselho Nacional de Política Fazendária - CONFAZ
-
-, na sua 120ª reunião ordinária, realizada em Mata de São João, BA, no dia 16 de dezembro de 2005, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira
-
-Passam a vigorar com a redação indicada os seguintes dispositivos do Convênio ICMS 85/01 , de 28 de setembro de 2001:
-
-I - o § 11 da cláusula quarta:
-
-"§ 11. O sistema de lacração previsto no inciso VII do caput desta cláusula deve dispor de dispositivo, inacessível externamente, com a função prevista na alínea "g" do inciso I da cláusula sexagésima sétima.";
-
-II - a alínea "g" do inciso I da cláusula sexagésima sétima:
-
-"g) no caso de atuação do dispositivo a que se refere o § 11 da cláusula quarta provocada pela abertura de no máximo 5mm (cinco milímetros) entre as partes do gabinete sujeitas a lacração, condição da qual pode ser retirado somente em Modo de Intervenção Técnica;" .
-
-Cláusula segunda
-
-Fica revogada a alínea "c" do inciso IV da cláusula setuagésima quarta.
-
-Cláusula terceira
-
-Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
-
-Mata de São João, BA, 16 de dezembro de 2005.
-<<<DOC confaz/convenio/convenio-153-2006.md>>>
----
-documento: "CONVÊNIO ICMS 153/06"
-tipo: convenio
-numero: 153
-ano: 2006
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV153_06
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/06
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 153/06
-
-Publicado no DOU de 20.12.06, pelo Despacho
-
-18/06 .
-
-Ratificação Nacional DOU de 08.01.07, pelo Ato Declaratório
-
-02/07 .
-
-Dispõe sobre a adesão do Estado da Paraíba ao Convênio ICMS 04/04, que autoriza os Estados de Alagoas, Amapá, Amazonas, Bahia, Goiás, Minas Gerais, Paraná, Pernambuco, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo e Sergipe a conceder isenção do ICMS à prestação de serviço de transporte intermunicipal de cargas.
-
-O Conselho Nacional de Política Fazendária - CONFAZ,
-
-na sua reunião ordinária, realizada em Macapá, AP, no dia 15 de dezembro de 2006, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira
-
-Fica estendida ao Estado da Paraíba às disposições do Convênio ICMS 04 , de 2 de abril de 2004, que autoriza os estados que menciona a conceder isenção do ICMS à prestação de serviço de transporte intermunicipal de cargas.
-
-Cláusula segunda
-
-Este convênio entra em vigor na data da publicação de sua ratificação nacional.
-
-Macapá, AP, 15 de dezembro de 2006.
-<<<DOC confaz/convenio/convenio-153-2015.md>>>
----
-documento: "CONVÊNIO ICMS 153/15"
-tipo: convenio
-numero: 153
-ano: 2015
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV153_15
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/15
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 153, 11 DE DEZEMBRO DE 2015
-
-Publicado no DOU de 15.12.15, pelo Despacho 236/15.
-
-Alterado pelo Conv. ICMS 191/17, 51/23.
-
-Dispõe sobre a aplicação dos benefícios fiscais da isenção de ICMS e da redução da base de cálculo de ICMS autorizados por meio de convênios ICMS às operações e prestações interestaduais que destinem bens e serviços a consumidor final não contribuinte do ICMS, localizado em outra unidade federada.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 159ª Reunião Ordinária, realizada em Maceió, AL, no dia 11 de dezembro de 2015, tendo em vista o disposto nos art. 102 e 199 do Código Tributário Nacional (Lei 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-CONVÊNIO
-
-> Nova redação dada ao caput da cláusula primeira pelo Conv. ICMS 51/23, efeitos a partir de 26.12.17.
-
-Cláusula primeira Os benefícios fiscais da redução da base de cálculo ou de isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, autorizados por meio de convênios ICMS com base na Lei Complementar nº 24, de 7 de janeiro de 1975, e na forma prevista nos termos da Lei Complementar nº 160, de 7 de agosto de 2017, enquanto vigentes, implementados nas respectivas unidades federadas de origem ou de destino serão considerados no cálculo do valor do ICMS devido, correspondente à diferença entre a alíquota interestadual e a alíquota interna da unidade federada de destino da localização do consumidor final não contribuinte do ICMS.
-
-> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 191/17, sem efeito.
-
-~~Cláusula primeira Os benefícios fiscais da redução da base de cálculo ou de isenção do ICMS, autorizados por meio de convênios ICMS com base na Lei Complementar nº 24, de 7 de janeiro de 1975, implementados nas respectivas unidades federadas de origem ou de destino serão considerados no cálculo do valor do ICMS devido, correspondente à diferença entre a alíquota interestadual e a alíquota interna da unidade federada de destino da localização do consumidor final não contribuinte do ICMS.~~
-
-> Redação original, efeitos até 25.12.17.
-
-~~Cláusula primeira Os benefícios fiscais da redução da base de cálculo ou de isenção do ICMS, autorizados por meio de convênios ICMS com base na Lei Complementar nº 24, de 7 de janeiro de 1975, celebrados até a data de vigência deste convênio e implementados nas respectivas unidades federadas de origem ou de destino, serão considerados no cálculo do valor do ICMS devido, correspondente à diferença entre a alíquota interestadual e a alíquota interna da unidade federada de destino da localização do consumidor final não contribuinte do ICMS.~~
-
-§ 1º No cálculo do valor do ICMS correspondente à diferença entre as alíquotas interestadual e interna de que trata o caput será considerado o benefício fiscal de redução da base de cálculo de ICMS ou de isenção de ICMS concedido na operação ou prestação interna, sem prejuízo da aplicação da alíquota interna prevista na legislação da unidade federada de destino.
-
-§ 2º É devido à unidade federada de destino o ICMS correspondente à diferença entre a alíquota interna da unidade federada de destino e a alíquota interestadual estabelecida pelo Senado Federal para a respectiva operação ou prestação, ainda que a unidade federada de origem tenha concedido redução da base de cálculo do imposto ou isenção na operação interestadual.
-
-Cláusula segunda Este convênio entra em vigor na data da sua publicação no diário Oficial da União, produzindo efeitos a partir do dia 1ª de janeiro de 2016.
-<<<DOC confaz/convenio/convenio-153-2017.md>>>
----
-documento: "CONVÊNIO ICMS 153/17"
-tipo: convenio
-numero: 153
-ano: 2017
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV153_17
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/17
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 153, DE 19 DE OUTUBRO DE 2017
-
-Publicado no DOU de 26.10.17, pelo Despacho 147/17.
-
-Altera o Anexo Único do Convênio ICMS 77/11, que dispõe sobre o regime de substituição tributária aplicável ao ICMS incidente sobre as sucessivas operações internas ou interestaduais relativas à circulação de energia elétrica, desde a produção ou importação destinatário que a tenha adquirido em ambiente de contratação livre.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 290ª Reunião Extraordinária, realizada em Brasília, DF, no dia 19 de outubro de 2017, tendo em vista o disposto no art. 9º, § 1º, inciso II, e § 2º, da Lei Complementar nº 87, de 13 de setembro de 1996, e nos arts. 102, 128 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira O item 12 do Anexo Único do Convênio ICMS 77/11, de 5 de agosto de 2011, passa a vigorar com a seguinte redação:
-
-“
-
-| 12 | Rio de Janeiro | 01/12/2017 |
-
-”.
-
-Cláusula segunda Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
-<<<DOC confaz/convenio/convenio-153-2021.md>>>
----
-documento: "CONVÊNIO ICMS 153/21"
-tipo: convenio
-numero: 153
-ano: 2021
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV153_21
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/21
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 153, DE 1º DE OUTUBRO DE 2021
-
-Publicado no DOU de 06.10.21, pelo despacho 68/21.
-
-Ratificação Nacional no DOU de 22.10.21, pelo Ato Declaratório 26/21.
-
-Altera o Convênio ICMS nº 19/16, que autoriza a concessão de isenção do ICMS incidente no fornecimento de energia elétrica a hospitais filantrópicos, desde que classificados como entidade beneficente de assistência social, nos termos da Lei n° 12.101, de 27 de novembro de 2009.
-
-O Conselho Nacional de Política Fazendária – CONFAZ, na sua 182ª Reunião Ordinária, realizada em Brasília, DF, no dia 1º de outubro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira O item 14 fica acrescido ao Anexo I do Convênio ICMS nº 19, de 08 de abril de 2016, com a seguinte redação:
-
-“
-
-ANEXO I
-
-| | Município | CNPJ | Entidade (nome empresarial) |
-| 14 | Cáceres | 24.232.886/0177-28 | Pró Saúde – Associação Beneficente de Assistência Social e Hospitalar |
-
-”.
-
-Cláusula segunda O item 4 do Anexo I do Convênio ICMS nº 19/16 fica excluído.
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
-<<<DOC confaz/convenio/convenio-153-2024.md>>>
----
-documento: "CONVÊNIO ICMS 153/24"
-tipo: convenio
-numero: 153
-ano: 2024
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV153_24
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/24
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 153, DE 6 DE DEZEMBRO DE 2024
-
-Publicado no DOU de 11.12.24. pelo despacho 51/24.
-
-Ratificação Nacional no DOU de 27.12.24, pelo Ato Declaratório 36/24.
-
-Altera o Convênio ICMS nº 87, de 28 de junho de 2002, que concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 195ª Reunião Ordinária, realizada em Foz do Iguaçu, PR, no dia 6 de dezembro de 2024, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira O item 80 do Anexo Único do Convênio ICMS nº 87, de 28 de junho de 2002, publicado no Diário Oficial da União de 5 de julho de 2002, passa vigorar com a seguinte redação:
-
-“ANEXO ÚNICO
-
-| Item | Fármacos | NCM | Medicamentos | NCM |
-| Fármacos | Medicamentos |
-| 80 | Pramipexol | 2934.20.90 | Pramipexol 1 mg - por comprimido | 3003.90.89/ 3004.90.79 |
-| | | | Pramipexol 0,125 mg - por comprimido |
-| | | | Pramipexol 0,25 mg - por comprimido |
-| | Dicloridrato de Pramipexol | | Dicloridrato Pramipexol 1 mg - por comprimido |
-| | | | Dicloridrato Pramipexol 0,125 mg - por comprimido |
-| | | | Dicloridrato Pramipexol 0,25 mg - por comprimido |
-
-”.
-
-Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
-<<<DOC confaz/convenio/convenio-153-2025.md>>>
----
-documento: "CONVÊNIO ICMS 153/25"
-tipo: convenio
-numero: 153
-ano: 2025
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV153_25
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 153/25
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 153, DE 3 DE OUTUBRO DE 2025
-
-Publicado no DOU de 07.10.2025, edição extra, pelo despacho 32/25.
-
-Altera o Convênio ICMS n° 83, de 6 de outubro de 2006, que dispõe sobre procedimentos de controle das remessas de mercadorias para formação de lote de exportação em recintos alfandegados.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 198ª Reunião Ordinária, realizada em Porto Alegre, RS, no dia 3 de outubro de 2025, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira A cláusula terceira-A fica acrescida ao Convênio ICMS nº 83, de 6 de outubro de 2006, publicado no Diário Oficial da União de 11 de outubro de 2006, com a seguinte redação:
-
-“Cláusula terceira-A A critério da unidade federada, a diferença a menor no volume, apurada em conferência física nos despachos aduaneiros de operações com sucos de frutas, classificados na posição 2009 da Nomenclatura Comum do Mercosul baseada no Sistema Harmonizado - NCM/SH, será admitida até o limite de 0,5% (cinco décimos por cento), desde que ocorra durante o transporte e para formação de lote para exportação.”.
-
-Cláusula segunda Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.
-<<<DOC confaz/convenio/convenio-154-2005.md>>>
----
-documento: "CONVÊNIO ICMS 154/05"
-tipo: convenio
-numero: 154
-ano: 2005
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV154_05
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 154/05
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 154/05
-
-Publicado no DOU de 21.12.05.
-
-Altera o Convênio ICMS 16/03, que dispõe sobre normas e procedimentos relativos ao registro de equipamento Emissor de Cupom Fiscal - ECF.
-
-O Conselho Nacional de Política Fazendária - CONFAZ
-
-, na sua 120ª reunião ordinária, realizada em Mata de São João, BA, no dia 16 de dezembro de 2005, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira
-
-Passam a vigorar com a redação indicada os seguintes dispositivos do Convênio ICMS 16/03 , de 4 de abril de 2003:
-
-I - o inciso V e suas alíneas "a" e "g" da cláusula quinta:
-
-"V - 1 (um) conjunto original rubricado e datado pelo fabricante ou importador, ainda que por seu representante, para a Secretaria Executiva do CONFAZ, e uma cópia para cada Unidade, excetuadas as previstas na cláusula qüinquagésima terceira, e para a Secretaria da Receita Federal, contendo os seguintes elementos:
-
-"a) documentação relativa ao equipamento, em português, com informações gravadas em meio óptico não regravável, observado o disposto nos §§ 1º e 2º contendo:";
-
-"g) cópia de todos os documentos possíveis de serem emitidos pelo ECF, com registro de todas as operações passíveis de serem realizadas, em arquivo eletrônico no formato "pdf" e gravado em meio ótico não regravável;";
-
-II - a cláusula qüinquagésima terceira:
-
-"Cláusula qüinquagésima terceira O disposto neste convênio não se aplica aos Estados do Amazonas, Espírito Santo, Mato Grosso do Sul, Minas Gerais, Pernambuco, Rio Grande do Norte, Rio Grande do Sul, Santa Catarina e Sergipe.".
-
-Cláusula segunda
-
-Ficam acrescentados os seguintes dispositivos ao Convênio ICMS 16/03 :
-
-I - § 6º à cláusula sétima:
-
-"§ 6 o Em relação à substituição de circuito integrado indicado na alínea "c" do inciso II desta cláusula:
-
-I - admite-se a substituição do dispositivo de armazenamento do Software Básico por outro de mesmo tipo, desde que não afete os esquemas elétricos e leiaute de circuito impresso da Placa Controladora Fiscal e da Memória Fiscal;
-
-II - em relação ao disposto no inciso V e nas alíneas "b" e "h" do inciso XIII, do caput da cláusula quarta do Convênio ICMS 85/01, de 28 de setembro de 2001, o dispositivo de armazenamento de dados poderá variar em quantidade ou tipo, desde que seja mantido o esquema elétrico e leiaute de circuito impresso da placa onde esteja montado, sendo permitida a substituição, adição ou supressão de outro componente eletrônico que não seja circuito integrado.";
-
-II - § 7º à cláusula sétima:
-
-"§ 7º O fabricante do programa aplicativo de que trata o inciso V desta cláusula, deverá fornecer as DLL (Dynamic Language Library) que permitam cumprir instruções do programa aplicativo "eECF", desenvolvido pela Associação dos Fabricantes e Revendedores de Produtos para Automação Comercial.".
-
-Cláusula terceira
-
-Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
-
-Mata de São João, BA, 16 de dezembro de 2005.
-<<<DOC confaz/convenio/convenio-154-2015.md>>>
----
-documento: "CONVÊNIO ICMS 154/15"
-tipo: convenio
-numero: 154
-ano: 2015
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV154_15
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 154/15
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 154, DE 11 DE DEZEMBRO DE 2015
-
-Publicado no DOU de 15.12.15, pelo Despacho 236/15.
-
-Ratificação Nacional no DOU de 30.12.15, pelo Ato Declaratório 30/15.
-
-Altera o Convênio ICMS 52/91, que concede redução da base de cálculo nas operações com equipamentos industriais e implementos agrícolas.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 159ª Reunião Ordinária, realizada em Maceió, AL, no dia 11 de dezembro de 2015, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Os dispositivos a seguir indicados do Convênio ICMS 52/91, de 26 de setembro de 1991, passam a vigorar com a seguinte redação:
-
-I - o inciso II da cláusula primeira:
-
-“II - nas operações internas, 8,80% (oito inteiros e oitenta centésimos por cento).”;
-
-II - o inciso II da cláusula segunda:
-
-“II - nas operações internas, 5,60% (cinco inteiros e sessenta centésimos por cento);”;
-
-III - os seguintes itens do Anexo I:
-
-“
-
-| 39.5 | Outras máquinas de lavar de capacidade superior a 20 kg, em peso de roupa seca de uso não doméstico | 8450.20.90 |
-| 40.4 | Outras máquinas de secar, com capacidade superior a 15 Kg, de uso não doméstico | 8451.29.90 |
-| 40.8 | Máquinas para lavar, com capacidade superior a 15 kg, de uso não doméstico | 8451.40.10 |
-
-”.
-
-Cláusula segunda Ficam revogados os itens 39.1, 39.2, 39.3 e 40.2 do Anexo I do Convênio ICMS 52/91.
-
-Cláusula terceira Ficam prorrogadas até 30 de junho de 2017 as disposições contidas no Convênio ICMS 52/91, de 26 de setembro de 1991.
-
-Cláusula quarta Este convênio entra em vigor na data da publicação da sua ratificação nacional.
-<<<DOC confaz/convenio/convenio-154-2022.md>>>
----
-documento: "CONVÊNIO ICMS 154/22"
-tipo: convenio
-numero: 154
-ano: 2022
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV154_22
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 154/22
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 154, DE 23 DE SETEMBRO DE 2022
-
-Publicado no DOU de 27.09.22. pelo despacho 60/22.
-
-Altera o Convênio ICMS nº 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.
-
-O Conselho Nacional de Política Fazendária – CONFAZ, na sua 186ª Reunião Ordinária, realizada em Maceió, AL, no dia 23 de setembro 2022, tendo em vista o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º e nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Os dispositivos a seguir indicados do Convênio ICMS nº 142, de 14 de dezembro de 2018, passam a vigorar com as seguintes redações:
-
-I - o item 63.0 do Anexo XIX:
-
-“
-
-| ITEM | CEST | NCM/SH | DESCRIÇÃO |
-| 63.0 | 20.063.00 | 3923.30.90 3924.10.00 3924.90.00 4014.90.90 7013 | Mamadeiras |
-
-”;
-
-II - o item 33.0 do Anexo XXVI:
-
-“
-
-| ITEM | CEST | NCM/SH | DESCRIÇÃO |
-| 33.0 | 28.033.00 | 3923.30.90 3924.10.00 3924.90.00 4014.90.90 7013 | Mamadeiras |
-
-”.
-
-Cláusula segunda Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.
-<<<DOC confaz/convenio/convenio-154-2024.md>>>
----
-documento: "CONVÊNIO ICMS 154/24"
-tipo: convenio
-numero: 154
-ano: 2024
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV154_24
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 154/24
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 154, DE 6 DE DEZEMBRO DE 2024
-
-Publicado no DOU de 11.12.24. pelo despacho 51/24.
-
-Ratificação Nacional no DOU de 27.12.24, pelo Ato Declaratório 36/24.
-
-Altera o Convênio ICMS nº 162, de 7 de dezembro de 1994, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas operações com medicamentos destinados ao tratamento de câncer.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 195ª Reunião Ordinária, realizada em Foz do Iguaçu, PR, no dia 6 de dezembro de 2024, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira O item 43 do Anexo Único do Convênio ICMS nº 162, de 7 de dezembro de 1994, publicado no Diário Oficial da União de 14 de dezembro de 1994, passa a vigorar com a seguinte redação:
-
-“ANEXO ÚNICO
-
-| ITEM | MEDICAMENTO |
-| 43 | Docetaxel, seus hidratos ou seus sais |
-
-”.
-
-Cláusula segunda Os itens 128 e 172 do Anexo Único do Convênio ICMS nº 162/94 ficam revogados.
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2025.
-<<<DOC confaz/convenio/convenio-154-2025.md>>>
----
-documento: "CONVÊNIO ICMS 154/25"
-tipo: convenio
-numero: 154
-ano: 2025
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV154_25
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 154/25
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 154, DE 3 DE OUTUBRO DE 2025
-
-Publicado no DOU de 07.10.2025, edição extra, pelo despacho 32/25.
-
-Altera o Convênio ICMS nº 213, de 15 de dezembro de 2017, que dispõe sobre a substituição tributária nas operações com aparelhos celulares e cartões inteligentes relacionados no Anexo XX do Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 198ª Reunião Ordinária, realizada em Porto Alegre, RS, no dia 3 de outubro de 2025, tendo em vista o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º, nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006, e no Convênio ICMS nº 142, de 14 de dezembro de 2018, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Os §§ 1º e 2º ficam acrescidos ao “caput” da cláusula primeira do Convênio ICMS nº 213, de 15 de dezembro de 2017, publicado no Diário Oficial da União, de 19 de dezembro de 2017, com as seguintes redações:
-
-“§ 1º A critério da unidade federada, o regime de substituição tributária previsto neste convênio poderá ser dispensado nas operações destinadas a estabelecimentos prestadores de serviços de comunicação com atividade principal classificada nos códigos 6110-8/01 ou 6120-5/01 da Classificação Nacional de Atividade Econômica – CNAE, hipótese em que a retenção do imposto devido por substituição será realizada no momento da saída da mercadoria desses estabelecimentos.
-
-§ 2º O disposto no § 1º não se aplica ao Estado de Goiás.”.
-
-Cláusula segunda Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.
-<<<DOC confaz/convenio/convenio-155-2002.md>>>
----
-documento: "CONVÊNIO ICMS 155/02"
-tipo: convenio
-numero: 155
-ano: 2002
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV155_02
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 155/02
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 155/02
-
-Publicado no DOU de 19.12.02
-
-Acrescenta dispositivos no Convênio ICMS 03/99, de 16.04.99, que dispõe sobre o regime de substituição tributária nas operações com combustíveis e lubrificantes, derivados ou não de petróleo, e outros produtos.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 108ª reunião ordinária, realizada em Natal, RN, no dia 13 de dezembro de 2002, tendo em vista o disposto no art. 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira
-
-Ficam acrescentados os dispositivos adiante indicados ao Convênio ICMS 03/99 , de 16 de abril de 1999, com a seguinte redação:
-
-I - o § 8º à cláusula décima primeira:
-
-"§ 8º Na hipótese de dilação, a qualquer título, do prazo de pagamento do ICMS pela unidade federada de origem, o imposto deverá ser recolhido integralmente à unidade federada de destino no prazo fixado neste convênio.";
-
-II - o § 8º à cláusula décima segunda:
-
-"§ 8º Na hipótese de dilação, a qualquer título, do prazo de pagamento do ICMS pela unidade federada de origem, o imposto deverá ser recolhido integralmente à unidade federada de destino no prazo fixado neste convênio.".
-
-Cláusula segunda
-
-Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2003.
-
-.Natal, RN, 13 de dezembro de 2002.
-<<<DOC confaz/convenio/convenio-155-2013.md>>>
----
-documento: "CONVÊNIO ICMS 155/13"
-tipo: convenio
-numero: 155
-ano: 2013
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV155_13
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 155/13
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 155, DE 18 DE OUTUBRO DE 2013
-
-Publicado no DOU de 21.10.13, pelo Despacho 218/13 .
-
-Ratificação Nacional no DOU de 13.11.13, pelo Ato Declaratório 21/13 .
-
-Dispõe sobre a adesão do Estado do Amazonas às disposições do Convênio ICMS 91/12, que autoriza os Estados e o Distrito Federal a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares, e dispõe da exclusão dos entes federados que cita das disposições do Convênio ICMS 09/93.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 207ª reunião extraordinária, realizada em Brasília, DF, no dia 18 de outubro de 2013, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Aplicam-se ao Estado do Amazonas as disposições contidas no Convênio ICMS 91/12 , de 28 de setembro de 2012.
-
-Cláusula segunda Fica alterada a cláusula terceira do Convênio ICMS 91/12 , que passa a vigorar com a seguinte redação:
-
-“Cláusula terceira Ficam os Estados do Acre, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Maranhão e Rio de Janeiro excluídos das disposições do Convênio ICMS 09/93, de 30 de abril de 1993.”.
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir do primeiro dia do mês subsequente ao da ratificação.
-<<<DOC confaz/convenio/convenio-155-2015.md>>>
----
-documento: "CONVÊNIO ICMS 155/15"
-tipo: convenio
-numero: 155
-ano: 2015
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV155_15
-extraido_em: "2026-10-24"
----
-
-# CONVÊNIO ICMS 155/15
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 155, DE 11 DE DEZEMBRO DE 2015
-
-Publicado no DOU de 15.12.15, pelo Despacho 236/15.
-
-Dispõe sobre a produção de efeitos de Convênios e Protocolos que versem sobre os regimes de substituição tributária e de antecipação de recolhimento do ICMS com o encerramento de tributação, relativos às operações subsequentes, a partir de 1º de janeiro de 2016.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 159ª Reunião Ordinária realizada em Maceió, AL, no dia 11 de dezembro de 2015, tendo em vista o disposto nos art. 6º a 9º da Lei Complementar nº 87, de 13 de setembro de 1996, bem como na alínea “a” do inciso XIII do § 1º e nos §§ 7º e 8º do art. 13 da Lei Complementar nº 123, de 14 de dezembro de 2006, e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Os Convênios e Protocolos que versam sobre os regimes de substituição tributária e de antecipação de recolhimento do ICMS com o encerramento de tributação, relativos às operações subsequentes, continuam a produzir efeitos, naquilo que não forem contrários às disposições do Convênio ICMS 92/15, de 20 de agosto de 2015.
-
-Cláusula segunda Este convênio passa a vigorar a partir de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2016.

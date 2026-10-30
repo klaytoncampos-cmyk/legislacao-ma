@@ -8,7 +8,7 @@ ementa: "Acrescenta o § 2º ao art. 304 do RICMS, aprovado pelo Decreto 14.744/
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=52e399bb-ed9e-459e-b069-6e69b931841b
 atualizado_na_fonte: "2026-08-12 14:40:40"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -91,7 +91,7 @@ ementa: "Revoga o inciso VII do art. 13 do RICMS, aprovado pelo Decreto nº 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=401aedfb-2be9-45d6-88c7-4077b7ba193b
 atualizado_na_fonte: "2026-08-12 14:41:04"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -165,7 +165,7 @@ ementa: "Dá nova redação ao inciso III do art. 4º do Decreto nº 16.736/1999
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ae4f8a54-6a51-4148-ac7f-c6c024d745c0
 atualizado_na_fonte: "2026-08-12 14:41:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -248,7 +248,7 @@ ementa: "Dá nova redação aos incisos VI e I dos arts.45 e 68 do RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c020b7d8-89e7-48cd-a51a-02e08dd07a97
 atualizado_na_fonte: "2026-08-12 14:43:53"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 0.0
@@ -342,7 +342,7 @@ ementa: "Acrescenta o inciso LXXIX ao art. 9º do RICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=baca4b66-4675-43fd-af04-96082ffc982d
 atualizado_na_fonte: "2026-08-12 14:45:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -399,7 +399,7 @@ ementa: "Dá nova redação ao § 13 do art. 10 do RICMS, aprovado pelo Decreto 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5636cf8c-8111-4661-a74c-1d8aaee50c16
 atualizado_na_fonte: "2026-08-12 14:50:12"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -478,7 +478,7 @@ ementa: "Altera o Anexo 65 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7065bc70-24d5-495c-a876-802648c208f3
 atualizado_na_fonte: "2025-07-11 16:17:24"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -767,7 +767,7 @@ ementa: "Altera dispositivos do RICMS, aprovado pelo Decreto nº 14.744/1995, qu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c57fc114-60c7-4b5b-9ade-f7961f5e993e
 atualizado_na_fonte: "2026-08-12 14:52:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -860,7 +860,7 @@ ementa: "Prorroga benefício isencional nas saídas internas e interestaduais de
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=25b9a10c-a2c3-44c4-90c3-5a46c88a0168
 atualizado_na_fonte: "2025-07-11 16:16:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -934,7 +934,7 @@ ementa: "Aprova o novo modelo da Guia para Liberação de Mercadoria Estrangeira
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=417c31f0-fa87-492c-82b9-bc0cd041f87a
 atualizado_na_fonte: "2025-07-11 16:16:29"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1105,7 +1105,7 @@ ementa: "Restabelece o inciso VII do art. 13 do RICMS, aprovado pelo Decreto nº
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=35966fcf-8530-4fa0-85fa-888cb26b9d45
 atualizado_na_fonte: "2026-08-12 14:53:35"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1214,7 +1214,7 @@ ementa: "Dá nova redação à Seção VIII do Capítulo XII do Título VII do R
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3b7abc88-a2e1-42bc-85e0-3dc13831fd8e
 atualizado_na_fonte: "2026-08-12 14:54:15"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1339,7 +1339,7 @@ ementa: "Dá nova redação ao inciso I do art. 527 do RICMS, aprovado pelo Decr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f7e29449-9f8c-476f-a779-c8628a26b46e
 atualizado_na_fonte: "2026-08-12 14:54:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1400,7 +1400,7 @@ ementa: "Dá nova redação ao § 6º do art. 714 do RICMS, aprovado pelo Decret
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2148d405-62e3-417d-891d-066f428ccbc3
 atualizado_na_fonte: "2026-08-12 14:58:26"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1451,7 +1451,7 @@ ementa: "Dá nova redação ao inciso II do art. 51 do RICMS - concessão de cr�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=27aefdeb-c712-4b63-8759-69249ed314e2
 atualizado_na_fonte: "2026-08-12 15:03:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1542,7 +1542,7 @@ ementa: "Dá nova redação ao inciso XLVIII do art. 10 do RICMS, aprovado pelo 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1163aa29-f9bf-4260-b81e-546214dc2853
 atualizado_na_fonte: "2026-08-12 15:03:56"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1630,7 +1630,7 @@ ementa: "Dá nova redação ao inciso XIII do art. 37 do RICMS, que dispõe sobr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=af81c658-01ca-4858-9942-56db0ab8226d
 atualizado_na_fonte: "2026-08-12 15:04:15"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1762,7 +1762,7 @@ ementa: "Prorroga benefícios concedidos ao comércio atacadista, de que tratam 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3ab8c096-98df-4a6d-bd2a-38623eeef931
 atualizado_na_fonte: "2026-08-12 15:04:35"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1832,7 +1832,7 @@ ementa: "Acrescenta o art. 82.A ao RICMS, aprovado pelo Decreto no 14.744/1995 -
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92d04f1b-7056-4f7d-9fa8-c59fc5a44c21
 atualizado_na_fonte: "2026-08-12 14:29:30"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1884,7 +1884,7 @@ ementa: "Revoga o inciso I do art. 1º do Decreto nº 17.106/1999 e dá nova red
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9e01618e-387b-4150-b166-d904df3a93c7
 atualizado_na_fonte: "2026-08-12 14:29:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1944,7 +1944,7 @@ ementa: "Dá nova redação ao § 2º do art. 734 do Regulamento do ICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3fb59001-113e-49e3-86c6-425998536245
 atualizado_na_fonte: "2025-07-11 16:37:23"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1999,7 +1999,7 @@ ementa: "Dá nova redação ao § 1º do art. 31 do Regulamento do ICMS, aprovad
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6b9740cb-2f17-4628-8cb7-dc5814756206
 atualizado_na_fonte: "2025-07-11 16:37:35"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2050,7 +2050,7 @@ ementa: "Acrescenta o inciso XIX ao art. 37 do RICMS, aprovado pelo Decreto no 1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d406de80-18c2-4a30-aae9-21f1fbbfa698
 atualizado_na_fonte: "2026-08-12 14:28:40"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2102,7 +2102,7 @@ ementa: "Acrescenta itens ao inciso II do art. 74 do RICMS, aprovado pelo Decret
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=93423345-22af-43a8-b244-6b0106f93e5d
 atualizado_na_fonte: "2026-08-12 14:28:13"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2167,7 +2167,7 @@ ementa: "Dá nova redação ao art. 157 do RICMS, aprovado pelo Decreto no 14.74
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e159f7ea-107c-42a3-ab17-e465079f6a8d
 atualizado_na_fonte: "2026-08-12 14:27:50"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2272,7 +2272,7 @@ ementa: "Dá nova redação ao inciso VI do art. 581 do RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c78c0c1e-9f08-43c1-b16f-4ae509b75253
 atualizado_na_fonte: "2026-08-12 14:27:33"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2323,7 +2323,7 @@ ementa: "Acrescenta o § 9º ao art. 51 do RICMS, aprovado pelo Decreto nº 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2182b43a-ce79-4fb1-9cbb-7ca3d986c341
 atualizado_na_fonte: "2026-08-12 14:27:10"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2376,7 +2376,7 @@ ementa: "Revoga o Decreto nº 17.147/1.999 e dá nova redação ao inciso XLVIII
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=80fcdb50-e398-43fc-ba28-d86d74e469b1
 atualizado_na_fonte: "2026-08-12 14:26:38"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2433,7 +2433,7 @@ ementa: "Altera os itens 74 e 75 do Anexo 65 do Regulamento do RICMS, aprovado p
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a2f1487-6f96-4298-b0be-c1a1d969798a
 atualizado_na_fonte: "2025-07-11 16:39:27"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2489,7 +2489,7 @@ ementa: "Prorroga dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=71fbe0d5-fd06-43e8-8989-c2e7ce0fb9cb
 atualizado_na_fonte: "2025-07-11 16:39:44"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2555,7 +2555,7 @@ ementa: "Dá nova redação ao inciso VII do art. 30 do RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=091f37e3-907d-4976-a52c-e0d7b185bffd
 atualizado_na_fonte: "2026-08-12 14:25:40"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2600,7 +2600,7 @@ ementa: "Acrescenta o inciso LXXX ao art. 9º do RICMS - isenção às saídas d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=84f74044-4fb3-4d07-99a0-d7b883326374
 atualizado_na_fonte: "2026-08-12 14:25:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2689,7 +2689,7 @@ ementa: "Dá nova redação aos incisos I a III do § 3º do art. 796 do RICMS -
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=55000d97-dcdf-4e4f-bcd0-9bc4858d8ff5
 atualizado_na_fonte: "2026-08-12 14:24:42"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2757,7 +2757,7 @@ ementa: "Acrescenta o inciso XVII ao art. 13 do RICMS, aprovado pelo Decreto nº
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fe34677a-c2cb-4aa4-9d77-fa9a886de36f
 atualizado_na_fonte: "2026-08-12 14:24:08"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2823,7 +2823,7 @@ ementa: "Dá nova redação ao art. 714 do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d22ded35-d7a4-4d7f-8777-5348eabb1f9b
 atualizado_na_fonte: "2025-07-11 16:40:51"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2866,7 +2866,7 @@ ementa: "Acrescenta o inciso XVIII ao art. 13 do RICMS, aprovado pelo Decreto n�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f063b2a6-0b3d-42b6-84f9-602d262c2aa5
 atualizado_na_fonte: "2026-08-12 14:23:32"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2912,7 +2912,7 @@ ementa: "Dispõe sobre a transferência de saldo credor do ICMS de estabelecimen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a7530e9f-5874-4e5d-8afc-3c12a9d60930
 atualizado_na_fonte: "2025-07-11 16:41:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3085,7 +3085,7 @@ ementa: "Acrescenta a alínea 'v' ao art. 153 do RICMS, aprovado pelo Decreto n�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ad69ff63-ef4c-4ff8-94f5-5582e0b595f1
 atualizado_na_fonte: "2026-08-12 14:22:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3149,7 +3149,7 @@ ementa: "Acrescenta dispositivos ao RICMS, aprovado pelo Decreto 14.744/1995, qu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c193d036-03b4-4301-aea6-3cd236e7f7d9
 atualizado_na_fonte: "2026-08-12 14:22:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3639,7 +3639,7 @@ ementa: "Revoga a alínea 'b' do inciso VII do art. 13, o inciso V do art. 14 e 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2475e953-0be4-4626-8922-d9cf5bedbb27
 atualizado_na_fonte: "2026-08-12 14:21:56"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3690,7 +3690,7 @@ ementa: "Restabelece o § 5° do art. 74 do RICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a048045a-7b25-4ffb-99ab-cbd15554fcd2
 atualizado_na_fonte: "2026-08-12 14:20:37"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3738,7 +3738,7 @@ ementa: "Restabelece os §§ 1° ao 6° do art. 714 do Regulamento do ICMS, apro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b349a7a3-b82e-4b3c-a236-f56ed8df8a8b
 atualizado_na_fonte: "2025-07-11 16:45:24"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3799,7 +3799,7 @@ ementa: "Dá nova redação ao inciso XVIII ao art. 13 do RICMS, aprovado pelo D
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=59089d22-2823-46a7-83a0-5808a8e07c36
 atualizado_na_fonte: "2026-10-15 14:47:32"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3842,7 +3842,7 @@ ementa: "Acrescenta a Seção V ao capítulo VIII do Título IV ao Regulamento d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d068aeae-1be6-45e8-9a75-6a8e12e2d083
 atualizado_na_fonte: "2026-10-15 14:47:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4031,7 +4031,7 @@ ementa: "Altera o § 1º do art. 6º do Decreto nº 16.084/1998, que dispõe sob
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c5e4856-4717-4898-ab0f-f4425e0658d5
 atualizado_na_fonte: "2026-10-15 14:46:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4084,7 +4084,7 @@ ementa: "Dá nova redação ao inciso XLVIII do art. 9° do RICMS, aprovado pelo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d30fac78-9775-4925-9577-4c59af0965ad
 atualizado_na_fonte: "2026-10-15 14:46:25"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4138,7 +4138,7 @@ ementa: "Dá nova redação ao caput do art. 708 do RICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bd18f89d-c31f-4fdd-a449-4e2f46a680ef
 atualizado_na_fonte: "2026-10-15 14:46:15"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4184,7 +4184,7 @@ ementa: "Acrescenta o parágrafo único ao art. 624 do RICMS, aprovado pelo Decr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b51c260e-5fac-4882-8299-7795daeebbf2
 atualizado_na_fonte: "2026-10-15 14:46:08"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4236,7 +4236,7 @@ ementa: "Acrescenta o § 16 ao art. 10 do RICMS, aprovado pelo Decreto n° 14.74
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0f4eed7d-382b-41ce-9b40-777eae6ca4d8
 atualizado_na_fonte: "2026-10-15 14:45:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4282,7 +4282,7 @@ ementa: "Dá nova redação ao inciso IX do art. 581 do RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5eac566c-837a-479a-b0cc-ca6da8e6fb8b
 atualizado_na_fonte: "2026-10-15 14:45:35"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4329,7 +4329,7 @@ ementa: "Dá nova redação ao inciso I do art. 248 do RICMS, aprovado pelo Decr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3e830b57-fdf4-432a-a78c-e77b869604e0
 atualizado_na_fonte: "2026-10-15 14:45:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4378,7 +4378,7 @@ ementa: "Prorroga dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ef34563d-e780-451b-8f2d-38276fce335c
 atualizado_na_fonte: "2026-10-15 14:45:04"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4426,7 +4426,7 @@ ementa: "Dá nova redação ao caput do art. 812 do Regulamento do ICMS, que dis
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=33841394-db96-462d-8594-6fbafe8aa639
 atualizado_na_fonte: "2026-10-15 14:44:44"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4476,7 +4476,7 @@ ementa: "Acrescenta o § 9º ao art. 51 do RICMS, aprovado pelo Decreto nº 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1463957f-2e28-4958-81e5-96759c53cc22
 atualizado_na_fonte: "2026-10-15 14:44:37"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4524,7 +4524,7 @@ ementa: "Altera o item 74 do Anexo 65 do Regulamento do RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c3351686-9f0c-4171-a84e-52278a51db81
 atualizado_na_fonte: "2026-10-15 14:44:30"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4577,7 +4577,7 @@ ementa: "Altera e acrescenta dispositivos ao RICMS, aprovado pelo Decreto n° 14
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3120a1fb-7345-4998-a776-7ce68d3cef65
 atualizado_na_fonte: "2026-10-15 14:43:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4668,7 +4668,7 @@ ementa: "Acrescenta a alínea 'f' ao § 2° do art. 13 do RICMS, aprovado pelo D
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4cd4094e-3228-4284-8c3c-0b0af6da312d
 atualizado_na_fonte: "2026-10-15 14:43:14"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4739,7 +4739,7 @@ ementa: "Dá nova redação aos incisos XVI e XVIII dos arts. 13 e 37, respectiv
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c686b4e1-1232-4bc8-bc65-8fe2d738f580
 atualizado_na_fonte: "2026-10-15 14:42:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4795,7 +4795,7 @@ ementa: "Dá nova redação à alínea d do § 2° do art. 13 do RICMS, aprovado
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8f1cae14-0c47-4c0d-8ea6-b1d4d26f3234
 atualizado_na_fonte: "2026-10-15 14:42:02"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4846,7 +4846,7 @@ ementa: "Dá nova redação ao art. 2.º do Decreto n.º 17.276/2000, que acresc
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a1cf6823-12cb-4e89-abb7-5055d455d864
 atualizado_na_fonte: "2026-10-15 14:41:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4901,7 +4901,7 @@ ementa: "Dá nova redação ao inciso XV do art. 37 do RICMS, aprovado pelo Decr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=788e7dfb-3140-42ab-9327-81700a1bbd33
 atualizado_na_fonte: "2026-10-15 14:41:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4982,7 +4982,7 @@ ementa: "Dá nova redação ao inciso VII do art. 30 do RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=917cc5c5-4eb0-4705-8aa1-081f78ff5608
 atualizado_na_fonte: "2026-10-15 14:40:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5037,7 +5037,7 @@ ementa: "Dá nova redação ao § 2º do art. 734 do Regulamento do ICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=90a5005f-631c-4aa4-b657-046d3571a375
 atualizado_na_fonte: "2026-10-15 14:39:40"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5104,7 +5104,7 @@ ementa: "Acrescenta o § 3° ao art. 521 do Regulamento do ICMS, aprovado pelo D
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3b015a4e-f9d2-4508-a502-7576bf81c779
 atualizado_na_fonte: "2026-10-15 14:37:56"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5169,7 +5169,7 @@ ementa: "Dá nova redação aos arts. 76 e 553 do RICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=db6eac32-6922-45a0-9c9a-8c25f9c0b33b
 atualizado_na_fonte: "2026-10-15 14:36:37"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5220,7 +5220,7 @@ ementa: "Acrescenta o art. 803.U ao RICMS, aprovado pelo Decreto nº 14.744/1995
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ea9429d1-27a9-4424-bfa6-3632a2bb4513
 atualizado_na_fonte: "2026-10-15 14:36:31"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5273,7 +5273,7 @@ ementa: "Restabelece os dispositivos que indica do Decreto nº 16.645/1998 - tra
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e2d3ba5c-3836-46c7-a243-1835e0fea05d
 atualizado_na_fonte: "2026-10-15 14:36:13"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5390,7 +5390,7 @@ ementa: "Dá nova redação ao § 3° do art. 521 do Regulamento do ICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=65b27af9-2df1-4bd9-8f30-eae9eb7f44fd
 atualizado_na_fonte: "2026-10-15 14:35:51"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5462,7 +5462,7 @@ ementa: "Altera dispositivos do RICMS, aprovado pelo Decreto n° 14.744/1995, qu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fcd85735-702c-45b6-8963-47ad100d30d1
 atualizado_na_fonte: "2026-10-15 14:35:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5539,7 +5539,7 @@ ementa: "Dá nova redação ao art. 74 do RICMS, aprovado pelo Decreto nº 14.74
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=69cf5a44-ab59-425c-b85f-8147fcd94ba0
 atualizado_na_fonte: "2026-10-15 14:05:26"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5601,7 +5601,7 @@ ementa: "Dá nova redação aos incisos XVI e XVIII dos arts. 13 e 37, respectiv
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5ebb1a06-c053-4f46-a469-58e349d2907f
 atualizado_na_fonte: "2026-10-14 18:09:35"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5677,7 +5677,7 @@ ementa: "Acrescenta dispositivo ao RICMS, aprovado pelo Decreto nº 14.744/1995 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d3d522d3-c237-4116-802e-1c87f63d5921
 atualizado_na_fonte: "2026-10-14 18:08:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5744,7 +5744,7 @@ ementa: "Acrescenta o § 17 ao art.10 do RICMS, aprovado pelo Decreto n° 14.744
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=867d38b8-23a3-4eff-9239-6319b26c307c
 atualizado_na_fonte: "2026-10-14 18:08:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5803,7 +5803,7 @@ ementa: "Acrescenta dispositivos ao RICMS, aprovado pelo Decreto n° 14.744/1995
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5a558221-7f31-468f-8e04-eaffb2d93e3b
 atualizado_na_fonte: "2026-10-14 18:08:19"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5887,7 +5887,7 @@ ementa: "Dá nova redação ao inciso XLVIII do art. 9° do RICMS, aprovado pelo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4f8dd694-8560-4fc8-8572-e4793b3d4110
 atualizado_na_fonte: "2026-10-14 18:07:38"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5951,7 +5951,7 @@ ementa: "Acrescenta o inciso XX ao art. 37 do RICMS, aprovado pelo Decreto n° 1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f96cc7e1-3466-4744-8892-cbb54c38f453
 atualizado_na_fonte: "2026-10-14 18:07:28"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6020,7 +6020,7 @@ ementa: "Acrescenta o inciso III ao art, 76 do Regulamento do ICMS, aprovado pel
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=558bda1b-f0b4-4bfe-852d-98375f48e176
 atualizado_na_fonte: "2026-10-14 17:39:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6094,7 +6094,7 @@ ementa: "Dá nova redação aos arts. 685, 686 e 689 do RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e657713a-8bd6-447c-a0e3-c5525d31e790
 atualizado_na_fonte: "2026-10-14 17:38:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6200,7 +6200,7 @@ ementa: "Acrescenta os arts. 152.A e 152.B ao RICMS, aprovado pelo Decreto nº 1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=da49f86d-5913-4650-ab9e-fe4c44e97aff
 atualizado_na_fonte: "2026-10-14 17:38:11"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6294,7 +6294,7 @@ ementa: "Altera dispositivo do RICMS, aprovado pelo Decreto nº 14.744/1995 - co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ec8de57e-7502-48d4-aae8-21419fe8033a
 atualizado_na_fonte: "2026-10-14 17:06:00"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6369,7 +6369,7 @@ ementa: "Dá nova redação ao caput do art. 260 do RICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=60ae2219-816f-48e7-badb-391f4029b09e
 atualizado_na_fonte: "2026-10-14 17:05:50"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6429,7 +6429,7 @@ ementa: "Dá nova redação ao inciso I, do § 3º do art. 796 do RICMS, aprovad
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ae2d0ecc-a6bc-4472-87b7-ac7f3373137b
 atualizado_na_fonte: "2026-10-14 17:05:38"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6484,7 +6484,7 @@ ementa: "Dá nova redação aos incisos I, a III do § 3º do art. 796 do RICMS,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dc82e053-a38a-4ad4-a6eb-d17b0d93923d
 atualizado_na_fonte: "2026-10-14 17:04:05"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6546,7 +6546,7 @@ ementa: "Acrescenta o § 27 ao art. 9º do RICMS, aprovado pelo Decreto nº 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d4fd3c06-11f0-40d9-8a5d-1f2a71a81287
 atualizado_na_fonte: "2026-10-14 17:03:53"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6605,7 +6605,7 @@ ementa: "Acrescenta o § 7º ao art. 257 do RICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b249521e-2a42-49cc-87d9-d80ad2ccfb7d
 atualizado_na_fonte: "2026-10-14 17:03:44"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6661,7 +6661,7 @@ ementa: "Acrescenta o § 2º ao art. 625 do RICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=094145dd-b61a-46d0-be26-81fa823c78f3
 atualizado_na_fonte: "2026-10-14 17:03:36"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6717,7 +6717,7 @@ ementa: "Acrescenta o art. 63.A ao RICMS, aprovado pelo Decreto n° 14.744/1995,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a84e6a8c-6d9e-4fee-bedc-1378f5ad5341
 atualizado_na_fonte: "2026-10-14 17:02:29"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6772,7 +6772,7 @@ ementa: "Acrescenta o Capítulo X. A ao Título VII do Regulamento do ICMS, apro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0ed3be8e-5d03-4b96-9f0a-d069ce67f811
 atualizado_na_fonte: "2026-10-14 16:56:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6920,7 +6920,7 @@ ementa: "Dispõe sobre o regime de substituição tributária nas operações co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=066ffd06-fa05-4263-a4fb-ce9f62b45452
 atualizado_na_fonte: "2026-10-14 16:55:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -7123,7 +7123,7 @@ ementa: "Acrescenta o inciso LXXXIV ao art. 9º do RICMS, aprovado pelo Decreto 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d9b633c8-0923-4ea2-be14-2204c0896040
 atualizado_na_fonte: "2026-10-14 16:47:40"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7167,7 +7167,7 @@ ementa: "Acrescenta o inciso XXXVII ao art. 10 do RICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4d7e085e-50d6-4e38-accd-6934e210f916
 atualizado_na_fonte: "2026-10-14 16:47:33"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7214,7 +7214,7 @@ ementa: "Revoga dispositivos do RICMS, que dispõem sobre o regime de substitui�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3c71c5c3-fbcd-4afd-bea2-1dcc8cd9abdd
 atualizado_na_fonte: "2026-10-14 16:47:24"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -7257,7 +7257,7 @@ ementa: "Inclui empresa no Anexo 65 do RICMS, aprovado pelo Decreto nº 14.744/1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c9bb3bd-6100-4a20-aeff-6a44f0e20a9d
 atualizado_na_fonte: "2026-10-14 16:46:26"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7302,7 +7302,7 @@ ementa: "Dá nova redação à alínea 'a' do inciso XLVIII do art. 9º do RICMS
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=617570e2-5e86-4760-98ba-c429ebb70a8e
 atualizado_na_fonte: "2026-10-14 16:46:18"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7357,7 +7357,7 @@ ementa: "Dá nova redação ao caput do inciso LXXX do art. 9º do RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=756feafd-fba8-49c1-a9f8-8e8f99812285
 atualizado_na_fonte: "2026-10-14 16:46:06"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7402,7 +7402,7 @@ ementa: "Acrescenta o inciso XXI ao art. 37 do RICMS, aprovado pelo Decreto nº 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=26b46a9b-f29d-4906-a72c-1779894b4cf0
 atualizado_na_fonte: "2026-10-14 16:45:57"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7447,7 +7447,7 @@ ementa: "Restabelece o inciso IX do art. 51 do Regulamento do ICMS aprovado pelo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7dae5e31-3647-4bf7-92ad-442ce34043c2
 atualizado_na_fonte: "2026-10-14 16:45:26"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -7491,7 +7491,7 @@ ementa: "Revoga o item 1 da alínea 'c' do inciso XV do art. 37 do Regulamento d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=09119e4f-b4e5-4ccd-a0ec-6077040baa2c
 atualizado_na_fonte: "2026-10-14 16:44:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7552,7 +7552,7 @@ ementa: "Altera o Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9976d6e9-c575-4d9e-b4b5-a77b55b1824a
 atualizado_na_fonte: "2026-10-14 16:44:15"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7668,7 +7668,7 @@ ementa: "Dá nova redação ao Anexo 67 do RICMS, aprovado pelo Decreto nº 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=97b25fe9-874a-4a3e-8c47-1b71cf5ce657
 atualizado_na_fonte: "2026-10-14 16:43:42"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7713,7 +7713,7 @@ ementa: "Dá nova redação ao caput do art. 663 do Regulamento do ICMS, aprovad
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e64dd306-1404-431f-beff-9176dd3d42ae
 atualizado_na_fonte: "2026-10-14 16:43:28"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7758,7 +7758,7 @@ ementa: "Dá nova redação ao inciso VI do art. 13 do RICMS aprovado pelo Decre
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7a868a95-c8f4-4ae7-a77a-2095d359f1ab
 atualizado_na_fonte: "2026-10-14 16:43:15"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7799,7 +7799,7 @@ ementa: "Acrescenta o art. 156.A ao RICMS, aprovado pelo Decreto nº 14.744/1995
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e1c83bfd-5db8-4129-b2a2-fb39cebd19c8
 atualizado_na_fonte: "2026-10-14 16:42:37"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7853,7 +7853,7 @@ ementa: "Altera o Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=57783730-c826-482b-b6d0-16d64e3d29f2
 atualizado_na_fonte: "2026-10-14 16:42:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7900,7 +7900,7 @@ ementa: "Altera o Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=367f89c8-d643-4d50-ba76-7efe8e8a13f9
 atualizado_na_fonte: "2026-10-14 16:41:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8017,7 +8017,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS, que dispõe sobre o regime 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5d212dd7-6960-48d4-a971-dd737d9762bb
 atualizado_na_fonte: "2026-10-14 16:41:23"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8074,7 +8074,7 @@ ementa: "Dá nova redação ao § 1º do art. 803.A do RICMS - regime de substit
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96ac86bb-2a21-4c4f-89c1-12316b15cb5e
 atualizado_na_fonte: "2026-10-14 16:41:13"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8139,7 +8139,7 @@ ementa: "Dá nova redação à alínea 'a' do inciso XLVIII do art. 9º do RICMS
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b5748284-d781-4769-83d8-b6383fe4c762
 atualizado_na_fonte: "2026-10-14 16:40:56"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8202,7 +8202,7 @@ ementa: "Acrescenta a alínea 'l' ao inciso II do § 1º do art. 89 do RICMS, ap
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c76e1d73-3ce5-421c-8d73-57547d1468ff
 atualizado_na_fonte: "2026-10-14 16:40:32"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8263,7 +8263,7 @@ ementa: "Prorroga prazos referentes à concessão de benefícios fiscais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8c4c9203-8d40-491b-acbf-e2b1a73b18db
 atualizado_na_fonte: "2026-10-14 16:38:23"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8323,7 +8323,7 @@ ementa: "Dá nova redação ao caput do art. 803.B do RICMS, aprovado pelo Decre
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=41b1eee5-88f4-4afc-815c-262df0b43976
 atualizado_na_fonte: "2026-10-14 16:37:55"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8379,7 +8379,7 @@ ementa: "Dá nova redação ao parágrafo único do art. 778.B do RICMS, que dis
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f51c0d8e-6cc4-49fa-9f43-5eb4d1484b21
 atualizado_na_fonte: "2026-10-14 16:24:29"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8484,7 +8484,7 @@ ementa: "Altera a nota explicativa da Tabela B do Anexo 48, 'Código de Situaç�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5a21a68b-9aad-4468-8d79-2fd6ce3daf47
 atualizado_na_fonte: "2026-10-14 16:24:22"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8539,7 +8539,7 @@ ementa: "Acrescenta o § 3º ao art. 81 do RICMS, aprovado pelo Decreto nº 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=730ad02c-79a3-415e-8d2c-9cca0d5c7608
 atualizado_na_fonte: "2026-10-14 16:24:14"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8607,7 +8607,7 @@ ementa: "Acrescenta o inciso III ao art. 778.B do RICMS - operações com veícu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=17902987-4c38-4d5c-9bdf-3abd7d663b4b
 atualizado_na_fonte: "2026-10-14 16:24:08"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8667,7 +8667,7 @@ ementa: "Dá nova redação ao caput do art. 780 do RICMS, que dispõe sobre ope
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1e72a167-5619-4cbf-9f82-0a64206e3f79
 atualizado_na_fonte: "2026-10-14 16:12:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8726,7 +8726,7 @@ ementa: "Acrescenta o art. 627.F ao Regulamento do ICMS, que dispõe sobre a imp
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5f2b79af-9ff3-4a1a-adaf-fbddb69ae425
 atualizado_na_fonte: "2026-10-14 16:12:43"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8863,7 +8863,7 @@ ementa: "Revoga a alínea 'e' do inciso XV do art. 37 do RICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d088c678-d71c-4277-850c-93abb4009f5c
 atualizado_na_fonte: "2026-10-14 16:12:13"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8919,7 +8919,7 @@ ementa: "Dá nova redação ao art. 803.V do Regulamento do ICMS, que dispõe so
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3ba78db9-222d-4144-9104-1e8780391bb8
 atualizado_na_fonte: "2026-10-14 16:00:00"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9010,7 +9010,7 @@ ementa: "Prorroga as disposições do inciso XXXI do art. 10 do Regulamento do I
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8deab6ee-0df6-4a8d-90ef-d16679f49a04
 atualizado_na_fonte: "2026-10-14 15:59:43"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9066,7 +9066,7 @@ ementa: "Dá nova redação aos itens 2, 3 e 4 da alínea 'c' do inciso XV do ar
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=43fb58e3-3b37-43c7-93f9-85a09c49725e
 atualizado_na_fonte: "2026-10-14 15:59:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9134,7 +9134,7 @@ ementa: "Dá nova redação ao § 4º do art. 326.A do Regulamento do ICMS, apro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5c8d165a-0645-4cf0-b41e-190de10d2ad4
 atualizado_na_fonte: "2026-10-14 15:59:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9197,7 +9197,7 @@ ementa: "Altera o inciso II do § 1º do art. 796 do RICMS, relativamente a perc
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4d18d75f-285f-4d55-a4c3-813ddd83cf11
 atualizado_na_fonte: "2026-10-14 15:59:10"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9339,7 +9339,7 @@ ementa: "Acrescenta o inciso XXXVIII ao art. 10 do Regulamento do ICMS, que isen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e6fe333e-8858-4fd2-aef2-8f7a1e72cd2d
 atualizado_na_fonte: "2026-10-14 15:58:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9398,7 +9398,7 @@ ementa: "Acrescenta a Seção IX ao Capítulo XIX do Título VII do RICMS, com f
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bc2129a6-ba81-4547-8bb3-b801aedf6aea
 atualizado_na_fonte: "2026-10-14 15:58:48"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9680,7 +9680,7 @@ ementa: "Dá nova redação ao § 3º do art. 521 do Regulamento do ICMS e dá o
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5beb5093-54cb-4f9b-85f8-4920b90a490d
 atualizado_na_fonte: "2026-10-14 15:52:38"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9739,7 +9739,7 @@ ementa: "Dá nova redação ao § 3º do art. 81 do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca6834dd-39a4-41d4-81eb-60be5a0dc752
 atualizado_na_fonte: "2026-10-14 15:51:40"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9806,7 +9806,7 @@ ementa: "Dá nova redação ao Capítulo XXVIII do Título VI do Regulamento do 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e0a4376f-6811-488d-8224-4a6a7a1638a7
 atualizado_na_fonte: "2026-10-14 15:50:29"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9956,7 +9956,7 @@ ementa: "Restabelece o caput do art. 803.B do RICMS, aprovado pelo Decreto nº 1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=297d24a3-4983-4399-b82e-722718cee6b2
 atualizado_na_fonte: "2026-10-14 15:50:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10006,7 +10006,7 @@ ementa: "Dá nova redação ao caput do inciso IX do art. 9º do RICMS, aprovado
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e02add3a-299a-47c5-8260-cc2cc778eade
 atualizado_na_fonte: "2026-10-14 15:48:01"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10067,7 +10067,7 @@ ementa: "Dá nova redação ao art. 264 do Regulamento do ICMS, que dispõe sobr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c00cd3a7-90d1-44fc-9ea6-6b34558d9437
 atualizado_na_fonte: "2026-10-14 15:46:06"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10141,7 +10141,7 @@ ementa: "Acrescenta os §§ 1º e 2º ao art. 522 do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e2603f54-ca3f-4dfc-9971-a75a1e015a5b
 atualizado_na_fonte: "2026-10-14 15:45:28"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10204,7 +10204,7 @@ ementa: "Revoga os arts. 88.A e 88.B do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd43a8bf-2f16-499f-ba2c-574c6ae0d4ab
 atualizado_na_fonte: "2026-10-14 15:45:19"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10254,7 +10254,7 @@ ementa: "Dá nova redação ao art. 627. E do RICMS, que dispõe sobre a cobran�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2ffb8085-c51f-4cc4-9dc1-d56165e68d95
 atualizado_na_fonte: "2026-10-14 15:45:05"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10345,7 +10345,7 @@ ementa: "Dá nova redação ao inciso LI do art. 9º do RICMS, que concede isen�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e372e934-f36f-4ef4-bf2a-0fa4403f1612
 atualizado_na_fonte: "2026-10-14 15:44:54"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10411,7 +10411,7 @@ ementa: "Acrescenta dispositivo ao art. 9º do RICMS - isenta do ICMS as operaç
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e1656de4-4b98-49e1-b265-44cc56f10b3f
 atualizado_na_fonte: "2026-10-14 15:43:56"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10492,7 +10492,7 @@ ementa: "Prorroga prazos referentes à concessão de benefícios fiscais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1465767f-5886-441b-ad84-9111528bcf6f
 atualizado_na_fonte: "2026-10-14 15:43:48"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10544,7 +10544,7 @@ ementa: "Dá nova redação ao art. 580 do Regulamento do ICMS, que dispõe sobr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7af1816d-5f88-44db-b1bc-61ec1c055343
 atualizado_na_fonte: "2026-10-14 15:43:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10598,7 +10598,7 @@ ementa: "Acrescenta o inciso XXII ao art. 37 do RICMS - concessão da redução 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b42841c3-ebeb-4c9d-a8b5-e626f5e0a6c9
 atualizado_na_fonte: "2026-10-14 15:43:31"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10657,7 +10657,7 @@ ementa: "Dá nova redação ao § 3º do art. 81 do RICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c63abbaf-90ba-401b-a1f2-8862c039d22f
 atualizado_na_fonte: "2026-10-14 15:43:23"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10728,7 +10728,7 @@ ementa: "Acrescenta o inciso XXXIX ao art. 10 do Regulamento do ICMS, que conced
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6ab7d590-d5b4-4066-985c-1c05b74cc578
 atualizado_na_fonte: "2026-10-14 15:43:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10797,7 +10797,7 @@ ementa: "Acrescenta o inciso LXXXVII ao art. 9º do Regulamento do ICMS, que con
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=abff8124-d92e-440c-a4f5-56c00e073899
 atualizado_na_fonte: "2026-10-14 15:42:55"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10853,7 +10853,7 @@ ementa: "Altera o item 22 do parágrafo único do art. 686, que concede reduçã
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2062d6db-ff92-4db6-bdc1-185e4dc6210c
 atualizado_na_fonte: "2026-10-14 15:42:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10904,7 +10904,7 @@ ementa: "Dá nova redação ao inciso XXXV do art. 10 do RICMS, que concede isen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a55e3fe8-c43d-4a95-a7e2-33d9ed3c6a05
 atualizado_na_fonte: "2026-10-14 15:42:36"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10983,7 +10983,7 @@ ementa: "Dá nova redação aos códigos da NBM/SH, que indica, constantes no in
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a28a8f53-bc35-4531-9df6-feebb3f7b15b
 atualizado_na_fonte: "2026-10-14 15:42:27"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11033,7 +11033,7 @@ ementa: "Acrescenta os §§ 9º e 10 ao art. 796 do Regulamento do ICMS e dá ou
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f230e8ea-e0fe-4d78-a584-a5428205aef8
 atualizado_na_fonte: "2026-10-14 15:42:02"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11090,7 +11090,7 @@ ementa: "Dá nova redação ao caput do inciso X do art. 37 do RICMS - redução
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb9beb14-2f4f-4088-9b8c-7095429e9182
 atualizado_na_fonte: "2026-10-14 15:41:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11148,7 +11148,7 @@ ementa: "Restabelece os arts. 88.A e 88.B do RICMS aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4faf88f2-e8eb-40fe-86dd-8405fc6e1c86
 atualizado_na_fonte: "2026-10-14 15:41:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11200,7 +11200,7 @@ ementa: "Altera o Anexo 83 do RICMS, que dispõe sobre a substituição tributá
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b62942af-4557-4f02-be7d-54790265bb3d
 atualizado_na_fonte: "2026-10-14 15:40:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11258,7 +11258,7 @@ ementa: "Estabelece Regime Especial do ICMS relativamente à remessa de bem do a
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9df935a2-bb5c-478f-883c-4d396f0765fa
 atualizado_na_fonte: "2026-10-14 15:40:11"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11335,7 +11335,7 @@ ementa: "Dá nova redação ao inciso V do § 1º do art. 796 do Regulamento do 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a97addc9-b0cb-46f7-9fec-e507a38cc26a
 atualizado_na_fonte: "2026-10-14 15:40:00"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11413,7 +11413,7 @@ ementa: "Acrescenta o § 3º ao art. 707 do RICMS, que estabelece normas gerais 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=41d4b180-bf7e-47e1-b91f-e0f9b961283d
 atualizado_na_fonte: "2026-10-14 15:32:07"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11479,7 +11479,7 @@ ementa: "Altera o Anexo 65 do RICMS, que dispõe sobre concessão de regime espe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c32a931f-a664-4270-9cdd-fa345a2a09ca
 atualizado_na_fonte: "2026-10-14 15:31:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11530,7 +11530,7 @@ ementa: "Acrescenta produtos ao anexo do inciso XXXVII do art. 10 do RICMS - ise
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2ec5a6ed-006e-4b26-b858-8c32c3f92863
 atualizado_na_fonte: "2026-10-14 15:31:39"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11584,7 +11584,7 @@ ementa: "Acrescenta os §§ 31, 32 e 33 ao art. 9º do RICMS - concessão de ise
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0f97b4ee-5db1-458f-8072-09ce4803986a
 atualizado_na_fonte: "2026-10-14 15:31:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11653,7 +11653,7 @@ ementa: "Altera dispositivos do RICMS, que tratam da redução da base de cálcu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1ebd63ed-6907-4884-97cb-680e053c9e07
 atualizado_na_fonte: "2026-10-14 15:30:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11722,7 +11722,7 @@ ementa: "Dá nova redação ao inciso VI do § 1º do art. 157 do RICMS e revoga
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=24852432-f3b7-442e-9a6c-7018cb6e8bb2
 atualizado_na_fonte: "2026-10-14 15:11:28"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11780,7 +11780,7 @@ ementa: "Dispõe sobre o cumprimento de obrigações tributárias em operações
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3eee567e-6a0c-4d50-959e-e9b4463f79b0
 atualizado_na_fonte: "2026-10-14 15:10:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11854,7 +11854,7 @@ ementa: "Revoga dispositivo do Regulamento do ICMS, que concede redução de bas
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=94075754-4bad-404f-9eeb-1154eafd1a9c
 atualizado_na_fonte: "2026-10-14 15:09:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11904,7 +11904,7 @@ ementa: "Acrescenta o inciso XI ao art. 120 do RICMS - adoção do Livro de Movi
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c49279e5-6a3c-4ad3-ad87-491d04498990
 atualizado_na_fonte: "2026-10-14 15:08:47"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11973,7 +11973,7 @@ ementa: "Dispõe sobre a transferência de saldo credor do ICMS e dá outras pro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ae404a65-3e8d-48da-9cbb-181a1b31921a
 atualizado_na_fonte: "2026-10-14 15:01:35"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12128,7 +12128,7 @@ ementa: "Dá nova redação ao caput do art. 714 do Regulamento do ICMS, que dis
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=74acb0a3-9f43-4c95-a5b8-908e91861771
 atualizado_na_fonte: "2026-10-14 15:00:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12181,7 +12181,7 @@ ementa: "Revoga o § 10 do art. 490 do Regulamento do ICMS, que dispõe sobre a 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ad8df14b-d033-4512-be36-45bc4ee440e9
 atualizado_na_fonte: "2026-10-14 15:00:07"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12223,7 +12223,7 @@ ementa: "Dá nova redação ao caput do item 2 do § 1º do art. 51.A do RICMS -
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=09fb7f12-2eb8-4bd7-9a3f-36ed0edb937b
 atualizado_na_fonte: "2026-10-14 14:59:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12286,7 +12286,7 @@ ementa: "Altera o Anexo 65 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b14a49a2-4ca0-4ccf-97fb-4d1ea492cd2e
 atualizado_na_fonte: "2026-10-14 14:59:26"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12340,7 +12340,7 @@ ementa: "Dá nova redação ao art. 616 do Regulamento do ICMS, que dispõe sobr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e87cd403-34dc-4d1f-8765-da05bb4486f6
 atualizado_na_fonte: "2026-10-14 14:59:04"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12394,7 +12394,7 @@ ementa: "Acrescenta o § 20 ao art. 10 do Regulamento do ICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3274d667-fc07-4dac-a893-61c605713863
 atualizado_na_fonte: "2026-10-14 14:58:40"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12450,7 +12450,7 @@ ementa: "Restabelece o inciso XXI e acrescenta o § 21 ao art. 10 do RICMS - con
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=05355249-366e-4597-bb50-1ef2bc6c99b4
 atualizado_na_fonte: "2026-10-14 14:57:57"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12502,7 +12502,7 @@ ementa: "Prorroga prazos referentes à concessão de benefícios fiscais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bc2cdc81-ab8a-4e6d-9745-4f2edb9d2cef
 atualizado_na_fonte: "2026-10-14 14:57:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12566,7 +12566,7 @@ ementa: "Acrescenta os incisos XLI e XLII ao artigo 10 do Regulamento do ICMS, q
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e4642f03-7e4c-4fcd-b90a-ca9c2df67fab
 atualizado_na_fonte: "2026-10-14 14:56:26"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12651,7 +12651,7 @@ ementa: "Acrescenta os itens 20 e 3 às alíneas 'a' e 'b' do inciso XLVIII do a
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a9fd5be-87d9-4280-8cfa-28d1055331b8
 atualizado_na_fonte: "2026-10-14 14:55:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12720,7 +12720,7 @@ ementa: "Altera o inciso XLIX e a alínea 'a' do inciso L do art. 9º do Regulam
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=082ac7a1-cb23-4ea1-a9ac-baae2fd3f089
 atualizado_na_fonte: "2026-10-14 14:55:11"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12787,7 +12787,7 @@ ementa: "Revoga os arts. 554 a 559 do Regulamento do ICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fa077d95-7528-42b6-992d-d0bc307e8b8e
 atualizado_na_fonte: "2026-10-14 14:48:04"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12841,7 +12841,7 @@ ementa: "Concede diferimento do lançamento e pagamento do ICMS, a empresa indus
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c5e3bb85-bc91-4ef7-93e8-b532ced0c735
 atualizado_na_fonte: "2026-10-14 14:27:14"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12910,7 +12910,7 @@ ementa: "Dá nova redação ao art. 608 do Regulamento do ICMS, que dispõe sobr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d8b27d96-f4ed-425a-a405-9955767cfa61
 atualizado_na_fonte: "2026-10-14 14:26:35"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12965,7 +12965,7 @@ ementa: "Restabelece o inciso XI do art. 51 do RICMS - concessão de crédito pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ad1d2ce1-51f6-4680-9973-387eb3616cc6
 atualizado_na_fonte: "2026-10-14 13:59:30"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -13068,7 +13068,7 @@ ementa: "Dá nova redação ao item 3 do § 2º do inciso X do art. 581 do RICMS
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=135cae65-d8e2-4928-874f-7df140f256e1
 atualizado_na_fonte: "2026-10-14 13:59:07"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13106,7 +13106,7 @@ ementa: "Prorroga prazos referentes à concessão de benefícios fiscais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=50325a89-5e91-40d8-9460-a569c50aff94
 atualizado_na_fonte: "2026-10-14 13:59:00"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -13199,7 +13199,7 @@ ementa: "Dá nova redação ao inciso LXXIX e acrescenta os §§ 34; 35 e 36 ao 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ace7b724-ddf3-44ea-ae69-ec1aef3b06ad
 atualizado_na_fonte: "2026-10-14 13:58:55"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13268,7 +13268,7 @@ ementa: "Acrescenta o inciso LXXXIX e o § 37 ao art. 9º do RICMS - concessão 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c8c0232f-7229-4659-ae13-c4b62fbdf8e9
 atualizado_na_fonte: "2026-10-14 13:58:49"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13316,7 +13316,7 @@ ementa: "Acrescenta os incisos XLI e XLII e os §§ 22; 23 e 24 ao art. 10 do Re
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b4d84ff9-547a-487f-bb2a-e9e11fd9a500
 atualizado_na_fonte: "2026-10-14 13:58:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13406,7 +13406,7 @@ ementa: "Dá nova redação ao inciso XLIV do art. 9º do RICMS - concessão de 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3d73961e-6af1-4d71-8d9a-af2916a33482
 atualizado_na_fonte: "2026-10-14 13:58:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13450,7 +13450,7 @@ ementa: "Dá nova redação ao inciso XLVIII e ao § 8º do art. 9º do RICMS - 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dfa9a579-74c7-4c10-b21f-c976bb7324f4
 atualizado_na_fonte: "2026-10-14 13:58:27"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13560,7 +13560,7 @@ ementa: "Dá nova redação à alínea 'b', do inciso VII, do art. 13 do RICMS -
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b272ce51-013e-4ca2-8546-cd013d04b704
 atualizado_na_fonte: "2026-10-14 13:58:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13605,7 +13605,7 @@ ementa: "Acrescenta o inciso XX, ao art. 13 do RICMS - diferimento do lançament
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0d389a52-4ddc-4718-9781-4f76e1f46a30
 atualizado_na_fonte: "2026-10-14 13:58:14"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13647,7 +13647,7 @@ ementa: "Acrescenta a alínea 'g', ao § 2º do art. 13 do RICMS - diferimento d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ccc87e38-2faa-42df-86eb-459802d9ab18
 atualizado_na_fonte: "2026-10-14 13:58:08"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13720,7 +13720,7 @@ ementa: "Dispõe sobre o regime de substituição tributária nas operações co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bb4751f0-b7f4-4066-9d15-888c32c19a19
 atualizado_na_fonte: "2026-10-14 13:57:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14364,7 +14364,7 @@ ementa: "Dá nova redação ao inciso XII do art. 37 do RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=212a8c68-8e32-4750-a67f-fac08e666c01
 atualizado_na_fonte: "2026-10-14 13:56:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14464,7 +14464,7 @@ ementa: "Acrescenta alíneas ao inciso VII, do art. 13 do RICMS - diferimento do
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb314402-2631-45ee-a908-85f68d3e4c66
 atualizado_na_fonte: "2026-10-14 13:55:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14510,7 +14510,7 @@ ementa: "Acrescenta os incisos XLIII e XLIV ao art. 10 do Regulamento do ICMS, q
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a63c51c-410a-4025-8b4b-88859949eaac
 atualizado_na_fonte: "2026-10-14 13:55:02"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14580,7 +14580,7 @@ ementa: "Altera dispositivos dos arts. 51, 521 e 527 do Regulamento do ICMS e d�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9c388664-2c29-4dcc-8f1d-45d000fab47a
 atualizado_na_fonte: "2026-10-14 13:54:55"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14656,7 +14656,7 @@ ementa: "Acrescenta o inciso LXXXVIII ao art. 9º do RICMS - isenção do impost
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3561fd56-66af-43f1-9872-a4b685cbca1b
 atualizado_na_fonte: "2026-10-14 13:54:28"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14750,7 +14750,7 @@ ementa: "Altera dispositivos do RICMS - emissão de documentos fiscais e a escri
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d2101fae-95df-477d-8090-9c2a6c9f65a3
 atualizado_na_fonte: "2026-10-14 13:54:05"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14887,7 +14887,7 @@ ementa: "Altera o anexo do inciso XXXIV do art. 10 do RICMS - isenção do ICMS 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=948f2d29-8726-4c3b-abd8-147db6304e05
 atualizado_na_fonte: "2026-10-14 13:53:56"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15519,7 +15519,7 @@ ementa: "Acrescenta os §§ 38 e 39 ao art. 9º do RICMS - isenção do ICMS no 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6eb57868-9cf0-4176-b5aa-d9f168da56cd
 atualizado_na_fonte: "2026-10-14 13:53:31"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15582,7 +15582,7 @@ ementa: "Altera o Anexo 65 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2f0e83ea-af68-4104-96ab-208fef9984ef
 atualizado_na_fonte: "2026-10-14 13:46:52"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15657,7 +15657,7 @@ ementa: "Acrescenta os §§ 1º e 2º ao art. 834 do RICMS, que dispõe sobre su
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b5b13c9c-b3b3-4936-b0e1-3c05265bb2d8
 atualizado_na_fonte: "2026-10-14 13:46:33"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15721,7 +15721,7 @@ ementa: "Altera dispositivo do RICMS - isenção do ICMS nas importações de pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f8ca6623-4e94-4e53-a31d-88e6d6be6da8
 atualizado_na_fonte: "2026-10-14 13:44:16"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15770,7 +15770,7 @@ ementa: "Dá nova redação a dispositivos do Regulamento do ICMS, aprovado pelo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d35bacdd-49b7-41af-a48b-2f9c6f1162a9
 atualizado_na_fonte: "2026-10-14 13:44:08"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15868,7 +15868,7 @@ ementa: "Dá nova redação aos §§ 22; 23 e 24 do art. 10 do Regulamento do IC
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e8a51ee5-0264-421a-b164-94b8b7426f03
 atualizado_na_fonte: "2026-10-14 13:42:13"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15938,7 +15938,7 @@ ementa: "Acrescenta as alíneas 'h', 'i' e 'j' aos incisos I e II do parágrafo 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=94a7c9a5-213f-4a6c-886f-c8d37498a204
 atualizado_na_fonte: "2026-10-14 13:42:01"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15987,7 +15987,7 @@ ementa: "Altera dispositivos do RICMS, que dispõe sobre o regime de substituiç
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96e56c30-80ca-41d1-ac4b-d0d1ec44d302
 atualizado_na_fonte: "2026-10-14 13:41:53"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16033,7 +16033,7 @@ ementa: "Acrescenta o inciso XLV e o § 25 ao art. 10 do RICMS - isenção do IC
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ad5fc25a-b6a8-4f78-8757-5bbb0933c098
 atualizado_na_fonte: "2026-10-14 13:41:29"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16565,7 +16565,7 @@ ementa: "Altera o Anexo 65 do RICMS, aprovado pelo Decreto nº 14.744/1995 - reg
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6d50b9e2-94ab-4b54-bad8-60f40b38704d
 atualizado_na_fonte: "2026-10-14 13:41:06"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16623,7 +16623,7 @@ ementa: "Dá nova redação ao art. 701 do RICMS - prorrogação do prazo para c
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0505a20d-dd36-4aac-95e4-e60c3073f95e
 atualizado_na_fonte: "2026-10-14 13:40:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16684,7 +16684,7 @@ ementa: "Acrescenta produtos ao anexo do inciso XXXVII do art. 10 do RICMS, que 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dc8800bf-5aa4-4dcb-942a-3e998c2a8d4d
 atualizado_na_fonte: "2026-10-14 13:40:37"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16777,7 +16777,7 @@ ementa: "Dá nova redação a dispositivos do art. 10 do RICMS, que concede isen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9cf60d37-b61b-48ee-90de-0b92bf128d98
 atualizado_na_fonte: "2026-10-14 13:40:30"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17812,7 +17812,7 @@ ementa: "Dá nova redação à seção I do Capítulo XI do Título VI do Regula
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=84514531-ad2a-4502-80d9-2a8435bcfc52
 atualizado_na_fonte: "2026-10-14 13:40:05"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17983,7 +17983,7 @@ ementa: "Dá nova redação ao parágrafo único do art. 627.E do Regulamento do
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=108ba2d5-c31e-4957-a2f7-f6370ce0c58b
 atualizado_na_fonte: "2026-10-14 13:39:52"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -18040,7 +18040,7 @@ ementa: "Dá nova redação a dispositivos do Regulamento do ICMS, que dispõem 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=baa67e16-3b86-4381-b1ff-2c96817e48d7
 atualizado_na_fonte: "2026-10-14 13:39:11"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -18109,7 +18109,7 @@ ementa: "Dá nova redação ao inciso XLII do art. 10 do Regulamento do ICMS, qu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=347b6a78-61f0-42cb-8375-f376a4a03120
 atualizado_na_fonte: "2026-10-14 13:38:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -18165,7 +18165,7 @@ ementa: "Altera o Anexo 65 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=81a16d5a-6863-487a-a772-57c89f9c1fb5
 atualizado_na_fonte: "2026-10-14 13:38:52"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -18225,7 +18225,7 @@ ementa: "Estabelece requisitos de hardware, de software e gerais para desenvolvi
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e469793c-f6c2-406e-afc4-08f0195b6ab8
 atualizado_na_fonte: "2026-10-14 13:38:33"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 1.5
@@ -23375,7 +23375,7 @@ ementa: "Da nova redação ao parágrafo único do art. 230 do Regulamento do IC
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1d7dd4a1-4a57-4ec0-b941-477a6e9a3a64
 atualizado_na_fonte: "2026-10-14 13:34:49"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23424,7 +23424,7 @@ ementa: "Inclui a empresa Companhia de Energia Elétrica do Estado do Tocantins-
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3157bb2b-af6b-4bee-b5b1-c7337e4a61fd
 atualizado_na_fonte: "2026-10-14 13:34:04"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23471,7 +23471,7 @@ ementa: "Dá nova redação ao inciso II do art. 689 do Regulamento do ICMS, que
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=47184c7a-2d66-4ba1-a1cd-68c4837a43dd
 atualizado_na_fonte: "2026-10-14 13:32:00"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23519,7 +23519,7 @@ ementa: "Prorroga prazo de isenção do ICMS nas operações com Coletores Eletr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e35b6460-21ab-494b-812d-a6e3f68d5753
 atualizado_na_fonte: "2026-10-14 13:31:53"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -23564,7 +23564,7 @@ ementa: "Dá nova redação ao inciso VI do art. 581 do Regulamento do ICMS, que
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4c1178bb-2f35-4c9f-b32e-39ce4fecc36c
 atualizado_na_fonte: "2026-10-14 13:31:44"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23615,7 +23615,7 @@ ementa: "Acrescenta dispositivos ao art. 708 do Regulamento do ICMS, que dispõe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9265742b-6828-4dab-bd41-ed12a70d27f7
 atualizado_na_fonte: "2026-10-14 13:29:39"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23668,7 +23668,7 @@ ementa: "Dá nova redação ao item 10 do Anexo Único do inciso XXXIV do art. 1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=593c0e64-d1b3-4bf6-b2d2-93af2edb134b
 atualizado_na_fonte: "2026-10-14 13:29:32"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23722,7 +23722,7 @@ ementa: "Acrescenta dispositivos ao parágrafo único do art. 778.B do Regulamen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=80711281-335c-4e02-9ff6-9d13d3ac4ad1
 atualizado_na_fonte: "2026-10-14 13:29:24"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23780,7 +23780,7 @@ ementa: "Dá nova redação à alínea 'e' do inciso LXXIX do art. 9º do Regula
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d641cc3f-6620-48f0-8059-5a2b2cf077e2
 atualizado_na_fonte: "2026-10-14 13:26:54"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23824,7 +23824,7 @@ ementa: "Revigora as disposições do inciso XLI do art. 10 do Regulamento do IC
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=785f498f-3ab4-4d8a-8c96-3a077847dbb5
 atualizado_na_fonte: "2026-10-14 13:26:19"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -23866,7 +23866,7 @@ ementa: "Dispõe sobre o prazo de pagamento do Imposto sobre a Propriedade de Ve
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e49c997c-9ab2-47eb-8bb5-37424312b7a8
 atualizado_na_fonte: "2026-10-14 13:24:52"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -23909,7 +23909,7 @@ ementa: "Dispõe sobre o pagamento do ICMS nas operações de importação de ó
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d0a0c31f-23ba-4e9f-8ec7-31ee950bd6c5
 atualizado_na_fonte: "2026-10-13 17:23:21"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -24219,7 +24219,7 @@ ementa: "Inclui empresa no Anexo 78 do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bef9250b-c697-4ad0-b679-3fab4d30e815
 atualizado_na_fonte: "2026-10-13 17:22:41"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -24264,7 +24264,7 @@ ementa: "Inclui os §§§ 23, 24 e 25 ao art. 153 do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=949aa2cb-8c9f-4d34-b208-81b92c5f6e04
 atualizado_na_fonte: "2026-10-13 17:22:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -24316,7 +24316,7 @@ ementa: "Altera o Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1be60a4b-e14e-4841-bf16-1e511d5eea1d
 atualizado_na_fonte: "2026-10-13 17:22:25"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -24371,7 +24371,7 @@ ementa: "Regula a concessão de parcelamento de débitos fiscais relacionados co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8fca511b-07d8-4828-9506-66599efe4c65
 atualizado_na_fonte: "2026-10-13 17:21:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -24615,7 +24615,7 @@ ementa: "Dá nova redação a dispositivos do Decreto nº 19.140, de 29 de outub
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a5c10242-13d6-4afa-9d12-ffd2b805e6d1
 atualizado_na_fonte: "2026-10-13 17:21:09"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 3.0, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -25062,7 +25062,7 @@ ementa: "Dá nova aos Códigos Fiscais de Operações ou Prestações 5.152 e 6.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=62145b82-5723-43fd-ad24-41af68d021a9
 atualizado_na_fonte: "2026-10-13 17:20:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 2.0, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -25112,7 +25112,7 @@ ementa: "Dá nova redação ao art. 433 do Regulamento do ICMS, que dispõe sobr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fa55ebfb-d613-4821-a66c-1dba228d3614
 atualizado_na_fonte: "2026-10-13 17:20:20"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -25227,7 +25227,7 @@ ementa: "Acrescenta o § 26 ao art. 139 do Regulamento do ICMS, que padroniza as
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=65428eba-e7ca-4377-93f4-7afed7b72160
 atualizado_na_fonte: "2026-10-13 17:20:07"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -25294,7 +25294,7 @@ ementa: "Dá nova redação a dispositivos do Decreto nº 19.140, de 29 de outub
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=29a815a4-5da2-4c13-a66d-4df5bcf0e307
 atualizado_na_fonte: "2026-10-13 17:19:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 3.0, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -25360,7 +25360,7 @@ ementa: "Dá nova redação ao parágrafo único do art. 403 do Regulamento do I
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca5c8eb7-daaa-406f-b6bd-aa0093a03267
 atualizado_na_fonte: "2026-10-13 17:19:44"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -25407,7 +25407,7 @@ ementa: "Dá nova redação ao item 2 do Anexo do inciso XI do art. 1º do Anexo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=85371891-0ecb-475e-b38f-063dbfb1310c
 atualizado_na_fonte: "2026-10-13 17:19:35"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -25462,7 +25462,7 @@ ementa: "Dá nova redação ao caput do art. 3º do Anexo 4.9 do Anexo 4.0 do Re
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=08580b14-f356-49b3-ba83-073ce2c53413
 atualizado_na_fonte: "2026-10-13 17:18:10"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 4.9, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -25534,7 +25534,7 @@ ementa: "Acrescenta dispositivos ao art. 3º do Anexo 4.23 do Anexo 4.0 do Regul
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=55dcea26-0e80-4de0-a3d0-2035d199353b
 atualizado_na_fonte: "2026-10-13 17:17:45"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 4.23, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -25614,7 +25614,7 @@ ementa: "Dispõe sobre a suspensão temporária da utilização e transferência
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=15d22c32-c220-4f56-bbf0-75f3d5190206
 atualizado_na_fonte: "2026-10-13 17:17:12"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.7, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -25655,7 +25655,7 @@ ementa: "Dá nova redação ao caput do inciso XII do art. 1º do Anexo 1.5 do A
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=40c483d8-b7c3-484a-85ec-fd6680e3d69d
 atualizado_na_fonte: "2026-10-13 17:16:27"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -25701,7 +25701,7 @@ ementa: "Dá nova redação ao inciso I do caput do art. 260 do Regulamento do I
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f209c26f-cc62-4fe5-b2d1-64456148cf4e
 atualizado_na_fonte: "2026-10-13 17:15:26"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -25743,7 +25743,7 @@ ementa: "Acrescenta o art. 20.A ao anexo 4.11 do Anexo 4.0 do Regulamento do ICM
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=10887c85-8bff-4792-9c26-07e097ba85cd
 atualizado_na_fonte: "2026-10-13 17:15:12"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -25787,7 +25787,7 @@ ementa: "Acrescenta o art. 2º ao Anexo 1.5 do Anexo 1.0 do Regulamento do ICMS,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9f332b41-d04d-470a-868b-d7243b68626d
 atualizado_na_fonte: "2026-10-13 17:15:06"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -25859,7 +25859,7 @@ ementa: "Dá nova redação ao dispositivo do Anexo 1.11 do Anexo 4.0 do Regulam
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e5928ee2-5908-4a83-8601-6006069869e3
 atualizado_na_fonte: "2026-10-13 17:14:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -25906,7 +25906,7 @@ ementa: "Acrescenta o inciso XXI ao art. 122 do Regulamento do ICMS, que institu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5b23d421-35e3-496a-ad20-d395378716b9
 atualizado_na_fonte: "2026-10-13 17:14:52"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -26081,7 +26081,7 @@ ementa: "Acrescenta o Parágrafo único ao art. 11 do Anexo 4.6 do Anexo 4.0 do 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b3716da4-e6ae-4595-995c-a5cf8386c3a6
 atualizado_na_fonte: "2026-10-13 17:14:00"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 4.6, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0

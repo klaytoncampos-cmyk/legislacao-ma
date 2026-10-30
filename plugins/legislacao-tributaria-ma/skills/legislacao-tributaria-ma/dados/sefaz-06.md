@@ -1,19 +1,19 @@
 <<<DOC sefaz/ricms-decreto-19714-2003.md>>>
 ---
-documento: "DECRETO Nº19.714,DE 10 DE JULHO DE 2003"
+documento: "DECRETO  Nº 19.714,  DE 10  DE  JULHO DE  2003"
 descricao: "Aprova o Regulamento do ICMS e dá outras providências."
 orgao: SEFAZ-MA
 categoria_id: 243
 arquivo_id: 5512
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=99eaa3a0-b9c2-44ee-968f-d241aa074ff4
-atualizado_na_fonte: "2026-10-13 08:52:56"
-extraido_em: "2026-10-15"
+atualizado_na_fonte: "2026-10-29 09:04:48"
+extraido_em: "2026-10-30"
 paginas: 597
 percentual_tachado: 16.4
 paginas_escaneadas: []
 ---
 
-# DECRETO Nº19.714,DE 10 DE JULHO DE 2003
+# DECRETO  Nº 19.714,  DE 10  DE  JULHO DE  2003
 
 _Aprova o Regulamento do ICMS e dá outras providências._
 
@@ -13840,14 +13840,17 @@ Subseção I Da forma e prazo de entrega
 Art. 310. A DIEF será entregue à Receita Estadual, mensalmente, via Internet ou entregue nas suas unidades de atendimento, utilizando-se o programa Transmissão Eletrônica de Documentos - TED:
 
 
-I – até o dia 10(dez) do mês subsequente ao do período de referência, pelos contribuintes enquadrados no regime de Pequenas Empresas Maranhenses – PEM;
+I ~~– até o dia 10(dez) do mês subsequente ao do período de referência, pelos contribuintes enquadrados no regime de Pequenas Empresas Maranhenses – PEM;~~
 
-II ~~– até o dia 15(quinze) do mês subsequente ao do período de referência, pelos contribuintes sujeitos ao regime normal.(Alterado prazo para até o dia 20 (vinte) do mês subsequente, conforme Portaria nº 119 de 03.04.09).~~
+(Revogado – RA 30/26) II ~~– até o dia 15(quinze) do mês subsequente ao do período de referência, pelos contribuintes sujeitos ao regime normal.(Alterado prazo para até o dia 20 (vinte) do mês subsequente, conforme Portaria nº 119 de 03.04.09).~~
 
 
-II – até o último dia útil do mês subsequente ao do período de referência, pelos contribuintes sujeitos ao regime normal.
+~~II – até o último dia útil do mês subsequente ao do período de referência, pelos contribuintes sujeitos ao regime normal.~~
 
-(NR – RA 23/26)
+~~(NR – RA 23/26)~~
+II – até o último dia útil do mês subsequente ao do período de referência, pelos contribuintes enquadrados no regime tributário do regime do Simples Nacional.
+
+(NR – RA 30/26)
 
 § 1º A entrega da DIEF será comprovada mediante recibo eletrônico definitivo, devidamente autenticado, a ser gerado pelo sistema de recepção adotado pela Receita Estadual.
 
@@ -13864,15 +13867,14 @@ II - não concessão de credenciamento de natureza tributária e de Autorizaçã
 
 Parágrafo único. Para efeito do disposto neste artigo, o credenciamento anteriormente concedido será cancelado.
 
-
-Art. 312. Fica permitida a apresentação da DIEF substitutiva nas seguintes condições:
-
-I – uma única vez, no prazo de entrega, via Internet ou na unidade de atendimento;
-
 <!-- p. 375 -->
 359
 
 359
+
+Art. 312. Fica permitida a apresentação da DIEF substitutiva nas seguintes condições:
+
+I – uma única vez, no prazo de entrega, via Internet ou na unidade de atendimento;
 
 II – fora do prazo de entrega, na unidade de atendimento da Receita Estadual do domicílio tributário do contribuinte, mediante justificativa.
 
@@ -13912,14 +13914,14 @@ XV - demonstrativo resumo de apuração;
 
 XVI - mapa resumo de ECF;
 
-XVII - dos registros informacionais sobre a emissão de Nota Fiscal de Consumidor Eletrônica - NFC-e.
-
-(Inciso XVII - AC pela RA 19/2016)
-
 <!-- p. 376 -->
 360
 
 360
+
+XVII - dos registros informacionais sobre a emissão de Nota Fiscal de Consumidor Eletrônica - NFC-e.
+
+(Inciso XVII - AC pela RA 19/2016)
 
 ~~Parágrafo único. Os demonstrativos e livros fiscais não incluídos no artigo anterior devem ser escriturados e apresentados na forma prevista da legislação tributária estadual. NR do Capítulo VIII, Seção II pelo Dec.20.921/04~~
 
@@ -13955,12 +13957,14 @@ Código de Situação Tributária – CST
 Art. 316. O código de Situação Tributária é composto de três dígitos na forma ABB, onde o 1º dígito deve indicar a origem da mercadoria, com base na Tabela A e os 2º e 3º dígitos a tributação pelo ICMS, com base na Tabela B: (Ajuste SINIEF 02/01)
 
 
-~~I- Tabela A - Origem da Mercadoria~~ 0 ~~– Nacional~~ 1 ~~- Estrangeira - Importação direta~~ 2 ~~- Estrangeira - Adquirida no mercado interno~~
+~~I- Tabela A - Origem da Mercadoria~~
 
 <!-- p. 377 -->
 361
 
 361
+
+0 ~~– Nacional~~ 1 ~~- Estrangeira - Importação direta~~ 2 ~~- Estrangeira - Adquirida no mercado interno~~
 
 Tabela A - Origem da Mercadoria ou Serviço
 0 - Nacional, exceto as indicadas nos códigos 3 a 5;
@@ -14016,14 +14020,14 @@ II- Tabela B - Tributação pelo ICMS (Ajuste 06/00)
 
 41 - Não tributada;
 
-50 – Suspensão;
-
-51 – Diferimento;
-
 <!-- p. 378 -->
 362
 
 362
+
+50 – Suspensão;
+
+51 – Diferimento;
 
 60 - ICMS cobrado anteriormente por substituição tributária;
 
@@ -14056,12 +14060,12 @@ Art. 317. Os Códigos Fiscais de Operações e Prestações – CFOP são aquele
 ~~I~~ ~~- alterar o prazo de entrega da DIVA;~~
 ~~II~~ ~~- baixar os atos que julgar necessários à aplicação do disposto nesta Seção.~~
 
-~~Art. 321. O preenchimento do documento de que trata esta seção obedecerá disposições do manual aprovado.~~
-
 <!-- p. 379 -->
 363
 
 363
+
+~~Art. 321. O preenchimento do documento de que trata esta seção obedecerá disposições do manual aprovado.~~
 
 Seção V Escrituração Fiscal Digital – EFD – (Acrescentada pela Resolução Administrativa 10/11)
 
@@ -14096,13 +14100,13 @@ VII - Livro Registro de Controle da Produção e do Estoque.
 
 I - o e-PJ ou e-CNPJ que contenha a mesma base do CNPJ (8 primeiros caracteres) do estabelecimento;
 
-
-II - o e-PF ou e-CPF do produtor rural ou do representante legal da empresa no cadastro CNPJ;
-
 <!-- p. 380 -->
 364
 
 364
+
+II - o e-PF ou e-CPF do produtor rural ou do representante legal da empresa no cadastro CNPJ;
+
 
 III - a pessoa jurídica ou a pessoa física com procuração eletrônica cadastrada no site da Receita Federal do Brasil - RFB, por estabelecimento.
 
@@ -14136,14 +14140,15 @@ b) cadastradas com pelo menos um dos seguintes CNAE:
 c) detentoras de pelo menos um dos seguintes benefícios:
 
 1. crédito presumido para atacadista;
-2. Sistema de Apoio à Indústria e ao Comércio Exterior do Estado do Maranhão – SINCOEX (Anexo 8.2);
-
-3. Programa de Incentivo às Atividades Industriais e Tecnológicas no Estado do Maranhão – PROMARANHÃO (Lei 9.121, de 04 de março de 2010).
 
 <!-- p. 381 -->
 365
 
 365
+
+2. Sistema de Apoio à Indústria e ao Comércio Exterior do Estado do Maranhão – SINCOEX (Anexo 8.2);
+
+3. Programa de Incentivo às Atividades Industriais e Tecnológicas no Estado do Maranhão – PROMARANHÃO (Lei 9.121, de 04 de março de 2010).
 
 
 d) constituídas na forma de sociedade anônima.
@@ -14171,16 +14176,16 @@ V – a partir de 1º de janeiro de 2013, todas as empresas do regime normal. (R
 
 ~~I - as Microempresas e as Empresas de Pequeno Porte, previstas na Lei Complementar nº 123, de 14 de dezembro de 2006, optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional) para todos os tributos (Protocolo ICMS 141/12), observado o sublimite de receita bruta anual de até R$ 2.520.000,00 (dois milhões e quinhentos e vinte mil reais).~~
 
+<!-- p. 382 -->
+366
+
+366
+
 ~~II - o contribuinte que, concomitantemente, não tenha movimentação fiscal no mês e saldo de crédito para utilizar no período de apuração subsequente. NR Decreto 33.322/2017(§5º e~~
 ~~AC os incisos I e II)~~
 
 
 § 5º Ficam dispensados da obrigatoriedade da entrega da EFD:
-
-<!-- p. 382 -->
-366
-
-366
 
 I - a Microempresa - ME e a Empresa de Pequeno Porte – EPP optantes pelo Simples Nacional, salvo a que estiver impedida de recolher o ICMS por este regime na forma do parágrafo 1º do artigo 20 da Lei Complementar nº 123/2006.
 
@@ -14207,14 +14212,14 @@ Relativo à Escrituração Fiscal Digital
 
 ~~Art. 321-E. O arquivo digital da EFD será gerado pelo contribuinte de acordo com as especificações técnicas constantes do Manual de Orientação do Leiaute da Escrituração Fiscal Digital – EFD, instituídos no Anexo Único do Ato COTEPE/ICMS 09/08, de 18 de abril de 2008, e alterações, com a totalidade das informações econômico-fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia do mês.~~
 
-Art. 321-E. O arquivo digital da EFD será gerado pelo contribuinte de acordo com as especificações técnicas constantes do Manual de Orientação do Leiaute da Escrituração Fiscal Digital - EFD, de que trata o Ato COTEPE/ICMS nº 44, de 07 de agosto de 2018, com a totalidade das informações econômico fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia do mês.
-
-(NR – RA 11/23)
-
 <!-- p. 383 -->
 367
 
 367
+
+Art. 321-E. O arquivo digital da EFD será gerado pelo contribuinte de acordo com as especificações técnicas constantes do Manual de Orientação do Leiaute da Escrituração Fiscal Digital - EFD, de que trata o Ato COTEPE/ICMS nº 44, de 07 de agosto de 2018, com a totalidade das informações econômico fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia do mês.
+
+(NR – RA 11/23)
 
 § 1º Considera-se totalidade das informações:
 
@@ -14243,16 +14248,14 @@ Art. 321-G. A pessoa jurídica que possuir mais de um estabelecimento, seja fili
 
 Art. 321-H. O contribuinte deverá armazenar o arquivo digital da EFD previsto nesta seção, observando os requisitos de segurança, autenticidade, integridade e validade jurídica, pelo prazo decadencial.
 
-
-Parágrafo único. A geração, o armazenamento e o envio do arquivo digital não dispensam o contribuinte da guarda dos documentos que deram origem às informações nele constantes, na forma e prazos estabelecidos pela legislação aplicável.
-
-Subseção IV Da Geração e Envio do Arquivo Digital da EFD
-
 <!-- p. 384 -->
 368
 
 368
 
+Parágrafo único. A geração, o armazenamento e o envio do arquivo digital não dispensam o contribuinte da guarda dos documentos que deram origem às informações nele constantes, na forma e prazos estabelecidos pela legislação aplicável.
+
+Subseção IV Da Geração e Envio do Arquivo Digital da EFD
 
 Art. 321-I. O leiaute do arquivo digital da EFD será estruturado por dados organizados em blocos e detalhados por registros, de forma a identificar perfeitamente a totalidade das informações a que se refere o § 1º Art. 321-E desta Seção.
 
@@ -14286,18 +14289,17 @@ V - outras tabelas e códigos que venham a ser estabelecidos pelas SEFAZ/MA e pe
 
 (AC – RA nº 10/18)
 
+<!-- p. 385 -->
+369
+
+369
+
 Art. 321-K. O arquivo digital da EFD gerado pelo contribuinte deverá ser submetido à validação de consistência de leiaute efetuada pelo software denominado Programa de Validação e Assinatura da Escrituração Fiscal Digital - PVA-EFD que será disponibilizado na internet nos sítios da RFB.
 
 § 1º O PVA-EFD também deverá ser utilizado para a assinatura digital e o envio do arquivo por meio da internet.
 
 
 § 2º Considera-se validação de consistência de leiaute do arquivo:
-
-<!-- p. 385 -->
-369
-
-369
-
 
 I - a consonância da estrutura lógica do arquivo gerado pelo contribuinte com as orientações e especificações técnicas do leiaute do arquivo digital da EFD definidas em Ato COTEPE;
 
@@ -14333,22 +14335,23 @@ II - regular recepção do arquivo, hipótese em que será emitido recibo de ent
 
 § 2º Consideram-se escriturados os livros e o documento de que trata o Art. 321-B no momento em que for emitido o recibo de entrega.
 
-
-§ 3º A recepção do arquivo digital da EFD não implicará no reconhecimento da veracidade e legitimidade das informações prestadas, nem na homologação da apuração do imposto efetuada pelo contribuinte.
-
-
-~~Art. 321-M. O arquivo digital da EFD deverá ser enviado até o dia 20 (vinte) do mês subsequente ao encerramento do mês da apuração, ainda que não tenham sido realizadas~~
-
 <!-- p. 386 -->
 370
 
 370
 
-~~operações ou prestações no período que compreende a periodicidade prevista para a sua entrega, mediante utilização do software de transmissão disponibilizado pela RFB.~~
 
-Art. 321-M. O arquivo digital da EFD deverá ser enviado até o último dia útil do mês subsequente ao encerramento do mês da apuração, ainda que não tenham sido realizadas operações ou prestações no período que compreende a periodicidade prevista para a sua entrega, mediante utilização do software de transmissão disponibilizado pela RFB.
+§ 3º A recepção do arquivo digital da EFD não implicará no reconhecimento da veracidade e legitimidade das informações prestadas, nem na homologação da apuração do imposto efetuada pelo contribuinte.
 
-(NR – RA 23/26)
+
+~~Art. 321-M. O arquivo digital da EFD deverá ser enviado até o dia 20 (vinte) do mês subsequente ao encerramento do mês da apuração, ainda que não tenham sido realizadas operações ou prestações no período que compreende a periodicidade prevista para a sua entrega, mediante utilização do software de transmissão disponibilizado pela RFB.~~
+
+~~Art. 321-M. O arquivo digital da EFD deverá ser enviado até o último dia útil do mês subsequente ao encerramento do mês da apuração, ainda que não tenham sido realizadas operações ou prestações no período que compreende a periodicidade prevista para a sua entrega, mediante utilização do software de transmissão disponibilizado pela RFB.~~
+
+~~(NR – RA 23/26)~~
+Art. 321-M. O arquivo digital da EFD deverá ser enviado até o último dia útil do mês subsequente ao encerramento do mês da apuração, ainda que não tenham sido realizadas operações ou prestações no período que compreende a periodicidade prevista para a sua entrega, mediante utilização do software de transmissão disponibilizado pela RFB, excluídos os contribuintes dispensados da apresentação da EFD, conforme legislação específica.
+
+(NR – RA 30/26)
 
 § 1º A cada mês de março deverão ser enviadas as informações do Registro de Inventário do ano anterior.
 
@@ -14365,6 +14368,10 @@ III - a obrigatoriedade relativa à EFD será restabelecida a partir da data em 
 
 § 3º Excepcionalmente, os arquivos digitais da EFD referentes aos meses de apuração anteriores a junho de 2015, poderão ser entregues até o dia 30 de junho de 2015. AC – Resolução Administrativa 05/15.
 
+<!-- p. 387 -->
+371
+
+371
 
 § 4º Excetua-se da norma do § 3º deste artigo, os estabelecimentos cujo faturamento da empresa no exercício de 2014 tenha sido até R$ 2.520.000,00 (dois milhões, quinhentos e vinte mil reais), que poderão entregar os arquivos digitais da EFD referentes aos meses de apuração anteriores a dezembro de 2015 até o dia 30 de dezembro de 2015.
 
@@ -14377,11 +14384,6 @@ Art. 321-N. O contribuinte poderá retificar a EFD:
 (NR- RA 12/13)
 
 I - até o prazo de que trata o art. 321-M;
-
-<!-- p. 387 -->
-371
-
-371
 
 II - até o último dia do terceiro mês subsequente ao encerramento do mês da apuração, independentemente de autorização da administração tributária, com observância do disposto nos §§ 6º e 7º;
 
@@ -14409,6 +14411,11 @@ III - após o prazo de que trata o inciso II, mediante autorização da Secretar
 
 § 7º Não produzirá efeitos a retificação de EFD:
 
+<!-- p. 388 -->
+372
+
+372
+
 I - de período de apuração que tenha sido submetido ou esteja sob ação fiscal;
 
 
@@ -14421,11 +14428,6 @@ III - transmitida em desacordo com as disposições deste artigo.
 ~~§ 8º A EFD de período de apuração anterior a janeiro de 2013 poderá ser retificada até o dia 30 de abril de 2013, independentemente de autorização do fisco.~~
 
 ~~(AC - RA 12/13)~~
-
-<!-- p. 388 -->
-372
-
-372
 
 ~~§ 8º A EFD de período de apuração anterior a agosto de 2013 poderá ser retificada até o dia 20 de setembro de 2013, independentemente de autorização do fisco.~~
 
@@ -14455,6 +14457,11 @@ III - transmitida em desacordo com as disposições deste artigo.
 
 Art. 321-O. Para fins do cumprimento das obrigações a que se referem esta seção, o contribuinte deverá entregar o arquivo digital da EFD de cada período apenas uma única vez, salvo a entrega com finalidade de retificação de que trata o art.321-N.
 
+<!-- p. 389 -->
+373
+
+373
+
 Subseção V Da Recepção e Retransmissão dos Dados
 
 pela Administração Tributária
@@ -14464,10 +14471,6 @@ Art. 321-P. A recepção do arquivo digital da EFD será centralizada no ambient
 
 § 1º Observado o disposto no art. 321-M, será gerado recibo de entrega com número de identificação somente após o aceite do arquivo transmitido.
 
-<!-- p. 389 -->
-373
-
-373
 
 § 2º Os arquivos recebidos no ambiente nacional do SPED serão imediatamente retransmitidos ao Estado do Maranhão.
 
@@ -14498,6 +14501,10 @@ I - os incisos I, II, III, IV, IX, X e XI, do art. 63;
 
 II - o § 1º do art. 63 e os arts. 64, 65, 67, 68 e §§ 6º, 7º e 8º do art. 70 do Convênio S/N de 1970, relativamente aos livros e documento de que trata o § 3º do art. 1º.
 
+<!-- p. 390 -->
+374
+
+374
 
 Seção VI Da Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação –
 
@@ -14505,11 +14512,6 @@ DeSTDA.
 (AC – Resolução Administrativa nº 01/2016.
 
 Subseção I Dos Contribuintes Obrigados à Apresentação da DeSTDA e das Informações
-
-<!-- p. 390 -->
-374
-
-374
 
 Art. 321-R. A Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação – DeSTDA, instituída pelo Ajuste SINIEF 12/15, de 4 de dezembro de 2015, deverá ser apresentada relativamente a fatos geradores ocorridos a partir de 1o de janeiro de 2016, pelos contribuintes optantes pelo Simples Nacional, exceto:
 
@@ -14531,16 +14533,16 @@ II - ICMS devido em operações com bens ou mercadorias sujeitas ao regime de an
 
 III - ICMS devido em aquisições em outros Estados e no Distrito Federal de bens ou mercadorias, não sujeitas ao regime de antecipação do recolhimento do imposto, relativo à diferença entre a alíquota interna e a interestadual;
 
+<!-- p. 391 -->
+375
+
+375
+
 IV – ICMS devido nas operações e prestações interestaduais que destinem bens e serviços a consumidor final não contribuinte do imposto.
 
 § 5o A obrigatoriedade estabelecida no caput deste artigo aplica-se a todos os estabelecimentos do contribuinte, para este Estado e para cada unidade da Federação em que o contribuinte possua inscrição como substituto tributário - IE Substituta ou obtida na forma da cláusula quinta do Convênio ICMS 93/15, de 17 de setembro de 2015.
 
 § 6o No caso de fusão, incorporação ou cisão, a obrigatoriedade de que trata o caput se estende à empresa incorporadora, cindida ou resultante da cisão ou fusão.
-
-<!-- p. 391 -->
-375
-
-375
 
 § 7o O contribuinte deve se utilizar do aplicativo para geração e transmissão da DeSTDA disponibilizado para download, gratuitamente, em sistema específico, no Portal do Simples Nacional.
 
@@ -14564,6 +14566,11 @@ Art. 321-V. A geração e o envio do arquivo digital não dispensam o contribuin
 
 Subseção III
 
+<!-- p. 392 -->
+376
+
+376
+
 Da geração, Envio e Recepção do Arquivo Digital da DeSTDA
 
 Art. 321-W. O leiaute do arquivo digital da DeSTDA definido em Ato COTEPE será estruturado por dados organizados em blocos e detalhados por registros, de forma a identificar perfeitamente a totalidade das informações.
@@ -14571,11 +14578,6 @@ Art. 321-W. O leiaute do arquivo digital da DeSTDA definido em Ato COTEPE será 
 § 1o Os registros a que se refere o caput constituem-se da gravação, em meio digital, das informações contidas na DeSTDA.
 
 § 2o Será gerada uma declaração mesmo que sem dados quando o contribuinte não informar valor para unidade federada no referido período.
-
-<!-- p. 392 -->
-376
-
-376
 
 Art. 321-X O arquivo digital da DeSTDA gerado pelo contribuinte será submetido à validação de consistência de leiaute e assinado pelo sistema específico.
 
@@ -14604,6 +14606,12 @@ IV - da existência de arquivo já recepcionado para o mesmo período de referê
 V - da versão da DeSTDA e tabelas utilizadas;
 
 VI – da data limite de transmissão.
+
+<!-- p. 393 -->
+377
+
+377
+
 § 1o Quando do envio da DeSTDA, será automaticamente expedida pela administração tributária, comunicação ao respectivo declarante quanto à ocorrência de um dos seguintes eventos:
 
 I - falha ou recusa na recepção, decorrente das verificações previstas do caput deste artigo, hipótese em que a causa será informada;
@@ -14611,11 +14619,6 @@ I - falha ou recusa na recepção, decorrente das verificações previstas do ca
 II - recepção do arquivo, hipótese em que será emitido recibo de entrega.
 
 § 2o Considera-se recepcionada a DeSTDA no momento em que for emitido o recibo de entrega.
-
-<!-- p. 393 -->
-377
-
-377
 
 § 3o A recepção do arquivo digital da DeSTDA não implicará o reconhecimento da veracidade e legitimidade das informações prestadas, nem a homologação da apuração do imposto efetuada pelo contribuinte.
 
@@ -14637,6 +14640,10 @@ Art. 321-AB. Para fins do cumprimento da obrigação a que se refere esta Seçã
 
 Art. 321-AC. O arquivo digital da DeSTDA será recepcionado diretamente pela Secretaria de Fazenda deste Estado, ou, se for o caso, pela unidade federada destinatária da declaração.
 
+<!-- p. 394 -->
+378
+
+378
 
 Subseção IV Das Disposições Transitórias
 
@@ -14646,11 +14653,6 @@ Art. 321-AD. A entrega da DeSTDA não desobriga o cumprimento de outras obrigaç
 Subseção V Das Disposições Finais
 
 Art. 321-AE. Os contribuintes obrigados à apresentação da DeSTDA não estarão sujeitos à apresentação da GIA-ST prevista no Ajuste SINIEF 04/93 ou obrigação equivalente.
-
-<!-- p. 394 -->
-378
-
-378
 
 Art. 321-AF. Aplicam-se à DeSTDA, no que couber:
 
@@ -14676,17 +14678,20 @@ I ~~- até o final do mês seguinte ao da ocorrência;~~
 II ~~- as informações serão fornecidas através de arquivos eletrônicos gerado nos termos do "Manual de Orientação" Anexo ao Protocolo ECF 4/01, de 24/09/01, observada a retificação publicada no DOU de 09/10/01;~~
 
 
-III ~~- o arquivo eletrônico será transmitido através do programa Transmissor TED, após ter sido validado e gerado a mídia de transmissão pelo programa integrante do Validador TEF, disponível no endereço eletrônico do SINTEGRA (www.sintegra.org.br) ou no site da Secretaria de Estado da Fazenda (www.sefaz.ma.gov.br);~~
+III ~~- o arquivo eletrônico será transmitido através do programa Transmissor TED, após ter sido validado e gerado a mídia de transmissão pelo programa integrante do Validador~~
+
+<!-- p. 395 -->
+379
+
+379
+
+~~TEF, disponível no endereço eletrônico do SINTEGRA (www.sintegra.org.br) ou no site da Secretaria de Estado da Fazenda (www.sefaz.ma.gov.br);~~
 
 
 IV ~~- poderá ainda o arquivo eletrônico ser gerado, validado e transmitido através do sistema TED_TEF ou Connect Direct.~~
 
 V ~~- Na ocorrência de contingência que impossibilite o envio das informações referidas no caput, as administradoras, facilitadores, arranjos e instituições de pagamentos, credenciadoras de cartão de crédito e de débito e as demais entidades similares operadora, deverão comunicar o fato no prazo máximo de 5 (cinco) dias úteis, por correspondência registrada, justificando a contingência e solicitando novo prazo, de até 15 (quinze) dias.~~
 
-<!-- p. 395 -->
-379
-
-379
 
 ~~§1º Poderá o Fisco, a qualquer momento, exigir a entrega, no prazo máximo de trinta dias após a ciência, de relatório impresso em papel timbrado da administradora, introduzido por folha de rosto onde serão indicadas as informações previstas nos incisos I e II, utilizando como padrão o exemplo do ANEXO II do Protocolo ECF 04/01, contendo a totalidade ou parte das informações apresentadas em meio eletrônico, onde serão informados:~~
 
@@ -14714,6 +14719,11 @@ IX ~~- o valor da transação de crédito e de débito.~~
 
 ~~(AC pela RA nº 05/18)~~
 
+<!-- p. 396 -->
+380
+
+380
+
 ~~§ 1º O comprovante da transação, impresso ou emitido por meio digital, relativo ao uso dos instrumentos de pagamento, deverá conter no mínimo:~~
 
 
@@ -14724,12 +14734,6 @@ II ~~- número da autorização junto a instituição de pagamento;~~
 III ~~- identificador do terminal em que ocorreu a transação;~~
 
 IV ~~- data e hora da operação; V - valor da operação.~~
-
-<!-- p. 396 -->
-380
-
-380
-
 
 ~~§ 2º Os equipamentos, softwares e aplicativos destinados à captura de pagamentos realizados com cartões de crédito e/ou débito, moedas eletrônicas, virtuais e similares, deverão possibilitar, independente de conexão com a rede de dados e sem exigência de senha ou autenticação após acessada a aplicação, a identificação das informações previstas no § 1º, observando ainda o disposto no Ato COTEPE/ICMS 73/17, de 22 e novembro de 2017.~~
 
@@ -14753,6 +14757,12 @@ IV ~~- data e hora da operação; V - valor da operação.~~
 ~~(AC pela RA nº 05/18)~~
 
 Seção VII
+
+<!-- p. 397 -->
+381
+
+381
+
 (NR - RA nº 07/21)
 
 Do fornecimento de informações por instituições e intermediadores financeiros e de pagamento,
@@ -14762,11 +14772,6 @@ integrantes ou não do Sistema de Pagamentos Brasileiro – SPB, e por intermedi
 serviços e de negócios (Convênio ICMS 134/16, de 9 de dezembro de 2016)
 
 Art. 321-A-G. Os estabelecimentos que exerçam a atividade de venda ou revenda de mercadorias ou bens, ou de prestação de serviços em que o adquirente ou tomador seja pessoa física ou jurídica não contribuinte do ICMS, estão obrigados ao uso das tecnologias de controle de varejo estabelecidas na legislação tributária deste Estado observando, ainda, o disposto nesta Seção.
-
-<!-- p. 397 -->
-381
-
-381
 
 ~~Art. 321-A-H. A emissão do comprovante de pagamento de operação ou prestação efetuada com cartões de débito, crédito, de loja (private label), transferência de recursos, transações eletrônicas do Sistema de Pagamento Instantâneo e demais instrumentos de pagamento eletrônico deve estar vinculada ao documento fiscal emitido na operação ou prestação respectiva.~~
 
@@ -14787,19 +14792,17 @@ a) no caso de Pessoa Jurídica, o CNPJ e o nome empresarial;
 
 b) no caso de Pessoa Física, o CPF e o respectivo nome cadastral, podendo conter caracteres mascarados para preservar a identidade da pessoa física;
 
-II - código da autorização ou identificação do pedido;
-III - identificador do terminal em que ocorreu a transação, nos casos em que se aplica;
-IV - data e hora da operação;
-V - valor da operação.
-(NR – RA nº 66/22)
-§ 2º Os equipamentos, softwares e aplicativos destinados à captura de pagamentos realizados com cartões de crédito e/ou débito, moedas eletrônicas, virtuais e similares, deverão possibilitar, independente de conexão com a rede de dados e sem exigência de senha ou autenticação
-
 <!-- p. 398 -->
 382
 
 382
 
-após acessada a aplicação, a identificação das informações previstas no § 1º, observando ainda, no que couber, o disposto no Ato COTEPE/ICMS 73/17, de 22 de novembro de 2017.
+II - código da autorização ou identificação do pedido;
+III - identificador do terminal em que ocorreu a transação, nos casos em que se aplica;
+IV - data e hora da operação;
+V - valor da operação.
+(NR – RA nº 66/22)
+§ 2º Os equipamentos, softwares e aplicativos destinados à captura de pagamentos realizados com cartões de crédito e/ou débito, moedas eletrônicas, virtuais e similares, deverão possibilitar, independente de conexão com a rede de dados e sem exigência de senha ou autenticação após acessada a aplicação, a identificação das informações previstas no § 1º, observando ainda, no que couber, o disposto no Ato COTEPE/ICMS 73/17, de 22 de novembro de 2017.
 
 Art. 321-A-I. As instituições e os intermediadores financeiras e de pagamento, integrantes ou não do Sistema de Pagamentos Brasileiro – SPB, fornecerão à SEFAZ, até o último dia do mês subsequente, todas as informações relativas às operações realizadas pelos beneficiários de pagamentos que utilizem os instrumentos de pagamento previstos neste Regulamento, conforme leiaute previsto no Ato COTEPE/ICMS 65/18, de 19 de dezembro de 2018.
 
@@ -14816,17 +14819,17 @@ Art. 321-A-I. As instituições e os intermediadores financeiras e de pagamento,
 
 I - janeiro, fevereiro e março de 2022 até o último dia do mês de abril de 2023;
 II - abril, maio e junho de 2022 até o último dia do mês de maio de 2023;
-III - julho, agosto e setembro de 2022 até o último dia do mês de junho de 2023;
-IV - outubro, novembro e dezembro de 2022 até o último dia do mês de julho de 2023;
-V - janeiro, fevereiro e março de 2023 até o último dia do mês de agosto de 2023;
-VI - abril, maio e junho de 2023 até o último dia do mês de setembro de 2023;
-VII - julho e agosto de 2023 até o último dia do mês de outubro de 2023;
 
 <!-- p. 399 -->
 383
 
 383
 
+III - julho, agosto e setembro de 2022 até o último dia do mês de junho de 2023;
+IV - outubro, novembro e dezembro de 2022 até o último dia do mês de julho de 2023;
+V - janeiro, fevereiro e março de 2023 até o último dia do mês de agosto de 2023;
+VI - abril, maio e junho de 2023 até o último dia do mês de setembro de 2023;
+VII - julho e agosto de 2023 até o último dia do mês de outubro de 2023;
 VIII - setembro de 2023 e meses subsequentes, conforme prazo estabelecido no caput deste artigo.
 
 (NR – RA nº 66/22)
@@ -14849,17 +14852,17 @@ Art. 321-A-J. Os intermediadores de serviços e de negócios fornecerão à SEFA
 § 4º Os arquivos contendo as informações a partir 1º de agosto de 2020 até 30 de novembro de 2021 deverão ser enviados até o dia 31 de dezembro de 2021. O envio dos arquivos dos meses subsequentes obedecerá ao disposto no caput deste artigo.
 
 (NR – RA 54/21)
-Art. 321-A-K. A SEFAZ, em virtude de procedimento administrativo, poderá solicitar, independente da territorialidade, em arquivo impresso ou eletrônico, as informações dispostas nos arts. 321-A-I e 321-A-J, bem como poderá solicitar informações complementares dos beneficiários de pagamento, estabelecimentos e usuários de seus serviços.
-
-~~Art. 321-A-L. A obrigação disposta no art. 321-A-I poderá ser transferida a instituição ou arranjo distinta daquela responsável pelo cadastramento do estabelecimento ou prestador de serviço, visando agrupar ou simplificar os procedimentos, desde que seja mantida a segurança e a inviolabilidade do sigilo das informações.~~
-
-~~(Seção VII – NR dada pela RA nº 07/21)~~
 
 <!-- p. 400 -->
 384
 
 384
 
+Art. 321-A-K. A SEFAZ, em virtude de procedimento administrativo, poderá solicitar, independente da territorialidade, em arquivo impresso ou eletrônico, as informações dispostas nos arts. 321-A-I e 321-A-J, bem como poderá solicitar informações complementares dos beneficiários de pagamento, estabelecimentos e usuários de seus serviços.
+
+~~Art. 321-A-L. A obrigação disposta no art. 321-A-I poderá ser transferida a instituição ou arranjo distinta daquela responsável pelo cadastramento do estabelecimento ou prestador de serviço, visando agrupar ou simplificar os procedimentos, desde que seja mantida a segurança e a inviolabilidade do sigilo das informações.~~
+
+~~(Seção VII – NR dada pela RA nº 07/21)~~
 Art. 321-A-L. A obrigação disposta nos arts. 321-A-I e art. 321-A-J poderá ser transferida a instituição ou arranjo distinta daquela responsável pelo cadastramento do estabelecimento ou prestador de serviço, visando agrupar ou simplificar os procedimentos, desde que seja mantida a segurança e a inviolabilidade do sigilo das informações.
 
 (NR – RA nº 66/22)
@@ -14877,7 +14880,14 @@ Art. 321-A-N. Em caso de descumprimento das disposições previstas nos arts. 32
 § 3° Transcorrido o prazo do caput deste artigo, as instituições ou intermediadores que deixarem de prestar as informações ou prestarem com omissão de operações elou prestações realizadas pelo contribuinte do imposto, ficam sujeitos à aplicação das multas previstas nos incisos XXX e XXXI do art. 80 da Lei 7.799, de 19 de dezembro de 2002, conforme o caso.
 
 
-CAPÍTULO IX DAS OPERAÇÕES E PRESTAÇÕES DIVERSAS
+CAPÍTULO IX
+
+<!-- p. 401 -->
+385
+
+385
+
+DAS OPERAÇÕES E PRESTAÇÕES DIVERSAS
 
 Seção I Das Operações Realizadas com Depósito Fechado
 
@@ -14885,12 +14895,6 @@ Art. 322. Na saída de mercadorias com destino a depósito fechado do próprio c
 
 
 I - valor das mercadorias;
-
-<!-- p. 401 -->
-385
-
-385
-
 
 II - natureza da operação: "Outras Saídas - Remessa para depósito fechado";
 
@@ -14921,6 +14925,11 @@ IV - circunstância de que as mercadorias serão retiradas do depósito fechado,
 
 a) valor das mercadorias, que corresponderá àquele atribuído por ocasião de sua entrada no depósito fechado;
 
+<!-- p. 402 -->
+386
+
+386
+
 b) natureza da operação: "Outras Saídas" - Retorno Simbólico de Mercadorias Depositadas";
 
 c) número, série e data da Nota Fiscal emitida pelo estabelecimento depositante;
@@ -14930,10 +14939,6 @@ d) nome, endereço e números de inscrição, estadual e no CNPJ, do estabelecim
 
 § 2° O depósito fechado indicará no verso das vias da Nota Fiscal emitida pelo estabelecimento depositante que deverão acompanhar as mercadorias, a data de sua efetiva saída, o número, a série e a data da Nota Fiscal a que se refere o parágrafo anterior.
 
-<!-- p. 402 -->
-386
-
-386
 
 § 3° A Nota Fiscal a que alude o § 1º, será enviada ao estabelecimento depositante, que deverá registrá-la na coluna própria do livro Registro de Entradas, dentro de 10 (dez) dias, contados da data da saída efetiva das mercadorias do depósito fechado.
 
@@ -14964,6 +14969,10 @@ a) registrar a Nota Fiscal na coluna própria do livro Registro de Entradas, den
 
 b) emitir Nota Fiscal relativa à saída simbólica, dentro de 10 (dez) dias, contados da data da entrada efetiva das mercadorias no depósito fechado, na forma do art. 323 mencionando, ainda, número e data do documento fiscal emitido pelo remetente;
 
+<!-- p. 403 -->
+387
+
+387
 
 c) remeter a Nota Fiscal, aludida na alínea anterior, ao depósito, dentro de 5 (cinco) dias, contados da respectiva emissão.
 
@@ -14971,11 +14980,6 @@ c) remeter a Nota Fiscal, aludida na alínea anterior, ao depósito, dentro de 5
 § 3° O depósito fechado deverá acrescentar na coluna "Observações" do livro Registro de Entradas, relativamente ao lançamento previsto na alínea "a" do § 1º, o número, a série e a subsérie, e a data da Nota Fiscal referida na alínea "b" do parágrafo anterior.
 
 § 4° Todo e qualquer crédito do imposto, quando cabível, será conferido ao estabelecimento depositante.
-
-<!-- p. 403 -->
-387
-
-387
 
 Seção II Das Operações Realizadas com Armazém Geral
 
@@ -15006,16 +15010,18 @@ Art. 328. Na saída de mercadorias depositadas em armazém geral, situado na mes
 
 I - valor da operação;
 
+<!-- p. 404 -->
+388
+
+388
+
+
 II - natureza da operação;
 
 III - destaque do imposto, se devido;
 
 IV - circunstância de que as mercadorias serão retiradas do armazém geral, mencionando-se endereço, números de inscrição, estadual e no CNPJ, deste.
 
-<!-- p. 404 -->
-388
-
-388
 
 § 1° Na hipótese deste artigo, o armazém geral, no ato da saída das mercadorias, emitirá Nota Fiscal, em nome do estabelecimento depositante, sem destaque do imposto, contendo os requisitos exigidos e, especialmente:
 
@@ -15046,6 +15052,11 @@ I - valor da operação;
 
 II - natureza da operação;
 
+<!-- p. 405 -->
+389
+
+389
+
 III - circunstância de que as mercadorias serão retiradas do armazém geral, mencionando-se endereço e números de inscrição, estadual e no CNPJ, deste.
 
 
@@ -15053,10 +15064,6 @@ III - circunstância de que as mercadorias serão retiradas do armazém geral, m
 
 § 2° Na hipótese deste artigo, o armazém geral, no ato da saída das mercadorias, emitirá:
 
-<!-- p. 405 -->
-389
-
-389
 
 a) Nota Fiscal em nome do estabelecimento destinatário, contendo os requisitos exigidos e, especialmente:
 
@@ -15084,16 +15091,14 @@ b) a Nota Fiscal em nome do estabelecimento depositante, sem destaque do imposto
 
 § 4° A Nota Fiscal a que se refere a alínea "b" do § 2º, será enviada ao estabelecimento depositante que deverá registrá-la na coluna própria do livro Registro de Entradas, dentro de 10 (dez) dias, contados da saída efetiva das mercadorias do armazém geral.
 
-§ 5° O estabelecimento destinatário, ao receber as mercadorias, registrará no livro Registro de Entradas, a Nota Fiscal a que se refere o caput deste artigo, acrescentando na coluna "Observações" o número, série e data da Nota Fiscal a que alude a alínea "a" do § 2º, bem como nome, endereço e número de inscrição estadual e no CNPJ, do armazém geral e lançado nas colunas próprias, quando for o caso, o crédito do imposto pago pelo armazém geral.
-
-Art. 330. Na saída de mercadorias para entrega em armazém geral localizado neste Estado e adquirida por contribuinte desta unidade federada, o estabelecimento destinatário será
-
 <!-- p. 406 -->
 390
 
 390
 
-considerado depositante, devendo o remetente emitir Nota Fiscal contendo os requisitos exigidos e, especialmente:
+§ 5° O estabelecimento destinatário, ao receber as mercadorias, registrará no livro Registro de Entradas, a Nota Fiscal a que se refere o caput deste artigo, acrescentando na coluna "Observações" o número, série e data da Nota Fiscal a que alude a alínea "a" do § 2º, bem como nome, endereço e número de inscrição estadual e no CNPJ, do armazém geral e lançado nas colunas próprias, quando for o caso, o crédito do imposto pago pelo armazém geral.
+
+Art. 330. Na saída de mercadorias para entrega em armazém geral localizado neste Estado e adquirida por contribuinte desta unidade federada, o estabelecimento destinatário será considerado depositante, devendo o remetente emitir Nota Fiscal contendo os requisitos exigidos e, especialmente:
 
 
 I - como destinatário, o estabelecimento depositante;
@@ -15127,6 +15132,11 @@ c) remeter a Nota Fiscal, aludida na alínea anterior ao armazém geral, dentro 
 
 § 3° O armazém geral deverá acrescentar na coluna "Observações" do livro Registro de Entradas, relativamente ao lançamento previsto na alínea "a" do § 1º, o número, série e data da Nota Fiscal referida na alínea "b" do parágrafo anterior.
 
+<!-- p. 407 -->
+391
+
+391
+
 § 4° Todo e qualquer crédito do imposto, quando cabível, será conferido ao estabelecimento depositante.
 
 
@@ -15134,11 +15144,6 @@ Art. 331. Na saída de mercadorias para entrega em armazém geral localizado em 
 
 
 I - emitir Nota Fiscal contendo os requisitos exigidos e, especialmente:
-
-<!-- p. 407 -->
-391
-
-391
 
 a) como destinatário, o estabelecimento depositante;
 b) valor da operação;
@@ -15170,6 +15175,11 @@ d) circunstância de que as mercadorias foram entregues diretamente ao armazém 
 
 § 3° O armazém geral registrará a Nota Fiscal referida no § 1º, anotando, na coluna "Observações", do livro Registro de Entradas, o número, série e data da Nota Fiscal a que alude o inciso II, bem como nome, endereço e números de inscrição, estadual e no CNPJ, do estabelecimento remetente.
 
+<!-- p. 408 -->
+392
+
+392
+
 
 Art. 332. Nos casos de transmissão de propriedade de mercadorias, quando estas permanecerem no armazém geral deste Estado, e o estabelecimento depositante for contribuinte deste Estado, este emitirá Nota Fiscal para o estabelecimento adquirente, contendo os requisitos exigidos e, especialmente:
 
@@ -15177,12 +15187,6 @@ Art. 332. Nos casos de transmissão de propriedade de mercadorias, quando estas 
 I - valor da operação;
 
 II - natureza da operação;
-
-<!-- p. 408 -->
-392
-
-392
-
 
 III - destaque do imposto, se devido;
 
@@ -15212,17 +15216,17 @@ d) nome, endereço e números de inscrição, estadual e no CNPJ, do estabelecim
 
 a) valor das mercadorias, que corresponderá ao da Nota Fiscal emitida pelo estabelecimento depositante e transmitente, na forma do "caput" deste artigo;
 
+<!-- p. 409 -->
+393
+
+393
+
 b) natureza da operação: "Outras Saídas - Remessa Simbólica de Mercadorias Depositadas";
 
 c) número, série e data da Nota Fiscal emitida na forma do "caput" deste artigo, pelo estabelecimento depositante e transmitente, bem como nome, endereço e números de inscrição, estadual e no CNPJ, deste.
 
 
 § 5° Se o estabelecimento adquirente se situar em outro Estado, na Nota Fiscal a que se refere o parágrafo anterior, será efetuado o destaque do imposto, se devido.
-
-<!-- p. 409 -->
-393
-
-393
 
 § 6º A Nota Fiscal a que alude o § 4º, será enviada, dentro de 5 (cinco) dias, contados da data da sua emissão, ao armazém geral, que deverá registrá-la no livro Registro de Entradas dentro de 5 (cinco) dias, contados da data do seu recebimento.
 
@@ -15253,17 +15257,16 @@ a) Nota Fiscal para o estabelecimento depositante sem destaque de imposto, conte
 
 b) Nota Fiscal para o estabelecimento adquirente, contendo os requisitos exigidos e, especialmente:
 
+<!-- p. 410 -->
+394
+
+394
 
 1 - valor da operação, que corresponderá ao da Nota Fiscal emitida pelo estabelecimento depositante e transmitente, na forma do "caput" deste artigo;
 
 2 - natureza da operação: "Outras Saídas - Transmissão de Propriedade de Mercadorias por Conta e Ordem de Terceiros";
 
 3 - destaque do imposto, se devido;
-
-<!-- p. 410 -->
-394
-
-394
 
 4 - número, série e data da Nota Fiscal emitida na forma do "caput" deste artigo, pelo estabelecimento depositante e transmitente, bem como nome, endereço e números de inscrição, estadual e no CNPJ, deste.
 
@@ -15290,15 +15293,15 @@ c) número, série e data da Nota Fiscal emitida na forma do caput deste artigo,
 
 § 6° A Nota Fiscal a que alude o § 4º será enviada, dentro de 5 (cinco) dias, contados da data de sua emissão, ao armazém geral, que deverá registrá-la no livro Registro de Entradas, dentro de 5 (cinco) dias, contados da data do seu recebimento.
 
-
-Seção III Das Operações e Prestações Realizadas Fora do Estabelecimento
-
-Art. 334. Na saída de mercadorias destinadas à realização de operações fora do estabelecimento, inclusive por meio de veículos, o contribuinte emitirá Nota Fiscal na qual, além das exigências previstas no art. 139, será feita a indicação dos números e respectivas séries das Notas Fiscais a serem emitidas por ocasião das entregas das mercadorias ou serviços.
-
 <!-- p. 411 -->
 395
 
 395
+
+
+Seção III Das Operações e Prestações Realizadas Fora do Estabelecimento
+
+Art. 334. Na saída de mercadorias destinadas à realização de operações fora do estabelecimento, inclusive por meio de veículos, o contribuinte emitirá Nota Fiscal na qual, além das exigências previstas no art. 139, será feita a indicação dos números e respectivas séries das Notas Fiscais a serem emitidas por ocasião das entregas das mercadorias ou serviços.
 
 
 § 1° Por ocasião do retorno do veículo, o estabelecimento arquivará a primeira via da Nota Fiscal relativa a remessa e emitirá outra Nota Fiscal, a fim de se creditar do imposto relativo às mercadorias não entregues, mediante o lançamento desse documento no livro de Registro de Entradas.
@@ -15325,16 +15328,16 @@ Art. 335. Na saída de produtos industrializados de origem nacional, remetidos a
 
 I - a 1ª via, depois de visada previamente pela repartição do Fisco estadual a que estiver circunscricionado o contribuinte remetente, acompanhará a mercadoria e será entregue ao destinatário;
 
+<!-- p. 412 -->
+396
+
+396
+
 II - a 2ª via ficará presa ao bloco, para exibição ao Fisco;
 
 III - a 3ª via, devidamente visada, acompanhará as mercadorias e destinar-se-á a fins de controle da Secretaria da Fazenda do Estado do Amazonas;
 
 IV - a 4ª via será retida pela repartição do Fisco estadual no momento do visto a que alude o inciso I;
-
-<!-- p. 412 -->
-396
-
-396
 
 V - a 5ª via, devidamente visada, acompanhará as mercadorias até o local de destino, devendo ser entregue com uma via do Conhecimento, à Superintendência da Zona Franca de Manaus - SUFRAMA.
 
@@ -15360,14 +15363,14 @@ Art. 336. Nas vendas à ordem ou para entrega futura, poderá ser emitida Nota F
 
 § 1° Na hipótese deste artigo, o IPI será destacado antecipadamente pelo vendedor por ocasião da venda e o ICMS será recolhido por ocasião da efetiva saída da mercadoria.
 
-§ 2° No caso de venda para entrega futura, por ocasião da efetiva saída global ou parcial, das mercadorias, o vendedor emitirá Nota Fiscal em nome do adquirente, com destaque do valor do ICMS, quando devido, indicando-se além dos requisitos exigidos, como natureza da operação, "Remessa - Entrega Futura", bem como número, data e valor da operação da Nota relativa ao simples faturamento.
-
-§ 3° No caso de venda à ordem, por ocasião da entrega global ou parcial das mercadorias a terceiros, deverá ser emitida Nota Fiscal:
-
 <!-- p. 413 -->
 397
 
 397
+
+§ 2° No caso de venda para entrega futura, por ocasião da efetiva saída global ou parcial, das mercadorias, o vendedor emitirá Nota Fiscal em nome do adquirente, com destaque do valor do ICMS, quando devido, indicando-se além dos requisitos exigidos, como natureza da operação, "Remessa - Entrega Futura", bem como número, data e valor da operação da Nota relativa ao simples faturamento.
+
+§ 3° No caso de venda à ordem, por ocasião da entrega global ou parcial das mercadorias a terceiros, deverá ser emitida Nota Fiscal:
 
 
 I - pelo adquirente originário com destaque do ICMS, quando devido, em nome do destinatário das mercadorias, consignando-se além dos requisitos exigidos, nome do titular, endereço e números de inscrição estadual e no CNPJ, do estabelecimento que irá promover a remessa das mercadorias;
@@ -15397,15 +15400,15 @@ III - redução de valores ou quantidades, quando não for possível realizar o 
 
 IV - retorno por recusa, total ou parcial, na entrega ou por não localização do destinatário.
 
-Art. 336-B Na hipótese prevista no inciso I do art. 336-A, o contribuinte emitirá NF-e de saída, contendo, além dos demais requisitos exigidos:
-
-I - no campo “finNFe - Finalidade de emissão da NF-e”, o código “6=Nota de débito”;
-II - no campo “tpNFDebito - Tipo de Nota de Débito”, o código “06=Pagamento antecipado”;
-
 <!-- p. 414 -->
 398
 
 398
+
+Art. 336-B Na hipótese prevista no inciso I do art. 336-A, o contribuinte emitirá NF-e de saída, contendo, além dos demais requisitos exigidos:
+
+I - no campo “finNFe - Finalidade de emissão da NF-e”, o código “6=Nota de débito”;
+II - no campo “tpNFDebito - Tipo de Nota de Débito”, o código “06=Pagamento antecipado”;
 
 III - no campo “natOp - Descrição da Natureza da Operação”, o texto “Venda para entrega futura - Pagamento antecipado”;
 
@@ -15430,16 +15433,16 @@ V – destaque do ICMS, quando a operação fiscal de aquisição tenha apropria
 
 VI - no campo “infAdFisco - Informações Adicionais de Interesse do Fisco”, a explicação com a motivação de emissão da NF-e, contendo a justificativa da baixa do estoque;
 
+<!-- p. 415 -->
+399
+
+399
+
 VII - no “Grupo E. Identificação do Destinatário da Nota Fiscal eletrônica”, as informações do próprio emitente da NF-e.
 
 § 1º A NF-e de que trata o «caput» deverá ser escriturada conforme a legislação deste Estado.
 
 § 2º O contribuinte deverá efetuar o estorno do ICMS creditado da mercadoria que vier a ser objeto de extravio, perecimento, deterioração, furto ou roubo, conforme a legislação deste Estado.
-
-<!-- p. 415 -->
-399
-
-399
 
 Art. 336-D Na hipótese prevista no inciso III do art. 336-A, o remetente da NF-e de saída original deve emitir NF-e de entrada, contendo, além dos demais requisitos exigidos:
 
@@ -15465,17 +15468,16 @@ I - no campo “finNFe - Finalidade de emissão da NF-e”, o código “5=Nota 
 
 II - no campo “tpNFCredito - Tipo de Nota de Crédito”, os códigos “03=Retorno por Recusa Total na Entrega ou Por Não Localização do Destinatário na Tentativa de Entrega” ou “06=Retorno por Recusa Parcial na Entrega”, conforme o caso;
 
-III - no campo “natOp - Descrição da Natureza da Operação”, o texto “Retorno por Recusa ou não localização”;
-
-IV - no grupo “prod - Detalhamento de Produtos e Serviços”, as informações dos itens recusados ou não entregues da NF-e de saída original;
-
-V - no caso:
-
 <!-- p. 416 -->
 400
 
 400
 
+III - no campo “natOp - Descrição da Natureza da Operação”, o texto “Retorno por Recusa ou não localização”;
+
+IV - no grupo “prod - Detalhamento de Produtos e Serviços”, as informações dos itens recusados ou não entregues da NF-e de saída original;
+
+V - no caso:
 a) de recusa total ou de não localização do destinatário, no campo “refNFe - Chave de acesso da NF-e referenciada”, a chave de acesso da NF-e de saída original;
 
 b) de recusa parcial, no grupo “DFeReferenciado - Referenciamento de item de outro Documento Fiscal Eletrônico - DF-e”, as informações dos itens recusados parcialmente da NF-e de saída original;
@@ -15500,16 +15502,17 @@ Seção VI
 
 ~~Das Remessas para Industrialização por Ordem do Adquirente~~
 
+<!-- p. 417 -->
+401
+
+401
+
 Das Operações de Remessa para Industrialização
 
 (NR – Decreto nº 34.687/19)
 
 ~~Art. 338. Nas operações em que um estabelecimento mandar industrializar mercadorias, com fornecimento de matérias-primas, produtos intermediários e material de embalagens, adquiridos de outro, os quais, sem transitar pelo estabelecimento adquirente, forem entregues pelo fornecedor diretamente ao industrializador, observar-se-á o seguinte:~~
 
-<!-- p. 417 -->
-401
-
-401
 
 ~~I - o estabelecimento fornecedor deverá:~~
 
@@ -15533,16 +15536,16 @@ Das Operações de Remessa para Industrialização
 
 Art. 338 Na saída de mercadorias destinadas à industrialização, nos termos dos incisos II e III do art. 10 deste Regulamento, será emitida Nota Fiscal, sem destaque do ICMS, pelo estabelecimento encomendante, constando como natureza da operação “Remessa para Industrialização”, utilizando-se o CFOP 5.901 ou 6.901 (remessa para industrialização por encomenda) conforme o caso, e, nas remessa simbólicas, ou seja, sem que as mercadorias transitem pelo estabelecimento encomendante, será utilizado o CFOP 5.949 ou 6.949 (outra saída de mercadoria ou prestação de serviço não especificado), conforme o caso.
 
+<!-- p. 418 -->
+402
+
+402
 
 ~~Art. 339. Na hipótese do artigo anterior, se as mercadorias tiverem que transitar por mais de um estabelecimento industrializador, antes de serem entregues ao adquirente, autor da encomenda, cada industrializador deverá:~~
 
 
 ~~I - emitir Nota Fiscal para acompanhar o transporte das mercadorias ao industrializador seguinte, sem destaque do imposto, contendo também, além dos requisitos normalmente exigidos:~~
 
-<!-- p. 418 -->
-402
-
-402
 
 ~~a) a indicação de que a remessa se destina à industrialização por conta e ordem do adquirente, autor da encomenda, que será qualificado nessa Nota;~~
 
@@ -15576,18 +15579,16 @@ a) a chave de acesso da Nota Fiscal, pela qual as mercadorias foram recebidas no
 
 b) valor das mercadorias recebidas para industrialização, utilizando o CFOP 5.902 ou 6.902 (retorno de mercadoria utilizada na industrialização por encomenda), conforme o caso, e o valor total cobrado do autor da encomenda, destacando, deste, o valor das mercadorias empregadas.
 
-
-II – efetuar na Nota Fiscal referida no inciso anterior, sobre o valor cobrado do autor da encomenda, o destaque do ICMS, quando devido, que será aproveitado como crédito pelo destinatário, devendo ser utilizado o CFOP 5.124 ou 6.124 (industrialização efetuada para outra empresa), conforme o caso.
-
-
-Art. 339-A. Nas operações em que um estabelecimento mandar industrializar mercadorias, com fornecimento de matéria-prima, produtos intermediários e material de
-
 <!-- p. 419 -->
 403
 
 403
 
-embalagem, adquiridos de terceiros, que, sem transitar pelo estabelecimento adquirente, forem entregues pelo fornecedor diretamente ao industrializador, observar-se-á o disposto neste artigo.
+
+II – efetuar na Nota Fiscal referida no inciso anterior, sobre o valor cobrado do autor da encomenda, o destaque do ICMS, quando devido, que será aproveitado como crédito pelo destinatário, devendo ser utilizado o CFOP 5.124 ou 6.124 (industrialização efetuada para outra empresa), conforme o caso.
+
+
+Art. 339-A. Nas operações em que um estabelecimento mandar industrializar mercadorias, com fornecimento de matéria-prima, produtos intermediários e material de embalagem, adquiridos de terceiros, que, sem transitar pelo estabelecimento adquirente, forem entregues pelo fornecedor diretamente ao industrializador, observar-se-á o disposto neste artigo.
 
 
 § 1º O estabelecimento fornecedor deverá:
@@ -15614,16 +15615,17 @@ I – emitir Nota Fiscal com o valor da mercadoria recebida para industrializaç
 
 II – efetuar, na Nota Fiscal referida no inciso anterior, o destaque do ICMS sobre o valor total cobrado do autos da encomenda, se exigido, que será aproveitado como crédito por este, se for o caso, devendo ser utilizado o CFOP 5.124 ou 6.124 (industrialização efetuada para outra empresa);
 
+<!-- p. 420 -->
+404
+
+404
+
 
 III – informar a chave de acesso na NF-e de remessa simbólica emitida pelo autor da encomenda na tag documentos fiscais referenciados;
 
 
 IV – indicar nas informações complementares o nome, endereço e números de inscrição estadual e no CNPJ do fornecedor, bem como o número, série e data da Nota Fiscal por este emitida.
 
-<!-- p. 420 -->
-404
-
-404
 
 Art. 339-B. Na saída de produtos que, por conta e ordem do autor da encomenda, for efetuada pelo estabelecimento industrializador diretamente a estabelecimento que os tenha adquirido do encomendante, observar-se-á o seguinte:
 
@@ -15653,15 +15655,14 @@ c) indicar, nas informações complementares, o número, série, data da Nota Fi
 
 d) emitir Nota Fiscal em nome do estabelecimento autor da encomenda, na qual, além dos requisitos exigidos, constarão as informações:
 
-
-1. natureza da operação – “Retorno Simbólico de Produtos Industrializados por Encomenda”; o valor das mercadorias recebidas para industrialização, sem o destaque do ICMS, utilizando o CFOP 5.925 ou 6.925 (retorno de mercadoria recebida para industrialização por conta e ordem do adquirente da mercadoria, quando aquela não transitar pelo estabelecimento do adquirente), conforme o caso;
-
-2 . chave de acesso da NF-e de remessa para industrialização emitida pelo autor da encomenda na tag documentos fiscais referenciados;
-
 <!-- p. 421 -->
 405
 
 405
+
+1. natureza da operação – “Retorno Simbólico de Produtos Industrializados por Encomenda”; o valor das mercadorias recebidas para industrialização, sem o destaque do ICMS, utilizando o CFOP 5.925 ou 6.925 (retorno de mercadoria recebida para industrialização por conta e ordem do adquirente da mercadoria, quando aquela não transitar pelo estabelecimento do adquirente), conforme o caso;
+
+2 . chave de acesso da NF-e de remessa para industrialização emitida pelo autor da encomenda na tag documentos fiscais referenciados;
 
 
 3. indicar, nas informações complementares, o nome, endereço e números de inscrição estadual e no CNPJ, do estabelecimento adquirente para o qual será efetuada a remessa dos produtos;
@@ -15684,16 +15685,16 @@ Seção VIII Das Obrigações Acessórias das Empresas Transportadoras Aquaviár
 
 Art. 341. As empresas de transporte aquaviário que não possuam sede ou filial neste Estado e quando aqui iniciarem prestações de serviços de transporte e que tenham optado pelo benefício previsto no art.39 (Anexo 1.5) deste Regulamento deverão: (Convênio ICMS 88/90 e 106/96).
 
+<!-- p. 422 -->
+406
+
+406
 
 I - providenciar sua inscrição no Cadastro de Contribuintes do ICMS deste Estado e a identificação dos Agentes dos Armadores;
 
 
 II - declarar por escrito a numeração dos Conhecimentos de Transporte Aquaviário de Carga que serão usados nos serviços de cabotagem neste Estado;
 
-<!-- p. 422 -->
-406
-
-406
 
 III - preencher e entregar guia de informação, até o dia 10 (dez) do mês seguinte, contendo a numeração dos Conhecimentos de Transporte Aquaviário de Carga emitidos, bem como demais informações de natureza econômico - fiscais exigidas pela Receita Estadual;
 
@@ -15725,15 +15726,15 @@ Art. 342. Os Estados onde as empresas possuírem sede autorizarão a impressão 
 
 Art. 343. A adoção da sistemática estabelecida nesta Seção dispensará as demais obrigações acessórias aqui não previstas, exceto o disposto no art. 265. (Convênio ICMS 26/95)
 
+<!-- p. 423 -->
+407
+
+407
 
 Seção IX Das Operações de Consignação Mercantil
 
 Art. 344. Na saída de mercadoria a título de consignação mercantil: (Ajuste SINIEF 02/93)
 
-<!-- p. 423 -->
-407
-
-407
 
 I - o consignante emitirá nota fiscal contendo, além dos demais requisitos exigidos, o seguinte:
 
@@ -15771,16 +15772,16 @@ a) emitir nota fiscal contendo, além dos demais requisitos exigidos, como natur
 
 b) registrar a nota fiscal de que trata o inciso seguinte no livro Registro de Entradas, apenas nas colunas “Documento Fiscal” e “Observações”, indicando nesta a expressão: “Compra em consignação - NF n.º ........, de ......../........./.......”.
 
+<!-- p. 424 -->
+408
+
+408
+
 
 II - o consignante emitirá nota fiscal, sem destaque do ICMS e do IPI, contendo, além dos demais requisitos exigidos, o seguinte:
 
 
 a) natureza da operação: Venda;
-
-<!-- p. 424 -->
-408
-
-408
 
 b) valor da operação: o valor correspondente ao preço da mercadoria efetivamente vendida, neste incluído, quando for o caso, o valor relativo ao reajuste do preço;
 
@@ -15817,14 +15818,15 @@ Art. 348. As disposições contidas nesta Seção não se aplicam a mercadorias 
 
 (NR Dec. nº 34.014, de 18.04.18)
 
-Seção X Dos Procedimentos no Transporte Nacional de Mercadorias ou Bens em
-
-Encomendas Aéreas Internacionais
-
 <!-- p. 425 -->
 409
 
 409
+
+
+Seção X Dos Procedimentos no Transporte Nacional de Mercadorias ou Bens em
+
+Encomendas Aéreas Internacionais
 
 Art. 349. As mercadorias ou bens contidos em encomendas aéreas internacionais transportadas por empresas de "courier" ou a elas equiparadas, até sua entrega no domicílio destinatário, serão acompanhadas, em todo território nacional, pelo Conhecimento de Transporte Aéreo Internacional (AWB), fatura comercial e, quando devido o ICMS, pelo comprovante de seu pagamento. (Convênio ICMS 59/95)
 
@@ -15853,15 +15855,15 @@ Art. 352. Caso o início da prestação ocorra em final de semana, no feriado ou
 
 (NR Resolução Administrativa 89/13)
 
-I - a empresa de "courier" assuma a responsabilidade solidária pelo pagamento daquele imposto;
-
-
-II - a dispensa do comprovante de arrecadação seja concedida à empresa de "courier", devidamente inscrita no Cadastro de Contribuintes do ICMS, por meio de regime especial;
-
 <!-- p. 426 -->
 410
 
 410
+
+I - a empresa de "courier" assuma a responsabilidade solidária pelo pagamento daquele imposto;
+
+
+II - a dispensa do comprovante de arrecadação seja concedida à empresa de "courier", devidamente inscrita no Cadastro de Contribuintes do ICMS, por meio de regime especial;
 
 
 III - o imposto seja recolhido até o primeiro dia útil seguinte.
@@ -15892,14 +15894,14 @@ Art. 353-A. Para fins da equiparação à exportação na saída de produtos des
 
 I - emitir Nota Fiscal Eletrônica - NF-e, modelo 55, contendo, além dos requisitos exigidos pela legislação, a indicação de Código Fiscal de Operações e Prestações – CFOP - específico para a operação de saída de produtos destinada ao uso ou consumo de bordo, em embarcações ou aeronaves exclusivamente em tráfego internacional com destino ao exterior;
 
-II - registrar a Declaração Única de Exportação - DU-E - para o correspondente despacho aduaneiro da operação junto à Receita Federal do Brasil - RFB;
-
-III - indicar, no campo de dados adicionais, a expressão “Procedimento previsto no Convênio ICM 12/75.
-
 <!-- p. 427 -->
 411
 
 411
+
+II - registrar a Declaração Única de Exportação - DU-E - para o correspondente despacho aduaneiro da operação junto à Receita Federal do Brasil - RFB;
+
+III - indicar, no campo de dados adicionais, a expressão “Procedimento previsto no Convênio ICM 12/75.
 
 Art. 353-B. Considera-se não confirmada a operação de uso ou consumo de bordo a falta de registro do evento de averbação na NF-e de que trata o inciso I do art. 353-A, após o prazo de 60 (sessenta) dias a contar da sua emissão.
 
@@ -15923,12 +15925,12 @@ II - firmar contrato que preveja a utilização do espaço físico de ponto de r
 
 Parágrafo único. Quando as opções de retirada e devolução de mercadoria nas operações previstas no art. 353-C forem disponibilizadas por terceiros, através de plataformas telefônicas ou de informática, o responsável por estas plataformas poderá assumir as obrigações previstas neste artigo, desde que informe previamente à SEFAZ.
 
-Art. 353-E. Os pontos de retirada, quando localizados em estabelecimentos do mesmo grupo econômico ou de terceiros, contribuintes ou não do ICMS, deverão possuir espaço físico separado e exclusivo para o armazenamento das mercadorias vinculadas às operações previstas no art. 353-C.
-
 <!-- p. 428 -->
 412
 
 412
+
+Art. 353-E. Os pontos de retirada, quando localizados em estabelecimentos do mesmo grupo econômico ou de terceiros, contribuintes ou não do ICMS, deverão possuir espaço físico separado e exclusivo para o armazenamento das mercadorias vinculadas às operações previstas no art. 353-C.
 
 § 1º As mercadorias depositadas nos pontos de retirada, como previsto nesta Seção, ficam vinculadas aos contribuintes que efetuaram as operações previstas no art. 353-C.
 
@@ -15952,14 +15954,14 @@ I - Grupo E. Identificação do Destinatário: a identificação do contribuinte
 
 II - Grupo F. Local da Retirada: a identificação completa do ponto de retirada da mercadoria devolvida ou não entregue;
 
-III - Grupo BA. Documento Fiscal Referenciado: a chave de acesso da NF-e que acobertou a operação de venda; e
-
-IV - Grupo Z. Informações Adicionais da NF-e: “NFe emitida nos termos do Ajuste SINIEF nº 14/22”.
-
 <!-- p. 429 -->
 413
 
 413
+
+III - Grupo BA. Documento Fiscal Referenciado: a chave de acesso da NF-e que acobertou a operação de venda; e
+
+IV - Grupo Z. Informações Adicionais da NF-e: “NFe emitida nos termos do Ajuste SINIEF nº 14/22”.
 
 § 3º A mercadoria deve ser encaminhada em embalagem própria, com características que a diferencie dos produtos comercializados nos pontos de retirada e deve conter afixado o respectivo DANFE, nos termos do Ajuste SINIEF nº 7, de 30 de setembro de 2005.
 
@@ -15980,16 +15982,15 @@ CAPÍTULO X DAS OBRIGAÇÕES EM GERAL
 
 Art. 354. É obrigação de todo contribuinte exibir os livros fiscais e comerciais, comprovantes da escrita e documentos, instituídos pela legislação tributária, prestar informações e esclarecimentos, sempre que solicitem os agentes do Fisco, no prazo de 3 (três) dias úteis, a contar da data da intimação.
 
+<!-- p. 430 -->
+414
+
+414
 
 Parágrafo único. Os contribuintes são obrigados, independentemente de intimação, a franquear seus estabelecimentos e a mostrar todos os bens móveis, inclusive mercadorias.
 
 
 Art. 355. Nos casos em que seja exigida a emissão de documentos fiscais, o contribuinte fica obrigado a fornecer ao adquirente, no ato da operação, a via própria dos referidos documentos.
-
-<!-- p. 430 -->
-414
-
-414
 
 
 Art. 356. Em todos os casos em que seja obrigatório a emissão de documentos fiscais, o depositário, o armazenador, o comprador e o distribuidor devem exigir tais documentos de quem lhes entregar a mercadoria, conservando-os em seu poder para exibição à fiscalização, quando exigidos, pelo prazo de 5 (cinco) anos.
@@ -16021,12 +16022,15 @@ d) a existência ou não de débito do imposto, o valor e o período a que se re
 Art. 360. O contribuinte fica obrigado, em qualquer hipótese, a comprovar, no prazo de 8 (oito) dias, contado da ocorrência, os valores das operações a que se referirem os livros ou documentos extraviados ou inutilizados, para efeito de verificação do pagamento do imposto.
 
 
-Parágrafo único. Se o contribuinte, no prazo fixado neste artigo, deixar de fazer a comprovação, ou não puder fazê-la, assim como nos casos em que a mesma for considerada insuficiente ou inidônea, o valor das operações será arbitrado pelo Fisco, na forma estabelecida neste Regulamento, deduzindo-se do montante devido os recolhimentos efetivamente comprovados pelo contribuinte ou pelos registros da repartição.
+Parágrafo único. Se o contribuinte, no prazo fixado neste artigo, deixar de fazer a comprovação, ou não puder fazê-la, assim como nos casos em que a mesma for considerada
 
 <!-- p. 431 -->
 415
 
 415
+
+insuficiente ou inidônea, o valor das operações será arbitrado pelo Fisco, na forma estabelecida neste Regulamento, deduzindo-se do montante devido os recolhimentos efetivamente comprovados pelo contribuinte ou pelos registros da repartição.
+
 
 Art. 361. O destinatário que tiver extraviado ou inutilizado a nota fiscal correspondente a mercadorias recebidas, providenciará, junto ao remetente, cópia do documento devidamente autenticada pela repartição competente.
 
@@ -16051,15 +16055,14 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~I - numeração sequencial de 000.000.001 a 999.999.999, reiniciada a numeração quando atingido esse limite e seriação de "AA" a "ZZ", que suprirá o número de controle do formulário previsto na alínea "c" do inciso VII do art. 139;~~
 
-
-~~II~~ ~~- calcografia com microtexto e imagem latente.~~
-
-~~§ 2° O formulário de segurança deverá possuir (Convênio ICMS 131/95):~~
-
 <!-- p. 432 -->
 416
 
 416
+
+~~II~~ ~~- calcografia com microtexto e imagem latente.~~
+
+~~§ 2° O formulário de segurança deverá possuir (Convênio ICMS 131/95):~~
 
 ~~I - quanto ao papel, deve:~~
 ~~a) ser apropriado a processos de impressão calcográfica, "off-set", tipográfico e não impacto;~~
@@ -16088,14 +16091,14 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~I - contrato social e respectivas alterações ou ata de constituição e das alterações, em se tratando de sociedade anônima, devidamente registradas na Junta Comercial;~~
 
-~~II - certidões negativas ou de regularidade expedidas pelos fiscos federal, municipal e de todos os Estados em que possuir estabelecimento;~~
-
-~~III - balanço patrimonial e demonstrações financeiras ou comprovação de capacidade econômico- financeira;~~
-
 <!-- p. 433 -->
 417
 
 417
+
+~~II - certidões negativas ou de regularidade expedidas pelos fiscos federal, municipal e de todos os Estados em que possuir estabelecimento;~~
+
+~~III - balanço patrimonial e demonstrações financeiras ou comprovação de capacidade econômico- financeira;~~
 
 ~~IV - memorial descritivo das condições de segurança quanto a produto, pessoal, processo de fabricação e patrimônio;~~
 
@@ -16123,12 +16126,13 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 
 ~~Art. 365. O impressor autônomo deverá obedecer os seguintes procedimentos:~~
-~~I - emitir a 1ª e a 2ª vias dos documentos fiscais de que trata este Capítulo, utilizando o formulário de segurança, conforme definido no artigo anterior, em ordem sequencial de numeração, emitindo as demais vias em papel comum, vedado o uso de papel jornal;~~
 
 <!-- p. 434 -->
 418
 
 418
+
+~~I - emitir a 1ª e a 2ª vias dos documentos fiscais de que trata este Capítulo, utilizando o formulário de segurança, conforme definido no artigo anterior, em ordem sequencial de numeração, emitindo as demais vias em papel comum, vedado o uso de papel jornal;~~
 
 ~~II - imprimir em código de barras, conforme "lay-out", em anexo, em todas as vias do documento fiscal, os seguintes dados:~~
 
@@ -16161,18 +16165,16 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 ~~f)~~ ~~quantidade autorizada de formulário de segurança;~~
 ~~g) numeração e seriação inicial e final do formulário de segurança fornecido, informadas pelo fabricante.~~
 
+<!-- p. 435 -->
+419
+
+419
 
 ~~II - o PAFS será impresso em formulário de segurança, em 3 (três) vias, tendo a seguinte destinação:~~
 
 ~~a)~~ ~~1ª via: fisco;~~
 ~~b)~~ ~~2ª via: usuário;~~
 ~~c)~~ ~~3ª via: fabricante.~~
-
-<!-- p. 435 -->
-419
-
-419
-
 ~~§ 1° As especificações técnicas estabelecidas neste artigo deverão obedecer aos padrões do modelo disponibilizado na COTEPE/ICMS.~~
 
 ~~§ 2° Será considerada sem validade a impressão e emissão simultânea de documento que não esteja de acordo com este regulamento, ficando o seu emissor sujeito à revogação do regime especial concedido, sem prejuízo das demais sanções.~~
@@ -16201,14 +16203,13 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~§ 7° Na hipótese do disposto no item 1 do parágrafo anterior, será solicitada autorização única, indicando-se:~~
 
-~~I~~ ~~- a quantidade dos formulários a serem impressos e utilizados em comum;~~
-~~II~~ ~~- os dados cadastrais dos estabelecimentos usuários;~~
-
 <!-- p. 436 -->
 420
 
 420
 
+~~I~~ ~~- a quantidade dos formulários a serem impressos e utilizados em comum;~~
+~~II~~ ~~- os dados cadastrais dos estabelecimentos usuários;~~
 ~~III - a critério da Receita Estadual, os números de ordem dos formulários destinados aos estabelecimentos a que se refere o item anterior, devendo ser comunicado ao fisco eventuais alterações.~~
 
 
@@ -16239,12 +16240,12 @@ impressão de documentos fiscais
 
 Art. 363. A fabricação, distribuição e aquisição de papéis com dispositivos de segurança para a impressão de documentos fiscais, denominados formulários de segurança, deverão seguir as disposições desta Seção, do Convênio ICMS 96/09 e do Ato COTEPE/ICMS 06/10.
 
-Art. 364. Os formulários de segurança deverão ser fabricados em papel dotado de estampa fiscal com recursos de segurança impressos ou em papel de segurança com filigrana, com especificações detalhadas no Ato COTEPE/ICMS 06/10.
-
 <!-- p. 437 -->
 421
 
 421
+
+Art. 364. Os formulários de segurança deverão ser fabricados em papel dotado de estampa fiscal com recursos de segurança impressos ou em papel de segurança com filigrana, com especificações detalhadas no Ato COTEPE/ICMS 06/10.
 
 Parágrafo único. É vedada a fabricação de formulário de segurança para a finalidade descrita no inciso I do caput do art. 366 antes da autorização do pedido de aquisição descrito no art. 368.
 
@@ -16276,13 +16277,14 @@ Parágrafo único. Os formulários de segurança, quando inutilizados antes de s
 
 Art. 367. O Estabelecimento gráfico interessado em:
 
-
-I - se credenciar como fabricante de formulário de segurança deverá proceder conforme cláusula quinta do Convênio ICMS 96/09;
-
 <!-- p. 438 -->
 422
 
 422
+
+
+I - se credenciar como fabricante de formulário de segurança deverá proceder conforme cláusula quinta do Convênio ICMS 96/09;
+
 
 II - se credenciar como distribuidor de FS-DA deverá apresentar requerimento a SEFAZ/MA, observado o disposto em Ato COTEPE/ICMS 06/10.
 
@@ -16324,14 +16326,15 @@ IV - identificação do fabricante credenciado;
 
 V - identificação do órgão da SEFAZ/MA que autorizou;
 
-VII - número do pedido de aquisição, com 9 (nove) dígitos;
-
-VIII - a quantidade, a seriação e a numeração inicial e final de formulários de segurança a serem fornecidos.
-
 <!-- p. 439 -->
 423
 
 423
+
+VII - número do pedido de aquisição, com 9 (nove) dígitos;
+
+VIII - a quantidade, a seriação e a numeração inicial e final de formulários de segurança a serem fornecidos.
+
 
 § 4º A SEFAZ/MA poderá:
 
@@ -16369,15 +16372,15 @@ III - a critério da SEFAZ/MA, os números de ordem dos formulários destinados 
 
 § 2° Na hipótese do disposto dos incisos I e III do caput, a critério da SEFAZ/MA, poderá ser exigida nova autorização de aquisição.
 
-
-Seção II Da impressão e emissão simultânea de documentos fiscais
-
-(Conv. ICMS 97/09)
-
 <!-- p. 440 -->
 424
 
 424
+
+
+Seção II Da impressão e emissão simultânea de documentos fiscais
+
+(Conv. ICMS 97/09)
 
 Art. 369-B. A SEFAZ/MA poderá autorizar o contribuinte a realizar simultaneamente a impressão e emissão de documentos fiscais, sendo este contribuinte designado impressor autônomo de documentos fiscais.
 
@@ -16412,6 +16415,11 @@ c) inscrição no CNPJ dos estabelecimentos emitente e destinatário;
 
 d) unidade da Federação dos estabelecimentos emitente e destinatário;
 
+<!-- p. 441 -->
+425
+
+425
+
 e) data da operação ou prestação;
 
 f) valor da operação ou prestação e do ICMS;
@@ -16419,11 +16427,6 @@ f) valor da operação ou prestação e do ICMS;
 g) indicação de que a operação está sujeita ao regime de substituição tributária.
 
 (NR Capítulo XII pela Resolução Administrativa 15/13)
-
-<!-- p. 441 -->
-425
-
-425
 
 CAPÍTULO XIII DO EXAME DE EQUIPAMENTOS EMISSORES DE CUPOM FISCAL
 
@@ -16454,12 +16457,12 @@ II - encaminhar a cada Estado membro do subgrupo indicado pela Secretaria Execut
 
 § 2° A Secretaria Executiva da COTEPE/ICMS cientificará as unidades federadas dos pedidos de aprovação dos equipamentos.
 
-§ 3° Em substituição ao disposto no inciso II, poderá a COTEPE/ICMS por solicitação do fabricante ou importador, determinar que a análise do equipamento seja efetuada em conjunto pelos representantes das unidades da Federação. (Convênio ICMS 55/95)
-
 <!-- p. 442 -->
 426
 
 426
+
+§ 3° Em substituição ao disposto no inciso II, poderá a COTEPE/ICMS por solicitação do fabricante ou importador, determinar que a análise do equipamento seja efetuada em conjunto pelos representantes das unidades da Federação. (Convênio ICMS 55/95)
 
 Art. 372. Após a análise do equipamento, o subgrupo elaborará parecer conclusivo, em até 90 (noventa) dias, acompanhado de detalhamento das teclas, funções e programas inadequados para uso fiscal, para deliberação pelo GT-46.
 
@@ -16488,16 +16491,14 @@ Art. 373-A. Os estabelecimentos que realizem operações sujeitas a não incidê
 
 § 2o Compete à SEFAZ, a qualquer tempo, suspender os efeitos do registro de controle da operação, caso verifique irregularidade das operações realizadas pelo contribuinte, que, tendo adquirido papel beneficiado com a não incidência, dê outra destinação, caracterizando desvio de finalidade.
 
-§ 3o O credenciamento do contribuinte no RECOPI NACIONAL deverá ser feito quando da obtenção de sua inscrição no CAD/ICMS.
-
-Art.373-B. Os tipos de papéis considerados como destinados à impressão de livro, jornal ou periódico e cuja utilização sujeita o estabelecimento ao credenciamento nos termos
-
 <!-- p. 443 -->
 427
 
 427
 
-deste Capítulo, são os discriminados no Ato COTEPE/ICMS 21, de 18 de junho de 2013, ou outro que o substitua.
+§ 3o O credenciamento do contribuinte no RECOPI NACIONAL deverá ser feito quando da obtenção de sua inscrição no CAD/ICMS.
+
+Art.373-B. Os tipos de papéis considerados como destinados à impressão de livro, jornal ou periódico e cuja utilização sujeita o estabelecimento ao credenciamento nos termos deste Capítulo, são os discriminados no Ato COTEPE/ICMS 21, de 18 de junho de 2013, ou outro que o substitua.
 
 Parágrafo único. O papel que não for utilizado para a confecção e impressão de livro, jornal ou periódico fica sujeito à incidência do ICMS, mesmo que esteja relacionado no ato normativo de que trata o caput deste artigo.
 
@@ -16528,15 +16529,15 @@ VI - convertedor: indústria que converte o formato de apresentação do papel d
 
 VII - armazém geral ou depósito fechado (AP).
 
-§ 2o Para efetuar o credenciamento, o contribuinte deverá informar os dados solicitados quando do acesso ao Sistema RECOPI NACIONAL, devendo instruir o pedido de credenciamento com os documentos abaixo listados e apresentá-lo via SEFAZNet:
-
-
-I - cópia do documento de identidade e de inscrição no Cadastro da Pessoa Física (CPF) ou Cadastro Nacional de Pessoa Jurídica (CNPJ) e comprovante de residência de todas as pessoas que compõem o quadro societário da empresa;
-
 <!-- p. 444 -->
 428
 
 428
+
+§ 2o Para efetuar o credenciamento, o contribuinte deverá informar os dados solicitados quando do acesso ao Sistema RECOPI NACIONAL, devendo instruir o pedido de credenciamento com os documentos abaixo listados e apresentá-lo via SEFAZNet:
+
+
+I - cópia do documento de identidade e de inscrição no Cadastro da Pessoa Física (CPF) ou Cadastro Nacional de Pessoa Jurídica (CNPJ) e comprovante de residência de todas as pessoas que compõem o quadro societário da empresa;
 
 
 II – cópia do estatuto, contrato social ou inscrição de empresário, bem como das alterações posteriores devidamente arquivados e registrados no órgão competente;
@@ -16558,15 +16559,15 @@ VIII - na hipótese de ter sido eleito estabelecimento diverso da matriz para de
 
 § 3o A SEFAZ poderá exigir outros documentos relacionados ao registro ou atividade da empresa para aferir a veracidade e a consistência das informações prestadas, podendo, ainda, para tais fins, determinar a execução de diligência ou procedimento fiscal.
 
-§ 4o Diante da constatação do regular andamento do pedido apresentado nos termos deste artigo e da observância dos requisitos previstos neste Capítulo, poderá ser conferido provisoriamente ao interessado o credenciamento no Sistema RECOPI NACIONAL.
-
-
-Art.373-D. Compete à Secretaria Adjunta da Administração Tributária da SEFAZ a apreciação do pedido de credenciamento e, com base nas informações prestadas pelo requerente e naquelas apuradas pelo Fisco, deferi-lo ou não.
-
 <!-- p. 445 -->
 429
 
 429
+
+§ 4o Diante da constatação do regular andamento do pedido apresentado nos termos deste artigo e da observância dos requisitos previstos neste Capítulo, poderá ser conferido provisoriamente ao interessado o credenciamento no Sistema RECOPI NACIONAL.
+
+
+Art.373-D. Compete à Secretaria Adjunta da Administração Tributária da SEFAZ a apreciação do pedido de credenciamento e, com base nas informações prestadas pelo requerente e naquelas apuradas pelo Fisco, deferi-lo ou não.
 
 
 § 1o O pedido será indeferido, em relação a cada um dos estabelecimentos, conforme o caso, se constatada:
@@ -16596,14 +16597,14 @@ Parágrafo único. O registro das operações determinado pelo caput caberá:
 
 I - ao estabelecimento remetente, nas operações realizadas entre contribuintes estabelecidos em unidades federadas signatárias do Convênio ICMS 48, de 12 de junho de 2013, desde que previamente credenciados;
 
-II - ao estabelecimento importador, na importação realizada por contribuinte estabelecido em unidade federada alcançada pelo Convênio ICMS 48/13, devidamente credenciado;
-
-III - ao estabelecimento remetente, devidamente credenciado, nas operações de remessa a contribuinte estabelecido em unidade federada não alcançada pelo Convênio ICMS 48/13;
-
 <!-- p. 446 -->
 430
 
 430
+
+II - ao estabelecimento importador, na importação realizada por contribuinte estabelecido em unidade federada alcançada pelo Convênio ICMS 48/13, devidamente credenciado;
+
+III - ao estabelecimento remetente, devidamente credenciado, nas operações de remessa a contribuinte estabelecido em unidade federada não alcançada pelo Convênio ICMS 48/13;
 
 IV - ao estabelecimento destinatário, devidamente credenciado, no recebimento proveniente de contribuinte estabelecido em unidade federada não alcançada pelo Convênio ICMS 48/13, sendo que nesta hipótese a obrigatoriedade de obtenção do número de registro de controle ocorre na entrada da mercadoria no estabelecimento.
 
@@ -16628,14 +16629,15 @@ Art.373-H. No documento fiscal correspondente à operação com papel destinado 
 
 Art.373-I. O número de registro de controle concedido através do Sistema RECOPI NACIONAL deverá ser indicado no campo "Informações Complementares" da Nota Fiscal Eletrônica, NF-e, modelo 55, com a expressão "Não incidência do ICMS - Registro de Controle da Operação no Sistema RECOPI NACIONAL Nº...".
 
-
-Subseção IV Da Transmissão do Registro da Operação
-Art.373-J. O contribuinte deverá informar no Sistema RECOPI NACIONAL o número e a data de emissão da NF-e até o primeiro dia útil subsequente à obtenção do número de registro, devendo ainda:
-
 <!-- p. 447 -->
 431
 
 431
+
+
+Subseção IV Da Transmissão do Registro da Operação
+Art.373-J. O contribuinte deverá informar no Sistema RECOPI NACIONAL o número e a data de emissão da NF-e até o primeiro dia útil subsequente à obtenção do número de registro, devendo ainda:
+
 
 I - na remessa, indicar a data da respectiva saída da mercadoria;
 
@@ -16666,18 +16668,16 @@ II - na remessa fracionada nos termos do Art.373-R, da data de cada remessa parc
 
 Art.373-L. A reativação para novos registros somente se dará quando:
 
-I - da confirmação da operação pelo seu destinatário no Sistema RECOPI NACIONAL, nos termos do caput do art.373-K;
-
-II - da comprovação da operação pelo remetente contribuinte, nos termos do § 3o do art.373-K;
-
-III - do registro no Sistema RECOPI NACIONAL pelo remetente contribuinte das informações relativas ao lançamento em documento fiscal do imposto devido em relação à
-
 <!-- p. 448 -->
 432
 
 432
 
-operação suspensa e, sendo o caso, ao seu recolhimento por Guia Nacional de Recolhimento de Tributos Estaduais (GNRE), com atualização monetária, multa e demais acréscimos legais.
+I - da confirmação da operação pelo seu destinatário no Sistema RECOPI NACIONAL, nos termos do caput do art.373-K;
+
+II - da comprovação da operação pelo remetente contribuinte, nos termos do § 3o do art.373-K;
+
+III - do registro no Sistema RECOPI NACIONAL pelo remetente contribuinte das informações relativas ao lançamento em documento fiscal do imposto devido em relação à operação suspensa e, sendo o caso, ao seu recolhimento por Guia Nacional de Recolhimento de Tributos Estaduais (GNRE), com atualização monetária, multa e demais acréscimos legais.
 
 
 Subseção VI Da Informação Mensal Relativa aos Estoques
@@ -16702,15 +16702,15 @@ VI - aos papéis anteriormente recebidos com incidência do ICMS e que foram pos
 
 § 2o As quantidades totais referidas no inciso III do caput deste artigo deverão ser registradas, com a indicação da tiragem, em relação aos:
 
-
-I - livros, identificados de acordo com o Número Internacional Padronizado (ISBN);
-
-II - jornais ou periódicos, hipótese em que será informado o correspondente Número Internacional Normalizado para Publicações Seriadas (ISSN), se adotado.
-
 <!-- p. 449 -->
 433
 
 433
+
+
+I - livros, identificados de acordo com o Número Internacional Padronizado (ISBN);
+
+II - jornais ou periódicos, hipótese em que será informado o correspondente Número Internacional Normalizado para Publicações Seriadas (ISSN), se adotado.
 
 § 3o O estabelecimento com atividade exclusiva de fabricante de papel (FP) estará dispensado da prestação das informações previstas neste artigo.
 

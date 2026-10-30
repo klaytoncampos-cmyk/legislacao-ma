@@ -4,7 +4,7 @@
 Situação lida do cabeçalho da norma no CONFAZ (vazio = nenhuma revogação/denúncia/saída do MA registrada no cabeçalho; isso não garante a vigência de cada cláusula; leia as notas `>` do texto). "citado em": documentos da SEFAZ-MA que a citam; "via:" = entrou por alterar/aderir/denunciar uma norma citada (2º nível).
 
 
-## Convênios ICMS (2273)
+## Convênios ICMS (2282)
 
 | arquivo | norma | ementa | situação | citado em |
 |---|---|---|---|---|
@@ -2281,6 +2281,15 @@ Situação lida do cabeçalho da norma no CONFAZ (vazio = nenhuma revogação/de
 | confaz/convenio/convenio-119-2026.md | CONVÊNIO ICMS 119/26 | Autoriza a concessão de remissão e instituição de programa de anistia e parcelamento de débitos tributários, não inscritos em Dívida Ativa, relativos ao ICMS na forma em que especifica, para tratamento adequado das alter |  |  |
 | confaz/convenio/convenio-120-2026.md | CONVÊNIO ICMS 120/26 | Altera o Convênio ICMS nº 92, de 28 de julho de 2026, que autoriza a dispensa de juros e multas mediante pagamento à vista de débitos fiscais relacionados com o ICMS. |  |  |
 | confaz/convenio/convenio-121-2026.md | CONVÊNIO ICMS 121/26 | Altera o Convênio ICMS nº 35, de 11 de abril de 2025, que autoriza a instituição de programa de recuperação de créditos tributários, na forma que especifica. |  |  |
+| confaz/convenio/convenio-122-2026.md | CONVÊNIO ICMS 122/26 | Altera o Convênio ICMS nº 139, de 28 de novembro de 2018, que autoriza as unidades federadas que menciona a reduzir multas e demais acréscimos legais, e a conceder parcelamento de débito fiscal relacionados com o ICMS, n |  |  |
+| confaz/convenio/convenio-123-2026.md | CONVÊNIO ICMS 123/26 | Dispõe sobre a adesão do Estado do Paraná e altera o Convênio ICMS nº 119, de 13 de outubro de 2026, que autoriza a concessão de remissão e instituição de programa de anistia e parcelamento de débitos tributários, não in |  |  |
+| confaz/convenio/convenio-125-2026.md | CONVÊNIO ICMS 125/26 | Altera o Convênio ICMS nº 79, de 2 de setembro de 2020, que autoriza as unidades federadas que menciona a dispensar ou reduzir juros, multas e demais acréscimos legais, mediante quitação ou parcelamento de débitos fiscai |  |  |
+| confaz/convenio/convenio-126-2026.md | CONVÊNIO ICMS 126/26 | Autoriza a redução de juros e multas de débitos fiscais relacionados com o ICM e o ICMS. |  |  |
+| confaz/convenio/convenio-127-2026.md | CONVÊNIO ICMS 127/26 | Altera o Convênio ICMS nº 15, de 31 de março de 2023, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com gasolina e etanol anidro combustível, nos termos da Lei Complementar nº 19 |  |  |
+| confaz/convenio/convenio-128-2026.md | CONVÊNIO ICMS 128/26 | Altera o Convênio ICMS nº 199, de 22 de dezembro de 2022, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com combustíveis nos termos da Lei Complementar nº 192, de 11 de março de  |  |  |
+| confaz/convenio/convenio-129-2026.md | CONVÊNIO ICMS 129/26 | Altera o Convênio ICMS nº 15, de 31 de março de 2023, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com gasolina e etanol anidro combustível, nos termos da Lei Complementar nº 19 |  |  |
+| confaz/convenio/convenio-130-2026.md | CONVÊNIO ICMS 130/26 | Altera o Convênio ICMS nº 199, de 22 de dezembro de 2022, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com combustíveis nos termos da Lei Complementar nº 192, de 11 de março de  |  |  |
+| confaz/convenio/convenio-131-2026.md | CONVÊNIO ICMS 131/26 | Prorroga as disposições de convênios ICMS que dispõem sobre benefícios fiscais e altera o Convênio ICMS nº 22, de 14 de abril de 2023. |  |  |
 
 ## Protocolos ICMS (849)
 

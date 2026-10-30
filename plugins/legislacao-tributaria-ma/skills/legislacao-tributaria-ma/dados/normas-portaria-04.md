@@ -8,7 +8,7 @@ ementa: "Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no an
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=278e5744-7b64-49cc-99b5-8944a86a0a91
 atualizado_na_fonte: "2025-08-11 17:46:03"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3107,7 +3107,7 @@ ementa: "Os valores do Imposto sobre a Propriedade de Veículos Automotores – 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=43f50204-4466-487e-8136-3a16acec37e9
 atualizado_na_fonte: "2025-06-23 14:52:34"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3186,7 +3186,7 @@ ementa: "Deverá ser cobrado antecipadamente na primeira unidade fazendária des
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96a90703-931a-415e-a3d8-4c8ab666447e
 atualizado_na_fonte: "2025-06-23 18:35:32"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 4.32, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3240,7 +3240,7 @@ ementa: "Deverá ser cobrado antecipadamente na primeira unidade fazendária des
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=09be636d-f8a0-4f5b-82b0-c97e77a86eb4
 atualizado_na_fonte: "2025-06-23 18:37:23"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3290,7 +3290,7 @@ ementa: "Dispõe sobre a concessão de crédito presumido de ICMS, nas operaçõ
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=958fca1c-ab0d-481b-829a-8f88f7af5b85
 atualizado_na_fonte: "2026-10-15 10:38:51"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3363,7 +3363,7 @@ ementa: "Alterar o percentual do crédito a glosar dos produtos abaixo especific
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e9dc4d6e-d685-49fb-951f-93dee6a8d398
 atualizado_na_fonte: "2025-09-23 17:17:59"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3418,7 +3418,7 @@ ementa: "Altera o Anexo III da Portaria 535/ 2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0cdd1c7b-9fab-426a-98fc-1819348d874f
 atualizado_na_fonte: "2025-08-22 15:04:54"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3495,7 +3495,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=605fa924-96a2-438e-953a-72f9dffb412a
 atualizado_na_fonte: "2026-10-09 18:57:39"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3574,7 +3574,7 @@ ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de cont
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2bb1b874-e31c-48bd-812b-4407abd2e48f
 atualizado_na_fonte: "2025-07-03 14:05:00"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3632,7 +3632,7 @@ ementa: "Dispõe sobre prazo para recadastramento de contribuintes produtores ru
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=584ea88f-c7f2-4b82-a359-767fad272862
 atualizado_na_fonte: "2026-10-15 10:40:40"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3694,7 +3694,7 @@ ementa: "Dispõe sobre os requisitos e procedimentos concernentes ao credenciame
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e392a827-cfad-403e-82fd-bfe2723456e8
 atualizado_na_fonte: "2025-07-03 14:06:30"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3798,7 +3798,7 @@ ementa: "Dispõe sobre a cobrança complementar do Imposto sobre Operações Rel
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=73f61b9c-0b1a-4c67-a687-9d904672817b
 atualizado_na_fonte: "2025-06-23 15:58:48"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -3901,7 +3901,7 @@ ementa: "Institui o Sistema de Fiscalização e Monitoramento do Agronegócio �
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fae7c837-dcb8-40ec-b821-9370b0b7fb2a
 atualizado_na_fonte: "2026-10-15 10:57:58"
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 remete_a: "Anexo 1.3, Anexo 1.5, RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0

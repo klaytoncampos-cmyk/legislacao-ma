@@ -1,5 +1,50 @@
 # Registro de atualizações da base
 
+## 2026-10-30 11:21
+
+- SEFAZ alterado: **DECRETO  Nº 19.714,  DE 10  DE  JULHO DE  2003.pdf** (atualizado na fonte em 2026-10-29 09:04:48)
+- SEFAZ norma complementar alterada: **RESOLUÇÃO ADMINISTRATIVA Nº 023/26 – GABIN**: Altera o Regulamento do ICMS RICMS, aprovado pelo Decreto nº 19.714/03, relativamente ao prazo para a transmissão dos arquivos da Declaração de Informações Econ
+- SEFAZ norma complementar NOVA: **PORTARIA Nº 410, DE 03 DE OUTUBRO DE 2026**: Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS.
+- SEFAZ norma complementar NOVA: **PORTARIA Nº 380, DE 01 DE OUTUBRO DE 2026**: Modifica a Portaria nº 410-GABIN, de 03 de dezembro de 2025, que dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de pr
+- SEFAZ norma complementar NOVA: **RESOLUÇÃO ADMINISTRATIVA Nº 030/26 – GABIN**: Altera o Regulamento do ICMSRICMS, aprovado pelo Decreto nº 19.714/03, relativamente ao prazo para a transmissão dos arquivos da Declaração de Informações Econô
+- SEFAZ norma complementar NOVA: **RESOLUÇÃO ADMINISTRATIVA Nº 029/26 – GABIN**: Altera o Anexo 1.2 (Isenção Por Tempo Determinado) do Regulamento do ICMS - RICMS, relativamente à isenção do ICMS nas operações com fármacos e medicamentos des
+- CONFAZ NOVO: convenio 122/2026: "> CONVÊNIO ICMS Nº 122, DE 23 DE OUTUBRO DE 2026 Publicado no DOU de 26.10.2026 Altera o Convênio ICMS nº 139, de 28 de novembro de 2018, que autoriza as unidades federadas que me
+  - ↳ norma alterada rebaixada: convenio 139/2018
+- CONFAZ NOVO: convenio 123/2026: "> CONVÊNIO ICMS Nº 123, DE 23 DE OUTUBRO DE 2026 Publicado no DOU de 26.10.2026 Dispõe sobre a adesão do Estado do Paraná e altera o Convênio ICMS nº 119, de 13 de outubro de 2026
+  - ↳ norma alterada rebaixada: convenio 119/2026
+- CONFAZ NOVO: convenio 125/2026: "> CONVÊNIO ICMS Nº 125, DE 23 DE OUTUBRO DE 2026 Publicado no DOU de 26.10.2026 Altera o Convênio ICMS nº 79, de 2 de setembro de 2020, que autoriza as unidades federadas que menc
+  - ↳ norma alterada rebaixada: convenio 79/2020
+- CONFAZ NOVO: convenio 126/2026: "> CONVÊNIO ICMS Nº 126, DE 23 DE OUTUBRO DE 2026 Publicado no DOU de 26.10.2026 Autoriza a redução de juros e multas de débitos fiscais relacionados com o ICM e o ICMS. O Conselho
+- CONFAZ NOVO: convenio 127/2026: "> CONVÊNIO ICMS Nº 127, DE 27 DE OUTUBRO DE 2026 Publicado no DOU de 28.10.2026 Altera o Convênio ICMS nº 15, de 31 de março de 2023, que dispõe sobre o regime de tributação monof
+  - ↳ norma alterada rebaixada: convenio 15/2023
+- CONFAZ NOVO: convenio 128/2026: "> CONVÊNIO ICMS Nº 128, DE 27 DE OUTUBRO DE 2026 Publicado no DOU de 28.10.2026 Altera o Convênio ICMS nº 199, de 22 de dezembro de 2022, que dispõe sobre o regime de tributação m
+  - ↳ norma alterada rebaixada: convenio 199/2022
+- CONFAZ NOVO: convenio 129/2026: "> CONVÊNIO ICMS Nº 129, DE 27 DE OUTUBRO DE 2026 Publicado no DOU de 29.10.2026 Altera o Convênio ICMS nº 15, de 31 de março de 2023, que dispõe sobre o regime de tributação monof
+  - ↳ norma alterada rebaixada: convenio 15/2023
+  - ↳ norma alterada rebaixada: convenio 181/2024
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: convenio 130/2026: "> CONVÊNIO ICMS Nº 130, DE 27 DE OUTUBRO DE 2026 Publicado no DOU de 29.10.2026 Altera o Convênio ICMS nº 199, de 22 de dezembro de 2022, que dispõe sobre o regime de tributação m
+  - ↳ norma alterada rebaixada: convenio 199/2022
+  - ↳ norma alterada rebaixada: convenio 142/2018
+- CONFAZ NOVO: convenio 131/2026: "> CONVÊNIO ICMS Nº 131, DE 27 DE OUTUBRO DE 2026 Publicado no DOU de 29.10.2026 Prorroga as disposições de convênios ICMS que dispõem sobre benefícios fiscais e altera o Convênio 
+  - ↳ norma alterada rebaixada: convenio 78/1992
+  - ↳ norma alterada rebaixada: convenio 3/1992
+  - ↳ norma alterada rebaixada: convenio 9/1993
+  - ↳ norma alterada rebaixada: convenio 52/1991
+  - ↳ norma alterada rebaixada: convenio 41/1991
+  - ↳ norma alterada rebaixada: convenio 22/2023
+  - ↳ norma alterada rebaixada: convenio 20/1992
+  - ↳ norma alterada rebaixada: convenio 50/1993
+  - ↳ norma alterada rebaixada: convenio 74/1990
+  - ↳ norma alterada rebaixada: convenio 97/1992
+  - ↳ norma alterada rebaixada: convenio 24/1989
+  - ↳ norma alterada rebaixada: convenio 2/1992
+  - ↳ norma alterada rebaixada: convenio 123/1992
+  - ↳ norma alterada rebaixada: convenio 38/1991
+  - ↳ norma alterada rebaixada: convenio 147/1992
+  - ↳ norma alterada rebaixada: convenio 75/1991
+  - ↳ norma alterada rebaixada: convenio 29/1993
+
 ## 2026-10-24 20:28
 
 - SEFAZ alterado: **LEI Nº 7.799, DE 19 DE DEZEMBRO DE 2002.pdf** (atualizado na fonte em 2026-10-22 08:59:10)

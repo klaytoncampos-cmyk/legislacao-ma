@@ -6,7 +6,7 @@ numero: 215
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2012/pt215_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 215/12
@@ -237,7 +237,7 @@ numero: 216
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2012/pt216_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 216/12
@@ -407,7 +407,7 @@ numero: 217
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2012/pt217_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 217/12
@@ -777,7 +777,7 @@ numero: 220
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2012/pt220_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 220/12
@@ -811,7 +811,7 @@ numero: 221
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2012/pt221_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 221/12
@@ -861,7 +861,7 @@ numero: 222
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2012/pt222_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 222/12
@@ -889,7 +889,7 @@ numero: 223
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2012/pt223_12
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 223/12
@@ -917,7 +917,7 @@ numero: 226
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt226_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 226/09

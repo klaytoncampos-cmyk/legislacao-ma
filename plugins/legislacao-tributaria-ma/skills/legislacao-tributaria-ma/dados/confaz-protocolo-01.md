@@ -6,7 +6,7 @@ numero: 1
 ano: 1979
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1979/pt001_79
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 1/79
@@ -114,7 +114,7 @@ numero: 1
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2007/pt001_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 1/07
@@ -150,7 +150,7 @@ numero: 1
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt001_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 1/08
@@ -186,7 +186,7 @@ numero: 1
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2011/pt001_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 1/11
@@ -216,7 +216,7 @@ numero: 1
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2013/pt001_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 1/13
@@ -946,7 +946,7 @@ numero: 1
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2016/pt001_16
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 1/16
@@ -996,7 +996,7 @@ numero: 1
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt001_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 01/21
@@ -1026,7 +1026,7 @@ numero: 1
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2024/pt001_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 01/24
@@ -1060,7 +1060,7 @@ numero: 1
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt001_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 1/26
@@ -1098,7 +1098,7 @@ numero: 2
 ano: 1978
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1978/pt002_78
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 2/78
@@ -1136,7 +1136,7 @@ numero: 2
 ano: 1983
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1983/pt002_83
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 2/83
@@ -1174,7 +1174,7 @@ numero: 2
 ano: 1987
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt002_87
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 2/87
@@ -1412,7 +1412,7 @@ numero: 2
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1993/pt002_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 2/93
@@ -1454,7 +1454,7 @@ numero: 2
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt002_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 2/99
@@ -1490,7 +1490,7 @@ numero: 2
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt002_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 2/00
@@ -1524,7 +1524,7 @@ numero: 2
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt002_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 2/08
@@ -1552,7 +1552,7 @@ numero: 2
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2011/pt002_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 2/11
@@ -1592,7 +1592,7 @@ numero: 2
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2014/pt002_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 2/14
@@ -2060,7 +2060,7 @@ numero: 2
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt002_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 02/21
@@ -2100,7 +2100,7 @@ numero: 2
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2023/pt002_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 02/23
@@ -2136,7 +2136,7 @@ numero: 2
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt002_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 2/26
@@ -2166,7 +2166,7 @@ numero: 3
 ano: 1985
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1985/pt003_85
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 3/85
@@ -2204,7 +2204,7 @@ numero: 3
 ano: 1986
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1986/pt003_86
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 3/86
@@ -2238,7 +2238,7 @@ numero: 3
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1994/pt003_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 3/94
@@ -2274,7 +2274,7 @@ numero: 3
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt003_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 3/99
@@ -2308,7 +2308,7 @@ numero: 3
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt003_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 3/08
@@ -2336,7 +2336,7 @@ numero: 3
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2011/pt003_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 3/11
@@ -2464,7 +2464,7 @@ numero: 3
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2019/pt003_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 03/19
@@ -2492,7 +2492,7 @@ numero: 3
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2020/pt003_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 03/20
@@ -2524,7 +2524,7 @@ numero: 3
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2025/pt003_25
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 3/25
@@ -2556,7 +2556,7 @@ numero: 3
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt003_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 3/26
@@ -2588,7 +2588,7 @@ numero: 4
 ano: 1978
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1978/pt004_78
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 4/78
@@ -2628,7 +2628,7 @@ numero: 4
 ano: 1986
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1986/pt004_86
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 4/86
@@ -2732,7 +2732,7 @@ numero: 4
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1992/pt004_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/92
@@ -2786,7 +2786,7 @@ numero: 4
 ano: 1996
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1996/pt004_96
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/96
@@ -2824,7 +2824,7 @@ numero: 4
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt004_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/98
@@ -2862,7 +2862,7 @@ numero: 4
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt004_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/99
@@ -2896,7 +2896,7 @@ numero: 4
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt004_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/08
@@ -2932,7 +2932,7 @@ numero: 4
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt004_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/09
@@ -2962,7 +2962,7 @@ numero: 4
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2014/pt004_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/14
@@ -3354,7 +3354,7 @@ numero: 4
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2020/pt004_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 04/20
@@ -3384,7 +3384,7 @@ numero: 4
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2025/pt004_25
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/25
@@ -3422,7 +3422,7 @@ numero: 4
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt004_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 4/26
@@ -3458,7 +3458,7 @@ numero: 5
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt005_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/98
@@ -3494,7 +3494,7 @@ numero: 5
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt005_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/99
@@ -3530,7 +3530,7 @@ numero: 5
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt005_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/00
@@ -3564,7 +3564,7 @@ numero: 5
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt005_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/01
@@ -3670,7 +3670,7 @@ numero: 5
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt005_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/04
@@ -3704,7 +3704,7 @@ numero: 5
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt005_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/05
@@ -3740,7 +3740,7 @@ numero: 5
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt005_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/06
@@ -3770,7 +3770,7 @@ numero: 5
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt005_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/08
@@ -3806,7 +3806,7 @@ numero: 5
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt005_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/09
@@ -3912,7 +3912,7 @@ numero: 5
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2011/pt005_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/11
@@ -4004,7 +4004,7 @@ numero: 5
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2014/pt005_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/14
@@ -4506,7 +4506,7 @@ numero: 5
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2023/pt005_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 05/23
@@ -4538,7 +4538,7 @@ numero: 5
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt005_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 5/26
@@ -4575,7 +4575,7 @@ numero: 6
 ano: 1996
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1996/pt006_96
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/96
@@ -4611,7 +4611,7 @@ numero: 6
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt006_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/98
@@ -4647,7 +4647,7 @@ numero: 6
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt006_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/99
@@ -4681,7 +4681,7 @@ numero: 6
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt006_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/00
@@ -4715,7 +4715,7 @@ numero: 6
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2003/pt006_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/03
@@ -4751,7 +4751,7 @@ numero: 6
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt006_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/05
@@ -4785,7 +4785,7 @@ numero: 6
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2007/pt006_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/07
@@ -4819,7 +4819,7 @@ numero: 6
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt006_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/09
@@ -4914,7 +4914,7 @@ numero: 6
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2016/pt006_16
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/16
@@ -4944,7 +4944,7 @@ numero: 6
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2023/pt006_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 06/23
@@ -4976,7 +4976,7 @@ numero: 6
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2024/pt006_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 06/24
@@ -5016,7 +5016,7 @@ numero: 6
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt006_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 6/26
@@ -5052,7 +5052,7 @@ numero: 7
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1993/pt007_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/93
@@ -5086,7 +5086,7 @@ numero: 7
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1997/pt007_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/97
@@ -5120,7 +5120,7 @@ numero: 7
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt007_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/98
@@ -5158,7 +5158,7 @@ numero: 7
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt007_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/99
@@ -5194,7 +5194,7 @@ numero: 7
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt007_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/00
@@ -5250,7 +5250,7 @@ numero: 7
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2003/pt007_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/03
@@ -5284,7 +5284,7 @@ numero: 7
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt007_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/04
@@ -5322,7 +5322,7 @@ numero: 7
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt007_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/08
@@ -5540,7 +5540,7 @@ numero: 7
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt007_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/09
@@ -5637,7 +5637,7 @@ numero: 7
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2011/pt007_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/11
@@ -5695,7 +5695,7 @@ numero: 7
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2023/pt007_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 07/23
@@ -5727,7 +5727,7 @@ numero: 7
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2024/pt007_24
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 07/24
@@ -5767,7 +5767,7 @@ numero: 7
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt007_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 7/26
@@ -5797,7 +5797,7 @@ numero: 8
 ano: 1981
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1981/pt008_81
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 8/81
@@ -5833,7 +5833,7 @@ numero: 8
 ano: 1988
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt008_88
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 8/88
@@ -5963,7 +5963,7 @@ numero: 8
 ano: 1996
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1996/pt008_96
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/96
@@ -6087,7 +6087,7 @@ numero: 8
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1997/pt008_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/97
@@ -6197,7 +6197,7 @@ numero: 8
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt008_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/98
@@ -6235,7 +6235,7 @@ numero: 8
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt008_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/00
@@ -6269,7 +6269,7 @@ numero: 8
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt008_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/01
@@ -6303,7 +6303,7 @@ numero: 8
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt008_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/04
@@ -6345,7 +6345,7 @@ numero: 8
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2007/pt008_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/07
@@ -6381,7 +6381,7 @@ numero: 8
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt008_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/08
@@ -6623,7 +6623,7 @@ numero: 8
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt008_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/09
@@ -6725,7 +6725,7 @@ numero: 8
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2011/pt008_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/11
@@ -6761,7 +6761,7 @@ numero: 8
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt008_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 08/21
@@ -6789,7 +6789,7 @@ numero: 8
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2025/pt008_25
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/25
@@ -6823,7 +6823,7 @@ numero: 8
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt008_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 8/26
@@ -6855,7 +6855,7 @@ numero: 9
 ano: 1986
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1986/pt009_86
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 9/86
@@ -6895,7 +6895,7 @@ numero: 9
 ano: 1987
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt009_87
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 9/87
@@ -6939,7 +6939,7 @@ numero: 9
 ano: 1995
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1995/pt009_95
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 9/95
@@ -6973,7 +6973,7 @@ numero: 9
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt009_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 9/01
@@ -7009,7 +7009,7 @@ numero: 9
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt009_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 9/05
@@ -7041,7 +7041,7 @@ numero: 9
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2014/pt009_14
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 9/14
@@ -7071,7 +7071,7 @@ numero: 9
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt009_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 9/26
@@ -7101,7 +7101,7 @@ numero: 10
 ano: 1981
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1981/pt010_81
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 10/81
@@ -7491,7 +7491,7 @@ numero: 10
 ano: 1987
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt010_87
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 10/87
@@ -7543,7 +7543,7 @@ numero: 10
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1992/pt010_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/92
@@ -7721,7 +7721,7 @@ numero: 10
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1997/pt010_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/97
@@ -7759,7 +7759,7 @@ numero: 10
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt010_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/00
@@ -7793,7 +7793,7 @@ numero: 10
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2003/pt010_03
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/03
@@ -8094,7 +8094,7 @@ numero: 10
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2007/pt010_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/07
@@ -8508,7 +8508,7 @@ numero: 10
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt010_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/08
@@ -8735,7 +8735,7 @@ numero: 10
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2011/pt010_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/11
@@ -8763,7 +8763,7 @@ numero: 10
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt010_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/21
@@ -8791,7 +8791,7 @@ numero: 10
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt010_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 10/26
@@ -8823,7 +8823,7 @@ numero: 11
 ano: 1985
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1985/pt011_85
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 11/85
@@ -9117,7 +9117,7 @@ numero: 11
 ano: 1987
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt011_87
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 11/87
@@ -9257,7 +9257,7 @@ numero: 11
 ano: 1991
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1991/pt011_91
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/91
@@ -9589,7 +9589,7 @@ numero: 11
 ano: 1996
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1996/pt011_96
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/96
@@ -9625,7 +9625,7 @@ numero: 11
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt011_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/98
@@ -9661,7 +9661,7 @@ numero: 11
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt011_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/99
@@ -9719,7 +9719,7 @@ numero: 11
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt011_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/06
@@ -9751,7 +9751,7 @@ numero: 11
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt011_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/08
@@ -10174,7 +10174,7 @@ numero: 11
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt011_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/09
@@ -10202,7 +10202,7 @@ numero: 11
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2025/pt011_25
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/25
@@ -10236,7 +10236,7 @@ numero: 11
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt011_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 11/26
@@ -10268,7 +10268,7 @@ numero: 12
 ano: 1979
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1979/pt012_79
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 12/79
@@ -10340,7 +10340,7 @@ numero: 12
 ano: 1987
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt012_87
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 12/87
@@ -10378,7 +10378,7 @@ numero: 12
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1993/pt012_93
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/93
@@ -10412,7 +10412,7 @@ numero: 12
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt012_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/98
@@ -10448,7 +10448,7 @@ numero: 12
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt012_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/00
@@ -10482,7 +10482,7 @@ numero: 12
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2002/pt012_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/02
@@ -10518,7 +10518,7 @@ numero: 12
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt012_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/04
@@ -10552,7 +10552,7 @@ numero: 12
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt012_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/05
@@ -10586,7 +10586,7 @@ numero: 12
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt012_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/06
@@ -10638,7 +10638,7 @@ numero: 12
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2007/pt012_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/07
@@ -10805,7 +10805,7 @@ numero: 12
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt012_08
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/08
@@ -11020,7 +11020,7 @@ numero: 12
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt012_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/09
@@ -11096,7 +11096,7 @@ numero: 12
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt012_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/10
@@ -11252,7 +11252,7 @@ numero: 12
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt012_21
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/21
@@ -11280,7 +11280,7 @@ numero: 12
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2023/pt012_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/23
@@ -11314,7 +11314,7 @@ numero: 12
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt012_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 12/26
@@ -11346,7 +11346,7 @@ numero: 13
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt013_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 13/01
@@ -11415,7 +11415,7 @@ numero: 13
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2002/pt013_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 13/02
@@ -11449,7 +11449,7 @@ numero: 13
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt013_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 13/04
@@ -11483,7 +11483,7 @@ numero: 13
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt013_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 13/05
@@ -11553,7 +11553,7 @@ numero: 13
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt013_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 13/06
@@ -11660,7 +11660,7 @@ numero: 13
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt013_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 13/10
@@ -11715,7 +11715,7 @@ numero: 13
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2020/pt013_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 13/20
@@ -11745,7 +11745,7 @@ numero: 13
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt013_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 13/26
@@ -11775,7 +11775,7 @@ numero: 14
 ano: 1984
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1984/pt014_84
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 14/84
@@ -11811,7 +11811,7 @@ numero: 14
 ano: 1996
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1996/pt014_96
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/96
@@ -11847,7 +11847,7 @@ numero: 14
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1997/pt014_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/97
@@ -11881,7 +11881,7 @@ numero: 14
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt014_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/00
@@ -11936,7 +11936,7 @@ numero: 14
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt014_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/01
@@ -11972,7 +11972,7 @@ numero: 14
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt014_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/06
@@ -12216,7 +12216,7 @@ numero: 14
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt014_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/10
@@ -12255,7 +12255,7 @@ numero: 14
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2016/pt014_16
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/16
@@ -12468,7 +12468,7 @@ numero: 14
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2020/pt014_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/20
@@ -12524,7 +12524,7 @@ numero: 14
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt014_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 14/26
@@ -12554,7 +12554,7 @@ numero: 15
 ano: 1985
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1985/pt015_85
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 15/85
@@ -12744,7 +12744,7 @@ numero: 15
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1994/pt015_94
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 15/94
@@ -12778,7 +12778,7 @@ numero: 15
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1997/pt015_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 15/97
@@ -12812,7 +12812,7 @@ numero: 15
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt015_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 15/00
@@ -12848,7 +12848,7 @@ numero: 15
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt015_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 15/06
@@ -12971,7 +12971,7 @@ numero: 15
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2007/pt015_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 15/07
@@ -13177,7 +13177,7 @@ numero: 15
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt015_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 15/09
@@ -13205,7 +13205,7 @@ numero: 15
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt015_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 15/10
@@ -13240,7 +13240,7 @@ numero: 15
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt015_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 15/26
@@ -13270,7 +13270,7 @@ numero: 16
 ano: 1985
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1985/pt016_85
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 16/85
@@ -13692,7 +13692,7 @@ numero: 16
 ano: 1991
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1991/pt016_91
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/91
@@ -13728,7 +13728,7 @@ numero: 16
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1992/pt016_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/92
@@ -13766,7 +13766,7 @@ numero: 16
 ano: 1996
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1996/pt016_96
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/96
@@ -13800,7 +13800,7 @@ numero: 16
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt016_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/00
@@ -13834,7 +13834,7 @@ numero: 16
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2002/pt016_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/02
@@ -13888,7 +13888,7 @@ numero: 16
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt016_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/04
@@ -15560,7 +15560,7 @@ numero: 16
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt016_05
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/05
@@ -15660,7 +15660,7 @@ numero: 16
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt016_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/06
@@ -15696,7 +15696,7 @@ numero: 16
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt016_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/10
@@ -15735,7 +15735,7 @@ numero: 16
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt016_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 16/26
@@ -15765,7 +15765,7 @@ numero: 17
 ano: 1985
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1985/pt017_85
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 17/85
@@ -16175,7 +16175,7 @@ numero: 17
 ano: 1995
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1995/pt017_95
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/95
@@ -16209,7 +16209,7 @@ numero: 17
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1997/pt017_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/97
@@ -16245,7 +16245,7 @@ numero: 17
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt017_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/98
@@ -16279,7 +16279,7 @@ numero: 17
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt017_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/00
@@ -16313,7 +16313,7 @@ numero: 17
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2002/pt017_02
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/02
@@ -16347,7 +16347,7 @@ numero: 17
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt017_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/04
@@ -16487,7 +16487,7 @@ numero: 17
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt017_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/06
@@ -16573,7 +16573,7 @@ numero: 17
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2007/pt017_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/07
@@ -16605,7 +16605,7 @@ numero: 17
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt017_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/09
@@ -16635,7 +16635,7 @@ numero: 17
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt017_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/10
@@ -16669,7 +16669,7 @@ numero: 17
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt017_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 17/26
@@ -16699,7 +16699,7 @@ numero: 18
 ano: 1985
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1985/pt018_85
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 18/85
@@ -17040,7 +17040,7 @@ numero: 18
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1992/pt018_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/92
@@ -17074,7 +17074,7 @@ numero: 18
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1997/pt018_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/97
@@ -17108,7 +17108,7 @@ numero: 18
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt018_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/98
@@ -17142,7 +17142,7 @@ numero: 18
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt018_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/99
@@ -17196,7 +17196,7 @@ numero: 18
 ano: 2000
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt018_00
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/00
@@ -17230,7 +17230,7 @@ numero: 18
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt018_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/01
@@ -17264,7 +17264,7 @@ numero: 18
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt018_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/04
@@ -17464,7 +17464,7 @@ numero: 18
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2007/pt018_07
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/07
@@ -17502,7 +17502,7 @@ numero: 18
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt018_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/10
@@ -17550,7 +17550,7 @@ numero: 18
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2019/pt018_19
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/19
@@ -17585,7 +17585,7 @@ numero: 18
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2020/pt018_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/20
@@ -17613,7 +17613,7 @@ numero: 18
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2023/pt018_23
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/23
@@ -17645,7 +17645,7 @@ numero: 18
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt018_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 18/26
@@ -17675,7 +17675,7 @@ numero: 19
 ano: 1985
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1985/pt019_85
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 19/85
@@ -18148,7 +18148,7 @@ numero: 19
 ano: 1987
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt019_87
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICM 19/87
@@ -18182,7 +18182,7 @@ numero: 19
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1992/pt019_92
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/92
@@ -18276,7 +18276,7 @@ numero: 19
 ano: 1997
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1997/pt019_97
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/97
@@ -18310,7 +18310,7 @@ numero: 19
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt019_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/98
@@ -18344,7 +18344,7 @@ numero: 19
 ano: 1999
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1999/pt019_99
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/99
@@ -18492,7 +18492,7 @@ numero: 19
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt019_01
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/01
@@ -18528,7 +18528,7 @@ numero: 19
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt019_06
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/06
@@ -18600,7 +18600,7 @@ numero: 19
 ano: 2009
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt019_09
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/09
@@ -18634,7 +18634,7 @@ numero: 19
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt019_10
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/10
@@ -18672,7 +18672,7 @@ numero: 19
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2011/pt019_11
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/11
@@ -18704,7 +18704,7 @@ numero: 19
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2013/pt019_13
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/13
@@ -18748,7 +18748,7 @@ numero: 19
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2020/pt019_20
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/20
@@ -18778,7 +18778,7 @@ numero: 19
 ano: 2026
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt019_26
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 19/26
@@ -18808,7 +18808,7 @@ numero: 20
 ano: 1989
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1989/pt020_89
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 20/89
@@ -18844,7 +18844,7 @@ numero: 20
 ano: 1996
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1996/pt020_96
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 20/96
@@ -18878,7 +18878,7 @@ numero: 20
 ano: 1998
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/1998/pt020_98
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 20/98
@@ -18912,7 +18912,7 @@ numero: 20
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt020_04
-extraido_em: "2026-10-24"
+extraido_em: "2026-10-30"
 ---
 
 # PROTOCOLO ICMS 20/04
