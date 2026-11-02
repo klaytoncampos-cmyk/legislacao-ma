@@ -1,5 +1,12 @@
 # Registro de atualizações da base
 
+## 2026-11-02 14:19
+
+- NOVO: **pauta fiscal (Tabela de Valores de Referência do ICMS) de bebidas** em `valores/bebidas-*.md`: cervejas e chopes, refrigerantes, energéticos e isotônicos, águas, bebidas mistas, vinhos e destilados, com valor vigente, histórico por item e valores com vigência futura. Itens identificados por código + embalagem/volume. Conferida contra um extrator independente em 268 portarias de bebidas.
+- Pauta do cimento: incluídas as Portarias 158, 159 e 178/2026 (publicadas só no DOE, fora do portal da SEFAZ); códigos 53306 e 50995 reaproveitados para outras marcas sinalizados com ⚠.
+- Pauta: a vigência passa a considerar "entra em vigor a partir de" (ex.: Portaria 402/2026, vigor em 01/11/2026); itens com o valor na página seguinte do PDF, nome numérico ("1500") ou código repetido na mesma seção deixaram de se perder.
+- A atualização semanal passa a baixar as portarias de pauta novas e regenerar as tabelas de valores.
+
 ## 2026-10-30 11:21
 
 - SEFAZ alterado: **DECRETO  Nº 19.714,  DE 10  DE  JULHO DE  2003.pdf** (atualizado na fonte em 2026-10-29 09:04:48)

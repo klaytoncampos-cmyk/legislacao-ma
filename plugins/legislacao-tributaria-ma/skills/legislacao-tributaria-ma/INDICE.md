@@ -1,6 +1,6 @@
 # Índice da base: legislação tributária do Maranhão
 
-Gerado em 2026-10-30. Este índice traz os documentos da SEFAZ-MA (CTE, RICMS, anexos) e as normas complementares por anexo; os catálogos completos ficam em `catalogo/normas.md` e `catalogo/confaz.md`. Os caminhos são os usados por `python3 scripts/buscar.py --ler <caminho>`.
+Gerado em 2026-10-31. Este índice traz os documentos da SEFAZ-MA (CTE, RICMS, anexos) e as normas complementares por anexo; os catálogos completos ficam em `catalogo/normas.md` e `catalogo/confaz.md`. Os caminhos são os usados por `python3 scripts/buscar.py --ler <caminho>`.
 
 ## SEFAZ-MA (CTE, RICMS e anexos)
 

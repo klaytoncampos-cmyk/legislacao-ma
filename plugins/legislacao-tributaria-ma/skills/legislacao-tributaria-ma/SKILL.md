@@ -1,6 +1,6 @@
 ---
 name: legislacao-tributaria-ma
-description: Especialista em legislação tributária do Maranhão (ICMS). Use SEMPRE que a pergunta envolver ICMS no Maranhão, RICMS-MA (Decreto 19.714/2003), Código Tributário Estadual (Lei 7.799/2002), anexos do RICMS-MA, substituição tributária, antecipação, isenção, redução de base de cálculo, crédito presumido, diferimento, alíquotas, MVA, NCM/CEST, segmentos (autopeças, combustíveis, bebidas, medicamentos etc.), ou convênios, protocolos e ajustes SINIEF do CONFAZ citados pela legislação maranhense. Contém o texto integral e atualizado dessas normas, com histórico de redações. Consulte primeiro a base local (texto oficial) e use a web para complementar: normas fora da base, alterações recentes, jurisprudência e interpretação.
+description: Especialista em legislação tributária do Maranhão (ICMS). Use SEMPRE que a pergunta envolver ICMS no Maranhão, RICMS-MA (Decreto 19.714/2003), Código Tributário Estadual (Lei 7.799/2002), anexos do RICMS-MA, substituição tributária, antecipação, isenção, redução de base de cálculo, crédito presumido, diferimento, alíquotas, MVA, pauta fiscal ou valores de referência do ICMS (Tabela de Valores de Referência da SEFAZ-MA: cimento, cervejas, refrigerantes, energéticos, águas), NCM/CEST, segmentos (autopeças, combustíveis, bebidas, medicamentos etc.), ou convênios, protocolos e ajustes SINIEF do CONFAZ citados pela legislação maranhense. Contém o texto integral e atualizado dessas normas, com histórico de redações. Consulte primeiro a base local (texto oficial) e use a web para complementar: normas fora da base, alterações recentes, jurisprudência e interpretação.
 ---
 
 # Legislação tributária do Maranhão (ICMS)
@@ -16,7 +16,7 @@ Esta skill traz o **texto integral** das normas, extraído das fontes oficiais:
   e todas as do ano corrente. O texto das normas citadas já vem **consolidado** pelo CONFAZ, com as alterações incorporadas e as notas
   "Nova redação dada… pelo Prot. X"; a norma alteradora serve para conferir o texto original da alteração e suas regras de vigência.
 
-Os documentos (5.489 nesta edição: 143 da SEFAZ-MA, 1.828 normas complementares, 3.518 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
+Os documentos (5.497 nesta edição: 143 da SEFAZ-MA, 1.828 normas complementares, 3.518 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
 `<<<DOC caminho>>>`. Use sempre `scripts/buscar.py`, que separa os documentos e busca/lê cada um pelo seu caminho. `INDICE.md` (na raiz da skill) lista todos os documentos, com descrição,
 situação (vigente/parcial/revogado), data de atualização na fonte e caminho.
 
@@ -78,6 +78,37 @@ Rode os comandos a partir da pasta da skill (onde está este `SKILL.md`). No Win
    Um anexo pode estar com o texto "limpo" (sem tachado) e mesmo assim depender de um protocolo ou convênio já revogado ou denunciado.
    Abra a norma do CONFAZ e leia o cabeçalho ("Revogado pelo…", "Denunciado…", "Alterado pelo…").
 
+## Valores de referência (pauta do ICMS)
+
+`valores/<produto>.md` (ex.: `valores/cimento.md`) reúne a **Tabela de Valores de Referência** montada a partir das portarias da
+SEFAZ-MA que incluem, alteram ou excluem itens da tabela. Comece por `python3 scripts/buscar.py --ler valores/cimento.md --linhas 1-80`.
+- **Valores vigentes**: valor da portaria mais recente que tratou do item (código da tabela da SEFAZ ou, sem código, a descrição).
+- **Situação incerta**: último valor conhecido, mas o item sumiu de uma relação completa posterior ou o **código dele foi dado a outro
+  produto** (⚠, ex.: 53306 = Bravo na Portaria 141/2026, Mizu na 158/2026 e Zebu na 178/2026). Não apresente como vigente: diga o
+  último valor, o motivo e recomende confirmar na SEFAZ.
+- **Superados**: código trocado para o mesmo produto; informe até quando valeu.
+- **Histórico por item**: todas as portarias que trataram do item, com a variação de valor e a origem da data (pub./efeitos/assin.).
+- **Data passada (auditoria)**: "vigente", "incerto" e "superado" se referem à data de geração do arquivo. Para o valor numa
+  data D, use o **histórico por item**: vale a última linha com vigência ≤ D (a coluna "vigência" já considera "entra em vigor a
+  partir de"). Onde o projeto de geração estiver disponível, `python3 -I ~/legislacao-ma/scripts/tabela_valores.py produto
+  bebidas --data AAAA-MM-DD --saida PASTA` gera a tabela inteira como estava em D (status calculados só com as portarias até D).
+- **Vigência futura**: portaria já publicada que só vale depois (ex.: Portaria 402/2026, vigor em 01/11/2026) aparece como
+  "→ R$ X a partir de DATA" ao lado do valor atual e na seção "Valores com vigência futura". Compare com a data de hoje e com a
+  data do fato gerador: **se a data já foi alcançada, o valor futuro é o que vale**. O cabeçalho de cada arquivo diz quando ele foi gerado.
+- Portarias marcadas **"DOE, fora do portal; texto de agregador"** saíram no Diário Oficial mas não estão no portal de legislação da
+  SEFAZ; foram transcritas de site agregador. Diga isso ao citar o valor.
+- **O portal da SEFAZ nem sempre publica todas as portarias de pauta.** Quando o valor for para lançamento ou a pergunta for sobre
+  alteração recente, pesquise na web portarias posteriores à mais recente da base para o produto (ex.: "Portaria GABIN valores de
+  referência cimento 2026").
+- **Cite sempre a portaria** (número, data, link) e recomende conferir no texto oficial antes de lançamento: a leitura das tabelas é
+  automática, e portarias com a tabela só em imagem (sobretudo 2003–2013) não foram lidas.
+- **Bebidas** (`valores/bebidas-cerveja.md`, `-refrigerante`, `-energetico`, `-agua`, `-vinho`, `-destilado`, `-outras`): a tabela é
+  dividida em seções de embalagem e volume ("Cerveja - Lata | 350 ml"), que entram entre parênteses na descrição; o mesmo código
+  designa produtos diferentes em seções diferentes, então identifique o item por **descrição + embalagem + volume**, não só pelo
+  código. Busque por marca e volume (ex.: `buscar.py "Heineken" --doc valores/bebidas-cerveja`). Esses arquivos existem **só na
+  edição completa (Claude Code)**; no chat, diga que a pauta de bebidas não está nesta edição e pesquise na web.
+- Produtos ainda sem arquivo em `valores/`: diga que a pauta desse produto ainda não foi consolidada na base e pesquise na web.
+
 ## Convenções da base (importante)
 
 - `~~texto~~` é **redação revogada ou anterior**. Na SEFAZ-MA, é o texto que aparece **tachado no PDF oficial**; no CONFAZ, são as redações anteriores. **Nunca apresente esse texto como vigente.** Use-o só para histórico ("até DD/MM/AAAA a redação era…").
@@ -125,6 +156,7 @@ ATUALIZACOES.md                 registro das atualizações semanais
 scripts/buscar.py               busca (--vigente, --doc, --artigo), leitura (--ler/--linhas) e listagem (--listar)
 dados/*.md                      os documentos agrupados (lidos pelo buscar.py):
     sefaz/*.md                  CTE, RICMS e anexos (um arquivo por documento)
+    valores/<produto>.md        Tabela de Valores de Referência por produto (vigentes + histórico)
     catalogo/normas.md          catálogo de todas as normas complementares (data, ementa, remete a, situação)
     catalogo/confaz.md          catálogo de todas as normas do CONFAZ (ementa, situação, onde é citada)
     normas/<tipo>/*.md          portarias, resoluções, decretos e instruções normativas que remetem ao RICMS/anexos/CTE
