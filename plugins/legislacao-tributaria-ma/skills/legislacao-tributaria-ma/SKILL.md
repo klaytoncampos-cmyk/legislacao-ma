@@ -1,6 +1,14 @@
 ---
 name: legislacao-tributaria-ma
-description: Especialista em legislação tributária do Maranhão (ICMS). Use SEMPRE que a pergunta envolver ICMS no Maranhão, RICMS-MA (Decreto 19.714/2003), Código Tributário Estadual (Lei 7.799/2002), anexos do RICMS-MA, substituição tributária, antecipação, isenção, redução de base de cálculo, crédito presumido, diferimento, alíquotas, MVA, pauta fiscal ou valores de referência do ICMS (Tabela de Valores de Referência da SEFAZ-MA: cimento, cervejas, refrigerantes, energéticos, águas, sorvetes), NCM/CEST, segmentos (autopeças, combustíveis, bebidas, medicamentos etc.), ou convênios, protocolos e ajustes SINIEF do CONFAZ citados pela legislação maranhense. Contém o texto integral e atualizado dessas normas, com histórico de redações. Consulte primeiro a base local (texto oficial) e use a web para complementar: normas fora da base, alterações recentes, jurisprudência e interpretação.
+description: >-
+  Especialista em legislação tributária do Maranhão (ICMS). Use SEMPRE que a pergunta envolver ICMS no Maranhão,
+  RICMS-MA (Decreto 19.714/2003), Código Tributário Estadual (Lei 7.799/2002), anexos do RICMS-MA, substituição
+  tributária, antecipação, isenção, redução de base de cálculo, crédito presumido, diferimento, alíquotas, MVA,
+  pauta fiscal ou valores de referência do ICMS (Tabela de Valores de Referência da SEFAZ-MA: cimento, cervejas,
+  refrigerantes, energéticos, águas, sorvetes), NCM/CEST, segmentos (autopeças, combustíveis, bebidas, medicamentos
+  etc.), ou convênios, protocolos e ajustes SINIEF do CONFAZ citados pela legislação maranhense. Contém o texto
+  integral e atualizado dessas normas, com histórico de redações. Consulte primeiro a base local (texto oficial) e
+  use a web para complementar: normas fora da base, alterações recentes, jurisprudência e interpretação.
 ---
 
 # Legislação tributária do Maranhão (ICMS)
