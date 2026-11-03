@@ -3,9 +3,9 @@
 documento: "Tabela de Valores de Referência: bebidas: águas minerais, adicionadas de sais e saborizadas"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-01"
+gerado_em: "2026-11-02"
 portarias: 200
-registros: 2162
+registros: 2183
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: águas minerais, adicionadas de sais e saborizadas
@@ -17,27 +17,27 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-01**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
-## Valores vigentes (453)
+## Valores vigentes (457)
 
 Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca de código e sem ausência em relação completa posterior.
 
 | código | descrição | unid. | valor (R$) | vigência desde | portaria |
 |---|---|---|---|---|---|
 | 50974 | Àgua Mineral Acácia sem gás 1.500 ml |  | 2,46 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50972 | Acácia sem gás (descartável 5 L) |  | 6,51 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50975 | Acácia sem gás (descartável 500 ml) |  | 1,46 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50972 | Acácia sem gás (retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12116 | Acquality com gás (descartável 330 ml) |  | 1,22 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12114 | Acquality com gás (descartável 510 ml) |  | 1,62 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12113 | Acquality sem gás (1,5 L) | und | 2,08 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48277 | Acquality sem gás (copo 200 ml) |  | 0,63 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48978 | Acquality sem gás (descartável 300 ml) |  | 0,86 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12117 | Acquality sem gás (descartável 330 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12115 | Acquality sem gás (descartável 510 ml) |  | 1,71 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49708 | Acqullity com gás (1,5 L) |  | 2,98 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50972 | Acácia sem gás (mineral descartável 5 L) |  | 6,51 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50975 | Acácia sem gás (mineral descartável 500 ml) |  | 1,46 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50972 | Acácia sem gás (mineral retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12116 | Acquality com gás (mineral descartável 330 ml) |  | 1,22 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12114 | Acquality com gás (mineral descartável 510 ml) |  | 1,62 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12113 | Acquality sem gás (mineral 1,5 L) | und | 2,08 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48277 | Acquality sem gás (mineral copo 200 ml) |  | 0,63 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48978 | Acquality sem gás (mineral descartável 300 ml) |  | 0,86 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12117 | Acquality sem gás (mineral descartável 330 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12115 | Acquality sem gás (mineral descartável 510 ml) |  | 1,71 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49708 | Acqullity com gás (mineral 1,5 L) |  | 2,98 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 54476 | Água Adiciona de Sais Vitta Sem Gás - Pet 330 ml |  | 0,63 | 2026-09-15 (pub.) | Port. 333/2026 |
 | 53560 | Água Adicionada de Sais + Água 20.000 ml |  | 5,78 | 2025-09-02 (pub.) | Port. 300/2025 |
 | 53337 | Água Adicionada de Sais 5 Estrela 20.000 ml |  | 2,07 | 2025-09-02 (pub.) | Port. 300/2025 |
@@ -48,10 +48,10 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 51510 | Água Adicionada de Sais Água Fina sem gás 20.000 ml |  | 5,78 | 2025-09-02 (pub.) | Port. 304/2025 |
 | 51514 | Água Adicionada de Sais Água Fina sem gás 330 ml |  | 0,80 | 2025-09-02 (pub.) | Port. 304/2025 |
 | 51512 | Água Adicionada de Sais Água Fina sem gás 500 ml |  | 0,85 | 2025-09-02 (pub.) | Port. 304/2025 |
-| 50525 | Água Adicionada de Sais Águas do Vale 20.000 ml (⚠ este código já designou: Águas do Vale (20 L)) |  | 2,07 | 2025-09-02 (pub.) | Port. 300/2025 |
-| 51306 | Água Adicionada de Sais Bacabal sem gás 20.000 ml (⚠ este código já designou: Bacabal (20 L)) |  | 2,07 | 2025-09-02 (pub.) | Port. 303/2025 |
-| 51308 | Água Adicionada de Sais Bacabal sem gás 300 ml (⚠ este código já designou: Bacabal (300 ml)) |  | 0,58 | 2025-09-02 (pub.) | Port. 303/2025 |
-| 51307 | Água Adicionada de Sais Bacabal sem gás 500ml (⚠ este código já designou: Bacabal (descartável 500 ml)) |  | 0,65 | 2025-09-02 (pub.) | Port. 303/2025 |
+| 50525 | Água Adicionada de Sais Águas do Vale 20.000 ml |  | 2,07 | 2025-09-02 (pub.) | Port. 300/2025 |
+| 51306 | Água Adicionada de Sais Bacabal sem gás 20.000 ml |  | 2,07 | 2025-09-02 (pub.) | Port. 303/2025 |
+| 51308 | Água Adicionada de Sais Bacabal sem gás 300 ml |  | 0,58 | 2025-09-02 (pub.) | Port. 303/2025 |
+| 51307 | Água Adicionada de Sais Bacabal sem gás 500ml |  | 0,65 | 2025-09-02 (pub.) | Port. 303/2025 |
 | 53338 | Água Adicionada de Sais Campo Verde 20.000 ml |  | 2,07 | 2025-09-02 (pub.) | Port. 300/2025 |
 | 54454 | Água Adicionada de Sais Cristal do Sul - Copo 200 ml |  | 0,36 | 2026-08-06 (pub.) | Port. 286/2026 |
 | 54441 | Água Adicionada de Sais Cristal do Sul 20.000 ml |  | 2,07 | 2026-06-19 (pub.) | Port. 232/2026 |
@@ -104,8 +104,8 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | — | Água Alaiane Adicionada de Sais - Pet 500 ml |  | 0,81 | 2025-03-06 (pub.) | Port. 76/2025 |
 | — | Água Alaiane Adicionada de Sais – Pet 1.500 ml |  | 1,75 | 2025-03-06 (pub.) | Port. 76/2025 |
 | — | Água Alaiane Adicionada de Sais – Pet 20.000 ml |  | 5,78 | 2025-03-06 (pub.) | Port. 76/2025 |
-| 48359 | Água Min Crystal sem gás copo (descartável 300 ml) |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49752 | Água Miner Crystal sem gás (copo 200 ml) |  | 0,68 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48359 | Água Min Crystal sem gás copo (mineral descartável 300 ml) |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49752 | Água Miner Crystal sem gás (mineral copo 200 ml) |  | 0,68 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 48274 | Água Minera Indaiá Sem Gás - Pet 20.000 ml |  | 5,78 | 2026-06-17 (pub.) | Port. 223/2026 |
 | — | Água mineral Amovinho Com Gás 330 ml |  | 1,91 | 2025-06-09 (pub.) | Port. 200/2025 |
 | — | Água mineral Amovinho Sem Gás 330 ml |  | 1,91 | 2025-06-09 (pub.) | Port. 200/2025 |
@@ -123,9 +123,9 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 54435 | Agua Mineral Bulnez Com Gas - Pet 500 ml |  | 1,58 | 2026-06-12 (pub.) | Port. 221/2026 |
 | 54433 | Agua Mineral Bulnez Sem Gas – Pet 1.500 ml |  | 2,46 | 2026-06-12 (pub.) | Port. 221/2026 |
 | 54434 | Agua Mineral Bulnez Sem Gas – Pet 510 ml |  | 1,31 | 2026-06-12 (pub.) | Port. 221/2026 |
-| 48282 | Agua Mineral Castelo sem gás (copo 200 ml) |  | 0,90 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49757 | Água Mineral Crystal com gás pet (descartável 330 ml) |  | 1,24 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49754 | Água Mineral Crystal sem gás pet (descartável 330 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48282 | Agua Mineral Castelo sem gás (mineral copo 200 ml) |  | 0,90 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49757 | Água Mineral Crystal com gás pet (mineral descartável 330 ml) |  | 1,24 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49754 | Água Mineral Crystal sem gás pet (mineral descartável 330 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 54276 | Água Mineral Dona Mana sem Gás - Copo 200 ml |  | 0,99 | 2026-04-07 (pub.) | Port. 128/2026 |
 | 54275 | Água Mineral Dona Mana sem Gás - Copo 300 ml |  | 1,00 | 2026-04-07 (pub.) | Port. 128/2026 |
 | 54268 | Água Mineral Florata do Pará com Gás - Pet 600 ml |  | 2,00 | 2026-04-01 (pub.) | Port. 123/2026 |
@@ -176,316 +176,326 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | — | Água mineral Vidda sem Gás 6.000 ml |  | 5,98 | 2025-06-09 (pub.) | Port. 200/2025 |
 | — | Água mineral Viena sem gás - Pet 1.500 ml |  | 2,20 | 2025-08-07 (pub.) | Port. 260/2025 |
 | 53565 | Água Mineral Viena sem Gás - Pet 20.000 ml |  | 5,78 | 2025-09-02 (pub.) | Port. 301/2025 |
-| 48322 | Àgua Saborizada Aquarius com gás (descartável 500 ml) |  | 1,71 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48322 | Àgua Saborizada Aquarius com gás (mineral descartável 500 ml) |  | 1,71 | 2024-12-05 (pub.) | Port. 500/2024 |
 | — | Água Saborizada Yerba Matte - Pet 510 ml |  | 2,40 | 2025-10-08 (pub.) | Port. 341/2025 |
-| 50983 | Aguas Prata Active sem gás (descartável 600 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50976 | Aguas Prata com gás (1,5 L) |  | 3,44 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50977 | Aguas Prata com gás (descartável 510 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50979 | Aguas Prata com gás - Vidro (descartável 300 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50978 | Aguas Prata com gás – Garrafa Pet (copo 310 ml) |  | 1,65 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50982 | Aguas Prata sem gás (1,5 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50987 | Aguas prata sem gás (copo 200 ml) |  | 0,82 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50985 | Aguas Prata sem gás (copo 310 ml) |  | 1,65 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50980 | Aguas Prata sem gás (descartável 5 L) |  | 7,57 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50984 | Aguas Prata sem gás (descartável 510 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50983 | Aguas Prata Active sem gás (mineral descartável 600 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50976 | Aguas Prata com gás (mineral 1,5 L) |  | 3,44 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50977 | Aguas Prata com gás (mineral descartável 510 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50979 | Aguas Prata com gás - Vidro (mineral descartável 300 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50978 | Aguas Prata com gás – Garrafa Pet (mineral copo 310 ml) |  | 1,65 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50982 | Aguas Prata sem gás (mineral 1,5 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50987 | Aguas prata sem gás (mineral copo 200 ml) |  | 0,82 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50985 | Aguas Prata sem gás (mineral copo 310 ml) |  | 1,65 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50980 | Aguas Prata sem gás (mineral descartável 5 L) |  | 7,57 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50984 | Aguas Prata sem gás (mineral descartável 510 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 50981 | Aguas Prata sem gás – 2.500 ml |  | 4,13 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50986 | Aguas Prata sem gás – Vidro (descartável 300 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47864 | Ana Rosa (1,5 L) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47863 | Ana Rosa (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47865 | Ana Rosa (descartável 500 ml) |  | 0,99 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47864 | Ana Rosa sem gás (1,5 L) |  | 2,31 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49845 | Ana Rosa sem gás (descartável 500 ml) |  | 0,80 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50502 | Areia Branca (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50986 | Aguas Prata sem gás – Vidro (mineral descartável 300 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47864 | Ana Rosa (adicionada de sais 1,5 L) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47863 | Ana Rosa (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47865 | Ana Rosa (adicionada de sais descartável 500 ml) |  | 0,99 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47864 | Ana Rosa sem gás (mineral 1,5 L) |  | 2,31 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49845 | Ana Rosa sem gás (mineral descartável 500 ml) |  | 0,80 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50502 | Areia Branca (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50026 | Azul (adicionada de sais 1,5 L) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50025 | Azul (adicionada de sais 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50027 | Azul (adicionada de sais 510 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 52181 | Banana D’agua | kg | 2,62 | 2024-12-05 (pub.) | Port. 501/2024 |
-| 50503 | Bela Vista (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48120 | Belágua sem gás (1,5 L) |  | 2,27 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48132 | Belágua sem gás (descartável 300 ml) |  | 1,00 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48136 | Belágua sem gás (descartável 5 L) |  | 5,84 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48133 | Belágua sem gás (descartável 500 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48327 | Belágua sem gás (retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48380 | Bioleve com gás (copo 310 ml) |  | 1,58 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48072 | Bioleve sem gás (descartável 510 ml) |  | 1,65 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48276 | Boa Viagem sem gás (retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48214 | Campanágua (1,5 L) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48139 | Campanágua (20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48215 | Campanágua (510 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12063 | Castelo (descartável 510 ml) |  | 1,85 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12057 | Castelo sem gás (1,5 L) |  | 3,14 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48973 | Castelo sem gás (descartável 500 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50499 | Chapagua (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49881 | Clube Soda Cristalina com gás (descartável 600 ml) |  | 1,94 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47971 | cocais com gás (descartável 300 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47968 | Cocais com gás (descartável 510 ml) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50503 | Bela Vista (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48120 | Belágua sem gás (mineral 1,5 L) |  | 2,27 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48132 | Belágua sem gás (mineral descartável 300 ml) |  | 1,00 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48136 | Belágua sem gás (mineral descartável 5 L) |  | 5,84 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48133 | Belágua sem gás (mineral descartável 500 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48327 | Belágua sem gás (mineral retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48380 | Bioleve com gás (mineral copo 310 ml) |  | 1,58 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48072 | Bioleve sem gás (mineral descartável 510 ml) |  | 1,65 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48276 | Boa Viagem sem gás (mineral retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48214 | Campanágua (adicionada de sais 1,5 L) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48139 | Campanágua (adicionada de sais 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48215 | Campanágua (adicionada de sais 510 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12063 | Castelo (mineral descartável 510 ml) |  | 1,85 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12057 | Castelo sem gás (mineral 1,5 L) |  | 3,14 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48973 | Castelo sem gás (mineral descartável 500 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50499 | Chapagua (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49881 | Clube Soda Cristalina com gás (mineral descartável 600 ml) |  | 1,94 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47971 | cocais com gás (mineral descartável 300 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47968 | Cocais com gás (mineral descartável 510 ml) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47967 | Água Mineral Cocais sem gás 1.500 ml |  | 2,60 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47973 | Água Mineral Cocais sem gás – Copo 200 ml |  | 0,73 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47970 | Água Mineral Cocais sem gás – Copo 300 ml |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47970 | Cocais sem gás (descartável 300 ml) |  | 1,09 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47966 | Cocais sem gás (descartável 5 L) |  | 5,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47969 | Cocais sem Gás (descartável 510 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47965 | Cocais sem gás (retornável 10 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47964 | Cocais sem gás (retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48316 | Cristal com gás (descartável 510 ml) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48116 | Cristal sem gás (descartável 510 ml) |  | 1,83 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50500 | Cristal Sul (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 53781 | Cristalina da Roça (1,5 L) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 53782 | Cristalina da Roça (5 L) |  | 2,89 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 53780 | Cristalina da Roça - Copo (200 ml) |  | 0,36 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50495 | Crystal com gás (350 ml) |  | 1,37 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49758 | Crystal com gás (descartável 500 ml) |  | 1,49 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50493 | Crystal Sem gás (2 L) |  | 3,43 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50498 | Crystal sem gás (350 ml) |  | 1,27 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48285 | Crystal sem gás (descartável 1 L) |  | 2,85 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49755 | Crystal sem gás (descartável 500 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49759 | Cystal com gás (1,5 L) |  | 3,72 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49756 | Cystal sem gás (1,5 L) |  | 3,09 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50501 | Dafonte (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50512 | Dafonte (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47717 | Dias D’Avila (1,5 L) |  | 1,44 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47718 | Dias D’Avila (descartável 500 ml) |  | 0,70 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47713 | Dias D’Avila com gás (descartável 330 ml) |  | 1,87 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47710 | Dias D’Avila com gás (descartável 500 ml) |  | 1,62 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47714 | Dias D’Avila Kids sem gás (descartável 330 ml) |  | 2,30 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47708 | Dias D’Avila sem gás (1,5 L) |  | 2,30 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47970 | Cocais sem gás (mineral descartável 300 ml) |  | 1,09 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47966 | Cocais sem gás (mineral descartável 5 L) |  | 5,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47969 | Cocais sem Gás (mineral descartável 510 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47965 | Cocais sem gás (mineral retornável 10 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47964 | Cocais sem gás (mineral retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48316 | Cristal com gás (mineral descartável 510 ml) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48116 | Cristal sem gás (mineral descartável 510 ml) |  | 1,83 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50500 | Cristal Sul (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 53781 | Cristalina da Roça (adicionada de sais 1,5 L) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 53782 | Cristalina da Roça (adicionada de sais 5 L) |  | 2,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 53780 | Cristalina da Roça - Copo (adicionada de sais 200 ml) |  | 0,36 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50495 | Crystal com gás (mineral 350 ml) |  | 1,37 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49758 | Crystal com gás (mineral descartável 500 ml) |  | 1,49 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50493 | Crystal Sem gás (mineral 2 L) |  | 3,43 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50498 | Crystal sem gás (mineral 350 ml) |  | 1,27 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48285 | Crystal sem gás (mineral descartável 1 L) |  | 2,85 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49755 | Crystal sem gás (mineral descartável 500 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49759 | Cystal com gás (mineral 1,5 L) |  | 3,72 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49756 | Cystal sem gás (mineral 1,5 L) |  | 3,09 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50501 | Dafonte (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50512 | Dafonte (natural 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47717 | Dias D’Avila (adicionada de sais 1,5 L) |  | 1,44 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47718 | Dias D’Avila (adicionada de sais descartável 500 ml) |  | 0,70 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47713 | Dias D’Avila com gás (mineral descartável 330 ml) |  | 1,87 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47710 | Dias D’Avila com gás (mineral descartável 500 ml) |  | 1,62 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47714 | Dias D’Avila Kids sem gás (mineral descartável 330 ml) |  | 2,30 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47708 | Dias D’Avila sem gás (mineral 1,5 L) |  | 2,30 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47716 | Água Mineral Dias D’Avila sem gás - Copo 200 ml |  | 0,51 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47715 | Água Mineral Dias D’Avila sem gás - Copo 300 ml |  | 0,59 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47715 | Dias D’Avila sem gás (descartável 300 ml) |  | 0,59 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47712 | Dias D’Avila sem gás (descartável 330 ml) |  | 0,86 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47709 | Dias D’Avila sem gás (descartável 500 ml) |  | 1,22 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47707 | Dias D’Avila sem gás (retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47711 | Dias D’Avila Sport sem gás (descartável 500 ml) |  | 3,43 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50070 | Dona Mônica sem gás (retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50135 | Du Moço (1,5 L) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50133 | Du Moço (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50134 | Du Moço (5 L) |  | 2,89 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50136 | Du Moço (descartável 500 ml) |  | 0,80 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47719 | D’Avila (300 ml) |  | 0,44 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48353 | Florata sem gás (descartável 300 ml) |  | 0,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48328 | Florata sem gás (retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50505 | Gota da Prata (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48465 | Guaravitã com gás (descartável 300 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48466 | Guaravitã com gás (descartável 300 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48237 | Ilha Bela (1,5 L) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48100 | Ilha Bela (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49424 | Ilha Bela (descartável 500 ml) |  | 0,99 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48894 | Imperial com gás (descartável 500 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48895 | Imperial sem gás (descartável 500 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48737 | Indaiá + com gás (descartável 500 ml) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48124 | Indaiá com gás (descartável 330 ml) |  | 1,67 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48125 | Indaiá com gás (descartável 500 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48126 | Indaiá com gás (descartável 600 ml) |  | 1,95 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48122 | Indaiá sem gás (1,5 L) |  | 3,05 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48123 | Indaiá sem gás (copo 200 ml) |  | 0,73 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49704 | Indaiá sem gás (descartável 10 L) |  | 10,32 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48127 | Indaiá sem gás (descartável 330 ml) |  | 1,36 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48135 | Indaiá sem gás (descartável 5 L) |  | 7,47 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48289 | Indaiá sem gás (descartável 500 ml) |  | 1,35 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45133 | Lençóis Maranhense com gás (descartável 300 ml) |  | 1,16 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48504 | Lençóis Maranhense com gás (descartável 330 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48502 | Lençóis Maranhense com gás (descartável 510 ml) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48892 | Lençóis Maranhense PP (descartável 500 ml) |  | 1,18 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45645 | Lençóis Maranhense sem gás (copo 200 ml) |  | 0,68 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48560 | Lençóis Maranhense sem gás (descartável 330 ml) |  | 1,01 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48499 | Lençóis Maranhense sem gás (retornável 10 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47715 | Dias D’Avila sem gás (mineral descartável 300 ml) |  | 0,59 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47712 | Dias D’Avila sem gás (mineral descartável 330 ml) |  | 0,86 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47709 | Dias D’Avila sem gás (mineral descartável 500 ml) |  | 1,22 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47707 | Dias D’Avila sem gás (mineral retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47711 | Dias D’Avila Sport sem gás (mineral descartável 500 ml) |  | 3,43 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50070 | Dona Mônica sem gás (mineral retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50135 | Du Moço (adicionada de sais 1,5 L) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50133 | Du Moço (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50134 | Du Moço (adicionada de sais 5 L) |  | 2,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50136 | Du Moço (adicionada de sais descartável 500 ml) |  | 0,80 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47719 | D’Avila (adicionada de sais 300 ml) |  | 0,44 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48353 | Florata sem gás (mineral descartável 300 ml) |  | 0,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48328 | Florata sem gás (mineral retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50505 | Gota da Prata (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48465 | Guaravitã com gás (mineral descartável 300 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48466 | Guaravitã com gás (mineral descartável 300 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48237 | Ilha Bela (adicionada de sais 1,5 L) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48100 | Ilha Bela (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49424 | Ilha Bela (adicionada de sais descartável 500 ml) |  | 0,99 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48894 | Imperial com gás (mineral descartável 500 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48895 | Imperial sem gás (mineral descartável 500 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48737 | Indaiá + com gás (mineral descartável 500 ml) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48124 | Indaiá com gás (mineral descartável 330 ml) |  | 1,67 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48125 | Indaiá com gás (mineral descartável 500 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48126 | Indaiá com gás (mineral descartável 600 ml) |  | 1,95 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48122 | Indaiá sem gás (mineral 1,5 L) |  | 3,05 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48123 | Indaiá sem gás (mineral copo 200 ml) |  | 0,73 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49704 | Indaiá sem gás (mineral descartável 10 L) |  | 10,32 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48127 | Indaiá sem gás (mineral descartável 330 ml) |  | 1,36 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48135 | Indaiá sem gás (mineral descartável 5 L) |  | 7,47 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48289 | Indaiá sem gás (mineral descartável 500 ml) |  | 1,35 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45133 | Lençóis Maranhense com gás (mineral descartável 300 ml) |  | 1,16 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48504 | Lençóis Maranhense com gás (mineral descartável 330 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48502 | Lençóis Maranhense com gás (mineral descartável 510 ml) |  | 1,59 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48892 | Lençóis Maranhense PP (mineral descartável 500 ml) |  | 1,18 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45645 | Lençóis Maranhense sem gás (mineral copo 200 ml) |  | 0,68 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48560 | Lençóis Maranhense sem gás (mineral descartável 330 ml) |  | 1,01 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48499 | Lençóis Maranhense sem gás (mineral retornável 10 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 48501 | Água Mineral Lençóis Maranhense 1.500 ml | und | 2,70 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48500 | Lençóis Maranhenses sem gás (descartável 5 L) |  | 6,02 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48503 | Lençóis Maranhenses sem gás (descartável 510 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45132 | Lençóis Maranhenses sem gás· (copo 300 ml) |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48280 | Lençóis Maranhese sem gás (2 L) |  | 2,91 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45132 | Lençol Maranhense sem gás (descartável 300 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47875 | Luí com gás (descartável 330 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47876 | Luí sem gás (descartável 330 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48500 | Lençóis Maranhenses sem gás (mineral descartável 5 L) |  | 6,02 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48503 | Lençóis Maranhenses sem gás (mineral descartável 510 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45132 | Lençóis Maranhenses sem gás· (mineral copo 300 ml) |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48280 | Lençóis Maranhese sem gás (mineral 2 L) |  | 2,91 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45132 | Lençol Maranhense sem gás (mineral descartável 300 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47875 | Luí com gás (mineral descartável 330 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47876 | Luí sem gás (mineral descartável 330 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48263 | Mar doce (copo) (mineral descartável 300 ml) |  | 0,92 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48379 | Mar doce (garrafa) (mineral descartável 300 ml) |  | 1,13 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 48263 | ÁGUA MINERAL MAR DOCE (copo) 300 ml | und | 0,92 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48263 | Mar doce (copo) (descartável 300 ml) |  | 0,92 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48379 | Mar doce (garrafa) (descartável 300 ml) |  | 1,13 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 48363 | Água Mineral Mar Doce sem gás 1.500 ml |  | 2,20 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50966 | Mar Doce sem gás (descartável 1 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49903 | Mar Doce sem gás (descartável 10 L) |  | 10,32 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48365 | Mar Doce sem gás (descartável 330 ml) |  | 0,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48262 | Mar doce sem gás (descartável 5 L) |  | 5,97 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48364 | Mar doce sem gás (descartável 500 ml) |  | 1,01 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50967 | Mar Doce sem gás (descartável 510 ml) |  | 1,03 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48469 | Mar doce sem gás (descartável 6 L) |  | 6,95 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48261 | Mar doce sem gás (retornável 10 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48259 | Mar doce sem gás (retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50180 | Marquesa com gás (descartável 300 ml) |  | 1,21 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50178 | Marquesa com gás (descartável 500 ml) |  | 1,73 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50966 | Mar Doce sem gás (mineral descartável 1 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49903 | Mar Doce sem gás (mineral descartável 10 L) |  | 10,32 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48365 | Mar Doce sem gás (mineral descartável 330 ml) |  | 0,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48262 | Mar doce sem gás (mineral descartável 5 L) |  | 5,97 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48364 | Mar doce sem gás (mineral descartável 500 ml) |  | 1,01 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50967 | Mar Doce sem gás (mineral descartável 510 ml) |  | 1,03 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48469 | Mar doce sem gás (mineral descartável 6 L) |  | 6,95 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48261 | Mar doce sem gás (mineral retornável 10 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48259 | Mar doce sem gás (mineral retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50180 | Marquesa com gás (mineral descartável 300 ml) |  | 1,21 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50178 | Marquesa com gás (mineral descartável 500 ml) |  | 1,73 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 50177 | Água Mineral Marquesa sem gás 1.500 ml |  | 2,89 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50181 | Marquesa sem gás (descartável 300 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50179 | Marquesa sem gás (descartável 500 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50176 | Marquesa sem gás (retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48348 | Minalba Classic com gás (descartável 330 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48349 | Minalba Classic sem gás (descartável 330 ml) |  | 1,32 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48382 | Minalba com gás (2 L) |  | 2,91 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48128 | Minalba com gás (descartável 1 L) |  | 2,26 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48286 | Minalba com gás (descartável 330 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50964 | Minalba com gás (descartável 510 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49753 | Minalba Premium com gás – vidro (descartável 300 ml) |  | 3,61 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48361 | Minalba Premium sem gás – vidro (descartável 300 ml) |  | 3,61 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48284 | Minalba sem gás (1,5 L) |  | 4,11 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48387 | Minalba sem gás (descartável 300 ml) |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48386 | Minalba sem gás (descartável 330 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50965 | Minalba sem gás (descartável 510 ml) |  | 2,00 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50511 | Minavida (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12053 | Nestlé com gás (1,5 L) |  | 3,18 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48118 | Nestle com gás (descartável 300 ml) |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45625 | Nestlê com gás (descartável 510 ml) |  | 1,55 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12078 | Nestlé sem gás (1,5 L) |  | 3,04 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48119 | Nestlê sem gás (descartável 300 ml) |  | 1,32 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45032 | Nestlê sem gás (descartável 510 ml) |  | 1,22 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49086 | Ouro Branco (20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12061 | Ouro da Mina sem gás (1,5 L) |  | 2,90 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48362 | Ouro da Mina sem gás (copo 200 ml) |  | 0,81 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48013 | Ouro da Mina sem gás (descartável 300 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48301 | Ouro da Mina sem gás (descartável 5 L) |  | 8,25 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48410 | Ouro da Mina sem gás (descartável 500 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48297 | Ouro da Mina sem gás (retornável 10 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48246 | Ouro da Mina sem gás (retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48370 | Outras Marcas (1,5 L) |  | 4,81 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48370 | Outras Marcas (1,5 L) |  | 2,21 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50507 | Outras Marcas (1250 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48366 | Outras Marcas (20 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48330 | Outras Marcas (20 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50509 | Outras Marcas (300 ml) |  | 0,55 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50510 | Outras Marcas (330 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45604 | Outras Marcas (350 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50506 | Outras Marcas (5 L) |  | 4,13 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48292 | Outras Marcas (5 L) |  | 8,25 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48317 | Outras Marcas (510 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48138 | Outras Marcas (copo 300 ml) |  | 0,96 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48679 | Outras Marcas (copo 310 ml) |  | 1,86 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48367 | Outras Marcas (descartável 10 L) | und | 12,38 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48368 | Outras Marcas (descartável 5 L) |  | 9,64 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49423 | Outras Marcas (descartável 500 ml) |  | 1,37 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48329 | Outras Marcas (descartável 510 ml) |  | 3,44 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49902 | Outras marcas (descartável 6 L) |  | 8,25 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48373 | Outras marcas (descartável 600 ml) |  | 5,85 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47903 | Outras Marcas (retornável 10 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48369 | Outras marcas com gás (2 L) |  | 4,00 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12120 | Outras Marcas com gás (copo 200 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48371 | Outras marcas com gás (descartável 1 L) |  | 4,13 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48678 | Outras marcas com gás (descartável 250 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48138 | Outras marcas com gás (descartável 300 ml) |  | 3,85 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48377 | Outras marcas com gás (descartável 330 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48374 | Outras Marcas com gás (descartável 500 ml) |  | 2,62 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12119 | Outras Marcas sem gás (copo 200 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48372 | Outras marcas sem gás (descartável 1 L) |  | 3,85 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48279 | Outras marcas sem gás (descartável 250 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12118 | Outras marcas sem gás (descartável 300 ml) |  | 3,79 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48378 | Outras marcas sem gás (descartável 330 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48375 | Outras Marcas sem gás (descartável 500 ml) |  | 2,54 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48366 | Outras marcas sem gás (retornável 20 L) |  | 8,12 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48358 | Outtras Marcas (200 ml) |  | 0,62 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 53426 | Premium com gás (descartável 330 ml) |  | 1,15 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 53425 | Premium com gás (descartável 500 ml) |  | 1,41 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48290 | Psiu Água com gás (descartável 500 ml) |  | 1,58 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49904 | Psiu água sem gás (1,5 L) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48474 | Psiu água sem gás (descartável 330 ml) |  | 1,30 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48291 | Psiu Água sem gás (descartável 500 ml) |  | 1,24 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50071 | Psiu sem gás (retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12059 | Pureza com gás (1,5 L) |  | 3,53 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12067 | Pureza sem gás (1,5 L) |  | 3,35 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12039 | Pureza Vital sem gás (1,5 L) |  | 3,67 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45632 | Pureza Vital sem gás (descartável 510 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48104 | Puríssima (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47616 | Puríssima (200 ml) |  | 0,36 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47615 | Puríssima (descartável 500 ml) |  | 0,67 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48121 | Regina com gás (1,5 L) |  | 3,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48275 | Regina com gás (descartável 300 ml) |  | 1,21 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49710 | Regina com gás (descartável 500 ml) |  | 1,53 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12029 | Regina com gás (descartável 510 ml) |  | 1,83 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12062 | Regina sem gás (1,5 L) |  | 2,90 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48293 | Regina sem gás (copo 200 ml) |  | 0,81 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48408 | Regina sem gás (descartável 5 L) |  | 6,95 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48320 | Regina sem gás (descartável 500 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45038 | Regina sem gás (descartável 510 ml) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48089 | Regina sem gás (retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48623 | River com gás (descartável 500 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50260 | Saara com gás (descartável 300 ml) |  | 0,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50257 | Saara com gás (descartável 510 ml) |  | 0,90 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50181 | Marquesa sem gás (mineral descartável 300 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50179 | Marquesa sem gás (mineral descartável 500 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50176 | Marquesa sem gás (mineral retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48348 | Minalba Classic com gás (mineral descartável 330 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48349 | Minalba Classic sem gás (mineral descartável 330 ml) |  | 1,32 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48382 | Minalba com gás (mineral 2 L) |  | 2,91 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48128 | Minalba com gás (mineral descartável 1 L) |  | 2,26 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48286 | Minalba com gás (mineral descartável 330 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50964 | Minalba com gás (mineral descartável 510 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49753 | Minalba Premium com gás – vidro (mineral descartável 300 ml) |  | 3,61 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48361 | Minalba Premium sem gás – vidro (mineral descartável 300 ml) |  | 3,61 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48284 | Minalba sem gás (mineral 1,5 L) |  | 4,11 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48387 | Minalba sem gás (mineral descartável 300 ml) |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48386 | Minalba sem gás (mineral descartável 330 ml) |  | 1,12 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50965 | Minalba sem gás (mineral descartável 510 ml) |  | 2,00 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50511 | Minavida (natural 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12053 | Nestlé com gás (mineral 1,5 L) |  | 3,18 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48118 | Nestle com gás (mineral descartável 300 ml) |  | 0,87 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45625 | Nestlê com gás (mineral descartável 510 ml) |  | 1,55 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12078 | Nestlé sem gás (mineral 1,5 L) |  | 3,04 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48119 | Nestlê sem gás (mineral descartável 300 ml) |  | 1,32 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45032 | Nestlê sem gás (mineral descartável 510 ml) |  | 1,22 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49086 | Ouro Branco (adicionada de sais 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12061 | Ouro da Mina sem gás (mineral 1,5 L) |  | 2,90 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48362 | Ouro da Mina sem gás (mineral copo 200 ml) |  | 0,81 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48013 | Ouro da Mina sem gás (mineral descartável 300 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48301 | Ouro da Mina sem gás (mineral descartável 5 L) |  | 8,25 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48410 | Ouro da Mina sem gás (mineral descartável 500 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48297 | Ouro da Mina sem gás (mineral retornável 10 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48246 | Ouro da Mina sem gás (mineral retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48370 | Outras Marcas (adicionada de sais 1,5 L) |  | 2,21 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50507 | Outras Marcas (adicionada de sais 1250 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48366 | Outras Marcas (adicionada de sais 20 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50509 | Outras Marcas (adicionada de sais 300 ml) |  | 0,55 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50510 | Outras Marcas (adicionada de sais 330 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50506 | Outras Marcas (adicionada de sais 5 L) |  | 4,13 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48317 | Outras Marcas (adicionada de sais 510 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49423 | Outras Marcas (adicionada de sais descartável 500 ml) |  | 1,37 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48370 | Outras Marcas (mineral 1,5 L) | und | 4,81 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45604 | Outras Marcas (mineral 350 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48138 | Outras Marcas (mineral copo 300 ml) |  | 0,96 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48679 | Outras Marcas (mineral copo 310 ml) |  | 1,86 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48367 | Outras Marcas (mineral descartável 10 L) | und | 12,38 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48368 | Outras Marcas (mineral descartável 5 L) |  | 9,64 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48329 | Outras Marcas (mineral descartável 510 ml) |  | 3,44 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49902 | Outras marcas (mineral descartável 6 L) |  | 8,25 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48373 | Outras marcas (mineral descartável 600 ml) |  | 5,85 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47903 | Outras Marcas (mineral retornável 10 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48330 | Outras Marcas (natural 20 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48292 | Outras Marcas (natural 5 L) |  | 8,25 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48369 | Outras marcas com gás (mineral 2 L) |  | 4,00 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12120 | Outras Marcas com gás (mineral copo 200 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48371 | Outras marcas com gás (mineral descartável 1 L) |  | 4,13 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48678 | Outras marcas com gás (mineral descartável 250 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48138 | Outras marcas com gás (mineral descartável 300 ml) |  | 3,85 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48377 | Outras marcas com gás (mineral descartável 330 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48374 | Outras Marcas com gás (mineral descartável 500 ml) |  | 2,62 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12119 | Outras Marcas sem gás (mineral copo 200 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48372 | Outras marcas sem gás (mineral descartável 1 L) |  | 3,85 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48279 | Outras marcas sem gás (mineral descartável 250 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12118 | Outras marcas sem gás (mineral descartável 300 ml) |  | 3,79 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48378 | Outras marcas sem gás (mineral descartável 330 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48375 | Outras Marcas sem gás (mineral descartável 500 ml) |  | 2,54 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48366 | Outras marcas sem gás (mineral retornável 20 L) |  | 8,12 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48358 | Outtras Marcas (adicionada de sais 200 ml) |  | 0,62 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 53426 | Premium com gás (mineral descartável 330 ml) |  | 1,15 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 53425 | Premium com gás (mineral descartável 500 ml) |  | 1,41 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48290 | Psiu Água com gás (mineral descartável 500 ml) |  | 1,58 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49904 | Psiu água sem gás (mineral 1,5 L) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48474 | Psiu água sem gás (mineral descartável 330 ml) |  | 1,30 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48291 | Psiu Água sem gás (mineral descartável 500 ml) |  | 1,24 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50071 | Psiu sem gás (mineral retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12059 | Pureza com gás (mineral 1,5 L) |  | 3,53 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12067 | Pureza sem gás (mineral 1,5 L) |  | 3,35 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12039 | Pureza Vital sem gás (mineral 1,5 L) |  | 3,67 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45632 | Pureza Vital sem gás (mineral descartável 510 ml) |  | 1,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48104 | Puríssima (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47616 | Puríssima (adicionada de sais 200 ml) |  | 0,36 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47615 | Puríssima (adicionada de sais descartável 500 ml) |  | 0,67 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48121 | Regina com gás (mineral 1,5 L) |  | 3,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48275 | Regina com gás (mineral descartável 300 ml) |  | 1,21 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49710 | Regina com gás (mineral descartável 500 ml) |  | 1,53 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12029 | Regina com gás (mineral descartável 510 ml) |  | 1,83 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12062 | Regina sem gás (mineral 1,5 L) |  | 2,90 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48293 | Regina sem gás (mineral copo 200 ml) |  | 0,81 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48408 | Regina sem gás (mineral descartável 5 L) |  | 6,95 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48320 | Regina sem gás (mineral descartável 500 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45038 | Regina sem gás (mineral descartável 510 ml) |  | 1,89 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48089 | Regina sem gás (mineral retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48623 | River com gás (mineral descartável 500 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50260 | Saara com gás (mineral descartável 300 ml) |  | 0,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50257 | Saara com gás (mineral descartável 510 ml) |  | 0,90 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 50256 | Água Mineral Saara sem gás 1.500 ml |  | 2,13 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 50262 | Água Mineral Saara sem gás - Copo 200 ml |  | 0,62 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 50261 | Água Mineral Saara sem gás - Copo 300 ml |  | 0,64 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50259 | Saara sem gás (descartável 300 ml) |  | 0,68 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50255 | Saara sem gás (descartável 5 L) |  | 5,93 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47736 | Saara sem gás (descartável 500 ml) |  | 1,46 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50258 | Saara sem gás (descartável 510 ml) |  | 0,96 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50504 | San Sebastian (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50524 | San Sebastian - Copo (200 ml) |  | 0,63 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50508 | San Sebastian - Copo (300 ml) |  | 0,53 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50549 | San Sebastian com gás (1,5 L) |  | 2,09 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50553 | San Sebastian com gás (330 ml) |  | 0,99 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50552 | San Sebastian com gás (510 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50550 | San Sebastian sem gás (1,5 L) |  | 2,09 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50554 | San Sebastian sem gás (330 ml) |  | 0,81 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50551 | San Sebastian sem gás (510 ml) |  | 0,99 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47704 | Santa Joana com gás (descartável 330 ml) |  | 1,09 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47702 | Santa Joana com gás (descartável 500 ml) |  | 1,53 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47700 | Santa joana sem gás (1,5 L) |  | 2,25 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50259 | Saara sem gás (mineral descartável 300 ml) |  | 0,68 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50255 | Saara sem gás (mineral descartável 5 L) |  | 5,93 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47736 | Saara sem gás (mineral descartável 500 ml) |  | 1,46 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50258 | Saara sem gás (mineral descartável 510 ml) |  | 0,96 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50504 | San Sebastian (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50524 | San Sebastian - Copo (adicionada de sais 200 ml) |  | 0,63 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50508 | San Sebastian - Copo (adicionada de sais 300 ml) |  | 0,53 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50549 | San Sebastian com gás (adicionada de sais 1,5 L) |  | 2,09 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50553 | San Sebastian com gás (adicionada de sais 330 ml) |  | 0,99 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50552 | San Sebastian com gás (adicionada de sais 510 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50550 | San Sebastian sem gás (adicionada de sais 1,5 L) |  | 2,09 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50554 | San Sebastian sem gás (adicionada de sais 330 ml) |  | 0,81 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50551 | San Sebastian sem gás (adicionada de sais 510 ml) |  | 0,99 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47704 | Santa Joana com gás (mineral descartável 330 ml) |  | 1,09 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47702 | Santa Joana com gás (mineral descartável 500 ml) |  | 1,53 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47700 | Santa joana sem gás (mineral 1,5 L) |  | 2,25 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47706 | Água Mineral Santa Joana sem gás – copo 0,38 200 ml |  | 0,60 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47705 | Água Mineral Santa Joana sem gás - copo 0,43 300 ml |  | 0,62 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47703 | Santa Joana sem gás (descartável 330 ml) |  | 1,08 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47701 | Santa Joana sem gás (descartável 500 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48134 | Santa mônica sem gás (350 ml) |  | 1,05 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48321 | Santa Mônica sem gás (descartável 500 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48409 | São Braz sem gás (1,5 L) |  | 2,63 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 49843 | São Braz sem gás (descartável 500 ml) |  | 1,16 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48109 | São Braz sem gás (retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12048 | São Lourenço com gás (descartável 510 ml) |  | 1,30 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12068 | São Lourenço sem gás (descartável 300 ml) |  | 1,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 12051 | São Lourenço sem gás (descartável 510 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48140 | São Luís (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45636 | Schin com gás (1,5 L) |  | 3,75 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48130 | Schin com gás (descartável 300 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 45009 | Schin sem gás (1,5 L) |  | 3,12 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48239 | Schin sem gás (descartável 300 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48131 | Schin sem gás (descartável 500 ml) |  | 1,55 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47703 | Santa Joana sem gás (mineral descartável 330 ml) |  | 1,08 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47701 | Santa Joana sem gás (mineral descartável 500 ml) |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48134 | Santa mônica sem gás (mineral 350 ml) |  | 1,05 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48321 | Santa Mônica sem gás (mineral descartável 500 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48409 | São Braz sem gás (mineral 1,5 L) |  | 2,63 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 49843 | São Braz sem gás (mineral descartável 500 ml) |  | 1,16 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48109 | São Braz sem gás (mineral retornável 20 L) |  | 2,76 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12048 | São Lourenço com gás (mineral descartável 510 ml) |  | 1,30 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12068 | São Lourenço sem gás (mineral descartável 300 ml) |  | 1,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 12051 | São Lourenço sem gás (mineral descartável 510 ml) |  | 1,17 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48140 | São Luís (adicionada de sais 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45636 | Schin com gás (mineral 1,5 L) |  | 3,75 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48130 | Schin com gás (mineral descartável 300 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 45009 | Schin sem gás (mineral 1,5 L) |  | 3,12 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48239 | Schin sem gás (mineral descartável 300 ml) |  | 1,39 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48131 | Schin sem gás (mineral descartável 500 ml) |  | 1,55 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47693 | Água Mineral Serra Grande – Com Gás 1.500 ml |  | 2,44 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47699 | Água Mineral Serra Grande – Com Gás - Copo 200 ml |  | 0,80 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47697 | Serra grande com gás (descartável 330 ml) |  | 1,16 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47695 | Serra Grande com gás (descartável 510 ml) |  | 1,48 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47697 | Serra grande com gás (mineral descartável 330 ml) |  | 1,16 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47695 | Serra Grande com gás (mineral descartável 510 ml) |  | 1,48 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47692 | Água Mineral Serra Grande – Sem Gás 1.500 ml |  | 2,44 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47698 | Água Mineral Serra Grande – Sem Gás - Copo 200 ml |  | 0,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47696 | Serra Grande sem gás (descartável 330 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47694 | Serra Grande sem gás (descartável 510 ml) |  | 1,46 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47691 | Serra Grande sem gás (retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48129 | Shin com gás (descartável 500 ml) |  | 1,63 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47696 | Serra Grande sem gás (mineral descartável 330 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47694 | Serra Grande sem gás (mineral descartável 510 ml) |  | 1,46 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47691 | Serra Grande sem gás (mineral retornável 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48129 | Shin com gás (mineral descartável 500 ml) |  | 1,63 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 50494 | Smartwater– 591 ml |  | 5,76 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47979 | Água Mineral Ster Bom com gás 350 ml |  | 1,45 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47978 | Ster Bom com gás (descartável 500 ml) |  | 1,58 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47978 | Ster Bom com gás (mineral descartável 500 ml) |  | 1,58 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47976 | Água Mineral Ster Bom sem gás 1.500 ml |  | 2,46 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47980 | Água Mineral Ster Bom sem gás 350 ml |  | 1,22 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47982 | Água Mineral Ster Bom sem gás – Copo 200 ml |  | 0,55 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47981 | Água Mineral Ster Bom sem gás – Copo 300 ml |  | 1,01 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47975 | Ster Bom sem gás (descartável 5 L) |  | 6,51 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47977 | Ster Bom sem gás (descartável 510 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 47974 | Ster Bom sem gás (retornável 10 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48357 | Viena com gás (1250 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48399 | Viena com gás (330 ml) |  | 1,01 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48390 | Viena com gás (510 ml) |  | 1,13 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48388 | Viena levemente gasificada (1250 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48495 | Viena levemente gasificada (330 ml) |  | 0,46 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48383 | Viena levemente gasificada (510 ml) |  | 0,77 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48381 | Viena sabor Limão (510 ml) |  | 1,16 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48356 | Viena sem gás (1250 ml) |  | 1,91 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48395 | Viena sem gás (330 ml) |  | 0,95 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48389 | Viena sem gás (510 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50236 | Vilagua (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 50108 | You Happy (5 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47975 | Ster Bom sem gás (mineral descartável 5 L) |  | 6,51 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47977 | Ster Bom sem gás (mineral descartável 510 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 47974 | Ster Bom sem gás (mineral retornável 10 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48355 | Viena (adicionada de sais 20 L) |  | 5,78 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48357 | Viena com gás (adicionada de sais 1250 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48399 | Viena com gás (adicionada de sais 330 ml) |  | 1,01 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48390 | Viena com gás (adicionada de sais 510 ml) |  | 1,13 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48388 | Viena levemente gasificada (adicionada de sais 1250 ml) |  | 1,31 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48495 | Viena levemente gasificada (adicionada de sais 330 ml) |  | 0,46 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48383 | Viena levemente gasificada (adicionada de sais 510 ml) |  | 0,77 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48381 | Viena sabor Limão (adicionada de sais 510 ml) |  | 1,16 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48356 | Viena sem gás (adicionada de sais 1250 ml) |  | 1,91 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48395 | Viena sem gás (adicionada de sais 330 ml) |  | 0,95 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48389 | Viena sem gás (adicionada de sais 510 ml) |  | 1,06 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50236 | Vilagua (natural 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 50108 | You Happy (natural 5 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47678 | Água Mineral You Happy sem gás 2.000 ml |  | 3,82 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48727 | You Happy sem gás (descartável 1 L) |  | 2,21 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48287 | You! Happy com gás (copo 200 ml) |  | 0,56 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48117 | You! Happy com gás (descartável 250 ml) |  | 1,49 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48385 | You! Happy com gás (descartável 500 ml) |  | 1,96 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48288 | You! Happy sem gás (copo 200 ml) |  | 0,44 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48197 | You! Happy sem gás (descartável 250 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48396 | You! Happy sem gás (descartável 500 ml) |  | 1,57 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48727 | You Happy sem gás (mineral descartável 1 L) |  | 2,21 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48287 | You! Happy com gás (mineral copo 200 ml) |  | 0,56 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48117 | You! Happy com gás (mineral descartável 250 ml) |  | 1,49 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48385 | You! Happy com gás (mineral descartável 500 ml) |  | 1,96 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48288 | You! Happy sem gás (mineral copo 200 ml) |  | 0,44 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48197 | You! Happy sem gás (mineral descartável 250 ml) |  | 1,14 | 2024-12-05 (pub.) | Port. 500/2024 |
+| 48396 | You! Happy sem gás (mineral descartável 500 ml) |  | 1,57 | 2024-12-05 (pub.) | Port. 500/2024 |
 
-## Situação incerta (106)
+## Situação incerta (112)
 
 O valor abaixo foi o último fixado, mas há motivo para duvidar que continue valendo: o item **não aparece** numa relação completa publicada depois (pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa) ou o **código dele foi dado a outro produto** (⚠). **Não use sem confirmar na SEFAZ.**
 
 | código | descrição | unid. | último valor (R$) | desde | portaria | motivo |
 |---|---|---|---|---|---|---|
+| — | 01 Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 20 Litros |  | 1,50 | 2017-09-19 (pub.) | Port. 409/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
+| — | 01 Água mineral natural e água natural (todas as marcas) envasadas por estabelecimento localizado no Estado do Maranhão. |  | 1,50 | 2017-10-17 (pub.) | Port. 453/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
+| — | 02 Água adicionada de sais (todas as marcas) envasadas por estabelecimento localizado no |  | 1,00 | 2017-10-17 (pub.) | Port. 453/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
+| — | 03 Água mineral natural, natural e adicionada de sais (todas as marcas) envasadas por estabelecimentos localizados em outra Unidade da Federação. |  | 4,16 | 2017-10-17 (pub.) | Port. 453/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
+| — | 03 Água Natural (todas as marcas) envasadas no Estado do Maranhão. 20 Litros |  | 1,00 | 2017-09-19 (pub.) | Port. 409/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
+| — | 05 Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 20 Litros |  | 4,17 | 2017-09-19 (pub.) | Port. 409/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
 | — | Água Adicionada de Sais 5 Estrela - Pet 20.000 ml |  | 1,96 | 2023-06-19 (pub.) | Port. 276/2023 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Adicionada de Sais Agua Fina Premium sem gás - Pet 5.000 ml |  | 4,50 | 2021-08-12 (pub.) | Port. 313/2021 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Adicionada de Sais Agua Fina sem gás - Copo 200 ml |  | 0,52 | 2021-08-12 (pub.) | Port. 313/2021 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
@@ -548,10 +558,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Mineral Midaí sem Gás 510 ml |  | 1,30 | 2024-07-02 (pub.) | Port. 232/2024 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Mineral Minalba com gás - Lata 310 ml |  | 5,42 | 2024-01-23 (pub.) | Port. 19/2024 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Mineral Minalba sem gás - Garrafa 510 ml |  | 20,89 | 2024-01-23 (pub.) | Port. 19/2024 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
+| — | Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 10 Litros |  | 1,39 | 2017-09-19 (pub.) | Port. 409/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
 | — | Água Mineral Natural Petropolitana com Gás - Pet 300 ml |  | 1,20 | 2023-07-13 (pub.) | Port. 315/2023 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Mineral Natural Petropolitana com Gás - Pet 510 ml |  | 1,47 | 2023-07-13 (pub.) | Port. 315/2023 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Mineral Natural Petropolitana Sem Gás - Pet 300 ml |  | 1,20 | 2023-07-13 (pub.) | Port. 315/2023 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Mineral Natural Petropolitana Sem Gás - Pet 510 ml |  | 1,47 | 2023-07-13 (pub.) | Port. 315/2023 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
+| — | Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 10 Litros |  | 3,89 | 2017-09-19 (pub.) | Port. 409/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
 | — | Água Mineral Ouro da Mina com Gás - Vidro 330 ml |  | 1,60 | 2024-04-23 (pub.) | Port. 129/2024 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Mineral Ouro da Mina sem Gás - Pet 20.000 ml |  | 5,48 | 2024-04-23 (pub.) | Port. 129/2024 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Água Mineral Ouro da Mina sem Gás - Pet 330 ml |  | 0,85 | 2024-04-23 (pub.) | Port. 129/2024 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
@@ -587,39 +599,31 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Mineral You Happy sem gás 1.000 ml |  | 2,91 | 2024-04-01 (pub.) | Port. 91/2024 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Àgua Mineral You Happy Sem gas 250ml |  | 0,95 | 2023-04-19 (pub.) | Port. 159/2023 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Àgua Mineral You Happy Sem Gas 500 ml |  | 1,26 | 2023-04-19 (pub.) | Port. 159/2023 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
-| 50525 | Águas do Vale (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 | ⚠ o código 50525 passou a designar "Água Adicionada de Sais Águas do Vale 20.000 ml" pela Portaria nº 300/2025 (2025-09-02), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 51306 | Bacabal (20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 | ⚠ o código 51306 passou a designar "Água Adicionada de Sais Bacabal sem gás 20.000 ml" pela Portaria nº 303/2025 (2025-09-02), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 51308 | Bacabal (300 ml) |  | 0,49 | 2024-12-05 (pub.) | Port. 500/2024 | ⚠ o código 51308 passou a designar "Água Adicionada de Sais Bacabal sem gás 300 ml" pela Portaria nº 303/2025 (2025-09-02), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 51307 | Bacabal (descartável 500 ml) |  | 0,80 | 2024-12-05 (pub.) | Port. 500/2024 | ⚠ o código 51307 passou a designar "Água Adicionada de Sais Bacabal sem gás 500ml" pela Portaria nº 303/2025 (2025-09-02), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
+| — | Água Natural (todas as marcas) envasadas no Estado do Maranhão. 10 Litros |  | 0,83 | 2017-09-19 (pub.) | Port. 409/2017 | pauta específica do galão (todas as marcas), ligada ao regime do selo fiscal de controle (RICMS, art. 243-I a 243-P-A); sem atualização no portal desde a portaria indicada: confirme se continua vigente |
 | 51386 | Bebida Mista Tampico Uva - Pet 1.000 ml |  | 5,04 | 2021-11-25 (pub.) | Port. 516/2021 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
+| 48258 | Outras Marcas com gás (mineral copo 200 ml) |  | 1,96 | 2023-05-22 (pub.) | Port. 215/2023 | não consta da relação completa da Portaria nº 500/2024 (2024-12-05); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 
-## Superados (674)
+## Superados (694)
 
 | código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
 |---|---|---|---|---|
-| — | 01 Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 20 Litros R$ 1,50 | 0,27 | 2017-09-19 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | 01 Água mineral natural e água natural (todas as marcas) envasadas por estabelecimento localizado no Estado do Maranhão. R$ 0,27 | 1,50 | 2017-10-17 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | 02 Água adicionada de sais (todas as marcas) envasadas por estabelecimento localizado no R$ 0,18 | 1,00 | 2017-10-17 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | 03 Água mineral natural, natural e adicionada de sais (todas as marcas) envasadas por estabelecimentos localizados em outra Unidade da Federação. R$ 0,75 | 4,16 | 2017-10-17 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | 03 Água Natural (todas as marcas) envasadas no Estado do Maranhão. 20 Litros R$ 1,00 | 0,18 | 2017-09-19 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | 05 Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 20 Litros R$ 4,17 | 0,75 | 2017-09-19 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | 3 AGUA DOCE DO MARANHAO 0,0949760 453,80 45.133,86 716,23 | 46.303,89 | 2011-04-11 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality com gás (330 ml) | 0,85 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Acquality com gás (500 ml) | 1,17 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality com gás (510 ml) | 1,11 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Acquality com gás (descartável 500 ml) | 1,17 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality com gás (garrafa 250 a 300 ml) | 0,89 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality sem gás (200 ml) | 0,29 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality sem gás (250 a 300 ml) | 0,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality sem gás (300 ml) | 0,59 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Acquality sem gás (330 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Acquality sem gás (500 ml) | 1,24 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality sem gás (510 ml) | 1,18 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Acquality sem gás (copo 200 a 300 ml) | 0,46 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality sem gás (descartável 1,5 L) | 1,51 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality sem gás (descartável 500 ml) | 1,24 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acquality sem gás (garrafa 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Acqullity com gás (descartável 1,5 L) | 2,16 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality com gás (mineral 330 ml) | 0,85 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Acquality com gás (mineral 500 ml) | 1,17 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality com gás (mineral 510 ml) | 1,11 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Acquality com gás (mineral descartável 500 ml) | 1,17 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality com gás (mineral garrafa 250 a 300 ml) | 0,89 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality sem gás (mineral 200 ml) | 0,29 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality sem gás (mineral 250 a 300 ml) | 0,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality sem gás (mineral 300 ml) | 0,59 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Acquality sem gás (mineral 330 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Acquality sem gás (mineral 500 ml) | 1,24 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality sem gás (mineral 510 ml) | 1,18 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Acquality sem gás (mineral copo 200 a 300 ml) | 0,46 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality sem gás (mineral descartável 1,5 L) | 1,51 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality sem gás (mineral descartável 500 ml) | 1,24 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acquality sem gás (mineral garrafa 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Acqullity com gás (mineral descartável 1,5 L) | 2,16 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Adicionada de Sais - Campanágua 1.500 ml | 1,30 | 2015-02-06 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Adicionada de Sais - Campanágua 20.000 ml | 3,89 | 2015-02-06 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Adicionada de Sais - Campanágua 510 ml | 0,73 | 2015-02-06 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -649,10 +653,10 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Adicionada de Sais Viena - Copo 200 ml | 0,40 | 2020-06-30 | sem atualização desde 2020 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Adicionadas de Sais Águas do Vale 20.000 ml | 1,50 | 2019-01-03 | sem atualização desde 2019 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Gasificada River 500 ml | 0,53 | 2005-09-15 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Min Crystal s/ gás copo (250 a 300 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Min Crystal s/ gás copo (300 ml) | 0,60 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Água Miner Crystal s/ gás (copo 200 ml) | 0,47 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Miner Crystal sem gás (copo 200 a 300 ml) | 0,49 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Min Crystal s/ gás copo (mineral 250 a 300 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Min Crystal s/ gás copo (mineral 300 ml) | 0,60 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Miner Crystal s/ gás (mineral copo 200 ml) | 0,47 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Miner Crystal sem gás (mineral copo 200 a 300 ml) | 0,49 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Minera Florata sem gás - descartavel 1.000 ml | 1,47 | 2020-01-20 | sem atualização desde 2020 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Minera Florata sem gás - descartavel 1.500 ml | 1,50 | 2020-01-20 | sem atualização desde 2020 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Minera Florata sem gás - descartavel 10.000 ml | 7,50 | 2020-01-20 | sem atualização desde 2020 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -679,13 +683,15 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Mineral c/gás 500 ml | 0,62 | 2008-05-12 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral c/gás- Clube Soda Cristalina Pet 600 ml | 1,14 | 2012-05-16 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Cácia sem gás 500 ml | 1,06 | 2019-08-21 | sem atualização desde 2019 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Agua Mineral Castelo (500 ml) | 1,34 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Agua Mineral Castelo (510 ml) | 1,27 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Agua Mineral Castelo (copo 200 ml) | 0,62 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Agua Mineral Castelo (descartável 500 ml) | 1,34 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Agua Mineral Castelo (mineral 500 ml) | 1,34 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Agua Mineral Castelo (mineral 510 ml) | 1,27 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Agua Mineral Castelo (mineral copo 200 ml) | 0,62 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Agua Mineral Castelo (mineral descartável 500 ml) | 1,34 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Castelo - copo 200 ml | 0,50 | 2012-08-16 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Castelo - Pet 500 ml | 0,81 | 2016-12-09 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Castelo 1500 ml | 1,80 | 2012-08-16 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Agua Mineral Castelo sem gás (copo 200 a 300 ml) | 0,65 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Castelo 510 ml | 1,00 | 2012-08-16 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Agua Mineral Castelo sem gás (mineral copo 200 a 300 ml) | 0,65 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Cocais com gás 300 ml | 0,77 | 2017-02-10 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Cocais com gás 510 ml | 1,30 | 2017-02-10 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Cocais sem gás 10.000 ml | 3,40 | 2017-02-10 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -694,24 +700,24 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Mineral Cocais sem gás 5.000 ml | 4,10 | 2017-02-10 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Cocais sem gás 510 ml | 1,00 | 2017-02-10 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Crystal - Pet 2.000 ml | 2,49 | 2019-01-03 | sem atualização desde 2019 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Crystal c/ gás pet (330 ml) | 0,86 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Água Mineral Crystal c/gás (500 ml) | 1,03 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Mineral Crystal c/ gás pet (mineral 330 ml) | 0,86 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Mineral Crystal c/gás (mineral 500 ml) | 1,03 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Água Mineral Crystal com gás - Pet 350 ml | 1,00 | 2019-01-03 | sem atualização desde 2019 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Mineral Crystal com Gas 1500ml | 1,23 | 2012-03-08 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Mineral Crystal com Gas 330ml | 0,40 | 2012-03-08 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Mineral Crystal com Gas 500ml | 0,57 | 2012-03-08 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Crystal com gás pet (descartável 300 ml) | 0,90 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Crystal com gás pet (garrafa 250 a 300 ml) | 0,90 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Crystal s/ gás pet (330 ml) | 0,73 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Água Mineral Crystal s/gás (500 ml) | 0,90 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Mineral Crystal com gás pet (mineral descartável 300 ml) | 0,90 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Crystal com gás pet (mineral garrafa 250 a 300 ml) | 0,90 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Crystal s/ gás pet (mineral 330 ml) | 0,73 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Mineral Crystal s/gás (mineral 500 ml) | 0,90 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Água Mineral Crystal sem gás - Pet 350 ml | 0,92 | 2019-01-03 | sem atualização desde 2019 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Mineral Crystal sem Gas 1500ml | 1,17 | 2012-03-08 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Mineral Crystal sem Gas 200ml | 0,31 | 2012-03-08 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Mineral Crystal sem Gas 300ml | 0,43 | 2012-03-08 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Mineral Crystal sem Gas 330ml | 0,32 | 2012-03-08 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Agua Mineral Crystal sem Gas 500ml | 0,53 | 2012-03-08 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Crystal sem gás pet (descartável 300 ml) | 0,77 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Crystal sem gás pet (garrafa 250 a 300 ml) | 0,77 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Crystal sem gás pet (mineral descartável 300 ml) | 0,77 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Crystal sem gás pet (mineral garrafa 250 a 300 ml) | 0,77 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Dias D’Avila Adicionada de Sais - Pet 1.500 ml | 0,99 | 2016-08-31 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Dias D’Avila Adicionada de Sais - Pet 300 ml | 0,30 | 2016-08-31 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Dias D’Avila Adicionada de Sais - Pet 500 ml | 0,48 | 2016-08-31 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -724,12 +730,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Mineral Dias D’Avila sem gás kids - Pet 330 ml | 1,59 | 2016-08-31 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Dias D’Avila sem gás sport - Pet 500 ml | 2,37 | 2016-08-31 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Flor do Tempo 20.000 ml | 4,20 | 2013-03-26 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Imperial c/gás (500 ml) | 0,96 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Água Mineral Imperial s/gás (500 ml) | 0,81 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Água mineral indaia + c/gás (500 ml) | 1,30 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Mineral Imperial c/gás (mineral 500 ml) | 0,96 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Mineral Imperial s/gás (mineral 500 ml) | 0,81 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água mineral indaia + c/gás (mineral 500 ml) | 1,30 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Água Mineral Indaiá 10.000 ml | 6,50 | 2007-04-09 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Indaia 20.000 ml | 5,50 | 2014-11-18 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Indaiá com + gás (500 ml) | 0,88 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Indaiá com + gás (mineral 500 ml) | 0,88 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Lençóis Maranhense ( Copo ) 300 ml | 0,40 | 2005-05-16 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | AGUA MINERAL LENCOIS MARANHENSE - COPO 200 ml | 0,30 | 2006-10-19 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Lençóis Maranhense 10.000 ml | 1,85 | 2005-05-16 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -808,14 +814,15 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Mineral Ster Bom Sem Gás 510 ml | 0,75 | 2017-08-22 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | 48385 | Água Mineral You Happy Com Gás – Pet 500 ml | 2,05 | 2021-11-25 | o mesmo código e produto aparece depois como "Água Mineral You Happy com gás 500 ml" (Portaria nº 91/2024, 2024-04-01) |
 | 48727 | Água Mineral You Happy Sem Gás - Pet 1.000 ml | 2,37 | 2021-11-25 | o mesmo código e produto aparece depois como "Água Mineral You Happy sem gás 1.000 ml" (Portaria nº 91/2024, 2024-04-01) |
-| — | Água Natural Psiu (330 ml) | 0,66 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Natural Psiu (mineral 330 ml) | 0,66 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Natural Psiu 330 ml | 0,60 | 2013-01-17 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Natural Vilagua 20.000 ml | 2,00 | 2016-11-24 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Saborizada Aquarius 450 ml | 0,90 | 2007-04-23 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Saborizada Aquarius c/gás (350 a 450 ml) | 0,96 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Àgua Saborizada Aquarius c/gás (500 ml) | 1,18 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Água Saborizada Aquarius c/gás (mineral 350 a 450 ml) | 0,96 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Àgua Saborizada Aquarius c/gás (mineral 500 ml) | 1,18 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Água Saborizada Aquarius c/gás 450 ml | 0,94 | 2007-06-09 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Àgua Saborizada Aquarius com gás (350 a 450 ml) | 1,24 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Àgua Saborizada Aquarius com gás (descartável 350 ml) | 1,24 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Àgua Saborizada Aquarius com gás (mineral 350 a 450 ml) | 1,24 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Àgua Saborizada Aquarius com gás (mineral descartável 350 ml) | 1,24 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Saborizada Aquarius Fresh c/gás 1.500 ml | 1,54 | 2007-06-09 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Saborizada Aquarius s/gás 1.500 ml | 1,50 | 2007-06-09 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Saborizada Viena – Sabor Limão 510 ml | 0,80 | 2017-08-22 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -829,488 +836,511 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Viena Adicionada de Sais Sem Gás 20,000 ml | 4,17 | 2017-08-22 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Viena Adicionada de Sais Sem Gás 330 ml | 0,66 | 2018-07-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Viena Adicionada de Sais Sem Gás 510 ml | 0,73 | 2018-07-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Águs Saborizada Aquarias c/gás (350 a 450 ml) | 1,52 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Águs Saborizada Aquarias com gás (350 a 450 ml) | 1,60 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Águs Saborizada Aquarias c/gás (mineral 350 a 450 ml) | 1,52 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Águs Saborizada Aquarias com gás (mineral 350 a 450 ml) | 1,60 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | amarão seco de água doce | 4,35 | 2015-03-30 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | amarão seco de água salgada - grande | 20,09 | 2015-03-30 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | amarão seco de água salgada - médio | 10,72 | 2015-03-30 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | amarão seco de água salgada - pequeno | 7,59 | 2015-03-30 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ana Rosa (5 L) | 0,72 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ana Rosa (descartável 1250 ml) | 1,16 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ana Rosa sem gás (1 L) | 1,68 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ana Rosa sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ana Rosa sem gás (350 a 450 ml) | 0,58 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ana Rosa sem gás (descartável 1 L) | 1,68 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ana Rosa sem gás (descartável 350 ml) | 0,58 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ana Rosa (adicionada de sais descartável 1250 ml) | 1,16 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ana Rosa (mineral 1,5 L) | 1,80 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ana Rosa (mineral 20 L) | 4,70 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ana Rosa (mineral 500 ml) | 0,98 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ana Rosa (natural 5 L) | 0,72 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ana Rosa sem gás (mineral 1 L) | 1,68 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ana Rosa sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ana Rosa sem gás (mineral 350 a 450 ml) | 0,58 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ana Rosa sem gás (mineral descartável 1 L) | 1,68 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ana Rosa sem gás (mineral descartável 350 ml) | 0,58 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Ana Rosa – 500 ml | 0,72 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Azul (adicionada de sais descartável 1250 ml) | 1,37 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Azul – 510 ml | 0,77 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Belágua (1,5 L) | 1,57 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Belágua (20 L) | 4,38 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Belágua (5 a 6 L) | 4,03 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Belágua (5 L) | 3,52 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Belágua (500 ml) | 0,96 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Belágua sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Belágua sem gás (250 a 300 ml) | 0,73 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Belágua sem gás (300 ml) | 0,69 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Belágua sem gás (500 ml) | 1,01 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Belágua sem gás (descartável 1,5 L) | 1,65 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Belágua (mineral 1,5 L) | 1,57 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Belágua (mineral 20 L) | 4,38 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Belágua (mineral 5 a 6 L) | 4,03 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Belágua (mineral 5 L) | 3,52 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Belágua (mineral 500 ml) | 0,96 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Belágua sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Belágua sem gás (mineral 250 a 300 ml) | 0,73 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Belágua sem gás (mineral 300 ml) | 0,69 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Belágua sem gás (mineral 500 ml) | 1,01 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Belágua sem gás (mineral descartável 1,5 L) | 1,65 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Belágua sem gás – 5000 ml | 4,24 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Boa Viagem (retornável 20 L) | 2,00 | 2018-12-14 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Castelo sem gás (1 L) | 2,28 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Castelo sem gás (350 a 450 ml) | 0,85 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Castelo sem gás (descartável 1 L) | 2,28 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Castelo sem gás (descartável 350 ml) | 0,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Clube Soda Crisstalina com gás (600 ml) | 1,41 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | cocais com gás (250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cocais com gás (500 ml) | 1,37 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | cocais com gás (descartável 310 ml) | 0,81 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cocais com gás (descartável 500 ml) | 1,37 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cocais sem gás (1 L) | 1,89 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cocais sem gás (10 L) | 5,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Cocais sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Cocais sem gás (250 a 300 ml) | 0,79 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cocais sem Gás (500 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cocais sem gás (descartável 1 L) | 1,89 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cocais sem gás (descartável 310 ml) | 0,79 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cocais sem Gás (descartável 500 ml) | 1,05 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Boa Viagem (mineral retornável 20 L) | 2,00 | 2018-12-14 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Campanágua – 510 ml | 0,77 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Castelo sem gás (mineral 1 L) | 2,28 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Castelo sem gás (mineral 350 a 450 ml) | 0,85 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Castelo sem gás (mineral descartável 1 L) | 2,28 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Castelo sem gás (mineral descartável 350 ml) | 0,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Clube Soda Crisstalina com gás (mineral 600 ml) | 1,41 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | cocais com gás (mineral 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cocais com gás (mineral 500 ml) | 1,37 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | cocais com gás (mineral descartável 310 ml) | 0,81 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cocais com gás (mineral descartável 500 ml) | 1,37 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cocais sem gás (mineral 1 L) | 1,89 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cocais sem gás (mineral 10 L) | 5,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Cocais sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Cocais sem gás (mineral 250 a 300 ml) | 0,79 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cocais sem Gás (mineral 500 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cocais sem gás (mineral descartável 1 L) | 1,89 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cocais sem gás (mineral descartável 310 ml) | 0,79 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cocais sem Gás (mineral descartável 500 ml) | 1,05 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Cocais sem gás – 5000 ml | 4,31 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Cristal com gás (500 ml) | 1,37 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cristal com gás (510 ml) | 1,30 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Cristal com gás (descartável 500 ml) | 1,37 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cristal sem gás (500 ml) | 1,33 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cristal sem gás (510 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Cristal sem gás (descartável 500 ml) | 1,33 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Crystal com gás (350 a 450 ml) | 1,08 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Crystal com gás (descartável 350 ml) | 1,08 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Crystal sem gás (1 L) | 2,07 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Crystal semgás (350 a 450 ml) | 0,95 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Crystal semgás (descartável 350 ml) | 0,95 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cystal com gáss (descartável 1,5 L) | 2,70 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Cystal sem gáss (descartável 1,5 L) | 2,25 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dafonte (20 L) | 1,50 | 2018-12-14 | substituído pelo código 50501 (Dafonte (20 L)) a partir de 2023-05-22; valeu até 2023-05-21 |
-| — | Dias D’Avila (5 L) | 0,51 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila (descartável 1250 ml) | 1,04 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila (descartável 330 ml) | 0,32 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cristal com gás (mineral 500 ml) | 1,37 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cristal com gás (mineral 510 ml) | 1,30 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Cristal com gás (mineral descartável 500 ml) | 1,37 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cristal sem gás (mineral 500 ml) | 1,33 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cristal sem gás (mineral 510 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Cristal sem gás (mineral descartável 500 ml) | 1,33 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Crystal com gás (mineral 350 a 450 ml) | 1,08 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Crystal com gás (mineral descartável 350 ml) | 1,08 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Crystal sem gás (mineral 1 L) | 2,07 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Crystal semgás (mineral 350 a 450 ml) | 0,95 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Crystal semgás (mineral descartável 350 ml) | 0,95 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cystal com gáss (mineral descartável 1,5 L) | 2,70 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Cystal sem gáss (mineral descartável 1,5 L) | 2,25 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila (adicionada de sais descartável 1250 ml) | 1,04 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila (adicionada de sais descartável 330 ml) | 0,32 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila (natural 5 L) | 0,51 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Dias D’Avila - 300 ml | 0,32 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Dias D’Avila - 500 ml | 0,51 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Dias D’Avila com gás (350 a 450 ml) | 1,17 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila com gás (descartável 300 ml) | 1,36 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila com gás (descartável 350 ml) | 1,17 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila com gás (garrafa 250 a 300 ml) | 1,36 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila Kids sem gás (descartável 300 ml) | 1,67 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila Kids sem gás (garrafa 250 a 300 ml) | 1,67 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila sem gás (1 L) | 1,67 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila sem gás (20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Dias D’Avila sem gás (250 a 300 ml) | 0,43 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila sem gás (350 a 450 ml) | 0,89 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila sem gás (descartável 1 L) | 1,67 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila sem gás (descartável 310 ml) | 0,43 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila sem gás (descartável 350 ml) | 0,89 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila sem gás (garrafa 250 a 300 ml) | 0,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila com gás (mineral 350 a 450 ml) | 1,17 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila com gás (mineral descartável 300 ml) | 1,36 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila com gás (mineral descartável 350 ml) | 1,17 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila com gás (mineral garrafa 250 a 300 ml) | 1,36 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila Kids sem gás (mineral descartável 300 ml) | 1,67 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila Kids sem gás (mineral garrafa 250 a 300 ml) | 1,67 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila sem gás (mineral 1 L) | 1,67 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila sem gás (mineral 20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Dias D’Avila sem gás (mineral 250 a 300 ml) | 0,43 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila sem gás (mineral 350 a 450 ml) | 0,89 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila sem gás (mineral descartável 1 L) | 1,67 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila sem gás (mineral descartável 310 ml) | 0,43 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila sem gás (mineral descartável 350 ml) | 0,89 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila sem gás (mineral garrafa 250 a 300 ml) | 0,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Dias D’Avila sem gás – 200 ml | 0,37 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Dias D’Avila sem gás – 300 ml | 0,43 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila Sport sem gás (350 a 450 ml) | 2,49 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dias D’Avila Sport sem gás (descartável 350 ml) | 2,49 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Dona Mônica (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Du Moço (descartável 1250 ml) | 1,16 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila Sport sem gás (mineral 350 a 450 ml) | 2,49 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dias D’Avila Sport sem gás (mineral descartável 350 ml) | 2,49 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Dona Mônica (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Du Moço (adicionada de sais descartável 1250 ml) | 1,16 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Du Moço (natural 5 L) | 0,58 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Du Moço – 5.000 ml | 2,10 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Du Moço – 500 ml | 0,58 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | D’Avila (descartável 300 ml) | 0,32 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Florata (20 L) | 4,95 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Florata (300 ml) | 0,54 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Florata (500 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Florata sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Florata sem gás (250 a 300 ml) | 0,57 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Florata sem gás (500 ml) | 1,33 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| 48360 | Florata sem gás (descartável 500 ml) | 1,83 | 2024-12-05 | o mesmo código e produto aparece depois como "Água Mineral Florata Sem Gás - Pet 500 ml" (Portaria nº 352/2026, 2026-09-24) |
-| — | Guaravitã com gás (250 a 300 ml) | 0,83 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Guaravitã com gás (300 ml) | 0,79 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Guaravitã com gás (descartável 300 ml) | 0,83 | 2018-12-14 | substituído pelo código 48465 (Guaravitã com gás (descartável 300 ml)) a partir de 2023-05-22; valeu até 2023-05-21 |
-| — | Idaiá (descartável 10 L) | 9,47 | 2015-06-01 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Idaiá sem gás (descartável 10 L) | 7,50 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ilha Bela (5 L) | 0,72 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | D’Avila (adicionada de sais descartável 300 ml) | 0,32 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Florata (mineral 20 L) | 4,95 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Florata (mineral 300 ml) | 0,54 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Florata (mineral 500 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Florata sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Florata sem gás (mineral 250 a 300 ml) | 0,57 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Florata sem gás (mineral 500 ml) | 1,33 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| 48360 | Florata sem gás (mineral descartável 500 ml) | 1,83 | 2024-12-05 | o mesmo código e produto aparece depois como "Água Mineral Florata Sem Gás - Pet 500 ml" (Portaria nº 352/2026, 2026-09-24) |
+| — | Guaravitã com gás (mineral 250 a 300 ml) | 0,83 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Guaravitã com gás (mineral 300 ml) | 0,79 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Guaravitã com gás (mineral descartável 300 ml) | 0,83 | 2018-12-14 | substituído pelo código 48465 (Guaravitã com gás (mineral descartável 300 ml)) a partir de 2023-05-22; valeu até 2023-05-21 |
+| — | Idaiá (mineral descartável 10 L) | 9,47 | 2015-06-01 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Idaiá sem gás (mineral descartável 10 L) | 7,50 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ilha Bela (natural 5 L) | 0,72 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Ilha Bela – 500 ml | 0,72 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Imperial com gás (500 ml) | 1,01 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Imperial sem gás (350 a 450 ml) | 0,85 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Indaiá (1,5 L) | 2,11 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Indaiá (20 L) | 6,02 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indaiá (200 ml) | 0,36 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Indaiá (5 a 6 L) | 5,16 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indaiá (5 L) | 3,69 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Indaiá (500 ml) | 0,88 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Indáia (copo 200 ml) | 0,50 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Indaiá (descartável 10 L) | 6,63 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Indaia + com gás (500 ml) | 1,37 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indaia + com gás (descartável 500 ml) | 1,37 | 2018-12-14 | substituído pelo código 48125 (Indaiá com gás (descartável 500 ml)) a partir de 2023-05-22; valeu até 2023-05-21 |
-| — | Indaiá c/ gás (600 ml) | 1,13 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Indaiá com gás (330 ml) | 1,21 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indaiá com gás (600 ml) | 1,42 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indaiá sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indaiá sem gás (300 ml) | 0,49 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Indaiá sem gás (330 ml) | 0,99 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indaiá sem gás (500 ml) | 0,98 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indáia sem gás (copo 200 a 300 ml) | 0,53 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Indaiá sem gás (descartável 1,5 L) | 2,22 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| 48274 | Indaiá sem gás (retornável 20 L) | 2,76 | 2024-12-05 | o mesmo código e produto aparece depois como "Água Minera Indaiá Sem Gás - Pet 20.000 ml" (Portaria nº 223/2026, 2026-06-17) |
+| — | Imperial com gás (mineral 500 ml) | 1,01 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Imperial sem gás (mineral 350 a 450 ml) | 0,85 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Indaiá (mineral 1,5 L) | 2,11 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Indaiá (mineral 20 L) | 6,02 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Indaiá (mineral 200 ml) | 0,36 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Indaiá (mineral 5 a 6 L) | 5,16 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Indaiá (mineral 5 L) | 3,69 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Indaiá (mineral 500 ml) | 0,88 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Indáia (mineral copo 200 ml) | 0,50 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Indaiá (mineral descartável 10 L) | 6,63 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Indaia + com gás (mineral 500 ml) | 1,37 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Indaia + com gás (mineral descartável 500 ml) | 1,37 | 2018-12-14 | substituído pelo código 48125 (Indaiá com gás (mineral descartável 500 ml)) a partir de 2023-05-22; valeu até 2023-05-21 |
+| — | Indaiá c/ gás (mineral 600 ml) | 1,13 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá com gás (mineral 330 ml) | 1,21 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Indaiá com gás (mineral 600 ml) | 1,42 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Indaiá sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Indaiá sem gás (mineral 300 ml) | 0,49 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá sem gás (mineral 330 ml) | 0,99 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Indaiá sem gás (mineral 500 ml) | 0,98 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Indáia sem gás (mineral copo 200 a 300 ml) | 0,53 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Indaiá sem gás (mineral descartável 1,5 L) | 2,22 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| 48274 | Indaiá sem gás (mineral retornável 20 L) | 2,76 | 2024-12-05 | o mesmo código e produto aparece depois como "Água Minera Indaiá Sem Gás - Pet 20.000 ml" (Portaria nº 223/2026, 2026-06-17) |
 | — | Indaiá sem gás – 5000 ml | 5,43 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençoes Maranhese sem gás (2 L) | 2,12 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense (10 L) | 4,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense (2 L) | 1,60 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense (20 L) | 5,16 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense (200 ml) | 0,31 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense (330 ml) | 0,32 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense (5 a 6 L) | 4,57 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense (copo 200 ml) | 0,47 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense (copo) (300 ml) | 0,65 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense (descartável 1,5 L) | 1,96 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense c/ gás (510 ml) | 1,33 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense c/gás Pet (300 ml) | 0,94 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense c/gás Pet (garrafa) (300 ml) | 0,41 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense com gás (250 a 300 ml) | 0,84 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense com gás (330 ml) | 0,97 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense com gás (500 ml) | 1,16 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense com gás (garrafa 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense PP (350 a 450 ml) | 0,86 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense PP (Pet) (500 ml) | 0,82 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense s/ gás (510 ml) | 1,07 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense s/gás Pet (300 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense s/gás Pet (garrafa) (300 ml) | 0,39 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense sem gás (10 L) | 5,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense sem gás (250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense sem gás (330 ml) | 0,71 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense sem gás (500 ml) | 0,95 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense sem gás (copo 200 a 300 ml) | 0,49 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense sem gás (garrafa 250 a 300 ml) | 0,74 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençoes Maranhese sem gás (mineral 2 L) | 2,12 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense (copo) (mineral 300 ml) | 0,65 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense (mineral 10 L) | 4,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense (mineral 2 L) | 1,60 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense (mineral 20 L) | 5,16 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense (mineral 200 ml) | 0,31 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense (mineral 330 ml) | 0,32 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense (mineral 5 a 6 L) | 4,57 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense (mineral 5 L) | 3,37 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense (mineral copo 200 ml) | 0,47 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense (mineral descartável 1,5 L) | 1,96 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense c/ gás (mineral 510 ml) | 1,33 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense c/gás Pet (garrafa) (mineral 300 ml) | 0,41 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense c/gás Pet (mineral 300 ml) | 0,94 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense com gás (mineral 250 a 300 ml) | 0,84 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense com gás (mineral 330 ml) | 0,97 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense com gás (mineral 500 ml) | 1,16 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense com gás (mineral garrafa 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense PP (mineral 350 a 450 ml) | 0,86 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense PP (Pet) (mineral 500 ml) | 0,82 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense s/ gás (mineral 510 ml) | 1,07 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense s/gás Pet (garrafa) (mineral 300 ml) | 0,39 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense s/gás Pet (mineral 300 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense sem gás (mineral 10 L) | 5,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense sem gás (mineral 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense sem gás (mineral 330 ml) | 0,71 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense sem gás (mineral 500 ml) | 0,95 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense sem gás (mineral copo 200 a 300 ml) | 0,49 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense sem gás (mineral garrafa 250 a 300 ml) | 0,74 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense sem gás – 5000 ml | 4,37 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Lençóis Maranhense – 5.000 ml | 5,16 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhese sem gás (descartável 2 L) | 2,12 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhese sem gás (mineral descartável 2 L) | 2,12 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Lençois Maranhese – 300 ml | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Luí com gás (descartável 300 ml) | 1,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Luí com gás (garrafa 250 a 300 ml) | 1,40 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Luí sem gás (descartável 300 ml) | 1,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Luí sem gás (garrafa 250 a 300 ml) | 1,40 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar Doce (1,5 L) | 1,80 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar doce (10 L) | 3,35 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Mar doce (20 L) | 4,46 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Mar doce (200 ml) | 0,29 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar Doce (330 ml) | 0,68 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Mar doce (5 L) | 3,32 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar doce (500 ml) | 0,80 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Mar doce (copo 200 ml) | 0,49 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar doce (descartável 10 L) | 7,90 | 2015-06-01 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar doce (garrafa) (250 a 300 ml) | 0,82 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar doce (garrafa) (300 ml) | 0,78 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Mar doce sem gás (10 L) | 5,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Mar doce sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Mar doce sem gás (500 ml) | 0,74 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Mar doce sem gás (copo 200 a 300 ml) | 0,38 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar Doce sem gás (descartável 1,5 L) | 1,47 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar Doce sem gás (descartável 300 ml) | 0,57 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Mar Doce sem gás (garrafa 250 a 300 ml) | 0,57 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Luí com gás (mineral descartável 300 ml) | 1,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Luí com gás (mineral garrafa 250 a 300 ml) | 1,40 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Luí sem gás (mineral descartável 300 ml) | 1,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Luí sem gás (mineral garrafa 250 a 300 ml) | 1,40 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar doce (garrafa) (mineral 250 a 300 ml) | 0,82 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar doce (garrafa) (mineral 300 ml) | 0,78 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Mar Doce (mineral 1,5 L) | 1,80 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar doce (mineral 10 L) | 3,35 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Mar doce (mineral 20 L) | 4,46 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Mar doce (mineral 200 ml) | 0,29 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar Doce (mineral 330 ml) | 0,68 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Mar doce (mineral 5 L) | 3,32 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar doce (mineral 500 ml) | 0,80 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Mar doce (mineral copo 200 ml) | 0,49 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar doce (mineral descartável 10 L) | 7,90 | 2015-06-01 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar doce sem gás (mineral 10 L) | 5,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Mar doce sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Mar doce sem gás (mineral 500 ml) | 0,74 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Mar doce sem gás (mineral copo 200 a 300 ml) | 0,38 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar Doce sem gás (mineral descartável 1,5 L) | 1,47 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar Doce sem gás (mineral descartável 300 ml) | 0,57 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Mar Doce sem gás (mineral garrafa 250 a 300 ml) | 0,57 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Mar doce sem gás – 5.000 ml | 4,34 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Mar doce sem gás – 6.000 ml | 5,05 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Marquesa com gás (350 a 450 ml) | 1,26 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Marquesa com gás (descartável 310 ml) | 0,88 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Marquesa com gás (descartável 350 ml) | 1,26 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Marquesa com gás (mineral 350 a 450 ml) | 1,26 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Marquesa com gás (mineral descartável 310 ml) | 0,88 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Marquesa com gás (mineral descartável 350 ml) | 1,26 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Marquesa com gás – 300 ml | 0,88 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Marquesa sem gás (1 L) | 2,10 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Marquesa sem gás (20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Marquesa sem gás (350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Marquesa sem gás (descartável 1 L) | 2,10 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Marquesa sem gás (descartável 310 ml) | 0,83 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Marquesa sem gás (descartável 350 ml) | 1,05 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Marquesa sem gás (mineral 1 L) | 2,10 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Marquesa sem gás (mineral 20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Marquesa sem gás (mineral 350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Marquesa sem gás (mineral descartável 1 L) | 2,10 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Marquesa sem gás (mineral descartável 310 ml) | 0,83 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Marquesa sem gás (mineral descartável 350 ml) | 1,05 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Marquesa sem gás – 300 ml | 0,83 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Minalba (1,5 L) | 2,83 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Minalba c/ gás (1 L) | 1,36 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Minalba Classic com gás (330 ml) | 0,96 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Minalba Classic com gás (garrafa 250 a 300 ml) | 1,01 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Minalba Classic sem gás (330 ml) | 0,91 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Minalba Classic sem gás (garrafa 250 a 300 ml) | 0,96 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Minalba com gás (1 L) | 1,64 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Minalba com gás (330 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Minalba com gás (descartável 2 L) | 2,12 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Minalba com gás (garrafa 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Minalba Prem (vidro) c/gás (300 ml) | 2,49 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Minalba sem gás (250 a 300 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Minalba sem gás (300 ml) | 0,60 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Minalba sem gás (330 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Minalba sem gás (descartável 1,5 L) | 2,98 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Minalba sem gás (garrafa 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nat Minalba Premi (vidro) s/gás (250 a 300 ml) | 2,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nat Minalba Premi (vidro) s/gás (300 ml) | 2,49 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Natl Minalba Prem (vidro) c/gás (250 a 300 ml) | 2,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Natl Minalba Prem (vidro) c/gás (300 ml) | 2,21 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Natural Minalba Premium (vidro) c/gás (300 ml) | 2,13 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Natural Minalba Premium (vidro) s/gás (300 ml) | 2,13 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Nestlê com gás (1 L) | 2,31 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê com gás (250 a 300 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê com gás (300 ml) | 0,60 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Nestlê com gás (500 ml) | 1,13 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê com gás (510 ml) | 1,07 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Nestlé com gás (descartável 1 L) | 2,31 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê com gás (descartável 500 ml) | 1,13 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê sem gás (1 L) | 2,21 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê sem gás (250 a 300 ml) | 0,96 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê sem gás (300 ml) | 0,91 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Nestlê sem gás (500 ml) | 0,89 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê sem gás (510 ml) | 0,85 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Nestlé sem gás (descartável 1 L) | 2,21 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Nestlê sem gás (descartável 500 ml) | 0,89 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ouro da Mina (1,5 L) | 2,01 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ouro da Mina (10 L) | 3,57 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ouro da Mina (20 L) | 4,70 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ouro da MIna (300 ml) | 0,79 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ouro da Mina (500 ml) | 1,00 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ouro da Mina (copo 200 ml) | 0,56 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ouro da Mina sem gás (1 L) | 2,11 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ouro da Mina sem gás (10 L) | 6,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ouro da Mina sem gás (20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ouro da Mina sem gás (250 a 300 ml) | 0,83 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ouro da Mina sem gás (350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ouro da Mina sem gás (copo 200 a 300 ml) | 0,59 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ouro da Mina sem gás (descartável 1 L) | 2,11 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ouro da Mina sem gás (descartável 350 ml) | 1,05 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Minalba (mineral 1,5 L) | 2,83 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Minalba c/ gás (mineral 1 L) | 1,36 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Minalba Classic com gás (mineral 330 ml) | 0,96 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Minalba Classic com gás (mineral garrafa 250 a 300 ml) | 1,01 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Minalba Classic sem gás (mineral 330 ml) | 0,91 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Minalba Classic sem gás (mineral garrafa 250 a 300 ml) | 0,96 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Minalba com gás (mineral 1 L) | 1,64 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Minalba com gás (mineral 330 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Minalba com gás (mineral descartável 2 L) | 2,12 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Minalba com gás (mineral garrafa 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Minalba Prem (vidro) c/gás (mineral 300 ml) | 2,49 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Minalba sem gás (mineral 250 a 300 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Minalba sem gás (mineral 300 ml) | 0,60 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Minalba sem gás (mineral 330 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Minalba sem gás (mineral descartável 1,5 L) | 2,98 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Minalba sem gás (mineral garrafa 250 a 300 ml) | 0,81 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nat Minalba Premi (vidro) s/gás (mineral 250 a 300 ml) | 2,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nat Minalba Premi (vidro) s/gás (mineral 300 ml) | 2,49 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Natl Minalba Prem (vidro) c/gás (mineral 250 a 300 ml) | 2,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Natl Minalba Prem (vidro) c/gás (mineral 300 ml) | 2,21 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Natural Minalba Premium (vidro) c/gás (mineral 300 ml) | 2,13 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Natural Minalba Premium (vidro) s/gás (mineral 300 ml) | 2,13 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Nestlê com gás (mineral 1 L) | 2,31 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê com gás (mineral 250 a 300 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê com gás (mineral 300 ml) | 0,60 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Nestlê com gás (mineral 500 ml) | 1,13 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê com gás (mineral 510 ml) | 1,07 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Nestlé com gás (mineral descartável 1 L) | 2,31 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê com gás (mineral descartável 500 ml) | 1,13 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê sem gás (mineral 1 L) | 2,21 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê sem gás (mineral 250 a 300 ml) | 0,96 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê sem gás (mineral 300 ml) | 0,91 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Nestlê sem gás (mineral 500 ml) | 0,89 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê sem gás (mineral 510 ml) | 0,85 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Nestlé sem gás (mineral descartável 1 L) | 2,21 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Nestlê sem gás (mineral descartável 500 ml) | 0,89 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ouro da Mina (mineral 1,5 L) | 2,01 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ouro da Mina (mineral 10 L) | 3,57 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ouro da Mina (mineral 20 L) | 4,70 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ouro da MIna (mineral 300 ml) | 0,79 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ouro da Mina (mineral 500 ml) | 1,00 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ouro da Mina (mineral copo 200 ml) | 0,56 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ouro da Mina sem gás (mineral 1 L) | 2,11 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ouro da Mina sem gás (mineral 10 L) | 6,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ouro da Mina sem gás (mineral 20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ouro da Mina sem gás (mineral 250 a 300 ml) | 0,83 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ouro da Mina sem gás (mineral 350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ouro da Mina sem gás (mineral copo 200 a 300 ml) | 0,59 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ouro da Mina sem gás (mineral descartável 1 L) | 2,11 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ouro da Mina sem gás (mineral descartável 350 ml) | 1,05 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Ouro da Mina sem gás – 5000 ml | 6,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras Marcas (1 L) | 3,80 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas (1,5 L) | 3,16 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas (10 L) | 4,50 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras Marcas (1250 a 1,5 L) | 1,60 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas (2 L) | 2,26 | 2015-06-01 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas (20 L) | 5,00 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas (200 ml) | 1,30 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras Marcas (350 a 450 ml) | 1,80 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras Marcas (5 a 20 L) | 5,50 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas (5 a 6 L) | 5,00 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras Marcas (5 L) | 6,00 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas (600 ml) | 2,50 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas (copo 200 ml) | 1,47 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas (descartável 1 L) | 3,50 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas (descartável 1250 ml) | 1,60 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas (descartável 300 ml) | 0,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas (descartável 330 ml) | 0,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas (adicionada de sais 200 ml) | 1,30 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras Marcas (adicionada de sais descartável 1250 ml) | 1,60 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas (adicionada de sais descartável 300 ml) | 0,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas (adicionada de sais descartável 330 ml) | 0,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas (mineral 1 L) | 3,80 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas (mineral 10 L) | 4,50 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas (mineral 2 L) | 2,26 | 2015-06-01 | sem atualização desde 2015 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas (mineral 20 L) | 7,00 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas (mineral 200 ml) | 0,48 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas (mineral 350 a 450 ml) | 1,80 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas (mineral 5 a 6 L) | 5,00 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas (mineral 5 L) | 4,34 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas (mineral 510 ml) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas (mineral 600 ml) | 2,50 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas (mineral copo 200 ml) | 1,47 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas (mineral descartável 1 L) | 3,50 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas (mineral descartável 500 ml) | 2,50 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Outras marcas - - 5000 a 6000 ml | 7,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas c/ gás (1 L) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas c/ gás (2 L) | 2,00 | 2012-10-23 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas c/ gás (500 ml) | 1,69 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas com gás (1 L) | 3,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas com gás (250 a 300 ml) | 2,80 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas com gás (300 ml) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras Marcas com gás (330 ml) | 1,18 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas com gás (500 ml) | 3,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| 48258 | Outras Marcas com gás (copo 200 ml) | 1,96 | 2023-05-22 | substituído pelo código 12120 (Outras Marcas com gás (copo 200 ml)) a partir de 2024-12-05; valeu até 2024-12-04 |
-| — | Outras Marcas com gás (copo 300 ml) | 1,50 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas com gás (descartável 2 L) | 2,50 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas com gás (descartável 310 ml) | 2,80 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas com gás (descartável 350 ml) | 1,90 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas com gás (garrafa 250 a 300 ml) | 1,90 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas s/ gás (1 L) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas s/ gás (500 ml) | 1,69 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas sem gás (1 L) | 2,80 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas sem gás (10 L) | 7,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas sem gás (20 L) | 6,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas sem gás (250 a 300 ml) | 2,75 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas sem gás (300 ml) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras Marcas sem gás (330 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas sem gás (500 ml) | 2,80 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras Marcas sem gás (copo 300 ml) | 1,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas sem gás (descartável 10 L) | 9,00 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas sem gás (descartável 310 ml) | 2,75 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras Marcas sem gás (descartável 350 ml) | 1,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outras marcas sem gás (garrafa 250 a 300 ml) | 1,85 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Outtras Marcas (descartável 200 ml) | 0,45 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas c/ gás (mineral 1 L) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas c/ gás (mineral 2 L) | 2,00 | 2012-10-23 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas c/ gás (mineral 500 ml) | 1,69 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas com gás (mineral 1 L) | 3,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas com gás (mineral 250 a 300 ml) | 2,80 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas com gás (mineral 300 ml) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras Marcas com gás (mineral 330 ml) | 1,18 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas com gás (mineral 500 ml) | 3,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras Marcas com gás (mineral copo 300 ml) | 1,50 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas com gás (mineral descartável 2 L) | 2,50 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas com gás (mineral descartável 310 ml) | 2,80 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas com gás (mineral descartável 350 ml) | 1,90 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas com gás (mineral garrafa 250 a 300 ml) | 1,90 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas s/ gás (mineral 1 L) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas s/ gás (mineral 500 ml) | 1,69 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas sem gás (mineral 1 L) | 2,80 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas sem gás (mineral 10 L) | 7,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas sem gás (mineral 20 L) | 6,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas sem gás (mineral 250 a 300 ml) | 2,75 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas sem gás (mineral 300 ml) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras Marcas sem gás (mineral 330 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas sem gás (mineral 500 ml) | 2,80 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras Marcas sem gás (mineral copo 300 ml) | 1,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas sem gás (mineral descartável 10 L) | 9,00 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas sem gás (mineral descartável 310 ml) | 2,75 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras Marcas sem gás (mineral descartável 350 ml) | 1,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas sem gás (mineral garrafa 250 a 300 ml) | 1,85 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outtras Marcas (adicionada de sais descartável 200 ml) | 0,45 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Psiu Água 1500 ml | 1,37 | 2020-10-29 | sem atualização desde 2020 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Psiu Água 330 ml | 0,89 | 2016-06-13 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Psiu Água 500 ml | 0,90 | 2020-10-29 | sem atualização desde 2020 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Psiu Água com gás (350 a 450 ml) | 1,15 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Psiu Água com gás (500 ml) | 1,09 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Psiu Água com gás (mineral 350 a 450 ml) | 1,15 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Psiu Água com gás (mineral 500 ml) | 1,09 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Psiu Água com Gás 500 ml | 0,60 | 2010-03-17 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Psiu Água Mineral Luí com gás 330 ml | 1,33 | 2017-07-03 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Psiu Água Mineral Luí sem gás 330 ml | 1,33 | 2017-07-03 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Psiu água sem gás (1 L) | 2,41 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Psiu Água sem gás (350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Psiu Água sem gás (500 ml) | 0,90 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Psiu água sem gás (descartável 1 L) | 2,41 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Psiu água sem gás (descartável 300 ml) | 0,94 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Psiu água sem gás (garrafa 250 a 300 ml) | 0,94 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Psiu sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Pureza com gás (1 L) | 2,56 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Pureza com gás (descartável 1 L) | 2,56 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Pureza sem gás (1 L) | 2,43 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Pureza sem gás (descartável 1 L) | 2,43 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Pureza Vital (1,5 L) | 2,54 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Pureza Vital (510 ml) | 1,33 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Pureza Vital sem gás (1 L) | 2,67 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Pureza Vital sem gás (500 ml) | 1,40 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Pureza Vital sem gás (descartável 1 L) | 2,67 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Pureza Vital sem gás (descartável 500 ml) | 1,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Puríssima (5 L) | 0,48 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Puríssima (descartável 200 ml) | 0,26 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Psiu água sem gás (mineral 1 L) | 2,41 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Psiu Água sem gás (mineral 350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Psiu Água sem gás (mineral 500 ml) | 0,90 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Psiu água sem gás (mineral descartável 1 L) | 2,41 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Psiu água sem gás (mineral descartável 300 ml) | 0,94 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Psiu água sem gás (mineral garrafa 250 a 300 ml) | 0,94 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Psiu Água sem Gás 500 ml | 0,55 | 2010-03-17 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Psiu sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Pureza com gás (mineral 1 L) | 2,56 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Pureza com gás (mineral descartável 1 L) | 2,56 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Pureza sem gás (mineral 1 L) | 2,43 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Pureza sem gás (mineral descartável 1 L) | 2,43 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Pureza Vital (mineral 1,5 L) | 2,54 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Pureza Vital (mineral 510 ml) | 1,33 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Pureza Vital sem gás (mineral 1 L) | 2,67 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Pureza Vital sem gás (mineral 500 ml) | 1,40 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Pureza Vital sem gás (mineral descartável 1 L) | 2,67 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Pureza Vital sem gás (mineral descartável 500 ml) | 1,40 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Puríssima (adicionada de sais descartável 200 ml) | 0,26 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Puríssima (natural 5 L) | 0,48 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Puríssima - 200 ml | 0,26 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Puríssima - 500 ml | 0,48 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Refrigerante Indaiá 2.000 ml | 1,83 | 2007-04-09 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regiina s/gás (500 ml) | 1,00 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Regiina sem gás (350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina (20 L) | 3,52 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Regina c/gás (500 ml) | 1,06 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Regina com gás (1 L) | 2,23 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina com gás (250 a 300 ml) | 0,88 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina com gás (300 ml) | 0,84 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Regina com gás (350 a 450 ml) | 1,11 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina com gás (500 ml) | 1,33 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina com gás (510 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Regina com gás (descartável 1 L) | 2,23 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina s/ gás (1,5 L) | 1,17 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina s/gás (500 ml) | 0,56 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Regina sem gás (1 L) | 2,11 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina sem gás (20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Regina sem gás (200 ml) | 0,29 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina sem gás (500 ml) | 1,37 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina sem gás (510 ml) | 1,30 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Regina sem gás (copo 200 a 300 ml) | 0,59 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina sem gás (descartável 1 L) | 2,11 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regiina s/gás (mineral 500 ml) | 1,00 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regiina sem gás (mineral 350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina (mineral 20 L) | 4,70 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regina (mineral 5 a 6 L) | 3,71 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regina (mineral 5 L) | 3,32 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina c/gás (mineral 500 ml) | 1,06 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regina com gás (mineral 1 L) | 2,23 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina com gás (mineral 250 a 300 ml) | 0,88 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina com gás (mineral 300 ml) | 0,84 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regina com gás (mineral 350 a 450 ml) | 1,11 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina com gás (mineral 500 ml) | 1,33 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina com gás (mineral 510 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regina com gás (mineral descartável 1 L) | 2,23 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina s/ gás (mineral 1,5 L) | 1,17 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina s/gás (mineral 500 ml) | 0,56 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Regina sem gás (mineral 1 L) | 2,11 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina sem gás (mineral 20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regina sem gás (mineral 200 ml) | 0,29 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina sem gás (mineral 500 ml) | 1,37 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina sem gás (mineral 510 ml) | 1,30 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regina sem gás (mineral copo 200 a 300 ml) | 0,59 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina sem gás (mineral descartável 1 L) | 2,11 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Regina sem gás – 5000 ml | 5,05 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Regina – 5.000 ml | 4,80 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | River c/ gás (500 ml) | 0,81 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | River com gás (500 ml) | 0,85 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Saara com gás (500 ml) | 0,65 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Saara com gás (descartável 310 ml) | 0,55 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Saara com gás (descartável 500 ml) | 0,65 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | River c/ gás (mineral 500 ml) | 0,81 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | River com gás (mineral 500 ml) | 0,85 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Saara com gás (mineral 500 ml) | 0,65 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Saara com gás (mineral descartável 310 ml) | 0,55 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Saara com gás (mineral descartável 500 ml) | 0,65 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Saara com gás – 300 ml | 0,55 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Saara sem gás (1 L) | 1,55 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Saara sem gás (350 a 450 ml) | 1,06 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Saara sem gás (500 ml) | 0,70 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Saara sem gás (descartável 1 L) | 1,55 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Saara sem gás (descartável 310 ml) | 0,49 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Saara sem gás (descartável 350 ml) | 1,06 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Saara sem gás (mineral 1 L) | 1,55 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Saara sem gás (mineral 350 a 450 ml) | 1,06 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Saara sem gás (mineral 500 ml) | 0,70 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Saara sem gás (mineral descartável 1 L) | 1,55 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Saara sem gás (mineral descartável 310 ml) | 0,49 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Saara sem gás (mineral descartável 350 ml) | 1,06 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Saara sem gás – 200 ml | 0,45 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Saara sem gás – 300 ml | 0,47 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Saara sem gás – 5.000 ml | 4,31 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | San Sebastian - Copo (descartável 200 ml) | 0,36 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | San Sebastian - Copo (descartável 300 ml) | 0,38 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa Joana com gás (350 a 450 ml) | 0,64 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa Joana com gás (descartável 300 ml) | 0,79 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa Joana com gás (descartável 350 ml) | 1,11 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa Joana com gás (garrafa 250 a 300 ml) | 0,79 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa joana sem gás (1 L) | 1,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa Joana sem gás (350 a 450 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa joana sem gás (descartável 1 L) | 1,63 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa Joana sem gás (descartável 300 ml) | 0,78 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa Joana sem gás (descartável 350 ml) | 1,05 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa Joana sem gás (garrafa 250 a 300 ml) | 0,78 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | San Sebastian - Copo (adicionada de sais descartável 200 ml) | 0,36 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | San Sebastian - Copo (adicionada de sais descartável 300 ml) | 0,38 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa Joana com gás (mineral 350 a 450 ml) | 0,64 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa Joana com gás (mineral descartável 300 ml) | 0,79 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa Joana com gás (mineral descartável 350 ml) | 1,11 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa Joana com gás (mineral garrafa 250 a 300 ml) | 0,79 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa joana sem gás (mineral 1 L) | 1,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa Joana sem gás (mineral 350 a 450 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa joana sem gás (mineral descartável 1 L) | 1,63 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa Joana sem gás (mineral descartável 300 ml) | 0,78 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa Joana sem gás (mineral descartável 350 ml) | 1,05 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa Joana sem gás (mineral garrafa 250 a 300 ml) | 0,78 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Santa Joana sem gás – 200 ml | 0,44 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Santa joana sem gás – 300 ml | 0,45 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Santa mônica s/gás (350 a 450 ml) | 0,72 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Santa mônica sem gás (350 a 450 ml) | 0,76 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Santa Mônica sem gás (500 ml) | 0,81 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Santa Mônica sem gás (descartável 350 ml) | 0,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Brás (1,5 L) | 1,10 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São bras (20 L) | 3,50 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Santa mônica s/gás (mineral 350 a 450 ml) | 0,72 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Santa mônica sem gás (mineral 350 a 450 ml) | 0,76 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Santa Mônica sem gás (mineral 500 ml) | 0,81 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Santa Mônica sem gás (mineral descartável 350 ml) | 0,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Brás (adicionada de sais 1,5 L) | 1,10 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São bras (adicionada de sais 20 L) | 3,50 | 2015-06-01 | não consta das relações completas das Portarias nº 405/2018 (2018-11-23) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | São Brás – 500 ml | 0,68 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | São Braz sem gás (1 L) | 1,91 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Braz sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | São Braz sem gás (350 a 450 ml) | 0,84 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Braz sem gás (descartável 1 L) | 1,91 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Braz sem gás (descartável 350 ml) | 0,84 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Lourenço com gás (500 ml) | 0,94 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Lourenço com gás (510 ml) | 0,89 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | São Lourenço com gás (descartável 500 ml) | 0,94 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Lourenço sem gás (250 a 300 ml) | 1,30 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Lourenço sem gás (300 ml) | 1,24 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | São Lourenço sem gás (500 ml) | 0,85 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | São Lourenço sem gás (510 ml) | 0,81 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | São Lourenço sem gás (descartável 500 ml) | 0,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schin com gás (1 L) | 2,72 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schin com gás (250 a 300 ml) | 1,01 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schin com gás (descartável 1 L) | 2,72 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schin sem gás (1 L) | 2,27 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schin sem gás (250 a 300 ml) | 1,01 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schin sem gás (500 ml) | 1,13 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Schin sem gás (descartável 1 L) | 2,27 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schincariol c/ gás (1 L) | 1,22 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Schincariol c/ gás (1,5 L) | 2,09 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schincariol c/ gás (500 ml) | 1,12 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Schincariol com gás (300 ml) | 0,87 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Schincariol s/ gás (1 L) | 1,12 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Schincariol s/ gás (1,5 L) | 1,97 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Schincariol s/ gás (500 ml) | 1,07 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Schincariol sem gás (300 ml) | 0,83 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Serra Grande com gás (1 L) | 1,77 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande com gás (500 ml) | 1,07 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande com gás (descartável 1 L) | 1,77 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra grande com gás (descartável 300 ml) | 0,84 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande com gás (descartável 500 ml) | 1,07 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra grande com gás (garrafa 250 a 300 ml) | 0,84 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Braz sem gás (mineral 1 L) | 1,91 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Braz sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | São Braz sem gás (mineral 350 a 450 ml) | 0,84 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Braz sem gás (mineral descartável 1 L) | 1,91 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Braz sem gás (mineral descartável 350 ml) | 0,84 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Lourenço com gás (mineral 500 ml) | 0,94 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Lourenço com gás (mineral 510 ml) | 0,89 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | São Lourenço com gás (mineral descartável 500 ml) | 0,94 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Lourenço sem gás (mineral 250 a 300 ml) | 1,30 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Lourenço sem gás (mineral 300 ml) | 1,24 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | São Lourenço sem gás (mineral 500 ml) | 0,85 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | São Lourenço sem gás (mineral 510 ml) | 0,81 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | São Lourenço sem gás (mineral descartável 500 ml) | 0,85 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schin com gás (mineral 1 L) | 2,72 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schin com gás (mineral 250 a 300 ml) | 1,01 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schin com gás (mineral descartável 1 L) | 2,72 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schin sem gás (mineral 1 L) | 2,27 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schin sem gás (mineral 250 a 300 ml) | 1,01 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schin sem gás (mineral 500 ml) | 1,13 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Schin sem gás (mineral descartável 1 L) | 2,27 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schincariol c/ gás (mineral 1 L) | 1,22 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Schincariol c/ gás (mineral 1,5 L) | 2,09 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schincariol c/ gás (mineral 500 ml) | 1,12 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Schincariol com gás (mineral 300 ml) | 0,87 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Schincariol s/ gás (mineral 1 L) | 1,12 | 2011-05-30 | sem atualização desde 2011 e fora da relação completa da Portaria nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Schincariol s/ gás (mineral 1,5 L) | 1,97 | 2015-06-01 | não consta das relações completas das Portarias nº 215/2023 (2023-05-22) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Schincariol s/ gás (mineral 500 ml) | 1,07 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Schincariol sem gás (mineral 300 ml) | 0,83 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Serra Grande com gás (mineral 1 L) | 1,77 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande com gás (mineral 500 ml) | 1,07 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande com gás (mineral descartável 1 L) | 1,77 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra grande com gás (mineral descartável 300 ml) | 0,84 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande com gás (mineral descartável 500 ml) | 1,07 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra grande com gás (mineral garrafa 250 a 300 ml) | 0,84 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Serra Grande com gás – 200ml | 0,58 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande sem gás (1 L) | 1,77 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande sem gás (20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Serra Grande sem gás (500 ml) | 1,06 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande sem gás (descartável 1 L) | 1,77 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande sem gás (descartável 300 ml) | 0,83 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande sem gás (descartável 500 ml) | 1,06 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Serra Grande sem gás (garrafa 250 a 300 ml) | 0,83 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande sem gás (mineral 1 L) | 1,77 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Serra Grande sem gás (mineral 500 ml) | 1,06 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande sem gás (mineral descartável 1 L) | 1,77 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande sem gás (mineral descartável 300 ml) | 0,83 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande sem gás (mineral descartável 500 ml) | 1,06 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Serra Grande sem gás (mineral garrafa 250 a 300 ml) | 0,83 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Serra Grande sem gás – 200 ml | 0,57 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Shin com gás (500 ml) | 1,18 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ster Bom com gás (350 a 450 ml) | 1,05 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ster Bom com gás (descartável 350 ml) | 1,16 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ster Bom sem gás (1 L) | 1,79 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ster Bom sem gás (350 a 450 ml) | 0,89 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Ster Bom sem gás (500 ml) | 0,95 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ster Bom sem gás (descartável 1 L) | 1,79 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ster Bom sem gás (descartável 10 L) | 6,00 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Ster Bom sem gás (descartável 500 ml) | 0,95 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Shin com gás (mineral 500 ml) | 1,18 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ster Bom com gás (mineral 350 a 450 ml) | 1,05 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ster Bom com gás (mineral descartável 350 ml) | 1,16 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ster Bom sem gás (mineral 1 L) | 1,79 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ster Bom sem gás (mineral 350 a 450 ml) | 0,89 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Ster Bom sem gás (mineral 500 ml) | 0,95 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ster Bom sem gás (mineral descartável 1 L) | 1,79 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ster Bom sem gás (mineral descartável 10 L) | 6,00 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Ster Bom sem gás (mineral descartável 500 ml) | 0,95 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Ster Bom sem gás - 200 ml | 0,40 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Ster Bom sem gás – 300 ml | 0,74 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Ster Bom sem gás – 5000 ml | 4,73 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Viena com gás (descartável 330 ml) | 0,74 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Viena levemente gasificada (descartável 330 ml) | 0,34 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Viena sem gás (descartável 330 ml) | 0,69 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | You Happy sem gás (descartável 2 L) | 2,12 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | You! Happy com gás (350 a 450 ml) | 1,43 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | You! Happy com gás (copo 200 a 300 ml) | 0,41 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | You! Happy com gás (descartável 350 ml) | 1,43 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | You! Happy sem gás (350 a 450 ml) | 1,14 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | You! Happy sem gás (500 ml) | 0,59 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | You! Happy sem gás (copo 200 a 300 ml) | 0,32 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | You! Happy sem gás (descartável 350 ml) | 1,14 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Viena com gás (adicionada de sais descartável 330 ml) | 0,74 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Viena com gás – 1.250 ml | 0,95 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Viena com gás – 330 ml | 0,74 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Viena com gás – 510 ml | 0,82 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Viena levemente gasificada (adicionada de sais descartável 330 ml) | 0,34 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Viena levemente gasificada – 1.250 ml | 0,95 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Viena levemente gasificada – 330 ml | 0,34 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Viena levemente gasificada – 510 ml | 0,56 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Viena sabor limão – 510 ml | 0,84 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Viena sem gás (adicionada de sais descartável 330 ml) | 0,69 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Viena sem gás – 1.250 ml | 1,39 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Viena sem gás – 330 ml | 0,69 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Viena sem gás – 510 ml | 0,77 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Vilagua - 20.000 ml | 1,52 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | You Happy sem gás (mineral descartável 2 L) | 2,12 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | You Happy – 5.000 ml | 5,00 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | You! Happy com gás (mineral 350 a 450 ml) | 1,43 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | You! Happy com gás (mineral copo 200 a 300 ml) | 0,41 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | You! Happy com gás (mineral descartável 350 ml) | 1,43 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | You! Happy sem gás (mineral 350 a 450 ml) | 1,14 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | You! Happy sem gás (mineral 500 ml) | 0,59 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | You! Happy sem gás (mineral copo 200 a 300 ml) | 0,32 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | You! Happy sem gás (mineral descartável 350 ml) | 1,14 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | You! Happy sem gás – 250 ml | 0,83 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 
 ## Histórico por item
 
 Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudança de descrição dentro do mesmo código (a SEFAZ reutilizou ou detalhou o código; compare valores com cautela). Links das portarias no fim do arquivo ("Portarias citadas").
 
-### 01 Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 20 Litros R$ 1,50 (código —)
+### 01 Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 20 Litros (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-09-19 (pub.) | 2017-09-14 | alterar | 0,27 |  |  | 01 Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 20 Litros R$ 1,50 | Port. 409/2017 |
+| 2017-09-19 (pub.) | 2017-09-14 | alterar | 1,50 |  |  | 01 Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 20 Litros | Port. 409/2017 |
 
-### 01 Água mineral natural e água natural (todas as marcas) envasadas por estabelecimento localizado no Estado do Maranhão. R$ 0,27 (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2017-10-17 (pub.) | 2017-10-05 | ? | 1,50 |  |  | 01 Água mineral natural e água natural (todas as marcas) envasadas por estabelecimento localizado no Estado do Maranhão. R$ 0,27 | Port. 453/2017 |
-
-### 02 Água adicionada de sais (todas as marcas) envasadas por estabelecimento localizado no R$ 0,18 (código —)
+### 01 Água mineral natural e água natural (todas as marcas) envasadas por estabelecimento localizado no Estado do Maranhão. (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-10-17 (pub.) | 2017-10-05 | ? | 1,00 |  |  | 02 Água adicionada de sais (todas as marcas) envasadas por estabelecimento localizado no R$ 0,18 | Port. 453/2017 |
+| 2017-10-17 (pub.) | 2017-10-05 | ? | 1,50 |  |  | 01 Água mineral natural e água natural (todas as marcas) envasadas por estabelecimento localizado no Estado do Maranhão. | Port. 453/2017 |
 
-### 03 Água mineral natural, natural e adicionada de sais (todas as marcas) envasadas por estabelecimentos localizados em outra Unidade da Federação. R$ 0,75 (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2017-10-17 (pub.) | 2017-10-05 | ? | 4,16 |  |  | 03 Água mineral natural, natural e adicionada de sais (todas as marcas) envasadas por estabelecimentos localizados em outra Unidade da Federação. R$ 0,75 | Port. 453/2017 |
-
-### 03 Água Natural (todas as marcas) envasadas no Estado do Maranhão. 20 Litros R$ 1,00 (código —)
+### 02 Água adicionada de sais (todas as marcas) envasadas por estabelecimento localizado no (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-09-19 (pub.) | 2017-09-14 | alterar | 0,18 |  |  | 03 Água Natural (todas as marcas) envasadas no Estado do Maranhão. 20 Litros R$ 1,00 | Port. 409/2017 |
+| 2017-10-17 (pub.) | 2017-10-05 | ? | 1,00 |  |  | 02 Água adicionada de sais (todas as marcas) envasadas por estabelecimento localizado no | Port. 453/2017 |
 
-### 05 Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 20 Litros R$ 4,17 (código —)
+### 03 Água mineral natural, natural e adicionada de sais (todas as marcas) envasadas por estabelecimentos localizados em outra Unidade da Federação. (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-09-19 (pub.) | 2017-09-14 | alterar | 0,75 |  |  | 05 Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 20 Litros R$ 4,17 | Port. 409/2017 |
+| 2017-10-17 (pub.) | 2017-10-05 | ? | 4,16 |  |  | 03 Água mineral natural, natural e adicionada de sais (todas as marcas) envasadas por estabelecimentos localizados em outra Unidade da Federação. | Port. 453/2017 |
+
+### 03 Água Natural (todas as marcas) envasadas no Estado do Maranhão. 20 Litros (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-09-19 (pub.) | 2017-09-14 | alterar | 1,00 |  |  | 03 Água Natural (todas as marcas) envasadas no Estado do Maranhão. 20 Litros | Port. 409/2017 |
+
+### 05 Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 20 Litros (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-09-19 (pub.) | 2017-09-14 | alterar | 4,17 |  |  | 05 Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 20 Litros | Port. 409/2017 |
 
 ### 3 AGUA DOCE DO MARANHAO 0,0949760 453,80 45.133,86 716,23 (código —)
 
@@ -1323,205 +1353,205 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-21 (pub.) | 2019-08-16 | incluir | 1,79 |  |  | Àgua Mineral Acácia sem gás 1.500 ml | Port. 478/2019 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,33 | +30.2% |  | Acácia sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,46 | +5.6% |  | Acácia sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,33 | +30.2% |  | Acácia sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,46 | +5.6% |  | Acácia sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Acácia sem gás (descartável 5 L) (código 50972)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,17 |  |  | Acácia sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,51 | +5.5% |  | Acácia sem gás (descartável 5 L) | Port. 500/2024 |
-
-### Acácia sem gás (descartável 500 ml) (código 50975)
+### Acácia sem gás (mineral descartável 5 L) (código 50972)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,38 |  |  | Acácia sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,46 | +5.8% |  | Acácia sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,17 |  |  | Acácia sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,51 | +5.5% |  | Acácia sem gás (mineral descartável 5 L) | Port. 500/2024 |
 
-### Acácia sem gás (retornável 20 L) (código 50972)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 |  |  | Acácia sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Acácia sem gás (retornável 20 L) | Port. 500/2024 |
-
-### Acquality com gás (330 ml) (código —)
+### Acácia sem gás (mineral descartável 500 ml) (código 50975)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | Und | Acquality com gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,75 | +21.0% |  | Acquality com gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,85 | +13.3% |  | Acquality com gás (330 ml) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,38 |  |  | Acácia sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,46 | +5.8% |  | Acácia sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Acquality com gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,17 |  |  | Acquality com gás (500 ml) | Port. 405/2018 |
-
-### Acquality com gás (510 ml) (código —)
+### Acácia sem gás (mineral retornável 20 L) (código 50972)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | Und | Acquality com gás (510 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,98 | +32.4% |  | Acquality com gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,11 | +13.3% |  | Acquality com gás (510 ml) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 |  |  | Acácia sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Acácia sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
-### Acquality com gás (descartável 330 ml) (código 12116)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,89 |  |  | Acquality com gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,16 | +30.3% |  | Acquality com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,22 | +5.2% |  | Acquality com gás (descartável 330 ml) | Port. 500/2024 |
-
-### Acquality com gás (descartável 500 ml) (código —)
+### Acquality com gás (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,17 |  |  | Acquality com gás (descartável 500 ml) | Port. 419/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | Und | Acquality com gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,75 | +21.0% |  | Acquality com gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,85 | +13.3% |  | Acquality com gás (mineral 330 ml) | Port. 283/2015 |
 
-### Acquality com gás (descartável 510 ml) (código 12114)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,53 |  |  | Acquality com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,62 | +5.9% |  | Acquality com gás (descartável 510 ml) | Port. 500/2024 |
-
-### Acquality com gás (garrafa 250 a 300 ml) (código —)
+### Acquality com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,89 |  |  | Acquality com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,17 |  |  | Acquality com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Acquality sem gás (1,5 L) (código 12113)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 |  | und | Acquality sem gás (1,5 L) | Port. 220/2011 |
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 | +0.0% | und | Acquality sem gás (1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 | +9.4% |  | Acquality sem gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,44 | +12.5% |  | Acquality sem gás (1,5 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,51 | +4.9% |  | Acquality sem gás (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,97 | +30.5% |  | Acquality sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,08 | +5.6% |  | Acquality sem gás (1,5 L) | Port. 500/2024 |
-
-### Acquality sem gás (200 ml) (código —)
+### Acquality com gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,29 |  | und | Acquality sem gás (200 ml) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | Und | Acquality com gás (mineral 510 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,98 | +32.4% |  | Acquality com gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,11 | +13.3% |  | Acquality com gás (mineral 510 ml) | Port. 283/2015 |
 
-### Acquality sem gás (250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,62 |  |  | Acquality sem gás (250 a 300 ml) | Port. 405/2018 |
-
-### Acquality sem gás (300 ml) (código —)
+### Acquality com gás (mineral descartável 330 ml) (código 12116)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,42 |  | und | Acquality sem gás (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,52 | +23.8% |  | Acquality sem gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,59 | +13.5% |  | Acquality sem gás (300 ml) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,89 |  |  | Acquality com gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,16 | +30.3% |  | Acquality com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,22 | +5.2% |  | Acquality com gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Acquality sem gás (330 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,53 |  | Und | Acquality sem gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +28.3% |  | Acquality sem gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Acquality sem gás (330 ml) | Port. 283/2015 |
-
-### Acquality sem gás (500 ml) (código —)
+### Acquality com gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,24 |  |  | Acquality sem gás (500 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,17 |  |  | Acquality com gás (mineral descartável 500 ml) | Port. 419/2018 |
 
-### Acquality sem gás (510 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | Und | Acquality sem gás (510 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 | +41.9% |  | Acquality sem gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +12.4% |  | Acquality sem gás (510 ml) | Port. 283/2015 |
-
-### Acquality sem gás (copo 200 a 300 ml) (código —)
+### Acquality com gás (mineral descartável 510 ml) (código 12114)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,46 |  |  | Acquality sem gás (copo 200 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,53 |  |  | Acquality com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,62 | +5.9% |  | Acquality com gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Acquality sem gás (copo 200 ml) (código 48277)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,39 |  |  | Acquality sem gás (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,44 | +12.8% |  | Acquality sem gás (copo 200 ml) | Port. 283/2015 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,46 | +4.5% |  | Acquality sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,60 | +30.4% |  | Acquality sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,63 | +5.0% |  | Acquality sem gás (copo 200 ml) | Port. 500/2024 |
-
-### Acquality sem gás (descartável 1,5 L) (código —)
+### Acquality com gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,51 |  |  | Acquality sem gás (descartável 1,5 L) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,89 |  |  | Acquality com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Acquality sem gás (descartável 300 ml) (código 48978)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Acquality sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,62 | -23.5% |  | Acquality sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,81 | +30.6% |  | Acquality sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,86 | +6.2% |  | Acquality sem gás (descartável 300 ml) | Port. 500/2024 |
-
-### Acquality sem gás (descartável 330 ml) (código 12117)
+### Acquality sem gás (mineral 1,5 L) (código 12113)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 |  |  | Acquality sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Acquality sem gás (descartável 330 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 |  | und | Acquality sem gás (mineral 1,5 L) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 | +0.0% | und | Acquality sem gás (mineral 1,5 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 | +9.4% |  | Acquality sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,44 | +12.5% |  | Acquality sem gás (mineral 1,5 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,51 | +4.9% |  | Acquality sem gás (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,97 | +30.5% |  | Acquality sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,08 | +5.6% |  | Acquality sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Acquality sem gás (descartável 500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,24 |  |  | Acquality sem gás (descartável 500 ml) | Port. 419/2018 |
-
-### Acquality sem gás (descartável 510 ml) (código 12115)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,62 |  |  | Acquality sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,71 | +5.6% |  | Acquality sem gás (descartável 510 ml) | Port. 500/2024 |
-
-### Acquality sem gás (garrafa 250 a 300 ml) (código —)
+### Acquality sem gás (mineral 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Acquality sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,29 |  | und | Acquality sem gás (mineral 200 ml) | Port. 220/2011 |
 
-### Acqullity com gás (1,5 L) (código 49708)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,82 |  |  | Acqullity com gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,05 | +12.6% |  | Acqullity com gás (1,5 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,16 | +5.4% |  | Acqullity com gás (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,82 | +30.6% |  | Acqullity com gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,98 | +5.7% |  | Acqullity com gás (1,5 L) | Port. 500/2024 |
-
-### Acqullity com gás (descartável 1,5 L) (código —)
+### Acquality sem gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,16 |  |  | Acqullity com gás (descartável 1,5 L) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,62 |  |  | Acquality sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Acquality sem gás (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,42 |  | und | Acquality sem gás (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,52 | +23.8% |  | Acquality sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,59 | +13.5% |  | Acquality sem gás (mineral 300 ml) | Port. 283/2015 |
+
+### Acquality sem gás (mineral 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,53 |  | Und | Acquality sem gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +28.3% |  | Acquality sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Acquality sem gás (mineral 330 ml) | Port. 283/2015 |
+
+### Acquality sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,24 |  |  | Acquality sem gás (mineral 500 ml) | Port. 405/2018 |
+
+### Acquality sem gás (mineral 510 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | Und | Acquality sem gás (mineral 510 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 | +41.9% |  | Acquality sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +12.4% |  | Acquality sem gás (mineral 510 ml) | Port. 283/2015 |
+
+### Acquality sem gás (mineral copo 200 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,46 |  |  | Acquality sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
+
+### Acquality sem gás (mineral copo 200 ml) (código 48277)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,39 |  |  | Acquality sem gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,44 | +12.8% |  | Acquality sem gás (mineral copo 200 ml) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,46 | +4.5% |  | Acquality sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,60 | +30.4% |  | Acquality sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,63 | +5.0% |  | Acquality sem gás (mineral copo 200 ml) | Port. 500/2024 |
+
+### Acquality sem gás (mineral descartável 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,51 |  |  | Acquality sem gás (mineral descartável 1,5 L) | Port. 419/2018 |
+
+### Acquality sem gás (mineral descartável 300 ml) (código 48978)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Acquality sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,62 | -23.5% |  | Acquality sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,81 | +30.6% |  | Acquality sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,86 | +6.2% |  | Acquality sem gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Acquality sem gás (mineral descartável 330 ml) (código 12117)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 |  |  | Acquality sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Acquality sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Acquality sem gás (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,24 |  |  | Acquality sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Acquality sem gás (mineral descartável 510 ml) (código 12115)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,62 |  |  | Acquality sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,71 | +5.6% |  | Acquality sem gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Acquality sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Acquality sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Acqullity com gás (mineral 1,5 L) (código 49708)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,82 |  |  | Acqullity com gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,05 | +12.6% |  | Acqullity com gás (mineral 1,5 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,16 | +5.4% |  | Acqullity com gás (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,82 | +30.6% |  | Acqullity com gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,98 | +5.7% |  | Acqullity com gás (mineral 1,5 L) | Port. 500/2024 |
+
+### Acqullity com gás (mineral descartável 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,16 |  |  | Acqullity com gás (mineral descartável 1,5 L) | Port. 419/2018 |
 
 ### Água Adiciona de Sais Vitta Sem Gás - Pet 330 ml (código 54476)
 
@@ -1637,7 +1667,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2025-09-02 (pub.) | 2025-08-26 | alterar | 2,07 |  |  | Água Adicionada de Sais Águas do Vale 20.000 ml | Port. 300/2025 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Águas do Vale (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Águas do Vale (adicionada de sais 20 L) | Port. 500/2024 |
+| 2025-09-02 (pub.) | 2025-08-26 | alterar | 2,07 | +0.0% |  | Água Adicionada de Sais Águas do Vale 20.000 ml | Port. 300/2025 |
 
 ### Água Adicionada de Sais Ana Rosa - Copo 200 ml (código —)
 
@@ -1685,19 +1717,25 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2025-09-02 (pub.) | 2025-08-26 | alterar | 2,07 |  |  | Água Adicionada de Sais Bacabal sem gás 20.000 ml | Port. 303/2025 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Bacabal (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Bacabal (adicionada de sais 20 L) | Port. 500/2024 |
+| 2025-09-02 (pub.) | 2025-08-26 | alterar | 2,07 | +0.0% |  | Água Adicionada de Sais Bacabal sem gás 20.000 ml ⚠ | Port. 303/2025 |
 
 ### Água Adicionada de Sais Bacabal sem gás 300 ml (código 51308)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2025-09-02 (pub.) | 2025-08-26 | alterar | 0,58 |  |  | Água Adicionada de Sais Bacabal sem gás 300 ml | Port. 303/2025 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,46 |  |  | Bacabal (adicionada de sais 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,49 | +6.5% |  | Bacabal (adicionada de sais 300 ml) | Port. 500/2024 |
+| 2025-09-02 (pub.) | 2025-08-26 | alterar | 0,58 | +18.4% |  | Água Adicionada de Sais Bacabal sem gás 300 ml ⚠ | Port. 303/2025 |
 
 ### Água Adicionada de Sais Bacabal sem gás 500ml (código 51307)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2025-09-02 (pub.) | 2025-08-26 | alterar | 0,65 |  |  | Água Adicionada de Sais Bacabal sem gás 500ml | Port. 303/2025 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,76 |  |  | Bacabal (adicionada de sais descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,80 | +5.3% |  | Bacabal (adicionada de sais descartável 500 ml) | Port. 500/2024 |
+| 2025-09-02 (pub.) | 2025-08-26 | alterar | 0,65 | -18.8% |  | Água Adicionada de Sais Bacabal sem gás 500ml ⚠ | Port. 303/2025 |
 
 ### Água Adicionada de Sais Benevi com Gás 500 ml (código —)
 
@@ -2264,47 +2302,47 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2005-09-15 (assin.) | 2005-09-15 | incluir | 0,53 |  |  | Agua Gasificada River 500 ml | Port. 466/2005 |
 
-### Água Min Crystal s/ gás copo (250 a 300 ml) (código —)
+### Água Min Crystal s/ gás copo (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Água Min Crystal s/ gás copo (250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Água Min Crystal s/ gás copo (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Água Min Crystal s/ gás copo (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | Água Min Crystal s/ gás copo (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Água Min Crystal s/ gás copo (300 ml) | Port. 283/2015 |
-
-### Água Min Crystal sem gás copo (descartável 300 ml) (código 48359)
+### Água Min Crystal s/ gás copo (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 |  |  | Água Min Crystal sem gás copo (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | Água Min Crystal sem gás copo (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | Água Min Crystal sem gás copo (descartável 300 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | Água Min Crystal s/ gás copo (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Água Min Crystal s/ gás copo (mineral 300 ml) | Port. 283/2015 |
 
-### Água Miner Crystal s/ gás (copo 200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Água Miner Crystal s/ gás (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,47 | +11.9% |  | Água Miner Crystal s/ gás (copo 200 ml) | Port. 283/2015 |
-
-### Água Miner Crystal sem gás (copo 200 a 300 ml) (código —)
+### Água Min Crystal sem gás copo (mineral descartável 300 ml) (código 48359)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,49 |  |  | Água Miner Crystal sem gás (copo 200 a 300 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 |  |  | Água Min Crystal sem gás copo (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | Água Min Crystal sem gás copo (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | Água Min Crystal sem gás copo (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Água Miner Crystal sem gás (copo 200 ml) (código 49752)
+### Água Miner Crystal s/ gás (mineral copo 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,49 |  |  | Água Miner Crystal sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,64 | +30.6% |  | Água Miner Crystal sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,68 | +6.2% |  | Água Miner Crystal sem gás (copo 200 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Água Miner Crystal s/ gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,47 | +11.9% |  | Água Miner Crystal s/ gás (mineral copo 200 ml) | Port. 283/2015 |
+
+### Água Miner Crystal sem gás (mineral copo 200 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,49 |  |  | Água Miner Crystal sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
+
+### Água Miner Crystal sem gás (mineral copo 200 ml) (código 49752)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,49 |  |  | Água Miner Crystal sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,64 | +30.6% |  | Água Miner Crystal sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,68 | +6.2% |  | Água Miner Crystal sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
 ### Água Minera Florata sem gás - descartavel 1.000 ml (código —)
 
@@ -2576,33 +2614,37 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-21 (pub.) | 2019-08-16 | incluir | 1,06 |  |  | Água Mineral Cácia sem gás 500 ml | Port. 478/2019 |
 
-### Agua Mineral Castelo (500 ml) (código —)
+### Agua Mineral Castelo (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,34 |  |  | Agua Mineral Castelo (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,34 |  |  | Agua Mineral Castelo (mineral 500 ml) | Port. 405/2018 |
 
-### Agua Mineral Castelo (510 ml) (código —)
+### Agua Mineral Castelo (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-08-16 (assin.) | 2012-08-16 | incluir | 1,00 |  |  | Água Mineral Castelo 510 ml | Port. 256/2012 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,13 | +13.0% |  | Agua Mineral Castelo (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,27 | +12.4% |  | Agua Mineral Castelo (510 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,13 |  |  | Agua Mineral Castelo (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,27 | +12.4% |  | Agua Mineral Castelo (mineral 510 ml) | Port. 283/2015 |
 
-### Agua Mineral Castelo (copo 200 ml) (código —)
+### Agua Mineral Castelo (mineral copo 200 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,55 |  |  | Agua Mineral Castelo (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,62 | +12.7% |  | Agua Mineral Castelo (mineral copo 200 ml) | Port. 283/2015 |
+
+### Agua Mineral Castelo (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,34 |  |  | Agua Mineral Castelo (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Água Mineral Castelo - copo 200 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2012-08-16 (assin.) | 2012-08-16 | incluir | 0,50 |  |  | Água Mineral Castelo - copo 200 ml | Port. 256/2012 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,55 | +10.0% |  | Agua Mineral Castelo (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,62 | +12.7% |  | Agua Mineral Castelo (copo 200 ml) | Port. 283/2015 |
-
-### Agua Mineral Castelo (descartável 500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,34 |  |  | Agua Mineral Castelo (descartável 500 ml) | Port. 419/2018 |
 
 ### Água Mineral Castelo - Pet 500 ml (código —)
 
@@ -2616,19 +2658,25 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-08-16 (assin.) | 2012-08-16 | incluir | 1,80 |  |  | Água Mineral Castelo 1500 ml | Port. 256/2012 |
 
-### Agua Mineral Castelo sem gás (copo 200 a 300 ml) (código —)
+### Água Mineral Castelo 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,65 |  |  | Agua Mineral Castelo sem gás (copo 200 a 300 ml) | Port. 405/2018 |
+| 2012-08-16 (assin.) | 2012-08-16 | incluir | 1,00 |  |  | Água Mineral Castelo 510 ml | Port. 256/2012 |
 
-### Agua Mineral Castelo sem gás (copo 200 ml) (código 48282)
+### Agua Mineral Castelo sem gás (mineral copo 200 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,65 |  |  | Agua Mineral Castelo sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,85 | +30.8% |  | Agua Mineral Castelo sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,90 | +5.9% |  | Agua Mineral Castelo sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,65 |  |  | Agua Mineral Castelo sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
+
+### Agua Mineral Castelo sem gás (mineral copo 200 ml) (código 48282)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,65 |  |  | Agua Mineral Castelo sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,85 | +30.8% |  | Agua Mineral Castelo sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,90 | +5.9% |  | Agua Mineral Castelo sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
 ### Água Mineral Cocais com gás 300 ml (código —)
 
@@ -2684,19 +2732,19 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 2,49 |  |  | Água Mineral Crystal - Pet 2.000 ml | Port. 443/2018 |
 
-### Água Mineral Crystal c/ gás pet (330 ml) (código —)
+### Água Mineral Crystal c/ gás pet (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 |  |  | Água Mineral Crystal c/ gás pet (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,86 | +13.2% |  | Água Mineral Crystal c/ gás pet (330 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 |  |  | Água Mineral Crystal c/ gás pet (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,86 | +13.2% |  | Água Mineral Crystal c/ gás pet (mineral 330 ml) | Port. 283/2015 |
 
-### Água Mineral Crystal c/gás (500 ml) (código —)
+### Água Mineral Crystal c/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,91 |  |  | Água Mineral Crystal c/gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,03 | +13.2% |  | Água Mineral Crystal c/gás (500 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,91 |  |  | Água Mineral Crystal c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,03 | +13.2% |  | Água Mineral Crystal c/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Mineral Crystal com gás - Pet 350 ml (código —)
 
@@ -2722,38 +2770,38 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-03-08 (assin.) | 2012-03-08 | incluir | 0,57 |  |  | Agua Mineral Crystal com Gas 500ml | Port. 53/2012 |
 
-### Água Mineral Crystal com gás pet (descartável 300 ml) (código —)
+### Água Mineral Crystal com gás pet (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,90 |  |  | Água Mineral Crystal com gás pet (descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,90 |  |  | Água Mineral Crystal com gás pet (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Água Mineral Crystal com gás pet (descartável 330 ml) (código 49757)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,17 |  |  | Água Mineral Crystal com gás pet (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,24 | +6.0% |  | Água Mineral Crystal com gás pet (descartável 330 ml) | Port. 500/2024 |
-
-### Água Mineral Crystal com gás pet (garrafa 250 a 300 ml) (código —)
+### Água Mineral Crystal com gás pet (mineral descartável 330 ml) (código 49757)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,90 |  |  | Água Mineral Crystal com gás pet (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,17 |  |  | Água Mineral Crystal com gás pet (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,24 | +6.0% |  | Água Mineral Crystal com gás pet (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Água Mineral Crystal s/ gás pet (330 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,65 |  |  | Água Mineral Crystal s/ gás pet (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,73 | +12.3% |  | Água Mineral Crystal s/ gás pet (330 ml) | Port. 283/2015 |
-
-### Água Mineral Crystal s/gás (500 ml) (código —)
+### Água Mineral Crystal com gás pet (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,80 |  |  | Água Mineral Crystal s/gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,90 | +12.5% |  | Água Mineral Crystal s/gás (500 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,90 |  |  | Água Mineral Crystal com gás pet (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Água Mineral Crystal s/ gás pet (mineral 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,65 |  |  | Água Mineral Crystal s/ gás pet (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,73 | +12.3% |  | Água Mineral Crystal s/ gás pet (mineral 330 ml) | Port. 283/2015 |
+
+### Água Mineral Crystal s/gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,80 |  |  | Água Mineral Crystal s/gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,90 | +12.5% |  | Água Mineral Crystal s/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Mineral Crystal sem gás - Pet 350 ml (código —)
 
@@ -2791,24 +2839,24 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-03-08 (assin.) | 2012-03-08 | incluir | 0,53 |  |  | Agua Mineral Crystal sem Gas 500ml | Port. 53/2012 |
 
-### Água Mineral Crystal sem gás pet (descartável 300 ml) (código —)
+### Água Mineral Crystal sem gás pet (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,77 |  |  | Água Mineral Crystal sem gás pet (descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,77 |  |  | Água Mineral Crystal sem gás pet (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Água Mineral Crystal sem gás pet (descartável 330 ml) (código 49754)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 |  |  | Água Mineral Crystal sem gás pet (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | Água Mineral Crystal sem gás pet (descartável 330 ml) | Port. 500/2024 |
-
-### Água Mineral Crystal sem gás pet (garrafa 250 a 300 ml) (código —)
+### Água Mineral Crystal sem gás pet (mineral descartável 330 ml) (código 49754)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,77 |  |  | Água Mineral Crystal sem gás pet (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 |  |  | Água Mineral Crystal sem gás pet (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | Água Mineral Crystal sem gás pet (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Água Mineral Crystal sem gás pet (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,77 |  |  | Água Mineral Crystal sem gás pet (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
 ### Água Mineral Dias D’Avila Adicionada de Sais - Pet 1.500 ml (código —)
 
@@ -3054,28 +3102,28 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2023-06-19 (pub.) | 2023-06-07 | alterar | 0,98 |  |  | Água Mineral Florata sem Gás - Pet 510 ml | Port. 278/2023 |
 
-### Água Mineral Imperial c/gás (500 ml) (código —)
+### Água Mineral Imperial c/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | Und | Água Mineral Imperial c/gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +34.9% |  | Água Mineral Imperial c/gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Água Mineral Imperial c/gás (500 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | Und | Água Mineral Imperial c/gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +34.9% |  | Água Mineral Imperial c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Água Mineral Imperial c/gás (mineral 500 ml) | Port. 283/2015 |
 
-### Água Mineral Imperial s/gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | Und | Água Mineral Imperial s/gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 | +28.6% |  | Água Mineral Imperial s/gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | Água Mineral Imperial s/gás (500 ml) | Port. 283/2015 |
-
-### Água mineral indaia + c/gás (500 ml) (código —)
+### Água Mineral Imperial s/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Água mineral indaia + c/gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Água mineral indaia + c/gás (500 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | Und | Água Mineral Imperial s/gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 | +28.6% |  | Água Mineral Imperial s/gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | Água Mineral Imperial s/gás (mineral 500 ml) | Port. 283/2015 |
+
+### Água mineral indaia + c/gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Água mineral indaia + c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Água mineral indaia + c/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Mineral Indaiá 10.000 ml (código —)
 
@@ -3089,11 +3137,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2014-11-18 (pub.) | 2014-11-12 | alterar | 5,50 |  |  | Água Mineral Indaia 20.000 ml | Port. 292/2014 |
 
-### Água Mineral Indaiá com + gás (500 ml) (código —)
+### Água Mineral Indaiá com + gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,88 |  | Und | Água Mineral Indaiá com + gás (500 ml) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,88 |  | Und | Água Mineral Indaiá com + gás (mineral 500 ml) | Port. 220/2011 |
 
 ### Água Mineral Jucá sem gás - Copo 200 ml (código —)
 
@@ -3440,10 +3488,10 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-08-03 (pub.) | 2018-06-31 | alterar | 0,36 |  |  | Água Mineral Mar Doce sem Gás - Copo 200 ml | Port. 277/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,38 | +5.6% |  | Mar doce sem gás (copo 200 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,38 | +5.6% |  | Mar doce sem gás (mineral copo 200 ml) | Port. 419/2018 |
 | 2021-09-13 (pub.) | 2021-09-02 | alterar | 0,48 | +26.3% |  | Água Mineral Mar Doce – Sem Gás - Copo 200 ml | Port. 362/2021 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,50 | +4.2% |  | Mar doce sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,53 | +6.0% |  | Mar doce sem gás (copo 200 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,50 | +4.2% |  | Mar doce sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,53 | +6.0% |  | Mar doce sem gás (mineral copo 200 ml) | Port. 500/2024 |
 | 2026-02-03 (pub.) | 2026-01-29 | alterar | 0,64 | +20.8% |  | Água Mineral Mar Doce Sem Gás- Copo 200 ml | Port. 54/2026 |
 
 ### Àgua Mineral Mar Doce – Com Gás - Pet 330 ml (código —)
@@ -3557,6 +3605,12 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2026-02-12 (pub.) | 2026-02-05 | incluir | 5,78 |  |  | Água Mineral Natural Donamana sem Gás 20.000 ml | Port. 66/2026 |
 
+### Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 10 Litros (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-09-19 (pub.) | 2017-09-14 | alterar | 1,39 |  |  | Água Mineral Natural e Água Adicionada de Sais (todas as marcas) envasadas no Estado do Maranhão. 10 Litros | Port. 409/2017 |
+
 ### Água mineral Natural Minalba Premium Emb. de vidro com 300ml – Gaseificada Artificialmente (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -3604,6 +3658,12 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-03-26 (pub.) | 2018-03-23 | incluir | 1,00 |  |  | Água Mineral Natural Psiu com Gás 500 ml | Port. 105/2018 |
+
+### Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 10 Litros (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-09-19 (pub.) | 2017-09-14 | alterar | 3,89 |  |  | Água Mineral Natural, Adicionada de Sais e Água Natural (todas as marcas) envasadas em outras unidades da Federação. 10 Litros | Port. 409/2017 |
 
 ### Água Mineral Ouro da Mina com Gás - Vidro 330 ml (código —)
 
@@ -4144,8 +4204,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | You! Happy com gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | You! Happy com gás (500 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | You! Happy com gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | You! Happy com gás (mineral 500 ml) | Port. 283/2015 |
 | 2016-07-15 (pub.) | 2016-07-11 | incluir | 1,36 | +126.7% |  | Água Mineral You Happy com gás 500 ml | Port. 266/2016 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,47 | +8.1% |  | Água Mineral You Happy com gás 500 ml | Port. 382/2021 |
 | 2022-10-03 (pub.) | 2022-09-27 | alterar | 2,32 | +57.8% |  | Água Mineral You Happy com Gás 500 ml | Port. 518/2022 |
@@ -4201,12 +4261,23 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2022-10-03 (pub.) | 2022-09-27 | alterar | 1,20 | +11.1% |  | Água Mineral You Happy sem Gás 500 ml | Port. 518/2022 |
 | 2023-04-19 (pub.) | 2023-04-13 | alterar | 1,26 | +5.0% |  | Àgua Mineral You Happy Sem Gas 500 ml | Port. 159/2023 |
 
-### Água Natural Psiu (330 ml) (código —)
+### Água Natural (todas as marcas) envasadas no Estado do Maranhão. 10 Litros (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-09-19 (pub.) | 2017-09-14 | alterar | 0,83 |  |  | Água Natural (todas as marcas) envasadas no Estado do Maranhão. 10 Litros | Port. 409/2017 |
+
+### Água Natural Psiu (mineral 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,66 |  |  | Água Natural Psiu (mineral 330 ml) | Port. 283/2015 |
+
+### Água Natural Psiu 330 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-01-17 (assin.) | 2013-01-17 | incluir | 0,60 |  |  | Água Natural Psiu 330 ml | Port. 14/2013 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,66 | +10.0% |  | Água Natural Psiu (330 ml) | Port. 283/2015 |
 
 ### Água Natural Vilagua 20.000 ml (código —)
 
@@ -4221,18 +4292,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2007-04-23 (pub.) | 2007-04-15 | incluir | 0,90 |  |  | Água Saborizada Aquarius 450 ml | Port. 225/2007 |
 
-### Água Saborizada Aquarius c/gás (350 a 450 ml) (código —)
+### Água Saborizada Aquarius c/gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,96 |  | und | Água Saborizada Aquarius c/gás (350 a 450 ml) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,96 |  | und | Água Saborizada Aquarius c/gás (mineral 350 a 450 ml) | Port. 220/2011 |
 
-### Àgua Saborizada Aquarius c/gás (500 ml) (código —)
+### Àgua Saborizada Aquarius c/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 |  |  | Àgua Saborizada Aquarius c/gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +12.4% |  | Àgua Saborizada Aquarius c/gás (500 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 |  |  | Àgua Saborizada Aquarius c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +12.4% |  | Àgua Saborizada Aquarius c/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Saborizada Aquarius c/gás 450 ml (código —)
 
@@ -4240,24 +4311,24 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2007-06-09 (assin.) | 2007-06-09 | incluir | 0,94 |  |  | Água Saborizada Aquarius c/gás 450 ml | Port. 446/2007 |
 
-### Àgua Saborizada Aquarius com gás (350 a 450 ml) (código —)
+### Àgua Saborizada Aquarius com gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,24 |  |  | Àgua Saborizada Aquarius com gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,24 |  |  | Àgua Saborizada Aquarius com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Àgua Saborizada Aquarius com gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,24 |  |  | Àgua Saborizada Aquarius com gás (descartável 350 ml) | Port. 419/2018 |
-
-### Àgua Saborizada Aquarius com gás (descartável 500 ml) (código 48322)
+### Àgua Saborizada Aquarius com gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,62 |  |  | Àgua Saborizada Aquarius com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,71 | +5.6% |  | Àgua Saborizada Aquarius com gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,24 |  |  | Àgua Saborizada Aquarius com gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Àgua Saborizada Aquarius com gás (mineral descartável 500 ml) (código 48322)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,62 |  |  | Àgua Saborizada Aquarius com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,71 | +5.6% |  | Àgua Saborizada Aquarius com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
 ### Água Saborizada Aquarius Fresh c/gás 1.500 ml (código —)
 
@@ -4348,84 +4419,77 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-08-22 (assin.) | 2017-08-22 | alterar | 0,73 |  |  | Água Viena Adicionada de Sais Sem Gás 510 ml | Port. 381/2017 |
 | 2018-07-20 (pub.) | 2018-07-17 | alterar | 0,73 | +0.0% |  | Água Viena Adicionada de Sais Sem Gás 510 ml | Port. 259/2018 |
 
-### Águas do Vale (20 L) (código 50525)
+### Aguas Prata Active sem gás (mineral descartável 600 ml) (código 50983)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Águas do Vale (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Águas do Vale (20 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Aguas Prata Active sem gás (mineral descartável 600 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Aguas Prata Active sem gás (mineral descartável 600 ml) | Port. 500/2024 |
 
-### Aguas Prata Active sem gás (descartável 600 ml) (código 50983)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Aguas Prata Active sem gás (descartável 600 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Aguas Prata Active sem gás (descartável 600 ml) | Port. 500/2024 |
-
-### Aguas Prata com gás (1,5 L) (código 50976)
+### Aguas Prata com gás (mineral 1,5 L) (código 50976)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,26 |  |  | Aguas Prata com gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,44 | +5.5% |  | Aguas Prata com gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,26 |  |  | Aguas Prata com gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,44 | +5.5% |  | Aguas Prata com gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Aguas Prata com gás (descartável 510 ml) (código 50977)
+### Aguas Prata com gás (mineral descartável 510 ml) (código 50977)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Aguas Prata com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Aguas Prata com gás (descartável 510 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Aguas Prata com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Aguas Prata com gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Aguas Prata com gás - Vidro (descartável 300 ml) (código 50979)
+### Aguas Prata com gás - Vidro (mineral descartável 300 ml) (código 50979)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 1,40 |  |  | Água Mineral Águas Prata com gás – Vidro Descartavel 300 ml | Port. 495/2019 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 | +30.7% |  | Aguas Prata com gás - Vidro (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Aguas Prata com gás - Vidro (descartável 300 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 | +30.7% |  | Aguas Prata com gás - Vidro (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Aguas Prata com gás - Vidro (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Aguas Prata com gás – Garrafa Pet (copo 310 ml) (código 50978)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,56 |  |  | Aguas Prata com gás – Garrafa Pet (copo 310 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,65 | +5.8% |  | Aguas Prata com gás – Garrafa Pet (copo 310 ml) | Port. 500/2024 |
-
-### Aguas Prata sem gás (1,5 L) (código 50982)
+### Aguas Prata com gás – Garrafa Pet (mineral copo 310 ml) (código 50978)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 |  |  | Aguas Prata sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Aguas Prata sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,56 |  |  | Aguas Prata com gás – Garrafa Pet (mineral copo 310 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,65 | +5.8% |  | Aguas Prata com gás – Garrafa Pet (mineral copo 310 ml) | Port. 500/2024 |
 
-### Aguas prata sem gás (copo 200 ml) (código 50987)
+### Aguas Prata sem gás (mineral 1,5 L) (código 50982)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 |  |  | Aguas Prata sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Aguas Prata sem gás (mineral 1,5 L) | Port. 500/2024 |
+
+### Aguas prata sem gás (mineral copo 200 ml) (código 50987)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 0,60 |  |  | Água Mineral Águas Prata sem gás - Copo 200 ml | Port. 495/2019 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,78 | +30.0% |  | Aguas prata sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,82 | +5.1% |  | Aguas prata sem gás (copo 200 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,78 | +30.0% |  | Aguas prata sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,82 | +5.1% |  | Aguas prata sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
-### Aguas Prata sem gás (copo 310 ml) (código 50985)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,56 |  |  | Aguas Prata sem gás (copo 310 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,65 | +5.8% |  | Aguas Prata sem gás (copo 310 ml) | Port. 500/2024 |
-
-### Aguas Prata sem gás (descartável 5 L) (código 50980)
+### Aguas Prata sem gás (mineral copo 310 ml) (código 50985)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,17 |  |  | Aguas Prata sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 7,57 | +5.6% |  | Aguas Prata sem gás (descartável 5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,56 |  |  | Aguas Prata sem gás (mineral copo 310 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,65 | +5.8% |  | Aguas Prata sem gás (mineral copo 310 ml) | Port. 500/2024 |
 
-### Aguas Prata sem gás (descartável 510 ml) (código 50984)
+### Aguas Prata sem gás (mineral descartável 5 L) (código 50980)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Aguas Prata sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Aguas Prata sem gás (descartável 510 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,17 |  |  | Aguas Prata sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 7,57 | +5.6% |  | Aguas Prata sem gás (mineral descartável 5 L) | Port. 500/2024 |
+
+### Aguas Prata sem gás (mineral descartável 510 ml) (código 50984)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Aguas Prata sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Aguas Prata sem gás (mineral descartável 510 ml) | Port. 500/2024 |
 
 ### Aguas Prata sem gás – 2.500 ml (código 50981)
 
@@ -4434,26 +4498,26 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,91 |  |  | Aguas Prata sem gás – 2.500 ml | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,13 | +5.6% |  | Aguas Prata sem gás – 2.500 ml | Port. 500/2024 |
 
-### Aguas Prata sem gás – Vidro (descartável 300 ml) (código 50986)
+### Aguas Prata sem gás – Vidro (mineral descartável 300 ml) (código 50986)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 1,40 |  |  | Água Mineral Águas Prata sem gás – Vidro Descartavel 300 ml | Port. 495/2019 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 | +30.7% |  | Aguas Prata sem gás – Vidro (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Aguas Prata sem gás – Vidro (descartável 300 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 | +30.7% |  | Aguas Prata sem gás – Vidro (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Aguas Prata sem gás – Vidro (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Águs Saborizada Aquarias c/gás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,35 |  |  | Águs Saborizada Aquarias c/gás (350 a 450 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,52 | +12.6% |  | Águs Saborizada Aquarias c/gás (350 a 450 ml) | Port. 283/2015 |
-
-### Águs Saborizada Aquarias com gás (350 a 450 ml) (código —)
+### Águs Saborizada Aquarias c/gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,60 |  |  | Águs Saborizada Aquarias com gás (350 a 450 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,35 |  |  | Águs Saborizada Aquarias c/gás (mineral 350 a 450 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,52 | +12.6% |  | Águs Saborizada Aquarias c/gás (mineral 350 a 450 ml) | Port. 283/2015 |
+
+### Águs Saborizada Aquarias com gás (mineral 350 a 450 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,60 |  |  | Águs Saborizada Aquarias com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
 ### amarão seco de água doce (código —)
 
@@ -4479,129 +4543,154 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2015-03-30 (assin.) | 2015-03-30 | alterar | 7,59 |  | kg | amarão seco de água salgada - pequeno | Port. 195/2015 |
 
-### Ana Rosa (1,5 L) (código 47864)
+### Ana Rosa (adicionada de sais 1,5 L) (código 47864)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,80 |  |  | Ana Rosa (1,5 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 | -35.6% |  | Ana Rosa (1250 a 1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 | +30.2% |  | Ana Rosa (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 | +5.3% |  | Ana Rosa (1,5 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 |  |  | Ana Rosa (adicionada de sais 1250 a 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 | +30.2% |  | Ana Rosa (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 | +5.3% |  | Ana Rosa (adicionada de sais 1,5 L) | Port. 500/2024 |
 
-### Ana Rosa (20 L) (código 47863)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,70 |  |  | Ana Rosa (20 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,30 | -8.5% |  | Ana Rosa (5 a 20 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -65.1% |  | Ana Rosa (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Ana Rosa (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Ana Rosa (20 L) | Port. 500/2024 |
-
-### Ana Rosa (5 L) (código —)
+### Ana Rosa (adicionada de sais 20 L) (código 47863)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,72 |  |  | Ana Rosa (5 L) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,30 |  |  | Ana Rosa (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -65.1% |  | Ana Rosa (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Ana Rosa (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Ana Rosa (adicionada de sais 20 L) | Port. 500/2024 |
 
-### Ana Rosa (descartável 1250 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 |  |  | Ana Rosa (descartável 1250 ml) | Port. 419/2018 |
-
-### Ana Rosa (descartável 500 ml) (código 47865)
+### Ana Rosa (adicionada de sais descartável 1250 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,94 |  |  | Ana Rosa (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,99 | +5.3% |  | Ana Rosa (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 |  |  | Ana Rosa (adicionada de sais descartável 1250 ml) | Port. 419/2018 |
 
-### Ana Rosa sem gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,68 |  |  | Ana Rosa sem gás (1 L) | Port. 405/2018 |
-
-### Ana Rosa sem gás (1,5 L) (código 47864)
+### Ana Rosa (adicionada de sais descartável 500 ml) (código 47865)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,19 |  |  | Ana Rosa sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,31 | +5.5% |  | Ana Rosa sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,94 |  |  | Ana Rosa (adicionada de sais descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,99 | +5.3% |  | Ana Rosa (adicionada de sais descartável 500 ml) | Port. 500/2024 |
 
-### Ana Rosa sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Ana Rosa sem gás (20 L) | Port. 405/2018 |
-
-### Ana Rosa sem gás (350 a 450 ml) (código —)
+### Ana Rosa (mineral 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,58 |  |  | Ana Rosa sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,80 |  |  | Ana Rosa (mineral 1,5 L) | Port. 283/2015 |
 
-### Ana Rosa sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,68 |  |  | Ana Rosa sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Ana Rosa sem gás (descartável 350 ml) (código —)
+### Ana Rosa (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,58 |  |  | Ana Rosa sem gás (descartável 350 ml) | Port. 419/2018 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,70 |  |  | Ana Rosa (mineral 20 L) | Port. 283/2015 |
 
-### Ana Rosa sem gás (descartável 500 ml) (código 49845)
+### Ana Rosa (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,76 |  |  | Ana Rosa sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,80 | +5.3% |  | Ana Rosa sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,98 |  |  | Ana Rosa (mineral 500 ml) | Port. 283/2015 |
+
+### Ana Rosa (natural 5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,72 |  |  | Ana Rosa (natural 5 L) | Port. 419/2018 |
+
+### Ana Rosa sem gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,68 |  |  | Ana Rosa sem gás (mineral 1 L) | Port. 405/2018 |
+
+### Ana Rosa sem gás (mineral 1,5 L) (código 47864)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,19 |  |  | Ana Rosa sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,31 | +5.5% |  | Ana Rosa sem gás (mineral 1,5 L) | Port. 500/2024 |
+
+### Ana Rosa sem gás (mineral 20 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Ana Rosa sem gás (mineral 20 L) | Port. 405/2018 |
+
+### Ana Rosa sem gás (mineral 350 a 450 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,58 |  |  | Ana Rosa sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
+
+### Ana Rosa sem gás (mineral descartável 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,68 |  |  | Ana Rosa sem gás (mineral descartável 1 L) | Port. 419/2018 |
+
+### Ana Rosa sem gás (mineral descartável 350 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,58 |  |  | Ana Rosa sem gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Ana Rosa sem gás (mineral descartável 500 ml) (código 49845)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,76 |  |  | Ana Rosa sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,80 | +5.3% |  | Ana Rosa sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
 ### Ana Rosa – 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,98 |  |  | Ana Rosa (500 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,72 | -26.5% |  | Ana Rosa – 500 ml | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,72 |  |  | Ana Rosa – 500 ml | Port. 405/2018 |
 
-### Areia Branca (20 L) (código 50502)
+### Areia Branca (adicionada de sais 20 L) (código 50502)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Areia Branca (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Areia Branca (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Areia Branca (20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Areia Branca (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Areia Branca (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Areia Branca (adicionada de sais 20 L) | Port. 500/2024 |
+
+### Azul (adicionada de sais 1,5 L) (código 50026)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 |  |  | Azul (adicionada de sais 1250 a 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 | +30.7% |  | Azul (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Azul (adicionada de sais 1,5 L) | Port. 500/2024 |
+
+### Azul (adicionada de sais 20 L) (código 50025)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,30 |  |  | Azul (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 | -2.3% |  | Azul (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Azul (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Azul (adicionada de sais 20 L) | Port. 500/2024 |
+
+### Azul (adicionada de sais 510 ml) (código 50027)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,77 |  |  | Azul (adicionada de sais 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 | +29.9% |  | Azul (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | Azul (adicionada de sais 510 ml) | Port. 500/2024 |
+
+### Azul (adicionada de sais descartável 1250 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 |  |  | Azul (adicionada de sais descartável 1250 ml) | Port. 419/2018 |
 
 ### Azul – 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,77 |  |  | Azul – 510 ml | Port. 405/2018 |
-
-### Bacabal (20 L) (código 51306)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Bacabal (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Bacabal (20 L) | Port. 500/2024 |
-
-### Bacabal (300 ml) (código 51308)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,46 |  |  | Bacabal (300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,49 | +6.5% |  | Bacabal (300 ml) | Port. 500/2024 |
-
-### Bacabal (descartável 500 ml) (código 51307)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,76 |  |  | Bacabal (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,80 | +5.3% |  | Bacabal (descartável 500 ml) | Port. 500/2024 |
 
 ### Banana D’agua (código 52181)
 
@@ -4618,122 +4707,122 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2021-11-25 (pub.) | 2021-11-19 | alterar | 5,04 |  |  | Bebida Mista Tampico Uva - Pet 1.000 ml | Port. 516/2021 |
 
-### Bela Vista (20 L) (código 50503)
+### Bela Vista (adicionada de sais 20 L) (código 50503)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Bela Vista (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Bela Vista (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Bela Vista (20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Bela Vista (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Bela Vista (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Bela Vista (adicionada de sais 20 L) | Port. 500/2024 |
 
-### Belágua (1,5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,23 |  | und | Belágua (1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,39 | +13.0% |  | Belágua (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,57 | +12.9% |  | Belágua (1,5 L) | Port. 283/2015 |
-
-### Belágua (20 L) (código —)
+### Belágua (mineral 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,85 |  | und | Belágua (20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,88 | +0.8% |  | Belágua (20 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,38 | +12.9% |  | Belágua (20 L) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,23 |  | und | Belágua (mineral 1,5 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,39 | +13.0% |  | Belágua (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,57 | +12.9% |  | Belágua (mineral 1,5 L) | Port. 283/2015 |
 
-### Belágua (5 a 6 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,57 |  |  | Belágua (5 a 6 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,03 | +12.9% |  | Belágua (5 a 6 L) | Port. 283/2015 |
-
-### Belágua (5 L) (código —)
+### Belágua (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Belágua (5 L) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,85 |  | und | Belágua (mineral 20 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,88 | +0.8% |  | Belágua (mineral 20 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,38 | +12.9% |  | Belágua (mineral 20 L) | Port. 283/2015 |
 
-### Belágua (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | und | Belágua (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +34.9% |  | Belágua (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Belágua (500 ml) | Port. 283/2015 |
-
-### Belágua sem gás (1,5 L) (código 48120)
+### Belágua (mineral 5 a 6 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,65 |  |  | Belágua sem gás (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,15 | +30.3% |  | Belágua sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,27 | +5.6% |  | Belágua sem gás (1,5 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,57 |  |  | Belágua (mineral 5 a 6 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,03 | +12.9% |  | Belágua (mineral 5 a 6 L) | Port. 283/2015 |
 
-### Belágua sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Belágua sem gás (20 L) | Port. 405/2018 |
-
-### Belágua sem gás (250 a 300 ml) (código —)
+### Belágua (mineral 5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,73 |  |  | Belágua sem gás (250 a 300 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Belágua (mineral 5 L) | Port. 220/2011 |
 
-### Belágua sem gás (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,47 |  | und | Belágua sem gás (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,61 | +29.8% |  | Belágua sem gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,69 | +13.1% |  | Belágua sem gás (300 ml) | Port. 283/2015 |
-
-### Belágua sem gás (500 ml) (código —)
+### Belágua (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Belágua sem gás (500 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | und | Belágua (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +34.9% |  | Belágua (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Belágua (mineral 500 ml) | Port. 283/2015 |
 
-### Belágua sem gás (descartável 1,5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,65 |  |  | Belágua sem gás (descartável 1,5 L) | Port. 419/2018 |
-
-### Belágua sem gás (descartável 300 ml) (código 48132)
+### Belágua sem gás (mineral 1,5 L) (código 48120)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,73 |  |  | Belágua sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,95 | +30.1% |  | Belágua sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,00 | +5.3% |  | Belágua sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,65 |  |  | Belágua sem gás (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,15 | +30.3% |  | Belágua sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,27 | +5.6% |  | Belágua sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Belágua sem gás (descartável 5 L) (código 48136)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,24 |  |  | Belágua sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,53 | +30.4% |  | Belágua sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,84 | +5.6% |  | Belágua sem gás (descartável 5 L) | Port. 500/2024 |
-
-### Belágua sem gás (descartável 500 ml) (código 48133)
+### Belágua sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Belágua sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Belágua sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Belágua sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Belágua sem gás (mineral 20 L) | Port. 405/2018 |
 
-### Belágua sem gás (retornável 20 L) (código 48327)
+### Belágua sem gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Belágua sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Belágua sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Belágua sem gás (retornável 20 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,73 |  |  | Belágua sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Belágua sem gás (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,47 |  | und | Belágua sem gás (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,61 | +29.8% |  | Belágua sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,69 | +13.1% |  | Belágua sem gás (mineral 300 ml) | Port. 283/2015 |
+
+### Belágua sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Belágua sem gás (mineral 500 ml) | Port. 405/2018 |
+
+### Belágua sem gás (mineral descartável 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,65 |  |  | Belágua sem gás (mineral descartável 1,5 L) | Port. 419/2018 |
+
+### Belágua sem gás (mineral descartável 300 ml) (código 48132)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,73 |  |  | Belágua sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,95 | +30.1% |  | Belágua sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,00 | +5.3% |  | Belágua sem gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Belágua sem gás (mineral descartável 5 L) (código 48136)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,24 |  |  | Belágua sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,53 | +30.4% |  | Belágua sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,84 | +5.6% |  | Belágua sem gás (mineral descartável 5 L) | Port. 500/2024 |
+
+### Belágua sem gás (mineral descartável 500 ml) (código 48133)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Belágua sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Belágua sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Belágua sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Belágua sem gás (mineral retornável 20 L) (código 48327)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Belágua sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Belágua sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Belágua sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Belágua sem gás – 5000 ml (código —)
 
@@ -4741,211 +4830,216 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,24 |  |  | Belágua sem gás – 5000 ml | Port. 405/2018 |
 
-### Bioleve com gás (copo 310 ml) (código 48380)
+### Bioleve com gás (mineral copo 310 ml) (código 48380)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,15 |  |  | Bioleve com gás (copo 310 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,50 | +30.4% |  | Bioleve com gás (copo 310 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,58 | +5.3% |  | Bioleve com gás (copo 310 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,15 |  |  | Bioleve com gás (mineral copo 310 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,50 | +30.4% |  | Bioleve com gás (mineral copo 310 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,58 | +5.3% |  | Bioleve com gás (mineral copo 310 ml) | Port. 500/2024 |
 
-### Bioleve sem gás (descartável 510 ml) (código 48072)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,56 |  |  | Bioleve sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,65 | +5.8% |  | Bioleve sem gás (descartável 510 ml) | Port. 500/2024 |
-
-### Boa Viagem (retornável 20 L) (código —)
+### Bioleve sem gás (mineral descartável 510 ml) (código 48072)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Boa Viagem (retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,56 |  |  | Bioleve sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,65 | +5.8% |  | Bioleve sem gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Boa Viagem sem gás (retornável 20 L) (código 48276)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Boa Viagem sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Boa Viagem sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Boa Viagem sem gás (retornável 20 L) | Port. 500/2024 |
-
-### Campanágua (1,5 L) (código 48214)
+### Boa Viagem (mineral retornável 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 |  |  | Campanágua (1,5 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 | +5.4% |  | Campanágua (1250 a 1,5 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 | +0.0% |  | Campanágua (1,5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 | +30.7% |  | Campanágua (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Campanágua (1,5 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Boa Viagem (mineral retornável 20 L) | Port. 419/2018 |
 
-### Campanágua (20 L) (código 48139)
+### Boa Viagem sem gás (mineral retornável 20 L) (código 48276)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,89 |  |  | Campanágua (20 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,30 | +10.5% |  | Campanágua (5 a 20 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 | -2.3% |  | Campanágua (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Campanágua (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Campanágua (20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Boa Viagem sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Boa Viagem sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Boa Viagem sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
-### Campanágua (510 ml) (código 48215)
+### Campanágua (adicionada de sais 1,5 L) (código 48214)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 |  |  | Campanágua (adicionada de sais 1,5 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 | +5.4% |  | Campanágua (adicionada de sais 1250 a 1,5 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 | +0.0% |  | Campanágua (adicionada de sais 1,5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 | +30.7% |  | Campanágua (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Campanágua (adicionada de sais 1,5 L) | Port. 500/2024 |
+
+### Campanágua (adicionada de sais 20 L) (código 48139)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,89 |  |  | Campanágua (adicionada de sais 20 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,30 | +10.5% |  | Campanágua (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 | -2.3% |  | Campanágua (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Campanágua (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Campanágua (adicionada de sais 20 L) | Port. 500/2024 |
+
+### Campanágua (adicionada de sais 510 ml) (código 48215)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,77 |  |  | Campanágua (adicionada de sais 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 | +29.9% |  | Campanágua (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | Campanágua (adicionada de sais 510 ml) | Port. 500/2024 |
+
+### Campanágua – 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,73 |  |  | Campanágua – 510 ml | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,77 | +5.5% |  | Campanágua – 510 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,77 | +0.0% |  | Campanágua (510 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 | +29.9% |  | Campanágua (510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | Campanágua (510 ml) | Port. 500/2024 |
 
-### Castelo (descartável 510 ml) (código 12063)
+### Castelo (mineral descartável 510 ml) (código 12063)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,75 |  |  | Castelo (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,85 | +5.7% |  | Castelo (descartável 510 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,75 |  |  | Castelo (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,85 | +5.7% |  | Castelo (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Castelo sem gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,28 |  |  | Castelo sem gás (1 L) | Port. 405/2018 |
-
-### Castelo sem gás (1,5 L) (código 12057)
+### Castelo sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,92 |  |  | Castelo sem gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,17 | +13.0% |  | Castelo sem gás (1,5 L) | Port. 283/2015 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,97 | +36.9% |  | Castelo sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,14 | +5.7% |  | Castelo sem gás (1,5 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,28 |  |  | Castelo sem gás (mineral 1 L) | Port. 405/2018 |
 
-### Castelo sem gás (350 a 450 ml) (código —)
+### Castelo sem gás (mineral 1,5 L) (código 12057)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 |  |  | Castelo sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,92 |  |  | Castelo sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,17 | +13.0% |  | Castelo sem gás (mineral 1,5 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,97 | +36.9% |  | Castelo sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,14 | +5.7% |  | Castelo sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Castelo sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,28 |  |  | Castelo sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Castelo sem gás (descartável 350 ml) (código —)
+### Castelo sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | Castelo sem gás (descartável 350 ml) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 |  |  | Castelo sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Castelo sem gás (descartável 500 ml) (código 48973)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 |  |  | Castelo sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | Castelo sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### Chapagua (20 L) (código 50499)
+### Castelo sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Chapagua (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Chapagua (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Chapagua (20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,28 |  |  | Castelo sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Clube Soda Crisstalina com gás (600 ml) (código —)
+### Castelo sem gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,19 |  |  | Clube Soda Crisstalina com gás (600 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,34 | +12.6% |  | Clube Soda Crisstalina com gás (600 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,41 | +5.2% |  | Clube Soda Crisstalina com gás (600 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | Castelo sem gás (mineral descartável 350 ml) | Port. 419/2018 |
 
-### Clube Soda Cristalina com gás (descartável 600 ml) (código 49881)
+### Castelo sem gás (mineral descartável 500 ml) (código 48973)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,41 |  |  | Clube Soda Cristalina com gás (descartável 600 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,84 | +30.5% |  | Clube Soda Cristalina com gás (descartável 600 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,94 | +5.4% |  | Clube Soda Cristalina com gás (descartável 600 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 |  |  | Castelo sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | Castelo sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### cocais com gás (250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | cocais com gás (250 a 300 ml) | Port. 405/2018 |
-
-### Cocais com gás (500 ml) (código —)
+### Chapagua (adicionada de sais 20 L) (código 50499)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 |  |  | Cocais com gás (500 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Chapagua (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Chapagua (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Chapagua (adicionada de sais 20 L) | Port. 500/2024 |
 
-### cocais com gás (descartável 300 ml) (código 47971)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 |  |  | cocais com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | cocais com gás (descartável 300 ml) | Port. 500/2024 |
-
-### cocais com gás (descartável 310 ml) (código —)
+### Clube Soda Crisstalina com gás (mineral 600 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | cocais com gás (descartável 310 ml) | Port. 419/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,19 |  |  | Clube Soda Crisstalina com gás (mineral 600 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,34 | +12.6% |  | Clube Soda Crisstalina com gás (mineral 600 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,41 | +5.2% |  | Clube Soda Crisstalina com gás (mineral 600 ml) | Port. 405/2018 |
 
-### Cocais com gás (descartável 500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 |  |  | Cocais com gás (descartável 500 ml) | Port. 419/2018 |
-
-### Cocais com gás (descartável 510 ml) (código 47968)
+### Clube Soda Cristalina com gás (mineral descartável 600 ml) (código 49881)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 |  |  | Cocais com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Cocais com gás (descartável 510 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,41 |  |  | Clube Soda Cristalina com gás (mineral descartável 600 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,84 | +30.5% |  | Clube Soda Cristalina com gás (mineral descartável 600 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,94 | +5.4% |  | Clube Soda Cristalina com gás (mineral descartável 600 ml) | Port. 500/2024 |
 
-### Cocais sem gás (1 L) (código —)
+### cocais com gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,89 |  |  | Cocais sem gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | cocais com gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Cocais com gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 |  |  | Cocais com gás (mineral 500 ml) | Port. 405/2018 |
+
+### cocais com gás (mineral descartável 300 ml) (código 47971)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 |  |  | cocais com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | cocais com gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### cocais com gás (mineral descartável 310 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | cocais com gás (mineral descartável 310 ml) | Port. 419/2018 |
+
+### Cocais com gás (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 |  |  | Cocais com gás (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Cocais com gás (mineral descartável 510 ml) (código 47968)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 |  |  | Cocais com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Cocais com gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Cocais sem gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,89 |  |  | Cocais sem gás (mineral 1 L) | Port. 405/2018 |
 
 ### Água Mineral Cocais sem gás 1.500 ml (código 47967)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2017-02-10 (pub.) | 2017-02-06 | incluir | 1,80 |  |  | Água Mineral Cocais sem gás 1.500 ml | Port. 69/2017 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,46 | +36.7% |  | Cocais sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,60 | +5.7% |  | Cocais sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,46 | +36.7% |  | Cocais sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,60 | +5.7% |  | Cocais sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Cocais sem gás (10 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,00 |  |  | Cocais sem gás (10 L) | Port. 405/2018 |
-
-### Cocais sem gás (20 L) (código —)
+### Cocais sem gás (mineral 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Cocais sem gás (20 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,00 |  |  | Cocais sem gás (mineral 10 L) | Port. 405/2018 |
 
-### Cocais sem gás (250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,79 |  |  | Cocais sem gás (250 a 300 ml) | Port. 405/2018 |
-
-### Cocais sem Gás (500 ml) (código —)
+### Cocais sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Cocais sem Gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Cocais sem gás (mineral 20 L) | Port. 405/2018 |
+
+### Cocais sem gás (mineral 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,79 |  |  | Cocais sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Cocais sem Gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Cocais sem Gás (mineral 500 ml) | Port. 405/2018 |
 
 ### Água Mineral Cocais sem gás – Copo 200 ml (código 47973)
 
@@ -4953,9 +5047,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-02-10 (pub.) | 2017-02-06 | incluir | 0,50 |  |  | Água Mineral Cocais sem gás – Copo 200 ml | Port. 69/2017 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,53 | +6.0% |  | Cocais sem gás - Copo – 200 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,53 | +0.0% |  | Cocais sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,69 | +30.2% |  | Cocais sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,73 | +5.8% |  | Cocais sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,53 | +0.0% |  | Cocais sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,69 | +30.2% |  | Cocais sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,73 | +5.8% |  | Cocais sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
 ### Água Mineral Cocais sem gás – Copo 300 ml (código 47970)
 
@@ -4963,65 +5057,65 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-02-10 (pub.) | 2017-02-06 | incluir | 0,60 |  |  | Água Mineral Cocais sem gás – Copo 300 ml | Port. 69/2017 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 | +5.0% |  | cocais sem gás – Copo – 300 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 | +0.0% |  | cocais sem gás (copo 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | cocais sem gás (copo 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | cocais sem gás (copo 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 | +0.0% |  | cocais sem gás (mineral copo 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | cocais sem gás (mineral copo 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | cocais sem gás (mineral copo 300 ml) | Port. 500/2024 |
 
-### Cocais sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,89 |  |  | Cocais sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Cocais sem gás (descartável 300 ml) (código 47970)
+### Cocais sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,03 |  |  | Cocais sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,09 | +5.8% |  | Cocais sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,89 |  |  | Cocais sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Cocais sem gás (descartável 310 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,79 |  |  | Cocais sem gás (descartável 310 ml) | Port. 419/2018 |
-
-### Cocais sem gás (descartável 5 L) (código 47966)
+### Cocais sem gás (mineral descartável 300 ml) (código 47970)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,31 |  |  | Cocais sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,62 | +30.4% |  | Cocais sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,93 | +5.5% |  | Cocais sem gás (descartável 5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,03 |  |  | Cocais sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,09 | +5.8% |  | Cocais sem gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Cocais sem Gás (descartável 500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Cocais sem Gás (descartável 500 ml) | Port. 419/2018 |
-
-### Cocais sem Gás (descartável 510 ml) (código 47969)
+### Cocais sem gás (mineral descartável 310 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 |  |  | Cocais sem Gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Cocais sem Gás (descartável 510 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,79 |  |  | Cocais sem gás (mineral descartável 310 ml) | Port. 419/2018 |
 
-### Cocais sem gás (retornável 10 L) (código 47965)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Cocais sem gás (retornável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Cocais sem gás (retornável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Cocais sem gás (retornável 10 L) | Port. 500/2024 |
-
-### Cocais sem gás (retornável 20 L) (código 47964)
+### Cocais sem gás (mineral descartável 5 L) (código 47966)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Cocais sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Cocais sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Cocais sem gás (retornável 20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,31 |  |  | Cocais sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,62 | +30.4% |  | Cocais sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,93 | +5.5% |  | Cocais sem gás (mineral descartável 5 L) | Port. 500/2024 |
+
+### Cocais sem Gás (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Cocais sem Gás (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Cocais sem Gás (mineral descartável 510 ml) (código 47969)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 |  |  | Cocais sem Gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Cocais sem Gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Cocais sem gás (mineral retornável 10 L) (código 47965)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Cocais sem gás (mineral retornável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Cocais sem gás (mineral retornável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Cocais sem gás (mineral retornável 10 L) | Port. 500/2024 |
+
+### Cocais sem gás (mineral retornável 20 L) (código 47964)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Cocais sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Cocais sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Cocais sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Cocais sem gás – 5000 ml (código —)
 
@@ -5029,244 +5123,239 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,31 |  |  | Cocais sem gás – 5000 ml | Port. 405/2018 |
 
-### Cristal com gás (500 ml) (código —)
+### Cristal com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 |  |  | Cristal com gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 |  |  | Cristal com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Cristal com gás (510 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Cristal com gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Cristal com gás (510 ml) | Port. 283/2015 |
-
-### Cristal com gás (descartável 500 ml) (código —)
+### Cristal com gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 |  |  | Cristal com gás (descartável 500 ml) | Port. 419/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Cristal com gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Cristal com gás (mineral 510 ml) | Port. 283/2015 |
 
-### Cristal com gás (descartável 510 ml) (código 48316)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 |  |  | Cristal com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Cristal com gás (descartável 510 ml) | Port. 500/2024 |
-
-### Cristal sem gás (500 ml) (código —)
+### Cristal com gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,33 |  |  | Cristal sem gás (500 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 |  |  | Cristal com gás (mineral descartável 500 ml) | Port. 419/2018 |
 
-### Cristal sem gás (510 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 |  |  | Cristal sem gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Cristal sem gás (510 ml) | Port. 283/2015 |
-
-### Cristal sem gás (descartável 500 ml) (código —)
+### Cristal com gás (mineral descartável 510 ml) (código 48316)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,33 |  |  | Cristal sem gás (descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 |  |  | Cristal com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Cristal com gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Cristal sem gás (descartável 510 ml) (código 48116)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,73 |  |  | Cristal sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,83 | +5.8% |  | Cristal sem gás (descartável 510 ml) | Port. 500/2024 |
-
-### Cristal Sul (20 L) (código 50500)
+### Cristal sem gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Cristal Sul (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Cristal Sul (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Cristal Sul (20 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,33 |  |  | Cristal sem gás (mineral 500 ml) | Port. 405/2018 |
 
-### Cristalina da Roça (1,5 L) (código 53781)
+### Cristal sem gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 |  |  | Cristalina da Roça (1,5 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 |  |  | Cristal sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Cristal sem gás (mineral 510 ml) | Port. 283/2015 |
 
-### Cristalina da Roça (5 L) (código 53782)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,89 |  |  | Cristalina da Roça (5 L) | Port. 500/2024 |
-
-### Cristalina da Roça - Copo (200 ml) (código 53780)
+### Cristal sem gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,36 |  |  | Cristalina da Roça - Copo (200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,33 |  |  | Cristal sem gás (mineral descartável 500 ml) | Port. 419/2018 |
 
-### Crystal com gás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,08 |  |  | Crystal com gás (350 a 450 ml) | Port. 405/2018 |
-
-### Crystal com gás (350 ml) (código 50495)
+### Cristal sem gás (mineral descartável 510 ml) (código 48116)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,30 |  |  | Crystal com gás (350 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,37 | +5.4% |  | Crystal com gás (350 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,73 |  |  | Cristal sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,83 | +5.8% |  | Cristal sem gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Crystal com gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,08 |  |  | Crystal com gás (descartável 350 ml) | Port. 419/2018 |
-
-### Crystal com gás (descartável 500 ml) (código 49758)
+### Cristal Sul (adicionada de sais 20 L) (código 50500)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,41 |  |  | Crystal com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,49 | +5.7% |  | Crystal com gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Cristal Sul (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Cristal Sul (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Cristal Sul (adicionada de sais 20 L) | Port. 500/2024 |
 
-### Crystal sem gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,75 |  |  | Crystal sem gás (1 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,97 | +12.6% |  | Crystal sem gás (1 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,07 | +5.1% |  | Crystal sem gás (1 L) | Port. 405/2018 |
-
-### Crystal Sem gás (2 L) (código 50493)
+### Cristalina da Roça (adicionada de sais 1,5 L) (código 53781)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,25 |  |  | Crystal Sem gás (2 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,43 | +5.5% |  | Crystal Sem gás (2 L) | Port. 500/2024 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 |  |  | Cristalina da Roça (adicionada de sais 1,5 L) | Port. 500/2024 |
 
-### Crystal sem gás (350 ml) (código 50498)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,20 |  |  | Crystal sem gás (350 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,27 | +5.8% |  | Crystal sem gás (350 ml) | Port. 500/2024 |
-
-### Crystal sem gás (descartável 1 L) (código 48285)
+### Cristalina da Roça (adicionada de sais 5 L) (código 53782)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,07 |  |  | Crystal sem gás (descartável 1 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,70 | +30.4% |  | Crystal sem gás (descartável 1 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,85 | +5.6% |  | Crystal sem gás (descartável 1 L) | Port. 500/2024 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,89 |  |  | Cristalina da Roça (adicionada de sais 5 L) | Port. 500/2024 |
 
-### Crystal sem gás (descartável 500 ml) (código 49755)
+### Cristalina da Roça - Copo (adicionada de sais 200 ml) (código 53780)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 |  |  | Crystal semgás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Crystal sem gás (descartável 500 ml) ⚠ | Port. 500/2024 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,36 |  |  | Cristalina da Roça - Copo (adicionada de sais 200 ml) | Port. 500/2024 |
 
-### Crystal semgás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,95 |  |  | Crystal semgás (350 a 450 ml) | Port. 405/2018 |
-
-### Crystal semgás (descartável 350 ml) (código —)
+### Crystal com gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Crystal semgás (descartável 350 ml) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,08 |  |  | Crystal com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Cystal com gás (1,5 L) (código 49759)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,28 |  |  | Cystal com gáss (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,57 | +12.7% |  | Cystal com gáss (1,5 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,70 | +5.1% |  | Cystal com gáss (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,52 | +30.4% |  | Cystal com gáss (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,72 | +5.7% |  | Cystal com gás (1,5 L) ⚠ | Port. 500/2024 |
-
-### Cystal com gáss (descartável 1,5 L) (código —)
+### Crystal com gás (mineral 350 ml) (código 50495)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,70 |  |  | Cystal com gáss (descartável 1,5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,30 |  |  | Crystal com gás (mineral 350 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,37 | +5.4% |  | Crystal com gás (mineral 350 ml) | Port. 500/2024 |
 
-### Cystal sem gás (1,5 L) (código 49756)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,90 |  |  | Cystal sem gáss (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,14 | +12.6% |  | Cystal sem gáss (1,5 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,25 | +5.1% |  | Cystal sem gáss (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,93 | +30.2% |  | Cystal sem gáss (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,09 | +5.5% |  | Cystal sem gás (1,5 L) ⚠ | Port. 500/2024 |
-
-### Cystal sem gáss (descartável 1,5 L) (código —)
+### Crystal com gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,25 |  |  | Cystal sem gáss (descartável 1,5 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,08 |  |  | Crystal com gás (mineral descartável 350 ml) | Port. 419/2018 |
 
-### Dafonte (20 L) (código 50501)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Dafonte (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Dafonte (20 L) | Port. 500/2024 |
-
-### Dafonte (20 L) (código 50512)
+### Crystal com gás (mineral descartável 500 ml) (código 49758)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Dafonte (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Dafonte (20 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,41 |  |  | Crystal com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,49 | +5.7% |  | Crystal com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Dafonte (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Dafonte (20 L) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | +0.0% |  | Dafonte (20 L) | Port. 419/2018 |
-
-### Dias D’Avila (1,5 L) (código 47717)
+### Crystal sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,04 |  |  | Dias D’Avila (1250 a 1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,36 | +30.8% |  | Dias D’Avila (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,44 | +5.9% |  | Dias D’Avila (1,5 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,75 |  |  | Crystal sem gás (mineral 1 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,97 | +12.6% |  | Crystal sem gás (mineral 1 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,07 | +5.1% |  | Crystal sem gás (mineral 1 L) | Port. 405/2018 |
 
-### Dias D’Avila (5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,51 |  |  | Dias D’Avila (5 L) | Port. 419/2018 |
-
-### Dias D’Avila (descartável 1250 ml) (código —)
+### Crystal Sem gás (mineral 2 L) (código 50493)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,04 |  |  | Dias D’Avila (descartável 1250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,25 |  |  | Crystal Sem gás (mineral 2 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,43 | +5.5% |  | Crystal Sem gás (mineral 2 L) | Port. 500/2024 |
 
-### Dias D’Avila (descartável 330 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,32 |  |  | Dias D’Avila (descartável 330 ml) | Port. 419/2018 |
-
-### Dias D’Avila (descartável 500 ml) (código 47718)
+### Crystal sem gás (mineral 350 ml) (código 50498)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,66 |  |  | Dias D’Avila (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,70 | +6.1% |  | Dias D’Avila (descartável 500 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,20 |  |  | Crystal sem gás (mineral 350 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,27 | +5.8% |  | Crystal sem gás (mineral 350 ml) | Port. 500/2024 |
+
+### Crystal sem gás (mineral descartável 1 L) (código 48285)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,07 |  |  | Crystal sem gás (mineral descartável 1 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,70 | +30.4% |  | Crystal sem gás (mineral descartável 1 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,85 | +5.6% |  | Crystal sem gás (mineral descartável 1 L) | Port. 500/2024 |
+
+### Crystal sem gás (mineral descartável 500 ml) (código 49755)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 |  |  | Crystal semgás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Crystal sem gás (mineral descartável 500 ml) ⚠ | Port. 500/2024 |
+
+### Crystal semgás (mineral 350 a 450 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,95 |  |  | Crystal semgás (mineral 350 a 450 ml) | Port. 405/2018 |
+
+### Crystal semgás (mineral descartável 350 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Crystal semgás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Cystal com gás (mineral 1,5 L) (código 49759)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,28 |  |  | Cystal com gáss (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,57 | +12.7% |  | Cystal com gáss (mineral 1,5 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,70 | +5.1% |  | Cystal com gáss (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,52 | +30.4% |  | Cystal com gáss (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,72 | +5.7% |  | Cystal com gás (mineral 1,5 L) ⚠ | Port. 500/2024 |
+
+### Cystal com gáss (mineral descartável 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,70 |  |  | Cystal com gáss (mineral descartável 1,5 L) | Port. 419/2018 |
+
+### Cystal sem gás (mineral 1,5 L) (código 49756)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,90 |  |  | Cystal sem gáss (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,14 | +12.6% |  | Cystal sem gáss (mineral 1,5 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,25 | +5.1% |  | Cystal sem gáss (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,93 | +30.2% |  | Cystal sem gáss (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,09 | +5.5% |  | Cystal sem gás (mineral 1,5 L) ⚠ | Port. 500/2024 |
+
+### Cystal sem gáss (mineral descartável 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,25 |  |  | Cystal sem gáss (mineral descartável 1,5 L) | Port. 419/2018 |
+
+### Dafonte (adicionada de sais 20 L) (código 50501)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Dafonte (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Dafonte (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Dafonte (adicionada de sais 20 L) | Port. 500/2024 |
+
+### Dafonte (natural 20 L) (código 50512)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Dafonte (natural 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Dafonte (natural 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Dafonte (natural 20 L) | Port. 500/2024 |
+
+### Dias D’Avila (adicionada de sais 1,5 L) (código 47717)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,04 |  |  | Dias D’Avila (adicionada de sais 1250 a 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,36 | +30.8% |  | Dias D’Avila (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,44 | +5.9% |  | Dias D’Avila (adicionada de sais 1,5 L) | Port. 500/2024 |
+
+### Dias D’Avila (adicionada de sais descartável 1250 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,04 |  |  | Dias D’Avila (adicionada de sais descartável 1250 ml) | Port. 419/2018 |
+
+### Dias D’Avila (adicionada de sais descartável 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,32 |  |  | Dias D’Avila (adicionada de sais descartável 330 ml) | Port. 419/2018 |
+
+### Dias D’Avila (adicionada de sais descartável 500 ml) (código 47718)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,66 |  |  | Dias D’Avila (adicionada de sais descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,70 | +6.1% |  | Dias D’Avila (adicionada de sais descartável 500 ml) | Port. 500/2024 |
+
+### Dias D’Avila (natural 5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,51 |  |  | Dias D’Avila (natural 5 L) | Port. 419/2018 |
 
 ### Dias D’Avila - 300 ml (código —)
 
@@ -5280,165 +5369,165 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,51 |  |  | Dias D’Avila - 500 ml | Port. 405/2018 |
 
-### Dias D’Avila com gás (350 a 450 ml) (código —)
+### Dias D’Avila com gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,17 |  |  | Dias D’Avila com gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,17 |  |  | Dias D’Avila com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Dias D’Avila com gás (descartável 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,36 |  |  | Dias D’Avila com gás (descartável 300 ml) | Port. 419/2018 |
-
-### Dias D’Avila com gás (descartável 330 ml) (código 47713)
+### Dias D’Avila com gás (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,77 |  |  | Dias D’Avila com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,87 | +5.6% |  | Dias D’Avila com gás (descartável 330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,36 |  |  | Dias D’Avila com gás (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Dias D’Avila com gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,17 |  |  | Dias D’Avila com gás (descartável 350 ml) | Port. 419/2018 |
-
-### Dias D’Avila com gás (descartável 500 ml) (código 47710)
+### Dias D’Avila com gás (mineral descartável 330 ml) (código 47713)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,53 |  |  | Dias D’Avila com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,62 | +5.9% |  | Dias D’Avila com gás (descartável 500 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,77 |  |  | Dias D’Avila com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,87 | +5.6% |  | Dias D’Avila com gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Dias D’Avila com gás (garrafa 250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,36 |  |  | Dias D’Avila com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
-
-### Dias D’Avila Kids sem gás (descartável 300 ml) (código —)
+### Dias D’Avila com gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,67 |  |  | Dias D’Avila Kids sem gás (descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,17 |  |  | Dias D’Avila com gás (mineral descartável 350 ml) | Port. 419/2018 |
 
-### Dias D’Avila Kids sem gás (descartável 330 ml) (código 47714)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,18 |  |  | Dias D’Avila Kids sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,30 | +5.5% |  | Dias D’Avila Kids sem gás (descartável 330 ml) | Port. 500/2024 |
-
-### Dias D’Avila Kids sem gás (garrafa 250 a 300 ml) (código —)
+### Dias D’Avila com gás (mineral descartável 500 ml) (código 47710)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,67 |  |  | Dias D’Avila Kids sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,53 |  |  | Dias D’Avila com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,62 | +5.9% |  | Dias D’Avila com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Dias D’Avila sem gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,67 |  |  | Dias D’Avila sem gás (1 L) | Port. 405/2018 |
-
-### Dias D’Avila sem gás (1,5 L) (código 47708)
+### Dias D’Avila com gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,18 |  |  | Dias D’Avila sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,30 | +5.5% |  | Dias D’Avila sem gás (1,5 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,36 |  |  | Dias D’Avila com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Dias D’Avila sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,00 |  |  | Dias D’Avila sem gás (20 L) | Port. 405/2018 |
-
-### Dias D’Avila sem gás (250 a 300 ml) (código —)
+### Dias D’Avila Kids sem gás (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,43 |  |  | Dias D’Avila sem gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,67 |  |  | Dias D’Avila Kids sem gás (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Dias D’Avila sem gás (350 a 450 ml) (código —)
+### Dias D’Avila Kids sem gás (mineral descartável 330 ml) (código 47714)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,89 |  |  | Dias D’Avila sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,18 |  |  | Dias D’Avila Kids sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,30 | +5.5% |  | Dias D’Avila Kids sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Dias D’Avila Kids sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,67 |  |  | Dias D’Avila Kids sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Dias D’Avila sem gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,67 |  |  | Dias D’Avila sem gás (mineral 1 L) | Port. 405/2018 |
+
+### Dias D’Avila sem gás (mineral 1,5 L) (código 47708)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,18 |  |  | Dias D’Avila sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,30 | +5.5% |  | Dias D’Avila sem gás (mineral 1,5 L) | Port. 500/2024 |
+
+### Dias D’Avila sem gás (mineral 20 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,00 |  |  | Dias D’Avila sem gás (mineral 20 L) | Port. 405/2018 |
+
+### Dias D’Avila sem gás (mineral 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,43 |  |  | Dias D’Avila sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Dias D’Avila sem gás (mineral 350 a 450 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,89 |  |  | Dias D’Avila sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
 ### Água Mineral Dias D’Avila sem gás - Copo 200 ml (código 47716)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-08-31 (pub.) | 2016-08-26 | incluir | 0,35 |  |  | Água Mineral Dias D’Avila sem gás - Copo 200 ml | Port. 337/2016 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,37 | +5.7% |  | Dias D’Avila sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,48 | +29.7% |  | Dias D’Avila sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,51 | +6.2% |  | Dias D’Avila sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,37 | +5.7% |  | Dias D’Avila sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,48 | +29.7% |  | Dias D’Avila sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,51 | +6.2% |  | Dias D’Avila sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
 ### Água Mineral Dias D’Avila sem gás - Copo 300 ml (código 47715)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-08-31 (pub.) | 2016-08-26 | incluir | 0,41 |  |  | Água Mineral Dias D’Avila sem gás - Copo 300 ml | Port. 337/2016 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,43 | +4.9% |  | Dias D’Avila sem gás (copo 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,56 | +30.2% |  | Dias D’Avila sem gás (copo 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,59 | +5.4% |  | Dias D’Avila sem gás (copo 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,43 | +4.9% |  | Dias D’Avila sem gás (mineral copo 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,56 | +30.2% |  | Dias D’Avila sem gás (mineral copo 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,59 | +5.4% |  | Dias D’Avila sem gás (mineral copo 300 ml) | Port. 500/2024 |
 
-### Dias D’Avila sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,67 |  |  | Dias D’Avila sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Dias D’Avila sem gás (descartável 300 ml) (código 47715)
+### Dias D’Avila sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,62 |  |  | Dias D’Avila sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,56 | -9.7% |  | Dias D’Avila sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,59 | +5.4% |  | Dias D’Avila sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,67 |  |  | Dias D’Avila sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Dias D’Avila sem gás (descartável 310 ml) (código —)
+### Dias D’Avila sem gás (mineral descartável 300 ml) (código 47715)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,43 |  |  | Dias D’Avila sem gás (descartável 310 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,62 |  |  | Dias D’Avila sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,56 | -9.7% |  | Dias D’Avila sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,59 | +5.4% |  | Dias D’Avila sem gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Dias D’Avila sem gás (descartável 330 ml) (código 47712)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,81 |  |  | Dias D’Avila sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,86 | +6.2% |  | Dias D’Avila sem gás (descartável 330 ml) | Port. 500/2024 |
-
-### Dias D’Avila sem gás (descartável 350 ml) (código —)
+### Dias D’Avila sem gás (mineral descartável 310 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,89 |  |  | Dias D’Avila sem gás (descartável 350 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,43 |  |  | Dias D’Avila sem gás (mineral descartável 310 ml) | Port. 419/2018 |
 
-### Dias D’Avila sem gás (descartável 500 ml) (código 47709)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,16 |  |  | Dias D’Avila sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,22 | +5.2% |  | Dias D’Avila sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### Dias D’Avila sem gás (garrafa 250 a 300 ml) (código —)
+### Dias D’Avila sem gás (mineral descartável 330 ml) (código 47712)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,62 |  |  | Dias D’Avila sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,81 |  |  | Dias D’Avila sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,86 | +6.2% |  | Dias D’Avila sem gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Dias D’Avila sem gás (retornável 20 L) (código 47707)
+### Dias D’Avila sem gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Dias D’Avila sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Dias D’Avila sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Dias D’Avila sem gás (retornável 20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,89 |  |  | Dias D’Avila sem gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Dias D’Avila sem gás (mineral descartável 500 ml) (código 47709)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,16 |  |  | Dias D’Avila sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,22 | +5.2% |  | Dias D’Avila sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Dias D’Avila sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,62 |  |  | Dias D’Avila sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Dias D’Avila sem gás (mineral retornável 20 L) (código 47707)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Dias D’Avila sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Dias D’Avila sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Dias D’Avila sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Dias D’Avila sem gás – 200 ml (código —)
 
@@ -5452,78 +5541,88 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,43 |  |  | Dias D’Avila sem gás – 300 ml | Port. 405/2018 |
 
-### Dias D’Avila Sport sem gás (350 a 450 ml) (código —)
+### Dias D’Avila Sport sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,49 |  |  | Dias D’Avila Sport sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,49 |  |  | Dias D’Avila Sport sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Dias D’Avila Sport sem gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,49 |  |  | Dias D’Avila Sport sem gás (descartável 350 ml) | Port. 419/2018 |
-
-### Dias D’Avila Sport sem gás (descartável 500 ml) (código 47711)
+### Dias D’Avila Sport sem gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,25 |  |  | Dias D’Avila Sport sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,43 | +5.5% |  | Dias D’Avila Sport sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,49 |  |  | Dias D’Avila Sport sem gás (mineral descartável 350 ml) | Port. 419/2018 |
 
-### Dona Mônica (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Dona Mônica (20 L) | Port. 405/2018 |
-
-### Dona Mônica sem gás (retornável 20 L) (código 50070)
+### Dias D’Avila Sport sem gás (mineral descartável 500 ml) (código 47711)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Dona Mônica sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Dona Mônica sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Dona Mônica sem gás (retornável 20 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,25 |  |  | Dias D’Avila Sport sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,43 | +5.5% |  | Dias D’Avila Sport sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Du Moço (1,5 L) (código 50135)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 |  |  | Du Moço (1250 a 1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 | +30.2% |  | Du Moço (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 | +5.3% |  | Du Moço (1,5 L) | Port. 500/2024 |
-
-### Du Moço (20 L) (código 50133)
+### Dona Mônica (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,58 |  |  | Du Moço (5 a 20 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -5.1% |  | Du Moço (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Du Moço (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Du Moço (20 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Dona Mônica (mineral 20 L) | Port. 405/2018 |
 
-### Du Moço (5 L) (código 50134)
+### Dona Mônica sem gás (mineral retornável 20 L) (código 50070)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Dona Mônica sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Dona Mônica sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Dona Mônica sem gás (mineral retornável 20 L) | Port. 500/2024 |
+
+### Du Moço (adicionada de sais 1,5 L) (código 50135)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 |  |  | Du Moço (adicionada de sais 1250 a 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 | +30.2% |  | Du Moço (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 | +5.3% |  | Du Moço (adicionada de sais 1,5 L) | Port. 500/2024 |
+
+### Du Moço (adicionada de sais 20 L) (código 50133)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,58 |  |  | Du Moço (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -5.1% |  | Du Moço (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Du Moço (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Du Moço (adicionada de sais 20 L) | Port. 500/2024 |
+
+### Du Moço (adicionada de sais 5 L) (código 50134)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,10 |  |  | Du Moço (adicionada de sais 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,74 | +30.5% |  | Du Moço (adicionada de sais 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,89 | +5.5% |  | Du Moço (adicionada de sais 5 L) | Port. 500/2024 |
+
+### Du Moço (adicionada de sais descartável 1250 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 |  |  | Du Moço (adicionada de sais descartável 1250 ml) | Port. 419/2018 |
+
+### Du Moço (adicionada de sais descartável 500 ml) (código 50136)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,76 |  |  | Du Moço (adicionada de sais descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,80 | +5.3% |  | Du Moço (adicionada de sais descartável 500 ml) | Port. 500/2024 |
+
+### Du Moço (natural 5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,58 |  |  | Du Moço (natural 5 L) | Port. 419/2018 |
+
+### Du Moço – 5.000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,10 |  |  | Du Moço – 5.000 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,10 | +0.0% |  | Du Moço (5 L) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,58 | -72.4% |  | Du Moço (5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,74 | +372.4% |  | Du Moço (5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,89 | +5.5% |  | Du Moço (5 L) | Port. 500/2024 |
-
-### Du Moço (descartável 1250 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 |  |  | Du Moço (descartável 1250 ml) | Port. 419/2018 |
-
-### Du Moço (descartável 500 ml) (código 50136)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,76 |  |  | Du Moço (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,80 | +5.3% |  | Du Moço (descartável 500 ml) | Port. 500/2024 |
 
 ### Du Moço – 500 ml (código —)
 
@@ -5531,175 +5630,175 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,58 |  |  | Du Moço – 500 ml | Port. 405/2018 |
 
-### D’Avila (300 ml) (código 47719)
+### D’Avila (adicionada de sais 300 ml) (código 47719)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,42 |  |  | D’Avila (300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,44 | +4.8% |  | D’Avila (300 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,42 |  |  | D’Avila (adicionada de sais 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,44 | +4.8% |  | D’Avila (adicionada de sais 300 ml) | Port. 500/2024 |
 
-### D’Avila (descartável 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,32 |  |  | D’Avila (descartável 300 ml) | Port. 419/2018 |
-
-### Florata (20 L) (código —)
+### D’Avila (adicionada de sais descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,73 |  | und | Florata (20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,39 | +17.7% |  | Florata (20 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,95 | +12.8% |  | Florata (20 L) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,32 |  |  | D’Avila (adicionada de sais descartável 300 ml) | Port. 419/2018 |
 
-### Florata (300 ml) (código —)
+### Florata (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,39 |  | und | Florata (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,48 | +23.1% |  | Florata (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,54 | +12.5% |  | Florata (300 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,73 |  | und | Florata (mineral 20 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,39 | +17.7% |  | Florata (mineral 20 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,95 | +12.8% |  | Florata (mineral 20 L) | Port. 283/2015 |
 
-### Florata (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | Florata (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 | +100.0% |  | Florata (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Florata (500 ml) | Port. 283/2015 |
-
-### Florata sem gás (20 L) (código —)
+### Florata (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Florata sem gás (20 L) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,39 |  | und | Florata (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,48 | +23.1% |  | Florata (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,54 | +12.5% |  | Florata (mineral 300 ml) | Port. 283/2015 |
 
-### Florata sem gás (250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,57 |  |  | Florata sem gás (250 a 300 ml) | Port. 405/2018 |
-
-### Florata sem gás (500 ml) (código —)
+### Florata (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,33 |  |  | Florata sem gás (500 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | Florata (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 | +100.0% |  | Florata (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Florata (mineral 500 ml) | Port. 283/2015 |
 
-### Florata sem gás (descartável 300 ml) (código 48353)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,57 |  |  | Florata sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,74 | +29.8% |  | Florata sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,78 | +5.4% |  | Florata sem gás (descartável 300 ml) | Port. 500/2024 |
-
-### Florata sem gás (descartável 500 ml) (código 48360)
+### Florata sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,33 |  |  | Florata sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,73 | +30.1% |  | Florata sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,83 | +5.8% |  | Florata sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Florata sem gás (mineral 20 L) | Port. 405/2018 |
 
-### Florata sem gás (retornável 20 L) (código 48328)
+### Florata sem gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Florata sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Florata sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Florata sem gás (retornável 20 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,57 |  |  | Florata sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Gota da Prata (20 L) (código 50505)
+### Florata sem gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Gota da Prata (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Gota da Prata (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Gota da Prata (20 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,33 |  |  | Florata sem gás (mineral 500 ml) | Port. 405/2018 |
 
-### Guaravitã com gás (250 a 300 ml) (código —)
+### Florata sem gás (mineral descartável 300 ml) (código 48353)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Guaravitã com gás (250 a 300 ml) | Port. 405/2018 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,83 | -17.8% |  | Guaravitã com gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,57 |  |  | Florata sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,74 | +29.8% |  | Florata sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,78 | +5.4% |  | Florata sem gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Guaravitã com gás (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 |  |  | Guaravitã com gás (300 ml) | Port. 341/2012 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,70 | -17.6% |  | Guaravitã com gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +37.1% |  | Guaravitã com gás (300 ml) | Port. 283/2015 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,79 | -17.7% |  | Guaravitã com gás (300 ml) | Port. 283/2015 |
-
-### Guaravitã com gás (descartável 300 ml) (código 48465)
+### Florata sem gás (mineral descartável 500 ml) (código 48360)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 |  |  | Guaravitã com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Guaravitã com gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,33 |  |  | Florata sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,73 | +30.1% |  | Florata sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,83 | +5.8% |  | Florata sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Guaravitã com gás (descartável 300 ml) (código 48466)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 |  |  | Guaravitã com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | Guaravitã com gás (descartável 300 ml) | Port. 500/2024 |
-
-### Guaravitã com gás (descartável 300 ml) (código —)
+### Florata sem gás (mineral retornável 20 L) (código 48328)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Guaravitã com gás (descartável 300 ml) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 | -17.8% |  | Guaravitã com gás (descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Florata sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Florata sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Florata sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
-### Idaiá (descartável 10 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 8,39 |  |  | Idaiá (descartável 10 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 9,47 | +12.9% |  | Idaiá (descartável 10 L) | Port. 283/2015 |
-
-### Idaiá sem gás (descartável 10 L) (código —)
+### Gota da Prata (adicionada de sais 20 L) (código 50505)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 7,50 |  |  | Idaiá sem gás (descartável 10 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Gota da Prata (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Gota da Prata (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Gota da Prata (adicionada de sais 20 L) | Port. 500/2024 |
 
-### Ilha Bela (1,5 L) (código 48237)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,10 |  |  | Ilha Bela (1,5 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 | +5.5% |  | Ilha Bela (1250 a 1,5 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 | +0.0% |  | Ilha Bela (1,5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 | +30.2% |  | Ilha Bela (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 | +5.3% |  | Ilha Bela (1,5 L) | Port. 500/2024 |
-
-### Ilha Bela (20 L) (código 48100)
+### Guaravitã com gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,50 |  |  | Ilha Bela (20 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,58 | -54.9% |  | Ilha Bela (5 a 20 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -5.1% |  | Ilha Bela (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Ilha Bela (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Ilha Bela (20 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Guaravitã com gás (mineral 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,83 | -17.8% |  | Guaravitã com gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Ilha Bela (5 L) (código —)
+### Guaravitã com gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,72 |  |  | Ilha Bela (5 L) | Port. 419/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 |  |  | Guaravitã com gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,70 | -17.6% |  | Guaravitã com gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +37.1% |  | Guaravitã com gás (mineral 300 ml) | Port. 283/2015 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,79 | -17.7% |  | Guaravitã com gás (mineral 300 ml) | Port. 283/2015 |
 
-### Ilha Bela (descartável 500 ml) (código 49424)
+### Guaravitã com gás (mineral descartável 300 ml) (código 48465)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,94 |  |  | Ilha Bela (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,99 | +5.3% |  | Ilha Bela (descartável 500 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 |  |  | Guaravitã com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Guaravitã com gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Guaravitã com gás (mineral descartável 300 ml) (código 48466)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 |  |  | Guaravitã com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | Guaravitã com gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Guaravitã com gás (mineral descartável 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Guaravitã com gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 | -17.8% |  | Guaravitã com gás (mineral descartável 300 ml) | Port. 419/2018 |
+
+### Idaiá (mineral descartável 10 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 8,39 |  |  | Idaiá (mineral descartável 10 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 9,47 | +12.9% |  | Idaiá (mineral descartável 10 L) | Port. 283/2015 |
+
+### Idaiá sem gás (mineral descartável 10 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 7,50 |  |  | Idaiá sem gás (mineral descartável 10 L) | Port. 405/2018 |
+
+### Ilha Bela (adicionada de sais 1,5 L) (código 48237)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,10 |  |  | Ilha Bela (adicionada de sais 1,5 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 | +5.5% |  | Ilha Bela (adicionada de sais 1250 a 1,5 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 | +0.0% |  | Ilha Bela (adicionada de sais 1,5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 | +30.2% |  | Ilha Bela (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 | +5.3% |  | Ilha Bela (adicionada de sais 1,5 L) | Port. 500/2024 |
+
+### Ilha Bela (adicionada de sais 20 L) (código 48100)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,50 |  |  | Ilha Bela (adicionada de sais 20 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,58 | -54.9% |  | Ilha Bela (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -5.1% |  | Ilha Bela (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Ilha Bela (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Ilha Bela (adicionada de sais 20 L) | Port. 500/2024 |
+
+### Ilha Bela (adicionada de sais descartável 500 ml) (código 49424)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,94 |  |  | Ilha Bela (adicionada de sais descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,99 | +5.3% |  | Ilha Bela (adicionada de sais descartável 500 ml) | Port. 500/2024 |
+
+### Ilha Bela (natural 5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,72 |  |  | Ilha Bela (natural 5 L) | Port. 419/2018 |
 
 ### Ilha Bela – 500 ml (código —)
 
@@ -5708,253 +5807,253 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,68 |  |  | Ilha Bela – 500 ml | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,72 | +5.9% |  | Ilha Bela – 500 ml | Port. 405/2018 |
 
-### Imperial com gás (500 ml) (código —)
+### Imperial com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Imperial com gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Imperial com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Imperial com gás (descartável 500 ml) (código 48894)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Imperial com gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Imperial com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Imperial com gás (descartável 500 ml) | Port. 500/2024 |
-
-### Imperial sem gás (350 a 450 ml) (código —)
+### Imperial com gás (mineral descartável 500 ml) (código 48894)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 |  |  | Imperial sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Imperial com gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Imperial com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Imperial com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Imperial sem gás (descartável 500 ml) (código 48895)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | Imperial sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 | +30.6% |  | Imperial sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | Imperial sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### Indaiá (1,5 L) (código —)
+### Imperial sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,32 |  | und | Indaiá (1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,87 | +41.7% |  | Indaiá (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,11 | +12.8% |  | Indaiá (1,5 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 |  |  | Imperial sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Indaiá (20 L) (código —)
+### Imperial sem gás (mineral descartável 500 ml) (código 48895)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 4,54 |  | und | Indaiá (20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 5,34 | +17.6% |  | Indaiá (20 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 6,02 | +12.7% |  | Indaiá (20 L) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | Imperial sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 | +30.6% |  | Imperial sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | Imperial sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Indaiá (200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,36 |  | und | Indaiá (200 ml) | Port. 220/2011 |
-
-### Indaiá (5 a 6 L) (código —)
+### Indaiá (mineral 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 |  |  | Indaiá (5 a 6 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,16 | +12.9% |  | Indaiá (5 a 6 L) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,32 |  | und | Indaiá (mineral 1,5 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,87 | +41.7% |  | Indaiá (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,11 | +12.8% |  | Indaiá (mineral 1,5 L) | Port. 283/2015 |
 
-### Indaiá (5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,69 |  | und | Indaiá (5 L) | Port. 220/2011 |
-
-### Indaiá (500 ml) (código —)
+### Indaiá (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,88 |  | und | Indaiá (500 ml) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 4,54 |  | und | Indaiá (mineral 20 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 5,34 | +17.6% |  | Indaiá (mineral 20 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 6,02 | +12.7% |  | Indaiá (mineral 20 L) | Port. 283/2015 |
 
-### Indáia (copo 200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,44 |  |  | Indáia (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,50 | +13.6% |  | Indáia (copo 200 ml) | Port. 283/2015 |
-
-### Indaiá (descartável 10 L) (código —)
+### Indaiá (mineral 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 6,63 |  | und | Indaiá (descartável 10 L) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,36 |  | und | Indaiá (mineral 200 ml) | Port. 220/2011 |
 
-### Indaia + com gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 |  |  | Indaiá com gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Indaiá com gás (500 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 | +5.3% |  | Indaiá com gás (500 ml) | Port. 405/2018 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 | -2.1% |  | Indaia + com gás (500 ml) | Port. 405/2018 |
-
-### Indaiá + com gás (descartável 500 ml) (código 48737)
+### Indaiá (mineral 5 a 6 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 |  |  | Indaia + com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Indaiá + com gás (descartável 500 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 |  |  | Indaiá (mineral 5 a 6 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,16 | +12.9% |  | Indaiá (mineral 5 a 6 L) | Port. 283/2015 |
 
-### Indaia + com gás (descartável 500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Indaiá com gás (descartável 500 ml) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 | -2.1% |  | Indaia + com gás (descartável 500 ml) | Port. 419/2018 |
-
-### Indaiá c/ gás (600 ml) (código —)
+### Indaiá (mineral 5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,13 |  | und | Indaiá c/ gás (600 ml) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,69 |  | und | Indaiá (mineral 5 L) | Port. 220/2011 |
 
-### Indaiá com gás (330 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | und | Indaiá com gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,02 | +61.9% |  | Indaiá com gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,15 | +12.7% |  | Indaiá com gás (330 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,21 | +5.2% |  | Indaiá com gás (330 ml) | Port. 405/2018 |
-
-### Indaiá com gás (600 ml) (código —)
+### Indaiá (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,20 |  |  | Indaiá com gás (600 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,35 | +12.5% |  | Indaiá com gás (600 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,42 | +5.2% |  | Indaiá com gás (600 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,88 |  | und | Indaiá (mineral 500 ml) | Port. 220/2011 |
 
-### Indaiá com gás (descartável 330 ml) (código 48124)
+### Indáia (mineral copo 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,21 |  |  | Indaiá com gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,58 | +30.6% |  | Indaiá com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,67 | +5.7% |  | Indaiá com gás (descartável 330 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,44 |  |  | Indáia (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,50 | +13.6% |  | Indáia (mineral copo 200 ml) | Port. 283/2015 |
 
-### Indaiá com gás (descartável 500 ml) (código 48125)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Indaiá com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Indaiá com gás (descartável 500 ml) | Port. 500/2024 |
-
-### Indaiá com gás (descartável 600 ml) (código 48126)
+### Indaiá (mineral descartável 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,42 |  |  | Indaiá com gás (descartável 600 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,85 | +30.3% |  | Indaiá com gás (descartável 600 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,95 | +5.4% |  | Indaiá com gás (descartável 600 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 6,63 |  | und | Indaiá (mineral descartável 10 L) | Port. 220/2011 |
 
-### Indaiá sem gás (1,5 L) (código 48122)
+### Indaia + com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,22 |  |  | Indaiá sem gás (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,89 | +30.2% |  | Indaiá sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,05 | +5.5% |  | Indaiá sem gás (1,5 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 |  |  | Indaiá com gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Indaiá com gás (mineral 500 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 | +5.3% |  | Indaiá com gás (mineral 500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 | -2.1% |  | Indaia + com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Indaiá sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Indaiá sem gás (20 L) | Port. 405/2018 |
-
-### Indaiá sem gás (300 ml) (código —)
+### Indaiá + com gás (mineral descartável 500 ml) (código 48737)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,49 |  | und | Indaiá sem gás (300 ml) | Port. 220/2011 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 |  |  | Indaia + com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Indaiá + com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Indaiá sem gás (330 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,59 |  | und | Indaiá sem gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,83 | +40.7% |  | Indaiá sem gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,94 | +13.3% |  | Indaiá sem gás (330 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,99 | +5.3% |  | Indaiá sem gás (330 ml) | Port. 405/2018 |
-
-### Indaiá sem gás (500 ml) (código —)
+### Indaia + com gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,82 |  |  | Indaiá sem gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,93 | +13.4% |  | Indaiá sem gás (500 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,98 | +5.4% |  | Indaiá sem gás (500 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Indaiá com gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 | -2.1% |  | Indaia + com gás (mineral descartável 500 ml) | Port. 419/2018 |
 
-### Indáia sem gás (copo 200 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,53 |  |  | Indáia sem gás (copo 200 a 300 ml) | Port. 405/2018 |
-
-### Indaiá sem gás (copo 200 ml) (código 48123)
+### Indaiá c/ gás (mineral 600 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,53 |  |  | Indaiá sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,69 | +30.2% |  | Indaiá sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,73 | +5.8% |  | Indaiá sem gás (copo 200 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,13 |  | und | Indaiá c/ gás (mineral 600 ml) | Port. 220/2011 |
 
-### Indaiá sem gás (descartável 1,5 L) (código —)
+### Indaiá com gás (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,22 |  |  | Indaiá sem gás (descartável 1,5 L) | Port. 419/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | und | Indaiá com gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,02 | +61.9% |  | Indaiá com gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,15 | +12.7% |  | Indaiá com gás (mineral 330 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,21 | +5.2% |  | Indaiá com gás (mineral 330 ml) | Port. 405/2018 |
 
-### Indaiá sem gás (descartável 10 L) (código 49704)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 7,50 |  |  | Indaiá sem gás (descartável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 9,78 | +30.4% |  | Indaiá sem gás (descartável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 10,32 | +5.5% |  | Indaiá sem gás (descartável 10 L) | Port. 500/2024 |
-
-### Indaiá sem gás (descartável 330 ml) (código 48127)
+### Indaiá com gás (mineral 600 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,99 |  |  | Indaiá sem gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,29 | +30.3% |  | Indaiá sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,36 | +5.4% |  | Indaiá sem gás (descartável 330 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,20 |  |  | Indaiá com gás (mineral 600 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,35 | +12.5% |  | Indaiá com gás (mineral 600 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,42 | +5.2% |  | Indaiá com gás (mineral 600 ml) | Port. 405/2018 |
 
-### Indaiá sem gás (descartável 5 L) (código 48135)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,43 |  |  | Indaiá sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,08 | +30.4% |  | Indaiá sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 7,47 | +5.5% |  | Indaiá sem gás (descartável 5 L) | Port. 500/2024 |
-
-### Indaiá sem gás (descartável 500 ml) (código 48289)
+### Indaiá com gás (mineral descartável 330 ml) (código 48124)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,98 |  |  | Indaiá sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,28 | +30.6% |  | Indaiá sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,35 | +5.5% |  | Indaiá sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,21 |  |  | Indaiá com gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,58 | +30.6% |  | Indaiá com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,67 | +5.7% |  | Indaiá com gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Indaiá sem gás (retornável 20 L) (código 48274)
+### Indaiá com gás (mineral descartável 500 ml) (código 48125)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Indaiá sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Indaiá sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Indaiá sem gás (retornável 20 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Indaiá com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Indaiá com gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Indaiá com gás (mineral descartável 600 ml) (código 48126)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,42 |  |  | Indaiá com gás (mineral descartável 600 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,85 | +30.3% |  | Indaiá com gás (mineral descartável 600 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,95 | +5.4% |  | Indaiá com gás (mineral descartável 600 ml) | Port. 500/2024 |
+
+### Indaiá sem gás (mineral 1,5 L) (código 48122)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,22 |  |  | Indaiá sem gás (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,89 | +30.2% |  | Indaiá sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,05 | +5.5% |  | Indaiá sem gás (mineral 1,5 L) | Port. 500/2024 |
+
+### Indaiá sem gás (mineral 20 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Indaiá sem gás (mineral 20 L) | Port. 405/2018 |
+
+### Indaiá sem gás (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,49 |  | und | Indaiá sem gás (mineral 300 ml) | Port. 220/2011 |
+
+### Indaiá sem gás (mineral 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,59 |  | und | Indaiá sem gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,83 | +40.7% |  | Indaiá sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,94 | +13.3% |  | Indaiá sem gás (mineral 330 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,99 | +5.3% |  | Indaiá sem gás (mineral 330 ml) | Port. 405/2018 |
+
+### Indaiá sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,82 |  |  | Indaiá sem gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,93 | +13.4% |  | Indaiá sem gás (mineral 500 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,98 | +5.4% |  | Indaiá sem gás (mineral 500 ml) | Port. 405/2018 |
+
+### Indáia sem gás (mineral copo 200 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,53 |  |  | Indáia sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
+
+### Indaiá sem gás (mineral copo 200 ml) (código 48123)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,53 |  |  | Indaiá sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,69 | +30.2% |  | Indaiá sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,73 | +5.8% |  | Indaiá sem gás (mineral copo 200 ml) | Port. 500/2024 |
+
+### Indaiá sem gás (mineral descartável 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,22 |  |  | Indaiá sem gás (mineral descartável 1,5 L) | Port. 419/2018 |
+
+### Indaiá sem gás (mineral descartável 10 L) (código 49704)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 7,50 |  |  | Indaiá sem gás (mineral descartável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 9,78 | +30.4% |  | Indaiá sem gás (mineral descartável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 10,32 | +5.5% |  | Indaiá sem gás (mineral descartável 10 L) | Port. 500/2024 |
+
+### Indaiá sem gás (mineral descartável 330 ml) (código 48127)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,99 |  |  | Indaiá sem gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,29 | +30.3% |  | Indaiá sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,36 | +5.4% |  | Indaiá sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Indaiá sem gás (mineral descartável 5 L) (código 48135)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,43 |  |  | Indaiá sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,08 | +30.4% |  | Indaiá sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 7,47 | +5.5% |  | Indaiá sem gás (mineral descartável 5 L) | Port. 500/2024 |
+
+### Indaiá sem gás (mineral descartável 500 ml) (código 48289)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,98 |  |  | Indaiá sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,28 | +30.6% |  | Indaiá sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,35 | +5.5% |  | Indaiá sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Indaiá sem gás (mineral retornável 20 L) (código 48274)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Indaiá sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Indaiá sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Indaiá sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Indaiá sem gás – 5000 ml (código —)
 
@@ -5962,252 +6061,258 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,43 |  |  | Indaiá sem gás – 5000 ml | Port. 405/2018 |
 
-### Lençoes Maranhese sem gás (2 L) (código —)
+### Lençoes Maranhese sem gás (mineral 2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,12 |  |  | Lençoes Maranhese sem gás (2 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,12 |  |  | Lençoes Maranhese sem gás (mineral 2 L) | Port. 405/2018 |
 
-### Lençóis Maranhense (10 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,98 |  | und | Lençóis Maranhense (10 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,78 | +90.9% |  | Lençóis Maranhense (10 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,26 | +12.7% |  | Lençóis Maranhense (10 L) | Port. 283/2015 |
-
-### Lençóis Maranhense (2 L) (código —)
+### Lençóis Maranhense (copo) (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,60 |  | und | Lençóis Maranhense (2 L) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,43 |  | und | Lençóis Maranhense (copo) (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 | +34.9% |  | Lençóis Maranhense (copo) (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,65 | +12.1% |  | Lençóis Maranhense (copo) (mineral 300 ml) | Port. 283/2015 |
 
-### Lençóis Maranhense (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Lençóis Maranhense (20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 | +29.8% |  | Lençóis Maranhense (20 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,16 | +12.9% |  | Lençóis Maranhense (20 L) | Port. 283/2015 |
-
-### Lençóis Maranhense (200 ml) (código —)
+### Lençóis Maranhense (mineral 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,31 |  | und | Lençóis Maranhense (200 ml) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,98 |  | und | Lençóis Maranhense (mineral 10 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,78 | +90.9% |  | Lençóis Maranhense (mineral 10 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,26 | +12.7% |  | Lençóis Maranhense (mineral 10 L) | Port. 283/2015 |
 
-### Lençóis Maranhense (330 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,32 |  | und | Lençóis Maranhense (330 ml) | Port. 220/2011 |
-
-### Lençóis Maranhense (5 a 6 L) (código —)
+### Lençóis Maranhense (mineral 2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 |  |  | Lençóis Maranhense (5 a 6 L) | Port. 341/2012 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,60 |  | und | Lençóis Maranhense (mineral 2 L) | Port. 220/2011 |
 
-### Lençóis Maranhense (copo 200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Lençóis Maranhense (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,47 | +11.9% |  | Lençóis Maranhense (copo 200 ml) | Port. 283/2015 |
-
-### Lençóis Maranhense (copo) (300 ml) (código —)
+### Lençóis Maranhense (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,43 |  | und | Lençóis Maranhense (copo) (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 | +34.9% |  | Lençóis Maranhense (copo) (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,65 | +12.1% |  | Lençóis Maranhense (copo) (300 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Lençóis Maranhense (mineral 20 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 | +29.8% |  | Lençóis Maranhense (mineral 20 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,16 | +12.9% |  | Lençóis Maranhense (mineral 20 L) | Port. 283/2015 |
 
-### Lençóis Maranhense (descartável 1,5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,96 |  |  | Lençóis Maranhense (descartável 1,5 L) | Port. 419/2018 |
-
-### Lençóis Maranhense c/ gás (510 ml) (código —)
+### Lençóis Maranhense (mineral 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | und | Lençóis Maranhense c/ gás (510 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 | +59.5% |  | Lençóis Maranhense c/ gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Lençóis Maranhense c/ gás (510 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,31 |  | und | Lençóis Maranhense (mineral 200 ml) | Port. 220/2011 |
 
-### Lençóis Maranhense c/gás Pet (300 ml) (código —)
+### Lençóis Maranhense (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,83 |  |  | Lençóis Maranhense c/gás Pet (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,94 | +13.3% |  | Lençóis Maranhense c/gás Pet (300 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,32 |  | und | Lençóis Maranhense (mineral 330 ml) | Port. 220/2011 |
 
-### Lençóis Maranhense c/gás Pet (garrafa) (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,41 |  | Und | Lençóis Maranhense c/gás Pet (garrafa) (300 ml) | Port. 220/2011 |
-
-### Lençóis Maranhense com gás (250 a 300 ml) (código —)
+### Lençóis Maranhense (mineral 5 a 6 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,84 |  |  | Lençóis Maranhense com gás (250 a 300 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 |  |  | Lençóis Maranhense (mineral 5 a 6 L) | Port. 341/2012 |
 
-### Lençóis Maranhense com gás (330 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,86 |  |  | Lençóis Maranhense com gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,97 | +12.8% |  | Lençóis Maranhense com gás (330 ml) | Port. 283/2015 |
-
-### Lençóis Maranhense com gás (500 ml) (código —)
+### Lençóis Maranhense (mineral 5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 |  |  | Lençóis Maranhense com gás (500 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,37 |  | und | Lençóis Maranhense (mineral 5 L) | Port. 220/2011 |
 
-### Lençóis Maranhense com gás (descartável 300 ml) (código 45133)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,84 |  |  | Lençóis Maranhense com gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,10 | +31.0% |  | Lençóis Maranhense com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,16 | +5.5% |  | Lençóis Maranhense com gás (descartável 300 ml) | Port. 500/2024 |
-
-### Lençóis Maranhense com gás (descartável 330 ml) (código 48504)
+### Lençóis Maranhense (mineral copo 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Lençóis Maranhense com gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 | +30.9% |  | Lençóis Maranhense com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Lençóis Maranhense com gás (descartável 330 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Lençóis Maranhense (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,47 | +11.9% |  | Lençóis Maranhense (mineral copo 200 ml) | Port. 283/2015 |
 
-### Lençóis Maranhense com gás (descartável 510 ml) (código 48502)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 |  |  | Lençóis Maranhense com gás (descartável 510 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 | +30.2% |  | Lençóis Maranhense com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 | +5.3% |  | Lençóis Maranhense com gás (descartável 510 ml) | Port. 500/2024 |
-
-### Lençóis Maranhense com gás (garrafa 250 a 300 ml) (código —)
+### Lençóis Maranhense (mineral descartável 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Lençóis Maranhense com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,96 |  |  | Lençóis Maranhense (mineral descartável 1,5 L) | Port. 419/2018 |
 
-### Lençóis Maranhense PP (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,86 |  |  | Lençóis Maranhense PP (350 a 450 ml) | Port. 405/2018 |
-
-### Lençóis Maranhense PP (descartável 500 ml) (código 48892)
+### Lençóis Maranhense c/ gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,86 |  |  | Lençóis Maranhense PP (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,12 | +30.2% |  | Lençóis Maranhense PP (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,18 | +5.4% |  | Lençóis Maranhense PP (descartável 500 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | und | Lençóis Maranhense c/ gás (mineral 510 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 | +59.5% |  | Lençóis Maranhense c/ gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Lençóis Maranhense c/ gás (mineral 510 ml) | Port. 283/2015 |
 
-### Lençóis Maranhense PP (Pet) (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,53 |  | Und | Lençóis Maranhense PP (Pet) (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,73 | +37.7% |  | Lençóis Maranhense PP (Pet) (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,82 | +12.3% |  | Lençóis Maranhense PP (Pet) (500 ml) | Port. 283/2015 |
-
-### Lençóis Maranhense s/ gás (510 ml) (código —)
+### Lençóis Maranhense c/gás Pet (garrafa) (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,69 |  | und | Lençóis Maranhense s/ gás (510 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 | +37.7% |  | Lençóis Maranhense s/ gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Lençóis Maranhense s/ gás (510 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,41 |  | Und | Lençóis Maranhense c/gás Pet (garrafa) (mineral 300 ml) | Port. 220/2011 |
 
-### Lençóis Maranhense s/gás Pet (300 ml) (código —)
+### Lençóis Maranhense c/gás Pet (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 |  |  | Lençóis Maranhense s/gás Pet (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Lençóis Maranhense s/gás Pet (300 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,83 |  |  | Lençóis Maranhense c/gás Pet (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,94 | +13.3% |  | Lençóis Maranhense c/gás Pet (mineral 300 ml) | Port. 283/2015 |
 
-### Lençóis Maranhense s/gás Pet (garrafa) (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,39 |  | Und | Lençóis Maranhense s/gás Pet (garrafa) (300 ml) | Port. 220/2011 |
-
-### Lençóis Maranhense sem gás (10 L) (código —)
+### Lençóis Maranhense com gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,00 |  |  | Lençóis Maranhense sem gás (10 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,84 |  |  | Lençóis Maranhense com gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Lençóis Maranhense sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Lençóis Maranhense sem gás (20 L) | Port. 405/2018 |
-
-### Lençóis Maranhense sem gás (250 a 300 ml) (código —)
+### Lençóis Maranhense com gás (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Lençóis Maranhense sem gás (250 a 300 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,86 |  |  | Lençóis Maranhense com gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,97 | +12.8% |  | Lençóis Maranhense com gás (mineral 330 ml) | Port. 283/2015 |
 
-### Lençóis Maranhense sem gás (330 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,63 |  |  | Lençóis Maranhense sem gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,71 | +12.7% |  | Lençóis Maranhense sem gás (330 ml) | Port. 283/2015 |
-
-### Lençóis Maranhense sem gás (500 ml) (código —)
+### Lençóis Maranhense com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,95 |  |  | Lençóis Maranhense sem gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 |  |  | Lençóis Maranhense com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Lençóis Maranhense sem gás (copo 200 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,49 |  |  | Lençóis Maranhense sem gás (copo 200 a 300 ml) | Port. 405/2018 |
-
-### Lençóis Maranhense sem gás (copo 200 ml) (código 45645)
+### Lençóis Maranhense com gás (mineral descartável 300 ml) (código 45133)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,49 |  |  | Lençóis Maranhense sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,64 | +30.6% |  | Lençóis Maranhense sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,68 | +6.2% |  | Lençóis Maranhense sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,84 |  |  | Lençóis Maranhense com gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,10 | +31.0% |  | Lençóis Maranhense com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,16 | +5.5% |  | Lençóis Maranhense com gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Lençóis Maranhense sem gás (descartável 330 ml) (código 48560)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,74 |  |  | Lençóis Maranhense sem gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,96 | +29.7% |  | Lençóis Maranhense sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,01 | +5.2% |  | Lençóis Maranhense sem gás (descartável 330 ml) | Port. 500/2024 |
-
-### Lençóis Maranhense sem gás (garrafa 250 a 300 ml) (código —)
+### Lençóis Maranhense com gás (mineral descartável 330 ml) (código 48504)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,74 |  |  | Lençóis Maranhense sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Lençóis Maranhense com gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 | +30.9% |  | Lençóis Maranhense com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Lençóis Maranhense com gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Lençóis Maranhense sem gás (retornável 10 L) (código 48499)
+### Lençóis Maranhense com gás (mineral descartável 510 ml) (código 48502)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Lençóis Maranhense sem gás (retornável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Lençóis Maranhense sem gás (retornável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Lençóis Maranhense sem gás (retornável 10 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 |  |  | Lençóis Maranhense com gás (mineral descartável 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 | +30.2% |  | Lençóis Maranhense com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,59 | +5.3% |  | Lençóis Maranhense com gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Lençóis Maranhense com gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Lençóis Maranhense com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Lençóis Maranhense PP (mineral 350 a 450 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,86 |  |  | Lençóis Maranhense PP (mineral 350 a 450 ml) | Port. 405/2018 |
+
+### Lençóis Maranhense PP (mineral descartável 500 ml) (código 48892)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,86 |  |  | Lençóis Maranhense PP (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,12 | +30.2% |  | Lençóis Maranhense PP (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,18 | +5.4% |  | Lençóis Maranhense PP (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Lençóis Maranhense PP (Pet) (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,53 |  | Und | Lençóis Maranhense PP (Pet) (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,73 | +37.7% |  | Lençóis Maranhense PP (Pet) (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,82 | +12.3% |  | Lençóis Maranhense PP (Pet) (mineral 500 ml) | Port. 283/2015 |
+
+### Lençóis Maranhense s/ gás (mineral 510 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,69 |  | und | Lençóis Maranhense s/ gás (mineral 510 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 | +37.7% |  | Lençóis Maranhense s/ gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Lençóis Maranhense s/ gás (mineral 510 ml) | Port. 283/2015 |
+
+### Lençóis Maranhense s/gás Pet (garrafa) (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,39 |  | Und | Lençóis Maranhense s/gás Pet (garrafa) (mineral 300 ml) | Port. 220/2011 |
+
+### Lençóis Maranhense s/gás Pet (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 |  |  | Lençóis Maranhense s/gás Pet (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Lençóis Maranhense s/gás Pet (mineral 300 ml) | Port. 283/2015 |
+
+### Lençóis Maranhense sem gás (mineral 10 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,00 |  |  | Lençóis Maranhense sem gás (mineral 10 L) | Port. 405/2018 |
+
+### Lençóis Maranhense sem gás (mineral 20 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Lençóis Maranhense sem gás (mineral 20 L) | Port. 405/2018 |
+
+### Lençóis Maranhense sem gás (mineral 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Lençóis Maranhense sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Lençóis Maranhense sem gás (mineral 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,63 |  |  | Lençóis Maranhense sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,71 | +12.7% |  | Lençóis Maranhense sem gás (mineral 330 ml) | Port. 283/2015 |
+
+### Lençóis Maranhense sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,95 |  |  | Lençóis Maranhense sem gás (mineral 500 ml) | Port. 405/2018 |
+
+### Lençóis Maranhense sem gás (mineral copo 200 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,49 |  |  | Lençóis Maranhense sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
+
+### Lençóis Maranhense sem gás (mineral copo 200 ml) (código 45645)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,49 |  |  | Lençóis Maranhense sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,64 | +30.6% |  | Lençóis Maranhense sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,68 | +6.2% |  | Lençóis Maranhense sem gás (mineral copo 200 ml) | Port. 500/2024 |
+
+### Lençóis Maranhense sem gás (mineral descartável 330 ml) (código 48560)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,74 |  |  | Lençóis Maranhense sem gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,96 | +29.7% |  | Lençóis Maranhense sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,01 | +5.2% |  | Lençóis Maranhense sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Lençóis Maranhense sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,74 |  |  | Lençóis Maranhense sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Lençóis Maranhense sem gás (mineral retornável 10 L) (código 48499)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Lençóis Maranhense sem gás (mineral retornável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Lençóis Maranhense sem gás (mineral retornável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Lençóis Maranhense sem gás (mineral retornável 10 L) | Port. 500/2024 |
 
 ### Lençóis Maranhense sem gás – 5000 ml (código —)
 
@@ -6219,60 +6324,59 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,37 |  | und | Lençóis Maranhense (5 L) | Port. 220/2011 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,16 | +53.1% |  | Lençóis Maranhense – 5.000 ml | Port. 283/2015 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,16 |  |  | Lençóis Maranhense – 5.000 ml | Port. 283/2015 |
 
 ### Água Mineral Lençóis Maranhense 1.500 ml (código 48501)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2005-05-16 (pub.) | 2005-05-11 | incluir | 1,10 |  |  | Água Mineral Lençóis Maranhense 1.500 ml | Port. 275/2005 |
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 | +6.4% | und | Lençóis Maranhense (1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,65 | +41.0% |  | Lençóis Maranhense (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,86 | +12.7% |  | Lençóis Maranhense (1,5 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,96 | +5.4% |  | Lençóis Maranhense (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,56 | +30.6% |  | Lençóis Maranhense (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,70 | +5.5% |  | Lençóis Maranhenses (1,5 L) ⚠ | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 | +6.4% | und | Lençóis Maranhense (mineral 1,5 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,65 | +41.0% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,86 | +12.7% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,96 | +5.4% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,56 | +30.6% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,70 | +5.5% |  | Lençóis Maranhenses (mineral 1,5 L) ⚠ | Port. 500/2024 |
 
-### Lençóis Maranhenses sem gás (descartável 5 L) (código 48500)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,37 |  |  | Lençóis Maranhenses sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,70 | +30.4% |  | Lençóis Maranhenses sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,02 | +5.6% |  | Lençóis Maranhenses sem gás (descartável 5 L) | Port. 500/2024 |
-
-### Lençóis Maranhenses sem gás (descartável 510 ml) (código 48503)
+### Lençóis Maranhenses sem gás (mineral descartável 5 L) (código 48500)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Lençóis Maranhenses sem gás (descartável 510 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 | +30.5% |  | Lençóis Maranhenses sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Lençóis Maranhenses sem gás (descartável 510 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,37 |  |  | Lençóis Maranhenses sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,70 | +30.4% |  | Lençóis Maranhenses sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,02 | +5.6% |  | Lençóis Maranhenses sem gás (mineral descartável 5 L) | Port. 500/2024 |
 
-### Lençóis Maranhenses sem gás· (copo 300 ml) (código 45132)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 |  |  | Lençóis Maranhenses sem gás· (copo 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | Lençóis Maranhenses sem gás· (copo 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | Lençóis Maranhenses sem gás· (copo 300 ml) | Port. 500/2024 |
-
-### Lençóis Maranhese sem gás (2 L) (código 48280)
+### Lençóis Maranhenses sem gás (mineral descartável 510 ml) (código 48503)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Lençóis Maranhenses sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Lençóis Maranhenses sem gás (retornável 20 L) | Port. 215/2023 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,76 | +5.7% |  | Lençóis Maranhese sem gás (2 L) ⚠ | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +0.0% |  | Lençóis Maranhenses sem gás (retornável 20 L) ⚠ | Port. 500/2024 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,91 | +5.4% |  | Lençóis Maranhese sem gás (2 L) ⚠ | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Lençóis Maranhenses sem gás (mineral descartável 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 | +30.5% |  | Lençóis Maranhenses sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Lençóis Maranhenses sem gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Lençóis Maranhese sem gás (descartável 2 L) (código —)
+### Lençóis Maranhenses sem gás· (mineral copo 300 ml) (código 45132)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,12 |  |  | Lençóis Maranhese sem gás (descartável 2 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 |  |  | Lençóis Maranhenses sem gás· (mineral copo 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | Lençóis Maranhenses sem gás· (mineral copo 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | Lençóis Maranhenses sem gás· (mineral copo 300 ml) | Port. 500/2024 |
+
+### Lençóis Maranhese sem gás (mineral 2 L) (código 48280)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Lençóis Maranhenses sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Lençóis Maranhenses sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,76 | +5.7% |  | Lençóis Maranhese sem gás (mineral 2 L) ⚠ | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +0.0% |  | Lençóis Maranhenses sem gás (mineral retornável 20 L) ⚠ | Port. 500/2024 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,91 | +5.4% |  | Lençóis Maranhese sem gás (mineral 2 L) ⚠ | Port. 500/2024 |
+
+### Lençóis Maranhese sem gás (mineral descartável 2 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,12 |  |  | Lençóis Maranhese sem gás (mineral descartável 2 L) | Port. 419/2018 |
 
 ### Lençois Maranhese – 300 ml (código —)
 
@@ -6280,282 +6384,282 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Lençois Maranhese – 300 ml | Port. 405/2018 |
 
-### Lençol Maranhense sem gás (descartável 300 ml) (código 45132)
+### Lençol Maranhense sem gás (mineral descartável 300 ml) (código 45132)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Lençóis Maranhense sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 | +30.9% |  | Lençóis Maranhense sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Lençol Maranhense sem gás (descartável 300 ml) ⚠ | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Lençóis Maranhense sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 | +30.9% |  | Lençóis Maranhense sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Lençol Maranhense sem gás (mineral descartável 300 ml) ⚠ | Port. 500/2024 |
 
-### Luí com gás (descartável 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Luí com gás (descartável 300 ml) | Port. 419/2018 |
-
-### Luí com gás (descartável 330 ml) (código 47875)
+### Luí com gás (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Luí com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Luí com gás (descartável 330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Luí com gás (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Luí com gás (garrafa 250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 |  |  | Luí com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
-
-### Luí sem gás (descartável 300 ml) (código —)
+### Luí com gás (mineral descartável 330 ml) (código 47875)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Luí sem gás (descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Luí com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Luí com gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Luí sem gás (descartável 330 ml) (código 47876)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Luí sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Luí sem gás (descartável 330 ml) | Port. 500/2024 |
-
-### Luí sem gás (garrafa 250 a 300 ml) (código —)
+### Luí com gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 |  |  | Luí sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 |  |  | Luí com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Mar Doce (1,5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 |  | und | Mar Doce (1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,60 | +36.8% |  | Mar Doce (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,80 | +12.5% |  | Mar Doce (1,5 L) | Port. 283/2015 |
-
-### Mar doce (10 L) (código —)
+### Luí sem gás (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,87 |  | und | Mar doce (10 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,40 | +81.8% |  | Mar doce (10 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,35 | -1.5% |  | Mar doce (10 L) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Luí sem gás (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Mar doce (20 L) (código —)
+### Luí sem gás (mineral descartável 330 ml) (código 47876)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Mar doce (20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,52 | +28.4% |  | Mar doce (20 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,46 | -1.3% |  | Mar doce (20 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Luí sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Luí sem gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Mar doce (200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,29 |  | und | Mar doce (200 ml) | Port. 220/2011 |
-
-### Mar Doce (330 ml) (código —)
+### Luí sem gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,41 |  | Und | Mar doce (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,60 | +46.3% |  | Mar Doce (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,68 | +13.3% |  | Mar Doce (330 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 |  |  | Luí sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Mar doce (5 L) (código —)
+### Mar doce (copo) (mineral descartável 300 ml) (código 48263)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,32 |  | und | Mar doce (5 L) | Port. 220/2011 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,67 |  |  | Mar doce (copo) (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,87 | +29.9% |  | Mar doce (copo) (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,92 | +5.7% |  | Mar doce (copo) (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Mar doce (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | Mar doce (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 | +35.7% |  | Mar doce (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,80 | +5.3% |  | Mar doce (500 ml) | Port. 283/2015 |
-
-### Mar doce (copo 200 ml) (código —)
+### Mar doce (garrafa) (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,47 |  |  | Mar doce (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,49 | +4.3% |  | Mar doce (copo 200 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,82 |  |  | Mar doce (garrafa) (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Mar doce (garrafa) (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,38 |  | und | Mar doce (garrafa) (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,69 | +81.6% |  | Mar doce (garrafa) (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,78 | +13.0% |  | Mar doce (garrafa) (mineral 300 ml) | Port. 283/2015 |
+
+### Mar doce (garrafa) (mineral descartável 300 ml) (código 48379)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,82 |  |  | Mar doce (garrafa) (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,07 | +30.5% |  | Mar doce (garrafa) (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,13 | +5.6% |  | Mar doce (garrafa) (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Mar Doce (mineral 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 |  | und | Mar Doce (mineral 1,5 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,60 | +36.8% |  | Mar Doce (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,80 | +12.5% |  | Mar Doce (mineral 1,5 L) | Port. 283/2015 |
+
+### Mar doce (mineral 10 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,87 |  | und | Mar doce (mineral 10 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,40 | +81.8% |  | Mar doce (mineral 10 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,35 | -1.5% |  | Mar doce (mineral 10 L) | Port. 283/2015 |
+
+### Mar doce (mineral 20 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Mar doce (mineral 20 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,52 | +28.4% |  | Mar doce (mineral 20 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,46 | -1.3% |  | Mar doce (mineral 20 L) | Port. 283/2015 |
+
+### Mar doce (mineral 200 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,29 |  | und | Mar doce (mineral 200 ml) | Port. 220/2011 |
+
+### Mar Doce (mineral 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,41 |  | Und | Mar doce (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,60 | +46.3% |  | Mar Doce (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,68 | +13.3% |  | Mar Doce (mineral 330 ml) | Port. 283/2015 |
+
+### Mar doce (mineral 5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,32 |  | und | Mar doce (mineral 5 L) | Port. 220/2011 |
+
+### Mar doce (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | Mar doce (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 | +35.7% |  | Mar doce (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,80 | +5.3% |  | Mar doce (mineral 500 ml) | Port. 283/2015 |
+
+### Mar doce (mineral copo 200 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,47 |  |  | Mar doce (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,49 | +4.3% |  | Mar doce (mineral copo 200 ml) | Port. 283/2015 |
 
 ### ÁGUA MINERAL MAR DOCE (copo) 300 ml (código 48263)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2003-09-24 (assin.) | 2003-09-24 | incluir | 0,35 |  |  | ÁGUA MINERAL MAR DOCE (copo) 300 ml | Port. 369/2003 |
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,42 | +20.0% | und | Mar doce (copo) (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,57 | +35.7% |  | Mar doce (copo) (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,64 | +12.3% |  | Mar doce (copo) (300 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,67 | +4.7% |  | Mar doce (copo) (250 a 300 ml) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,87 | +29.9% |  | Mar doce (copo 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,92 | +5.7% |  | Mar doce (copo 300 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,42 | +20.0% | und | Mar doce (copo) (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,57 | +35.7% |  | Mar doce (copo) (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,64 | +12.3% |  | Mar doce (copo) (mineral 300 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,67 | +4.7% |  | Mar doce (copo) (mineral 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,87 | +29.9% |  | Mar doce (mineral copo 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,92 | +5.7% |  | Mar doce (mineral copo 300 ml) | Port. 500/2024 |
 
-### Mar doce (copo) (descartável 300 ml) (código 48263)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,67 |  |  | Mar doce (copo) (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,87 | +29.9% |  | Mar doce (copo) (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,92 | +5.7% |  | Mar doce (copo) (descartável 300 ml) | Port. 500/2024 |
-
-### Mar doce (descartável 10 L) (código —)
+### Mar doce (mineral descartável 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 7,00 |  |  | Mar doce (descartável 10 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 7,90 | +12.9% |  | Mar doce (descartável 10 L) | Port. 283/2015 |
-
-### Mar doce (garrafa) (250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,82 |  |  | Mar doce (garrafa) (250 a 300 ml) | Port. 405/2018 |
-
-### Mar doce (garrafa) (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,38 |  | und | Mar doce (garrafa) (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,69 | +81.6% |  | Mar doce (garrafa) (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,78 | +13.0% |  | Mar doce (garrafa) (300 ml) | Port. 283/2015 |
-
-### Mar doce (garrafa) (descartável 300 ml) (código 48379)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,82 |  |  | Mar doce (garrafa) (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,07 | +30.5% |  | Mar doce (garrafa) (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,13 | +5.6% |  | Mar doce (garrafa) (descartável 300 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 7,00 |  |  | Mar doce (mineral descartável 10 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 7,90 | +12.9% |  | Mar doce (mineral descartável 10 L) | Port. 283/2015 |
 
 ### Água Mineral Mar Doce sem gás 1.500 ml (código 48363)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-08-03 (pub.) | 2018-06-31 | alterar | 1,40 |  |  | Água Mineral Mar Doce sem gás 1.500 ml | Port. 277/2018 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,47 | +5.0% |  | Mar Doce sem gás (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,92 | +30.6% |  | Mar Doce sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,20 | +14.6% |  | Mar Doce sem gás (1,5 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,47 | +5.0% |  | Mar Doce sem gás (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,92 | +30.6% |  | Mar Doce sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,20 | +14.6% |  | Mar Doce sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Mar doce sem gás (10 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,00 |  |  | Mar doce sem gás (10 L) | Port. 405/2018 |
-
-### Mar doce sem gás (20 L) (código —)
+### Mar doce sem gás (mineral 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Mar doce sem gás (20 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,00 |  |  | Mar doce sem gás (mineral 10 L) | Port. 405/2018 |
 
-### Mar doce sem gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,74 |  |  | Mar doce sem gás (500 ml) | Port. 405/2018 |
-
-### Mar doce sem gás (copo 200 a 300 ml) (código —)
+### Mar doce sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,38 |  |  | Mar doce sem gás (copo 200 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Mar doce sem gás (mineral 20 L) | Port. 405/2018 |
 
-### Mar Doce sem gás (descartável 1 L) (código 50966)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Mar Doce sem gás (descartável 1 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Mar Doce sem gás (descartável 1 L) | Port. 500/2024 |
-
-### Mar Doce sem gás (descartável 1,5 L) (código —)
+### Mar doce sem gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,47 |  |  | Mar Doce sem gás (descartável 1,5 L) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,74 |  |  | Mar doce sem gás (mineral 500 ml) | Port. 405/2018 |
 
-### Mar Doce sem gás (descartável 10 L) (código 49903)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 7,50 |  |  | Mar Doce sem gás (descartável 10 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 7,50 | +0.0% |  | Mar Doce sem gás (descartável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 9,78 | +30.4% |  | Mar Doce sem gás (descartável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 10,32 | +5.5% |  | Mar Doce sem gás (descartável 10 L) | Port. 500/2024 |
-
-### Mar Doce sem gás (descartável 300 ml) (código —)
+### Mar doce sem gás (mineral copo 200 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,57 |  |  | Mar Doce sem gás (descartável 300 ml) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,38 |  |  | Mar doce sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
 
-### Mar Doce sem gás (descartável 330 ml) (código 48365)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,70 |  |  | Mar Doce Sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,74 | +5.7% |  | Mar Doce sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,74 | +0.0% |  | Mar Doce Sem gás (descartável 330 ml) | Port. 500/2024 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,78 | +5.4% |  | Mar Doce sem gás (descartável 330 ml) | Port. 500/2024 |
-
-### Mar doce sem gás (descartável 5 L) (código 48262)
+### Mar Doce sem gás (mineral descartável 1 L) (código 50966)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,34 |  |  | Mar doce sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,66 | +30.4% |  | Mar doce sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,97 | +5.5% |  | Mar doce sem gás (descartável 5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Mar Doce sem gás (mineral descartável 1 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Mar Doce sem gás (mineral descartável 1 L) | Port. 500/2024 |
 
-### Mar doce sem gás (descartável 500 ml) (código 48364)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,74 |  |  | Mar doce sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,96 | +29.7% |  | Mar doce sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,01 | +5.2% |  | Mar doce sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### Mar Doce sem gás (descartável 510 ml) (código 50967)
+### Mar Doce sem gás (mineral descartável 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,98 |  |  | Mar Doce sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,03 | +5.1% |  | Mar Doce sem gás (descartável 510 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,47 |  |  | Mar Doce sem gás (mineral descartável 1,5 L) | Port. 419/2018 |
 
-### Mar doce sem gás (descartável 6 L) (código 48469)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,05 |  |  | Mar doce sem gás (descartável 6 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,58 | +30.3% |  | Mar doce sem gás (descartável 6 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,95 | +5.6% |  | Mar doce sem gás (descartável 6 L) | Port. 500/2024 |
-
-### Mar Doce sem gás (garrafa 250 a 300 ml) (código —)
+### Mar Doce sem gás (mineral descartável 10 L) (código 49903)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,57 |  |  | Mar Doce sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 7,50 |  |  | Mar Doce sem gás (mineral descartável 10 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 7,50 | +0.0% |  | Mar Doce sem gás (mineral descartável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 9,78 | +30.4% |  | Mar Doce sem gás (mineral descartável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 10,32 | +5.5% |  | Mar Doce sem gás (mineral descartável 10 L) | Port. 500/2024 |
 
-### Mar doce sem gás (retornável 10 L) (código 48261)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Mar doce sem gás (retornável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Mar doce sem gás (retornável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Mar doce sem gás (retornável 10 L) | Port. 500/2024 |
-
-### Mar doce sem gás (retornável 20 L) (código 48259)
+### Mar Doce sem gás (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Mar doce sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Mar doce sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Mar doce sem gás (retornável 20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,57 |  |  | Mar Doce sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+
+### Mar Doce sem gás (mineral descartável 330 ml) (código 48365)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,70 |  |  | Mar Doce Sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,74 | +5.7% |  | Mar Doce sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,74 | +0.0% |  | Mar Doce Sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,78 | +5.4% |  | Mar Doce sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Mar doce sem gás (mineral descartável 5 L) (código 48262)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,34 |  |  | Mar doce sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,66 | +30.4% |  | Mar doce sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,97 | +5.5% |  | Mar doce sem gás (mineral descartável 5 L) | Port. 500/2024 |
+
+### Mar doce sem gás (mineral descartável 500 ml) (código 48364)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,74 |  |  | Mar doce sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,96 | +29.7% |  | Mar doce sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,01 | +5.2% |  | Mar doce sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Mar Doce sem gás (mineral descartável 510 ml) (código 50967)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,98 |  |  | Mar Doce sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,03 | +5.1% |  | Mar Doce sem gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Mar doce sem gás (mineral descartável 6 L) (código 48469)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,05 |  |  | Mar doce sem gás (mineral descartável 6 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,58 | +30.3% |  | Mar doce sem gás (mineral descartável 6 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,95 | +5.6% |  | Mar doce sem gás (mineral descartável 6 L) | Port. 500/2024 |
+
+### Mar Doce sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,57 |  |  | Mar Doce sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Mar doce sem gás (mineral retornável 10 L) (código 48261)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Mar doce sem gás (mineral retornável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Mar doce sem gás (mineral retornável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Mar doce sem gás (mineral retornável 10 L) | Port. 500/2024 |
+
+### Mar doce sem gás (mineral retornável 20 L) (código 48259)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Mar doce sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Mar doce sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Mar doce sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Mar doce sem gás – 5.000 ml (código —)
 
@@ -6569,37 +6673,37 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,05 |  |  | Mar doce sem gás – 6.000 ml | Port. 405/2018 |
 
-### Marquesa com gás (350 a 450 ml) (código —)
+### Marquesa com gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,26 |  |  | Marquesa com gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,26 |  |  | Marquesa com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Marquesa com gás (descartável 300 ml) (código 50180)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,15 |  |  | Marquesa com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,21 | +5.2% |  | Marquesa com gás (descartável 300 ml) | Port. 500/2024 |
-
-### Marquesa com gás (descartável 310 ml) (código —)
+### Marquesa com gás (mineral descartável 300 ml) (código 50180)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,88 |  |  | Marquesa com gás (descartável 310 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,15 |  |  | Marquesa com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,21 | +5.2% |  | Marquesa com gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Marquesa com gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,26 |  |  | Marquesa com gás (descartável 350 ml) | Port. 419/2018 |
-
-### Marquesa com gás (descartável 500 ml) (código 50178)
+### Marquesa com gás (mineral descartável 310 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,64 |  |  | Marquesa com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,73 | +5.5% |  | Marquesa com gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,88 |  |  | Marquesa com gás (mineral descartável 310 ml) | Port. 419/2018 |
+
+### Marquesa com gás (mineral descartável 350 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,26 |  |  | Marquesa com gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Marquesa com gás (mineral descartável 500 ml) (código 50178)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,64 |  |  | Marquesa com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,73 | +5.5% |  | Marquesa com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
 ### Marquesa com gás – 300 ml (código —)
 
@@ -6607,71 +6711,71 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,88 |  |  | Marquesa com gás – 300 ml | Port. 405/2018 |
 
-### Marquesa sem gás (1 L) (código —)
+### Marquesa sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,10 |  |  | Marquesa sem gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,10 |  |  | Marquesa sem gás (mineral 1 L) | Port. 405/2018 |
 
 ### Água Mineral Marquesa sem gás 1.500 ml (código 50177)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-06-20 (pub.) | 2018-06-14 | incluir | 2,00 |  |  | Água Mineral Marquesa sem gás 1.500 ml | Port. 207/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,74 | +37.0% |  | Marquesa sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,89 | +5.5% |  | Marquesa sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,74 | +37.0% |  | Marquesa sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,89 | +5.5% |  | Marquesa sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Marquesa sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,00 |  |  | Marquesa sem gás (20 L) | Port. 405/2018 |
-
-### Marquesa sem gás (350 a 450 ml) (código —)
+### Marquesa sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Marquesa sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,00 |  |  | Marquesa sem gás (mineral 20 L) | Port. 405/2018 |
 
-### Marquesa sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,10 |  |  | Marquesa sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Marquesa sem gás (descartável 300 ml) (código 50181)
+### Marquesa sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 |  |  | Marquesa sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | Marquesa sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Marquesa sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Marquesa sem gás (descartável 310 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 |  |  | Marquesa sem gás (descartável 310 ml) | Port. 419/2018 |
-
-### Marquesa sem gás (descartável 350 ml) (código —)
+### Marquesa sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Marquesa sem gás (descartável 350 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,10 |  |  | Marquesa sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Marquesa sem gás (descartável 500 ml) (código 50179)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 |  |  | Marquesa sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Marquesa sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### Marquesa sem gás (retornável 20 L) (código 50176)
+### Marquesa sem gás (mineral descartável 300 ml) (código 50181)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Marquesa sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Marquesa sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Marquesa sem gás (retornável 20 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 |  |  | Marquesa sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | Marquesa sem gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Marquesa sem gás (mineral descartável 310 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 |  |  | Marquesa sem gás (mineral descartável 310 ml) | Port. 419/2018 |
+
+### Marquesa sem gás (mineral descartável 350 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Marquesa sem gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Marquesa sem gás (mineral descartável 500 ml) (código 50179)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 |  |  | Marquesa sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Marquesa sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Marquesa sem gás (mineral retornável 20 L) (código 50176)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Marquesa sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Marquesa sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Marquesa sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Marquesa sem gás – 300 ml (código —)
 
@@ -6679,543 +6783,543 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,83 |  |  | Marquesa sem gás – 300 ml | Port. 405/2018 |
 
-### Minalba (1,5 L) (código —)
+### Minalba (mineral 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,57 |  | und | Minalba (1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,51 | +59.9% |  | Minalba (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,83 | +12.7% |  | Minalba (1,5 L) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,57 |  | und | Minalba (mineral 1,5 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,51 | +59.9% |  | Minalba (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,83 | +12.7% |  | Minalba (mineral 1,5 L) | Port. 283/2015 |
 
-### Minalba c/ gás (1 L) (código —)
+### Minalba c/ gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,36 |  | und | Minalba c/ gás (1 L) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,36 |  | und | Minalba c/ gás (mineral 1 L) | Port. 220/2011 |
 
-### Minalba Classic com gás (330 ml) (código —)
+### Minalba Classic com gás (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,81 |  | und | Minalba Classic com gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +4.9% |  | Minalba Classic com gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Minalba Classic com gás (330 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,81 |  | und | Minalba Classic com gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +4.9% |  | Minalba Classic com gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Minalba Classic com gás (mineral 330 ml) | Port. 283/2015 |
 
-### Minalba Classic com gás (descartável 330 ml) (código 48348)
+### Minalba Classic com gás (mineral descartável 330 ml) (código 48348)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Minalba Classic com gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Minalba Classic com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Minalba Classic com gás (descartável 330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Minalba Classic com gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Minalba Classic com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Minalba Classic com gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Minalba Classic com gás (garrafa 250 a 300 ml) (código —)
+### Minalba Classic com gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Minalba Classic com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Minalba Classic com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Minalba Classic sem gás (330 ml) (código —)
+### Minalba Classic sem gás (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | und | Minalba Classic sem gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,81 | +9.5% |  | Minalba Classic sem gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,91 | +12.3% |  | Minalba Classic sem gás (330 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | und | Minalba Classic sem gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,81 | +9.5% |  | Minalba Classic sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,91 | +12.3% |  | Minalba Classic sem gás (mineral 330 ml) | Port. 283/2015 |
 
-### Minalba Classic sem gás (descartável 330 ml) (código 48349)
+### Minalba Classic sem gás (mineral descartável 330 ml) (código 48349)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,96 |  |  | Minalba Classic sem gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,25 | +30.2% |  | Minalba Classic sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,32 | +5.6% |  | Minalba Classic sem gás (descartável 330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,96 |  |  | Minalba Classic sem gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,25 | +30.2% |  | Minalba Classic sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,32 | +5.6% |  | Minalba Classic sem gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Minalba Classic sem gás (garrafa 250 a 300 ml) (código —)
+### Minalba Classic sem gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,96 |  |  | Minalba Classic sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,96 |  |  | Minalba Classic sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Minalba com gás (1 L) (código —)
+### Minalba com gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,38 |  |  | Minalba com gás (1 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,56 | +13.0% |  | Minalba com gás (1 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,64 | +5.1% |  | Minalba com gás (1 L) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,38 |  |  | Minalba com gás (mineral 1 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,56 | +13.0% |  | Minalba com gás (mineral 1 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,64 | +5.1% |  | Minalba com gás (mineral 1 L) | Port. 405/2018 |
 
-### Minalba com gás (2 L) (código 48382)
+### Minalba com gás (mineral 2 L) (código 48382)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,90 |  |  | Minalba com gás (2 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,76 | +45.3% |  | Minalba com gás (2 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,91 | +5.4% |  | Minalba com gás (2 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,90 |  |  | Minalba com gás (mineral 2 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,76 | +45.3% |  | Minalba com gás (mineral 2 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,91 | +5.4% |  | Minalba com gás (mineral 2 L) | Port. 500/2024 |
 
-### Minalba com gás (330 ml) (código —)
+### Minalba com gás (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | und | Minalba com gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +9.7% |  | Minalba com gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Minalba com gás (330 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | und | Minalba com gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +9.7% |  | Minalba com gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Minalba com gás (mineral 330 ml) | Port. 283/2015 |
 
-### Minalba com gás (descartável 1 L) (código 48128)
+### Minalba com gás (mineral descartável 1 L) (código 48128)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,64 |  |  | Minalba com gás (descartável 1 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,14 | +30.5% |  | Minalba com gás (descartável 1 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,26 | +5.6% |  | Minalba com gás (descartável 1 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,64 |  |  | Minalba com gás (mineral descartável 1 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,14 | +30.5% |  | Minalba com gás (mineral descartável 1 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,26 | +5.6% |  | Minalba com gás (mineral descartável 1 L) | Port. 500/2024 |
 
-### Minalba com gás (descartável 2 L) (código —)
+### Minalba com gás (mineral descartável 2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,12 |  |  | Minalba com gás (descartável 2 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,12 |  |  | Minalba com gás (mineral descartável 2 L) | Port. 419/2018 |
 
-### Minalba com gás (descartável 330 ml) (código 48286)
+### Minalba com gás (mineral descartável 330 ml) (código 48286)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Minalba com gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 | +30.9% |  | Minalba com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Minalba com gás (descartável 330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Minalba com gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 | +30.9% |  | Minalba com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Minalba com gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Minalba com gás (descartável 510 ml) (código 50964)
+### Minalba com gás (mineral descartável 510 ml) (código 50964)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Minalba com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Minalba com gás (descartável 510 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Minalba com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Minalba com gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Minalba com gás (garrafa 250 a 300 ml) (código —)
+### Minalba com gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Minalba com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Minalba com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Minalba Prem (vidro) c/gás (300 ml) (código —)
+### Minalba Prem (vidro) c/gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,49 |  |  | Minalba Prem (vidro) c/gás (300 ml) | Port. 283/2015 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,49 |  |  | Minalba Prem (vidro) c/gás (mineral 300 ml) | Port. 283/2015 |
 
-### Minalba Premium com gás – vidro (descartável 300 ml) (código 49753)
+### Minalba Premium com gás – vidro (mineral descartável 300 ml) (código 49753)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,62 |  |  | Minalba Premiun com gás – vidro (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,42 | +30.5% |  | Minalba Premiun com gás – vidro (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,61 | +5.6% |  | Minalba Premium com gás – vidro (descartável 300 ml) ⚠ | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,62 |  |  | Minalba Premiun com gás – vidro (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,42 | +30.5% |  | Minalba Premiun com gás – vidro (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,61 | +5.6% |  | Minalba Premium com gás – vidro (mineral descartável 300 ml) ⚠ | Port. 500/2024 |
 
-### Minalba Premium sem gás – vidro (descartável 300 ml) (código 48361)
+### Minalba Premium sem gás – vidro (mineral descartável 300 ml) (código 48361)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,62 |  |  | Minalba Premiun sem gás – vidro (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,42 | +30.5% |  | Minalba Premiun sem gás – vidro (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,61 | +5.6% |  | Minalba Premium sem gás – vidro (descartável 300 ml) ⚠ | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,62 |  |  | Minalba Premiun sem gás – vidro (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,42 | +30.5% |  | Minalba Premiun sem gás – vidro (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,61 | +5.6% |  | Minalba Premium sem gás – vidro (mineral descartável 300 ml) ⚠ | Port. 500/2024 |
 
-### Minalba sem gás (1,5 L) (código 48284)
+### Minalba sem gás (mineral 1,5 L) (código 48284)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,98 |  |  | Minalba sem gás (1,5 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,89 | +30.5% |  | Minalba sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,11 | +5.7% |  | Minalba sem gás (1,5 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,98 |  |  | Minalba sem gás (mineral 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,89 | +30.5% |  | Minalba sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,11 | +5.7% |  | Minalba sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Minalba sem gás (250 a 300 ml) (código —)
+### Minalba sem gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Minalba sem gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Minalba sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Minalba sem gás (300 ml) (código —)
+### Minalba sem gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,43 |  | und | Minalba sem gás (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 | +23.3% |  | Minalba sem gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Minalba sem gás (300 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,43 |  | und | Minalba sem gás (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 | +23.3% |  | Minalba sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Minalba sem gás (mineral 300 ml) | Port. 283/2015 |
 
-### Minalba sem gás (330 ml) (código —)
+### Minalba sem gás (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | und | Minalba sem gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +9.7% |  | Minalba sem gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Minalba sem gás (330 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | und | Minalba sem gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +9.7% |  | Minalba sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Minalba sem gás (mineral 330 ml) | Port. 283/2015 |
 
-### Minalba sem gás (descartável 1,5 L) (código —)
+### Minalba sem gás (mineral descartável 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,98 |  |  | Minalba sem gás (descartável 1,5 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,98 |  |  | Minalba sem gás (mineral descartável 1,5 L) | Port. 419/2018 |
 
-### Minalba sem gás (descartável 300 ml) (código 48387)
+### Minalba sem gás (mineral descartável 300 ml) (código 48387)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 |  |  | Minalba sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | Minalba sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | Minalba sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 |  |  | Minalba sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | Minalba sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | Minalba sem gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Minalba sem gás (descartável 330 ml) (código 48386)
+### Minalba sem gás (mineral descartável 330 ml) (código 48386)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Minalba sem gás (descartável 330 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 | +30.9% |  | Minalba sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Minalba sem gás (descartável 330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,81 |  |  | Minalba sem gás (mineral descartável 330 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,06 | +30.9% |  | Minalba sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,12 | +5.7% |  | Minalba sem gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Minalba sem gás (descartável 510 ml) (código 50965)
+### Minalba sem gás (mineral descartável 510 ml) (código 50965)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,89 |  |  | Minalba sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,00 | +5.8% |  | Minalba sem gás (descartável 510 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,89 |  |  | Minalba sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,00 | +5.8% |  | Minalba sem gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Minalba sem gás (garrafa 250 a 300 ml) (código —)
+### Minalba sem gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Minalba sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,81 |  |  | Minalba sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Minavida (20 L) (código 50511)
+### Minavida (natural 20 L) (código 50511)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Minavida (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Minavida (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Minavida (20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Minavida (natural 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Minavida (natural 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Minavida (natural 20 L) | Port. 500/2024 |
 
-### Nat Minalba Premi (vidro) s/gás (250 a 300 ml) (código —)
+### Nat Minalba Premi (vidro) s/gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,62 |  |  | Nat Minalba Premi (vidro) s/gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,62 |  |  | Nat Minalba Premi (vidro) s/gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Nat Minalba Premi (vidro) s/gás (300 ml) (código —)
+### Nat Minalba Premi (vidro) s/gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,21 |  |  | Nat Minalba Premi (vidro) s/gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,49 | +12.7% |  | Nat Minalba Premi (vidro) s/gás (300 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,21 |  |  | Nat Minalba Premi (vidro) s/gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,49 | +12.7% |  | Nat Minalba Premi (vidro) s/gás (mineral 300 ml) | Port. 283/2015 |
 
-### Natl Minalba Prem (vidro) c/gás (250 a 300 ml) (código —)
+### Natl Minalba Prem (vidro) c/gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,62 |  |  | Natl Minalba Prem (vidro) c/gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,62 |  |  | Natl Minalba Prem (vidro) c/gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Natl Minalba Prem (vidro) c/gás (300 ml) (código —)
+### Natl Minalba Prem (vidro) c/gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,21 |  |  | Natl Minalba Prem (vidro) c/gás (300 ml) | Port. 341/2012 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,21 |  |  | Natl Minalba Prem (vidro) c/gás (mineral 300 ml) | Port. 341/2012 |
 
-### Natural Minalba Premium (vidro) c/gás (300 ml) (código —)
+### Natural Minalba Premium (vidro) c/gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,13 |  | Und | Natural Minalba Premium (vidro) c/gás (300 ml) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,13 |  | Und | Natural Minalba Premium (vidro) c/gás (mineral 300 ml) | Port. 220/2011 |
 
-### Natural Minalba Premium (vidro) s/gás (300 ml) (código —)
+### Natural Minalba Premium (vidro) s/gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,13 |  | und | Natural Minalba Premium (vidro) s/gás (300 ml) | Port. 220/2011 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,13 |  | und | Natural Minalba Premium (vidro) s/gás (mineral 300 ml) | Port. 220/2011 |
 
-### Nestlê com gás (1 L) (código —)
+### Nestlê com gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,31 |  |  | Nestlê com gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,31 |  |  | Nestlê com gás (mineral 1 L) | Port. 405/2018 |
 
-### Nestlé com gás (1,5 L) (código 12053)
+### Nestlé com gás (mineral 1,5 L) (código 12053)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,95 |  |  | Nestlê com gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,20 | +12.8% |  | Nestlê com gás (1,5 L) | Port. 283/2015 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,01 | +36.8% |  | Nestlé com gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,18 | +5.6% |  | Nestlé com gás (1,5 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,95 |  |  | Nestlê com gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,20 | +12.8% |  | Nestlê com gás (mineral 1,5 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,01 | +36.8% |  | Nestlé com gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,18 | +5.6% |  | Nestlé com gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Nestlê com gás (250 a 300 ml) (código —)
+### Nestlê com gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Nestlê com gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Nestlê com gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Nestlê com gás (300 ml) (código —)
+### Nestlê com gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | Nestlê com gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Nestlê com gás (300 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | Nestlê com gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Nestlê com gás (mineral 300 ml) | Port. 283/2015 |
 
-### Nestlê com gás (500 ml) (código —)
+### Nestlê com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,13 |  |  | Nestlê com gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,13 |  |  | Nestlê com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Nestlê com gás (510 ml) (código —)
+### Nestlê com gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 |  |  | Nestlê com gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Nestlê com gás (510 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 |  |  | Nestlê com gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Nestlê com gás (mineral 510 ml) | Port. 283/2015 |
 
-### Nestlé com gás (descartável 1 L) (código —)
+### Nestlé com gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,31 |  |  | Nestlé com gás (descartável 1 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,31 |  |  | Nestlé com gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Nestle com gás (descartável 300 ml) (código 48118)
+### Nestle com gás (mineral descartável 300 ml) (código 48118)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 |  |  | Nestlê com gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | Nestlê com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | Nestle com gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,63 |  |  | Nestlê com gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,82 | +30.2% |  | Nestlê com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,87 | +6.1% |  | Nestle com gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Nestlê com gás (descartável 500 ml) (código —)
+### Nestlê com gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,13 |  |  | Nestlê com gás (descartável 500 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,13 |  |  | Nestlê com gás (mineral descartável 500 ml) | Port. 419/2018 |
 
-### Nestlê com gás (descartável 510 ml) (código 45625)
+### Nestlê com gás (mineral descartável 510 ml) (código 45625)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,47 |  |  | Nestlê com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,55 | +5.4% |  | Nestlê com gás (descartável 510 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,47 |  |  | Nestlê com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,55 | +5.4% |  | Nestlê com gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Nestlê sem gás (1 L) (código —)
+### Nestlê sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,21 |  |  | Nestlê sem gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,21 |  |  | Nestlê sem gás (mineral 1 L) | Port. 405/2018 |
 
-### Nestlé sem gás (1,5 L) (código 12078)
+### Nestlé sem gás (mineral 1,5 L) (código 12078)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,86 |  |  | Nestlê sem gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,10 | +12.9% |  | Nestlê sem gás (1,5 L) | Port. 283/2015 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,88 | +37.1% |  | Nestlé sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,04 | +5.6% |  | Nestlé sem gás (1,5 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,86 |  |  | Nestlê sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,10 | +12.9% |  | Nestlê sem gás (mineral 1,5 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,88 | +37.1% |  | Nestlé sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,04 | +5.6% |  | Nestlé sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Nestlê sem gás (250 a 300 ml) (código —)
+### Nestlê sem gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,96 |  |  | Nestlê sem gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,96 |  |  | Nestlê sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Nestlê sem gás (300 ml) (código —)
+### Nestlê sem gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,81 |  |  | Nestlê sem gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,91 | +12.3% |  | Nestlê sem gás (300 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,81 |  |  | Nestlê sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,91 | +12.3% |  | Nestlê sem gás (mineral 300 ml) | Port. 283/2015 |
 
-### Nestlê sem gás (500 ml) (código —)
+### Nestlê sem gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,89 |  |  | Nestlê sem gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,89 |  |  | Nestlê sem gás (mineral 500 ml) | Port. 405/2018 |
 
-### Nestlê sem gás (510 ml) (código —)
+### Nestlê sem gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,75 |  |  | Nestlê sem gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,85 | +13.3% |  | Nestlê sem gás (510 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,75 |  |  | Nestlê sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,85 | +13.3% |  | Nestlê sem gás (mineral 510 ml) | Port. 283/2015 |
 
-### Nestlé sem gás (descartável 1 L) (código —)
+### Nestlé sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,21 |  |  | Nestlé sem gás (descartável 1 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,21 |  |  | Nestlé sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Nestlê sem gás (descartável 300 ml) (código 48119)
+### Nestlê sem gás (mineral descartável 300 ml) (código 48119)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,96 |  |  | Nestlê sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,25 | +30.2% |  | Nestlê sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,32 | +5.6% |  | Nestlê sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,96 |  |  | Nestlê sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,25 | +30.2% |  | Nestlê sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,32 | +5.6% |  | Nestlê sem gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Nestlê sem gás (descartável 500 ml) (código —)
+### Nestlê sem gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,89 |  |  | Nestlê sem gás (descartável 500 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,89 |  |  | Nestlê sem gás (mineral descartável 500 ml) | Port. 419/2018 |
 
-### Nestlê sem gás (descartável 510 ml) (código 45032)
+### Nestlê sem gás (mineral descartável 510 ml) (código 45032)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,16 |  |  | Nestlê sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,22 | +5.2% |  | Nestlê sem gás (descartável 510 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,16 |  |  | Nestlê sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,22 | +5.2% |  | Nestlê sem gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Ouro Branco (20 L) (código 49086)
+### Ouro Branco (adicionada de sais 20 L) (código 49086)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,30 |  |  | Ouro Branco (5 a 20 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 | -2.3% |  | Ouro Branco (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Ouro Branco (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Ouro Branco (20 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,30 |  |  | Ouro Branco (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 | -2.3% |  | Ouro Branco (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Ouro Branco (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Ouro Branco (adicionada de sais 20 L) | Port. 500/2024 |
 
-### Ouro da Mina (1,5 L) (código —)
+### Ouro da Mina (mineral 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,25 |  |  | Ouro da Mina (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,01 | +60.8% |  | Ouro da Mina (1,5 L) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,25 |  |  | Ouro da Mina (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,01 | +60.8% |  | Ouro da Mina (mineral 1,5 L) | Port. 283/2015 |
 
-### Ouro da Mina (10 L) (código —)
+### Ouro da Mina (mineral 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,95 |  |  | Ouro da Mina (10 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,57 | +83.1% |  | Ouro da Mina (10 L) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,95 |  |  | Ouro da Mina (mineral 10 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,57 | +83.1% |  | Ouro da Mina (mineral 10 L) | Port. 283/2015 |
 
-### Ouro da Mina (20 L) (código —)
+### Ouro da Mina (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,54 |  |  | Ouro da Mina (20 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,70 | +32.8% |  | Ouro da Mina (20 L) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,54 |  |  | Ouro da Mina (mineral 20 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,70 | +32.8% |  | Ouro da Mina (mineral 20 L) | Port. 283/2015 |
 
-### Ouro da MIna (300 ml) (código —)
+### Ouro da MIna (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Ouro da MIna (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,79 | +88.1% |  | Ouro da MIna (300 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Ouro da MIna (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,79 | +88.1% |  | Ouro da MIna (mineral 300 ml) | Port. 283/2015 |
 
-### Ouro da Mina (500 ml) (código —)
+### Ouro da Mina (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 |  |  | Ouro da Mina (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,00 | +72.4% |  | Ouro da Mina (500 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 |  |  | Ouro da Mina (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,00 | +72.4% |  | Ouro da Mina (mineral 500 ml) | Port. 283/2015 |
 
-### Ouro da Mina (copo 200 ml) (código —)
+### Ouro da Mina (mineral copo 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,30 |  |  | Ouro da Mina (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,56 | +86.7% |  | Ouro da Mina (copo 200 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,30 |  |  | Ouro da Mina (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,56 | +86.7% |  | Ouro da Mina (mineral copo 200 ml) | Port. 283/2015 |
 
-### Ouro da Mina sem gás (1 L) (código —)
+### Ouro da Mina sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,11 |  |  | Ouro da Mina sem gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,11 |  |  | Ouro da Mina sem gás (mineral 1 L) | Port. 405/2018 |
 
-### Ouro da Mina sem gás (1,5 L) (código 12061)
+### Ouro da Mina sem gás (mineral 1,5 L) (código 12061)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,75 |  |  | Ouro da Mina sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,90 | +5.5% |  | Ouro da Mina sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,75 |  |  | Ouro da Mina sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,90 | +5.5% |  | Ouro da Mina sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Ouro da Mina sem gás (10 L) (código —)
+### Ouro da Mina sem gás (mineral 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 |  |  | Ouro da Mina sem gás (10 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 |  |  | Ouro da Mina sem gás (mineral 10 L) | Port. 405/2018 |
 
-### Ouro da Mina sem gás (20 L) (código —)
+### Ouro da Mina sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,00 |  |  | Ouro da Mina sem gás (20 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,00 |  |  | Ouro da Mina sem gás (mineral 20 L) | Port. 405/2018 |
 
-### Ouro da Mina sem gás (250 a 300 ml) (código —)
+### Ouro da Mina sem gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,83 |  |  | Ouro da Mina sem gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,83 |  |  | Ouro da Mina sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Ouro da Mina sem gás (350 a 450 ml) (código —)
+### Ouro da Mina sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Ouro da Mina sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Ouro da Mina sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Ouro da Mina sem gás (copo 200 a 300 ml) (código —)
+### Ouro da Mina sem gás (mineral copo 200 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,59 |  |  | Ouro da Mina sem gás (copo 200 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,59 |  |  | Ouro da Mina sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
 
-### Ouro da Mina sem gás (copo 200 ml) (código 48362)
+### Ouro da Mina sem gás (mineral copo 200 ml) (código 48362)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,59 |  |  | Ouro da Mina sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,77 | +30.5% |  | Ouro da Mina sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,81 | +5.2% |  | Ouro da Mina sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,59 |  |  | Ouro da Mina sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,77 | +30.5% |  | Ouro da Mina sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,81 | +5.2% |  | Ouro da Mina sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
-### Ouro da Mina sem gás (descartável 1 L) (código —)
+### Ouro da Mina sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,11 |  |  | Ouro da Mina sem gás (descartável 1 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,11 |  |  | Ouro da Mina sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Ouro da Mina sem gás (descartável 300 ml) (código 48013)
+### Ouro da Mina sem gás (mineral descartável 300 ml) (código 48013)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 |  |  | Ouro da Mina sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 | +30.1% |  | Ouro da Mina sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | Ouro da Mina sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 |  |  | Ouro da Mina sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 | +30.1% |  | Ouro da Mina sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | Ouro da Mina sem gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Ouro da Mina sem gás (descartável 350 ml) (código —)
+### Ouro da Mina sem gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Ouro da Mina sem gás (descartável 350 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Ouro da Mina sem gás (mineral descartável 350 ml) | Port. 419/2018 |
 
-### Ouro da Mina sem gás (descartável 5 L) (código 48301)
+### Ouro da Mina sem gás (mineral descartável 5 L) (código 48301)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 6,00 |  |  | Ouro da Mina sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,82 | +30.3% |  | Ouro da Mina sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 8,25 | +5.5% |  | Ouro da Mina sem gás (descartável 5 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 6,00 |  |  | Ouro da Mina sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,82 | +30.3% |  | Ouro da Mina sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 8,25 | +5.5% |  | Ouro da Mina sem gás (mineral descartável 5 L) | Port. 500/2024 |
 
-### Ouro da Mina sem gás (descartável 500 ml) (código 48410)
+### Ouro da Mina sem gás (mineral descartável 500 ml) (código 48410)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 |  |  | Ouro da Mina sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Ouro da Mina sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 |  |  | Ouro da Mina sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Ouro da Mina sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Ouro da Mina sem gás (retornável 10 L) (código 48297)
+### Ouro da Mina sem gás (mineral retornável 10 L) (código 48297)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Ouro da Mina sem gás (retornável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Ouro da Mina sem gás (retornável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Ouro da Mina sem gás (retornável 10 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Ouro da Mina sem gás (mineral retornável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Ouro da Mina sem gás (mineral retornável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Ouro da Mina sem gás (mineral retornável 10 L) | Port. 500/2024 |
 
-### Ouro da Mina sem gás (retornável 20 L) (código 48246)
+### Ouro da Mina sem gás (mineral retornável 20 L) (código 48246)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Ouro da Mina sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Ouro da Mina sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Ouro da Mina sem gás (retornável 20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Ouro da Mina sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Ouro da Mina sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Ouro da Mina sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Ouro da Mina sem gás – 5000 ml (código —)
 
@@ -7223,283 +7327,283 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 |  |  | Ouro da Mina sem gás – 5000 ml | Port. 405/2018 |
 
-### Outras Marcas (1 L) (código —)
+### Outras Marcas (adicionada de sais 1,5 L) (código 48370)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,80 |  |  | Outras Marcas (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,60 |  |  | Outras Marcas (adicionada de sais 1250 a 1,5 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,09 | +30.6% |  | Outras Marcas (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,21 | +5.7% |  | Outras Marcas (adicionada de sais 1,5 L) | Port. 500/2024 |
 
-### Outras Marcas (1,5 L) (código 48370)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 4,56 |  |  | Outras Marcas (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,81 | +5.5% |  | Outras Marcas (1,5 L) | Port. 500/2024 |
-
-### Outras Marcas (1,5 L) (código 48370)
+### Outras Marcas (adicionada de sais 1250 ml) (código 50507)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,09 |  |  | Outras Marcas (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,21 | +5.7% |  | Outras Marcas (1,5 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras Marcas (adicionada de sais 1250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Outras Marcas (adicionada de sais 1250 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Outras Marcas (adicionada de sais 1250 ml) | Port. 500/2024 |
 
-### Outras Marcas (1,5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,71 |  | und | Outras marcas (1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,80 | +63.7% |  | Outras Marcas (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,16 | +12.9% |  | Outras Marcas (1,5 L) | Port. 283/2015 |
-
-### Outras marcas (10 L) (código —)
+### Outras Marcas (adicionada de sais 20 L) (código 48366)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,47 |  | und | Outras marcas (10 L) | Port. 220/2011 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,50 | +82.2% |  | Outras marcas (10 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,50 |  |  | Outras Marcas (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,00 | -9.1% |  | Outras Marcas (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,52 | +30.4% |  | Outras Marcas (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,88 | +5.5% |  | Outras Marcas (adicionada de sais 20 L) | Port. 500/2024 |
 
-### Outras Marcas (1250 a 1,5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,60 |  |  | Outras Marcas (1250 a 1,5 L) | Port. 405/2018 |
-
-### Outras Marcas (1250 ml) (código 50507)
+### Outras Marcas (adicionada de sais 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras Marcas (1250 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Outras Marcas (1250 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Outras Marcas (1250 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,30 |  |  | Outras Marcas (adicionada de sais 200 ml) | Port. 405/2018 |
 
-### Outras marcas (2 L) (código —)
+### Outras Marcas (adicionada de sais 300 ml) (código 50509)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 |  |  | Outras marcas (2 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,52 |  |  | Outras Marcas (adicionada de sais 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,55 | +5.8% |  | Outras Marcas (adicionada de sais 300 ml) | Port. 500/2024 |
 
-### Outras Marcas (20 L) (código 48366)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,52 |  |  | Outras Marcas (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,88 | +5.5% |  | Outras Marcas (20 L) | Port. 500/2024 |
-
-### Outras Marcas (20 L) (código 48330)
+### Outras Marcas (adicionada de sais 330 ml) (código 50510)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,52 |  |  | Outras Marcas (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,88 | +5.5% |  | Outras Marcas (20 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 |  |  | Outras Marcas (adicionada de sais 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | Outras Marcas (adicionada de sais 330 ml) | Port. 500/2024 |
 
-### Outras Marcas (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 4,80 |  | und | Outras marcas (20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 6,00 | +25.0% |  | Outras marcas (20 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 7,00 | +16.7% |  | Outras marcas (20 L) | Port. 283/2015 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,00 | -28.6% |  | Outras Marcas (20 L) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,00 | +0.0% |  | Outras Marcas (20 L) | Port. 419/2018 |
-
-### Outras Marcas (200 ml) (código —)
+### Outras Marcas (adicionada de sais 5 L) (código 50506)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,48 |  | und | Outras marcas (200 ml) | Port. 220/2011 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,30 | +170.8% |  | Outras Marcas (200 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 3,00 |  |  | Outras Marcas (adicionada de sais 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,91 | +30.3% |  | Outras Marcas (adicionada de sais 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,13 | +5.6% |  | Outras Marcas (adicionada de sais 5 L) | Port. 500/2024 |
 
-### Outras Marcas (300 ml) (código 50509)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,52 |  |  | Outras Marcas (300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,55 | +5.8% |  | Outras Marcas (300 ml) | Port. 500/2024 |
-
-### Outras Marcas (330 ml) (código 50510)
+### Outras Marcas (adicionada de sais 510 ml) (código 48317)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 |  |  | Outras Marcas (330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | Outras Marcas (330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Outras Marcas (adicionada de sais 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 | +30.5% |  | Outras Marcas (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Outras Marcas (adicionada de sais 510 ml) | Port. 500/2024 |
 
-### Outras Marcas (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,81 |  | und | Outras marcas (350 a 450 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +85.2% |  | Outras Marcas (350 a 450 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras Marcas (350 a 450 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,80 | +6.5% |  | Outras Marcas (350 a 450 ml) | Port. 405/2018 |
-
-### Outras Marcas (350 ml) (código 45604)
+### Outras Marcas (adicionada de sais descartável 1250 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras Marcas (350 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Outras Marcas (350 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Outras Marcas (350 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,60 |  |  | Outras Marcas (adicionada de sais descartável 1250 ml) | Port. 419/2018 |
 
-### Outras Marcas (5 a 20 L) (código —)
+### Outras Marcas (adicionada de sais descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,50 |  |  | Outras Marcas (5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,40 |  |  | Outras Marcas (adicionada de sais descartável 300 ml) | Port. 419/2018 |
 
-### Outras marcas (5 a 6 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 5,00 |  |  | Outras marcas (5 a 6 L) | Port. 341/2012 |
-
-### Outras Marcas (5 L) (código 50506)
+### Outras Marcas (adicionada de sais descartável 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,91 |  |  | Outras Marcas (5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,13 | +5.6% |  | Outras Marcas (5 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | Outras Marcas (adicionada de sais descartável 330 ml) | Port. 419/2018 |
 
-### Outras Marcas (5 L) (código 48292)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,82 |  |  | Outras Marcas (5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 8,25 | +5.5% |  | Outras Marcas (5 L) | Port. 500/2024 |
-
-### Outras Marcas (5 L) (código —)
+### Outras Marcas (adicionada de sais descartável 500 ml) (código 49423)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 4,34 |  | und | Outras marcas (5 L) | Port. 220/2011 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 | +38.2% |  | Outras Marcas (5 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 3,00 | -50.0% |  | Outras Marcas (5 L) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,00 | -66.7% |  | Outras Marcas (5 L) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 6,00 | +500.0% |  | Outras Marcas (5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,30 |  |  | Outras Marcas (adicionada de sais descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,37 | +5.4% |  | Outras Marcas (adicionada de sais descartável 500 ml) | Port. 500/2024 |
 
-### Outras Marcas (510 ml) (código 48317)
+### Outras Marcas (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 |  |  | Outras Marcas (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras Marcas (510 ml) | Port. 283/2015 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 | -58.0% |  | Outras Marcas (510 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 | +30.5% |  | Outras Marcas (510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Outras Marcas (510 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,80 |  |  | Outras Marcas (mineral 1 L) | Port. 405/2018 |
 
-### Outras marcas (600 ml) (código —)
+### Outras Marcas (mineral 1,5 L) (código 48370)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,41 |  | und | Outras marcas (600 ml) | Port. 220/2011 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +60.3% |  | Outras marcas (600 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,50 | +10.6% |  | Outras marcas (600 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,71 |  | und | Outras marcas (mineral 1,5 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,80 | +63.7% |  | Outras Marcas (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,16 | +12.9% |  | Outras Marcas (mineral 1,5 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 4,56 | +44.3% |  | Outras Marcas (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,81 | +5.5% |  | Outras Marcas (mineral 1,5 L) | Port. 500/2024 |
 
-### Outras marcas (copo 200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,30 |  |  | Outras marcas (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,47 | +13.1% |  | Outras marcas (copo 200 ml) | Port. 283/2015 |
-
-### Outras Marcas (copo 300 ml) (código 48138)
+### Outras marcas (mineral 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,55 |  |  | Outras marcas (copo 200 a 300 ml) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,70 | -54.8% |  | Outras Marcas (copo 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,91 | +30.0% |  | Outras Marcas (copo 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,96 | +5.5% |  | Outras Marcas (copo 300 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,47 |  | und | Outras marcas (mineral 10 L) | Port. 220/2011 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,50 | +82.2% |  | Outras marcas (mineral 10 L) | Port. 283/2015 |
 
-### Outras Marcas (copo 310 ml) (código 48679)
+### Outras marcas (mineral 2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,35 |  |  | Outras Marcas (copo 310 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,76 | +30.4% |  | Outras Marcas (copo 310 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,86 | +5.7% |  | Outras Marcas (copo 310 ml) | Port. 500/2024 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 |  |  | Outras marcas (mineral 2 L) | Port. 283/2015 |
 
-### Outras Marcas (descartável 1 L) (código —)
+### Outras marcas (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 3,50 |  |  | Outras Marcas (descartável 1 L) | Port. 419/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 4,80 |  | und | Outras marcas (mineral 20 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 6,00 | +25.0% |  | Outras marcas (mineral 20 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 7,00 | +16.7% |  | Outras marcas (mineral 20 L) | Port. 283/2015 |
 
-### Outras Marcas (descartável 10 L) (código 48367)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 8,28 |  | und | Outras Marcas (descartável 10 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,00 | -51.7% |  | Outras marcas descartavel (10 L) | Port. 341/2012 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 8,50 | +112.5% |  | Outras Marcas (descartável 10 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 9,60 | +12.9% |  | Outras Marcas (descartável 10 L) | Port. 283/2015 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 9,00 | -6.2% |  | Outras Marcas (descartável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 11,73 | +30.3% |  | Outras Marcas (descartável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 12,38 | +5.5% |  | Outras Marcas (descartável 10 L) | Port. 500/2024 |
-
-### Outras Marcas (descartável 1250 ml) (código —)
+### Outras marcas (mineral 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,60 |  |  | Outras Marcas (descartável 1250 ml) | Port. 419/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,48 |  | und | Outras marcas (mineral 200 ml) | Port. 220/2011 |
 
-### Outras Marcas (descartável 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,40 |  |  | Outras Marcas (descartável 300 ml) | Port. 419/2018 |
-
-### Outras Marcas (descartável 330 ml) (código —)
+### Outras Marcas (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | Outras Marcas (descartável 330 ml) | Port. 419/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,81 |  | und | Outras marcas (mineral 350 a 450 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +85.2% |  | Outras Marcas (mineral 350 a 450 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras Marcas (mineral 350 a 450 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,80 | +6.5% |  | Outras Marcas (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Outras Marcas (descartável 5 L) (código 48368)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 7,00 |  |  | Outras Marcas (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 9,13 | +30.4% |  | Outras Marcas (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 9,64 | +5.6% |  | Outras Marcas (descartável 5 L) | Port. 500/2024 |
-
-### Outras Marcas (descartável 500 ml) (código 49423)
+### Outras Marcas (mineral 350 ml) (código 45604)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,50 |  |  | Outras Marcas (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,30 | -48.0% |  | Outras Marcas (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,37 | +5.4% |  | Outras Marcas (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras Marcas (mineral 350 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Outras Marcas (mineral 350 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Outras Marcas (mineral 350 ml) | Port. 500/2024 |
 
-### Outras Marcas (descartável 510 ml) (código 48329)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,26 |  |  | Outras Marcas (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,44 | +5.5% |  | Outras Marcas (descartável 510 ml) | Port. 500/2024 |
-
-### Outras marcas (descartável 6 L) (código 49902)
+### Outras marcas (mineral 5 a 6 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 6,00 |  |  | Outras marcas (descartável 6 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,82 | +30.3% |  | Outras marcas (descartável 6 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 8,25 | +5.5% |  | Outras marcas (descartável 6 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 5,00 |  |  | Outras marcas (mineral 5 a 6 L) | Port. 341/2012 |
 
-### Outras marcas (descartável 600 ml) (código 48373)
+### Outras marcas (mineral 5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,50 |  |  | Outras marcas (descartável 600 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,26 | +30.4% |  | Outras marcas (descartável 600 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,85 | +79.4% |  | Outras marcas (descartável 600 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 4,34 |  | und | Outras marcas (mineral 5 L) | Port. 220/2011 |
 
-### Outras Marcas (retornável 10 L) (código 47903)
+### Outras Marcas (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,00 |  |  | Outras Marcas (retornável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,52 | +30.4% |  | Outras Marcas (retornável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,88 | +5.5% |  | Outras Marcas (retornável 10 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 |  |  | Outras Marcas (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras Marcas (mineral 510 ml) | Port. 283/2015 |
+
+### Outras marcas (mineral 600 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,41 |  | und | Outras marcas (mineral 600 ml) | Port. 220/2011 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +60.3% |  | Outras marcas (mineral 600 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,50 | +10.6% |  | Outras marcas (mineral 600 ml) | Port. 405/2018 |
+
+### Outras marcas (mineral copo 200 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,30 |  |  | Outras marcas (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,47 | +13.1% |  | Outras marcas (mineral copo 200 ml) | Port. 283/2015 |
+
+### Outras Marcas (mineral copo 300 ml) (código 48138)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,55 |  |  | Outras marcas (mineral copo 200 a 300 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,70 | -54.8% |  | Outras Marcas (mineral copo 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,91 | +30.0% |  | Outras Marcas (mineral copo 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,96 | +5.5% |  | Outras Marcas (mineral copo 300 ml) | Port. 500/2024 |
+
+### Outras Marcas (mineral copo 310 ml) (código 48679)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,35 |  |  | Outras Marcas (mineral copo 310 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,76 | +30.4% |  | Outras Marcas (mineral copo 310 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,86 | +5.7% |  | Outras Marcas (mineral copo 310 ml) | Port. 500/2024 |
+
+### Outras Marcas (mineral descartável 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 3,50 |  |  | Outras Marcas (mineral descartável 1 L) | Port. 419/2018 |
+
+### Outras Marcas (mineral descartável 10 L) (código 48367)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 8,28 |  | und | Outras Marcas (mineral descartável 10 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,00 | -51.7% |  | Outras marcas descartavel (mineral 10 L) | Port. 341/2012 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 8,50 | +112.5% |  | Outras Marcas (mineral descartável 10 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 9,60 | +12.9% |  | Outras Marcas (mineral descartável 10 L) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 9,00 | -6.2% |  | Outras Marcas (mineral descartável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 11,73 | +30.3% |  | Outras Marcas (mineral descartável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 12,38 | +5.5% |  | Outras Marcas (mineral descartável 10 L) | Port. 500/2024 |
+
+### Outras Marcas (mineral descartável 5 L) (código 48368)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 7,00 |  |  | Outras Marcas (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 9,13 | +30.4% |  | Outras Marcas (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 9,64 | +5.6% |  | Outras Marcas (mineral descartável 5 L) | Port. 500/2024 |
+
+### Outras Marcas (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,50 |  |  | Outras Marcas (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Outras Marcas (mineral descartável 510 ml) (código 48329)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,26 |  |  | Outras Marcas (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,44 | +5.5% |  | Outras Marcas (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Outras marcas (mineral descartável 6 L) (código 49902)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 6,00 |  |  | Outras marcas (mineral descartável 6 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,82 | +30.3% |  | Outras marcas (mineral descartável 6 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 8,25 | +5.5% |  | Outras marcas (mineral descartável 6 L) | Port. 500/2024 |
+
+### Outras marcas (mineral descartável 600 ml) (código 48373)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,50 |  |  | Outras marcas (mineral descartável 600 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,26 | +30.4% |  | Outras marcas (mineral descartável 600 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,85 | +79.4% |  | Outras marcas (mineral descartável 600 ml) | Port. 500/2024 |
+
+### Outras Marcas (mineral retornável 10 L) (código 47903)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,00 |  |  | Outras Marcas (mineral retornável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,52 | +30.4% |  | Outras Marcas (mineral retornável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,88 | +5.5% |  | Outras Marcas (mineral retornável 10 L) | Port. 500/2024 |
+
+### Outras Marcas (natural 20 L) (código 48330)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,00 |  |  | Outras Marcas (natural 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,52 | +30.4% |  | Outras Marcas (natural 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,88 | +5.5% |  | Outras Marcas (natural 20 L) | Port. 500/2024 |
+
+### Outras Marcas (natural 5 L) (código 48292)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 |  |  | Outras Marcas (natural 5 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,00 | -83.3% |  | Outras Marcas (natural 5 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 6,00 | +500.0% |  | Outras Marcas (natural 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,82 | +30.3% |  | Outras Marcas (natural 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 8,25 | +5.5% |  | Outras Marcas (natural 5 L) | Port. 500/2024 |
 
 ### Outras marcas - - 5000 a 6000 ml (código —)
 
@@ -7508,323 +7612,323 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,70 |  |  | Outras marcas – 5.000 a 6.000 ml | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 7,00 | +22.8% |  | Outras marcas - - 5000 a 6000 ml | Port. 405/2018 |
 
-### Outras marcas c/ gás (1 L) (código —)
+### Outras marcas c/ gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,73 |  | und | Outras marcas c/ gás (1 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +15.6% |  | Outras marcas c/ gás (1 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas c/ gás (1 L) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,73 |  | und | Outras marcas c/ gás (mineral 1 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +15.6% |  | Outras marcas c/ gás (mineral 1 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas c/ gás (mineral 1 L) | Port. 283/2015 |
 
-### Outras marcas c/ gás (2 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,00 |  | und | Outras marcas c/ gás (2 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +0.0% |  | Outras marcas c/ gás (2 L) | Port. 341/2012 |
-
-### Outras marcas c/ gás (500 ml) (código —)
+### Outras marcas c/ gás (mineral 2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,10 |  | und | Outras marcas c/ gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +36.4% |  | Outras marcas c/ gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras marcas c/ gás (500 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,00 |  | und | Outras marcas c/ gás (mineral 2 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +0.0% |  | Outras marcas c/ gás (mineral 2 L) | Port. 341/2012 |
 
-### Outras marcas com gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,00 |  |  | Outras marcas com gás (1 L) | Port. 405/2018 |
-
-### Outras marcas com gás (2 L) (código 48369)
+### Outras marcas c/ gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,00 |  |  | Outras marcas com gás (2 L) | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,26 | +8.7% |  | Outras marcas com gás (2 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,00 | +22.7% |  | Outras marcas com gás (2 L) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,10 |  | und | Outras marcas c/ gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +36.4% |  | Outras marcas c/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras marcas c/ gás (mineral 500 ml) | Port. 283/2015 |
 
-### Outras marcas com gás (250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,80 |  |  | Outras marcas com gás (250 a 300 ml) | Port. 405/2018 |
-
-### Outras marcas com gás (300 ml) (código —)
+### Outras marcas com gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,80 |  | und | Outras marcas com gás (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +150.0% |  | Outras marcas com gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas com gás (300 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,00 |  |  | Outras marcas com gás (mineral 1 L) | Port. 405/2018 |
 
-### Outras Marcas com gás (330 ml) (código —)
+### Outras marcas com gás (mineral 2 L) (código 48369)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,05 |  | und | Outras marcas com gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 | +6.7% |  | Outras marcas com gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +5.4% |  | Outras Marcas com gás (330 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,00 |  |  | Outras marcas com gás (mineral 2 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,26 | +8.7% |  | Outras marcas com gás (mineral 2 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,00 | +22.7% |  | Outras marcas com gás (mineral 2 L) | Port. 500/2024 |
 
-### Outras marcas com gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,32 |  |  | Outras Marcas com gás (500 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,50 | +165.2% |  | Outras Marcas com gás (500 ml) | Port. 405/2018 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,00 | -14.3% |  | Outras marcas com gás (500 ml) | Port. 405/2018 |
-
-### Outras Marcas com gás (copo 200 ml) (código 12120)
+### Outras marcas com gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 |  |  | Outras Marcas com gás (copo 200 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,80 |  |  | Outras marcas com gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Outras Marcas com gás (copo 200 ml) (código 48258)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Outras Marcas com gás (copo 200 ml) | Port. 215/2023 |
-
-### Outras Marcas com gás (copo 300 ml) (código —)
+### Outras marcas com gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras Marcas com gás (copo 300 ml) | Port. 419/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,80 |  | und | Outras marcas com gás (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +150.0% |  | Outras marcas com gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas com gás (mineral 300 ml) | Port. 283/2015 |
 
-### Outras marcas com gás (descartável 1 L) (código 48371)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 3,00 |  |  | Outras marcas com gás (descartável 1 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,91 | +30.3% |  | Outras marcas com gás (descartável 1 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,13 | +5.6% |  | Outras marcas com gás (descartável 1 L) | Port. 500/2024 |
-
-### Outras marcas com gás (descartável 2 L) (código —)
+### Outras Marcas com gás (mineral 330 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,50 |  |  | Outras marcas com gás (descartável 2 L) | Port. 419/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,05 |  | und | Outras marcas com gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 | +6.7% |  | Outras marcas com gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +5.4% |  | Outras Marcas com gás (mineral 330 ml) | Port. 283/2015 |
 
-### Outras marcas com gás (descartável 250 ml) (código 48678)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras marcas com gás (descartável 250 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Outras marcas com gás (descartável 250 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Outras marcas com gás (descartável 250 ml) | Port. 500/2024 |
-
-### Outras marcas com gás (descartável 300 ml) (código 48138)
+### Outras marcas com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras marcas com gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,65 | +143.3% |  | Outras marcas com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,85 | +5.5% |  | Outras marcas com gás (descartável 300 ml) | Port. 500/2024 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,32 |  |  | Outras Marcas com gás (mineral 500 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,50 | +165.2% |  | Outras Marcas com gás (mineral 500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 3,00 | -14.3% |  | Outras marcas com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Outras marcas com gás (descartável 310 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,80 |  |  | Outras marcas com gás (descartável 310 ml) | Port. 419/2018 |
-
-### Outras marcas com gás (descartável 330 ml) (código 48377)
+### Outras Marcas com gás (mineral copo 200 ml) (código 12120)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Outras marcas com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Outras marcas com gás (descartável 330 ml) | Port. 500/2024 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 |  |  | Outras Marcas com gás (mineral copo 200 ml) | Port. 500/2024 |
 
-### Outras Marcas com gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,90 |  |  | Outras Marcas com gás (descartável 350 ml) | Port. 419/2018 |
-
-### Outras Marcas com gás (descartável 500 ml) (código 48374)
+### Outras Marcas com gás (mineral copo 200 ml) (código 48258)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,48 |  |  | Outras Marcas com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,62 | +5.6% |  | Outras Marcas com gás (descartável 500 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Outras Marcas com gás (mineral copo 200 ml) | Port. 215/2023 |
 
-### Outras marcas com gás (garrafa 250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,90 |  |  | Outras marcas com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
-
-### Outras marcas s/ gás (1 L) (código —)
+### Outras Marcas com gás (mineral copo 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,61 |  | und | Outras marcas s/ gás (1 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +24.2% |  | Outras marcas s/ gás (1 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas s/ gás (1 L) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras Marcas com gás (mineral copo 300 ml) | Port. 419/2018 |
 
-### Outras marcas s/ gás (500 ml) (código —)
+### Outras marcas com gás (mineral descartável 1 L) (código 48371)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,11 |  | und | Outras marcas s/ gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +35.1% |  | Outras marcas s/ gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras marcas s/ gás (500 ml) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 3,00 |  |  | Outras marcas com gás (mineral descartável 1 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,91 | +30.3% |  | Outras marcas com gás (mineral descartável 1 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,13 | +5.6% |  | Outras marcas com gás (mineral descartável 1 L) | Port. 500/2024 |
 
-### Outras marcas sem gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,80 |  |  | Outras marcas sem gás (1 L) | Port. 405/2018 |
-
-### Outras marcas sem gás (10 L) (código —)
+### Outras marcas com gás (mineral descartável 2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 7,00 |  |  | Outras marcas sem gás (10 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,50 |  |  | Outras marcas com gás (mineral descartável 2 L) | Port. 419/2018 |
 
-### Outras marcas sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 |  |  | Outras marcas sem gás (20 L) | Port. 405/2018 |
-
-### Outras marcas sem gás (250 a 300 ml) (código —)
+### Outras marcas com gás (mineral descartável 250 ml) (código 48678)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,75 |  |  | Outras marcas sem gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras marcas com gás (mineral descartável 250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Outras marcas com gás (mineral descartável 250 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Outras marcas com gás (mineral descartável 250 ml) | Port. 500/2024 |
 
-### Outras marcas sem gás (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,75 |  | und | Outras marcas sem gás (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +166.7% |  | Outras marcas sem gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas sem gás (300 ml) | Port. 283/2015 |
-
-### Outras Marcas sem gás (330 ml) (código —)
+### Outras marcas com gás (mineral descartável 300 ml) (código 48138)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,96 |  | und | Outras marcas sem gás (330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 | +9.4% |  | Outras marcas sem gás (330 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +20.0% |  | Outras Marcas sem gás (330 ml) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Outras marcas com gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,65 | +143.3% |  | Outras marcas com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,85 | +5.5% |  | Outras marcas com gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Outras marcas sem gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 |  |  | Outras Marcas sem gás (500 ml) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,80 | +115.4% |  | Outras marcas sem gás (500 ml) | Port. 405/2018 |
-
-### Outras Marcas sem gás (copo 200 ml) (código 12119)
+### Outras marcas com gás (mineral descartável 310 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Outras Marcas sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Outras Marcas sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,80 |  |  | Outras marcas com gás (mineral descartável 310 ml) | Port. 419/2018 |
 
-### Outras Marcas sem gás (copo 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Outras Marcas sem gás (copo 300 ml) | Port. 419/2018 |
-
-### Outras marcas sem gás (descartável 1 L) (código 48372)
+### Outras marcas com gás (mineral descartável 330 ml) (código 48377)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,80 |  |  | Outras marcas sem gás (descartável 1 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,65 | +30.4% |  | Outras marcas sem gás (descartável 1 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,85 | +5.5% |  | Outras marcas sem gás (descartável 1 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 |  |  | Outras marcas com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Outras marcas com gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Outras Marcas sem gás (descartável 10 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 9,00 |  |  | Outras Marcas sem gás (descartável 10 L) | Port. 405/2018 |
-
-### Outras marcas sem gás (descartável 250 ml) (código 48279)
+### Outras Marcas com gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Outras marcas sem gás (descartável 250 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 | +30.7% |  | Outras marcas sem gás (descartável 250 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Outras marcas sem gás (descartável 250 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,90 |  |  | Outras Marcas com gás (mineral descartável 350 ml) | Port. 419/2018 |
 
-### Outras marcas sem gás (descartável 300 ml) (código 12118)
+### Outras Marcas com gás (mineral descartável 500 ml) (código 48374)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Outras marcas sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,59 | +156.4% |  | Outras marcas sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,79 | +5.6% |  | Outras marcas sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,48 |  |  | Outras Marcas com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,62 | +5.6% |  | Outras Marcas com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Outras marcas sem gás (descartável 310 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,75 |  |  | Outras marcas sem gás (descartável 310 ml) | Port. 419/2018 |
-
-### Outras marcas sem gás (descartável 330 ml) (código 48378)
+### Outras marcas com gás (mineral garrafa 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Outras marcas sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Outras marcas sem gás (descartável 330 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,90 |  |  | Outras marcas com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
-### Outras Marcas sem gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,85 |  |  | Outras Marcas sem gás (descartável 350 ml) | Port. 419/2018 |
-
-### Outras Marcas sem gás (descartável 500 ml) (código 48375)
+### Outras marcas s/ gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,41 |  |  | Outras Marcas sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,54 | +5.4% |  | Outras Marcas sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,61 |  | und | Outras marcas s/ gás (mineral 1 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +24.2% |  | Outras marcas s/ gás (mineral 1 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas s/ gás (mineral 1 L) | Port. 283/2015 |
 
-### Outras marcas sem gás (garrafa 250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,85 |  |  | Outras marcas sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
-
-### Outras marcas sem gás (retornável 20 L) (código 48366)
+### Outras marcas s/ gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 6,00 |  |  | Outras marcas sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,82 | +30.3% |  | Outras marcas sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 8,12 | +3.8% |  | Outras marcas sem gás (retornável 20 L) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,11 |  | und | Outras marcas s/ gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +35.1% |  | Outras marcas s/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras marcas s/ gás (mineral 500 ml) | Port. 283/2015 |
 
-### Outtras Marcas (200 ml) (código 48358)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,59 |  |  | Outtras Marcas (200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,62 | +5.1% |  | Outtras Marcas (200 ml) | Port. 500/2024 |
-
-### Outtras Marcas (descartável 200 ml) (código —)
+### Outras marcas sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,45 |  |  | Outtras Marcas (descartável 200 ml) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,80 |  |  | Outras marcas sem gás (mineral 1 L) | Port. 405/2018 |
 
-### Premium com gás (descartável 330 ml) (código 53426)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,15 |  |  | Premium com gás (descartável 330 ml) | Port. 500/2024 |
-
-### Premium com gás (descartável 500 ml) (código 53425)
+### Outras marcas sem gás (mineral 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,41 |  |  | Premium com gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 7,00 |  |  | Outras marcas sem gás (mineral 10 L) | Port. 405/2018 |
+
+### Outras marcas sem gás (mineral 20 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 |  |  | Outras marcas sem gás (mineral 20 L) | Port. 405/2018 |
+
+### Outras marcas sem gás (mineral 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,75 |  |  | Outras marcas sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Outras marcas sem gás (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,75 |  | und | Outras marcas sem gás (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +166.7% |  | Outras marcas sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas sem gás (mineral 300 ml) | Port. 283/2015 |
+
+### Outras Marcas sem gás (mineral 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,96 |  | und | Outras marcas sem gás (mineral 330 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 | +9.4% |  | Outras marcas sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +20.0% |  | Outras Marcas sem gás (mineral 330 ml) | Port. 283/2015 |
+
+### Outras marcas sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 |  |  | Outras Marcas sem gás (mineral 500 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,80 | +115.4% |  | Outras marcas sem gás (mineral 500 ml) | Port. 405/2018 |
+
+### Outras Marcas sem gás (mineral copo 200 ml) (código 12119)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Outras Marcas sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Outras Marcas sem gás (mineral copo 200 ml) | Port. 500/2024 |
+
+### Outras Marcas sem gás (mineral copo 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Outras Marcas sem gás (mineral copo 300 ml) | Port. 419/2018 |
+
+### Outras marcas sem gás (mineral descartável 1 L) (código 48372)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,80 |  |  | Outras marcas sem gás (mineral descartável 1 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,65 | +30.4% |  | Outras marcas sem gás (mineral descartável 1 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,85 | +5.5% |  | Outras marcas sem gás (mineral descartável 1 L) | Port. 500/2024 |
+
+### Outras Marcas sem gás (mineral descartável 10 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 9,00 |  |  | Outras Marcas sem gás (mineral descartável 10 L) | Port. 405/2018 |
+
+### Outras marcas sem gás (mineral descartável 250 ml) (código 48279)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Outras marcas sem gás (mineral descartável 250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 | +30.7% |  | Outras marcas sem gás (mineral descartável 250 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Outras marcas sem gás (mineral descartável 250 ml) | Port. 500/2024 |
+
+### Outras marcas sem gás (mineral descartável 300 ml) (código 12118)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Outras marcas sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,59 | +156.4% |  | Outras marcas sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,79 | +5.6% |  | Outras marcas sem gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Outras marcas sem gás (mineral descartável 310 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,75 |  |  | Outras marcas sem gás (mineral descartável 310 ml) | Port. 419/2018 |
+
+### Outras marcas sem gás (mineral descartável 330 ml) (código 48378)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Outras marcas sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Outras marcas sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Outras Marcas sem gás (mineral descartável 350 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,85 |  |  | Outras Marcas sem gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Outras Marcas sem gás (mineral descartável 500 ml) (código 48375)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,41 |  |  | Outras Marcas sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,54 | +5.4% |  | Outras Marcas sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Outras marcas sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,85 |  |  | Outras marcas sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Outras marcas sem gás (mineral retornável 20 L) (código 48366)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 6,00 |  |  | Outras marcas sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 7,82 | +30.3% |  | Outras marcas sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 8,12 | +3.8% |  | Outras marcas sem gás (mineral retornável 20 L) | Port. 500/2024 |
+
+### Outtras Marcas (adicionada de sais 200 ml) (código 48358)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,59 |  |  | Outtras Marcas (adicionada de sais 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,62 | +5.1% |  | Outtras Marcas (adicionada de sais 200 ml) | Port. 500/2024 |
+
+### Outtras Marcas (adicionada de sais descartável 200 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,45 |  |  | Outtras Marcas (adicionada de sais descartável 200 ml) | Port. 419/2018 |
+
+### Premium com gás (mineral descartável 330 ml) (código 53426)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,15 |  |  | Premium com gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Premium com gás (mineral descartável 500 ml) (código 53425)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,41 |  |  | Premium com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
 ### Psiu Água 1500 ml (código —)
 
@@ -7846,28 +7950,33 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2016-06-13 (pub.) | 2016-05-12 | alterar | 1,00 |  |  | Psiu Água 500 ml | Port. 167/2016 |
 | 2020-10-29 (pub.) | 2020-10-26 | alterar | 0,90 | -10.0% | Pet | Psiu Água 500 ml | Port. 328/2020 |
 
-### Psiu Água com gás (350 a 450 ml) (código —)
+### Psiu Água com gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,15 |  |  | Psiu Água com gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,15 |  |  | Psiu Água com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Psiu Água com gás (500 ml) (código —)
+### Psiu Água com gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 |  | Und | Psiu Água com gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,97 | +59.0% |  | Psiu Água com gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,09 | +12.4% |  | Psiu Água com gás (mineral 500 ml) | Port. 283/2015 |
+
+### Psiu Água com gás (mineral descartável 500 ml) (código 48290)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,15 |  |  | Psiu Água com gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,50 | +30.4% |  | Psiu Água com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,58 | +5.3% |  | Psiu Água com gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Psiu Água com Gás 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2010-03-17 (assin.) | 2010-03-17 | incluir | 0,60 |  |  | Psiu Água com Gás 500 ml | Port. 81/2010 |
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 | +1.7% | Und | Psiu Água com gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,97 | +59.0% |  | Psiu Água com gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,09 | +12.4% |  | Psiu Água com gás (500 ml) | Port. 283/2015 |
-
-### Psiu Água com gás (descartável 500 ml) (código 48290)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,15 |  |  | Psiu Água com gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,50 | +30.4% |  | Psiu Água com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,58 | +5.3% |  | Psiu Água com gás (descartável 500 ml) | Port. 500/2024 |
 
 ### Psiu Água Mineral Luí com gás 330 ml (código —)
 
@@ -7883,212 +7992,222 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-03-27 (pub.) | 2017-03-21 | ? | 0,89 |  |  | Psiu Água Mineral Luí sem gás 330 ml | Port. 172/2017 |
 | 2017-07-03 (pub.) | 2017-06-26 | incluir | 1,33 | +49.4% |  | Psiu Água Mineral Luí sem gás 330 ml | Port. 304/2017 |
 
-### Psiu água sem gás (1 L) (código —)
+### Psiu água sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,41 |  |  | Psiu água sem gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,41 |  |  | Psiu água sem gás (mineral 1 L) | Port. 405/2018 |
 
-### Psiu água sem gás (1,5 L) (código 49904)
+### Psiu água sem gás (mineral 1,5 L) (código 49904)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2020-02-20 (pub.) | 2020-02-14 | alterar | 2,29 |  |  | Água Mineral Psiu sem gás 1.500 ml | Port. 51/2020 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 | -21.8% |  | Psiu água sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Psiu água sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 | -21.8% |  | Psiu água sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Psiu água sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Psiu Água sem gás (350 a 450 ml) (código —)
+### Psiu Água sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Psiu Água sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Psiu Água sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Psiu Água sem gás (500 ml) (código —)
+### Psiu Água sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | Und | Psiu Água sem gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +51.8% |  | Psiu Água sem gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,90 | +5.9% |  | Psiu Água sem gás (mineral 500 ml) | Port. 283/2015 |
+
+### Psiu água sem gás (mineral descartável 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,41 |  |  | Psiu água sem gás (mineral descartável 1 L) | Port. 419/2018 |
+
+### Psiu água sem gás (mineral descartável 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,94 |  |  | Psiu água sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+
+### Psiu água sem gás (mineral descartável 330 ml) (código 48474)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,23 |  |  | Psiu água sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,30 | +5.7% |  | Psiu água sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Psiu Água sem gás (mineral descartável 500 ml) (código 48291)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Psiu Água sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,17 | +11.4% |  | Psiu Água sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,24 | +6.0% |  | Psiu Água sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Psiu água sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,94 |  |  | Psiu água sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Psiu Água sem Gás 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2010-03-17 (assin.) | 2010-03-17 | incluir | 0,55 |  |  | Psiu Água sem Gás 500 ml | Port. 81/2010 |
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 | +1.8% | Und | Psiu Água sem gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +51.8% |  | Psiu Água sem gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,90 | +5.9% |  | Psiu Água sem gás (500 ml) | Port. 283/2015 |
 
-### Psiu água sem gás (descartável 1 L) (código —)
+### Psiu sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,41 |  |  | Psiu água sem gás (descartável 1 L) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Psiu sem gás (mineral 20 L) | Port. 405/2018 |
 
-### Psiu água sem gás (descartável 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,94 |  |  | Psiu água sem gás (descartável 300 ml) | Port. 419/2018 |
-
-### Psiu água sem gás (descartável 330 ml) (código 48474)
+### Psiu sem gás (mineral retornável 20 L) (código 50071)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,23 |  |  | Psiu água sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,30 | +5.7% |  | Psiu água sem gás (descartável 330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Psiu sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Psiu sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Psiu sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
-### Psiu Água sem gás (descartável 500 ml) (código 48291)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Psiu Água sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,17 | +11.4% |  | Psiu Água sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,24 | +6.0% |  | Psiu Água sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### Psiu água sem gás (garrafa 250 a 300 ml) (código —)
+### Pureza com gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,94 |  |  | Psiu água sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,56 |  |  | Pureza com gás (mineral 1 L) | Port. 405/2018 |
 
-### Psiu sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Psiu sem gás (20 L) | Port. 405/2018 |
-
-### Psiu sem gás (retornável 20 L) (código 50071)
+### Pureza com gás (mineral 1,5 L) (código 12059)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | Psiu sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | Psiu sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | Psiu sem gás (retornável 20 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,15 |  |  | Pureza com gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,43 | +13.0% |  | Pureza com gás (mineral 1,5 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,34 | +37.4% |  | Pureza com gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,53 | +5.7% |  | Pureza com gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Pureza com gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,56 |  |  | Pureza com gás (1 L) | Port. 405/2018 |
-
-### Pureza com gás (1,5 L) (código 12059)
+### Pureza com gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,15 |  |  | Pureza com gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,43 | +13.0% |  | Pureza com gás (1,5 L) | Port. 283/2015 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,34 | +37.4% |  | Pureza com gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,53 | +5.7% |  | Pureza com gás (1,5 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,56 |  |  | Pureza com gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Pureza com gás (descartável 1 L) (código —)
+### Pureza sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,56 |  |  | Pureza com gás (descartável 1 L) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,43 |  |  | Pureza sem gás (mineral 1 L) | Port. 405/2018 |
 
-### Pureza sem gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,43 |  |  | Pureza sem gás (1 L) | Port. 405/2018 |
-
-### Pureza sem gás (1,5 L) (código 12067)
+### Pureza sem gás (mineral 1,5 L) (código 12067)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,05 |  |  | Pureza sem gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,31 | +12.7% |  | Pureza sem gás (1,5 L) | Port. 283/2015 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,17 | +37.2% |  | Pureza sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,35 | +5.7% |  | Pureza sem gás (1,5 L) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,05 |  |  | Pureza sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,31 | +12.7% |  | Pureza sem gás (mineral 1,5 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,17 | +37.2% |  | Pureza sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,35 | +5.7% |  | Pureza sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Pureza sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,43 |  |  | Pureza sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Pureza Vital (1,5 L) (código —)
+### Pureza sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,25 |  |  | Pureza Vital (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,54 | +12.9% |  | Pureza Vital (1,5 L) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,43 |  |  | Pureza sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Pureza Vital (510 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 |  |  | Pureza Vital (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Pureza Vital (510 ml) | Port. 283/2015 |
-
-### Pureza Vital sem gás (1 L) (código —)
+### Pureza Vital (mineral 1,5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,67 |  |  | Pureza Vital sem gás (1 L) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,25 |  |  | Pureza Vital (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,54 | +12.9% |  | Pureza Vital (mineral 1,5 L) | Port. 283/2015 |
 
-### Pureza Vital sem gás (1,5 L) (código 12039)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,48 |  |  | Pureza Vital sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,67 | +5.5% |  | Pureza Vital sem gás (1,5 L) | Port. 500/2024 |
-
-### Pureza Vital sem gás (500 ml) (código —)
+### Pureza Vital (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 |  |  | Pureza Vital sem gás (500 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 |  |  | Pureza Vital (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Pureza Vital (mineral 510 ml) | Port. 283/2015 |
 
-### Pureza Vital sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,67 |  |  | Pureza Vital sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Pureza Vital sem gás (descartável 500 ml) (código —)
+### Pureza Vital sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Pureza Vital sem gás (descartável 500 ml) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,67 |  |  | Pureza Vital sem gás (mineral 1 L) | Port. 405/2018 |
 
-### Pureza Vital sem gás (descartável 510 ml) (código 45632)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Pureza Vital sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Pureza Vital sem gás (descartável 510 ml) | Port. 500/2024 |
-
-### Puríssima (20 L) (código 48104)
+### Pureza Vital sem gás (mineral 1,5 L) (código 12039)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,50 |  |  | Puríssima (20 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,58 | -54.9% |  | Puríssima (5 a 20 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -5.1% |  | Puríssima (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Puríssima (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Puríssima (20 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,48 |  |  | Pureza Vital sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,67 | +5.5% |  | Pureza Vital sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Puríssima (200 ml) (código 47616)
+### Pureza Vital sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 |  |  | Pureza Vital sem gás (mineral 500 ml) | Port. 405/2018 |
+
+### Pureza Vital sem gás (mineral descartável 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,67 |  |  | Pureza Vital sem gás (mineral descartável 1 L) | Port. 419/2018 |
+
+### Pureza Vital sem gás (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,40 |  |  | Pureza Vital sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Pureza Vital sem gás (mineral descartável 510 ml) (código 45632)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,83 |  |  | Pureza Vital sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,93 | +5.5% |  | Pureza Vital sem gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Puríssima (adicionada de sais 20 L) (código 48104)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,50 |  |  | Puríssima (adicionada de sais 20 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,58 | -54.9% |  | Puríssima (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -5.1% |  | Puríssima (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Puríssima (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Puríssima (adicionada de sais 20 L) | Port. 500/2024 |
+
+### Puríssima (adicionada de sais 200 ml) (código 47616)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,34 |  |  | Puríssima (adicionada de sais 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,36 | +5.9% |  | Puríssima (adicionada de sais 200 ml) | Port. 500/2024 |
+
+### Puríssima (adicionada de sais descartável 200 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,26 |  |  | Puríssima (adicionada de sais descartável 200 ml) | Port. 419/2018 |
+
+### Puríssima (adicionada de sais descartável 500 ml) (código 47615)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,63 |  |  | Puríssima (adicionada de sais descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,67 | +6.3% |  | Puríssima (adicionada de sais descartável 500 ml) | Port. 500/2024 |
+
+### Puríssima (natural 5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,48 |  |  | Puríssima (natural 5 L) | Port. 419/2018 |
+
+### Puríssima - 200 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,26 |  |  | Puríssima - 200 ml | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,34 | +30.8% |  | Puríssima (200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,36 | +5.9% |  | Puríssima (200 ml) | Port. 500/2024 |
-
-### Puríssima (5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,48 |  |  | Puríssima (5 L) | Port. 419/2018 |
-
-### Puríssima (descartável 200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,26 |  |  | Puríssima (descartável 200 ml) | Port. 419/2018 |
-
-### Puríssima (descartável 500 ml) (código 47615)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,63 |  |  | Puríssima (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,67 | +6.3% |  | Puríssima (descartável 500 ml) | Port. 500/2024 |
 
 ### Puríssima - 500 ml (código —)
 
@@ -8102,215 +8221,229 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2007-04-09 (pub.) | 2007-04-02 | incluir | 1,83 |  |  | Refrigerante Indaiá 2.000 ml | Port. 208/2007 |
 
-### Regiina s/gás (500 ml) (código —)
+### Regiina s/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 |  |  | Regiina s/gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,00 | +72.4% |  | Regiina s/gás (500 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 |  |  | Regiina s/gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,00 | +72.4% |  | Regiina s/gás (mineral 500 ml) | Port. 283/2015 |
 
-### Regiina sem gás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Regiina sem gás (350 a 450 ml) | Port. 405/2018 |
-
-### Regina (20 L) (código —)
+### Regiina sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Regina (20 L) | Port. 220/2011 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 |  |  | Regiina sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Regina c/gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 |  | Und | Regina c/ gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 | +24.6% |  | Regina c/gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,06 | +39.5% |  | Regina c/gás (500 ml) | Port. 283/2015 |
-
-### Regina com gás (1 L) (código —)
+### Regina (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,23 |  |  | Regina com gás (1 L) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Regina (mineral 20 L) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,65 | +3.7% |  | Regina (mineral 20 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,70 | +28.8% |  | Regina (mineral 20 L) | Port. 283/2015 |
 
-### Regina com gás (1,5 L) (código 48121)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 |  |  | Regina com gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,12 | +65.6% |  | Regina com gás (1,5 L) | Port. 283/2015 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,91 | +37.3% |  | Regina com gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,07 | +5.5% |  | Regina com gás (1,5 L) | Port. 500/2024 |
-
-### Regina com gás (250 a 300 ml) (código —)
+### Regina (mineral 5 a 6 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,88 |  |  | Regina com gás (250 a 300 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,71 |  |  | Regina (mineral 5 a 6 L) | Port. 341/2012 |
 
-### Regina com gás (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,67 |  |  | Regina com gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,84 | +25.4% |  | Regina com gás (300 ml) | Port. 283/2015 |
-
-### Regina com gás (350 a 450 ml) (código —)
+### Regina (mineral 5 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,11 |  |  | Regina com gás (350 a 450 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,32 |  | und | Regina (mineral 5 L) | Port. 220/2011 |
 
-### Regina com gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,33 |  |  | Regina com gás (500 ml) | Port. 405/2018 |
-
-### Regina com gás (510 ml) (código —)
+### Regina c/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 |  |  | Regina com gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Regina com gás (510 ml) | Port. 283/2015 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 |  | Und | Regina c/ gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 | +24.6% |  | Regina c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,06 | +39.5% |  | Regina c/gás (mineral 500 ml) | Port. 283/2015 |
 
-### Regina com gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,23 |  |  | Regina com gás (descartável 1 L) | Port. 419/2018 |
-
-### Regina com gás (descartável 300 ml) (código 48275)
+### Regina com gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,88 |  |  | Regina com gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,15 | +30.7% |  | Regina com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,21 | +5.2% |  | Regina com gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,23 |  |  | Regina com gás (mineral 1 L) | Port. 405/2018 |
 
-### Regina com gás (descartável 500 ml) (código 49710)
+### Regina com gás (mineral 1,5 L) (código 48121)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,33 |  |  | Regina com gás (descartável 500 ml) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,11 | -16.5% |  | Regina com gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,45 | +30.6% |  | Regina com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,53 | +5.5% |  | Regina com gás (descartável 500 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 |  |  | Regina com gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,12 | +65.6% |  | Regina com gás (mineral 1,5 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,91 | +37.3% |  | Regina com gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,07 | +5.5% |  | Regina com gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Regina com gás (descartável 510 ml) (código 12029)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,73 |  |  | Regina com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,83 | +5.8% |  | Regina com gás (descartável 510 ml) | Port. 500/2024 |
-
-### Regina s/ gás (1,5 L) (código —)
+### Regina com gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 |  | und | Regina s/ gás (1,5 L) | Port. 220/2011 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,88 |  |  | Regina com gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Regina s/gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | Und | Regina s/gás (500 ml) | Port. 220/2011 |
-
-### Regina sem gás (1 L) (código —)
+### Regina com gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,11 |  |  | Regina sem gás (1 L) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,67 |  |  | Regina com gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,84 | +25.4% |  | Regina com gás (mineral 300 ml) | Port. 283/2015 |
 
-### Regina sem gás (1,5 L) (código 12062)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 |  |  | Regina sem gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,01 | +57.0% |  | Regina sem gás (1,5 L) | Port. 283/2015 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,75 | +36.8% |  | Regina sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,90 | +5.5% |  | Regina sem gás (1,5 L) | Port. 500/2024 |
-
-### Regina sem gás (20 L) (código —)
+### Regina com gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,00 |  |  | Regina sem gás (20 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,11 |  |  | Regina com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Regina sem gás (200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,29 |  | und | Regina sem gás (200 ml) | Port. 220/2011 |
-
-### Regina sem gás (500 ml) (código —)
+### Regina com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 |  |  | Regina sem gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,33 |  |  | Regina com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Regina sem gás (510 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Regina sem gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Regina sem gás (510 ml) | Port. 283/2015 |
-
-### Regina sem gás (copo 200 a 300 ml) (código —)
+### Regina com gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,59 |  |  | Regina sem gás (copo 200 a 300 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 |  |  | Regina com gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Regina com gás (mineral 510 ml) | Port. 283/2015 |
 
-### Regina sem gás (copo 200 ml) (código 48293)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,37 |  |  | Regina sem gás (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,56 | +51.4% |  | Regina sem gás (copo 200 ml) | Port. 283/2015 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,59 | +5.4% |  | Regina sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,77 | +30.5% |  | Regina sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,81 | +5.2% |  | Regina sem gás (copo 200 ml) | Port. 500/2024 |
-
-### Regina sem gás (descartável 1 L) (código —)
+### Regina com gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,11 |  |  | Regina sem gás (descartável 1 L) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,23 |  |  | Regina com gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Regina sem gás (descartável 5 L) (código 48408)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,05 |  |  | Regina sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,58 | +30.3% |  | Regina sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,95 | +5.6% |  | Regina sem gás (descartável 5 L) | Port. 500/2024 |
-
-### Regina sem gás (descartável 500 ml) (código 48320)
+### Regina com gás (mineral descartável 300 ml) (código 48275)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 |  |  | Regina sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 | -23.4% |  | Regiina sem gás (descartável 500 ml) ⚠ | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 | +30.5% |  | Regiina sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Regina sem gás (descartável 500 ml) ⚠ | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,88 |  |  | Regina com gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,15 | +30.7% |  | Regina com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,21 | +5.2% |  | Regina com gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Regina sem gás (descartável 510 ml) (código 45038)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 |  |  | Regina sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Regina sem gás (descartável 510 ml) | Port. 500/2024 |
-
-### Regina sem gás (retornável 20 L) (código 48089)
+### Regina com gás (mineral descartável 500 ml) (código 49710)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Regina sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Regina sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Regina sem gás (retornável 20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,33 |  |  | Regina com gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,11 | -16.5% |  | Regina com gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,45 | +30.6% |  | Regina com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,53 | +5.5% |  | Regina com gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Regina com gás (mineral descartável 510 ml) (código 12029)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,73 |  |  | Regina com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,83 | +5.8% |  | Regina com gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Regina s/ gás (mineral 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 |  | und | Regina s/ gás (mineral 1,5 L) | Port. 220/2011 |
+
+### Regina s/gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | Und | Regina s/gás (mineral 500 ml) | Port. 220/2011 |
+
+### Regina sem gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,11 |  |  | Regina sem gás (mineral 1 L) | Port. 405/2018 |
+
+### Regina sem gás (mineral 1,5 L) (código 12062)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 |  |  | Regina sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,01 | +57.0% |  | Regina sem gás (mineral 1,5 L) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,75 | +36.8% |  | Regina sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,90 | +5.5% |  | Regina sem gás (mineral 1,5 L) | Port. 500/2024 |
+
+### Regina sem gás (mineral 20 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,00 |  |  | Regina sem gás (mineral 20 L) | Port. 405/2018 |
+
+### Regina sem gás (mineral 200 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,29 |  | und | Regina sem gás (mineral 200 ml) | Port. 220/2011 |
+
+### Regina sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 |  |  | Regina sem gás (mineral 500 ml) | Port. 405/2018 |
+
+### Regina sem gás (mineral 510 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Regina sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Regina sem gás (mineral 510 ml) | Port. 283/2015 |
+
+### Regina sem gás (mineral copo 200 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,59 |  |  | Regina sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
+
+### Regina sem gás (mineral copo 200 ml) (código 48293)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,37 |  |  | Regina sem gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,56 | +51.4% |  | Regina sem gás (mineral copo 200 ml) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,59 | +5.4% |  | Regina sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,77 | +30.5% |  | Regina sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,81 | +5.2% |  | Regina sem gás (mineral copo 200 ml) | Port. 500/2024 |
+
+### Regina sem gás (mineral descartável 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,11 |  |  | Regina sem gás (mineral descartável 1 L) | Port. 419/2018 |
+
+### Regina sem gás (mineral descartável 5 L) (código 48408)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,05 |  |  | Regina sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,58 | +30.3% |  | Regina sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,95 | +5.6% |  | Regina sem gás (mineral descartável 5 L) | Port. 500/2024 |
+
+### Regina sem gás (mineral descartável 500 ml) (código 48320)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,37 |  |  | Regina sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 | -23.4% |  | Regiina sem gás (mineral descartável 500 ml) ⚠ | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 | +30.5% |  | Regiina sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Regina sem gás (mineral descartável 500 ml) ⚠ | Port. 500/2024 |
+
+### Regina sem gás (mineral descartável 510 ml) (código 45038)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,79 |  |  | Regina sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,89 | +5.6% |  | Regina sem gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Regina sem gás (mineral retornável 20 L) (código 48089)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Regina sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Regina sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Regina sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Regina sem gás – 5000 ml (código —)
 
@@ -8322,62 +8455,61 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,32 |  | und | Regina (5 L) | Port. 220/2011 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,80 | +44.6% |  | Regina – 5.000 ml | Port. 283/2015 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,80 |  |  | Regina – 5.000 ml | Port. 283/2015 |
 
-### River c/ gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | River c/ gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 | +28.6% |  | River c/ gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | River c/ gás (500 ml) | Port. 283/2015 |
-
-### River com gás (500 ml) (código —)
+### River c/ gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 |  |  | River com gás (500 ml) | Port. 405/2018 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | River c/ gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 | +28.6% |  | River c/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | River c/ gás (mineral 500 ml) | Port. 283/2015 |
 
-### River com gás (descartável 500 ml) (código 48623)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | River com gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 | +30.6% |  | River com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | River com gás (descartável 500 ml) | Port. 500/2024 |
-
-### Saara com gás (500 ml) (código —)
+### River com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,65 |  |  | Saara com gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 |  |  | River com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Saara com gás (descartável 300 ml) (código 50260)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,72 |  |  | Saara com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,76 | +5.6% |  | Saara com gás (descartável 300 ml) | Port. 500/2024 |
-
-### Saara com gás (descartável 310 ml) (código —)
+### River com gás (mineral descartável 500 ml) (código 48623)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,55 |  |  | Saara com gás (descartável 310 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | River com gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 | +30.6% |  | River com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | River com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### Saara com gás (descartável 500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,65 |  |  | Saara com gás (descartável 500 ml) | Port. 419/2018 |
-
-### Saara com gás (descartável 510 ml) (código 50257)
+### Saara com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,85 |  |  | Saara com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,90 | +5.9% |  | Saara com gás (descartável 510 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,65 |  |  | Saara com gás (mineral 500 ml) | Port. 405/2018 |
+
+### Saara com gás (mineral descartável 300 ml) (código 50260)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,72 |  |  | Saara com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,76 | +5.6% |  | Saara com gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Saara com gás (mineral descartável 310 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,55 |  |  | Saara com gás (mineral descartável 310 ml) | Port. 419/2018 |
+
+### Saara com gás (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,65 |  |  | Saara com gás (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Saara com gás (mineral descartável 510 ml) (código 50257)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,85 |  |  | Saara com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,90 | +5.9% |  | Saara com gás (mineral descartável 510 ml) | Port. 500/2024 |
 
 ### Saara com gás – 300 ml (código —)
 
@@ -8385,97 +8517,97 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,55 |  |  | Saara com gás – 300 ml | Port. 405/2018 |
 
-### Saara sem gás (1 L) (código —)
+### Saara sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,55 |  |  | Saara sem gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,55 |  |  | Saara sem gás (mineral 1 L) | Port. 405/2018 |
 
 ### Água Mineral Saara sem gás 1.500 ml (código 50256)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-07-20 (assin.) | 2018-07-20 | incluir | 1,47 |  |  | Água Mineral Saara sem gás 1.500 ml | Port. 260/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,02 | +37.4% |  | Saara sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,13 | +5.4% |  | Saara sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,02 | +37.4% |  | Saara sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,13 | +5.4% |  | Saara sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Saara sem gás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,06 |  |  | Saara sem gás (350 a 450 ml) | Port. 405/2018 |
-
-### Saara sem gás (500 ml) (código —)
+### Saara sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,70 |  |  | Saara sem gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,06 |  |  | Saara sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
+
+### Saara sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,70 |  |  | Saara sem gás (mineral 500 ml) | Port. 405/2018 |
 
 ### Água Mineral Saara sem gás - Copo 200 ml (código 50262)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-07-20 (assin.) | 2018-07-20 | incluir | 0,43 |  |  | Água Mineral Saara sem gás - Copo 200 ml | Port. 260/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,45 | +4.7% |  | Saara sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,59 | +31.1% |  | Saara sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,62 | +5.1% |  | Saara sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,45 | +4.7% |  | Saara sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,59 | +31.1% |  | Saara sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,62 | +5.1% |  | Saara sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
 ### Água Mineral Saara sem gás - Copo 300 ml (código 50261)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-07-20 (assin.) | 2018-07-20 | incluir | 0,45 |  |  | Água Mineral Saara sem gás - Copo 300 ml | Port. 260/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,47 | +4.4% |  | Saara sem gás (copo 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,61 | +29.8% |  | Saara sem gás (copo 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,64 | +4.9% |  | Saara sem gás (copo 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,47 | +4.4% |  | Saara sem gás (mineral copo 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,61 | +29.8% |  | Saara sem gás (mineral copo 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,64 | +4.9% |  | Saara sem gás (mineral copo 300 ml) | Port. 500/2024 |
 
-### Saara sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,55 |  |  | Saara sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Saara sem gás (descartável 300 ml) (código 50259)
+### Saara sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,64 |  |  | Saara sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,68 | +6.2% |  | Saara sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,55 |  |  | Saara sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Saara sem gás (descartável 310 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,49 |  |  | Saara sem gás (descartável 310 ml) | Port. 419/2018 |
-
-### Saara sem gás (descartável 350 ml) (código —)
+### Saara sem gás (mineral descartável 300 ml) (código 50259)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,06 |  |  | Saara sem gás (descartável 350 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,64 |  |  | Saara sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,68 | +6.2% |  | Saara sem gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Saara sem gás (descartável 5 L) (código 50255)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,31 |  |  | Saara sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,62 | +30.4% |  | Saara sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,93 | +5.5% |  | Saara sem gás (descartável 5 L) | Port. 500/2024 |
-
-### Saara sem gás (descartável 500 ml) (código 47736)
+### Saara sem gás (mineral descartável 310 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,70 |  |  | Saara sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,38 | +97.1% |  | Saara sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,46 | +5.8% |  | Saara sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,49 |  |  | Saara sem gás (mineral descartável 310 ml) | Port. 419/2018 |
 
-### Saara sem gás (descartável 510 ml) (código 50258)
+### Saara sem gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,91 |  |  | Saara sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,96 | +5.5% |  | Saara sem gás (descartável 510 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,06 |  |  | Saara sem gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Saara sem gás (mineral descartável 5 L) (código 50255)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,31 |  |  | Saara sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,62 | +30.4% |  | Saara sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,93 | +5.5% |  | Saara sem gás (mineral descartável 5 L) | Port. 500/2024 |
+
+### Saara sem gás (mineral descartável 500 ml) (código 47736)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,70 |  |  | Saara sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,38 | +97.1% |  | Saara sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,46 | +5.8% |  | Saara sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Saara sem gás (mineral descartável 510 ml) (código 50258)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,91 |  |  | Saara sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,96 | +5.5% |  | Saara sem gás (mineral descartável 510 ml) | Port. 500/2024 |
 
 ### Saara sem gás – 200 ml (código —)
 
@@ -8496,196 +8628,196 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,31 |  |  | Saara sem gás – 5.000 ml | Port. 405/2018 |
 
-### San Sebastian (20 L) (código 50504)
+### San Sebastian (adicionada de sais 20 L) (código 50504)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | San Sebastian (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | San Sebastian (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | San Sebastian (20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | San Sebastian (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | San Sebastian (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | San Sebastian (adicionada de sais 20 L) | Port. 500/2024 |
 
-### San Sebastian - Copo (200 ml) (código 50524)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,60 |  |  | San Sebastian - Copo (200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,63 | +5.0% |  | San Sebastian - Copo (200 ml) | Port. 500/2024 |
-
-### San Sebastian - Copo (300 ml) (código 50508)
+### San Sebastian - Copo (adicionada de sais 200 ml) (código 50524)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,50 |  |  | San Sebastian - Copo (300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,53 | +6.0% |  | San Sebastian - Copo (300 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,60 |  |  | San Sebastian - Copo (adicionada de sais 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,63 | +5.0% |  | San Sebastian - Copo (adicionada de sais 200 ml) | Port. 500/2024 |
 
-### San Sebastian - Copo (descartável 200 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,36 |  |  | San Sebastian - Copo (descartável 200 ml) | Port. 419/2018 |
-
-### San Sebastian - Copo (descartável 300 ml) (código —)
+### San Sebastian - Copo (adicionada de sais 300 ml) (código 50508)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,38 |  |  | San Sebastian - Copo (descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,50 |  |  | San Sebastian - Copo (adicionada de sais 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,53 | +6.0% |  | San Sebastian - Copo (adicionada de sais 300 ml) | Port. 500/2024 |
 
-### San Sebastian com gás (1,5 L) (código 50549)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,98 |  |  | San Sebastian com gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,09 | +5.6% |  | San Sebastian com gás (1,5 L) | Port. 500/2024 |
-
-### San Sebastian com gás (330 ml) (código 50553)
+### San Sebastian - Copo (adicionada de sais descartável 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,94 |  |  | San Sebastian com gás (330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,99 | +5.3% |  | San Sebastian com gás (330 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,36 |  |  | San Sebastian - Copo (adicionada de sais descartável 200 ml) | Port. 419/2018 |
 
-### San Sebastian com gás (510 ml) (código 50552)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 |  |  | San Sebastian com gás (510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | San Sebastian com gás (510 ml) | Port. 500/2024 |
-
-### San Sebastian sem gás (1,5 L) (código 50550)
+### San Sebastian - Copo (adicionada de sais descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,98 |  |  | San Sebastian sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,09 | +5.6% |  | San Sebastian sem gás (1,5 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,38 |  |  | San Sebastian - Copo (adicionada de sais descartável 300 ml) | Port. 419/2018 |
 
-### San Sebastian sem gás (330 ml) (código 50554)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,77 |  |  | San Sebastian sem gás (330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,81 | +5.2% |  | San Sebastian sem gás (330 ml) | Port. 500/2024 |
-
-### San Sebastian sem gás (510 ml) (código 50551)
+### San Sebastian com gás (adicionada de sais 1,5 L) (código 50549)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,94 |  |  | San Sebastian sem gás (510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,99 | +5.3% |  | San Sebastian sem gás (510 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,98 |  |  | San Sebastian com gás (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,09 | +5.6% |  | San Sebastian com gás (adicionada de sais 1,5 L) | Port. 500/2024 |
 
-### Santa Joana com gás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,64 |  |  | Santa Joana com gás (350 a 450 ml) | Port. 405/2018 |
-
-### Santa Joana com gás (descartável 300 ml) (código —)
+### San Sebastian com gás (adicionada de sais 330 ml) (código 50553)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,79 |  |  | Santa Joana com gás (descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,94 |  |  | San Sebastian com gás (adicionada de sais 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,99 | +5.3% |  | San Sebastian com gás (adicionada de sais 330 ml) | Port. 500/2024 |
 
-### Santa Joana com gás (descartável 330 ml) (código 47704)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,03 |  |  | Santa Joana com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,09 | +5.8% |  | Santa Joana com gás (descartável 330 ml) | Port. 500/2024 |
-
-### Santa Joana com gás (descartável 350 ml) (código —)
+### San Sebastian com gás (adicionada de sais 510 ml) (código 50552)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,11 |  |  | Santa Joana com gás (descartável 350 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 |  |  | San Sebastian com gás (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | San Sebastian com gás (adicionada de sais 510 ml) | Port. 500/2024 |
 
-### Santa Joana com gás (descartável 500 ml) (código 47702)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,45 |  |  | Santa Joana com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,53 | +5.5% |  | Santa Joana com gás (descartável 500 ml) | Port. 500/2024 |
-
-### Santa Joana com gás (garrafa 250 a 300 ml) (código —)
+### San Sebastian sem gás (adicionada de sais 1,5 L) (código 50550)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,79 |  |  | Santa Joana com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,98 |  |  | San Sebastian sem gás (adicionada de sais 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,09 | +5.6% |  | San Sebastian sem gás (adicionada de sais 1,5 L) | Port. 500/2024 |
 
-### Santa joana sem gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,63 |  |  | Santa joana sem gás (1 L) | Port. 405/2018 |
-
-### Santa joana sem gás (1,5 L) (código 47700)
+### San Sebastian sem gás (adicionada de sais 330 ml) (código 50554)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,13 |  |  | Santa joana sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,25 | +5.6% |  | Santa joana sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,77 |  |  | San Sebastian sem gás (adicionada de sais 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,81 | +5.2% |  | San Sebastian sem gás (adicionada de sais 330 ml) | Port. 500/2024 |
 
-### Santa Joana sem gás (350 a 450 ml) (código —)
+### San Sebastian sem gás (adicionada de sais 510 ml) (código 50551)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Santa Joana sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,94 |  |  | San Sebastian sem gás (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,99 | +5.3% |  | San Sebastian sem gás (adicionada de sais 510 ml) | Port. 500/2024 |
+
+### Santa Joana com gás (mineral 350 a 450 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,64 |  |  | Santa Joana com gás (mineral 350 a 450 ml) | Port. 405/2018 |
+
+### Santa Joana com gás (mineral descartável 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,79 |  |  | Santa Joana com gás (mineral descartável 300 ml) | Port. 419/2018 |
+
+### Santa Joana com gás (mineral descartável 330 ml) (código 47704)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,03 |  |  | Santa Joana com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,09 | +5.8% |  | Santa Joana com gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Santa Joana com gás (mineral descartável 350 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,11 |  |  | Santa Joana com gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Santa Joana com gás (mineral descartável 500 ml) (código 47702)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,45 |  |  | Santa Joana com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,53 | +5.5% |  | Santa Joana com gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Santa Joana com gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,79 |  |  | Santa Joana com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Santa joana sem gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,63 |  |  | Santa joana sem gás (mineral 1 L) | Port. 405/2018 |
+
+### Santa joana sem gás (mineral 1,5 L) (código 47700)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,13 |  |  | Santa joana sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,25 | +5.6% |  | Santa joana sem gás (mineral 1,5 L) | Port. 500/2024 |
+
+### Santa Joana sem gás (mineral 350 a 450 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,63 |  |  | Santa Joana sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
 ### Água Mineral Santa Joana sem gás – copo 0,38 200 ml (código 47706)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-11-21 (pub.) | 2016-11-16 | incluir | 0,42 |  |  | Água Mineral Santa Joana sem gás - copo 200 ml | Port. 413/2016 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,44 | +4.8% |  | Santa Joana sem gás (copo 200 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,44 | +4.8% |  | Santa Joana sem gás (mineral copo 200 ml) | Port. 419/2018 |
 | 2019-11-14 (efeitos) | 2019-11-13 | ? | 0,38 | -13.6% |  | Água Mineral Santa Joana sem gás – copo 0,38 200 ml | Port. 636/2019 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,57 | +50.0% |  | Santa Joana sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,60 | +5.3% |  | Santa Joana sem gás (copo 200 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,57 | +50.0% |  | Santa Joana sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,60 | +5.3% |  | Santa Joana sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
 ### Água Mineral Santa Joana sem gás - copo 0,43 300 ml (código 47705)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-11-21 (pub.) | 2016-11-16 | incluir | 0,43 |  |  | Água Mineral Santa Joana sem gás - copo 300 ml | Port. 413/2016 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,45 | +4.7% |  | Santa joana sem gás (copo 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,45 | +4.7% |  | Santa joana sem gás (mineral copo 300 ml) | Port. 419/2018 |
 | 2019-11-14 (efeitos) | 2019-11-13 | ? | 0,43 | -4.4% |  | Água Mineral Santa Joana sem gás - copo 0,43 300 ml | Port. 636/2019 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,59 | +37.2% |  | Santa joana sem gás (copo 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,62 | +5.1% |  | Santa joana sem gás (copo 300 ml) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,59 | +37.2% |  | Santa joana sem gás (mineral copo 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,62 | +5.1% |  | Santa joana sem gás (mineral copo 300 ml) | Port. 500/2024 |
 
-### Santa joana sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,63 |  |  | Santa joana sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Santa Joana sem gás (descartável 300 ml) (código —)
+### Santa joana sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,78 |  |  | Santa Joana sem gás (descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,63 |  |  | Santa joana sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Santa Joana sem gás (descartável 330 ml) (código 47703)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,02 |  |  | Santa Joana sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,08 | +5.9% |  | Santa Joana sem gás (descartável 330 ml) | Port. 500/2024 |
-
-### Santa Joana sem gás (descartável 350 ml) (código —)
+### Santa Joana sem gás (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Santa Joana sem gás (descartável 350 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,78 |  |  | Santa Joana sem gás (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Santa Joana sem gás (descartável 500 ml) (código 47701)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 |  |  | Santa Joana sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Santa Joana sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### Santa Joana sem gás (garrafa 250 a 300 ml) (código —)
+### Santa Joana sem gás (mineral descartável 330 ml) (código 47703)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,78 |  |  | Santa Joana sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,02 |  |  | Santa Joana sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,08 | +5.9% |  | Santa Joana sem gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Santa Joana sem gás (mineral descartável 350 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 |  |  | Santa Joana sem gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Santa Joana sem gás (mineral descartável 500 ml) (código 47701)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 |  |  | Santa Joana sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Santa Joana sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Santa Joana sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,78 |  |  | Santa Joana sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
 ### Santa Joana sem gás – 200 ml (código —)
 
@@ -8699,60 +8831,60 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,45 |  |  | Santa joana sem gás – 300 ml | Port. 405/2018 |
 
-### Santa mônica s/gás (350 a 450 ml) (código —)
+### Santa mônica s/gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,64 |  |  | Santa mônica s/gás (350 a 450 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,72 | +12.5% |  | Santa mônica s/gás (350 a 450 ml) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,64 |  |  | Santa mônica s/gás (mineral 350 a 450 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,72 | +12.5% |  | Santa mônica s/gás (mineral 350 a 450 ml) | Port. 283/2015 |
 
-### Santa mônica sem gás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,53 |  | und | Santa Mônica sem gás (350 a 450 ml) | Port. 220/2011 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 | +60.4% |  | Santa Mônica sem gás (350 a 450 ml) | Port. 405/2018 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,76 | -10.6% |  | Santa mônica sem gás (350 a 450 ml) | Port. 405/2018 |
-
-### Santa mônica sem gás (350 ml) (código 48134)
+### Santa mônica sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,76 |  |  | Santa mônica sem gás (350 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,99 | +30.3% |  | Santa mônica sem gás (350 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,05 | +6.1% |  | Santa mônica sem gás (350 ml) | Port. 500/2024 |
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,53 |  | und | Santa Mônica sem gás (mineral 350 a 450 ml) | Port. 220/2011 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 | +60.4% |  | Santa Mônica sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,76 | -10.6% |  | Santa mônica sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### Santa Mônica sem gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 |  |  | Santa Mônica sem gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | Santa Mônica sem gás (500 ml) | Port. 283/2015 |
-
-### Santa Mônica sem gás (descartável 350 ml) (código —)
+### Santa mônica sem gás (mineral 350 ml) (código 48134)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | Santa Mônica sem gás (descartável 350 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,76 |  |  | Santa mônica sem gás (mineral 350 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,99 | +30.3% |  | Santa mônica sem gás (mineral 350 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,05 | +6.1% |  | Santa mônica sem gás (mineral 350 ml) | Port. 500/2024 |
 
-### Santa Mônica sem gás (descartável 500 ml) (código 48321)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 |  |  | Santa Mônica sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | Santa Mônica sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### São Brás (1,5 L) (código —)
+### Santa Mônica sem gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,10 |  |  | São Brás (1,5 L) | Port. 283/2015 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 |  |  | Santa Mônica sem gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | Santa Mônica sem gás (mineral 500 ml) | Port. 283/2015 |
 
-### São bras (20 L) (código —)
+### Santa Mônica sem gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,50 |  |  | São bras (20 L) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | Santa Mônica sem gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### Santa Mônica sem gás (mineral descartável 500 ml) (código 48321)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 |  |  | Santa Mônica sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | Santa Mônica sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### São Brás (adicionada de sais 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,10 |  |  | São Brás (adicionada de sais 1,5 L) | Port. 283/2015 |
+
+### São bras (adicionada de sais 20 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,50 |  |  | São bras (adicionada de sais 20 L) | Port. 283/2015 |
 
 ### São Brás – 500 ml (código —)
 
@@ -8760,345 +8892,345 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,68 |  |  | São Brás – 500 ml | Port. 283/2015 |
 
-### São Braz sem gás (1 L) (código —)
+### São Braz sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,91 |  |  | São Braz sem gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,91 |  |  | São Braz sem gás (mineral 1 L) | Port. 405/2018 |
 
-### São Braz sem gás (1,5 L) (código 48409)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,49 |  |  | São Braz sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,63 | +5.6% |  | São Braz sem gás (1,5 L) | Port. 500/2024 |
-
-### São Braz sem gás (20 L) (código —)
+### São Braz sem gás (mineral 1,5 L) (código 48409)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | São Braz sem gás (20 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,49 |  |  | São Braz sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,63 | +5.6% |  | São Braz sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### São Braz sem gás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,84 |  |  | São Braz sem gás (350 a 450 ml) | Port. 405/2018 |
-
-### São Braz sem gás (descartável 1 L) (código —)
+### São Braz sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,91 |  |  | São Braz sem gás (descartável 1 L) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | São Braz sem gás (mineral 20 L) | Port. 405/2018 |
 
-### São Braz sem gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,84 |  |  | São Braz sem gás (descartável 350 ml) | Port. 419/2018 |
-
-### São Braz sem gás (descartável 500 ml) (código 49843)
+### São Braz sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,10 |  |  | São Braz sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,16 | +5.5% |  | São Braz sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,84 |  |  | São Braz sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### São Braz sem gás (retornável 20 L) (código 48109)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | São Braz sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | São Braz sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | São Braz sem gás (retornável 20 L) | Port. 500/2024 |
-
-### São Lourenço com gás (500 ml) (código —)
+### São Braz sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,94 |  |  | São Lourenço com gás (500 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,91 |  |  | São Braz sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### São Lourenço com gás (510 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,79 |  |  | São Lourenço com gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,89 | +12.7% |  | São Lourenço com gás (510 ml) | Port. 283/2015 |
-
-### São Lourenço com gás (descartável 500 ml) (código —)
+### São Braz sem gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,94 |  |  | São Lourenço com gás (descartável 500 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,84 |  |  | São Braz sem gás (mineral descartável 350 ml) | Port. 419/2018 |
 
-### São Lourenço com gás (descartável 510 ml) (código 12048)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,23 |  |  | São Lourenço com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,30 | +5.7% |  | São Lourenço com gás (descartável 510 ml) | Port. 500/2024 |
-
-### São Lourenço sem gás (250 a 300 ml) (código —)
+### São Braz sem gás (mineral descartável 500 ml) (código 49843)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,30 |  |  | São Lourenço sem gás (250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,10 |  |  | São Braz sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,16 | +5.5% |  | São Braz sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
-### São Lourenço sem gás (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,10 |  |  | São Lourenço sem gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,24 | +12.7% |  | São Lourenço sem gás (300 ml) | Port. 283/2015 |
-
-### São Lourenço sem gás (500 ml) (código —)
+### São Braz sem gás (mineral retornável 20 L) (código 48109)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 |  |  | São Lourenço sem gás (500 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,00 |  |  | São Braz sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,61 | +30.5% |  | São Braz sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,76 | +5.7% |  | São Braz sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
-### São Lourenço sem gás (510 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 |  |  | São Lourenço sem gás (510 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | São Lourenço sem gás (510 ml) | Port. 283/2015 |
-
-### São Lourenço sem gás (descartável 300 ml) (código 12068)
+### São Lourenço com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,30 |  |  | São Lourenço sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,69 | +30.0% |  | São Lourenço sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,78 | +5.3% |  | São Lourenço sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,94 |  |  | São Lourenço com gás (mineral 500 ml) | Port. 405/2018 |
 
-### São Lourenço sem gás (descartável 500 ml) (código —)
+### São Lourenço com gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | São Lourenço sem gás (descartável 500 ml) | Port. 419/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,79 |  |  | São Lourenço com gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,89 | +12.7% |  | São Lourenço com gás (mineral 510 ml) | Port. 283/2015 |
 
-### São Lourenço sem gás (descartável 510 ml) (código 12051)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 |  |  | São Lourenço sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | São Lourenço sem gás (descartável 510 ml) | Port. 500/2024 |
-
-### São Luís (20 L) (código 48140)
+### São Lourenço com gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,50 |  |  | São Luís (20 L) | Port. 283/2015 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,58 | -54.9% |  | São Luís (5 a 20 L) | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -5.1% |  | São Luís (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | São Luís (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | São Luís (20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,94 |  |  | São Lourenço com gás (mineral descartável 500 ml) | Port. 419/2018 |
 
-### Schin com gás (1 L) (código —)
+### São Lourenço com gás (mineral descartável 510 ml) (código 12048)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,72 |  |  | Schin com gás (1 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,23 |  |  | São Lourenço com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,30 | +5.7% |  | São Lourenço com gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Schin com gás (1,5 L) (código 45636)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,55 |  |  | Schin com gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,75 | +5.6% |  | Schin com gás (1,5 L) | Port. 500/2024 |
-
-### Schin com gás (250 a 300 ml) (código —)
+### São Lourenço sem gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Schin com gás (250 a 300 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,30 |  |  | São Lourenço sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
 
-### Schin com gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,72 |  |  | Schin com gás (descartável 1 L) | Port. 419/2018 |
-
-### Schin com gás (descartável 300 ml) (código 48130)
+### São Lourenço sem gás (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Schin com gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Schin com gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Schin com gás (descartável 300 ml) | Port. 500/2024 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,10 |  |  | São Lourenço sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,24 | +12.7% |  | São Lourenço sem gás (mineral 300 ml) | Port. 283/2015 |
 
-### Schin sem gás (1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,27 |  |  | Schin sem gás (1 L) | Port. 405/2018 |
-
-### Schin sem gás (1,5 L) (código 45009)
+### São Lourenço sem gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,96 |  |  | Schin sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,12 | +5.4% |  | Schin sem gás (1,5 L) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,85 |  |  | São Lourenço sem gás (mineral 500 ml) | Port. 405/2018 |
 
-### Schin sem gás (250 a 300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Schin sem gás (250 a 300 ml) | Port. 405/2018 |
-
-### Schin sem gás (500 ml) (código —)
+### São Lourenço sem gás (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,13 |  |  | Schin sem gás (500 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 |  |  | São Lourenço sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | São Lourenço sem gás (mineral 510 ml) | Port. 283/2015 |
 
-### Schin sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,27 |  |  | Schin sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Schin sem gás (descartável 300 ml) (código 48239)
+### São Lourenço sem gás (mineral descartável 300 ml) (código 12068)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Schin sem gás (descartável 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Schin sem gás (descartável 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Schin sem gás (descartável 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,30 |  |  | São Lourenço sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,69 | +30.0% |  | São Lourenço sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,78 | +5.3% |  | São Lourenço sem gás (mineral descartável 300 ml) | Port. 500/2024 |
 
-### Schin sem gás (descartável 500 ml) (código 48131)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,13 |  |  | Schin sem gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,47 | +30.1% |  | Schin sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,55 | +5.4% |  | Schin sem gás (descartável 500 ml) | Port. 500/2024 |
-
-### Schincariol c/ gás (1 L) (código —)
+### São Lourenço sem gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,22 |  | und | Schincariol c/ gás (1 L) | Port. 220/2011 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,85 |  |  | São Lourenço sem gás (mineral descartável 500 ml) | Port. 419/2018 |
 
-### Schincariol c/ gás (1,5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,85 |  |  | Schincariol c/ gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,09 | +13.0% |  | Schincariol c/ gás (1,5 L) | Port. 283/2015 |
-
-### Schincariol c/ gás (500 ml) (código —)
+### São Lourenço sem gás (mineral descartável 510 ml) (código 12051)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,88 |  | und | Schincariol c/ gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,99 | +12.5% |  | Schincariol c/ gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,12 | +13.1% |  | Schincariol c/ gás (500 ml) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,11 |  |  | São Lourenço sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,17 | +5.4% |  | São Lourenço sem gás (mineral descartável 510 ml) | Port. 500/2024 |
 
-### Schincariol com gás (300 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 |  | und | Schincariol com gás (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,77 | +26.2% |  | Schincariol com gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,87 | +13.0% |  | Schincariol com gás (300 ml) | Port. 283/2015 |
-
-### Schincariol s/ gás (1 L) (código —)
+### São Luís (adicionada de sais 20 L) (código 48140)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,12 |  | und | Schincariol s/ gás (1 L) | Port. 220/2011 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,50 |  |  | São Luís (adicionada de sais 20 L) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,58 | -54.9% |  | São Luís (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -5.1% |  | São Luís (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | São Luís (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | São Luís (adicionada de sais 20 L) | Port. 500/2024 |
 
-### Schincariol s/ gás (1,5 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,75 |  |  | Schincariol s/ gás (1,5 L) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,97 | +12.6% |  | Schincariol s/ gás (1,5 L) | Port. 283/2015 |
-
-### Schincariol s/ gás (500 ml) (código —)
+### Schin com gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,84 |  | und | Schincariol s/ gás (500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 | +13.1% |  | Schincariol s/ gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Schincariol s/ gás (500 ml) | Port. 283/2015 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,72 |  |  | Schin com gás (mineral 1 L) | Port. 405/2018 |
 
-### Schincariol sem gás (300 ml) (código —)
+### Schin com gás (mineral 1,5 L) (código 45636)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,55 |  | Und | Schincariol sem gás (300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,74 | +34.5% |  | Schincariol sem gás (300 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,83 | +12.2% |  | Schincariol sem gás (300 ml) | Port. 283/2015 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,55 |  |  | Schin com gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,75 | +5.6% |  | Schin com gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Serra Grande com gás (1 L) (código —)
+### Schin com gás (mineral 250 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,77 |  |  | Serra Grande com gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Schin com gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Schin com gás (mineral descartável 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,72 |  |  | Schin com gás (mineral descartável 1 L) | Port. 419/2018 |
+
+### Schin com gás (mineral descartável 300 ml) (código 48130)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Schin com gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Schin com gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Schin com gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Schin sem gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,27 |  |  | Schin sem gás (mineral 1 L) | Port. 405/2018 |
+
+### Schin sem gás (mineral 1,5 L) (código 45009)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,96 |  |  | Schin sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,12 | +5.4% |  | Schin sem gás (mineral 1,5 L) | Port. 500/2024 |
+
+### Schin sem gás (mineral 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,01 |  |  | Schin sem gás (mineral 250 a 300 ml) | Port. 405/2018 |
+
+### Schin sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,13 |  |  | Schin sem gás (mineral 500 ml) | Port. 405/2018 |
+
+### Schin sem gás (mineral descartável 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,27 |  |  | Schin sem gás (mineral descartável 1 L) | Port. 419/2018 |
+
+### Schin sem gás (mineral descartável 300 ml) (código 48239)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,01 |  |  | Schin sem gás (mineral descartável 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,32 | +30.7% |  | Schin sem gás (mineral descartável 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,39 | +5.3% |  | Schin sem gás (mineral descartável 300 ml) | Port. 500/2024 |
+
+### Schin sem gás (mineral descartável 500 ml) (código 48131)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,13 |  |  | Schin sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,47 | +30.1% |  | Schin sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,55 | +5.4% |  | Schin sem gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Schincariol c/ gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,22 |  | und | Schincariol c/ gás (mineral 1 L) | Port. 220/2011 |
+
+### Schincariol c/ gás (mineral 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,85 |  |  | Schincariol c/ gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,09 | +13.0% |  | Schincariol c/ gás (mineral 1,5 L) | Port. 283/2015 |
+
+### Schincariol c/ gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,88 |  | und | Schincariol c/ gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,99 | +12.5% |  | Schincariol c/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,12 | +13.1% |  | Schincariol c/ gás (mineral 500 ml) | Port. 283/2015 |
+
+### Schincariol com gás (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 |  | und | Schincariol com gás (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,77 | +26.2% |  | Schincariol com gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,87 | +13.0% |  | Schincariol com gás (mineral 300 ml) | Port. 283/2015 |
+
+### Schincariol s/ gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,12 |  | und | Schincariol s/ gás (mineral 1 L) | Port. 220/2011 |
+
+### Schincariol s/ gás (mineral 1,5 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,75 |  |  | Schincariol s/ gás (mineral 1,5 L) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,97 | +12.6% |  | Schincariol s/ gás (mineral 1,5 L) | Port. 283/2015 |
+
+### Schincariol s/ gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,84 |  | und | Schincariol s/ gás (mineral 500 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 | +13.1% |  | Schincariol s/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Schincariol s/ gás (mineral 500 ml) | Port. 283/2015 |
+
+### Schincariol sem gás (mineral 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,55 |  | Und | Schincariol sem gás (mineral 300 ml) | Port. 220/2011 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,74 | +34.5% |  | Schincariol sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,83 | +12.2% |  | Schincariol sem gás (mineral 300 ml) | Port. 283/2015 |
+
+### Serra Grande com gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,77 |  |  | Serra Grande com gás (mineral 1 L) | Port. 405/2018 |
 
 ### Água Mineral Serra Grande – Com Gás 1.500 ml (código 47693)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-09-26 (pub.) | 2016-09-19 | incluir | 1,69 |  |  | Água Mineral Serra Grande – Com Gás 1.500 ml | Port. 364/2016 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,31 | +36.7% |  | Serra Grande com gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,44 | +5.6% |  | Serra Grande com gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,31 | +36.7% |  | Serra Grande com gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,44 | +5.6% |  | Serra Grande com gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Serra Grande com gás (500 ml) (código —)
+### Serra Grande com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,07 |  |  | Serra Grande com gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,07 |  |  | Serra Grande com gás (mineral 500 ml) | Port. 405/2018 |
 
 ### Água Mineral Serra Grande – Com Gás - Copo 200 ml (código 47699)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-09-26 (pub.) | 2016-09-19 | incluir | 0,55 |  |  | Água Mineral Serra Grande – Com Gás - Copo 200 ml | Port. 364/2016 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,58 | +5.5% |  | Serra Grande com gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,76 | +31.0% |  | Serra Grande com gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,80 | +5.3% |  | Serra Grande com gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,58 | +5.5% |  | Serra Grande com gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,76 | +31.0% |  | Serra Grande com gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,80 | +5.3% |  | Serra Grande com gás (mineral copo 200 ml) | Port. 500/2024 |
 
-### Serra Grande com gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,77 |  |  | Serra Grande com gás (descartável 1 L) | Port. 419/2018 |
-
-### Serra grande com gás (descartável 300 ml) (código —)
+### Serra Grande com gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,84 |  |  | Serra grande com gás (descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,77 |  |  | Serra Grande com gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Serra grande com gás (descartável 330 ml) (código 47697)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,10 |  |  | Serra grande com gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,16 | +5.5% |  | Serra grande com gás (descartável 330 ml) | Port. 500/2024 |
-
-### Serra Grande com gás (descartável 500 ml) (código —)
+### Serra grande com gás (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,07 |  |  | Serra Grande com gás (descartável 500 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,84 |  |  | Serra grande com gás (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Serra Grande com gás (descartável 510 ml) (código 47695)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,40 |  |  | Serra Grande com gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,48 | +5.7% |  | Serra Grande com gás (descartável 510 ml) | Port. 500/2024 |
-
-### Serra grande com gás (garrafa 250 a 300 ml) (código —)
+### Serra grande com gás (mineral descartável 330 ml) (código 47697)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,84 |  |  | Serra grande com gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,10 |  |  | Serra grande com gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,16 | +5.5% |  | Serra grande com gás (mineral descartável 330 ml) | Port. 500/2024 |
+
+### Serra Grande com gás (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,07 |  |  | Serra Grande com gás (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Serra Grande com gás (mineral descartável 510 ml) (código 47695)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,40 |  |  | Serra Grande com gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,48 | +5.7% |  | Serra Grande com gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Serra grande com gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,84 |  |  | Serra grande com gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
 
 ### Serra Grande com gás – 200ml (código —)
 
@@ -9106,86 +9238,86 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,58 |  |  | Serra Grande com gás – 200ml | Port. 405/2018 |
 
-### Serra Grande sem gás (1 L) (código —)
+### Serra Grande sem gás (mineral 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,77 |  |  | Serra Grande sem gás (1 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,77 |  |  | Serra Grande sem gás (mineral 1 L) | Port. 405/2018 |
 
 ### Água Mineral Serra Grande – Sem Gás 1.500 ml (código 47692)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-09-26 (pub.) | 2016-09-19 | incluir | 1,68 |  |  | Água Mineral Serra Grande – Sem Gás 1.500 ml | Port. 364/2016 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,31 | +37.5% |  | Serra Grande sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,44 | +5.6% |  | Serra Grande sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,31 | +37.5% |  | Serra Grande sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,44 | +5.6% |  | Serra Grande sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Serra Grande sem gás (20 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Serra Grande sem gás (20 L) | Port. 405/2018 |
-
-### Serra Grande sem gás (500 ml) (código —)
+### Serra Grande sem gás (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,06 |  |  | Serra Grande sem gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,00 |  |  | Serra Grande sem gás (mineral 20 L) | Port. 405/2018 |
+
+### Serra Grande sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,06 |  |  | Serra Grande sem gás (mineral 500 ml) | Port. 405/2018 |
 
 ### Água Mineral Serra Grande – Sem Gás - Copo 200 ml (código 47698)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-09-26 (pub.) | 2016-09-19 | incluir | 0,54 |  |  | Água Mineral Serra Grande – Sem Gás - Copo 200 ml | Port. 364/2016 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,57 | +5.6% |  | Serra Grande sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,74 | +29.8% |  | Serra Grande sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,78 | +5.4% |  | Serra Grande sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,57 | +5.6% |  | Serra Grande sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,74 | +29.8% |  | Serra Grande sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,78 | +5.4% |  | Serra Grande sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
-### Serra Grande sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,77 |  |  | Serra Grande sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Serra Grande sem gás (descartável 300 ml) (código —)
+### Serra Grande sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 |  |  | Serra Grande sem gás (descartável 300 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,77 |  |  | Serra Grande sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Serra Grande sem gás (descartável 330 ml) (código 47696)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 |  |  | Serra Grande sem gás (descartável 330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | Serra Grande sem gás (descartável 330 ml) | Port. 500/2024 |
-
-### Serra Grande sem gás (descartável 500 ml) (código —)
+### Serra Grande sem gás (mineral descartável 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,06 |  |  | Serra Grande sem gás (descartável 500 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 |  |  | Serra Grande sem gás (mineral descartável 300 ml) | Port. 419/2018 |
 
-### Serra Grande sem gás (descartável 510 ml) (código 47694)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,38 |  |  | Serra Grande sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,46 | +5.8% |  | Serra Grande sem gás (descartável 510 ml) | Port. 500/2024 |
-
-### Serra Grande sem gás (garrafa 250 a 300 ml) (código —)
+### Serra Grande sem gás (mineral descartável 330 ml) (código 47696)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,83 |  |  | Serra Grande sem gás (garrafa 250 a 300 ml) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 |  |  | Serra Grande sem gás (mineral descartável 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | Serra Grande sem gás (mineral descartável 330 ml) | Port. 500/2024 |
 
-### Serra Grande sem gás (retornável 20 L) (código 47691)
+### Serra Grande sem gás (mineral descartável 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Serra Grande sem gás (retornável 20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Serra Grande sem gás (retornável 20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Serra Grande sem gás (retornável 20 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,06 |  |  | Serra Grande sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Serra Grande sem gás (mineral descartável 510 ml) (código 47694)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,38 |  |  | Serra Grande sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,46 | +5.8% |  | Serra Grande sem gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Serra Grande sem gás (mineral garrafa 250 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,83 |  |  | Serra Grande sem gás (mineral garrafa 250 a 300 ml) | Port. 405/2018 |
+
+### Serra Grande sem gás (mineral retornável 20 L) (código 47691)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Serra Grande sem gás (mineral retornável 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Serra Grande sem gás (mineral retornável 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Serra Grande sem gás (mineral retornável 20 L) | Port. 500/2024 |
 
 ### Serra Grande sem gás – 200 ml (código —)
 
@@ -9193,19 +9325,19 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,57 |  |  | Serra Grande sem gás – 200 ml | Port. 405/2018 |
 
-### Shin com gás (500 ml) (código —)
+### Shin com gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,18 |  |  | Shin com gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,18 |  |  | Shin com gás (mineral 500 ml) | Port. 405/2018 |
 
-### Shin com gás (descartável 500 ml) (código 48129)
+### Shin com gás (mineral descartável 500 ml) (código 48129)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,18 |  |  | Shin com gás (descartável 500 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,54 | +30.5% |  | Shin com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,63 | +5.8% |  | Shin com gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,18 |  |  | Shin com gás (mineral descartável 500 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,54 | +30.5% |  | Shin com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,63 | +5.8% |  | Shin com gás (mineral descartável 500 ml) | Port. 500/2024 |
 
 ### Smartwater– 591 ml (código 50494)
 
@@ -9214,128 +9346,128 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,46 |  |  | Smartwater– 591 ml | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,76 | +5.5% |  | Smartwater– 591 ml | Port. 500/2024 |
 
-### Ster Bom com gás (350 a 450 ml) (código —)
+### Ster Bom com gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 |  |  | Ster Bom com gás (350 a 450 ml) | Port. 405/2018 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 | -9.5% |  | Ster Bom com gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,16 |  |  | Ster Bom com gás (mineral 350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,05 | -9.5% |  | Ster Bom com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
 ### Água Mineral Ster Bom com gás 350 ml (código 47979)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2017-02-10 (pub.) | 2017-02-06 | incluir | 1,00 |  |  | Água Mineral Ster Bom com gás 350 ml | Port. 70/2017 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 | +5.0% |  | Ster Bom com gás (350 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 | +30.5% |  | Ster Bom com gás (350 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Ster Bom com gás (350 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,05 | +5.0% |  | Ster Bom com gás (mineral 350 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,37 | +30.5% |  | Ster Bom com gás (mineral 350 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,45 | +5.8% |  | Ster Bom com gás (mineral 350 ml) | Port. 500/2024 |
 
-### Ster Bom com gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 |  |  | Ster Bom com gás (descartável 350 ml) | Port. 419/2018 |
-
-### Ster Bom com gás (descartável 500 ml) (código 47978)
+### Ster Bom com gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 |  |  | Ster Bom com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,58 | +4.6% |  | Ster Bom com gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,16 |  |  | Ster Bom com gás (mineral descartável 350 ml) | Port. 419/2018 |
 
-### Ster Bom sem gás (1 L) (código —)
+### Ster Bom com gás (mineral descartável 500 ml) (código 47978)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,79 |  |  | Ster Bom sem gás (1 L) | Port. 405/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,51 |  |  | Ster Bom com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,58 | +4.6% |  | Ster Bom com gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### Ster Bom sem gás (mineral 1 L) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,79 |  |  | Ster Bom sem gás (mineral 1 L) | Port. 405/2018 |
 
 ### Água Mineral Ster Bom sem gás 1.500 ml (código 47976)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2017-02-10 (pub.) | 2017-02-06 | incluir | 1,70 |  |  | Água Mineral Ster Bom sem gás 1.500 ml | Port. 70/2017 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,33 | +37.1% |  | Ster Bom sem gás (1,5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,46 | +5.6% |  | Ster Bom sem gás (1,5 L) | Port. 500/2024 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,33 | +37.1% |  | Ster Bom sem gás (mineral 1,5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,46 | +5.6% |  | Ster Bom sem gás (mineral 1,5 L) | Port. 500/2024 |
 
-### Ster Bom sem gás (350 a 450 ml) (código —)
+### Ster Bom sem gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,89 |  |  | Ster Bom sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,89 |  |  | Ster Bom sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
 ### Água Mineral Ster Bom sem gás 350 ml (código 47980)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2017-02-10 (pub.) | 2017-02-06 | incluir | 0,85 |  |  | Água Mineral Ster Bom sem gás 350 ml | Port. 70/2017 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,89 | +4.7% |  | Ster Bom sem gás (350 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,16 | +30.3% |  | Ster Bom sem gás (350 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,22 | +5.2% |  | Ster Bom sem gás (350 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,89 | +4.7% |  | Ster Bom sem gás (mineral 350 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,16 | +30.3% |  | Ster Bom sem gás (mineral 350 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,22 | +5.2% |  | Ster Bom sem gás (mineral 350 ml) | Port. 500/2024 |
 
-### Ster Bom sem gás (500 ml) (código —)
+### Ster Bom sem gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,95 |  |  | Ster Bom sem gás (500 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,95 |  |  | Ster Bom sem gás (mineral 500 ml) | Port. 405/2018 |
 
 ### Água Mineral Ster Bom sem gás – Copo 200 ml (código 47982)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2017-02-10 (pub.) | 2017-02-06 | incluir | 0,38 |  |  | Água Mineral Ster Bom sem gás – Copo 200 ml | Port. 70/2017 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,40 | +5.3% |  | Ster Bom sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,52 | +30.0% |  | Ster Bom sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,55 | +5.8% |  | Ster Bom sem gás (copo 200 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,40 | +5.3% |  | Ster Bom sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,52 | +30.0% |  | Ster Bom sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,55 | +5.8% |  | Ster Bom sem gás (mineral copo 200 ml) | Port. 500/2024 |
 
 ### Água Mineral Ster Bom sem gás – Copo 300 ml (código 47981)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2017-02-10 (pub.) | 2017-02-06 | incluir | 0,70 |  |  | Água Mineral Ster Bom sem gás – Copo 300 ml | Port. 70/2017 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,74 | +5.7% |  | Ster Bom sem gás (copo 300 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,96 | +29.7% |  | Ster Bom sem gás (copo 300 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,01 | +5.2% |  | Ster Bom sem gás (copo 300 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,74 | +5.7% |  | Ster Bom sem gás (mineral copo 300 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,96 | +29.7% |  | Ster Bom sem gás (mineral copo 300 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,01 | +5.2% |  | Ster Bom sem gás (mineral copo 300 ml) | Port. 500/2024 |
 
-### Ster Bom sem gás (descartável 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,79 |  |  | Ster Bom sem gás (descartável 1 L) | Port. 419/2018 |
-
-### Ster Bom sem gás (descartável 10 L) (código —)
+### Ster Bom sem gás (mineral descartável 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 |  |  | Ster Bom sem gás (descartável 10 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,79 |  |  | Ster Bom sem gás (mineral descartável 1 L) | Port. 419/2018 |
 
-### Ster Bom sem gás (descartável 5 L) (código 47975)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,73 |  |  | Ster Bom sem gás (descartável 5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,17 | +30.4% |  | Ster Bom sem gás (descartável 5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,51 | +5.5% |  | Ster Bom sem gás (descartável 5 L) | Port. 500/2024 |
-
-### Ster Bom sem gás (descartável 500 ml) (código —)
+### Ster Bom sem gás (mineral descartável 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Ster Bom sem gás (descartável 500 ml) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 6,00 |  |  | Ster Bom sem gás (mineral descartável 10 L) | Port. 405/2018 |
 
-### Ster Bom sem gás (descartável 510 ml) (código 47977)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 |  |  | Ster Bom sem gás (descartável 510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Ster Bom sem gás (descartável 510 ml) | Port. 500/2024 |
-
-### Ster Bom sem gás (retornável 10 L) (código 47974)
+### Ster Bom sem gás (mineral descartável 5 L) (código 47975)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Ster Bom sem gás (retornável 10 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Ster Bom sem gás (retornável 10 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Ster Bom sem gás (retornável 10 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,73 |  |  | Ster Bom sem gás (mineral descartável 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,17 | +30.4% |  | Ster Bom sem gás (mineral descartável 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,51 | +5.5% |  | Ster Bom sem gás (mineral descartável 5 L) | Port. 500/2024 |
+
+### Ster Bom sem gás (mineral descartável 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Ster Bom sem gás (mineral descartável 500 ml) | Port. 419/2018 |
+
+### Ster Bom sem gás (mineral descartável 510 ml) (código 47977)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 |  |  | Ster Bom sem gás (mineral descartável 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Ster Bom sem gás (mineral descartável 510 ml) | Port. 500/2024 |
+
+### Ster Bom sem gás (mineral retornável 10 L) (código 47974)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 |  |  | Ster Bom sem gás (mineral retornável 10 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Ster Bom sem gás (mineral retornável 10 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Ster Bom sem gás (mineral retornável 10 L) | Port. 500/2024 |
 
 ### Ster Bom sem gás - 200 ml (código —)
 
@@ -9355,247 +9487,316 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,73 |  |  | Ster Bom sem gás – 5000 ml | Port. 405/2018 |
 
-### Viena com gás (1250 ml) (código 48357)
+### Viena (adicionada de sais 20 L) (código 48355)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 4,30 |  |  | Viena (adicionada de sais 5 a 20 L) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 4,20 | -2.3% |  | Viena (adicionada de sais 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 5,48 | +30.5% |  | Viena (adicionada de sais 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 5,78 | +5.5% |  | Viena (adicionada de sais 20 L) | Port. 500/2024 |
+
+### Viena com gás (adicionada de sais 1250 ml) (código 48357)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Viena com gás (adicionada de sais 1250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 | +30.5% |  | Viena com gás (adicionada de sais 1250 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Viena com gás (adicionada de sais 1250 ml) | Port. 500/2024 |
+
+### Viena com gás (adicionada de sais 330 ml) (código 48399)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,96 |  |  | Viena com gás (adicionada de sais 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,01 | +5.2% |  | Viena com gás (adicionada de sais 330 ml) | Port. 500/2024 |
+
+### Viena com gás (adicionada de sais 510 ml) (código 48390)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,82 |  |  | Viena com gás (adicionada de sais 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,07 | +30.5% |  | Viena com gás (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,13 | +5.6% |  | Viena com gás (adicionada de sais 510 ml) | Port. 500/2024 |
+
+### Viena com gás (adicionada de sais descartável 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,74 |  |  | Viena com gás (adicionada de sais descartável 330 ml) | Port. 419/2018 |
+
+### Viena com gás – 1.250 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,95 |  |  | Viena com gás – 1.250 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 | +0.0% |  | Viena com gás (1250 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 | +30.5% |  | Viena com gás (1250 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Viena com gás (1250 ml) | Port. 500/2024 |
 
-### Viena com gás (330 ml) (código 48399)
+### Viena com gás – 330 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,74 |  |  | Viena com gás – 330 ml | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,96 | +29.7% |  | Viena com gás (330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,01 | +5.2% |  | Viena com gás (330 ml) | Port. 500/2024 |
 
-### Viena com gás (510 ml) (código 48390)
+### Viena com gás – 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,82 |  |  | Viena com gás – 510 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,82 | +0.0% |  | Viena com gás (510 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,07 | +30.5% |  | Viena com gás (510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,13 | +5.6% |  | Viena com gás (510 ml) | Port. 500/2024 |
 
-### Viena com gás (descartável 330 ml) (código —)
+### Viena levemente gasificada (adicionada de sais 1250 ml) (código 48388)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,74 |  |  | Viena com gás (descartável 330 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 |  |  | Viena levemente gasificada (adicionada de sais 1250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 | +30.5% |  | Viena levemente gasificada (adicionada de sais 1250 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Viena levemente gasificada (adicionada de sais 1250 ml) | Port. 500/2024 |
 
-### Viena levemente gasificada (1250 ml) (código 48388)
+### Viena levemente gasificada (adicionada de sais 330 ml) (código 48495)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,44 |  |  | Viena levemente gasificada (adicionada de sais 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,46 | +4.5% |  | Viena levemente gasificada (adicionada de sais 330 ml) | Port. 500/2024 |
+
+### Viena levemente gasificada (adicionada de sais 510 ml) (código 48383)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,56 |  |  | Viena levemente gasificada (adicionada de sais 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,73 | +30.4% |  | Viena levemente gasificada (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,77 | +5.5% |  | Viena levemente gasificada (adicionada de sais 510 ml) | Port. 500/2024 |
+
+### Viena levemente gasificada (adicionada de sais descartável 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,34 |  |  | Viena levemente gasificada (adicionada de sais descartável 330 ml) | Port. 419/2018 |
+
+### Viena levemente gasificada – 1.250 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,95 |  |  | Viena levemente gasificada – 1.250 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,95 | +0.0% |  | Viena levemente gasificada (1250 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,24 | +30.5% |  | Viena levemente gasificada (1250 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,31 | +5.6% |  | Viena levemente gasificada (1250 ml) | Port. 500/2024 |
 
-### Viena levemente gasificada (330 ml) (código 48495)
+### Viena levemente gasificada – 330 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,34 |  |  | Viena levemente gasificada – 330 ml | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,44 | +29.4% |  | Viena levemente gasificada (330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,46 | +4.5% |  | Viena levemente gasificada (330 ml) | Port. 500/2024 |
 
-### Viena levemente gasificada (510 ml) (código 48383)
+### Viena levemente gasificada – 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,56 |  |  | Viena levemente gasificada – 510 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,56 | +0.0% |  | Viena levemente gasificada (510 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,73 | +30.4% |  | Viena levemente gasificada (510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,77 | +5.5% |  | Viena levemente gasificada (510 ml) | Port. 500/2024 |
 
-### Viena levemente gasificada (descartável 330 ml) (código —)
+### Viena sabor Limão (adicionada de sais 510 ml) (código 48381)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,34 |  |  | Viena levemente gasificada (descartável 330 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,84 |  |  | Viena sabor Limão (adicionada de sais 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,10 | +31.0% |  | Viena sabor Limão (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,16 | +5.5% |  | Viena sabor Limão (adicionada de sais 510 ml) | Port. 500/2024 |
 
-### Viena sabor Limão (510 ml) (código 48381)
+### Viena sabor limão – 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,84 |  |  | Viena sabor limão – 510 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,84 | +0.0% |  | Viena sabor Limão (510 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,10 | +31.0% |  | Viena sabor Limão (510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,16 | +5.5% |  | Viena sabor Limão (510 ml) | Port. 500/2024 |
 
-### Viena sem gás (1250 ml) (código 48356)
+### Viena sem gás (adicionada de sais 1250 ml) (código 48356)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,39 |  |  | Viena sem gás (adicionada de sais 1250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,81 | +30.2% |  | Viena sem gás (adicionada de sais 1250 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,91 | +5.5% |  | Viena sem gás (adicionada de sais 1250 ml) | Port. 500/2024 |
+
+### Viena sem gás (adicionada de sais 330 ml) (código 48395)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,90 |  |  | Viena sem gás (adicionada de sais 330 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,95 | +5.6% |  | Viena sem gás (adicionada de sais 330 ml) | Port. 500/2024 |
+
+### Viena sem gás (adicionada de sais 510 ml) (código 48389)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,77 |  |  | Viena sem gás (adicionada de sais 510 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 | +29.9% |  | Viena sem gás (adicionada de sais 510 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | Viena sem gás (adicionada de sais 510 ml) | Port. 500/2024 |
+
+### Viena sem gás (adicionada de sais descartável 330 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,69 |  |  | Viena sem gás (adicionada de sais descartável 330 ml) | Port. 419/2018 |
+
+### Viena sem gás – 1.250 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,39 |  |  | Viena sem gás – 1.250 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,39 | +0.0% |  | Viena sem gás (1250 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,81 | +30.2% |  | Viena sem gás (1250 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,91 | +5.5% |  | Viena sem gás (1250 ml) | Port. 500/2024 |
 
-### Viena sem gás (330 ml) (código 48395)
+### Viena sem gás – 330 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,69 |  |  | Viena sem gás – 330 ml | Port. 405/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,90 | +30.4% |  | Viena sem gás (330 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,95 | +5.6% |  | Viena sem gás (330 ml) | Port. 500/2024 |
 
-### Viena sem gás (510 ml) (código 48389)
+### Viena sem gás – 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,77 |  |  | Viena sem gás – 510 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,77 | +0.0% |  | Viena sem gás (510 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,00 | +29.9% |  | Viena sem gás (510 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,06 | +6.0% |  | Viena sem gás (510 ml) | Port. 500/2024 |
 
-### Viena sem gás (descartável 330 ml) (código —)
+### Vilagua (natural 20 L) (código 50236)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,69 |  |  | Viena sem gás (descartável 330 ml) | Port. 419/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 |  |  | Vilagua (natural 20 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Vilagua (natural 20 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Vilagua (natural 20 L) | Port. 500/2024 |
 
-### Vilagua (20 L) (código 50236)
+### Vilagua - 20.000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,52 |  |  | Vilagua - 20.000 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,50 | -1.3% |  | Vilagua (20 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,96 | +30.7% |  | Vilagua (20 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,07 | +5.6% |  | Vilagua (20 L) | Port. 500/2024 |
 
-### You Happy (5 L) (código 50108)
+### You Happy (natural 5 L) (código 50108)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,00 |  |  | You Happy – 5.000 ml | Port. 405/2018 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,00 | +0.0% |  | You Happy (5 L) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,52 | +30.4% |  | You Happy (5 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,88 | +5.5% |  | You Happy (5 L) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 5,00 |  |  | You Happy (natural 5 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 6,52 | +30.4% |  | You Happy (natural 5 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 6,88 | +5.5% |  | You Happy (natural 5 L) | Port. 500/2024 |
 
 ### Água Mineral You Happy sem gás 2.000 ml (código 47678)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2016-07-15 (pub.) | 2016-07-11 | incluir | 2,78 |  |  | Água Mineral You Happy sem gás 2000 ml | Port. 266/2016 |
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,92 | +5.0% |  | You Happy sem gás (2 L) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,92 | +5.0% |  | You Happy sem gás (mineral 2 L) | Port. 405/2018 |
 | 2019-01-15 (pub.) | 2019-01-07 | alterar | 2,78 | -4.8% |  | Água Mineral You Happy sem gás 2.000 ml | Port. 18/2019 |
 | 2022-10-03 (pub.) | 2022-09-27 | alterar | 3,27 | +17.6% |  | Água Mineral You Happy sem Gás 2.000 ml | Port. 518/2022 |
 | 2023-04-19 (pub.) | 2023-04-13 | alterar | 3,37 | +3.1% |  | Àgua Mineral You Happy Sem Gas 2.000 ml | Port. 159/2023 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,62 | +7.4% |  | You Happy sem gás (2 L) | Port. 215/2023 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,62 | +7.4% |  | You Happy sem gás (mineral 2 L) | Port. 215/2023 |
 | 2024-04-01 (pub.) | 2024-03-22 | alterar | 3,83 | +5.8% |  | Água Mineral You Happy sem gás 2.000 ml | Port. 91/2024 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,82 | -0.3% |  | You Happy sem gás (2 L) | Port. 500/2024 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,82 | -0.3% |  | You Happy sem gás (mineral 2 L) | Port. 500/2024 |
 
-### You Happy sem gás (descartável 1 L) (código 48727)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,09 |  |  | You Happy sem gás (descartável 1 L) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,21 | +5.7% |  | You Happy sem gás (descartável 1 L) | Port. 500/2024 |
-
-### You Happy sem gás (descartável 2 L) (código —)
+### You Happy sem gás (mineral descartável 1 L) (código 48727)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,12 |  |  | You Happy sem gás (descartável 2 L) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,09 |  |  | You Happy sem gás (mineral descartável 1 L) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,21 | +5.7% |  | You Happy sem gás (mineral descartável 1 L) | Port. 500/2024 |
 
-### You! Happy com gás (350 a 450 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,43 |  |  | You! Happy com gás (350 a 450 ml) | Port. 405/2018 |
-
-### You! Happy com gás (copo 200 a 300 ml) (código —)
+### You Happy sem gás (mineral descartável 2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,41 |  |  | You! Happy com gás (copo 200 a 300 ml) | Port. 405/2018 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 2,12 |  |  | You Happy sem gás (mineral descartável 2 L) | Port. 419/2018 |
 
-### You! Happy com gás (copo 200 ml) (código 48287)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,35 |  |  | You! Happy com gás (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,39 | +11.4% |  | You! Happy com gás (copo 200 ml) | Port. 283/2015 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,41 | +5.1% |  | You! Happy com gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,53 | +29.3% |  | You! Happy com gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,56 | +5.7% |  | You! Happy com gás (copo 200 ml) | Port. 500/2024 |
-
-### You! Happy com gás (descartável 250 ml) (código 48117)
+### You Happy – 5.000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,08 |  |  | You! Happy com gás (descartável 250 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,41 | +30.6% |  | You! Happy com gás (descartável 250 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,49 | +5.7% |  | You! Happy com gás (descartável 250 ml) | Port. 500/2024 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 5,00 |  |  | You Happy – 5.000 ml | Port. 405/2018 |
 
-### You! Happy com gás (descartável 350 ml) (código —)
+### You! Happy com gás (mineral 350 a 450 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,43 |  |  | You! Happy com gás (descartável 350 ml) | Port. 419/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,43 |  |  | You! Happy com gás (mineral 350 a 450 ml) | Port. 405/2018 |
 
-### You! Happy com gás (descartável 500 ml) (código 48385)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,86 |  |  | You! Happy com gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,96 | +5.4% |  | You! Happy com gás (descartável 500 ml) | Port. 500/2024 |
-
-### You! Happy sem gás (350 a 450 ml) (código —)
+### You! Happy com gás (mineral copo 200 a 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,14 |  |  | You! Happy sem gás (350 a 450 ml) | Port. 405/2018 |
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,41 |  |  | You! Happy com gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
 
-### You! Happy sem gás (500 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,52 |  |  | You! Happy sem gás (500 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,59 | +13.5% |  | You! Happy sem gás (500 ml) | Port. 283/2015 |
-
-### You! Happy sem gás (copo 200 a 300 ml) (código —)
+### You! Happy com gás (mineral copo 200 ml) (código 48287)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,32 |  |  | You! Happy sem gás (copo 200 a 300 ml) | Port. 405/2018 |
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,35 |  |  | You! Happy com gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,39 | +11.4% |  | You! Happy com gás (mineral copo 200 ml) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,41 | +5.1% |  | You! Happy com gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,53 | +29.3% |  | You! Happy com gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,56 | +5.7% |  | You! Happy com gás (mineral copo 200 ml) | Port. 500/2024 |
 
-### You! Happy sem gás (copo 200 ml) (código 48288)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,27 |  |  | You! Happy sem gás (copo 200 ml) | Port. 341/2012 |
-| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,30 | +11.1% |  | You! Happy sem gás (copo 200 ml) | Port. 283/2015 |
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,32 | +6.7% |  | You! Happy sem gás (copo 200 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,42 | +31.2% |  | You! Happy sem gás (copo 200 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,44 | +4.8% |  | You! Happy sem gás (copo 200 ml) | Port. 500/2024 |
-
-### You! Happy sem gás (descartável 250 ml) (código 48197)
+### You! Happy com gás (mineral descartável 250 ml) (código 48117)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 |  |  | You! Happy sem gás (descartável 250 ml) | Port. 419/2018 |
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 | +30.1% |  | You! Happy sem gás (descartável 250 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | You! Happy sem gás (descartável 250 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,08 |  |  | You! Happy com gás (mineral descartável 250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,41 | +30.6% |  | You! Happy com gás (mineral descartável 250 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,49 | +5.7% |  | You! Happy com gás (mineral descartável 250 ml) | Port. 500/2024 |
 
-### You! Happy sem gás (descartável 350 ml) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,14 |  |  | You! Happy sem gás (descartável 350 ml) | Port. 419/2018 |
-
-### You! Happy sem gás (descartável 500 ml) (código 48396)
+### You! Happy com gás (mineral descartável 350 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,49 |  |  | You! Happy sem gás (descartável 500 ml) | Port. 215/2023 |
-| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,57 | +5.4% |  | You! Happy sem gás (descartável 500 ml) | Port. 500/2024 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,43 |  |  | You! Happy com gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### You! Happy com gás (mineral descartável 500 ml) (código 48385)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,86 |  |  | You! Happy com gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,96 | +5.4% |  | You! Happy com gás (mineral descartável 500 ml) | Port. 500/2024 |
+
+### You! Happy sem gás (mineral 350 a 450 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,14 |  |  | You! Happy sem gás (mineral 350 a 450 ml) | Port. 405/2018 |
+
+### You! Happy sem gás (mineral 500 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,52 |  |  | You! Happy sem gás (mineral 500 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,59 | +13.5% |  | You! Happy sem gás (mineral 500 ml) | Port. 283/2015 |
+
+### You! Happy sem gás (mineral copo 200 a 300 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,32 |  |  | You! Happy sem gás (mineral copo 200 a 300 ml) | Port. 405/2018 |
+
+### You! Happy sem gás (mineral copo 200 ml) (código 48288)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,27 |  |  | You! Happy sem gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,30 | +11.1% |  | You! Happy sem gás (mineral copo 200 ml) | Port. 283/2015 |
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,32 | +6.7% |  | You! Happy sem gás (mineral copo 200 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,42 | +31.2% |  | You! Happy sem gás (mineral copo 200 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,44 | +4.8% |  | You! Happy sem gás (mineral copo 200 ml) | Port. 500/2024 |
+
+### You! Happy sem gás (mineral descartável 250 ml) (código 48197)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,83 |  |  | You! Happy sem gás (mineral descartável 250 ml) | Port. 419/2018 |
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,08 | +30.1% |  | You! Happy sem gás (mineral descartável 250 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,14 | +5.6% |  | You! Happy sem gás (mineral descartável 250 ml) | Port. 500/2024 |
+
+### You! Happy sem gás (mineral descartável 350 ml) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-12-14 (pub.) | 2018-12-11 | alterar | 1,14 |  |  | You! Happy sem gás (mineral descartável 350 ml) | Port. 419/2018 |
+
+### You! Happy sem gás (mineral descartável 500 ml) (código 48396)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,49 |  |  | You! Happy sem gás (mineral descartável 500 ml) | Port. 215/2023 |
+| 2024-12-05 (pub.) | 2024-11-28 | alterar | 1,57 | +5.4% |  | You! Happy sem gás (mineral descartável 500 ml) | Port. 500/2024 |
 
 ### You! Happy sem gás – 250 ml (código —)
 

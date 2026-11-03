@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: destilados e licores"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-01"
+gerado_em: "2026-11-02"
 portarias: 5
 registros: 10
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2015.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-01**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 - **Nesta categoria não há relação completa republicada**: "vigente" significa apenas "último valor publicado" para o item, sem confirmação de que continua na tabela.
 
@@ -122,9 +122,9 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: bebidas: energéticos e isotônicos"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-01"
+gerado_em: "2026-11-02"
 portarias: 145
-registros: 5933
+registros: 5935
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: energéticos e isotônicos
@@ -136,7 +136,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2004.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-01**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (470)
@@ -361,7 +361,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 54258 | Energético Furioso Uva Verde e Pêssego - Pet 250 ml | und | 2,80 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 9046 | Fusion (lata 250 ml) | und | 7,18 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48757 | Fusion (lata 310 ml) | und | 7,72 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 48636 | Fusion (lata 473 ml) | und | 7,57 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 48636 | Energético Fusion 473 ml | und | 7,57 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 49930 | Fusion (PET 1 L) | und | 9,10 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53099 | Energético Fusion - Pet 2.000 ml | und | 12,08 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53261 | Fusion - 500 ml | und | 6,00 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -616,7 +616,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 49676 | X - 7 (PET 710 ml) | und | 12,10 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48946 | Energético X - Treme 250 ml | und | 6,20 | 2026-11-01 (efeitos) | Port. 402/2026 |
 
-## Situação incerta (60)
+## Situação incerta (61)
 
 O valor abaixo foi o último fixado, mas há motivo para duvidar que continue valendo: o item **não aparece** numa relação completa publicada depois (pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa) ou o **código dele foi dado a outro produto** (⚠). **Não use sem confirmar na SEFAZ.**
 
@@ -664,6 +664,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Isotônico Baly Hidrate Tangerina – Pet 500 ml |  | 4,00 | 2026-03-24 (pub.) | Port. 117/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 52406 | Energético Monster Mango Loco – Lata 473 ml | Und | 9,73 | 2024-08-30 (pub.) | Port. 336/2024 | ⚠ o código 52406 passou a designar "Monster Sabores (lata 269 ml)" pela Portaria nº 151/2025 (2025-05-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48233 | Nigth Power Regular - 269 ml - lata | und | 6,61 | 2022-09-01 (assin.) | Port. 454/2022 | ⚠ o código 48233 passou a designar "Minotauro (2 L)" pela Portaria nº 128/2023 (2023-04-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
+| 53663 | Outras Marcas - Lata de 355 a 375 ml | und | 16,38 | 2025-11-01 (efeitos) | Port. 370/2025 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 46200 | Panico energy drink - 250 ml | und | 4,85 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 46200 passou a designar "Panicoenergy drink- 250 ml" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 46200 | Panicoenergy drink (lata 250 ml) | und | 6,11 | 2024-02-01 (pub.) | Port. 31/2024 | ⚠ o código 46200 passou a designar "Panico energy drink (lata 250 ml)" pela Portaria nº 336/2024 (2024-08-30), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 45301 | Psiu teen power (PET 1 L) | und | 9,03 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 45301 passou a designar "Psiu teenpower (PET 1 L)" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
@@ -683,7 +684,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 49680 | Vulcano – 2000 ml | und | 17,76 | 2023-04-01 (efeitos) | Port. 128/2023 | ⚠ o código 49680 passou a designar "Vulcano Energy Drink – 2000 ml" pela Portaria nº 477/2023 (2023-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48392 | Vulcano – 458 ml – lata | und | 7,66 | 2023-04-01 (efeitos) | Port. 128/2023 | ⚠ o código 48392 passou a designar "Monster Mango Loco (lata 269 ml)" pela Portaria nº 477/2023 (2023-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 
-## Superados (395)
+## Superados (393)
 
 | código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
 |---|---|---|---|---|
@@ -766,7 +767,6 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Energético Enerup 269 ml | 4,43 | 2018-09-13 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Fireball 1000 ml | 7,80 | 2012-08-16 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Furioso 1000 ml | 4,85 | 2019-09-11 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energético Fusion 473 ml | 6,19 | 2023-07-10 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Hits Power Açaí – Lata 473 ml | 5,90 | 2025-05-20 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Hits Power Coco – Lata 473 ml | 5,90 | 2025-05-20 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Hits Power Maçã Verde - Lata 473 ml | 5,90 | 2025-05-20 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -997,7 +997,6 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Outras Marcas (até 399 ml) | 2,80 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras Marcas (até 500 ml) | 9,00 | 2010-10-01 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53672 | Outras Marcas (lata 260 ml) | 7,74 | 2024-08-30 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 53663 | Outras Marcas - Lata de 355 a 375 ml | 16,38 | 2025-11-01 | mesmo código, descrição/seção renomeada para "Outras Marcas - Lata de 355 a 375 ml" a partir de 2026-05-01 |
 | 48975 | Outras Marcas até- 310 ml | 9,81 | 2022-09-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45678 | Outras Marcas – de 311 a 710 ml | 11,57 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Palmeiron (400 a 600 ml) | 3,17 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3029,12 +3028,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2026-03-30 (pub.) | 2026-03-24 | incluir | 5,86 |  |  | Energético Furioso Melon Green Apple - Lata 473 ml | Port. 119/2026 |
-
-### Energético Fusion 473 ml (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2023-07-10 (pub.) | 2023-07-04 | incluir | 6,19 |  |  | Energético Fusion 473 ml | Port. 303/2023 |
 
 ### Energético Hits Power Açaí – Lata 473 ml (código —)
 
@@ -5643,11 +5636,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 7,61 | +5.5% | und | Fusion (lata 310 ml) | Port. 170/2026 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 7,72 | +1.4% | und | Fusion (lata 310 ml) | Port. 402/2026 |
 
-### Fusion (lata 473 ml) (código 48636)
+### Energético Fusion 473 ml (código 48636)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2024-08-30 (pub.) | 2024-08-23 | incluir | 6,50 |  | und | Fusion (lata 473 ml) | Port. 336/2024 |
+| 2023-07-10 (pub.) | 2023-07-04 | incluir | 6,19 |  |  | Energético Fusion 473 ml | Port. 303/2023 |
+| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 6,19 | +0.0% |  | Fusion (473 ml) | Port. 477/2023 |
+| 2024-02-01 (pub.) | 2024-01-26 | alterar | 6,19 | +0.0% |  | Fusion (lata 473 ml) ⚠ | Port. 31/2024 |
+| 2024-08-30 (pub.) | 2024-08-23 | incluir | 6,50 | +5.0% | und | Fusion (lata 473 ml) | Port. 336/2024 |
 | 2025-05-01 (efeitos) | 2025-04-28 | alterar | 7,02 | +8.0% | und | Fusion (lata 473 ml) | Port. 151/2025 |
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 6,99 | -0.4% | und | Fusion (lata 473 ml) | Port. 370/2025 |
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 7,64 | +9.3% | und | Fusion (lata 473 ml) | Port. 170/2026 |

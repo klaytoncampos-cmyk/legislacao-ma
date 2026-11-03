@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: cervejas e chopes"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-01"
+gerado_em: "2026-11-02"
 portarias: 250
 registros: 24533
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-01**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (1712)
@@ -2883,8 +2883,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Chopp Osiris Porter 30.000 ml | 768,00 | 2019-04-26 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Osiris Porter 50.000 ml | 1.280,00 | 2019-04-26 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49836 | Chopp Outras Marcas (1 L) | 58,04 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49946 | Chopp Outras Marcas (descartável 500 a 600 ml) | 3,28 | 2018-05-02 | substituído pelo código 48756 (Outras Marcas (descartável 600 ml)) a partir de 2018-11-09; valeu até 2018-11-08 |
-| 49961 | Chopp Outras Marcas (lata 473 ml) | 2,78 | 2018-05-02 | substituído pelo código 52039 (Outras Marcas (lata 473 ml)) a partir de 2022-09-01; valeu até 2022-08-31 |
+| 49946 | Chopp Outras Marcas (descartável 500 a 600 ml) | 3,28 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49961 | Chopp Outras Marcas (lata 473 ml) | 2,78 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Ovni 1.000 ml | 4,32 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48043 | Chopp Paulistânia Caminho das Indias Session Ipa (1 L) | 13,84 | 2026-05-01 | substituído pelo código 53125 (Chopp Paulistânia Caminho das Indias Session Ipa (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
 | — | Chopp Paulistânia Caminho das Índias Session Ipa 30.000 ml | 357,00 | 2020-12-10 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3286,12 +3286,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 53641 | Outras Marcas (200 ml) | 5,68 | 2024-08-30 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53640 | Outras Marcas (210 ml) | 6,89 | 2024-08-30 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48898 | Outras Marcas (250 ml) | 8,35 | 2024-08-30 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 50661 | Outras Marcas (barril 5 L) | 110,00 | 2019-05-30 | substituído pelo código 48732 (Outras Marcas (barril 5 L)) a partir de 2019-11-12; valeu até 2019-11-11 |
-| 50659 | Outras Marcas (descartável 550 ml) | 12,90 | 2019-05-30 | substituído pelo código 48655 (Outras Marcas (descartável 500 a 550 ml)) a partir de 2021-09-22; valeu até 2021-09-21 |
-| 50195 | Outras Marcas (descartável 550 ml) | 10,52 | 2019-11-12 | substituído pelo código 48655 (Outras Marcas (descartável 500 a 550 ml)) a partir de 2021-09-22; valeu até 2021-09-21 |
-| 50660 | Outras Marcas (lata 220 a 310 ml) | 5,80 | 2019-05-30 | substituído pelo código 45026 (Outras Marcas (lata 220 a 310 ml)) a partir de 2019-11-12; valeu até 2019-11-11 |
+| 50661 | Outras Marcas (barril 5 L) | 110,00 | 2019-05-30 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 50659 | Outras Marcas (descartável 550 ml) | 12,90 | 2019-05-30 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 50195 | Outras Marcas (descartável 550 ml) | 10,52 | 2019-11-12 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 50660 | Outras Marcas (lata 220 a 310 ml) | 5,80 | 2019-05-30 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48898 | Outras Marcas (long neck 250 ml) | 5,85 | 2019-11-12 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 45616 | Outras Marcas (long neck 355 ml) | 126,10 | 2024-02-01 | substituído pelo código 53633 (Outras Marcas (long neck 355 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
+| 45616 | Outras Marcas (long neck 355 ml) | 126,10 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47772 | Outras Marcas (retornável 1,5 L) | 12,60 | 2019-05-30 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48546 | Outras Marcas (retornável 550 ml) | 14,16 | 2024-08-30 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras Marcas /FEMSA (long neck 275 a 350 ml) | 1,84 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |

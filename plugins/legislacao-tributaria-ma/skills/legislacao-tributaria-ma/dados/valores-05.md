@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: refrigerantes e águas tônicas"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-01"
+gerado_em: "2026-11-02"
 portarias: 166
 registros: 13719
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-01**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (792)
@@ -1278,15 +1278,15 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Outras marcas (descartável 500 a 600 ml) | 1,42 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (lata 200 ml) | 1,26 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (lata até 250 ml) | 1,40 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 48660 | Outras Marcas (PET 350 ml) | 3,23 | 2024-02-01 | substituído pelo código 52497 (Outras Marcas (PET 350 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
+| 48660 | Outras Marcas (PET 350 ml) | 3,23 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48921 | Outras Marcas (PET 450 ml) | 2,66 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (PET até 250 ml) | 1,16 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (PET até 260 ml) | 1,30 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (retornável 201 a 330 ml) | 0,88 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 50662 | Outras Marcas (retornável 355 ml) | 2,20 | 2019-05-30 | substituído pelo código 53647 (Outras Marcas (retornável 355 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
+| 50662 | Outras Marcas (retornável 355 ml) | 2,20 | 2019-05-30 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras Marcas (vidro 1 L) | 2,30 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (vidro até 200 ml) | 1,32 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 48090 | Outras Marcas - até 270 ml | 2,35 | 2019-11-12 | mesmo código, descrição/seção renomeada para "Outras Marcas - até 270 ml" a partir de 2021-09-22 |
+| 48090 | Outras Marcas - até 270 ml | 2,35 | 2019-11-12 | o mesmo código e produto aparece depois como "Outras Marcas – até 270 ml" (Portaria nº 31/2024, 2024-02-01) |
 | — | Outras marcas até – 237 a 250 ml | 1,99 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas até – 260 ml | 1,80 | 2015-03-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48090 | Outras Marcas – até 270 ml | 2,80 | 2024-02-01 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |

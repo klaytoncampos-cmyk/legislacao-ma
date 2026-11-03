@@ -1,5 +1,11 @@
 # Registro de atualizações da base
 
+## 2026-11-02 23:04
+
+- Pauta de água: o rótulo passa a indicar o tipo (mineral, adicionada de sais, natural), que separa itens com o mesmo código e valores diferentes (ex.: 48370 Outras Marcas 1,5 L = 4,81 mineral e 2,21 adicionada de sais).
+- Pauta: marcas de nome curto ("Viena", "Azul") lidas como unidade e descartadas foram recuperadas; galões "todas as marcas" de 2017 (selo fiscal) com o valor de referência correto (R$ 1,50, não o ICMS de R$ 0,27), marcados como situação incerta.
+- Pauta: "Outras Marcas" deixa de ser dado como substituído por produto de marca.
+
 ## 2026-11-02 14:19
 
 - NOVO: **pauta fiscal (Tabela de Valores de Referência do ICMS) de bebidas** em `valores/bebidas-*.md`: cervejas e chopes, refrigerantes, energéticos e isotônicos, águas, bebidas mistas, vinhos e destilados, com valor vigente, histórico por item e valores com vigência futura. Itens identificados por código + embalagem/volume. Conferida contra um extrator independente em 268 portarias de bebidas.
