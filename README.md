@@ -75,3 +75,7 @@ O registro do que mudou em cada atualização fica em `ATUALIZACOES.md`, dentro 
 
 Ferramenta de apoio à consulta. Não é publicação oficial da SEFAZ-MA nem do CONFAZ e não substitui a leitura do texto
 oficial: cada documento traz o link da fonte.
+
+## Licença
+
+Código e organização da base sob a [licença MIT](LICENSE). Os textos das normas (leis, decretos, portarias, convênios) são atos oficiais, sem direito autoral (Lei 9.610/1998, art. 8º, IV).

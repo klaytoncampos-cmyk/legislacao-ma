@@ -1,8 +1,9 @@
 {
   "name": "legislacao-tributaria-ma",
-  "version": "2026.1103.1157",
+  "version": "2026.1103.1200",
   "description": "Legislação tributária do Maranhão (ICMS): CTE, RICMS-MA e anexos, normas da SEFAZ-MA, convênios, protocolos e ajustes do CONFAZ e pauta fiscal (valores de referência de cimento, bebidas e sorvetes), em texto integral e atualizado toda semana.",
   "author": {
     "name": "Klayton Campos"
-  }
+  },
+  "license": "MIT"
 }
