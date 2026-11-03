@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: destilados e licores"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-02"
+gerado_em: "2026-11-03"
 portarias: 5
 registros: 10
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2015.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-03**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 - **Nesta categoria não há relação completa republicada**: "vigente" significa apenas "último valor publicado" para o item, sem confirmação de que continua na tabela.
 
@@ -122,7 +122,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: bebidas: energéticos e isotônicos"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-02"
+gerado_em: "2026-11-03"
 portarias: 145
 registros: 5935
 ---
@@ -136,7 +136,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2004.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-03**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (470)
@@ -201,7 +201,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 50576 | Blue Ray - pet (350 ml) | und | 5,26 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 50577 | Blue Ray Enegy Drink (lata 269 ml) | und | 7,91 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 49271 | Brutus Energy Drink (PET 2 L) | und | 14,00 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 48245 | Burn Energy Drink (PET 1 L) (⚠ este código já designou: BurnEnergy Drink (PET 1 L)) | und | 16,70 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 48245 | Burn Energy Drink (PET 1 L) | und | 16,70 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48710 | Burn Energy Drink - 260 ml | und | 7,39 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 50253 | Carabao Green Apple (lata 310 ml) | und | 7,10 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 50250 | Carabao Green Apple (lata 330 ml) | und | 7,82 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -209,7 +209,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 50249 | Carabao Original (lata 330 ml) | und | 7,82 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 50254 | Carabao Sugar Free (lata 310 ml) | und | 7,10 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 50251 | Carabao Sugar Free (lata 330 ml) | und | 7,82 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 45131 | Cerpa Amazon Power (lata 269 ml) (⚠ este código já designou: Cerpa amazonpower - 269 ml - lata) | und | 6,53 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 45131 | Cerpa Amazon Power (lata 269 ml) | und | 6,53 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 54425 | Energético Dopamina Energy Drink Manga Summer Zero Açucares - Lata 473 ml | und | 6,46 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48815 | Drink Up (lata 269 ml) | und | 7,96 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53011 | Energetico El Loco Maçã Verde - Lata 473 ml | und | 6,42 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -368,7 +368,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 52433 | Fusion - lata (350 ml) | und | 6,22 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48176 | Gatorade (PET 350 ml) | und | 6,38 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 45606 | Gatorade (PET 500 ml) | und | 6,11 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 45035 | GiantBadboy (PET 1 L) (⚠ este código já designou: Giant Badboy (PET 1 L)) | und | 16,18 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 45035 | GiantBadboy (PET 1 L) | und | 16,18 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 49685 | Gladiador (lata 270 ml) | und | 6,04 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 52960 | Energético Hits Power Açaí - Pet 2.000 ml | und | 10,64 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53145 | Energético Hits Power Açaí - Pet 260 ml | und | 3,79 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -474,7 +474,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 53659 | Outras Marcas (PET 600 ml) | und | 9,97 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53658 | Outras Marcas (PET 710 ml) | und | 15,68 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 45610 | Palmeiron (PET 500 ml) | und | 4,06 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 46200 | Panico energy drink (lata 250 ml) (⚠ este código já designou: Panicoenergy drink (lata 250 ml)) | und | 6,93 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 46200 | Panico energy drink (lata 250 ml) | und | 6,93 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 45200 | Panico Energy Drink (PET 250 ml) | und | 7,09 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 47869 | Energético Paranight Pet 1000 ml | und | 8,87 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 52863 | Energético Paranight - Pet 2000 ml | und | 9,09 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -540,7 +540,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 48088 | Energetico Roots Energy Drink – Pet 500 ml | und | 6,87 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 51529 | Energética Santa Joana Power – Pet 2.000 ml | und | 9,18 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 51530 | Energético Santa Joana Power – Pet 1.000 ml | und | 7,08 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 49794 | Santu Côco (PET 500 ml) (⚠ este código já designou: SantuCôco (PET 500 ml)) | und | 4,00 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 49794 | Santu Côco (PET 500 ml) | und | 4,00 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48963 | Energético Speed Up 250 ml | und | 7,50 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48439 | Energético Speed Up 473 ml | und | 11,31 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48985 | Sports Drinks (lata 250 ml) | und | 7,05 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -616,7 +616,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 49676 | X - 7 (PET 710 ml) | und | 12,10 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48946 | Energético X - Treme 250 ml | und | 6,20 | 2026-11-01 (efeitos) | Port. 402/2026 |
 
-## Situação incerta (61)
+## Situação incerta (47)
 
 O valor abaixo foi o último fixado, mas há motivo para duvidar que continue valendo: o item **não aparece** numa relação completa publicada depois (pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa) ou o **código dele foi dado a outro produto** (⚠). **Não use sem confirmar na SEFAZ.**
 
@@ -626,10 +626,6 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 49804 | Black Roots (PET 1 L) | und | 9,05 | 2021-09-22 (pub.) | Port. 383/2021 | ⚠ o código 49804 passou a designar "Energético Roots Energy Drink - Pet 1.000 ml" pela Portaria nº 516/2021 (2021-11-25), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48754 | Black Roots 250 ml | und | 2,98 | 2021-09-22 (pub.) | Port. 383/2021 | ⚠ o código 48754 passou a designar "Energético Roots Energy Drink - Pet 250 ml" pela Portaria nº 516/2021 (2021-11-25), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 45023 | Black Roots – 2000 ml | und | 12,43 | 2021-09-22 (pub.) | Port. 383/2021 | ⚠ o código 45023 passou a designar "Energético Roots Energy Drink - Pet 2.000 ml" pela Portaria nº 516/2021 (2021-11-25), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 48245 | Burn Energy Drink (PET 1 L) | und | 10,02 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 48245 passou a designar "BurnEnergy Drink (PET 1 L)" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 48245 | BurnEnergy Drink (PET 1 L) (⚠ este código já designou: Burn Energy Drink (PET 1 L)) | und | 10,41 | 2021-09-22 (pub.) | Port. 383/2021 | ⚠ o código 48245 passou a designar "Burn Energy Drink (PET 1 L)" pela Portaria nº 454/2022 (2022-09-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 45131 | Energético Cerpa Amazon Power - Lata 269 ml | und | 4,20 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 45131 passou a designar "Cerpa amazonpower - 269 ml - lata" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 45131 | Cerpa amazonpower - 269 ml - lata (⚠ este código já designou: Energético Cerpa Amazon Power - Lata 269 ml) | und | 4,91 | 2022-09-01 (assin.) | Port. 454/2022 | ⚠ o código 45131 passou a designar "Cerpa Amazon Power (lata 269 ml)" pela Portaria nº 128/2023 (2023-04-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48513 | Dopamina Energy Drink Algodão Doce (lata 473 ml) | und | 6,52 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 53705 | Energética Dopamina Energy Drink Coco com Açaí – Lata 473 ml | und | 6,93 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 53711 | Energética Dopamina Energy Drink Extreme – Lata 473 ml | und | 6,93 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
@@ -639,7 +635,6 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 53709 | Energética Dopamina Energy Drink Tangerina – Lata 473 ml | und | 6,93 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 53710 | Energética Dopamina Energy Drink Tropical – Lata 473 ml | und | 6,93 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 53706 | Energética Dopamina Energy Drink Zero Açucares – Lata 473 ml | und | 6,93 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
-| 48815 | Dr Up - 269 ml - lata | und | 5,14 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 48815 passou a designar "DrUp- 269 ml - lata" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48522 | Drink Full Energy (PET 1 L) | und | 9,73 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 54426 | Energético Dopamina Energy Drink Manga Summer - Lata 473 ml |  | 6,52 | 2026-06-17 (pub.) | Port. 213/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 50521 | Energético Furioso Melon Green Apple - Lata 473 ml (⚠ este código já designou: Energetico Furioso – Lata 260 ml) |  | 5,86 | 2026-03-30 (pub.) | Port. 119/2026 | ⚠ o código 50521 passou a designar "Furioso - 260 ml" pela Portaria nº 402/2026 (2026-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
@@ -648,7 +643,6 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Energético TNT Pêssego - Lata 473 ml |  | 7,83 | 2026-03-20 (pub.) | Port. 114/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 48656 | Extra Power (PET 1 L) | und | 12,58 | 2024-02-01 (pub.) | Port. 31/2024 | ⚠ o código 48656 passou a designar "Black Pine Frutas Tropicais (PET 1 L)" pela Portaria nº 336/2024 (2024-08-30), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50521 | Energetico Furioso – Lata 260 ml | und | 3,77 | 2025-11-01 (efeitos) | Port. 370/2025 | ⚠ o código 50521 passou a designar "Energético Furioso Melon Green Apple - Lata 473 ml" pela Portaria nº 119/2026 (2026-03-30), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 45035 | Giant Badboy (PET 1 L) | und | 9,70 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 45035 passou a designar "GiantBadboy (PET 1 L)" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 53142 | Hits Power Melancia (260 ml) (⚠ este código já designou: Energetico Teen Power - Lata 269 ml) | und | 3,08 | 2023-04-01 (efeitos) | Port. 128/2023 | ⚠ o código 53142 passou a designar "Teen Power (lata 269 ml)" pela Portaria nº 477/2023 (2023-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 53728 | Hysotonic Limão (PET 500 ml) | und | 4,26 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 53727 | Hysotonic Lk Limão (PET 500 ml) | und | 4,26 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
@@ -665,15 +659,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 52406 | Energético Monster Mango Loco – Lata 473 ml | Und | 9,73 | 2024-08-30 (pub.) | Port. 336/2024 | ⚠ o código 52406 passou a designar "Monster Sabores (lata 269 ml)" pela Portaria nº 151/2025 (2025-05-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48233 | Nigth Power Regular - 269 ml - lata | und | 6,61 | 2022-09-01 (assin.) | Port. 454/2022 | ⚠ o código 48233 passou a designar "Minotauro (2 L)" pela Portaria nº 128/2023 (2023-04-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 53663 | Outras Marcas - Lata de 355 a 375 ml | und | 16,38 | 2025-11-01 (efeitos) | Port. 370/2025 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
-| 46200 | Panico energy drink - 250 ml | und | 4,85 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 46200 passou a designar "Panicoenergy drink- 250 ml" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 46200 | Panicoenergy drink (lata 250 ml) | und | 6,11 | 2024-02-01 (pub.) | Port. 31/2024 | ⚠ o código 46200 passou a designar "Panico energy drink (lata 250 ml)" pela Portaria nº 336/2024 (2024-08-30), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 45301 | Psiu teen power (PET 1 L) | und | 9,03 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 45301 passou a designar "Psiu teenpower (PET 1 L)" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 9049 | Psiu Teen Power (PET 250 ml) | und | 4,39 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
-| 43500 | Psiu teen power - 500 ml | und | 5,65 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 43500 passou a designar "Psiu teenpower - 500 ml" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 45301 | Psiu teenpower (PET 1 L) (⚠ este código já designou: Psiu teen power (PET 1 L)) | und | 12,65 | 2024-08-30 (pub.) | Port. 336/2024 | ⚠ o código 45301 passou a designar "Psiu Teen Power (PET 1 L)" pela Portaria nº 151/2025 (2025-05-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 43500 | Psiu teenpower – 500 ml (⚠ este código já designou: Psiu teen power - 500 ml) | und | 7,13 | 2024-08-30 (pub.) | Port. 336/2024 | ⚠ o código 43500 passou a designar "Psiu Teen Power - 500 ml" pela Portaria nº 151/2025 (2025-05-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 49794 | Santu Côco - 500 ml | und | 2,94 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 49794 passou a designar "SantuCôco - 500 ml" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 49794 | SantuCôco (PET 500 ml) (⚠ este código já designou: Santu Côco - 500 ml) | und | 3,10 | 2023-04-01 (efeitos) | Port. 128/2023 | ⚠ o código 49794 passou a designar "Santu Côco (PET 500 ml)" pela Portaria nº 477/2023 (2023-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 53142 | Energetico Teen Power - Lata 269 ml | ml | 4,68 | 2023-04-01 (efeitos) | Port. 128/2023 | ⚠ o código 53142 passou a designar "Hits Power Melancia (260 ml)" pela Portaria nº 128/2023 (2023-04-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50561 | TNT Açaí + Guaraná (lata 269 ml) | und | 7,15 | 2025-11-01 (efeitos) | Port. 370/2025 | ⚠ o código 50561 passou a designar "TNT Sabores / Zero (lata 269 ml)" pela Portaria nº 170/2026 (2026-05-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48541 | TNT Açaí + Guaraná (lata 473 ml) | und | 7,83 | 2025-11-01 (efeitos) | Port. 370/2025 | ⚠ o código 48541 passou a designar "TNT Sabores / Zero (lata 473 ml)" pela Portaria nº 170/2026 (2026-05-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
@@ -684,7 +670,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 49680 | Vulcano – 2000 ml | und | 17,76 | 2023-04-01 (efeitos) | Port. 128/2023 | ⚠ o código 49680 passou a designar "Vulcano Energy Drink – 2000 ml" pela Portaria nº 477/2023 (2023-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48392 | Vulcano – 458 ml – lata | und | 7,66 | 2023-04-01 (efeitos) | Port. 128/2023 | ⚠ o código 48392 passou a designar "Monster Mango Loco (lata 269 ml)" pela Portaria nº 477/2023 (2023-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 
-## Superados (393)
+## Superados (395)
 
 | código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
 |---|---|---|---|---|
@@ -722,6 +708,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Burn Energy Drink (1 L) | 9,18 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48093 | Burn Energy Drink - 473 ml | 8,05 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerpa Amazon Power – 269 ml | 4,00 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerpa Amazon Power – 269 ml – lata | 4,00 | 2016-05-03 | substituído pelo código 49925 (Cerpa amazon power - 269 ml - lata) a partir de 2017-05-05; valeu até 2017-05-04 |
 | 47874 | Energetico Dopamina Mind Full Drink-Lata 269 ml | 10,39 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48815 | DrUp- 269 ml - lata | 5,99 | 2022-09-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48698 | Ecco Citrus - 269 ml - lata | 5,09 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -744,14 +731,15 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Energético Blade Energy 1000 ml | 5,69 | 2019-09-11 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50577 | Energetico Blue Ray Enegy Drink – lata 269 ml | 5,95 | 2022-09-01 | mesmo código, descrição/seção renomeada para "Blue Ray Enegy Drink (lata 269 ml)" a partir de 2023-04-01 |
 | — | Energetico Blue Ray Energy Drinky - Lata 269 ml | 5,30 | 2021-05-25 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energético Carabao Green Apple 310 ml | 4,99 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energético Carabao Green Apple 330 ml | 5,49 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energético Carabao Original 310 ml | 4,99 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energético Carabao Original 330 ml | 5,49 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energético Carabao Sugar Free 310 ml | 4,99 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energético Carabao Sugar Free 330 ml | 5,49 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energético Carabao Green Apple 310 ml | 4,99 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energético Carabao Green Apple 330 ml | 5,49 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energético Carabao Original 310 ml | 4,99 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energético Carabao Original 330 ml | 5,49 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energético Carabao Sugar Free 310 ml | 4,99 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energético Carabao Sugar Free 330 ml | 5,49 | 2018-07-27 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Cavalo do Cão Energy Drink - Lata 269 ml | 3,50 | 2017-04-04 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Cavalo do Cão Energy Drink - Pet 600 ml | 4,00 | 2017-04-04 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energético Cerpa Amazon Power - Lata 269 ml | 4,00 | 2014-10-29 | substituído pelo código 49925 (Cerpa amazon power - 269 ml - lata) a partir de 2017-05-05; valeu até 2017-05-04 |
 | — | Energético Citrus – Lata 269 ml | 5,66 | 2019-02-18 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Dopamina Energy Drink - Lata 269 ml | 5,00 | 2021-04-15 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Dopamina Energy Drink Extreme - Lata 269 ml | 5,00 | 2021-04-15 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1004,7 +992,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Panico energy drink (até 310 ml) | 4,23 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 46200 | Panico Energy Drink (PET 250 ml) | 6,05 | 2024-02-01 | substituído pelo código 45200 (Panico Energy Drink (PET 250 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
 | — | Pânico Energy Drink 250 e 269 ml | 3,80 | 2010-10-01 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 46200 | Panicoenergy drink (250 ml) | 6,05 | 2023-11-01 | o mesmo código e produto aparece depois como "Panicoenergy drink (lata 250 ml)" (Portaria nº 31/2024, 2024-02-01) |
+| 46200 | Panicoenergy drink (250 ml) | 6,05 | 2023-11-01 | o mesmo código e produto aparece depois como "Panico energy drink (lata 250 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | — | Power Bull (1 L) | 7,70 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Power Bull - 270 ml | 4,89 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Power Bull - 500 ml | 6,14 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1014,8 +1002,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Psiu teen power (1 L) | 7,38 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49937 | Psiu Teen power (250 ml) | 4,28 | 2023-11-01 | o mesmo código e produto aparece depois como "Psiu Teen Power (PET 250 ml)" (Portaria nº 370/2025, 2025-11-01) |
 | — | Psiu Teen Power (até 1 L) | 6,50 | 2010-10-01 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45301 | Psiu Teen Power (PET 1 L) | 13,32 | 2025-11-01 | substituído pelo código 49928 (Psiu Teen Power (PET 1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
 | — | Psiu Teen Power (PET 1 L) | 7,52 | 2026-05-01 | substituído pelo código 49928 (Psiu Teen Power (PET 1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
-| — | Psiu teen power (PET 1 L) | 8,80 | 2016-10-31 | substituído pelo código 49928 (Psiu Teen Power (PET 1 L)) a partir de 2021-09-22; valeu até 2021-09-21 |
 | 49937 | Psiu Teen Power (PET 250 ml) | 4,70 | 2025-11-01 | substituído pelo código 9049 (Psiu Teen Power (PET 250 ml)) a partir de 2026-05-01; valeu até 2026-04-30 |
 | 43500 | Psiu Teen Power - 500 ml | 7,57 | 2025-11-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49937 | Psiu Teen Power – 250 ml | 2,04 | 2021-09-22 | mesmo código, descrição/seção renomeada para "Psiu Teen power - 250 ml" a partir de 2022-09-01 |
@@ -1174,7 +1162,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Cerpa amazon power - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Cerpa amazon power - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,04 | -5.6% | und | Cerpa amazon power - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Cerpa amazon power - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Cerpa amazon power - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +0.0% | und | Cerpa amazon power - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,90 | -5.3% | Und | Amazon Power - 269 ml - lata ⚠ | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 5,64 | +44.6% |  | Energético Amazon Power - Lata 269 ml | Port. 418/2020 |
@@ -1195,7 +1183,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 |  | Und | Amazon Power - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,97 | -7.2% | Und | Amazon Power - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,05 | +2.0% | Und | Amazon Power - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,05 | +2.0% | Und | Amazon Power - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,05 | +0.0% | Und | Amazon Power - 269 ml - lata | Port. 286/2019 |
 
 ### Bad boy (1 L) (código —)
@@ -1237,7 +1225,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,68 | +2.0% | Und | Bad Boy 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,76 | +1.4% | Und | Bad Boy 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,76 | +0.0% | Und | Bad Boy 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,88 | +2.1% | Und | Bad Boy 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,88 | +2.1% | Und | Bad Boy 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,88 | +0.0% | Und | Bad Boy 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,66 | -3.7% | Und | Bad Boy 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,89 | +4.1% | und | Bad Boy 269 ml | Port. 383/2021 |
@@ -1259,7 +1247,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,38 | +2.1% | und | Bad Boy – 310 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,47 | +1.4% | Und | Bad Boy – 310 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,47 | +0.0% | Und | Bad Boy – 310 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,60 | +2.0% | Und | Bad Boy – 310 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,60 | +2.0% | Und | Bad Boy – 310 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,60 | +0.0% | Und | Bad Boy – 310 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,35 | -3.8% | Und | Bad Boy – 310 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,60 | +3.9% | und | Bad Boy – 310 ml - lata | Port. 383/2021 |
@@ -1282,7 +1270,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,29 | -8.0% | Und | Bad boy (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,46 | +11.4% | und | Bad boy (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,69 | +2.0% | und | Bad boy (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,92 | +2.0% | und | Bad boy (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,92 | +2.0% | und | Bad boy (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,92 | +0.0% | und | Bad boy (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,47 | -3.8% | und | Bad boy (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,91 | +3.8% | und | Bad boy (PET 1 L) | Port. 383/2021 |
@@ -1310,7 +1298,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Balablue 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | Und | Balablue 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,28 | +0.0% | Und | Balablue 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,37 | +2.1% | Und | Balablue 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +2.1% | Und | Balablue 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +0.0% | Und | Balablue 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | -3.9% | Und | Balablue 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 | +4.0% | und | Balablue 269 ml | Port. 383/2021 |
@@ -1562,7 +1550,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,25 | -6.0% | Und | Battery – 350 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,64 | +9.2% | und | Battery – 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,22 | -9.1% | und | Battery – 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,30 | +1.9% | und | Battery – 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,30 | +1.9% | und | Battery – 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,30 | +0.0% | und | Battery – 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,09 | -4.9% | und | Battery – 350 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,35 | +6.4% | und | Battery – 350 ml | Port. 383/2021 |
@@ -1657,7 +1645,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,36 | +2.1% | und | Big Power - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,44 | +1.5% | und | Big Power - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,44 | +0.0% | und | Big Power - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,55 | +2.0% | und | Big Power - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,55 | +2.0% | und | Big Power - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,55 | +0.0% | und | Big Power - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,34 | -3.8% | und | Big Power - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,55 | +3.9% | und | Big Power - 269 ml - lata | Port. 383/2021 |
@@ -1681,7 +1669,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,09 | +6.0% | und | Big Power – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,23 | +1.4% | und | Big Power – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,43 | +2.0% | und | Big Power – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,64 | +2.0% | und | Big Power – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,64 | +2.0% | und | Big Power – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,64 | +0.0% | und | Big Power – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,24 | -3.8% | und | Big Power – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,64 | +3.9% | und | Big Power – 2000 ml | Port. 383/2021 |
@@ -1705,7 +1693,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,85 | -6.0% | Und | Big Power - 600 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,28 | +8.9% | und | Big Power - 600 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,28 | +0.0% | und | Big Power - 600 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,39 | +2.1% | und | Big Power - 600 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,39 | +2.1% | und | Big Power - 600 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,39 | +0.0% | und | Big Power - 600 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,12 | -5.0% | und | Big Power - 600 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,44 | +6.2% | und | Big Power - 600 ml | Port. 383/2021 |
@@ -1840,7 +1828,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,81 | -8.0% | Und | Black Roots (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,70 | +11.4% | und | Black Roots (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,87 | +2.0% | und | Black Roots (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,05 | +2.0% | und | Black Roots (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,05 | +2.0% | und | Black Roots (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,05 | +0.0% | und | Black Roots (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,71 | -3.8% | und | Black Roots (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,05 | +3.9% | und | Black Roots (PET 1 L) | Port. 383/2021 |
@@ -1856,7 +1844,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,53 | -6.0% | Und | Black Roots - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,94 | +9.1% | und | Black Roots - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,94 | +0.0% | und | Black Roots - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,04 | +2.0% | und | Black Roots - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,04 | +2.0% | und | Black Roots - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,04 | +0.0% | und | Black Roots - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,79 | -5.0% | und | Black Roots - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,09 | +6.3% | und | Black Roots - 500 ml | Port. 383/2021 |
@@ -1896,7 +1884,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,88 | +2.1% | und | Black Roots 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,92 | +1.4% | und | Black Roots 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,92 | +0.0% | und | Black Roots 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,98 | +2.1% | und | Black Roots 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,98 | +2.1% | und | Black Roots 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,98 | +0.0% | und | Black Roots 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,87 | -3.7% | und | Black Roots 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +3.8% | und | Black Roots 250 ml | Port. 383/2021 |
@@ -1928,7 +1916,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 11,87 | +6.0% | Und | Black Roots – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,04 | +1.4% | und | Black Roots – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,20 | +1.3% | und | Black Roots – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,44 | +2.0% | und | Black Roots – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,44 | +2.0% | und | Black Roots – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,44 | +0.0% | und | Black Roots – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,97 | -3.8% | und | Black Roots – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,43 | +3.8% | und | Black Roots – 2000 ml | Port. 383/2021 |
@@ -2040,7 +2028,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,00 |  | und | Blue Ray (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,00 |  | und | Blue Ray (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,00 | +0.0% | und | Blue Ray (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,62 | -3.8% | und | Blue Ray (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,99 | +3.8% | und | Blue Ray (PET 1 L) | Port. 383/2021 |
@@ -2058,7 +2046,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 16,00 |  | und | Blue Ray – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,00 |  | und | Blue Ray – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,00 | +0.0% | und | Blue Ray – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 15,39 | -3.8% | und | Blue Ray – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,99 | +3.9% | und | Blue Ray – 2000 ml | Port. 383/2021 |
@@ -2076,7 +2064,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,00 |  | und | Blue Ray – 350 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,00 |  | und | Blue Ray – 350 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,00 | +0.0% | und | Blue Ray – 350 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,80 | -5.0% | und | Blue Ray – 350 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,80 | +0.0% | und | Blue Ray – 350 ml - pet | Port. 383/2021 |
@@ -2108,7 +2096,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,50 |  | und | Blue Ray – 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 |  | und | Blue Ray – 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +0.0% | und | Blue Ray – 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,33 | -3.8% | und | Blue Ray – 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,50 | +3.9% | und | Blue Ray – 269 ml - lata | Port. 383/2021 |
@@ -2121,7 +2109,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,44 | +6.0% | und | Brutus Energy Drink – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,59 | +1.4% | und | Brutus Energy Drink – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,80 | +2.0% | und | Brutus Energy Drink – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,02 | +2.0% | und | Brutus Energy Drink – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,02 | +2.0% | und | Brutus Energy Drink – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,02 | +0.0% | und | Brutus Energy Drink – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,60 | -3.8% | und | Brutus Energy Drink – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,01 | +3.9% | und | Brutus Energy Drink – 2000 ml | Port. 383/2021 |
@@ -2207,7 +2195,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2022-09-01 (assin.) | 2022-09-01 | alterar | 11,38 |  | und | Burn Energy Drink (PET 1 L) | Port. 454/2022 |
+| 2016-10-31 (pub.) | 2016-10-26 | alterar | 9,77 |  | und | Burn Energy Drink (PET 1 L) | Port. 397/2016 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 9,77 | +0.0% | Und | Burn Energy Drink (PET 1 L) | Port. 222/2017 |
+| 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,99 | -8.0% | Und | Burn Energy Drink (PET 1 L) | Port. 507/2017 |
+| 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,02 | +11.5% | und | Burn Energy Drink (PET 1 L) | Port. 147/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,22 | +2.0% | und | Burn Energy Drink (PET 1 L) | Port. 383/2018 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,42 | +2.0% | und | Burn Energy Drink (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,42 | +0.0% | und | Burn Energy Drink (PET 1 L) | Port. 286/2019 |
+| 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,02 | -3.8% | und | Burn Energy Drink (PET 1 L) | Port. 614/2019 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,41 | +3.9% | und | BurnEnergy Drink (PET 1 L) ⚠ | Port. 383/2021 |
+| 2022-09-01 (assin.) | 2022-09-01 | alterar | 11,38 | +9.3% | und | Burn Energy Drink (PET 1 L) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 11,69 | +2.7% | und | Burn Energy Drink (PET 1 L) | Port. 128/2023 |
 | 2023-11-01 (efeitos) | 2023-10-30 | alterar | 13,33 | +14.0% | und | Burn Energy Drink (PET 1 L) | Port. 477/2023 |
 | 2024-02-01 (pub.) | 2024-01-26 | alterar | 13,74 | +3.1% | und | Burn Energy Drink (PET 1 L) | Port. 31/2024 |
@@ -2217,19 +2214,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 16,32 | +10.5% | und | Burn Energy Drink (PET 1 L) | Port. 170/2026 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 16,70 | +2.3% | und | Burn Energy Drink (PET 1 L) | Port. 402/2026 |
 
-### Burn Energy Drink (PET 1 L) (código 48245)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2016-10-31 (pub.) | 2016-10-26 | alterar | 9,77 |  | und | Burn Energy Drink (PET 1 L) | Port. 397/2016 |
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 9,77 | +0.0% | Und | Burn Energy Drink (PET 1 L) | Port. 222/2017 |
-| 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,99 | -8.0% | Und | Burn Energy Drink (PET 1 L) | Port. 507/2017 |
-| 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,02 | +11.5% | und | Burn Energy Drink (PET 1 L) | Port. 147/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,22 | +2.0% | und | Burn Energy Drink (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,42 | +2.0% | und | Burn Energy Drink (PET 1 L) | Port. 285/2019 |
-| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,42 | +0.0% | und | Burn Energy Drink (PET 1 L) | Port. 286/2019 |
-| 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,02 | -3.8% | und | Burn Energy Drink (PET 1 L) | Port. 614/2019 |
-
 ### Burn Energy Drink - 260 ml (código 48710)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -2238,7 +2222,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,08 | +1.5% | und | Burn Energy Drink 260 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,17 | +1.5% | und | Burn Energy Drink 260 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,82 | -5.7% | und | Burn Energy Drink 260 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,94 | +2.1% | und | Burn Energy Drink 260 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,94 | +2.1% | und | Burn Energy Drink 260 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,94 | +0.0% | und | Burn Energy Drink 260 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,71 | -3.9% | und | Burn Energy Drink 260 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,72 | +0.2% | und | Burn Energy Drink 260 ml | Port. 383/2021 |
@@ -2266,23 +2250,17 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,16 | -6.0% | Und | Burn Energy Drink - 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,81 | +9.1% | und | Burn Energy Drink - 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,81 | +0.0% | und | Burn Energy Drink - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,97 | +2.0% | und | Burn Energy Drink - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,97 | +2.0% | und | Burn Energy Drink - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,97 | +0.0% | und | Burn Energy Drink - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,58 | -4.9% | und | Burn Energy Drink - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,05 | +6.2% | und | Burn Energy Drink - 473 ml | Port. 383/2021 |
-
-### BurnEnergy Drink (PET 1 L) (código 48245)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,41 |  | und | BurnEnergy Drink (PET 1 L) | Port. 383/2021 |
 
 ### Carabao Green Apple (lata 310 ml) (código 50253)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,99 |  | und | Carabao Green Apple - 310 ml – Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,09 | +2.0% | und | Carabao Green Apple - 310 ml – Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,09 | +2.0% | und | Carabao Green Apple - 310 ml – Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,09 | +0.0% | und | Carabao Green Apple - 310 ml – Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,84 | -4.9% | und | Carabao Green Apple - 310 ml – Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,14 | +6.2% | und | Carabao Green Apple - 310 ml – Lt ⚠ | Port. 383/2021 |
@@ -2301,7 +2279,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,49 |  | und | Carabao Green Apple - 330 ml - Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,60 | +2.0% | und | Carabao Green Apple - 330 ml - Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +2.0% | und | Carabao Green Apple - 330 ml - Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +0.0% | und | Carabao Green Apple - 330 ml - Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,32 | -5.0% | und | Carabao Green Apple - 330 ml - Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,65 | +6.2% | und | Carabao Green Apple - 330 ml - Lt ⚠ | Port. 383/2021 |
@@ -2320,7 +2298,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,99 |  | und | Carabao Original - 310 ml – Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,09 | +2.0% | und | Carabao Original - 310 ml – Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,09 | +2.0% | und | Carabao Original - 310 ml – Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,09 | +0.0% | und | Carabao Original - 310 ml – Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,84 | -4.9% | und | Carabao Original - 310 ml – Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,14 | +6.2% | und | Carabao Original- 310 ml – Lata | Port. 383/2021 |
@@ -2339,7 +2317,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,49 |  | und | Carabao Original - 330 ml – Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,60 | +2.0% | und | Carabao Original - 330 ml – Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +2.0% | und | Carabao Original - 330 ml – Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +0.0% | und | Carabao Original - 330 ml – Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,32 | -5.0% | und | Carabao Original - 330 ml – Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,65 | +6.2% | und | Carabao Original- 330 ml – Lata | Port. 383/2021 |
@@ -2358,7 +2336,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,99 |  | und | Carabao Sugar Free - 310 ml - Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,09 | +2.0% | und | Carabao Sugar Free - 310 ml - Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,09 | +2.0% | und | Carabao Sugar Free - 310 ml - Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,09 | +0.0% | und | Carabao Sugar Free - 310 ml - Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,84 | -4.9% | und | Carabao Sugar Free - 310 ml - Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,14 | +6.2% | und | Carabao Sugar Free- 310 ml - Lata | Port. 383/2021 |
@@ -2377,7 +2355,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,49 |  | und | Carabao Sugar Free - 330 ml - Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,60 | +2.0% | und | Carabao Sugar Free - 330 ml - Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +2.0% | und | Carabao Sugar Free - 330 ml - Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +0.0% | und | Carabao Sugar Free - 330 ml - Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,32 | -5.0% | und | Carabao Sugar Free - 330 ml - Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,65 | +6.2% | und | Carabao Sugar Free- 330 ml - Lata | Port. 383/2021 |
@@ -2398,7 +2376,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 3,00 |  | Und | Cerpa Amazon Power lata 269 ml | Port. 469/2010 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,14 | +38.0% | und | Cerpa amazon power lata 269 ml | Port. 397/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,14 | +0.0% | und | Cerpa amazon power lata 269 ml | Port. 397/2016 |
-| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 5,04 | +21.7% | und | Cerpa Amazon Power (lata 269 ml) | Port. 128/2023 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,14 | +0.0% | und | Cerpa amazon power - 269 ml - lata | Port. 222/2017 |
+| 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Cerpa amazon power - 269 ml - lata | Port. 507/2017 |
+| 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Cerpa amazon power - 269 ml - lata | Port. 147/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,28 | +0.0% | und | Cerpa amazon power - 269 ml - lata | Port. 383/2018 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Cerpa amazon power - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +0.0% | und | Cerpa amazon power - 269 ml - lata | Port. 286/2019 |
+| 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | -3.9% | und | Cerpa amazon power - 269 ml - lata | Port. 614/2019 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 | +4.0% | und | Cerpa amazonpower - 269 ml - lata ⚠ | Port. 383/2021 |
+| 2022-09-01 (assin.) | 2022-09-01 | alterar | 4,91 | +12.4% | und | Cerpa amazonpower - 269 ml - lata | Port. 454/2022 |
+| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 5,04 | +2.6% | und | Cerpa Amazon Power (lata 269 ml) ⚠ | Port. 128/2023 |
 | 2023-11-01 (efeitos) | 2023-10-30 | alterar | 5,31 | +5.4% | und | Cerpa Amazon Power (lata 269 ml) | Port. 477/2023 |
 | 2024-02-01 (pub.) | 2024-01-26 | alterar | 5,38 | +1.3% | und | Cerpa Amazon Power (lata 269 ml) | Port. 31/2024 |
 | 2024-08-30 (pub.) | 2024-08-23 | incluir | 5,34 | -0.7% | und | Cerpa Amazon Power (lata 269 ml) | Port. 336/2024 |
@@ -2406,23 +2393,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 5,75 | +9.5% | und | Cerpa Amazon Power (lata 269 ml) | Port. 370/2025 |
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 6,13 | +6.6% | und | Cerpa Amazon Power (lata 269 ml) | Port. 170/2026 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 6,53 | +6.5% | und | Cerpa Amazon Power (lata 269 ml) | Port. 402/2026 |
-
-### Energético Cerpa Amazon Power - Lata 269 ml (código 45131)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2013-11-22 (pub.) | 2013-10-01 | incluir | 3,18 |  |  | Energético Cerpa Amazon Power - Lata 269 ml | Port. 355/2013 |
-| 2014-09-03 (pub.) | 2014-08-27 | alterar | 4,00 | +25.8% |  | Energético Cerpa Amazon Power - Lata 269 ml | Port. 236/2014 |
-| 2014-10-29 (pub.) | 2014-10-23 | alterar | 4,00 | +0.0% |  | Energético Cerpa Amazon Power - Lata 269 ml | Port. 275/2014 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,00 | +0.0% | und | Cerpa Amazon Power – 269 ml - lata | Port. 463/2015 |
-| 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,00 | +0.0% | und | Cerpa Amazon Power – 269 ml – lata | Port. 142/2016 |
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,14 | +3.5% | und | Cerpa amazon power - 269 ml - lata | Port. 222/2017 |
-| 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Cerpa amazon power - 269 ml - lata | Port. 507/2017 |
-| 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Cerpa amazon power - 269 ml - lata | Port. 147/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,28 | +0.0% | und | Cerpa amazon power - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Cerpa amazon power - 269 ml - lata | Port. 285/2019 |
-| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +0.0% | und | Cerpa amazon power - 269 ml - lata | Port. 286/2019 |
-| 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | -3.9% | und | Cerpa amazon power - 269 ml - lata | Port. 614/2019 |
 
 ### Cerpa Amazon Power – 269 ml (código —)
 
@@ -2436,12 +2406,12 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,00 | +4.4% | und | Cerpa Amazon Power - 269 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,00 | +0.0% | und | Cerpa Amazon Power – 269 ml | Port. 142/2016 |
 
-### Cerpa amazonpower - 269 ml - lata (código 45131)
+### Cerpa Amazon Power – 269 ml – lata (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 |  | und | Cerpa amazonpower - 269 ml - lata | Port. 383/2021 |
-| 2022-09-01 (assin.) | 2022-09-01 | alterar | 4,91 | +12.4% | und | Cerpa amazonpower - 269 ml - lata | Port. 454/2022 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,00 |  | und | Cerpa Amazon Power – 269 ml - lata | Port. 463/2015 |
+| 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,00 | +0.0% | und | Cerpa Amazon Power – 269 ml – lata | Port. 142/2016 |
 
 ### Dopamina Energy Drink Algodão Doce (lata 473 ml) (código 48513)
 
@@ -2538,7 +2508,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,15 | +2.0% | lata | Dopamina Mind Full Drink -269 ml - ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,27 | +1.5% | und | Dopamina Mind Full Drink -269 ml - lata ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,27 | +0.0% | und | Dopamina Mind Full Drink -269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,44 | +2.1% | und | Dopamina Mind Full Drink -269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,44 | +2.1% | und | Dopamina Mind Full Drink -269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,44 | +0.0% | und | Dopamina Mind Full Drink -269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,12 | -3.8% | und | Dopamina Mind Full Drink -269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,44 | +3.9% | und | Dopamina Mind Full Drink -269 ml - lata | Port. 383/2021 |
@@ -2546,20 +2516,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 9,74 | +2.7% | und | Dopamina Mind Full Drink (lata 269 ml) | Port. 128/2023 |
 | 2023-11-01 (efeitos) | 2023-10-30 | alterar | 10,26 | +5.3% | und | Dopamina Mind Full Drink (lata 269 ml) | Port. 477/2023 |
 | 2024-02-01 (pub.) | 2024-01-26 | alterar | 10,39 | +1.3% | und | Dopamina Mind Full Drink (lata 269 ml) | Port. 31/2024 |
-
-### Dr Up - 269 ml - lata (código 48815)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,70 |  | und | DR UP 269 ml lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,70 | +0.0% | und | DR UP 269 ml lata | Port. 176/2015 |
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,07 | +7.9% | und | Dr Up - 269 ml - lata | Port. 222/2017 |
-| 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,17 | +2.0% | und | Dr Up - 269 ml - lata | Port. 507/2017 |
-| 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,24 | +1.4% | und | Dr Up - 269 ml - lata | Port. 147/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,24 | +0.0% | und | Dr Up - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,34 | +1.9% | und | Dr Up - 269 ml - lata | Port. 285/2019 |
-| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +0.0% | und | Dr Up - 269 ml - lata | Port. 286/2019 |
-| 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,14 | -3.7% | und | Dr Up - 269 ml - lata | Port. 614/2019 |
 
 ### Drink Full Energy (PET 1 L) (código 48522)
 
@@ -2569,7 +2525,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,38 | -8.0% | Und | Drink Full Energy (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,99 | +11.3% | und | Drink Full Energy (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,11 | +2.0% | und | Drink Full Energy (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,23 | +2.0% | und | Drink Full Energy (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,23 | +2.0% | und | Drink Full Energy (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,23 | +0.0% | und | Drink Full Energy (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,99 | -3.9% | und | Drink Full Energy (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,22 | +3.8% | und | Drink Full Energy (PET 1 L) | Port. 383/2021 |
@@ -2599,7 +2555,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,34 |  | und | DrUp- 269 ml - lata | Port. 383/2021 |
+| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,70 |  | und | DR UP 269 ml lata | Port. 157/2014 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,70 | +0.0% | und | DR UP 269 ml lata | Port. 176/2015 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,07 | +7.9% | und | Dr Up - 269 ml - lata | Port. 222/2017 |
+| 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,17 | +2.0% | und | Dr Up - 269 ml - lata | Port. 507/2017 |
+| 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,24 | +1.4% | und | Dr Up - 269 ml - lata | Port. 147/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,24 | +0.0% | und | Dr Up - 269 ml - lata | Port. 383/2018 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +1.9% | und | Dr Up - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +0.0% | und | Dr Up - 269 ml - lata | Port. 286/2019 |
+| 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,14 | -3.7% | und | Dr Up - 269 ml - lata | Port. 614/2019 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,34 | +3.9% | und | DrUp- 269 ml - lata ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 5,99 | +12.2% | und | DrUp- 269 ml - lata | Port. 454/2022 |
 
 ### Ecco Citrus - 269 ml - lata (código 48698)
@@ -2926,6 +2891,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2017-04-04 (pub.) | 2017-03-29 | incluir | 4,00 |  |  | Energético Cavalo do Cão Energy Drink - Pet 600 ml | Port. 180/2017 |
+
+### Energético Cerpa Amazon Power - Lata 269 ml (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2013-11-22 (pub.) | 2013-10-01 | incluir | 3,18 |  |  | Energético Cerpa Amazon Power - Lata 269 ml | Port. 355/2013 |
+| 2014-09-03 (pub.) | 2014-08-27 | alterar | 4,00 | +25.8% |  | Energético Cerpa Amazon Power - Lata 269 ml | Port. 236/2014 |
+| 2014-10-29 (pub.) | 2014-10-23 | alterar | 4,00 | +0.0% |  | Energético Cerpa Amazon Power - Lata 269 ml | Port. 275/2014 |
 
 ### Energético Citrus – Lata 269 ml (código —)
 
@@ -3914,7 +3887,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,75 | +10.9% | Und | Energil Sport - 500ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,79 | +1.5% | und | Energil Sport - 500ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,18 | +14.0% | und | Energil Sport - 500ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Energil Sport - 500ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Energil Sport - 500ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +0.0% | und | Energil Sport - 500ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,42 | +5.6% | und | Energil Sport - 500ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,38 | -1.2% | und | Energil Sport - 500ml | Port. 383/2021 |
@@ -3936,7 +3909,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,53 | -6.0% | Und | Energil Sport - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,94 | +9.1% | und | Energil Sport - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,94 | +0.0% | und | Energil Sport - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,04 | +2.0% | und | Energil Sport - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,04 | +2.0% | und | Energil Sport - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,04 | +0.0% | und | Energil Sport - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,79 | -5.0% | und | Energil Sport - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,09 | +6.3% | und | Energil Sport - 500 ml | Port. 383/2021 |
@@ -3982,7 +3955,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,17 | +2.0% | und | Energy - 270 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,24 | +1.4% | und | Energy - 270 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,24 | +0.0% | und | Energy - 270 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,34 | +1.9% | und | Energy - 270 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +1.9% | und | Energy - 270 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +0.0% | und | Energy - 270 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,14 | -3.7% | und | Energy - 270 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,34 | +3.9% | und | Energy- 270 ml - lata | Port. 383/2021 |
@@ -4012,7 +3985,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 13,77 | +6.0% | Und | Energy – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,97 | +1.5% | und | Energy – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,25 | +2.0% | und | Energy – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,54 | +2.0% | und | Energy – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,54 | +2.0% | und | Energy – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,54 | +0.0% | und | Energy – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,99 | -3.8% | und | Energy – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,53 | +3.9% | und | Energy – 2000 ml | Port. 383/2021 |
@@ -4042,7 +4015,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 13,93 | +6.0% | Und | Energy – 3000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,13 | +1.4% | und | Energy – 3000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,41 | +2.0% | und | Energy – 3000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,70 | +2.0% | und | Energy – 3000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,70 | +2.0% | und | Energy – 3000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,70 | +0.0% | und | Energy – 3000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,14 | -3.8% | und | Energy – 3000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,69 | +3.9% | und | Energy – 3000 ml | Port. 383/2021 |
@@ -4099,7 +4072,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,58 | -6.1% | Und | Energy Drink - 473 ml - | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,09 | +9.1% | und | Energy Drink - 473 ml - | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,09 | +0.0% | und | Energy Drink - 473 ml - | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,21 | +2.0% | und | Energy Drink - 473 ml - | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,21 | +2.0% | und | Energy Drink - 473 ml - | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,21 | +0.0% | und | Energy Drink - 473 ml - | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,90 | -5.0% | und | Energy Drink - 473 ml - | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,27 | +6.3% | und | Energy Drink - 473 ml - | Port. 383/2021 |
@@ -4122,7 +4095,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,21 | -8.0% | Und | Energy Drink (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,26 | +11.4% | und | Energy Drink (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,47 | +2.0% | und | Energy Drink (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,68 | +2.0% | und | Energy Drink (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,68 | +2.0% | und | Energy Drink (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,68 | +0.0% | und | Energy Drink (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,27 | -3.8% | und | Energy Drink (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,67 | +3.9% | und | Energy Drink (PET 1 L) | Port. 383/2021 |
@@ -4142,7 +4115,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 3,48 |  |  | Energético Enerup 250 ml | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,48 | +0.0% | und | Enerup - 250 ml - lata ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,55 | +2.0% | und | Enerup - 250 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,55 | +2.0% | und | Enerup - 250 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,55 | +0.0% | und | Enerup - 250 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,42 | -3.7% | und | Enerup - 250 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,56 | +4.1% | und | Enerup - 250 ml - lata | Port. 383/2021 |
@@ -4161,7 +4134,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,43 |  | und | Enerup - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,52 | +2.0% | und | Enerup - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,52 | +2.0% | und | Enerup - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,52 | +0.0% | und | Enerup - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,35 | -3.8% | und | Enerup - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,52 | +3.9% | und | Enerup - 269 ml - lata | Port. 383/2021 |
@@ -4181,7 +4154,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 7,51 |  |  | Energético Enerup 1.000 ml | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,51 | +0.0% | und | Enerup - 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,66 | +2.0% | und | Enerup - 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,66 | +2.0% | und | Enerup - 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,66 | +0.0% | und | Enerup - 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,37 | -3.8% | und | Enerup - 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,66 | +3.9% | und | Enerup - 1000 ml | Port. 383/2021 |
@@ -4201,7 +4174,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 9,90 |  |  | Energético Enerup 2.000 ml | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,90 | +0.0% | und | Enerup - 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,10 | +2.0% | und | Enerup - 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,10 | +2.0% | und | Enerup - 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,10 | +0.0% | und | Enerup - 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,72 | -3.8% | und | Enerup - 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,10 | +3.9% | und | Enerup - 2000 ml | Port. 383/2021 |
@@ -4221,7 +4194,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 4,35 |  |  | Energético Enerup 500 ml | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,35 | +0.0% | und | Enerup - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,44 | +2.1% | und | Enerup - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,44 | +2.1% | und | Enerup - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,44 | +0.0% | und | Enerup - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,22 | -5.0% | und | Enerup - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,48 | +6.2% | und | Enerup - 500 ml | Port. 383/2021 |
@@ -4265,7 +4238,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,63 | +0.4% | und | Extra Power - 270 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,70 | +1.5% | und | Extra Power - 270 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,70 | +0.0% | und | Extra Power - 270 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,79 | +1.9% | und | Extra Power - 270 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,79 | +1.9% | und | Extra Power - 270 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,79 | +0.0% | und | Extra Power - 270 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,28 | -10.6% | und | Extra Power - 270 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,70 | +9.8% | und | Extra Power- 270 ml | Port. 383/2021 |
@@ -4290,7 +4263,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,65 | -6.1% | Und | Extra Power - 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,07 | +9.0% | und | Extra Power - 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,07 | +0.0% | und | Extra Power - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,17 | +2.0% | und | Extra Power - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,17 | +2.0% | und | Extra Power - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,17 | +0.0% | und | Extra Power - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,91 | -5.0% | und | Extra Power - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,22 | +6.3% | und | Extra Power - 473 ml | Port. 383/2021 |
@@ -4313,7 +4286,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,03 | +8.8% | Und | Extra Power (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,16 | +1.4% | und | Extra Power (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,34 | +2.0% | und | Extra Power (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,53 | +2.0% | und | Extra Power (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,53 | +2.0% | und | Extra Power (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,53 | +0.0% | und | Extra Power (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,17 | -3.8% | und | Extra Power (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,53 | +3.9% | und | Extra Power (PET 1 L) | Port. 383/2021 |
@@ -4348,7 +4321,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 15,60 | +2.6% | Und | Extra Power – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 15,82 | +1.4% | und | Extra Power – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 16,14 | +2.0% | und | Extra Power – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 16,46 | +2.0% | und | Extra Power – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,46 | +2.0% | und | Extra Power – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,46 | +0.0% | und | Extra Power – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 15,83 | -3.8% | und | Extra Power – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 16,44 | +3.9% | und | Extra Power – 2000 ml | Port. 383/2021 |
@@ -4368,7 +4341,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,15 |  | und | Extra Power Copa do Mundo (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,33 | +2.0% | und | Extra Power Copa do Mundo (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,34 | +0.1% | UND | Extra power - 1250 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +0.1% | UND | Extra power - 1250 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +0.0% | UND | Extra power - 1250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,99 | -3.7% | UND | Extra power - 1250 ml | Port. 614/2019 |
 
@@ -4385,7 +4358,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,15 |  | und | Extra Power Lemon (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,33 | +2.0% | und | Extra Power Lemon (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,99 | -46.5% | und | Extra Power - 355 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,99 | -46.5% | und | Extra Power - 355 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,99 | +0.0% | und | Extra Power - 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,74 | -5.0% | und | Extra Power - 355 ml | Port. 614/2019 |
 
@@ -4403,7 +4376,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,24 | -6.0% | Und | Extra Power - 710 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,81 | +9.1% | und | Extra Power - 710 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,81 | +0.0% | und | Extra Power - 710 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,95 | +2.1% | und | Extra Power - 710 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,95 | +2.1% | und | Extra Power - 710 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,95 | +0.0% | und | Extra Power - 710 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,61 | -4.9% | und | Extra Power - 710 ml | Port. 614/2019 |
 
@@ -4681,7 +4654,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,69 |  | und | Extra Power Sugar Free - 270ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,69 | +0.0% | und | Extra Power Sugar Free - 270ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,78 | +1.9% | und | Extra Power Sugar Free - 270ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,78 | +1.9% | und | Extra Power Sugar Free - 270ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,78 | +0.0% | und | Extra Power Sugar Free - 270ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,60 | -3.8% | und | Extra Power Sugar Free - 270ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,78 | +3.9% | und | Extra Power Sugar Free - 270ml | Port. 383/2021 |
@@ -4705,7 +4678,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,99 |  | und | Extra Power Ultravioleta (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,19 | +2.0% | und | Extra Power Ultravioleta (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,19 | +2.0% | und | Extra Power Ultravioleta (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,19 | +0.0% | und | Extra Power Ultravioleta (PET 1 L) | Port. 286/2019 |
 
 ### Extra Power Zero (PET 2 L) (código 48475)
@@ -4743,7 +4716,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,34 | +2.1% | Und | Falcon - 250 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,40 | +1.4% | und | Falcon - 250 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,40 | +0.0% | und | Falcon - 250 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Falcon - 250 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Falcon - 250 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +0.0% | und | Falcon - 250 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,32 | -3.8% | und | Falcon - 250 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,49 | +3.9% | und | Falcon- 250 ml - lata | Port. 383/2021 |
@@ -4773,7 +4746,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,35 | +2.1% | Und | Falcon - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,41 | +1.4% | und | Falcon - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,41 | +0.0% | und | Falcon - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Falcon - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Falcon - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +0.0% | und | Falcon - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,33 | -3.8% | und | Falcon - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,50 | +3.9% | und | Falcon- 269 ml - lata | Port. 383/2021 |
@@ -4796,7 +4769,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,53 | -8.0% | Und | Falcon (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,62 | +11.4% | und | Falcon (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,83 | +2.0% | und | Falcon (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,05 | +2.0% | und | Falcon (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,05 | +2.0% | und | Falcon (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,05 | +0.0% | und | Falcon (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,63 | -3.8% | und | Falcon (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,04 | +3.9% | und | Falcon (PET 1 L) | Port. 383/2021 |
@@ -4826,7 +4799,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 13,29 | +6.0% | Und | Falcon – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,48 | +1.4% | und | Falcon – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,75 | +2.0% | und | Falcon – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,03 | +2.0% | und | Falcon – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,03 | +2.0% | und | Falcon – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,03 | +0.0% | und | Falcon – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,50 | -3.8% | und | Falcon – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,02 | +3.9% | und | Falcon – 2000 ml | Port. 383/2021 |
@@ -4856,7 +4829,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,33 | -6.0% | Und | Falcon - 450 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,81 | +9.0% | und | Falcon - 450 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,81 | +0.0% | und | Falcon - 450 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,93 | +2.1% | und | Falcon - 450 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,93 | +2.1% | und | Falcon - 450 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,93 | +0.0% | und | Falcon - 450 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,64 | -4.9% | und | Falcon - 450 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,99 | +6.2% | und | Falcon - 450 ml | Port. 383/2021 |
@@ -4889,7 +4862,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,15 | -8.0% | Und | Fireball (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,96 | +11.3% | und | Fireball (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,12 | +2.0% | und | Fireball (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,28 | +2.0% | und | Fireball (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,28 | +2.0% | und | Fireball (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,28 | +0.0% | und | Fireball (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,97 | -3.7% | und | Fireball (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,28 | +3.9% | und | Fireball (PET 1 L) | Port. 383/2021 |
@@ -4912,7 +4885,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,89 | -6.0% | Und | Firerball - 350 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,24 | +9.0% | und | Firerball - 350 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,24 | +0.0% | und | Firerball - 350 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,32 | +1.9% | und | Firerball - 350 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +1.9% | und | Firerball - 350 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +0.0% | und | Firerball - 350 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,11 | -4.9% | und | Firerball - 350 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 | +6.3% | und | Firerball- 350 ml - lata | Port. 383/2021 |
@@ -5067,7 +5040,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Freepower Energy Drink – 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Freepower Energy Drink – 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,28 | +0.0% | und | Freepower Energy Drink – 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Freepower Energy Drink – 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Freepower Energy Drink – 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +0.0% | und | Freepower Energy Drink – 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | -3.9% | und | Freepower Energy Drink – 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 | +4.0% | und | Freepower Energy Drink – 269 ml - lata | Port. 383/2021 |
@@ -5089,7 +5062,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,37 | -8.0% | Und | Freepower Energy Drink (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,33 | +11.5% | und | Freepower Energy Drink (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,52 | +2.0% | und | Freepower Energy Drink (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,71 | +2.0% | und | Freepower Energy Drink (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,71 | +2.0% | und | Freepower Energy Drink (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,71 | +0.0% | und | Freepower Energy Drink (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,34 | -3.8% | und | Freepower Energy Drink (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,70 | +3.9% | und | Freepower Energy Drink (PET 1 L) | Port. 383/2021 |
@@ -5111,7 +5084,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,44 | +6.0% | und | Freepower Energy Drink (1250 a 3 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,59 | +1.4% | und | Freepower Energy Drink (1250 a 3 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,80 | +2.0% | und | Freepower Energy Drink (1250 a 3 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,02 | +2.0% | und | Freepower Energy Drink (1250 a 3 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,02 | +2.0% | und | Freepower Energy Drink (1250 a 3 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,02 | +0.0% | und | Freepower Energy Drink (1250 a 3 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,60 | -3.8% | und | Freepower Energy Drink (1250 a 3 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,01 | +3.9% | und | Freepower Energy Drink (3 L) | Port. 383/2021 |
@@ -5133,7 +5106,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,45 | +2.1% | und | Freepower Energy Drink – 250 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,50 | +1.4% | und | Freepower Energy Drink – 250 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,50 | +0.0% | und | Freepower Energy Drink – 250 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,57 | +2.0% | und | Freepower Energy Drink – 250 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,57 | +2.0% | und | Freepower Energy Drink – 250 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,57 | +0.0% | und | Freepower Energy Drink – 250 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,43 | -3.9% | und | Freepower Energy Drink – 250 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,57 | +4.1% | und | Freepower Energy Drink – 250 ml - pet | Port. 383/2021 |
@@ -5161,7 +5134,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,41 | -6.0% | Und | Freepower Energy Drink - 600 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,81 | +9.1% | und | Freepower Energy Drink - 600 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,81 | +0.0% | und | Freepower Energy Drink - 600 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,91 | +2.1% | und | Freepower Energy Drink - 600 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,91 | +2.1% | und | Freepower Energy Drink - 600 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,91 | +0.0% | und | Freepower Energy Drink - 600 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,67 | -4.9% | und | Freepower Energy Drink - 600 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,96 | +6.2% | und | Freepower Energy Drink - 600 ml | Port. 383/2021 |
@@ -5189,7 +5162,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,25 | -6.0% | Und | Freepower Energy Drink - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,64 | +9.2% | und | Freepower Energy Drink - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,64 | +0.0% | und | Freepower Energy Drink - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,73 | +1.9% | und | Freepower Energy Drink - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,73 | +1.9% | und | Freepower Energy Drink - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,73 | +0.0% | und | Freepower Energy Drink - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,50 | -4.9% | und | Freepower Energy Drink - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,78 | +6.2% | und | Freepower Energy Drink - 500 ml | Port. 383/2021 |
@@ -5219,7 +5192,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,19 | -8.1% | Und | Full Energy (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,01 | +11.4% | und | Full Energy (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,17 | +2.0% | und | Full Energy (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,33 | +2.0% | und | Full Energy (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,33 | +2.0% | und | Full Energy (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,33 | +0.0% | und | Full Energy (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,01 | -3.8% | und | Full Energy (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,32 | +3.9% | und | Full Energy (PET 1 L) | Port. 383/2021 |
@@ -5241,7 +5214,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,93 | +2.1% | und | Drink Full Energy - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,99 | +1.5% | und | Drink Full Energy - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,99 | +0.0% | und | Drink Full Energy - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,07 | +2.0% | und | Drink Full Energy - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,07 | +2.0% | und | Drink Full Energy - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,07 | +0.0% | und | Drink Full Energy - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,92 | -3.7% | und | Drink Full Energy - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,08 | +4.1% | und | Drink Full Energy - 269 ml - lata | Port. 383/2021 |
@@ -5263,7 +5236,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,44 | +6.0% | und | Drink Full Energy – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,59 | +1.4% | und | Drink Full Energy – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,80 | +2.0% | und | Drink Full Energy – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,02 | +2.0% | und | Drink Full Energy – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,02 | +2.0% | und | Drink Full Energy – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,02 | +0.0% | und | Drink Full Energy – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,60 | -3.8% | und | Drink Full Energy – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,01 | +3.9% | und | Drink Full Energy – 2000 ml | Port. 383/2021 |
@@ -5600,7 +5573,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,27 | -5.9% | und | Fusion - 250 ml – lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,74 | +8.9% | und | Fusion - 250 ml – lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,98 | -13.2% | und | Fusion - 250 ml – lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,08 | +2.0% | und | Fusion - 250 ml – lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,08 | +2.0% | und | Fusion - 250 ml – lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,08 | +0.0% | und | Fusion - 250 ml – lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,01 | -1.4% | und | Fusion - 250 ml – lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,21 | +4.0% | und | Fusion- 250 ml – lata | Port. 383/2021 |
@@ -5622,7 +5595,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,55 | -9.9% | unid | Fusion - 310 Lata (até 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,32 | +13.9% | und | Fusion - 310 Lata (até 310 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,48 | -13.3% | und | Fusion - 310 Lata (até 310 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,59 | +2.0% | und | Fusion - 310 Lata (até 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,59 | +2.0% | und | Fusion - 310 Lata (até 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,59 | +0.0% | und | Fusion - 310 Lata (até 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,38 | -3.8% | und | Fusion - 310 Lata (até 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,59 | +3.9% | und | Fusion - 310 Lata (até 310 ml) | Port. 383/2021 |
@@ -5658,7 +5631,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,90 | -24.0% | Und | Fusion (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,66 | +34.9% | und | Fusion (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,87 | +2.0% | und | Fusion (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,09 | +2.0% | und | Fusion (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,09 | +2.0% | und | Fusion (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,09 | +0.0% | und | Fusion (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,67 | -3.8% | und | Fusion (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,08 | +3.8% | und | Fusion (PET 1 L) | Port. 383/2021 |
@@ -5746,7 +5719,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,29 | -4.2% | und | Gatorade 350 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,44 | +6.6% | und | Gatorade 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,49 | +2.0% | und | Gatorade 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Gatorade 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Gatorade 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +0.0% | und | Gatorade 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,68 | +5.5% | und | Gatorade 350 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,78 | +3.7% | und | Gatorade 350 ml | Port. 383/2021 |
@@ -5776,7 +5749,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,89 | +6.0% | Und | Gatorade - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,95 | +1.5% | und | Gatorade - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,63 | +17.2% | und | Gatorade - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,72 | +1.9% | und | Gatorade - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,72 | +1.9% | und | Gatorade - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,72 | +0.0% | und | Gatorade - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,57 | -3.2% | und | Gatorade - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,49 | -1.8% | und | Gatorade - 500 ml | Port. 383/2021 |
@@ -5802,7 +5775,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,93 | +4.5% | und | Giant Badboy (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,93 | +0.0% | und | Giant Badboy (1 L) | Port. 142/2016 |
 
-### Giant Badboy (PET 1 L) (código 45035)
+### GiantBadboy (PET 1 L) (código 45035)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
@@ -5811,15 +5784,10 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,69 | -8.0% | Und | Giant Badboy (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,69 | +11.5% | und | Giant Badboy (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,88 | +2.0% | und | Giant Badboy (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,08 | +2.0% | und | Giant Badboy (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,08 | +2.0% | und | Giant Badboy (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,08 | +0.0% | und | Giant Badboy (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,70 | -3.8% | und | Giant Badboy (PET 1 L) | Port. 614/2019 |
-
-### GiantBadboy (PET 1 L) (código 45035)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,08 |  | und | GiantBadboy (PET 1 L) | Port. 383/2021 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,08 | +3.9% | und | GiantBadboy (PET 1 L) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 11,02 | +9.3% | und | GiantBadboy (PET 1 L) | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 11,32 | +2.7% | und | GiantBadboy (PET 1 L) | Port. 128/2023 |
 | 2023-11-01 (efeitos) | 2023-10-30 | alterar | 12,91 | +14.0% | und | GiantBadboy (PET 1 L) | Port. 477/2023 |
@@ -5844,7 +5812,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Gladiador - 270 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Gladiador - 270 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,28 | +0.0% | und | Gladiador - 270 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Gladiador - 270 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Gladiador - 270 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +0.0% | und | Gladiador - 270 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | -3.9% | und | Gladiador - 270 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 | +4.0% | und | Gladiador- 270 ml - pet | Port. 383/2021 |
@@ -6126,7 +6094,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,89 | +2.1% | und | Hooters - 310 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,96 | +1.4% | und | Hooters - 310 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,96 | +0.0% | und | Hooters - 310 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,06 | +2.0% | und | Hooters - 310 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,06 | +2.0% | und | Hooters - 310 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,06 | +0.0% | und | Hooters - 310 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,87 | -3.8% | und | Hooters - 310 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,06 | +3.9% | und | Hooters- 310 ml - lata | Port. 383/2021 |
@@ -6162,7 +6130,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,50 | +6.0% | und | HP – 2000 ML | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,64 | +1.5% | und | HP – 2000 ML | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,83 | +2.0% | und | HP – 2000 ML | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,03 | +2.0% | und | HP – 2000 ML | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,03 | +2.0% | und | HP – 2000 ML | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,03 | +0.0% | und | HP – 2000 ML | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,65 | -3.8% | und | HP – 2000 ML | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,02 | +3.8% | und | HP – 2000 ML | Port. 383/2021 |
@@ -6185,7 +6153,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,17 | +2.0% | und | HP Hot Power - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,24 | +1.4% | und | HP Hot Power - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,24 | +0.0% | und | HP Hot Power - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,34 | +1.9% | und | HP Hot Power - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +1.9% | und | HP Hot Power - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +0.0% | und | HP Hot Power - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,14 | -3.7% | und | HP Hot Power - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,34 | +3.9% | und | HP Hot Power - 269 ml - lata | Port. 383/2021 |
@@ -6411,7 +6379,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +6.1% | Und | I9 - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | I9 - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,94 | +16.9% | und | I9 - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,02 | +2.0% | und | I9 - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,02 | +2.0% | und | I9 - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,02 | +0.0% | und | I9 - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,30 | +7.0% | und | I9 - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,19 | -2.6% | und | I9 - 500 ml | Port. 383/2021 |
@@ -6478,7 +6446,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 12,46 | +6.0% | Und | Infinity – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,64 | +1.4% | und | Infinity – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,89 | +2.0% | und | Infinity – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 13,15 | +2.0% | und | Infinity – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,15 | +2.0% | und | Infinity – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,15 | +0.0% | und | Infinity – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,65 | -3.8% | und | Infinity – 2000 ml | Port. 614/2019 |
 | 2020-12-23 (pub.) | 2020-12-17 | incluir | 7,59 | -40.0% |  | Energetico Infinity - Pet 2000 ml ⚠ | Port. 417/2020 |
@@ -6501,7 +6469,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Infinity – 265 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Infinity – 265 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,28 | +0.0% | und | Infinity – 265 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Infinity – 265 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Infinity – 265 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +0.0% | und | Infinity – 265 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | -3.9% | und | Infinity – 265 ml - lata | Port. 614/2019 |
 | 2020-12-23 (pub.) | 2020-12-17 | incluir | 4,43 | +5.5% |  | Energetico Infinity – Lata 265 ml | Port. 417/2020 |
@@ -6525,7 +6493,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,20 | +11.1% | Und | Ironage Sabores - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,25 | +1.6% | und | Ironage Sabores - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,80 | +16.9% | und | Ironage Sabores - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,88 | +2.1% | und | Ironage Sabores - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,88 | +2.1% | und | Ironage Sabores - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,88 | +0.0% | und | Ironage Sabores - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,09 | +5.4% | und | Ironage Sabores - 500 ml | Port. 614/2019 |
 
@@ -6678,7 +6646,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,45 | +6.0% | und | K Energy Drink – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,60 | +1.4% | und | K Energy Drink – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,81 | +2.0% | und | K Energy Drink – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,03 | +2.0% | und | K Energy Drink – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,03 | +2.0% | und | K Energy Drink – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,03 | +0.0% | und | K Energy Drink – 2000 ml | Port. 286/2019 |
 
 ### K Energy Drink – 500 ml (código 49934)
@@ -6691,7 +6659,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,53 | -6.0% | Und | K Energy Drink – 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,94 | +9.1% | und | K Energy Drink – 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,94 | +0.0% | und | K Energy Drink – 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,59 | -7.1% | und | K Energy Drink – 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,59 | -7.1% | und | K Energy Drink – 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,59 | +0.0% | und | K Energy Drink – 500 ml | Port. 286/2019 |
 
 ### Energético Life Strong Energy & Juice Mango - Lata 473 ml (código 53525)
@@ -6801,7 +6769,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,78 | -8.1% | und | Magneto Energy (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,32 | +11.3% | und | Magneto Energy (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,43 | +2.1% | und | Magneto Energy (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,54 | +2.0% | und | Magneto Energy (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,54 | +2.0% | und | Magneto Energy (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,54 | +0.0% | und | Magneto Energy (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,33 | -3.8% | und | Magneto Energy (PET 1 L) | Port. 614/2019 |
 
@@ -6829,7 +6797,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,35 | +2.1% | und | Mamute Energy Drinl – 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,41 | +1.4% | und | Mamute Energy Drinl – 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,41 | +0.0% | und | Mamute Energy Drinl – 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Mamute Energy Drinl – 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Mamute Energy Drinl – 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +0.0% | und | Mamute Energy Drinl – 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,33 | -3.8% | und | Mamute Energy Drinl – 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,50 | +3.9% | und | Mamute Energy Drinl – 269 ml - lata | Port. 383/2021 |
@@ -6851,7 +6819,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,39 | -8.1% | Und | Matute Energy Drink (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,12 | +11.4% | und | Matute Energy Drink (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,26 | +2.0% | und | Matute Energy Drink (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,41 | +2.1% | und | Matute Energy Drink (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,41 | +2.1% | und | Matute Energy Drink (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,41 | +0.0% | und | Matute Energy Drink (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,13 | -3.8% | und | Matute Energy Drink (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,41 | +3.9% | und | Matute Energy Drink (PET 1 L) | Port. 383/2021 |
@@ -6873,7 +6841,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 12,46 | +6.0% | und | Matute Energy Drink – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,64 | +1.4% | und | Matute Energy Drink – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,89 | +2.0% | und | Matute Energy Drink – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 13,15 | +2.0% | und | Matute Energy Drink – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,15 | +2.0% | und | Matute Energy Drink – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,15 | +0.0% | und | Matute Energy Drink – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,65 | -3.8% | und | Matute Energy Drink – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 13,14 | +3.9% | und | Matute Energy Drink – 2000 ml | Port. 383/2021 |
@@ -6895,7 +6863,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,00 | -5.9% | Und | Mamute Energy Drink - 350 ml - Pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,35 | +8.7% | und | Mamute Energy Drink - 350 ml - Pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,35 | +0.0% | und | Mamute Energy Drink - 350 ml - Pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,44 | +2.1% | und | Mamute Energy Drink - 350 ml - Pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,44 | +2.1% | und | Mamute Energy Drink - 350 ml - Pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,44 | +0.0% | und | Mamute Energy Drink - 350 ml - Pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,22 | -5.0% | und | Mamute Energy Drink - 350 ml - Pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,48 | +6.2% | und | Mamute Energy Drink-350 ml - Pet | Port. 383/2021 |
@@ -6962,7 +6930,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 6,99 |  |  | Energético Marathon Isoenergy blueberry com limão - lata 350 ml | Port. 244/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,99 | +0.0% | UND | Marathon Isoenergy Blueberry com limão – 350 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,99 | +0.0% | UND | Marathon Isoenergy Blueberry com limão – 350 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,99 | +0.0% | UND | Marathon Isoenergy Blueberry com Limão – 350 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,64 | -5.0% | UND | Marathon Isoenergy Blueberry com limão – 350 ml - lata | Port. 614/2019 |
 
@@ -6972,7 +6940,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,99 |  | und | Marathon Isoenergy Chá Verde c/ Limao 350 (311 a 710 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,99 | +16.7% | und | Marathon Isoenergy Chá Verde c/ Limao 350 (311 a 710 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,13 | +2.0% | und | Marathon Isoenergy Chá Verde c/ Limao 350 (311 a 710 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,13 | +2.0% | und | Marathon Isoenergy Chá Verde c/ Limao 350 (311 a 710 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,13 | +0.0% | und | Marathon Isoenergy Chá Verde c/ Limao 350 (311 a 710 ml) | Port. 286/2019 |
 
 ### Marathon Isoenergy Chá Verde Limonade - lata (350 ml) (código 49773)
@@ -6981,7 +6949,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,99 |  | und | Marathon Isoenergy Chá Verde Limonade 350 (311 a 710 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,99 | +16.7% | und | Marathon Isoenergy Chá Verde Limonade 350 (311 a 710 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,13 | +2.0% | und | Marathon Isoenergy Chá Verde Limonade 350 (311 a 710 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,13 | +2.0% | und | Marathon Isoenergy Chá Verde Limonade 350 (311 a 710 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,13 | +0.0% | und | Marathon Isoenergy Chá Verde Limonade 350 (311 a 710 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,78 | -4.9% | und | Marathon Isoenergy Chá Verde Limonade 350 ml - lata ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,20 | +6.2% | und | Marathon Isoenergy Chá Verde Limonade350 ml - lata ⚠ | Port. 383/2021 |
@@ -7031,7 +6999,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,62 | -6.0% | Und | Monster - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,32 | +9.2% | und | Monster - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,81 | -18.1% | und | Monster - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,95 | +2.1% | und | Monster - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,95 | +2.1% | und | Monster - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,95 | +0.0% | und | Monster - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,61 | -4.9% | und | Monster - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,02 | +6.2% | und | Monster - 500 ml | Port. 383/2021 |
@@ -7239,7 +7207,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,63 | -5.9% | Und | Monster - 473 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,32 | +9.0% | und | Monster - 473 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,81 | -18.1% | und | Monster - 473 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,95 | +2.1% | und | Monster - 473 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,95 | +2.1% | und | Monster - 473 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,95 | +0.0% | und | Monster - 473 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,77 | -2.6% | und | Monster - 473 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,39 | +9.2% | und | Monster- 473 ml - lata | Port. 383/2021 |
@@ -7266,7 +7234,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,75 | -8.0% | Und | Net Power (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,63 | +11.4% | und | Net Power (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,80 | +2.0% | und | Net Power (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,98 | +2.0% | und | Net Power (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,98 | +2.0% | und | Net Power (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,98 | +0.0% | und | Net Power (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,64 | -3.8% | und | Net Power (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,97 | +3.8% | und | Net Power (PET 1 L) | Port. 383/2021 |
@@ -7296,7 +7264,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 13,35 | +6.0% | Und | Net Power – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,54 | +1.4% | und | Net Power – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,81 | +2.0% | und | Net Power – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,09 | +2.0% | und | Net Power – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,09 | +2.0% | und | Net Power – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,09 | +0.0% | und | Net Power – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,55 | -3.8% | und | Net Power – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,07 | +3.8% | und | Net Power – 2000 ml | Port. 383/2021 |
@@ -7327,7 +7295,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,16 | -6.0% | Und | Net Power - 600 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,63 | +9.1% | und | Net Power - 600 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,63 | +0.0% | und | Net Power - 600 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,74 | +2.0% | und | Net Power - 600 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,74 | +2.0% | und | Net Power - 600 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,74 | +0.0% | und | Net Power - 600 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,46 | -4.9% | und | Net Power - 600 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,80 | +6.2% | und | Net Power - 600 ml | Port. 383/2021 |
@@ -7354,7 +7322,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,07 | -6.0% | Und | Net Power - 350 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,43 | +8.8% | und | Net Power - 350 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,43 | +0.0% | und | Net Power - 350 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,52 | +2.0% | und | Net Power - 350 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,52 | +2.0% | und | Net Power - 350 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,52 | +0.0% | und | Net Power - 350 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,30 | -4.9% | und | Net Power - 350 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,57 | +6.3% | und | Net Power - 350 ml - lata | Port. 383/2021 |
@@ -7392,7 +7360,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 12,25 | +6.0% | Und | Night Power – 1500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,42 | +1.4% | und | Night Power – 1500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,67 | +2.0% | und | Night Power – 1500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,92 | +2.0% | und | Night Power – 1500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,92 | +2.0% | und | Night Power – 1500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,92 | +0.0% | und | Night Power – 1500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,43 | -3.8% | und | Night Power – 1500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,91 | +3.9% | und | Night Power – 1500 ml | Port. 383/2021 |
@@ -7475,7 +7443,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,57 | +2.0% | und | Nigth Power Pack - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,65 | +1.4% | und | Nigth Power Pack - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,65 | +0.0% | und | Nigth Power Pack - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,76 | +1.9% | und | Nigth Power Pack - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,76 | +1.9% | und | Nigth Power Pack - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,76 | +0.0% | und | Nigth Power Pack - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,54 | -3.8% | und | Nigth Power Pack - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,76 | +4.0% | und | Nigth Power Pack - 269 ml - lata | Port. 383/2021 |
@@ -7512,7 +7480,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,68 | +2.0% | und | Nigth Power Regular - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,76 | +1.4% | und | Nigth Power Regular - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,76 | +0.0% | und | Nigth Power Regular - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,88 | +2.1% | und | Nigth Power Regular - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,88 | +2.1% | und | Nigth Power Regular - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,88 | +0.0% | und | Nigth Power Regular - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,66 | -3.7% | und | Nigth Power Regular - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,89 | +4.1% | und | Nigth Power Regular - 269 ml - lata | Port. 383/2021 |
@@ -7534,7 +7502,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,51 | +2.0% | und | Nigth Power - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,59 | +1.5% | und | Nigth Power - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,59 | +0.0% | und | Nigth Power - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,70 | +2.0% | und | Nigth Power - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,70 | +2.0% | und | Nigth Power - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,70 | +0.0% | und | Nigth Power - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,48 | -3.9% | und | Nigth Power - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,70 | +4.0% | und | Nigth Power- 250 ml | Port. 383/2021 |
@@ -7554,7 +7522,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,75 | +1.4% | und | Ninja Guaraná - 10 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,76 | +1.3% | und | Ninja Guaraná - 10 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,76 | +0.0% | und | Ninja Guaraná - 10 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,78 | +2.6% | und | Ninja Guaraná - 10 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,78 | +2.6% | und | Ninja Guaraná - 10 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,78 | +0.0% | und | Ninja Guaraná - 10 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,75 | -3.8% | und | Ninja Guaraná - 10 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,78 | +4.0% | und | Ninja Guaraná- 10 ml - pet | Port. 383/2021 |
@@ -7584,7 +7552,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,89 | +2.3% | und | Ninja Guaraná - 20 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,90 | +1.1% | und | Ninja Guaraná - 20 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,90 | +0.0% | und | Ninja Guaraná - 20 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,92 | +2.2% | und | Ninja Guaraná - 20 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,92 | +2.2% | und | Ninja Guaraná - 20 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,92 | +0.0% | und | Ninja Guaraná - 20 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,89 | -3.3% | und | Ninja Guaraná - 20 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,93 | +4.5% | und | Ninja Guaraná- 20 ml - pet | Port. 383/2021 |
@@ -7614,7 +7582,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,01 | +2.0% | und | Ninja Guaraná - 50 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,04 | +1.5% | und | Ninja Guaraná - 50 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,04 | +0.0% | und | Ninja Guaraná - 50 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,08 | +2.0% | und | Ninja Guaraná - 50 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,08 | +2.0% | und | Ninja Guaraná - 50 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,08 | +0.0% | und | Ninja Guaraná - 50 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,00 | -3.8% | und | Ninja Guaraná - 50 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,08 | +4.0% | und | Ninja Guaraná- 50 ml - pet | Port. 383/2021 |
@@ -7649,7 +7617,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,81 | -8.0% | Und | Ninja power (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,82 | +11.5% | und | Ninja power (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,02 | +2.0% | und | Ninja power (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,22 | +2.0% | und | Ninja power (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,22 | +2.0% | und | Ninja power (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,22 | +0.0% | und | Ninja power (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,83 | -3.8% | und | Ninja power (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,21 | +3.9% | und | Ninja power (PET 1 L) | Port. 383/2021 |
@@ -7678,7 +7646,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 11,94 | +6.0% | Und | Ninja Power – 1500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,11 | +1.4% | und | Ninja Power – 1500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,35 | +2.0% | und | Ninja Power – 1500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,60 | +2.0% | und | Ninja Power – 1500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,60 | +2.0% | und | Ninja Power – 1500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,60 | +0.0% | und | Ninja Power – 1500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,12 | -3.8% | und | Ninja Power – 1500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,59 | +3.9% | und | Ninja Power – 1500 ml | Port. 383/2021 |
@@ -7708,7 +7676,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 13,35 | +6.0% | Und | Ninja Power – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,54 | +1.4% | und | Ninja Power – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,81 | +2.0% | und | Ninja Power – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,09 | +2.0% | und | Ninja Power – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,09 | +2.0% | und | Ninja Power – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,09 | +0.0% | und | Ninja Power – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,55 | -3.8% | und | Ninja Power – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,07 | +3.8% | und | Ninja Power – 2000 ml | Port. 383/2021 |
@@ -7736,7 +7704,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,04 | +2.0% | und | Ninja power - 250 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,10 | +1.5% | und | Ninja power - 250 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,10 | +0.0% | und | Ninja power - 250 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,18 | +2.0% | und | Ninja power - 250 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +2.0% | und | Ninja power - 250 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +0.0% | und | Ninja power - 250 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,02 | -3.8% | und | Ninja power - 250 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +4.0% | und | Ninja power - 250 ml - pet | Port. 383/2021 |
@@ -7764,7 +7732,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Ninja power - 290 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Ninja power - 290 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,28 | +0.0% | und | Ninja power - 290 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Ninja power - 290 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Ninja power - 290 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +0.0% | und | Ninja power - 290 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | -3.9% | und | Ninja power - 290 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 | +4.0% | und | Ninja power - 290 ml - pet | Port. 383/2021 |
@@ -7794,7 +7762,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,38 | +2.1% | und | Ninja power - 100 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,41 | +1.3% | und | Ninja power - 100 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,41 | +0.0% | und | Ninja power - 100 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Ninja power - 100 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Ninja power - 100 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +0.0% | und | Ninja power - 100 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,37 | -3.7% | und | Ninja power - 100 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,46 | +3.8% | und | Ninja power - 100 ml - pet | Port. 383/2021 |
@@ -8036,7 +8004,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 20,07 | +6.0% | Und | Outras Marcas – de 1250 a 3000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 20,36 | +1.4% | und | Outras Marcas – de 1250 a 3000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 20,77 | +2.0% | und | Outras Marcas – de 1250 a 3000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 21,19 | +2.0% | und | Outras Marcas – de 1250 a 3000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 21,19 | +2.0% | und | Outras Marcas – de 1250 a 3000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 21,19 | +0.0% | und | Outras Marcas – de 1250 a 3000 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 21,50 | +1.5% | und | Outras Marcas – de 1250 a 3000 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 20,38 | -5.2% | und | Outras Marcas – de 1250 a 3000 ml | Port. 614/2019 |
@@ -8212,7 +8180,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 14,80 | -8.0% | Und | Outras Marcas (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 16,50 | +11.5% | und | Outras Marcas (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 16,83 | +2.0% | und | Outras Marcas (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 17,17 | +2.0% | und | Outras Marcas (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 17,17 | +2.0% | und | Outras Marcas (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 17,17 | +0.0% | und | Outras Marcas (PET 1 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 17,50 | +1.9% | und | Outras Marcas (PET 1 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 16,52 | -5.6% | und | Outras Marcas (PET 1 L) | Port. 614/2019 |
@@ -8332,7 +8300,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,81 | -4.1% | Und | Outras Marcas (PET até 399 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,00 | +6.8% | und | Outras Marcas (PET até 399 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,06 | +2.0% | und | Outras Marcas (PET até 399 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,12 | +2.0% | und | Outras Marcas (PET até 399 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,12 | +2.0% | und | Outras Marcas (PET até 399 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,12 | +0.0% | und | Outras Marcas (PET até 399 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 3,50 | +12.2% | und | Outras Marcas (PET até 399 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,29 | -6.0% | und | Outras Marcas (PET até 399 ml) | Port. 614/2019 |
@@ -8369,7 +8337,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,47 | +10.9% | Und | Outras Marcas – 400 a 600 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,53 | +1.3% | und | Outras Marcas – 400 a 600 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,53 | +0.0% | und | Outras Marcas – 400 a 600 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,62 | +2.0% | und | Outras Marcas – 400 a 600 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,62 | +2.0% | und | Outras Marcas – 400 a 600 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,62 | +0.0% | und | Outras Marcas – 400 a 600 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 5,50 | +19.0% | und | Outras Marcas – 400 a 600 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,87 | -11.5% | und | Outras Marcas – 400 a 600 ml | Port. 614/2019 |
@@ -8432,7 +8400,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,67 | +2.0% | und | Outras Marcas até - 310 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,79 | +1.4% | und | Outras Marcas até - 310 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,79 | +0.0% | und | Outras Marcas até - 310 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,97 | +2.0% | und | Outras Marcas até - 310 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,97 | +2.0% | und | Outras Marcas até - 310 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,97 | +0.0% | und | Outras Marcas até - 310 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 9,00 | +0.3% | und | Outras Marcas até - 310 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,63 | -4.1% | und | Outras Marcas até - 310 ml | Port. 614/2019 |
@@ -8453,7 +8421,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,30 | -6.0% | Und | Outras Marcas – de 311 a 710 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,24 | +9.1% | und | Outras Marcas – de 311 a 710 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,24 | +0.0% | und | Outras Marcas – de 311 a 710 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,46 | +2.0% | und | Outras Marcas – de 311 a 710 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,46 | +2.0% | und | Outras Marcas – de 311 a 710 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,46 | +0.0% | und | Outras Marcas – de 311 a 710 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 14,50 | +26.5% | und | Outras Marcas (311 a 710 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,89 | -24.9% | und | Outras Marcas – de 311 a 710 ml | Port. 614/2019 |
@@ -8490,7 +8458,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,72 | +11.0% | Und | Palmeiron – 500 ML | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,76 | +1.5% | und | Palmeiron – 500 ML | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,76 | +0.0% | und | Palmeiron – 500 ML | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,82 | +2.2% | und | Palmeiron – 500 ML | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,82 | +2.2% | und | Palmeiron – 500 ML | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,82 | +0.0% | und | Palmeiron – 500 ML | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,97 | +5.3% | und | Palmeiron – 500 ML | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,93 | -1.3% | und | Palmeiron – 500 ML | Port. 383/2021 |
@@ -8520,7 +8488,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,40 | +0.0% | und | Panico Energy Drink 250 ml lata | Port. 176/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,60 | +4.5% | und | Panico Energy Drink - 250 ml lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,60 | +0.0% | und | Panico Energy Drink – 250 ml lata | Port. 142/2016 |
-| 2024-08-30 (pub.) | 2024-08-23 | incluir | 6,22 | +35.2% | und | Panico energy drink (lata 250 ml) | Port. 336/2024 |
+| 2024-02-01 (pub.) | 2024-01-26 | alterar | 6,11 | +32.8% | und | Panicoenergy drink (lata 250 ml) ⚠ | Port. 31/2024 |
+| 2024-08-30 (pub.) | 2024-08-23 | incluir | 6,22 | +1.8% | und | Panico energy drink (lata 250 ml) ⚠ | Port. 336/2024 |
 | 2025-05-01 (efeitos) | 2025-04-28 | alterar | 6,50 | +4.5% | und | Panico energy drink (lata 250 ml) | Port. 151/2025 |
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 6,64 | +2.2% | und | Panico energy drink (lata 250 ml) | Port. 370/2025 |
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 6,76 | +1.8% | und | Panico energy drink (lata 250 ml) | Port. 170/2026 |
@@ -8542,19 +8511,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2024-02-01 (pub.) | 2024-01-26 | alterar | 6,05 |  | und | Panico Energy Drink (PET 250 ml) | Port. 31/2024 |
 
-### Panico energy drink - 250 ml (código 46200)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,77 |  | und | Panico energy drink 250 ml | Port. 397/2016 |
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,77 | +0.0% | und | Panico energy drink - 250 ml | Port. 222/2017 |
-| 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,87 | +2.1% | und | Panico energy drink - 250 ml | Port. 507/2017 |
-| 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,94 | +1.4% | und | Panico energy drink - 250 ml | Port. 147/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,94 | +0.0% | und | Panico energy drink - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,04 | +2.0% | und | Panico energy drink - 250 ml | Port. 285/2019 |
-| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,04 | +0.0% | und | Panico energy drink - 250 ml | Port. 286/2019 |
-| 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,85 | -3.8% | und | Panico energy drink - 250 ml | Port. 614/2019 |
-
 ### Pânico Energy Drink 250 e 269 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -8565,16 +8521,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,04 |  | und | Panicoenergy drink- 250 ml | Port. 383/2021 |
+| 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,77 |  | und | Panico energy drink 250 ml | Port. 397/2016 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,77 | +0.0% | und | Panico energy drink - 250 ml | Port. 222/2017 |
+| 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,87 | +2.1% | und | Panico energy drink - 250 ml | Port. 507/2017 |
+| 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,94 | +1.4% | und | Panico energy drink - 250 ml | Port. 147/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,94 | +0.0% | und | Panico energy drink - 250 ml | Port. 383/2018 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,04 | +2.0% | und | Panico energy drink - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,04 | +0.0% | und | Panico energy drink - 250 ml | Port. 286/2019 |
+| 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,85 | -3.8% | und | Panico energy drink - 250 ml | Port. 614/2019 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,04 | +3.9% | und | Panicoenergy drink- 250 ml ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 5,67 | +12.5% | und | Panicoenergy drink- 250 ml | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 5,82 | +2.6% | und | Panicoenergy drink (250 ml) | Port. 128/2023 |
 | 2023-11-01 (efeitos) | 2023-10-30 | alterar | 6,05 | +4.0% | und | Panicoenergy drink (250 ml) | Port. 477/2023 |
-
-### Panicoenergy drink (lata 250 ml) (código 46200)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2024-02-01 (pub.) | 2024-01-26 | alterar | 6,11 |  | und | Panicoenergy drink (lata 250 ml) | Port. 31/2024 |
 
 ### Energético Paranight Pet 1000 ml (código 47869)
 
@@ -8585,7 +8543,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,78 | -8.1% | Und | Paranight (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,32 | +11.3% | und | Paranight (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,43 | +2.1% | und | Paranight (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,54 | +2.0% | und | Paranight (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,54 | +2.0% | und | Paranight (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,54 | +0.0% | und | Paranight (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,33 | -3.8% | und | Paranight (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,54 | +3.9% | und | Paranight (PET 1 L) | Port. 383/2021 |
@@ -8622,7 +8580,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,43 | -6.0% | Und | Paranight - 340 ml - pet | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,74 | +9.0% | und | Paranight - 340 ml - pet | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,74 | +0.0% | und | Paranight - 340 ml - pet | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Paranight - 340 ml - pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Paranight - 340 ml - pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +0.0% | und | Paranight - 340 ml - pet | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,62 | -5.0% | und | Paranight - 340 ml - pet | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,85 | +6.4% | und | Paranight- 340 ml - pet | Port. 383/2021 |
@@ -8666,7 +8624,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,17 | +2.0% | Und | Power Bull - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,24 | +1.4% | und | Power Bull - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,24 | +0.0% | und | Power Bull - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,34 | +1.9% | und | Power Bull - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +1.9% | und | Power Bull - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,34 | +0.0% | und | Power Bull - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,14 | -3.7% | und | Power Bull - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,34 | +3.9% | und | Power Bull- 269 ml - lata | Port. 383/2021 |
@@ -8690,7 +8648,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,45 | -8.0% | Und | Power Bull (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,41 | +11.4% | und | Power Bull (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,60 | +2.0% | und | Power Bull (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,79 | +2.0% | und | Power Bull (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,79 | +2.0% | und | Power Bull (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,79 | +0.0% | und | Power Bull (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,42 | -3.8% | und | Power Bull (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,78 | +3.8% | und | Power Bull (PET 1 L) | Port. 383/2021 |
@@ -8745,7 +8703,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 11,10 | +6.0% | Und | Power Bull Buster – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,26 | +1.4% | und | Power Bull Buster – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,49 | +2.0% | und | Power Bull Buster – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,72 | +2.0% | und | Power Bull Buster – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,72 | +2.0% | und | Power Bull Buster – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,72 | +0.0% | und | Power Bull Buster – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,27 | -3.8% | und | Power Bull Buster – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,71 | +3.9% | und | Power Bull Buster – 2000 ml | Port. 383/2021 |
@@ -8770,7 +8728,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,08 | -6.0% | Und | Power Bull Buster - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,63 | +9.0% | und | Power Bull Buster - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,63 | +0.0% | und | Power Bull Buster - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,76 | +2.0% | und | Power Bull Buster - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,76 | +2.0% | und | Power Bull Buster - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,76 | +0.0% | und | Power Bull Buster - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,43 | -4.9% | und | Power Bull Buster - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,83 | +6.2% | und | Power Bull Buster - 500 ml | Port. 383/2021 |
@@ -8806,7 +8764,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,91 | +4.0% | Und | Powerade - 500ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,97 | +1.5% | und | Powerade - 500ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,28 | +7.8% | und | Powerade - 500ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Powerade - 500ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +2.1% | und | Powerade - 500ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,37 | +0.0% | und | Powerade - 500ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,81 | +10.1% | und | Powerade - 500ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,84 | +0.6% | und | Powerade - 500ml | Port. 383/2021 |
@@ -8861,7 +8819,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,27 | -8.0% | Und | Teen Power (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,76 | +11.5% | und | Teen Power (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,86 | +2.1% | und | Teen Power (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,78 | +39.5% | und | Teen Power (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,78 | +39.5% | und | Teen Power (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,78 | +0.0% | und | Teen Power (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,52 | -3.8% | und | Teen Power (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,80 | -26.4% | und | Psiu Teen Power (PET 1 L) ⚠ | Port. 383/2021 |
@@ -8875,7 +8833,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 6,81 | -5.9% | und | Psiu Teen Power (PET 1 L) | Port. 370/2025 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 7,70 | +13.1% | und | Psiu Teen Power (PET 1 L) | Port. 402/2026 |
 
-### Psiu teen power (PET 1 L) (código 45301)
+### Psiu Teen Power (PET 1 L) (código 45301)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
@@ -8883,23 +8841,24 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,41 | -4.4% | Und | Psiu teen power (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,03 | +7.4% | und | Psiu teen power (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,21 | +2.0% | und | Psiu teen power (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,39 | +2.0% | und | Psiu teen power (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,39 | +2.0% | und | Psiu teen power (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,39 | +0.0% | und | Psiu teen power (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,03 | -3.8% | und | Psiu teen power (PET 1 L) | Port. 614/2019 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,38 | +3.9% | und | Psiu teenpower (PET 1 L) ⚠ | Port. 383/2021 |
+| 2022-09-01 (assin.) | 2022-09-01 | alterar | 10,26 | +9.4% | und | Psiu teenpower (PET 1 L) | Port. 454/2022 |
+| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 10,54 | +2.7% | und | Psiu teenpower (PET 1 L) | Port. 128/2023 |
+| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 12,02 | +14.0% | und | Psiu teenpower (PET 1 L) | Port. 477/2023 |
+| 2024-02-01 (pub.) | 2024-01-26 | alterar | 12,39 | +3.1% | und | Psiu teenpower (PET 1 L) | Port. 31/2024 |
+| 2024-08-30 (pub.) | 2024-08-23 | incluir | 12,65 | +2.1% | und | Psiu teenpower (PET 1 L) | Port. 336/2024 |
+| 2025-05-01 (efeitos) | 2025-04-28 | alterar | 14,16 | +11.9% | und | Psiu Teen Power (PET 1 L) ⚠ | Port. 151/2025 |
+| 2025-11-01 (efeitos) | 2025-10-22 | alterar | 13,32 | -5.9% | und | Psiu Teen Power (PET 1 L) | Port. 370/2025 |
 
 ### Psiu Teen Power (PET 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2025-05-01 (efeitos) | 2025-04-28 | alterar | 14,16 |  | und | Psiu Teen Power (PET 1 L) | Port. 151/2025 |
-| 2025-11-01 (efeitos) | 2025-10-22 | alterar | 13,32 | -5.9% | und | Psiu Teen Power (PET 1 L) | Port. 370/2025 |
-| 2026-05-01 (efeitos) | 2026-04-29 | alterar | 7,52 | -43.5% | und | Psiu Teen Power (PET 1 L) | Port. 170/2026 |
-
-### Psiu teen power (PET 1 L) (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 8,80 |  | und | Psiu teen power (PET 1 L) | Port. 397/2016 |
+| 2026-05-01 (efeitos) | 2026-04-29 | alterar | 7,52 | -14.5% | und | Psiu Teen Power (PET 1 L) | Port. 170/2026 |
 
 ### Psiu Teen Power (PET 2 L) (código 48041)
 
@@ -8925,7 +8884,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,57 | +2.0% | und | Teen Power – 250 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,62 | +1.4% | und | Teen Power – 250 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,62 | +0.0% | und | Teen Power – 250 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Teen Power – 250 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Teen Power – 250 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +0.0% | und | Teen Power – 250 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,04 | -17.6% | und | Teen Power – 250 ml - pet ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,16 | +3.9% | und | Teen Power – 250 ml - pet | Port. 383/2021 |
@@ -8947,7 +8906,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2025-05-01 (efeitos) | 2025-04-28 | alterar | 4,63 | +4.8% | und | Psiu Teen Power (PET 250 ml) | Port. 151/2025 |
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 4,70 | +1.5% | und | Psiu Teen Power (PET 250 ml) | Port. 370/2025 |
 
-### Psiu teen power - 500 ml (código 43500)
+### Psiu Teen Power - 500 ml (código 43500)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
@@ -8964,15 +8923,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,34 | -6.0% | Und | Psiu teen power - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,82 | +9.0% | und | Psiu teen power - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,82 | +0.0% | und | Psiu teen power - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,94 | +2.1% | und | Psiu teen power - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,94 | +2.1% | und | Psiu teen power - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,94 | +0.0% | und | Psiu teen power - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,65 | -4.9% | und | Psiu teen power - 500 ml | Port. 614/2019 |
-
-### Psiu Teen Power - 500 ml (código 43500)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2025-05-01 (efeitos) | 2025-04-28 | alterar | 7,46 |  | und | Psiu Teen Power - 500 ml | Port. 151/2025 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,00 | +6.2% | und | Psiu teenpower - 500 ml ⚠ | Port. 383/2021 |
+| 2022-09-01 (assin.) | 2022-09-01 | alterar | 6,56 | +9.3% | und | Psiu teenpower - 500 ml | Port. 454/2022 |
+| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 6,74 | +2.7% | und | Psiu teenpower - 500 ml | Port. 128/2023 |
+| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 6,88 | +2.1% | und | Psiu teenpower – 500 ml | Port. 477/2023 |
+| 2024-02-01 (pub.) | 2024-01-26 | alterar | 6,91 | +0.4% | und | Psiu teenpower – 500 ml | Port. 31/2024 |
+| 2024-08-30 (pub.) | 2024-08-23 | incluir | 7,13 | +3.2% | und | Psiu teenpower – 500 ml | Port. 336/2024 |
+| 2025-05-01 (efeitos) | 2025-04-28 | alterar | 7,46 | +4.6% | und | Psiu Teen Power - 500 ml ⚠ | Port. 151/2025 |
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 7,57 | +1.5% | und | Psiu Teen Power - 500 ml | Port. 370/2025 |
 
 ### Psiu Teen Power – 250 ml (código 49937)
@@ -8989,33 +8949,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,34 | -2.3% | und | Psiu Teen power - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,50 | +4.8% | und | Psiu Teen power - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,50 | +0.0% | und | Psiu Teen power - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,57 | +2.0% | und | Psiu Teen power - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,57 | +2.0% | und | Psiu Teen power - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,57 | +0.0% | und | Psiu Teen power - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,43 | -3.9% | und | Psiu Teen power - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,57 | +4.1% | und | Psiu Teen power - 250 ml | Port. 383/2021 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,04 | -42.9% | und | Psiu Teen Power – 250 ml | Port. 383/2021 |
-
-### Psiu teenpower (PET 1 L) (código 45301)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,38 |  | und | Psiu teenpower (PET 1 L) | Port. 383/2021 |
-| 2022-09-01 (assin.) | 2022-09-01 | alterar | 10,26 | +9.4% | und | Psiu teenpower (PET 1 L) | Port. 454/2022 |
-| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 10,54 | +2.7% | und | Psiu teenpower (PET 1 L) | Port. 128/2023 |
-| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 12,02 | +14.0% | und | Psiu teenpower (PET 1 L) | Port. 477/2023 |
-| 2024-02-01 (pub.) | 2024-01-26 | alterar | 12,39 | +3.1% | und | Psiu teenpower (PET 1 L) | Port. 31/2024 |
-| 2024-08-30 (pub.) | 2024-08-23 | incluir | 12,65 | +2.1% | und | Psiu teenpower (PET 1 L) | Port. 336/2024 |
-
-### Psiu teenpower – 500 ml (código 43500)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,00 |  | und | Psiu teenpower - 500 ml | Port. 383/2021 |
-| 2022-09-01 (assin.) | 2022-09-01 | alterar | 6,56 | +9.3% | und | Psiu teenpower - 500 ml | Port. 454/2022 |
-| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 6,74 | +2.7% | und | Psiu teenpower - 500 ml | Port. 128/2023 |
-| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 6,88 | +2.1% | und | Psiu teenpower – 500 ml | Port. 477/2023 |
-| 2024-02-01 (pub.) | 2024-01-26 | alterar | 6,91 | +0.4% | und | Psiu teenpower – 500 ml | Port. 31/2024 |
-| 2024-08-30 (pub.) | 2024-08-23 | incluir | 7,13 | +3.2% | und | Psiu teenpower – 500 ml | Port. 336/2024 |
 
 ### Push (lata 473 ml) (código 49983)
 
@@ -9099,7 +9037,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,07 | +0.0% | und | Red Bull - 250 ml - lata ⚠ | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,10 | +0.4% | und | Red Bull - 250 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,20 | +1.4% | und | Red Bull - 250 ml - lata | Port. 147/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,14 | -0.8% | und | Red Bull - 250 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,14 | -0.8% | und | Red Bull - 250 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,14 | +0.0% | und | Red Bull - 250 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,99 | -2.1% | und | Red Bull - 250 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,45 | +6.6% | und | Red Bull- 250 ml - lata | Port. 383/2021 |
@@ -9133,7 +9071,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,14 | -1.9% | Und | Red Bull - 355 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,55 | +4.5% | und | Red Bull - 355 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,85 | -7.3% | und | Red Bull - 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,03 | +2.0% | und | Red Bull - 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,03 | +2.0% | und | Red Bull - 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,03 | +0.0% | und | Red Bull - 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,36 | +3.7% | und | Red Bull - 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,06 | +7.5% | und | Red Bull - 355 ml | Port. 383/2021 |
@@ -9163,7 +9101,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 12,04 | +3.0% | Und | Red Bull - 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,21 | +1.4% | und | Red Bull - 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,05 | -1.3% | und | Red Bull - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,29 | +2.0% | und | Red Bull - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,29 | +2.0% | und | Red Bull - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,29 | +0.0% | und | Red Bull - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,17 | -9.1% | und | Red Bull - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,45 | +2.5% | und | Red Bull - 473 ml | Port. 383/2021 |
@@ -9607,7 +9545,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,82 | +1.9% | und | Red Hot - 250 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,89 | +1.5% | und | Red Hot - 250 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,76 | -2.7% | und | Red Hot - 250 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,86 | +2.1% | und | Red Hot - 250 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,86 | +2.1% | und | Red Hot - 250 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,86 | +0.0% | und | Red Hot - 250 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,68 | -3.7% | und | Red Hot - 250 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,87 | +4.1% | und | Red Hot- 250 ml - lata | Port. 383/2021 |
@@ -9631,7 +9569,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,39 | -8.0% | Und | Red Tiger (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,24 | +11.5% | und | Red Tiger (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,40 | +1.9% | und | Red Tiger (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,57 | +2.0% | und | Red Tiger (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,57 | +2.0% | und | Red Tiger (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,57 | +0.0% | und | Red Tiger (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,24 | -3.9% | und | Red Tiger (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,56 | +3.9% | und | Red Tiger (PET 1 L) | Port. 383/2021 |
@@ -9659,7 +9597,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,97 | +6.0% | Und | Red Tiger – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,13 | +1.5% | und | Red Tiger – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,35 | +2.0% | und | Red Tiger – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,58 | +2.0% | und | Red Tiger – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,58 | +2.0% | und | Red Tiger – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,58 | +0.0% | und | Red Tiger – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,14 | -3.8% | und | Red Tiger – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,57 | +3.9% | und | Red Tiger – 2000 ml | Port. 383/2021 |
@@ -9681,7 +9619,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,47 | -5.9% | Und | Red Tiger - 510 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,87 | +8.9% | und | Red Tiger - 510 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,81 | -1.2% | und | Red Tiger - 510 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,91 | +2.1% | und | Red Tiger - 510 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,91 | +2.1% | und | Red Tiger - 510 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,91 | +0.0% | und | Red Tiger - 510 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,67 | -4.9% | und | Red Tiger - 510 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,96 | +6.2% | und | Red Tiger -510 ml | Port. 383/2021 |
@@ -9836,18 +9774,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 3,35 |  | und | Santu Côco (PET 500 ml) | Port. 477/2023 |
-| 2024-02-01 (pub.) | 2024-01-26 | alterar | 3,41 | +1.8% | und | Santu Côco (PET 500 ml) | Port. 31/2024 |
-| 2024-08-30 (pub.) | 2024-08-23 | incluir | 3,64 | +6.7% | und | Santu Côco (PET 500 ml) | Port. 336/2024 |
-| 2025-05-01 (efeitos) | 2025-04-28 | alterar | 3,70 | +1.6% | und | Santu Côco (PET 500 ml) | Port. 151/2025 |
-| 2025-11-01 (efeitos) | 2025-10-22 | alterar | 3,69 | -0.3% | und | Santu Côco (PET 500 ml) | Port. 370/2025 |
-| 2026-05-01 (efeitos) | 2026-04-29 | alterar | 3,88 | +5.1% | und | Santu Côco (PET 500 ml) | Port. 170/2026 |
-| 2026-11-01 (efeitos) | 2026-10-16 | alterar | 4,00 | +3.1% | und | Santu Côco (PET 500 ml) | Port. 402/2026 |
-
-### Santu Côco - 500 ml (código 49794)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,12 |  | und | Santu Côco - 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,12 | +0.0% | und | Santu Côco – 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,25 | +6.1% | und | Santu Côco 500 ml | Port. 397/2016 |
@@ -9855,17 +9781,19 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,50 | +11.1% | Und | Santu Côco - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,54 | +1.6% | und | Santu Côco - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,74 | +7.9% | und | Santu Côco - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,79 | +1.8% | und | Santu Côco - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,79 | +1.8% | und | Santu Côco - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,79 | +0.0% | und | Santu Côco - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,94 | +5.4% | und | Santu Côco - 500 ml | Port. 614/2019 |
-
-### SantuCôco (PET 500 ml) (código 49794)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,90 |  | und | SantuCôco - 500 ml | Port. 383/2021 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,90 | -1.4% | und | SantuCôco - 500 ml ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 3,02 | +4.1% | und | SantuCôco (PET 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 3,10 | +2.6% | und | SantuCôco (PET 500 ml) | Port. 128/2023 |
+| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 3,35 | +8.1% | und | Santu Côco (PET 500 ml) ⚠ | Port. 477/2023 |
+| 2024-02-01 (pub.) | 2024-01-26 | alterar | 3,41 | +1.8% | und | Santu Côco (PET 500 ml) | Port. 31/2024 |
+| 2024-08-30 (pub.) | 2024-08-23 | incluir | 3,64 | +6.7% | und | Santu Côco (PET 500 ml) | Port. 336/2024 |
+| 2025-05-01 (efeitos) | 2025-04-28 | alterar | 3,70 | +1.6% | und | Santu Côco (PET 500 ml) | Port. 151/2025 |
+| 2025-11-01 (efeitos) | 2025-10-22 | alterar | 3,69 | -0.3% | und | Santu Côco (PET 500 ml) | Port. 370/2025 |
+| 2026-05-01 (efeitos) | 2026-04-29 | alterar | 3,88 | +5.1% | und | Santu Côco (PET 500 ml) | Port. 170/2026 |
+| 2026-11-01 (efeitos) | 2026-10-16 | alterar | 4,00 | +3.1% | und | Santu Côco (PET 500 ml) | Port. 402/2026 |
 
 ### Skinka (400 a 600 ml) (código —)
 
@@ -9899,7 +9827,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,27 | +1.9% | und | Speed Up - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,35 | +1.5% | und | Speed Up - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,35 | +0.0% | und | Speed Up - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,46 | +2.1% | und | Speed Up - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,46 | +2.1% | und | Speed Up - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,46 | +0.0% | und | Speed Up - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,25 | -3.8% | und | Speed Up - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,46 | +4.0% | und | SpeedUp- 250 ml ⚠ | Port. 383/2021 |
@@ -9933,7 +9861,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,41 | -6.0% | Und | Speed Up - 473ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,07 | +8.9% | und | Speed Up - 473ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,07 | +0.0% | und | Speed Up - 473ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,23 | +2.0% | und | Speed Up - 473ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,23 | +2.0% | und | Speed Up - 473ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,23 | +0.0% | und | Speed Up - 473ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,82 | -5.0% | und | Speed Up - 473ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,31 | +6.3% | und | SpeedUp - 473ml ⚠ | Port. 383/2021 |
@@ -9966,7 +9894,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,94 | +2.1% | und | Sports Drinks - 250 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,01 | +1.4% | und | Sports Drinks - 250 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,01 | +0.0% | und | Sports Drinks - 250 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,11 | +2.0% | und | Sports Drinks - 250 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,11 | +2.0% | und | Sports Drinks - 250 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,11 | +0.0% | und | Sports Drinks - 250 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,92 | -3.7% | und | Sports Drinks - 250 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,12 | +4.1% | und | Sports Drinks- 250 ml - lata | Port. 383/2021 |
@@ -10045,7 +9973,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,47 | -6.0% | Und | Teen Power 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,78 | +8.9% | und | Teen Power 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,78 | +0.0% | und | Teen Power 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,86 | +2.1% | und | Teen Power 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,86 | +2.1% | und | Teen Power 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,86 | +0.0% | und | Teen Power 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,67 | -4.9% | und | Teen Power 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,90 | +6.3% | und | Teen Power 500 ml | Port. 383/2021 |
@@ -10122,8 +10050,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,77 |  | und | TNT Açaí + Guaraná - 269 ml - lata | Port. 285/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Açaí + Guaraná – 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 |  | und | TNT Açaí + Guaraná - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Açaí + Guaraná – 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +1.9% | und | TNT Açaí + Guaraná - 269 ml - lata | Port. 286/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Açaí + Guaraná – 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,41 | -4.4% | und | TNT Açaí + Guaraná - 269 ml - lata | Port. 614/2019 |
@@ -10139,8 +10067,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,77 |  | und | TNT Citrus - 269 ml - lata | Port. 285/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Citrus – 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 |  | und | TNT Citrus - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Citrus – 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +1.9% | und | TNT Citrus - 269 ml - lata | Port. 286/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Citrus – 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,41 | -4.4% | und | TNT Citrus - 269 ml - lata | Port. 614/2019 |
@@ -10167,7 +10095,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,44 | -6.1% | Und | TNT Energy - 473 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,12 | +9.1% | und | TNT Energy - 473 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,12 | +0.0% | und | TNT Energy - 473 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,28 | +2.0% | und | TNT Energy - 473 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,28 | +2.0% | und | TNT Energy - 473 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,28 | +0.0% | und | TNT Energy - 473 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,31 | -11.7% | und | TNT Energy - 473 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,77 | +6.3% | und | TNT Energy - 473 ml - lata | Port. 383/2021 |
@@ -10203,7 +10131,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,98 | +2.0% | und | TNT Energy - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,07 | +1.5% | und | TNT Energy - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,66 | -6.8% | und | TNT Energy - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,77 | +1.9% | und | TNT Energy - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +1.9% | und | TNT Energy - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +0.0% | und | TNT Energy - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,41 | -6.2% | und | TNT Energy - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,57 | +3.0% | und | TNT Energy- 269 ml - lata | Port. 383/2021 |
@@ -10251,7 +10179,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,98 | +2.0% | und | TNT Maçã verde - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,07 | +1.5% | und | TNT Maçã verde - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,66 | -6.8% | und | TNT Maçã verde - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,77 | +1.9% | und | TNT Maçã verde - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +1.9% | und | TNT Maçã verde - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +0.0% | und | TNT Maçã verde - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,41 | -6.2% | und | TNT Maçã verde - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,57 | +3.0% | und | TNT Maçã verde- 269 ml - lata | Port. 383/2021 |
@@ -10289,8 +10217,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,77 |  | und | TNT Pêssego - 269 ml - lata | Port. 285/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Pêssego – 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 |  | und | TNT Pêssego - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Pêssego – 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +1.9% | und | TNT Pêssego - 269 ml - lata | Port. 286/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,66 | -1.9% | und | TNT Pêssego – 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,41 | -4.4% | und | TNT Pêssego - 269 ml - lata | Port. 614/2019 |
@@ -10356,7 +10284,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,98 | +2.0% | und | TNT Tangerina - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,07 | +1.5% | und | TNT Tangerina - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,07 | +0.0% | und | TNT Tangerina - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,19 | +2.0% | und | TNT Tangerina - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,19 | +2.0% | und | TNT Tangerina - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,19 | +0.0% | und | TNT Tangerina - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,41 | -12.6% | und | TNT Tangerina - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,57 | +3.0% | und | TNT Tangerina- 269 ml - lata | Port. 383/2021 |
@@ -10418,7 +10346,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,98 | +2.0% | und | TNT Zero Açucar - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,07 | +1.5% | und | TNT Zero Açucar - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,07 | +0.0% | und | TNT Zero Açucar - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,19 | +2.0% | und | TNT Zero Açucar - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,19 | +2.0% | und | TNT Zero Açucar - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,19 | +0.0% | und | TNT Zero Açucar - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,41 | -12.6% | und | TNT Zero Açucar - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,57 | +3.0% | und | TNT Zero Açucar- 269 ml - lata | Port. 383/2021 |
@@ -10470,7 +10398,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,60 |  | und | Tonino Lamborghini Energy Drink – 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 |  | und | Tonino Lamborghini Energy Drink – 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +0.0% | und | Tonino Lamborghini Energy Drink – 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,39 | -3.7% | und | Tonino Lamborghini Energy Drink – 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,60 | +3.9% | und | Tonino Lamborghini Energy Drink – 269 ml - lata | Port. 383/2021 |
@@ -10638,7 +10566,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,85 | +2.1% | und | Tsunami - 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,90 | +1.3% | und | Tsunami - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +0.0% | und | Tsunami - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Tsunami - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Tsunami - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | Tsunami - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,83 | -3.8% | und | Tsunami - 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,98 | +3.9% | und | Tsunami- 269 ml | Port. 383/2021 |
@@ -10661,7 +10589,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,26 | -8.0% | Und | Tsunami (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,08 | +11.3% | und | Tsunami (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,24 | +2.0% | und | Tsunami (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,40 | +1.9% | und | Tsunami (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,40 | +1.9% | und | Tsunami (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,40 | +0.0% | und | Tsunami (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,08 | -3.8% | und | Tsunami (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,39 | +3.8% | und | Tsunami (PET 1 L) | Port. 383/2021 |
@@ -10691,7 +10619,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,97 | +6.0% | Und | Tsunami – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,13 | +1.5% | und | Tsunami – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,35 | +2.0% | und | Tsunami – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,58 | +2.0% | und | Tsunami – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,58 | +2.0% | und | Tsunami – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,58 | +0.0% | und | Tsunami – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,14 | -3.8% | und | Tsunami – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,57 | +3.9% | und | Tsunami – 2000 ml | Port. 383/2021 |
@@ -10714,7 +10642,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,72 | +1.9% | und | Vibe Energy - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,77 | +1.3% | und | Vibe Energy - 269 ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,77 | +0.0% | und | Vibe Energy - 269 ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Vibe Energy - 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Vibe Energy - 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +0.0% | und | Vibe Energy - 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,70 | -3.9% | und | Vibe Energy - 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,85 | +4.1% | und | Vibe Energy- 269 ml - lata | Port. 383/2021 |
@@ -10737,7 +10665,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,01 | +6.0% | und | Vibe Energy - 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,14 | +1.4% | und | Vibe Energy - 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,32 | +2.0% | und | Vibe Energy - 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,51 | +2.0% | und | Vibe Energy - 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,51 | +2.0% | und | Vibe Energy - 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,51 | +0.0% | und | Vibe Energy - 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,15 | -3.8% | und | Vibe Energy - 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,50 | +3.8% | und | Vibe Energy- 2000 ml | Port. 383/2021 |
@@ -10756,7 +10684,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-02-11 (pub.) | 2019-02-01 | incluir | 4,00 |  |  | Energético Vrauu Energy Drink - Lata 269 ml | Port. 53/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,08 | +2.0% | und | Vrauu Energy Drink – 269 ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,08 | +2.0% | und | Vrauu Energy Drink – 269 ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,08 | +0.0% | und | Vrauu Energy Drink – 269 ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,92 | -3.9% | und | Vrauu Energy Drink – 269 ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,08 | +4.1% | und | Vrauu Energy Drink – 269 ml - lata | Port. 383/2021 |
@@ -10775,7 +10703,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-02-11 (pub.) | 2019-02-01 | incluir | 7,00 |  |  | Energético Vrauu Energy Drink -Pet 2.000 ml | Port. 53/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,20 | +2.9% | und | Vrauu Energy Drink – 2000 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,20 | +2.9% | und | Vrauu Energy Drink – 2000 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,20 | +0.0% | und | Vrauu Energy Drink – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,93 | -3.8% | und | Vrauu Energy Drink – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,20 | +3.9% | und | Vrauu Energy Drink – 2000 ml | Port. 383/2021 |
@@ -10794,7 +10722,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-02-11 (pub.) | 2019-02-01 | incluir | 5,00 |  |  | Energético Vrauu Energy Drink – Pet 1.000 ml | Port. 53/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,10 | +2.0% | und | Vrauu Energy Drink (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,10 | +2.0% | und | Vrauu Energy Drink (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,10 | +0.0% | und | Vrauu Energy Drink (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,91 | -3.7% | und | Vrauu Energy Drink (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,10 | +3.9% | und | Vruau Energy Drink (PET 1 L) ⚠ | Port. 383/2021 |
@@ -10854,7 +10782,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,41 | +12.0% | und | Vulcano - 250ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,04 | -6.8% | und | Vulcano - 250ml - lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,04 | +0.0% | und | Vulcano - 250ml - lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,14 | +2.0% | und | Vulcano - 250ml - lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,14 | +2.0% | und | Vulcano - 250ml - lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,14 | +0.0% | und | Vulcano - 250ml - lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,21 | +1.4% | und | Vulcano - 250ml - lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,56 | +6.7% | und | Vulcano- 250ml - lata | Port. 383/2021 |
@@ -10881,7 +10809,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,66 | -5.9% | Und | Vulcano – 473 ml – Lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,52 | -2.1% | und | Vulcano – 473 ml – Lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,52 | +0.0% | und | Vulcano – 473 ml – Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,65 | +2.0% | und | Vulcano – 473 ml – Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,65 | +2.0% | und | Vulcano – 473 ml – Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,65 | +0.0% | und | Vulcano – 473 ml – Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,32 | -5.0% | und | Vulcano – 473 ml – Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,70 | +6.0% | und | Vulcano – 473 ml – Lata | Port. 383/2021 |
@@ -10904,7 +10832,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +3.8% | Und | Vulcano (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,02 | -7.4% | und | Vulcano (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,22 | +2.0% | und | Vulcano (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,42 | +2.0% | und | Vulcano (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,42 | +2.0% | und | Vulcano (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,42 | +0.0% | und | Vulcano (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,02 | -3.8% | und | Vulcano (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,41 | +3.9% | und | Vulcano (PET 1 L) | Port. 383/2021 |
@@ -10933,7 +10861,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,01 | -6.3% | Und | Vulcano - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,51 | -7.1% | und | Vulcano - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,51 | +0.0% | und | Vulcano - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,64 | +2.0% | und | Vulcano - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,64 | +2.0% | und | Vulcano - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,64 | +0.0% | und | Vulcano - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,31 | -5.0% | und | Vulcano - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,70 | +6.2% | und | Vulcano - 500 ml | Port. 383/2021 |
@@ -10960,7 +10888,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,14 | -5.9% | Und | Vulcano – 350 ml – Lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,14 | +0.0% | und | Vulcano – 350 ml – Lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,14 | +0.0% | und | Vulcano – 350 ml – Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,22 | +1.9% | und | Vulcano – 350 ml – Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,22 | +1.9% | und | Vulcano – 350 ml – Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,22 | +0.0% | und | Vulcano – 350 ml – Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,01 | -5.0% | und | Vulcano – 350 ml – Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,26 | +6.2% | und | Vulcano – 350 ml – Lata | Port. 383/2021 |
@@ -10987,7 +10915,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,62 | -6.0% | Und | Vulcano – 710 ml - Lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,63 | +0.2% | und | Vulcano – 710 ml - Lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,63 | +0.0% | und | Vulcano – 710 ml - Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,76 | +2.0% | und | Vulcano – 710 ml - Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,76 | +2.0% | und | Vulcano – 710 ml - Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,76 | +0.0% | und | Vulcano – 710 ml - Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,43 | -4.9% | und | Vulcano – 710 ml - Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,83 | +6.2% | und | Vulcano – 710 ml - Lata | Port. 383/2021 |
@@ -11069,7 +10997,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,45 | +2.1% | und | Vulcano Energy drink - 250 ml - | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,21 | -7.0% | und | Vulcano Energy drink - 250 ml - | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,21 | +0.0% | und | Vulcano Energy drink - 250 ml - | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Vulcano Energy drink - 250 ml - | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Vulcano Energy drink - 250 ml - | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +0.0% | und | Vulcano Energy drink - 250 ml - | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,15 | -3.7% | und | Vulcano Energy drink - 250 ml - | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,28 | +4.1% | und | Vulcano Energy drink- 250 ml - | Port. 383/2021 |
@@ -11455,7 +11383,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 17,77 | +3.2% | Und | Vulcano – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 16,19 | -8.9% | und | Vulcano – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 16,51 | +2.0% | und | Vulcano – 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 16,84 | +2.0% | und | Vulcano – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,84 | +2.0% | und | Vulcano – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,84 | +0.0% | und | Vulcano – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 16,20 | -3.8% | und | Vulcano – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 16,83 | +3.9% | und | Vulcano – 2000 ml | Port. 383/2021 |
@@ -11481,7 +11409,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,07 | -6.0% | Und | Vulcano – 458 ml – Lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,62 | +9.1% | und | Vulcano – 458 ml – Lata | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,62 | +0.0% | und | Vulcano – 458 ml – Lata | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,75 | +2.0% | und | Vulcano – 458 ml – Lata | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,75 | +2.0% | und | Vulcano – 458 ml – Lata | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,75 | +0.0% | und | Vulcano – 458 ml – Lata | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,42 | -4.9% | und | Vulcano – 458 ml – Lata | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,82 | +6.2% | und | Vulcano – 458 ml – Lata | Port. 383/2021 |
@@ -11559,7 +11487,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 11,45 | +6.0% | und | X – 7 (1250 a 3 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,61 | +1.4% | und | X – 7 (1250 a 3 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,84 | +2.0% | und | X – 7 (1250 a 3 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,08 | +2.0% | und | X – 7 (1250 a 3 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,08 | +2.0% | und | X – 7 (1250 a 3 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,08 | +0.0% | und | X – 7 (1250 a 3 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,62 | -3.8% | und | X – 7 (1250 a 3 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,07 | +3.9% | und | X – 7 (3 L) | Port. 383/2021 |
@@ -11582,7 +11510,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,53 | -8.1% | Und | X – 7 (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,40 | +11.6% | und | X – 7 (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,57 | +2.0% | und | X – 7 (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,74 | +2.0% | und | X – 7 (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,74 | +2.0% | und | X – 7 (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,74 | +0.0% | und | X – 7 (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,41 | -3.8% | und | X – 7 (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,74 | +3.9% | und | X – 7 (PET 1 L) | Port. 383/2021 |
@@ -11611,7 +11539,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,35 | +2.1% | und | X-treme - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,41 | +1.4% | und | X-treme - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,41 | +0.0% | und | X-treme - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,50 | +2.0% | und | X-treme - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +2.0% | und | X-treme - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +0.0% | und | X-treme - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,33 | -3.8% | und | X-treme - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,50 | +3.9% | und | X-treme- 250 ml | Port. 383/2021 |
@@ -11704,7 +11632,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 63/2019: [Portaria nº 63/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8ad36997-9874-4ab8-852b-38073cb1ef38), vigência 2019-02-18 (pub.)
 - Port. 170/2019: [Portaria nº 170/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=47785fe5-19b5-453a-872e-b1f2143467c2), vigência 2019-04-02 (pub.)
 - Port. 244/2019: [Portaria nº 244/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=523a048f-3464-4523-bb84-03a697501ac7), vigência 2019-04-26 (pub.)
-- Port. 285/2019: [Portaria nº 285/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19942b52-3256-43bb-8391-cde43c3991d8), vigência 2019-05-06 (assin.)
+- Port. 285/2019: [Portaria nº 285/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19942b52-3256-43bb-8391-cde43c3991d8), vigência 2019-05-09 (efeitos)
 - Port. 286/2019: [Portaria nº 286/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbee083c-ca4e-46c2-8d10-104483cf566a), vigência 2019-05-09 (efeitos)
 - Port. 300/2019: [Portaria nº 300/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a9594854-a8ce-49a1-9822-6c717e22f474), vigência 2019-05-30 (pub.)
 - Port. 305/2019: [Portaria nº 305/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7cfdfd3a-92ff-4e96-a022-da749cbc4aec), vigência 2019-05-30 (pub.)

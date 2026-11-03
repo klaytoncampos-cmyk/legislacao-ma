@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: sucos, néctares, chás, bebidas mistas e outras"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-02"
+gerado_em: "2026-11-03"
 portarias: 47
 registros: 1130
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2005.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-03**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (38)
@@ -212,7 +212,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,63 |  | und | Água Saborizada Aquarias com gás – 450 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,63 |  | und | Água Saborizada Aquarias com gás – 450 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,63 | +0.0% | und | Água Saborizada Aquarias com gás – 450 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,72 | +5.5% | und | Água Saborizada Aquarias com gás – 450 ml | Port. 614/2019 |
 
@@ -460,7 +460,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,12 | +0.9% | und | Frutico Frutas Citricas – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,14 | +1.8% | und | Frutico Frutas Citricas – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,16 | +1.8% | und | Frutico Frutas Citricas – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,18 | +1.7% | und | Frutico Frutas Citricas – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,18 | +1.7% | und | Frutico Frutas Citricas – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,18 | +0.0% | und | Frutico Frutas Citricas – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,24 | +5.1% | und | Frutico Frutas Citricas – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,29 | +4.0% | und | Frutico Frutas Citricas – 330 ml | Port. 383/2021 |
@@ -565,7 +565,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,10 | +1.0% | und | Indaia Citrus Acerola - 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,13 | +1.4% | und | Indaia Citrus Acerola - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,17 | +1.9% | und | Indaia Citrus Acerola - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Indaia Citrus Acerola - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Indaia Citrus Acerola - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +0.0% | und | Indaia Citrus Acerola - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,33 | +5.4% | und | Indaia Citrus Acerola - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,42 | +3.9% | und | Indaia Citrus Acerola -330 ml | Port. 383/2021 |
@@ -588,7 +588,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,08 | +0.9% | und | Indaiá Citrus Acerola Tetra Pak - 200 (200 a 399 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,10 | +1.9% | und | Indaiá Citrus Acerola Tetra Pak - 200 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,12 | +1.8% | und | Indaiá Citrus Acerola Tetra Pak - 200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,14 | +1.8% | und | Indaiá Citrus Acerola Tetra Pak - 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +1.8% | und | Indaiá Citrus Acerola Tetra Pak - 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +0.0% | und | Indaiá Citrus Acerola Tetra Pak - 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,20 | +5.3% | und | Indaiá Citrus Acerola Tetra Pak - 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,25 | +4.2% | und | Indaiá Citrus Acerola Tetra Pak - 200 ml | Port. 383/2021 |
@@ -605,7 +605,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,47 | -58.9% | ml | Indaiá Citrus Acerola Tetra Pak-1000 (1 a 2 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,67 | +149.7% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,74 | +1.9% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +0.0% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,02 | +5.5% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +4.0% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml | Port. 383/2021 |
@@ -625,7 +625,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,46 | -59.0% | und | Indaiá Citrus Acerola - 1000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,65 | +150.0% | und | Indaiá Citrus Acerola - 1000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,72 | +1.9% | und | Indaiá Citrus Acerola - 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Acerola - 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Acerola - 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +0.0% | und | Indaiá Citrus Acerola - 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,00 | +5.5% | und | Indaiá Citrus Acerola - 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,15 | +3.8% | und | Indaiá Citrus Acerola- 1000 ml | Port. 383/2021 |
@@ -645,7 +645,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,49 | -59.0% | und | Indaiá Citrus Acerola - 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,72 | +149.7% | und | Indaiá Citrus Acerola - 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Acerola - 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Indaiá Citrus Acerola - 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Indaiá Citrus Acerola - 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +0.0% | und | Indaiá Citrus Acerola - 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,08 | +5.4% | und | Indaiá Citrus Acerola - 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,24 | +3.9% | und | Indaiá Citrus Acerola- 2000 ml | Port. 383/2021 |
@@ -665,7 +665,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,10 | +1.0% | und | Indaia Citrus Laranja - 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,13 | +1.4% | und | Indaia Citrus Laranja - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,17 | +1.9% | und | Indaia Citrus Laranja - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Indaia Citrus Laranja - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Indaia Citrus Laranja - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +0.0% | und | Indaia Citrus Laranja - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,33 | +5.4% | und | Indaia Citrus Laranja - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,42 | +3.9% | und | Indaia Citrus Laranja -330 ml | Port. 383/2021 |
@@ -688,7 +688,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,08 | +0.9% | ml | Indaiá Citrus Laranja Tetra Pak –200 (200 a 399 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,10 | +1.9% | und | Indaiá Citrus Laranja Tetra Pak –200 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,12 | +1.8% | und | Indaiá Citrus Laranja Tetra Pak –200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,14 | +1.8% | und | Indaiá Citrus Laranja Tetra Pak –200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +1.8% | und | Indaiá Citrus Laranja Tetra Pak –200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +0.0% | und | Indaiá Citrus Laranja Tetra Pak –200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,20 | +5.3% | und | Indaiá Citrus Laranja Tetra Pak –200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,25 | +4.2% | und | Indaiá Citrus Laranja Tetra Pak –200 ml | Port. 383/2021 |
@@ -705,7 +705,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,47 | -58.9% | ml | Indaiá Citrus Laranja Tetra Pak- 1000 (1 a 2 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,67 | +149.7% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,74 | +1.9% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +0.0% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,02 | +5.5% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +4.0% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml | Port. 383/2021 |
@@ -730,7 +730,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,46 | -59.0% | und | Indaiá Citrus Laranja – 1000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,65 | +150.0% | und | Indaiá Citrus Laranja – 1000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,72 | +1.9% | und | Indaiá Citrus Laranja – 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Laranja – 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Laranja – 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +0.0% | und | Indaiá Citrus Laranja – 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,00 | +5.5% | und | Indaiá Citrus Laranja – 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,15 | +3.8% | und | Indaiá Citrus Laranja – 1000 ml | Port. 383/2021 |
@@ -750,7 +750,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,49 | -59.0% | und | Indaiá Citrus Laranja - 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,72 | +149.7% | und | Indaiá Citrus Laranja - 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Laranja - 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Indaiá Citrus Laranja - 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Indaiá Citrus Laranja - 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +0.0% | und | Indaiá Citrus Laranja - 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,08 | +5.4% | und | Indaiá Citrus Laranja - 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,24 | +3.9% | und | Indaiá Citrus Laranja- 2000 ml | Port. 383/2021 |
@@ -770,7 +770,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,10 | +1.0% | und | Indaia Citrus Manga - 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,13 | +1.4% | und | Indaia Citrus Manga - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,17 | +1.9% | und | Indaia Citrus Manga - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Indaia Citrus Manga - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Indaia Citrus Manga - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +0.0% | und | Indaia Citrus Manga - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,33 | +5.4% | und | Indaia Citrus Manga - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,42 | +3.9% | und | Indaia Citrus Manga -330 ml | Port. 383/2021 |
@@ -795,7 +795,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,47 | -58.9% | ml | Indaiá Citrus Manga Tetra Pak – 1000 (1 a 2 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,67 | +149.7% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,74 | +1.9% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +0.0% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,02 | +5.5% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +4.0% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml | Port. 383/2021 |
@@ -817,7 +817,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,08 | +0.9% | ml | Indaiá Citrus Manga Tetra Pak – 200 (200 a 399 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,10 | +1.9% | und | Indaiá Citrus Manga Tetra Pak – 200 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,12 | +1.8% | und | Indaiá Citrus Manga Tetra Pak – 200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,14 | +1.8% | und | Indaiá Citrus Manga Tetra Pak – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +1.8% | und | Indaiá Citrus Manga Tetra Pak – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +0.0% | und | Indaiá Citrus Manga Tetra Pak – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,20 | +5.3% | und | Indaiá Citrus Manga Tetra Pak – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,25 | +4.2% | und | Indaiá Citrus Manga Tetra Pak – 200 ml | Port. 383/2021 |
@@ -837,7 +837,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,46 | -59.0% | und | Indaiá Citrus Manga – 1000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,65 | +150.0% | und | Indaiá Citrus Manga – 1000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,72 | +1.9% | und | Indaiá Citrus Manga – 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Manga – 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Manga – 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +0.0% | und | Indaiá Citrus Manga – 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,00 | +5.5% | und | Indaiá Citrus Manga – 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,15 | +3.8% | und | Indaiá Citrus Manga – 1000 ml | Port. 383/2021 |
@@ -857,7 +857,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,49 | -59.0% | und | Indaiá Citrus Manga - 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,72 | +149.7% | und | Indaiá Citrus Manga - 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Manga - 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Indaiá Citrus Manga - 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Indaiá Citrus Manga - 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +0.0% | und | Indaiá Citrus Manga - 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,08 | +5.4% | und | Indaiá Citrus Manga - 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,24 | +3.9% | und | Indaiá Citrus Manga- 2000 ml | Port. 383/2021 |
@@ -877,7 +877,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,10 | +1.0% | und | Indaia Citrus Uva - 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,13 | +1.4% | und | Indaia Citrus Uva - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,17 | +1.9% | und | Indaia Citrus Uva - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Indaia Citrus Uva - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Indaia Citrus Uva - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +0.0% | und | Indaia Citrus Uva - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,33 | +5.4% | und | Indaia Citrus Uva - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,42 | +3.9% | und | Indaia Citrus Uva -330 ml | Port. 383/2021 |
@@ -907,7 +907,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,47 | -58.9% | und | Indaiá Citrus Uva Tetra Pak – 1000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,67 | +149.7% | und | Indaiá Citrus Uva Tetra Pak – 1000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,74 | +1.9% | und | Indaiá Citrus Uva Tetra Pak – 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Indaiá Citrus Uva Tetra Pak – 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +1.9% | und | Indaiá Citrus Uva Tetra Pak – 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,81 | +0.0% | und | Indaiá Citrus Uva Tetra Pak – 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,02 | +5.5% | und | Indaiá Citrus Uva Tetra Pak – 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +4.0% | und | Indaiá Citrus Uva Tetra Pak – 1000 ml | Port. 383/2021 |
@@ -927,7 +927,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,08 | +0.9% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,10 | +1.9% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,12 | +1.8% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,14 | +1.8% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +1.8% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +0.0% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,20 | +5.3% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,25 | +4.2% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 383/2021 |
@@ -947,7 +947,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,46 | -59.0% | und | Indaiá Citrus Uva – 1000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,65 | +150.0% | und | Indaiá Citrus Uva – 1000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,72 | +1.9% | und | Indaiá Citrus Uva – 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Uva – 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Uva – 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +0.0% | und | Indaiá Citrus Uva – 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,00 | +5.5% | und | Indaiá Citrus Uva – 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,15 | +3.8% | und | Indaiá Citrus Uva – 1000 ml | Port. 383/2021 |
@@ -967,7 +967,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,49 | -59.0% | und | Indaiá Citrus Uva - 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,72 | +149.7% | und | Indaiá Citrus Uva - 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,79 | +1.9% | und | Indaiá Citrus Uva - 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Indaiá Citrus Uva - 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Indaiá Citrus Uva - 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +0.0% | und | Indaiá Citrus Uva - 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,08 | +5.4% | und | Indaiá Citrus Uva - 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,24 | +3.9% | und | Indaiá Citrus Uva- 2000 ml | Port. 383/2021 |
@@ -990,7 +990,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,48 | +10.2% | und | Laranjinha - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,52 | +1.6% | und | Laranjinha - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,57 | +2.0% | und | Laranjinha - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,62 | +1.9% | und | Laranjinha - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,62 | +1.9% | und | Laranjinha - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,62 | +0.0% | und | Laranjinha - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,76 | +5.3% | und | Laranjinha - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,87 | +4.0% | und | Laranjinha- 500 ml | Port. 383/2021 |
@@ -1029,7 +1029,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,14 | -59.1% | und | Laranjinha fruit – 1500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,36 | +150.5% | und | Laranjinha fruit – 1500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,47 | +2.1% | und | Laranjinha fruit – 1500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,58 | +2.0% | und | Laranjinha fruit – 1500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,58 | +2.0% | und | Laranjinha fruit – 1500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,58 | +0.0% | und | Laranjinha fruit – 1500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,88 | +5.4% | und | Laranjinha fruit – 1500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,11 | +3.9% | und | Laranjinha fruit – 1500 ml | Port. 383/2021 |
@@ -1051,7 +1051,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,09 | +1.0% | und | Laranjinha fruit – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,12 | +1.4% | und | Laranjinha fruit – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,16 | +1.9% | und | Laranjinha fruit – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,20 | +1.9% | und | Laranjinha fruit – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +1.9% | und | Laranjinha fruit – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +0.0% | und | Laranjinha fruit – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,32 | +5.5% | und | Laranjinha fruit – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,41 | +3.9% | und | Laranjinha fruit – 330 ml | Port. 383/2021 |
@@ -1179,7 +1179,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,37 | -59.1% | und | Outras Marcas - 1000 a 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,93 | +150.2% | und | Outras Marcas - 1000 a 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,05 | +2.0% | und | Outras Marcas - 1000 a 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,17 | +2.0% | und | Outras Marcas - 1000 a 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,17 | +2.0% | und | Outras Marcas - 1000 a 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,17 | +0.0% | und | Outras Marcas - 1000 a 2000 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 7,50 | +21.6% | und | Outras Marcas - 1000 a 2000 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,51 | -13.2% | und | Outras Marcas - 1000 a 2000 ml | Port. 614/2019 |
@@ -1201,7 +1201,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,50 | +0.8% | und | Outras Marcas – até 399 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,54 | +1.6% | und | Outras Marcas – até 399 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,59 | +2.0% | und | Outras Marcas – até 399 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,64 | +1.9% | und | Outras Marcas – até 399 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,64 | +1.9% | und | Outras Marcas – até 399 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,64 | +0.0% | und | Outras Marcas – até 399 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 2,70 | +2.3% | und | Outras Marcas – até 399 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,78 | +3.0% | und | Outras Marcas – até 399 ml | Port. 614/2019 |
@@ -1223,7 +1223,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,96 | +10.0% | und | Outras Marcas – de 400 a 600 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,03 | +1.4% | und | Outras Marcas – de 400 a 600 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,13 | +2.0% | und | Outras Marcas – de 400 a 600 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,23 | +1.9% | und | Outras Marcas – de 400 a 600 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,23 | +1.9% | und | Outras Marcas – de 400 a 600 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,23 | +0.0% | und | Outras Marcas – de 400 a 600 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 5,50 | +5.2% | und | Outras Marcas – de 400 a 600 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,51 | +0.2% | und | Outras Marcas – de 400 a 600 ml | Port. 614/2019 |
@@ -1237,7 +1237,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,99 | -59.0% | und | Psiu Frutas Citricas - 1500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,97 | +149.7% | und | Psiu Frutas Citricas - 1500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,07 | +2.0% | und | Psiu Frutas Citricas - 1500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,17 | +2.0% | und | Psiu Frutas Citricas - 1500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,17 | +2.0% | und | Psiu Frutas Citricas - 1500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,17 | +0.0% | und | Psiu Frutas Citricas - 1500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,55 | -12.0% | und | Psiu Frutas Citricas - 1500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,73 | +4.0% | und | Psiu Frutas Citricas- 1500 ml | Port. 383/2021 |
@@ -1266,7 +1266,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,65 | +3.1% | und | Psiu Frutas Citricas – 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,67 | +1.2% | und | Psiu Frutas Citricas – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,70 | +1.8% | und | Psiu Frutas Citricas – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Psiu Frutas Citricas – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Psiu Frutas Citricas – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +0.0% | und | Psiu Frutas Citricas – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,82 | +5.2% | und | Psiu Frutas Citricas – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,89 | +3.8% | und | Psiu Frutas Citricas – 250 ml | Port. 383/2021 |
@@ -1296,7 +1296,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,96 | +5.4% | und | Psiu Frutas Cítricas – 450 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,99 | +1.5% | und | Psiu Frutas Cítricas – 450 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,03 | +2.0% | und | Psiu Frutas Cítricas – 450 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,07 | +2.0% | und | Psiu Frutas Cítricas – 450 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,07 | +2.0% | und | Psiu Frutas Cítricas – 450 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,07 | +0.0% | und | Psiu Frutas Cítricas – 450 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | +5.3% | und | Psiu Frutas Cítricas – 450 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,26 | +3.7% | und | Psiu Frutas Cítricas – 450 ml | Port. 383/2021 |
@@ -1318,7 +1318,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,99 | -59.0% | und | Psiu Frutas Uva - 1500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,97 | +149.7% | und | Psiu Frutas Uva - 1500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,07 | +2.0% | und | Psiu Frutas Uva - 1500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,17 | +2.0% | und | Psiu Frutas Uva - 1500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,17 | +2.0% | und | Psiu Frutas Uva - 1500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,17 | +0.0% | und | Psiu Frutas Uva - 1500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,55 | -12.0% | und | Psiu Frutas Uva - 1500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,73 | +4.0% | und | Psiu Frutas Uva- 1500 ml | Port. 383/2021 |
@@ -1344,7 +1344,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,62 | +1.2% | und | Psiu Frutas Uva – 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,64 | +1.2% | und | Psiu Frutas Uva – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,67 | +1.8% | und | Psiu Frutas Uva – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,70 | +1.8% | und | Psiu Frutas Uva – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,70 | +1.8% | und | Psiu Frutas Uva – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,70 | +0.0% | und | Psiu Frutas Uva – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,79 | +5.3% | und | Psiu Frutas Uva – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,86 | +3.9% | und | Psiu Frutas Uva – 250 ml | Port. 383/2021 |
@@ -1370,7 +1370,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,04 | +10.3% | und | Psiu Frutas Uva – 450 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,07 | +1.5% | und | Psiu Frutas Uva – 450 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,11 | +1.9% | und | Psiu Frutas Uva – 450 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,15 | +1.9% | und | Psiu Frutas Uva – 450 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,15 | +1.9% | und | Psiu Frutas Uva – 450 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,15 | +0.0% | und | Psiu Frutas Uva – 450 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,27 | +5.6% | und | Psiu Frutas Uva – 450 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,36 | +4.0% | und | Psiu Frutas Uva – 450 ml | Port. 383/2021 |
@@ -1390,7 +1390,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,62 | +1.2% | und | Psiu Frutas Vermelhas – 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,64 | +1.2% | und | Psiu Frutas Vermelhas – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,67 | +1.8% | und | Psiu Frutas Vermelhas – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,70 | +1.8% | und | Psiu Frutas Vermelhas – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,70 | +1.8% | und | Psiu Frutas Vermelhas – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,70 | +0.0% | und | Psiu Frutas Vermelhas – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,79 | +5.3% | und | Psiu Frutas Vermelhas – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,86 | +3.9% | und | Psiu Frutas Vermelhas – 250 ml | Port. 383/2021 |
@@ -1416,7 +1416,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,04 | +10.3% | und | Psiu Frutas Vermelhas – 450 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,07 | +1.5% | und | Psiu Frutas Vermelhas – 450 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,11 | +1.9% | und | Psiu Frutas Vermelhas – 450 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,15 | +1.9% | und | Psiu Frutas Vermelhas – 450 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,15 | +1.9% | und | Psiu Frutas Vermelhas – 450 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,15 | +0.0% | und | Psiu Frutas Vermelhas – 450 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,27 | +5.6% | und | Psiu Frutas Vermelhas – 450 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,36 | +4.0% | und | Psiu Frutas Vermelhas – 450 ml | Port. 383/2021 |
@@ -1452,7 +1452,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,21 | +0.8% | und | Psiu Guaraná - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,23 | +1.7% | und | Psiu Guaraná - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,25 | +1.6% | und | Psiu Guaraná - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,28 | +2.4% | und | Psiu Guaraná - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,28 | +2.4% | und | Psiu Guaraná - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,28 | +0.0% | und | Psiu Guaraná - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,35 | +5.5% | und | Psiu Guaraná - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,40 | +3.7% | und | Psiu Guaraná- 250 ml | Port. 383/2021 |
@@ -1492,7 +1492,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,21 | +0.8% | und | Psiu Laraja - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,23 | +1.7% | und | Psiu Laraja - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,25 | +1.6% | und | Psiu Laraja - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,28 | +2.4% | und | Psiu Laraja - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,28 | +2.4% | und | Psiu Laraja - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,28 | +0.0% | und | Psiu Laraja - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,35 | +5.5% | und | Psiu Laraja - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,40 | +3.7% | und | Psiu Laraja- 250 ml | Port. 383/2021 |
@@ -1509,7 +1509,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,21 | +0.8% | und | Psiu Uva - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,23 | +1.7% | und | Psiu Uva - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,25 | +1.6% | und | Psiu Uva - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,28 | +2.4% | und | Psiu Uva - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,28 | +2.4% | und | Psiu Uva - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,28 | +0.0% | und | Psiu Uva - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,35 | +5.5% | und | Psiu Uva - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,40 | +3.7% | und | Psiu Uva- 250 ml | Port. 383/2021 |
@@ -1635,7 +1635,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,60 | +10.2% | und | Sukita Laranja – 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,64 | +1.5% | und | Sukita Laranja – 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,69 | +1.9% | und | Sukita Laranja – 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,74 | +1.9% | und | Sukita Laranja – 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,74 | +1.9% | und | Sukita Laranja – 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,74 | +0.0% | und | Sukita Laranja – 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,89 | +5.5% | und | Sukita Laranja – 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,00 | +3.8% | und | Sukita Laranja – 500 ml | Port. 383/2021 |
@@ -1700,7 +1700,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,34 | -29.3% | und | Tampico Laranja – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,29 | +44.9% | und | Tampico Laranja – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,40 | +1.7% | und | Tampico Citrus – 2000 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,53 | +2.0% | und | Tampico Citrus – 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,53 | +2.0% | und | Tampico Citrus – 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,53 | +0.0% | und | Tampico Citrus – 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,88 | +5.4% | und | Tampico Citrus – 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,15 | +3.9% | und | Tampico Citrus– 2000 ml | Port. 383/2021 |
@@ -1722,7 +1722,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,84 | -1.1% | und | Tampico Laranja – 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,91 | +3.8% | und | Tampico Laranja – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,95 | +2.1% | und | Tampico Citrus – 250 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,99 | +2.1% | und | Tampico Citrus – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,99 | +2.1% | und | Tampico Citrus – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,99 | +0.0% | und | Tampico Citrus – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,10 | +5.5% | und | Tampico Citrus – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,18 | +3.8% | und | Tampico Citrus – 250 ml | Port. 383/2021 |
@@ -1744,7 +1744,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,44 | +4.3% | und | Tampico Laranja – 450 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,47 | +1.2% | und | Tampico Laranja – 450 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,52 | +2.0% | und | Tampico Citrus – 450 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,57 | +2.0% | und | Tampico Citrus – 450 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,57 | +2.0% | und | Tampico Citrus – 450 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,57 | +0.0% | und | Tampico Citrus – 450 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,71 | +5.4% | und | Tampico Citrus – 450 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,81 | +3.7% | und | Tampico Citrus – 450 ml | Port. 383/2021 |
@@ -1763,7 +1763,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,65 |  | und | Tampico Citrus – 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Tampico Citrus – 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Tampico Citrus – 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +0.0% | und | Tampico Citrus – 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,85 | +5.6% | und | Tampico Citrus – 1000 ml | Port. 614/2019 |
 
@@ -1771,7 +1771,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,93 |  | und | Tampico Iced Tea – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,93 |  | und | Tampico Iced Tea – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,93 | +0.0% | und | Tampico Iced Tea – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | +5.2% | und | Tampico Iced Tea – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,26 | +11.3% | und | Tampico Iced Tea – 300 ml | Port. 383/2021 |
@@ -1789,7 +1789,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,17 |  | und | Tampico Iced Tea – 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,17 |  | und | Tampico Iced Tea – 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,17 | +0.0% | und | Tampico Iced Tea – 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,40 | +5.5% | und | Tampico Iced Tea – 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,83 | +9.8% | und | Tampico Iced Tea – 1000 ml | Port. 383/2021 |
@@ -1824,7 +1824,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,34 | -29.3% | und | Tampico Uva - 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,29 | +44.9% | und | Tampico Uva - 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,40 | +1.7% | und | Tampico Uva - 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,53 | +2.0% | und | Tampico Uva - 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,53 | +2.0% | und | Tampico Uva - 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,53 | +0.0% | und | Tampico Uva - 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,88 | +5.4% | und | Tampico Uva - 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,15 | +3.9% | und | Tampico Uva- 2000 ml | Port. 383/2021 |
@@ -1846,7 +1846,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,84 | -1.1% | und | Tampico Uva - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,91 | +3.8% | und | Tampico Uva - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,95 | +2.1% | und | Tampico Uva - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,99 | +2.1% | und | Tampico Uva - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,99 | +2.1% | und | Tampico Uva - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,99 | +0.0% | und | Tampico Uva - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,10 | +5.5% | und | Tampico Uva - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,18 | +3.8% | und | Tampico Uva- 250 ml | Port. 383/2021 |
@@ -1868,7 +1868,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,42 | +5.7% | und | Tampico Uva – 450 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,45 | +1.2% | und | Tampico Uva – 450 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,50 | +2.0% | und | Tampico Uva – 450 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,55 | +2.0% | und | Tampico Uva – 450 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,55 | +2.0% | und | Tampico Uva – 450 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,55 | +0.0% | und | Tampico Uva – 450 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,69 | +5.5% | und | Tampico Uva – 450 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,79 | +3.7% | und | Tampico Uva – 450 ml | Port. 383/2021 |
@@ -1887,7 +1887,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,65 |  | und | Tampico Uva - 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Tampico Uva - 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Tampico Uva - 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +0.0% | und | Tampico Uva - 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,85 | +5.6% | und | Tampico Uva - 1000 ml | Port. 614/2019 |
 
@@ -1966,7 +1966,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,22 | +0.9% | und | Toda Hora – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Toda Hora – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,30 | +2.2% | und | Toda Hora – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,35 | +2.2% | und | Toda Hora – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,35 | +2.2% | und | Toda Hora – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,35 | +0.0% | und | Toda Hora – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,48 | +5.5% | und | Toda Hora – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,58 | +4.0% | und | Toda Hora – 330 ml | Port. 383/2021 |
@@ -2001,7 +2001,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,81 | -59.0% | und | Toda Hora Laranja - 1000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,53 | +150.3% | und | Toda Hora Laranja - 1000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,62 | +2.0% | und | Toda Hora Laranja - 1000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,71 | +1.9% | und | Toda Hora Laranja - 1000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,71 | +1.9% | und | Toda Hora Laranja - 1000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,71 | +0.0% | und | Toda Hora Laranja - 1000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,97 | +5.5% | und | Toda Hora Laranja - 1000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,16 | +3.8% | und | Toda Hora Laranja - 1000 ml | Port. 383/2021 |
@@ -2023,7 +2023,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,34 | +9.9% | und | Toda Hora Laranja – 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,37 | +1.3% | und | Toda Hora Laranja – 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,42 | +2.1% | und | Toda Hora Laranja – 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,47 | +2.1% | und | Toda Hora Laranja – 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,47 | +2.1% | und | Toda Hora Laranja – 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,47 | +0.0% | und | Toda Hora Laranja – 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,60 | +5.3% | und | Toda Hora Laranja – 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,70 | +3.8% | und | Toda Hora Laranja – 500 ml | Port. 383/2021 |
@@ -2057,7 +2057,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,05 | -59.1% | und | Uvinha - 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,13 | +150.2% | und | Uvinha - 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,23 | +1.9% | und | Uvinha - 2000 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,33 | +1.9% | und | Uvinha - 2000 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,33 | +1.9% | und | Uvinha - 2000 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,33 | +0.0% | und | Uvinha - 2000 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,62 | +5.4% | und | Uvinha - 2000 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,84 | +3.9% | und | Uvinha- 2000 ml | Port. 383/2021 |
@@ -2080,7 +2080,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,46 | +0.7% | und | Uvinha - 310 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,48 | +1.4% | und | Uvinha - 310 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,51 | +2.0% | und | Uvinha - 310 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,54 | +2.0% | und | Uvinha - 310 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,54 | +2.0% | und | Uvinha - 310 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,54 | +0.0% | und | Uvinha - 310 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,62 | +5.2% | und | Uvinha - 310 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,68 | +3.7% | und | Uvinha- 310 ml | Port. 383/2021 |
@@ -2121,7 +2121,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,46 | +9.8% | und | Uvinha - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,50 | +1.6% | und | Uvinha - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,55 | +2.0% | und | Uvinha - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Uvinha - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Uvinha - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +0.0% | und | Uvinha - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,74 | +5.4% | und | Uvinha - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,85 | +4.0% | und | Uvinha- 500 ml | Port. 383/2021 |
@@ -2154,7 +2154,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 147/2018: [Portaria nº 147/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6f2562bd-98ff-4fdc-84bc-d5f5b5b50995), vigência 2018-05-02 (pub.)
 - Port. 383/2018: [Portaria nº 383/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1cc17837-12bb-4eba-b1e5-a401a888678f), vigência 2018-11-09 (pub.)
 - Port. 41/2019: [Portaria nº 41/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5a439ee7-e1cc-428f-ad0f-864fd5321b69), vigência 2019-02-01 (pub.)
-- Port. 285/2019: [Portaria nº 285/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19942b52-3256-43bb-8391-cde43c3991d8), vigência 2019-05-06 (assin.)
+- Port. 285/2019: [Portaria nº 285/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19942b52-3256-43bb-8391-cde43c3991d8), vigência 2019-05-09 (efeitos)
 - Port. 286/2019: [Portaria nº 286/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbee083c-ca4e-46c2-8d10-104483cf566a), vigência 2019-05-09 (efeitos)
 - Port. 319/2019: [Portaria nº 319/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92cfba2c-8b8a-4c3b-b70d-c02672726974), vigência 2019-05-30 (pub.)
 - Port. 548/2019: [Portaria nº 548/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f4b5da08-f26d-4f3e-81b9-2ecc56107629), vigência 2019-09-27 (pub.)

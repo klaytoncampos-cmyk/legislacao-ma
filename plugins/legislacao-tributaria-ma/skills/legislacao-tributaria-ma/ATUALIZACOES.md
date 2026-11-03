@@ -1,5 +1,12 @@
 # Registro de atualizações da base
 
+## 2026-11-03
+
+- NOVO: **pauta de sorvetes e picolés** em `valores/sorvetes.md` (só na edição completa), 43 portarias de 2016 a 2026: tabelas Nestlé/Garoto, Tigelí/Classicy, Ster Bom, Flamboyant Gelato, Maioca, Akaska, Petruz e sorveterias regionais. Quase todos os itens são sem código e identificados pela descrição; a relação completa de um fornecedor só vale para os itens dele.
+- Pauta: tabelas de sorveteria com o tipo no cabeçalho ("SORVETE REGIONAL") e sabor curto lido como unidade ("AMEIXA | 500G") agora saem como "Sorvete regional Açaí 500g"; portarias que "inserem" itens (ex.: 172/2025) são tratadas como inclusão; itens com valor R$ 0,00 na portaria ficam em situação incerta.
+- Pauta de sorvetes conferida por revisão independente contra os 43 PDFs (nenhum valor divergente); corrigidos: marcas lidas como unidade na 523/2019, 3 itens perdidos na quebra de página (99/2019, 251/2020, 335/2021), vigência da 244/2026 (26/06/2026) e o mesmo produto em grafias diferentes ("Sorvete Galak" x "Sorvete Nestlé Galak") ligado num só histórico.
+- Pauta (geral): "com efeito retroativo a DD/MM/AAAA" passa a definir a vigência (Portarias 285/2019 de bebidas e 361/2019 de sorvetes); marcas grafadas juntas ou separadas ("Burn Energy"/"BurnEnergy") deixam de ser sinalizadas como código reaproveitado; recuperado o Chopp Colônia Claro 1 L (2017).
+
 ## 2026-11-02 23:04
 
 - Pauta de água: o rótulo passa a indicar o tipo (mineral, adicionada de sais, natural), que separa itens com o mesmo código e valores diferentes (ex.: 48370 Outras Marcas 1,5 L = 4,81 mineral e 2,21 adicionada de sais).

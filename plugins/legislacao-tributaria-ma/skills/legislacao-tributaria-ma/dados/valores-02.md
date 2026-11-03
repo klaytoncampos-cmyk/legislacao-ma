@@ -3,9 +3,9 @@
 documento: "Tabela de Valores de Referência: bebidas: cervejas e chopes"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-02"
+gerado_em: "2026-11-03"
 portarias: 250
-registros: 24533
+registros: 24534
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: cervejas e chopes
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-03**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (1712)
@@ -1754,7 +1754,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 38042 | Brahma Malzbier (retornável 600 ml) | und | 7,72 | 2024-02-01 (pub.) | Port. 31/2024 | ⚠ o código 38042 passou a designar "Lokal (retornável 300 ml)" pela Portaria nº 336/2024 (2024-08-30), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50563 | Budweiser – Garrafa Aluminio (lata 330 ml) | und | 6,99 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 50307 | Capunga Pilsen Praia - 473 ml | und | 2,95 | 2018-11-09 (pub.) | Port. 383/2018 | ⚠ o código 50307 passou a designar "Chopp Rambeer Pilsen (1 L)" pela Portaria nº 383/2018 (2018-11-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 50307 | Capunga Pilsen Praia - 473 ml (⚠ este código já designou: Chopp Rambeer Pilsen (1 L)) | und | 3,01 | 2019-05-06 (assin.) | Port. 285/2019 | ⚠ o código 50307 passou a designar "Chopp Rambeer Pilsen (1 L)" pela Portaria nº 285/2019 (2019-05-06), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
+| 50307 | Capunga Pilsen Praia - 473 ml (⚠ este código já designou: Chopp Rambeer Pilsen (1 L)) | und | 3,01 | 2019-05-09 (efeitos) | Port. 285/2019 | ⚠ o código 50307 passou a designar "Chopp Rambeer Pilsen (1 L)" pela Portaria nº 285/2019 (2019-05-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50307 | Capunga Pilsen Praia - 473 ml (⚠ este código já designou: Chopp Rambeer Pilsen (1 L)) | und | 3,01 | 2019-05-09 (efeitos) | Port. 286/2019 | ⚠ o código 50307 passou a designar "Chopp Rambeer Pilsen (1 L)" pela Portaria nº 286/2019 (2019-05-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50307 | Capunga Pilsen Praia - 473 ml (⚠ este código já designou: Chopp Rambeer Pilsen (1 L)) | und | 3,02 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 50307 passou a designar "Chopp Rambeer Pilsen (1 L)" pela Portaria nº 614/2019 (2019-11-12), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | — | Cerveja Amistel Ultra - Lata 350 ml |  | 3,70 | 2026-03-09 (assin.) | Port. 104/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
@@ -1782,8 +1782,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 51940 | Chopp Quadra 66 Estilo Hop Lager (barril 30 L) | und | 454,51 | 2026-05-01 (efeitos) | Port. 170/2026 | ⚠ o código 51940 passou a designar "Chopp Quadra 66 Estilo Irish Red Ale (1 L)" pela Portaria nº 402/2026 (2026-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50316 | Chopp Rambeer Blondelícia (barril 30 L) | und | 260,14 | 2026-05-01 (efeitos) | Port. 170/2026 | ⚠ o código 50316 passou a designar "Chopp Rambeer La Creme (1 L)" pela Portaria nº 402/2026 (2026-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50315 | Chopp Rambeer La Creme (barril 30 L) | und | 260,14 | 2026-05-01 (efeitos) | Port. 170/2026 | ⚠ o código 50315 passou a designar "Chopp Rambeer PQP! (1 L)" pela Portaria nº 402/2026 (2026-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 50307 | Chopp Rambeer Pilsen (1 L) (⚠ este código já designou: Capunga Pilsen Praia - 473 ml) | und | 5,60 | 2018-11-09 (pub.) | Port. 383/2018 | ⚠ o código 50307 passou a designar "Capunga Pilsen Praia - 473 ml" pela Portaria nº 285/2019 (2019-05-06), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 50307 | Chopp Rambeer Pilsen (1 L) (⚠ este código já designou: Capunga Pilsen Praia - 473 ml) | und | 5,71 | 2019-05-06 (assin.) | Port. 285/2019 | ⚠ o código 50307 passou a designar "Capunga Pilsen Praia - 473 ml" pela Portaria nº 286/2019 (2019-05-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
+| 50307 | Chopp Rambeer Pilsen (1 L) (⚠ este código já designou: Capunga Pilsen Praia - 473 ml) | und | 5,60 | 2018-11-09 (pub.) | Port. 383/2018 | ⚠ o código 50307 passou a designar "Capunga Pilsen Praia - 473 ml" pela Portaria nº 285/2019 (2019-05-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
+| 50307 | Chopp Rambeer Pilsen (1 L) (⚠ este código já designou: Capunga Pilsen Praia - 473 ml) | und | 5,71 | 2019-05-09 (efeitos) | Port. 285/2019 | ⚠ o código 50307 passou a designar "Capunga Pilsen Praia - 473 ml" pela Portaria nº 286/2019 (2019-05-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50307 | Chopp Rambeer Pilsen (1 L) (⚠ este código já designou: Capunga Pilsen Praia - 473 ml) | und | 5,71 | 2019-05-09 (efeitos) | Port. 286/2019 | ⚠ o código 50307 passou a designar "Capunga Pilsen Praia - 473 ml" pela Portaria nº 614/2019 (2019-11-12), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 52651 | Chopp Roleta Russa Triple New England Ipa (barril 30 L) | und | 849,77 | 2026-05-01 (efeitos) | Port. 170/2026 | ⚠ o código 52651 passou a designar "Chopp Scholer´s Bier Ipa (1 L)" pela Portaria nº 402/2026 (2026-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 52020 | Chopp Voiller Pilsen - Tulipa (1 L) | und | 10,80 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
@@ -1822,7 +1822,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 1500 | 02.03.20.012 (retornável 300 ml) | 2,15 | 2016-10-31 | substituído pelo código 48437 (Outras Marcas (retornável 300 ml)) a partir de 2017-05-05; valeu até 2017-05-04 |
 | 48780 | 1500 (long neck 300 ml) | 4,97 | 2024-02-01 | substituído pelo código 53638 (Outras Marcas (long neck 300 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
 | 49728 | 1500 Pilsen – 473 ml | 3,38 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 48780 | 1500 – 300 ml | 3,58 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 48780 | 1500 – 300 ml | 3,58 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | 1500 – 473 ml | 2,19 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50036 | 1906 Reserva Especial (descartável 500 a 750 ml) | 8,79 | 2019-05-09 | substituído pelo código 50663 (1906 Reserva Especial (descartável 500 a 750 ml)) a partir de 2019-11-12; valeu até 2019-11-11 |
 | 48847 | 1906 Reserva Especial – 330 ml – kit | 56,98 | 2019-11-12 | mesmo código, descrição/seção renomeada para "1906 Reserva Especial (kit 330 ml)" a partir de 2021-09-22 |
@@ -1883,7 +1883,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48967 | Bavaria Pilsen (descartável 250 ml) | 2,03 | 2025-11-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48773 | Bavaria Pilsen (lata 269 ml) | 2,24 | 2025-11-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48967 | Bavária Pilsen (long neck 250 ml) | 1,47 | 2019-11-12 | o mesmo código e produto aparece depois como "Bavária Pilsen (250 ml)" (Portaria nº 336/2024, 2024-08-30) |
-| 38023 | Bavaria Premium | 3,30 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 38023 | Bavaria Premium | 3,30 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38025 | Bavaria Premium (lata 350 ml) | 2,72 | 2018-05-02 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bavaria Premium (long neck 275 a 350 ml) | 1,79 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48426 | Bavaria Premium (retornável 600 ml) | 4,98 | 2018-05-02 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1984,7 +1984,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 45125 | Cerpa Draft OW (descartável 600 ml) | 4,14 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50047 | Cerpa Draft – 269 ml | 2,09 | 2019-05-09 | substituído pelo código 38019 (Cerpa Draft – 269 ml) a partir de 2019-11-12; valeu até 2019-11-11 |
 | 50047 | Cerpa Draft – 269 ml | 2,01 | 2018-05-02 | substituído pelo código 38019 (Cerpa Draft – 269 ml) a partir de 2018-11-09; valeu até 2018-11-08 |
-| 45126 | Cerveja Cerpa Draft – Long Neck 355 ml | 3,36 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45126 | Cerveja Cerpa Draft – Long Neck 355 ml | 3,36 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48705 | Cerpa Export | 3,04 | 2018-05-02 | o mesmo código e produto aparece depois como "Cerpa Export (lata 220 a 310 ml)" (Portaria nº 614/2019, 2019-11-12) |
 | — | Cerpa Export (descartável 350 ml) | 1,75 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48705 | Cerveja Cerpa Export - Lata 310 ml | 3,12 | 2019-11-12 | o mesmo código e produto aparece depois como "Cerpa Export (lata 350 ml)" (Portaria nº 402/2026, 2026-11-01) |
@@ -1997,12 +1997,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50628 | Cerpa Extra (lata 220 a 310 ml) | 1,73 | 2019-11-12 | o mesmo código e produto aparece depois como "Cerpa Extra (lata 250 a 330 ml)" (Portaria nº 383/2021, 2021-09-22) |
 | 50628 | Cerpa Extra (lata 250 a 330 ml) | 1,79 | 2021-09-22 | o mesmo código e produto aparece depois como "Cerpa Extra (lata 269 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 45122 | Cerveja Cerpa Gold OW - Descartavel 600 ml | 4,35 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 38054 | Cerveja Cerpa Gold – Long Neck 355 ml | 3,03 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 38054 | Cerveja Cerpa Gold – Long Neck 355 ml | 3,03 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38014 | Cerpa Prime – 310 ml | 3,74 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48704 | Cerpa Primer (lata 269 ml) | 3,86 | 2023-04-01 | substituído pelo código 52040 (Cerpa Primer (lata 269 ml)) a partir de 2023-11-01; valeu até 2023-10-31 |
 | 9038 | Cerpa Primer OW (long neck 350 ml) | 5,36 | 2023-04-01 | substituído pelo código 52033 (Cerpa Primer OW (long neck 350 ml)) a partir de 2023-11-01; valeu até 2023-10-31 |
 | — | Cerpa tijuca - Vidro - ret (lata 350 ml) | 2,07 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49720 | Cerveja Cerpa Tijuca - Long Neck 355 ml | 5,36 | 2018-11-09 | substituído pelo código 9037 (Cerpa Tijuca – 350 ml) a partir de 2019-05-06; valeu até 2019-05-05 |
+| 49720 | Cerveja Cerpa Tijuca - Long Neck 355 ml | 5,36 | 2018-11-09 | substituído pelo código 9037 (Cerpa Tijuca – 350 ml) a partir de 2019-05-09; valeu até 2019-05-08 |
 | 9041 | Cerpa Tijuca – retornável (lata 350 ml) | 3,11 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja 1906 Red Vintage Reserva Especial - LN 330 ml | 2,69 | 2014-02-27 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja 1906 Red Vintage Reserva Especial - Long Neck 330 ml | 4,60 | 2016-08-01 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2074,8 +2074,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Barley Wine Carvalho – Descartavel 270 ml | 9,50 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Barley Wine Coringa – Descartavel 270 ml | 9,50 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Barley Wine Umburana - Descartavel 270 ml | 9,50 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Becks – Vidro - Descartavel 275 ml | 4,19 | 2019-01-03 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Becks – Vidro - Descartavel 330 ml | 4,40 | 2019-01-03 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Becks – Vidro - Descartavel 275 ml | 4,19 | 2019-01-03 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Becks – Vidro - Descartavel 330 ml | 4,40 | 2019-01-03 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Becks – Vidro Descartável 600 ml | 5,69 | 2019-12-16 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Becks – Vidro Retornável 600 ml | 6,64 | 2019-12-16 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Belco s/Álcool lata 350 ml | 1,27 | 2010-03-02 | não consta das relações completas das Portarias nº 469/2010 (2010-10-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2127,7 +2127,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Cerpa Draft – Vidro Descartável OW 600 ml | 3,70 | 2014-10-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Cerpa Draft – Vidro Retornavel 600 ml | 2,70 | 2014-10-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Cerpa Export - Descartavel 350 ml | 3,75 | 2020-01-20 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Cerpa Export - Vidro 350 ml | 3,85 | 2019-02-06 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Cerpa Export - Vidro 350 ml | 3,85 | 2019-02-06 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Cerpa Export One Way - Vidro Descartavel 600 ml | 9,95 | 2022-09-12 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Cerpa Export – Vidro Retornavel 350 ml | 3,00 | 2014-10-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Cerpa Export. – Vidro Descartavel 350 ml | 3,50 | 2017-12-01 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2149,14 +2149,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Cidade Imperial Helles - Long Neck 500 ml | 10,02 | 2017-10-06 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Cidade Imperial Pilsen - Long Neck 500 ml | 10,00 | 2017-10-06 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Coffe Pilsen Lager 355 ml | 7,00 | 2024-10-16 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Colina Pilsen 269 ml | 1,51 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Colina Pilsen – Vidro Descartável 300 ml | 1,58 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Colina Pilsen – Vidro Retornável 300 ml | 1,54 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Colina Pilsen 269 ml | 1,51 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Colina Pilsen – Vidro Descartável 300 ml | 1,58 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Colina Pilsen – Vidro Retornável 300 ml | 1,54 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Colina Puro Malte Gourmet - Descartavel 600 ml | 3,06 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Colina Puro Malte – Long Neck 355 ml | 3,19 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Colônia Pilsen 350 ml | 0,75 | 2005-09-30 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Colônia Pilsen 600 ml | 1,10 | 2005-09-30 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Colorado - Lata 410 ml | 4,90 | 2019-01-03 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Colorado - Lata 410 ml | 4,90 | 2019-01-03 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Colorado - Vidor 300 ml | 4,90 | 2018-07-12 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Colorado - Vidro 275 ml | 4,90 | 2020-06-30 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Colorado – Vidro Descartável – Long Neck 355 ml | 5,10 | 2019-12-16 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2186,11 +2186,11 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Devassa Multipack - Kit com 18 Latas 350 ml | 34,38 | 2022-05-23 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Devassa Multipack – Kit com 15 Latas 350 ml | 34,73 | 2024-06-26 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Devassa –Vidro Retornável 1.000 ml | 6,12 | 2021-02-03 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Ditriguis Witbier - Descartavel 355 ml | 6,82 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Ditriguis Witbier - Descartavel 355 ml | 6,82 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Ditriguis – Vidro Descartavel 330 ml | 6,85 | 2021-11-17 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | CERVEJA Dona Cabana do Sol – Vidro Descartável 500 ml | 14,61 | 2022-09-29 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Dona Clara Pilsen - vidro - descartavel 500 ml | 10,64 | 2018-11-26 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Dona Extra Escura – vidro - descartavel 500 mL | 14,19 | 2018-11-26 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Dona Clara Pilsen - vidro - descartavel 500 ml | 10,64 | 2018-11-26 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Dona Extra Escura – vidro - descartavel 500 mL | 14,19 | 2018-11-26 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Dona Ipa – vidro - descartavel 500 mL | 15,64 | 2018-09-17 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Dona Pilsen - vidro - descartavel 500 ml | 13,03 | 2018-09-17 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Dortmund Amarillo 600 ml Vidro Descartável | 9,52 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2263,7 +2263,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Estrella Galícia – Long Neck 200 ml | 1,79 | 2013-08-21 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Export – Long Neck 350 ml | 4,00 | 2020-12-22 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Flying Fish – Vidro descartável 330 ml | 5,69 | 2025-11-24 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Forevis Session Ipa - Descartavel 355 ml | 7,14 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Forevis Session Ipa - Descartavel 355 ml | 7,14 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Forevis – Vidro Descartavel 330 ml | 7,16 | 2021-11-17 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Forrozeiro Cream Ale – Descartavel 500 ml | 8,32 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | CERVEJA FREVO 350 ml | 0,79 | 2004-06-07 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2405,8 +2405,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja La Trappe Witte - GARRAFA 330 ml | 16,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Lagunitas Ipa – Log Neck 355 ml | 5,75 | 2022-05-23 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Low Lager 355 ml | 5,80 | 2024-10-16 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Magnifica Pilsen 1000 ml | 3,90 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Magnifica Pilsen 600 ml | 2,50 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Magnifica Pilsen 1000 ml | 3,90 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Magnifica Pilsen 600 ml | 2,50 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Malta Pilsen - Descartavel 600 ml | 1,75 | 2012-05-16 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Malzbier - Descartável 600 ml | 1,75 | 2012-05-16 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Malzbier - Lata 473 ml | 1,40 | 2012-05-16 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2430,9 +2430,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Motim Raízes 600 ml Vidro Descartável | 13,00 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Motim Sour is the New Hoppy 473 ml | 10,40 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Na Botua Ipa – Descartavel 500 ml | 10,50 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Nobre Belco 269 ml | 1,20 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Nobre Belco 350 ml | 1,40 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Nobre Belco 473 ml | 1,95 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Nobre Belco 269 ml | 1,20 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Nobre Belco 350 ml | 1,40 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Nobre Belco 473 ml | 1,95 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Nova Extrela Puro Malte - Lata 350 ml | 1,85 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Nova Extrela Puro Malte - Lata 473 ml | 2,50 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Nova Extrela Puro Malte - Retornável 1.000 ml | 5,23 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2462,10 +2462,10 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Paulistânia Interlago - Garrafa 355 ml | 12,29 | 2025-10-15 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Ipiranga - GARRAFA 355 ml | 8,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Largo do Café - GARRAFA 355 ml | 8,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulistânia Marco Zero - Lata 269 ml | 1,90 | 2019-01-03 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulistânia Marco Zero - Lata 269 ml | 1,90 | 2019-01-03 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Pátio do Colégio - GARRAFA 355 ml | 8,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Trem das Onze - GARRAFA 355 ml | 8,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulistânia Trem das Onze - vidro - descartavel 500 ml | 9,00 | 2018-11-29 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulistânia Trem das Onze - vidro - descartavel 500 ml | 9,00 | 2018-11-29 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Viaduto do Chá - GARRAFA 355 ml | 8,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Viaduto do Chá – Hop Lager – desc. 500 ml | 9,00 | 2018-06-05 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia X – Barley Wine – Vidro Descartavel 500 ml | 14,00 | 2019-02-11 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2501,10 +2501,10 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Proibida Pilsen - Descartável 335 ml | 2,19 | 2016-07-25 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Pilsen – Vidro Descartável 355 ml | 2,19 | 2016-11-04 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Pilsen – Vidro Descartável 600 ml | 3,39 | 2016-11-04 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Proibida PM Lager - Lata 350 mL | 2,29 | 2019-02-05 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Proibida PM Lager - Retornável 600 ml | 4,79 | 2019-02-05 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Proibida PM Lager Lata 269 ml | 1,94 | 2019-02-05 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Proibida PM Lager – Vidro - Descartavel 330 ml | 2,99 | 2019-02-05 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Proibida PM Lager - Lata 350 mL | 2,29 | 2019-02-05 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Proibida PM Lager - Retornável 600 ml | 4,79 | 2019-02-05 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Proibida PM Lager Lata 269 ml | 1,94 | 2019-02-05 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Proibida PM Lager – Vidro - Descartavel 330 ml | 2,99 | 2019-02-05 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Puro Malte – Vidro Descartável 300 ml | 3,09 | 2016-11-04 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Puro Malte – Vidro Descartável 330 ml | 3,29 | 2016-11-04 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Puro Malte – Vidro Descartável 600 ml | 5,99 | 2016-11-04 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2582,8 +2582,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Scholer's Bier Vienna – Viidro Descartaveli 500 ml | 14,90 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Scholer's Bier Weizen – Vidro Descartavel 500 ml | 13,90 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Scholer's Weizen Doppelbock – Vidro Descartavel 500 ml | 23,90 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Serras Gerais Pilsen – Vidro Descartável 300 ml | 1,60 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Serras Gerais Pilsen – Vidro Retornável 300 ml | 1,55 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Serras Gerais Pilsen – Vidro Descartável 300 ml | 1,60 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Serras Gerais Pilsen – Vidro Retornável 300 ml | 1,55 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Serras Gerais Pilsen0 – Retornável 1000 ml | 4,15 | 2017-07-20 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Severina Lager – Descartavel 500 ml | 8,32 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Skol Hops - Lata 269 ml | 2,09 | 2018-07-12 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2598,9 +2598,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Spoller Malzbier - Lata 350 ml | 1,98 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Spoller Malzbier - Lata 473 ml | 3,06 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Spoller Malzbier - Retornável 600 ml | 3,00 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Spoller Pilsen 269 ml | 1,51 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Spoller Pilsen – Vidro Descartável 300 ml | 1,58 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Spoller Pilsen – Vidro Retornável 300 ml | 1,54 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Spoller Pilsen 269 ml | 1,51 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Spoller Pilsen – Vidro Descartável 300 ml | 1,58 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Spoller Pilsen – Vidro Retornável 300 ml | 1,54 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Spoller Puro Malte - Retornável 600 ml | 3,14 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Spoller Sem Álcool - Lata 350 ml | 1,98 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Spoller Sem Álcool - Retornável 600 ml | 2,96 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2642,7 +2642,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 350 | Cerveja Yellow Hops Puro Malte - Lata | 2,99 | 2017-08-22 | substituído pelo código 47042 (Yellow hops puro malte (lata)) a partir de 2021-09-22; valeu até 2021-09-21 |
 | 269 | Cerveja Yellow Hops Puro Malte - Lata | 2,30 | 2017-08-22 | substituído pelo código 47042 (Yellow hops puro malte (lata)) a partir de 2021-09-22; valeu até 2021-09-21 |
 | — | Chope Dalla Pilsen - Pet 1.500 ml | 11,00 | 2023-09-28 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Chope Paulistânia largo do Café – vidro - descartavel 1000 mL | 9,96 | 2018-11-29 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Chope Paulistânia largo do Café – vidro - descartavel 1000 mL | 9,96 | 2018-11-29 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 54307 | Chopp Agnes 08 (1 L) | 11,90 | 2026-05-01 | substituído pelo código 50651 (Chopp Agnes 08 (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
 | 54305 | Chopp Agnes Apa (1 L) | 12,90 | 2026-05-01 | substituído pelo código 54292 (Chopp Agnes Apa (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
 | 54306 | Chopp Agnes Ipa (1 L) | 12,90 | 2026-05-01 | substituído pelo código 54293 (Chopp Agnes Ipa (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
@@ -2692,16 +2692,16 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Chopp Belco Claro e Escuro (descartável 500 ml) | 2,13 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Claro e Escuro (descartável 600 ml) | 2,43 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Claro e Escuro – 350 ml | 1,54 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 45667 | Chopp Belco Claro e Escuro – 500 ml | 2,36 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 45668 | Chopp Belco Claro e Escuro – 600 ml | 2,84 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45667 | Chopp Belco Claro e Escuro – 500 ml | 2,36 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45668 | Chopp Belco Claro e Escuro – 600 ml | 2,84 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Mista (473 ml) | 1,60 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49735 | Chopp Belco Mista (lata 473 ml) | 2,35 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49735 | Chopp Belco Mista (lata 473 ml) | 2,35 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Mista - Lata 350 ml | 1,15 | 2011-12-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Mista 350 ml | 1,83 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Sabores (473 ml) | 1,60 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Sabores (descartável 250 ml) | 1,16 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Sabores (descartável 330 ml) | 0,91 | 2010-10-01 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 45118 | Chopp Belco Sabores (lata 473 ml) | 2,35 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45118 | Chopp Belco Sabores (lata 473 ml) | 2,35 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Sabores 330 ml | 1,54 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Sabores – 250 ml | 1,28 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 54212 | Chopp Black Princess (1 L) | 17,69 | 2026-05-01 | substituído pelo código 50327 (Chopp Black Princess (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
@@ -2850,11 +2850,11 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50128 | Chopp Kalena Mista (barril 50 L) | 245,03 | 2019-05-09 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Kalena Mista (descartável 250 ml) | 1,16 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Kalena Mista (descartável 600 ml) | 2,43 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49737 | Chopp Kalena Mista (lata 473 ml) | 2,35 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49737 | Chopp Kalena Mista (lata 473 ml) | 2,35 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Kalena Mista - Lata 350 ml | 1,15 | 2011-12-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Kalena Mista 350 ml | 1,83 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Kalena Mista – 250 ml | 1,28 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49740 | Chopp Kalena Mista – 600 ml | 2,84 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49740 | Chopp Kalena Mista – 600 ml | 2,84 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Kalena Mista – Vidro Descartável 1000 ml | 2,69 | 2011-12-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Kalena Mista – Vidro Descartável 250ml | 0,73 | 2011-12-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Kalena Mista – Vidro Descartável 600ml | 1,59 | 2011-12-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2883,8 +2883,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Chopp Osiris Porter 30.000 ml | 768,00 | 2019-04-26 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Osiris Porter 50.000 ml | 1.280,00 | 2019-04-26 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49836 | Chopp Outras Marcas (1 L) | 58,04 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49946 | Chopp Outras Marcas (descartável 500 a 600 ml) | 3,28 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49961 | Chopp Outras Marcas (lata 473 ml) | 2,78 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49946 | Chopp Outras Marcas (descartável 500 a 600 ml) | 3,28 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49961 | Chopp Outras Marcas (lata 473 ml) | 2,78 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Ovni 1.000 ml | 4,32 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48043 | Chopp Paulistânia Caminho das Indias Session Ipa (1 L) | 13,84 | 2026-05-01 | substituído pelo código 53125 (Chopp Paulistânia Caminho das Indias Session Ipa (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
 | — | Chopp Paulistânia Caminho das Índias Session Ipa 30.000 ml | 357,00 | 2020-12-10 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3043,8 +3043,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Curuja Strix (descartável 500 ml) | 10,42 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | D'Ávila Pilsen (long neck 275 a 355 ml) | 1,50 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Davila Pilsen (retornável 600 ml) | 3,08 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49989 | Desperados – 250 ml | 2,01 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 48727 | Desperados – 330 ml | 5,57 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49989 | Desperados – 250 ml | 2,01 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 48727 | Desperados – 330 ml | 5,57 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Devassa Bem Loura (lata 350 ml) | 2,06 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Devassa Bem Loura (retornável 600 ml) | 4,18 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Devassa Loura (lata 350 ml) | 1,62 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3140,7 +3140,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Kaiser Pilsen (barril 4 L) | 60,50 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49962 | Kaiser pilsen (descartável 1 L) | 2,83 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kaiser pilsen (lata 473 ml) | 2,01 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 48631 | Kaiser Pilsen (long neck 200 a 375 ml) | 2,47 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 48631 | Kaiser Pilsen (long neck 200 a 375 ml) | 2,47 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kaiser Pilsen (long neck 275 a 350 ml) | 1,59 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kaiser Radier | 1,42 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38079 | Kaiser Radier (long neck 250 ml) | 1,85 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3233,16 +3233,16 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48830 | Miller Draft Pilsen (lata 220 a 310 ml) | 2,48 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38070 | Miller Draft Pilsen (lata 350 ml) | 3,29 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 39060 | Miller Draft Pilsen (long neck 200 a 355 ml) | 3,68 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 48901 | Mista de Chopp Belco Claro e Escuro – 350 ml | 1,70 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49761 | Mista de Chopp Belco Mista 350 ml | 2,04 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 45117 | Mista de Chopp Belco Sabores 330 ml | 1,70 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 45116 | Mista de Chopp Belco Sabores – 250 ml | 1,42 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49739 | Mista de Chopp Brahma Claro – 330 ml | 1,73 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49736 | Mista de Chopp Brahma Claro – 350 ml | 2,04 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 45753 | Mista de Chopp Kaiser Claro – 350 ml | 1,73 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49738 | Mista de Chopp Kalena Mista 350 ml | 2,04 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49741 | Mista de Chopp Kalena Mista – 250 ml | 1,42 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49960 | Mista de Chopp Outras Marcas | 2,44 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 48901 | Mista de Chopp Belco Claro e Escuro – 350 ml | 1,70 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49761 | Mista de Chopp Belco Mista 350 ml | 2,04 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45117 | Mista de Chopp Belco Sabores 330 ml | 1,70 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45116 | Mista de Chopp Belco Sabores – 250 ml | 1,42 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49739 | Mista de Chopp Brahma Claro – 330 ml | 1,73 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49736 | Mista de Chopp Brahma Claro – 350 ml | 2,04 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45753 | Mista de Chopp Kaiser Claro – 350 ml | 1,73 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49738 | Mista de Chopp Kalena Mista 350 ml | 2,04 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49741 | Mista de Chopp Kalena Mista – 250 ml | 1,42 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 49960 | Mista de Chopp Outras Marcas | 2,44 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nobel (lata 350 ml) | 2,22 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nobel (long neck 200 a 355 ml) | 2,34 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nobel (long neck 275 a 350 ml) | 1,47 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3280,7 +3280,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 47856 | Original 330ml | 4,49 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50049 | Original Antarctica (retornável 300 ml) | 3,55 | 2019-05-09 | substituído pelo código 48304 (Original Antarctica (retornável 300 ml)) a partir de 2019-11-12; valeu até 2019-11-11 |
 | — | Outra Marcas Kaiser/Heineken (lata 350 ml) | 3,00 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 45616 | Outras Marcas | 6,49 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 45616 | Outras Marcas | 6,49 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50658 | Outras Marcas | 250,00 | 2019-05-30 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49934 | Outras Marcas | 259,58 | 2019-11-12 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53641 | Outras Marcas (200 ml) | 5,68 | 2024-08-30 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3378,7 +3378,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 38052 | Schin Pilsen (long neck 355 ml) | 3,06 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin Pilsen – 300 ml - ret | 1,45 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin Pilsenl (long neck 200 a 355 ml) | 1,65 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 49984 | Cerveja Schin Zero Álcool - Lata 350 ml | 2,74 | 2018-11-09 | substituído pelo código 50362 (Schin zero álcool (lata 350 ml)) a partir de 2019-05-06; valeu até 2019-05-05 |
+| 49984 | Cerveja Schin Zero Álcool - Lata 350 ml | 2,74 | 2018-11-09 | substituído pelo código 50362 (Schin zero álcool (lata 350 ml)) a partir de 2019-05-09; valeu até 2019-05-08 |
 | 50362 | Schin zero álcool (lata 350 ml) | 3,45 | 2023-11-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48213 | Schin Zero Alcool (long neck 355 ml) | 4,12 | 2023-11-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47857 | Serramalte 330ml | 4,49 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3429,12 +3429,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Sol (long neck 275 a 350 ml) | 1,43 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sol (long neck 275 a 355 ml) | 1,41 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sol Pilsen (descartável 250 ml) | 1,16 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 46701 | Sol Pilsen (lata 350 ml) | 2,81 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 46701 | Sol Pilsen (lata 350 ml) | 2,81 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sol pilsen (lata 473 ml) | 2,62 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sol Pilsen (long neck 200 a 355 ml) | 2,06 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48948 | Sol pilsen – 473 ml | 3,12 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48769 | Sol Prêmio (retornável 600 ml) | 4,63 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 50065 | Sol Premiun – 310 ml | 2,53 | 2018-11-09 | substituído pelo código 50361 (Sol Premiun – 310 ml) a partir de 2019-05-06; valeu até 2019-05-05 |
+| 50065 | Sol Premiun – 310 ml | 2,53 | 2018-11-09 | substituído pelo código 50361 (Sol Premiun – 310 ml) a partir de 2019-05-09; valeu até 2019-05-08 |
 | — | Sol Shot | 1,42 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53267 | Stela Artois Pure Gold (long neck 330 ml) | 4,89 | 2023-04-01 | substituído pelo código 53419 (Stela Artois Pure Gold (long neck 330 ml)) a partir de 2023-11-01; valeu até 2023-10-31 |
 | — | Stella Artois (long neck 250 ml) | 1,73 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3611,7 +3611,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,10 | +64.0% | Und | 1500 – 300 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,53 | +13.9% | Und | 1500 – 300 ml | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,89 | +10.2% | und | 1500 – 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,97 | +2.1% | und | 1500 – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,97 | +2.1% | und | 1500 – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,97 | +0.0% | und | 1500 – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,01 | +1.0% | und | 1500 – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,15 | +3.5% | und | 1500 (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -3629,7 +3629,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,58 | +0.3% | Und | 1500 Pilsen (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,67 | +1.4% | und | 1500 Pilsen (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,75 | +1.2% | und | 1500 Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,89 | +2.1% | und | 1500 Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,89 | +2.1% | und | 1500 Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,89 | +0.0% | und | 1500 Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,75 | -2.0% | und | 1500 Pilsen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,94 | +2.8% | und | 1500 Pilsen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -3651,7 +3651,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,24 | +10.9% | Und | 1500 Pilsen - 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,27 | +1.3% | und | 1500 Pilsen - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,32 | +2.2% | und | 1500 Pilsen - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,37 | +2.2% | und | 1500 Pilsen - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,37 | +2.2% | und | 1500 Pilsen - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,37 | +0.0% | und | 1500 Pilsen - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,34 | -1.3% | und | 1500 Pilsen - 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,42 | +3.4% | und | 1500 Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -3673,7 +3673,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,74 | +10.0% | Und | 1500 (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,78 | +1.5% | und | 1500 (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,75 | -1.1% | und | 1500 (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,81 | +2.2% | und | 1500 (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,81 | +2.2% | und | 1500 (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,81 | +0.0% | und | 1500 (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,82 | +0.4% | und | 1500 (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,90 | +2.8% | und | 1500 (lata 350 ml) | Port. 383/2021 |
@@ -3695,7 +3695,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,99 | +37.2% | Und | 1500 Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,03 | +1.3% | und | 1500 Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,09 | +2.0% | und | 1500 Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,15 | +1.9% | und | 1500 Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,15 | +1.9% | und | 1500 Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,15 | +0.0% | und | 1500 Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,15 | +0.0% | und | 1500 Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,84 | -9.8% | und | 1500 Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -3717,7 +3717,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,75 | +6.0% | Und | 1500 Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,82 | +1.5% | und | 1500 Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,64 | -3.7% | und | 1500 Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,73 | +1.9% | und | 1500 Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,73 | +1.9% | und | 1500 Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,73 | +0.0% | und | 1500 Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,82 | +1.9% | und | 1500 Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,93 | +2.3% | und | 1500 Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -3775,7 +3775,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,08 | +3.9% | Und | 1906 Black Coupage - 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,17 | +1.5% | und | 1906 Black Coupage - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,33 | +2.6% | und | 1906 Black Coupage - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,46 | +2.1% | und | 1906 Black Coupage - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,46 | +2.1% | und | 1906 Black Coupage - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,46 | +0.0% | und | 1906 Black Coupage - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,53 | +1.1% | und | 1906 Black Coupage - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,21 | +10.4% | und | 1906 Black Coupage (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -3797,7 +3797,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,57 | +3.9% | Und | 1906 Red Vintage - 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,64 | +1.5% | und | 1906 Red Vintage - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,76 | +2.6% | und | 1906 Red Vintage - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,86 | +2.1% | und | 1906 Red Vintage - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,86 | +2.1% | und | 1906 Red Vintage - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,86 | +0.0% | und | 1906 Red Vintage - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,91 | +1.0% | und | 1906 Red Vintage - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,42 | +10.4% | und | 1906 Red Vintage (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -3817,7 +3817,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,45 |  | Und | 1906 Reserva Especial (descartável 500 a 750 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,45 | +0.0% | und | 1906 Reserva Especial (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,62 | +2.0% | und | 1906 Reserva Especial (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,79 | +2.0% | und | 1906 Reserva Especial (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,79 | +2.0% | und | 1906 Reserva Especial (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,79 | +0.0% | und | 1906 Reserva Especial (descartável 500 a 750 ml) | Port. 286/2019 |
 
 ### 1906 Reserva Especial (descartável) (código 50663)
@@ -3864,7 +3864,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,03 | +3.9% | Und | 1906 Reserva Especial - 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,09 | +1.5% | und | 1906 Reserva Especial - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,20 | +2.7% | und | 1906 Reserva Especial - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,28 | +1.9% | und | 1906 Reserva Especial - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,28 | +1.9% | und | 1906 Reserva Especial - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,28 | +0.0% | und | 1906 Reserva Especial - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,33 | +1.2% | und | 1906 Reserva Especial - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,78 | +10.4% | und | 1906 Reserva Especial (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -3902,7 +3902,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 51,06 | +21.2% | Und | 1906 Reserva Especial – 330 ml – kit | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 53,10 | +4.0% | Und | 1906 Reserva Especial – 330 ml – kit | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 55,27 | +4.1% | und | 1906 Reserva Especial – 330 ml – kit | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 56,38 | +2.0% | und | 1906 Reserva Especial – 330 ml – kit | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 56,38 | +2.0% | und | 1906 Reserva Especial – 330 ml – kit | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 56,38 | +0.0% | und | 1906 Reserva Especial – 330 ml – kit | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 56,98 | +1.1% | und | 1906 Reserva Especial – 330 ml – kit | Port. 614/2019 |
 
@@ -3932,7 +3932,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-02 (pub.) | 2018-01-31 | incluir | 8,00 |  |  | Cerveja 8,6 Black 500 ml | Port. 37/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,06 | +0.8% | und | 8,6 Black - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,35 | +3.6% | und | 8,6 Black - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Black - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Black - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +0.0% | und | 8,6 Black - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,55 | +0.4% | und | 8,6 Black - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,84 | +3.4% | und | 8,6 Black (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -3989,7 +3989,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,35 |  | und | 8,6 Blond - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Blond - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Blond - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +0.0% | und | 8,6 Blond - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,55 | +0.4% | und | 8,6 Blond - 500 ml | Port. 614/2019 |
 
@@ -4006,7 +4006,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-02 (pub.) | 2018-01-31 | incluir | 8,00 |  |  | Cerveja 8,6 Extreme 500 ml | Port. 37/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,06 | +0.8% | und | 8,6 Extreme - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,35 | +3.6% | und | 8,6 Extreme - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Extreme - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Extreme - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +0.0% | und | 8,6 Extreme - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,55 | +0.4% | und | 8,6 Extreme - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,84 | +3.4% | und | 8,6 Extreme (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -4033,7 +4033,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-02 (pub.) | 2018-01-31 | incluir | 8,00 |  |  | Cerveja 8,6 Gold 500 ml | Port. 37/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,06 | +0.8% | und | 8,6 Gold - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,35 | +3.6% | und | 8,6 Gold - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Gold - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Gold - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +0.0% | und | 8,6 Gold - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,55 | +0.4% | und | 8,6 Gold - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,84 | +3.4% | und | 8,6 Gold (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -4060,7 +4060,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-02 (pub.) | 2018-01-31 | incluir | 8,00 |  |  | Cerveja 8,6 Red 500 ml | Port. 37/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,06 | +0.8% | und | 8,6 Red - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,35 | +3.6% | und | 8,6 Red - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Red - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +2.0% | und | 8,6 Red - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,52 | +0.0% | und | 8,6 Red - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,55 | +0.4% | und | 8,6 Red - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,84 | +3.4% | und | 8,6 Red (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -4181,7 +4181,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-06 (pub.) | 2018-03-01 | incluir | 13,99 |  |  | Cerveja Al Capone Ipa - Descartavel 600 ml | Port. 78/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,09 | +0.7% | und | Al Capone Ipa (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,25 | +1.1% | und | Al Capone Ipa (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,54 | +2.0% | und | Al Capone Ipa (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,54 | +2.0% | und | Al Capone Ipa (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,54 | +0.0% | und | Al Capone Ipa (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,25 | -2.0% | und | Al Capone Ipa (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,65 | +2.8% | und | Al Capone Ipa (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -4234,7 +4234,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-06 (pub.) | 2018-03-01 | incluir | 12,53 |  |  | Cerveja Al Capone Pale Ale - Descartavel 600 ml | Port. 78/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,62 | +0.7% | und | Al Capone Pale Ale (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,77 | +1.2% | und | Al Capone Pale Ale (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 13,03 | +2.0% | und | Al Capone Pale Ale (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,03 | +2.0% | und | Al Capone Pale Ale (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,03 | +0.0% | und | Al Capone Pale Ale (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,77 | -2.0% | und | Al Capone Pale Ale (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 13,13 | +2.8% | und | Al Capone Pale Ale (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -4285,7 +4285,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-06 (pub.) | 2018-03-01 | incluir | 10,93 |  |  | Cerveja Al Capone Premium Lager - Descartavel 600 ml | Port. 78/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,01 | +0.7% | und | Al Capone Premium Lager (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,14 | +1.2% | und | Al Capone Premium Lager (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,36 | +2.0% | und | Al Capone Premium Lager (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,36 | +2.0% | und | Al Capone Premium Lager (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,36 | +0.0% | und | Al Capone Premium Lager (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,13 | -2.0% | und | Al Capone Premium Lager (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,44 | +2.8% | und | Al Capone Premium Lager (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -4339,7 +4339,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-06 (pub.) | 2018-03-01 | incluir | 11,76 |  |  | Cerveja Al Capone Red Ale - Descartavel 600 ml | Port. 78/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,84 | +0.7% | und | Al Capone Red Ale (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,98 | +1.2% | und | Al Capone Red Ale (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,22 | +2.0% | und | Al Capone Red Ale (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,22 | +2.0% | und | Al Capone Red Ale (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,22 | +0.0% | und | Al Capone Red Ale (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,98 | -2.0% | und | Al Capone Red Ale (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,32 | +2.8% | und | Al Capone Red Ale (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -4391,7 +4391,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-06 (pub.) | 2018-03-01 | incluir | 11,21 |  |  | Cerveja Al Capone Weiss - Descartavel 600 ml | Port. 78/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,29 | +0.7% | und | Al Capone Weiss (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,42 | +1.2% | und | Al Capone Weiss (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,65 | +2.0% | und | Al Capone Weiss (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,65 | +2.0% | und | Al Capone Weiss (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,65 | +0.0% | und | Al Capone Weiss (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,42 | -2.0% | und | Al Capone Weiss (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,74 | +2.8% | und | Al Capone Weiss (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -4412,7 +4412,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-06 (pub.) | 2018-03-01 | incluir | 11,21 |  |  | Cerveja Al Capone Witbier - Descartavel 600 ml | Port. 78/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,29 | +0.7% | und | Al Capone Witbier (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,42 | +1.2% | und | Al Capone Witbier (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,65 | +2.0% | und | Al Capone Witbier (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,65 | +2.0% | und | Al Capone Witbier (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,65 | +0.0% | und | Al Capone Witbier (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,42 | -2.0% | und | Al Capone Witbier (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,74 | +2.8% | und | Al Capone Witbier (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -4442,7 +4442,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,99 |  | und | Almada (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,11 | +2.0% | und | Almada (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,11 | +2.0% | und | Almada (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,11 | +0.0% | und | Almada (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,99 | -2.0% | und | Almada (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,16 | +2.8% | und | Almada (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -4467,7 +4467,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,49 |  | und | Almada (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Almada (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Almada (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +0.0% | und | Almada (lata 350 ml) | Port. 286/2019 |
 
 ### Almada (lata 350 ml) (código 51258)
@@ -4502,7 +4502,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,49 |  | und | Almada - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Almada - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Almada - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +0.0% | und | Almada - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,57 | +1.2% | und | Almada - 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,66 | +3.5% | und | Almada (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -4516,7 +4516,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,49 |  | und | Almada (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Almada (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Almada (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +0.0% | und | Almada (retornável 300 ml) | Port. 286/2019 |
 
 ### Almada (retornável 600 ml) (código 38025)
@@ -4524,7 +4524,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,99 |  | und | Almada (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,09 | +2.0% | und | Almada (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,09 | +2.0% | und | Almada (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,09 | +0.0% | und | Almada (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,19 | +2.0% | und | Almada (retornável 600 ml) | Port. 614/2019 |
 
@@ -4543,7 +4543,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,99 |  | und | Almada - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,03 | +2.0% | und | Almada - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,03 | +2.0% | und | Almada - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,03 | +0.0% | und | Almada - 269 ml | Port. 286/2019 |
 
 ### Almada - 473 ml (código 48426)
@@ -4551,7 +4551,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,29 |  | und | Almada - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,36 | +2.1% | und | Almada - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +2.1% | und | Almada - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +0.0% | und | Almada - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,37 | +0.3% | und | Almada - 473 ml | Port. 614/2019 |
 
@@ -4749,7 +4749,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,17 | +3.9% | Und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Antarctica Extra Cristal ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,61 | +12.1% | und | Antarctica Extra Cristal (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,68 | +1.9% | und | Antarctica Extra Cristal (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,68 | +1.9% | und | Antarctica Extra Cristal (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,68 | +0.0% | und | Antarctica Extra Cristal (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,77 | +2.4% | und | Antarctica Extra Cristal (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,86 | +2.4% | und | Antarctica Extra Cristal (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -4790,7 +4790,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,26 | +14.0% | Und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,31 | +1.5% | und | Antarctica Malzebier ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,60 | +8.8% | und | Antarctica Malzebier (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,67 | +1.9% | und | Antarctica Malzebier (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,67 | +1.9% | und | Antarctica Malzebier (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,67 | +0.0% | und | Antarctica Malzebier (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,71 | +1.1% | und | Antarctica Malzebier (long neck 200 a 375 ml) | Port. 614/2019 |
 
@@ -4813,7 +4813,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,24 | +0.2% | Und | Antártica Original (descartável 600 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,33 | +1.4% | und | Antártica Original (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,53 | +19.0% | und | Antártica Original (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,68 | +2.0% | und | Antártica Original (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,68 | +2.0% | und | Antártica Original (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,68 | +0.0% | und | Antártica Original (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,53 | -2.0% | und | Antártica Original (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,57 | +0.5% | und | Antártica Original (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -4846,7 +4846,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,19 |  | und | Antarctica Original (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,19 |  | und | Antarctica Original (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,19 | +0.0% | und | Antarctica Original (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,20 | +0.3% | und | Antarctica Original (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,32 | +3.7% | und | Antarctica Original (lata 350 ml) | Port. 383/2021 |
@@ -4884,7 +4884,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,77 | +13.9% | Und | Original - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,82 | +1.3% | und | Original - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,15 | +8.6% | und | Original - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,23 | +1.9% | und | Original - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,23 | +1.9% | und | Original - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,23 | +0.0% | und | Original - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,28 | +1.2% | und | Original - 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,43 | +3.5% | und | Original (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -4937,7 +4937,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,02 | +3.1% | Und | Original Antarctica (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,12 | +1.4% | und | Original Antarctica (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,86 | -3.7% | und | Original Antarctica (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,00 | +2.0% | und | Original Antarctica (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,00 | +2.0% | und | Original Antarctica (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,00 | +0.0% | und | Original Antarctica (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,84 | -2.3% | und | Original Antarctica (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,15 | +4.5% | und | Original Antarctica (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -4968,7 +4968,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,16 | +2.8% | Und | Antarctica Pilsen (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,25 | +1.5% | und | Antarctica Pilsen (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,38 | +2.1% | und | Antarctica Pilsen (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,51 | +2.0% | und | Antarctica Pilsen (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,51 | +2.0% | und | Antarctica Pilsen (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,51 | +0.0% | und | Antarctica Pilsen (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,67 | +2.5% | und | Antarctica Pilsen (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,90 | +3.4% | und | Antarctica Pilsen (descartável 1 L) | Port. 383/2021 |
@@ -5017,7 +5017,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,61 | +7.0% | Und | Antarctica Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,65 | +1.5% | und | Antarctica Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,63 | -0.8% | und | Antarctica Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,68 | +1.9% | und | Antarctica Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,68 | +1.9% | und | Antarctica Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,68 | +0.0% | und | Antarctica Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,72 | +1.5% | und | Antarctica Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,64 | -2.9% | und | Antartica Pilsen (lata 350 ml) ⚠ | Port. 383/2021 |
@@ -5056,7 +5056,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,81 | +5.2% | Und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,85 | +1.4% | und | Antarctica Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,25 | +14.0% | und | Antarctica Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,32 | +2.2% | und | Antarctica Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,32 | +2.2% | und | Antarctica Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,32 | +0.0% | und | Antarctica Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,37 | +1.5% | und | Antarctica Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,45 | +2.4% | und | Antarctica Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -5087,7 +5087,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,64 | +3.5% | Und | Antarctica Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,72 | +1.4% | und | Antarctica Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,15 | +7.5% | und | Antarctica Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,27 | +2.0% | und | Antarctica Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,27 | +2.0% | und | Antarctica Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,27 | +0.0% | und | Antarctica Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,45 | +2.9% | und | Antarctica Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,67 | +3.4% | und | Antarctica Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -5120,7 +5120,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,42 | +3.6% | Und | Antarctica Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,50 | +1.5% | und | Antarctica Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,64 | +2.5% | und | Antarctica Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,75 | +2.0% | und | Antarctica Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,75 | +2.0% | und | Antarctica Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,75 | +0.0% | und | Antarctica Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,72 | -0.5% | und | Antarctica Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,71 | -0.2% | und | Antarctica Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -5143,7 +5143,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,88 | +0.0% | Und | Antartica Subzero Pilsen (lata 220 a 310 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,91 | +1.6% | und | Antartica Subzero Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,82 | -4.7% | und | Antartica Subzero Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,86 | +2.2% | und | Antartica Subzero Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,86 | +2.2% | und | Antartica Subzero Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,86 | +0.0% | und | Antartica Subzero Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | +3.8% | und | Antartica Subzero Pilsen (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,95 | +1.0% | und | Antartica Subzero Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -5170,7 +5170,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,57 | +9.8% | Und | Antarctica SubZero (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,61 | +1.6% | und | Antarctica SubZero (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,17 | -16.9% | und | Antarctica SubZero (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Antarctica SubZero (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Antarctica SubZero (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +0.0% | und | Antarctica SubZero (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,14 | -3.2% | und | Antarctica SubZero (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,21 | +3.3% | und | Antarctica SubZero (lata 350 ml) | Port. 383/2021 |
@@ -5189,7 +5189,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,19 |  | und | Antactica Subzero - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Antactica Subzero - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Antactica Subzero - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +0.0% | und | Antactica Subzero - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,24 | +0.4% | und | Antactica Subzero - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,34 | +4.5% | und | Antactica Subzero (lata) ⚠ | Port. 383/2021 |
@@ -5216,7 +5216,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,48 | +6.0% | Und | Antartica Subzero (retornável 600 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,56 | +1.5% | und | Antartica Subzero (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,01 | -27.9% | und | Antartica Subzero (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,09 | +2.0% | und | Antartica Subzero (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,09 | +2.0% | und | Antartica Subzero (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,09 | +0.0% | und | Antartica Subzero (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,28 | +4.6% | und | Antartica Subzero (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,48 | +4.7% | und | Antartica Subzero (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -5237,7 +5237,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,00 |  | Und | Antarctica Subzero Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,07 | +1.4% | und | Antarctica Subzero Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,51 | +8.7% | und | Antarctica Subzero Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,62 | +2.0% | und | Antarctica Subzero Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,62 | +2.0% | und | Antarctica Subzero Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,62 | +0.0% | und | Antarctica Subzero Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 
 ### Antartica Original - Multipack 15 latas (lata 269 ml) (código 54249)
@@ -5259,7 +5259,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,06 |  | Und | Antartica Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,13 | +3.4% | und | Antartica Pilsen (lata 220 a 310 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,17 | +1.9% | und | Antartica Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,17 | +1.9% | und | Antartica Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,17 | +0.0% | und | Antartica Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,14 | -1.4% | und | Antartica Pilsen (lata 220 a 310 ml) | Port. 614/2019 |
 
@@ -6112,7 +6112,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 18,51 | +1.4% | Und | Baden American Ipa (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,77 | +1.4% | und | Baden American Ipa (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 18,99 | +1.2% | und | Baden American Ipa (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 19,37 | +2.0% | und | Baden American Ipa (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 19,37 | +2.0% | und | Baden American Ipa (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 19,37 | +0.0% | und | Baden American Ipa (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 18,98 | -2.0% | und | Baden American Ipa (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 19,51 | +2.8% | und | Baden American Ipa (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -6238,7 +6238,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,62 | +1.4% | Und | Baden Golden Ale (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,77 | +1.4% | und | Baden Golden Ale (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,90 | +1.2% | und | Baden Golden Ale (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,12 | +2.0% | und | Baden Golden Ale (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,12 | +2.0% | und | Baden Golden Ale (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,12 | +0.0% | und | Baden Golden Ale (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,90 | -2.0% | und | Baden Golden Ale (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,21 | +2.8% | und | Baden Golden Ale (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -6322,7 +6322,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 13,01 | -5.7% | Und | Baden Pilsen Cristal (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,99 | +7.5% | und | Baden Pilsen Cristal (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,61 | -17.0% | und | Baden Pilsen Cristal (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,84 | +2.0% | und | Baden Pilsen Cristal (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,84 | +2.0% | und | Baden Pilsen Cristal (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,84 | +0.0% | und | Baden Pilsen Cristal (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,60 | -2.0% | und | Baden Pilsen Cristal (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,93 | +2.8% | und | Baden Pilsen Cristal (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -6349,7 +6349,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 16,70 | +1.4% | Und | Baden Baden Red Ale (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 16,94 | +1.4% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 17,14 | +1.2% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 17,48 | +2.0% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 17,48 | +2.0% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 17,48 | +0.0% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 17,13 | -2.0% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 17,61 | +2.8% | und | Baden Baden Red Ale (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -6367,7 +6367,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 19,81 | +1.4% | Und | Baden Weiss (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 20,09 | +1.4% | und | Baden Weiss (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 20,32 | +1.1% | und | Baden Weiss (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 20,73 | +2.0% | und | Baden Weiss (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 20,73 | +2.0% | und | Baden Weiss (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 20,73 | +0.0% | und | Baden Weiss (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 20,32 | -2.0% | und | Baden Weiss (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 20,89 | +2.8% | und | Baden Weiss (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -6430,7 +6430,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-02 (pub.) | 2018-01-31 | incluir | 17,90 |  |  | Cerveja Badger Firkin Fox 500 ml | Port. 37/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,03 | +0.7% | und | Badger Firkin Fox - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 18,39 | +2.0% | und | Badger Firkin Fox - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Firkin Fox - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Firkin Fox - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +0.0% | und | Badger Firkin Fox - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 18,39 | -2.0% | und | Badger Firkin Fox - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 19,34 | +5.2% | und | Badger Firkin Fox (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -6451,7 +6451,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 17,90 |  |  | Cerveja Badger First Call 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,03 | +0.7% | und | Badger First Call - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 18,39 | +2.0% | und | Badger First Call - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger First Call - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger First Call - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +0.0% | und | Badger First Call - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 18,39 | -2.0% | und | Badger First Call - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 19,34 | +5.2% | und | Badger First Call (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -6472,7 +6472,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 17,90 |  |  | Cerveja Badger Fursty Ferret 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,03 | +0.7% | und | Badger Fursty Ferret - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 18,39 | +2.0% | und | Badger Fursty Ferret - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Fursty Ferret - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Fursty Ferret - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +0.0% | und | Badger Fursty Ferret - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 18,39 | -2.0% | und | Badger Fursty Ferret - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 19,34 | +5.2% | und | Badger Fursty Ferret (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -6493,7 +6493,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 17,90 |  |  | Cerveja Badger Golden Champion 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,03 | +0.7% | und | Badger Golden Champion - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 18,39 | +2.0% | und | Badger Golden Champion - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Golden Champion - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Golden Champion - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +0.0% | und | Badger Golden Champion - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 18,39 | -2.0% | und | Badger Golden Champion - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 19,34 | +5.2% | und | Badger Golden Champion (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -6562,7 +6562,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-02 (pub.) | 2018-01-31 | incluir | 6,40 |  |  | Cerveja Badger Owlers Ipa 330 ml | Port. 37/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,44 | +0.6% | und | Badger Owlers Ipa - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,00 | +8.7% | und | Badger Owlers Ipa - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,14 | +2.0% | und | Badger Owlers Ipa - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,14 | +2.0% | und | Badger Owlers Ipa - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,14 | +0.0% | und | Badger Owlers Ipa - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,22 | +1.1% | und | Badger Owlers Ipa - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,97 | +10.4% | und | Badger Owlers Ipa (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -6583,7 +6583,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-02 (pub.) | 2018-01-31 | incluir | 17,90 |  |  | Cerveja Badger Poachers Choice 500 ml | Port. 37/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,03 | +0.7% | und | Badger Poachers Choice - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 18,39 | +2.0% | und | Badger Poachers Choice - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Poachers Choice - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Poachers Choice - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +0.0% | und | Badger Poachers Choice - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 18,39 | -2.0% | und | Badger Poachers Choice - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 19,34 | +5.2% | und | Badger Poachers Choice (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -6604,7 +6604,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 17,90 |  |  | Cerveja Badger Tangle Foot 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,03 | +0.7% | und | Badger Tangle Foot - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 18,39 | +2.0% | und | Badger Tangle Foot - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Tangle Foot - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Tangle Foot - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +0.0% | und | Badger Tangle Foot - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 18,39 | -2.0% | und | Badger Tangle Foot - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 19,34 | +5.2% | und | Badger Tangle Foot (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -6706,7 +6706,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 17,90 |  |  | Cerveja Badger Wild Wader 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,03 | +0.7% | und | Badger Wild Wader - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 18,39 | +2.0% | und | Badger Wild Wader - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Wild Wader - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +2.0% | und | Badger Wild Wader - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 18,76 | +0.0% | und | Badger Wild Wader - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 18,39 | -2.0% | und | Badger Wild Wader - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 19,34 | +5.2% | und | Badger Wild Wader (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -6902,7 +6902,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,96 | +2.6% | Und | Bavária O,O (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,99 | +1.5% | und | Bavária O,O (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,97 | -1.0% | und | Bavária O,O (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Bavária O,O (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Bavária O,O (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +0.0% | und | Bavária O,O (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,01 | +0.0% | und | Bavária O,O (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,06 | +2.5% | und | Bavária O,O (lata 350 ml) | Port. 383/2021 |
@@ -6950,7 +6950,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,54 | +3.4% | Und | Bavaria Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,56 | +1.3% | und | Bavaria Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,59 | +1.9% | und | Bavaria Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,62 | +1.9% | und | Bavaria Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,62 | +1.9% | und | Bavaria Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,62 | +0.0% | und | Bavaria Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,60 | -1.2% | und | Bavaria Pilsen (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,65 | +3.1% | und | Bavaria Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -6982,7 +6982,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,42 | +2.5% | Und | Bavaria Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,45 | +1.2% | und | Bavaria Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,42 | -1.2% | und | Bavaria Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,47 | +2.1% | und | Bavaria Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,47 | +2.1% | und | Bavaria Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,47 | +0.0% | und | Bavaria Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,47 | +0.0% | und | Bavaria Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,54 | +2.8% | und | Bavaria Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -7016,7 +7016,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +4.8% | Und | Bavaria Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Bavaria Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,01 | +3.8% | und | Bavaria Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,07 | +2.0% | und | Bavaria Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,07 | +2.0% | und | Bavaria Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,07 | +0.0% | und | Bavaria Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,08 | +0.3% | und | Bavaria Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,22 | +4.5% | und | Bavaria Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -7039,7 +7039,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,37 | +3.0% | Und | Bavária Pilsen (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,39 | +1.5% | und | Bavária Pilsen (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,42 | +2.2% | und | Bavária Pilsen (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,45 | +2.1% | und | Bavária Pilsen (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,45 | +2.1% | und | Bavária Pilsen (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,45 | +0.0% | und | Bavária Pilsen (long neck 250 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,47 | +1.4% | und | Bavária Pilsen (long neck 250 ml) | Port. 614/2019 |
 
@@ -7063,7 +7063,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,21 | +6.0% | Und | Bavaria Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,27 | +1.4% | und | Bavaria Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,11 | -3.7% | und | Bavaria Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,19 | +1.9% | und | Bavaria Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,19 | +1.9% | und | Bavaria Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,19 | +0.0% | und | Bavaria Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,27 | +1.9% | und | Bavaria Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 | +2.3% | und | Bavaria Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -7189,7 +7189,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 3,84 |  |  | Cerveja Becks - Lata 350 ml | Port. 444/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Becks (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Becks (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +0.0% | und | Becks (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,93 | +0.3% | und | Becks (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,13 | +5.1% | und | Becks (lata 350 ml) | Port. 383/2021 |
@@ -7207,7 +7207,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 |  | und | Becks - 330ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 |  | und | Becks - 330ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +0.0% | und | Becks - 330ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,54 | +1.1% | und | Becks - 330ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,14 | +13.2% | und | Becks (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -7240,7 +7240,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,27 |  | und | Becks - 275ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,27 |  | und | Becks - 275ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,27 | +0.0% | und | Becks - 275ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,74 | +11.0% | und | Becks - 275ml | Port. 614/2019 |
 
@@ -7264,7 +7264,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +6.1% | Und | Belco (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Belco (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,24 | -3.6% | und | Belco (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Belco (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Belco (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +0.0% | und | Belco (retornável 600 ml) | Port. 286/2019 |
 
 ### Belco Claro e Escuro (descartável 1 L) (código —)
@@ -7293,7 +7293,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,56 | +8.0% | und. | Belco Claro e Escuro (retornável 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,67 | +1.5% | und | Belco Claro e Escuro (retornável 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,82 | +2.0% | und | Belco Claro e Escuro (retornável 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,98 | +2.0% | und | Belco Claro e Escuro (retornável 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,98 | +2.0% | und | Belco Claro e Escuro (retornável 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,98 | +0.0% | und | Belco Claro e Escuro (retornável 1,5 L) | Port. 286/2019 |
 
 ### Belco escura ãe preta (lata 350 ml) (código —)
@@ -7319,7 +7319,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,38 | +10.2% | Und | Belco escura mãe preta (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,41 | +1.3% | und | Belco escura mãe preta (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,38 | -1.2% | und | Belco escura mãe preta (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,43 | +2.1% | und | Belco escura mãe preta (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,43 | +2.1% | und | Belco escura mãe preta (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,43 | +0.0% | und | Belco escura mãe preta (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,43 | +0.0% | und | Belco escura mãe preta (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,50 | +2.9% | und | Belco escura mãe preta (lata 350 ml) | Port. 383/2021 |
@@ -7351,7 +7351,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,10 | +9.9% | Und | Belco pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,13 | +1.4% | und | Belco pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,10 | -1.4% | und | Belco pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Belco pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Belco pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +0.0% | und | Belco pilsen (lata 350 ml) | Port. 286/2019 |
 
 ### Belco Preta (retornável 600 ml) (código 38028)
@@ -7369,7 +7369,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,45 | +6.2% | Und | Belco Preta (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,50 | +1.4% | und | Belco Preta (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,37 | -3.7% | und | Belco Preta (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,44 | +2.1% | und | Belco Preta (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,44 | +2.1% | und | Belco Preta (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,44 | +0.0% | und | Belco Preta (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,51 | +2.0% | und | Belco Preta (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,59 | +2.3% | und | Belco Preta (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -7394,7 +7394,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,44 | +9.9% | Und | Belco sem álcool (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,47 | +1.2% | und | Belco sem álcool (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,44 | -1.2% | und | Belco sem álcool (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,49 | +2.0% | und | Belco sem álcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,49 | +2.0% | und | Belco sem álcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,49 | +0.0% | und | Belco sem álcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,49 | +0.0% | und | Belco sem álcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,56 | +2.8% | und | Belco sem álcool (lata 350 ml) | Port. 383/2021 |
@@ -7430,7 +7430,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,00 |  | Und | Bendicta Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,13 | +1.4% | und | Bendicta Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,92 | +8.7% | und | Bendicta Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,12 | +2.0% | und | Bendicta Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,12 | +2.0% | und | Bendicta Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,12 | +0.0% | und | Bendicta Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,23 | +1.1% | und | Bendicta Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,49 | +2.5% | und | Bendicta Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -7648,7 +7648,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-11 (pub.) | 2018-09-04 | incluir | 11,48 |  |  | Cerveja Biritis Vienna Lager - Descartavel 600 ml | Port. 304/2018 |
 | 2019-01-15 (pub.) | 2019-01-09 | alterar | 11,71 | +2.0% |  | Cerveja Biritis Vienna Lager - Descartavel 600 ml | Port. 17/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,94 | +2.0% | und | Biritis Vienna Larger (descartável 600 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,94 | +2.0% | und | Biritis Vienna Larger (descartável 600 ml) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,94 | +0.0% | und | Biritis Vienna Larger (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,70 | -2.0% | und | Biritis Vienna Larger (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,03 | +2.8% | und | Biritis Vienna Larger (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -7667,7 +7667,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-03 (pub.) | 2019-03-22 | incluir | 7,93 |  |  | Cerveja Black Princess Apa - Descartavel 600 ml | Port. 164/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess APA (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess APA (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +0.0% | und | Black Princess APA (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,93 | -2.0% | und | Black Princess APA (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,15 | +2.8% | und | Black Princess APA (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -7688,7 +7688,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-07 (pub.) | 2018-01-31 | alterar | 7,79 |  |  | Cerveja Black Princess Baktotherediager - Descartavel 600 ml | Port. 38/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,84 | +0.6% | und | Black Princess Baktotherediager (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,93 | +1.1% | und | Black Princess Baktotherediager (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Baktotherediager (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Baktotherediager (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +0.0% | und | Black Princess Baktotherediager (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,93 | -2.0% | und | Black Princess Baktotheredlager (descartável 600 ml) ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,15 | +2.8% | und | Black Princess Baktotheredlager (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -7731,7 +7731,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,79 | +1.4% | Und | Black Princess Escura (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,90 | +1.4% | und | Black Princess Escura (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,99 | +1.1% | und | Black Princess Escura (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,15 | +2.0% | und | Black Princess Escura (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,15 | +2.0% | und | Black Princess Escura (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,15 | +0.0% | und | Black Princess Escura (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,99 | -2.0% | und | Black Princess Escura (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,21 | +2.8% | und | Black Princess Escura (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -7758,7 +7758,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,94 | +5.9% | Und | Black Princess Escura (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,02 | +1.3% | und | Black Princess Escura ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,54 | +8.6% | und | Black Princess Escura (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,67 | +2.0% | und | Black Princess Escura (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,67 | +2.0% | und | Black Princess Escura (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,67 | +0.0% | und | Black Princess Escura (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,74 | +1.0% | und | Black Princess Escura (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,91 | +2.5% | und | Black Princess Escura (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -7773,7 +7773,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,03 | +3.3% | Und | Black Princess Escura (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,10 | +1.4% | und | Black Princess Escura (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,91 | -3.7% | und | Black Princess Escura (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,01 | +2.0% | und | Black Princess Escura (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,01 | +2.0% | und | Black Princess Escura (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,01 | +0.0% | und | Black Princess Escura (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,11 | +2.0% | und | Black Princess Escura (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,22 | +2.2% | und | Black Princess Escura (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -7784,7 +7784,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,77 |  | und | Black Princess Gold (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,83 | +2.2% | und | Black Princess Gold (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,83 | +2.2% | und | Black Princess Gold (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,83 | +0.0% | und | Black Princess Gold (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,84 | +0.4% | und | Black Princess Gold (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,47 | +22.2% | und | Black Princess Gold (lata 350 ml) | Port. 383/2021 |
@@ -7826,7 +7826,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,90 | +1.4% | und | Black Princess Gold (descartável 600 ml) | Port. 147/2018 |
 | 2018-07-06 (pub.) | 2018-06-28 | incluir | 7,18 | -9.1% |  | Cerveja Black Princess Gold Puro Malte - Descartavel 600 ml ⚠ | Port. 233/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,26 | +1.1% | und | Black Princess Gold Puro Malte (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,41 | +2.1% | und | Black Princess Gold Puro Malte (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,41 | +2.1% | und | Black Princess Gold Puro Malte (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,41 | +0.0% | und | Black Princess Gold Puro Malte (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,26 | -2.0% | und | Black Princess Gold Puro Malte (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,46 | +2.8% | und | Black Princess Gold Puro Malte (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -7853,7 +7853,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,94 | +5.9% | Und | Black Princess Gold (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,02 | +1.3% | und | Black Princess Gold ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,25 | -29.4% | und | Black Princess Gold Puro Malte (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,34 | +2.1% | und | Black Princess Gold Puro Malte (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,34 | +2.1% | und | Black Princess Gold Puro Malte (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,34 | +0.0% | und | Black Princess Gold Puro Malte (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,39 | +1.2% | und | Black Princess Gold Puro Malte (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,50 | +2.5% | und | Black Princess Gold Puro Malte (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -7864,7 +7864,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,29 |  | und | Black Princess Gold Puro Malte (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,40 | +2.1% | und | Black Princess Gold Puro Malte (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,40 | +2.1% | und | Black Princess Gold Puro Malte (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,40 | +0.0% | und | Black Princess Gold Puro Malte (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,51 | +2.0% | und | Black Princess Gold Puro Malte (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,63 | +2.2% | und | Black Princess Gold Puro Malte (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -7892,7 +7892,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-07 (pub.) | 2018-01-31 | alterar | 7,79 |  |  | Cerveja Black Princess Hop Ipa - Descartavel 600 ml | Port. 38/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,84 | +0.6% | und | Black Princess Hop Ipa (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,93 | +1.1% | und | Black Princess Hop Ipa (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Hop Ipa (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Hop Ipa (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +0.0% | und | Black Princess Hop Ipa (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,93 | -2.0% | und | Black Princess Hop Ipa (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,15 | +2.8% | und | Black Princess Hop Ipa (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -7920,7 +7920,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,84 |  | und | Black Princess Blonde Ale (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,93 | +1.1% | und | Black Princess Blonde Ale (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Blonde Ale (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Blonde Ale (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +0.0% | und | Black Princess Blonde Ale (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,93 | -2.0% | und | Black Princess Blonde Ale (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,15 | +2.8% | und | Black Princess Blonde Ale (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -7939,7 +7939,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-03 (pub.) | 2019-03-22 | incluir | 7,93 |  |  | Cerveja Black Princess Tião Bock - Descartavel 600 ml | Port. 164/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Tião Bock (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Tião Bock (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +0.0% | und | Black Princess Tião Bock (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,93 | -2.0% | und | Black Princess Tião Bock (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,15 | +2.8% | und | Black Princess Tião Bock (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -7960,7 +7960,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-07 (pub.) | 2018-01-31 | alterar | 7,79 |  |  | Cerveja Black Princess Weizen - Descartavel 600 ml | Port. 38/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,84 | +0.6% | und | Black Princess Wizen (descartável 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,93 | +1.1% | und | Black Princess Wizen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Wizen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Black Princess Wizen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +0.0% | und | Black Princess Wizen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,93 | -2.0% | und | Black Princess Wizen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,15 | +2.8% | und | Black Princess Wizen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -8046,7 +8046,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,00 |  | und | Boemia 14 Weiss | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,61 | +8.7% | und | Boemia 14 Weiss (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,76 | +2.0% | und | Boemia 14 Weiss (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,76 | +2.0% | und | Boemia 14 Weiss (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,76 | +0.0% | und | Boemia 14 Weiss (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,84 | +1.0% | und | Boemia 14 Weiss (long neck 200 a 375 ml) | Port. 614/2019 |
 
@@ -8070,7 +8070,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,15 | +7.9% | Und | Bohemia (descartável 550 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,27 | +1.5% | und | Bohemia (descartável 550 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,44 | +2.1% | und | Bohemia (descartável 550 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,61 | +2.0% | und | Bohemia (descartável 550 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,61 | +2.0% | und | Bohemia (descartável 550 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,61 | +0.0% | und | Bohemia (descartável 550 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,42 | -2.2% | und | Bohemia (descartável 550 ml) | Port. 614/2019 |
 
@@ -8169,7 +8169,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,04 | +0.3% | Und | Bohemia (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,14 | +1.4% | und | Bohemia (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,44 | -9.8% | und | Bohemia (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,57 | +2.0% | und | Bohemia (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,57 | +2.0% | und | Bohemia (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,57 | +0.0% | und | Bohemia (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,24 | -5.0% | und | Bohemia (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,13 | -1.8% | und | Bohemia (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -8189,7 +8189,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,27 |  | und | Bohemia - 550 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,44 | +2.1% | und | Bohemia - 550 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,61 | +2.0% | und | Bohemia - 550 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,61 | +2.0% | und | Bohemia - 550 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,61 | +0.0% | und | Bohemia - 550 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,44 | -2.0% | und | Bohemia - 550 ml | Port. 614/2019 |
 
@@ -8201,7 +8201,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,73 | +14.1% | Und | Bohemia Aura /838 Pale/14 Weiss-300 (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,83 | +1.5% | und | Bohemia Aura /838 Pale/14 Weiss-300 ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,42 | +8.6% | und | Bohemia Aura /838 Pale/14 Weiss-300 (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,57 | +2.0% | und | Bohemia Aura /838 Pale/14 Weiss-300 (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,57 | +2.0% | und | Bohemia Aura /838 Pale/14 Weiss-300 (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,57 | +0.0% | und | Bohemia Aura /838 Pale/14 Weiss-300 (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,65 | +1.1% | und | Bohemia Aura /838 Pale/14 Weiss-300 (long neck 200 a 375 ml) | Port. 614/2019 |
 
@@ -8212,7 +8212,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,39 |  | und | Bohemia escura (lata 350 ml) | Port. 176/2015 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,49 | +46.0% | und | Bohemia Escura (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,45 | -1.1% | und | Bohemia Escura (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,52 | +2.0% | und | Bohemia Escura (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,52 | +2.0% | und | Bohemia Escura (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,52 | +0.0% | und | Bohemia Escura (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,53 | +0.3% | und | Bohemia Escura (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,62 | +2.5% | und | Bohemia Escura (lata 350 ml) | Port. 383/2021 |
@@ -8227,7 +8227,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 2,24 |  |  | Cerveja Bohemia Pilsen – Lata 269 ml | Port. 444/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,28 | +1.8% | und | Bohemia Pilsen - 269ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,28 | +1.8% | und | Bohemia Pilsen - 269ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,28 | +0.0% | und | Bohemia Pilsen - 269ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | -4.4% | und | Bohemia Pilsen – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,26 | +3.7% | und | Bohemia Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -8250,7 +8250,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,24 | +11.7% | Und | Bohemia Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,29 | +1.5% | und | Bohemia Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,16 | -4.0% | und | Bohemia Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,22 | +1.9% | und | Bohemia Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,22 | +1.9% | und | Bohemia Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,22 | +0.0% | und | Bohemia Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,02 | -6.2% | und | Bohemia Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,84 | -6.0% | und | Bohemia Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -8270,7 +8270,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 3,69 |  |  | Cerveja Bohemia Pilsen - Lata 473 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,82 | +3.5% | und | Bohemia Pilsen – 473 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,90 | +2.1% | und | Bohemia Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,90 | +2.1% | und | Bohemia Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,90 | +0.0% | und | Bohemia Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,91 | +0.3% | und | Bohemia Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,08 | +4.3% | und | Bohemia Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -8307,7 +8307,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,33 | +6.1% | Und | Bohemia Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,38 | +1.5% | und | Bohemia Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,70 | +9.5% | und | Bohemia Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,77 | +1.9% | und | Bohemia Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,77 | +1.9% | und | Bohemia Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,77 | +0.0% | und | Bohemia Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,86 | +2.4% | und | Bohemia Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,08 | +5.7% | und | Bohemia Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -8392,7 +8392,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,48 | +10.2% | Und | Bossa Nova (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,52 | +1.6% | und | Bossa Nova (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,49 | -1.2% | und | Bossa Nova (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Bossa Nova (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Bossa Nova (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +0.0% | und | Bossa Nova (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,54 | +0.0% | und | Bossa Nova (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,61 | +2.8% | und | Bossa Nova (lata 350 ml) | Port. 383/2021 |
@@ -8426,7 +8426,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +6.1% | Und | Bossa Nova (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Bossa Nova (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,24 | -3.6% | und | Bossa Nova (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Bossa Nova (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Bossa Nova (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +0.0% | und | Bossa Nova (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,36 | +1.8% | und | Bossa Nova (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,44 | +2.4% | und | Bossa Nova (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -8450,7 +8450,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,37 | +10.1% | Und | Brahma 0,0 Álcool Citrus (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,42 | +1.5% | und | Brahma 0,0 Álcool Citrus (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,38 | -1.2% | und | Brahma 0,0 Álcool Citrus (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,45 | +2.1% | und | Brahma 0,0 Álcool Citrus (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,45 | +2.1% | und | Brahma 0,0 Álcool Citrus (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,45 | +0.0% | und | Brahma 0,0 Álcool Citrus (lata 350 ml) | Port. 286/2019 |
 
 ### Brahma 0,0 álcool Citrus – 355 ml (código 48732)
@@ -8462,7 +8462,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,83 | +1.4% | Und | Brahma 0,0 álcool Citrus – 355 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,23 | +14.1% | Und | Brahma 0,0 álcool Citrus – 355 ml | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,57 | +10.5% | und | Brahma 0,0 álcool Citrus – 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,64 | +2.0% | und | Brahma 0,0 álcool Citrus – 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,64 | +2.0% | und | Brahma 0,0 álcool Citrus – 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,64 | +0.0% | und | Brahma 0,0 álcool Citrus – 355 ml | Port. 286/2019 |
 
 ### Brahma 0,0 álcool Citrus – 355 ml (código 48732)
@@ -8483,7 +8483,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,01 | +4.5% | Und | Brahma 0,0 álcool (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,05 | +1.3% | und | Brahma 0,0 álcool (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,94 | -3.6% | und | Brahma 0,0 álcool (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,00 | +2.0% | und | Brahma 0,0 álcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,00 | +2.0% | und | Brahma 0,0 álcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,00 | +0.0% | und | Brahma 0,0 álcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,01 | +0.3% | und | Brahma 0,0 álcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,09 | +2.7% | und | Brahma 0,0 álcool (lata 350 ml) | Port. 383/2021 |
@@ -8508,7 +8508,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,08 | +7.3% | Und | Brahma 0,0 álcool - 355 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,12 | +1.3% | und | Brahma 0,0 álcool - 355 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,44 | +10.3% | und | Brahma 0,0 álcool - 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,51 | +2.0% | und | Brahma 0,0 álcool - 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,51 | +2.0% | und | Brahma 0,0 álcool - 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,51 | +0.0% | und | Brahma 0,0 álcool - 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,68 | +4.8% | und | Brahma 0,0 álcool - 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,55 | -3.5% | und | Brahma 0,0 álcool (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -8552,7 +8552,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,32 | +5.5% | Und | Brahma Chopp (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,41 | +1.4% | und | Brahma Chopp (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,54 | +2.0% | und | Brahma Chopp (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,67 | +2.0% | und | Brahma Chopp (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,67 | +2.0% | und | Brahma Chopp (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,67 | +0.0% | und | Brahma Chopp (descartável 1 L) | Port. 286/2019 |
 
 ### Brahma Chopp (descartável 1 L) (código 512660)
@@ -8572,7 +8572,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,82 | +7.7% | Und | Brahma Chopp – 269 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,85 | +1.6% | und | Brahma Chopp – 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,01 | +8.6% | und | Brahma Chopp – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,05 | +2.0% | und | Brahma Chopp – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,05 | +2.0% | und | Brahma Chopp – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,05 | +0.0% | und | Brahma Chopp – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,98 | -3.4% | und | Brahma Chopp – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,10 | +6.1% | und | Brahma Chopp (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -8606,7 +8606,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,43 | -0.4% | Und | Brahma Chopp (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,50 | +2.9% | und | Brahma Chopp (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,41 | -3.6% | und | Brahma Chopp (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Brahma Chopp (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Brahma Chopp (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +0.0% | und | Brahma Chopp (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,49 | +1.2% | und | Brahma Chopp (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,60 | +4.4% | und | Brahma Chopp (lata 350 ml) | Port. 383/2021 |
@@ -8640,7 +8640,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,60 | +9.1% | Und | Brahma Chopp – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,65 | +1.4% | und | Brahma Chopp – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,78 | +3.6% | und | Brahma Chopp – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,86 | +2.1% | und | Brahma Chopp – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,86 | +2.1% | und | Brahma Chopp – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,86 | +0.0% | und | Brahma Chopp – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,37 | -12.7% | und | Brahma Chopp – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,32 | -1.5% | und | Brahma Chopp (lata) ⚠ | Port. 383/2021 |
@@ -8679,7 +8679,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,83 | +1.1% | Und | Brahma Chopp (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,87 | +1.4% | und | Brahma Chopp ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,27 | +13.9% | und | Brahma Chopp (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,34 | +2.1% | und | Brahma Chopp (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,34 | +2.1% | und | Brahma Chopp (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,34 | +0.0% | und | Brahma Chopp (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,32 | -0.6% | und | Brahma Chopp (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,79 | +14.2% | und | Brahma Chopp (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -8710,7 +8710,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,53 | +2.0% | Und | Brahma Chopp (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,61 | +1.4% | und | Brahma Chopp (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,72 | +2.0% | und | Brahma Chopp (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,83 | +1.9% | und | Brahma Chopp (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,83 | +1.9% | und | Brahma Chopp (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,83 | +0.0% | und | Brahma Chopp (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,12 | +5.0% | und | Brahma Chopp (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,33 | +3.4% | und | Brahma Chopp (retornável 1 L) | Port. 383/2021 |
@@ -8734,7 +8734,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,62 | +3.1% | Und | Brahma Choop (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,66 | +1.5% | und | Brahma Choop (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,71 | +1.9% | und | Brahma Choop (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,76 | +1.8% | und | Brahma Choop (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,76 | +1.8% | und | Brahma Choop (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,76 | +0.0% | und | Brahma Choop (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,76 | +0.0% | und | Brahma Choop (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,48 | -10.1% | und | Brahma Choop (retornável 300 ml) | Port. 383/2021 |
@@ -8768,7 +8768,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,19 | +0.8% | Und | Brahma Chopp (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,26 | +1.3% | und | Brahma Chopp (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,31 | +1.0% | und | Brahma Chopp (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,42 | +2.1% | und | Brahma Chopp (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,42 | +2.1% | und | Brahma Chopp (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,42 | +0.0% | und | Brahma Chopp (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,48 | +1.1% | und | Brahma Chopp (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,49 | +0.2% | und | Brahma Chopp (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -8831,7 +8831,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,99 |  | und | Brahma Chopp Pack (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,03 | +2.0% | und | Brahma Chopp Pack (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,03 | +2.0% | und | Brahma Chopp Pack (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,03 | +0.0% | und | Brahma Chopp Pack (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | +0.0% | und | Brahma Chopp Pack (lata 350 ml) | Port. 614/2019 |
 
@@ -9054,7 +9054,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,83 | +26.4% | Und | Brahma Extra (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,88 | +1.3% | und | Brahma Extra ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,22 | +8.8% | und | Brahma Extra (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,30 | +1.9% | und | Brahma Extra (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,30 | +1.9% | und | Brahma Extra (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,30 | +0.0% | und | Brahma Extra (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,35 | +1.2% | und | Brahma Extra (long neck 200 a 375 ml) | Port. 614/2019 |
 
@@ -9070,7 +9070,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,02 |  | und | Brahma Extra Dark (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,02 |  | und | Brahma Extra Dark (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,02 | +0.0% | und | Brahma Extra Dark (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,03 | +0.3% | und | Brahma Extra Dark (lata 350 ml) | Port. 614/2019 |
 
@@ -9078,7 +9078,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,89 |  | und | Brahma Extra Dark - 355ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 |  | und | Brahma Extra Dark - 355ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +0.0% | und | Brahma Extra Dark - 355ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,93 | +1.0% | und | Brahma Extra Dark - 355ml | Port. 614/2019 |
 
@@ -9087,7 +9087,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,95 |  | und | Brahma Extra Heller (long neck 200 a 375 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Brahma Extra Heller (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Brahma Extra Heller (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +0.0% | und | Brahma Extra Heller (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,07 | +1.0% | und | Brahma Extra Heller (long neck 200 a 375 ml) | Port. 614/2019 |
 
@@ -9097,7 +9097,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,20 |  | und | Brahma Extra Lager (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,27 | +1.1% | und | Brahma Extra Lager (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,40 | +2.1% | und | Brahma Extra Lager (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,40 | +2.1% | und | Brahma Extra Lager (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,40 | +0.0% | und | Brahma Extra Lager (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,27 | -2.0% | und | Brahma Extra Lager (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,45 | +2.9% | und | Brahma Extra Lager (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -9112,7 +9112,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 2,24 |  |  | Cerveja Brahma Extra Lager – Lata 269 ml | Port. 444/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,28 | +1.8% | und | Brahma Extra Lager - 269ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,28 | +1.8% | und | Brahma Extra Lager - 269ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,28 | +0.0% | und | Brahma Extra Lager - 269ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,25 | -1.3% | und | Brahma Extra Lager – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,32 | +3.1% | und | Brahma Extra Lager (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -9131,7 +9131,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,17 | +10.1% | Und | Brahma Extra Lager (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Brahma Extra Lager (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,96 | -8.1% | und | Brahma Extra Lager (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,02 | +2.0% | und | Brahma Extra Lager (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,02 | +2.0% | und | Brahma Extra Lager (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,02 | +0.0% | und | Brahma Extra Lager (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,16 | +4.6% | und | Brahma Extra Lager (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,24 | +2.5% | und | Brahma Extra Lager (lata 350 ml) | Port. 383/2021 |
@@ -9151,7 +9151,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 3,69 |  |  | Cerveja Brahma Extra Lager - Lata 473 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,82 | +3.5% | und | Brahma Extra Lager – 473 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,90 | +2.1% | und | Brahma Extra Lager – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,90 | +2.1% | und | Brahma Extra Lager – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,90 | +0.0% | und | Brahma Extra Lager – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,91 | +0.3% | und | Brahma Extra Lager – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,08 | +4.3% | und | Brahma Extra Lager (lata) ⚠ | Port. 383/2021 |
@@ -9167,7 +9167,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,50 |  | und | Brahma Extra Lager (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,26 | -3.7% | und | Brahma Extra Lager (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Brahma Extra Lager (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Brahma Extra Lager (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +0.0% | und | Brahma Extra Lager (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,56 | +2.7% | und | Brahma Extra Lager (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,71 | +2.3% | und | Brahma Extra Lager (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -9186,7 +9186,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,58 | +14.0% | Und | Brahma Extra Larger (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,63 | +1.4% | und | Brahma Extra Larger ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,81 | +5.0% | und | Brahma Extra Larger (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,89 | +2.1% | und | Brahma Extra Larger (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +2.1% | und | Brahma Extra Larger (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +0.0% | und | Brahma Extra Larger (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,88 | -0.3% | und | Brahma Extra Larger (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,98 | +2.6% | und | Brahma Extra Larger (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -9205,7 +9205,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,17 | +10.1% | Und | Brahma Extra Red (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Brahma Extra Red (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,18 | -1.2% | und | Brahma Extra Red (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Brahma Extra Red (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Brahma Extra Red (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +0.0% | und | Brahma Extra Red (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,25 | +0.3% | und | Brahma Extra Red (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,34 | +2.8% | und | Brahma Extra Red (lata 350 ml) | Port. 383/2021 |
@@ -9221,7 +9221,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,20 |  | und | Brahma Extra Red Lager (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,27 | +1.1% | und | Brahma Extra Red Lager (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,40 | +2.1% | und | Brahma Extra Red Lager (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,40 | +2.1% | und | Brahma Extra Red Lager (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,40 | +0.0% | und | Brahma Extra Red Lager (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,27 | -2.0% | und | Brahma Extra Red Lager (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,45 | +2.9% | und | Brahma Extra Red Lager (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -9243,7 +9243,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,24 | +5.9% | Und | Brahma Extra (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,50 | +4.2% | und | Brahma Extra Red Lager (retornável 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,26 | -3.7% | und | Brahma Extra Red Lager (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Brahma Extra Red Lager (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Brahma Extra Red Lager (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +0.0% | und | Brahma Extra Red Lager (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,51 | +1.9% | und | Brahma Extra Red Lager (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,66 | +2.3% | und | Brahma Extra Red Lager (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -9259,7 +9259,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,58 | +14.0% | Und | Brahma Extra Red Larger (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,63 | +1.4% | und | Brahma Extra Red Larger ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,95 | +8.8% | und | Brahma Extra Red Larger (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Brahma Extra Red Larger (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Brahma Extra Red Larger (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +0.0% | und | Brahma Extra Red Larger (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,83 | -5.0% | und | Brahma Extra Red Larger (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,93 | +2.6% | und | Brahma Extra Red Larger (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -9274,7 +9274,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,20 |  | und | Brahma Extra Weiss (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,27 | +1.1% | und | Brahma Extra Weiss (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,40 | +2.1% | und | Brahma Extra Weiss (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,40 | +2.1% | und | Brahma Extra Weiss (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,40 | +0.0% | und | Brahma Extra Weiss (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,27 | -2.0% | und | Brahma Extra Weiss (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,45 | +2.9% | und | Brahma Extra Weiss (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -9290,7 +9290,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,17 | +10.1% | Und | Brahma Extra Weiss (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Brahma Extra Weiss (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,18 | -1.2% | und | Brahma Extra Weiss (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Brahma Extra Weiss (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Brahma Extra Weiss (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +0.0% | und | Brahma Extra Weiss (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,25 | +0.3% | und | Brahma Extra Weiss (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,34 | +2.8% | und | Brahma Extra Weiss (lata 350 ml) | Port. 383/2021 |
@@ -9308,7 +9308,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,58 | +14.0% | Und | Brahma Extra Weiss (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,63 | +1.4% | und | Brahma Extra Weiss ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,95 | +8.8% | und | Brahma Extra Weiss (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Brahma Extra Weiss (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Brahma Extra Weiss (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +0.0% | und | Brahma Extra Weiss (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,07 | +1.0% | und | Brahma Extra Weiss (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,17 | +2.5% | und | Brahma Extra Weiss (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -9323,7 +9323,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,50 |  | und | Brahma Extra Weiss (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,26 | -3.7% | und | Brahma Extra Weiss (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Brahma Extra Weiss (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Brahma Extra Weiss (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +0.0% | und | Brahma Extra Weiss (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,51 | +1.9% | und | Brahma Extra Weiss (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,66 | +2.3% | und | Brahma Extra Weiss (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -9346,7 +9346,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,46 | +9.8% | Und | Brahma fresh (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,50 | +1.6% | und | Brahma fresh (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,47 | -1.2% | und | Brahma fresh (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,52 | +2.0% | und | Brahma fresh (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,52 | +2.0% | und | Brahma fresh (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,52 | +0.0% | und | Brahma fresh (lata 350 ml) | Port. 286/2019 |
 
 ### Brahma fresh (lata 473 ml) (código —)
@@ -9409,7 +9409,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,22 | +6.1% | Und | Brahma fresh (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,29 | +1.3% | und | Brahma fresh (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,10 | -3.6% | und | Brahma fresh (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,20 | +2.0% | und | Brahma fresh (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,20 | +2.0% | und | Brahma fresh (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,20 | +0.0% | und | Brahma fresh (retornável 600 ml) | Port. 286/2019 |
 
 ### Brahma fresh – 473 ml (código 9035)
@@ -9435,7 +9435,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,24 | +5.9% | Und | Brahma Malzbier (retornável 600 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,33 | +1.4% | und | Brahma Malzbier (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,10 | -3.6% | und | Brahma Malzbier (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,22 | +2.0% | und | Brahma Malzbier (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,22 | +2.0% | und | Brahma Malzbier (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,22 | +0.0% | und | Brahma Malzbier (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,34 | +1.9% | und | Brahma Malzbier (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,48 | +2.2% | und | Brahma Malzbier (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -9458,7 +9458,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,46 | +10.1% | Und | Brahma Malzebier (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,52 | +1.3% | und | Brahma Malzebier (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,46 | -1.3% | und | Brahma Malzebier (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,55 | +2.0% | und | Brahma Malzebier (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,55 | +2.0% | und | Brahma Malzebier (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,55 | +0.0% | und | Brahma Malzebier (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,56 | +0.2% | und | Brahma Malzebier (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,68 | +2.6% | und | Brahma Malzebier (lata 350 ml) | Port. 383/2021 |
@@ -9497,7 +9497,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,41 | +14.8% | Und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,46 | +1.5% | und | Brahma Malzebier ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,95 | +14.2% | und | Brahma Malzebier (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Brahma Malzebier (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Brahma Malzebier (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +0.0% | und | Brahma Malzebier (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,99 | -1.0% | und | Brahma Malzebier (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,09 | +2.5% | und | Brahma Malzebier (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -9547,7 +9547,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,09 | +58.3% | Und | Brunnen (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,12 | +1.4% | und | Brunnen (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,16 | +1.9% | und | Brunnen (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,20 | +1.9% | und | Brunnen (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +1.9% | und | Brunnen (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +0.0% | und | Brunnen (long neck 250 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,22 | +0.9% | und | Brunnen (long neck 250 ml) | Port. 614/2019 |
 
@@ -9567,7 +9567,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +6.1% | Und | Brunnen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Brunnen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,24 | -3.6% | und | Brunnen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Brunnen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Brunnen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +0.0% | und | Brunnen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,36 | +1.8% | und | Brunnen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,44 | +2.4% | und | Brunnen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -9586,7 +9586,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,04 |  | und | Budweiser (descartável 550 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,18 | +2.0% | und | Budweiser (descartável 550 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,18 | +2.0% | und | Budweiser (descartável 550 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,18 | +0.0% | und | Budweiser (descartável 550 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,02 | -2.2% | und | Budweiser (descartável 550 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,25 | +3.3% | und | Budweiser (descartável 500 a 550 ml) | Port. 383/2021 |
@@ -9601,7 +9601,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,24 | +0.3% | Und | Budweiser (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,33 | +1.4% | und | Budweiser (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,87 | +8.5% | und | Budweiser (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,01 | +2.0% | und | Budweiser (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,01 | +2.0% | und | Budweiser (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,01 | +0.0% | und | Budweiser (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,87 | -2.0% | und | Budweiser (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,06 | +2.8% | und | Budweiser (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -9626,7 +9626,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,68 | +11.2% | Und | Budweiser (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,72 | +1.5% | und | Budweiser ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,65 | -2.6% | und | Budweiser (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Budweiser (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Budweiser (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +0.0% | und | Budweiser (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,72 | +0.7% | und | Budweiser (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,77 | +1.8% | und | Budweiser (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -9654,7 +9654,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,35 | +8.8% | Und | Budweiser (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,40 | +1.5% | und | Budweiser (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,23 | -5.0% | und | Budweiser (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,29 | +1.9% | und | Budweiser (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,29 | +1.9% | und | Budweiser (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,29 | +0.0% | und | Budweiser (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,24 | -1.5% | und | Budweiser (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +4.0% | und | Budweiser (lata 350 ml) | Port. 383/2021 |
@@ -9679,7 +9679,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,64 | +9.0% | Und | Budweiser – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,69 | +1.4% | und | Budweiser – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,82 | +3.5% | und | Budweiser – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,90 | +2.1% | und | Budweiser – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,90 | +2.1% | und | Budweiser – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,90 | +0.0% | und | Budweiser – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,91 | +0.3% | und | Budweiser – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,08 | +4.3% | und | Budweiser (lata) ⚠ | Port. 383/2021 |
@@ -9698,7 +9698,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,79 |  | und | Budweiser – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Budweiser – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +2.1% | und | Budweiser – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,87 | +0.0% | und | Budweiser – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,09 | +5.7% | und | Budweiser – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +5.9% | und | Budweiser (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -9741,7 +9741,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,80 | +6.0% | Und | Budweiser (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,88 | +1.4% | und | Budweiser (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,67 | -3.6% | und | Budweiser (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,78 | +1.9% | und | Budweiser (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,78 | +1.9% | und | Budweiser (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,78 | +0.0% | und | Budweiser (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,17 | +24.0% | und | Budweiser (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,64 | +6.6% | und | Budweiser (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -9785,14 +9785,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,60 | +6.5% | Und | Budweiser - 343 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,65 | +1.4% | und | Budweiser - 343 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,95 | +8.2% | und | Budweiser - 343 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Budweiser - 343 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +2.0% | und | Budweiser - 343 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,03 | +0.0% | und | Budweiser - 343 ml | Port. 286/2019 |
 
 ### Budweiser - 410 ml (código 49546)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,69 |  | und | Budweiser - 410ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 |  | und | Budweiser - 410ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +0.0% | und | Budweiser - 410ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,70 | +0.3% | und | Budweiser - 410ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,86 | +4.3% | und | Budweiser – 410 ml | Port. 383/2021 |
@@ -9919,7 +9919,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,62 | +10.1% | Und | Burguesa (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,66 | +1.5% | und | Burguesa (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,63 | -1.1% | und | Burguesa (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,68 | +1.9% | und | Burguesa (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,68 | +1.9% | und | Burguesa (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,68 | +0.0% | und | Burguesa (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,69 | +0.4% | und | Burguesa (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,76 | +2.6% | und | Burguesa (lata 350 ml) | Port. 383/2021 |
@@ -9943,7 +9943,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,40 | +14.1% | Und | Burguesa – 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,45 | +1.5% | und | Burguesa – 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,75 | +8.7% | und | Burguesa – 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Burguesa – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Burguesa – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +0.0% | und | Burguesa – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,87 | +1.0% | und | Burguesa – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,00 | +3.4% | und | Burguesa (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -9972,7 +9972,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,98 | +10.9% | und | Burguesa (retornável 600 ml) | Port. 397/2016 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,23 | +6.3% | und | Burguesa (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,08 | -3.5% | und | Burguesa (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,16 | +2.0% | und | Burguesa (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,16 | +2.0% | und | Burguesa (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,16 | +0.0% | und | Burguesa (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,24 | +1.9% | und | Burguesa (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +2.1% | und | Burguesa (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -9994,7 +9994,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,04 | +0.2% | Und | Burguesa Pilsen (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,10 | +1.5% | und | Burguesa Pilsen (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,15 | +1.2% | und | Burguesa Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,23 | +1.9% | und | Burguesa Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,23 | +1.9% | und | Burguesa Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,23 | +0.0% | und | Burguesa Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,15 | -1.9% | und | Burguesa Pilsen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,27 | +2.9% | und | Burguesa Pilsen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -10029,7 +10029,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,10 | +11.1% | Und | Burguesa PIlsen - 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,13 | +1.4% | und | Burguesa PIlsen - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,17 | +1.9% | und | Burguesa PIlsen - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Burguesa PIlsen - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Burguesa PIlsen - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +0.0% | und | Burguesa PIlsen - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | -1.4% | und | Burguesa PIlsen - 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,25 | +3.2% | und | Burguesa Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -10052,7 +10052,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,27 | +9.0% | Und | Burguesa Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,32 | +1.5% | und | Burguesa Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,44 | +3.6% | und | Burguesa Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,51 | +2.0% | und | Burguesa Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,51 | +2.0% | und | Burguesa Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,51 | +0.0% | und | Burguesa Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,52 | +0.3% | und | Burguesa Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,68 | +4.5% | und | Burguesa Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -10074,7 +10074,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,92 | +37.1% | Und | Burguesa Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,96 | +1.4% | und | Burguesa Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,02 | +2.0% | und | Burguesa Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,08 | +2.0% | und | Burguesa Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,08 | +2.0% | und | Burguesa Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,08 | +0.0% | und | Burguesa Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,08 | +0.0% | und | Burguesa Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,77 | -10.1% | und | Burguesa Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -10220,7 +10220,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-06 (pub.) | 2018-06-28 | incluir | 7,52 |  |  | Cerveja Cacildis Amber Lager - Descartavel 600 ml | Port. 233/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,61 | +1.2% | und | Cacildis Amber Lager (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,76 | +2.0% | und | Cacildis Amber Lager (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,76 | +2.0% | und | Cacildis Amber Lager (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,76 | +0.0% | und | Cacildis Amber Lager (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,61 | -1.9% | und | Cacildis Amber Lager (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,82 | +2.8% | und | Cacildis Amber Lager (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -10240,7 +10240,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-06 (pub.) | 2018-06-28 | incluir | 2,49 |  |  | Cerveja Cacildis Amber Lager 269 ml | Port. 233/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,54 | +2.0% | und | Cacildis Amber Lager – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,59 | +2.0% | und | Cacildis Amber Lager – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,59 | +2.0% | und | Cacildis Amber Lager – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,59 | +0.0% | und | Cacildis Amber Lager – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,56 | -1.2% | und | Cacildis Amber Lager – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,64 | +3.1% | und | Cacildis Amber Lager (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -10259,7 +10259,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,90 |  | und | Cacildis Amber Lager (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,96 | +2.1% | und | Cacildis Amber Lager (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,96 | +2.1% | und | Cacildis Amber Lager (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,96 | +0.0% | und | Cacildis Amber Lager (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,32 | +12.2% | und | Cacildis Amber Lager (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,36 | +1.2% | und | Cacildis Amber Lager (lata 350 ml) | Port. 383/2021 |
@@ -10278,7 +10278,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,45 |  | und | Cacildis Amber Lager (long neck 200 a 375 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,54 | +2.0% | und | Cacildis Amber Lager (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,54 | +2.0% | und | Cacildis Amber Lager (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,54 | +0.0% | und | Cacildis Amber Lager (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,85 | +6.8% | und | Cacildis Amber Lager (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,61 | -4.9% | und | Cacildis Amber Lager (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -10290,7 +10290,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-06 (pub.) | 2018-06-28 | incluir | 5,75 |  |  | Cerveja Cacildis Amber Lager - Retornável 600 ml | Port. 233/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,54 | -3.7% | und | Cacildis Amber Lager (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,65 | +2.0% | und | Cacildis Amber Lager (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,65 | +2.0% | und | Cacildis Amber Lager (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,65 | +0.0% | und | Cacildis Amber Lager (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,76 | +1.9% | und | Cacildis Amber Lager (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,89 | +2.3% | und | Cacildis Amber Lager (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -10318,7 +10318,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,51 | +10.0% | Und | Calsberg (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,56 | +1.4% | und | Calsberg (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,52 | -1.1% | und | Calsberg (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,59 | +2.0% | und | Calsberg (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,59 | +2.0% | und | Calsberg (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,59 | +0.0% | und | Calsberg (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,60 | +0.3% | und | Calsberg (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,70 | +2.8% | und | Calsberg (lata 350 ml) | Port. 383/2021 |
@@ -10348,7 +10348,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,30 | +0.2% | Und | Capivaryana (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,36 | +1.4% | und | Capivaryana (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,41 | +1.1% | und | Capivaryana (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Capivaryana (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Capivaryana (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +0.0% | und | Capivaryana (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,41 | -2.0% | und | Capivaryana (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,53 | +2.7% | und | Capivaryana (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -10383,7 +10383,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,50 |  | und | Capunga APA (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,67 | +2.0% | und | Capunga APA (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,67 | +2.0% | und | Capunga APA (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,67 | +0.0% | und | Capunga APA (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,50 | -2.0% | und | Capunga APA (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,74 | +2.8% | und | Capunga APA (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -10410,7 +10410,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,95 |  | und | Capunga Bala de Prata - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,01 | +2.0% | und | Capunga Bala de Prata - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,01 | +2.0% | und | Capunga Bala de Prata - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,01 | +0.0% | und | Capunga Bala de Prata - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,02 | +0.3% | und | Capunga Bala de Prata - 473 ml | Port. 614/2019 |
 
@@ -10450,7 +10450,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,50 |  | und | Capunga IPA (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,67 | +2.0% | und | Capunga IPA (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,67 | +2.0% | und | Capunga IPA (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,67 | +0.0% | und | Capunga IPA (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,50 | -2.0% | und | Capunga IPA (descartável 600 ml) | Port. 614/2019 |
 
@@ -10474,7 +10474,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,50 |  | und | Capunga Larger (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,67 | +2.0% | und | Capunga Larger (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,67 | +2.0% | und | Capunga Larger (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,67 | +0.0% | und | Capunga Larger (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,50 | -2.0% | und | Capunga Larger (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,74 | +2.8% | und | Capunga Larger (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -10493,7 +10493,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,95 |  | und | Capunga Larger - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,01 | +2.0% | und | Capunga Larger - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,01 | +2.0% | und | Capunga Larger - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,01 | +0.0% | und | Capunga Larger - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,02 | +0.3% | und | Capunga Larger - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,15 | +4.3% | und | Capunga Larger (lata) ⚠ | Port. 383/2021 |
@@ -10512,7 +10512,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,40 |  | und | Capunga Larger- 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,45 | +2.1% | und | Capunga Larger- 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,45 | +2.1% | und | Capunga Larger- 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,45 | +0.0% | und | Capunga Larger- 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,48 | +1.2% | und | Capunga Larger- 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,74 | +10.5% | und | Capunga Larger (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -10546,7 +10546,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,72 |  | und | Capungar Larger (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,85 | +1.9% | und | Capunga Larger (descartável 1 L) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,85 | +1.9% | und | Capunga Larger (descartável 1 L) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,85 | +0.0% | und | Capunga Larger (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,02 | +2.5% | und | Capunga Larger (descartável 1 L) | Port. 614/2019 |
 
@@ -10570,7 +10570,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,72 |  | und | Capunga Pilsen Praia (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,85 | +1.9% | und | Capunga Pilsen Praia (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,85 | +1.9% | und | Capunga Pilsen Praia (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,85 | +0.0% | und | Capunga Pilsen Praia (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,02 | +2.5% | und | Capunga Pilsen Praia (descartável 1 L) | Port. 614/2019 |
 
@@ -10594,7 +10594,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,50 |  | und | Capunga Pilsen Praia (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,67 | +2.0% | und | Capunga Pilsen Praia (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,67 | +2.0% | und | Capunga Pilsen Praia (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,67 | +0.0% | und | Capunga Pilsen Praia (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,50 | -2.0% | und | Capunga Pilsen Praia (descartável 600 ml) | Port. 614/2019 |
 
@@ -10638,7 +10638,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,01 |  | und | Capunga Pilsen Praia - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,01 |  | und | Capunga Pilsen Praia - 473 ml | Port. 285/2019 |
 
 ### Capunga Pilsen Praia - 473 ml (código 50307)
 
@@ -10657,7 +10657,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,40 |  | und | Capunga Pilsen Praia – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,45 | +2.1% | und | Capunga Pilsen Praia – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,45 | +2.1% | und | Capunga Pilsen Praia – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,45 | +0.0% | und | Capunga Pilsen Praia – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,48 | +1.2% | und | Capunga Pilsen Praia – 330 ml | Port. 614/2019 |
 
@@ -10701,7 +10701,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,25 | +10.2% | Und | Caracu (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,30 | +1.5% | und | Caracu (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,26 | -1.2% | und | Caracu (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,33 | +2.1% | und | Caracu (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,33 | +2.1% | und | Caracu (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,33 | +0.0% | und | Caracu (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,34 | +0.3% | und | Caracu (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,43 | +2.7% | und | Caracu (lata 350 ml) | Port. 383/2021 |
@@ -10740,7 +10740,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,41 | +14.0% | Und | Caracu (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,46 | +1.5% | und | Caracu ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,86 | +11.6% | und | Caracu (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,94 | +2.1% | und | Caracu – 355 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,94 | +2.1% | und | Caracu – 355 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,94 | +0.0% | und | Caracu – 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,08 | +3.6% | und | Caracu – 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +2.5% | und | Caracu (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -10825,7 +10825,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,39 | +57.9% | Und | Carlsberg (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,45 | +1.4% | und | Carlsberg (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,54 | +2.0% | und | Carlsberg (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,63 | +2.0% | und | Carlsberg (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,63 | +2.0% | und | Carlsberg (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,63 | +0.0% | und | Carlsberg (long neck 250 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,68 | +1.1% | und | Carlsberg (long neck 250 ml) | Port. 614/2019 |
 
@@ -10856,7 +10856,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 1,80 | -42.1% |  | Cerveja Cerpa Darft - Lata 350 ml ⚠ | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,15 | +75.0% | und | Cerpa Export – 310 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,21 | +1.9% | und | Cerpa Export – 310 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Cerpa Export – 310 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Cerpa Export – 310 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +0.0% | und | Cerpa Export – 310 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,23 | -1.2% | und | Cerpa Export – 310 ml | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 2,10 | -35.0% |  | Cerveja Cerpa Darft – Lata 350 ml ⚠ | Port. 418/2020 |
@@ -10877,7 +10877,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,52 |  | und | Cerpa Draft | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,55 | +2.0% | und | Cerpa Draft (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,58 | +1.9% | und | Cerpa Draft (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,58 | +1.9% | und | Cerpa Draft (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,58 | +0.0% | und | Cerpa Draft (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,06 | +30.4% | und | Cerpa Draft – 269 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,13 | +3.4% | und | Cerpa Draft (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -10901,7 +10901,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,98 | +32.0% | Und | Cerpa Draft – 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,52 | -23.2% | und | Cerpa Draft – 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,55 | +2.0% | und | Cerpa Draft – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,58 | +1.9% | und | Cerpa Draft – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,58 | +1.9% | und | Cerpa Draft – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,58 | +0.0% | und | Cerpa Draft – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,56 | -1.3% | und | Cerpa Draft – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,61 | +3.2% | und | Cerpa Draft (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -10922,7 +10922,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,50 | +10.1% | Und | Cerpa draft (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,83 | -26.8% | und | Cerpa draft (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,81 | -1.1% | und | Cerpa draft (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,85 | +2.2% | und | Cerpa draft (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,85 | +2.2% | und | Cerpa draft (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,85 | +0.0% | und | Cerpa draft (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,85 | +0.0% | und | Cerpa draft (lata 350 ml) | Port. 614/2019 |
 
@@ -10944,7 +10944,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 3,35 | -9.2% |  | Cerveja Cerpa Draft - Retornável 600 ml | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,40 | +1.5% | und | Cerpa Draft (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,28 | -3.5% | und | Cerpa Draft (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,35 | +2.1% | und | Cerpa Draft (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,35 | +2.1% | und | Cerpa Draft (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,35 | +0.0% | und | Cerpa Draft (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,35 | +0.0% | und | Cerpa Draft (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,43 | +2.4% | und | Cerpa Draft (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -10975,7 +10975,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,46 | +0.2% | Und | Cerpa Draft (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,01 | -10.1% | und | Cerpa Draft OW (descartável 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,06 | +1.2% | und | Cerpa Draft OW (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,14 | +2.0% | und | Cerpa Draft OW (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,14 | +2.0% | und | Cerpa Draft OW (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,14 | +0.0% | und | Cerpa Draft OW (descartável 600 ml) | Port. 286/2019 |
 
 ### Cerpa Draft – 269 ml (código 50047)
@@ -10983,7 +10983,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,05 |  | und | Cerpa Draft – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,09 | +2.0% | und | Cerpa Draft – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,09 | +2.0% | und | Cerpa Draft – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,09 | +0.0% | und | Cerpa Draft – 269 ml | Port. 286/2019 |
 
 ### Cerpa Draft – 269 ml (código 50047)
@@ -11025,7 +11025,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 3,00 |  |  | Cerveja Cerpa Export - Lata 310 ml | Port. 560/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,10 | +3.3% | und | Cerpa Export (lata 220 a 310 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,16 | +1.9% | und | Cerpa Export (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,16 | +1.9% | und | Cerpa Export (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,16 | +0.0% | und | Cerpa Export (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,12 | -1.3% | und | Cerpa Export (lata 220 a 310 ml) | Port. 614/2019 |
 
@@ -11088,7 +11088,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,01 | +13.9% | Und | Cerpa export – 350 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,55 | -11.5% | und | Cerpa export – 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,80 | +63.4% | und | Cerpa export – 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,93 | -32.2% | und | Cerpa export – 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,93 | -32.2% | und | Cerpa export – 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,93 | +0.0% | und | Cerpa export – 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,29 | +34.6% | und | Cerpa export – 350 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,30 | -18.7% | und | Cerpa export (long neck 350 ml) ⚠ | Port. 383/2021 |
@@ -11173,7 +11173,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 5,20 |  |  | Cerpa Extra - Descartavel 600 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,20 | +0.0% | und | Cerpa Export (descartável 600 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,20 | +0.0% | und | Cerpa Export (descartável 600 ml) ⚠ | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,10 | -1.9% | und | Cerpa Extra (descartável 600 ml) ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,24 | +2.7% | und | Cerpa Extra (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 5,54 | +5.7% | und | Cerpa Extra (descartável 600 ml) ⚠ | Port. 454/2022 |
@@ -11190,7 +11190,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,75 |  | und | Cerpa Extra (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,75 |  | und | Cerpa Extra (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,73 | -1.1% | und | Cerpa Extra (lata 220 a 310 ml) | Port. 614/2019 |
 
 ### Cerpa Extra (lata 250 a 330 ml) (código 50628)
@@ -11221,7 +11221,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 2,20 |  |  | Cerpa Extra - Lata 350 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,20 | +0.0% | und | Cerpa Extra (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +0.0% | und | Cerpa Extra (lata 350 ml) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,20 | +0.0% | und | Cerpa Extra (lata 350 ml) | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 2,32 | +5.5% |  | Cerveja Cerpa Extra – Lata 350 ml | Port. 418/2020 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,38 | +2.6% | und | Cerpa Extra (lata 350 ml) | Port. 383/2021 |
@@ -11240,7 +11240,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 3,00 |  |  | Cerpa Extra – Long Neck 350 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,00 | +0.0% | und | Cerpa Extra - 350 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,00 | +0.0% | und | Cerpa Extra - 350 ml ⚠ | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,03 | +1.0% | und | Cerpa Extra - 350 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,32 | +9.6% | und | Cerpa Extra (long neck 350 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 3,62 | +9.0% | und | Cerpa Extra (long neck 350 ml) | Port. 454/2022 |
@@ -11258,7 +11258,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 3,65 |  |  | Cerpa Extra - Retornável 600 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,65 | +0.0% | und | Cerpa Extra (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,65 | +0.0% | und | Cerpa Extra (retornável 600 ml) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,72 | +1.9% | und | Cerpa Extra (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,80 | +2.2% | und | Cerpa Extra (retornável 550 a 600 ml) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 4,04 | +6.3% | und | Cerpa Extra (retornável 600 ml) | Port. 454/2022 |
@@ -11291,7 +11291,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 1,74 | -35.6% |  | Cerveja Cerpa Gold - Lata 269 ml ⚠ | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,76 | +1.1% | und | Cerpa Gold ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,80 | +2.3% | und | Cerpa Gold (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,84 | +2.2% | und | Cerpa Gold (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,84 | +2.2% | und | Cerpa Gold (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,84 | +0.0% | und | Cerpa Gold (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,82 | -1.1% | und | Cerpa Gold (lata 220 a 310 ml) | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 2,05 | +12.6% |  | Cerveja Cerpa Gold – Lata 269 ml ⚠ | Port. 418/2020 |
@@ -11321,7 +11321,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 1,85 | -24.5% |  | Cerveja Cerpa Gold - Lata 350 ml | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,88 | +1.6% | und | Cerpa gold (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,86 | -1.1% | und | Cerpa gold (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,90 | +2.2% | und | Cerpa gold (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,90 | +2.2% | und | Cerpa gold (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,90 | +0.0% | und | Cerpa gold (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,90 | +0.0% | und | Cerpa gold (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,95 | +2.6% | und | Cerpa gold (lata 350 ml) | Port. 383/2021 |
@@ -11353,7 +11353,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 3,46 | +2.7% |  | Cerveja Cerpa Gold - Retornável 600 ml | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,51 | +1.4% | und | Cerpa Gold (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,38 | -3.7% | und | Cerpa Gold (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,45 | +2.1% | und | Cerpa Gold (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,45 | +2.1% | und | Cerpa Gold (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,45 | +0.0% | und | Cerpa Gold (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,45 | +0.0% | und | Cerpa Gold (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,53 | +2.3% | und | Cerpa Gold (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -11385,7 +11385,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 4,15 | -8.2% |  | Cerveja Cerpa Gold OW - Descartavel 600 ml ⚠ | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,21 | +1.4% | und | Cerpa Gold OW (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,26 | +1.2% | und | Cerpa Gold OW (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Cerpa Gold OW (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Cerpa Gold OW (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +0.0% | und | Cerpa Gold OW (descartável 600 ml) | Port. 286/2019 |
 
 ### Cerveja Cerpa Gold – Long Neck 355 ml (código 38054)
@@ -11417,7 +11417,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-01-29 (pub.) | 2018-01-23 | incluir | 1,40 |  |  | Cerveja Cerpa Nevada - Lata 269 ml | Port. 30/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,41 | +0.7% | und | Cerpa Nevada – 269 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,44 | +2.1% | und | Cerpa Nevada – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,47 | +2.1% | und | Cerpa Nevada – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,47 | +2.1% | und | Cerpa Nevada – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,47 | +0.0% | und | Cerpa Nevada – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,45 | -1.4% | und | Cerpa Nevada – 269 ml | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 1,88 | +29.7% |  | Cerveja Cerpa Nevada - Lata 269 ml ⚠ | Port. 418/2020 |
@@ -11439,7 +11439,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-01-29 (pub.) | 2018-01-23 | incluir | 1,60 |  |  | Cerveja Cerpa Nevada - Lata 350 ml | Port. 30/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,61 | +0.6% | und | Cerpa Nevada (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,59 | -1.2% | und | Cerpa Nevada (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,62 | +1.9% | und | Cerpa Nevada (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,62 | +1.9% | und | Cerpa Nevada (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,62 | +0.0% | und | Cerpa Nevada (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,62 | +0.0% | und | Cerpa Nevada (lata 350 ml) | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 2,03 | +25.3% |  | Cerveja Cerpa Nevada – Lata 350 ml | Port. 418/2020 |
@@ -11461,7 +11461,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-01-29 (pub.) | 2018-01-23 | incluir | 3,00 |  |  | Cerveja Cerpa Nevada - Retornável 600 ml | Port. 30/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,02 | +0.7% | und | Cerpa Nevada (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,91 | -3.6% | und | Cerpa Nevada (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,97 | +2.1% | und | Cerpa Nevada (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,97 | +2.1% | und | Cerpa Nevada (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,97 | +0.0% | und | Cerpa Nevada (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,03 | +2.0% | und | Cerpa Nevada (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,10 | +2.3% | und | Cerpa Nevada (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -11510,7 +11510,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,39 | +14.0% | Und | Cerveja Cerpa Prime Puro Malte - 350ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,45 | +1.4% | und | Cerpa Prime Puro Malte - 350ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,84 | +8.8% | und | Cerpa Prime Puro Malte - 350ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,94 | +2.1% | und | Cerpa Prime Puro Malte - 350ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,94 | +2.1% | und | Cerpa Prime Puro Malte - 350ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,94 | +0.0% | und | Cerpa Prime Puro Malte - 350ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,99 | +1.0% | und | Cerpa Prime Puro Malte - 350ml | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 4,80 | -3.8% |  | Cerveja Cerpa Prime – Long Neck 350 ml ⚠ | Port. 418/2020 |
@@ -11545,7 +11545,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,55 | +10.9% | Und | Cerpa Prime – 310 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,60 | +1.4% | und | Cerpa Prime – 310 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,67 | +1.9% | und | Cerpa Prime – 310 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,74 | +1.9% | und | Cerpa Prime – 310 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,74 | +1.9% | und | Cerpa Prime – 310 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,74 | +0.0% | und | Cerpa Prime – 310 ml | Port. 286/2019 |
 
 ### Cerpa Primer (lata 269 ml) (código 48704)
@@ -11554,7 +11554,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,21 |  | und | Cerpa Primer | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,27 | +1.9% | und | Cerpa Primer (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,34 | +2.1% | und | Cerpa Primer (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,34 | +2.1% | und | Cerpa Primer (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,34 | +0.0% | und | Cerpa Primer (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,30 | -1.2% | und | Cerpa Primer (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,41 | +3.3% | und | Cerpa Primer (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -11567,7 +11567,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,90 |  | und | Cerpa Pimer OW – 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,24 | +8.7% | und | Cerpa Pimer OW – 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,32 | +1.9% | und | Cerpa Pimer OW – 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +1.9% | und | Cerpa Pimer OW – 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +0.0% | und | Cerpa Pimer OW – 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,37 | +1.2% | und | Cerpa Primer OW – 350 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,79 | +9.6% | und | Cerpa Primer OW (long neck 350 ml) ⚠ | Port. 383/2021 |
@@ -11591,7 +11591,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 5,42 | -23.3% |  | Cerveja Cerpa Tijuca OW - Descartavel 600 ml ⚠ | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,50 | +1.5% | und | Cerpa Tijuca OW (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,56 | +1.1% | und | Cerpa Tijuca OW (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,67 | +2.0% | und | Cerpa Tijuca OW (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,67 | +2.0% | und | Cerpa Tijuca OW (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,67 | +0.0% | und | Cerpa Tijuca OW (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,56 | -1.9% | und | Cerpa Tijuca OW (descartável 600 ml) | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 6,20 | +11.5% |  | Cerveja Cerpa Tijuca – Descartavel 600 ml ⚠ | Port. 418/2020 |
@@ -11626,7 +11626,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 1,75 | -52.3% |  | Cerveja Cerpa Tijuca - Lata 269 ml ⚠ | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,77 | +1.1% | und | Cerpa Tijuca ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,81 | +2.3% | und | Cerpa Tijuca (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,85 | +2.2% | und | Cerpa Tijuca (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,85 | +2.2% | und | Cerpa Tijuca (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,85 | +0.0% | und | Cerpa Tijuca (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,83 | -1.1% | und | Cerpa Tijuca (lata 220 a 310 ml) | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 2,41 | +31.7% |  | Cerveja Cerpa Tijuca - Lata 269 ml ⚠ | Port. 418/2020 |
@@ -11647,7 +11647,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,34 |  | und | Cerpa Tijuca – 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,63 | +8.7% | und | Cerpa Tijuca – 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,70 | +1.9% | und | Cerpa Tijuca – 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,70 | +1.9% | und | Cerpa Tijuca – 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,70 | +0.0% | und | Cerpa Tijuca – 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | +1.1% | und | Cerpa Tijuca – 350 ml | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 3,88 | +3.7% |  | Cerveja Cerpa Tijuca – Long Neck 350 ml ⚠ | Port. 418/2020 |
@@ -11679,7 +11679,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | incluir | 4,05 | -21.2% |  | Cerveja Cerpa Tijuca – Retornável 600 ml | Port. 560/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,11 | +1.5% | und | Cerpa Tijuca (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,96 | -3.6% | und | Cerpa Tijuca (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,04 | +2.0% | und | Cerpa Tijuca (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,04 | +2.0% | und | Cerpa Tijuca (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,04 | +0.0% | und | Cerpa Tijuca (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,12 | +2.0% | und | Cerpa Tijuca (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,21 | +2.2% | und | Cerpa Tijuca (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -11719,7 +11719,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 5,50 |  |  | Cerpa Tijuca Puro Malte - Descartavel 600 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,50 | +0.0% | und | Cerpa Tijuca Puro Malte (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,50 | +0.0% | und | Cerpa Tijuca Puro Malte (descartável 600 ml) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,39 | -2.0% | und | Cerpa Tijuca Puro Malte (descartável 600 ml) | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 6,80 | +26.2% |  | Cerveja Cerpa Tijuca Puro Malte - Descartavel 600 ml | Port. 418/2020 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,99 | +2.8% | und | Cerpa Tijuca Puro Malte (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -11738,7 +11738,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 1,80 |  |  | Cerpa Tijuca Puro Malte - Lata 269 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,80 | +0.0% | und | Cerpa Tijuca Puro Malte (lata 220 a 310 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,80 | +0.0% | und | Cerpa Tijuca Puro Malte (lata 220 a 310 ml) ⚠ | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,78 | -1.1% | und | Cerpa Tijuca Puro Malte (lata 220 a 310 ml) | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 2,50 | +40.4% |  | Cerveja Cerpa Tijuca Puro Malte – Lata 269 ml ⚠ | Port. 418/2020 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,58 | +3.2% | und | Cerpa Tijuca Puro Malte (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -11757,7 +11757,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 2,35 |  |  | Cerpa Tijuca Puro Malte - Lata 350 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,35 | +0.0% | und | Cerpa Tijuca Puro Malte (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,35 | +0.0% | und | Cerpa Tijuca Puro Malte (lata 350 ml) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,35 | +0.0% | und | Cerpa Tijuca Puro Malte (lata 350 ml) | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 2,84 | +20.9% |  | Cerveja Cerpa Tijuca Puro Malte - Lata 350 ml | Port. 418/2020 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,92 | +2.8% | und | Cerpa Tijuca Puro Malte (lata 350 ml) | Port. 383/2021 |
@@ -11776,7 +11776,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 3,25 |  |  | Cerpa Tijuca Puro Malte – Long Neck 350 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,25 | +0.0% | und | Cerpa Tijjuca Puro Malte - 350 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,25 | +0.0% | und | Cerpa Tijjuca Puro Malte - 350 ml ⚠ | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,11 | +57.2% | und | Cerpa Tijjuca Puro Malte - 350 ml | Port. 614/2019 |
 | 2020-12-22 (assin.) | 2020-12-22 | alterar | 4,05 | -20.7% |  | Cerveja Cerpa Tijuca Puro Malte – Long Neck 350 ml ⚠ | Port. 418/2020 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,53 | +11.9% | und | Cerpa Tijuca Puro Malte (long neck 350 ml) | Port. 383/2021 |
@@ -11795,7 +11795,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 3,85 |  |  | Cerpa Tijuca Puro Malte - Retornável 600 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,85 | +0.0% | und | Cerpa Tijuca Puro Malte (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +0.0% | und | Cerpa Tijuca Puro Malte (retornável 600 ml) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,92 | +1.8% | und | Cerpa Tijuca Puro Malte (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,01 | +2.3% | und | Cerpa Tijuca Puro Malte (retornável 550 a 600 ml) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 4,27 | +6.5% | und | Cerpa Tijuca Puro Malte (retornável 600 ml) | Port. 454/2022 |
@@ -15914,7 +15914,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 36,80 |  |  | Chopp Ah Puch Imperial Ipa 1.000 ml | Port. 242/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 36,80 | +0.0% | und | Chopp Ah Puch Imperial Ipa (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 36,80 | +0.0% | und | Chopp Ah Puch Imperial Ipa (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 37,52 | +2.0% | und | Chopp Ah Puch Imperial Ipa (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 38,81 | +3.4% | und | Chopp Ah Puch Imperial Ipa (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 42,32 | +9.0% | und | Chopp Ah Puch Imperial Ipa (1 L) | Port. 454/2022 |
@@ -15930,7 +15930,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1104,00 |  | und | Chopp Ah Puch Imperial Ipa (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1104,00 |  | und | Chopp Ah Puch Imperial Ipa (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.125,48 | +1.9% | und | Chopp Ah Puch Imperial Ipa (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.164,05 | +3.4% | und | Chopp Ah Puch Imperial Ipa (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 1.269,24 | +9.0% | und | Chopp Ah Puch Imperial Ipa (barril 30 L) | Port. 454/2022 |
@@ -15946,7 +15946,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1840,00 |  | und | Chopp Ah Puch Imperial Ipa (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1840,00 |  | und | Chopp Ah Puch Imperial Ipa (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.875,80 | +1.9% | und | Chopp Ah Puch Imperial Ipa (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.940,08 | +3.4% | und | Chopp Ah Puch Imperial Ipa (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 2.115,39 | +9.0% | und | Chopp Ah Puch Imperial Ipa (barril 50 L) | Port. 454/2022 |
@@ -15982,7 +15982,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 398,78 |  | und | Chopp Al Capone Ipa - Descartavel (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 406,76 | +2.0% | und | Chopp Al Capone Ipa - Descartavel (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 414,90 | +2.0% | und | Chopp Al Capone Ipa - Descartavel (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 414,90 | +2.0% | und | Chopp Al Capone Ipa - Descartavel (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 414,90 | +0.0% | und | Chopp Al Capone Ipa - Descartavel (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 422,97 | +1.9% | und | Chopp Al Capone Ipa - Descartavel (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 437,46 | +3.4% | und | Chopp Al Capone Ipa – Descartavel (barril 30 L) | Port. 383/2021 |
@@ -16007,7 +16007,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 447,11 |  | und | Chopp Al Capone Pale Ale - Descartavel (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 456,05 | +2.0% | und | Chopp Al Capone Pale Ale - Descartavel (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 465,17 | +2.0% | und | Chopp Al Capone Pale Ale - Descartavel (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 465,17 | +2.0% | und | Chopp Al Capone Pale Ale - Descartavel (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 465,17 | +0.0% | und | Chopp Al Capone Pale Ale - Descartavel (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 474,22 | +1.9% | und | Chopp Al Capone Pale Ale - Descartavel (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 490,47 | +3.4% | und | Chopp Al Capone Pale Ale - Descartavel (barril 30 L) | Port. 383/2021 |
@@ -16032,7 +16032,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 386,69 |  | und | Chopp Al Capone Premium Lager - Descartavel (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 394,42 | +2.0% | und | Chopp Al Capone Premium Lager - Descartavel (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 402,31 | +2.0% | und | Chopp Al Capone Premium Lager - Descartavel (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 402,31 | +2.0% | und | Chopp Al Capone Premium Lager - Descartavel (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 402,31 | +0.0% | und | Chopp Al Capone Premium Lager - Descartavel (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 410,14 | +1.9% | und | Chopp Al Capone Premium Lager - Descartavel (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 424,19 | +3.4% | und | Chopp Al Capone Premium Lager - Descartavel (barril 30 L) | Port. 383/2021 |
@@ -16057,7 +16057,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 416,90 |  | und | Chopp Al Capone Red Ale - Descartavel (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 425,24 | +2.0% | und | Chopp Al Capone Red Ale - Descartavel (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 433,74 | +2.0% | und | Chopp Al Capone Red Ale - Descartavel (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 433,74 | +2.0% | und | Chopp Al Capone Red Ale - Descartavel (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 433,74 | +0.0% | und | Chopp Al Capone Red Ale - Descartavel (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 442,18 | +1.9% | und | Chopp Al Capone Red Ale - Descartavel (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 457,33 | +3.4% | und | Chopp Al Capone Red Ale - Descartavel (barril 30 L) | Port. 383/2021 |
@@ -16082,7 +16082,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 398,78 |  | und | Chopp Al Capone Weiss - Descartavel (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 406,76 | +2.0% | und | Chopp Al Capone Weiss - Descartavel (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 414,90 | +2.0% | und | Chopp Al Capone Weiss - Descartavel (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 414,90 | +2.0% | und | Chopp Al Capone Weiss - Descartavel (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 414,90 | +0.0% | und | Chopp Al Capone Weiss - Descartavel (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 422,97 | +1.9% | und | Chopp Al Capone Weiss - Descartavel (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 437,46 | +3.4% | und | Chopp Al Capone Weiss – Descartavel (barril 30 L) | Port. 383/2021 |
@@ -16107,7 +16107,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 395,76 |  | und | Chopp Al Capone Witbier - Descartavel (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 403,68 | +2.0% | und | Chopp Al Capone Witbier - Descartavel (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 411,75 | +2.0% | und | Chopp Al Capone Witbier - Descartavel (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 411,75 | +2.0% | und | Chopp Al Capone Witbier - Descartavel (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 411,75 | +0.0% | und | Chopp Al Capone Witbier - Descartavel (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 419,76 | +1.9% | und | Chopp Al Capone Witbier - Descartavel (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 434,14 | +3.4% | und | Chopp Al Capone Witbier - Descartavel (barril 30 L) | Port. 383/2021 |
@@ -16770,7 +16770,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,65 | +7.9% | Und | Chopp Belco Claro e Escuro (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,72 | +1.5% | und | Chopp Belco Claro e Escuro (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,81 | +1.9% | und | Chopp Belco Claro e Escuro (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,91 | +2.1% | und | Chopp Belco Claro e Escuro (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,91 | +2.1% | und | Chopp Belco Claro e Escuro (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,91 | +0.0% | und | Chopp Belco Claro e Escuro (1 L) | Port. 286/2019 |
 
 ### Chopp Belco Claro e Escuro (barril 20 L) (código 50111)
@@ -16780,7 +16780,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 93,10 |  | Und | Chopp Belco Claro e Escuro (barril 20 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 94,43 | +1.4% | und | Chopp Belco Claro e Escuro (barril 20 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 96,32 | +2.0% | und | Chopp Belco Claro e Escuro (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 98,25 | +2.0% | und | Chopp Belco Claro e Escuro (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 98,25 | +2.0% | und | Chopp Belco Claro e Escuro (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 98,25 | +0.0% | und | Chopp Belco Claro e Escuro (barril 20 L) | Port. 286/2019 |
 
 ### Chopp Belco Claro e Escuro (barril 30 L) (código 50119)
@@ -16790,7 +16790,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 139,64 |  | Und | Chopp Belco Claro e Escuro (barril 30 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 141,63 | +1.4% | und | Chopp Belco Claro e Escuro (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 144,46 | +2.0% | und | Chopp Belco Claro e Escuro (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 147,35 | +2.0% | und | Chopp Belco Claro e Escuro (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 147,35 | +2.0% | und | Chopp Belco Claro e Escuro (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 147,35 | +0.0% | und | Chopp Belco Claro e Escuro (barril 30 L) | Port. 286/2019 |
 
 ### Chopp Belco Claro e Escuro (barril 50 L) (código 50127)
@@ -16800,7 +16800,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 232,74 |  | Und | Chopp Belco Claro e Escuro (barril 50 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 236,06 | +1.4% | und | Chopp Belco Claro e Escuro (barril 50 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 240,78 | +2.0% | und | Chopp Belco Claro e Escuro (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 245,60 | +2.0% | und | Chopp Belco Claro e Escuro (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 245,60 | +2.0% | und | Chopp Belco Claro e Escuro (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 245,60 | +0.0% | und | Chopp Belco Claro e Escuro (barril 50 L) | Port. 286/2019 |
 
 ### Chopp Belco Claro e Escuro (descartável 1 L) (código —)
@@ -17017,7 +17017,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 22,40 |  |  | Chopp Blond Ale 1.000 ml | Port. 242/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 22,40 | +0.0% | und | Chopp Blond Ale (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,40 | +0.0% | und | Chopp Blond Ale (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 22,84 | +2.0% | und | Chopp Blond Ale (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 23,62 | +3.4% | und | Chopp Blond Ale (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 25,75 | +9.0% | und | Chopp Blond Ale (1 L) | Port. 454/2022 |
@@ -17033,7 +17033,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 448,00 |  | und | Chopp Blond Ale (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 448,00 |  | und | Chopp Blond Ale (barril 20 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 456,72 | +1.9% | und | Chopp Blond Ale (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 472,37 | +3.4% | und | Chopp Blond Ale (barril 20 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 515,05 | +9.0% | und | Chopp Blond Ale (barril 20 L) | Port. 454/2022 |
@@ -17049,7 +17049,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 672,00 |  | und | Chopp Blond Ale (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 672,00 |  | und | Chopp Blond Ale (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 685,07 | +1.9% | und | Chopp Blond Ale (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 708,55 | +3.4% | und | Chopp Blond Ale (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 772,58 | +9.0% | und | Chopp Blond Ale (barril 30 L) | Port. 454/2022 |
@@ -17065,7 +17065,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1120,00 |  | und | Chopp Blond Ale (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1120,00 |  | und | Chopp Blond Ale (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.141,79 | +1.9% | und | Chopp Blond Ale (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.180,92 | +3.4% | und | Chopp Blond Ale (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 1.287,63 | +9.0% | und | Chopp Blond Ale (barril 50 L) | Port. 454/2022 |
@@ -17100,7 +17100,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 19,20 |  |  | Chopp Bohemian Pilsen 1.000 ml | Port. 242/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 19,20 | +0.0% | und | Chopp Bohemian Pilsen (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 19,20 | +0.0% | und | Chopp Bohemian Pilsen (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 19,57 | +1.9% | und | Chopp Bohemian Pilsen (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 20,24 | +3.4% | und | Chopp Bohemian Pilsen (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 22,07 | +9.0% | und | Chopp Bohemian Pilsen (1 L) | Port. 454/2022 |
@@ -17110,7 +17110,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 384,00 |  | und | Chopp Bohemian Pilsen (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 384,00 |  | und | Chopp Bohemian Pilsen (barril 20 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 391,47 | +1.9% | und | Chopp Bohemian Pilsen (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 404,88 | +3.4% | und | Chopp Bohemian Pilsen (barril 20 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 441,47 | +9.0% | und | Chopp Bohemian Pilsen (barril 20 L) | Port. 454/2022 |
@@ -17120,7 +17120,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 576,00 |  | und | Chopp Bohemian Pilsen (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 576,00 |  | und | Chopp Bohemian Pilsen (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 587,21 | +1.9% | und | Chopp Bohemian Pilsen (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 607,33 | +3.4% | und | Chopp Bohemian Pilsen (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 662,21 | +9.0% | und | Chopp Bohemian Pilsen (barril 30 L) | Port. 454/2022 |
@@ -17130,7 +17130,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 960,00 |  | und | Chopp Bohemian Pilsen (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 960,00 |  | und | Chopp Bohemian Pilsen (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 978,68 | +1.9% | und | Chopp Bohemian Pilsen (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.012,22 | +3.4% | und | Chopp Bohemian Pilsen (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 1.103,69 | +9.0% | und | Chopp Bohemian Pilsen (barril 50 L) | Port. 454/2022 |
@@ -17306,7 +17306,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,63 | +7.2% | Und | Chopp Cerpa Tijuca (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,71 | +1.4% | und | Chopp Cerpa Tijuca (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,82 | +1.9% | und | Chopp Cerpa Tijuca (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,94 | +2.1% | und | Chopp Cerpa Tijuca (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,94 | +2.1% | und | Chopp Cerpa Tijuca (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,94 | +0.0% | und | Chopp Cerpa Tijuca (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,06 | +2.0% | und | Chopp Cerpa Tijuca (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,27 | +3.5% | und | Chopp Cerpa Tijuca (1 L) | Port. 383/2021 |
@@ -17326,7 +17326,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 112,54 |  | Und | Chopp Cerpa Tijuca (barril 20 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 114,15 | +1.4% | und | Chopp Cerpa Tijuca (barril 20 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 116,43 | +2.0% | und | Chopp Cerpa Tijuca (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 118,76 | +2.0% | und | Chopp Cerpa Tijuca (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 118,76 | +2.0% | und | Chopp Cerpa Tijuca (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 118,76 | +0.0% | und | Chopp Cerpa Tijuca (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 121,07 | +1.9% | und | Chopp Cerpa Tijuca (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 125,22 | +3.4% | und | Chopp Cerpa Tijuca (barril 20 L) | Port. 383/2021 |
@@ -17346,7 +17346,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 168,80 |  | Und | Chopp Cerpa Tijuca (barril 30 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 171,21 | +1.4% | und | Chopp Cerpa Tijuca (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 174,63 | +2.0% | und | Chopp Cerpa Tijuca (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 178,12 | +2.0% | und | Chopp Cerpa Tijuca (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 178,12 | +2.0% | und | Chopp Cerpa Tijuca (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 178,12 | +0.0% | und | Chopp Cerpa Tijuca (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 181,59 | +1.9% | und | Chopp Cerpa Tijuca (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 187,81 | +3.4% | und | Chopp Cerpa Tijuca (barril 30 L) | Port. 383/2021 |
@@ -17366,7 +17366,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 281,34 |  | Und | Chopp Cerpa Tijuca (barril 50 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 285,36 | +1.4% | und | Chopp Cerpa Tijuca (barril 50 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 291,07 | +2.0% | und | Chopp Cerpa Tijuca (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 296,89 | +2.0% | und | Chopp Cerpa Tijuca (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 296,89 | +2.0% | und | Chopp Cerpa Tijuca (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 296,89 | +0.0% | und | Chopp Cerpa Tijuca (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 302,67 | +1.9% | und | Chopp Cerpa Tijuca (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 313,04 | +3.4% | und | Chopp Cerpa Tijuca (barril 50 L) | Port. 383/2021 |
@@ -17439,10 +17439,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,48 |  | Und | Chopp Colônia Claro (1 L) | Port. 507/2017 |
+| 2017-08-22 (assin.) | 2017-08-22 | incluir | 6,00 |  |  | Chopp Colônia Claro 1.000 ml | Port. 382/2017 |
+| 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,48 | +8.0% | Und | Chopp Colônia Claro (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,57 | +1.4% | und | Chopp Colônia Claro (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,70 | +2.0% | und | Chopp Colônia Claro (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,83 | +1.9% | und | Chopp Colônia Claro (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,83 | +1.9% | und | Chopp Colônia Claro (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,83 | +0.0% | und | Chopp Colônia Claro (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,96 | +1.9% | und | Chopp Colônia Claro (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,20 | +3.4% | und | Chopp Colônia Claro (1 L) | Port. 383/2021 |
@@ -17462,7 +17463,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 129,60 |  | Und | Chopp Colônia Claro (barril 20 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 131,45 | +1.4% | und | Chopp Colônia Claro (barril 20 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 134,08 | +2.0% | und | Chopp Colônia Claro (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 136,76 | +2.0% | und | Chopp Colônia Claro (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 136,76 | +2.0% | und | Chopp Colônia Claro (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 136,76 | +0.0% | und | Chopp Colônia Claro (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 139,42 | +1.9% | und | Chopp Colônia Claro (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 144,20 | +3.4% | und | Chopp Colônia Claro (barril 20 L) | Port. 383/2021 |
@@ -17482,7 +17483,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 194,40 |  | Und | Chopp Colônia Claro (barril 30 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 197,18 | +1.4% | und | Chopp Colônia Claro (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 201,12 | +2.0% | und | Chopp Colônia Claro (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 205,14 | +2.0% | und | Chopp Colônia Claro (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 205,14 | +2.0% | und | Chopp Colônia Claro (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 205,14 | +0.0% | und | Chopp Colônia Claro (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 209,13 | +1.9% | und | Chopp Colônia Claro (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 216,30 | +3.4% | und | Chopp Colônia Claro (barril 30 L) | Port. 383/2021 |
@@ -17502,7 +17503,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 324,00 |  | Und | Chopp Colônia Claro (barril 50 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 328,63 | +1.4% | und | Chopp Colônia Claro (barril 50 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 335,20 | +2.0% | und | Chopp Colônia Claro (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 341,90 | +2.0% | und | Chopp Colônia Claro (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 341,90 | +2.0% | und | Chopp Colônia Claro (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 341,90 | +0.0% | und | Chopp Colônia Claro (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 348,55 | +1.9% | und | Chopp Colônia Claro (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 360,49 | +3.4% | und | Chopp Colônia Claro (barril 50 L) | Port. 383/2021 |
@@ -17528,7 +17529,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,48 |  | Und | Chopp Colônia Escuro (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,57 | +1.4% | und | Chopp Colônia Escuro (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,70 | +2.0% | und | Chopp Colônia Escuro (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,83 | +1.9% | und | Chopp Colônia Escuro (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,83 | +1.9% | und | Chopp Colônia Escuro (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,83 | +0.0% | und | Chopp Colônia Escuro (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,96 | +1.9% | und | Chopp Colônia Escuro (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,20 | +3.4% | und | Chopp Colônia Escuro (1 L) | Port. 383/2021 |
@@ -17548,7 +17549,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 129,60 |  | Und | Chopp Colônia Escuro (barril 20 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 131,45 | +1.4% | und | Chopp Colônia Escuro (barril 20 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 134,08 | +2.0% | und | Chopp Colônia Escuro (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 136,76 | +2.0% | und | Chopp Colônia Escuro (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 136,76 | +2.0% | und | Chopp Colônia Escuro (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 136,76 | +0.0% | und | Chopp Colônia Escuro (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 139,42 | +1.9% | und | Chopp Colônia Escuro (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 144,20 | +3.4% | und | Chopp Colônia Escuro (barril 20 L) | Port. 383/2021 |
@@ -17568,7 +17569,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 194,40 |  | Und | Chopp Colônia Escuro (barril 30 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 197,18 | +1.4% | und | Chopp Colônia Escuro (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 201,12 | +2.0% | und | Chopp Colônia Escuro (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 205,14 | +2.0% | und | Chopp Colônia Escuro (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 205,14 | +2.0% | und | Chopp Colônia Escuro (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 205,14 | +0.0% | und | Chopp Colônia Escuro (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 209,13 | +1.9% | und | Chopp Colônia Escuro (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 216,30 | +3.4% | und | Chopp Colônia Escuro (barril 30 L) | Port. 383/2021 |
@@ -17588,7 +17589,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 324,00 |  | Und | Chopp Colônia Escuro (barril 50 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 328,63 | +1.4% | und | Chopp Colônia Escuro (barril 50 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 335,20 | +2.0% | und | Chopp Colônia Escuro (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 341,90 | +2.0% | und | Chopp Colônia Escuro (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 341,90 | +2.0% | und | Chopp Colônia Escuro (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 341,90 | +0.0% | und | Chopp Colônia Escuro (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 348,55 | +1.9% | und | Chopp Colônia Escuro (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 360,49 | +3.4% | und | Chopp Colônia Escuro (barril 50 L) | Port. 383/2021 |
@@ -17623,7 +17624,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,76 | +8.0% | Und | Chopp Conti (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,91 | +1.4% | und | Chopp Conti (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,13 | +2.0% | und | Chopp Conti (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,35 | +2.0% | und | Chopp Conti (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,35 | +2.0% | und | Chopp Conti (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,35 | +0.0% | und | Chopp Conti (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,57 | +1.9% | und | Chopp Conti (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,97 | +3.5% | und | Chopp Conti (1 L) | Port. 383/2021 |
@@ -17643,7 +17644,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 215,14 |  | Und | Chopp Conti (barril 20 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 218,21 | +1.4% | und | Chopp Conti (barril 20 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 222,57 | +2.0% | und | Chopp Conti (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 227,02 | +2.0% | und | Chopp Conti (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 227,02 | +2.0% | und | Chopp Conti (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 227,02 | +0.0% | und | Chopp Conti (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 231,44 | +1.9% | und | Chopp Conti (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 239,37 | +3.4% | und | Chopp Conti (barril 20 L) | Port. 383/2021 |
@@ -17663,7 +17664,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 322,70 |  | Und | Chopp Conti (barril 30 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 327,31 | +1.4% | und | Chopp Conti (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 333,86 | +2.0% | und | Chopp Conti (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 340,54 | +2.0% | und | Chopp Conti (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 340,54 | +2.0% | und | Chopp Conti (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 340,54 | +0.0% | und | Chopp Conti (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 347,17 | +1.9% | und | Chopp Conti (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 359,07 | +3.4% | und | Chopp Conti (barril 30 L) | Port. 383/2021 |
@@ -17683,7 +17684,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 537,84 |  | Und | Chopp Conti (barril 50 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 545,52 | +1.4% | und | Chopp Conti (barril 50 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 556,43 | +2.0% | und | Chopp Conti (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 567,56 | +2.0% | und | Chopp Conti (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 567,56 | +2.0% | und | Chopp Conti (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 567,56 | +0.0% | und | Chopp Conti (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 578,60 | +1.9% | und | Chopp Conti (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 598,43 | +3.4% | und | Chopp Conti (barril 50 L) | Port. 383/2021 |
@@ -18363,7 +18364,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-05-15 (pub.) | 2018-05-09 | alterar | 16,90 | +84.7% |  | Chopp Dona Ipa 1000 ml | Port. 159/2018 |
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 19,96 | +18.1% |  | Chopp Dona Ipa 1.000 mL | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 20,36 | +2.0% | und | Chopp Dona Ipa (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 20,77 | +2.0% | und | Chopp Dona Ipa (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 20,77 | +2.0% | und | Chopp Dona Ipa (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 20,77 | +0.0% | und | Chopp Dona Ipa (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 20,77 | +0.0% | und | Chopp Dona Ipa (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 21,48 | +3.4% | und | Chopp Dona Ipa (1 L) | Port. 383/2021 |
@@ -18382,7 +18383,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 199,60 |  |  | Chopp Dona Ipa - Barril 10.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 203,59 | +2.0% | und | Chopp Dona Ipa ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 207,66 | +2.0% | und | Chopp Dona Ipa | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 207,66 | +2.0% | und | Chopp Dona Ipa | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 207,66 | +0.0% | und | Chopp Dona Ipa (barril 10 L) ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 207,66 | +0.0% | und | Chopp Dona Ipa ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 214,78 | +3.4% | und | Chopp Dona Ipa (barril 10 a 15 L) ⚠ | Port. 383/2021 |
@@ -18401,7 +18402,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 399,20 |  |  | Chopp Dona Ipa - Barril 20.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 407,18 | +2.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 415,32 | +2.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 415,32 | +2.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 415,32 | +0.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 415,32 | +0.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 429,55 | +3.4% | und | Chopp Dona Ipa (barril 20 L) | Port. 383/2021 |
@@ -18420,7 +18421,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 598,80 |  |  | Chopp Dona Ipa - Barril 30.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 610,78 | +2.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 623,00 | +2.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 623,00 | +2.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 623,00 | +0.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 623,00 | +0.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 644,35 | +3.4% | und | Chopp Dona Ipa (barril 30 L) | Port. 383/2021 |
@@ -18439,7 +18440,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 998,00 |  |  | Chopp Dona Ipa - Barril 50.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1017,96 | +2.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1038,32 | +2.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1038,32 | +2.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1038,32 | +0.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.038,32 | +0.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.073,90 | +3.4% | und | Chopp Dona Ipa (barril 50 L) | Port. 383/2021 |
@@ -18486,7 +18487,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-05-15 (pub.) | 2018-05-09 | alterar | 10,90 | +19.0% |  | Chopp Dona Pilsen 1000 ml | Port. 159/2018 |
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 12,88 | +18.2% |  | Chopp Dona Pilsen 1.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,14 | +2.0% | und | Chopp Dona Pilsen (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 13,40 | +2.0% | und | Chopp Dona Pilsen (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,40 | +2.0% | und | Chopp Dona Pilsen (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,40 | +0.0% | und | Chopp Dona Pilsen (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,40 | +0.0% | und | Chopp Dona Pilsen (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 13,86 | +3.4% | und | Chopp Dona Pilsen (1 L) | Port. 383/2021 |
@@ -18505,7 +18506,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 128,80 |  |  | Chopp Dona Pilsen - Barril 10.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 131,38 | +2.0% | und | Chopp Dona Pilsen ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 134,01 | +2.0% | und | Chopp Dona Pilsen | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 134,01 | +2.0% | und | Chopp Dona Pilsen | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 134,01 | +0.0% | und | Chopp Dona Pilsen (barril 10 L) ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 134,01 | +0.0% | und | Chopp Dona Pilsen ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 138,60 | +3.4% | und | Chopp Dona Pilsen (barril 10 a 15 L) ⚠ | Port. 383/2021 |
@@ -18524,7 +18525,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 257,60 |  |  | Chopp Dona Pilsen - Barril 20.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 262,75 | +2.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 268,01 | +2.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 268,01 | +2.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 268,01 | +0.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 268,01 | +0.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 277,19 | +3.4% | und | Chopp Dona Pilsen (barril 20 L) | Port. 383/2021 |
@@ -18543,7 +18544,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 386,40 |  |  | Chopp Dona Pilsen - Barril 30.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 394,13 | +2.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 402,01 | +2.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 402,01 | +2.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 402,01 | +0.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 402,01 | +0.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 415,79 | +3.4% | und | Chopp Dona Pilsen (barril 30 L) | Port. 383/2021 |
@@ -18562,7 +18563,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 644,00 |  |  | Chopp Dona Pilsen - Barril 50.000 ml | Port. 313/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 656,88 | +2.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 670,02 | +2.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 670,02 | +2.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 670,02 | +0.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 670,02 | +0.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 692,98 | +3.4% | und | Chopp Dona Pilsen (barril 50 L) | Port. 383/2021 |
@@ -18839,7 +18840,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 22,40 |  |  | Chopp English Pale Ale 1.000 ml | Port. 242/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 22,40 | +0.0% | und | Chopp English Pale Ale (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,40 | +0.0% | und | Chopp English Pale Ale (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 22,84 | +2.0% | und | Chopp English Pale Ale (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 23,62 | +3.4% | und | Chopp English Pale Ale (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 25,75 | +9.0% | und | Chopp English Pale Ale (1 L) | Port. 454/2022 |
@@ -18855,7 +18856,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 448,00 |  | und | Chopp English Pale Ale (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 448,00 |  | und | Chopp English Pale Ale (barril 20 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 456,72 | +1.9% | und | Chopp English Pale Ale (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 472,37 | +3.4% | und | Chopp English Pale Ale (barril 20 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 515,05 | +9.0% | und | Chopp English Pale Ale (barril 20 L) | Port. 454/2022 |
@@ -18871,7 +18872,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 672,00 |  | und | Chopp English Pale Ale (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 672,00 |  | und | Chopp English Pale Ale (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 685,07 | +1.9% | und | Chopp English Pale Ale (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 708,55 | +3.4% | und | Chopp English Pale Ale (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 772,58 | +9.0% | und | Chopp English Pale Ale (barril 30 L) | Port. 454/2022 |
@@ -18887,7 +18888,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1120,00 |  | und | Chopp English Pale Ale (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1120,00 |  | und | Chopp English Pale Ale (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.141,79 | +1.9% | und | Chopp English Pale Ale (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.180,92 | +3.4% | und | Chopp English Pale Ale (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 1.287,63 | +9.0% | und | Chopp English Pale Ale (barril 50 L) | Port. 454/2022 |
@@ -18962,7 +18963,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 24,00 |  |  | Chopp Erdinger Dunkel 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 24,17 | +0.7% | und | Chopp Erdinger Dunkel (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 24,65 | +2.0% | und | Chopp Erdinger Dunkel (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Erdinger Dunkel (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Erdinger Dunkel (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +0.0% | und | Chopp Erdinger Dunkel (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,63 | +1.9% | und | Chopp Erdinger Dunkel (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,51 | +3.4% | und | Chopp Erdinger Dunkel (1 L) | Port. 383/2021 |
@@ -18988,7 +18989,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 24,00 |  |  | Chopp Erdinger Oktoberfest 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 24,17 | +0.7% | und | Chopp Erdinger Oktoberfest (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 24,65 | +2.0% | und | Chopp Erdinger Oktoberfest (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Erdinger Oktoberfest (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Erdinger Oktoberfest (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +0.0% | und | Chopp Erdinger Oktoberfest (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,63 | +1.9% | und | Chopp Erdinger Oktoberfest (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,51 | +3.4% | und | Chopp Erdinger Oktoberfest (1 L) | Port. 383/2021 |
@@ -19014,7 +19015,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 24,00 |  |  | Chopp Erdinger Tradicional 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 24,17 | +0.7% | und | Chopp Erdinger Tradicional (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 24,65 | +2.0% | und | Chopp Erdinger Tradicional (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Erdinger Tradicional (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Erdinger Tradicional (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +0.0% | und | Chopp Erdinger Tradicional (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,63 | +1.9% | und | Chopp Erdinger Tradicional (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,51 | +3.4% | und | Chopp Erdinger Tradicional (1 L) | Port. 383/2021 |
@@ -19040,7 +19041,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 24,00 |  |  | Chopp Erdinger Urweisse 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 24,17 | +0.7% | und | Chopp Erdinger Urweisse (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 24,65 | +2.0% | und | Chopp Erdinger Urweisse (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Erdinger Urweisse (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Erdinger Urweisse (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +0.0% | und | Chopp Erdinger Urweisse (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,63 | +1.9% | und | Chopp Erdinger Urweisse (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,51 | +3.4% | und | Chopp Erdinger Urweisse (1 L) | Port. 383/2021 |
@@ -19183,7 +19184,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 25,60 |  |  | Chopp Guaraci Weiss 1.000 ml | Port. 242/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,60 | +0.0% | und | Chopp Guaraci Weiss (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,60 | +0.0% | und | Chopp Guaraci Weiss (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 26,10 | +2.0% | und | Chopp Guaraci Weiss (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,99 | +3.4% | und | Chopp Guaraci Weiss (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 29,43 | +9.0% | und | Chopp Guaraci Weiss (1 L) | Port. 454/2022 |
@@ -19199,7 +19200,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 768,00 |  | und | Chopp Guaraci Weiss (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 768,00 |  | und | Chopp Guaraci Weiss (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 782,94 | +1.9% | und | Chopp Guaraci Weiss (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 809,77 | +3.4% | und | Chopp Guaraci Weiss (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 882,94 | +9.0% | und | Chopp Guaraci Weiss (barril 30 L) | Port. 454/2022 |
@@ -19215,7 +19216,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1280,00 |  | und | Chopp Guaraci Weiss (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1280,00 |  | und | Chopp Guaraci Weiss (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.304,90 | +1.9% | und | Chopp Guaraci Weiss (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.349,62 | +3.4% | und | Chopp Guaraci Weiss (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 1.471,57 | +9.0% | und | Chopp Guaraci Weiss (barril 50 L) | Port. 454/2022 |
@@ -19273,7 +19274,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 24,00 |  |  | Chopp HB Original 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 24,17 | +0.7% | und | Chopp HB Original (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 24,65 | +2.0% | und | Chopp HB Original (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp HB Original (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp HB Original (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +0.0% | und | Chopp HB Original (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,63 | +1.9% | und | Chopp HB Original (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,51 | +3.4% | und | Chopp HB Original (1 L) | Port. 383/2021 |
@@ -19299,7 +19300,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 24,00 |  |  | Chopp HB Weissbier 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 24,17 | +0.7% | und | Chopp HB Weissbier (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 24,65 | +2.0% | und | Chopp HB Weissbier (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp HB Weissbier (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp HB Weissbier (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +0.0% | und | Chopp HB Weissbier (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,63 | +1.9% | und | Chopp HB Weissbier (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,51 | +3.4% | und | Chopp HB Weissbier (1 L) | Port. 383/2021 |
@@ -19445,7 +19446,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 25,60 |  |  | Chopp Ipa 1.000 ml | Port. 242/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,60 | +0.0% | und | Chopp Ipa (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,60 | +0.0% | und | Chopp Ipa (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 26,10 | +2.0% | und | Chopp Ipa (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,99 | +3.4% | und | Chopp Ipa (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 29,43 | +9.0% | und | Chopp Ipa (1 L) | Port. 454/2022 |
@@ -19461,7 +19462,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 512,00 |  | und | Chopp Ipa (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 512,00 |  | und | Chopp Ipa (barril 20 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 521,96 | +1.9% | und | Chopp Ipa (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 539,85 | +3.4% | und | Chopp Ipa (barril 20 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 588,63 | +9.0% | und | Chopp Ipa (barril 20 L) | Port. 454/2022 |
@@ -19477,7 +19478,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 768,00 |  | und | Chopp Ipa (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 768,00 |  | und | Chopp Ipa (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 782,94 | +1.9% | und | Chopp Ipa (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 809,77 | +3.4% | und | Chopp Ipa (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 882,94 | +9.0% | und | Chopp Ipa (barril 30 L) | Port. 454/2022 |
@@ -19493,7 +19494,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1280,00 |  | und | Chopp Ipa (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1280,00 |  | und | Chopp Ipa (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.304,90 | +1.9% | und | Chopp Ipa (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.349,62 | +3.4% | und | Chopp Ipa (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 1.471,57 | +9.0% | und | Chopp Ipa (barril 50 L) | Port. 454/2022 |
@@ -20026,7 +20027,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,64 | +7.9% | Und | Chopp Kalena Mista (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,71 | +1.5% | und | Chopp Kalena Mista (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,80 | +1.9% | und | Chopp Kalena Mista (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,90 | +2.1% | und | Chopp Kalena Mista (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,90 | +2.1% | und | Chopp Kalena Mista (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,90 | +0.0% | und | Chopp Kalena Mista (1 L) | Port. 286/2019 |
 
 ### Chopp Kalena Mista (473 ml) (código —)
@@ -20042,7 +20043,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 92,88 |  | Und | Chopp Kalena Mista (barril 20 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 94,21 | +1.4% | und | Chopp Kalena Mista (barril 20 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 96,09 | +2.0% | und | Chopp Kalena Mista (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 98,01 | +2.0% | und | Chopp Kalena Mista (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 98,01 | +2.0% | und | Chopp Kalena Mista (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 98,01 | +0.0% | und | Chopp Kalena Mista (barril 20 L) | Port. 286/2019 |
 
 ### Chopp Kalena Mista (barril 30 L) (código 50120)
@@ -20052,7 +20053,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 139,32 |  | Und | Chopp Kalena Mista (barril 30 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 141,31 | +1.4% | und | Chopp Kalena Mista (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 144,14 | +2.0% | und | Chopp Kalena Mista (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 147,02 | +2.0% | und | Chopp Kalena Mista (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 147,02 | +2.0% | und | Chopp Kalena Mista (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 147,02 | +0.0% | und | Chopp Kalena Mista (barril 30 L) | Port. 286/2019 |
 
 ### Chopp Kalena Mista (barril 50 L) (código 50128)
@@ -20062,7 +20063,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 232,20 |  | Und | Chopp Kalena Mista (barril 50 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 235,52 | +1.4% | und | Chopp Kalena Mista (barril 50 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 240,23 | +2.0% | und | Chopp Kalena Mista (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 245,03 | +2.0% | und | Chopp Kalena Mista (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 245,03 | +2.0% | und | Chopp Kalena Mista (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 245,03 | +0.0% | und | Chopp Kalena Mista (barril 50 L) | Port. 286/2019 |
 
 ### Chopp Kalena Mista (descartável 250 ml) (código —)
@@ -20667,7 +20668,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,87 | +8.0% | Und | Chopp Oktos (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,01 | +1.4% | und | Chopp Oktos (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,21 | +2.0% | und | Chopp Oktos (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,41 | +2.0% | und | Chopp Oktos (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,41 | +2.0% | und | Chopp Oktos (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,41 | +0.0% | und | Chopp Oktos (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,61 | +1.9% | und | Chopp Oktos (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,97 | +3.4% | und | Chopp Oktos (1 L) | Port. 383/2021 |
@@ -20687,7 +20688,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 197,42 |  | Und | Chopp Oktos (barril 20 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 200,24 | +1.4% | und | Chopp Oktos (barril 20 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 204,24 | +2.0% | und | Chopp Oktos (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 208,32 | +2.0% | und | Chopp Oktos (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 208,32 | +2.0% | und | Chopp Oktos (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 208,32 | +0.0% | und | Chopp Oktos (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 212,37 | +1.9% | und | Chopp Oktos (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 219,65 | +3.4% | und | Chopp Oktos (barril 20 L) | Port. 383/2021 |
@@ -20707,7 +20708,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 296,14 |  | Und | Chopp Oktos (barril 30 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 300,37 | +1.4% | und | Chopp Oktos (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 306,38 | +2.0% | und | Chopp Oktos (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 312,51 | +2.0% | und | Chopp Oktos (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 312,51 | +2.0% | und | Chopp Oktos (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 312,51 | +0.0% | und | Chopp Oktos (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 318,59 | +1.9% | und | Chopp Oktos (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 329,51 | +3.4% | und | Chopp Oktos (barril 30 L) | Port. 383/2021 |
@@ -20727,7 +20728,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 493,56 |  | Und | Chopp Oktos (barril 50 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 500,61 | +1.4% | und | Chopp Oktos (barril 50 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 510,62 | +2.0% | und | Chopp Oktos (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 520,83 | +2.0% | und | Chopp Oktos (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 520,83 | +2.0% | und | Chopp Oktos (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 520,83 | +0.0% | und | Chopp Oktos (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 530,96 | +1.9% | und | Chopp Oktos (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 549,15 | +3.4% | und | Chopp Oktos (barril 50 L) | Port. 383/2021 |
@@ -20751,7 +20752,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 25,60 |  |  | Chopp Osiris Porter 1.000 ml | Port. 242/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,60 | +0.0% | und | Chopp Osiris Porter (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,60 | +0.0% | und | Chopp Osiris Porter (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 26,10 | +2.0% | und | Chopp Osiris Porter (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,99 | +3.4% | und | Chopp Osiris Porter (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 29,43 | +9.0% | und | Chopp Osiris Porter (1 L) | Port. 454/2022 |
@@ -20767,7 +20768,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 768,00 |  | und | Chopp Osiris Porter (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 768,00 |  | und | Chopp Osiris Porter (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 782,94 | +1.9% | und | Chopp Osiris Porter (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 809,77 | +3.4% | und | Chopp Osiris Porter (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 882,94 | +9.0% | und | Chopp Osiris Porter (barril 30 L) | Port. 454/2022 |
@@ -20783,7 +20784,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1280,00 |  | und | Chopp Osiris Porter (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1280,00 |  | und | Chopp Osiris Porter (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.304,90 | +1.9% | und | Chopp Osiris Porter (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.349,62 | +3.4% | und | Chopp Osiris Porter (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 1.471,57 | +9.0% | und | Chopp Osiris Porter (barril 50 L) | Port. 454/2022 |
@@ -20816,7 +20817,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 11,64 | +8.0% | Und | Outras Marcas (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 11,81 | +1.5% | und | Chopp Outras Marcas (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,05 | +2.0% | und | Chopp Outras Marcas (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,29 | +2.0% | und | Chopp Outras Marcas (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,29 | +2.0% | und | Chopp Outras Marcas (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,29 | +0.0% | und | Chopp Outras Marcas (1 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 38,00 | +209.2% | und | Chopp Outras Marcas (1 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 46,89 | +23.4% | und | Chopp Outras Marcas (1 L) | Port. 614/2019 |
@@ -21096,7 +21097,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 9,96 |  |  | Chopp Paulistânia Largo do Café - Stout 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,03 | +0.7% | und | Chopp Paulistânia Largo do Cxafé - Stout (1 L) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,23 | +2.0% | und | Chopp Paulistânia Largo do Cxafé - Stout (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,43 | +2.0% | und | Chopp Paulistânia Largo do Cxafé - Stout (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,43 | +2.0% | und | Chopp Paulistânia Largo do Cxafé - Stout (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,43 | +0.0% | und | Chopp Paulistânia Largo do Cxafé - Stout (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,63 | +1.9% | und | Chopp Paulistânia Largo do Cxafé - Stout (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,99 | +3.4% | und | Chopp Paulistânia Largo do Café Stout (1 L) ⚠ | Port. 383/2021 |
@@ -21673,7 +21674,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,20 |  | und | Chopp Rambeer Blackpower (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,34 | +1.9% | und | Chopp Rambeer Blackpower (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,34 | +1.9% | und | Chopp Rambeer Blackpower (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,34 | +0.0% | und | Chopp Rambeer Blackpower (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,48 | +1.9% | und | Chopp Rambeer Blackpower (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,74 | +3.5% | und | Chopp Rambeer Blackpower (1 L) | Port. 383/2021 |
@@ -21691,7 +21692,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 144,00 |  | und | Chopp Rambeer Blackpower (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 146,88 | +2.0% | und | Chopp Rambeer Blackpower (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 146,88 | +2.0% | und | Chopp Rambeer Blackpower (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 146,88 | +0.0% | und | Chopp Rambeer Blackpower (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 149,74 | +1.9% | und | Chopp Rambeer Blackpower (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 154,87 | +3.4% | und | Chopp Rambeer Blackpower (barril 20 L) | Port. 383/2021 |
@@ -21709,7 +21710,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 360,00 |  | und | Chopp Rambeer Blackpower (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 367,20 | +2.0% | und | Chopp Rambeer Blackpower (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 367,20 | +2.0% | und | Chopp Rambeer Blackpower (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 367,20 | +0.0% | und | Chopp Rambeer Blackpower (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 374,34 | +1.9% | und | Chopp Rambeer Blackpower (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 387,17 | +3.4% | und | Chopp Rambeer Blackpower (barril 50 L) | Port. 383/2021 |
@@ -21733,7 +21734,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,00 |  | und | Chopp Rambeer Blondelícia (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,12 | +2.0% | und | Chopp Rambeer Blondelícia (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,12 | +2.0% | und | Chopp Rambeer Blondelícia (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,12 | +0.0% | und | Chopp Rambeer Blondelícia (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,24 | +2.0% | und | Chopp Rambeer Blondelícia (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,45 | +3.4% | und | Chopp Rambeer Blondelícia (1 L) | Port. 383/2021 |
@@ -21751,7 +21752,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 120,00 |  | und | Chopp Rambeer Blondelícia (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 122,40 | +2.0% | und | Chopp Rambeer Blondelícia (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 122,40 | +2.0% | und | Chopp Rambeer Blondelícia (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 122,40 | +0.0% | und | Chopp Rambeer Blondelícia (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 124,78 | +1.9% | und | Chopp Rambeer Blondelícia (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 129,06 | +3.4% | und | Chopp Rambeer Blondelícia (barril 20 L) | Port. 383/2021 |
@@ -21769,7 +21770,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 180,00 |  | und | Chopp Rambeer Blondelícia (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 183,60 | +2.0% | und | Chopp Rambeer Blondelícia (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 183,60 | +2.0% | und | Chopp Rambeer Blondelícia (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 183,60 | +0.0% | und | Chopp Rambeer Blondelícia (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 187,17 | +1.9% | und | Chopp Rambeer Blondelícia (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 193,58 | +3.4% | und | Chopp Rambeer Blondelícia (barril 30 L) | Port. 383/2021 |
@@ -21787,7 +21788,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 300,00 |  | und | Chopp Rambeer Blondelícia (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 306,00 | +2.0% | und | Chopp Rambeer Blondelícia (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 306,00 | +2.0% | und | Chopp Rambeer Blondelícia (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 306,00 | +0.0% | und | Chopp Rambeer Blondelícia (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 311,95 | +1.9% | und | Chopp Rambeer Blondelícia (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 322,64 | +3.4% | und | Chopp Rambeer Blondelícia (barril 50 L) | Port. 383/2021 |
@@ -21805,7 +21806,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 216,00 |  | und | Chopp Rambeer Blackpower (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 220,32 | +2.0% | und | Chopp Rambeer Blackpower (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 220,32 | +2.0% | und | Chopp Rambeer Blackpower (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 220,32 | +0.0% | und | Chopp Rambeer Blackpower (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 224,61 | +1.9% | und | Chopp Rambeer Blackpower (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 232,31 | +3.4% | und | Chopp Rambeer Blackpower (barril 30 L) | Port. 383/2021 |
@@ -21824,7 +21825,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,80 |  | und | Chopp Rambeer Ipancada (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,94 | +2.1% | und | Chopp Rambeer Ipancada (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,94 | +2.1% | und | Chopp Rambeer Ipancada (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,94 | +0.0% | und | Chopp Rambeer Ipancada (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,08 | +2.0% | und | Chopp Rambeer Ipancada (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,32 | +3.4% | und | Chopp Rambeer Ipancada (1 L) | Port. 383/2021 |
@@ -21842,7 +21843,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 136,00 |  | und | Chopp Rambeer Ipancada (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 138,72 | +2.0% | und | Chopp Rambeer Ipancada (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 138,72 | +2.0% | und | Chopp Rambeer Ipancada (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 138,72 | +0.0% | und | Chopp Rambeer Ipancada (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 141,42 | +1.9% | und | Chopp Rambeer Ipancada (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 146,27 | +3.4% | und | Chopp Rambeer Ipancada (barril 20 L) | Port. 383/2021 |
@@ -21860,7 +21861,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 340,00 |  | und | Chopp Rambeer Ipancada (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 346,80 | +2.0% | und | Chopp Rambeer Ipancada (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 346,80 | +2.0% | und | Chopp Rambeer Ipancada (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 346,80 | +0.0% | und | Chopp Rambeer Ipancada (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 353,55 | +1.9% | und | Chopp Rambeer Ipancada (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 365,67 | +3.4% | und | Chopp Rambeer Ipancada (barril 50 L) | Port. 383/2021 |
@@ -21884,7 +21885,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,00 |  | und | Chopp Rambeer La Creme (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,12 | +2.0% | und | Chopp Rambeer La Creme (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,12 | +2.0% | und | Chopp Rambeer La Creme (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,12 | +0.0% | und | Chopp Rambeer La Creme (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,24 | +2.0% | und | Chopp Rambeer La Creme (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,45 | +3.4% | und | Chopp Rambeer La Creme (1 L) | Port. 383/2021 |
@@ -21902,7 +21903,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 120,00 |  | und | Chopp Rambeer La Creme (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 122,40 | +2.0% | und | Chopp Rambeer La Creme (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 122,40 | +2.0% | und | Chopp Rambeer La Creme (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 122,40 | +0.0% | und | Chopp Rambeer La Creme (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 124,78 | +1.9% | und | Chopp Rambeer La Creme (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 129,06 | +3.4% | und | Chopp Rambeer La Creme (barril 20 L) | Port. 383/2021 |
@@ -21920,7 +21921,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 180,00 |  | und | Chopp Rambeer La Creme (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 183,60 | +2.0% | und | Chopp Rambeer La Creme (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 183,60 | +2.0% | und | Chopp Rambeer La Creme (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 183,60 | +0.0% | und | Chopp Rambeer La Creme (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 187,17 | +1.9% | und | Chopp Rambeer La Creme (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 193,58 | +3.4% | und | Chopp Rambeer La Creme (barril 30 L) | Port. 383/2021 |
@@ -21938,7 +21939,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 300,00 |  | und | Chopp Rambeer La Creme (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 306,00 | +2.0% | und | Chopp Rambeer La Creme (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 306,00 | +2.0% | und | Chopp Rambeer La Creme (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 306,00 | +0.0% | und | Chopp Rambeer La Creme (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 311,95 | +1.9% | und | Chopp Rambeer La Creme (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 322,64 | +3.4% | und | Chopp Rambeer La Creme (barril 50 L) | Port. 383/2021 |
@@ -21956,7 +21957,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 204,00 |  | und | Chopp Rambeer Ipancada (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 208,08 | +2.0% | und | Chopp Rambeer Ipancada (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 208,08 | +2.0% | und | Chopp Rambeer Ipancada (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 208,08 | +0.0% | und | Chopp Rambeer Ipancada (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 212,13 | +1.9% | und | Chopp Rambeer Ipancada (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 219,40 | +3.4% | und | Chopp Rambeer Ipancada (barril 30 L) | Port. 383/2021 |
@@ -21980,7 +21981,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,71 |  | und | Chopp Rambeer Pilsen (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,71 |  | und | Chopp Rambeer Pilsen (1 L) | Port. 285/2019 |
 
 ### Chopp Rambeer Pilsen (1 L) (código 50307)
 
@@ -22008,7 +22009,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 112,00 |  | und | Chopp Rambeer Pilsen (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 114,24 | +2.0% | und | Chopp Rambeer Pilsen (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 114,24 | +2.0% | und | Chopp Rambeer Pilsen (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 114,24 | +0.0% | und | Chopp Rambeer Pilsen (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 116,46 | +1.9% | und | Chopp Rambeer Pilsen (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 120,45 | +3.4% | und | Chopp Rambeer Pilsen (barril 20 L) | Port. 383/2021 |
@@ -22026,7 +22027,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 280,00 |  | und | Chopp Rambeer Pilsen (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 285,60 | +2.0% | und | Chopp Rambeer Pilsen (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 285,60 | +2.0% | und | Chopp Rambeer Pilsen (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 285,60 | +0.0% | und | Chopp Rambeer Pilsen (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 291,16 | +1.9% | und | Chopp Rambeer Pilsen (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 301,14 | +3.4% | und | Chopp Rambeer Pilsen (barril 50 L) | Port. 383/2021 |
@@ -22050,7 +22051,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,40 |  | und | Chopp Rambeer PQP! (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,53 | +2.0% | und | Chopp Rambeer PQP! (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,53 | +2.0% | und | Chopp Rambeer PQP! (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,53 | +0.0% | und | Chopp Rambeer PQP! (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,66 | +2.0% | und | Chopp Rambeer PQP! (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,89 | +3.5% | und | Chopp Rambeer PQP! (1 L) | Port. 383/2021 |
@@ -22068,7 +22069,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 128,00 |  | und | Chopp Rambeer PQP! (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 130,56 | +2.0% | und | Chopp Rambeer PQP! (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 130,56 | +2.0% | und | Chopp Rambeer PQP! (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 130,56 | +0.0% | und | Chopp Rambeer PQP! (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 133,10 | +1.9% | und | Chopp Rambeer PQP! (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 137,66 | +3.4% | und | Chopp Rambeer PQP! (barril 20 L) | Port. 383/2021 |
@@ -22086,7 +22087,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 192,00 |  | und | Chopp Rambeer PQP! (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 195,84 | +2.0% | und | Chopp Rambeer PQP! (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 195,84 | +2.0% | und | Chopp Rambeer PQP! (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 195,84 | +0.0% | und | Chopp Rambeer PQP! (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 199,65 | +1.9% | und | Chopp Rambeer PQP! (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 206,49 | +3.4% | und | Chopp Rambeer PQP! (barril 30 L) | Port. 383/2021 |
@@ -22104,7 +22105,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 320,00 |  | und | Chopp Rambeer PQP! (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 326,40 | +2.0% | und | Chopp Rambeer PQP! (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 326,40 | +2.0% | und | Chopp Rambeer PQP! (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 326,40 | +0.0% | und | Chopp Rambeer PQP! (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 332,75 | +1.9% | und | Chopp Rambeer PQP! (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 344,15 | +3.4% | und | Chopp Rambeer PQP! (barril 50 L) | Port. 383/2021 |
@@ -22122,7 +22123,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 168,00 |  | und | Chopp Rambeer Pilsen (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 171,36 | +2.0% | und | Chopp Rambeer Pilsen (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 171,36 | +2.0% | und | Chopp Rambeer Pilsen (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 171,36 | +0.0% | und | Chopp Rambeer Pilsen (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 174,69 | +1.9% | und | Chopp Rambeer Pilsen (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 180,68 | +3.4% | und | Chopp Rambeer Pilsen (barril 30 L) | Port. 383/2021 |
@@ -22141,7 +22142,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,00 |  | und | Chopp Rambeer Snowman (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,12 | +2.0% | und | Chopp Rambeer Snowman (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,12 | +2.0% | und | Chopp Rambeer Snowman (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,12 | +0.0% | und | Chopp Rambeer Snowman (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,24 | +2.0% | und | Chopp Rambeer Snowman (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,45 | +3.4% | und | Chopp Rambeer Snowman (1 L) | Port. 383/2021 |
@@ -22159,7 +22160,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 120,00 |  | und | Chopp Rambeer Snowman (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 122,40 | +2.0% | und | Chopp Rambeer Snowman (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 122,40 | +2.0% | und | Chopp Rambeer Snowman (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 122,40 | +0.0% | und | Chopp Rambeer Snowman (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 124,78 | +1.9% | und | Chopp Rambeer Snowman (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 129,06 | +3.4% | und | Chopp Rambeer Snowman (barril 20 L) | Port. 383/2021 |
@@ -22177,7 +22178,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 180,00 |  | und | Chopp Rambeer Snowman (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 183,60 | +2.0% | und | Chopp Rambeer Snowman (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 183,60 | +2.0% | und | Chopp Rambeer Snowman (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 183,60 | +0.0% | und | Chopp Rambeer Snowman (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 187,17 | +1.9% | und | Chopp Rambeer Snowman (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 193,58 | +3.4% | und | Chopp Rambeer Snowman (barril 30 L) | Port. 383/2021 |
@@ -22195,7 +22196,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 300,00 |  | und | Chopp Rambeer Snowman (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 306,00 | +2.0% | und | Chopp Rambeer Snowman (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 306,00 | +2.0% | und | Chopp Rambeer Snowman (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 306,00 | +0.0% | und | Chopp Rambeer Snowman (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 311,95 | +1.9% | und | Chopp Rambeer Snowman (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 322,64 | +3.4% | und | Chopp Rambeer Snowman (barril 50 L) | Port. 383/2021 |
@@ -22870,7 +22871,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-30 (pub.) | 2019-04-25 | incluir | 5,85 |  |  | Chopp Tijuca Puro Malte 1000 ml | Port. 259/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,85 | +0.0% | und | Chopp Tijuca Puro Malte (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,85 | +0.0% | und | Chopp Tijuca Puro Malte (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,96 | +1.9% | und | Chopp Tijuca Puro Malte (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,16 | +3.4% | und | Chopp Tijuca Puro Malte (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 6,72 | +9.1% | und | Chopp Tijuca Puro Malte (1 L) | Port. 454/2022 |
@@ -22886,7 +22887,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 175,50 |  | und | Chopp Tijuca Puro Malte (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 175,50 |  | und | Chopp Tijuca Puro Malte (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 178,91 | +1.9% | und | Chopp Tijuca Puro Malte (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 185,04 | +3.4% | und | Chopp Tijuca Puro Malte (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 201,76 | +9.0% | und | Chopp Tijuca Puro Malte (barril 30 L) | Port. 454/2022 |
@@ -22902,7 +22903,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 292,50 |  | und | Chopp Tijuca Puro Malte (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 292,50 |  | und | Chopp Tijuca Puro Malte (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 298,19 | +1.9% | und | Chopp Tijuca Puro Malte (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 308,41 | +3.4% | und | Chopp Tijuca Puro Malte (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 336,28 | +9.0% | und | Chopp Tijuca Puro Malte (barril 50 L) | Port. 454/2022 |
@@ -23212,7 +23213,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 24,00 |  |  | Chopp Warsteiner Clara 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 24,17 | +0.7% | und | Chopp Warsteiner Clara (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 24,65 | +2.0% | und | Chopp Warsteiner Clara (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Warsteiner Clara (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Warsteiner Clara (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +0.0% | und | Chopp Warsteiner Clara (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,63 | +1.9% | und | Chopp Warsteiner Clara (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,51 | +3.4% | und | Chopp Warsteiner Clara (1 L) | Port. 383/2021 |
@@ -23238,7 +23239,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 24,00 |  |  | Chopp Warsteiner Double Hopped 1000 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 24,17 | +0.7% | und | Chopp Warsteiner Double Hopped (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 24,65 | +2.0% | und | Chopp Warsteiner Double Hopped (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Warsteiner Double Hopped (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +2.0% | und | Chopp Warsteiner Double Hopped (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 25,14 | +0.0% | und | Chopp Warsteiner Double Hopped (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,63 | +1.9% | und | Chopp Warsteiner Double Hopped (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 26,51 | +3.4% | und | Chopp Warsteiner Double Hopped (1 L) | Port. 383/2021 |
@@ -23262,7 +23263,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-04-26 (pub.) | 2019-04-23 | incluir | 22,40 |  |  | Chopp Wit Bier 1.000 ml | Port. 242/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 22,40 | +0.0% | und | Chopp Wit Bier (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,40 | +0.0% | und | Chopp Wit Bier (1 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 22,84 | +2.0% | und | Chopp Wit Bier (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 23,62 | +3.4% | und | Chopp Wit Bier (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 25,75 | +9.0% | und | Chopp Wit Bier (1 L) | Port. 454/2022 |
@@ -23278,7 +23279,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 448,00 |  | und | Chopp Wit Bier (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 448,00 |  | und | Chopp Wit Bier (barril 20 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 456,72 | +1.9% | und | Chopp Wit Bier (barril 20 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 472,37 | +3.4% | und | Chopp Wit Bier (barril 20 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 515,05 | +9.0% | und | Chopp Wit Bier (barril 20 L) | Port. 454/2022 |
@@ -23294,7 +23295,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 672,00 |  | und | Chopp Wit Bier (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 672,00 |  | und | Chopp Wit Bier (barril 30 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 685,07 | +1.9% | und | Chopp Wit Bier (barril 30 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 708,55 | +3.4% | und | Chopp Wit Bier (barril 30 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 772,58 | +9.0% | und | Chopp Wit Bier (barril 30 L) | Port. 454/2022 |
@@ -23310,7 +23311,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1120,00 |  | und | Chopp Wit Bier (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1120,00 |  | und | Chopp Wit Bier (barril 50 L) | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.141,79 | +1.9% | und | Chopp Wit Bier (barril 50 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1.180,92 | +3.4% | und | Chopp Wit Bier (barril 50 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 1.287,63 | +9.0% | und | Chopp Wit Bier (barril 50 L) | Port. 454/2022 |
@@ -23357,7 +23358,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,15 |  | und | Cidade Imperial Dunkel (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,35 | +2.0% | und | Cidade Imperial Dunkel (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,56 | +2.0% | und | Cidade Imperial Dunkel (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,56 | +2.0% | und | Cidade Imperial Dunkel (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,56 | +0.0% | und | Cidade Imperial Dunkel (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,35 | -2.0% | und | Cidade Imperial Dunkel (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,89 | +5.2% | und | Cidade Imperial Dunkel (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -23413,7 +23414,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 1,53 |  |  | Cerveja Cidade Imperial Dunkel - Long Neck 330 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,55 | +1.3% | und | Cidade Imperial Dunkel – 330 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,68 | +8.4% | und | Cidade Imperial Dunkel – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,71 | +1.8% | und | Cidade Imperial Dunkel – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,71 | +1.8% | und | Cidade Imperial Dunkel – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,71 | +0.0% | und | Cidade Imperial Dunkel – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,73 | +1.2% | und | Cidade Imperial Dunkel – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,91 | +10.4% | und | Cidade Imperial Dunkel (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -23436,7 +23437,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,08 | +14.0% | Und | Cidade Imperial Dunkel – 355 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,20 | +1.5% | und | Cidade Imperial Dunkel – 355 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,91 | +8.7% | und | Cidade Imperial Dunkel – 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,09 | +2.0% | und | Cidade Imperial Dunkel – 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,09 | +2.0% | und | Cidade Imperial Dunkel – 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,09 | +0.0% | und | Cidade Imperial Dunkel – 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,19 | +1.1% | und | Cidade Imperial Dunkel – 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,42 | +2.5% | und | Cidade Imperial Dunkel (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -23451,7 +23452,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,16 |  | und | Cidade Imperial Helles (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,36 | +2.0% | und | Cidade Imperial Helles (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,57 | +2.0% | und | Cidade Imperial Helles (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,57 | +2.0% | und | Cidade Imperial Helles (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,57 | +0.0% | und | Cidade Imperial Helles (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,36 | -2.0% | und | Cidade Imperial Helles (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,90 | +5.2% | und | Cidade Imperial Helles (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -23506,7 +23507,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 1,54 |  |  | Cerveja Cidade Imperial Helles - Long Neck 330 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,56 | +1.3% | und | Cidade Imperial Helles – 330 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,70 | +9.0% | und | Cidade Imperial Helles – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Cidade Imperial Helles – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Cidade Imperial Helles – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +0.0% | und | Cidade Imperial Helles – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,75 | +1.2% | und | Cidade Imperial Helles – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,93 | +10.3% | und | Cidade Imperial Helles (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -23529,7 +23530,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,08 | +14.0% | Und | Cidade Imperial Helles - 355 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,20 | +1.5% | und | Cidade Imperial Helles - 355 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,91 | +8.7% | und | Cidade Imperial Helles - 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,09 | +2.0% | und | Cidade Imperial Helles - 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,09 | +2.0% | und | Cidade Imperial Helles - 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,09 | +0.0% | und | Cidade Imperial Helles - 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,19 | +1.1% | und | Cidade Imperial Helles - 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,42 | +2.5% | und | Cidade Imperial Helles (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -23544,7 +23545,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,14 |  | und | Cidade Imperial Pilsen (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,34 | +2.0% | und | Cidade Imperial Pilsen (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,55 | +2.0% | und | Cidade Imperial Pilsen (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,55 | +2.0% | und | Cidade Imperial Pilsen (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,55 | +0.0% | und | Cidade Imperial Pilsen (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,34 | -2.0% | und | Cidade Imperial Pilsen (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,88 | +5.2% | und | Cidade Imperial Pilsen (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -23600,7 +23601,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 1,52 |  |  | Cerveja Cidade Imperial Pilsen - Long Neck 330 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,54 | +1.3% | und | Cidade Imperial Pilsen – 330 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,67 | +8.4% | und | Cidade Imperial Pilsen – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,70 | +1.8% | und | Cidade Imperial Pilsen – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,70 | +1.8% | und | Cidade Imperial Pilsen – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,70 | +0.0% | und | Cidade Imperial Pilsen – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,72 | +1.2% | und | Cidade Imperial Pilsen – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,90 | +10.5% | und | Cidade Imperial Pilsen (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -23623,7 +23624,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,08 | +14.0% | Und | Cidade Imperial Pilsen – 355 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 8,20 | +1.5% | und | Cidade Imperial Pilsen – 355 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,91 | +8.7% | und | Cidade Imperial Pilsen – 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,09 | +2.0% | und | Cidade Imperial Pilsen – 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,09 | +2.0% | und | Cidade Imperial Pilsen – 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,09 | +0.0% | und | Cidade Imperial Pilsen – 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,19 | +1.1% | und | Cidade Imperial Pilsen – 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,42 | +2.5% | und | Cidade Imperial Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -23830,7 +23831,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,26 | +0.3% | Und | Colônia Extra Lager (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,31 | +1.5% | und | Colônia Extra Lager (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,35 | +1.2% | und | Colônia Extra Lager (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,42 | +2.1% | und | Colônia Extra Lager (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,42 | +2.1% | und | Colônia Extra Lager (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,42 | +0.0% | und | Colônia Extra Lager (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,35 | -2.0% | und | Colônia Extra Lager (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,44 | +2.7% | und | Colônia Extra Lager (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -23852,7 +23853,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,61 | +11.0% | Und | Colônia Extra Lager (lata 220 a 310 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,63 | +1.2% | und | Colônia Extra Lager ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,66 | +1.8% | und | Colônia Extra Lager (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,69 | +1.8% | und | Colônia Extra Lager (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,69 | +1.8% | und | Colônia Extra Lager (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,69 | +0.0% | und | Colônia Extra Lager (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,67 | -1.2% | und | Colônia Extra Lager (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,72 | +3.0% | und | Colônia Extra Lager (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -23874,7 +23875,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,91 | +9.8% | Und | Colônia Extra Lager (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Colônia Extra Lager (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,92 | -1.0% | und | Colônia Extra Lager (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Colônia Extra Lager (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Colônia Extra Lager (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +0.0% | und | Colônia Extra Lager (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +0.0% | und | Colônia Extra Lager (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | +2.6% | und | Colônia Extra Lager (lata 350 ml) | Port. 383/2021 |
@@ -23896,7 +23897,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,59 | +8.8% | Und | Colônia Extra Lager - 473 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,63 | +1.5% | und | Colônia Extra Lager - 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,73 | +3.8% | und | Colônia Extra Lager - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,78 | +1.8% | und | Colônia Extra Lager - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,78 | +1.8% | und | Colônia Extra Lager - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,78 | +0.0% | und | Colônia Extra Lager - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,79 | +0.4% | und | Colônia Extra Lager - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,91 | +4.3% | und | Colônia Extra Lager (lata) ⚠ | Port. 383/2021 |
@@ -23918,7 +23919,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +5.9% | Und | Colônia Extra Lager (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Colônia Extra Lager (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Colônia Extra Lager (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Colônia Extra Lager (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Colônia Extra Lager (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Colônia Extra Lager (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Colônia Extra Lager (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Colônia Extra Lager (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -23940,7 +23941,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +0.3% | Und | Colônia Malzibier (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Colônia Malzibier (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,40 | +1.2% | und | Colônia Malzibier (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Colônia Malzibier (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Colônia Malzibier (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +0.0% | und | Colônia Malzibier (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,40 | -2.0% | und | Colônia Malzibier (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,50 | +2.9% | und | Colônia Malzibier (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -23962,7 +23963,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,61 | +11.0% | Und | Colônia Malzibier (lata 220 a 310 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,63 | +1.2% | und | Colônia Malzibier ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,66 | +1.8% | und | Colônia Malzibier (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,69 | +1.8% | und | Colônia Malzibier (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,69 | +1.8% | und | Colônia Malzibier (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,69 | +0.0% | und | Colônia Malzibier (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,67 | -1.2% | und | Colônia Malzibier (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,72 | +3.0% | und | Colônia Malzibier (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -23984,7 +23985,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,91 | +9.8% | Und | Colônia Malzibier (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Colônia Malzibier (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,92 | -1.0% | und | Colônia Malzibier (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Colônia Malzibier (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Colônia Malzibier (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +0.0% | und | Colônia Malzibier (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +0.0% | und | Colônia Malzibier (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | +2.6% | und | Colônia Malzibier (lata 350 ml) | Port. 383/2021 |
@@ -24006,7 +24007,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +5.9% | Und | Colônia Malzibier (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Colônia Malzibier (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Colônia Malzibier (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Colônia Malzibier (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Colônia Malzibier (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Colônia Malzibier (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Colônia Malzibier (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Colônia Malzibier (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -24028,7 +24029,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,78 | +11.3% | Und | Colônia Negra (lata 220 a 310 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,81 | +1.7% | und | Colônia Negra ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | +2.2% | und | Colônia Negra (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Colônia Negra (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Colônia Negra (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | Colônia Negra (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,86 | -1.6% | und | Colônia Negra (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,92 | +3.2% | und | Colônia Negra (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -24050,7 +24051,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,98 | +10.0% | Und | Colônia Negra (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,01 | +1.5% | und | Colônia Negra (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,99 | -1.0% | und | Colônia Negra (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,03 | +2.0% | und | Colônia Negra (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,03 | +2.0% | und | Colônia Negra (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,03 | +0.0% | und | Colônia Negra (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | +0.0% | und | Colônia Negra (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,08 | +2.5% | und | Colônia Negra (lata 350 ml) | Port. 383/2021 |
@@ -24072,7 +24073,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,83 | +8.8% | Und | Colônia Negra - 473 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,87 | +1.4% | und | Colônia Negra - 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,97 | +3.5% | und | Colônia Negra - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,03 | +2.0% | und | Colônia Negra - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,03 | +2.0% | und | Colônia Negra - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,03 | +0.0% | und | Colônia Negra - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,04 | +0.3% | und | Colônia Negra - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,17 | +4.3% | und | Colônia Negra (lata) ⚠ | Port. 383/2021 |
@@ -24094,7 +24095,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,83 | -12.1% | Und | Colônia Pilsen (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,30 | +16.6% | und | Colônia Pilsen (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,37 | +2.1% | und | Colônia Pilsen (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,44 | +2.1% | und | Colônia Pilsen (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,44 | +2.1% | und | Colônia Pilsen (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,44 | +0.0% | und | Colônia Pilsen (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,53 | +2.6% | und | Colônia Pilsen (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,65 | +3.4% | und | Colônia Pilsen (descartável 1 L) | Port. 383/2021 |
@@ -24116,7 +24117,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,51 | +0.4% | Und | Colônia Pilsen (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,55 | +1.6% | und | Colônia Pilsen (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,58 | +1.2% | und | Colônia Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,63 | +1.9% | und | Colônia Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,63 | +1.9% | und | Colônia Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,63 | +0.0% | und | Colônia Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,58 | -1.9% | und | Colônia Pilsen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,65 | +2.7% | und | Colônia Pilsen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -24138,7 +24139,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,33 | +10.8% | Und | Colônia Pilsen (lata 220 a 310 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,35 | +1.5% | und | Colônia Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,38 | +2.2% | und | Colônia Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,41 | +2.2% | und | Colônia Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +2.2% | und | Colônia Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +0.0% | und | Colônia Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,39 | -1.4% | und | Colônia Pilsen (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,43 | +2.9% | und | Colônia Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -24166,7 +24167,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,38 | +10.2% | Und | Colonia Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,41 | +1.3% | und | Colonia Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,38 | -1.2% | und | Colonia Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,43 | +2.1% | und | Colonia Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,43 | +2.1% | und | Colonia Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,43 | +0.0% | und | Colonia Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,43 | +0.0% | und | Colonia Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,50 | +2.9% | und | Colonia Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -24188,7 +24189,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,60 | +10.3% | Und | Colônia Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,62 | +1.2% | und | Colônia Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,60 | -1.2% | und | Colônia Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,63 | +1.9% | und | Colônia Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,63 | +1.9% | und | Colônia Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,63 | +0.0% | und | Colônia Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,63 | +0.0% | und | Colônia Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,67 | +2.5% | und | Colônia Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -24210,7 +24211,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,16 | +9.1% | Und | Colônia Pilsen - 473 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,19 | +1.4% | und | Colônia Pilsen - 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,27 | +3.7% | und | Colônia Pilsen - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,32 | +2.2% | und | Colônia Pilsen - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,32 | +2.2% | und | Colônia Pilsen - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,32 | +0.0% | und | Colônia Pilsen - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,33 | +0.4% | und | Colônia Pilsen - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,43 | +4.3% | und | Colônia Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -24229,7 +24230,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,63 |  | und | Colônia Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,72 | +1.9% | und | Colônia Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,72 | +1.9% | und | Colônia Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,72 | +0.0% | und | Colônia Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,84 | +2.5% | und | Colônia Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,01 | +3.5% | und | Colônia Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -24275,7 +24276,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,39 | +6.2% | Und | Colônia Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,42 | +1.3% | und | Colônia Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,33 | -3.7% | und | Colônia Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,38 | +2.1% | und | Colônia Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,38 | +2.1% | und | Colônia Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,38 | +0.0% | und | Colônia Pilsen (retornável 600 ml) | Port. 286/2019 |
 
 ### Cerveja Colônia Sem Álcool -Descartavel 600 ml (código 47032)
@@ -24286,7 +24287,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +0.3% | Und | Colônia sem Alcool (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Colônia sem Alcool (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,40 | +1.2% | und | Colônia sem Alcool (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Colônia sem Alcool (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Colônia sem Alcool (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +0.0% | und | Colônia sem Alcool (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,40 | -2.0% | und | Colônia sem Alcool (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,50 | +2.9% | und | Colônia sem Alcool (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -24308,7 +24309,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,61 | +11.0% | Und | Colônia sem Alcool (lata 220 a 310 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,63 | +1.2% | und | Colônia sem Alcool ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,66 | +1.8% | und | Colônia sem Alcool (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,69 | +1.8% | und | Colônia sem Alcool (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,69 | +1.8% | und | Colônia sem Alcool (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,69 | +0.0% | und | Colônia sem Alcool (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,67 | -1.2% | und | Colônia sem Alcool (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,72 | +3.0% | und | Colônia sem Alcool (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -24330,7 +24331,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,91 | +9.8% | Und | Colônia sem Alcool (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Colônia sem Alcool (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,92 | -1.0% | und | Colônia sem Alcool (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Colônia sem Alcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Colônia sem Alcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +0.0% | und | Colônia sem Alcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +0.0% | und | Colônia sem Alcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | +2.6% | und | Colônia sem Alcool (lata 350 ml) | Port. 383/2021 |
@@ -24352,7 +24353,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +5.9% | Und | Colônia sem Alcool (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Colônia sem Alcool (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Colônia sem Alcool (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Colônia sem Alcool (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Colônia sem Alcool (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Colônia sem Alcool (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Colônia sem Alcool (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Colônia sem Alcool (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -24374,7 +24375,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +5.9% | Und | Colônia Zero Alcool (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Colônia Zero Alcool (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Colônia Zero Alcool (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Colônia Zero Alcool (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Colônia Zero Alcool (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Colônia Zero Alcool (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Colônia Zero Alcool (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Colônia Zero Alcool (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -24396,7 +24397,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +0.3% | Und | Colônia Zero Alcool (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Colônia Zero Alcool (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,40 | +1.2% | und | Colônia Zero Alcool (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Colônia Zero Alcool (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Colônia Zero Alcool (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +0.0% | und | Colônia Zero Alcool (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,40 | -2.0% | und | Colônia Zero Alcool (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,50 | +2.9% | und | Colônia Zero Alcool (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -24418,7 +24419,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,61 | +11.0% | Und | Colônia Zero Alcool (lata 220 a 310 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,63 | +1.2% | und | Colônia Zero Alcool ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,66 | +1.8% | und | Colônia Zero Alcool (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,69 | +1.8% | und | Colônia Zero Alcool (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,69 | +1.8% | und | Colônia Zero Alcool (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,69 | +0.0% | und | Colônia Zero Alcool (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,67 | -1.2% | und | Colônia Zero Alcool (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,72 | +3.0% | und | Colônia Zero Alcool (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -24440,7 +24441,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,91 | +9.8% | Und | Colônia Zero Alcool (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Colônia Zero Alcool (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,92 | -1.0% | und | Colônia Zero Alcool (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Colônia Zero Alcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Colônia Zero Alcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +0.0% | und | Colônia Zero Alcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +0.0% | und | Colônia Zero Alcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | +2.6% | und | Colônia Zero Alcool (lata 350 ml) | Port. 383/2021 |
@@ -24462,7 +24463,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 13,94 | +0.3% | Und | Colorado (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,14 | +1.4% | und | Colorado (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,31 | +1.2% | und | Colorado (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,60 | +2.0% | und | Colorado (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,60 | +2.0% | und | Colorado (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,60 | +0.0% | und | Colorado (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,31 | -2.0% | und | Colorado (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,71 | +2.8% | und | Colorado (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -24496,7 +24497,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,97 |  | und | Colorado (lata 410 a 710 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,97 |  | und | Colorado (lata 410 a 710 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,97 | +0.0% | und | Colorado (lata 410 a 710 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,99 | +0.4% | und | Colorado (lata 410 a 710 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,21 | +4.4% | und | Colorado (lata) ⚠ | Port. 383/2021 |
@@ -24561,7 +24562,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,00 |  | und | Colorado (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,10 | +2.0% | und | Colorado (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,10 | +2.0% | und | Colorado (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,10 | +0.0% | und | Colorado (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,10 | +0.0% | und | Colorado (retornável 300 ml) | Port. 614/2019 |
 
@@ -24570,7 +24571,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,90 |  | und | Colorado - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,00 | +2.0% | und | Colorado - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,00 | +2.0% | und | Colorado - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,00 | +0.0% | und | Colorado - 300 ml | Port. 286/2019 |
 
 ### Colorado - 410 ml (código 48658)
@@ -24591,7 +24592,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,90 |  | und | Colorado - 410 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,00 | +2.0% | und | Colorado - 410 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,00 | +2.0% | und | Colorado - 410 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,00 | +0.0% | und | Colorado - 410 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,02 | +0.4% | und | Colorado - 410 ml | Port. 614/2019 |
 
@@ -24599,7 +24600,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,90 |  | und | Colorado Appia (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,90 |  | und | Colorado Appia (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,90 | +0.0% | und | Colorado Appia (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,66 | -2.0% | und | Colorado Appia (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,99 | +2.8% | und | Colorado Appia (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -24617,7 +24618,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,90 |  | und | Colorado Cauim (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,90 |  | und | Colorado Cauim (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,90 | +0.0% | und | Colorado Cauim (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,66 | -2.0% | und | Colorado Cauim (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,99 | +2.8% | und | Colorado Cauim (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -24635,7 +24636,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,90 |  | und | Colorado Ribeirão Lager (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,90 |  | und | Colorado Ribeirão Lager (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,90 | +0.0% | und | Colorado Ribeirão Lager (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,72 | -2.0% | und | Colorado Ribeirão Lager (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,77 | +12.0% | und | Colorado Ribeirão Lager (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -24718,7 +24719,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +11.1% | Und | Conti – 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Conti – 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,65 | +8.6% | und | Conti – 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,72 | +1.9% | und | Conti – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,72 | +1.9% | und | Conti – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,72 | +0.0% | und | Conti – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,76 | +1.1% | und | Conti – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,89 | +3.5% | und | Conti (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -24742,7 +24743,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,00 | +8.9% | Und | Conti (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,07 | +1.4% | und | Conti (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,33 | +5.1% | und | Conti (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,44 | +2.1% | und | Conti (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,44 | +2.1% | und | Conti (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,44 | +0.0% | und | Conti (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,57 | +2.4% | und | Conti (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,76 | +3.4% | und | Conti (retornável 1 L) | Port. 383/2021 |
@@ -24800,7 +24801,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,62 | +10.1% | Und | Conti Malzbier (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,66 | +1.5% | und | Conti Malzbier (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,63 | -1.1% | und | Conti Malzbier (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,68 | +1.9% | und | Conti Malzbier (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,68 | +1.9% | und | Conti Malzbier (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,68 | +0.0% | und | Conti Malzbier (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,69 | +0.4% | und | Conti Malzbier (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,76 | +2.6% | und | Conti Malzbier (lata 350 ml) | Port. 383/2021 |
@@ -24824,7 +24825,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,14 | +9.0% | Und | Conti Malzbier – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,18 | +1.3% | und | Conti Malzbier – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,30 | +3.8% | und | Conti Malzbier – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,37 | +2.1% | und | Conti Malzbier – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,37 | +2.1% | und | Conti Malzbier – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,37 | +0.0% | und | Conti Malzbier – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,38 | +0.3% | und | Conti Malzbier – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,53 | +4.4% | und | Conti Malzbier (lata) ⚠ | Port. 383/2021 |
@@ -24880,7 +24881,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,91 | -11.9% | Und | Conti Pilsen (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,55 | +16.4% | und | Conti Pilsen (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,64 | +2.0% | und | Conti Pilsen (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,73 | +1.9% | und | Conti Pilsen (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,73 | +1.9% | und | Conti Pilsen (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,73 | +0.0% | und | Conti Pilsen (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,85 | +2.5% | und | Conti Pilsen (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,02 | +3.5% | und | Conti Pilsen (descartável 1 L) | Port. 383/2021 |
@@ -24903,7 +24904,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,93 | +0.3% | Und | Conti Pilsen (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,99 | +1.5% | und | Conti Pilsen (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,04 | +1.3% | und | Conti Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Conti Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Conti Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +0.0% | und | Conti Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,04 | -1.9% | und | Conti Pilsen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,15 | +2.7% | und | Conti Pilsen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -24925,7 +24926,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,98 | +11.2% | Und | Conti Pilsen - 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,01 | +1.5% | und | Conti Pilsen - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,05 | +2.0% | und | Conti Pilsen - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,09 | +2.0% | und | Conti Pilsen - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,09 | +2.0% | und | Conti Pilsen - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,09 | +0.0% | und | Conti Pilsen - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,06 | -1.4% | und | Conti Pilsen - 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,13 | +3.4% | und | Conti Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -24947,7 +24948,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,48 | +10.2% | Und | Conti Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,52 | +1.6% | und | Conti Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,49 | -1.2% | und | Conti Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Conti Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +2.0% | und | Conti Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,54 | +0.0% | und | Conti Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,54 | +0.0% | und | Conti Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,61 | +2.8% | und | Conti Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -24970,7 +24971,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,17 | +10.8% | Und | Conti Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Conti Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,34 | +3.7% | und | Conti Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,41 | +2.1% | und | Conti Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,41 | +2.1% | und | Conti Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,41 | +0.0% | und | Conti Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,42 | +0.3% | und | Conti Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,57 | +4.4% | und | Conti Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -24992,7 +24993,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,79 | +36.8% | Und | Conti Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,83 | +1.4% | und | Conti Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,89 | +2.1% | und | Conti Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,95 | +2.1% | und | Conti Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,95 | +2.1% | und | Conti Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,95 | +0.0% | und | Conti Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,95 | +0.0% | und | Conti Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,66 | -9.8% | und | Conti Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -25014,7 +25015,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,17 | +6.1% | Und | Conti Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,23 | +1.4% | und | Conti Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,08 | -3.5% | und | Conti Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,16 | +2.0% | und | Conti Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,16 | +2.0% | und | Conti Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,16 | +0.0% | und | Conti Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,24 | +1.9% | und | Conti Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +2.1% | und | Conti Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -25044,7 +25045,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,81 | -12.0% | Und | Conti Zero Grau (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,43 | +16.3% | und | Conti Zero Grau (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,52 | +2.0% | und | Conti Zero Grau (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,61 | +2.0% | und | Conti Zero Grau (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,61 | +2.0% | und | Conti Zero Grau (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,61 | +0.0% | und | Conti Zero Grau (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,72 | +2.4% | und | Conti Zero Grau (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,88 | +3.4% | und | Conti Zero Grau (descartável 1 L) | Port. 383/2021 |
@@ -25068,7 +25069,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,82 | +0.3% | Und | Conti Zero Grau (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,87 | +1.3% | und | Conti Zero Grau (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,92 | +1.3% | und | Conti Zero Grau (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,00 | +2.0% | und | Conti Zero Grau (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,00 | +2.0% | und | Conti Zero Grau (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,00 | +0.0% | und | Conti Zero Grau (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,92 | -2.0% | und | Conti Zero Grau (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,03 | +2.8% | und | Conti Zero Grau (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -25096,7 +25097,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,83 | +10.9% | Und | Conti Zero Grau - 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,86 | +1.6% | und | Conti Zero Grau - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,90 | +2.2% | und | Conti Zero Grau - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,94 | +2.1% | und | Conti Zero Grau - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,94 | +2.1% | und | Conti Zero Grau - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,94 | +0.0% | und | Conti Zero Grau - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,91 | -1.5% | und | Conti Zero Grau - 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,97 | +3.1% | und | Conti Zero Grau (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -25120,7 +25121,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,33 | +9.9% | Und | Conti Zero Grau (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,36 | +1.3% | und | Conti Zero Grau (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,33 | -1.3% | und | Conti Zero Grau (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,38 | +2.1% | und | Conti Zero Grau (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,38 | +2.1% | und | Conti Zero Grau (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,38 | +0.0% | und | Conti Zero Grau (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,38 | +0.0% | und | Conti Zero Grau (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,44 | +2.5% | und | Conti Zero Grau (lata 350 ml) | Port. 383/2021 |
@@ -25144,7 +25145,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,11 | +11.1% | Und | Conti Zero Grau – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,15 | +1.3% | und | Conti Zero Grau – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,26 | +3.5% | und | Conti Zero Grau – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,33 | +2.1% | und | Conti Zero Grau – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,33 | +2.1% | und | Conti Zero Grau – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,33 | +0.0% | und | Conti Zero Grau – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,34 | +0.3% | und | Conti Zero Grau – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,49 | +4.5% | und | Conti Zero Grau (lata) ⚠ | Port. 383/2021 |
@@ -25168,7 +25169,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,02 | +11.0% | Und | Conti Zero Grau – 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,06 | +1.3% | und | Conti Zero Grau – 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,33 | +8.8% | und | Conti Zero Grau – 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,40 | +2.1% | und | Conti Zero Grau – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,40 | +2.1% | und | Conti Zero Grau – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,40 | +0.0% | und | Conti Zero Grau – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,44 | +1.2% | und | Conti Zero Grau – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,56 | +3.5% | und | Conti Zero Grau (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -25192,7 +25193,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,87 | +8.9% | Und | Conti Zero Grau (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,94 | +1.4% | und | Conti Zero Grau (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,20 | +5.3% | und | Conti Zero Grau (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,30 | +1.9% | und | Conti Zero Grau (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,30 | +1.9% | und | Conti Zero Grau (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,30 | +0.0% | und | Conti Zero Grau (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,43 | +2.5% | und | Conti Zero Grau (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,62 | +3.5% | und | Conti Zero Grau (retornável 1 L) | Port. 383/2021 |
@@ -25216,7 +25217,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,14 | +37.2% | Und | Conti Zero Grau (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,17 | +1.4% | und | Conti Zero Grau (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,21 | +1.8% | und | Conti Zero Grau (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,25 | +1.8% | und | Conti Zero Grau (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,25 | +1.8% | und | Conti Zero Grau (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,25 | +0.0% | und | Conti Zero Grau (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,25 | +0.0% | und | Conti Zero Grau (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | -9.8% | und | Conti Zero Grau (retornável 300 ml) | Port. 383/2021 |
@@ -25240,7 +25241,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,03 | +6.1% | Und | Conti Zero Grau (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,09 | +1.5% | und | Conti Zero Grau (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,94 | -3.7% | und | Conti Zero Grau (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,02 | +2.0% | und | Conti Zero Grau (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,02 | +2.0% | und | Conti Zero Grau (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,02 | +0.0% | und | Conti Zero Grau (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,10 | +2.0% | und | Conti Zero Grau (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,19 | +2.2% | und | Conti Zero Grau (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -25326,7 +25327,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,06 | +5.4% | Und | Corona Extra (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,15 | +1.5% | und | Corona Extra ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,30 | +2.4% | und | Corona Extra (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,43 | +2.1% | und | Corona Extra (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,43 | +2.1% | und | Corona Extra (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,43 | +0.0% | und | Corona Extra (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,42 | -0.2% | und | Corona Extra (long neck 200 a 375 ml) | Port. 614/2019 |
 
@@ -25341,7 +25342,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,99 |  | und | Corona Extra Nac - 330ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,99 |  | und | Corona Extra Nac - 330ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,99 | +0.0% | und | Corona Extra Nac - 330ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,04 | +1.0% | und | Corona Extra Nac - 330ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,51 | +9.3% | und | Corona Extra Nac (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -25388,7 +25389,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,25 | +11.8% | Und | Coronita Extra (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,31 | +1.4% | und | Coronita Extra (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,40 | +2.1% | und | Coronita Extra (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Coronita Extra (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Coronita Extra (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +0.0% | und | Coronita Extra (long neck 250 ml) | Port. 286/2019 |
 
 ### Coronita Extra - 210 ml (código 49958)
@@ -25400,7 +25401,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,33 | +13.9% | Und | Coronita Extra - 210 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,39 | +1.4% | und | Coronita Extra - 210 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,77 | +8.7% | und | Coronita Extra - 210 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,87 | +2.1% | und | Coronita Extra - 210 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,87 | +2.1% | und | Coronita Extra - 210 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,87 | +0.0% | und | Coronita Extra - 210 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,92 | +1.0% | und | Coronita Extra - 210 ml | Port. 614/2019 |
 
@@ -25427,7 +25428,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,49 |  | und | Coronita Extra Nac - 210ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,49 |  | und | Coronita Extra Nac - 210ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,49 | +0.0% | und | Coronita Extra Nac - 210ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,53 | +1.1% | und | Coronita Extra Nac - 210ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,66 | +3.7% | und | Coronita Extra Nac - 210ml | Port. 383/2021 |
@@ -25570,7 +25571,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 21,15 | +48.0% | Und | Coruja Alba Weizen (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 21,45 | +1.4% | und | Coruja Alba Weizen (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 21,88 | +2.0% | und | Coruja Alba Weizen (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 22,32 | +2.0% | und | Coruja Alba Weizen (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,32 | +2.0% | und | Coruja Alba Weizen (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,32 | +0.0% | und | Coruja Alba Weizen (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 21,88 | -2.0% | und | Coruja Alba Weizen (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 23,01 | +5.2% | und | Coruja Alba Weizen (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -25592,7 +25593,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 27,81 | +48.0% | Und | Coruja Coice (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 28,21 | +1.4% | und | Coruja Coice (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 28,77 | +2.0% | und | Coruja Coice (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 29,35 | +2.0% | und | Coruja Coice (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 29,35 | +2.0% | und | Coruja Coice (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 29,35 | +0.0% | und | Coruja Coice (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 28,77 | -2.0% | und | Coruja Coice (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 30,26 | +5.2% | und | Coruja Coice (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -25614,7 +25615,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 26,23 | +48.0% | Und | Coruja Labareda (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 26,60 | +1.4% | und | Coruja Labareda (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 27,13 | +2.0% | und | Coruja Labareda (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 27,67 | +2.0% | und | Coruja Labareda (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 27,67 | +2.0% | und | Coruja Labareda (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 27,67 | +0.0% | und | Coruja Labareda (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 27,12 | -2.0% | und | Coruja Labareda (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 28,53 | +5.2% | und | Coruja Labareda (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -25636,7 +25637,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 19,48 | +48.0% | Und | Coruja Otus (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 19,76 | +1.4% | und | Coruja Otus (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 20,16 | +2.0% | und | Coruja Otus (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 20,56 | +2.0% | und | Coruja Otus (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 20,56 | +2.0% | und | Coruja Otus (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 20,56 | +0.0% | und | Coruja Otus (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 20,15 | -2.0% | und | Coruja Otus (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 21,19 | +5.2% | und | Coruja Otus (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -25658,7 +25659,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 21,15 | +48.0% | Und | Coruja Otus Hop (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 21,45 | +1.4% | und | Coruja Otus Hop (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 21,88 | +2.0% | und | Coruja Otus Hop (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 22,32 | +2.0% | und | Coruja Otus Hop (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,32 | +2.0% | und | Coruja Otus Hop (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,32 | +0.0% | und | Coruja Otus Hop (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 21,88 | -2.0% | und | Coruja Otus Hop (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 23,01 | +5.2% | und | Coruja Otus Hop (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -25680,7 +25681,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 15,64 | +48.0% | Und | Coruja Strix (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 15,86 | +1.4% | und | Coruja Strix (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 16,18 | +2.0% | und | Coruja Strix (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 16,50 | +2.0% | und | Coruja Strix (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,50 | +2.0% | und | Coruja Strix (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,50 | +0.0% | und | Coruja Strix (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 16,17 | -2.0% | und | Coruja Strix (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 17,01 | +5.2% | und | Coruja Strix (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -25798,7 +25799,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,24 | +3.3% | Und | Crystal Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,26 | +1.6% | und | Crystal Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,29 | +2.4% | und | Crystal Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,32 | +2.3% | und | Crystal Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,32 | +2.3% | und | Crystal Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,32 | +0.0% | und | Crystal Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,30 | -1.5% | und | Crystal Pilsen (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,65 | +26.9% | und | Crystal Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -25825,7 +25826,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,85 | +1.1% | Und | Crystal Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,88 | +1.6% | und | Crystal Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,86 | -1.1% | und | Crystal Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,90 | +2.2% | und | Crystal Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,90 | +2.2% | und | Crystal Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,90 | +0.0% | und | Crystal Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,90 | +0.0% | und | Crystal Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,98 | +4.2% | und | Crystal Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -25853,7 +25854,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,18 | +4.8% | Und | Crystal Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,21 | +1.4% | und | Crystal Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,29 | +3.6% | und | Crystal Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Crystal Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Crystal Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +0.0% | und | Crystal Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,35 | +0.4% | und | Crystal Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,45 | +4.3% | und | Crystal Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -25880,7 +25881,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,00 | +5.8% | Und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,03 | +1.5% | und | Crystal Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,21 | +8.9% | und | Crystal Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,25 | +1.8% | und | Crystal Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,25 | +1.8% | und | Crystal Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,25 | +0.0% | und | Crystal Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 
 ### Crystal Pilsen (long neck 250 ml) (código 48899)
@@ -25892,7 +25893,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,35 | +3.1% | Und | Crystal Pilsen (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,37 | +1.5% | und | Crystal Pilsen (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,40 | +2.2% | und | Crystal Pilsen (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,43 | +2.1% | und | Crystal Pilsen (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,43 | +2.1% | und | Crystal Pilsen (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,43 | +0.0% | und | Crystal Pilsen (long neck 250 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,45 | +1.4% | und | Crystal Pilsen (long neck 250 ml) | Port. 614/2019 |
 
@@ -25904,7 +25905,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,36 | +5.8% | Und | Crystal Pilsen 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,39 | +1.3% | und | Crystal Pilsen 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,60 | +8.8% | und | Crystal Pilsen 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,65 | +1.9% | und | Crystal Pilsen 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,65 | +1.9% | und | Crystal Pilsen 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,65 | +0.0% | und | Crystal Pilsen 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,68 | +1.1% | und | Crystal Pilsen 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,77 | +3.4% | und | Crystal Pilsen (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -25931,7 +25932,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,77 | +3.7% | Und | Crystal Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,84 | +1.5% | und | Crystal Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,09 | +5.2% | und | Crystal Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,19 | +2.0% | und | Crystal Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,19 | +2.0% | und | Crystal Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,19 | +0.0% | und | Crystal Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,32 | +2.5% | und | Crystal Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,50 | +3.4% | und | Crystal Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -25953,7 +25954,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,90 | +6.1% | Und | Crystal Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,93 | +1.6% | und | Crystal Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,97 | +2.1% | und | Crystal Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Crystal Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Crystal Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +0.0% | und | Crystal Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,01 | +0.0% | und | Crystal Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,81 | -10.0% | und | Crystal Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -25980,7 +25981,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,92 | +3.2% | Und | Crystal Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,98 | +1.5% | und | Crystal Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,84 | -3.5% | und | Crystal Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Crystal Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Crystal Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +0.0% | und | Crystal Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,40 | +12.2% | und | Crystal Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,50 | +2.3% | und | Crystal Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -26333,7 +26334,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,68 | +3.1% | und | Devassa (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,70 | +1.2% | und | Devassa ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,93 | +13.5% | und | Devassa (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,97 | +2.1% | und | Devassa (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,97 | +2.1% | und | Devassa (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,97 | +0.0% | und | Devassa (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,95 | -1.0% | und | Devassa (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,17 | +11.3% | und | Devassa (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -26361,7 +26362,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,31 | +2.7% | Und | Devassa (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,34 | +1.3% | und | Devassa (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,56 | +9.4% | und | Devassa (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,61 | +2.0% | und | Devassa (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,61 | +2.0% | und | Devassa (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,61 | +0.0% | und | Devassa (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,58 | -1.1% | und | Devassa (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,73 | +5.8% | und | Devassa (lata 350 ml) | Port. 383/2021 |
@@ -26386,7 +26387,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,09 | +4.7% | Und | Devassa – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,13 | +1.3% | und | Devassa – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,24 | +3.5% | und | Devassa – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Devassa – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Devassa – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +0.0% | und | Devassa – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,31 | +0.3% | und | Devassa – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,46 | +4.5% | und | Devassa (lata) ⚠ | Port. 383/2021 |
@@ -26411,7 +26412,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,50 | +5.0% | Und | Devassa - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,54 | +1.6% | und | Devassa - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,76 | +8.7% | und | Devassa - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,82 | +2.2% | und | Devassa - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,82 | +2.2% | und | Devassa - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,82 | +0.0% | und | Devassa - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,85 | +1.1% | und | Devassa - 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,95 | +3.5% | und | Devassa (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -26450,7 +26451,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,08 | +3.3% | Und | Devassa (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,15 | +1.4% | und | Devassa (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,96 | -3.7% | und | Devassa (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,06 | +2.0% | und | Devassa (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,06 | +2.0% | und | Devassa (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,06 | +0.0% | und | Devassa (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,40 | +6.7% | und | Devassa (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,52 | +2.2% | und | Devassa (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -26540,7 +26541,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,82 | -11.6% | Und | Devassa Loura (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,42 | +15.7% | und | Devassa Loura ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,47 | -21.5% | und | Devassa Loura (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Devassa Loura (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Devassa Loura (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +0.0% | und | Devassa Loura (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,64 | -25.4% | und | Devassa Loura (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,71 | +2.7% | und | Devassa Loura (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -26571,7 +26572,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,22 | +5.0% | Und | Devassa Negra (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,29 | +1.3% | und | Devassa Negra ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,75 | +8.7% | und | Devassa Negra (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,87 | +2.1% | und | Devassa Negra (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,87 | +2.1% | und | Devassa Negra (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,87 | +0.0% | und | Devassa Negra (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,93 | +1.0% | und | Devassa Negra (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,08 | +2.5% | und | Devassa Negra (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -26591,7 +26592,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,22 | +5.0% | Und | Devassa Ruiva (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,29 | +1.3% | und | Devassa Ruiva ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,75 | +8.7% | und | Devassa Ruiva (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,87 | +2.1% | und | Devassa Ruiva (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,87 | +2.1% | und | Devassa Ruiva (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,87 | +0.0% | und | Devassa Ruiva (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,93 | +1.0% | und | Devassa Ruiva (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,08 | +2.5% | und | Devassa Ruiva (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -26632,7 +26633,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,96 |  | und | Ditriguis Witbier - 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,96 |  | und | Ditriguis Witbier - 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,96 | +0.0% | und | Ditriguis Witbier - 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,03 | +1.0% | und | Ditriguis Witbier - 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,21 | +2.6% | und | Ditriguis Witbier (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -27082,7 +27083,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,15 | +12.9% | Und | D’Ávila Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,22 | +1.4% | und | D’Ávila Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,49 | +5.2% | und | D’Ávila Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,60 | +2.0% | und | D’Ávila Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +2.0% | und | D’Ávila Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,60 | +0.0% | und | D’Ávila Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,74 | +2.5% | und | D’Ávila Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,94 | +3.5% | und | D’Ávila Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -27115,7 +27116,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-09 (pub.) | 2018-02-06 | incluir | 44,00 |  |  | Cerveja Kriek Mariage Parfait 375 ml | Port. 48/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 44,31 | +0.7% | und | kriek Mariage Parfait - 375 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 48,16 | +8.7% | und | kriek Mariage Parfait - 375 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 49,12 | +2.0% | und | kriek Mariage Parfait - 375 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 49,12 | +2.0% | und | kriek Mariage Parfait - 375 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 49,12 | +0.0% | und | kriek Mariage Parfait - 375 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 49,64 | +1.1% | und | kriek Mariage Parfait - 375 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 51,34 | +3.4% | und | eck Mariage Parfait (long neck 375 ml) ⚠ | Port. 383/2021 |
@@ -27215,7 +27216,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,55 | +1.5% | Und | Eisenbahn (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,63 | +1.4% | und | Eisenbahn (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,65 | +0.4% | und | Eisenbahn (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,76 | +1.9% | und | Eisenbahn (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,76 | +1.9% | und | Eisenbahn (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,76 | +0.0% | und | Eisenbahn (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,65 | -1.9% | und | Eisenbahn (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,81 | +2.8% | und | Eisenbahn (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -27240,7 +27241,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,84 | +2.5% | Und | Eisenbahn (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,88 | +1.4% | und | Eisenbahn (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,21 | +11.5% | und | Eisenbahn (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Eisenbahn (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Eisenbahn (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +0.0% | und | Eisenbahn (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,29 | +0.6% | und | Eisenbahn (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,40 | +3.3% | und | Eisenbahn (lata 350 ml) | Port. 383/2021 |
@@ -27271,7 +27272,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,63 | +3.3% | Und | Eisenbahn (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,71 | +1.4% | und | Eisenbahn (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,50 | -3.7% | und | Eisenbahn (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,61 | +2.0% | und | Eisenbahn (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,61 | +2.0% | und | Eisenbahn (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,61 | +0.0% | und | Eisenbahn (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,29 | +12.1% | und | Eisenbahn (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,43 | +2.2% | und | Eisenbahn (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -27294,7 +27295,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,27 | +4.9% | Und | Eisenbahn N5 (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,33 | +1.4% | und | Eisenbahn N5 ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,71 | +8.8% | und | Eisenbahn 5 anos (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,80 | +1.9% | und | Eisenbahn 5 anos (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,80 | +1.9% | und | Eisenbahn 5 anos (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,80 | +0.0% | und | Eisenbahn 5 anos (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,85 | +1.0% | und | Eisenbahn 5 anos (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,97 | +2.5% | und | Eisenbahn 5 anos (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -27316,7 +27317,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,29 | +4.9% | Und | Eisenbahn Demais Tipos (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,35 | +1.4% | und | Eisenbahn Demais Tipos ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,73 | +8.7% | und | Eisenbahn Demais Tipos (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,82 | +1.9% | und | Eisenbahn Demais Tipos (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,82 | +1.9% | und | Eisenbahn Demais Tipos (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,82 | +0.0% | und | Eisenbahn Demais Tipos (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,87 | +1.0% | und | Eisenbahn Demais Tipos (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,99 | +2.5% | und | Eisenbahn Demais Tipos (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -27339,7 +27340,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,39 | +5.1% | Und | Eisenbahn pale Ale (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,47 | +1.5% | und | Eisenbahn pale Ale ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,95 | +8.8% | und | Eisenbahn pale Ale (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,07 | +2.0% | und | Eisenbahn pale Ale (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,07 | +2.0% | und | Eisenbahn pale Ale (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,07 | +0.0% | und | Eisenbahn pale Ale (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,13 | +1.0% | und | Eisenbahn pale Ale (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,28 | +2.4% | und | Eisenbahn pale Ale (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -27381,7 +27382,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,15 | +5.0% | Und | Eisenbahn Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,19 | +1.3% | und | Eisenbahn Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,86 | +21.0% | und | Eisenbahn Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,94 | +2.1% | und | Eisenbahn Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,94 | +2.1% | und | Eisenbahn Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,94 | +0.0% | und | Eisenbahn Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,60 | -8.6% | und | Eisenbahn Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,68 | +2.2% | und | Eisenbahn Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -27471,7 +27472,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,39 | +5.1% | Und | Eisenbahn Weiss (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,47 | +1.5% | und | Eisenbahn Weiss ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,95 | +8.8% | und | Eisenbahn Weizenbier (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,07 | +2.0% | und | Eisenbahn Weizenbier (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,07 | +2.0% | und | Eisenbahn Weizenbier (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,07 | +0.0% | und | Eisenbahn Weizenbier (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,13 | +1.0% | und | Eisenbahn Weizenbier (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,28 | +2.4% | und | Eisenbahn Weizenbier (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -27818,7 +27819,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 9,00 |  |  | Cerveja Erdinger Dunkel - Lata 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,06 | +0.7% | und | Erdinger Dunkel - 500 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,39 | +3.6% | und | Erdinger Dunkel - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,58 | +2.0% | und | Erdinger Dunkel - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,58 | +2.0% | und | Erdinger Dunkel - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,58 | +0.0% | und | Erdinger Dunkel - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,61 | +0.3% | und | Erdinger Dunkel - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,94 | +3.4% | und | Erdinger Dunkel (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -27839,7 +27840,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 7,90 |  |  | Cerveja Erdinger Dunkel 330 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,96 | +0.8% | und | Erdinger Dunkel - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,65 | +8.7% | und | Erdinger Dunkel - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,82 | +2.0% | und | Erdinger Dunkel - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,82 | +2.0% | und | Erdinger Dunkel - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,82 | +0.0% | und | Erdinger Dunkel - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,91 | +1.0% | und | Erdinger Dunkel - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,84 | +10.4% | und | Erdinger Dunkel (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -27982,7 +27983,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 9,00 |  |  | Cerveja Erdinger Sem Álcool - Lata 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,06 | +0.7% | und | Erdinger Sem Álcool - 500 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,39 | +3.6% | und | Erdinger Sem Álcool - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,58 | +2.0% | und | Erdinger Sem Álcool - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,58 | +2.0% | und | Erdinger Sem Álcool - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,58 | +0.0% | und | Erdinger Sem Álcool - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,61 | +0.3% | und | Erdinger Sem Álcool - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,94 | +3.4% | und | Erdinger Sem Álcool (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -28003,7 +28004,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 7,90 |  |  | Cerveja Erdinger Sem Álcool 330 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,96 | +0.8% | und | Erdinger Sem Álcool - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,65 | +8.7% | und | Erdinger Sem Álcool - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,82 | +2.0% | und | Erdinger Sem Álcool - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,82 | +2.0% | und | Erdinger Sem Álcool - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,82 | +0.0% | und | Erdinger Sem Álcool - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,91 | +1.0% | und | Erdinger Sem Álcool - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,84 | +10.4% | und | Erdinger Sem Álcool (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -28024,7 +28025,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 7,90 |  |  | Cerveja Erdinger Sommer weisse 330 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,96 | +0.8% | und | Erdinger Sommer Weisse - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,65 | +8.7% | und | Erdinger Sommer Weisse - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,82 | +2.0% | und | Erdinger Sommer Weisse - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,82 | +2.0% | und | Erdinger Sommer Weisse - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,82 | +0.0% | und | Erdinger Sommer Weisse - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,91 | +1.0% | und | Erdinger Sommer Weisse - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,84 | +10.4% | und | Erdinger Sommer Weisse (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -28061,7 +28062,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 9,00 | -43.4% |  | Cerveja Erdinger Tradicional - Lata 500 ml ⚠ | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,06 | +0.7% | und | Erdinger Tradicional - 500 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,39 | +3.6% | und | Erdinger Tradicional - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,58 | +2.0% | und | Erdinger Tradicional - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,58 | +2.0% | und | Erdinger Tradicional - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,58 | +0.0% | und | Erdinger Tradicional - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,61 | +0.3% | und | Erdinger Tradicional - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,94 | +3.4% | und | Erdinger Tradicional (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -28082,7 +28083,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 7,90 |  |  | Cerveja Erdinger Tradicional 330 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,96 | +0.8% | und | Erdinger Tradicional - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,65 | +8.7% | und | Erdinger Tradicional - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,82 | +2.0% | und | Erdinger Tradicional - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,82 | +2.0% | und | Erdinger Tradicional - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,82 | +0.0% | und | Erdinger Tradicional - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,91 | +1.0% | und | Erdinger Tradicional - 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,84 | +10.4% | und | Erdinger Tradicional (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -28244,7 +28245,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,18 | +3.9% | Und | Estrella Galícia (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,27 | +1.5% | und | Estrella Galícia (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,50 | +3.7% | und | Estrella Galícia (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,63 | +2.0% | und | Estrella Galícia (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,63 | +2.0% | und | Estrella Galícia (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,63 | +0.0% | und | Estrella Galícia (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,50 | -2.0% | und | Estrella Galícia (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,68 | +2.8% | und | Estrella Galícia (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -28296,7 +28297,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,80 | +3.7% | Und | Estrella Galícia - 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,84 | +1.4% | und | Estrella Galícia - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,75 | -3.2% | und | Estrella Galícia - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,81 | +2.2% | und | Estrella Galícia - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,81 | +2.2% | und | Estrella Galícia - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,81 | +0.0% | und | Estrella Galícia - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,77 | -1.4% | und | Estrella Galícia - 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,86 | +3.2% | und | Estrella Galícia (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -28318,7 +28319,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,27 | +3.8% | Und | Estrella Galícia - 350 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,32 | +1.5% | und | Estrella Galícia - 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,24 | -2.4% | und | Estrella Galícia - 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Estrella Galícia - 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Estrella Galícia - 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +0.0% | und | Estrella Galícia - 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,31 | +0.3% | und | Estrella Galícia - 350 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,40 | +2.7% | und | Estrella Galícia - (lata 350 ml) ⚠ | Port. 383/2021 |
@@ -28357,7 +28358,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,96 | +3.9% | Und | Estrella Galícia – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,02 | +1.5% | und | Estrella Galícia – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,13 | +2.7% | und | Estrella Galícia – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,21 | +1.9% | und | Estrella Galícia – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,21 | +1.9% | und | Estrella Galícia – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,21 | +0.0% | und | Estrella Galícia – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,25 | +1.0% | und | Estrella Galícia – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,69 | +10.4% | und | Estrella Galícia (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -28412,7 +28413,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2014-02-25 (assin.) | 2014-02-25 | incluir | 2,69 |  |  | Cerveja Estrella Galícia - Retornável 600 ml | Port. 64/2014 |
 | 2014-02-27 (assin.) | 2014-02-27 | incluir | 2,69 | +0.0% |  | Cerveja Estrella Galícia - Retornável 600 ml | Port. 69/2014 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,99 | +122.7% | und | Estrella Galícia (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,11 | +2.0% | und | Estrella Galícia (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,11 | +2.0% | und | Estrella Galícia (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,11 | +0.0% | und | Estrella Galícia (retornável 600 ml) | Port. 286/2019 |
 
 ### Estrella Galícia - 355 ml (código 49841)
@@ -28420,7 +28421,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,59 |  | und | Estrella Galícia - 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,66 | +1.9% | und | Estrella Galícia - 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,66 | +1.9% | und | Estrella Galícia - 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,66 | +0.0% | und | Estrella Galícia - 355 ml | Port. 286/2019 |
 
 ### Estrella Galícia - 355 ml (código 50675)
@@ -28433,7 +28434,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,89 |  | und | Estrella Galícia - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 |  | und | Estrella Galícia - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +0.0% | und | Estrella Galícia - 473 ml | Port. 286/2019 |
 
 ### Estrella Galícia 0,0 Alcool Black - Garf. Vidro (descartável 250 ml) (código 51863)
@@ -28484,7 +28485,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,70 |  | Und | Estrella Galícia 0,0% - 250 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,80 | +3.7% | Und | Estrella Galícia 0,0% - 250 ml | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,91 | +3.9% | und | Estrella Galícia 0,0% - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,97 | +2.1% | und | Estrella Galícia 0,0% - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,97 | +2.1% | und | Estrella Galícia 0,0% - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,97 | +0.0% | und | Estrella Galícia 0,0% - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,00 | +1.0% | und | Estrella Galícia 0,0% - 250 ml | Port. 614/2019 |
 
@@ -28496,7 +28497,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +3.8% | Und | Estrella Galícia 0,0% - 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Estrella Galícia 0,0% - 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,28 | -2.4% | und | Estrella Galícia 0,0% - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,35 | +2.1% | und | Estrella Galícia 0,0% - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,35 | +2.1% | und | Estrella Galícia 0,0% - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,35 | +0.0% | und | Estrella Galícia 0,0% - 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,36 | +0.3% | und | Estrella Galícia 0,0% - 330 ml | Port. 614/2019 |
 
@@ -28544,7 +28545,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 21,40 |  | und | Estrella Galícia Edição Comemorativa – 750 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 21,83 | +2.0% | und | Estrella Galícia Edição Comemorativa – 750 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 22,27 | +2.0% | und | Estrella Galícia Edição Comemorativa – 750 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,27 | +2.0% | und | Estrella Galícia Edição Comemorativa – 750 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,27 | +0.0% | und | Estrella Galícia Edição Comemorativa – 750 ml | Port. 286/2019 |
 
 ### Estrella Galícia German Pils – 330 ml (código 50042)
@@ -28582,7 +28583,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,65 |  | Und | Estrella Galícia – 200 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,75 | +3.8% | Und | Estrella Galícia – 200 ml | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,86 | +4.0% | und | Estrella Galícia – 200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,92 | +2.1% | und | Estrella Galícia – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,92 | +2.1% | und | Estrella Galícia – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,92 | +0.0% | und | Estrella Galícia – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,95 | +1.0% | und | Estrella Galícia – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,95 | +0.0% | und | Estrella Galicia – 200 ml | Port. 383/2021 |
@@ -28594,7 +28595,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 41,54 |  | Und | Estrella Galícia – 330 ml – Kit | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 43,20 | +4.0% | Und | Estrella Galícia – 330 ml – Kit | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 44,97 | +4.1% | und | Estrella Galícia – 330 ml – Kit | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 45,87 | +2.0% | und | Estrella Galícia – 330 ml – Kit | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 45,87 | +2.0% | und | Estrella Galícia – 330 ml – Kit | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 45,87 | +0.0% | und | Estrella Galícia – 330 ml – Kit | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 46,36 | +1.1% | und | Estrella Galícia – 330 ml – Kit | Port. 614/2019 |
 
@@ -28611,7 +28612,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,35 |  | Und | Estrella Galícia (descartável 500 a 750 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,43 | +1.5% | und | Estrella Galícia (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,54 | +2.0% | und | Estrella Galícia (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,65 | +2.0% | und | Estrella Galícia (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,65 | +2.0% | und | Estrella Galícia (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,65 | +0.0% | und | Estrella Galícia (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,54 | -1.9% | und | Estrella Galícia – 500 ml ⚠ | Port. 614/2019 |
 
@@ -28697,7 +28698,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-09-11 (pub.) | 2018-09-04 | incluir | 11,48 |  |  | Cerveja Forevis Session Ipa - Descartavel 600 ml | Port. 304/2018 |
 | 2019-01-15 (pub.) | 2019-01-09 | alterar | 11,71 | +2.0% |  | Cerveja Forevis Session Ipa - Descartavel 600 ml | Port. 17/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,94 | +2.0% | und | Forevis Session IPA (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,94 | +2.0% | und | Forevis Session IPA (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,94 | +0.0% | und | Forevis Session IPA (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,70 | -2.0% | und | Forevis Session IPA (descartável 600 ml) | Port. 614/2019 |
 
@@ -28705,7 +28706,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,28 |  | und | Forevis Session IPA (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,28 |  | und | Forevis Session IPA (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,28 | +0.0% | und | Forevis Session IPA (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,36 | +1.1% | und | Forevis Session IPA (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,54 | +2.4% | und | Forevis Session IPA (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -28718,7 +28719,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-09 (pub.) | 2018-02-06 | incluir | 36,00 |  |  | Cerveja Framboise Boon 375 ml | Port. 48/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 36,25 | +0.7% | und | Framboise Boon - 375 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 39,40 | +8.7% | und | Framboise Boon - 375 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 40,19 | +2.0% | und | Framboise Boon - 375 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 40,19 | +2.0% | und | Framboise Boon - 375 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 40,19 | +0.0% | und | Framboise Boon - 375 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 40,62 | +1.1% | und | Framboise Boon - 375 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 42,01 | +3.4% | und | Framboise Boon (long neck 375 ml) ⚠ | Port. 383/2021 |
@@ -28740,7 +28741,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 18,44 | +3.0% | Und | Franziskaner (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 18,70 | +1.4% | und | Franziskaner (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 19,07 | +2.0% | und | Franziskaner (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 19,45 | +2.0% | und | Franziskaner (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 19,45 | +2.0% | und | Franziskaner (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 19,45 | +0.0% | und | Franziskaner (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 19,06 | -2.0% | und | Franziskaner (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 20,05 | +5.2% | und | Franziskaner (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -28784,7 +28785,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,38 | +10.2% | Und | Frevo Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,41 | +1.3% | und | Frevo Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,38 | -1.2% | und | Frevo Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,43 | +2.1% | und | Frevo Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,43 | +2.1% | und | Frevo Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,43 | +0.0% | und | Frevo Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,43 | +0.0% | und | Frevo Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,50 | +2.9% | und | Frevo Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -28807,7 +28808,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +6.1% | Und | Frevo Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Frevo Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,24 | -3.6% | und | Frevo Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Frevo Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Frevo Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +0.0% | und | Frevo Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,36 | +1.8% | und | Frevo Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,44 | +2.4% | und | Frevo Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -28881,7 +28882,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,93 | +10.2% | Und | Germania (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,97 | +1.4% | und | Germania (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,93 | -1.3% | und | Germania (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,99 | +2.0% | und | Germania (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,99 | +2.0% | und | Germania (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,99 | +0.0% | und | Germania (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,00 | +0.3% | und | Germania (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,08 | +2.7% | und | Germania (lata 350 ml) | Port. 383/2021 |
@@ -28941,7 +28942,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,63 | -7.4% | Und | Glacial Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,79 | +9.8% | und | Glacial Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,61 | -10.1% | und | Glacial Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,64 | +1.9% | und | Glacial Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,64 | +1.9% | und | Glacial Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,64 | +0.0% | und | Glacial Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,57 | -4.3% | und | Glacial Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,73 | +10.2% | und | Glacial Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -28970,7 +28971,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,08 | +5.1% | Und | Glacial Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,11 | +1.4% | und | Glacial Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,19 | +3.8% | und | Glacial Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Glacial Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Glacial Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +0.0% | und | Glacial Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,24 | +0.4% | und | Glacial Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,34 | +4.5% | und | Glacial Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -28993,7 +28994,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,78 | +4.7% | Und | Glacial – 300 ml - desc. | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,81 | +1.7% | und | Glacial – 300 ml - desc. | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,97 | +8.8% | und | Glacial – 300 ml - desc. | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Glacial – 300 ml - desc. | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Glacial – 300 ml - desc. | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +0.0% | und | Glacial – 300 ml - desc. | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | +1.0% | und | Glacial – 300 ml - desc. | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,10 | +3.4% | und | Glacial (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -29022,7 +29023,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,05 | +13.0% | Und | Glacial Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,12 | +1.4% | und | Glacial Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,38 | +5.1% | und | Glacial Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,49 | +2.0% | und | Glacial Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,49 | +2.0% | und | Glacial Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,49 | +0.0% | und | Glacial Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,63 | +2.6% | und | Glacial Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,82 | +3.4% | und | Glacial Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -29044,7 +29045,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,79 | +3.5% | Und | Glacial Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,82 | +1.7% | und | Glacial Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,86 | +2.2% | und | Glacial Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,90 | +2.2% | und | Glacial Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,90 | +2.2% | und | Glacial Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,90 | +0.0% | und | Glacial Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,90 | +0.0% | und | Glacial Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,71 | -10.0% | und | Glacial Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -29067,7 +29068,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,61 | +3.1% | Und | Glacial Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,66 | +1.4% | und | Glacial Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,64 | -0.5% | und | Glacial Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,71 | +1.9% | und | Glacial Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,71 | +1.9% | und | Glacial Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,71 | +0.0% | und | Glacial Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,54 | -4.6% | und | Glacial Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,62 | +2.3% | und | Glacial Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -29131,7 +29132,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,90 |  | und | Goose Island - 355ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,90 |  | und | Goose Island - 355ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,90 | +0.0% | und | Goose Island - 355ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,98 | +1.0% | und | Goose Island - 355ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,18 | +2.5% | und | Goose Island (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -29151,7 +29152,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 31,22 |  | und | Greuze Mariage Parfait - 375 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 33,93 | +8.7% | und | Greuze Mariage Parfait - 375 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 34,61 | +2.0% | und | Greuze Mariage Parfait - 375 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 34,61 | +2.0% | und | Greuze Mariage Parfait - 375 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 34,61 | +0.0% | und | Greuze Mariage Parfait - 375 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 34,98 | +1.1% | und | Greuze Mariage Parfait - 375 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 36,18 | +3.4% | und | Greuze Mariage Parfait (long neck 375 ml) ⚠ | Port. 383/2021 |
@@ -29371,7 +29372,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,07 | +1.3% | Und | Heineken (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,16 | +1.5% | und | Heineken (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,23 | +1.1% | und | Heineken (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,35 | +1.9% | und | Heineken (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,35 | +1.9% | und | Heineken (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,35 | +0.0% | und | Heineken (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,22 | -2.0% | und | Heineken (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,86 | +26.4% | und | Heineken (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -29415,7 +29416,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +4.1% | Und | Heineken (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Heineken (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,51 | +4.5% | und | Heineken (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,58 | +2.0% | und | Heineken (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,58 | +2.0% | und | Heineken (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,58 | +0.0% | und | Heineken (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,76 | +5.0% | und | Heineken (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,99 | +6.1% | und | Heineken (lata 350 ml) | Port. 383/2021 |
@@ -29438,7 +29439,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,69 | +3.1% | Und | Heineken (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,73 | +1.5% | und | Heineken (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,78 | +1.8% | und | Heineken (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Heineken (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Heineken (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +0.0% | und | Heineken (long neck 250 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,87 | +1.1% | und | Heineken (long neck 250 ml) | Port. 614/2019 |
 
@@ -29470,7 +29471,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,85 | +6.4% | Und | Heineken (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,90 | +1.3% | und | Heineken ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,32 | +10.8% | und | Heineken (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,41 | +2.1% | und | Heineken (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,41 | +2.1% | und | Heineken (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,41 | +0.0% | und | Heineken (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,50 | +2.0% | und | Heineken (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,10 | +13.3% | und | Heineken (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -29500,7 +29501,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,76 | +8.9% | Und | Heineken (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,86 | +1.5% | und | Heineken (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,61 | -3.6% | und | Heineken (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,74 | +2.0% | und | Heineken (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,74 | +2.0% | und | Heineken (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,74 | +0.0% | und | Heineken (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,58 | +12.5% | und | Heineken (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,80 | +16.1% | und | Heineken (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -29593,7 +29594,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 85,30 | +2.3% | Und | Heineken Barril 5 litros | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 86,52 | +1.4% | und | Heineken Barril 5 litros | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 88,25 | +2.0% | und | Heineken Barril 5 litros | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 90,02 | +2.0% | und | Heineken Barril 5 litros | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 90,02 | +2.0% | und | Heineken Barril 5 litros | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 90,02 | +0.0% | und | Heineken Barril 5 litros | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 90,20 | +0.2% | und | Heineken Barril 5 litros | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 93,29 | +3.4% | und | Heineken Barril 5 litros | Port. 383/2021 |
@@ -29630,7 +29631,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,94 | +1.4% | Und | Heineken – 250 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,03 | +3.1% | Und | Heineken – 250 ml | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,13 | +3.3% | und | Heineken – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,19 | +1.9% | und | Heineken – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,19 | +1.9% | und | Heineken – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,19 | +0.0% | und | Heineken – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,15 | -1.3% | und | Heineken – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,25 | +3.2% | und | Heineken – 250 ml | Port. 383/2021 |
@@ -29652,7 +29653,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,79 |  | und | Hemmer 100 anos Lager Extra (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,07 | +2.0% | und | Hemmer 100 anos Lager Extra (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer 100 anos Lager Extra (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer 100 anos Lager Extra (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +0.0% | und | Hemmer 100 anos Lager Extra (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,06 | -2.0% | und | Hemmer 100 anos Lager Extra (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,79 | +5.2% | und | Hemmer 100 anos Lager Extra (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29672,7 +29673,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,79 |  | und | Hemmer 1915 Pilsen (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,07 | +2.0% | und | Hemmer 1915 Pilsen (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer 1915 Pilsen (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer 1915 Pilsen (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +0.0% | und | Hemmer 1915 Pilsen (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,06 | -2.0% | und | Hemmer 1915 Pilsen (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,79 | +5.2% | und | Hemmer 1915 Pilsen (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29692,7 +29693,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,79 |  | und | Hemmer Angela Witbier (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,07 | +2.0% | und | Hemmer Angela Witbier (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Angela Witbier (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Angela Witbier (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +0.0% | und | Hemmer Angela Witbier (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,06 | -2.0% | und | Hemmer Angela Witbier (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,79 | +5.2% | und | Hemmer Angela Witbier (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29712,7 +29713,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,69 |  | und | Hemmer Australian Pale Ale (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,98 | +2.0% | und | Hemmer Australian Pale Ale (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Australian Pale Ale (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Australian Pale Ale (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +0.0% | und | Hemmer Australian Pale Ale (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,98 | -2.0% | und | Hemmer Australian Pale Ale (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,76 | +5.2% | und | Hemmer Australian Pale Ale (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29732,7 +29733,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,69 |  | und | Hemmer Blond Ale Com Mel (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,98 | +2.0% | und | Hemmer Blond Ale Com Mel (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Blond Ale Com Mel (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Blond Ale Com Mel (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +0.0% | und | Hemmer Blond Ale Com Mel (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,98 | -2.0% | und | Hemmer Blond Ale Com Mel (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,76 | +5.2% | und | Hemmer Blond Ale Com Mel (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29752,7 +29753,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,79 |  | und | Hemmer Blumenau IPA (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,07 | +2.0% | und | Hemmer Blumenau IPA (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Blumenau IPA (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Blumenau IPA (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +0.0% | und | Hemmer Blumenau IPA (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,06 | -2.0% | und | Hemmer Blumenau IPA (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,79 | +5.2% | und | Hemmer Blumenau IPA (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29772,7 +29773,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,69 |  | und | Hemmer Bock (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,98 | +2.0% | und | Hemmer Bock (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Bock (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Bock (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +0.0% | und | Hemmer Bock (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,98 | -2.0% | und | Hemmer Bock (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,76 | +5.2% | und | Hemmer Bock (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29792,7 +29793,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,69 |  | und | Hemmer Brown Ale Chocolate (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,98 | +2.0% | und | Hemmer Brown Ale Chocolate (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Brown Ale Chocolate (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Brown Ale Chocolate (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +0.0% | und | Hemmer Brown Ale Chocolate (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,98 | -2.0% | und | Hemmer Brown Ale Chocolate (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,76 | +5.2% | und | Hemmer Brown Ale Chocolate (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29812,7 +29813,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,79 |  | und | Hemmer Califórnia Common (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,07 | +2.0% | und | Hemmer Califórnia Common (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Califórnia Common (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Califórnia Common (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +0.0% | und | Hemmer Califórnia Common (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,06 | -2.0% | und | Hemmer Califórnia Common (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,79 | +5.2% | und | Hemmer Califórnia Common (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29832,7 +29833,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,69 |  | und | Hemmer Double IPA (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,96 | +2.0% | und | Hemmer Double IPA (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,24 | +2.0% | und | Hemmer Double IPA (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,24 | +2.0% | und | Hemmer Double IPA (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,24 | +0.0% | und | Hemmer Double IPA (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,96 | -2.0% | und | Hemmer Double IPA (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,68 | +5.2% | und | Hemmer Double IPA (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29852,7 +29853,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,69 |  | und | Hemmer Dunkel (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,96 | +2.0% | und | Hemmer Dunkel (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,24 | +2.0% | und | Hemmer Dunkel (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,24 | +2.0% | und | Hemmer Dunkel (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,24 | +0.0% | und | Hemmer Dunkel (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,96 | -2.0% | und | Hemmer Dunkel (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,68 | +5.2% | und | Hemmer Dunkel (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29872,7 +29873,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,79 |  | und | Hemmer Emma Weizen (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,07 | +2.0% | und | Hemmer Emma Weizen (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Emma Weizen (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Emma Weizen (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +0.0% | und | Hemmer Emma Weizen (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,06 | -2.0% | und | Hemmer Emma Weizen (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,79 | +5.2% | und | Hemmer Emma Weizen (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29892,7 +29893,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,79 |  | und | Hemmer Heinrich Golden Strong Ale (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,07 | +2.0% | und | Hemmer Heinrich Golden Strong Ale (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Heinrich Golden Strong Ale (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Heinrich Golden Strong Ale (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +0.0% | und | Hemmer Heinrich Golden Strong Ale (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,06 | -2.0% | und | Hemmer Heinrich Golden Strong Ale (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,79 | +5.2% | und | Hemmer Heinrich Golden Strong Ale (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29912,7 +29913,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,69 |  | und | Hemmer Munich Helles (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,96 | +2.0% | und | Hemmer Munich Helles (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,24 | +2.0% | und | Hemmer Munich Helles (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,24 | +2.0% | und | Hemmer Munich Helles (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,24 | +0.0% | und | Hemmer Munich Helles (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,96 | -2.0% | und | Hemmer Munich Helles (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,68 | +5.2% | und | Hemmer Munich Helles (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29932,7 +29933,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,69 |  | und | Hemmer Oatmeal Stout (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,98 | +2.0% | und | Hemmer Oatmeal Stout (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Oatmeal Stout (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +2.0% | und | Hemmer Oatmeal Stout (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,28 | +0.0% | und | Hemmer Oatmeal Stout (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,98 | -2.0% | und | Hemmer Oatmeal Stout (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,76 | +5.2% | und | Hemmer Oatmeal Stout (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29952,7 +29953,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,79 |  | und | Hemmer Weiznebock (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 14,07 | +2.0% | und | Hemmer Weiznebock (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Weiznebock (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +2.0% | und | Hemmer Weiznebock (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,35 | +0.0% | und | Hemmer Weiznebock (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,06 | -2.0% | und | Hemmer Weiznebock (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,79 | +5.2% | und | Hemmer Weiznebock (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -29995,7 +29996,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 14,71 | +14.0% | Und | Hoegaarden 330 (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,92 | +1.4% | und | Hoegaarden 330 ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 16,22 | +8.7% | und | Hoegaarden 330 (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 16,54 | +2.0% | und | Hoegaarden 330 (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,54 | +2.0% | und | Hoegaarden 330 (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,54 | +0.0% | und | Hoegaarden 330 (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 16,72 | +1.1% | und | Hoegaarden 330 (long neck 200 a 375 ml) | Port. 614/2019 |
 
@@ -30020,7 +30021,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,30 |  | und | Hoegaarden White - 330ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,93 | +8.6% | und | Hoegaarden White - 330ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Hoegaarden White - 330ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +2.0% | und | Hoegaarden White - 330ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,09 | +0.0% | und | Hoegaarden White - 330ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,18 | +1.1% | und | Hoegaarden White - 330ml | Port. 614/2019 |
 
@@ -30428,7 +30429,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,35 | +9.8% | Und | Imperial Beer (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,38 | +1.3% | und | Imperial Beer (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,35 | -1.3% | und | Imperial Beer (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Imperial Beer (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Imperial Beer (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +0.0% | und | Imperial Beer (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,40 | +0.0% | und | Imperial Beer (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,46 | +2.5% | und | Imperial Beer (lata 350 ml) | Port. 383/2021 |
@@ -30462,7 +30463,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,99 | +6.1% | Und | Imperial Beer (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,05 | +1.5% | und | Imperial Beer (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | -3.7% | und | Imperial Beer (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Imperial Beer (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Imperial Beer (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | Imperial Beer (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,06 | +2.0% | und | Imperial Beer (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,15 | +2.2% | und | Imperial Beer (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -30499,7 +30500,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2017-05-11 (pub.) | 2017-05-05 | incluir | 2,09 |  |  | Cerveja Imperial Ouro – Lata 269 ml | Port. 232/2017 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,00 | -4.3% | und | Imperial Ouro – 269 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,00 | -4.3% | und | Imperial Ouro – 269 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,00 | +0.0% | und | Imperial Ouro – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,97 | -1.5% | und | Imperial Ouro – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | +3.0% | und | Imperial Ouro (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -30517,7 +30518,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,80 |  | und | Imperial Ouro (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,80 |  | und | Imperial Ouro (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,80 | +0.0% | und | Imperial Ouro (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,91 | +1.9% | und | Imperial Ouro (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,04 | +2.2% | und | Imperial Ouro (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -30600,7 +30601,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 1,70 |  |  | Cerveja Imperio - Retornavel 300 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,72 | +1.2% | und | Império (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,75 | +1.7% | und | Império (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,79 | +2.3% | und | Império (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,79 | +2.3% | und | Império (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,79 | +0.0% | und | Império (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,79 | +0.0% | und | Império (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,61 | -10.1% | und | Império (retornável 300 ml) | Port. 383/2021 |
@@ -30677,7 +30678,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,43 |  | und | Império Golden -210 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,46 | +2.1% | und | Império Golden -210 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,46 | +2.1% | und | Império Golden -210 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,46 | +0.0% | und | Império Golden -210 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,48 | +1.4% | und | Império Golden -210 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,53 | +3.4% | und | Império Golden -210 ml | Port. 383/2021 |
@@ -30796,7 +30797,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,39 |  | und | Império Lager – 275 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,51 | +8.6% | und | Império Lager – 275 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,54 | +2.0% | und | Império Lager – 275 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,54 | +2.0% | und | Império Lager – 275 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,54 | +0.0% | und | Império Lager – 275 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,56 | +1.3% | und | Império Lager – 275 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,29 | +110.9% | und | Império Lager (long neck 200 a 275 ml) ⚠ | Port. 383/2021 |
@@ -30857,7 +30858,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 1,20 |  |  | Cerveja Imperio - Lata 269 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,03 | -14.2% | und | Império ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,05 | +1.9% | und | Império (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Império (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Império (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +0.0% | und | Império (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,89 | +76.6% | und | Império (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,95 | +3.2% | und | Império (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -30878,7 +30879,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 1,32 |  |  | Cerveja Imperio - Lata 350 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,34 | +1.5% | und | Império (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,32 | -1.5% | und | Império (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,35 | +2.3% | und | Império (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,35 | +2.3% | und | Império (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,35 | +0.0% | und | Império (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,35 | +0.0% | und | Império (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,22 | +64.4% | und | Império (lata 350 ml) | Port. 383/2021 |
@@ -30899,7 +30900,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 1,98 |  |  | Cerveja Imperio - Lata 473 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,01 | +1.5% | und | Império – 473 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,08 | +3.5% | und | Império – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Império – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Império – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +0.0% | und | Império – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,13 | +0.5% | und | Império – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,22 | +4.2% | und | Império (lata) ⚠ | Port. 383/2021 |
@@ -30920,7 +30921,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 1,36 |  |  | Cerveja Imperio Pilsen - Long Neck 275 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,38 | +1.5% | und | Império Pilsen – 275 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,50 | +8.7% | und | Império Pilsen – 275 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,53 | +2.0% | und | Império Pilsen – 275 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,53 | +2.0% | und | Império Pilsen – 275 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,53 | +0.0% | und | Império Pilsen – 275 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,55 | +1.3% | und | Império Pilsen – 275 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,85 | +83.9% | und | Império Pilsen (long neck 200 a 275 ml) ⚠ | Port. 383/2021 |
@@ -30953,7 +30954,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-06 (pub.) | 2017-10-02 | alterar | 3,12 |  |  | Cerveja Imperio - Retornavel 600 ml | Port. 446/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,16 | +1.3% | und | Império (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,05 | -3.5% | und | Império (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,11 | +2.0% | und | Império (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,11 | +2.0% | und | Império (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,11 | +0.0% | und | Império (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,23 | +100.3% | und | Império (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,92 | +11.1% | und | Império (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -31034,7 +31035,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 |  | und | Império – 710 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,01 | +3.8% | und | Império – 710 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,07 | +2.0% | und | Império – 710 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,07 | +2.0% | und | Império – 710 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,07 | +0.0% | und | Império – 710 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,08 | +0.3% | und | Império – 710 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,19 | +3.6% | und | Império – 710 ml | Port. 383/2021 |
@@ -31099,7 +31100,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 6,90 |  |  | Cerveja Isenbeck - Lata 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,06 | +31.3% | und | Isenbeck - 500 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,39 | +3.6% | und | Isenbeck - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,58 | +2.0% | und | Isenbeck - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,58 | +2.0% | und | Isenbeck - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,58 | +0.0% | und | Isenbeck - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,61 | +0.3% | und | Isenbeck - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,94 | +3.4% | und | Isenbeck (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -31126,7 +31127,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,74 | +2.6% | Und | Itaipava zero Álcool (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,78 | +1.5% | und | Itaipava zero Álcool (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,57 | -7.6% | und | Itaipava zero Álcool (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,62 | +1.9% | und | Itaipava zero Álcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,62 | +1.9% | und | Itaipava zero Álcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,62 | +0.0% | und | Itaipava zero Álcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,63 | +0.4% | und | Itaipava zero Álcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,78 | +5.7% | und | Itaipava zero Álcool (lata 350 ml) | Port. 383/2021 |
@@ -31373,7 +31374,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,25 | +5.9% | Und | Itaipava Fest - 350 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,30 | +1.5% | und | Itaipava Fest - 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,59 | +8.8% | und | Itaipava Fest - 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,66 | +1.9% | und | Itaipava Fest - 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,66 | +1.9% | und | Itaipava Fest - 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,66 | +0.0% | und | Itaipava Fest - 350 ml | Port. 286/2019 |
 
 ### Itaipava Go Draft (long neck 355 ml) (código 50050)
@@ -31382,7 +31383,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,90 |  | und | Itaipava Go Draft - 355 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,24 | +8.7% | und | Itaipava Go Draft - 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,32 | +1.9% | und | Itaipava Go Draft - 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +1.9% | und | Itaipava Go Draft - 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +0.0% | und | Itaipava Go Draft - 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,37 | +1.2% | und | Itaipava Go Draft - 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,34 | -0.7% | und | Itaipava Go Draft (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -31394,7 +31395,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,18 |  | und | Itaipava Go Draft (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,26 | +1.1% | und | Itaipava Go Draft (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,41 | +2.1% | und | Itaipava Go Draft (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,41 | +2.1% | und | Itaipava Go Draft (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,41 | +0.0% | und | Itaipava Go Draft (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,26 | -2.0% | und | Itaipava Go Draft (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,46 | +2.8% | und | Itaipava Go Draft (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -31470,7 +31471,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,41 | +2.6% | Und | Itaipava Light Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,44 | +1.2% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,41 | -1.2% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +0.0% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 286/2019 |
 
 ### Itaipava Light Pilsen (long neck 250 ml) (código 48911)
@@ -31482,7 +31483,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,74 | +3.0% | Und | Itaipava Light Pilsen (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,76 | +1.1% | und | Itaipava Light Pilsen (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,80 | +2.3% | und | Itaipava Light Pilsen (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,84 | +2.2% | und | Itaipava Light Pilsen (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,84 | +2.2% | und | Itaipava Light Pilsen (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,84 | +0.0% | und | Itaipava Light Pilsen (long neck 250 ml) | Port. 286/2019 |
 
 ### Itaipava Malzbier (lata 350 ml) (código 48461)
@@ -31498,7 +31499,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,41 | +2.6% | Und | Itaipava Malzbier (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,44 | +1.2% | und | Itaipava Malzbier (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,41 | -1.2% | und | Itaipava Malzbier (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Itaipava Malzbier (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Itaipava Malzbier (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +0.0% | und | Itaipava Malzbier (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,46 | +0.0% | und | Itaipava Malzbier (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,53 | +2.8% | und | Itaipava Malzbier (lata 350 ml) | Port. 383/2021 |
@@ -31539,7 +31540,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,41 | -1.7% | Und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,52 | +3.2% | und | Itaipava Malzbier ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,42 | -2.8% | und | Itaipava Malzbier (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,49 | +2.0% | und | Itaipava Malzbier (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,49 | +2.0% | und | Itaipava Malzbier (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,49 | +0.0% | und | Itaipava Malzbier (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,53 | +1.1% | und | Itaipava Malzbier (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,75 | +6.2% | und | Itaipava Malzbier (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -31558,7 +31559,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,15 | +3.2% | Und | Itaipava Malzbier (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,22 | +1.4% | und | Itaipava Malzbier (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,03 | -3.6% | und | Itaipava Malzbier (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,13 | +2.0% | und | Itaipava Malzbier (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,13 | +2.0% | und | Itaipava Malzbier (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,13 | +0.0% | und | Itaipava Malzbier (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,23 | +1.9% | und | Itaipava Malzbier (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,35 | +2.3% | und | Itaipava Malzbier (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -31594,7 +31595,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,57 | +2.8% | Und | Itaipava Pilsen (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,65 | +1.4% | und | Itaipava Pilsen (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,76 | +1.9% | und | Itaipava Pilsen (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,88 | +2.1% | und | Itaipava Pilsen (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,88 | +2.1% | und | Itaipava Pilsen (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,88 | +0.0% | und | Itaipava Pilsen (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,03 | +2.6% | und | Itaipava Pilsen (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,24 | +3.5% | und | Itaipava Pilsen (descartável 1 L) | Port. 383/2021 |
@@ -31634,7 +31635,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,88 | +3.3% | Und | Itaipava Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,91 | +1.6% | und | Itaipava Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,96 | +2.6% | und | Itaipava Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,00 | +2.0% | und | Itaipava Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,00 | +2.0% | und | Itaipava Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,00 | +0.0% | und | Itaipava Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,04 | +2.0% | und | Itaipava Pilsen (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,05 | +0.5% | und | Itaipava Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -31661,7 +31662,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,24 | +5.2% | Und | Itaipava Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,27 | +1.3% | und | Itaipava Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,30 | +1.3% | und | Itaipava Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,35 | +2.2% | und | Itaipava Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,35 | +2.2% | und | Itaipava Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,35 | +0.0% | und | Itaipava Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,32 | -1.3% | und | Itaipava Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,33 | +0.4% | und | Itaipava Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -31688,7 +31689,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +5.1% | Und | Itaipava Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Itaipava Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,03 | +4.5% | und | Itaipava Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,09 | +2.0% | und | Itaipava Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,09 | +2.0% | und | Itaipava Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,09 | +0.0% | und | Itaipava Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,06 | -1.0% | und | Itaipava Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,04 | -0.7% | und | Itaipava Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -31711,7 +31712,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,15 | +2.9% | Und | Itaipava Pilsen (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,18 | +1.4% | und | Itaipava Pilsen (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,22 | +1.8% | und | Itaipava Pilsen (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,26 | +1.8% | und | Itaipava Pilsen (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,26 | +1.8% | und | Itaipava Pilsen (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,26 | +0.0% | und | Itaipava Pilsen (long neck 250 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,28 | +0.9% | und | Itaipava Pilsen (long neck 250 ml) | Port. 614/2019 |
 
@@ -31726,7 +31727,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,49 | -3.5% | Und | Itaipava Pilsen – 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,62 | +5.2% | und | Itaipava Pilsen – 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,58 | -1.5% | und | Itaipava Pilsen – 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,63 | +1.9% | und | Itaipava Pilsen – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,63 | +1.9% | und | Itaipava Pilsen – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,63 | +0.0% | und | Itaipava Pilsen – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,66 | +1.1% | und | Itaipava Pilsen – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,75 | +3.4% | und | Itaipava Pilsen (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -31766,7 +31767,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,61 | +1.6% | Und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,75 | +5.4% | Und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,81 | +2.2% | und | Itaipava Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,87 | +2.1% | und | Itaipava Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,87 | +2.1% | und | Itaipava Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,87 | +0.0% | und | Itaipava Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,84 | -1.0% | und | Itaipava Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,94 | +3.5% | und | Itaipava Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -31785,7 +31786,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,31 | +3.5% | Und | Itaipava Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,39 | +1.5% | und | Itaipava Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,67 | +5.2% | und | Itaipava Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,78 | +1.9% | und | Itaipava Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,78 | +1.9% | und | Itaipava Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,78 | +0.0% | und | Itaipava Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,92 | +2.4% | und | Itaipava Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,12 | +3.4% | und | Itaipava Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -31809,7 +31810,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,38 | +6.2% | Und | Itaipava Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,41 | +1.3% | und | Itaipava Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,46 | +2.1% | und | Itaipava Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,51 | +2.0% | und | Itaipava Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,51 | +2.0% | und | Itaipava Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,51 | +0.0% | und | Itaipava Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,51 | +0.0% | und | Itaipava Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,26 | -10.0% | und | Itaipava Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -31836,7 +31837,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,14 | +4.0% | Und | Itaipava Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,21 | +1.4% | und | Itaipava Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,47 | +5.0% | und | Itaipava Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,58 | +2.0% | und | Itaipava Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,58 | +2.0% | und | Itaipava Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,58 | +0.0% | und | Itaipava Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,56 | -0.4% | und | Itaipava Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,53 | -0.5% | und | Itaipava Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -31860,7 +31861,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,24 | +4.9% | Und | Itaipava Pilsen – 550 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,29 | +1.5% | und | Itaipava Pilsen – 550 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,41 | +3.6% | und | Itaipava Pilsen – 550 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,48 | +2.1% | und | Itaipava Pilsen – 550 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,48 | +2.1% | und | Itaipava Pilsen – 550 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,48 | +0.0% | und | Itaipava Pilsen – 550 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,49 | +0.3% | und | Itaipava Pilsen – 550 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,61 | +3.4% | und | Itaipava Pilsen (lata 500 a 710 ml) ⚠ | Port. 383/2021 |
@@ -31910,7 +31911,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-07 (pub.) | 2018-01-31 | alterar | 6,79 | +19.3% |  | Cerveja Itaipava Premium - Descartavel 600 ml ⚠ | Port. 38/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,84 | +0.7% | und | Itaipava Premium Pilsen (descartável 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,51 | -4.8% | und | Itaipava Premium Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,64 | +2.0% | und | Itaipava Premium Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,64 | +2.0% | und | Itaipava Premium Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,64 | +0.0% | und | Itaipava Premium Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,51 | -2.0% | und | Itaipava Premium (descartável 600 ml) ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,69 | +2.8% | und | Itaipava Premium (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -31935,7 +31936,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,23 | +5.2% | Und | Itaipava Premium Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,26 | +1.3% | und | Itaipava Premium Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,36 | +4.4% | und | Itaipava Premium Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,41 | +2.1% | und | Itaipava Premium Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,41 | +2.1% | und | Itaipava Premium Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,41 | +0.0% | und | Itaipava Premium Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,23 | -7.5% | und | Itaipava Premium (lata 220 a 310 ml) ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,30 | +3.1% | und | Itaipava Premium (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -31965,7 +31966,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,63 | +4.0% | Und | Itaipava Premium Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,67 | +1.5% | und | Itaipava Premium Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,40 | +27.3% | und | Itaipava Premium Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Itaipava Premium Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Itaipava Premium Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +0.0% | und | Itaipava Premium Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,48 | +0.3% | und | Itaipava Premium (lata 350 ml) ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,25 | -6.6% | und | Itaipava Premium (lata 350 ml) | Port. 383/2021 |
@@ -32007,7 +32008,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-07 (pub.) | 2018-01-31 | alterar | 3,69 | +22.6% |  | Cerveja Itaipava Premium – Long Neck 355 ml ⚠ | Port. 38/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,72 | +0.8% | und | Itaipava Premium Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,57 | -4.0% | und | Itaipava Premium Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,64 | +2.0% | und | Itaipava Premium Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,64 | +2.0% | und | Itaipava Premium Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,64 | +0.0% | und | Itaipava Premium Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,59 | -1.4% | und | Itaipava Premium (long neck 200 a 375 ml) ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,62 | +0.8% | und | Itaipava Premium (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -32037,7 +32038,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,16 | +3.2% | Und | Itaipava Premium (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,23 | +1.4% | und | Itaipava Premium (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,04 | -3.6% | und | Itaipava Premium (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,14 | +2.0% | und | Itaipava Premium (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,14 | +2.0% | und | Itaipava Premium (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,14 | +0.0% | und | Itaipava Premium (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,47 | +25.9% | und | Itaipava Premium (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,44 | -0.5% | und | Itaipava Premium (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -32063,7 +32064,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,91 | +1.0% | Und | Itaipava Zero Alcool (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,95 | +1.4% | und | Itaipava Zero Alcool ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,10 | +5.1% | und | Itaipava Zero Alcool (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,16 | +1.9% | und | Itaipava Zero Alcool (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,16 | +1.9% | und | Itaipava Zero Alcool (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,16 | +0.0% | und | Itaipava Zero Alcool (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,11 | -1.6% | und | Itaipava Zero Alcool (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,25 | +4.5% | und | Itaipava Zero Alcool (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -32096,7 +32097,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,66 | +3.1% | Und | Kaiser Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,68 | +1.2% | und | Kaiser Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,62 | -3.6% | und | Kaiser Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,65 | +1.9% | und | kaiser (lata 220 a 310 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,65 | +1.9% | und | kaiser (lata 220 a 310 ml) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,65 | +0.0% | und | kaiser (lata 220 a 310 ml) | Port. 286/2019 |
 
 ### Kaiser (lata 269 ml) (código 50681)
@@ -32135,7 +32136,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,88 | +1.6% | Und | Kaiser Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,91 | +1.6% | und | Kaiser Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,78 | -6.8% | und | Kaiser Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,82 | +2.2% | und | kaiser (lata 350 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,82 | +2.2% | und | kaiser (lata 350 ml) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,82 | +0.0% | und | kaiser (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +7.7% | und | kaiser (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,02 | +3.1% | und | kaiser (lata 350 ml) | Port. 383/2021 |
@@ -32159,7 +32160,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,25 | +0.9% | Und | Kaiser pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,28 | +1.3% | und | Kaiser pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,16 | -5.3% | und | Kaiser pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,20 | +1.9% | und | kaiser – 473 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +1.9% | und | kaiser – 473 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +0.0% | und | kaiser – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | -0.9% | und | kaiser – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,42 | +11.0% | und | Kaiser (lata) ⚠ | Port. 383/2021 |
@@ -32183,7 +32184,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,42 | +58.2% | Und | Kaiser pilsen (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,60 | -33.9% | und | Kaiser pilsen (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,63 | +1.9% | und | Kaiser pilsen (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,66 | +1.8% | und | kaiser (long neck 250 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,66 | +1.8% | und | kaiser (long neck 250 ml) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,66 | +0.0% | und | kaiser (long neck 250 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,68 | +1.2% | und | kaiser (long neck 250 ml) | Port. 614/2019 |
 
@@ -32208,7 +32209,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,19 | +3.2% | Und | Kaiser pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,25 | +1.4% | und | Kaiser pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,10 | -3.5% | und | Kaiser pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,18 | +2.0% | und | Kaiser (retornável 600 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +2.0% | und | Kaiser (retornável 600 ml) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +0.0% | und | Kaiser (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,26 | +1.9% | und | Kaiser (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,36 | +2.3% | und | Kaiser (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -32414,7 +32415,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,78 | -12.1% | Und | Kalena Mista (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,40 | +16.4% | und | Kalena Mista (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,49 | +2.0% | und | Kalena Mista (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,58 | +2.0% | und | Kalena Mista (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,58 | +2.0% | und | Kalena Mista (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,58 | +0.0% | und | Kalena Mista (descartável 1 L) | Port. 286/2019 |
 
 ### Kirin Ichiban (lata 350 ml) (código 48512)
@@ -32425,7 +32426,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,39 | +6.9% | Und | Kirin Ichiban – 355 ML ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,29 | -2.9% | und | Kirin Ichiban – 350 ML ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,25 | -1.2% | und | Kirin Ichiban – 350 ML | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,32 | +2.2% | und | Kirin Ichiban – 350 ML | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,32 | +2.2% | und | Kirin Ichiban – 350 ML | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,32 | +0.0% | und | Kirin Ichiban – 350 ML | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,33 | +0.3% | und | Kirin Ichiban – 350 ML | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,42 | +2.7% | und | Kirin Ichiban (lata 350 ml) ⚠ | Port. 383/2021 |
@@ -32445,7 +32446,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,50 | +5.1% | Und | Kirin Ichiban (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,55 | +1.4% | und | Kirin Ichiban ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,86 | +8.7% | und | Kirin Ichiban (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,94 | +2.1% | und | Kirin Ichiban (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,94 | +2.1% | und | Kirin Ichiban (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,94 | +0.0% | und | Kirin Ichiban (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,98 | +1.0% | und | Kirin Ichiban (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,08 | +2.5% | und | Kirin Ichiban (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -32825,7 +32826,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-09 (pub.) | 2018-02-06 | incluir | 29,00 |  |  | Cerveja Kriek Boon 375 ml | Port. 48/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 29,20 | +0.7% | und | Kriek Boon - 375 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 31,74 | +8.7% | und | Kriek Boon - 375 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 32,37 | +2.0% | und | Kriek Boon - 375 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 32,37 | +2.0% | und | Kriek Boon - 375 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 32,37 | +0.0% | und | Kriek Boon - 375 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 32,72 | +1.1% | und | Kriek Boon - 375 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 33,84 | +3.4% | und | Kriek Boon (long neck 375 ml) ⚠ | Port. 383/2021 |
@@ -33637,7 +33638,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,56 | +13.9% | Und | lay Back Ipa - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,58 | +1.3% | und | lay Back Ipa - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,72 | +8.9% | und | lay Back Ipa - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,75 | +1.7% | und | lay Back Ipa - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,75 | +1.7% | und | lay Back Ipa - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,75 | +0.0% | und | lay Back Ipa - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,77 | +1.1% | und | lay Back Ipa - 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,83 | +3.4% | und | lay Back Ipa (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -33660,7 +33661,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,73 | +13.8% | Und | lay Back Pilsen - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,75 | +1.2% | und | lay Back Pilsen - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,90 | +8.6% | und | lay Back Pilsen - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,94 | +2.1% | und | lay Back Pilsen - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,94 | +2.1% | und | lay Back Pilsen - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,94 | +0.0% | und | lay Back Pilsen - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +1.0% | und | lay Back Pilsen - 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | +3.6% | und | lay Back Pilsen (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -33682,7 +33683,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 14,71 | +14.0% | Und | Leffe 330 (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,92 | +1.4% | und | Leffe 330 ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 16,22 | +8.7% | und | Leffe 330 (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 16,54 | +2.0% | und | Leffe 330 (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,54 | +2.0% | und | Leffe 330 (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,54 | +0.0% | und | Leffe 330 (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 16,72 | +1.1% | und | Leffe 330 (long neck 200 a 375 ml) | Port. 614/2019 |
 
@@ -33690,7 +33691,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,50 |  | und | Leffe Blonde - 330ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,50 |  | und | Leffe Blonde - 330ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,50 | +0.0% | und | Leffe Blonde - 330ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,58 | +1.1% | und | Leffe Blonde - 330ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 8,37 | +10.4% | und | Leffe Blonde / Demais (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -33762,7 +33763,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,24 | +2.8% | Und | Lokal Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,27 | +1.3% | und | Lokal Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,68 | -26.0% | und | Lokal Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,71 | +1.8% | und | Lokal Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,71 | +1.8% | und | Lokal Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,71 | +0.0% | und | Lokal Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,71 | +0.0% | und | Lokal Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,76 | +2.9% | und | Lokal Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -33783,7 +33784,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-02-07 (pub.) | 2018-01-31 | alterar | 2,08 |  |  | Cerveja Lokal Pilsen - Lata 473 ml | Port. 38/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,09 | +0.5% | und | Lokal Pilsen - 473 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,17 | +3.8% | und | Lokal Pilsen - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Lokal Pilsen - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Lokal Pilsen - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +0.0% | und | Lokal Pilsen - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,22 | +0.5% | und | Lokal Pilsen - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,32 | +4.5% | und | Lokal Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -33806,7 +33807,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,64 | +3.6% | Und | Lokal Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,71 | +1.5% | und | Lokal Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,95 | +5.1% | und | Lokal Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,05 | +2.0% | und | Lokal Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,05 | +2.0% | und | Lokal Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,05 | +0.0% | und | Lokal Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,17 | +2.4% | und | Lokal Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,35 | +3.5% | und | Lokal Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -33829,7 +33830,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,45 | +3.2% | Und | Lokal Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,51 | +1.3% | und | Lokal Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,35 | -3.5% | und | Lokal Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,44 | +2.1% | und | Lokal Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,44 | +2.1% | und | Lokal Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,44 | +0.0% | und | Lokal Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,02 | -9.5% | und | Lokal Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,89 | -3.2% | und | Lokal Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -34044,7 +34045,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,39 |  | und | Magnífica Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,39 |  | und | Magnífica Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,39 | +0.0% | und | Magnífica Pilsen (retornável 1 L) | Port. 286/2019 |
 
 ### Magnífica Pilsen (retornável 600 ml) (código 50496)
@@ -34066,7 +34067,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,97 |  | und | Magnífica Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,97 |  | und | Magnífica Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,97 | +0.0% | und | Magnífica Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,33 | +12.1% | und | Magnífica Pilsen (retornável 600 ml) | Port. 614/2019 |
 
@@ -34086,7 +34087,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,13 | +9.1% | Und | Malta Dunkel – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,17 | +1.3% | und | Malta Dunkel – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,29 | +3.8% | und | Malta Dunkel – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,36 | +2.1% | und | Malta Dunkel – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +2.1% | und | Malta Dunkel – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +0.0% | und | Malta Dunkel – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,37 | +0.3% | und | Malta Dunkel – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,52 | +4.5% | und | Malta Dunkel (lata) ⚠ | Port. 383/2021 |
@@ -34129,7 +34130,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,08 | +10.1% | Und | Malta Golden (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,11 | +1.4% | und | Malta Golden (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,08 | -1.4% | und | Malta Golden (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Malta Golden (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Malta Golden (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +0.0% | und | Malta Golden (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,12 | +0.0% | und | Malta Golden (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,18 | +2.8% | und | Malta Golden (lata 350 ml) | Port. 383/2021 |
@@ -34159,7 +34160,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,96 | +8.8% | Und | Malta Golden – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,00 | +1.4% | und | Malta Golden – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,11 | +3.7% | und | Malta Golden – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,17 | +1.9% | und | Malta Golden – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,17 | +1.9% | und | Malta Golden – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,17 | +0.0% | und | Malta Golden – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,18 | +0.3% | und | Malta Golden – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,32 | +4.4% | und | Malta Golden (lata) ⚠ | Port. 383/2021 |
@@ -34181,7 +34182,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +5.9% | Und | Malta Golden (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Malta Golden (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Malta Golden (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Golden (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Golden (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Malta Golden (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Malta Golden (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Malta Golden (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -34215,14 +34216,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,26 |  | und | Malta Golden Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,26 |  | und | Malta Golden Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,26 | +0.0% | und | Malta Golden Pilsen (descartável 600 ml) | Port. 286/2019 |
 
 ### Malta Golden Puro Malte (descartável 600 ml) (código 50605)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,46 |  | und | Malta Golden Puro Malte (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,46 |  | und | Malta Golden Puro Malte (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,46 | +0.0% | und | Malta Golden Puro Malte (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,33 | -2.0% | und | Malta Golden Puro Malte (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,51 | +2.8% | und | Malta Golden Puro Malte (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -34240,7 +34241,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,91 |  | und | Malta Golden Puro Malte (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,91 |  | und | Malta Golden Puro Malte (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,91 | +0.0% | und | Malta Golden Puro Malte (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,92 | +0.3% | und | Malta Golden Puro Malte (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,00 | +2.7% | und | Malta Golden Puro Malte (lata 350 ml) | Port. 383/2021 |
@@ -34258,7 +34259,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,36 |  | und | Malta Golden Puro Malte – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 |  | und | Malta Golden Puro Malte – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +0.0% | und | Malta Golden Puro Malte – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,37 | +0.3% | und | Malta Golden Puro Malte – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,52 | +4.5% | und | Malta Golden Puro Malte (lata) ⚠ | Port. 383/2021 |
@@ -34276,7 +34277,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,23 |  | und | Malta Golden Puro Malte – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,23 |  | und | Malta Golden Puro Malte – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,23 | +0.0% | und | Malta Golden Puro Malte – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,26 | +0.9% | und | Malta Golden Puro Malte – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +3.4% | und | Malta Golden Puro Malte (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -34294,7 +34295,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,64 |  | und | Malta Golden Puro Malte (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,64 |  | und | Malta Golden Puro Malte (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,64 | +0.0% | und | Malta Golden Puro Malte (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,64 | +0.0% | und | Malta Golden Puro Malte (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,38 | -9.8% | und | Malta Golden Puro Malte (retornável 300 ml) | Port. 383/2021 |
@@ -34312,7 +34313,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,12 |  | und | Malta Golden Puro Malte (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,12 |  | und | Malta Golden Puro Malte (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,12 | +0.0% | und | Malta Golden Puro Malte (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,22 | +2.0% | und | Malta Golden Puro Malte (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,34 | +2.3% | und | Malta Golden Puro Malte (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -34355,7 +34356,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,08 | +10.1% | Und | Malta Malzbier (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,11 | +1.4% | und | Malta Malzbier (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,08 | -1.4% | und | Malta Malzbier (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Malta Malzbier (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Malta Malzbier (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +0.0% | und | Malta Malzbier (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,12 | +0.0% | und | Malta Malzbier (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,18 | +2.8% | und | Malta Malzbier (lata 350 ml) | Port. 383/2021 |
@@ -34385,7 +34386,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,96 | +8.8% | Und | Malta Malzbier – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,00 | +1.4% | und | Malta Malzbier – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,11 | +3.7% | und | Malta Malzbier – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,17 | +1.9% | und | Malta Malzbier – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,17 | +1.9% | und | Malta Malzbier – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,17 | +0.0% | und | Malta Malzbier – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,18 | +0.3% | und | Malta Malzbier – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,32 | +4.4% | und | Malta Malzbier (lata) ⚠ | Port. 383/2021 |
@@ -34407,7 +34408,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,46 | +13.9% | Und | Malta Malzebier (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,50 | +1.6% | und | Malta Malzebier ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,72 | +8.8% | und | Malta Malzebier (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,77 | +1.8% | und | Malta Malzebier (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,77 | +1.8% | und | Malta Malzebier (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,77 | +0.0% | und | Malta Malzebier (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,80 | +1.1% | und | Malta Malzebier (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,87 | +2.5% | und | Malta Malzebier (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -34429,7 +34430,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +5.9% | Und | Malta Malzbier (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Malta Malzbier (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Malta Malzbier (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Malzbier (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Malzbier (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Malta Malzbier (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Malta Malzbier (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Malta Malzbier (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -34450,7 +34451,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 1,91 |  |  | Cerveja Malta Malzibier sem Álcool – Lata 350 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Malta Malzibier sem Álcool (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,92 | -1.0% | und | Malta Malzibier sem Álcool (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Malta Malzibier sem Álcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Malta Malzibier sem Álcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +0.0% | und | Malta Malzibier sem Álcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +0.0% | und | Malta Malzibier sem Álcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | +2.6% | und | Malta Malzibier sem Álcool (lata 350 ml) | Port. 383/2021 |
@@ -34471,7 +34472,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 3,20 |  |  | Cerveja Malta Malzibier sem Álcool – Lata 473 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,25 | +1.6% | und | Malta Malzibier sem Álcool – 473 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,37 | +3.7% | und | Malta Malzibier sem Álcool – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,44 | +2.1% | und | Malta Malzibier sem Álcool – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,44 | +2.1% | und | Malta Malzibier sem Álcool – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,44 | +0.0% | und | Malta Malzibier sem Álcool – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,45 | +0.3% | und | Malta Malzibier sem Álcool – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,60 | +4.3% | und | Malta Malzibier sem Álcool (lata) ⚠ | Port. 383/2021 |
@@ -34492,7 +34493,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 2,46 |  |  | Cerveja Malta Malzibier sem Álcool – Retornável 300 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,50 | +1.6% | und | Malta Malzibier sem Álcool (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,55 | +2.0% | und | Malta Malzibier sem Álcool (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Malta Malzibier sem Álcool (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Malta Malzibier sem Álcool (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +0.0% | und | Malta Malzibier sem Álcool (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,60 | +0.0% | und | Malta Malzibier sem Álcool (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,34 | -10.0% | und | Malta Malzibier sem Álcool (retornável 300 ml) | Port. 383/2021 |
@@ -34513,7 +34514,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 2,86 |  |  | Cerveja Malta Malzibier sem Álcool – Retornável 600 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Malta Malzibier sem Álcool (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Malta Malzibier sem Álcool (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Malzibier sem Álcool (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Malzibier sem Álcool (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Malta Malzibier sem Álcool (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Malta Malzibier sem Álcool (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Malta Malzibier sem Álcool (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -34547,7 +34548,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 1,33 |  |  | Cerveja Malta Pilsen - Lata 269 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,35 | +1.5% | und | Malta Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,38 | +2.2% | und | Malta Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,41 | +2.2% | und | Malta Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +2.2% | und | Malta Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +0.0% | und | Malta Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,39 | -1.4% | und | Malta Pilsen (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,43 | +2.9% | und | Malta Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -34578,7 +34579,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,08 | +10.1% | Und | Malta Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,11 | +1.4% | und | Malta Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,08 | -1.4% | und | Malta Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Malta Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Malta Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +0.0% | und | Malta Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,12 | +0.0% | und | Malta Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,18 | +2.8% | und | Malta Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -34609,7 +34610,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,75 | +9.1% | Und | Malta Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,79 | +1.5% | und | Malta Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,89 | +3.6% | und | Malta Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,95 | +2.1% | und | Malta Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,95 | +2.1% | und | Malta Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,95 | +0.0% | und | Malta Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,96 | +0.3% | und | Malta Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,09 | +4.4% | und | Malta Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -34631,7 +34632,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,78 | +14.1% | Und | Malta Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,81 | +1.7% | und | Malta Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,97 | +8.8% | und | Malta Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Malta Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Malta Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +0.0% | und | Malta Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | +1.0% | und | Malta Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,08 | +2.5% | und | Malta Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -34652,7 +34653,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 1,78 |  |  | Cerveja Malta Pilsen – Retornável 300 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,81 | +1.7% | und | Malta Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | +2.2% | und | Malta Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Malta Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Malta Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | Malta Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,89 | +0.0% | und | Malta Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,70 | -10.1% | und | Malta Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -34674,7 +34675,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +5.9% | Und | Malta Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Malta Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Malta Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Malta Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Malta Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Malta Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -34695,7 +34696,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 1,91 |  |  | Cerveja Malta Pilsen sem Álcool – Lata 350 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Malta Pilsen sem Álcool (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,92 | -1.0% | und | Malta Pilsen sem Álcool (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Malta Pilsen sem Álcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Malta Pilsen sem Álcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +0.0% | und | Malta Pilsen sem Álcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +0.0% | und | Malta Pilsen sem Álcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | +2.6% | und | Malta Pilsen sem Álcool (lata 350 ml) | Port. 383/2021 |
@@ -34716,7 +34717,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 3,17 |  |  | Cerveja Malta Pilsen sem Álcool – Lata 473 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Malta Pilsen sem Álcool – 473 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,34 | +3.7% | und | Malta Pilsen sem Álcool – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,41 | +2.1% | und | Malta Pilsen sem Álcool – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,41 | +2.1% | und | Malta Pilsen sem Álcool – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,41 | +0.0% | und | Malta Pilsen sem Álcool – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,42 | +0.3% | und | Malta Pilsen sem Álcool – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,57 | +4.4% | und | Malta Pilsen sem Álcool (lata) ⚠ | Port. 383/2021 |
@@ -34737,7 +34738,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 1,80 |  |  | Cerveja Malta Pilsen sem Álcool – Retornável 300 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,83 | +1.7% | und | Malta Pilsen sem Álcool (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,87 | +2.2% | und | Malta Pilsen sem Álcool (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,91 | +2.1% | und | Malta Pilsen sem Álcool (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,91 | +2.1% | und | Malta Pilsen sem Álcool (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,91 | +0.0% | und | Malta Pilsen sem Álcool (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,91 | +0.0% | und | Malta Pilsen sem Álcool (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,72 | -9.9% | und | Malta Pilsen sem Álcool (retornável 300 ml) | Port. 383/2021 |
@@ -34758,7 +34759,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 2,86 |  |  | Cerveja Malta Pilsen sem Álcool – Retornável 600 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Malta Pilsen sem Álcool (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Malta Pilsen sem Álcool (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Pilsen sem Álcool (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Pilsen sem Álcool (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Malta Pilsen sem Álcool (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Malta Pilsen sem Álcool (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Malta Pilsen sem Álcool (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -34779,7 +34780,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 1,91 |  |  | Cerveja Malta Ponto Zero – Lata 350 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Malta Ponto Zero (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,92 | -1.0% | und | Malta Ponto Zero (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Malta Ponto Zero (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +2.1% | und | Malta Ponto Zero (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,96 | +0.0% | und | Malta Ponto Zero (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,96 | +0.0% | und | Malta Ponto Zero (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | +2.6% | und | Malta Ponto Zero (lata 350 ml) | Port. 383/2021 |
@@ -34800,7 +34801,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 2,75 |  |  | Cerveja Malta Ponto Zero – Lata 473 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,79 | +1.5% | und | Malta Ponto Zero– 473 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,89 | +3.6% | und | Malta Ponto Zero– 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,95 | +2.1% | und | Malta Ponto Zero– 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,95 | +2.1% | und | Malta Ponto Zero– 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,95 | +0.0% | und | Malta Ponto Zero– 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,96 | +0.3% | und | Malta Ponto Zero– 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,09 | +4.4% | und | Malta Ponto Zero (lata) ⚠ | Port. 383/2021 |
@@ -34822,7 +34823,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,82 | +13.7% | Und | Malta Ponto Zero (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,85 | +1.6% | und | Malta Ponto Zero ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,01 | +8.6% | und | Malta Ponto Zero (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,05 | +2.0% | und | Malta Ponto Zero (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,05 | +2.0% | und | Malta Ponto Zero (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,05 | +0.0% | und | Malta Ponto Zero (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,07 | +1.0% | und | Malta Ponto Zero (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,12 | +2.4% | und | Malta Ponto Zero (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -34843,7 +34844,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 1,82 |  |  | Cerveja Malta Ponto Zero – Retornável 300 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,85 | +1.6% | und | Malta Ponto Zero (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,89 | +2.2% | und | Malta Ponto Zero (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,93 | +2.1% | und | Malta Ponto Zero (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,93 | +2.1% | und | Malta Ponto Zero (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,93 | +0.0% | und | Malta Ponto Zero (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | +0.0% | und | Malta Ponto Zero (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,74 | -9.8% | und | Malta Ponto Zero (retornável 300 ml) | Port. 383/2021 |
@@ -34864,7 +34865,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-11-08 (pub.) | 2017-10-31 | incluir | 2,86 |  |  | Cerveja Malta Ponto Zero – Retornável 600 ml | Port. 512/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Malta Ponto Zero (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | -3.8% | und | Malta Ponto Zero (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Ponto Zero (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Malta Ponto Zero (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Malta Ponto Zero (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +2.1% | und | Malta Ponto Zero (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,98 | +2.4% | und | Malta Ponto Zero (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -34886,7 +34887,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,80 | +13.9% | Und | Malta Sem Alcool (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,83 | +1.7% | und | Malta Sem Alcool ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,99 | +8.7% | und | Malta Sem Alcool (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,03 | +2.0% | und | Malta Sem Alcool (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,03 | +2.0% | und | Malta Sem Alcool (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,03 | +0.0% | und | Malta Sem Alcool (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,05 | +1.0% | und | Malta Sem Alcool (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,10 | +2.4% | und | Malta Sem Alcool (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -35553,7 +35554,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,74 | +10.1% | Und | Noponto (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,76 | +1.1% | und | Noponto (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,74 | -1.1% | und | Noponto (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,77 | +1.7% | und | Noponto (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,77 | +1.7% | und | Noponto (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,77 | +0.0% | und | Noponto (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,77 | +0.0% | und | Noponto (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,82 | +2.8% | und | Noponto (lata 350 ml) | Port. 383/2021 |
@@ -35582,7 +35583,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +6.1% | Und | Noponto (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Noponto (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,24 | -3.6% | und | Noponto (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Noponto (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +1.9% | und | Noponto (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,30 | +0.0% | und | Noponto (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,36 | +1.8% | und | Noponto (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,44 | +2.4% | und | Noponto (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -35912,7 +35913,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,99 | +14.0% | Und | Original 330ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,05 | +1.5% | und | Original 330ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,40 | +8.6% | und | Original 330ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Original 330ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Original 330ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +0.0% | und | Original 330ml | Port. 286/2019 |
 
 ### Original Antarctica (retornável 300 ml) (código 50049)
@@ -35922,7 +35923,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,36 |  |  | Original Antarctica (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,41 | +1.5% | und | Original Antarctica (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,48 | +2.1% | und | Original Antarctica (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,55 | +2.0% | und | Original Antarctica (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,55 | +2.0% | und | Original Antarctica (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,55 | +0.0% | und | Original Antarctica (retornável 300 ml) | Port. 286/2019 |
 
 ### Oude Geuze Boon Black Label 2ª Edição (descartável 750 ml) (código 51726)
@@ -35976,7 +35977,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 28,20 |  | und | Oude Greuze Boon - 375 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 30,65 | +8.7% | und | Oude Greuze Boon - 375 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 31,26 | +2.0% | und | Oude Greuze Boon - 375 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 31,26 | +2.0% | und | Oude Greuze Boon - 375 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 31,26 | +0.0% | und | Oude Greuze Boon - 375 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 31,59 | +1.1% | und | Oude Greuze Boon - 375 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 32,67 | +3.4% | und | Oude Greuze Boon (long neck 375 ml) ⚠ | Port. 383/2021 |
@@ -35996,7 +35997,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 38,27 |  | und | Oude Kriet Boon - 375 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 41,60 | +8.7% | und | Oude Kriet Boon - 375 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 42,43 | +2.0% | und | Oude Kriet Boon - 375 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 42,43 | +2.0% | und | Oude Kriet Boon - 375 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 42,43 | +0.0% | und | Oude Kriet Boon - 375 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 42,88 | +1.1% | und | Oude Kriet Boon - 375 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 44,35 | +3.4% | und | Oude KrieK Boon (long neck 375 ml) ⚠ | Port. 383/2021 |
@@ -36113,7 +36114,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 232,85 |  | Und | Outras Marcas (barril 20 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 236,17 | +1.4% | und | Chopp Outras Marcas (barril 20 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 240,89 | +2.0% | und | Chopp Outras Marcas (barril 20 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 245,71 | +2.0% | und | Chopp Outras Marcas (barril 20 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 245,71 | +2.0% | und | Chopp Outras Marcas (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 245,71 | +0.0% | und | Chopp Outras Marcas (barril 20 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 620,00 | +152.3% | und | Chopp Outras Marcas (barril 20 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 652,45 | +5.2% | und | Chopp Outras Marcas (barril 20 L) | Port. 614/2019 |
@@ -36134,7 +36135,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 349,27 |  | Und | Outras Marcas (barril 30 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 354,26 | +1.4% | und | Chopp Outras Marcas (barril 30 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 361,35 | +2.0% | und | Chopp Outras Marcas (barril 30 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 368,58 | +2.0% | und | Chopp Outras Marcas (barril 30 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 368,58 | +2.0% | und | Chopp Outras Marcas (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 368,58 | +0.0% | und | Chopp Outras Marcas (barril 30 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 1250,00 | +239.1% | und | Chopp Outras Marcas (barril 30 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.406,85 | +12.5% | und | Chopp Outras Marcas (barril 30 L) | Port. 614/2019 |
@@ -36177,7 +36178,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 582,12 |  | Und | Outras Marcas (barril 50 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 590,43 | +1.4% | und | Outras Marcas (barril 50 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 602,24 | +2.0% | und | Outras Marcas (barril 50 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 614,28 | +2.0% | und | Outras Marcas (barril 50 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 614,28 | +2.0% | und | Outras Marcas (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 614,28 | +0.0% | und | Outras Marcas (barril 50 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 1950,00 | +217.4% | und | Outras Marcas (barril 50 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2.344,75 | +20.2% | und | Outras Marcas (barril 50 L) | Port. 614/2019 |
@@ -36204,7 +36205,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,35 | -12.0% | Und | Outras Marcas (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,73 | +16.5% | und | Outras Marcas (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,92 | +2.0% | und | Outras Marcas (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,12 | +2.0% | und | Outras Marcas (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,12 | +2.0% | und | Outras Marcas (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,12 | +0.0% | und | Outras Marcas (descartável 1 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 11,50 | +13.6% | und | Outras Marcas (descartável 1 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,95 | +12.6% | und | Outras Marcas (descartável 1 L) | Port. 614/2019 |
@@ -36270,7 +36271,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 37,53 | +150.2% | Und | Outras Marcas (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 38,07 | +1.4% | und | Outras Marcas (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 38,83 | +2.0% | und | Outras Marcas (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 39,61 | +2.0% | und | Outras Marcas (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 39,61 | +2.0% | und | Outras Marcas (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 39,61 | +0.0% | und | Outras Marcas (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 44,00 | +11.1% | und | Outras Marcas (descartável 500 a 750 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 42,14 | -4.2% | und | Outras Marcas (descartável 500 a 750 ml) | Port. 614/2019 |
@@ -36311,7 +36312,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,25 | +0.3% | Und | Outras Marcas (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,38 | +1.4% | und | Outras Marcas (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,49 | +1.2% | und | Outras Marcas (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,68 | +2.0% | und | Outras Marcas (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,68 | +2.0% | und | Outras Marcas (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,68 | +0.0% | und | Outras Marcas (descartável 600 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 25,00 | +158.3% | und | Outras Marcas (descartável 600 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,40 | +1.6% | und | Outras Marcas (descartável 600 ml) | Port. 614/2019 |
@@ -36438,7 +36439,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,09 | +9.9% | Und | Outras Marcas (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,18 | +1.5% | und | Outras Marcas (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,10 | -1.3% | und | Outras Marcas (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,22 | +2.0% | und | Outras Marcas (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,22 | +2.0% | und | Outras Marcas (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,22 | +0.0% | und | Outras Marcas (lata 350 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 7,50 | +20.6% | und | Outras Marcas (lata 350 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,70 | -24.0% | und | Outras Marcas (lata 350 ml) | Port. 614/2019 |
@@ -36520,7 +36521,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,89 | +58.1% | Und | Outras Marcas (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,95 | +1.5% | und | Outras Marcas (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,03 | +2.0% | und | Outras Marcas (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,11 | +2.0% | und | Outras Marcas (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,11 | +2.0% | und | Outras Marcas (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,11 | +0.0% | und | Outras Marcas (long neck 250 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 6,50 | +58.2% | und | Outras Marcas (long neck 250 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,85 | -10.0% | und | Outras Marcas (long neck 250 ml) | Port. 614/2019 |
@@ -36625,7 +36626,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,61 | +1.4% | Und | Outras Marcas (long neck 200 a 355 ml) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,40 | +14.1% | Und | Outras Marcas (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,05 | +10.2% | und | Outras Marcas (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,19 | +2.0% | und | Outras Marcas (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,19 | +2.0% | und | Outras Marcas (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,19 | +0.0% | und | Outras Marcas (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 91,00 | +1165.6% | und | Outras Marcas (long neck 200 a 375 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 107,20 | +17.8% | und | Outras Marcas (long neck 200 a 375 ml) | Port. 614/2019 |
@@ -36658,7 +36659,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,76 | +9.0% | Und | Outras Marcas (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,87 | +1.4% | und | Outras Marcas (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 8,28 | +5.2% | und | Outras Marcas (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 8,45 | +2.1% | und | Outras Marcas (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,45 | +2.1% | und | Outras Marcas (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 8,45 | +0.0% | und | Outras Marcas (retornável 1 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 9,90 | +17.2% | und | Outras Marcas (retornável 1 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,47 | -14.4% | und | Outras Marcas (retornável 1 L) | Port. 614/2019 |
@@ -36681,7 +36682,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 11,94 | +8.0% | Und | Outras Marcas (retornável 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,11 | +1.4% | und | Outras Marcas (retornável 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,35 | +2.0% | und | Outras Marcas (retornável 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,60 | +2.0% | und | Outras Marcas (retornável 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,60 | +2.0% | und | Outras Marcas (retornável 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,60 | +0.0% | und | Outras Marcas (retornável 1,5 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 12,60 | +0.0% | und | Outras Marcas (retornável 1,5 L) | Port. 319/2019 |
 
@@ -36696,7 +36697,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,58 | +37.2% | Und | Outras Marcas (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,63 | +1.4% | und | Outras Marcas (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,70 | +1.9% | und | Outras Marcas (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,77 | +1.9% | und | Outras Marcas (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,77 | +1.9% | und | Outras Marcas (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,77 | +0.0% | und | Outras Marcas (retornável 300 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 6,50 | +72.4% | und | Outras Marcas (retornável 300 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,38 | -1.8% | und | Outras Marcas (retornável 300 ml) | Port. 614/2019 |
@@ -36738,7 +36739,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,38 | +6.0% | Und | Outras Marcas (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,51 | +1.4% | und | Outras Marcas (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,16 | -3.7% | und | Outras Marcas (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Outras Marcas (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Outras Marcas (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +0.0% | und | Outras Marcas (retornável 600 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 10,50 | +12.4% | und | Outras Marcas (retornável 600 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,47 | -9.8% | und | Outras Marcas (retornável 600 ml) | Port. 614/2019 |
@@ -36895,7 +36896,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,17 | +8.9% | Und | Outras Marcas – 473 a 550 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,23 | +1.4% | und | Outras Marcas – 473 a 550 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,38 | +3.5% | und | Outras Marcas – 473 a 550 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,47 | +2.1% | und | Outras Marcas – 473 a 550 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,47 | +2.1% | und | Outras Marcas – 473 a 550 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,47 | +0.0% | und | Outras Marcas – 473 a 550 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 14,30 | +219.9% | und | Outras Marcas – 473 a 550 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,01 | -16.0% | und | Outras Marcas – 473 a 550 ml | Port. 614/2019 |
@@ -36943,7 +36944,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,90 |  | und | Patagonia - 473ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,90 |  | und | Patagonia - 473ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,90 | +0.0% | und | Patagonia - 473ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,92 | +0.3% | und | Patagonia - 473ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,18 | +4.4% | und | Patagonia (lata) ⚠ | Port. 383/2021 |
@@ -36979,7 +36980,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,90 |  | und | Patagonia (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 15,20 | +2.0% | und | Patagonia (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 15,50 | +2.0% | und | Patagonia (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,50 | +2.0% | und | Patagonia (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 15,50 | +0.0% | und | Patagonia (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 15,19 | -2.0% | und | Patagonia (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,98 | +5.2% | und | Patagonia 740ml ⚠ | Port. 383/2021 |
@@ -37529,7 +37530,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 9,00 |  |  | Cerveja Paulistânia Largo do Café - Stout 500 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,06 | +0.7% | und | Paulistânia Largo do Café - Stout - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,24 | +2.0% | und | Paulistânia Largo do Café - Stout - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,42 | +1.9% | und | Paulistânia Largo do Café - Stout - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,42 | +1.9% | und | Paulistânia Largo do Café - Stout - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,42 | +0.0% | und | Paulistânia Largo do Café - Stout - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,23 | -2.0% | und | Paulistânia Largo do Café - Stout - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,71 | +5.2% | und | Paulistânia Largo do Café – Stout (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -37550,7 +37551,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-03-09 (pub.) | 2018-03-05 | incluir | 5,00 |  |  | Cerveja Paulistânia Marco – Long Neck 355 ml | Port. 86/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,04 | +0.8% | und | Paulistânia Marco - 355 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,48 | +8.7% | und | Paulistânia Marco - 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,59 | +2.0% | und | Paulistânia Marco - 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,59 | +2.0% | und | Paulistânia Marco - 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,59 | +0.0% | und | Paulistânia Marco - 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,65 | +1.1% | und | Paulistânia Marco - 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,79 | +2.5% | und | Paulistânia Marco (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -37765,7 +37766,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 14,18 |  | und | Paulistânia X Barley Wine – 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,18 |  | und | Paulistânia X Barley Wine – 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 14,18 | +0.0% | und | Paulistânia X Barley Wine – 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,90 | -2.0% | und | Paulistânia X Barley Wine – 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,73 | +6.0% | und | Paulistânia X Barley Wine (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -37783,7 +37784,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 34,40 |  | und | Paulistânia X Barley Wine – 750 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 34,40 |  | und | Paulistânia X Barley Wine – 750 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 34,40 | +0.0% | und | Paulistânia X Barley Wine – 750 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 33,71 | -2.0% | und | Paulistânia X Barley Wine – 750 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 35,17 | +4.3% | und | Paulistânia X Barley Wine (descartável 750 ml) ⚠ | Port. 383/2021 |
@@ -37926,7 +37927,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Petra Premium Aurum (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Petra Premium Aurum (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Petra Premium Aurum (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Aurum (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Aurum (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Petra Premium Aurum (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Petra Premium Aurum (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Petra Premium Aurum (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -37954,7 +37955,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Petra Premium Bock (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Petra Premium Bock (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Petra Premium Bock (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Bock (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Bock (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Petra Premium Bock (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Petra Premium Bock (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Petra Premium Bock (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -37982,7 +37983,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,41 | +2.6% | Und | Petra Premium Escura (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,44 | +1.2% | und | Petra Premium Escura (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,41 | -1.2% | und | Petra Premium Escura (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Petra Premium Escura (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Petra Premium Escura (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +0.0% | und | Petra Premium Escura (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,46 | +0.0% | und | Petra Premium Escura (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,53 | +2.8% | und | Petra Premium Escura (lata 350 ml) | Port. 383/2021 |
@@ -38023,7 +38024,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,94 | +5.9% | Und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,02 | +1.3% | und | Petra Premium Escura ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,54 | +8.6% | und | Petra Premium Escura (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,67 | +2.0% | und | Petra Premium Escura (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,67 | +2.0% | und | Petra Premium Escura (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,67 | +0.0% | und | Petra Premium Escura (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | -37.0% | und | Petra Premium Escura (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,34 | +3.3% | und | Petra Premium Escura (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -38043,7 +38044,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Petra Premium Schwarzbier (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Petra Premium Schwarzbier (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Petra Premium Schwarzbier (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Schwarzbier (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Schwarzbier (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Petra Premium Schwarzbier (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Petra Premium Schwarzbier (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Petra Premium Schwarzbier (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -38071,7 +38072,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Petra Premium Stark Bier (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Petra Premium Stark Bier (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Petra Premium Stark Bier (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Stark Bier (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Stark Bier (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Petra Premium Stark Bier (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Petra Premium Stark Bier (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Petra Premium Stark Bier (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -38103,7 +38104,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Petra Premium Weiss Bier (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Petra Premium Weiss Bier (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Petra Premium Weiss Bier (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Weiss Bier (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Petra Premium Weiss Bier (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Petra Premium Weiss Bier (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Petra Premium Weiss Bier (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Petra Premium Weiss Bier (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -38136,7 +38137,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-06 (pub.) | 2018-06-28 | incluir | 6,84 |  |  | Cerveja Petra Puro Malte - Descartavel 600 ml | Port. 233/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,92 | +1.2% | und | Petra Puro Malte (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,06 | +2.0% | und | Petra Puro Malte (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,06 | +2.0% | und | Petra Puro Malte (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,06 | +0.0% | und | Petra Puro Malte (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,92 | -2.0% | und | Petra Puro Malte (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,11 | +2.7% | und | Petra Puro Malte (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -38156,7 +38157,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-06 (pub.) | 2018-06-28 | incluir | 2,26 |  |  | Cerveja Petra Puro Malte 269 ml | Port. 233/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,31 | +2.2% | und | Petra Puro Malte – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,36 | +2.2% | und | Petra Puro Malte – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,36 | +2.2% | und | Petra Puro Malte – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,36 | +0.0% | und | Petra Puro Malte – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,49 | +5.5% | und | Petra Puro Malte – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,48 | -0.4% | und | Petra Puro Malte (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -38175,7 +38176,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,64 |  | und | Petra Puro Malte (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Petra Puro Malte (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Petra Puro Malte (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +0.0% | und | Petra Puro Malte (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,70 | +0.4% | und | Petra Puro Malte (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,74 | +1.5% | und | Petra Puro Malte (lata 350 ml) | Port. 383/2021 |
@@ -38241,7 +38242,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,04 |  | und | Petra Puro Malte (long neck 200 a 375 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Petra Puro Malte (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Petra Puro Malte (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +0.0% | und | Petra Puro Malte (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,16 | +1.0% | und | Petra Puro Malte (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,12 | -1.0% | und | Petra Puro Malte (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -38290,7 +38291,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-06 (pub.) | 2018-06-28 | incluir | 5,23 |  |  | Cerveja Petra Puro Malte - Retornável 600 ml | Port. 233/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,04 | -3.6% | und | Petra Puro Malte (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,14 | +2.0% | und | Petra Puro Malte (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,14 | +2.0% | und | Petra Puro Malte (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,14 | +0.0% | und | Petra Puro Malte (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,32 | +23.0% | und | Petra Puro Malte (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,34 | +0.3% | und | Petra Puro Malte (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -38629,7 +38630,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,98 | +7.3% | Und | Proibida (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,05 | +1.4% | und | Proibida (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,31 | +5.1% | und | Proibida (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,42 | +2.1% | und | Proibida (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,42 | +2.1% | und | Proibida (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,42 | +0.0% | und | Proibida (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,55 | +2.4% | und | Proibida (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,74 | +3.4% | und | Proibida (retornável 1 L) | Port. 383/2021 |
@@ -38672,7 +38673,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,68 | +7.0% | Und | Proibida Pilsen (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,73 | +1.4% | und | Proibida Pilsen (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,77 | +1.1% | und | Proibida Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Proibida Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Proibida Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +0.0% | und | Proibida Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,77 | -2.1% | und | Proibida Pilsen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,88 | +2.9% | und | Proibida Pilsen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -38697,7 +38698,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,49 | -0.7% | Und | Proibida Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,53 | +2.7% | und | Proibida Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,56 | +2.0% | und | Proibida Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,59 | +1.9% | und | Proibida Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,59 | +1.9% | und | Proibida Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,59 | +0.0% | und | Proibida Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,57 | -1.3% | und | Proibida Pilsen (lata 220 a 310 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,62 | +3.2% | und | Proibida Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -38720,7 +38721,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,80 | +2.3% | Und | Proibida Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,83 | +1.7% | und | Proibida Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,81 | -1.1% | und | Proibida Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,85 | +2.2% | und | Proibida Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,85 | +2.2% | und | Proibida Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,85 | +0.0% | und | Proibida Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,85 | +0.0% | und | Proibida Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,90 | +2.7% | und | Proibida Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -38744,7 +38745,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,36 | +6.3% | Und | Proibida Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,39 | +1.3% | und | Proibida Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,48 | +3.8% | und | Proibida Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,53 | +2.0% | und | Proibida Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,53 | +2.0% | und | Proibida Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,53 | +0.0% | und | Proibida Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,54 | +0.4% | und | Proibida Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,65 | +4.3% | und | Proibida Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -38767,7 +38768,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,01 | +11.0% | Und | Proibida Pilsen – 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,04 | +1.5% | und | Proibida Pilsen – 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,22 | +8.8% | und | Proibida Pilsen – 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,26 | +1.8% | und | Proibida Pilsen – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,26 | +1.8% | und | Proibida Pilsen – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,26 | +0.0% | und | Proibida Pilsen – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,28 | +0.9% | und | Proibida Pilsen – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,36 | +3.5% | und | Proibida Pilsen (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -38789,7 +38790,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,37 | +6.8% | Und | Proibida Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,40 | +1.3% | und | Proibida Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,61 | +8.7% | und | Proibida Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,66 | +1.9% | und | Proibida Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,66 | +1.9% | und | Proibida Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,66 | +0.0% | und | Proibida Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,69 | +1.1% | und | Proibida Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,76 | +2.6% | und | Proibida Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -38811,7 +38812,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,66 | +6.4% | Und | Proibida Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,68 | +1.2% | und | Proibida Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,71 | +1.8% | und | Proibida Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Proibida Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Proibida Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +0.0% | und | Proibida Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,74 | +0.0% | und | Proibida Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2023-11-01 (efeitos) | 2023-10-30 | alterar | 1,77 | +1.7% | und | Proibida Pilsen (retornável 300 ml) | Port. 477/2023 |
@@ -38838,7 +38839,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,34 | +6.7% | Und | Proibida Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,39 | +1.5% | und | Proibida Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,27 | -3.5% | und | Proibida Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,34 | +2.1% | und | Proibida Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,34 | +2.1% | und | Proibida Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,34 | +0.0% | und | Proibida Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,40 | +1.8% | und | Proibida Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,48 | +2.4% | und | Proibida Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -38862,7 +38863,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,50 | +6.9% | Und | Proibida Puro Malte (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,59 | +1.4% | und | Proibida Puro Malte (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,67 | +1.2% | und | Proibida Puro Malte (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,80 | +1.9% | und | Proibida Puro Malte (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,80 | +1.9% | und | Proibida Puro Malte (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,80 | +0.0% | und | Proibida Puro Malte (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,66 | -2.1% | und | Proibida Puro Malte (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,85 | +2.9% | und | Proibida Puro Malte (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -38885,7 +38886,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,16 | +6.9% | Und | Proibida Puro Malte – 269 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,19 | +1.4% | und | Proibida Puro Malte – 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,23 | +1.8% | und | Proibida Puro Malte – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,27 | +1.8% | und | Proibida Puro Malte – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,27 | +1.8% | und | Proibida Puro Malte – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,27 | +0.0% | und | Proibida Puro Malte – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,24 | -1.3% | und | Proibida Puro Malte – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,31 | +3.1% | und | Proibida Puro Malte (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -38907,7 +38908,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,20 | +7.0% | Und | Proibida Puro Malte – 350 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,25 | +1.6% | und | Proibida Puro Malte – 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,21 | -1.2% | und | Proibida Puro Malte – 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Proibida Puro Malte – 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Proibida Puro Malte – 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +0.0% | und | Proibida Puro Malte – 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,28 | +0.3% | und | Proibida Puro Malte – 350 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +2.7% | und | Proibida Puro Malte (lata 350 ml) ⚠ | Port. 383/2021 |
@@ -38932,7 +38933,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,24 | +6.9% | Und | Proibida Puro Malte – 355 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,29 | +1.5% | und | Proibida Puro Malte – 355 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,25 | -1.2% | und | Proibida Puro Malte – 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,32 | +2.2% | und | Proibida Puro Malte – 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,32 | +2.2% | und | Proibida Puro Malte – 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,32 | +0.0% | und | Proibida Puro Malte – 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,33 | +0.3% | und | Proibida Puro Malte – 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,48 | +4.5% | und | Proibida Puro Malte – 355 ml | Port. 383/2021 |
@@ -38954,7 +38955,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,05 | +6.9% | Und | Proibida puro Malte – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,11 | +1.5% | und | Proibida puro Malte – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,26 | +3.6% | und | Proibida puro Malte – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Proibida puro Malte – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Proibida puro Malte – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +0.0% | und | Proibida puro Malte – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,36 | +0.2% | und | Proibida puro Malte – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,55 | +4.4% | und | Proibida puro Malte (lata) ⚠ | Port. 383/2021 |
@@ -38977,7 +38978,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,47 | +10.9% | Und | Proibida Puro Malte – 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,52 | +1.4% | und | Proibida Puro Malte – 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,83 | +8.8% | und | Proibida Puro Malte – 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,91 | +2.1% | und | Proibida Puro Malte – 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,91 | +2.1% | und | Proibida Puro Malte – 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,91 | +0.0% | und | Proibida Puro Malte – 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,95 | +1.0% | und | Proibida Puro Malte – 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,09 | +3.5% | und | Proibida Puro Malte (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -39000,7 +39001,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,38 | +1.5% | Und | Proibida Puro Malte – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,43 | +1.5% | und | Proibida Puro Malte – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,73 | +8.7% | und | Proibida Puro Malte – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,80 | +1.9% | und | Proibida Puro Malte – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,80 | +1.9% | und | Proibida Puro Malte – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,80 | +0.0% | und | Proibida Puro Malte – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,84 | +1.1% | und | Proibida Puro Malte – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,24 | +10.4% | und | Proibida Puro Malte (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -39024,7 +39025,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,88 | +1.9% | Und | Proibida Puro Malte (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,96 | +1.4% | und | Proibida Puro Malte (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,74 | -3.7% | und | Proibida Puro Malte (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,85 | +1.9% | und | Proibida Puro Malte (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,85 | +1.9% | und | Proibida Puro Malte (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,85 | +0.0% | und | Proibida Puro Malte (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,96 | +1.9% | und | Proibida Puro Malte (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,09 | +2.2% | und | Proibida Puro Malte (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -39046,7 +39047,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,90 | -18.2% | Und | Proibida Puro Malte Forte – 600 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,14 | +25.3% | und | Proibida Puro Malte Forte (descartável 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,21 | +1.1% | und | Proibida Puro Malte Forte (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,33 | +1.9% | und | Proibida Puro Malte Forte (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,33 | +1.9% | und | Proibida Puro Malte Forte (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,33 | +0.0% | und | Proibida Puro Malte Forte (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,20 | -2.1% | und | Proibida Puro Malte Forte (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,37 | +2.7% | und | Proibida Puro Malte Forte (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -39068,7 +39069,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,12 | +6.5% | Und | Proibida Puro Malte Forte – 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,15 | +1.4% | und | Proibida Puro Malte Forte – 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,19 | +1.9% | und | Proibida Puro Malte Forte – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Proibida Puro Malte Forte – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Proibida Puro Malte Forte – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +0.0% | und | Proibida Puro Malte Forte – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,20 | -1.3% | und | Proibida Puro Malte Forte – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,27 | +3.2% | und | Proibida Puro Malte Forte (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -39090,7 +39091,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,20 | +7.0% | Und | Proibida Puro Malte Forte – 350 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,25 | +1.6% | und | Proibida Puro Malte Forte – 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,21 | -1.2% | und | Proibida Puro Malte Forte – 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Proibida Puro Malte Forte – 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Proibida Puro Malte Forte – 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +0.0% | und | Proibida Puro Malte Forte – 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,28 | +0.3% | und | Proibida Puro Malte Forte – 350 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +2.7% | und | Proibida Puro Malte Forte (lata 350 ml) ⚠ | Port. 383/2021 |
@@ -39112,7 +39113,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,52 | +7.0% | Und | Proibida Puro Malte Forte – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,57 | +1.4% | und | Proibida Puro Malte Forte – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,88 | +8.7% | und | Proibida Puro Malte Forte – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,96 | +2.1% | und | Proibida Puro Malte Forte – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,96 | +2.1% | und | Proibida Puro Malte Forte – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,96 | +0.0% | und | Proibida Puro Malte Forte – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,00 | +1.0% | und | Proibida Puro Malte Forte – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,42 | +10.5% | und | Proibida Puro Malte Forte (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -39193,7 +39194,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,79 |  | und | Proibida Puro Malte Lager (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,89 | +2.1% | und | Proibida Puro Malte Lager (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,89 | +2.1% | und | Proibida Puro Malte Lager (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,89 | +0.0% | und | Proibida Puro Malte Lager (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,99 | +2.0% | und | Proibida Puro Malte Lager (retornável 600 ml) | Port. 614/2019 |
 
@@ -39202,7 +39203,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,94 |  | und | Proibida Puro Malte Lager - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,98 | +2.1% | und | Proibida Puro Malte Lager - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,98 | +2.1% | und | Proibida Puro Malte Lager - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,98 | +0.0% | und | Proibida Puro Malte Lager - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,95 | -1.5% | und | Proibida Puro Malte Lager - 269 ml | Port. 614/2019 |
 
@@ -39211,7 +39212,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,99 |  | und | Proibida Puro Malte Lager - 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,05 | +2.0% | und | Proibida Puro Malte Lager - 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,05 | +2.0% | und | Proibida Puro Malte Lager - 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,05 | +0.0% | und | Proibida Puro Malte Lager - 330 ml | Port. 286/2019 |
 
 ### Proibida Puro Malte Lager – 350 ml (código 48637)
@@ -39219,7 +39220,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,29 |  | und | Proibida Puro Malte Lager (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Proibida Puro Malte Lager – 350 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Proibida Puro Malte Lager – 350 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +0.0% | und | Proibida Puro Malte Lager – 350 ml | Port. 286/2019 |
 
 ### Proibida Puro Malte Leve (descartável 600 ml) (código 48971)
@@ -39230,7 +39231,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,76 | +6.9% | Und | Proibida Puro Malte Leve – 600 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,84 | +1.4% | und | Proibida Puro Malte Leve – 600 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,91 | +1.2% | und | Proibida Puro Malte Leve – 600 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,03 | +2.0% | und | Proibida Puro Malte Leve – 600 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,03 | +2.0% | und | Proibida Puro Malte Leve – 600 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,03 | +0.0% | und | Proibida Puro Malte Leve – 600 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,91 | -2.0% | und | Proibida Puro Malte Leve – 600 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,08 | +2.9% | und | Proibida Puro Malte Leve (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -39268,7 +39269,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,24 | +7.2% | Und | Proibida Puro Malte Leve – 350 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,27 | +1.3% | und | Proibida Puro Malte Leve – 350 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,24 | -1.3% | und | Proibida Puro Malte Leve – 350 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,28 | +1.8% | und | Proibida Puro Malte Leve – 350 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,28 | +1.8% | und | Proibida Puro Malte Leve – 350 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,28 | +0.0% | und | Proibida Puro Malte Leve – 350 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,28 | +0.0% | und | Proibida Puro Malte Leve – 350 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,34 | +2.6% | und | Proibida Puro Malte Leve (lata 350 ml) ⚠ | Port. 383/2021 |
@@ -39290,7 +39291,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,98 | +6.8% | Und | Proibida Puro Malte Leve – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,02 | +1.3% | und | Proibida Puro Malte Leve – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,13 | +3.6% | und | Proibida Puro Malte Leve – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,19 | +1.9% | und | Proibida Puro Malte Leve – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,19 | +1.9% | und | Proibida Puro Malte Leve – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,19 | +0.0% | und | Proibida Puro Malte Leve – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,20 | +0.3% | und | Proibida Puro Malte Leve – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,34 | +4.4% | und | Proibida Puro Malte Leve (lata) ⚠ | Port. 383/2021 |
@@ -39312,7 +39313,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,09 | +6.9% | Und | Proibida Puro Malte Leve – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,13 | +1.3% | und | Proibida Puro Malte Leve – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,40 | +8.6% | und | Proibida Puro Malte Leve – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Proibida Puro Malte Leve – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Proibida Puro Malte Leve – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +0.0% | und | Proibida Puro Malte Leve – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,51 | +1.2% | und | Proibida Puro Malte Leve – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,88 | +10.5% | und | Proibida Puro Malte Leve (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -39334,7 +39335,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,91 | +6.7% | Und | Proibida Puro Malte Leve – 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Proibida Puro Malte Leve – 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,98 | +2.1% | und | Proibida Puro Malte Leve – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,02 | +2.0% | und | Proibida Puro Malte Leve – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,02 | +2.0% | und | Proibida Puro Malte Leve – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,02 | +0.0% | und | Proibida Puro Malte Leve – 269 ml | Port. 286/2019 |
 
 ### Proibida Puro Malte RV Mulher (lata 269 ml) (código 48839)
@@ -39345,7 +39346,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,12 | +6.5% | Und | Proibida Puro Malte RV Mulher – 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,15 | +1.4% | und | Proibida Puro Malte RV Mulher – 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,19 | +1.9% | und | Proibida Puro Malte RV Mulher – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Proibida Puro Malte RV Mulher – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Proibida Puro Malte RV Mulher – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +0.0% | und | Proibida Puro Malte RV Mulher – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,20 | -1.3% | und | Proibida Puro Malte RV Mulher – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,27 | +3.2% | und | Proibida Puro Malte RV Mulher (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -39367,7 +39368,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,52 | +7.0% | Und | Proibida Puro Malte RV Mulher – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,57 | +1.4% | und | Proibida Puro Malte RV Mulher – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,88 | +8.7% | und | Proibida Puro Malte RV Mulher – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,96 | +2.1% | und | Proibida Puro Malte RV Mulher – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,96 | +2.1% | und | Proibida Puro Malte RV Mulher – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,96 | +0.0% | und | Proibida Puro Malte RV Mulher – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,00 | +1.0% | und | Proibida Puro Malte RV Mulher – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,42 | +10.5% | und | Proibida Puro Malte RV Mulher (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -39426,7 +39427,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,88 |  | und | Província Amber Lager (long neck 200 a 375 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Província Amber Lager (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Província Amber Lager (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +0.0% | und | Província Amber Lager (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,97 | +1.0% | und | Província Amber Lager (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,04 | +2.4% | und | Província Amber Lager (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -39447,7 +39448,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,05 |  | und | Província DunKel (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,16 | +1.2% | und | Província DunKel (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Província DunKel (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Província DunKel (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +0.0% | und | Província DunKel (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,15 | -2.0% | und | Província Dunkel (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,41 | +2.8% | und | Província Dunkel (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -39468,7 +39469,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,05 |  | und | Província European Red (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,16 | +1.2% | und | Província European Red (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Província European Red (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Província European Red (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +0.0% | und | Província European Red (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,15 | -2.0% | und | Província European Red (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,41 | +2.8% | und | Província European Red (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -39505,7 +39506,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,05 |  | und | Província Ipa (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,16 | +1.2% | und | Província Ipa (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Província Ipa (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Província Ipa (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +0.0% | und | Província Ipa (descartável 600 ml) | Port. 286/2019 |
 
 ### Província Lager Puro Malte (código 50045)
@@ -39519,7 +39520,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,62 |  | und | Província Lager Puro Malte (long neck 200 a 375 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,67 | +1.9% | und | Província Lager Puro Malte (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,67 | +1.9% | und | Província Lager Puro Malte (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,67 | +0.0% | und | Província Lager Puro Malte (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,70 | +1.1% | und | Província Lager Puro Malte (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,77 | +2.6% | und | Província Lager Puro Malte (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -39572,7 +39573,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,03 |  | und | Província Pilsen (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,13 | +2.0% | und | Província Pilsen (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,23 | +1.9% | und | Província Pilsen (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,23 | +1.9% | und | Província Pilsen (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,23 | +0.0% | und | Província Pilsen (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,36 | +2.5% | und | Província Pilsen (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,54 | +3.4% | und | Província Pilsen (descartável 1 L) | Port. 383/2021 |
@@ -39592,7 +39593,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,14 |  | und | Província Pilsen (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,18 | +1.3% | und | Província Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Província Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Província Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +0.0% | und | Província Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,18 | -1.9% | und | Província Pilsen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,27 | +2.8% | und | Província Pilsen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -39613,7 +39614,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-01-29 (pub.) | 2018-01-24 | incluir | 1,02 |  |  | Cerveja Província Pilsen 269 ml | Port. 32/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,03 | +1.0% | und | Província Pilsen – 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,05 | +1.9% | und | Província Pilsen – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Província Pilsen – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Província Pilsen – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +0.0% | und | Província Pilsen – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,06 | -0.9% | und | Província Pilsen – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,09 | +2.8% | und | Província Pilsen- 269 ml | Port. 383/2021 |
@@ -39634,7 +39635,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,20 |  | und | Província Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,19 | -0.8% | und | Província Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,21 | +1.7% | und | Província Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,21 | +1.7% | und | Província Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,21 | +0.0% | und | Província Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,21 | +0.0% | und | Província Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,24 | +2.5% | und | Província Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -39656,7 +39657,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-01-29 (pub.) | 2018-01-24 | incluir | 1,39 |  |  | Cerveja Província Pilsen 473 ml | Port. 32/2018 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,40 | +0.7% | und | Província Pilsen - 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,45 | +3.6% | und | Província Pilsen - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,48 | +2.1% | und | Província Pilsen - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,48 | +2.1% | und | Província Pilsen - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,48 | +0.0% | und | Província Pilsen - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,48 | +0.0% | und | Província Pilsen - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,55 | +4.7% | und | Província Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -39718,7 +39719,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,14 |  | und | Província Sem Álcool (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,18 | +1.3% | und | Província Sem Álcool (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Província Sem Álcool (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +1.9% | und | Província Sem Álcool (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,24 | +0.0% | und | Província Sem Álcool (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,18 | -1.9% | und | Província Sem Álcool (descartável 600 ml) | Port. 614/2019 |
 
@@ -39728,7 +39729,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,20 |  | und | Província Sem Álcool (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,19 | -0.8% | und | Província Sem Álcool (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,21 | +1.7% | und | Província Sem Álcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,21 | +1.7% | und | Província Sem Álcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,21 | +0.0% | und | Província Sem Álcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,21 | +0.0% | und | Província Sem Álcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,24 | +2.5% | und | Província Sem Álcool (lata 350 ml) | Port. 383/2021 |
@@ -39760,7 +39761,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,41 |  | und | Província Sem Álcool | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,62 | +8.7% | und | Província Sem Álcool (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,67 | +1.9% | und | Província Sem Álcool (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,67 | +1.9% | und | Província Sem Álcool (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,67 | +0.0% | und | Província Sem Álcool (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,70 | +1.1% | und | Província Sem Álcool (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,77 | +2.6% | und | Província Sem Álcool (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -39786,7 +39787,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,88 |  | und | Província Session Ipa (long neck 200 a 375 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Província Session Ipa (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Província Session Ipa (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +0.0% | und | Província Session Ipa (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,97 | +1.0% | und | Província Session Ipa (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,04 | +2.4% | und | Província Session Ipa (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -39807,7 +39808,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,05 |  | und | Província Weiss (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,16 | +1.2% | und | Província Weiss (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Província Weiss (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +2.0% | und | Província Weiss (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,34 | +0.0% | und | Província Weiss (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,15 | -2.0% | und | Província Weiss (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 9,41 | +2.8% | und | Província Weiss (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -39828,7 +39829,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,65 |  | und | Província Witbier | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,88 | +8.7% | und | Província Witbier (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Província Witbier (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Província Witbier (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +0.0% | und | Província Witbier (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,97 | +1.0% | und | Província Witbier (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,04 | +2.4% | und | Província Witbier (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -40330,7 +40331,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,65 | +10.0% | Und | Ricca Premium (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,69 | +1.5% | und | Ricca Premium (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,66 | -1.1% | und | Ricca Premium (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,71 | +1.9% | und | Ricca Premium (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,71 | +1.9% | und | Ricca Premium (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,71 | +0.0% | und | Ricca Premium (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,72 | +0.4% | und | Ricca Premium (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,79 | +2.6% | und | Ricca Premium (lata 350 ml) | Port. 383/2021 |
@@ -40361,7 +40362,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,61 | +14.0% | Und | Ricca Premium (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,65 | +1.5% | und | Ricca Premium ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,88 | +8.7% | und | Ricca Premium (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Ricca Premium (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Ricca Premium (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +0.0% | und | Ricca Premium (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,97 | +1.0% | und | Ricca Premium (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,04 | +2.4% | und | Ricca Premium (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -40392,7 +40393,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,42 | +5.9% | Und | Ricca Premium (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,47 | +1.5% | und | Ricca Premium (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,34 | -3.7% | und | Ricca Premium (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,41 | +2.1% | und | Ricca Premium (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,41 | +2.1% | und | Ricca Premium (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,41 | +0.0% | und | Ricca Premium (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,48 | +2.1% | und | Ricca Premium (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,56 | +2.3% | und | Ricca Premium (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -40832,7 +40833,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 12,08 | +0.3% | Und | Saint Bier In Natura (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,25 | +1.4% | und | Saint Bier In Natura (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,39 | +1.1% | und | Saint Bier In Natura (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,64 | +2.0% | und | Saint Bier In Natura (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,64 | +2.0% | und | Saint Bier In Natura (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,64 | +0.0% | und | Saint Bier In Natura (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,39 | -2.0% | und | Saint Bier In Natura (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,74 | +2.8% | und | Saint Bier In Natura (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -40855,7 +40856,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 12,08 | +0.3% | Und | Saint Bier Pilsen (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,25 | +1.4% | und | Saint Bier Pilsen (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,39 | +1.1% | und | Saint Bier Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 12,64 | +2.0% | und | Saint Bier Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,64 | +2.0% | und | Saint Bier Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 12,64 | +0.0% | und | Saint Bier Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 12,39 | -2.0% | und | Saint Bier Pilsen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,74 | +2.8% | und | Saint Bier Pilsen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -40870,7 +40871,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 12,87 | +0.3% | Und | Saint Bier Stout (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,05 | +1.4% | und | Saint Bier Stout (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,20 | +1.1% | und | Saint Bier Stout (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 13,46 | +2.0% | und | Saint Bier Stout (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,46 | +2.0% | und | Saint Bier Stout (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,46 | +0.0% | und | Saint Bier Stout (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,19 | -2.0% | und | Saint Bier Stout (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 13,56 | +2.8% | und | Saint Bier Stout (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -40885,7 +40886,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 14,50 | +14.0% | Und | Saint Bier Tássila de Trigo sem Gluten - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 14,71 | +1.4% | und | Saint Bier Tássila de Trigo sem Gluten - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 15,99 | +8.7% | und | Saint Bier Tássila de Trigo sem Gluten - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 16,31 | +2.0% | und | Saint Bier Tássila de Trigo sem Gluten - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,31 | +2.0% | und | Saint Bier Tássila de Trigo sem Gluten - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 16,31 | +0.0% | und | Saint Bier Tássila de Trigo sem Gluten - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 16,48 | +1.0% | und | Saint Bier Tássila de Trigo sem Gluten - 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 16,89 | +2.5% | und | Saint Bier Tássila de Trigo sem Gluten - (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -40908,7 +40909,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 21,39 | +48.0% | Und | Saint Bier Weiss (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 21,70 | +1.4% | und | Saint Bier Weiss (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 22,13 | +2.0% | und | Saint Bier Weiss (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 22,57 | +2.0% | und | Saint Bier Weiss (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,57 | +2.0% | und | Saint Bier Weiss (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 22,57 | +0.0% | und | Saint Bier Weiss (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 22,12 | -2.0% | und | Saint Bier Weiss (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 23,27 | +5.2% | und | Saint Bier Weiss (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -40957,7 +40958,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,33 | +9.9% | Und | Samba (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,36 | +1.3% | und | Samba (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,33 | -1.3% | und | Samba (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,38 | +2.1% | und | Samba (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,38 | +2.1% | und | Samba (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,38 | +0.0% | und | Samba (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,38 | +0.0% | und | Samba (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,44 | +2.5% | und | Samba (lata 350 ml) | Port. 383/2021 |
@@ -40981,7 +40982,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,10 | +14.0% | Und | Samba - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,14 | +1.3% | und | Samba - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,41 | +8.6% | und | Samba - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,48 | +2.1% | und | Samba - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,48 | +2.1% | und | Samba - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,48 | +0.0% | und | Samba - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,52 | +1.1% | und | Samba - 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,64 | +3.4% | und | Samba (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -41005,7 +41006,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,87 | +8.9% | Und | Samba (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,94 | +1.4% | und | Samba (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,20 | +5.3% | und | Samba (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,30 | +1.9% | und | Samba (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,30 | +1.9% | und | Samba (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,30 | +0.0% | und | Samba (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,43 | +2.5% | und | Samba (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,62 | +3.5% | und | Samba (retornável 1 L) | Port. 383/2021 |
@@ -41040,7 +41041,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,78 | -12.1% | Und | Samba Pilsen (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,40 | +16.4% | und | Samba Pilsen (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,49 | +2.0% | und | Samba Pilsen (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,58 | +2.0% | und | Samba Pilsen (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,58 | +2.0% | und | Samba Pilsen (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,58 | +0.0% | und | Samba Pilsen (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,69 | +2.4% | und | Samba Pilsen (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,85 | +3.4% | und | Samba Pilsen (descartável 1 L) | Port. 383/2021 |
@@ -41063,7 +41064,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,72 | +0.3% | Und | Samba Pilsen (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,77 | +1.3% | und | Samba Pilsen (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,81 | +1.1% | und | Samba Pilsen (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,89 | +2.1% | und | Samba Pilsen (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +2.1% | und | Samba Pilsen (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +0.0% | und | Samba Pilsen (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,81 | -2.1% | und | Samba Pilsen (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,92 | +2.9% | und | Samba Pilsen (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -41085,7 +41086,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,91 | +11.0% | Und | Samba Pilsen - 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Samba Pilsen - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,98 | +2.1% | und | Samba Pilsen - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,02 | +2.0% | und | Samba Pilsen - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,02 | +2.0% | und | Samba Pilsen - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,02 | +0.0% | und | Samba Pilsen - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,99 | -1.5% | und | Samba Pilsen - 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,05 | +3.0% | und | Samba Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -41108,7 +41109,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,99 | +9.1% | Und | Samba Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,03 | +1.3% | und | Samba Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,14 | +3.6% | und | Samba Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,20 | +1.9% | und | Samba Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,20 | +1.9% | und | Samba Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,20 | +0.0% | und | Samba Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,21 | +0.3% | und | Samba Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,35 | +4.4% | und | Samba Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -41130,7 +41131,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,14 | +37.2% | Und | Samba Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,17 | +1.4% | und | Samba Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,21 | +1.8% | und | Samba Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,25 | +1.8% | und | Samba Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,25 | +1.8% | und | Samba Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,25 | +0.0% | und | Samba Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,25 | +0.0% | und | Samba Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | -9.8% | und | Samba Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -41152,7 +41153,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,93 | +5.9% | Und | Samba Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,99 | +1.5% | und | Samba Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,85 | -3.5% | und | Samba Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,93 | +2.1% | und | Samba Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,93 | +2.1% | und | Samba Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,93 | +0.0% | und | Samba Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,01 | +2.0% | und | Samba Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,10 | +2.2% | und | Samba Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -41235,7 +41236,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,40 | +4.9% | Und | Schin Malzbier (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,45 | +1.5% | und | Schin Malzbier ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,75 | +8.7% | und | Schin Malzbier (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Schin Malzbier (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Schin Malzbier (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +0.0% | und | Schin Malzbier (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,87 | +1.0% | und | Schin Malzbier (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,97 | +2.6% | und | Schin Malzbier (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -41251,7 +41252,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,33 | +10.8% | Und | No Grau – 260 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,35 | +1.5% | und | No Grau – 269 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,38 | +2.2% | und | No Grau – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,41 | +2.2% | und | No Grau – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +2.2% | und | No Grau – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +0.0% | und | No Grau – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,39 | -1.4% | und | No Grau – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,43 | +2.9% | und | No Grau (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -41279,7 +41280,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,84 | +2.8% | Und | No grau (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,87 | +1.6% | und | No grau (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | -1.1% | und | No grau (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | No grau (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | No grau (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | No grau (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,89 | +0.0% | und | No grau (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,94 | +2.6% | und | No grau (lata 350 ml) | Port. 383/2021 |
@@ -41308,7 +41309,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,52 | +3.2% | Und | No Grau (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,57 | +1.4% | und | No Grau (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,44 | -3.6% | und | No Grau (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,51 | +2.0% | und | No Grau (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,51 | +2.0% | und | No Grau (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,51 | +0.0% | und | No Grau (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,58 | +2.0% | und | No Grau (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,66 | +2.2% | und | No Grau (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -41344,7 +41345,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,70 | +16.1% | Und | Schin Pilsen (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,78 | +1.4% | und | Schin Pilsen (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,90 | +2.1% | und | Schin Pilsen (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,02 | +2.0% | und | Schin Pilsen (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,02 | +2.0% | und | Schin Pilsen (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,02 | +0.0% | und | Schin Pilsen (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,17 | +2.5% | und | Schin Pilsen (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,38 | +3.4% | und | Schin Pilsen (descartável 1 L) | Port. 383/2021 |
@@ -41365,7 +41366,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,93 | +10.9% | Und | Schin Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,81 | -6.2% | und | Schin Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | +2.2% | und | Schin Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Schin Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Schin Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | Schin Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,86 | -1.6% | und | Schin Pilsen – 269 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,92 | +3.2% | und | Schin Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -41392,7 +41393,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,00 | +3.1% | Und | Schin Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,03 | +1.5% | und | Schin Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,04 | +0.5% | und | Schin Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,08 | +2.0% | und | Schin Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,08 | +2.0% | und | Schin Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,08 | +0.0% | und | Schin Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,08 | +0.0% | und | Schin Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,14 | +2.9% | und | Schin Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -41419,7 +41420,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,63 | +4.8% | Und | Schin Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,67 | +1.5% | und | Schin Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,09 | +15.7% | und | Schin Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,15 | +1.9% | und | Schin Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,15 | +1.9% | und | Schin Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,15 | +0.0% | und | Schin Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,16 | +0.3% | und | Schin Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,30 | +4.4% | und | Schin Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -41445,7 +41446,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,08 | +5.1% | Und | Schin Pilsen – 300 ml - desc | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,11 | +1.4% | und | Schin Pilsen – 300 ml - desc | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,29 | +8.5% | und | Schin Pilsen – 300 ml – desc | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Schin Pilsen – 300 ml – desc | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Schin Pilsen – 300 ml – desc | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +0.0% | und | Schin Pilsen – 300 ml – desc | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,36 | +0.9% | und | Schin Pilsen – 300 ml – desc | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,44 | +3.4% | und | Schin Pilsen (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -41469,7 +41470,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,28 | +5.1% | Und | Schin Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,31 | +1.3% | und | Schin Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,51 | +8.7% | und | Schin Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,56 | +2.0% | und | Schin Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,56 | +2.0% | und | Schin Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,56 | +0.0% | und | Schin Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,59 | +1.2% | und | Schin Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,66 | +2.7% | und | Schin Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -41491,7 +41492,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,53 | +10.2% | Und | Schin Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,61 | +1.4% | und | Schin Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,90 | +5.2% | und | Schin Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,02 | +2.0% | und | Schin Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,02 | +2.0% | und | Schin Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,02 | +0.0% | und | Schin Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,17 | +2.5% | und | Schin Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,38 | +3.4% | und | Schin Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -41515,7 +41516,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,11 | +3.4% | Und | Schin Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,14 | +1.4% | und | Schin Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,18 | +1.9% | und | Schin Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Schin Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Schin Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +0.0% | und | Schin Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,22 | +0.0% | und | Schin Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,00 | -9.9% | und | Schin Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -41542,7 +41543,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,21 | +3.2% | Und | Schin Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,27 | +1.4% | und | Schin Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,11 | -3.7% | und | Schin Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,19 | +1.9% | und | Schin Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,19 | +1.9% | und | Schin Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,19 | +0.0% | und | Schin Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,27 | +1.9% | und | Schin Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,37 | +2.3% | und | Schin Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -41587,7 +41588,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,79 |  | und | Schin zero álcool (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,79 |  | und | Schin zero álcool (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,79 | +0.0% | und | Schin zero álcool (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,80 | +0.4% | und | Schin zero álcool (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,88 | +2.9% | und | Schin zero álcool (lata 350 ml) | Port. 383/2021 |
@@ -41608,7 +41609,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,09 | +5.1% | Und | Schin Zero Alcool (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,13 | +1.3% | und | Schin Zero Alcool ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,40 | +8.6% | und | Schin Zero Alcool (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Schin Zero Alcool (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +2.1% | und | Schin Zero Alcool (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,47 | +0.0% | und | Schin Zero Alcool (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,51 | +1.2% | und | Schin Zero Alcool (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,60 | +2.6% | und | Schin Zero Alcool (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -41750,7 +41751,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,55 | +0.3% | Und | Serramalte (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,64 | +1.4% | und | Serramalte (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,72 | +1.2% | und | Serramalte (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,85 | +1.9% | und | Serramalte (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,85 | +1.9% | und | Serramalte (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,85 | +0.0% | und | Serramalte (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,71 | -2.0% | und | Serramalte (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,90 | +2.8% | und | Serramalte (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -41770,7 +41771,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,49 |  | und | Serramalte (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,45 | -1.1% | und | Serramalte (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,52 | +2.0% | und | Serramalte (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,52 | +2.0% | und | Serramalte (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,52 | +0.0% | und | Serramalte (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,53 | +0.3% | und | Serramalte (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,62 | +2.5% | und | Serramalte (lata 350 ml) | Port. 383/2021 |
@@ -41795,7 +41796,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,77 | +13.9% | Und | Serramalte - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,82 | +1.3% | und | Serramalte - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,15 | +8.6% | und | Serramalte - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,23 | +1.9% | und | Serramalte - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,23 | +1.9% | und | Serramalte - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,23 | +0.0% | und | Serramalte - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,28 | +1.2% | und | Serramalte - 300 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,43 | +3.5% | und | Serramalte (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -41859,7 +41860,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,99 | +14.0% | Und | Serramalte 330ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,05 | +1.5% | und | Serramalte 330ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,40 | +8.6% | und | Serramalte 330ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Serramalte 330ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Serramalte 330ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +0.0% | und | Serramalte 330ml | Port. 286/2019 |
 
 ### Serramalte Pilsen Extra (retornável 600 ml) (código 48728)
@@ -41869,7 +41870,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,00 |  | Und | Serramalte Pilsen Extra (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,09 | +1.5% | und | Serramalte Pilsen Extra (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,87 | -3.6% | und | Serramalte Pilsen Extra (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,99 | +2.0% | und | Serramalte Pilsen Extra (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,99 | +2.0% | und | Serramalte Pilsen Extra (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,99 | +0.0% | und | Serramalte Pilsen Extra (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,18 | +19.9% | und | Serramalte Pilsen Extra (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,34 | +2.2% | und | Serramalte Pilsen Extra (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -42063,7 +42064,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,25 |  | Und | Skol Beats (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,37 | +3.7% | und | Skol Beats (lata 220 a 310 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,44 | +2.1% | und | Skol Beats (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,44 | +2.1% | und | Skol Beats (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,44 | +0.0% | und | Skol Beats (lata 220 a 310 ml) | Port. 286/2019 |
 
 ### Skol Beats (lata 250 a 310 ml) (código 38050)
@@ -42103,7 +42104,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,84 | +13.9% | Und | Skol Beats (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,89 | +1.3% | und | Skol Beats ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,23 | +8.7% | und | Skol Beats (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,31 | +1.9% | und | Skol Beats (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,31 | +1.9% | und | Skol Beats (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,31 | +0.0% | und | Skol Beats (long neck 200 a 375 ml) | Port. 286/2019 |
 
 ### Skol Beats (long neck 275 a 350 ml) (código —)
@@ -42128,7 +42129,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,57 |  | Und | Skol Beats Extreme (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,69 | +3.4% | und | Skol Beats Extreme (lata 220 a 310 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,76 | +1.9% | und | Skol Beats Extreme (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,76 | +1.9% | und | Skol Beats Extreme (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,76 | +0.0% | und | Skol Beats Extreme (lata 220 a 310 ml) | Port. 286/2019 |
 
 ### Skol Beats Extreme (lata 250 a 310 ml) (código 48658)
@@ -42149,7 +42150,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,72 | +14.0% | Und | Skol Beats Extreme - 313 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,79 | +1.5% | und | Skol Beats Extreme - 313 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,21 | +8.8% | und | Skol Beats Extreme - 313 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,31 | +1.9% | und | Skol Beats Extreme - 313 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,31 | +1.9% | und | Skol Beats Extreme - 313 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,31 | +0.0% | und | Skol Beats Extreme - 313 ml | Port. 286/2019 |
 
 ### Skol Beats Secret – 313 ml (código 50040)
@@ -42159,7 +42160,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,84 |  | Und | Skol Beats Secret – 313 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,89 | +1.3% | und | Skol Beats Secret – 313 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,23 | +8.7% | und | Skol Beats Secret – 313 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,31 | +1.9% | und | Skol Beats Secret – 313 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,31 | +1.9% | und | Skol Beats Secret – 313 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,31 | +0.0% | und | Skol Beats Secret – 313 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,36 | +1.2% | und | Skol Beats Secret – 313 ml | Port. 614/2019 |
 
@@ -42175,7 +42176,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 |  | Und | Skol Beats Secrets (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,37 | +3.6% | und | Skol Beats Secrets (lata 220 a 310 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,46 | +2.1% | und | Skol Beats Secrets (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,46 | +2.1% | und | Skol Beats Secrets (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,46 | +0.0% | und | Skol Beats Secrets (lata 220 a 310 ml) | Port. 286/2019 |
 
 ### Skol Beats Secrets – 269 ml (código 50684)
@@ -42191,7 +42192,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,84 |  | Und | Skol Beats Sense – 313 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,89 | +1.3% | und | Skol Beats Sense – 313 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,23 | +8.7% | und | Skol Beats Sense – 313 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,31 | +1.9% | und | Skol Beats Sense – 313 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,31 | +1.9% | und | Skol Beats Sense – 313 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,31 | +0.0% | und | Skol Beats Sense – 313 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,36 | +1.2% | und | Skol Beats Sense – 313 ml | Port. 614/2019 |
 
@@ -42204,7 +42205,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,91 | +11.0% | Und | Skol Beats Senses (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,94 | +1.6% | und | Skol Beats Senses ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,98 | +2.1% | und | Skol Beats Senses (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,89 | +96.5% | und | Skol Beats Senses (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +96.5% | und | Skol Beats Senses (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +0.0% | und | Skol Beats Senses (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,84 | -1.3% | und | Skol Beats Senses – 269 ml ⚠ | Port. 614/2019 |
 
@@ -42212,7 +42213,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,31 |  | und | Skol Beats Spirit - 313ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,31 |  | und | Skol Beats Spirit - 313ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,31 | +0.0% | und | Skol Beats Spirit - 313ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,36 | +1.2% | und | Skol Beats Spirit - 313ml | Port. 614/2019 |
 
@@ -42220,7 +42221,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,89 |  | und | Skol Beats Spirit - 269ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 |  | und | Skol Beats Spirit - 269ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,89 | +0.0% | und | Skol Beats Spirit - 269ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,84 | -1.3% | und | Skol Beats Spirit – 269 ml | Port. 614/2019 |
 
@@ -42236,7 +42237,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,11 |  | und | Skol Bets Senses – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,26 | +3.6% | und | Skol Bets Senses – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Skol Bets Senses – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Skol Bets Senses – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +0.0% | und | Skol Bets Senses – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,36 | +0.2% | und | Skol Bets Senses – 473 ml | Port. 614/2019 |
 
@@ -42246,7 +42247,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 2,68 |  |  | Cerveja Skol Hops - Lata 350 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,65 | -1.1% | und | Skol Hops (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Skol Hops (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Skol Hops (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +0.0% | und | Skol Hops (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,71 | +0.4% | und | Skol Hops (lata 350 ml) | Port. 614/2019 |
 
@@ -42255,7 +42256,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,43 |  | und | Skol Hops (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,56 | +2.0% | und | Skol Hops (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,56 | +2.0% | und | Skol Hops (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,56 | +0.0% | und | Skol Hops (retornável 1 L) | Port. 286/2019 |
 
 ### Skol Hops (retornável 600 ml) (código 50196)
@@ -42263,7 +42264,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,48 |  | und | Skol Hops (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,59 | +2.0% | und | Skol Hops (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,59 | +2.0% | und | Skol Hops (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,59 | +0.0% | und | Skol Hops (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,70 | +2.0% | und | Skol Hops (retornável 600 ml) | Port. 614/2019 |
 
@@ -42272,7 +42273,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,13 |  | und | Skol Hops – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,17 | +1.9% | und | Skol Hops – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,17 | +1.9% | und | Skol Hops – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,17 | +0.0% | und | Skol Hops – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,14 | -1.4% | und | Skol Hops – 269 ml | Port. 614/2019 |
 
@@ -42281,7 +42282,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,43 |  | und | Skol Hops – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,50 | +2.0% | und | Skol Hops – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,50 | +2.0% | und | Skol Hops – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,50 | +0.0% | und | Skol Hops – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,51 | +0.3% | und | Skol Hops – 473 ml | Port. 614/2019 |
 
@@ -42325,7 +42326,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,27 | -12.0% | Und | Skol Pilsen (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,14 | +16.5% | und | Skol Pilsen (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,26 | +2.0% | und | Skol Pilsen (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Skol Pilsen (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Skol Pilsen (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +0.0% | und | Skol Pilsen (descartável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,55 | +2.5% | und | Skol Pilsen (descartável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,77 | +3.4% | und | Skol Pilsen (descartável 1 L) | Port. 383/2021 |
@@ -42366,7 +42367,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,06 | +3.0% | Und | Skol Pilsen (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,09 | +1.5% | und | Skol Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,13 | +1.9% | und | Skol Pilsen (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,17 | +1.9% | und | Skol Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,17 | +1.9% | und | Skol Pilsen (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,17 | +0.0% | und | Skol Pilsen (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,14 | -1.4% | und | Skol Pilsen – 269 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,17 | +1.4% | und | Skol Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -42400,7 +42401,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,64 | +2.3% | Und | Skol pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,68 | +1.5% | und | Skol pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,64 | -1.5% | und | Skol pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Skol pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Skol pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +0.0% | und | Skol pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,66 | -1.1% | und | Skol pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,61 | -1.9% | und | Skol pilsen (lata 350 ml) | Port. 383/2021 |
@@ -42440,7 +42441,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,26 | +8.7% | Und | Skol Pilsen – 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,31 | +1.5% | und | Skol Pilsen – 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,29 | -0.6% | und | Skol Pilsen – 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,36 | +2.1% | und | Skol Pilsen – 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +2.1% | und | Skol Pilsen – 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +0.0% | und | Skol Pilsen – 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,45 | +2.7% | und | Skol Pilsen – 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,44 | -0.3% | und | Skol Pilsen (lata) ⚠ | Port. 383/2021 |
@@ -42480,7 +42481,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,69 |  | und | Skol Pilsen - 275ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,92 | +8.6% | und | Skol Pilsen - 275ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,98 | +2.1% | und | Skol Pilsen - 275ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,98 | +2.1% | und | Skol Pilsen - 275ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,98 | +0.0% | und | Skol Pilsen - 275ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,01 | +1.0% | und | Skol Pilsen - 275ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,12 | +3.7% | und | Skol Pilsen (long neck 200 a 275 ml) ⚠ | Port. 383/2021 |
@@ -42503,7 +42504,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,90 | +14.6% | Und | Skol Pilsen - 300 ml desc. | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,94 | +1.4% | und | Skol Pilsen - 300 ml desc. | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,20 | +8.8% | und | Skol Pilsen - 300 ml desc. | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,26 | +1.9% | und | Skol Pilsen - 300 ml desc. | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,26 | +1.9% | und | Skol Pilsen - 300 ml desc. | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,26 | +0.0% | und | Skol Pilsen - 300 ml desc. | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,29 | +0.9% | und | Skol Pilsen - 300 ml desc. | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,40 | +3.3% | und | Skol Pilsen (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
@@ -42534,7 +42535,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,07 | +6.6% | Und | Skol Pilsen (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,11 | +1.3% | und | Skol Pilsen ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,31 | +6.4% | und | Skol Pilsen (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,38 | +2.1% | und | Skol Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,38 | +2.1% | und | Skol Pilsen (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,38 | +0.0% | und | Skol Pilsen (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,47 | +2.7% | und | Skol Pilsen (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,56 | +2.6% | und | Skol Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -42565,7 +42566,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,02 | +5.4% | Und | Skol Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,11 | +1.5% | und | Skol Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,48 | +6.1% | und | Skol Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,61 | +2.0% | und | Skol Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,61 | +2.0% | und | Skol Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,61 | +0.0% | und | Skol Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,58 | -0.5% | und | Skol Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,81 | +3.5% | und | Skol Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -42591,7 +42592,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,69 | +3.1% | Und | Skol Pilsen (retornável 300 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,73 | +1.5% | und | Skol Pilsen (retornável 300 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,78 | +1.8% | und | Skol Pilsen (retornável 300 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Skol Pilsen (retornável 300 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Skol Pilsen (retornável 300 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +0.0% | und | Skol Pilsen (retornável 300 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,84 | +0.0% | und | Skol Pilsen (retornável 300 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,56 | -9.9% | und | Skol Pilsen (retornável 300 ml) | Port. 383/2021 |
@@ -42625,7 +42626,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,61 | +2.4% | Und | Skol Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,69 | +1.4% | und | Skol Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,94 | +4.4% | und | Skol Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,06 | +2.0% | und | Skol Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,06 | +2.0% | und | Skol Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,06 | +0.0% | und | Skol Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,81 | -4.1% | und | Skol Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,84 | +0.5% | und | Skol Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -42739,7 +42740,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,29 |  | und | Skol Pilsen Pack (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Skol Pilsen Pack (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Skol Pilsen Pack (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +0.0% | und | Skol Pilsen Pack (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,34 | +0.0% | und | Skol Pilsen Pack (lata 350 ml) | Port. 614/2019 |
 
@@ -42788,7 +42789,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 2,13 |  |  | Cerveja Skol Puro Malte - Lata 269 ml | Port. 444/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,17 | +1.9% | und | Skol Puro Malte - 269ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,17 | +1.9% | und | Skol Puro Malte - 269ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,17 | +0.0% | und | Skol Puro Malte - 269ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,01 | -7.4% | und | Skol Puro Malte – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,07 | +3.0% | und | Skol Puro Malte (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -42807,7 +42808,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 2,64 |  |  | Cerveja Skol Puro Malte - Lata 350 ml | Port. 444/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Skol Puro Malte (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Skol Puro Malte (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +0.0% | und | Skol Puro Malte (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,38 | -11.5% | und | Skol Puro Malte (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,50 | +5.0% | und | Skol Puro Malte (lata 350 ml) | Port. 383/2021 |
@@ -42826,7 +42827,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 3,29 |  |  | Cerveja Skol Puro Malte - Lata 473 ml | Port. 444/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,36 | +2.1% | und | Skol Puro Malte - 473ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +2.1% | und | Skol Puro Malte - 473ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,36 | +0.0% | und | Skol Puro Malte - 473ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,37 | +0.3% | und | Skol Puro Malte - 473ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,52 | +4.5% | und | Skol Puro Malte (lata) ⚠ | Port. 383/2021 |
@@ -42844,7 +42845,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,98 |  | und | Skol Puro Malte - 275ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,98 |  | und | Skol Puro Malte - 275ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,98 | +0.0% | und | Skol Puro Malte - 275ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,68 | +23.5% | und | Skol Puro Malte - 275ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,82 | +3.8% | und | Skol Puro Malte (long neck 200 a 275 ml) ⚠ | Port. 383/2021 |
@@ -42863,7 +42864,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 6,48 |  |  | Cerveja Skol Puro Malte – Retornável 1000 ml | Port. 444/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,61 | +2.0% | und | Skol Puro Malte (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,61 | +2.0% | und | Skol Puro Malte (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,61 | +0.0% | und | Skol Puro Malte (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,77 | +2.4% | und | Skol Puro Malte (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,00 | +3.4% | und | Skol Puro Malte (retornável 1 L) | Port. 383/2021 |
@@ -42882,7 +42883,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-01-03 (pub.) | 2018-12-27 | incluir | 5,94 |  |  | Cerveja Skol Puro Malte - Retornável 600 ml | Port. 444/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,06 | +2.0% | und | Skol Puro Malte (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,06 | +2.0% | und | Skol Puro Malte (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,06 | +0.0% | und | Skol Puro Malte (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,69 | -6.1% | und | Skol Puro Malte (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,81 | +2.1% | und | Skol Puro Malte (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -43071,7 +43072,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,01 | +1.3% | Und | Sol Premium (descartável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,10 | +1.5% | und | Sol Premium (descartável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,17 | +1.1% | und | Sol Premium (descartável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,29 | +1.9% | und | Sol Premium (descartável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,29 | +1.9% | und | Sol Premium (descartável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,29 | +0.0% | und | Sol Premium (descartável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,16 | -2.1% | und | Sol Premium (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,33 | +2.8% | und | Sol Premium (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
@@ -43098,7 +43099,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,02 | +5.0% | Und | Sol Premium – 330 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,08 | +1.5% | und | Sol Premium – 330 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,04 | -1.0% | und | Sol Premium – 330 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Sol Premium – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Sol Premium – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +0.0% | und | Sol Premium – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,16 | +1.0% | und | Sol Premium – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,59 | +10.3% | und | Sol Premium (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -43116,7 +43117,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,58 |  | und | Sol Premiun – 310 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,58 |  | und | Sol Premiun – 310 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,58 | +0.0% | und | Sol Premiun – 310 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,55 | -1.2% | und | Sol Premiun – 310 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,63 | +3.1% | und | Sol Premiun – 310 ml | Port. 383/2021 |
@@ -43456,7 +43457,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,32 | +11.1% | Und | Stella Artois (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,38 | +1.4% | und | Stella Artois ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,47 | +2.1% | und | Stella Artois (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,56 | +2.0% | und | Stella Artois (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,56 | +2.0% | und | Stella Artois (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,56 | +0.0% | und | Stella Artois (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,39 | -25.7% | und | Stella Artois – 269 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,31 | -2.4% | und | Stella Artois (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -43508,7 +43509,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,73 | +4.8% | Und | Stella Artois – 275 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,78 | +1.3% | und | Stella Artois – 275 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,36 | +15.3% | und | Stella Artois – 275 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,45 | +2.1% | und | Stella Artois – 275 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,45 | +2.1% | und | Stella Artois – 275 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,45 | +0.0% | und | Stella Artois – 275 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,35 | -2.2% | und | Stella Artois – 275 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,51 | +3.7% | und | Stella Artois (long neck 200 a 275 ml) ⚠ | Port. 383/2021 |
@@ -43526,7 +43527,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,29 |  | und | Stella Artois – 330 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,29 |  | und | Stella Artois – 330 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,29 | +0.0% | und | Stella Artois – 330 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,34 | +1.2% | und | Stella Artois – 330 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,79 | +10.4% | und | Stella Artois (long neck 330 ml) ⚠ | Port. 383/2021 |
@@ -43569,7 +43570,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,99 |  | und | Stella Artois - 410ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,99 |  | und | Stella Artois - 410ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,99 | +0.0% | und | Stella Artois - 410ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,00 | +0.3% | und | Stella Artois - 410ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +4.5% | und | Stella Artois – 410 ml | Port. 383/2021 |
@@ -43656,7 +43657,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,04 |  | und | Stella Artois - Descartavel (descartável 550 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,18 | +2.0% | und | Stella Artois - Descartavel (descartável 550 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,18 | +2.0% | und | Stella Artois - Descartavel (descartável 550 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,18 | +0.0% | und | Stella Artois - Descartavel (descartável 550 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,40 | +3.1% | und | Stella Artois - Descartavel (descartável 550 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,93 | +7.2% | und | Stella Artois – 550 ml ⚠ | Port. 383/2021 |
@@ -43668,7 +43669,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,04 |  | und | Stella Artois – Retornável (descartável 550 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,18 | +2.0% | und | Stella Artois – Retornável (descartável 550 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,18 | +2.0% | und | Stella Artois – Retornável (descartável 550 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,18 | +0.0% | und | Stella Artois – Retornável (descartável 550 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,64 | -7.5% | und | Stella Artois – Retornável (descartável 550 ml) | Port. 614/2019 |
 
@@ -43740,7 +43741,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 8,34 | -12.0% | Und | Sulamericana (descartável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,72 | +16.5% | und | Sulamericana (descartável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,91 | +2.0% | und | Sulamericana (descartável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,11 | +2.0% | und | Sulamericana (descartável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,11 | +2.0% | und | Sulamericana (descartável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,11 | +0.0% | und | Sulamericana (descartável 1 L) | Port. 286/2019 |
 | 2019-06-11 (pub.) | 2019-06-05 | incluir | 12,52 | +23.8% |  | Cerveja Sulamericana - Descartavel 1000 ml | Port. 349/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,36 | -17.3% | und | Sulamericana (descartável 1 L) | Port. 614/2019 |
@@ -43778,7 +43779,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,00 |  | Und | Talber (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,07 | +1.4% | und | Talber (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,89 | -3.6% | und | Talber (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,99 | +2.0% | und | Talber (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,99 | +2.0% | und | Talber (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,99 | +0.0% | und | Talber (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,09 | +2.0% | und | Talber (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,20 | +2.2% | und | Talber (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -43838,7 +43839,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,63 | +10.0% | Und | Tauber (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,67 | +1.5% | und | Tauber (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,64 | -1.1% | und | Tauber (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Tauber (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Tauber (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +0.0% | und | Tauber (lata 350 ml) | Port. 286/2019 |
 
 ### Tauber (long neck 250 ml) (código 12007)
@@ -43851,7 +43852,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,09 | +58.3% | Und | Tauber (long neck 250 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,12 | +1.4% | und | Tauber (long neck 250 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,16 | +1.9% | und | Tauber (long neck 250 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,20 | +1.9% | und | Tauber (long neck 250 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +1.9% | und | Tauber (long neck 250 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +0.0% | und | Tauber (long neck 250 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,22 | +0.9% | und | Tauber (long neck 250 ml) | Port. 614/2019 |
 
@@ -43960,7 +43961,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,11 | +14.0% | Und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,24 | +1.4% | und | Therezópolis Gold ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 10,04 | +8.7% | und | Therezópolis Gold (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 10,24 | +2.0% | und | Therezópolis Gold (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,24 | +2.0% | und | Therezópolis Gold (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 10,24 | +0.0% | und | Therezópolis Gold (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 10,35 | +1.1% | und | Therezópolis Gold (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,61 | +2.5% | und | Therezópolis Gold (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -44412,7 +44413,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,19 | +14.1% | Und | Uma Pilsen - 355 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,22 | +1.4% | und | Uma Pilsen - 355 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,41 | +8.6% | und | Uma Pilsen - 355 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Uma Pilsen - 355 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Uma Pilsen - 355 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +0.0% | und | Uma Pilsen - 355 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,49 | +1.2% | und | Uma Pilsen - 355 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,55 | +2.4% | und | Uma Pilsen (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -44434,7 +44435,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,13 | +10.8% | Und | Umma Pilsen – 269 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,15 | +1.8% | und | Umma Pilsen – 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,17 | +1.7% | und | Umma Pilsen – 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,19 | +1.7% | und | Umma Pilsen – 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,19 | +1.7% | und | Umma Pilsen – 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,19 | +0.0% | und | Umma Pilsen – 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,17 | -1.7% | und | Umma Pilsen – 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,21 | +3.4% | und | Umma Pilsen (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -44456,7 +44457,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,45 | +9.8% | Und | Umma Pilsen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,47 | +1.4% | und | Umma Pilsen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,45 | -1.4% | und | Umma Pilsen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,48 | +2.1% | und | Umma Pilsen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,48 | +2.1% | und | Umma Pilsen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,48 | +0.0% | und | Umma Pilsen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,48 | +0.0% | und | Umma Pilsen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,52 | +2.7% | und | Umma Pilsen (lata 350 ml) | Port. 383/2021 |
@@ -44478,7 +44479,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,34 | +9.0% | Und | Umma Pilsen (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,40 | +1.4% | und | Umma Pilsen (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,63 | +5.2% | und | Umma Pilsen (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,72 | +1.9% | und | Umma Pilsen (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,72 | +1.9% | und | Umma Pilsen (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,72 | +0.0% | und | Umma Pilsen (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,84 | +2.5% | und | Umma Pilsen (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,01 | +3.5% | und | Umma Pilsen (retornável 1 L) | Port. 383/2021 |
@@ -44500,7 +44501,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,15 | +5.9% | Und | Umma Pilsen (retornável 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,18 | +1.4% | und | Umma Pilsen (retornável 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,10 | -3.7% | und | Umma Pilsen (retornável 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Umma Pilsen (retornável 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Umma Pilsen (retornável 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +0.0% | und | Umma Pilsen (retornável 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | +1.9% | und | Umma Pilsen (retornável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,23 | +2.3% | und | Umma Pilsen (retornável 550 a 600 ml) | Port. 383/2021 |
@@ -44584,7 +44585,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 83,19 |  | und | Vat Discovery - 375 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 84,85 | +2.0% | und | Vat Discovery - 375 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 84,85 | +2.0% | und | Vat Discovery - 375 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 84,85 | +0.0% | und | Vat Discovery - 375 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 85,76 | +1.1% | und | Vat Discovery - 375 ml | Port. 614/2019 |
 
@@ -44899,7 +44900,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Weltenburger Anno 1050 (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Weltenburger Anno 1050 (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Weltenburger Anno 1050 (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Weltenburger Anno 1050 (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Weltenburger Anno 1050 (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Weltenburger Anno 1050 (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Weltenburger Anno 1050 (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Weltenburger Anno 1050 (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -44927,7 +44928,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Weltenburger Barock Dunkel (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Weltenburger Barock Dunkel (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Weltenburger Barock Dunkel (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Weltenburger Barock Dunkel (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Weltenburger Barock Dunkel (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Weltenburger Barock Dunkel (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Weltenburger Barock Dunkel (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Weltenburger Barock Dunkel (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -44955,7 +44956,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Weltenburger Urtyp Hell (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Weltenburger Urtyp Hell (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Weltenburger Urtyp Hell (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Weltenburger Urtyp Hell (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Weltenburger Urtyp Hell (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Weltenburger Urtyp Hell (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Weltenburger Urtyp Hell (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Weltenburger Urtyp Hell (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -44983,7 +44984,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 10,82 | +6.4% | Und | Weltenburger Weiss (descartável 500 a 750 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 10,97 | +1.4% | und | Weltenburger Weiss (descartável 500 a 750 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 11,19 | +2.0% | und | Weltenburger Weiss (descartável 500 a 750 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Weltenburger Weiss (descartável 500 a 750 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +2.0% | und | Weltenburger Weiss (descartável 500 a 750 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 11,41 | +0.0% | und | Weltenburger Weiss (descartável 500 a 750 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 11,18 | -2.0% | und | Weltenburger Weiss (descartável 500 a 750 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 11,76 | +5.2% | und | Weltenburger Weiss (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
@@ -45031,7 +45032,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,21 | +4.9% | Und | Xingu (long neck 200 a 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,26 | +1.6% | und | Xingu ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,54 | +8.6% | und | Xingu (long neck 200 a 375 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,61 | +2.0% | und | Xingu (long neck 200 a 375 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,61 | +2.0% | und | Xingu (long neck 200 a 375 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,61 | +0.0% | und | Xingu (long neck 200 a 375 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,65 | +1.1% | und | Xingu (long neck 200 a 375 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,74 | +2.5% | und | Xingu (long neck 355 ml) ⚠ | Port. 383/2021 |
@@ -45046,7 +45047,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,55 |  | Und | Yellow hops puro malte (lata 220 a 310 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,59 | +1.6% | und | Yellow hops puro malte ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,64 | +1.9% | und | Yellow hops puro malte (lata 220 a 310 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Yellow hops puro malte (lata 220 a 310 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Yellow hops puro malte (lata 220 a 310 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +0.0% | und | Yellow hops puro malte (lata 220 a 310 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,65 | -1.5% | und | Yellow Hops Puro Malte – 269 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,74 | +3.4% | und | Yellow Hops Puro Malte (lata 250 a 330 ml) ⚠ | Port. 383/2021 |
@@ -45067,7 +45068,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,29 |  | Und | Yellow hops puro malte (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,34 | +1.5% | und | Yellow hops puro malte (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,30 | -1.2% | und | Yellow hops puro malte (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,37 | +2.1% | und | Yellow hops puro malte (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,37 | +2.1% | und | Yellow hops puro malte (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,37 | +0.0% | und | Yellow hops puro malte (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,38 | +0.3% | und | Yellow hops puro malte (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,47 | +2.7% | und | Yellow hops puro malte (lata 350 ml) | Port. 383/2021 |
@@ -45088,7 +45089,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,40 |  | Und | Yellow hops puro malte - 473 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,46 | +1.4% | und | Yellow hops puro malte - 473 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,62 | +3.6% | und | Yellow hops puro malte - 473 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,71 | +1.9% | und | Yellow hops puro malte - 473 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,71 | +1.9% | und | Yellow hops puro malte - 473 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,71 | +0.0% | und | Yellow hops puro malte - 473 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,72 | +0.2% | und | Yellow hops puro malte - 473 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,93 | +4.4% | und | Yellow hops puro malte (lata) ⚠ | Port. 383/2021 |
@@ -45201,7 +45202,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 164/2019: [Portaria nº 164/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=59b0d82c-791b-4a30-80ed-70d53ae9859d), vigência 2019-04-03 (pub.)
 - Port. 242/2019: [Portaria nº 242/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=07efb5ac-4700-4498-a05c-b39188a7509f), vigência 2019-04-26 (pub.)
 - Port. 259/2019: [Portaria nº 259/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8f18612b-fe0e-4fa2-826b-c28138eaa875), vigência 2019-04-30 (pub.)
-- Port. 285/2019: [Portaria nº 285/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19942b52-3256-43bb-8391-cde43c3991d8), vigência 2019-05-06 (assin.)
+- Port. 285/2019: [Portaria nº 285/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19942b52-3256-43bb-8391-cde43c3991d8), vigência 2019-05-09 (efeitos)
 - Port. 286/2019: [Portaria nº 286/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbee083c-ca4e-46c2-8d10-104483cf566a), vigência 2019-05-09 (efeitos)
 - Port. 318/2019: [Portaria nº 318/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4bc1e056-6904-48ba-a2a8-8b103e872e23), vigência 2019-05-30 (pub.)
 - Port. 319/2019: [Portaria nº 319/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92cfba2c-8b8a-4c3b-b70d-c02672726974), vigência 2019-05-30 (pub.)

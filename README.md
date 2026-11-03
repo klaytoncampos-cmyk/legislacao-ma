@@ -2,7 +2,7 @@
 
 Texto integral e atualizado do CTE (Lei 7.799/2002), do RICMS-MA (Decreto 19.714/2003) e seus anexos, das normas
 complementares da SEFAZ-MA e dos convênios, protocolos e ajustes SINIEF do CONFAZ citados por elas, além da **pauta
-fiscal (Tabela de Valores de Referência do ICMS)** de cimento e bebidas, com o histórico de cada item. A base é atualizada
+fiscal (Tabela de Valores de Referência do ICMS)** de cimento, bebidas e sorvetes, com o histórico de cada item. A base é atualizada
 toda semana a partir das fontes oficiais, e cada atualização chega sozinha a quem instalou o plugin.
 
 ## O que tem na base
@@ -17,6 +17,8 @@ toda semana a partir das fontes oficiais, e cada atualização chega sozinha a q
   - **Bebidas**: cervejas e chopes, refrigerantes, energéticos e isotônicos, águas, bebidas mistas, vinhos e destilados.
     Os itens são identificados por código **e** embalagem/volume, porque a SEFAZ usa o mesmo código para produtos
     diferentes em seções diferentes da tabela (ex.: 45027 é Heineken long neck 330 ml e Itaipava lata 473 ml).
+  - **Sorvetes e picolés**: tabelas de cada fornecedor (Nestlé/Garoto, Tigelí, Ster Bom, Flamboyant, Maioca, sorveterias
+    regionais), quase sempre sem código; o item é identificado pela descrição (marca, sabor, tamanho).
   - Para cada item: **valor vigente**, **histórico** (todas as portarias, com a variação), **valor com vigência futura**
     quando a portaria já foi publicada mas ainda não vale ("→ R$ X a partir de DATA"), e o link para o PDF da portaria.
   - Para **auditoria de período passado**, use o histórico do item: vale a última linha com vigência até a data do fato

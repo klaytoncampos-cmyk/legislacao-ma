@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: refrigerantes e águas tônicas"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-02"
+gerado_em: "2026-11-03"
 portarias: 166
 registros: 13719
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-02**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-03**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (792)
@@ -359,7 +359,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 53267 | Guaraná Sonho Blue + Sonho Rosa - Kit com duas garrafas (PET 350 ml) | und | 14,58 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53153 | Refrigerante Guaraná Tropical - Pet 200 ml | und | 1,36 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48810 | H2OH (PET 1,5 L) (⚠ este código já designou: HOH 2 (PET 1,5 L)) | und | 9,18 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 48811 | H2OH limão (PET 500 ml) (⚠ este código já designou: H OH limão 2 (PET 500 a 600 ml)) | und | 4,79 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 48811 | H2OH limão (PET 500 ml) | und | 4,79 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48821 | H2OH! - Limoneto (PET 500 ml) | und | 4,79 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53486 | Refrigerante H2O! Pitaia e Limão - Pet 500 ml | und | 4,68 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53939 | H2OH! – Limoneto / Limão (lata 350 ml) | und | 4,06 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -819,7 +819,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 53576 | Refrigerante Wolga Sabor Uva - Pet 2.000 ml | und | 4,62 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48441 | Xereta Sabores (PET 2 L) | und | 6,24 | 2026-11-01 (efeitos) | Port. 402/2026 |
 
-## Situação incerta (27)
+## Situação incerta (25)
 
 O valor abaixo foi o último fixado, mas há motivo para duvidar que continue valendo: o item **não aparece** numa relação completa publicada depois (pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa) ou o **código dele foi dado a outro produto** (⚠). **Não use sem confirmar na SEFAZ.**
 
@@ -830,12 +830,10 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 49775 | Fanta Sabores – Edição Limitada (lata 350 ml) | und | 3,68 | 2026-05-01 (efeitos) | Port. 170/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 51570 | Guaraná Antárctica - Multipack 2 gfs (PET 1 L) | und | 8,10 | 2025-05-01 (efeitos) | Port. 151/2025 | ⚠ o código 51570 passou a designar "Guaraná Antárctica - Kit Pet com duas Garrafas (PET 1 L)" pela Portaria nº 370/2025 (2025-11-01), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 45019 | Guaraná Kuat Diet (PET 2 L) | Und | 5,12 | 2017-10-23 (assin.) | Port. 507/2017 | ⚠ o código 45019 passou a designar "Baré (PET 2 L)" pela Portaria nº 147/2018 (2018-05-02), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 48810 | H OH 2 (PET 1,5 L) | und | 5,08 | 2017-05-05 (pub.) | Port. 222/2017 | ⚠ o código 48810 passou a designar "HOH 2 (PET 1,5 L)" pela Portaria nº 507/2017 (2017-10-23), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 48811 | H OH limão 2 (PET 500 a 600 ml) | und | 2,38 | 2017-05-05 (pub.) | Port. 222/2017 | ⚠ o código 48811 passou a designar "HOH limão 2 (PET 500 a 600 ml)" pela Portaria nº 507/2017 (2017-10-23), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48810 | H2OH (PET 1,5 L) (⚠ este código já designou: HOH 2 (PET 1,5 L)) | und | 5,36 | 2018-05-02 (pub.) | Port. 147/2018 | ⚠ o código 48810 passou a designar "HOH 2 (PET 1,5 L)" pela Portaria nº 383/2018 (2018-11-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48810 | H2OH (PET 1,5 L) (⚠ este código já designou: HOH 2 (PET 1,5 L)) | und | 6,16 | 2019-05-09 (efeitos) | Port. 286/2019 | ⚠ o código 48810 passou a designar "HOH 2 (PET 1,5 L)" pela Portaria nº 614/2019 (2019-11-12), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 48810 | HOH 2 (PET 1,5 L) (⚠ este código já designou: H OH 2 (PET 1,5 L)) | und | 5,28 | 2017-10-23 (assin.) | Port. 507/2017 | ⚠ o código 48810 passou a designar "H2OH (PET 1,5 L)" pela Portaria nº 147/2018 (2018-05-02), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| 48810 | HOH 2 (PET 1,5 L) (⚠ este código já designou: H2OH (PET 1,5 L)) | und | 6,04 | 2018-11-09 (pub.) | Port. 383/2018 | ⚠ o código 48810 passou a designar "H2OH (PET 1,5 L)" pela Portaria nº 285/2019 (2019-05-06), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
+| 48810 | HOH 2 (PET 1,5 L) | und | 5,28 | 2017-10-23 (assin.) | Port. 507/2017 | ⚠ o código 48810 passou a designar "H2OH (PET 1,5 L)" pela Portaria nº 147/2018 (2018-05-02), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
+| 48810 | HOH 2 (PET 1,5 L) (⚠ este código já designou: H2OH (PET 1,5 L)) | und | 6,04 | 2018-11-09 (pub.) | Port. 383/2018 | ⚠ o código 48810 passou a designar "H2OH (PET 1,5 L)" pela Portaria nº 285/2019 (2019-05-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48810 | HOH 2 (PET 1,5 L) (⚠ este código já designou: H2OH (PET 1,5 L)) | und | 6,19 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 48810 passou a designar "H2OH (PET 1,5 L)" pela Portaria nº 383/2021 (2021-09-22), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48733 | Indaiá Cola - 250 ml | und | 1,33 | 2019-05-09 (efeitos) | Port. 286/2019 | ⚠ o código 48733 passou a designar "Guaraná Antarctica Zero (PET 1,5 L)" pela Portaria nº 614/2019 (2019-11-12), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 48723 | Indaiá Guaraná - 250 ml | und | 1,33 | 2019-05-09 (efeitos) | Port. 286/2019 | ⚠ o código 48723 passou a designar "Pepsi Twist (PET 1,5 L)" pela Portaria nº 614/2019 (2019-11-12), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
@@ -861,7 +859,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | 1.000 ml Refrigerante Kero | 1,15 | 2006-03-29 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | 2.000 ml Refrigerante Kero | 1,55 | 2006-03-29 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | 350 ml Refrigerante Kero | 0,65 | 2006-03-29 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | 50596ro Coca Cola Zero 2000 ml - Retornavel - Pet | 4,49 | 2019-05-06 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | 50596ro Coca Cola Zero 2000 ml - Retornavel - Pet | 4,49 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Indaiá 10.000 ml | 6,50 | 2007-04-09 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Psiu – Pet 6.000 ml | 4,95 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Água Tonica Capricho Zero - Lata 350 ml | 2,00 | 2019-08-14 | substituído pelo código 50969 (Água Tônica Capricho Zero (lata 350 ml)) a partir de 2019-11-12; valeu até 2019-11-11 |
@@ -1279,7 +1277,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Outras marcas (lata 200 ml) | 1,26 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (lata até 250 ml) | 1,40 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48660 | Outras Marcas (PET 350 ml) | 3,23 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| 48921 | Outras Marcas (PET 450 ml) | 2,66 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| 48921 | Outras Marcas (PET 450 ml) | 2,66 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (PET até 250 ml) | 1,16 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (PET até 260 ml) | 1,30 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (retornável 201 a 330 ml) | 0,88 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1448,9 +1446,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Indaiá 2.000 ml | 1,83 | 2007-04-09 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá cola 1000 ml | 1,48 | 2014-06-23 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Guaraná 1000 ml | 1,43 | 2014-06-23 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Indaiá Refri Cola 1000 ml | 2,51 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Indaiá Refri Cola 1000 ml | 2,51 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Refri Cola 2000 ml | 3,20 | 2017-07-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Indaiá Refri Sabores 1000 ml | 2,50 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Indaiá Refri Sabores 1000 ml | 2,50 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Refri Sabores 2000 ml | 3,20 | 2017-07-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Sabores - PET 330 ml | 0,88 | 2007-01-17 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Sabores 1000 ml | 1,45 | 2014-06-23 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1538,7 +1536,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | REFRIGERANTE RIVER , 250 ml, Pet. | 0,45 | 2003-10-23 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | REFRIGERANTE RIVER , 600 ml. | 0,62 | 2003-10-23 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante River Cola 1000 ml | 2,34 | 2017-06-19 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante River Cola 2.000 ml | 4,10 | 2019-02-06 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante River Cola 2.000 ml | 4,10 | 2019-02-06 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante River Guaraná 1000 ml | 2,34 | 2017-06-19 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante River Laranja 1000 ml | 2,34 | 2017-06-19 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante River Mix 1000 ml | 2,34 | 2017-06-19 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1569,7 +1567,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Schweppes Color Ginger Ale - Lata ,350 ml | 3,23 | 2021-11-08 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Schweppes Tônica sem Açucar – KS Garrafa vidro 269 ml | 3,84 | 2025-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Sonho Blue 1.000 ml | 4,20 | 2024-04-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Sonho Blue 2.000 ml | 4,10 | 2019-02-06 | não consta das relações completas das Portarias nº 285/2019 (2019-05-06) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Sonho Blue 2.000 ml | 4,10 | 2019-02-06 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Sonho Blue 250 ml | 1,84 | 2024-04-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Sonho Blue 350 ml | 2,25 | 2023-05-15 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Sonho Blue 500 ml | 2,73 | 2024-04-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1853,7 +1851,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 |  | und | 50596ro Coca Cola Zero 2000 ml - Retornavel - Pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 |  | und | 50596ro Coca Cola Zero 2000 ml - Retornavel - Pet | Port. 285/2019 |
 
 ### Água Mineral Indaiá 10.000 ml (código —)
 
@@ -2132,7 +2130,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 23,03 | +4.0% | Und | Ambev sabores (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 23,36 | +1.4% | und | Ambev sabores (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 23,83 | +2.0% | und | Ambev sabores (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Ambev sabores (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Ambev sabores (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +0.0% | und | Ambev sabores (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,01 | +2.9% | und | Ambev sabores (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 25,63 | +2.5% | und | Ambev sabores (1 L) | Port. 383/2021 |
@@ -2206,7 +2204,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,58 | +14.2% | Und | AMBEV Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,62 | +1.6% | und | AMBEV Sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,77 | +5.7% | und | AMBEV Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,83 | +2.2% | und | AMBEV Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,83 | +2.2% | und | AMBEV Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,83 | +0.0% | und | AMBEV Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,89 | +2.1% | und | AMBEV Sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,00 | +3.8% | und | AMBEV Sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -2241,7 +2239,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,02 | +3.9% | Und | AMBEV sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,08 | +1.5% | und | AMBEV sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,26 | +4.4% | und | AMBEV sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,35 | +2.1% | und | AMBEV sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +2.1% | und | AMBEV sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +0.0% | und | AMBEV sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,43 | +1.8% | und | AMBEV sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,46 | +0.7% | und | AMBEV sabores (PET 1 L) | Port. 383/2021 |
@@ -2271,7 +2269,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,20 | +4.0% | Und | Ambev Sabores (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,26 | +1.4% | und | Ambev Sabores (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,80 | +12.7% | und | Ambev Sabores (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,90 | +2.1% | und | Ambev Sabores (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,90 | +2.1% | und | Ambev Sabores (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,90 | +0.0% | und | Ambev Sabores (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,93 | +0.6% | und | Ambev Sabores (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,92 | -0.2% | und | Ambev Sabores (PET 1,5 L) | Port. 383/2021 |
@@ -2294,7 +2292,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,04 | +3.1% | Und | Ambev Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,08 | +0.8% | und | Ambev Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,23 | +3.0% | und | Ambev Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,33 | +1.9% | und | Ambev Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,33 | +1.9% | und | Ambev Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,33 | +0.0% | und | Ambev Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,64 | +5.8% | und | Ambev Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,80 | +2.8% | und | Ambev Sabores (PET 2 L) | Port. 383/2021 |
@@ -2328,7 +2326,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,47 | +12.9% | Und | Ambev Sabores (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,56 | +1.4% | und | Ambev Sabores (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,63 | +1.1% | und | Ambev Sabores (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,76 | +2.0% | und | Ambev Sabores (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,76 | +2.0% | und | Ambev Sabores (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,76 | +0.0% | und | Ambev Sabores (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,96 | +3.0% | und | Ambev Sabores (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,15 | +2.7% | und | Ambev Sabores (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -2352,7 +2350,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,36 | -4.2% | Und | Ambev Sabores - 237 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,45 | +6.6% | und | Ambev Sabores - 237 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,49 | +2.8% | und | Ambev Sabores - 237 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,52 | +2.0% | und | Ambev Sabores - 237 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,52 | +2.0% | und | Ambev Sabores - 237 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,52 | +0.0% | und | Ambev Sabores - 237 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,52 | +0.0% | und | Ambev Sabores - 237 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,56 | +2.6% | und | Ambev Sabores (PET 237 ml) ⚠ | Port. 383/2021 |
@@ -2379,7 +2377,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,17 | +6.0% | Und | Ambev sabores (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Ambev sabores (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,64 | +13.0% | und | Ambev sabores (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,71 | +1.9% | und | Ambev sabores (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,71 | +1.9% | und | Ambev sabores (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,71 | +0.0% | und | Ambev sabores (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,66 | -1.3% | und | Ambev sabores (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,66 | +0.0% | und | Ambev sabores (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -2424,7 +2422,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,26 | +4.1% | Und | Ambev Sabores (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,29 | +1.3% | und | Ambev Sabores (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,29 | +0.0% | und | Ambev Sabores (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Ambev Sabores (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +2.2% | und | Ambev Sabores (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,34 | +0.0% | und | Ambev Sabores (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,77 | +18.4% | und | Ambev Sabores (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,92 | +5.4% | und | Ambev Sabores (retornável 1 L) | Port. 383/2021 |
@@ -2464,7 +2462,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,22 | +6.2% | Und | Ambev Sabores – 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Ambev Sabores – 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,55 | +13.3% | und | Ambev Sabores – 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Ambev Sabores – 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Ambev Sabores – 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +0.0% | und | Ambev Sabores – 290 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,73 | +5.0% | und | Ambev Sabores – 290 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,74 | +0.4% | und | Ambev Sabores (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -2557,7 +2555,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,00 | +14.1% | Und | American Cola (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,04 | +1.3% | und | American Cola (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,22 | +5.9% | und | American Cola (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,28 | +1.9% | und | American Cola (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,28 | +1.9% | und | American Cola (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,28 | +0.0% | und | American Cola (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,35 | +2.1% | und | American Cola (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,48 | +3.9% | und | American Cola (lata 310 a 350 ml) | Port. 383/2021 |
@@ -2580,7 +2578,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,67 | +3.1% | Und | American Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,74 | +1.5% | und | American Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,88 | +3.0% | und | American Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,98 | +2.0% | und | American Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,98 | +2.0% | und | American Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,98 | +0.0% | und | American Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,27 | +5.8% | und | American Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,42 | +2.8% | und | American Cola (PET 2 L) | Port. 383/2021 |
@@ -2614,7 +2612,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,02 | +5.8% | Und | American Cola (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,05 | +1.5% | und | American Cola (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,32 | +13.2% | und | American Cola (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,37 | +2.2% | und | American Cola (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,37 | +2.2% | und | American Cola (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,37 | +0.0% | und | American Cola (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,34 | -1.3% | und | American Cola (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,34 | +0.0% | und | American Cola (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -2646,7 +2644,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,63 | +15.4% | Und | Antarctica Tonica (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,67 | +1.5% | und | Antarctica Tonica (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,83 | +6.0% | und | Antarctica Tonica (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,89 | +2.1% | und | Antarctica Tonica (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,89 | +2.1% | und | Antarctica Tonica (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,89 | +0.0% | und | Antarctica Tonica (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,88 | -0.3% | und | Antarctica Tonica (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,96 | +2.8% | und | Antarctica Tonica (lata 310 a 350 ml) | Port. 383/2021 |
@@ -2745,7 +2743,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,61 | +3.6% | Und | Aquarius Fresh - 510 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,65 | +1.5% | und | Aquarius Fresh - 510 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,07 | +15.8% | und | Aquarius Fresh - 510 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,13 | +2.0% | und | Aquarius Fresh - 510 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,13 | +2.0% | und | Aquarius Fresh - 510 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,13 | +0.0% | und | Aquarius Fresh - 510 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,39 | +8.3% | und | Aquarius Fresh - 510 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,56 | +5.0% | und | Aquarius Fresh (PET 510 ml) ⚠ | Port. 383/2021 |
@@ -2764,7 +2762,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,37 | +5.8% | Und | Aquazero Limao Indaiá - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,40 | +1.3% | und | Aquazero Limao Indaiá - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,71 | +12.9% | und | Aquazero Limao Indaiá - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,76 | +1.8% | und | Aquazero Limao Indaiá - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,76 | +1.8% | und | Aquazero Limao Indaiá - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,76 | +0.0% | und | Aquazero Limao Indaiá - 500 ml | Port. 286/2019 |
 
 ### Aquazero Limao Minalba - 500 ml (código 49992)
@@ -2781,7 +2779,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,72 | +6.2% | Und | Aquazero Limao Minalba - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,74 | +1.2% | und | Aquazero Limao Minalba - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,97 | +13.2% | und | Aquazero Limao Minalba - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Aquazero Limao Minalba - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +2.0% | und | Aquazero Limao Minalba - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,01 | +0.0% | und | Aquazero Limao Minalba - 500 ml | Port. 286/2019 |
 
 ### Baré (PET 2 L) (código 45019)
@@ -2790,7 +2788,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,95 |  | und | Baré (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,07 | +3.0% | und | Baré (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,15 | +2.0% | und | Baré (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,15 | +2.0% | und | Baré (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,15 | +0.0% | und | Baré (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,39 | +5.8% | und | Baré (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,46 | +1.6% | und | Baré (PET 2 L) | Port. 383/2021 |
@@ -2892,7 +2890,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,72 | +13.9% | Und | Belco sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,74 | +1.2% | und | Belco sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,84 | +5.7% | und | Belco sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Belco sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Belco sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +0.0% | und | Belco sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,92 | +2.1% | und | Belco sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,99 | +3.6% | und | Belco sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -2915,7 +2913,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +3.1% | Und | Belco sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Belco sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,46 | +3.0% | und | Belco sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,53 | +2.0% | und | Belco sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,53 | +2.0% | und | Belco sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,53 | +0.0% | und | Belco sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,73 | +5.7% | und | Belco sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,83 | +2.7% | und | Belco sabores (PET 2 L) | Port. 383/2021 |
@@ -2943,7 +2941,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,35 | +14.4% | Und | Belco Sabores (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,37 | +1.5% | und | Belco Sabores (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,40 | +2.2% | und | Belco Sabores (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,43 | +2.1% | und | Belco Sabores (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,43 | +2.1% | und | Belco Sabores (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,43 | +0.0% | und | Belco Sabores (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,47 | +2.8% | und | Belco Sabores (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,51 | +2.7% | und | Belco Sabores (PET 350 ml) | Port. 383/2021 |
@@ -3030,7 +3028,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,72 | +13.9% | Und | Black Cola (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,74 | +1.2% | und | Black Cola (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,84 | +5.7% | und | Black Cola (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Black Cola (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Black Cola (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +0.0% | und | Black Cola (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,92 | +2.1% | und | Black Cola (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,99 | +3.6% | und | Black Cola (lata 310 a 350 ml) | Port. 383/2021 |
@@ -3125,7 +3123,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,11 | +0.0% | Und | Cerpa diversos sabores (retornável 355 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,13 | +1.8% | und | Cerpa diversos sabores (retornável 355 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,15 | +1.8% | und | Cerpa diversos sabores (retornável 355 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,17 | +1.7% | und | Cerpa diversos sabores (retornável 355 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,17 | +1.7% | und | Cerpa diversos sabores (retornável 355 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,17 | +0.0% | und | Cerpa diversos sabores (retornável 355 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,20 | +2.6% | und | Cerpa diversos sabores (retornável 355 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,23 | +2.5% | und | Cerpa diversos sabores – 355 ml ⚠ | Port. 383/2021 |
@@ -3352,7 +3350,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,80 | +13.9% | Und | Cerpa sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,83 | +1.7% | und | Cerpa sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,94 | +6.0% | und | Cerpa sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,98 | +2.1% | und | Cerpa sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,98 | +2.1% | und | Cerpa sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,98 | +0.0% | und | Cerpa sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | +2.5% | und | Cerpa sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,11 | +3.9% | und | Cerpa sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -3381,7 +3379,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,22 | +4.2% | Und | Cerpa Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Cerpa Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,35 | +4.4% | und | Cerpa Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Cerpa Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Cerpa Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +0.0% | und | Cerpa Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,44 | +1.7% | und | Cerpa Sabores (PET 1 L) | Port. 614/2019 |
 
@@ -3408,7 +3406,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,78 | +0.0% | Und | Cerpa sabores (PET 2 L) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,89 | +2.9% | Und | Cerpa sabores (PET 2 L) | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,07 | +4.6% | und | Cerpa sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,15 | +2.0% | und | Cerpa sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,15 | +2.0% | und | Cerpa sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,15 | +0.0% | und | Cerpa sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,39 | +5.8% | und | Cerpa sabores (PET 2 L) | Port. 614/2019 |
 
@@ -3433,7 +3431,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,61 | +5.9% | Und | Cerpa Sabores - Retornável (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,63 | +1.2% | und | Cerpa Sabores - Retornável (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,84 | +12.9% | und | Cerpa Sabores - Retornável (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Cerpa Sabores - Retornável (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Cerpa Sabores - Retornável (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +0.0% | und | Cerpa Sabores - Retornável (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,86 | -1.1% | und | Cerpa Sabores - Retornável (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,86 | +0.0% | und | Cerpa Sabores - Retornável (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -3556,7 +3554,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 23,03 | +4.0% | Und | Coca – Cola (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 23,36 | +1.4% | und | Coca – Cola (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 23,83 | +2.0% | und | Coca – Cola (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Coca – Cola (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Coca – Cola (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +0.0% | und | Coca – Cola (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,01 | +2.9% | und | Coca – Cola (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 25,63 | +2.5% | und | Coca – Cola (1 L) | Port. 383/2021 |
@@ -3606,7 +3604,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,24 | -3.9% | und | Coca cola sleek can 220 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,32 | +6.5% | und | Coca cola sleek can 220 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,58 | +19.7% | und | Coca cola sleek can 220 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,61 | +1.9% | und | Coca cola sleek can 220 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,61 | +1.9% | und | Coca cola sleek can 220 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,61 | +0.0% | und | Coca cola sleek can 220 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,73 | +7.5% | und | Coca cola sleek can 220 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,94 | +12.1% | und | Coca cola sleek can (lata 220 ml) ⚠ | Port. 383/2021 |
@@ -3641,7 +3639,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,43 | +5.2% | Und | Coca Cola (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,46 | +1.2% | und | Coca Cola (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,55 | +3.7% | und | Coca Cola (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Coca Cola (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Coca Cola (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +0.0% | und | Coca Cola (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,70 | +3.8% | und | Coca Cola (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,86 | +5.9% | und | Coca Cola (lata 310 a 350 ml) | Port. 383/2021 |
@@ -3676,7 +3674,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,16 | +3.7% | Und | Coca – Cola (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,22 | +1.4% | und | Coca – Cola (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,36 | +3.3% | und | Coca – Cola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,45 | +2.1% | und | Coca – Cola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,45 | +2.1% | und | Coca – Cola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,45 | +0.0% | und | Coca – Cola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,53 | +1.8% | und | Coca – Cola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,70 | +3.8% | und | Coca – Cola (PET 1 L) | Port. 383/2021 |
@@ -3706,7 +3704,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,38 | +4.8% | Und | Coca – Cola (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,44 | +1.4% | und | Coca – Cola (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,04 | +13.5% | und | Coca – Cola (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,14 | +2.0% | und | Coca – Cola (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,14 | +2.0% | und | Coca – Cola (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,14 | +0.0% | und | Coca – Cola (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,40 | +5.1% | und | Coca – Cola (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,41 | +0.2% | und | Coca – Cola (PET 1,5 L) | Port. 383/2021 |
@@ -3764,7 +3762,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,41 | +4.4% | Und | Coca-Cola- 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,43 | +1.4% | und | Coca-Cola- 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,48 | +3.5% | und | Coca-Cola- 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,51 | +2.0% | und | Coca-Cola- 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,51 | +2.0% | und | Coca-Cola- 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,51 | +0.0% | und | Coca-Cola- 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,56 | +3.3% | und | Coca-Cola- 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,74 | +11.5% | und | Coca-Cola (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -3797,7 +3795,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,61 | +8.0% | Und | Coca-cola (3 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,70 | +1.4% | und | Coca-cola (3 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,83 | +1.9% | und | Coca-cola (3 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,97 | +2.0% | und | Coca-cola (3 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,97 | +2.0% | und | Coca-cola (3 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,97 | +0.0% | und | Coca-cola (3 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,17 | +2.9% | und | Coca-cola (3 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,35 | +2.5% | und | Coca-Cola (3 L) | Port. 383/2021 |
@@ -3845,7 +3843,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,69 | +2.3% | Und | Coca Cola (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,73 | +1.5% | und | Coca Cola (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,99 | +9.5% | und | Coca Cola (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,05 | +2.0% | und | Coca Cola (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,05 | +2.0% | und | Coca Cola (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,05 | +0.0% | und | Coca Cola (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,27 | +7.2% | und | Coca Cola (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,43 | +4.9% | und | Coca Cola (retornável 1 L) | Port. 383/2021 |
@@ -3871,7 +3869,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,24 | -2.4% | Und | Coca Cola - 200 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,30 | +4.8% | und | Coca Cola - 200 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,61 | +23.8% | und | Coca Cola - 200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,64 | +1.9% | und | Coca Cola - 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,64 | +1.9% | und | Coca Cola - 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,64 | +0.0% | und | Coca Cola - 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,68 | +2.4% | und | Coca Cola - 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,68 | +0.0% | und | Coca Cola (retornável 200 ml) ⚠ | Port. 383/2021 |
@@ -3911,7 +3909,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,24 | +1.8% | Und | coca Cola - 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,27 | +1.3% | und | coca Cola - 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,25 | -0.9% | und | coca Cola - 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,30 | +2.2% | und | coca Cola - 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,30 | +2.2% | und | coca Cola - 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,30 | +0.0% | und | coca Cola - 290 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,38 | +3.5% | und | coca Cola - 290 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,44 | +2.5% | und | coca Cola (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -4087,7 +4085,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,99 |  | und | Coca Cola Café -220 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,99 |  | und | Coca Cola Café -220 ml | Port. 285/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,01 | +1.0% | und | Coca Cola Café -220 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,17 | +8.0% | und | Coca Cola Café (lata 220 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 2,39 | +10.1% | und | Coca Cola Café (lata 220 ml) | Port. 454/2022 |
@@ -4115,7 +4113,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 23,34 |  | und | Coca – Cola Zero (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 23,81 | +2.0% | und | Coca – Cola Zero (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 24,29 | +2.0% | und | Coca – Cola Zero (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,29 | +2.0% | und | Coca – Cola Zero (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,29 | +0.0% | und | Coca – Cola Zero (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 24,99 | +2.9% | und | Coca – Cola Zero (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 25,61 | +2.5% | und | Coca – Cola Zero (Coca Cola sem açúcar) (1 L) ⚠ | Port. 383/2021 |
@@ -4174,7 +4172,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,38 | +2.6% | Und | Coca Cola Zero (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,41 | +1.3% | und | Coca Cola Zero (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,50 | +3.7% | und | Coca Cola Zero (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,55 | +2.0% | und | Coca Cola Zero (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,55 | +2.0% | und | Coca Cola Zero (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,55 | +0.0% | und | Coca Cola Zero (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,60 | +2.0% | und | Coca Cola Zero (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,83 | +8.8% | und | Coca Cola Zero (Coca Cola sem açúcar) (lata 310 a 350 ml) ⚠ | Port. 383/2021 |
@@ -4218,7 +4216,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,33 | +4.1% | und | Coca Cola Zero (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,39 | +1.4% | und | Coca Cola Zero (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,95 | +12.8% | und | Coca Cola Zero (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,05 | +2.0% | und | Coca Cola Zero (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,05 | +2.0% | und | Coca Cola Zero (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,05 | +0.0% | und | Coca Cola Zero (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,08 | +0.6% | und | Coca Cola Zero (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,25 | +3.3% | und | Coca Cola Zero (Coca Cola sem açúcar) (PET 1,5 L) ⚠ | Port. 383/2021 |
@@ -4241,7 +4239,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,76 | +1.1% | Und | Coca Cola Zero (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,84 | +1.4% | und | Coca Cola Zero (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,29 | +7.7% | und | Coca Cola Zero (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,42 | +2.1% | und | Coca Cola Zero (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,42 | +2.1% | und | Coca Cola Zero (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,42 | +0.0% | und | Coca Cola Zero (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,84 | +6.5% | und | Coca Cola Zero (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,16 | +4.7% | und | Coca Cola Zero (Sem açúcar) (PET 2 L) ⚠ | Port. 383/2021 |
@@ -4297,7 +4295,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,12 | +2.6% | Und | Coca Cola (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,16 | +1.3% | und | Coca Cola (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,57 | +13.0% | und | Coca Cola (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,64 | +2.0% | und | Coca Cola (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,64 | +2.0% | und | Coca Cola (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,64 | +0.0% | und | Coca Cola (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,78 | +3.8% | und | Coca Cola (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,80 | +0.5% | und | Coca Cola Pet 500ml ⚠ | Port. 383/2021 |
@@ -4330,7 +4328,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,31 | +6.0% | Und | Coca Cola Zero - 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,34 | +1.3% | und | Coca Cola Zero - 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,65 | +13.2% | und | Coca Cola Zero - 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Coca Cola Zero - 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +1.9% | und | Coca Cola Zero - 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,70 | +0.0% | und | Coca Cola Zero - 290 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,83 | +4.8% | und | Coca Cola Zero - 290 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,84 | +0.4% | und | Coca Cola Zero (Coca Cola sem açúcar) (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -4434,7 +4432,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,74 | +7.3% | Und | Coca Cola (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,84 | +1.5% | und | Coca Cola (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,07 | +3.4% | und | Coca Cola (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,21 | +2.0% | und | Coca Cola (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,21 | +2.0% | und | Coca Cola (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,21 | +0.0% | und | Coca Cola (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,53 | +4.4% | und | Coca Cola (2250 a 2,5 L) | Port. 614/2019 |
 
@@ -4458,7 +4456,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,30 | -3.7% | Und | Coca Cola - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,38 | +6.2% | und | Coca Cola - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,65 | +19.6% | und | Coca Cola - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,68 | +1.8% | und | Coca Cola - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,68 | +1.8% | und | Coca Cola - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,68 | +0.0% | und | Coca Cola - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,75 | +4.2% | und | Coca Cola - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,79 | +2.3% | und | Coca Cola (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -4575,7 +4573,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,85 |  | und | Coca Cola 2000 ml Pet - Retornavel com valor embalagem | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,73 | -1.8% | und | Coca Cola 2000 ml Pet - Retornavel com valor embalagem | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,86 | +1.9% | und | Coca Cola 2000 ml - Retornavel com valor embalagem - Pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,86 | +1.9% | und | Coca Cola 2000 ml - Retornavel com valor embalagem - Pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,86 | +0.0% | und | Coca Cola 2000 ml Pet - Retornavel com valor embalagem | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,26 | +5.8% | und | Coca Cola 2000 ml - Retornavel com valor embalagem - Pet | Port. 614/2019 |
 
@@ -4585,7 +4583,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,39 |  | und | Coca Cola 2000 ml Pet - Retornavel sem valor embalagem | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,58 | +4.3% | und | Coca Cola 2000 ml Pet - Retornavel sem valor embalagem | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,67 | +2.0% | und | Coca Cola 2000 ml - Retornavel sem valor embalagem - Pet | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,67 | +2.0% | und | Coca Cola 2000 ml - Retornavel sem valor embalagem - Pet | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,67 | +0.0% | und | Coca Cola 2000 ml Pet - Retornavel sem valor embalagem | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,94 | +5.8% | und | Coca Cola 2000 ml - Retornavel sem valor embalagem - Pet | Port. 614/2019 |
 
@@ -4808,7 +4806,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,00 | -3.8% | Und | Cola Mais Sabor - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,06 | +6.0% | und | Cola Mais Sabor - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,09 | +2.8% | und | Cola Mais Sabor - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,11 | +1.8% | und | Cola Mais Sabor - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,11 | +1.8% | und | Cola Mais Sabor - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,11 | +0.0% | und | Cola Mais Sabor - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,11 | +0.0% | und | Cola Mais Sabor - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,17 | +5.4% | und | Cola Mais Sabor (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -4850,7 +4848,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,31 |  | Und | Coca zero (PET 237 a 260 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,33 | +1.5% | und | Coca zero (PET 237 a 260 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,48 | +11.3% | und | Coca zero (PET 200 a 260 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,51 | +2.0% | und | Coca zero (PET 200 a 260 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,51 | +2.0% | und | Coca zero (PET 200 a 260 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,51 | +0.0% | und | Coca zero (PET 200 a 260 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,50 | -0.7% | und | Coca zero – 250 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,76 | +17.3% | und | Coca zero (Coca Cola sem açúcar) (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -4912,7 +4910,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,87 | -4.4% | Und | Coca Cola Stevia - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,93 | +6.9% | und | Coca Cola Stevia - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,11 | +19.4% | und | Coca Cola Stevia - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,13 | +1.8% | und | Coca Cola Stevia - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,13 | +1.8% | und | Coca Cola Stevia - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,13 | +0.0% | und | Coca Cola Stevia - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,18 | +4.4% | und | Coca Cola Stevia - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,21 | +2.5% | und | Coca Cola Stevia (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -4926,7 +4924,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,84 | +32.4% | Und | Coca Cola Stevia (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,87 | +1.6% | und | Coca Cola Stevia (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,98 | +5.9% | und | Coca Cola Stevia (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,02 | +2.0% | und | Coca Cola Stevia (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,02 | +2.0% | und | Coca Cola Stevia (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,02 | +0.0% | und | Coca Cola Stevia (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,07 | +2.5% | und | Coca Cola Stevia (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,15 | +3.9% | und | Coca Cola Stevia (lata 310 a 350 ml) | Port. 383/2021 |
@@ -5029,7 +5027,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,36 | -4.2% | Und | Coca Cola Zero - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,45 | +6.6% | und | Coca Cola Zero - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,73 | +19.3% | und | Coca Cola Zero - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,76 | +1.7% | und | Coca Cola Zero - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,76 | +1.7% | und | Coca Cola Zero - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,76 | +0.0% | und | Coca Cola Zero - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,84 | +4.5% | und | Coca Cola Zero - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,89 | +2.7% | und | Coca Cola Zero (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -5129,7 +5127,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,49 |  | und | Coca Cola – 2.250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,49 |  | und | Coca Cola – 2.250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,49 | +0.0% | und | Coca Cola – 2.250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,68 | +2.9% | und | Coca Cola – 2.250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,86 | +2.7% | und | Coca Cola – 2.250 ml | Port. 383/2021 |
@@ -5147,7 +5145,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,34 |  | und | Coca zero - 220 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,36 | +1.5% | und | Coca zero - 220 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,62 | +19.1% | und | Coca zero - 220 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,65 | +1.9% | und | Coca zero - 220 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,65 | +1.9% | und | Coca zero - 220 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,65 | +0.0% | und | Coca zero - 220 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,72 | +4.2% | und | Coca zero - 220 ml | Port. 614/2019 |
 
@@ -5173,7 +5171,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,28 |  | und | Coca – Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,41 | +2.1% | und | Coca – Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,41 | +2.1% | und | Coca – Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,41 | +0.0% | und | Coca – Cola (PET 2 L) | Port. 286/2019 |
 
 ### Refrigerante Coca Cola MA - Pet 1.000 ml (código 51856)
@@ -5308,7 +5306,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,08 | +3.0% | Und | Cola Indaiá (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,14 | +1.5% | und | Cola Indaiá (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,26 | +2.9% | und | Cola Indaiá (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Cola Indaiá (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Cola Indaiá (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +0.0% | und | Cola Indaiá (PET 2 L) | Port. 286/2019 |
 
 ### Cola Light Indaiá (2 L) (código —)
@@ -5353,7 +5351,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,62 | +4.0% | Und | Cola Mais Sabor (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,66 | +1.5% | und | Cola Mais Sabor (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,78 | +4.5% | und | Cola Mais Sabor (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Cola Mais Sabor (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Cola Mais Sabor (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +0.0% | und | Cola Mais Sabor (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,89 | +1.8% | und | Cola Mais Sabor (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,91 | +0.7% | und | Cola Mais Sabor (PET 1 L) | Port. 383/2021 |
@@ -5376,7 +5374,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,74 | +3.0% | Und | Cola Mais Sabor (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,79 | +1.3% | und | Cola Mais Sabor (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +2.9% | und | Cola Mais Sabor (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Cola Mais Sabor (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Cola Mais Sabor (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | Cola Mais Sabor (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,21 | +5.8% | und | Cola Mais Sabor (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +2.9% | und | Cola Mais Sabor (PET 2 L) | Port. 383/2021 |
@@ -5407,7 +5405,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,29 | +14.2% | Und | Cola Mais Sabor (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,31 | +1.6% | und | Cola Mais Sabor (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,34 | +2.3% | und | Cola Mais Sabor (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Cola Mais Sabor (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Cola Mais Sabor (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +0.0% | und | Cola Mais Sabor (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,41 | +2.9% | und | Cola Mais Sabor (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,44 | +2.1% | und | Cola Mais Sabor (PET 350 ml) | Port. 383/2021 |
@@ -5456,7 +5454,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,87 | +14.0% | Und | Conti Cola (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,90 | +1.6% | und | Conti Cola (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,01 | +5.8% | und | Conti Cola (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,05 | +2.0% | und | Conti Cola (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,05 | +2.0% | und | Conti Cola (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,05 | +0.0% | und | Conti Cola (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,10 | +2.4% | und | Conti Cola (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,18 | +3.8% | und | Conti Cola (lata 310 a 350 ml) | Port. 383/2021 |
@@ -5479,7 +5477,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,86 | +2.9% | Und | Conti Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,92 | +1.6% | und | Conti Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,04 | +3.1% | und | Conti Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Conti Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +2.0% | und | Conti Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,12 | +0.0% | und | Conti Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,36 | +5.8% | und | Conti Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,48 | +2.8% | und | Conti Cola (PET 2 L) | Port. 383/2021 |
@@ -5503,7 +5501,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,39 | +8.0% | Und | Conti Cola (3 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,47 | +1.5% | und | Conti Cola (3 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,58 | +2.0% | und | Conti Cola (3 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,69 | +2.0% | und | Conti Cola (3 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,69 | +2.0% | und | Conti Cola (3 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,69 | +0.0% | und | Conti Cola (3 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,85 | +2.8% | und | Conti Cola (3 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,00 | +2.6% | und | Conti Cola (3 L) | Port. 383/2021 |
@@ -5527,7 +5525,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,82 | +5.8% | Und | Conti Cola (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,85 | +1.6% | und | Conti Cola (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,09 | +13.0% | und | Conti Cola (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,13 | +1.9% | und | Conti Cola (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,13 | +1.9% | und | Conti Cola (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,13 | +0.0% | und | Conti Cola (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,10 | -1.4% | und | Conti Cola (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,10 | +0.0% | und | Conti Cola (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -5550,7 +5548,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,56 | +4.1% | Und | Conti Cola (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,60 | +1.6% | und | Conti Cola (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,85 | +9.6% | und | Conti Cola (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,91 | +2.1% | und | Conti Cola (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,91 | +2.1% | und | Conti Cola (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,91 | +0.0% | und | Conti Cola (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,44 | +18.2% | und | Conti Cola (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,62 | +5.2% | und | Conti Cola (retornável 1 L) | Port. 383/2021 |
@@ -5574,7 +5572,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,10 | +6.1% | Und | Conti Cola – 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,13 | +1.4% | und | Conti Cola – 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,41 | +13.1% | und | Conti Cola – 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Conti Cola – 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +2.1% | und | Conti Cola – 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,46 | +0.0% | und | Conti Cola – 290 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,58 | +4.9% | und | Conti Cola – 290 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,59 | +0.4% | und | Conti Cola (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -5610,7 +5608,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,79 | +14.0% | Und | Conti Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,82 | +1.7% | und | Conti Sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,93 | +6.0% | und | Conti Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,97 | +2.1% | und | Conti Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,97 | +2.1% | und | Conti Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,97 | +0.0% | und | Conti Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,01 | +2.0% | und | Conti Sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,09 | +4.0% | und | Conti Sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -5633,7 +5631,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,64 | +3.1% | Und | Conti Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,69 | +1.4% | und | Conti Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,80 | +3.0% | und | Conti Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,88 | +2.1% | und | Conti Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,88 | +2.1% | und | Conti Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,88 | +0.0% | und | Conti Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,10 | +5.7% | und | Conti Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,21 | +2.7% | und | Conti Sabores (PET 2 L) | Port. 383/2021 |
@@ -5657,7 +5655,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,16 | +7.9% | Und | Conti sabores (3 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,23 | +1.4% | und | Conti sabores (3 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,33 | +1.9% | und | Conti sabores (3 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,44 | +2.1% | und | Conti sabores (3 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,44 | +2.1% | und | Conti sabores (3 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,44 | +0.0% | und | Conti sabores (3 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,60 | +2.9% | und | Conti sabores (3 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,74 | +2.5% | und | Conti sabores (3 L) | Port. 383/2021 |
@@ -5681,7 +5679,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,77 | +6.0% | Und | Conti Sabores (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,80 | +1.7% | und | Conti Sabores (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,04 | +13.3% | und | Conti Sabores (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,08 | +2.0% | und | Conti Sabores (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,08 | +2.0% | und | Conti Sabores (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,08 | +0.0% | und | Conti Sabores (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,05 | -1.4% | und | Conti Sabores (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,05 | +0.0% | und | Conti Sabores (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -5746,7 +5744,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,72 | +3.8% | Und | Cristalina Citrus (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,76 | +1.5% | und | Cristalina Citrus (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,88 | +4.3% | und | Cristalina Citrus (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Cristalina Citrus (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Cristalina Citrus (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +0.0% | und | Cristalina Citrus (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,99 | +1.7% | und | Cristalina Citrus (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,01 | +0.7% | und | Cristalina Citrus (PET 1 L) | Port. 383/2021 |
@@ -5770,7 +5768,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +3.1% | Und | Cristalina Citrus (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | Cristalina Citrus (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,47 | +3.0% | und | Cristalina Citrus (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Cristalina Citrus (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Cristalina Citrus (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +0.0% | und | Cristalina Citrus (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | +5.6% | und | Cristalina Citrus (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,84 | +2.7% | und | Cristalina Citrus (PET 2 L) | Port. 383/2021 |
@@ -5801,7 +5799,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,76 | +6.0% | Und | Cristalina Citrus (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,79 | +1.7% | und | Cristalina Citrus (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,02 | +12.8% | und | Cristalina Citrus (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Cristalina Citrus (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Cristalina Citrus (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +0.0% | und | Cristalina Citrus (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | -1.5% | und | Cristalina Citrus (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | +0.0% | und | Cristalina Citrus (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -5843,7 +5841,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,72 | +13.9% | Und | Cristalina Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,74 | +1.2% | und | Cristalina Sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,84 | +5.7% | und | Cristalina Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Cristalina Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Cristalina Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +0.0% | und | Cristalina Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,92 | +2.1% | und | Cristalina Sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,99 | +3.6% | und | Cristalina Sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -5873,7 +5871,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,83 | +4.0% | Und | Cristalina Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,87 | +1.4% | und | Cristalina Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,00 | +4.5% | und | Cristalina Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,06 | +2.0% | und | Cristalina Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,06 | +2.0% | und | Cristalina Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,06 | +0.0% | und | Cristalina Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,11 | +1.6% | und | Cristalina Sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,13 | +0.6% | und | Cristalina Sabores (PET 1 L) | Port. 383/2021 |
@@ -5896,7 +5894,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +3.1% | Und | Cristalina Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | Cristalina Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,47 | +3.0% | und | Cristalina Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Cristalina Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Cristalina Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +0.0% | und | Cristalina Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | +5.6% | und | Cristalina Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,84 | +2.7% | und | Cristalina Sabores (PET 2 L) | Port. 383/2021 |
@@ -5926,7 +5924,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,76 | +6.0% | Und | Cristalina Sabores (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,79 | +1.7% | und | Cristalina Sabores (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,02 | +12.8% | und | Cristalina Sabores (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Cristalina Sabores (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Cristalina Sabores (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +0.0% | und | Cristalina Sabores (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | -1.5% | und | Cristalina Sabores (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | +0.0% | und | Cristalina Sabores (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -5954,7 +5952,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,99 | +5.9% | Und | Cristalina Sabores - Retornavel (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,02 | +1.5% | und | Cristalina Sabores - Retornavel (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,28 | +12.9% | und | Cristalina Sabores - Retornavel (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,33 | +2.2% | und | Cristalina Sabores - Retornavel (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,33 | +2.2% | und | Cristalina Sabores - Retornavel (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,33 | +0.0% | und | Cristalina Sabores - Retornavel (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,30 | -1.3% | und | Cristalina Sabores - Retornavel (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,30 | +0.0% | und | Cristalina Sabores - Retornavel (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -6008,7 +6006,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,86 | +4.0% | Und | Cristalina Sabores Zero (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,90 | +1.4% | und | Cristalina Sabores Zero (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,03 | +4.5% | und | Cristalina Sabores Zero (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,09 | +2.0% | und | Cristalina Sabores Zero (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,09 | +2.0% | und | Cristalina Sabores Zero (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,09 | +0.0% | und | Cristalina Sabores Zero (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,14 | +1.6% | und | Cristalina Sabores Zero (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,16 | +0.6% | und | Cristalina Sabores Zero (PET 1 L) | Port. 383/2021 |
@@ -6031,7 +6029,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +3.1% | Und | Cristalina Sabores Zero (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | Cristalina Sabores Zero (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,47 | +3.0% | und | Cristalina Sabores Zero (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Cristalina Sabores Zero (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Cristalina Sabores Zero (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +0.0% | und | Cristalina Sabores Zero (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | +5.6% | und | Cristalina Sabores Zero (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,84 | +2.7% | und | Cristalina Sabores Zero (PET 2 L) | Port. 383/2021 |
@@ -6061,7 +6059,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,76 | +6.0% | Und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,79 | +1.7% | und | Cristalina Sabores Zero (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,02 | +12.8% | und | Cristalina Sabores Zero (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Cristalina Sabores Zero (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Cristalina Sabores Zero (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +0.0% | und | Cristalina Sabores Zero (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | -1.5% | und | Cristalina Sabores Zero (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | +0.0% | und | Cristalina Sabores Zero (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -6104,7 +6102,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,72 | +3.8% | Und | Cristalina Uva (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,76 | +1.5% | und | Cristalina Uva (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,88 | +4.3% | und | Cristalina Uva (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Cristalina Uva (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Cristalina Uva (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +0.0% | und | Cristalina Uva (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,99 | +1.7% | und | Cristalina Uva (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,01 | +0.7% | und | Cristalina Uva (PET 1 L) | Port. 383/2021 |
@@ -6128,7 +6126,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +3.1% | Und | Cristalina Uva (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | Cristalina Uva (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,47 | +3.0% | und | Cristalina Uva (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Cristalina Uva (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Cristalina Uva (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +0.0% | und | Cristalina Uva (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | +5.6% | und | Cristalina Uva (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,84 | +2.7% | und | Cristalina Uva (PET 2 L) | Port. 383/2021 |
@@ -6159,7 +6157,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,76 | +6.0% | Und | Cristalina Uva (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,79 | +1.7% | und | Cristalina Uva (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,02 | +12.8% | und | Cristalina Uva (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Cristalina Uva (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Cristalina Uva (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +0.0% | und | Cristalina Uva (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | -1.5% | und | Cristalina Uva (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | +0.0% | und | Cristalina Uva (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -6199,7 +6197,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,56 | +2.9% | Und | Cristo Rei (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,61 | +1.4% | und | Cristo Rei (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,72 | +3.0% | und | Cristo Rei (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Cristo Rei (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Cristo Rei (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +0.0% | und | Cristo Rei (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,01 | +5.8% | und | Cristo Rei (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,12 | +2.7% | und | Cristo Rei (PET 2 L) | Port. 383/2021 |
@@ -6524,7 +6522,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,72 | +13.9% | Und | Ducaju (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,74 | +1.2% | und | Ducaju (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,84 | +5.7% | und | Ducaju (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Ducaju (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Ducaju (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +0.0% | und | Ducaju (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,92 | +2.1% | und | Ducaju (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,99 | +3.6% | und | Ducaju (lata 310 a 350 ml) | Port. 383/2021 |
@@ -6548,7 +6546,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,56 | +4.1% | Und | Ducaju (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,60 | +1.6% | und | Ducaju (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,72 | +4.6% | und | Ducaju (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,77 | +1.8% | und | Ducaju (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,77 | +1.8% | und | Ducaju (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,77 | +0.0% | und | Ducaju (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,82 | +1.8% | und | Ducaju (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,84 | +0.7% | und | Ducaju (PET 1 L) | Port. 383/2021 |
@@ -6573,7 +6571,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,23 | +2.9% | Und | Ducaju (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,29 | +1.4% | und | Ducaju (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,42 | +3.0% | und | Ducaju (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,51 | +2.0% | und | Ducaju (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,51 | +2.0% | und | Ducaju (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,51 | +0.0% | und | Ducaju (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,77 | +5.8% | und | Ducaju (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,90 | +2.7% | und | Ducaju (PET 2 L) | Port. 383/2021 |
@@ -6598,7 +6596,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,48 | -3.9% | Und | Ducaju - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,57 | +6.1% | und | Ducaju - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,62 | +3.2% | und | Ducaju - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,65 | +1.9% | und | Ducaju - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,65 | +1.9% | und | Ducaju - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,65 | +0.0% | und | Ducaju - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,65 | +0.0% | und | Ducaju - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,73 | +4.8% | und | Ducaju (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -6683,7 +6681,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,73 | +13.8% | Und | Ehbon Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,75 | +1.2% | und | Ehbon Sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | +5.7% | und | Ehbon Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Ehbon Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Ehbon Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | Ehbon Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | +2.1% | und | Ehbon Sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,00 | +3.6% | und | Ehbon Sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -6711,7 +6709,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,39 | +4.0% | Und | Ehbon sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,44 | +1.5% | und | Ehbon sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,59 | +4.4% | und | Ehbon sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,66 | +1.9% | und | Ehbon sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,66 | +1.9% | und | Ehbon sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,66 | +0.0% | und | Ehbon sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,72 | +1.6% | und | Ehbon sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,75 | +0.8% | und | Ehbon sabores (PET 1 L) | Port. 383/2021 |
@@ -6734,7 +6732,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,74 | +3.0% | Und | Ehbon sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,79 | +1.3% | und | Ehbon sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +2.9% | und | Ehbon sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Ehbon sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Ehbon sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | Ehbon sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,21 | +5.8% | und | Ehbon sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +2.9% | und | Ehbon sabores (PET 2 L) | Port. 383/2021 |
@@ -6761,7 +6759,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,35 | +14.4% | Und | Ehbon Sabores (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,37 | +1.5% | und | Ehbon Sabores (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,40 | +2.2% | und | Ehbon Sabores (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,43 | +2.1% | und | Ehbon Sabores (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,43 | +2.1% | und | Ehbon Sabores (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,43 | +0.0% | und | Ehbon Sabores (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,47 | +2.8% | und | Ehbon Sabores (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,51 | +2.7% | und | Ehbon Sabores (PET 350 ml) | Port. 383/2021 |
@@ -6849,7 +6847,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,40 |  | Und | Fanta Guaraná (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,43 | +1.3% | und | Fanta Guaraná (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,57 | +5.8% | und | Fanta Guaraná (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,62 | +1.9% | und | Fanta Guaraná (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,62 | +1.9% | und | Fanta Guaraná (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,62 | +0.0% | und | Fanta Guaraná (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,64 | +0.8% | und | Fanta Guaraná (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,69 | +1.9% | und | Fanta Guaraná (lata 310 a 350 ml) | Port. 383/2021 |
@@ -6914,7 +6912,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,71 |  | Und | Fanta Guaraná (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,79 | +1.4% | und | Fanta Guaraná (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,18 | +6.7% | und | Fanta Guaraná (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,30 | +1.9% | und | Fanta Guaraná (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,30 | +1.9% | und | Fanta Guaraná (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,30 | +0.0% | und | Fanta Guaraná (PET 2 L) | Port. 286/2019 |
 
 ### Fanta Guaraná (PET 250 ml) (código 51260)
@@ -6937,7 +6935,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,13 |  | Und | Fanta Guaraná (PET 237 a 260 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,15 | +1.8% | und | Fanta Guaraná (PET 237 a 260 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,38 | +20.0% | und | Fanta Guaraná (PET 200 a 260 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,41 | +2.2% | und | Fanta Guaraná (PET 200 a 260 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +2.2% | und | Fanta Guaraná (PET 200 a 260 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +0.0% | und | Fanta Guaraná (PET 200 a 260 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,38 | -2.1% | und | Fanta Guaraná – 250 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,43 | +3.6% | und | Fanta Guaraná (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -6950,7 +6948,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,19 |  | und | Fanta Guaraná - 220 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,21 | +1.7% | und | Fanta Guaraná - 220 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,45 | +19.8% | und | Fanta Guaraná - 220 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,48 | +2.1% | und | Fanta Guaraná - 220 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,48 | +2.1% | und | Fanta Guaraná - 220 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,48 | +0.0% | und | Fanta Guaraná - 220 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,51 | +2.0% | und | Fanta Guaraná - 220 ml | Port. 614/2019 |
 
@@ -6960,7 +6958,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,43 |  | und | Fanta Guaraná Zero (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,57 | +5.8% | und | Fanta Guaraná Zero (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,62 | +1.9% | und | Fanta Guaraná Zero (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,62 | +1.9% | und | Fanta Guaraná Zero (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,62 | +0.0% | und | Fanta Guaraná Zero (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,68 | +2.3% | und | Fanta Guaraná Zero (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,71 | +1.1% | und | Fanta Guaraná Zero (Fanta Guaraná sem açúcar) (lata 310 a 350 ml) ⚠ | Port. 383/2021 |
@@ -6979,7 +6977,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,04 |  | und | Fanta Laranja (500 a 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,44 | +13.2% | und | Fanta Laranja (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,51 | +2.0% | und | Fanta Laranja (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,51 | +2.0% | und | Fanta Laranja (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,51 | +0.0% | und | Fanta Laranja (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,44 | -2.0% | und | Fanta Laranja (500 a 600 ml) | Port. 614/2019 |
 
@@ -7021,7 +7019,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,45 | +10.4% | Und | Fanta Laranja (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,48 | +1.2% | und | Fanta Laranja (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,54 | +2.4% | und | Fanta Laranja (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,59 | +2.0% | und | Fanta Laranja (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,59 | +2.0% | und | Fanta Laranja (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,59 | +0.0% | und | Fanta Laranja (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,59 | +0.0% | und | Fanta Laranja (lata 350 ml) | Port. 614/2019 |
 
@@ -7046,7 +7044,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,14 | +11.3% | Und | Fanta Laranja (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,20 | +1.4% | und | Fanta Laranja (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,13 | -1.7% | und | Fanta Laranja (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,21 | +1.9% | und | Fanta Laranja (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,21 | +1.9% | und | Fanta Laranja (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,21 | +0.0% | und | Fanta Laranja (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,33 | +2.9% | und | Fanta Laranja (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,32 | -0.2% | und | Fanta Laranja (PET 1 L) | Port. 383/2021 |
@@ -7074,7 +7072,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,95 | +2.6% | Und | Fanta laranja (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,01 | +1.5% | und | Fanta laranja (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,52 | +12.7% | und | Fanta laranja (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,61 | +2.0% | und | Fanta laranja (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,61 | +2.0% | und | Fanta laranja (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,61 | +0.0% | und | Fanta laranja (PET 1,5 L) | Port. 286/2019 |
 
 ### Fanta Laranja (PET 2 L) (código 49994)
@@ -7086,7 +7084,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,54 | +4.7% | Und | Fanta laranja (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,62 | +1.4% | und | Fanta laranja (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,88 | +4.6% | und | Fanta laranja (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,00 | +2.0% | und | Fanta laranja (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,00 | +2.0% | und | Fanta laranja (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,00 | +0.0% | und | Fanta laranja (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,27 | +4.5% | und | Fanta laranja (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,39 | +1.9% | und | Fanta laranja (PET 2 L) | Port. 383/2021 |
@@ -7111,7 +7109,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,98 | +7.0% | Und | Fanta laranja (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,07 | +1.5% | und | Fanta laranja (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,46 | +6.4% | und | Fanta laranja (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,59 | +2.0% | und | Fanta laranja (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,59 | +2.0% | und | Fanta laranja (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,59 | +0.0% | und | Fanta laranja (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,47 | -1.8% | und | Fanta laranja (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,65 | +2.8% | und | Fanta laranja (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -7136,7 +7134,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,19 | +0.0% | Und | Fanta laranja- 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,22 | +2.5% | und | Fanta laranja- 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,32 | +8.2% | und | Fanta laranja- 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,35 | +2.3% | und | Fanta laranja- 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,35 | +2.3% | und | Fanta laranja- 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,35 | +0.0% | und | Fanta laranja- 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,43 | +5.9% | und | Fanta laranja- 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,46 | +2.1% | und | Fanta laranja (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -7168,7 +7166,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,65 | +1.5% | Und | Fanta Laranja (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,69 | +1.5% | und | Fanta Laranja (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,15 | -20.1% | und | Fanta Laranja (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,19 | +1.9% | und | Fanta Laranja (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,19 | +1.9% | und | Fanta Laranja (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,19 | +0.0% | und | Fanta Laranja (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,08 | +40.6% | und | Fanta Laranja (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,25 | +5.5% | und | Fanta Laranja (retornável 1 L) | Port. 383/2021 |
@@ -7243,7 +7241,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,99 |  | und | Fanta laranja - Retornável - Pet (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,99 |  | und | Fanta laranja - Retornável - Pet (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,99 | +0.0% | und | Fanta laranja Pet – Retornável (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,86 | +21.8% | und | Fanta laranja - Retornável - Pet (PET 2 L) | Port. 614/2019 |
 
@@ -7339,7 +7337,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,24 | -3.9% | und | Fanta Laranja sleek can 220ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,32 | +6.5% | und | Fanta Laranja sleek can 220ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,58 | +19.7% | und | Fanta Laranja sleek can 220ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,61 | +1.9% | und | Fanta Laranja sleek can 220ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,61 | +1.9% | und | Fanta Laranja sleek can 220ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,61 | +0.0% | und | Fanta Laranja sleek can 220ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,70 | +5.6% | und | Fanta Laranja Sleek Can 220ml | Port. 614/2019 |
 
@@ -7437,7 +7435,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,00 | -87.0% | Und | Fanta Laranja (PET 500 a 600 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 23,36 | +678.7% | und | Fanta sabores (1 L) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 23,83 | +2.0% | und | Fanta sabores (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Fanta sabores (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Fanta sabores (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +0.0% | und | Fanta sabores (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,01 | +2.9% | und | Fanta sabores (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,43 | -86.3% | und | Fanta Laranja (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -7492,7 +7490,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,34 | -4.3% | Und | Fanta Sabores - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,43 | +6.7% | und | Fanta Sabores - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,71 | +19.6% | und | Fanta Sabores - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Fanta Sabores - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Fanta Sabores - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +0.0% | und | Fanta Sabores - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,81 | +4.0% | und | Fanta Sabores - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,85 | +2.2% | und | Fanta Sabores (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -7524,7 +7522,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,39 | +3.0% | Und | Fanta Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,42 | +1.3% | und | Fanta Sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,56 | +5.8% | und | Fanta Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,61 | +2.0% | und | Fanta Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,61 | +2.0% | und | Fanta Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,61 | +0.0% | und | Fanta Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,67 | +2.3% | und | Fanta Sabores (lata 350 ml) | Port. 614/2019 |
 
@@ -7560,7 +7558,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,96 | +5.0% | Und | Fanta sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,02 | +1.5% | und | Fanta sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,20 | +4.5% | und | Fanta sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,28 | +1.9% | und | Fanta sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,28 | +1.9% | und | Fanta sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,28 | +0.0% | und | Fanta sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,35 | +1.6% | und | Fanta sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | -0.5% | und | Fanta sabores (PET 1 L) | Port. 383/2021 |
@@ -7581,7 +7579,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,04 | -2.2% | und | Fanta sabores (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,23 | +4.7% | und | Fanta sabores (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,77 | +12.8% | und | Fanta sabores (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,87 | +2.1% | und | Fanta sabores (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,87 | +2.1% | und | Fanta sabores (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,87 | +0.0% | und | Fanta sabores (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,63 | -4.9% | und | Fanta sabores (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,70 | +1.5% | und | Fanta sabores (PET 1,5 L) | Port. 383/2021 |
@@ -7595,7 +7593,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,42 | +5.9% | Und | Fanta sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,50 | +1.5% | und | Fanta sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,66 | +2.9% | und | Fanta sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,77 | +1.9% | und | Fanta sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +1.9% | und | Fanta sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +0.0% | und | Fanta sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,10 | +5.7% | und | Fanta sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,27 | +2.8% | und | Fanta sabores (PET 2 L) | Port. 383/2021 |
@@ -7615,7 +7613,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,91 | +8.4% | Und | Fanta sabores (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,99 | +1.4% | und | Fanta sabores (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,05 | +1.0% | und | Fanta sabores (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,17 | +2.0% | und | Fanta sabores (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,17 | +2.0% | und | Fanta sabores (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,17 | +0.0% | und | Fanta sabores (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,35 | +2.9% | und | Fanta sabores (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,52 | +2.7% | und | Fanta sabores (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -7640,7 +7638,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,11 | +6.1% | Und | Fanta Sabores (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,15 | +1.3% | und | Fanta Sabores (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,56 | +13.0% | und | Fanta Sabores (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,63 | +2.0% | und | Fanta Sabores (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,63 | +2.0% | und | Fanta Sabores (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,63 | +0.0% | und | Fanta Sabores (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,59 | -1.1% | und | Fanta Sabores (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,51 | -2.2% | und | Fanta Sabores (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -7691,7 +7689,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,48 | +5.7% | Und | Fanta Sabores - 200 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,50 | +1.4% | und | Fanta Sabores - 200 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,70 | +13.3% | und | Fanta Sabores - 200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Fanta Sabores - 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Fanta Sabores - 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +0.0% | und | Fanta Sabores - 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,48 | +43.4% | und | Fanta Sabores - 290 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,44 | -1.6% | und | Fanta Sabores (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -7710,7 +7708,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,09 | +6.1% | Und | Fanta Sabores - 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,12 | +1.4% | und | Fanta Sabores - 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,40 | +13.2% | und | Fanta Sabores - 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,45 | +2.1% | und | Fanta Sabores - 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,45 | +2.1% | und | Fanta Sabores - 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,45 | +0.0% | und | Fanta Sabores - 290 ml | Port. 286/2019 |
 
 ### Fanta Sabores 290 ml (código —)
@@ -7785,7 +7783,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,24 | -3.9% | und | Fanta Uva sleek can 220 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,32 | +6.5% | und | Fanta Uva sleek can 220 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,58 | +19.7% | und | Fanta Uva sleek can 220 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,61 | +1.9% | und | Fanta Uva sleek can 220 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,61 | +1.9% | und | Fanta Uva sleek can 220 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,61 | +0.0% | und | Fanta Uva sleek can 220 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,66 | +3.1% | und | Fanta Uva Sleek Can 220 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,72 | +3.6% | und | Fanta Uva Sleek Can (lata 220 ml) ⚠ | Port. 383/2021 |
@@ -7819,7 +7817,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,38 | +8.2% | Und | Fanta Uva (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,41 | +1.3% | und | Fanta Uva (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,54 | +5.4% | und | Fanta Uva (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,59 | +2.0% | und | Fanta Uva (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,59 | +2.0% | und | Fanta Uva (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,59 | +0.0% | und | Fanta Uva (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,59 | +0.0% | und | Fanta Uva (lata 350 ml) | Port. 614/2019 |
 
@@ -7861,7 +7859,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,54 | +6.1% | Und | Fanta uva (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,62 | +1.4% | und | Fanta uva (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,77 | +2.7% | und | Fanta uva (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,89 | +2.1% | und | Fanta uva (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,89 | +2.1% | und | Fanta uva (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,89 | +0.0% | und | Fanta uva (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,26 | +6.3% | und | Fanta uva (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,39 | +2.1% | und | Fanta uva (PET 2 L) | Port. 383/2021 |
@@ -7885,7 +7883,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,19 | -0.8% | Und | Fanta Uva - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,23 | +3.4% | und | Fanta Uva - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,26 | +2.4% | und | Fanta Uva - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,29 | +2.4% | und | Fanta Uva - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,29 | +2.4% | und | Fanta Uva - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,29 | +0.0% | und | Fanta Uva - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,37 | +6.2% | und | Fanta Uva - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,43 | +4.4% | und | Fanta Uva (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -7980,7 +7978,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,47 | +3.0% | Und | Folia Baixa Caloria (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,52 | +1.4% | und | Folia Baixa Caloria (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,62 | +2.8% | und | Folia Baixa Caloria (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Folia Baixa Caloria (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Folia Baixa Caloria (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +0.0% | und | Folia Baixa Caloria (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,90 | +5.7% | und | Folia Baixa Caloria (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,01 | +2.8% | und | Folia Baixa Caloria (PET 2 L) | Port. 383/2021 |
@@ -8016,7 +8014,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,03 | +14.4% | Und | Folia sabores (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,04 | +1.0% | und | Folia sabores (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,06 | +1.9% | und | Folia sabores (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,08 | +1.9% | und | Folia sabores (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,08 | +1.9% | und | Folia sabores (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,08 | +0.0% | und | Folia sabores (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,11 | +2.8% | und | Folia sabores (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,14 | +2.7% | und | Folia sabores (PET 350 ml) | Port. 383/2021 |
@@ -8102,7 +8100,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,88 |  | und | Frevo Cola – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,05 | +19.3% | und | Frevo Cola – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Cola – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Cola – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +0.0% | und | Frevo Cola – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,12 | +4.7% | und | Frevo Cola – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,90 | -19.6% | und | Frevo Cola (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -8123,7 +8121,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,23 |  |  | Refrigerante Frevo Cola - Pet 1000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,26 | +1.3% | und | Frevo Cola (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,36 | +4.4% | und | Frevo Cola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,41 | +2.1% | und | Frevo Cola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,41 | +2.1% | und | Frevo Cola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,41 | +0.0% | und | Frevo Cola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,45 | +1.7% | und | Frevo Cola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,47 | +0.8% | und | Frevo Cola (PET 1 L) | Port. 383/2021 |
@@ -8144,7 +8142,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,76 |  |  | Refrigerante Frevo Cola - Pet 2000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,80 | +1.4% | und | Frevo Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,88 | +2.9% | und | Frevo Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Frevo Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +2.1% | und | Frevo Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,94 | +0.0% | und | Frevo Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,11 | +5.8% | und | Frevo Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,20 | +2.9% | und | Frevo Cola (PET 2 L) | Port. 383/2021 |
@@ -8164,7 +8162,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,88 |  | und | Frevo Guaraná – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,05 | +19.3% | und | Frevo Guaraná – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Guaraná – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Guaraná – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +0.0% | und | Frevo Guaraná – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,12 | +4.7% | und | Frevo Guaraná – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,90 | -19.6% | und | Frevo Guaraná (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -8198,7 +8196,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,22 |  |  | Refrigerante Frevo Guaraná - Pet 1000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Frevo Guaraná (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,35 | +4.4% | und | Frevo Guaraná (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Frevo Guaraná (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Frevo Guaraná (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +0.0% | und | Frevo Guaraná (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,44 | +1.7% | und | Frevo Guaraná (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,46 | +0.8% | und | Frevo Guaraná (PET 1 L) | Port. 383/2021 |
@@ -8211,7 +8209,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,75 |  |  | Refrigerante Frevo Guaraná - Pet 2000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,79 | +1.5% | und | Frevo Guaraná (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,87 | +2.9% | und | Frevo Guaraná (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,93 | +2.1% | und | Frevo Guaraná (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,93 | +2.1% | und | Frevo Guaraná (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,93 | +0.0% | und | Frevo Guaraná (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,10 | +5.8% | und | Frevo Guaraná (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,19 | +2.9% | und | Frevo Guaraná (PET 2 L) | Port. 383/2021 |
@@ -8231,7 +8229,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,88 |  | und | Frevo Laranja – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,05 | +19.3% | und | Frevo Laranja – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Laranja – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Laranja – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +0.0% | und | Frevo Laranja – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,12 | +4.7% | und | Frevo Laranja – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,90 | -19.6% | und | Frevo Laranja (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -8252,7 +8250,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,22 |  |  | Refrigerante Frevo Laranja - Pet 1000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Frevo Laranja (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,35 | +4.4% | und | Frevo Laranja (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Frevo Laranja (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Frevo Laranja (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +0.0% | und | Frevo Laranja (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,44 | +1.7% | und | Frevo Laranja (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,46 | +0.8% | und | Frevo Laranja (PET 1 L) | Port. 383/2021 |
@@ -8273,7 +8271,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,75 |  |  | Refrigerante Frevo Laranja - Pet 2000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,79 | +1.5% | und | Frevo Laranja (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,87 | +2.9% | und | Frevo Laranja (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,93 | +2.1% | und | Frevo Laranja (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,93 | +2.1% | und | Frevo Laranja (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,93 | +0.0% | und | Frevo Laranja (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,10 | +5.8% | und | Frevo Laranja (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,19 | +2.9% | und | Frevo Laranja (PET 2 L) | Port. 383/2021 |
@@ -8294,7 +8292,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,22 |  |  | Refrigerante Frevo Lima Limão - Pet 1000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Frevo Lima Limão (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,35 | +4.4% | und | Frevo Lima Limão (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Frevo Lima Limão (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Frevo Lima Limão (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +0.0% | und | Frevo Lima Limão (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,44 | +1.7% | und | Frevo Lima Limão (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,46 | +0.8% | und | Frevo Lima Limão (PET 1 L) | Port. 383/2021 |
@@ -8315,7 +8313,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,75 |  |  | Refrigerante Frevo Lima Limão - Pet 2000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,79 | +1.5% | und | Frevo Lima Limão (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,87 | +2.9% | und | Frevo Lima Limão (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,93 | +2.1% | und | Frevo Lima Limão (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,93 | +2.1% | und | Frevo Lima Limão (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,93 | +0.0% | und | Frevo Lima Limão (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,10 | +5.8% | und | Frevo Lima Limão (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,19 | +2.9% | und | Frevo Lima Limão (PET 2 L) | Port. 383/2021 |
@@ -8335,7 +8333,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,88 |  | und | Frevo Lima Limão – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,05 | +19.3% | und | Frevo Lima Limão – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Lima Limão – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Lima Limão – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +0.0% | und | Frevo Lima Limão – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,12 | +4.7% | und | Frevo Lima Limão – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,90 | -19.6% | und | Frevo Lima Limão (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -8373,7 +8371,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,28 | +14.0% | Und | Frevo sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,31 | +1.3% | und | Frevo sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,45 | +6.1% | und | Frevo sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,50 | +2.0% | und | Frevo sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,50 | +2.0% | und | Frevo sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,50 | +0.0% | und | Frevo sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,56 | +2.4% | und | Frevo sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,66 | +3.9% | und | Frevo sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -8401,7 +8399,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,39 | +4.0% | Und | Frevo Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,44 | +1.5% | und | Frevo Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,59 | +4.4% | und | Frevo Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,66 | +1.9% | und | Frevo Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,66 | +1.9% | und | Frevo Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,66 | +0.0% | und | Frevo Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,72 | +1.6% | und | Frevo Sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,75 | +0.8% | und | Frevo Sabores (PET 1 L) | Port. 383/2021 |
@@ -8429,7 +8427,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,88 |  | und | Frevo Uva – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,05 | +19.3% | und | Frevo Uva – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Uva – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +1.9% | und | Frevo Uva – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,07 | +0.0% | und | Frevo Uva – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,12 | +4.7% | und | Frevo Uva – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,90 | -19.6% | und | Frevo Uva (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -8450,7 +8448,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,22 |  |  | Refrigerante Frevo Uva - Pet 1000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Frevo Uva (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,35 | +4.4% | und | Frevo Uva (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Frevo Uva (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Frevo Uva (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +0.0% | und | Frevo Uva (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,44 | +1.7% | und | Frevo Uva (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,46 | +0.8% | und | Frevo Uva (PET 1 L) | Port. 383/2021 |
@@ -8471,7 +8469,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,75 |  |  | Refrigerante Frevo Uva - Pet 2000 ml | Port. 559/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,79 | +1.5% | und | Frevo Uva (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,87 | +2.9% | und | Frevo Uva (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,93 | +2.1% | und | Frevo Uva (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,93 | +2.1% | und | Frevo Uva (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,93 | +0.0% | und | Frevo Uva (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,10 | +5.8% | und | Frevo Uva (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,19 | +2.9% | und | Frevo Uva (PET 2 L) | Port. 383/2021 |
@@ -8568,7 +8566,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,33 | +3.1% | Und | Garoto sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,39 | +1.4% | und | Garoto sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,52 | +3.0% | und | Garoto sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,61 | +2.0% | und | Garoto sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,61 | +2.0% | und | Garoto sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,61 | +0.0% | und | Garoto sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,88 | +5.9% | und | Garoto sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,01 | +2.7% | und | Garoto sabores (PET 2 L) | Port. 383/2021 |
@@ -8596,7 +8594,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,24 | +5.9% | Und | Garoto sabores (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,29 | +1.5% | und | Garoto sabores (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,72 | +13.1% | und | Garoto sabores (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Garoto sabores (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +1.9% | und | Garoto sabores (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,79 | +0.0% | und | Garoto sabores (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | -1.3% | und | Garoto sabores (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,75 | +0.3% | und | Garoto sabores (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -8655,7 +8653,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,76 | +6.0% | Und | Goianinho - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,79 | +1.7% | und | Goianinho - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,02 | +12.8% | und | Goianinho - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Goianinho - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Goianinho - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +0.0% | und | Goianinho - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | -1.5% | und | Goianinho - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | -1.0% | und | Goianinho (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -8692,7 +8690,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,73 | +13.8% | Und | Goianinho Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,75 | +1.2% | und | Goianinho Sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | +5.7% | und | Goianinho Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Goianinho Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Goianinho Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | Goianinho Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | +2.1% | und | Goianinho Sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,00 | +3.6% | und | Goianinho Sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -8715,7 +8713,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,82 | +3.0% | Und | Goianinho sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,87 | +1.3% | und | Goianinho sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,98 | +2.8% | und | Goianinho sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,06 | +2.0% | und | Goianinho sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,06 | +2.0% | und | Goianinho sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,06 | +0.0% | und | Goianinho sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,29 | +5.7% | und | Goianinho sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,41 | +2.8% | und | Goianinho sabores (PET 2 L) | Port. 383/2021 |
@@ -8734,7 +8732,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,10 |  | und | Goob Cola Guaraná (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Cola Guaraná (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Cola Guaraná (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +0.0% | und | Goob Cola Guaraná (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | +1.9% | und | Goob Cola Guaraná (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,20 | +0.9% | und | Goob Cola Guaraná (PET 1 L) | Port. 383/2021 |
@@ -8753,7 +8751,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,18 |  | und | Goob Cola Guaraná (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Cola Guaraná (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Cola Guaraná (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +0.0% | und | Goob Cola Guaraná (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,23 | +0.5% | und | Goob Cola Guaraná (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,22 | -0.4% | und | Goob Cola Guaraná (PET 1,5 L) | Port. 383/2021 |
@@ -8772,7 +8770,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,04 |  | und | Goob Cola Guaraná (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Cola Guaraná (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Cola Guaraná (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +0.0% | und | Goob Cola Guaraná (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,28 | +5.8% | und | Goob Cola Guaraná (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +2.7% | und | Goob Cola Guaraná (PET 2 L) | Port. 383/2021 |
@@ -8793,7 +8791,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 1,91 |  |  | Refrigerante Goob Cola Guaraná 500 ml | Port. 312/2018 |
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 0,81 | -57.6% |  | Refrigerante Goob Cola Guaraná 250 ml ⚠ | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,81 | +0.0% | und | Goob Cola Guaraná - 500 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Cola Guaraná - 250 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Cola Guaraná - 250 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +0.0% | und | Goob Cola Guaraná - 500 ml ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,83 | +0.0% | und | Goob Cola Guaraná - 250 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,87 | +4.8% | und | Goob Cola Guaraná (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -8812,7 +8810,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,91 |  | und | Goob Cola Guaraná - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Cola Guaraná - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Cola Guaraná - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +0.0% | und | Goob Cola Guaraná - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | -1.0% | und | Goob Cola Guaraná - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,91 | -1.0% | und | Goob Cola Guaraná (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -8831,7 +8829,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,10 |  | und | Goob Laranja (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Laranja (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Laranja (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +0.0% | und | Goob Laranja (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | +1.9% | und | Goob Laranja (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,20 | +0.9% | und | Goob Laranja (PET 1 L) | Port. 383/2021 |
@@ -8850,7 +8848,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,18 |  | und | Goob Laranja (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Laranja (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Laranja (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +0.0% | und | Goob Laranja (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,23 | +0.5% | und | Goob Laranja (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,22 | -0.4% | und | Goob Laranja (PET 1,5 L) | Port. 383/2021 |
@@ -8869,7 +8867,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,04 |  | und | Goob Laranja (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Laranja (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Laranja (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +0.0% | und | Goob Laranja (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,28 | +5.8% | und | Goob Laranja (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +2.7% | und | Goob Laranja (PET 2 L) | Port. 383/2021 |
@@ -8883,7 +8881,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 1,91 |  |  | Refrigerante Goob Laranja 500 ml | Port. 312/2018 |
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 0,81 | -57.6% |  | Refrigerante Goob Laranja 250 ml ⚠ | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,81 | +0.0% | und | Goob Laranja - 500 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Laranja - 250 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Laranja - 250 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +0.0% | und | Goob Laranja - 500 ml ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,83 | +0.0% | und | Goob Laranja - 250 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,87 | +4.8% | und | Goob Laranja (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -8902,7 +8900,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,91 |  | und | Goob Laranja - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Laranja - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Laranja - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +0.0% | und | Goob Laranja - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | -1.0% | und | Goob Laranja - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,91 | -1.0% | und | Goob Laranja (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -8921,7 +8919,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,10 |  | und | Goob Limão (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Limão (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Limão (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +0.0% | und | Goob Limão (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | +1.9% | und | Goob Limão (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,20 | +0.9% | und | Goob Limão (PET 1 L) | Port. 383/2021 |
@@ -8940,7 +8938,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,18 |  | und | Goob Limão (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Limão (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Limão (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +0.0% | und | Goob Limão (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,23 | +0.5% | und | Goob Limão (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,22 | -0.4% | und | Goob Limão (PET 1,5 L) | Port. 383/2021 |
@@ -8959,7 +8957,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,04 |  | und | Goob Limão (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Limão (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Limão (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +0.0% | und | Goob Limão (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,28 | +5.8% | und | Goob Limão (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +2.7% | und | Goob Limão (PET 2 L) | Port. 383/2021 |
@@ -8980,7 +8978,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 1,91 |  |  | Refrigerante Goob Limão 500 ml | Port. 312/2018 |
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 0,81 | -57.6% |  | Refrigerante Goob Limão 250 ml ⚠ | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,81 | +0.0% | und | Goob Limão - 500 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Limão - 250 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Limão - 250 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +0.0% | und | Goob Limão - 500 ml ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,83 | +0.0% | und | Goob Limão - 250 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,87 | +4.8% | und | Goob Limão (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -8999,7 +8997,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,91 |  | und | Goob Limão - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Limão - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Limão - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +0.0% | und | Goob Limão - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | -1.0% | und | Goob Limão - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,91 | -1.0% | und | Goob Limão (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -9018,7 +9016,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,10 |  | und | Goob Maracujá (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Maracujá (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Maracujá (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +0.0% | und | Goob Maracujá (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | +1.9% | und | Goob Maracujá (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,20 | +0.9% | und | Goob Maracujá (PET 1 L) | Port. 383/2021 |
@@ -9037,7 +9035,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,18 |  | und | Goob Maracujá (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Maracujá (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Maracujá (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +0.0% | und | Goob Maracujá (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,23 | +0.5% | und | Goob Maracujá (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,22 | -0.4% | und | Goob Maracujá (PET 1,5 L) | Port. 383/2021 |
@@ -9056,7 +9054,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,04 |  | und | Goob Maracujá (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Maracujá (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Maracujá (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +0.0% | und | Goob Maracujá (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,28 | +5.8% | und | Goob Maracujá (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +2.7% | und | Goob Maracujá (PET 2 L) | Port. 383/2021 |
@@ -9070,7 +9068,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 1,91 |  |  | Refrigerante Goob Maracujá 500 ml | Port. 312/2018 |
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 0,81 | -57.6% |  | Refrigerante Goob Maracujá 250 ml ⚠ | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,81 | +0.0% | und | Goob Maracujá - 500 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Maracujá - 250 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Maracujá - 250 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +0.0% | und | Goob Maracujá - 500 ml ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,83 | +0.0% | und | Goob Maracujá - 250 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,87 | +4.8% | und | Goob Maracujá (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -9089,7 +9087,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,91 |  | und | Goob Maracujá - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Maracujá - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Maracujá - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +0.0% | und | Goob Maracujá - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | -1.0% | und | Goob Maracujá - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,91 | -1.0% | und | Goob Maracujá (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -9108,7 +9106,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,10 |  | und | Goob Uva (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Uva (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +1.9% | und | Goob Uva (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,14 | +0.0% | und | Goob Uva (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,18 | +1.9% | und | Goob Uva (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,20 | +0.9% | und | Goob Uva (PET 1 L) | Port. 383/2021 |
@@ -9127,7 +9125,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,18 |  | und | Goob Uva (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Uva (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +1.8% | und | Goob Uva (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,22 | +0.0% | und | Goob Uva (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,23 | +0.5% | und | Goob Uva (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,22 | -0.4% | und | Goob Uva (PET 1,5 L) | Port. 383/2021 |
@@ -9146,7 +9144,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,04 |  | und | Goob Uva (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Uva (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +2.0% | und | Goob Uva (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,10 | +0.0% | und | Goob Uva (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,28 | +5.8% | und | Goob Uva (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,37 | +2.7% | und | Goob Uva (PET 2 L) | Port. 383/2021 |
@@ -9167,7 +9165,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 1,91 |  |  | Refrigerante Goob Uva 500 ml | Port. 312/2018 |
 | 2018-09-13 (pub.) | 2018-09-06 | alterar | 0,81 | -57.6% |  | Refrigerante Goob Uva 250 ml ⚠ | Port. 312/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,81 | +0.0% | und | Goob Uva - 500 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Uva - 250 ml ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +2.5% | und | Goob Uva - 250 ml ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,83 | +0.0% | und | Goob Uva - 500 ml ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,83 | +0.0% | und | Goob Uva - 250 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 0,87 | +4.8% | und | Goob Uva (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -9186,7 +9184,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,91 |  | und | Goob Uva - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Uva - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +2.1% | und | Goob Uva - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +0.0% | und | Goob Uva - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | -1.0% | und | Goob Uva - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,91 | -1.0% | und | Goob Uva (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -9231,7 +9229,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,59 | +2.9% | Und | Granfino sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,64 | +1.4% | und | Granfino sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,75 | +3.0% | und | Granfino sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Granfino sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Granfino sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +0.0% | und | Granfino sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,05 | +5.7% | und | Granfino sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,16 | +2.7% | und | Granfino sabores (PET 2 L) | Port. 383/2021 |
@@ -9287,7 +9285,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,74 | +3.0% | Und | Grapette (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,79 | +1.3% | und | Grapette (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +2.9% | und | Grapette (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Grapette (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Grapette (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | Grapette (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,21 | +5.8% | und | Grapette (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +2.9% | und | Grapette (PET 2 L) | Port. 383/2021 |
@@ -9337,7 +9335,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 23,03 | +4.0% | Und | Guaraná Antartica (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 23,36 | +1.4% | und | Guaraná Antartica (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 23,83 | +2.0% | und | Guaraná Antartica (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Guaraná Antartica (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Guaraná Antartica (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +0.0% | und | Guaraná Antartica (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,01 | +2.9% | und | Guaraná Antartica (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 25,63 | +2.5% | und | Guaraná Antartica (1 L) | Port. 383/2021 |
@@ -9401,7 +9399,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,33 | +5.0% | Und | Guaraná Antartica (lata 350 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,36 | +1.3% | und | Guaraná Antartica (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,51 | +6.4% | und | Guaraná Antartica (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,56 | +2.0% | und | Guaraná Antartica (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,56 | +2.0% | und | Guaraná Antartica (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,56 | +0.0% | und | Guaraná Antartica (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,58 | +0.8% | und | Guaraná Antartica (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,66 | +3.1% | und | Guaraná Antartica (lata 310 a 350 ml) | Port. 383/2021 |
@@ -9428,7 +9426,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,43 | +3.3% | Und | Guaraná Antartica (PET 1 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,48 | +1.5% | und | Guaraná Antartica (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,62 | +4.0% | und | Guaraná Antartica (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Guaraná Antartica (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Guaraná Antartica (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +0.0% | und | Guaraná Antartica (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,71 | +0.5% | und | Guaraná Antartica (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,61 | -2.7% | und | Guaraná Antartica (PET 1 L) | Port. 383/2021 |
@@ -9454,7 +9452,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,99 | +4.0% | und | Guarana Antartica (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,06 | +1.4% | und | Guarana Antartica (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,70 | +12.6% | und | Guarana Antartica (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,81 | +1.9% | und | Guarana Antartica (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,81 | +1.9% | und | Guarana Antartica (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,81 | +0.0% | und | Guarana Antartica (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,23 | -10.0% | und | Guarana Antartica (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,77 | -8.8% | und | Guarana Antartica (PET 1,5 L) | Port. 383/2021 |
@@ -9477,7 +9475,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,35 | +4.3% | Und | Guaraná Antartica (PET 2 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,43 | +1.5% | und | Guaraná Antartica (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,66 | +4.2% | und | Guaraná Antartica (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,77 | +1.9% | und | Guaraná Antartica (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +1.9% | und | Guaraná Antartica (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,77 | +0.0% | und | Guaraná Antartica (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,91 | +2.4% | und | Guaraná Antartica (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,02 | +1.9% | und | Guaraná Antartica (PET 2 L) | Port. 383/2021 |
@@ -9504,7 +9502,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,10 | +13.0% | Und | Guaraná Antartica (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,19 | +1.5% | und | Guaraná Antartica (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,26 | +1.1% | und | Guaraná Antartica (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Guaraná Antartica (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Guaraná Antartica (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +0.0% | und | Guaraná Antartica (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,58 | +3.0% | und | Guaraná Antartica (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,32 | -4.0% | und | Guaraná Antartica (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -9524,7 +9522,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 1,10 |  |  | Refrigerante Guaraná Antarctica - Pet 200 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,13 | +2.7% | und | Guaraná Antártica – 200 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Guaraná Antártica – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Guaraná Antártica – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +0.0% | und | Guaraná Antártica – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,15 | +0.0% | und | Guaraná Antártica – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,23 | +7.0% | und | Guaraná Antártica (PET 200 ml) ⚠ | Port. 383/2021 |
@@ -9547,7 +9545,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,15 | -2.5% | Und | Guarana Antarctica - 237 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,21 | +5.2% | und | Guarana Antarctica - 237 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,24 | +2.5% | und | Guarana Antarctica - 237 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,26 | +1.6% | und | Guarana Antarctica - 237 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,26 | +1.6% | und | Guarana Antarctica - 237 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,26 | +0.0% | und | Guarana Antarctica - 237 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,23 | -2.4% | und | Guarana Antarctica - 237 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,26 | +2.4% | und | Guarana Antarctica (PET 237 ml) ⚠ | Port. 383/2021 |
@@ -9608,7 +9606,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,97 | +4.2% | Und | Guaraná Antartica (PET 500 a 600 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,01 | +1.3% | und | Guaraná Antartica (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,38 | +12.3% | und | Guaraná Antartica (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,45 | +2.1% | und | Guaraná Antartica (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,45 | +2.1% | und | Guaraná Antartica (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,45 | +0.0% | und | Guaraná Antartica (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,46 | +0.3% | und | Guaraná Antartica (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,43 | -0.9% | und | Guaraná Antartica (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -9631,7 +9629,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,41 | -4.4% | Und | Guaraná Antartica (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,58 | +7.1% | und | Guaraná Antartica (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,06 | -20.2% | und | Guaraná Antartica (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,10 | +1.9% | und | Guaraná Antartica (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,10 | +1.9% | und | Guaraná Antartica (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,10 | +0.0% | und | Guaraná Antartica (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,48 | +18.1% | und | Guaraná Antartica (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,61 | +5.2% | und | Guaraná Antartica (retornável 1 L) | Port. 383/2021 |
@@ -9658,7 +9656,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,14 | +7.5% | Und | Guaraná Antartica – 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,17 | +1.4% | und | Guaraná Antartica – 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,53 | +16.6% | und | Guaraná Antartica – 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,58 | +2.0% | und | Guaraná Antartica – 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,58 | +2.0% | und | Guaraná Antartica – 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,58 | +0.0% | und | Guaraná Antartica – 290 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,68 | +3.9% | und | Guaraná Antartica – 290 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,69 | +0.4% | und | Guaraná Antartica (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -9795,7 +9793,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,18 | +3.0% | Und | Guarana Antarctica açai (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,25 | +1.4% | und | Guarana Antarctica açai (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,40 | +2.9% | und | Guarana Antarctica açai (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,51 | +2.0% | und | Guarana Antarctica açai (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,51 | +2.0% | und | Guarana Antarctica açai (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,51 | +0.0% | und | Guarana Antarctica açai (PET 2 L) | Port. 286/2019 |
 
 ### Guaraná Antarctica Zero - 269ml (código 48783)
@@ -9856,7 +9854,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,88 | +4.0% | Und | Guaraná Antartica Diet (PET 1 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,94 | +1.5% | und | Guaraná Antartica Diet (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,12 | +4.6% | und | Guaraná Antartica Diet (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,20 | +1.9% | und | Guaraná Antartica Diet (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,20 | +1.9% | und | Guaraná Antartica Diet (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,20 | +0.0% | und | Guaraná Antartica Diet (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,27 | +1.7% | und | Guaraná Antartica Diet (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,30 | +0.7% | und | Guaraná Antartica Diet (PET 1 L) | Port. 383/2021 |
@@ -9895,7 +9893,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,26 | +2.9% | Und | Guaraná Antartica Diet (PET 2 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,34 | +1.5% | und | Guaraná Antartica Diet (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,50 | +3.0% | und | Guaraná Antartica Diet (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,61 | +2.0% | und | Guaraná Antartica Diet (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,61 | +2.0% | und | Guaraná Antartica Diet (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,61 | +0.0% | und | Guaraná Antartica Diet (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,93 | +5.7% | und | Guaraná Antartica Diet (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,09 | +2.7% | und | Guaraná Antartica Diet (PET 2 L) | Port. 383/2021 |
@@ -9977,7 +9975,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,34 | -4.3% | und | Guarana Antartica - 269 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,43 | +6.7% | und | Guarana Antartica - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,71 | +19.6% | und | Guarana Antartica - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Guarana Antartica - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Guarana Antartica - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +0.0% | und | Guarana Antartica - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,81 | +4.0% | und | Guarana Antartica - 269 ml | Port. 614/2019 |
 
@@ -10074,7 +10072,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,08 | +3.0% | Und | Guaraná Indaia (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,14 | +1.5% | und | Guaraná Indaia (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,26 | +2.9% | und | Guaraná Indaia (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Guaraná Indaia (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Guaraná Indaia (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +0.0% | und | Guaraná Indaia (PET 2 L) | Port. 286/2019 |
 
 ### Refrigerante Guaraná Jeneve - Lata 269 ml (código 53154)
@@ -10180,7 +10178,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 23,03 | +4.0% | Und | Guaraná Jesus (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 23,36 | +1.4% | und | Guaraná Jesus (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 23,83 | +2.0% | und | Guaraná Jesus (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Guaraná Jesus (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Guaraná Jesus (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +0.0% | und | Guaraná Jesus (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,01 | +2.9% | und | Guaraná Jesus (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 25,63 | +2.5% | und | Guaraná Jesus (1 L) | Port. 383/2021 |
@@ -10240,7 +10238,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,30 | -3.7% | und | Guaraná Jesus - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,38 | +6.2% | und | Guaraná Jesus - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,65 | +19.6% | und | Guaraná Jesus - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,68 | +1.8% | und | Guaraná Jesus - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,68 | +1.8% | und | Guaraná Jesus - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,68 | +0.0% | und | Guaraná Jesus - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,75 | +4.2% | und | Guaraná Jesus - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,79 | +2.3% | und | Guaraná Jesus (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -10253,7 +10251,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,43 | +5.2% | Und | Guaraná Jesus (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,46 | +1.2% | und | Guaraná Jesus (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,55 | +3.7% | und | Guaraná Jesus (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Guaraná Jesus (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Guaraná Jesus (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +0.0% | und | Guaraná Jesus (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,69 | +3.5% | und | Guaraná Jesus (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,86 | +6.3% | und | Guaraná Jesus (lata 310 a 350 ml) | Port. 383/2021 |
@@ -10292,7 +10290,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,10 | +5.1% | Und | Guaraná Jesus (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,16 | +1.5% | und | Guaraná Jesus (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,40 | +5.8% | und | Guaraná Jesus (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Guaraná Jesus (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Guaraná Jesus (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +0.0% | und | Guaraná Jesus (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,56 | +1.6% | und | Guaraná Jesus (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,66 | +2.2% | und | Guaraná Jesus (PET 1 L) | Port. 383/2021 |
@@ -10320,7 +10318,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,33 | +5.4% | und | Guaraná Jesus (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,39 | +1.4% | und | Guaraná Jesus (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,03 | +14.6% | und | Guaraná Jesus (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,13 | +2.0% | und | Guaraná Jesus (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,13 | +2.0% | und | Guaraná Jesus (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,13 | +0.0% | und | Guaraná Jesus (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,46 | +6.4% | und | Guaraná Jesus (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,49 | +0.5% | und | Guaraná Jesus (PET 1,5 L) | Port. 383/2021 |
@@ -10343,7 +10341,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,97 | +4.6% | Und | Guaraná Jesus (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,06 | +1.5% | und | Guaraná Jesus (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,26 | +3.3% | und | Guaraná Jesus (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Guaraná Jesus (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +2.1% | und | Guaraná Jesus (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,39 | +0.0% | und | Guaraná Jesus (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,69 | +4.7% | und | Guaraná Jesus (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,07 | +5.7% | und | Guaraná Jesus (PET 2 L) | Port. 383/2021 |
@@ -10370,7 +10368,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,50 | +4.0% | Und | Guaraná Jesus (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,59 | +1.4% | und | Guaraná Jesus (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,92 | +5.0% | und | Guaraná Jesus (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,06 | +2.0% | und | Guaraná Jesus (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,06 | +2.0% | und | Guaraná Jesus (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,06 | +0.0% | und | Guaraná Jesus (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,49 | +6.1% | und | Guaraná Jesus (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,97 | +6.4% | und | Guaraná Jesus (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -10392,7 +10390,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,40 | +6.9% | Und | Guaraná Jesus - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,42 | +1.4% | und | Guaraná Jesus - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,47 | +3.5% | und | Guaraná Jesus - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,50 | +2.0% | und | Guaraná Jesus - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,50 | +2.0% | und | Guaraná Jesus - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,50 | +0.0% | und | Guaraná Jesus - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,57 | +4.7% | und | Guaraná Jesus - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,75 | +11.5% | und | Guaraná Jesus (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -10415,7 +10413,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,12 | +2.0% | Und | Guaraná Jesus - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,16 | +1.3% | und | Guaraná Jesus - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,69 | +16.8% | und | Guaraná Jesus - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,76 | +1.9% | und | Guaraná Jesus - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,76 | +1.9% | und | Guaraná Jesus - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,76 | +0.0% | und | Guaraná Jesus - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,71 | -1.3% | und | Guaraná Jesus - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,68 | -0.8% | und | Guaraná Jesus (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -10433,7 +10431,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,28 | +6.1% | Und | Guaraná Jesus - 600 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,33 | +1.5% | und | Guaraná Jesus - 600 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,77 | +13.2% | und | Guaraná Jesus - 600 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Guaraná Jesus - 600 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Guaraná Jesus - 600 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +0.0% | und | Guaraná Jesus - 600 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,84 | -0.3% | und | Guaraná Jesus - 600 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,88 | +1.0% | und | Guaraná Jesus (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -10455,7 +10453,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,63 | +1.5% | und | Guaraná Jesus (retornável 1 L) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,69 | +2.3% | Und | Guaraná Jesus (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,73 | +1.5% | und | Guaraná Jesus (retornável 1 L) | Port. 147/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,06 | +12.1% | und | Guaraná Jesus (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,06 | +12.1% | und | Guaraná Jesus (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,06 | +0.0% | und | Guaraná Jesus (retornável 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,26 | +6.5% | und | Guaraná Jesus (retornável 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,44 | +5.5% | und | Guaraná Jesus (retornável 1 L) | Port. 383/2021 |
@@ -10481,7 +10479,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,20 | +0.0% | Und | Guaraná Jesus - 200 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,22 | +1.7% | und | Guaraná Jesus - 200 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,59 | +30.3% | und | Guaraná Jesus - 200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,62 | +1.9% | und | Guaraná Jesus - 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,62 | +1.9% | und | Guaraná Jesus - 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,62 | +0.0% | und | Guaraná Jesus - 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,70 | +4.9% | und | Guaraná Jesus - 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,69 | -0.6% | und | Guaraná Jesus (retornável 200 ml) ⚠ | Port. 383/2021 |
@@ -10508,7 +10506,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,29 | +1.8% | Und | Guaraná Jesus - 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,32 | +1.3% | und | Guaraná Jesus - 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,24 | -3.4% | und | Guaraná Jesus - 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,28 | +1.8% | und | Guaraná Jesus - 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,28 | +1.8% | und | Guaraná Jesus - 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,28 | +0.0% | und | Guaraná Jesus - 290 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,59 | +13.6% | und | Guaraná Jesus - 290 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,61 | +0.8% | und | Guaraná Jesus (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -10565,7 +10563,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 |  | und | Guaraná Jesus - Retornável - Pet (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 |  | und | Guaraná Jesus - Retornável - Pet (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +0.0% |  | Guaraná Jesus – Pet - Retornável (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,01 | +11.6% | und | Guaraná Jesus - Retornável - Pet (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,57 | +11.2% | und | Guaraná Jesus - Retornável - Pet (PET 2 L) | Port. 383/2021 |
@@ -10587,7 +10585,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,45 | +6.1% | Und | Guaraná Jesus Zero (lata 350 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,48 | +1.2% | und | Guaraná Jesus Zero (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,70 | +8.9% | und | Guaraná Jesus Zero (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,75 | +1.9% | und | Guaraná Jesus Zero (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,75 | +1.9% | und | Guaraná Jesus Zero (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,75 | +0.0% | und | Guaraná Jesus Zero (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,67 | -2.9% | und | Guaraná Jesus Zero (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,77 | +3.7% | und | Guaraná Jesus Zero (Guaraná Jesus sem açúcar) (lata 310 a 350 ml) ⚠ | Port. 383/2021 |
@@ -10692,7 +10690,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,92 | -4.0% | und | Kuat sleek can 220 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,05 | +6.8% | und | Kuat sleek can 220 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,45 | +19.5% | und | Kuat sleek can 220 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,50 | +2.0% | und | Kuat sleek can 220 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,50 | +2.0% | und | Kuat sleek can 220 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,50 | +0.0% | und | Kuat sleek can 220 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,70 | -32.0% | und | Kuat sleek can 220 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,80 | +5.9% | und | Kuat sleek can (lata 220 ml) ⚠ | Port. 383/2021 |
@@ -10714,7 +10712,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,17 | -4.1% | Und | Guaraná Kuat - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,25 | +6.8% | und | Guaraná Kuat - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,50 | +20.0% | und | Guaraná Kuat - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,53 | +2.0% | und | Guaraná Kuat - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,53 | +2.0% | und | Guaraná Kuat - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,53 | +0.0% | und | Guaraná Kuat - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,60 | +4.6% | und | Guaraná Kuat - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,64 | +2.5% | und | Guaraná Kuat (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -10739,7 +10737,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,25 | +4.2% | Und | Guaraná Kuat (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,28 | +1.3% | und | Guaraná Kuat (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,44 | +7.0% | und | Guaraná Kuat (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,49 | +2.0% | und | Guaraná Kuat (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,49 | +2.0% | und | Guaraná Kuat (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,49 | +0.0% | und | Guaraná Kuat (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,47 | -0.8% | und | Guaraná Kuat (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,47 | +0.0% | und | Guaraná Kuat (lata 310 a 350 ml) | Port. 383/2021 |
@@ -10785,7 +10783,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,68 | -1.6% | Und | Guaraná Kuat (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,83 | +4.1% | und | Guaraná Kuat (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,76 | -1.8% | und | Guaraná Kuat (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,84 | +2.1% | und | Guaraná Kuat (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,84 | +2.1% | und | Guaraná Kuat (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,84 | +0.0% | und | Guaraná Kuat (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,92 | +2.1% | und | Guaraná Kuat (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,95 | +0.8% | und | Guaraná Kuat (PET 1 L) | Port. 383/2021 |
@@ -10815,7 +10813,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,80 | +4.7% | und | Guaraná Kuat (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,85 | +1.3% | und | Guaraná Kuat (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,24 | +10.1% | und | Guaraná Kuat (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,32 | +1.9% | und | Guaraná Kuat (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +1.9% | und | Guaraná Kuat (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +0.0% | und | Guaraná Kuat (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,35 | +0.7% | und | Guaraná Kuat (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,42 | +1.6% | und | Guaraná Kuat (PET 1,5 L) | Port. 383/2021 |
@@ -10838,7 +10836,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,22 | +0.2% | Und | Guaraná Kuat (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,29 | +1.3% | und | Guaraná Kuat (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,86 | -8.1% | und | Guaraná Kuat (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,96 | +2.1% | und | Guaraná Kuat (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,96 | +2.1% | und | Guaraná Kuat (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,96 | +0.0% | und | Guaraná Kuat (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,47 | +10.3% | und | Guaraná Kuat (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,72 | +4.6% | und | Guaraná Kuat (PET 2 L) | Port. 383/2021 |
@@ -10865,7 +10863,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,53 | +13.0% | Und | Guaraná Kuat (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,62 | +1.4% | und | Guaraná Kuat (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,92 | -10.6% | und | Guaraná Kuat (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,04 | +2.0% | und | Guaraná Kuat (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,04 | +2.0% | und | Guaraná Kuat (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,04 | +0.0% | und | Guaraná Kuat (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,22 | +3.0% | und | Guaraná Kuat (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,51 | +4.7% | und | Guaraná Kuat (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -10887,7 +10885,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,18 | -1.7% | Und | Guaraná Kuat- 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,23 | +4.2% | und | Guaraná Kuat- 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,19 | -3.3% | und | Guaraná Kuat- 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,21 | +1.7% | und | Guaraná Kuat- 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,21 | +1.7% | und | Guaraná Kuat- 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,21 | +0.0% | und | Guaraná Kuat- 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,20 | -0.8% | und | Guaraná Kuat- 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,31 | +9.2% | und | Guaraná Kuat (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -10962,7 +10960,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,30 | +8.0% | Und | Guaraná Kuat - 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,33 | +1.3% | und | Guaraná Kuat - 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,64 | +13.3% | und | Guaraná Kuat - 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Guaraná Kuat - 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Guaraná Kuat - 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +0.0% | und | Guaraná Kuat - 290 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,82 | +4.8% | und | Guaraná Kuat - 290 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,83 | +0.4% | und | Guaraná Kuat (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -11096,7 +11094,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,62 | +4.0% | Und | Guaraná Mais Sabor (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,66 | +1.5% | und | Guaraná Mais Sabor (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,78 | +4.5% | und | Guaraná Mais Sabor (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Guaraná Mais Sabor (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Guaraná Mais Sabor (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +0.0% | und | Guaraná Mais Sabor (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,89 | +1.8% | und | Guaraná Mais Sabor (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,91 | +0.7% | und | Guaraná Mais Sabor (PET 1 L) | Port. 383/2021 |
@@ -11119,7 +11117,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,74 | +3.0% | Und | Guaraná Mais Sabor (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,79 | +1.3% | und | Guaraná Mais Sabor (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +2.9% | und | Guaraná Mais Sabor (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Guaraná Mais Sabor (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Guaraná Mais Sabor (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | Guaraná Mais Sabor (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,21 | +5.8% | und | Guaraná Mais Sabor (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +2.9% | und | Guaraná Mais Sabor (PET 2 L) | Port. 383/2021 |
@@ -11146,7 +11144,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,95 | -4.0% | Und | Guaraná Mais Sabor- 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,01 | +6.3% | und | Guaraná Mais Sabor- 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,04 | +3.0% | und | Guaraná Mais Sabor- 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,06 | +1.9% | und | Guaraná Mais Sabor- 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,06 | +1.9% | und | Guaraná Mais Sabor- 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,06 | +0.0% | und | Guaraná Mais Sabor- 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,06 | +0.0% | und | Guaraná Mais Sabor- 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,11 | +4.7% | und | Guaraná Mais Sabor (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -11177,7 +11175,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,29 | +14.2% | Und | Guaraná Mais Sabor (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,31 | +1.6% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,34 | +2.3% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +0.0% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,41 | +2.9% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,44 | +2.1% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 383/2021 |
@@ -11250,7 +11248,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,40 | +6.1% | Und | Guaraná River 200ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,42 | +1.4% | und | Guaraná River 200ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,61 | +13.4% | und | Guaraná River 200ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,64 | +1.9% | und | Guaraná River 200ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,64 | +1.9% | und | Guaraná River 200ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,64 | +0.0% | und | Guaraná River 200ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,72 | +4.9% | und | Guaraná River 200ml | Port. 614/2019 |
 
@@ -11282,18 +11280,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 1,34 |  | und | Guarana Tropical (retornável 200 ml) | Port. 128/2023 |
 | 2024-02-01 (pub.) | 2024-01-26 | alterar | 1,59 | +18.7% | und | Guarana Tropical (retornável 220 ml) ⚠ | Port. 31/2024 |
-
-### H OH 2 (PET 1,5 L) (código 48810)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,08 |  | und | H OH 2 (PET 1,5 L) | Port. 222/2017 |
-
-### H OH limão 2 (PET 500 a 600 ml) (código 48811)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,38 |  | und | H OH limão 2 (PET 500 a 600 ml) | Port. 222/2017 |
 
 ### H2OH (1,5 L) (código —)
 
@@ -11346,7 +11332,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,16 |  | und | H2OH (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,16 |  | und | H2OH (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,16 | +0.0% | und | H2OH (PET 1,5 L) | Port. 286/2019 |
 
 ### H2OH (PET 500 a 600 ml) (código —)
@@ -11371,10 +11357,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,59 |  | Und | HOH limão 2 (PET 500 a 600 ml) | Port. 507/2017 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,38 |  | und | H OH limão 2 (PET 500 a 600 ml) | Port. 222/2017 |
+| 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,59 | +8.8% | Und | HOH limão 2 (PET 500 a 600 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,63 | +1.5% | und | H2OH limão (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,96 | +12.5% | und | HOH limão 2 (500 a 600 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,02 | +2.0% | und | H2OH limão (500 a 600 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,02 | +2.0% | und | H2OH limão (500 a 600 ml) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,02 | +0.0% | und | H2OH limão (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,35 | +10.9% | und | HOH limão 2 (500 a 600 ml) ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,32 | -0.9% | und | H2OH limão (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -11394,7 +11381,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,62 |  | und | H2OH! - Limoneto (500 a 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,96 | +13.0% | und | HOH! - Limoneto 2 (500 a 600 ml) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,02 | +2.0% | und | H2OH! - Limoneto (500 a 600 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,02 | +2.0% | und | H2OH! - Limoneto (500 a 600 ml) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,02 | +0.0% | und | H2OH! - Limoneto (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,98 | -1.3% | und | HOH! - Limoneto 2 (500 a 600 ml) ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,95 | -1.0% | und | H2OH! - Limoneto (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -11433,7 +11420,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,28 |  | und | HOH 2 (PET 1,5 L) | Port. 507/2017 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,08 |  | und | H OH 2 (PET 1,5 L) | Port. 222/2017 |
+| 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,28 | +3.9% | und | HOH 2 (PET 1,5 L) ⚠ | Port. 507/2017 |
 
 ### HOH 2 (PET 1,5 L) (código 48810)
 
@@ -11479,7 +11467,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,90 | +2.9% | Und | Imperial Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,96 | +1.5% | und | Imperial Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,08 | +3.0% | und | Imperial Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,16 | +2.0% | und | Imperial Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,16 | +2.0% | und | Imperial Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,16 | +0.0% | und | Imperial Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,40 | +5.8% | und | Imperial Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,52 | +2.7% | und | Imperial Cola (PET 2 L) | Port. 383/2021 |
@@ -11519,7 +11507,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,61 | +3.1% | Und | Imperial Laranja (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,66 | +1.4% | und | Imperial Laranja (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,77 | +3.0% | und | Imperial Laranja (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Imperial Laranja (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Imperial Laranja (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +0.0% | und | Imperial Laranja (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,07 | +5.7% | und | Imperial Laranja (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +2.7% | und | Imperial Laranja (PET 2 L) | Port. 383/2021 |
@@ -11559,7 +11547,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,61 | +3.1% | Und | Imperial Limão (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,66 | +1.4% | und | Imperial Limão (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,77 | +3.0% | und | Imperial Limão (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Imperial Limão (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +2.1% | und | Imperial Limão (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,85 | +0.0% | und | Imperial Limão (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,07 | +5.7% | und | Imperial Limão (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,18 | +2.7% | und | Imperial Limão (PET 2 L) | Port. 383/2021 |
@@ -11593,7 +11581,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,18 | -4.1% | Und | Indaiá Cola - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,26 | +6.8% | und | Indaiá Cola - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,30 | +3.2% | und | Indaiá Cola - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,33 | +2.3% | und | Indaiá Cola - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,33 | +2.3% | und | Indaiá Cola - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,33 | +0.0% | und | Indaiá Cola - 250 ml | Port. 286/2019 |
 
 ### Indaiá Guaraná - 250 ml (código 48723)
@@ -11610,7 +11598,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,18 | -4.1% | Und | Indaiá Guaraná - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,26 | +6.8% | und | Indaiá Guaraná - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,30 | +3.2% | und | Indaiá Guaraná - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,33 | +2.3% | und | Indaiá Guaraná - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,33 | +2.3% | und | Indaiá Guaraná - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,33 | +0.0% | und | Indaiá Guaraná - 250 ml | Port. 286/2019 |
 
 ### Indaiá Laranja - 250 ml (código 48724)
@@ -11626,7 +11614,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,16 | -4.1% | Und | Indaiá Laranja - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,24 | +6.9% | und | Indaiá Laranja - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,28 | +3.2% | und | Indaiá Laranja - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,31 | +2.3% | und | Indaiá Laranja - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,31 | +2.3% | und | Indaiá Laranja - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,31 | +0.0% | und | Indaiá Laranja - 250 ml | Port. 286/2019 |
 
 ### Indaiá Limão – 250 ml (código 48670)
@@ -11642,7 +11630,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,16 | -4.1% | Und | Idaiá Limão – 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,24 | +6.9% | und | Indaiá Limão – 250 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,28 | +3.2% | und | Indaiá Limão – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,31 | +2.3% | und | Indaiá Limão – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,31 | +2.3% | und | Indaiá Limão – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,31 | +0.0% | und | Indaiá Limão – 250 ml | Port. 286/2019 |
 
 ### Indaiá Refri Cola (2 L) (código —)
@@ -11667,7 +11655,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,31 | +4.1% | Und | Indaia Refri Cola (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,36 | +1.5% | und | Indaia Refri Cola (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,51 | +4.5% | und | Indaia Refri Cola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,58 | +2.0% | und | Indaia Refri Cola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,58 | +2.0% | und | Indaia Refri Cola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,58 | +0.0% | und | Indaia Refri Cola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,90 | -19.0% | und | Indaia Refri Cola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,92 | +0.7% | und | Indaia Refri Cola (PET 1 L) | Port. 383/2021 |
@@ -11690,7 +11678,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +3.1% | Und | Indaiá Refri Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | Indaiá Refri Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,47 | +3.0% | und | Indaiá Refri Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Indaiá Refri Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Indaiá Refri Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +0.0% | und | Indaiá Refri Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | +5.6% | und | Indaiá Refri Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,84 | +2.7% | und | Indaiá Refri Cola (PET 2 L) | Port. 383/2021 |
@@ -11730,7 +11718,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,94 | -4.1% | Und | Indaia Refri Cola - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,00 | +6.4% | und | Indaia Refri Cola - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,03 | +3.0% | und | Indaia Refri Cola - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,05 | +1.9% | und | Indaia Refri Cola - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,05 | +1.9% | und | Indaia Refri Cola - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,05 | +0.0% | und | Indaia Refri Cola - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,05 | +0.0% | und | Indaia Refri Cola - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,10 | +4.8% | und | Indaia Refri Cola (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -11757,7 +11745,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,93 | -4.1% | Und | Indaia Refri cola bax Caloria - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,99 | +6.5% | und | Indaia Refri cola bax Caloria - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,02 | +3.0% | und | Indaia Refri cola bax Caloria - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,04 | +2.0% | und | Indaia Refri cola bax Caloria - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,04 | +2.0% | und | Indaia Refri cola bax Caloria - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,04 | +0.0% | und | Indaia Refri cola bax Caloria - 250 ml | Port. 286/2019 |
 
 ### Indaiá Refri Guaraná (PET 200 ml) (código 48172)
@@ -11786,7 +11774,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,93 | -4.1% | Und | Indaia Refri Guaraná - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,99 | +6.5% | und | Indaia Refri Guaraná - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,02 | +3.0% | und | Indaia Refri Guaraná - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,04 | +2.0% | und | Indaia Refri Guaraná - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,04 | +2.0% | und | Indaia Refri Guaraná - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,04 | +0.0% | und | Indaia Refri Guaraná - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,04 | +0.0% | und | Indaia Refri Guaraná - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,09 | +4.8% | und | Indaia Refri Guaraná (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -11809,7 +11797,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,94 | -4.1% | ml | Indaia Refri Guaraná bax calor - 250 (PET 237 a 260 ml) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,00 | +6.4% | und | Indaia Refri Guaraná bax calor - 250 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,03 | +3.0% | und | Indaia Refri Guaraná bax calor - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,05 | +1.9% | und | Indaia Refri Guaraná bax calor - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,05 | +1.9% | und | Indaia Refri Guaraná bax calor - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,05 | +0.0% | und | Indaia Refri Guaraná bax calor - 250 ml | Port. 286/2019 |
 
 ### Indaiá Refri Guarná Bax calor 250 ml (código —)
@@ -11869,7 +11857,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,40 | +4.0% | Und | Indaia Refri Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,45 | +1.5% | und | Indaia Refri Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,60 | +4.3% | und | Indaia Refri Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,67 | +1.9% | und | Indaia Refri Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,67 | +1.9% | und | Indaia Refri Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,67 | +0.0% | und | Indaia Refri Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,81 | -23.4% | und | Indaia Refri Sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,83 | +0.7% | und | Indaia Refri Sabores (PET 1 L) | Port. 383/2021 |
@@ -11892,7 +11880,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +3.1% | Und | Indaiá Refri Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | Indaiá Refri Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,47 | +3.0% | und | Indaiá Refri Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Indaiá Refri Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Indaiá Refri Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +0.0% | und | Indaiá Refri Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | +5.6% | und | Indaiá Refri Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,84 | +2.7% | und | Indaiá Refri Sabores (PET 2 L) | Port. 383/2021 |
@@ -11920,7 +11908,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,93 | -4.1% | Und | Indaia Refri sabores - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,99 | +6.5% | und | Indaia Refri sabores - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,02 | +3.0% | und | Indaia Refri sabores - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,04 | +2.0% | und | Indaia Refri sabores - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,04 | +2.0% | und | Indaia Refri sabores - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,04 | +0.0% | und | Indaia Refri sabores - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,04 | +0.0% | und | Indaia Refri sabores - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,09 | +4.8% | und | Indaia Refri sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -11954,7 +11942,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,81 | +13.8% | Und | Indaia Sabores (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,84 | +1.7% | und | Indaia Sabores (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,88 | +2.2% | und | Indaia Sabores (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,92 | +2.1% | und | Indaia Sabores (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,92 | +2.1% | und | Indaia Sabores (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,92 | +0.0% | und | Indaia Sabores (PET 350 ml) | Port. 286/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | +5.7% | und | Indaia Sabores (PET 350 ml) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 2,22 | +9.4% | und | Indaia Sabores (PET 350 ml) | Port. 454/2022 |
@@ -11999,7 +11987,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,08 | +3.0% | Und | Indaiá sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,14 | +1.5% | und | Indaiá sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,26 | +2.9% | und | Indaiá sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Indaiá sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +2.1% | und | Indaiá sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,35 | +0.0% | und | Indaiá sabores (PET 2 L) | Port. 286/2019 |
 
 ### Indaiá Uva – 250 ml (código 48676)
@@ -12015,7 +12003,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,16 | -4.1% | Und | Indaiá Uva – 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,24 | +6.9% | und | Indaiá Uva – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,28 | +3.2% | und | Indaiá Uva – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,31 | +2.3% | und | Indaiá Uva – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,31 | +2.3% | und | Indaiá Uva – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,31 | +0.0% | und | Indaiá Uva – 250 ml | Port. 286/2019 |
 
 ### IT ! Tonica (PET 2 L) (código 51505)
@@ -12045,7 +12033,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,81 | +3.0% | Und | It! Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,86 | +1.3% | und | It! Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,97 | +2.8% | und | It! Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,05 | +2.0% | und | It! Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,05 | +2.0% | und | It! Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,05 | +0.0% | und | It! Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,28 | +5.7% | und | It! Cola (PET 2 L) | Port. 614/2019 |
 | 2021-07-13 (pub.) | 2021-07-08 | alterar | 5,56 | +29.9% |  | Refrigerante It Cola – Pet 2.000 ml | Port. 262/2021 |
@@ -12074,7 +12062,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,66 | +1.4% | und | It! Guaraná (PET 2 L) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,77 | +3.0% | Und | It! Guaraná (PET 2 L) | Port. 507/2017 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,93 | +4.2% | und | It! Guaraná (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,01 | +2.0% | und | It! Guaraná (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,01 | +2.0% | und | It! Guaraná (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,01 | +0.0% | und | It! Guaraná (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,24 | +5.7% | und | It! Guaraná (PET 2 L) | Port. 614/2019 |
 
@@ -12114,7 +12102,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,74 | +3.0% | Und | It! Laranja (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,79 | +1.3% | und | It! Laranja (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +2.9% | und | It! Laranja (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | It! Laranja (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | It! Laranja (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | It! Laranja (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,21 | +5.8% | und | It! Laranja (PET 2 L) | Port. 614/2019 |
 | 2021-07-13 (pub.) | 2021-07-08 | alterar | 5,47 | +29.9% |  | Refrigerante It Laranja - Pet 2.000 ml | Port. 262/2021 |
@@ -12158,7 +12146,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,62 |  | und | It! Lemon Ice (PET 2 L) | Port. 397/2016 |
 | 2019-02-18 (pub.) | 2019-02-06 | incluir | 3,90 | +7.7% |  | Refrigerante It! Lemon Ice – Pet 2.000 ml | Port. 63/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | It! Lemon Ice (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | It! Lemon Ice (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | It! Lemon Ice (PET 2 L) | Port. 286/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,95 | -0.8% | und | It! Lemon Ice (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,21 | +6.6% | und | It! Lemon Ice (PET 2 L) | Port. 614/2019 |
@@ -12184,7 +12172,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,74 | +3.0% | Und | It! Limão (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,79 | +1.3% | und | It! Limão (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +2.9% | und | It! Limão (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | It! Limão (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | It! Limão (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | It! Limão (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,21 | +5.8% | und | It! Limão (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +2.9% | und | It! Limão (PET 2 L) | Port. 383/2021 |
@@ -12217,7 +12205,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,77 | +14.2% | Und | It! Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,80 | +1.7% | und | It! Sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,91 | +6.1% | und | It! Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,95 | +2.1% | und | It! Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +2.1% | und | It! Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,95 | +0.0% | und | It! Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,99 | +2.1% | und | It! Sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,07 | +4.0% | und | It! Sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -12260,7 +12248,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,96 | +14.0% | Und | Itubaina Schin (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,99 | +1.5% | und | Itubaina Schin (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,01 | +1.0% | und | Itubaina Schin (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,05 | +2.0% | und | Itubaina (lata 350 ml) ⚠ | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,05 | +2.0% | und | Itubaina (lata 350 ml) ⚠ | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,05 | +0.0% | und | Itubaina (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,10 | +2.4% | und | Itubaina (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,18 | +3.8% | und | Itubaina (lata 310 a 350 ml) | Port. 383/2021 |
@@ -12335,7 +12323,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,59 | +2.9% | Und | Jaó cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,64 | +1.4% | und | Jaó cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,75 | +3.0% | und | Jaó cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Jaó cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Jaó cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +0.0% | und | Jaó cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,05 | +5.7% | und | Jaó cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,16 | +2.7% | und | Jaó cola (PET 2 L) | Port. 383/2021 |
@@ -12368,7 +12356,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,73 | +3.0% | Und | Jaó sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,78 | +1.3% | und | Jaó sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,89 | +2.9% | und | Jaó sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,97 | +2.1% | und | Jaó sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,97 | +2.1% | und | Jaó sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,97 | +0.0% | und | Jaó sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | +5.8% | und | Jaó sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,32 | +2.9% | und | Jaó sabores (PET 2 L) | Port. 383/2021 |
@@ -12624,7 +12612,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,17 | +3.9% | Und | Kero Cola (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Kero Cola (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,36 | +4.3% | und | Kero Cola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,43 | +2.1% | und | Kero Cola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,43 | +2.1% | und | Kero Cola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,43 | +0.0% | und | Kero Cola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,49 | +1.7% | und | Kero Cola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,51 | +0.6% | und | Kero Cola (PET 1 L) | Port. 383/2021 |
@@ -12648,7 +12636,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,76 | +3.0% | Und | Kero Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,83 | +1.5% | und | Kero Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,97 | +2.9% | und | Kero Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,07 | +2.0% | und | Kero Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,07 | +2.0% | und | Kero Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,07 | +0.0% | und | Kero Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,36 | +5.7% | und | Kero Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,51 | +2.8% | und | Kero Cola (PET 2 L) | Port. 383/2021 |
@@ -12678,7 +12666,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,52 | +14.3% | Und | Kero cola (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,54 | +1.3% | und | Kero cola (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,57 | +1.9% | und | Kero cola (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,60 | +1.9% | und | Kero cola (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,60 | +1.9% | und | Kero cola (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,60 | +0.0% | und | Kero cola (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,65 | +3.1% | und | Kero cola (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,69 | +2.4% | und | Kero cola (PET 350 ml) | Port. 383/2021 |
@@ -12719,7 +12707,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,91 | +3.9% | Und | Kero Jah Guarana (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,95 | +1.4% | und | Kero Jah Guarana (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,08 | +4.4% | und | Kero Jah Guarana (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,14 | +1.9% | und | Kero Jah Guarana (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,14 | +1.9% | und | Kero Jah Guarana (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,14 | +0.0% | und | Kero Jah Guarana (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,19 | +1.6% | und | Kero Jah Guarana (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,21 | +0.6% | und | Kero Jah Guarana (PET 1 L) | Port. 383/2021 |
@@ -12789,8 +12777,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,08 | -4.3% | und | Kero sabores (PET 1 L) | Port. 383/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,36 | +9.1% | und | Kero Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,14 | -6.5% | und | Kero sabores (PET 1 L) | Port. 285/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,43 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,14 | -6.5% | und | Kero sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,43 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,14 | -8.5% | und | Kero sabores (PET 1 L) | Port. 286/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,43 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,19 | -7.0% | und | Kero sabores (PET 1 L) | Port. 614/2019 |
@@ -12804,7 +12792,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,89 | +2.9% | Und | Kero sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,95 | +1.5% | und | Kero sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,07 | +3.0% | und | Kero sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,15 | +2.0% | und | Kero sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,15 | +2.0% | und | Kero sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,15 | +0.0% | und | Kero sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,39 | +5.8% | und | Kero sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,51 | +2.7% | und | Kero sabores (PET 2 L) | Port. 383/2021 |
@@ -12826,7 +12814,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,39 | +3.1% | Und | Kero Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,45 | +1.4% | und | Kero Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,58 | +2.9% | und | Kero Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,67 | +2.0% | und | Kero Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,67 | +2.0% | und | Kero Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,67 | +0.0% | und | Kero Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,94 | +5.8% | und | Kero Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,08 | +2.8% | und | Kero Sabores (PET 2 L) | Port. 383/2021 |
@@ -12863,7 +12851,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,52 | +14.3% | Und | Kero sabores (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,54 | +1.3% | und | Kero sabores (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,57 | +1.9% | und | Kero sabores (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,60 | +1.9% | und | Kero sabores (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,60 | +1.9% | und | Kero sabores (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,60 | +0.0% | und | Kero sabores (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,65 | +3.1% | und | Kero sabores (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,69 | +2.4% | und | Kero sabores (PET 350 ml) | Port. 383/2021 |
@@ -12902,7 +12890,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,06 |  | und | Guaraná Ki-Tubaina (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,06 |  | und | Guaraná Ki-Tubaina (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,06 | +0.0% | und | Guaraná Ki-Tubaina (PET 2 L) | Port. 286/2019 |
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,89 | -28.8% |  | Refrigerante Ki-Tubaina Guaraná – Pet 2.000 ml | Port. 496/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,29 | +48.4% | und | Guaraná Ki-Tubaina (PET 2 L) | Port. 614/2019 |
@@ -13074,7 +13062,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,03 | +4.1% | Und | Mate Couro (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,07 | +1.3% | und | Mate Couro (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,21 | +4.6% | und | Mate Couro (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Mate Couro (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +1.9% | und | Mate Couro (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,27 | +0.0% | und | Mate Couro (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,33 | +1.8% | und | Mate Couro (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,35 | +0.6% | und | Mate Couro (PET 1 L) | Port. 383/2021 |
@@ -13097,7 +13085,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +2.9% | Und | Mate couro (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Mate couro (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,41 | +3.0% | und | Mate couro (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Mate couro (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Mate couro (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +0.0% | und | Mate couro (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,76 | +5.8% | und | Mate couro (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,89 | +2.7% | und | Mate couro (PET 2 L) | Port. 383/2021 |
@@ -13619,7 +13607,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,76 | +3.0% | Und | Orange (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,81 | +1.3% | und | Orange (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,92 | +2.9% | und | Orange (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,00 | +2.0% | und | Orange (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,00 | +2.0% | und | Orange (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,00 | +0.0% | und | Orange (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,23 | +5.8% | und | Orange (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,35 | +2.8% | und | Orange (PET 2 L) | Port. 383/2021 |
@@ -13653,7 +13641,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,02 | +5.8% | Und | Orange (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,05 | +1.5% | und | Orange (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,32 | +13.2% | und | Orange (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,37 | +2.2% | und | Orange (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,37 | +2.2% | und | Orange (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,37 | +0.0% | und | Orange (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,34 | -1.3% | und | Orange (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,34 | +0.0% | und | Orange (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -13676,7 +13664,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,73 | +13.8% | Und | Orange Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,75 | +1.2% | und | Orange Sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | +5.7% | und | Orange Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Orange Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Orange Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | Orange Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | +2.1% | und | Orange Sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,00 | +3.6% | und | Orange Sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -13710,7 +13698,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 9,15 | +13.0% | Und | Outra marcas (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 9,28 | +1.4% | und | Outra marcas (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 9,38 | +1.1% | und | Outra marcas (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 9,57 | +2.0% | und | Outra marcas (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,57 | +2.0% | und | Outra marcas (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 9,57 | +0.0% | und | Outra marcas (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 9,60 | +0.3% | und | Outras Marcas (2250 a 2,5 L) ⚠ | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 9,85 | +2.6% | und | Outra marcas (2250 a 2,5 L) ⚠ | Port. 614/2019 |
@@ -13744,7 +13732,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 27,09 | +4.0% | Und | Outras Marcas (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 27,48 | +1.4% | und | Outras Marcas (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 28,03 | +2.0% | und | Outras Marcas (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 28,59 | +2.0% | und | Outras Marcas (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 28,59 | +2.0% | und | Outras Marcas (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 28,59 | +0.0% | und | Outras Marcas (1 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 28,60 | +0.0% | und | Outras Marcas (1 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 29,42 | +2.9% | und | Outras Marcas (1 L) | Port. 614/2019 |
@@ -13820,7 +13808,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 1,99 | +1.5% | und | Outras marcas (500 a 600 ml) | Port. 469/2010 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,83 | +142.7% | und | Outras marcas (500 a 600 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,46 | +13.0% | und | Outras marcas (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,57 | +2.0% | und | Outras marcas (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,57 | +2.0% | und | Outras marcas (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,57 | +0.0% | und | Outras marcas (500 a 600 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 5,60 | +0.5% | und | Outras marcas (500 a 600 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,50 | -1.8% | und | Outras marcas (500 a 600 ml) | Port. 614/2019 |
@@ -13949,7 +13937,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,34 | +13.9% | Und | Outras marcas (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,40 | +1.4% | und | Outras marcas (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,66 | +5.9% | und | Outras marcas (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,75 | +1.9% | und | Outras marcas (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,75 | +1.9% | und | Outras marcas (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,75 | +0.0% | und | Outras marcas (lata 350 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 4,80 | +1.1% | und | Outras Marcas (lata 350 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,86 | +1.3% | und | Outras marcas (lata 350 ml) | Port. 614/2019 |
@@ -13997,7 +13985,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,48 | +4.0% | Und | Outras marcas (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,56 | +1.5% | und | Outras marcas (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,81 | +4.5% | und | Outras marcas (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,93 | +2.1% | und | Outras marcas (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,93 | +2.1% | und | Outras marcas (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,93 | +0.0% | und | Outras marcas (PET 1 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 6,50 | +9.6% | und | Outras marcas (PET 1 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,03 | -7.2% | und | Outras marcas (PET 1 L) | Port. 614/2019 |
@@ -14030,7 +14018,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,45 | +4.0% | und | Outras Marcas (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,54 | +1.4% | und | Outras Marcas (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,37 | +12.7% | und | Outras Marcas (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,52 | +2.0% | und | Outras Marcas (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,52 | +2.0% | und | Outras Marcas (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,52 | +0.0% | und | Outras Marcas (PET 1,5 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 8,20 | +9.0% | und | Outras Marcas (PET 1,5 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,56 | -7.8% | und | Outras Marcas (PET 1,5 L) | Port. 614/2019 |
@@ -14054,7 +14042,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,20 | +3.0% | Und | Outras Marcas (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,30 | +1.4% | und | Outras Marcas (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,52 | +3.0% | und | Outras Marcas (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,67 | +2.0% | und | Outras Marcas (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,67 | +2.0% | und | Outras Marcas (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,67 | +0.0% | und | Outras Marcas (PET 2 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 8,50 | +10.8% | und | Outras Marcas (PET 2 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 8,11 | -4.6% | und | Outras Marcas (PET 2 L) | Port. 614/2019 |
@@ -14103,7 +14091,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,00 | -3.8% | Und | Outras marcas – 237 a 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,13 | +6.5% | und | Outras marcas – 237 a 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,19 | +2.8% | und | Outras marcas – 200 a 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Outras marcas – 200 a 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +1.8% | und | Outras marcas – 200 a 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,23 | +0.0% | und | Outras marcas – 200 a 250 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 2,50 | +12.1% | und | Outras marcas – 200 a 250 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,23 | -10.8% | und | Outras marcas – 200 a 250 ml | Port. 614/2019 |
@@ -14166,7 +14154,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,35 | +14.1% | Und | Outras Marcas (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,38 | +1.3% | und | Outras Marcas (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,43 | +2.1% | und | Outras Marcas (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,48 | +2.1% | und | Outras Marcas (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,48 | +2.1% | und | Outras Marcas (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,48 | +0.0% | und | Outras Marcas (PET 350 ml) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 2,50 | +0.8% | und | Outras Marcas (PET 350 ml) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,55 | +2.0% | und | Outras Marcas (PET 350 ml) | Port. 614/2019 |
@@ -14276,7 +14264,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,83 | +4.0% | Und | Outras Marcas (retornável 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,87 | +1.4% | und | Outras Marcas (retornável 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,15 | +9.8% | und | Outras Marcas (retornável 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,21 | +1.9% | und | Outras Marcas (retornável 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,21 | +1.9% | und | Outras Marcas (retornável 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,21 | +0.0% | und | Outras Marcas (retornável 1 L) | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 4,50 | +40.2% | und | Outras Marcas (retornável 1 L) | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,79 | -15.8% | und | Outras Marcas (retornável 1 L) | Port. 614/2019 |
@@ -14327,7 +14315,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,84 | +6.0% | Und | Outras Marcas – 200 a 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,88 | +1.4% | und | Outras Marcas – 200 a 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,26 | +13.2% | und | Outras Marcas – 200 a 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,33 | +2.1% | und | Outras Marcas – 200 a 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,33 | +2.1% | und | Outras Marcas – 200 a 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,33 | +0.0% | und | Outras Marcas – 200 a 290 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 3,50 | +5.1% | und | Outras Marcas – 200 a 290 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,49 | -0.3% | und | Outras Marcas – 200 a 290 ml | Port. 614/2019 |
@@ -14395,7 +14383,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,73 | -3.9% | und | Outras Marcas - até 270 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,85 | +6.9% | und | Outras Marcas - até 270 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,21 | +19.5% | und | Outras Marcas - até 270 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,25 | +1.8% | und | Outras Marcas - até 270 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,25 | +1.8% | und | Outras Marcas - até 270 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,25 | +0.0% | und | Outras Marcas - até 270 ml | Port. 286/2019 |
 | 2019-05-30 (pub.) | 2019-05-21 | alterar | 2,50 | +11.1% | und | Outras Marcas - até 270 ml | Port. 319/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,35 | -6.0% | und | Outras Marcas - até 270 ml | Port. 614/2019 |
@@ -14545,7 +14533,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 23,03 | +4.0% | Und | Pepsi Cola (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 23,36 | +1.4% | und | Pepsi Cola (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 23,83 | +2.0% | und | Pepsi Cola (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Pepsi Cola (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Pepsi Cola (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +0.0% | und | Pepsi Cola (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,01 | +2.9% | und | Pepsi Cola (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 25,63 | +2.5% | und | Pepsi Cola (1 L) | Port. 383/2021 |
@@ -14612,7 +14600,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,34 | -4.3% | und | Pepsi Cola 269ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,43 | +6.7% | und | Pepsi Cola 269ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,71 | +19.6% | und | Pepsi Cola 269ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Pepsi Cola 269ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Pepsi Cola 269ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +0.0% | und | Pepsi Cola 269ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,81 | +4.0% | und | Pepsi Cola 269ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,85 | +2.2% | und | Pepsi Cola (lata 269 ml) ⚠ | Port. 383/2021 |
@@ -14660,7 +14648,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,32 | +5.9% | Und | Pepsi Cola (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,35 | +1.3% | und | Pepsi Cola (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,56 | +8.9% | und | Pepsi Cola (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,61 | +2.0% | und | Pepsi Cola (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,61 | +2.0% | und | Pepsi Cola (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,61 | +0.0% | und | Pepsi Cola (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,56 | -1.9% | und | Pepsi Cola (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,64 | +3.1% | und | Pepsi Cola (lata 310 a 350 ml) | Port. 383/2021 |
@@ -14695,7 +14683,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,38 | +1.8% | Und | Pepsi Cola (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,43 | +1.5% | und | Pepsi Cola (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,84 | +12.0% | und | Pepsi Cola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Pepsi Cola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Pepsi Cola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +0.0% | und | Pepsi Cola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,72 | -5.1% | und | Pepsi Cola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,58 | -3.8% | und | Pepsi Cola (PET 1 L) | Port. 383/2021 |
@@ -14725,7 +14713,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,25 | +3.9% | und | Pepsi Cola (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,31 | +1.4% | und | Pepsi Cola (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,86 | +12.8% | und | Pepsi Cola (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,96 | +2.1% | und | Pepsi Cola (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,96 | +2.1% | und | Pepsi Cola (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,96 | +0.0% | und | Pepsi Cola (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,99 | +0.6% | und | Pepsi Cola (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,98 | -0.2% | und | Pepsi Cola (PET 1,5 L) | Port. 383/2021 |
@@ -14748,7 +14736,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,12 | +1.2% | Und | Pepsi Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,19 | +1.4% | und | Pepsi Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,42 | +4.4% | und | Pepsi Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,53 | +2.0% | und | Pepsi Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,53 | +2.0% | und | Pepsi Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,53 | +0.0% | und | Pepsi Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,86 | +6.0% | und | Pepsi Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,85 | -0.2% | und | Pepsi Cola (PET 2 L) | Port. 383/2021 |
@@ -14781,7 +14769,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,90 | +12.9% | Und | Pepsi (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 7,00 | +1.4% | und | Pepsi (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 7,07 | +1.0% | und | Pepsi (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 7,21 | +2.0% | und | Pepsi (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,21 | +2.0% | und | Pepsi (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 7,21 | +0.0% | und | Pepsi (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,42 | +2.9% | und | Pepsi (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,62 | +2.7% | und | Pepsi (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -14801,7 +14789,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 1,10 |  |  | Refrigerante Pepsi Cola - Pet 200 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,13 | +2.7% | und | Pepsi Cola – 200 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Pepsi Cola – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Pepsi Cola – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +0.0% | und | Pepsi Cola – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,15 | +0.0% | und | Pepsi Cola – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,19 | +3.5% | und | Pepsi Cola (PET 200 ml) ⚠ | Port. 383/2021 |
@@ -14829,7 +14817,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,14 | -0.9% | Und | Pepsi Cola - 237 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,18 | +3.5% | und | Pepsi Cola - 237 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,21 | +2.5% | und | Pepsi Cola – 237 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,23 | +1.7% | und | Pepsi Cola – 237 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,23 | +1.7% | und | Pepsi Cola – 237 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,23 | +0.0% | und | Pepsi Cola – 237 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,19 | -3.3% | und | Pepsi Cola – 237 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,22 | +2.5% | und | Pepsi Cola (PET 237 ml) ⚠ | Port. 383/2021 |
@@ -14899,7 +14887,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,39 | +6.2% | Und | Pepsi Cola (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,42 | +1.3% | und | Pepsi Cola (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,74 | +13.2% | und | Pepsi Cola (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,79 | +1.8% | und | Pepsi Cola (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,79 | +1.8% | und | Pepsi Cola (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,79 | +0.0% | und | Pepsi Cola (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,76 | -1.1% | und | Pepsi Cola (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,76 | +0.0% | und | Pepsi Cola (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -14941,7 +14929,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,12 | +6.0% | Und | Pepsi Cola - 284 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,15 | +1.4% | und | Pepsi Cola - 284 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,43 | +13.0% | und | Pepsi Cola - 284 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,48 | +2.1% | und | Pepsi Cola - 284 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,48 | +2.1% | und | Pepsi Cola - 284 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,48 | +0.0% | und | Pepsi Cola - 284 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,60 | +4.8% | und | Pepsi Cola - 284 ml | Port. 614/2019 |
 
@@ -15027,7 +15015,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,29 | +1.8% | Und | Pepsi twist (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,32 | +1.3% | und | Pepsi twist (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,46 | +6.0% | und | Pepsi twist (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,51 | +2.0% | und | Pepsi twist (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,51 | +2.0% | und | Pepsi twist (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,51 | +0.0% | und | Pepsi twist (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,55 | +1.6% | und | Pepsi twist (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,65 | +3.9% | und | Pepsi twist (lata 310 a 350 ml) | Port. 383/2021 |
@@ -15062,7 +15050,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,54 | +4.1% | Und | Pepsi twist (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,59 | +1.4% | und | Pepsi twist (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,75 | +4.5% | und | Pepsi twist (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Pepsi twist (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Pepsi twist (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +0.0% | und | Pepsi twist (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,90 | +1.8% | und | Pepsi twist (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,93 | +0.8% | und | Pepsi twist (PET 1 L) | Port. 383/2021 |
@@ -15101,7 +15089,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,16 | +3.2% | Und | Pepsi twist (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,23 | +1.4% | und | Pepsi twist (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,43 | +3.8% | und | Pepsi twist (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,54 | +2.0% | und | Pepsi twist (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,54 | +2.0% | und | Pepsi twist (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,54 | +0.0% | und | Pepsi twist (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,84 | +5.4% | und | Pepsi twist (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,67 | -2.9% | und | Pepsi twist (PET 2 L) | Port. 383/2021 |
@@ -15121,7 +15109,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 1,10 |  |  | Refrigerante Pepsi Twist - Pet 200 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,13 | +2.7% | und | Pepsi Twist – 200 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Pepsi Twist – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Pepsi Twist – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +0.0% | und | Pepsi Twist – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,15 | +0.0% | und | Pepsi Twist – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,20 | +4.3% | und | Pepsi Twist (PET 200 ml) ⚠ | Port. 383/2021 |
@@ -15155,7 +15143,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,17 | +6.0% | Und | Pepsi twist (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,22 | +1.6% | und | Pepsi twist (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,64 | +13.0% | und | Pepsi twist (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,71 | +1.9% | und | Pepsi twist (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,71 | +1.9% | und | Pepsi twist (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,71 | +0.0% | und | Pepsi twist (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,66 | -1.3% | und | Pepsi twist (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,66 | +0.0% | und | Pepsi twist (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -15259,7 +15247,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,12 | -3.4% | Und | Pitchula Sabores - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,19 | +6.2% | und | Pitchula Sabores - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,22 | +2.5% | und | Pitchula Sabores – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,24 | +1.6% | und | Pitchula Sabores – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,24 | +1.6% | und | Pitchula Sabores – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,24 | +0.0% | und | Pitchula Sabores – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,24 | +0.0% | und | Pitchula Sabores – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,18 | -4.8% | und | Pitchula Sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -15712,7 +15700,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,89 | +1.4% | Und | Psiu Cola (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,93 | +1.4% | und | Psiu Cola (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,06 | +4.4% | und | Psiu Cola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,12 | +2.0% | und | Psiu Cola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,12 | +2.0% | und | Psiu Cola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,12 | +0.0% | und | Psiu Cola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,17 | +1.6% | und | Psiu Cola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,19 | +0.6% | und | Psiu Cola (PET 1 L) | Port. 383/2021 |
@@ -15741,7 +15729,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,88 | +4.0% | und | Psiu Cola (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,94 | +1.5% | und | Psiu Cola (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,44 | +12.7% | und | Psiu Cola (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,53 | +2.0% | und | Psiu Cola (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,53 | +2.0% | und | Psiu Cola (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,53 | +0.0% | und | Psiu Cola (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,56 | +0.7% | und | Psiu Cola (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,55 | -0.2% | und | Psiu Cola (PET 1,5 L) | Port. 383/2021 |
@@ -15761,7 +15749,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,97 | -0.7% | Und | Psiu Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,10 | +3.3% | und | Psiu Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,03 | -1.7% | und | Psiu Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,11 | +2.0% | und | Psiu Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,11 | +2.0% | und | Psiu Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,11 | +0.0% | und | Psiu Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,46 | +8.5% | und | Psiu Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,44 | -0.4% | und | Psiu Cola (PET 2 L) | Port. 383/2021 |
@@ -15803,7 +15791,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,16 | -4.9% | Und | psiu cola - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,25 | +7.8% | und | psiu cola - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,12 | -10.4% | und | psiu cola – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,14 | +1.8% | und | psiu cola – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +1.8% | und | psiu cola – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,14 | +0.0% | und | psiu cola – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,12 | -1.8% | und | psiu cola – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,17 | +4.5% | und | psiu cola (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -15830,7 +15818,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,77 | +14.2% | Und | Psiu cola (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,80 | +1.7% | und | Psiu cola (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,84 | +2.2% | und | Psiu cola (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Psiu cola (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Psiu cola (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +0.0% | und | Psiu cola (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,93 | +2.7% | und | Psiu cola (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,98 | +2.6% | und | Psiu cola (PET 350 ml) | Port. 383/2021 |
@@ -15855,7 +15843,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,88 | +5.0% | Und | Psiu cola - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,91 | +1.6% | und | Psiu cola - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,16 | +13.1% | und | Psiu cola - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,20 | +1.9% | und | Psiu cola - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +1.9% | und | Psiu cola - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,20 | +0.0% | und | Psiu cola - 500 ml | Port. 286/2019 |
 | 2019-11-05 (pub.) | 2019-11-01 | alterar | 1,90 | -13.6% |  | Refrigerante Psiu Cola 500 ml | Port. 605/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,90 | +0.0% | und | Psiu cola - 500 ml | Port. 614/2019 |
@@ -15910,7 +15898,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,21 | +2.9% | Und | Psiu Cola Zero (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,27 | +1.4% | und | Psiu Cola Zero (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,40 | +3.0% | und | Psiu Cola Zero (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Psiu Cola Zero (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +2.0% | und | Psiu Cola Zero (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,49 | +0.0% | und | Psiu Cola Zero (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,75 | +5.8% | und | Psiu Cola Zero (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,88 | +2.7% | und | Psiu Cola Zero (PET 2 L) | Port. 383/2021 |
@@ -15974,7 +15962,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,88 | +4.0% | und | Psiu Guaraná (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,94 | +1.5% | und | Psiu Guaraná (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,44 | +12.7% | und | Psiu Guaraná (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,53 | +2.0% | und | Psiu Guaraná (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,53 | +2.0% | und | Psiu Guaraná (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,53 | +0.0% | und | Psiu Guaraná (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,56 | +0.7% | und | Psiu Guaraná (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,55 | -0.2% | und | Psiu Guaraná (PET 1,5 L) | Port. 383/2021 |
@@ -15994,7 +15982,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,93 | +2.9% | Und | Psiu Guaraná (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,99 | +1.5% | und | Psiu Guaraná (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,11 | +3.0% | und | Psiu Guaraná (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,19 | +1.9% | und | Psiu Guaraná (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,19 | +1.9% | und | Psiu Guaraná (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,19 | +0.0% | und | Psiu Guaraná (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,43 | +5.7% | und | Psiu Guaraná (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,55 | +2.7% | und | Psiu Guaraná (PET 2 L) | Port. 383/2021 |
@@ -16045,7 +16033,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,65 | +13.8% | Und | Psiu Guaraná (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,67 | +1.2% | und | Psiu Guaraná (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,70 | +1.8% | und | Psiu Guaraná (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Psiu Guaraná (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Psiu Guaraná (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +0.0% | und | Psiu Guaraná (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,78 | +2.9% | und | Psiu Guaraná (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,82 | +2.2% | und | Psiu Guaraná (PET 350 ml) | Port. 383/2021 |
@@ -16070,7 +16058,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,98 | +5.9% | Und | Psiu guaraná - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,01 | +1.5% | und | Psiu guaraná - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,27 | +12.9% | und | Psiu guaraná - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,32 | +2.2% | und | Psiu guaraná - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,32 | +2.2% | und | Psiu guaraná - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,32 | +0.0% | und | Psiu guaraná - 500 ml | Port. 286/2019 |
 | 2019-11-05 (pub.) | 2019-11-01 | alterar | 1,94 | -16.4% |  | Refrigerante Psiu Guaraná 500 ml | Port. 605/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,94 | +0.0% | und | Psiu guaraná - 500 ml | Port. 614/2019 |
@@ -16100,7 +16088,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +2.9% | Und | Psiu Guaraná Tropical (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Psiu Guaraná Tropical (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,41 | +3.0% | und | Psiu Guaraná Tropical (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Psiu Guaraná Tropical (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Psiu Guaraná Tropical (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +0.0% | und | Psiu Guaraná Tropical (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,33 | -3.8% | und | Psiu Guaraná Tropical (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,45 | +2.8% | und | Psiu Guaraná Tropical (PET 2 L) | Port. 383/2021 |
@@ -16120,7 +16108,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,17 | -4.1% | Und | Psiu Guaraná Tropical - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,25 | +6.8% | und | Psiu Guaraná Tropical - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,29 | +3.2% | und | Psiu Guaraná Tropical - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,32 | +2.3% | und | Psiu Guaraná Tropical - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,32 | +2.3% | und | Psiu Guaraná Tropical - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,32 | +0.0% | und | Psiu Guaraná Tropical - 250 ml | Port. 286/2019 |
 | 2019-11-05 (pub.) | 2019-11-01 | alterar | 1,16 | -12.1% |  | Refrigerante Psiu Guaraná Tropical 250 ml | Port. 605/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,16 | +0.0% | und | Psiu Guaraná Tropical - 250 ml | Port. 614/2019 |
@@ -16158,7 +16146,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,88 | +4.0% | und | Psiu Laranja (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,94 | +1.5% | und | Psiu Laranja (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,44 | +12.7% | und | Psiu Laranja (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,53 | +2.0% | und | Psiu Laranja (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,53 | +2.0% | und | Psiu Laranja (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,53 | +0.0% | und | Psiu Laranja (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,56 | +0.7% | und | Psiu Laranja (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,55 | -0.2% | und | Psiu Laranja (PET 1,5 L) | Port. 383/2021 |
@@ -16204,7 +16192,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,65 | +13.8% | Und | Psiu Laranja (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,67 | +1.2% | und | Psiu Laranja (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,70 | +1.8% | und | Psiu Laranja (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Psiu Laranja (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +1.8% | und | Psiu Laranja (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,73 | +0.0% | und | Psiu Laranja (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,78 | +2.9% | und | Psiu Laranja (PET 350 ml) | Port. 614/2019 |
 
@@ -16236,7 +16224,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,97 | +5.9% | Und | Psiu Laranja - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,00 | +1.5% | und | Psiu Laranja - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,26 | +13.0% | und | Psiu Laranja - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,31 | +2.2% | und | Psiu Laranja - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,31 | +2.2% | und | Psiu Laranja - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,31 | +0.0% | und | Psiu Laranja - 500 ml | Port. 286/2019 |
 | 2019-11-05 (pub.) | 2019-11-01 | alterar | 1,99 | -13.9% |  | Refrigerante Psiu Laranja 500 ml | Port. 605/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,99 | +0.0% | und | Psiu Laranja - 500 ml | Port. 614/2019 |
@@ -16289,7 +16277,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,74 | +4.2% | Und | Psiu Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,78 | +1.5% | und | Psiu Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,90 | +4.3% | und | Psiu Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,96 | +2.1% | und | Psiu Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,96 | +2.1% | und | Psiu Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,96 | +0.0% | und | Psiu Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,01 | +1.7% | und | Psiu Sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,03 | +0.7% | und | Psiu Sabores (PET 1 L) | Port. 383/2021 |
@@ -16312,7 +16300,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,80 | +3.3% | Und | Psiu Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,85 | +1.3% | und | Psiu Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,84 | -0.3% | und | Psiu Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Psiu Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Psiu Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +0.0% | und | Psiu Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,13 | +5.4% | und | Psiu Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,13 | +0.0% | und | Psiu Sabores (PET 2 L) | Port. 383/2021 |
@@ -16346,7 +16334,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,11 | -1.8% | Und | Psiu Sabores - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,16 | +4.5% | und | Psiu Sabores - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,10 | -5.2% | und | Psiu Sabores – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,12 | +1.8% | und | Psiu Sabores – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,12 | +1.8% | und | Psiu Sabores – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,12 | +0.0% | und | Psiu Sabores – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,10 | -1.8% | und | Psiu Sabores – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,19 | +8.2% | und | Psiu Sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -16383,7 +16371,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,10 | -6.2% | Und | Psiu Sabores (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,29 | +9.0% | und | Psiu Sabores (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,59 | +13.1% | und | Psiu Sabores (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,64 | +1.9% | und | Psiu Sabores (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,64 | +1.9% | und | Psiu Sabores (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,64 | +0.0% | und | Psiu Sabores (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,13 | -19.3% | und | Psiu Sabores (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,12 | -0.5% | und | Psiu Sabores (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -16427,7 +16415,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,08 | -3.6% | und | Psiu Teen - 269 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,15 | +6.5% | und | Psiu Teen - 269 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,38 | +20.0% | und | Psiu Teen - 269 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,41 | +2.2% | und | Psiu Teen - 269 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +2.2% | und | Psiu Teen - 269 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +0.0% | und | Psiu Teen - 269 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,47 | +4.3% | und | Psiu Teen - 269 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,51 | +2.7% | und | Psiu Teen (lata 269 ml) ⚠ | Port. 383/2021 |
@@ -16450,7 +16438,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,96 | +14.0% | Und | Psiu teen (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,99 | +1.5% | und | Psiu teen (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,11 | +6.0% | und | Psiu teen (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,15 | +1.9% | und | Psiu teen (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,15 | +1.9% | und | Psiu teen (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,15 | +0.0% | und | Psiu teen (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,20 | +2.3% | und | Psiu teen (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,28 | +3.6% | und | Psiu teen (lata 310 a 350 ml) | Port. 383/2021 |
@@ -16480,7 +16468,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,96 | -1.0% | Und | Psiu Teen (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,06 | +3.4% | und | Psiu Teen (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,20 | +4.6% | und | Psiu Teen (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,26 | +1.9% | und | Psiu Teen (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,26 | +1.9% | und | Psiu Teen (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,26 | +0.0% | und | Psiu Teen (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,32 | +1.8% | und | Psiu Teen (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,34 | +0.6% | und | Psiu Teen (PET 1 L) | Port. 383/2021 |
@@ -16508,7 +16496,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,88 | +4.0% | und | Psiu Teen (PET 1,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,94 | +1.5% | und | Psiu Teen (PET 1,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,44 | +12.7% | und | Psiu Teen (PET 1,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,53 | +2.0% | und | Psiu Teen (PET 1,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,53 | +2.0% | und | Psiu Teen (PET 1,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,53 | +0.0% | und | Psiu Teen (PET 1,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,56 | +0.7% | und | Psiu Teen (PET 1,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,55 | -0.2% | und | Psiu Teen (PET 1,5 L) | Port. 383/2021 |
@@ -16528,7 +16516,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,13 | -4.4% | Und | Psiu Teen (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,42 | +7.0% | und | Psiu Teen (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | -11.8% | und | Psiu Teen (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Psiu Teen (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Psiu Teen (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | Psiu Teen (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,07 | +2.3% | und | Psiu Teen (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,11 | +1.0% | und | Psiu Teen (PET 2 L) | Port. 383/2021 |
@@ -16569,7 +16557,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,26 | -3.8% | Und | psiu teen - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,34 | +6.3% | und | psiu teen - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,38 | +3.0% | und | psiu teen – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,41 | +2.2% | und | psiu teen – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +2.2% | und | psiu teen – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +0.0% | und | psiu teen – 250 ml | Port. 286/2019 |
 | 2019-11-05 (pub.) | 2019-11-01 | alterar | 1,18 | -16.3% |  | Refrigerante Psiu Teen 250 ml | Port. 605/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,18 | +0.0% | und | psiu teen – 250 ml | Port. 614/2019 |
@@ -16597,7 +16585,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,95 | +14.0% | Und | Psiu teen (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,98 | +1.5% | und | Psiu teen (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,02 | +2.0% | und | Psiu teen (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Psiu teen (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Psiu teen (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +0.0% | und | Psiu teen (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,12 | +2.9% | und | Psiu teen (PET 350 ml) | Port. 614/2019 |
 
@@ -16629,7 +16617,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,89 | +3.8% | Und | Psiu Teen - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,92 | +1.6% | und | Psiu Teen - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,17 | +13.0% | und | Psiu Teen - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Psiu Teen - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +1.8% | und | Psiu Teen - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,21 | +0.0% | und | Psiu Teen - 500 ml | Port. 286/2019 |
 | 2019-11-05 (pub.) | 2019-11-01 | alterar | 2,00 | -9.5% |  | Refrigerante Psiu Teen 500 ml | Port. 605/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,00 | +0.0% | und | Psiu Teen - 500 ml | Port. 614/2019 |
@@ -16685,7 +16673,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,41 | +3.0% | Und | Psiu Teen Zero (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,47 | +1.4% | und | Psiu Teen Zero (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,60 | +2.9% | und | Psiu Teen Zero (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,69 | +2.0% | und | Psiu Teen Zero (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,69 | +2.0% | und | Psiu Teen Zero (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,69 | +0.0% | und | Psiu Teen Zero (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,96 | +5.8% | und | Psiu Teen Zero (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,10 | +2.8% | und | Psiu Teen Zero (PET 2 L) | Port. 383/2021 |
@@ -16711,7 +16699,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,26 | -3.8% | Und | psiu teen zero- 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,34 | +6.3% | und | psiu teen zero- 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,38 | +3.0% | und | psiu teen zero- 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,41 | +2.2% | und | psiu teen zero- 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +2.2% | und | psiu teen zero- 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,41 | +0.0% | und | psiu teen zero- 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,41 | +0.0% | und | psiu teen zero- 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,48 | +5.0% | und | psiu teen zero (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -16743,7 +16731,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,98 | +5.9% | Und | Psiu Teen Zero - 500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,01 | +1.5% | und | Psiu Teen Zero - 500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,27 | +12.9% | und | Psiu Teen Zero - 500 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,32 | +2.2% | und | Psiu Teen Zero - 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,32 | +2.2% | und | Psiu Teen Zero - 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,32 | +0.0% | und | Psiu Teen Zero - 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,29 | -1.3% | und | Psiu Teen Zero - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,27 | -0.9% | und | Psiu Teen Zero (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -16794,7 +16782,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,54 |  | und | Psiu Zib Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,64 | +2.8% | und | Psiu Zib Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,71 | +1.9% | und | Psiu Zib Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,71 | +1.9% | und | Psiu Zib Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,71 | +0.0% | und | Psiu Zib Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,92 | +5.7% | und | Psiu Zib Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,03 | +2.8% | und | Psiu Zib Cola (PET 2 L) | Port. 383/2021 |
@@ -18306,7 +18294,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,01 |  | und | Sonho Blue - 250 ml | Port. 383/2018 |
 | 2019-02-06 (pub.) | 2019-02-01 | alterar | 1,20 | +18.8% |  | Refrigerante Sonho Blue 250 ml | Port. 52/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,22 | +1.7% | und | Sonho Blue - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,22 | +1.7% | und | Sonho Blue - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,22 | +0.0% | und | Sonho Blue - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,22 | +0.0% | und | Sonho Blue - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,25 | +2.5% | und | Sonho Blue (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -18325,7 +18313,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,80 |  | und | Sonho Blue – 500 ml | Port. 383/2018 |
 | 2019-02-06 (pub.) | 2019-02-01 | alterar | 2,08 | +15.6% |  | Refrigerante Sonho Blue 500 ml | Port. 52/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Sonho Blue – 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Sonho Blue – 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +0.0% | und | Sonho Blue – 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,09 | -1.4% | und | Sonho Blue – 500 ml | Port. 614/2019 |
 | 2024-04-01 (pub.) | 2024-03-22 | alterar | 2,73 | +30.6% |  | Refrigerante Sonho Blue 500 ml | Port. 91/2024 |
@@ -18353,7 +18341,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-09-15 (pub.) | 2017-09-04 | incluir | 1,00 |  |  | Refrigerante Sonho Guaraná 250 ml | Port. 404/2017 |
 | 2019-02-06 (pub.) | 2019-02-01 | alterar | 1,20 | +20.0% |  | Refrigerante Sonho Guaraná 250 ml | Port. 52/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,22 | +1.7% | und | Sonho Guaraná - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,22 | +1.7% | und | Sonho Guaraná - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,22 | +0.0% | und | Sonho Guaraná - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,22 | +0.0% | und | Sonho Guaraná - 250 ml | Port. 614/2019 |
 | 2024-04-01 (pub.) | 2024-03-22 | alterar | 1,84 | +50.8% |  | Refrigerante Sonho Guaraná 250 ml | Port. 91/2024 |
@@ -19003,7 +18991,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,68 | +3.1% | Und | Refris Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,72 | +1.5% | und | Refris Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,80 | +2.9% | und | Refris Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,86 | +2.1% | und | Refris Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,86 | +2.1% | und | Refris Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,86 | +0.0% | und | Refris Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,02 | +5.6% | und | Refris Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,10 | +2.6% | und | Refris Cola (PET 2 L) | Port. 383/2021 |
@@ -19026,7 +19014,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,67 | +3.1% | Und | Refris Guaraná (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,71 | +1.5% | und | Refris Guaraná (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | +3.0% | und | Refris Guaraná (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Refris Guaraná (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Refris Guaraná (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Refris Guaraná (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,01 | +5.6% | und | Refris Guaraná (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,09 | +2.7% | und | Refris Guaraná (PET 2 L) | Port. 383/2021 |
@@ -19049,7 +19037,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,67 | +3.1% | Und | Refris Laranja (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,71 | +1.5% | und | Refris Laranja (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | +3.0% | und | Refris Laranja (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Refris Laranja (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Refris Laranja (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Refris Laranja (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,01 | +5.6% | und | Refris Laranja (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,09 | +2.7% | und | Refris Laranja (PET 2 L) | Port. 383/2021 |
@@ -19072,7 +19060,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,67 | +3.1% | Und | Refris limão (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,71 | +1.5% | und | Refris limão (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,79 | +3.0% | und | Refris limão (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Refris limão (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +2.2% | und | Refris limão (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Refris limão (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,01 | +5.6% | und | Refris limão (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,09 | +2.7% | und | Refris limão (PET 2 L) | Port. 383/2021 |
@@ -19143,7 +19131,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,96 | +14.0% | Und | Relva sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,99 | +1.5% | und | Relva sabores (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,11 | +6.0% | und | Relva sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,15 | +1.9% | und | Relva sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,15 | +1.9% | und | Relva sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,15 | +0.0% | und | Relva sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,20 | +2.3% | und | Relva sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,28 | +3.6% | und | Relva sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -19171,7 +19159,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,30 | +4.1% | Und | Relva Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,35 | +1.5% | und | Relva Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,50 | +4.5% | und | Relva Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,57 | +2.0% | und | Relva Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,57 | +2.0% | und | Relva Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,57 | +0.0% | und | Relva Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,63 | +1.7% | und | Relva Sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,66 | +0.8% | und | Relva Sabores (PET 1 L) | Port. 383/2021 |
@@ -19194,7 +19182,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +2.9% | Und | Relva sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,28 | +1.4% | und | Relva sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,41 | +3.0% | und | Relva sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Relva sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +2.0% | und | Relva sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,50 | +0.0% | und | Relva sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,76 | +5.8% | und | Relva sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,89 | +2.7% | und | Relva sabores (PET 2 L) | Port. 383/2021 |
@@ -19222,7 +19210,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,94 | -4.1% | Und | Relva sabores - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,00 | +6.4% | und | Relva sabores - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,03 | +3.0% | und | Relva sabores – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,05 | +1.9% | und | Relva sabores – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,05 | +1.9% | und | Relva sabores – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,05 | +0.0% | und | Relva sabores – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,05 | +0.0% | und | Relva sabores – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,10 | +4.8% | und | Relva sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -19255,7 +19243,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,81 | +2.7% | Und | River Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,76 | -1.3% | und | River cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,99 | +6.1% | und | River cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,18 | +4.8% | und | River cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +4.8% | und | River cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +0.0% | und | River cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,38 | +4.8% | und | River cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,41 | +0.7% | und | River cola (PET 2 L) | Port. 383/2021 |
@@ -19379,7 +19367,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,75 | +46.3% | Und | River Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,79 | +1.5% | und | River Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,80 | +0.4% | und | River Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,86 | +2.1% | und | River Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,86 | +2.1% | und | River Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,86 | +0.0% | und | River Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,91 | +1.7% | und | River Sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,95 | +1.4% | und | River Sabores (PET 1 L) | Port. 383/2021 |
@@ -19396,7 +19384,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,91 | +3.4% | Und | River Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,83 | -2.0% | und | River Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,10 | +7.0% | und | River Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,18 | +2.0% | und | River Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +2.0% | und | River Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +0.0% | und | River Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,20 | +0.5% | und | River Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,34 | +3.3% | und | River Sabores (PET 2 L) | Port. 383/2021 |
@@ -19424,7 +19412,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,15 | -2.5% | Und | River Sabores - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,21 | +5.2% | und | River Sabores - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,20 | -0.8% | und | River Sabores – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,22 | +1.7% | und | River Sabores – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,22 | +1.7% | und | River Sabores – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,22 | +0.0% | und | River Sabores – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,20 | -1.6% | und | River Sabores – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,29 | +7.5% | und | River Sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -19458,7 +19446,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,35 | +14.4% | Und | River Sabores (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,37 | +1.5% | und | River Sabores (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,40 | +2.2% | und | River Sabores (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,43 | +2.1% | und | River Sabores (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,43 | +2.1% | und | River Sabores (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,43 | +0.0% | und | River Sabores (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,47 | +2.8% | und | River Sabores (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,59 | +8.2% | und | River Sabores (PET 350 ml) | Port. 383/2021 |
@@ -19526,7 +19514,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,01 |  | und | River sabores - 200 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,03 | +2.0% | und | River sabores - 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,03 | +2.0% | und | River sabores - 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,03 | +0.0% | und | River sabores - 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,08 | +4.9% | und | River sabores - 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,08 | +0.0% | und | River sabores (retornável 200 ml) ⚠ | Port. 383/2021 |
@@ -19542,7 +19530,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,90 | +5.6% | Und | River Sabores - Descartavel (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,93 | +1.6% | und | River Sabores - Descartavel (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,08 | +7.8% | und | River Sabores - Descartavel (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,12 | +1.9% | und | River Sabores - Descartavel (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +1.9% | und | River Sabores - Descartavel (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +0.0% | und | River Sabores - Descartavel (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,07 | -2.4% | und | River Sabores - Descartavel (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,15 | +3.9% | und | River Sabores - Descartavel (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -19567,7 +19555,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,92 | +6.1% | Und | River Sabores - Retornavel (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,95 | +1.6% | und | River Sabores - Retornavel (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,20 | +12.8% | und | River Sabores - Retornavel (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,24 | +1.8% | und | River Sabores - Retornavel (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,24 | +1.8% | und | River Sabores - Retornavel (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,24 | +0.0% | und | River Sabores - Retornavel (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,21 | -1.3% | und | River Sabores - Retornavel (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,21 | +0.0% | und | River Sabores - Retornavel (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -19626,7 +19614,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,62 | +4.0% | Und | Sabores Mais Sabor (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,66 | +1.5% | und | Sabores Mais Sabor (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,78 | +4.5% | und | Sabores Mais Sabor (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Sabores Mais Sabor (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +2.2% | und | Sabores Mais Sabor (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,84 | +0.0% | und | Sabores Mais Sabor (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,89 | +1.8% | und | Sabores Mais Sabor (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,91 | +0.7% | und | Sabores Mais Sabor (PET 1 L) | Port. 383/2021 |
@@ -19649,7 +19637,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,74 | +3.0% | Und | Sabores Mais Sabor (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,79 | +1.3% | und | Sabores Mais Sabor (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +2.9% | und | Sabores Mais Sabor (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Sabores Mais Sabor (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +2.1% | und | Sabores Mais Sabor (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,98 | +0.0% | und | Sabores Mais Sabor (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,21 | +5.8% | und | Sabores Mais Sabor (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,33 | +2.9% | und | Sabores Mais Sabor (PET 2 L) | Port. 383/2021 |
@@ -19676,7 +19664,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,95 | -4.0% | Und | Sabores Mais Sabor - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,01 | +6.3% | und | Sabores Mais Sabor - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,04 | +3.0% | und | Sabores Mais Sabor – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,06 | +1.9% | und | Sabores Mais Sabor – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,06 | +1.9% | und | Sabores Mais Sabor – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,06 | +0.0% | und | Sabores Mais Sabor – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,06 | +0.0% | und | Sabores Mais Sabor – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,11 | +4.7% | und | Sabores Mais Sabor (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -19707,7 +19695,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,29 | +14.2% | Und | Sabores Mais Sabor (PET 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,31 | +1.6% | und | Sabores Mais Sabor (PET 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,34 | +2.3% | und | Sabores Mais Sabor (PET 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Sabores Mais Sabor (PET 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Sabores Mais Sabor (PET 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +0.0% | und | Sabores Mais Sabor (PET 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,41 | +2.9% | und | Sabores Mais Sabor (PET 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,44 | +2.1% | und | Sabores Mais Sabor (PET 350 ml) | Port. 383/2021 |
@@ -19939,7 +19927,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,89 |  | und | São Geraldo de Cajú (lata 350 ml) | Port. 147/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,04 | +7.9% | und | São Geraldo de Cajú (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,04 | +7.9% | und | São Geraldo de Cajú (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,04 | +0.0% | und | São Geraldo de Cajú (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,09 | +2.5% | und | São Geraldo de Cajú (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,17 | +3.8% | und | São Geraldo de Cajú (lata 310 a 350 ml) | Port. 383/2021 |
@@ -19959,7 +19947,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,06 |  | und | São Geralco de Cajú (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,24 | +4.4% | und | São Geralco de Cajú (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,32 | +1.9% | und | São Geralco de Cajú (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +1.9% | und | São Geralco de Cajú (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,32 | +0.0% | und | São Geralco de Cajú (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,39 | +1.6% | und | São Geralco de Cajú (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,42 | +0.7% | und | São Geralco de Cajú (PET 1 L) | Port. 383/2021 |
@@ -19979,7 +19967,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 4,21 |  | und | São Geraldo de Cajú (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,33 | +2.9% | und | São Geraldo de Cajú (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,42 | +2.1% | und | São Geraldo de Cajú (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,42 | +2.1% | und | São Geraldo de Cajú (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,42 | +0.0% | und | São Geraldo de Cajú (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,67 | +5.7% | und | São Geraldo de Cajú (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,80 | +2.8% | und | São Geraldo de Cajú (PET 2 L) | Port. 383/2021 |
@@ -20011,7 +19999,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,97 |  | und | São Geraldo de Cajú – 250 ml | Port. 147/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,02 | +5.2% | und | São Geraldo de Cajú – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,02 | +5.2% | und | São Geraldo de Cajú – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,02 | +0.0% | und | São Geraldo de Cajú – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,02 | +0.0% | und | São Geraldo de Cajú – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,07 | +4.9% | und | São Geraldo de Cajú (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -20044,7 +20032,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,12 |  | und | São Deraldo de Cajú – 600 ml - Retornavel | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,27 | +13.4% | und | São Deraldo de Cajú – 600 ml - Retornavel | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,30 | +2.4% | und | São Deraldo de Cajú – 600 ml - Retornavel | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,30 | +2.4% | und | São Deraldo de Cajú – 600 ml - Retornavel | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,30 | +0.0% | und | São Deraldo de Cajú – 600 ml - Retornavel | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,28 | -1.5% | und | São Deraldo de Cajú – 600 ml - Retornavel | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,28 | +0.0% | und | São Deraldo de Cajú – 600 ml - Retornavel | Port. 383/2021 |
@@ -20197,7 +20185,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,97 |  | und | São Geraldo de Guaraná – 250 ml | Port. 147/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,02 | +5.2% | und | São Geraldo de Guaraná – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,02 | +5.2% | und | São Geraldo de Guaraná – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,02 | +0.0% | und | São Geraldo de Guaraná – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,02 | +0.0% | und | São Geraldo de Guaraná – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,07 | +4.9% | und | São Geraldo de Guaraná (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -20340,7 +20328,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,97 |  | und | São Geraldo de Uva – 250 ml | Port. 147/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,02 | +5.2% | und | São Geraldo de Uva – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,02 | +5.2% | und | São Geraldo de Uva – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,02 | +0.0% | und | São Geraldo de Uva – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,02 | +0.0% | und | São Geraldo de Uva – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,07 | +4.9% | und | São Geraldo de Uva (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -20552,7 +20540,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,99 |  | und | Schweppes Água Tônica (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,99 |  | und | Schweppes Água Tônica (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,99 | +0.0% | und | Schweppes Água Tônica (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,97 | -0.7% | und | Schweppes Água Tônica (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,22 | +8.4% | und | Schweppes Água Tônica (lata 310 a 350 ml) | Port. 383/2021 |
@@ -20574,7 +20562,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,56 | +1.6% | Und | Schweppes Citrus (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,60 | +1.6% | und | Schweppes Citrus (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,83 | +8.8% | und | Schweppes Citrus (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,89 | +2.1% | und | Schweppes Citrus (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,89 | +2.1% | und | Schweppes Citrus (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,89 | +0.0% | und | Schweppes Citrus (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,13 | +8.3% | und | Schweppes Citrus (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,27 | +4.5% | und | Schweppes Citrus (lata 310 a 350 ml) | Port. 383/2021 |
@@ -20738,7 +20726,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,55 | -7.3% | Und | Simba sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,93 | +10.7% | und | Simba sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 4,05 | +3.1% | und | Simba sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,13 | +2.0% | und | Simba sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,13 | +2.0% | und | Simba sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,13 | +0.0% | und | Simba sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,37 | +5.8% | und | Simba sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,49 | +2.7% | und | Simba sabores (PET 2 L) | Port. 383/2021 |
@@ -20750,7 +20738,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,97 |  | Und | Simba sabores (PET 237 a 260 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,98 | +1.0% | und | Simba sabores (PET 237 a 260 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,01 | +3.1% | und | Simba sabores (PET 200 a 260 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,03 | +2.0% | und | Simba sabores (PET 200 a 260 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,03 | +2.0% | und | Simba sabores (PET 200 a 260 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,03 | +0.0% | und | Simba sabores (PET 200 a 260 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,03 | +0.0% | und | Simba sabores (PET 200 a 260 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,08 | +4.9% | und | Simba sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -20802,7 +20790,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,29 | +3.2% | Und | Soda Limonada (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,32 | +1.3% | und | Soda Limonada (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,55 | +9.9% | und | Soda Limonada (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Soda Limonada (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +2.0% | und | Soda Limonada (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,60 | +0.0% | und | Soda Limonada (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,57 | -1.2% | und | Soda Limonada (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,57 | +0.0% | und | Soda Limonada (lata 310 a 350 ml) | Port. 383/2021 |
@@ -20827,7 +20815,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +4.1% | Und | Soda Limonada (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | Soda Limonada (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,52 | +4.5% | und | Soda Limonada (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,59 | +2.0% | und | Soda Limonada (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,59 | +2.0% | und | Soda Limonada (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,59 | +0.0% | und | Soda Limonada (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,65 | +1.7% | und | Soda Limonada (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,68 | +0.8% | und | Soda Limonada (PET 1 L) | Port. 383/2021 |
@@ -20850,7 +20838,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,02 | +1.6% | Und | Soda Limonada (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,09 | +1.4% | und | Soda Limonada (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,47 | +7.5% | und | Soda Limonada (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,58 | +2.0% | und | Soda Limonada (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,58 | +2.0% | und | Soda Limonada (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,58 | +0.0% | und | Soda Limonada (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,79 | +3.8% | und | Soda Limonada (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,86 | +1.2% | und | Soda Limonada (PET 2 L) | Port. 383/2021 |
@@ -20870,7 +20858,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 1,10 |  |  | Refrigerante Soda Limonada - Pet 200 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,13 | +2.7% | und | Soda Limonada – 200 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Soda Limonada – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Soda Limonada – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +0.0% | und | Soda Limonada – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,15 | +0.0% | und | Soda Limonada – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,18 | +2.6% | und | Soda Limonada (PET 200 ml) ⚠ | Port. 383/2021 |
@@ -20893,7 +20881,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,17 | -7.9% | Und | Soda Limonada - 237 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,30 | +11.1% | und | Soda Limonada - 237 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,34 | +3.1% | und | Soda Limonada – 237 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Soda Limonada – 237 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Soda Limonada – 237 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +0.0% | und | Soda Limonada – 237 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,24 | -9.5% | und | Soda Limonada – 237 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,27 | +2.4% | und | Soda Limonada (PET 237 ml) ⚠ | Port. 383/2021 |
@@ -20912,7 +20900,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,14 | +5.9% | Und | Soda Limonada – 290 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,17 | +1.4% | und | Soda Limonada – 290 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,46 | +13.4% | und | Soda Limonada – 290 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,51 | +2.0% | und | Soda Limonada – 290 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,51 | +2.0% | und | Soda Limonada – 290 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,51 | +0.0% | und | Soda Limonada – 290 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,63 | +4.8% | und | Soda Limonada – 290 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,64 | +0.4% | und | Soda Limonada (retornável 290 ml) ⚠ | Port. 383/2021 |
@@ -20946,7 +20934,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,75 |  | und | Sonho Blue (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +3.6% | und | Sonho Blue (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +3.6% | und | Sonho Blue (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Sonho Blue (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,90 | +1.8% | und | Sonho Blue (PET 1 L) | Port. 614/2019 |
 
@@ -20971,7 +20959,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,95 |  | und | Sonho Blue (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,18 | +5.8% | und | Sonho Blue (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +5.8% | und | Sonho Blue (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +0.0% | und | Sonho Blue (PET 2 L) | Port. 286/2019 |
 
 ### Sonho Blue (PET 250 ml) (código 50548)
@@ -21023,7 +21011,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,37 |  | und | Sonho Guaraná Blue (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,70 | +13.9% | und | Sonho Guaraná (PET 1 L) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,85 | +5.6% | und | Sonho Guaraná (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +5.6% | und | Sonho Guaraná (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,85 | +0.0% | und | Sonho Guaraná (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,82 | -1.1% | und | Sonho Guaraná (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,90 | +2.8% | und | Sonho Guaraná (PET 1 L) | Port. 383/2021 |
@@ -21043,7 +21031,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,70 |  | und | Sonho Guaraná Blue (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,90 | +5.4% | und | Sonho Guaraná (PET 2 L) ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,18 | +7.2% | und | Sonho Guaraná (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +7.2% | und | Sonho Guaraná (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,18 | +0.0% | und | Sonho Guaraná (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,11 | -1.7% | und | Sonho Guaraná (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,47 | +8.8% | und | Sonho Guaraná (PET 2 L) | Port. 383/2021 |
@@ -21095,7 +21083,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,67 | +1.2% | und | Sonho Guaraná Blue – 500 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,75 | +4.8% | und | Sonho Guaraná – 500 ml ⚠ | Port. 383/2018 |
 | 2019-02-06 (pub.) | 2019-02-01 | alterar | 2,08 | +18.9% |  | Refrigerante Sonho Guaraná 500 ml | Port. 52/2019 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Sonho Guaraná – 500 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +1.9% | und | Sonho Guaraná – 500 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,12 | +0.0% | und | Sonho Guaraná – 500 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,02 | -4.7% | und | Sonho Guaraná – 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,09 | +3.5% | und | Sonho Guaraná (PET 500 ml) ⚠ | Port. 383/2021 |
@@ -21115,7 +21103,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,01 |  | und | Sonho Guaraná Blue – 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,21 | +19.8% | und | Sonho Guaraná Blue – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,23 | +1.7% | und | Sonho Guaraná Blue – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,23 | +1.7% | und | Sonho Guaraná Blue – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,23 | +0.0% | und | Sonho Guaraná Blue – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,28 | +4.1% | und | Sonho Guaraná Blue – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,31 | +2.3% | und | Sonho Guaraná Blue (lata 250 ml) ⚠ | Port. 383/2021 |
@@ -21133,7 +21121,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,22 | +4.2% | Und | Splash Cola (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Splash Cola (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,35 | +4.4% | und | Splash Cola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Splash Cola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Splash Cola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +0.0% | und | Splash Cola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,44 | +1.7% | und | Splash Cola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,46 | +0.8% | und | Splash Cola (PET 1 L) | Port. 383/2021 |
@@ -21155,7 +21143,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,87 | +2.9% | Und | Splash Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,91 | +1.4% | und | Splash Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,00 | +3.1% | und | Splash Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,06 | +2.0% | und | Splash Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,06 | +2.0% | und | Splash Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,06 | +0.0% | und | Splash Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,24 | +5.9% | und | Splash Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,33 | +2.8% | und | Splash Cola (PET 2 L) | Port. 383/2021 |
@@ -21178,7 +21166,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,27 | +13.1% | Und | Splash Cola (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,32 | +1.5% | und | Splash Cola (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,36 | +1.2% | und | Splash Cola (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,43 | +2.1% | und | Splash Cola (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,43 | +2.1% | und | Splash Cola (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,43 | +0.0% | und | Splash Cola (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,53 | +2.9% | und | Splash Cola (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,63 | +2.8% | und | Splash Cola (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -21212,7 +21200,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,84 | -4.5% | Und | Splash Cola (PET 237 a 260 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,90 | +7.1% | und | Splash Cola (PET 237 a 260 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,93 | +3.3% | und | Splash Cola (PET 200 a 260 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,95 | +2.2% | und | Splash Cola (PET 200 a 260 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,95 | +2.2% | und | Splash Cola (PET 200 a 260 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,95 | +0.0% | und | Splash Cola (PET 200 a 260 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,95 | +0.0% | und | Splash Cola (PET 200 a 260 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,00 | +5.3% | und | Splash Cola (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -21235,7 +21223,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,62 | +5.9% | Und | Splash Cola (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,64 | +1.2% | und | Splash Cola (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | +12.8% | und | Splash Cola (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Splash Cola (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Splash Cola (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | Splash Cola (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,87 | -1.1% | und | Splash Cola (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,87 | +0.0% | und | Splash Cola (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -21258,7 +21246,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,29 | +12.8% | Und | Splash Cola Baixa Caloria (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,32 | +1.3% | und | Splash Cola Baixa Caloria (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,34 | +0.9% | und | Splash Cola Baixa Caloria (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,39 | +2.1% | und | Splash Cola Baixa Caloria (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,39 | +2.1% | und | Splash Cola Baixa Caloria (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,39 | +0.0% | und | Splash Cola Baixa Caloria (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,46 | +2.9% | und | Splash Cola Baixa Caloria (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,53 | +2.8% | und | Splash Cola Baixa Caloria (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -21304,7 +21292,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,22 | +4.2% | Und | Splash Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,25 | +1.4% | und | Splash Sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,35 | +4.4% | und | Splash Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Splash Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +2.1% | und | Splash Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,40 | +0.0% | und | Splash Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,44 | +1.7% | und | Splash Sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,46 | +0.8% | und | Splash Sabores (PET 1 L) | Port. 383/2021 |
@@ -21326,7 +21314,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,87 | +2.9% | Und | Splash Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,91 | +1.4% | und | Splash Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,00 | +3.1% | und | Splash Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,06 | +2.0% | und | Splash Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,06 | +2.0% | und | Splash Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,06 | +0.0% | und | Splash Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,24 | +5.9% | und | Splash Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,33 | +2.8% | und | Splash Sabores (PET 2 L) | Port. 383/2021 |
@@ -21349,7 +21337,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,27 | +13.1% | Und | Splash Sabores (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,32 | +1.5% | und | Splash Sabores (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,36 | +1.2% | und | Splash Sabores (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,43 | +2.1% | und | Splash Sabores (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,43 | +2.1% | und | Splash Sabores (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,43 | +0.0% | und | Splash Sabores (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,53 | +2.9% | und | Splash Sabores (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,63 | +2.8% | und | Splash Sabores (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -21371,7 +21359,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,84 | -4.5% | Und | Splash Sabores (PET 237 a 260 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,90 | +7.1% | und | Splash Sabores (PET 237 a 260 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,93 | +3.3% | und | Splash Sabores (PET 200 a 260 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,95 | +2.2% | und | Splash Sabores (PET 200 a 260 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,95 | +2.2% | und | Splash Sabores (PET 200 a 260 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,95 | +0.0% | und | Splash Sabores (PET 200 a 260 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,95 | +0.0% | und | Splash Sabores (PET 200 a 260 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,00 | +5.3% | und | Splash Sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -21394,7 +21382,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,62 | +5.9% | Und | Splash Sabores (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,64 | +1.2% | und | Splash Sabores (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,85 | +12.8% | und | Splash Sabores (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Splash Sabores (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +2.2% | und | Splash Sabores (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,89 | +0.0% | und | Splash Sabores (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,87 | -1.1% | und | Splash Sabores (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,87 | +0.0% | und | Splash Sabores (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -21417,7 +21405,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,29 | +12.8% | Und | Splash Sabores Baixa Caloria (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,32 | +1.3% | und | Splash Sabores Baixa Caloria (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,34 | +0.9% | und | Splash Sabores Baixa Caloria (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,39 | +2.1% | und | Splash Sabores Baixa Caloria (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,39 | +2.1% | und | Splash Sabores Baixa Caloria (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,39 | +0.0% | und | Splash Sabores Baixa Caloria (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,46 | +2.9% | und | Splash Sabores Baixa Caloria (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,53 | +2.8% | und | Splash Sabores Baixa Caloria (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -21469,7 +21457,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 23,03 | +4.0% | Und | Sprite (1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 23,36 | +1.4% | und | Sprite (1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 23,83 | +2.0% | und | Sprite (1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Sprite (1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +2.0% | und | Sprite (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 24,31 | +0.0% | und | Sprite (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 25,01 | +2.9% | und | Sprite (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 25,63 | +2.5% | und | Sprite (1 L) | Port. 383/2021 |
@@ -21544,7 +21532,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,24 | -3.9% | und | Sprite Sleek Can 220 ml ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,32 | +6.5% | und | Sprite Sleek Can 220 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,58 | +19.7% | und | Sprite Sleek Can 220 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,61 | +1.9% | und | Sprite Sleek Can 220 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,61 | +1.9% | und | Sprite Sleek Can 220 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,61 | +0.0% | und | Sprite Sleek Can 220 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,68 | +4.3% | und | Sprite Sleek Can 220 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,75 | +4.2% | und | Sprite Sleek Can (lata 220 ml) ⚠ | Port. 383/2021 |
@@ -21578,7 +21566,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,36 | +4.9% | Und | Sprite (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,39 | +1.3% | und | Sprite (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,53 | +5.9% | und | Sprite (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,58 | +2.0% | und | Sprite (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,58 | +2.0% | und | Sprite (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,58 | +0.0% | und | Sprite (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,61 | +1.2% | und | Sprite (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,71 | +3.8% | und | Sprite (lata 310 a 350 ml) | Port. 383/2021 |
@@ -21647,7 +21635,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,64 | +4.6% | Und | Sprite (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,72 | +1.4% | und | Sprite (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,13 | +7.2% | und | Sprite (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,25 | +2.0% | und | Sprite (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,25 | +2.0% | und | Sprite (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,25 | +0.0% | und | Sprite (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,34 | +1.4% | und | Sprite (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,49 | +2.4% | und | Sprite (PET 2 L) | Port. 383/2021 |
@@ -21675,7 +21663,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 6,54 | +13.0% | Und | Sprite (2,5 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,63 | +1.4% | und | Sprite (2,5 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 6,70 | +1.1% | und | Sprite (2,5 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 6,83 | +1.9% | und | Sprite (2250 a 2,5 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,83 | +1.9% | und | Sprite (2250 a 2,5 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 6,83 | +0.0% | und | Sprite (2250 a 2,5 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,03 | +2.9% | und | Sprite (2250 a 2,5 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,22 | +2.7% | und | Sprite (PET 2250 a 2,5 L) ⚠ | Port. 383/2021 |
@@ -21688,7 +21676,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,17 | -2.5% | Und | Sprite - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,23 | +5.1% | und | Sprite - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,26 | +2.4% | und | Sprite – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,29 | +2.4% | und | Sprite – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,29 | +2.4% | und | Sprite – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,29 | +0.0% | und | Sprite – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,34 | +3.9% | und | Sprite – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,39 | +3.7% | und | Sprite (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -21734,7 +21722,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,20 | +4.3% | Und | Sprite - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,23 | +1.4% | und | Sprite - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,52 | +13.0% | und | Sprite - 300 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,57 | +2.0% | und | Sprite - 300 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,57 | +2.0% | und | Sprite - 300 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,57 | +0.0% | und | Sprite - 300 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,70 | +5.1% | und | Sprite - 300 ml | Port. 614/2019 |
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 4,51 | +67.0% | und | Sprite (retornável 290 ml) ⚠ | Port. 170/2026 |
@@ -21830,7 +21818,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,29 |  | und | Sprite Limão Zero (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,29 |  | und | Sprite Limão Zero (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,29 | +0.0% | und | Sprite Limão Zero (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,61 | +14.0% | und | Sprite Limão Zero (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,71 | +3.8% | und | Sprite Limão Zero (Sprite Limão sem açúcar) (lata 310 a 350 ml) ⚠ | Port. 383/2021 |
@@ -21865,7 +21853,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,99 |  | und | Sprite Limão Zero (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,99 |  | und | Sprite Limão Zero (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,99 | +0.0% | und | Sprite Limão Zero (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,34 | +5.8% | und | Sprite Limão Zero (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,49 | +2.4% | und | Sprite Limão Zero (PET 2 L) | Port. 383/2021 |
@@ -21883,7 +21871,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,25 |  | und | Sprite Limão Zero – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,25 |  | und | Sprite Limão Zero – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,25 | +0.0% | und | Sprite Limão Zero – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,25 | +0.0% | und | Sprite Limão Zero – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,31 | +4.8% | und | Sprite Limão Zero (Sprite Limão sem açúcar) (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -21951,7 +21939,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,36 | +10.3% | Und | Sukita Laranja (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,39 | +1.3% | und | Sukita Laranja (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,44 | +2.1% | und | Sukita Laranja (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,49 | +2.0% | und | Sukita Laranja (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,49 | +2.0% | und | Sukita Laranja (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,49 | +0.0% | und | Sukita Laranja (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,41 | -3.2% | und | Sukita Laranja (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,43 | +0.8% | und | Sukita Laranja (lata 310 a 350 ml) | Port. 383/2021 |
@@ -21975,7 +21963,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,33 | -2.1% | Und | Sukita Laranja (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,48 | +4.5% | und | Sukita Laranja (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,61 | +3.7% | und | Sukita Laranja (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,68 | +1.9% | und | Sukita Laranja (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,68 | +1.9% | und | Sukita Laranja (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,68 | +0.0% | und | Sukita Laranja (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,65 | -0.8% | und | Sukita Laranja (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,53 | -3.3% | und | Sukita Laranja (PET 1 L) | Port. 383/2021 |
@@ -22009,7 +21997,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,23 | +7.4% | Und | Sukita Laranja (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,30 | +1.3% | und | Sukita Laranja (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,44 | +2.6% | und | Sukita Laranja (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,55 | +2.0% | und | Sukita Laranja (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,55 | +2.0% | und | Sukita Laranja (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,55 | +0.0% | und | Sukita Laranja (PET 2 L) | Port. 286/2019 |
 
 ### Refrigerante Sukita Laranja - Pet 200 ml (código 50212)
@@ -22018,7 +22006,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 1,10 |  |  | Refrigerante Sukita Laranja - Pet 200 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,13 | +2.7% | und | Sukita Laranja – 200 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Sukita Laranja – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Sukita Laranja – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +0.0% | und | Sukita Laranja – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,15 | +0.0% | und | Sukita Laranja – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,19 | +3.5% | und | Sukita Laranja (PET 200 ml) ⚠ | Port. 383/2021 |
@@ -22039,7 +22027,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,10 |  | Und | Sukita Laranja (PET 237 a 260 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,12 | +1.8% | und | Sukita Laranja (PET 237 a 260 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,16 | +3.6% | und | Sukita Laranja (PET 200 a 260 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,18 | +1.7% | und | Sukita Laranja (PET 200 a 260 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,18 | +1.7% | und | Sukita Laranja (PET 200 a 260 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,18 | +0.0% | und | Sukita Laranja (PET 200 a 260 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,17 | -0.8% | und | Sukita Laranja – 237 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,20 | +2.6% | und | Sukita Laranja (PET 237 ml) ⚠ | Port. 383/2021 |
@@ -22078,7 +22066,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,11 | +2.4% | Und | Sukita sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,18 | +1.4% | und | Sukita sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,33 | +2.9% | und | Sukita sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,44 | +2.1% | und | Sukita sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,44 | +2.1% | und | Sukita sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,44 | +0.0% | und | Sukita sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,90 | -9.9% | und | Sukita sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,63 | -5.5% | und | Sukita sabores (PET 2 L) | Port. 383/2021 |
@@ -22105,7 +22093,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,19 | -6.3% | Und | Sukita sabores - 237 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,30 | +9.2% | und | Sukita sabores - 237 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,34 | +3.1% | und | Sukita sabores – 237 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Sukita sabores – 237 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +2.2% | und | Sukita sabores – 237 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,37 | +0.0% | und | Sukita sabores – 237 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,37 | +0.0% | und | Sukita sabores – 237 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,40 | +2.2% | und | Sukita sabores (PET 237 ml) ⚠ | Port. 383/2021 |
@@ -22130,7 +22118,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,78 | +13.9% | Und | Sukita Uva (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,82 | +1.4% | und | Sukita Uva (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,99 | +6.0% | und | Sukita Uva (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,05 | +2.0% | und | Sukita Uva (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,05 | +2.0% | und | Sukita Uva (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,05 | +0.0% | und | Sukita Uva (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,12 | +2.3% | und | Sukita Uva (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,24 | +3.8% | und | Sukita Uva (lata 310 a 350 ml) | Port. 383/2021 |
@@ -22152,7 +22140,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,23 | +7.4% | Und | Sukita Uva (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,30 | +1.3% | und | Sukita Uva (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,46 | +3.0% | und | Sukita Uva (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,57 | +2.0% | und | Sukita Uva (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,57 | +2.0% | und | Sukita Uva (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,57 | +0.0% | und | Sukita Uva (PET 2 L) | Port. 286/2019 |
 
 ### Refrigerante Sukita Uva - Pet 200 ml (código 50213)
@@ -22161,7 +22149,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-07-12 (pub.) | 2018-07-09 | incluir | 1,10 |  |  | Refrigerante Sukita Uva - Pet 200 ml | Port. 246/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,13 | +2.7% | und | Sukita Uva – 200 ml ⚠ | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Sukita Uva – 200 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +1.8% | und | Sukita Uva – 200 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,15 | +0.0% | und | Sukita Uva – 200 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,15 | +0.0% | und | Sukita Uva – 200 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,20 | +4.3% | und | Sukita Uva (PET 200 ml) ⚠ | Port. 383/2021 |
@@ -22196,7 +22184,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,46 | +3.0% | Und | Taubaiana (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,51 | +1.4% | und | Taubaiana (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,61 | +2.8% | und | Taubaiana (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,68 | +1.9% | und | Taubaiana (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,68 | +1.9% | und | Taubaiana (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,68 | +0.0% | und | Taubaiana (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,89 | +5.7% | und | Taubaiana (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,00 | +2.8% | und | Taubaiana (PET 2 L) | Port. 383/2021 |
@@ -22220,7 +22208,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,76 | +6.0% | Und | Taubaiana (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,79 | +1.7% | und | Taubaiana (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,02 | +12.8% | und | Taubaiana (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Taubaiana (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +2.0% | und | Taubaiana (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,06 | +0.0% | und | Taubaiana (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,03 | -1.5% | und | Taubaiana (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,03 | +0.0% | und | Taubaiana (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -22263,7 +22251,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,61 | +5.9% | Und | Taubaiana - retornável (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,63 | +1.2% | und | Taubaiana - retornável (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,84 | +12.9% | und | Taubaiana - retornável (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Taubaiana - retornável (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Taubaiana - retornável (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +0.0% | und | Taubaiana - retornável (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,86 | -1.1% | und | Taubaiana - retornável (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,86 | +0.0% | und | Taubaiana - retornável (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -22291,7 +22279,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,19 |  | und | Taubaina (3 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,29 | +1.9% | und | Taubaina (3 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,40 | +2.1% | und | Taubaina (3 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,40 | +2.1% | und | Taubaina (3 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,40 | +0.0% | und | Taubaina (3 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,56 | +3.0% | und | Taubaina (3 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 5,70 | +2.5% | und | Taubaina (3 L) | Port. 383/2021 |
@@ -22817,7 +22805,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,70 | +3.1% | Und | Top Cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,74 | +1.5% | und | Top Cola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,82 | +2.9% | und | Top Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,88 | +2.1% | und | Top Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,88 | +2.1% | und | Top Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,88 | +0.0% | und | Top Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,05 | +5.9% | und | Top Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,13 | +2.6% | und | Top Cola (PET 2 L) | Port. 383/2021 |
@@ -22840,7 +22828,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,69 | +3.1% | Und | Top Guaraná (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,73 | +1.5% | und | Top Guaraná (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,81 | +2.9% | und | Top Guaraná (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,87 | +2.1% | und | Top Guaraná (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,87 | +2.1% | und | Top Guaraná (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,87 | +0.0% | und | Top Guaraná (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,04 | +5.9% | und | Top Guaraná (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,12 | +2.6% | und | Top Guaraná (PET 2 L) | Port. 383/2021 |
@@ -22863,7 +22851,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,69 | +3.1% | Und | Top Laranja (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,73 | +1.5% | und | Top Laranja (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,81 | +2.9% | und | Top Laranja (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,87 | +2.1% | und | Top Laranja (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,87 | +2.1% | und | Top Laranja (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,87 | +0.0% | und | Top Laranja (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,04 | +5.9% | und | Top Laranja (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,12 | +2.6% | und | Top Laranja (PET 2 L) | Port. 383/2021 |
@@ -22886,7 +22874,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,69 | +3.1% | Und | Top Limão (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,73 | +1.5% | und | Top Limão (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,81 | +2.9% | und | Top Limão (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,87 | +2.1% | und | Top Limão (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,87 | +2.1% | und | Top Limão (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,87 | +0.0% | und | Top Limão (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,04 | +5.9% | und | Top Limão (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,12 | +2.6% | und | Top Limão (PET 2 L) | Port. 383/2021 |
@@ -22995,7 +22983,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,72 | +13.9% | Und | Tropicola (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,74 | +1.2% | und | Tropicola (lata 350 ml) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,84 | +5.7% | und | Tropicola (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Tropicola (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +2.2% | und | Tropicola (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,88 | +0.0% | und | Tropicola (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,92 | +2.1% | und | Tropicola (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,99 | +3.6% | und | Tropicola (lata 310 a 350 ml) | Port. 383/2021 |
@@ -23026,7 +23014,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,42 | +4.0% | Und | Tropicola (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,47 | +1.5% | und | Tropicola (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,63 | +4.6% | und | Tropicola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,70 | +1.9% | und | Tropicola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,70 | +1.9% | und | Tropicola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,70 | +0.0% | und | Tropicola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,76 | +1.6% | und | Tropicola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,79 | +0.8% | und | Tropicola (PET 1 L) | Port. 383/2021 |
@@ -23050,7 +23038,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,40 | +3.0% | Und | Tropicola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,45 | +1.5% | und | Tropicola (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,55 | +2.9% | und | Tropicola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,62 | +2.0% | und | Tropicola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,62 | +2.0% | und | Tropicola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,62 | +0.0% | und | Tropicola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,83 | +5.8% | und | Tropicola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,94 | +2.9% | und | Tropicola (PET 2 L) | Port. 383/2021 |
@@ -23081,7 +23069,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,99 | +5.9% | Und | Tropicola (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,02 | +1.5% | und | Tropicola (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,28 | +12.9% | und | Tropicola (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,33 | +2.2% | und | Tropicola (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,33 | +2.2% | und | Tropicola (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,33 | +0.0% | und | Tropicola (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,30 | -1.3% | und | Tropicola (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,30 | +0.0% | und | Tropicola (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -23112,7 +23100,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,66 | +5.7% | Und | Tropicola - Retornável (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,68 | +1.2% | und | Tropicola - Retornável (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,90 | +13.1% | und | Tropicola - Retornável (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,94 | +2.1% | und | Tropicola - Retornável (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,94 | +2.1% | und | Tropicola - Retornável (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,94 | +0.0% | und | Tropicola - Retornável (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,92 | -1.0% | und | Tropicola - Retornável (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,92 | +0.0% | und | Tropicola - Retornável (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -23154,7 +23142,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,42 | +4.0% | Und | Tropicola Zero (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,47 | +1.5% | und | Tropicola Zero (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,63 | +4.6% | und | Tropicola Zero (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,70 | +1.9% | und | Tropicola Zero (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,70 | +1.9% | und | Tropicola Zero (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,70 | +0.0% | und | Tropicola Zero (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,76 | +1.6% | und | Tropicola Zero (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,79 | +0.8% | und | Tropicola Zero (PET 1 L) | Port. 383/2021 |
@@ -23177,7 +23165,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,40 | +3.0% | Und | Tropicola Zero (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,45 | +1.5% | und | Tropicola Zero (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,55 | +2.9% | und | Tropicola Zero (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,62 | +2.0% | und | Tropicola Zero (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,62 | +2.0% | und | Tropicola Zero (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,62 | +0.0% | und | Tropicola Zero (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,83 | +5.8% | und | Tropicola Zero (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,94 | +2.9% | und | Tropicola Zero (PET 2 L) | Port. 383/2021 |
@@ -23207,7 +23195,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,07 | +6.2% | Und | Tropicola Zero (PET 500 a 600 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,10 | +1.4% | und | Tropicola Zero (500 a 600 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,37 | +12.9% | und | Tropicola Zero (500 a 600 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,42 | +2.1% | und | Tropicola Zero (500 a 600 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,42 | +2.1% | und | Tropicola Zero (500 a 600 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,42 | +0.0% | und | Tropicola Zero (500 a 600 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,39 | -1.2% | und | Tropicola Zero (500 a 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,39 | +0.0% | und | Tropicola Zero (PET 600 ml) ⚠ | Port. 383/2021 |
@@ -23253,7 +23241,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,16 | +3.9% | Und | Tubarel sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,21 | +1.6% | und | Tubarel sabores (PET 1 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,35 | +4.4% | und | Tubarel sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,42 | +2.1% | und | Tubarel sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,42 | +2.1% | und | Tubarel sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,42 | +0.0% | und | Tubarel sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,48 | +1.8% | und | Tubarel sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,50 | +0.6% | und | Tubarel sabores (PET 1 L) | Port. 383/2021 |
@@ -23282,7 +23270,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,19 | +3.0% | Und | Tubarel sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,26 | +1.3% | und | Tubarel sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 5,42 | +3.0% | und | Tubarel sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 5,53 | +2.0% | und | Tubarel sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,53 | +2.0% | und | Tubarel sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 5,53 | +0.0% | und | Tubarel sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,85 | +5.8% | und | Tubarel sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,01 | +2.7% | und | Tubarel sabores (PET 2 L) | Port. 383/2021 |
@@ -23311,7 +23299,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 0,87 | -4.4% | Und | Tubarel sabores - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 0,93 | +6.9% | und | Tubarel sabores - 250 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 0,96 | +3.2% | und | Tubarel sabores - 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 0,98 | +2.1% | und | Tubarel sabores - 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,98 | +2.1% | und | Tubarel sabores - 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 0,98 | +0.0% | und | Tubarel sabores - 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 0,98 | +0.0% | und | Tubarel sabores - 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,03 | +5.1% | und | Tubarel sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -23372,7 +23360,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,59 | +2.9% | Und | Tuca sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,64 | +1.4% | und | Tuca sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,75 | +3.0% | und | Tuca sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Tuca sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Tuca sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +0.0% | und | Tuca sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,05 | +5.7% | und | Tuca sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,16 | +2.7% | und | Tuca sabores (PET 2 L) | Port. 383/2021 |
@@ -23412,7 +23400,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,80 | +3.0% | Und | Turma da Monica (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,85 | +1.3% | und | Turma da Monica (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,96 | +2.9% | und | Turma da Monica (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,04 | +2.0% | und | Turma da Monica (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,04 | +2.0% | und | Turma da Monica (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,04 | +0.0% | und | Turma da Monica (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,27 | +5.7% | und | Turma da Monica (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,39 | +2.8% | und | Turma da Monica (PET 2 L) | Port. 383/2021 |
@@ -23470,7 +23458,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,74 | +6.7% | Und | Schin Cola (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,76 | +1.1% | und | Viva Schin Cola (lata 350 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,71 | -2.8% | und | Viva Schin Cola (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Viva Schin Cola (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +1.8% | und | Viva Schin Cola (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,74 | +0.0% | und | Viva Schin Cola (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,88 | +8.0% | und | Viva Schin Cola (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,01 | +6.9% | und | Viva Schin Cola (lata 310 a 350 ml) | Port. 383/2021 |
@@ -23502,7 +23490,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,30 | +2.2% | Und | Schin cola (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,33 | +1.3% | und | Viva Schin cola (PET 1 L) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,64 | +13.3% | und | Viva Schin cola (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Viva Schin cola (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +1.9% | und | Viva Schin cola (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,69 | +0.0% | und | Viva Schin cola (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,90 | +7.8% | und | Viva Schin cola (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,05 | +5.2% | und | Viva Schin cola (PET 1 L) | Port. 383/2021 |
@@ -23523,7 +23511,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,65 | +1.1% | Und | Schin cola (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,70 | +1.4% | und | Viva Schin Cola (PET 2 L) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,81 | +3.0% | und | Viva Schin Cola (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 4,00 | +5.0% | und | Viva Schin Cola (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,00 | +5.0% | und | Viva Schin Cola (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 4,00 | +0.0% | und | Viva Schin Cola (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,15 | +3.8% | und | Viva Schin Cola (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,46 | +7.5% | und | Viva Schin Cola (PET 2 L) | Port. 383/2021 |
@@ -23550,7 +23538,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,11 | -4.3% | Und | Schin cola - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,19 | +7.2% | und | Viva Schin Cola - 250 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,11 | -6.7% | und | Viva Schin Cola – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,13 | +1.8% | und | Viva Schin Cola – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,13 | +1.8% | und | Viva Schin Cola – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,13 | +0.0% | und | Viva Schin Cola – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,10 | -2.7% | und | Viva Schin Cola – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,16 | +5.5% | und | Viva Schin Cola (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -23571,7 +23559,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,75 | +1.9% | Und | Schin Guaraná Pop (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,80 | +1.3% | und | Viva Schin Guaraná Pop (PET 2 L) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,84 | +1.1% | und | Viva Schin Guaraná Pop (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Viva Schin Guaraná Pop (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +2.1% | und | Viva Schin Guaraná Pop (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,92 | +0.0% | und | Viva Schin Guaraná Pop (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,15 | +5.9% | und | Viva Schin Guaraná Pop (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,26 | +2.7% | und | Viva Schin Guaraná Pop (PET 2 L) | Port. 383/2021 |
@@ -23603,7 +23591,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,68 | +6.3% | Und | Schin Sabores (lata 350 ml) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,70 | +1.2% | und | Viva Schin Sabores (lata 350 ml) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,79 | +5.3% | und | Viva Schin Sabores (lata 350 ml) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,83 | +2.2% | und | Viva Schin Sabores (lata 350 ml) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,83 | +2.2% | und | Viva Schin Sabores (lata 350 ml) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,83 | +0.0% | und | Viva Schin Sabores (lata 350 ml) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,85 | +1.1% | und | Viva Schin Sabores (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,98 | +7.0% | und | Viva Schin Sabores (lata 310 a 350 ml) | Port. 383/2021 |
@@ -23628,7 +23616,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,26 | +4.1% | Und | Schin Sabores (PET 1 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,29 | +1.3% | und | Viva Schin Sabores (PET 1 L) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,53 | +10.5% | und | Viva Schin Sabores (PET 1 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 2,58 | +2.0% | und | Viva Schin Sabores (PET 1 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,58 | +2.0% | und | Viva Schin Sabores (PET 1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 2,58 | +0.0% | und | Viva Schin Sabores (PET 1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,81 | +8.9% | und | Viva Schin Sabores (PET 1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,99 | +6.4% | und | Viva Schin Sabores (PET 1 L) | Port. 383/2021 |
@@ -23649,7 +23637,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,62 | +0.3% | Und | Schin Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,67 | +1.4% | und | Viva Schin Sabores (PET 2 L) ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,78 | +3.0% | und | Viva Schin Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,70 | -2.1% | und | Viva Schin Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,70 | -2.1% | und | Viva Schin Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,70 | +0.0% | und | Viva Schin Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,01 | +8.4% | und | Viva Schin Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,26 | +6.2% | und | Viva Schin Sabores (PET 2 L) | Port. 383/2021 |
@@ -23675,7 +23663,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,11 | -4.3% | Und | Schin sabores - 250 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 1,19 | +7.2% | und | Viva Schin Sabores - 250 ml ⚠ | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 1,10 | -7.6% | und | Viva Schin Sabores – 250 ml | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 1,12 | +1.8% | und | Viva Schin Sabores – 250 ml | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,12 | +1.8% | und | Viva Schin Sabores – 250 ml | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1,12 | +0.0% | und | Viva Schin Sabores – 250 ml | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1,09 | -2.7% | und | Viva Schin Sabores – 250 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,14 | +4.6% | und | Viva Schin Sabores (PET 250 ml) ⚠ | Port. 383/2021 |
@@ -24085,7 +24073,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,47 | +3.0% | Und | Wilson Açucar (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,52 | +1.4% | und | Wilson Açucar (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,62 | +2.8% | und | Wilson Açucar (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Wilson Açucar (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Wilson Açucar (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +0.0% | und | Wilson Açucar (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,90 | +5.7% | und | Wilson Açucar (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,01 | +2.8% | und | Wilson Açucar (PET 2 L) | Port. 383/2021 |
@@ -24124,7 +24112,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,32 | +3.1% | Und | Wilson Baixa Caloria (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,37 | +1.5% | und | Wilson Baixa Caloria (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,47 | +3.0% | und | Wilson Baixa Caloria (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Wilson Baixa Caloria (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +2.0% | und | Wilson Baixa Caloria (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,54 | +0.0% | und | Wilson Baixa Caloria (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,74 | +5.6% | und | Wilson Baixa Caloria (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 3,84 | +2.7% | und | Wilson Baixa Caloria (PET 2 L) | Port. 383/2021 |
@@ -24332,7 +24320,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,47 | +3.0% | Und | Xereta Sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,52 | +1.4% | und | Xereta Sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,62 | +2.8% | und | Xereta Sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Xereta Sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +1.9% | und | Xereta Sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,69 | +0.0% | und | Xereta Sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 3,90 | +5.7% | und | Xereta Sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,01 | +2.8% | und | Xereta Sabores (PET 2 L) | Port. 383/2021 |
@@ -24443,7 +24431,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,59 | +2.9% | Und | Zib sabores (PET 2 L) | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,64 | +1.4% | und | Zib sabores (PET 2 L) | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 3,75 | +3.0% | und | Zib sabores (PET 2 L) | Port. 383/2018 |
-| 2019-05-06 (assin.) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Zib sabores (PET 2 L) | Port. 285/2019 |
+| 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +2.1% | und | Zib sabores (PET 2 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 3,83 | +0.0% | und | Zib sabores (PET 2 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 4,05 | +5.7% | und | Zib sabores (PET 2 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 4,16 | +2.7% | und | Zib sabores (PET 2 L) | Port. 383/2021 |
@@ -24526,7 +24514,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 394/2018: [Portaria nº 394/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=566f2a48-2c4f-4a35-bf92-36a1374d81d6), vigência 2018-11-19 (pub.)
 - Port. 52/2019: [Portaria nº 52/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3ba253a5-7d7b-4316-b405-bef9c3705a44), vigência 2019-02-06 (pub.)
 - Port. 63/2019: [Portaria nº 63/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8ad36997-9874-4ab8-852b-38073cb1ef38), vigência 2019-02-18 (pub.)
-- Port. 285/2019: [Portaria nº 285/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19942b52-3256-43bb-8391-cde43c3991d8), vigência 2019-05-06 (assin.)
+- Port. 285/2019: [Portaria nº 285/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19942b52-3256-43bb-8391-cde43c3991d8), vigência 2019-05-09 (efeitos)
 - Port. 286/2019: [Portaria nº 286/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbee083c-ca4e-46c2-8d10-104483cf566a), vigência 2019-05-09 (efeitos)
 - Port. 319/2019: [Portaria nº 319/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92cfba2c-8b8a-4c3b-b70d-c02672726974), vigência 2019-05-30 (pub.)
 - Port. 320/2019: [Portaria nº 320/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a0ae8c6c-d3c7-4552-8764-30d4e585abfe), vigência 2019-05-30 (pub.)
