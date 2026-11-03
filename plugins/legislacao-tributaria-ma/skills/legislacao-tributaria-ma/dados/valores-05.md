@@ -1423,7 +1423,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | REFRIGERANTE GRANFINO - LIMÃO 2.000 ml | 1,30 | 2005-06-22 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Grapette 2.000 ml | 1,39 | 2005-09-15 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antarctica - Multpack 6 Latas 350 ml | 13,74 | 2024-01-11 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Guaraná Antártica + Guaraná Antártica Zero - Kit 2 gafs. - Pet 2.000 ml | 12,66 | 2024-05-13 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Guaraná Antártica + Guaraná Antártica Zero - Kit 2 gafs. - Pet 2.000 ml | 12,66 | 2024-05-17 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica + Pepsi – Kit com 2 Garf - Pet 100 ml | 4,99 | 2020-06-30 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica + Pepsi – Kit com 2 Garrafas - Pet 1000 ml | 4,99 | 2020-07-13 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica = Pepsi Cola - Multpack - Kit com 2 gafs - Pet 2.000 ml | 11,09 | 2022-09-12 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1431,7 +1431,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Guaraná Antártica Zero – Lata – Multpack – com 12 unidades 350 ml | 28,68 | 2025-01-15 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica – Kit Com 2 Garf - Pet 1000 ml | 4,99 | 2020-06-30 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica – Lata – Multpack – com 12 unidades 350 ml | 28,68 | 2025-01-15 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Guaraná Antártica – Pet 3.300 ml | 6,60 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Guaraná Antártica – Pet 3.300 ml | 6,60 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Jeneve 2.000 ml | 4,09 | 2022-08-23 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Jeneve 200 ml | 1,40 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Mara 200 ml | 1,01 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1447,9 +1447,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Indaiá cola 1000 ml | 1,48 | 2014-06-23 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Guaraná 1000 ml | 1,43 | 2014-06-23 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Refri Cola 1000 ml | 2,51 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Indaiá Refri Cola 2000 ml | 3,20 | 2017-07-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Indaiá Refri Cola 2000 ml | 3,20 | 2017-07-26 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Refri Sabores 1000 ml | 2,50 | 2018-11-19 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Indaiá Refri Sabores 2000 ml | 3,20 | 2017-07-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Indaiá Refri Sabores 2000 ml | 3,20 | 2017-07-26 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Sabores - PET 330 ml | 0,88 | 2007-01-17 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Sabores 1000 ml | 1,45 | 2014-06-23 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Sabores 2000 ml | 2,60 | 2007-01-17 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1612,12 +1612,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Tônica Zero – Vidro Descartavel 200 ml | 3,80 | 2019-08-29 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Tônica – Vidro Descartavel 200 ml | 3,80 | 2019-08-29 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Top Cola - Pet 250 ml | 0,40 | 2015-12-03 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Top Cola 2000 ml | 3,50 | 2017-07-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Top Cola 2000 ml | 3,50 | 2017-07-26 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Top Guaraná - Pet 250 ml | 0,40 | 2015-12-03 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Top Guaraná 2000 ml | 3,50 | 2017-07-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Top Laranja 2000 ml | 3,50 | 2017-07-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Top Guaraná 2000 ml | 3,50 | 2017-07-26 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Top Laranja 2000 ml | 3,50 | 2017-07-26 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Top Laranja- Pet 250 ml | 0,40 | 2015-12-03 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Top Limão 2000 ml | 3,50 | 2017-07-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Top Limão 2000 ml | 3,50 | 2017-07-26 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Top Limão- Lata 250 ml | 0,40 | 2015-12-03 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Top Mix Cola - Pet 1.000 ml | 1,88 | 2017-04-04 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Top Mix Cola - Pet 2.000 ml | 2,55 | 2017-04-04 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -14839,7 +14839,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 6,60 |  |  | Refrigerante Pepsi Cola - Pet 3.300 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 6,60 |  |  | Refrigerante Pepsi Cola - Pet 3.300 ml | Port. 363/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,79 | +2.9% | und | Pepsi Cola - 3300ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,96 | +2.5% | und | Pepsi Cola - 3300ml | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 7,62 | +9.5% | und | Pepsi Cola (3,3 L) | Port. 454/2022 |
@@ -17295,7 +17295,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2024-05-13 (assin.) | 2024-05-13 | incluir | 12,66 |  |  | Refrigerante Guaraná Antártica + Guaraná Antártica Zero - Kit 2 gafs. - Pet 2.000 ml | Port. 166/2024 |
+| 2024-05-17 (pub.) | 2024-05-13 | incluir | 12,66 |  |  | Refrigerante Guaraná Antártica + Guaraná Antártica Zero - Kit 2 gafs. - Pet 2.000 ml | Port. 166/2024 |
 
 ### Refrigerante Guaraná Antártica + Pepsi – Kit com 2 Garf - Pet 100 ml (código —)
 
@@ -17343,7 +17343,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 6,60 |  |  | Refrigerante Guaraná Antártica – Pet 3.300 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 6,60 |  |  | Refrigerante Guaraná Antártica – Pet 3.300 ml | Port. 363/2019 |
 
 ### Refrigerante Guaraná Jeneve 2.000 ml (código —)
 
@@ -17444,7 +17444,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-07-21 (assin.) | 2017-07-21 | alterar | 3,20 |  |  | Refrigerante Indaiá Refri Cola 2000 ml | Port. 338/2017 |
+| 2017-07-26 (pub.) | 2017-07-21 | alterar | 3,20 |  |  | Refrigerante Indaiá Refri Cola 2000 ml | Port. 338/2017 |
 
 ### Refrigerante Indaiá Refri Sabores 1000 ml (código —)
 
@@ -17456,7 +17456,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-07-21 (assin.) | 2017-07-21 | alterar | 3,20 |  |  | Refrigerante Indaiá Refri Sabores 2000 ml | Port. 338/2017 |
+| 2017-07-26 (pub.) | 2017-07-21 | alterar | 3,20 |  |  | Refrigerante Indaiá Refri Sabores 2000 ml | Port. 338/2017 |
 
 ### Refrigerante Indaiá Sabores - PET 330 ml (código —)
 
@@ -18578,7 +18578,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-07-21 (assin.) | 2017-07-21 | alterar | 3,50 |  |  | Refrigerante Top Cola 2000 ml | Port. 338/2017 |
+| 2017-07-26 (pub.) | 2017-07-21 | alterar | 3,50 |  |  | Refrigerante Top Cola 2000 ml | Port. 338/2017 |
 
 ### Refrigerante Top Guaraná - Pet 250 ml (código —)
 
@@ -18590,13 +18590,13 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-07-21 (assin.) | 2017-07-21 | alterar | 3,50 |  |  | Refrigerante Top Guaraná 2000 ml | Port. 338/2017 |
+| 2017-07-26 (pub.) | 2017-07-21 | alterar | 3,50 |  |  | Refrigerante Top Guaraná 2000 ml | Port. 338/2017 |
 
 ### Refrigerante Top Laranja 2000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-07-21 (assin.) | 2017-07-21 | alterar | 3,50 |  |  | Refrigerante Top Laranja 2000 ml | Port. 338/2017 |
+| 2017-07-26 (pub.) | 2017-07-21 | alterar | 3,50 |  |  | Refrigerante Top Laranja 2000 ml | Port. 338/2017 |
 
 ### Refrigerante Top Laranja- Pet 250 ml (código —)
 
@@ -18608,7 +18608,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-07-21 (assin.) | 2017-07-21 | alterar | 3,50 |  |  | Refrigerante Top Limão 2000 ml | Port. 338/2017 |
+| 2017-07-26 (pub.) | 2017-07-21 | alterar | 3,50 |  |  | Refrigerante Top Limão 2000 ml | Port. 338/2017 |
 
 ### Refrigerante Top Limão- Lata 250 ml (código —)
 
@@ -24502,7 +24502,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 180/2017: [Portaria nº 180/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=627f2b7d-5681-44ec-b7a8-6eaa7c8f0240), vigência 2017-04-04 (pub.)
 - Port. 222/2017: [Portaria nº 222/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f71bce19-d3dc-418b-99e4-4683a5ea22ca), vigência 2017-05-05 (pub.)
 - Port. 280/2017: [Portaria nº 280/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=26afe622-0ca8-4ce6-b78f-53332463dfa9), vigência 2017-06-19 (pub.)
-- Port. 338/2017: [Portaria nº 338/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=857ec881-1c81-486a-8f71-5cb94864a905), vigência 2017-07-21 (assin.)
+- Port. 338/2017: [Portaria nº 338/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=857ec881-1c81-486a-8f71-5cb94864a905), vigência 2017-07-26 (pub.)
 - Port. 404/2017: [Portaria nº 404/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ba996ff2-87b9-4419-9a89-74718345a429), vigência 2017-09-15 (pub.)
 - Port. 507/2017: [Portaria nº 507/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=35cafbc4-c212-454e-a43e-c326c451aee6), vigência 2017-10-23 (assin.)
 - Port. 525/2017: [Portaria nº 525/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=98fadde6-55dd-43a6-95e1-68ba74037511), vigência 2017-11-17 (pub.)
@@ -24518,8 +24518,8 @@ Links para o texto de cada portaria usada acima.
 - Port. 286/2019: [Portaria nº 286/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbee083c-ca4e-46c2-8d10-104483cf566a), vigência 2019-05-09 (efeitos)
 - Port. 319/2019: [Portaria nº 319/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92cfba2c-8b8a-4c3b-b70d-c02672726974), vigência 2019-05-30 (pub.)
 - Port. 320/2019: [Portaria nº 320/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a0ae8c6c-d3c7-4552-8764-30d4e585abfe), vigência 2019-05-30 (pub.)
-- Port. 363/2019: [Portaria nº 363/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=23055fe9-026e-486b-871b-0e950177d528), vigência 2019-06-10 (assin.)
 - Port. 350/2019: [Portaria nº 350/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cac5023f-16d6-4956-9832-29962a9abdf1), vigência 2019-06-11 (pub.)
+- Port. 363/2019: [Portaria nº 363/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=23055fe9-026e-486b-871b-0e950177d528), vigência 2019-06-14 (pub.)
 - Port. 435/2019: [Portaria nº 435/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9db99d60-ac9b-47b2-a7b4-68a842816637), vigência 2019-07-31 (pub.)
 - Port. 467/2019: [Portaria nº 467/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fd0f3457-4e65-4ff0-9fa3-888b588412a9), vigência 2019-08-12 (pub.)
 - Port. 471/2019: [Portaria nº 471/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0cff9edb-a622-43aa-80f3-9363ef838235), vigência 2019-08-14 (pub.)
@@ -24584,7 +24584,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 66/2024: [Portaria nº 66/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c2297b8b-eb73-4ad6-bcab-042eadcbd4a5), vigência 2024-03-07 (pub.)
 - Port. 91/2024: [Portaria nº 91/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c8e459a-070c-45dc-b7d1-2eb03bc2f448), vigência 2024-04-01 (pub.)
 - Port. 140/2024: [Portaria nº 140/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=48c183a4-f93f-4ecc-b41b-b524b55c1aca), vigência 2024-05-06 (pub.)
-- Port. 166/2024: [Portaria nº 166/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbde11d7-fe3e-42cc-b5c5-6623da2f1921), vigência 2024-05-13 (assin.)
+- Port. 166/2024: [Portaria nº 166/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbde11d7-fe3e-42cc-b5c5-6623da2f1921), vigência 2024-05-17 (pub.)
 - Port. 167/2024: [Portaria nº 167/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cb2d4177-1541-45c2-89ab-3c8ac01eacbc), vigência 2024-05-17 (pub.)
 - Port. 180/2024: [Portaria nº 180/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=beb1945e-b8cb-4e45-961a-490bfaca9a3e), vigência 2024-05-27 (pub.)
 - Port. 222/2024: [Portaria nº 222/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d5718094-1ff6-4cd7-aa51-40d54c4b298b), vigência 2024-06-28 (pub.)

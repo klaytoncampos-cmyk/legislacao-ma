@@ -1757,7 +1757,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50307 | Capunga Pilsen Praia - 473 ml (⚠ este código já designou: Chopp Rambeer Pilsen (1 L)) | und | 3,01 | 2019-05-09 (efeitos) | Port. 285/2019 | ⚠ o código 50307 passou a designar "Chopp Rambeer Pilsen (1 L)" pela Portaria nº 285/2019 (2019-05-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50307 | Capunga Pilsen Praia - 473 ml (⚠ este código já designou: Chopp Rambeer Pilsen (1 L)) | und | 3,01 | 2019-05-09 (efeitos) | Port. 286/2019 | ⚠ o código 50307 passou a designar "Chopp Rambeer Pilsen (1 L)" pela Portaria nº 286/2019 (2019-05-09), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
 | 50307 | Capunga Pilsen Praia - 473 ml (⚠ este código já designou: Chopp Rambeer Pilsen (1 L)) | und | 3,02 | 2019-11-12 (pub.) | Port. 614/2019 | ⚠ o código 50307 passou a designar "Chopp Rambeer Pilsen (1 L)" pela Portaria nº 614/2019 (2019-11-12), sem exclusão ou novo código para este produto: pode ser erro de código na portaria; confirme o valor na SEFAZ |
-| — | Cerveja Amistel Ultra - Lata 350 ml |  | 3,70 | 2026-03-09 (assin.) | Port. 104/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
+| — | Cerveja Amistel Ultra - Lata 350 ml |  | 3,70 | 2026-04-01 (pub.) | Port. 104/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Cerveja Black Princess Ipa - Lata 269 ml |  | 4,71 | 2026-03-13 (pub.) | Port. 100/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | — | Cerveja Budweiser – Multpack – Kit com 12 latas 350 ml |  | 43,85 | 2026-02-09 (pub.) | Port. 59/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
 | 54429 | Cerveja Império Ultra 0,0 – Lata 269 ml |  | 2,80 | 2026-06-17 (pub.) | Port. 213/2026 | não consta da relação completa da Portaria nº 402/2026 (2026-11-01); pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa |
@@ -2079,7 +2079,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Becks – Vidro Descartável 600 ml | 5,69 | 2019-12-16 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Becks – Vidro Retornável 600 ml | 6,64 | 2019-12-16 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Belco s/Álcool lata 350 ml | 1,27 | 2010-03-02 | não consta das relações completas das Portarias nº 469/2010 (2010-10-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Belga Affligem Blonde - Descartavel 300 ml | 8,82 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Belga Affligem Blonde - Descartavel 300 ml | 8,82 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Benedita Stout Ale 500 ml | 12,00 | 2024-10-16 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Black Princess Gold - Retornável 600 ml | 5,49 | 2018-07-06 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Black Princess Gold 350 ml | 2,80 | 2018-07-06 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2091,7 +2091,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Blagk Princess Gold - Descartável 600 ml | 5,99 | 2014-03-07 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Blue Moon Belgian White – Log Neck 355 ml | 8,18 | 2022-05-23 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Blue Moon Nacional - Long Neck 355 ml | 6,54 | 2022-08-17 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Bohemia - Vidro Retornável 300 ml | 2,84 | 2024-05-13 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Bohemia - Vidro Retornável 300 ml | 2,84 | 2024-05-17 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Bohemia Pilsen – Vidro Descartavel 330 ml | 3,69 | 2021-11-08 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 600 | Cerveja Bossa Nova | 1,17 | 2005-12-12 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 355 | Cerveja Bossa Nova | 0,75 | 2005-12-12 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2268,8 +2268,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Forrozeiro Cream Ale – Descartavel 500 ml | 8,32 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | CERVEJA FREVO 350 ml | 0,79 | 2004-06-07 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Frevo 600 ml | 1,15 | 2009-01-29 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Furstenberg Black Forest Pils – Descartavel 330 ml | 8,82 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Furstenberg Premium Lager - Descartavel 330 ml | 8,82 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Furstenberg Black Forest Pils – Descartavel 330 ml | 8,82 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Furstenberg Premium Lager - Descartavel 330 ml | 8,82 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Geuze6 Mariage Parfait 375 ml | 31,00 | 2018-02-09 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Glacial – Descartável - vidro 300 ml | 1,54 | 2015-10-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Glacial – Retornável – vidro 300 ml | 1,29 | 2015-10-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2445,16 +2445,16 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Oude Geuze Boon Black Label 4ª Edição 750 ml | 62,00 | 2020-12-10 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Oude Kriek Boon 375 ml | 38,00 | 2018-02-09 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Patagônia – Vidro Descartável 600 ml | 6,29 | 2019-12-16 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Patogonia – Long Neck 355 ml | 7,50 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Dunkel Original Muchner Hell – Kit c/ duas garrafas – Desc. 500 ml | 65,00 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Futebol Naturtrub – Kit c/ duas garrafas – Descartavel 500 ml | 65,00 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Hacker–Pschorr Naturtrube Kellerbier - Descartavel 500 ml | 14,35 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Hefe W Natur - Descartavel 330 ml | 8,82 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Hefe-Weissbier Naturtrub - Barril 5.000 ml | 130,00 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Hefe-Weissbier Naturtrub Dunkel – Kit c/duas garrafas - Desc. 500 ml | 48,00 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Original Muchner Hell - Descartavel 330 ml | 8,82 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Original Muchner Hell – Barril 5.000 ml | 130,00 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Paulaner Salvator - Descartavel 330 ml | 8,82 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Patogonia – Long Neck 355 ml | 7,50 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Dunkel Original Muchner Hell – Kit c/ duas garrafas – Desc. 500 ml | 65,00 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Futebol Naturtrub – Kit c/ duas garrafas – Descartavel 500 ml | 65,00 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Hacker–Pschorr Naturtrube Kellerbier - Descartavel 500 ml | 14,35 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Hefe W Natur - Descartavel 330 ml | 8,82 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Hefe-Weissbier Naturtrub - Barril 5.000 ml | 130,00 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Hefe-Weissbier Naturtrub Dunkel – Kit c/duas garrafas - Desc. 500 ml | 48,00 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Original Muchner Hell - Descartavel 330 ml | 8,82 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Original Muchner Hell – Barril 5.000 ml | 130,00 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Paulaner Salvator - Descartavel 330 ml | 8,82 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Caminho das Indias - GARRAFA 355 ml | 8,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Capricórnio - GARRAFA 355 ml | 8,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Paulistânia Capricórnio Dunkles Bock - Descartavel 500 mL | 9,00 | 2019-07-01 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2475,7 +2475,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Petra Premium Escura - Descartável 355 ml | 3,99 | 2014-03-07 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Petra Premium Escura – Vidro Descartavel 330 ml | 4,12 | 2021-11-17 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Petra Premium Welss - Descartável 500 ml | 6,99 | 2014-03-07 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Petra Puro Malte - Descartavel 300 ml | 2,76 | 2019-06-11 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Petra Puro Malte - Descartavel 300 ml | 2,76 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Petra Puro Malte - Lata 550 ml | 4,55 | 2024-02-27 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Petra Puro Malte 350 ml | 2,67 | 2018-07-06 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Petra Puro Malte 355 ml | 3,72 | 2018-07-06 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2537,13 +2537,13 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Puro Malte Quadra 66 Estilo Hop Lager – Descartavel 500 ml | 7,74 | 2021-04-26 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Rasen Strong Golden Ale - Descartavel 600 ml | 15,75 | 2022-12-22 | substituído pelo código 53231 (Rasen Strong Golden Ale (descartável 600 ml)) a partir de 2023-04-01; valeu até 2023-03-31 |
 | — | Cerveja Rasen Weizen - Descartavel 600 ml | 12,60 | 2022-12-22 | substituído pelo código 53232 (Rasen Weizen (descartável 600 ml)) a partir de 2023-04-01; valeu até 2023-03-31 |
-| — | Cerveja Red Stripe - Descartavel 330 ml | 8,82 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Red Stripe - Descartavel 330 ml | 8,82 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Rodenbach Alexander - GARRAFA 750 ml | 70,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Rodenbach Classic - GARRAFA 250 ml | 18,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Rodenbach Classic - GARRAFA 330 ml | 35,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Rodenbach Grand Cru - GARRAFA 330 ml | 28,00 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Rodenbach Grand Cru 750 ml | 59,90 | 2020-12-10 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Rodenbach Grand Cru – Garrafa Vidro 330 ml | 30,00 | 2019-07-19 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Rodenbach Grand Cru – Garrafa Vidro 330 ml | 30,00 | 2019-07-29 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | CERVEJA ROLETA RUSSA APA - LATA 350 ml Descartável | 3,17 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | CERVEJA ROLETA RUSSA APA 355 ml Descartável | 3,82 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | CERVEJA ROLETA RUSSA APA 500 ml Descartável | 8,45 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2564,15 +2564,15 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Roleta Russa Session Ipa 500 ml | 8,15 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Roleta Russa Triple Ipa 500 ml | 12,61 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Roleta Russa Triple New England Ipa 500 ml | 14,62 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Garrafa - Descartável 1000 ml | 3,96 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Garrafa - Descartável 355 ml | 1,59 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Garrafa - Retornável 1000 ml | 3,51 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Garrafa - Retornável 600 ml | 3,06 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Lata 269 ml | 1,00 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Lata 350 ml | 1,56 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Lata 473 ml | 1,89 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin Malzbier - Garrafa - Descartável 355 ml | 2,46 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin Zero Álcool - Garrafa - Descartável 355 ml | 2,20 | 2013-11-23 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Garrafa - Descartável 1000 ml | 3,96 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Garrafa - Descartável 355 ml | 1,59 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Garrafa - Retornável 1000 ml | 3,51 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Garrafa - Retornável 600 ml | 3,06 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Lata 269 ml | 1,00 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Lata 350 ml | 1,56 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Lata 473 ml | 1,89 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin Malzbier - Garrafa - Descartável 355 ml | 2,46 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin Zero Álcool - Garrafa - Descartável 355 ml | 2,20 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Scholer's Bier German Pilsner – Pet Descartavel 1.000 ml | 14,50 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Scholer's Bier German Pilsner – Vidro Descartavel 600 ml | 11,90 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Scholer's Bier IPA – Pet Descartavel 1.000 ml | 18,50 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2717,8 +2717,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Chopp Bohemian Pilsen 30.000 ml | 576,00 | 2019-04-26 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Bohemian Pilsen 50.000 ml | 960,00 | 2019-04-26 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50792 | Chopp Brahma (1 L) | 21,11 | 2026-05-01 | substituído pelo código 50326 (Chopp Brahma (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
-| — | Chopp Brahma 30.000 ml | 447,00 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Chopp Brahma 50.000 ml | 745,00 | 2019-06-10 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Chopp Brahma 30.000 ml | 447,00 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Chopp Brahma 50.000 ml | 745,00 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Brahma Claro – 330 ml | 1,56 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Brahma Claro – 350 ml | 1,83 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53694 | Chopp Cerpa Export (1 L) | 8,30 | 2026-05-01 | substituído pelo código 50322 (Chopp Cerpa Export (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
@@ -4610,7 +4610,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-07-19 (assin.) | 2019-07-19 | incluir | 2,22 |  |  | Cerveja Amstel - Lata 350 ml | Port. 426/2019 |
+| 2019-07-29 (pub.) | 2019-07-19 | incluir | 2,22 |  |  | Cerveja Amstel - Lata 350 ml | Port. 426/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,26 | +1.8% | und | Amstel (lata 350 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,32 | +2.7% | und | Amstel (lata 350 ml) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 3,06 | +31.9% | und | Amstel (lata 350 ml) | Port. 454/2022 |
@@ -11928,7 +11928,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2026-03-09 (assin.) | 2026-03-09 | incluir | 3,70 |  |  | Cerveja Amistel Ultra - Lata 350 ml | Port. 104/2026 |
+| 2026-04-01 (pub.) | 2026-03-09 | incluir | 3,70 |  |  | Cerveja Amistel Ultra - Lata 350 ml | Port. 104/2026 |
 
 ### Cerveja Amistel Ultra – Lata 269 ml (código —)
 
@@ -12295,7 +12295,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Belga Affligem Blonde - Descartavel 300 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Belga Affligem Blonde - Descartavel 300 ml | Port. 362/2019 |
 
 ### Cerveja Benedita Stout Ale 500 ml (código —)
 
@@ -12373,7 +12373,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2024-05-13 (assin.) | 2024-05-13 | incluir | 2,84 |  |  | Cerveja Bohemia - Vidro Retornável 300 ml | Port. 166/2024 |
+| 2024-05-17 (pub.) | 2024-05-13 | incluir | 2,84 |  |  | Cerveja Bohemia - Vidro Retornável 300 ml | Port. 166/2024 |
 
 ### Cerveja Bohemia Pilsen – Vidro Descartavel 330 ml (código —)
 
@@ -12752,7 +12752,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-07-20 (assin.) | 2017-07-20 | incluir | 1,48 |  |  | Cerveja Colina Pilsen 269 ml | Port. 337/2017 |
+| 2017-07-26 (pub.) | 2017-07-20 | incluir | 1,48 |  |  | Cerveja Colina Pilsen 269 ml | Port. 337/2017 |
 | 2019-01-15 (pub.) | 2019-01-09 | alterar | 1,51 | +2.0% |  | Cerveja Colina Pilsen 269 ml | Port. 17/2019 |
 
 ### Cerveja Colina Pilsen – Vidro Descartável 300 ml (código —)
@@ -13474,13 +13474,13 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Furstenberg Black Forest Pils – Descartavel 330 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Furstenberg Black Forest Pils – Descartavel 330 ml | Port. 362/2019 |
 
 ### Cerveja Furstenberg Premium Lager - Descartavel 330 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Furstenberg Premium Lager - Descartavel 330 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Furstenberg Premium Lager - Descartavel 330 ml | Port. 362/2019 |
 
 ### Cerveja Geuze6 Mariage Parfait 375 ml (código —)
 
@@ -14551,61 +14551,61 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 7,50 |  |  | Cerveja Patogonia – Long Neck 355 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 7,50 |  |  | Cerveja Patogonia – Long Neck 355 ml | Port. 363/2019 |
 
 ### Cerveja Paulaner Dunkel Original Muchner Hell – Kit c/ duas garrafas – Desc. 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 65,00 |  |  | Cerveja Paulaner Dunkel Original Muchner Hell – Kit c/ duas garrafas – Desc. 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 65,00 |  |  | Cerveja Paulaner Dunkel Original Muchner Hell – Kit c/ duas garrafas – Desc. 500 ml | Port. 362/2019 |
 
 ### Cerveja Paulaner Futebol Naturtrub – Kit c/ duas garrafas – Descartavel 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 65,00 |  |  | Cerveja Paulaner Futebol Naturtrub – Kit c/ duas garrafas – Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 65,00 |  |  | Cerveja Paulaner Futebol Naturtrub – Kit c/ duas garrafas – Descartavel 500 ml | Port. 362/2019 |
 
 ### Cerveja Paulaner Hacker–Pschorr Naturtrube Kellerbier - Descartavel 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hacker–Pschorr Naturtrube Kellerbier - Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hacker–Pschorr Naturtrube Kellerbier - Descartavel 500 ml | Port. 362/2019 |
 
 ### Cerveja Paulaner Hefe W Natur - Descartavel 330 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Paulaner Hefe W Natur - Descartavel 330 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Paulaner Hefe W Natur - Descartavel 330 ml | Port. 362/2019 |
 
 ### Cerveja Paulaner Hefe-Weissbier Naturtrub - Barril 5.000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 130,00 |  |  | Cerveja Paulaner Hefe-Weissbier Naturtrub - Barril 5.000 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 130,00 |  |  | Cerveja Paulaner Hefe-Weissbier Naturtrub - Barril 5.000 ml | Port. 362/2019 |
 
 ### Cerveja Paulaner Hefe-Weissbier Naturtrub Dunkel – Kit c/duas garrafas - Desc. 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 48,00 |  |  | Cerveja Paulaner Hefe-Weissbier Naturtrub Dunkel – Kit c/duas garrafas - Desc. 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 48,00 |  |  | Cerveja Paulaner Hefe-Weissbier Naturtrub Dunkel – Kit c/duas garrafas - Desc. 500 ml | Port. 362/2019 |
 
 ### Cerveja Paulaner Original Muchner Hell - Descartavel 330 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Paulaner Original Muchner Hell - Descartavel 330 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Paulaner Original Muchner Hell - Descartavel 330 ml | Port. 362/2019 |
 
 ### Cerveja Paulaner Original Muchner Hell – Barril 5.000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 130,00 |  |  | Cerveja Paulaner Original Muchner Hell – Barril 5.000 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 130,00 |  |  | Cerveja Paulaner Original Muchner Hell – Barril 5.000 ml | Port. 362/2019 |
 
 ### Cerveja Paulaner Salvator - Descartavel 330 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Paulaner Salvator - Descartavel 330 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Paulaner Salvator - Descartavel 330 ml | Port. 362/2019 |
 
 ### Cerveja Paulistânia Caminho das Indias - GARRAFA 355 ml (código —)
 
@@ -14732,7 +14732,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-06-11 (pub.) | 2019-05-31 | incluir | 2,73 |  |  | Cerveja Petra Puro Malte - Descartavel 300 ml | Port. 351/2019 |
-| 2019-06-11 (assin.) | 2019-06-11 | alterar | 2,76 | +1.1% |  | Cerveja Petra Puro Malte - Descartavel 300 ml | Port. 369/2019 |
+| 2019-06-14 (pub.) | 2019-06-11 | alterar | 2,76 | +1.1% |  | Cerveja Petra Puro Malte - Descartavel 300 ml | Port. 369/2019 |
 
 ### Cerveja Petra Puro Malte - Lata 550 ml (código —)
 
@@ -15104,7 +15104,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Red Stripe - Descartavel 330 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 8,82 |  |  | Cerveja Red Stripe - Descartavel 330 ml | Port. 362/2019 |
 
 ### Cerveja Rodenbach Alexander - GARRAFA 750 ml (código —)
 
@@ -15140,7 +15140,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-07-19 (assin.) | 2019-07-19 | incluir | 30,00 |  |  | Cerveja Rodenbach Grand Cru – Garrafa Vidro 330 ml | Port. 427/2019 |
+| 2019-07-29 (pub.) | 2019-07-19 | incluir | 30,00 |  |  | Cerveja Rodenbach Grand Cru – Garrafa Vidro 330 ml | Port. 427/2019 |
 
 ### CERVEJA ROLETA RUSSA APA - LATA 350 ml Descartável (código —)
 
@@ -15266,55 +15266,55 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 3,96 |  |  | Cerveja Schin - Garrafa - Descartável 1000 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 3,96 |  |  | Cerveja Schin - Garrafa - Descartável 1000 ml | Port. 366/2013 |
 
 ### Cerveja Schin - Garrafa - Descartável 355 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 1,59 |  |  | Cerveja Schin - Garrafa - Descartável 355 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 1,59 |  |  | Cerveja Schin - Garrafa - Descartável 355 ml | Port. 366/2013 |
 
 ### Cerveja Schin - Garrafa - Retornável 1000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 3,51 |  |  | Cerveja Schin - Garrafa - Retornável 1000 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 3,51 |  |  | Cerveja Schin - Garrafa - Retornável 1000 ml | Port. 366/2013 |
 
 ### Cerveja Schin - Garrafa - Retornável 600 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 3,06 |  |  | Cerveja Schin - Garrafa - Retornável 600 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 3,06 |  |  | Cerveja Schin - Garrafa - Retornável 600 ml | Port. 366/2013 |
 
 ### Cerveja Schin - Lata 269 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 1,00 |  |  | Cerveja Schin - Lata 269 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 1,00 |  |  | Cerveja Schin - Lata 269 ml | Port. 366/2013 |
 
 ### Cerveja Schin - Lata 350 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 1,56 |  |  | Cerveja Schin - Lata 350 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 1,56 |  |  | Cerveja Schin - Lata 350 ml | Port. 366/2013 |
 
 ### Cerveja Schin - Lata 473 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 1,89 |  |  | Cerveja Schin - Lata 473 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 1,89 |  |  | Cerveja Schin - Lata 473 ml | Port. 366/2013 |
 
 ### Cerveja Schin Malzbier - Garrafa - Descartável 355 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 2,46 |  |  | Cerveja Schin Malzbier - Garrafa - Descartável 355 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 2,46 |  |  | Cerveja Schin Malzbier - Garrafa - Descartável 355 ml | Port. 366/2013 |
 
 ### Cerveja Schin Zero Álcool - Garrafa - Descartável 355 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 2,20 |  |  | Cerveja Schin Zero Álcool - Garrafa - Descartável 355 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 2,20 |  |  | Cerveja Schin Zero Álcool - Garrafa - Descartável 355 ml | Port. 366/2013 |
 
 ### Cerveja Scholer's Bier German Pilsner – Pet Descartavel 1.000 ml (código —)
 
@@ -15472,7 +15472,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2017-07-20 (assin.) | 2017-07-20 | incluir | 1,48 |  |  | Cerveja Spoller Pilsen 269 ml | Port. 337/2017 |
+| 2017-07-26 (pub.) | 2017-07-20 | incluir | 1,48 |  |  | Cerveja Spoller Pilsen 269 ml | Port. 337/2017 |
 | 2019-01-15 (pub.) | 2019-01-09 | alterar | 1,51 | +2.0% |  | Cerveja Spoller Pilsen 269 ml | Port. 17/2019 |
 
 ### Cerveja Spoller Pilsen – Vidro Descartável 300 ml (código —)
@@ -17164,7 +17164,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,90 |  |  | Chopp Brahma 1.000 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,90 |  |  | Chopp Brahma 1.000 ml | Port. 363/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 15,19 | +1.9% | und | Chopp Brahma (1 L) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,71 | +3.4% | und | Chopp Brahma (1 L) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 17,13 | +9.0% | und | Chopp Brahma (1 L) | Port. 454/2022 |
@@ -17210,13 +17210,13 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 447,00 |  |  | Chopp Brahma 30.000 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 447,00 |  |  | Chopp Brahma 30.000 ml | Port. 363/2019 |
 
 ### Chopp Brahma 50.000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 745,00 |  |  | Chopp Brahma 50.000 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 745,00 |  |  | Chopp Brahma 50.000 ml | Port. 363/2019 |
 
 ### Chopp Brahma Claro – 330 ml (código —)
 
@@ -27358,7 +27358,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2026-03-09 (assin.) | 2026-03-09 | incluir | 3,54 |  |  | Cerveja Eisenbahn Pilsen - Lata 269 ml | Port. 104/2026 |
+| 2026-04-01 (pub.) | 2026-03-09 | incluir | 3,54 |  |  | Cerveja Eisenbahn Pilsen - Lata 269 ml | Port. 104/2026 |
 | 2026-04-10 (pub.) | 2026-03-31 | alterar | 3,54 | +0.0% |  | Cerveja Eisenbahn Pilsen - Lata 269 ml | Port. 132/2026 |
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 3,54 | +0.0% | und | Eisenbhan Pilsen (lata 269 ml) ⚠ | Port. 170/2026 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 3,50 | -1.1% | und | Eisenbahn Pilsen (lata 269 ml) ⚠ | Port. 402/2026 |
@@ -27367,7 +27367,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2026-03-09 (assin.) | 2026-03-09 | incluir | 4,72 |  |  | Cerveja Eisenbahn Pilsen - Lata 473 ml | Port. 104/2026 |
+| 2026-04-01 (pub.) | 2026-03-09 | incluir | 4,72 |  |  | Cerveja Eisenbahn Pilsen - Lata 473 ml | Port. 104/2026 |
 | 2026-04-10 (pub.) | 2026-03-31 | alterar | 4,72 | +0.0% |  | Cerveja Eisenbahn Pilsen - Lata 473 ml | Port. 132/2026 |
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 4,72 | +0.0% | und | Eisenbahn Pilsen (lata 473 ml) | Port. 170/2026 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 4,78 | +1.3% | und | Eisenbahn Pilsen (lata 473 ml) | Port. 402/2026 |
@@ -28856,7 +28856,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 9,58 |  |  | Cerveja Furstenberg Premium Pilsen - Lata 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 9,58 |  |  | Cerveja Furstenberg Premium Pilsen - Lata 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,00 | +4.4% | und | Furstenberg Premium Pilsen (lata) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 10,90 | +9.0% | und | Furstenberg Premium Pilsen (lata 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 11,19 | +2.7% | und | Furstenberg Premium Pilsen (lata 500 ml) | Port. 128/2023 |
@@ -30729,7 +30729,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2025-09-11 (assin.) | 2025-09-11 | incluir | 6,10 |  |  | Cerveja Império Helles - Descartável 600 ml | Port. 326/2025 |
+| 2025-09-19 (pub.) | 2025-09-11 | incluir | 6,10 |  |  | Cerveja Império Helles - Descartável 600 ml | Port. 326/2025 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 5,71 | -6.4% | und | Imperio Helles (descartável 600 ml) | Port. 402/2026 |
 
 ### Império Lager (descartável 600 ml) (código 51971)
@@ -32759,7 +32759,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 7,50 |  |  | Cerveja Kona – Long Neck 355 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 7,50 |  |  | Cerveja Kona – Long Neck 355 ml | Port. 363/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 7,58 | +1.1% | und | Kona - 355ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,77 | +2.5% | und | Kona (long neck 355 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 8,43 | +8.5% | und | Kona (long neck 355 ml) | Port. 454/2022 |
@@ -37028,7 +37028,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hacker–Pschorr Munich Gold Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hacker–Pschorr Munich Gold Descartavel 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,09 | +5.2% | und | Paulaner Hacker – Pschorr Munich Gold (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 16,45 | +9.0% | und | Paulaner Hacker – Pschorr Munich Gold (descartável 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 16,89 | +2.7% | und | Paulaner Hacker – Pschorr Munich Gold (descartável 500 ml) | Port. 128/2023 |
@@ -37059,7 +37059,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hacker-Pschorr Weisse - Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hacker-Pschorr Weisse - Descartavel 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,09 | +5.2% | und | Paulaner Hacker – Pschorr Weisse (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 16,45 | +9.0% | und | Paulaner Hacker – Pschorr Weisse (descartável 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 16,89 | +2.7% | und | Paulaner Hacker – Pschorr Weisse (descartável 500 ml) | Port. 128/2023 |
@@ -37075,7 +37075,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hefe-Weissbier Alkoholfrei sem Álcool - Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hefe-Weissbier Alkoholfrei sem Álcool - Descartavel 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,09 | +5.2% | und | Paulaner Hefe – Weissbier Alkoholfrei sem Ácool (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 16,45 | +9.0% | und | Paulaner Hefe – Weissbier Alkoholfrei sem Ácool (descartável 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 16,89 | +2.7% | und | Paulaner Hefe – Weissbier Alkoholfrei sem Ácool (descartável 500 ml) | Port. 128/2023 |
@@ -37091,7 +37091,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hefe -Weissbier Naturtrub - Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hefe -Weissbier Naturtrub - Descartavel 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,09 | +5.2% | und | Paulaner Hefe – Weissbier Naturtrub (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 16,45 | +9.0% | und | Paulaner Hefe – Weissbier Naturtrub (descartável 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 16,89 | +2.7% | und | Paulaner Hefe – Weissbier Naturtrub (descartável 500 ml) | Port. 128/2023 |
@@ -37137,7 +37137,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hefe - Weissbier Dunkel – Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Hefe - Weissbier Dunkel – Descartavel 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,09 | +5.2% | und | Paulaner Hefe Weissbier Dunkel (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 16,45 | +9.0% | und | Paulaner Hefe Weissbier Dunkel (descartável 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 16,89 | +2.7% | und | Paulaner Hefe Weissbier Dunkel (descartável 500 ml) | Port. 128/2023 |
@@ -37153,7 +37153,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 9,58 |  |  | Cerveja Paulaner Hefe Weissbier Naturtrub - Lata 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 9,58 |  |  | Cerveja Paulaner Hefe Weissbier Naturtrub - Lata 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,00 | +4.4% | und | Paulaner Hefe Weissbier Naturtrub (lata) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 10,90 | +9.0% | und | Paulaner Hefe Weissbier Naturtrub (lata 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 11,19 | +2.7% | und | Paulaner Hefe Weissbier Naturtrub (lata 500 ml) | Port. 128/2023 |
@@ -37169,7 +37169,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Oktoberfest Bier - Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Oktoberfest Bier - Descartavel 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,09 | +5.2% | und | Paulaner Oktoberfest Bier (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 16,45 | +9.0% | und | Paulaner Oktoberfest Bier (descartável 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 16,89 | +2.7% | und | Paulaner Oktoberfest Bier (descartável 500 ml) | Port. 128/2023 |
@@ -37185,7 +37185,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Original Muchner Hell - Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Original Muchner Hell - Descartavel 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,09 | +5.2% | und | Paulaner Original Muchner Hell (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 16,45 | +9.0% | und | Paulaner Original Muchner Hell (descartável 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 16,89 | +2.7% | und | Paulaner Original Muchner Hell (descartável 500 ml) | Port. 128/2023 |
@@ -37216,7 +37216,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 9,58 |  |  | Cerveja Paulaner Original Muchner Hell Lager - Lata 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 9,58 |  |  | Cerveja Paulaner Original Muchner Hell Lager - Lata 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 10,00 | +4.4% | und | Paulaner Original Muchner Hell Lager (lata) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 10,90 | +9.0% | und | Paulaner Original Muchner Hell Lager (lata 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 11,19 | +2.7% | und | Paulaner Original Muchner Hell Lager (lata 500 ml) | Port. 128/2023 |
@@ -37247,7 +37247,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Weissbier Kristallklar - Descartavel 500 ml | Port. 362/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,35 |  |  | Cerveja Paulaner Weissbier Kristallklar - Descartavel 500 ml | Port. 362/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 15,09 | +5.2% | und | Paulaner Weissbier Kristallklar (descartável 500 a 550 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 16,45 | +9.0% | und | Paulaner Weissbier Kristallklar (descartável 500 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 16,89 | +2.7% | und | Paulaner Weissbier Kristallklar (descartável 500 ml) | Port. 128/2023 |
@@ -38416,7 +38416,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2026-03-09 (assin.) | 2026-03-09 | incluir | 4,72 |  |  | Cerveja Praya Lager - Lata 473 ml | Port. 104/2026 |
+| 2026-04-01 (pub.) | 2026-03-09 | incluir | 4,72 |  |  | Cerveja Praya Lager - Lata 473 ml | Port. 104/2026 |
 | 2026-04-10 (pub.) | 2026-03-31 | alterar | 4,72 | +0.0% |  | Cerveja Praya Lager - Lata 473 ml | Port. 132/2026 |
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 4,72 | +0.0% | und | Praya Lager (lata 473 ml) | Port. 170/2026 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 4,78 | +1.3% | und | Praya Lager (lata 473 ml) | Port. 402/2026 |
@@ -40441,7 +40441,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-07-19 (assin.) | 2019-07-19 | incluir | 20,00 |  |  | Cerveja Rodenbach Classic – Garrafa Vidro 250 ml | Port. 427/2019 |
+| 2019-07-29 (pub.) | 2019-07-19 | incluir | 20,00 |  |  | Cerveja Rodenbach Classic – Garrafa Vidro 250 ml | Port. 427/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 18,62 | -6.9% | und | Rodenbach Classic – Garrafa Vidro (250 ml) | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 20,30 | +9.0% | und | Rodenbach Classic – Garrafa Vidro ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 20,85 | +2.7% | und | Rodenbach Classic – Garrafa Vidro (250 ml) ⚠ | Port. 128/2023 |
@@ -41573,7 +41573,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2013-11-23 (assin.) | 2013-11-23 | incluir | 1,95 |  |  | Cerveja Schin Zero Álcool - Lata 350 ml | Port. 366/2013 |
+| 2013-12-04 (pub.) | 2013-11-23 | incluir | 1,95 |  |  | Cerveja Schin Zero Álcool - Lata 350 ml | Port. 366/2013 |
 | 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | +4.1% | und | Schin Zero Álcool (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,26 | +11.3% | und | Schin zero álcool (lata 350 ml) | Port. 176/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,36 | +4.4% | und | Schin zero álcool (lata 350 ml) | Port. 463/2015 |
@@ -43223,7 +43223,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2024-05-13 (assin.) | 2024-05-13 | incluir | 5,19 |  |  | Cerveja Spaten - Long Neck 330 ml | Port. 166/2024 |
+| 2024-05-17 (pub.) | 2024-05-13 | incluir | 5,19 |  |  | Cerveja Spaten - Long Neck 330 ml | Port. 166/2024 |
 | 2024-08-30 (pub.) | 2024-08-23 | incluir | 5,49 | +5.8% | und | Spaten (long neck 330 ml) | Port. 336/2024 |
 | 2025-05-01 (efeitos) | 2025-04-28 | alterar | 5,95 | +8.4% | und | Spaten (long neck 330 ml) | Port. 151/2025 |
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 5,92 | -0.5% | und | Spaten (long neck 330 ml) | Port. 370/2025 |
@@ -44696,7 +44696,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 14,60 |  |  | Cerveja Wals - Descartavel 600 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 14,60 |  |  | Cerveja Wals - Descartavel 600 ml | Port. 363/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 14,31 | -2.0% | und | Wals (descartável 600 ml) | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 14,71 | +2.8% | und | Wals (descartável 600 a 660 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 15,56 | +5.8% | und | Wals (descartável 600 ml) ⚠ | Port. 454/2022 |
@@ -44713,7 +44713,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 5,90 |  |  | Cerveja Wals - Lata 473 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 5,90 |  |  | Cerveja Wals - Lata 473 ml | Port. 363/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,92 | +0.3% | und | Wals - 473 ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,18 | +4.4% | und | Wals (lata) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 6,42 | +3.9% | und | Wals (lata 473 ml) ⚠ | Port. 454/2022 |
@@ -44745,7 +44745,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 5,90 |  |  | Cerveja Wals – Long Neck 300 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 5,90 |  |  | Cerveja Wals – Long Neck 300 ml | Port. 363/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 5,96 | +1.0% | und | Wals - 300ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 6,16 | +3.4% | und | Wals (long neck 300 a 313 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 6,72 | +9.1% | und | Wals (long neck 300 ml) ⚠ | Port. 454/2022 |
@@ -44778,7 +44778,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-06-10 (assin.) | 2019-06-10 | incluir | 15,90 |  |  | Cerveja Wals – Long Neck 375 ml | Port. 363/2019 |
+| 2019-06-14 (pub.) | 2019-06-10 | incluir | 15,90 |  |  | Cerveja Wals – Long Neck 375 ml | Port. 363/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 16,07 | +1.1% | und | Wals - 375ml ⚠ | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 16,62 | +3.4% | und | Wals (long neck 375 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 18,12 | +9.0% | und | Wals (long neck) ⚠ | Port. 454/2022 |
@@ -45135,7 +45135,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 210/2013: [Portaria nº 210/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=20a15c30-5bb0-46a0-afbf-dfc5accfed3d), vigência 2013-08-21 (pub.)
 - Port. 300/2013: [Portaria nº 300/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c31025ba-02f1-432b-b5c6-effa0b190106), vigência 2013-09-30 (assin.)
 - Port. 355/2013: [Portaria nº 355/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bab3b230-ceb7-4eb9-97ff-976e91629031), vigência 2013-11-22 (pub.)
-- Port. 366/2013: [Portaria nº 366/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d9ea1f6b-0a73-421e-8192-57c4c9ba16cd), vigência 2013-11-23 (assin.)
+- Port. 366/2013: [Portaria nº 366/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d9ea1f6b-0a73-421e-8192-57c4c9ba16cd), vigência 2013-12-04 (pub.)
 - Port. 29/2014: [Portaria nº 29/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=df9018d4-967d-494f-b986-7793e5a03b00), vigência 2014-02-03 (pub.)
 - Port. 64/2014: [Portaria nº 64/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f96217b0-4158-4682-b31d-9725bbf32db5), vigência 2014-02-25 (assin.)
 - Port. 59/2014: [Portaria nº 59/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=18e33001-d9db-494e-8343-0a2a275f7b8f), vigência 2014-02-26 (pub.)
@@ -45161,8 +45161,8 @@ Links para o texto de cada portaria usada acima.
 - Port. 232/2017: [Portaria nº 232/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bf294c6b-0f77-499b-8333-acbdeb52e769), vigência 2017-05-11 (pub.)
 - Port. 270/2017: [Portaria nº 270/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1ec35aeb-8f87-491a-a8fc-2fed701cf3b2), vigência 2017-06-12 (pub.)
 - Port. 311/2017: [Portaria nº 311/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=38d7b2ee-b5f8-4b96-9146-74dca7005a04), vigência 2017-07-20 (pub.)
-- Port. 337/2017: [Portaria nº 337/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=36c0fb1a-5b5e-4634-8929-032b2af3c1d5), vigência 2017-07-20 (assin.)
 - Port. 328/2017: [Portaria nº 328/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=06c108f8-14d5-47ec-94ff-68fbcbd5d663), vigência 2017-07-24 (pub.)
+- Port. 337/2017: [Portaria nº 337/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=36c0fb1a-5b5e-4634-8929-032b2af3c1d5), vigência 2017-07-26 (pub.)
 - Port. 382/2017: [Portaria nº 382/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=63ba28b2-ffd3-44ea-a2e7-1b18b9761928), vigência 2017-08-22 (assin.)
 - Port. 383/2017: [Portaria nº 383/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=68ee70bb-e80d-4fcc-9d51-2b04008050dd), vigência 2017-08-29 (pub.)
 - Port. 416/2017: [Portaria nº 416/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=440fea46-33f0-4279-9da0-46422892d957), vigência 2017-09-26 (pub.)
@@ -45206,18 +45206,18 @@ Links para o texto de cada portaria usada acima.
 - Port. 286/2019: [Portaria nº 286/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbee083c-ca4e-46c2-8d10-104483cf566a), vigência 2019-05-09 (efeitos)
 - Port. 318/2019: [Portaria nº 318/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4bc1e056-6904-48ba-a2a8-8b103e872e23), vigência 2019-05-30 (pub.)
 - Port. 319/2019: [Portaria nº 319/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92cfba2c-8b8a-4c3b-b70d-c02672726974), vigência 2019-05-30 (pub.)
-- Port. 362/2019: [Portaria nº 362/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a46ffaf6-04df-402b-adf1-49b46073dd39), vigência 2019-06-10 (assin.)
-- Port. 363/2019: [Portaria nº 363/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=23055fe9-026e-486b-871b-0e950177d528), vigência 2019-06-10 (assin.)
 - Port. 349/2019: [Portaria nº 349/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7ea116a7-ee82-4d1c-bfae-b3a1c11929aa), vigência 2019-06-11 (pub.)
 - Port. 351/2019: [Portaria nº 351/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2ddd698f-a583-4ce3-98de-e39b05d4ef76), vigência 2019-06-11 (pub.)
-- Port. 369/2019: [Portaria nº 369/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d7c7c48b-c73d-4dff-8a33-f84a61ec3074), vigência 2019-06-11 (assin.)
+- Port. 362/2019: [Portaria nº 362/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a46ffaf6-04df-402b-adf1-49b46073dd39), vigência 2019-06-14 (pub.)
+- Port. 363/2019: [Portaria nº 363/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=23055fe9-026e-486b-871b-0e950177d528), vigência 2019-06-14 (pub.)
 - Port. 368/2019: [Portaria nº 368/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1647819c-f883-4aed-926e-ce6cd8517a06), vigência 2019-06-14 (pub.)
+- Port. 369/2019: [Portaria nº 369/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d7c7c48b-c73d-4dff-8a33-f84a61ec3074), vigência 2019-06-14 (pub.)
 - Port. 372/2019: [Portaria nº 372/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=26c2f0fb-0142-4912-95cf-cff58f6d4fff), vigência 2019-06-24 (pub.)
 - Port. 382/2019: [Portaria nº 382/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce6c696b-86b5-45c8-b5cb-8a42bc7a000d), vigência 2019-07-01 (pub.)
 - Port. 419/2019: [Portaria nº 419/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8d81d92e-945c-4a85-b32d-9d36b15f6513), vigência 2019-07-19 (pub.)
-- Port. 426/2019: [Portaria nº 426/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cc716a43-87ca-4740-acc4-0fc4e1c7770a), vigência 2019-07-19 (assin.)
-- Port. 427/2019: [Portaria nº 427/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=22842068-0ceb-4ee8-94d2-ad60739142f0), vigência 2019-07-19 (assin.)
 - Port. 425/2019: [Portaria nº 425/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f2ae1a0f-7110-435d-bd83-b737ae8bf529), vigência 2019-07-25 (pub.)
+- Port. 426/2019: [Portaria nº 426/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cc716a43-87ca-4740-acc4-0fc4e1c7770a), vigência 2019-07-29 (pub.)
+- Port. 427/2019: [Portaria nº 427/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=22842068-0ceb-4ee8-94d2-ad60739142f0), vigência 2019-07-29 (pub.)
 - Port. 445/2019: [Portaria nº 445/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9a431e2c-6c47-4ce6-a04c-1fa05a1849c4), vigência 2019-08-02 (pub.)
 - Port. 446/2019: [Portaria nº 446/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f887a81a-e70b-4646-afc1-832449f891a5), vigência 2019-08-02 (pub.)
 - Port. 496/2019: [Portaria nº 496/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6a3be08e-7d18-4c36-bd14-83012cd9b9dd), vigência 2019-08-29 (pub.)
@@ -45313,7 +45313,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 53/2024: [Portaria nº 53/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d330a696-d31b-4ee1-82eb-81179170c89d), vigência 2024-02-27 (pub.)
 - Port. 83/2024: [Portaria nº 83/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=18bbdbe9-5ee9-4843-9804-cb3dc1844ba9), vigência 2024-03-19 (pub.)
 - Port. 128/2024: [Portaria nº 128/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2ee9347a-aee6-40fb-bb4f-0933497cfec6), vigência 2024-04-23 (pub.)
-- Port. 166/2024: [Portaria nº 166/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbde11d7-fe3e-42cc-b5c5-6623da2f1921), vigência 2024-05-13 (assin.)
+- Port. 166/2024: [Portaria nº 166/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbde11d7-fe3e-42cc-b5c5-6623da2f1921), vigência 2024-05-17 (pub.)
 - Port. 173/2024: [Portaria nº 173/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1616245b-4576-445d-89a6-a4395ac6871d), vigência 2024-05-24 (pub.)
 - Port. 180/2024: [Portaria nº 180/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=beb1945e-b8cb-4e45-961a-490bfaca9a3e), vigência 2024-05-27 (pub.)
 - Port. 218/2024: [Portaria nº 218/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=21a6f47a-b227-42dc-a1dd-2ec0ea6710bf), vigência 2024-06-26 (pub.)
@@ -45335,17 +45335,17 @@ Links para o texto de cada portaria usada acima.
 - Port. 247/2025: [Portaria nº 247/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f16b6a63-a56d-46ce-8f36-a2eb9c70a937), vigência 2025-07-21 (pub.)
 - Port. 247/2025: [Portaria nº 247/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=125a6853-cac7-4c0f-8f03-a59d3b97936d), vigência 2025-07-21 (pub.)
 - Port. 190/2025: [Portaria nº 190/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=655811df-1330-4cfe-9de6-8d8041f9d317), vigência 2025-08-25 (pub.)
-- Port. 326/2025: [Portaria nº 326/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=02686772-774f-406b-a060-7ff29fe13248), vigência 2025-09-11 (assin.)
+- Port. 326/2025: [Portaria nº 326/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=02686772-774f-406b-a060-7ff29fe13248), vigência 2025-09-19 (pub.)
 - Port. 366/2025: [Portaria nº 366/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=719b7a63-d161-4980-89e7-7df29d9cba8b), vigência 2025-10-15 (assin.)
 - Port. 370/2025: [Portaria nº 370/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9eb6b2c0-db75-4687-a571-8b68838c1640), vigência 2025-11-01 (efeitos)
 - Port. 393/2025: [Portaria nº 393/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5e36e7ed-e240-4220-bb01-263fbc3762c6), vigência 2025-11-24 (pub.)
 - Port. 392/2025: [Portaria nº 392/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=84f34e3e-354a-4f12-b684-3d76e717de02), vigência 2025-11-24 (pub.)
 - Port. 435/2025: [Portaria nº 435/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a3612311-9ddd-4d93-9281-a15ce0d488b3), vigência 2025-12-30 (pub.)
 - Port. 59/2026: [Portaria nº 59/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c45582b8-92cb-4b94-b340-d2828f27a190), vigência 2026-02-09 (pub.)
-- Port. 104/2026: [Portaria nº 104/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9479f278-8361-4978-908f-b5dc688285d3), vigência 2026-03-09 (assin.)
 - Port. 100/2026: [Portaria nº 100/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e5d08bd2-ab2e-46fb-b199-af650fedb2fa), vigência 2026-03-13 (pub.)
 - Port. 114/2026: [Portaria nº 114/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ad71e247-4d45-44b0-887b-5050d78e97de), vigência 2026-03-20 (pub.)
 - Port. 113/2026: [Portaria nº 113/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a66ab870-611a-4581-8882-87a19a73aab1), vigência 2026-03-20 (pub.)
+- Port. 104/2026: [Portaria nº 104/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9479f278-8361-4978-908f-b5dc688285d3), vigência 2026-04-01 (pub.)
 - Port. 131/2026: [Portaria nº 131/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8f8cc5ae-3b16-4fb1-b0a5-a79bc3b88cc0), vigência 2026-04-09 (pub.)
 - Port. 132/2026: [Portaria nº 132/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=10c1e8f2-d646-4fec-a287-108460838fe5), vigência 2026-04-10 (pub.)
 - Port. 170/2026: [Portaria nº 170/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=619851cb-b1f7-4678-ba63-c8a62e13b5d0), vigência 2026-05-01 (efeitos)

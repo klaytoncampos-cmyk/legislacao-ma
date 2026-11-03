@@ -763,7 +763,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | ÁGUA MINERAL MAR DOCE GARRAFA PP 1.500 ml | 0,65 | 2003-12-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | ÁGUA MINERAL MAR DOCE GARRAFA PP 300 ml | 0,30 | 2003-12-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | ÁGUA MINERAL MAR DOCE GARRAFA PP 500 ml | 0,50 | 2003-12-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Mar Doce sem gás 1000 ml | 1,50 | 2019-08-16 | sem atualização desde 2019 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Mar Doce sem gás 1000 ml | 1,50 | 2019-08-21 | sem atualização desde 2019 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Mar Doce sem gás 500 ml | 0,70 | 2018-08-03 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Marquesa com gás 300 ml | 0,84 | 2018-06-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Marquesa com gás 500 ml | 1,20 | 2018-06-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -781,11 +781,11 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Mineral Psiu sem gás 330 ml | 0,89 | 2020-02-20 | sem atualização desde 2020 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral s/gás 500 ml | 0,55 | 2008-05-12 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Saara - Pet 500 ml | 1,01 | 2017-03-06 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Saara com gás 300 ml | 0,52 | 2018-07-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Saara com gás 510 ml | 0,62 | 2018-07-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Saara sem gás 300 ml | 0,47 | 2018-07-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Saara sem gás 5.000 ml | 4,10 | 2018-07-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Saara sem Gás 510 ml | 0,67 | 2018-07-20 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Saara com gás 300 ml | 0,52 | 2018-07-26 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Saara com gás 510 ml | 0,62 | 2018-07-26 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Saara sem gás 300 ml | 0,47 | 2018-07-26 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Saara sem gás 5.000 ml | 4,10 | 2018-07-26 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Saara sem Gás 510 ml | 0,67 | 2018-07-26 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Santa Joana com gás - pet 330 ml | 0,75 | 2016-11-21 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Santa Joana com gás - pet 500 ml | 0,61 | 2016-11-21 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Santa Joana com gás – pet 0,61 500 ml | 0,61 | 2019-11-14 | sem atualização desde 2019 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -3455,7 +3455,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-08-16 (assin.) | 2019-08-16 | incluir | 1,50 |  |  | Água Mineral Mar Doce sem gás 1000 ml | Port. 479/2019 |
+| 2019-08-21 (pub.) | 2019-08-16 | incluir | 1,50 |  |  | Água Mineral Mar Doce sem gás 1000 ml | Port. 479/2019 |
 
 ### Água Mineral Mar Doce sem gás 330 ml (código —)
 
@@ -3474,7 +3474,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2019-08-16 (assin.) | 2019-08-16 | incluir | 0,75 |  |  | Água Mineral Mar Doce sem gás 510 ml | Port. 479/2019 |
+| 2019-08-21 (pub.) | 2019-08-16 | incluir | 0,75 |  |  | Água Mineral Mar Doce sem gás 510 ml | Port. 479/2019 |
 | 2026-02-03 (pub.) | 2026-01-29 | alterar | 1,03 | +37.3% |  | Água Mineral Mar Doce Sem Gás 510 ml | Port. 54/2026 |
 
 ### Água Mineral Mar Doce Sem Gás 6.000 ml (código —)
@@ -3828,31 +3828,31 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-07-20 (assin.) | 2018-07-20 | incluir | 0,52 |  |  | Água Mineral Saara com gás 300 ml | Port. 260/2018 |
+| 2018-07-26 (pub.) | 2018-07-20 | incluir | 0,52 |  |  | Água Mineral Saara com gás 300 ml | Port. 260/2018 |
 
 ### Água Mineral Saara com gás 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-07-20 (assin.) | 2018-07-20 | incluir | 0,62 |  |  | Água Mineral Saara com gás 510 ml | Port. 260/2018 |
+| 2018-07-26 (pub.) | 2018-07-20 | incluir | 0,62 |  |  | Água Mineral Saara com gás 510 ml | Port. 260/2018 |
 
 ### Água Mineral Saara sem gás 300 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-07-20 (assin.) | 2018-07-20 | incluir | 0,47 |  |  | Água Mineral Saara sem gás 300 ml | Port. 260/2018 |
+| 2018-07-26 (pub.) | 2018-07-20 | incluir | 0,47 |  |  | Água Mineral Saara sem gás 300 ml | Port. 260/2018 |
 
 ### Água Mineral Saara sem gás 5.000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-07-20 (assin.) | 2018-07-20 | incluir | 4,10 |  |  | Água Mineral Saara sem gás 5.000 ml | Port. 260/2018 |
+| 2018-07-26 (pub.) | 2018-07-20 | incluir | 4,10 |  |  | Água Mineral Saara sem gás 5.000 ml | Port. 260/2018 |
 
 ### Água Mineral Saara sem Gás 510 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-07-20 (assin.) | 2018-07-20 | incluir | 0,67 |  |  | Água Mineral Saara sem Gás 510 ml | Port. 260/2018 |
+| 2018-07-26 (pub.) | 2018-07-20 | incluir | 0,67 |  |  | Água Mineral Saara sem Gás 510 ml | Port. 260/2018 |
 
 ### Água Mineral Santa Clara Sem Gás - Copo 200 ml (código —)
 
@@ -8527,7 +8527,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-07-20 (assin.) | 2018-07-20 | incluir | 1,47 |  |  | Água Mineral Saara sem gás 1.500 ml | Port. 260/2018 |
+| 2018-07-26 (pub.) | 2018-07-20 | incluir | 1,47 |  |  | Água Mineral Saara sem gás 1.500 ml | Port. 260/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,02 | +37.4% |  | Saara sem gás (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,13 | +5.4% |  | Saara sem gás (mineral 1,5 L) | Port. 500/2024 |
 
@@ -8547,7 +8547,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-07-20 (assin.) | 2018-07-20 | incluir | 0,43 |  |  | Água Mineral Saara sem gás - Copo 200 ml | Port. 260/2018 |
+| 2018-07-26 (pub.) | 2018-07-20 | incluir | 0,43 |  |  | Água Mineral Saara sem gás - Copo 200 ml | Port. 260/2018 |
 | 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,45 | +4.7% |  | Saara sem gás (mineral copo 200 ml) | Port. 419/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,59 | +31.1% |  | Saara sem gás (mineral copo 200 ml) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,62 | +5.1% |  | Saara sem gás (mineral copo 200 ml) | Port. 500/2024 |
@@ -8556,7 +8556,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-07-20 (assin.) | 2018-07-20 | incluir | 0,45 |  |  | Água Mineral Saara sem gás - Copo 300 ml | Port. 260/2018 |
+| 2018-07-26 (pub.) | 2018-07-20 | incluir | 0,45 |  |  | Água Mineral Saara sem gás - Copo 300 ml | Port. 260/2018 |
 | 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,47 | +4.4% |  | Saara sem gás (mineral copo 300 ml) | Port. 419/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,61 | +29.8% |  | Saara sem gás (mineral copo 300 ml) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 0,64 | +4.9% |  | Saara sem gás (mineral copo 300 ml) | Port. 500/2024 |
@@ -9866,7 +9866,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 207/2018: [Portaria nº 207/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d23042a0-f5d1-47e7-9952-77609dc43c08), vigência 2018-06-20 (pub.)
 - Port. 232/2018: [Portaria nº 232/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a1d167cc-b180-4b0d-9d33-557edcf25c67), vigência 2018-07-06 (pub.)
 - Port. 259/2018: [Portaria nº 259/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3d15d484-bd87-476b-8853-30b4abf82a6b), vigência 2018-07-20 (pub.)
-- Port. 260/2018: [Portaria nº 260/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a79e3e47-2304-465a-ab93-26fde0fb831f), vigência 2018-07-20 (assin.)
+- Port. 260/2018: [Portaria nº 260/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a79e3e47-2304-465a-ab93-26fde0fb831f), vigência 2018-07-26 (pub.)
 - Port. 277/2018: [Portaria nº 277/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1ad09e24-2e90-40c2-8669-2c33325ba30b), vigência 2018-08-03 (pub.)
 - Port. 296/2018: [Portaria nº 296/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=00ca240d-07c5-4b50-a7df-ee4a4fa494ef), vigência 2018-08-31 (pub.)
 - Port. 312/2018: [Portaria nº 312/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bd64a96f-939b-49ca-bf50-dbb2591c2848), vigência 2018-09-13 (pub.)
@@ -9881,8 +9881,8 @@ Links para o texto de cada portaria usada acima.
 - Port. 305/2019: [Portaria nº 305/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7cfdfd3a-92ff-4e96-a022-da749cbc4aec), vigência 2019-05-30 (pub.)
 - Port. 320/2019: [Portaria nº 320/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a0ae8c6c-d3c7-4552-8764-30d4e585abfe), vigência 2019-05-30 (pub.)
 - Port. 434/2019: [Portaria nº 434/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9053edf8-f099-4a61-af11-a640ecbbc120), vigência 2019-07-29 (pub.)
-- Port. 479/2019: [Portaria nº 479/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=715c5b48-650d-4bcb-94ba-98893f6f2f0b), vigência 2019-08-16 (assin.)
 - Port. 478/2019: [Portaria nº 478/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c09d56e9-cd23-437c-bc9a-21405b2d732a), vigência 2019-08-21 (pub.)
+- Port. 479/2019: [Portaria nº 479/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=715c5b48-650d-4bcb-94ba-98893f6f2f0b), vigência 2019-08-21 (pub.)
 - Port. 495/2019: [Portaria nº 495/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=66930caf-14c6-41ec-b3ec-35a70636e685), vigência 2019-08-29 (pub.)
 - Port. 549/2019: [Portaria nº 549/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3fc7adeb-7cb1-4d3a-9c94-6fca6e9765da), vigência 2019-09-27 (pub.)
 - Port. 636/2019: [Portaria nº 636/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3d65913d-e780-4c01-a281-38012ac9e19e), vigência 2019-11-14 (efeitos)

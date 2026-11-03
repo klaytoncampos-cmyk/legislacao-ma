@@ -4,11 +4,12 @@ description: >-
   Especialista em legislação tributária do Maranhão (ICMS). Use SEMPRE que a pergunta envolver ICMS no Maranhão,
   RICMS-MA (Decreto 19.714/2003), Código Tributário Estadual (Lei 7.799/2002), anexos do RICMS-MA, substituição
   tributária, antecipação, isenção, redução de base de cálculo, crédito presumido, diferimento, alíquotas, MVA,
-  pauta fiscal ou valores de referência do ICMS (Tabela de Valores de Referência da SEFAZ-MA: cimento, cervejas,
-  refrigerantes, energéticos, águas, sorvetes), NCM/CEST, segmentos (autopeças, combustíveis, bebidas, medicamentos
-  etc.), ou convênios, protocolos e ajustes SINIEF do CONFAZ citados pela legislação maranhense. Contém o texto
-  integral e atualizado dessas normas, com histórico de redações. Consulte primeiro a base local (texto oficial) e
-  use a web para complementar: normas fora da base, alterações recentes, jurisprudência e interpretação.
+  pauta fiscal ou valores de referência do ICMS (Tabela de Valores de Referência da SEFAZ-MA: cimento, materiais de
+  construção, madeira, cervejas, refrigerantes, energéticos, águas, sorvetes), NCM/CEST, segmentos (autopeças,
+  combustíveis, bebidas, medicamentos etc.), ou convênios, protocolos e ajustes SINIEF do CONFAZ citados pela
+  legislação maranhense. Contém o texto integral e atualizado dessas normas, com histórico de redações. Consulte
+  primeiro a base local (texto oficial) e use a web para complementar: normas fora da base, alterações recentes,
+  jurisprudência e interpretação.
 ---
 
 # Legislação tributária do Maranhão (ICMS)
@@ -24,7 +25,7 @@ Esta skill traz o **texto integral** das normas, extraído das fontes oficiais:
   e todas as do ano corrente. O texto das normas citadas já vem **consolidado** pelo CONFAZ, com as alterações incorporadas e as notas
   "Nova redação dada… pelo Prot. X"; a norma alteradora serve para conferir o texto original da alteração e suas regras de vigência.
 
-Os documentos (5.498 nesta edição: 143 da SEFAZ-MA, 1.828 normas complementares, 3.518 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
+Os documentos (5.500 nesta edição: 143 da SEFAZ-MA, 1.828 normas complementares, 3.518 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
 `<<<DOC caminho>>>`. Use sempre `scripts/buscar.py`, que separa os documentos e busca/lê cada um pelo seu caminho. `INDICE.md` (na raiz da skill) lista todos os documentos, com descrição,
 situação (vigente/parcial/revogado), data de atualização na fonte e caminho.
 
@@ -120,6 +121,15 @@ SEFAZ-MA que incluem, alteram ou excluem itens da tabela. Comece por `python3 sc
   (marca, sabor, peso ou volume), e a relação completa de um fornecedor só vale para os itens dele. Busque por marca e tamanho
   (ex.: `buscar.py "Ster Bom" --doc valores/sorvetes`). Item sem código sem atualização há mais de 3 anos fica "incerto". Arquivo
   **só na edição completa (Claude Code)**; no chat, diga que a pauta de sorvetes não está nesta edição e pesquise na web.
+- **Materiais de construção** (`valores/construcao-materiais.md`: lajotas, telhas, tijolos, blocos, areia, barro, pedras e britas,
+  gesso, mármores e granitos, o Grupo 03 da tabela menos o cimento) e **madeira** (`valores/construcao-madeira.md`: em tora,
+  serrada, beneficiada e para cerca, por espécie): itens por código, com a seção ("Subgrupo 08 Pedra") entre parênteses quando
+  a descrição não diz. Brita, pó de brita e pedras têm valores distintos para "consumidor final inscrito/construção civil" e
+  "varejo", em tonelada e em m³; confira unidade e destino. Portaria sem código que altera item codificado (ex.: 115/2025, telha
+  colonial e tijolo 6 furos) aparece com o código anterior marcado "(ant.)". O consolidado do Grupo 03 publicado pela SEFAZ pode
+  estar defasado em relação às portarias: vale a portaria mais recente. Bloco de cimento e gipsita para cimento também estão em
+  `cimento.md`. A pauta **não tem ferro de construção** (vergalhão, arame); "ferro" e "aço" na pauta são sucata. Arquivos **só na
+  edição completa (Claude Code)**.
 - Produtos ainda sem arquivo em `valores/`: diga que a pauta desse produto ainda não foi consolidada na base e pesquise na web.
 
 ## Convenções da base (importante)

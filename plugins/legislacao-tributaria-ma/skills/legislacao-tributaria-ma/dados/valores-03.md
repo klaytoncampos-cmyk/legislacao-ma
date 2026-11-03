@@ -124,7 +124,7 @@ tipo: valores-de-referencia
 orgao: SEFAZ-MA
 gerado_em: "2026-11-03"
 portarias: 145
-registros: 5935
+registros: 5939
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: energéticos e isotônicos
@@ -942,6 +942,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48233 | Minotauro (PET 2 L) | 12,16 | 2025-11-01 | substituído pelo código 53965 (Minotauro (PET 2 L)) a partir de 2026-05-01; valeu até 2026-04-30 |
 | — | Monste - 500 ml | 8,11 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48108 | Energético Monster 500 ml | 7,02 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Monster 120 ml | 3,86 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 52410 | Energetico Monster Dragon Ice Tea Limão – Lata 473 ml | 9,73 | 2024-08-30 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 52411 | Energetico Monster Dragon Ice Tea Pessego – Lata 473 ml | 9,73 | 2024-08-30 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 51287 | Monster Energy Absolutely Zero (lata 473 ml) | 9,58 | 2024-08-30 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -957,7 +958,6 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50653 | Monster Ultra Watermelon (lata 473 ml) | 9,58 | 2024-08-30 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53515 | Energético Monster Zero Sugar - Lata 473 ml | 9,73 | 2024-08-30 | substituído pelo código 53946 (Monster Zero Sugar (lata 473 ml)) a partir de 2025-05-01; valeu até 2025-04-30 |
 | 53946 | Monster Zero Sugar (lata 473 ml) | 8,98 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Monster – 120 ml | 3,73 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47866 | Monster- 473 ml - lata | 7,39 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Net Power (1 L) | 7,06 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Net Power Lt 350 ml | 3,93 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -974,7 +974,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | On Line (PET 1 L) | 7,77 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | On Line - 2000 ml | 9,86 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49785 | On Line - 270 ml - lata | 4,70 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | On Line – 270 ml | 4,45 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | On Line 270 ml | 4,61 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | On Lione (1 L) | 6,24 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 54211 | One Token Energy Drink Tradicional Suggarfree-Creatina-Lata 375 ml | 5,95 | 2026-05-01 | substituído pelo código 54203 (One Token Energy Drink Tradicional Suggarfree+Creatina (lata 355 a 375 ml)) a partir de 2026-11-01; valeu até 2026-10-31 |
 | — | Outras Marcas (1 L) | 13,50 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1480,7 +1480,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2025-10-15 (assin.) | 2025-10-15 | incluir | 7,99 |  |  | Energético Baly Muscle - Lata 250 ml | Port. 367/2025 |
+| 2025-10-22 (pub.) | 2025-10-15 | incluir | 7,99 |  |  | Energético Baly Muscle - Lata 250 ml | Port. 367/2025 |
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 7,99 | +0.0% | und | Baly Muscle (lata 250 ml) | Port. 370/2025 |
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 8,14 | +1.9% | und | Baly Muscle (lata 250 ml) | Port. 170/2026 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 8,35 | +2.6% | und | Baly Muscle (lata 250 ml) | Port. 402/2026 |
@@ -7004,6 +7004,22 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 6,61 | -4.9% | und | Monster - 500 ml | Port. 614/2019 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 7,02 | +6.2% | und | Monster - 500 ml | Port. 383/2021 |
 
+### Monster 120 ml (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2009-10-05 (efeitos) | 2009-09-29 | alterar | 3,00 |  | und | Monster 120 ml | Port. 431/2009 |
+| 2010-02-23 (assin.) | 2010-02-23 | incluir | 3,07 | +2.3% | und | Monster 120 ml | Port. 50/2010 |
+| 2010-10-01 (efeitos) | 2010-09-28 | alterar | 3,07 | +0.0% | und | Monster 120 ml | Port. 469/2010 |
+| 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,25 | +5.9% | und | Monster 120 ml | Port. 324/2012 |
+| 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,43 | +5.5% | und | Monster 120 ml | Port. 74/2013 |
+| 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,43 | +0.0% | und | Monster 120 ml | Port. 300/2013 |
+| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,57 | +4.1% | und | Monster 120 ml | Port. 157/2014 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,57 | +0.0% | und | Monster 120 ml | Port. 176/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,73 | +4.5% | und | Monster - 120 ml | Port. 463/2015 |
+| 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,73 | +0.0% | und | Monster – 120 ml | Port. 142/2016 |
+| 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,86 | +3.5% | und | Monster 120 ml | Port. 397/2016 |
+
 ### Energetico Monster Dragon Ice Tea Limão – Lata 473 ml (código 52410)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -7184,21 +7200,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2025-05-01 (efeitos) | 2025-04-28 | alterar | 8,98 |  | und | Monster Zero Sugar (lata 473 ml) | Port. 151/2025 |
 
-### Monster – 120 ml (código —)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2009-10-05 (efeitos) | 2009-09-29 | alterar | 3,00 |  | und | Monster 120 ml | Port. 431/2009 |
-| 2010-02-23 (assin.) | 2010-02-23 | incluir | 3,07 | +2.3% | und | Monster 120 ml | Port. 50/2010 |
-| 2010-10-01 (efeitos) | 2010-09-28 | alterar | 3,07 | +0.0% | und | Monster 120 ml | Port. 469/2010 |
-| 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,25 | +5.9% | und | Monster 120 ml | Port. 324/2012 |
-| 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,43 | +5.5% | und | Monster 120 ml | Port. 74/2013 |
-| 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,43 | +0.0% | und | Monster 120 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,57 | +4.1% | und | Monster 120 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,57 | +0.0% | und | Monster 120 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,73 | +4.5% | und | Monster - 120 ml | Port. 463/2015 |
-| 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,73 | +0.0% | und | Monster – 120 ml | Port. 142/2016 |
-
 ### Monster- 473 ml - lata (código 47866)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -7260,7 +7261,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 10,76 | +0.0% | und | Net Power - 2000 ml | Port. 176/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 11,24 | +4.5% | und | Net Power - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 11,24 | +0.0% | und | Net Power - 2000 ml | Port. 142/2016 |
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 12,59 | +12.0% | Und | Net Power – 2000 ml | Port. 222/2017 |
+| 2016-10-31 (pub.) | 2016-10-26 | alterar | 12,59 | +12.0% | Und | Net Power - 2000 ml | Port. 397/2016 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 12,59 | +0.0% | Und | Net Power – 2000 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 13,35 | +6.0% | Und | Net Power – 2000 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 13,54 | +1.4% | und | Net Power – 2000 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,81 | +2.0% | und | Net Power – 2000 ml | Port. 383/2018 |
@@ -7642,7 +7644,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,62 | +0.0% | und | Ninja Power - 1500 ml | Port. 176/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 10,05 | +4.5% | und | Ninja Power - 1500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 10,05 | +0.0% | und | Ninja Power - 1500 ml | Port. 142/2016 |
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 11,26 | +12.0% | Und | Ninja Power – 1500 ml | Port. 222/2017 |
+| 2016-10-31 (pub.) | 2016-10-26 | alterar | 11,26 | +12.0% | und | Ninja Power - 1500 ml | Port. 397/2016 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 11,26 | +0.0% | Und | Ninja Power – 1500 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 11,94 | +6.0% | Und | Ninja Power – 1500 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 12,11 | +1.4% | und | Ninja Power – 1500 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 12,35 | +2.0% | und | Ninja Power – 1500 ml | Port. 383/2018 |
@@ -7887,7 +7890,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,61 |  | und | On Line - 270 ml - lata | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,70 | +2.0% | und | On Line - 270 ml - lata | Port. 507/2017 |
 
-### On Line – 270 ml (código —)
+### On Line 270 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
@@ -7901,6 +7904,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,26 | +0.0% | und | On Line 270 ml | Port. 176/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,45 | +4.5% | und | On Line - 270 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,45 | +0.0% | und | On Line – 270 ml | Port. 142/2016 |
+| 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,61 | +3.6% | und | On Line 270 ml | Port. 397/2016 |
 
 ### On Lione (1 L) (código —)
 
@@ -11702,8 +11706,8 @@ Links para o texto de cada portaria usada acima.
 - Port. 201/2025: [Portaria nº 201/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d21d76d1-e40c-40c4-9d60-81aae4b5548d), vigência 2025-06-09 (pub.)
 - Port. 292/2025: [Portaria nº 292/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c01bd7ad-e12f-4363-9066-35608f56ad02), vigência 2025-08-25 (pub.)
 - Port. 341/2025: [Portaria nº 341/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8bf7630c-0809-401b-a68b-126bea2bb6e2), vigência 2025-10-08 (pub.)
-- Port. 367/2025: [Portaria nº 367/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=46350d40-81c1-4a04-9d31-1f2566cd898a), vigência 2025-10-15 (assin.)
 - Port. 358/2025: [Portaria nº 358/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e7e54ece-a874-4fce-b5ca-bd0d2e9250cb), vigência 2025-10-16 (pub.)
+- Port. 367/2025: [Portaria nº 367/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=46350d40-81c1-4a04-9d31-1f2566cd898a), vigência 2025-10-22 (pub.)
 - Port. 370/2025: [Portaria nº 370/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9eb6b2c0-db75-4687-a571-8b68838c1640), vigência 2025-11-01 (efeitos)
 - Port. 384/2025: [Portaria nº 384/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6b6f229a-3f63-4b6c-a753-8fb3a2997ec7), vigência 2025-11-24 (pub.)
 - Port. 58/2026: [Portaria nº 58/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=06843083-0d30-4d45-a002-971fab33491d), vigência 2026-02-09 (pub.)
