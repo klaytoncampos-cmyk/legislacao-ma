@@ -1,6 +1,6 @@
 # Índice da base: legislação tributária do Maranhão
 
-Gerado em 2026-10-31. Este índice traz os documentos da SEFAZ-MA (CTE, RICMS, anexos) e as normas complementares por anexo; os catálogos completos ficam em `catalogo/normas.md` e `catalogo/confaz.md`. Os caminhos são os usados por `python3 scripts/buscar.py --ler <caminho>`.
+Gerado em 2026-11-04. Este índice traz os documentos da SEFAZ-MA (CTE, RICMS, anexos) e as normas complementares por anexo; os catálogos completos ficam em `catalogo/normas.md` e `catalogo/confaz.md`. Os caminhos são os usados por `python3 scripts/buscar.py --ler <caminho>`.
 
 ## SEFAZ-MA (CTE, RICMS e anexos)
 
@@ -149,8 +149,8 @@ Alertas (⚠): o anexo se apoia em norma do CONFAZ que, segundo o cabeçalho del
 | sefaz/anexo-45.md | Anexo 45 | IDENTIFICAÇÃO DAS MERCADORIAS E BENS PASSÍVEIS DE SUJEIÇÃO AOS REGIMES DE ST E DE ANTECIPAÇÃO COM O ENCERRAMENTO DE TRIBUTAÇÃO | **REVOGADO** |  | 3 | 92.1 | 2026-08-07 |
 | sefaz/anexo-46.md | Anexo 46 | Operações com Bens e Mercadoria Digitais Comercializadas por meio de transferência Eletrônica de Dados | vigente |  | 2 | 0.0 | 2026-08-03 |
 | sefaz/anexo-47.md | Anexo 47 | PROCEDIMENTOS PARA A EMISSÃO DO CONHECIMENTO DE TRANSPORTE ELETRÔNICO (CT-E) | vigente |  | 2 | 0.0 | 2026-08-03 |
-| sefaz/anexo-48.md | ANEXO 48 | REGIME DE TRIBUTAÇÃO MONOFÁSICA DO ICMS A SER APLICADO NAS OPERAÇÕES COM COMBUSTÍVEIS | vigente |  | 26 | 5.6 | 2026-08-03 |
-| sefaz/anexo-49.md | Anexo 49 | DO REGIME DE TRIBUTAÇÃO MONOFÁSICA DO ICMS A SER APLICADO NAS OPERAÇÕES COM GASOLINA E ETANOL ANIDRO COMBUSTÍVEL. | vigente |  | 22 | 11.0 | 2026-08-03 |
+| sefaz/anexo-48.md | ANEXO 48 | REGIME DE TRIBUTAÇÃO MONOFÁSICA DO ICMS A SER APLICADO NAS OPERAÇÕES COM COMBUSTÍVEIS | vigente |  | 28 | 5.6 | 2026-11-04 |
+| sefaz/anexo-49.md | ANEXO 49 | DO REGIME DE TRIBUTAÇÃO MONOFÁSICA DO ICMS A SER APLICADO NAS OPERAÇÕES COM GASOLINA E ETANOL ANIDRO COMBUSTÍVEL. | vigente |  | 23 | 11.0 | 2026-11-04 |
 | sefaz/anexo-50.md | Anexo 50   - Alterado pela Resolução 17-26   última atualização | DA REMESSA INTERESTADUAL DE BENS E MERCADORIAS ENTRE ESTABELECIMENTOS DE MESMA TITULARIDADE. | vigente |  | 6 | 33.9 | 2026-08-03 |
 | sefaz/anexo-51.md | ANEXO 51 | As operações com mercadorias destinadas a demonstração e mostruário devem observar o disposto neste Anexo | vigente |  | 6 | 0.0 | 2026-10-07 |
 
@@ -297,7 +297,7 @@ Portarias, resoluções administrativas, decretos e instruções normativas cujo
 
 ## CONFAZ
 
-A base tem 2282 convênios icms, 849 protocolos icms, 387 ajustes sinief: os citados pela SEFAZ-MA, as normas que os alteram/aderem/denunciam (2º nível) e todas as do ano corrente. Catálogo com ementa e situação de cada uma: `catalogo/confaz.md` (ex.: `python3 scripts/buscar.py "autopeças" --doc catalogo/confaz`).
+A base tem 2283 convênios icms, 849 protocolos icms, 387 ajustes sinief: os citados pela SEFAZ-MA, as normas que os alteram/aderem/denunciam (2º nível) e todas as do ano corrente. Catálogo com ementa e situação de cada uma: `catalogo/confaz.md` (ex.: `python3 scripts/buscar.py "autopeças" --doc catalogo/confaz`).
 
 ## Citados mas NÃO disponíveis na base (42)
 

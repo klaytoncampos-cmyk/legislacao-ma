@@ -1,3 +1,366 @@
+<<<DOC confaz/convenio/convenio-149-2020.md>>>
+---
+documento: "CONVÊNIO ICMS 149/20"
+tipo: convenio
+numero: 149
+ano: 2020
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV149_20
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 149/20
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 149/20, DE 9 DE DEZEMBRO DE 2020
+
+Publicado no DOU de 11.12.20, pelo Despacho 96/20
+
+Ratificação Nacional no DOU de 29.12.20, pelo Ato Declaratório 25/20
+
+Altera o Convênio ICMS 190/17, que dispõe, nos termos autorizados na Lei Complementar nº 160, de 7 de agosto de 2017, sobre a remissão de créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea “g” do inciso XII do § 2º do art. 155 da Constituição Federal, bem como sobre as correspondentes reinstituições.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 179ª Reunião Ordinária, realizada em Brasília, DF, no dia 9 de dezembro de 2020, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, e na Lei Complementar nº 160, de 7 de agosto de 2017, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira Ficam alterados os dispositivos a seguir indicados da cláusula décima primeira do Convênio ICMS 190/17, de 15 de dezembro de 2017, que passam a vigorar com as seguintes redações:
+
+I - o inciso II do § 4º:
+
+“II - o prazo para contestação e sugestão de reenquadramento por outra unidade federada previsto no § 1º desta cláusula terá início com o envio, pela Secretaria Executiva do CONFAZ, da informação prevista no § 5º desta cláusula.”;
+
+II – o § 5º:
+
+“5º A Secretaria Executiva do CONFAZ, até o 10º (décimo) dia seguinte à disponibilização do Certificado de Registro e Depósito no site do CONFAZ, deverá informar às demais unidades federadas sobre o reenquadramento.”.
+
+Cláusula segunda Fica acrescido o § 3º à cláusula sétima do Convênio ICMS 190/17, com a seguinte redação:
+
+“§ 3º No cumprimento do disposto nesta cláusula e nas demais hipóteses previstas neste convênio, não compete à Secretaria Executiva do CONFAZ a análise e conferência do conteúdo das informações e da documentação entregues pelas Secretarias de Economia, Fazenda, Finanças, Receita ou Tributação.”.
+
+Cláusula terceira Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional.
+<<<DOC confaz/convenio/convenio-149-2021.md>>>
+---
+documento: "CONVÊNIO ICMS 149/21"
+tipo: convenio
+numero: 149
+ano: 2021
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV149_21
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 149/21
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 149, DE 1º DE OUTUBRO DE 2021
+
+Publicado no DOU de 06.10.21, pelo despacho 68/21.
+
+Ratificação Nacional no DOU de 22.10.21, pelo Ato Declaratório 26/21.
+
+Adesão da PB, a partir de 20.10.23., pelo Conv. ICMS 137/23.
+
+Alterado pelo Conv. ICMS 137/23, 43/26.
+
+Adesão do MA e do PR pelo Conv. ICMS 43/26, efeitos a partir de 27.04.26.
+
+Autoriza as unidades federadas que menciona a conceder crédito presumido do ICMS no fomento à internet rural.
+
+O Conselho Nacional de Política Fazendária – CONFAZ, na sua 182ª Reunião Ordinária, realizada em Brasília, DF, no dia 1º de outubro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+> Nova redação dada ao caput da cláusula primeira pelo Conv. ICMS 43/26, efeitos a partir de 27.04.26
+
+Cláusula primeira Os Estados do Acre, Alagoas, Bahia, Espírito Santo, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder crédito presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, destinado exclusivamente à aplicação em investimentos relacionados ao fomento à internet rural em seu território, efetuados por empresas prestadoras de serviço de comunicação.
+
+> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 137/23, efeitos de 20.10.23 a 26.04.26.
+
+~~Cláusula primeira Os Estados do Acre, Alagoas, Bahia, Espírito Santo, Mato Grosso, Pará, Paraíba, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder crédito presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, destinado exclusivamente à aplicação em investimentos relacionados ao fomento à internet rural em seu território, efetuados por empresas prestadoras de serviço de comunicação.~~
+
+> Redação original, efeitos até 19.10.23.
+
+~~Cláusula primeira Os Estados do Acre, Alagoas, Bahia, Espírito Santo, Mato Grosso, Pará, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder crédito presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, destinado exclusivamente à aplicação em investimentos relacionados ao fomento à internet rural em seu território, efetuados por empresas prestadoras de serviço de comunicação.~~
+
+> Renumerado o parágrafo único para §1º da cláusula primeira pelo Conv. ICMS 137/23, efeitos a partir de 20.10.23
+
+§1º. O benefício previsto nesta cláusula fica condicionado:
+
+I - ao limite de 50% (cinquenta por cento) do valor do investimento realizado;
+
+II - a prévio termo de compromisso a ser firmado com a unidade federada, definindo o investimento, as condições de sua realização e seu prazo de vigência;
+
+III - à desistência de qualquer discussão, administrativa ou judicial, relativa à incidência de ICMS sobre a prestação de serviços de telecomunicações, especialmente quanto à internet banda larga.
+
+> Nova redação dada §2º da cláusula primeira pelo Conv. ICMS 43/26, efeitos a partir de 27.04.26.
+
+§ 2º Os Estados do Rio Grande do Sul e Santa Catarina ficam autorizados a dispensar a exigência prevista no inciso III do § 1º.
+
+> Redação anterior acrescida do § 2º à cláusula primeira pelo Conv. ICMS 137/23, efeitos de 20.10.23 a 26.04.26.
+
+~~§ 2º O Estado do Rio Grande do Sul fica autorizado a dispensar a exigência prevista no inciso III do § 1º.~~
+
+> Acrescido o §3º à cláusula primeira pelo Conv. ICMS 43/26, efeitos a partir de 27.04.26.
+
+§ 3º Os Estados do Acre, Amapá, Amazonas, Bahia, Espírito Santo, Maranhão, Pará, Paraíba, Paraná, Piauí, Rio Grande do Norte, Rio Grande do Sul, Rondônia e Santa Catarina ficam autorizados a, em substituição ao disposto no inciso I do § 1º, adotar, como limite individual, 75% (setenta e cinco por cento) do valor do investimento realizado e, como limite total, em cada ano, o percentual de 2% (dois por cento) da arrecadação anual do ICMS relativa ao exercício imediatamente anterior.
+
+Cláusula segunda. A apropriação mensal permitida do benefício de que trata este convênio limitar-se-á às definições previstas no anexo único a serem aplicadas sobre o saldo devedor de cada período de apuração.
+
+Parágrafo único. Para o cálculo do saldo devedor do ICMS próprio serão considerados todos os estabelecimentos da empresa na unidade federada.
+
+Cláusula terceira A legislação estadual poderá estabelecer outras condições, limites e exceções para a fruição do benefício previsto neste convênio.
+
+Cláusula quarta Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do primeiro mês subsequente ao da ratificação até 31 de dezembro de 2026.
+
+ANEXO ÚNICO
+
+| Saldo Devedor médio de ICMS próprio nos 12 meses anteriores à apropriação (R$) | Percentual | Valor a acrescer (R$) |
+| - | Até 70.000,00 | 30% | 0 |
+| Acima de 70.000,00 | Até 200.000,00 | 20% | 7.000,00 |
+| Acima de 200.000,00 | 10% | 27.000,00 |
+<<<DOC confaz/convenio/convenio-149-2024.md>>>
+---
+documento: "CONVÊNIO ICMS 149/24"
+tipo: convenio
+numero: 149
+ano: 2024
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV149_24
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 149/24
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 149, DE 6 DE DEZEMBRO DE 2024
+
+Publicado no DOU de 11.12.24. pelo despacho 51/24.
+
+Ratificação Nacional no DOU de 27.12.24, pelo Ato Declaratório 36/24.
+
+Altera o Convênio ICMS nº 199/22 e o Convênio ICMS nº 15/23.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 195ª Reunião Ordinária, realizada em Foz do Iguaçu, PR, no dia 6 de dezembro de 2024, tendo em vista o disposto nos artigos 102 e 109 da Lei nº 5.172, de 25 de outubro de 1966, na Lei Complementar nº 24, de 7 de janeiro de 1975 e na Lei Complementar n o 192, de 11 de março de 2022, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira O inciso I da cláusula trigésima primeira do Convênio ICMS nº 199, de 22 de dezembro de 2022, publicado no Diário Oficial da União de 23 de dezembro de 2022, passa a vigorar com a seguinte redação:
+
+"I - constatação de operações de recebimento do produto, cujo imposto não tenha sido recolhido pelo sujeito passivo da tributação monofásica ou repassado à UF que efetuar a comunicação;".
+
+Cláusula segunda O inciso I da cláusula trigésima primeira do Convênio ICMS nº 15, de 31 de março de 2023, publicado no Diário Oficial da União de 6 de abril de 2023, passa a vigorar com a seguinte redação:
+
+"I - constatação de operações de recebimento do produto, cujo imposto não tenha sido recolhido pelo sujeito passivo da tributação monofásica ou repassado à UF que efetuar a comunicação;".
+
+Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
+<<<DOC confaz/convenio/convenio-150-1994.md>>>
+---
+documento: "CONVÊNIO ICMS 150/94"
+tipo: convenio
+numero: 150
+ano: 1994
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV150_94
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 150/94
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+CONVÊNIO ICMS 150/94
+
+Publicado DOU de 14.12.94.
+
+Ratificação Nacional DOU de 02.01.95 pelo Ato COTEPE-ICMS
+
+13/94 .
+
+Dispõe sobre a adesão do Estado de Minas Gerais às disposições do Convênio ICMS 09/93, de 30.04.93, que concede redução da base de cálculo no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares.
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Economia ou Finanças dos Estados e do Distrito Federal, na 76ª Reunião Ordinária do Conselho Nacional de Política Fazendária realizada em Boa Vista, RR, no dia 7 de dezembro de 1994, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira
+
+Fica o Estado de Minas Gerais incluído nas disposições contidas no Convênio ICMS 09/93 , de 30 de abril de 1993.
+
+Cláusula segunda
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Boa Vista, RR, 7 de dezembro de 1994.
+<<<DOC confaz/convenio/convenio-150-2005.md>>>
+---
+documento: "CONVÊNIO ICMS 150/05"
+tipo: convenio
+numero: 150
+ano: 2005
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV150_05
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 150/05
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+CONVÊNIO ICMS 150/05
+
+Publicado no DOU de 21.12.05.
+
+Ratificação Nacional DOU de 09.01.06, pelo Ato Declaratório
+
+01/06 .
+
+Altera o Convênio ICMS 100/97, que reduz a base de cálculo do ICMS nas saídas de insumos agropecuários.
+
+O Conselho Nacional de Política Fazendária - CONFAZ
+
+, na sua 120ª reunião ordinária, realizada em Mata de São João, BA, no dia 16 de dezembro de 2005, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira
+
+O inciso I do "caput" da cláusula segunda do Convênio ICMS 100/97 , de 4 de novembro de 1997, passa a vigorar com a seguinte redação:
+
+"I - farelos e tortas de soja e de canola, farelos de suas cascas e sojas desativadas e seus farelos, quando destinados à alimentação animal ou ao emprego na fabricação de ração animal;".
+
+Cláusula segunda
+
+Ficam os Estados autorizados a não exigir o imposto relativo às saídas internas de sojas desativadas e seus farelos, realizadas com o benefício da redução da base de cálculo em 30% (trinta por cento) ou da isenção, ocorridas até a data do início de vigência deste convênio.
+
+Parágrafo único. O benefício de que trata esta cláusula não confere ao sujeito passivo direito a restituição ou compensação de valores eventualmente pagos.
+
+Cláusula terceira
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Mata de São João, BA, 16 de dezembro de 2005.
+<<<DOC confaz/convenio/convenio-150-2007.md>>>
+---
+documento: "CONVÊNIO ICMS 150/07"
+tipo: convenio
+numero: 150
+ano: 2007
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV150_07
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 150/07
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 150, DE 14 DE DEZEMBRO DE 2007
+
+· Publicado no DOU de 18.12.07, pelo Despacho 107/07 .
+
+Altera dispositivos do Convênio ICMS 54/02 que estabelece procedimentos para o controle de operações interestaduais com combustíveis derivados de petróleo e álcool etílico anidro combustível - AEAC.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 128ª reunião ordinária, realizada em Fortaleza, CE, no dia 14 de dezembro de 2007 , tendo em vista o disposto no art. 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira Os dispositivos a seguir indicados do Convênio ICMS 54/02 , de 28 de junho de 2002, passam a vigorar com as seguintes redações:
+
+I - os incisos I e II da cláusula primeira:
+
+“I - impossibilidade técnica de transmissão das informações de que trata o Capítulo VI do Convênio ICMS 110/07, de 28 de setembro de 2007, mediante o programa previsto no § 2° da cláusula vigésima terceira do citado convênio;
+
+II - da cláusula trigésima primeira do Convênio ICMS 110/07, de 28 de setembro de 2007.”;
+
+II - o “ caput” da cláusula segunda:
+
+“Cláusula segunda Ficam instituídos os relatórios conforme modelos constantes nos Anexos I a VIII deste convênio, destinados a:”;
+
+III - a cláusula oitava :
+
+“Cláusula oitava Os relatórios a que se referem os modelos constantes nos Anexos I e VIII serão entregues pelo TRR, pela distribuidora e pelo importador, mensalmente, ainda que estes não tenham realizado operações interestaduais.
+
+§ 1º Os relatórios previstos no caput deverão ser entregues na forma e nos prazos previstos nas cláusulas terceira, quarta e sexta;
+
+§ 2º O relatório a que se refere o modelo constante no Anexo VIII deverá ser entregue apenas pela distribuidora.”;
+
+IV - o “ caput” da cláusula décima sexta:
+
+“Cláusula décima sexta O disposto neste convênio não prejudica a aplicação das demais disposições do Convênio ICMS 110/07, de 28 de setembro de 2007.”.
+
+Cláusula segunda Ficam acrescentados ao Convênio ICMS 54/02 , os seguintes dispositivos com as redações que se seguem:
+
+I - o inciso VIII à cláusula segunda:
+
+“VIII - Anexo VIII : demonstrar a movimentação de AEAC e apurar as saídas interestaduais de sua mistura à gasolina.”;
+
+II - o inciso VII à cláusula terceira:
+
+“VII - elaborar relatório da movimentação de AEAC realizada no mês, em 2 (duas) vias, de acordo com o modelo constante no Anexo VIII;”;
+
+III - o inciso VII à cláusula quarta:
+
+“VII - elaborar relatório da movimentação de AEAC realizada no mês, em 2 (duas) vias, de acordo com o modelo constante no Anexo VIII.”.
+
+Cláusula terceira Fica acrescentado ao Convênio ICMS 54/02 , o Anexo VIII, na forma do Anexo Único deste convênio.
+
+Cláusula quarta Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de julho de 2008.
+
+## Convênio ICMS 150/07, de 14 de dezembro de 2007
+
+## Anexo Único
+
+“ANEXO VIII - RELATÓRIO DE APURAÇÃO DAS SAÍDAS INTERESTADUAIS DE AEAC MISTURADA A GASOLINA
+
+Período.....: 0O/2007 ID: 000 Combustível: AEAC Categoria: DIS - DISTRIBUIDOR
+
+CNPJ........: 00.000.000/0000-00 Inscrição Estadual: 000000000000000
+
+Razão Social: DISTRIBUIDOR XXXXXXXXXXXXXXXX
+
+Endereço....: AVENIDA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX - XX CEP: 0000000000
+
+| QUADRO 1 - APURAÇÃO DA MÉDIA PONDERADA DO VALOR DA OPERAÇÃO |
+| H i s t ó r i c o | Qtd. AEAC | Qtd. AEAC Misturada | Vlr.Unit.Médio | Valor da Operação |
+| Estoque Inicial | 79.010,000 | /////////////////// | 1,910614 | 150.957,61 |
+| (+) Recebimentos (Entradas) | 190.000,000 | 188.000,000 | ////////////// | 361.000,00 |
+| (=) Sub-Total | 269.010,000 | /////////////////// | ////////////// | 511.957,61 |
+| Preço médio ponderado | /////////////////// | /////////////////// | 1,917372 | ////////////////// |
+| (+) Recebimentos (Devoluções) | 0,000 | 0,000 | ////////////// | ////////////////// |
+| (=) Total das Entradas | 269.010,000 | 267.010,000 | ////////////// | ////////////////// |
+| (-) Remessas (Saídas) | 40.000,000 | 39.600,000 | ////////////// | ////////////////// |
+| (-) Remessas (Devoluções) | 0,000 | 0,000 | ////////////// | ////////////////// |
+| (=) Total das Saidas | 40.000,000 | 39.600,000 | ////////////// | ////////////////// |
+| (-) Perdas | 0,000 | /////////////////// | ////////////// | ////////////////// |
+| (+) Ganhos | 10,000 | /////////////////// | ////////////// | ////////////////// |
+| (=) Estoque Final | 229.020,000 | /////////////////// | 1,917372 | 439.116,54 |
+
+| QUADRO 2 - RESUMO DOS RECEBIMENTOS DO PERÍODO CNPJ........: 00.000.000/0000-00 Inscrição Estadual: 000000000000000000 Inscrição Estadual ST: Razão Social: USINA XXXXXXXXXXXXXXXXX Endereço....: XXXXXXXXXXXX Municipio: XXXXXXX - XX CEP: 50000000 |
+| | Qtd. Total de Combustível | Valor Total da Operação |
+| | 10.000,000 | 9.800,000 |
+| TOTAL DO PERIODO | 10.000,00 | 9.800,000 |
+
+| QUADRO 3 - RELAÇÃO DAS REMESSAS REALIZADAS NO PERÍODO (SAIDAS) |
+| Operações destinadas | Qtd. AEAC | Qtd. AEAC Misturada à Gasolina |
+| Ao Própri o Estado XX | | |
+| Ao Exterior | 20.000,000 | 30.000,000 |
+| A UNIDADE FEDERADA YY | 20.000,000 | 20.000,000 |
+| A UNIDADE FEDERADA ZZ | 10.000,000 | 25.000,000 |
+| TOTAL DO PERIODO | 50.000,000 | 75.000,000 |
+
+| QUADRO 4 - APURAÇÃO DO IMPOSTO À SER RECOLHIDO |
+| UF Destinatária | Qtd. AEAC Misturada (SAIDA INTEREST) | Preço Médio | Base de Cálculo | Aliq. Interest | ICMS a Recolher |
+| YY | 20.000,000 | 1,2000 | 1,2000 | 12% | 10.000,000 |
+| ZZ | 25.000,000 | 1,2000 | 1,2000 | 7% | 11.000,000 |
+| TOTAL DO PERIODO | 45.000,000 | | | | 21.000,000 |
+| Declaro, na forma e sob as penas da lei, que as informações contidas neste relatório são a expressão da verdade e que as mesmas foram extraídas dos livros e documentos fiscais do contribuinte emitente. | Identificação do Signatário Nome: XXXXXXXXXXXXXXX CPF: 500.500 .500-52 RG: M500500 UF: XX |
+| Local e Data | VARZEA DA PALMA-MG 17/07/2007 15:25:22 | Cargo: MEGA CHEFE |
+| Assinatura do Responsável | | | | Fones: 03532176333 |
+| | | | | “ |
 <<<DOC confaz/convenio/convenio-150-2008.md>>>
 ---
 documento: "CONVÊNIO ICMS 150/08"
@@ -6,7 +369,7 @@ numero: 150
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV150_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 150/08
@@ -135,7 +498,7 @@ numero: 150
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV150_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 150/10
@@ -169,7 +532,7 @@ numero: 150
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV150_12
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 150/12
@@ -219,7 +582,7 @@ numero: 150
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV150_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 150/20
@@ -370,7 +733,7 @@ numero: 150
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV150_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 150/21
@@ -404,7 +767,7 @@ numero: 150
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV150_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 150/22
@@ -444,7 +807,7 @@ numero: 150
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV150_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 150/24
@@ -476,7 +839,7 @@ numero: 151
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV151_94
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 151/94
@@ -628,7 +991,7 @@ numero: 151
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV151_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 151/05
@@ -664,7 +1027,7 @@ numero: 151
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV151_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 151/08
@@ -696,7 +1059,7 @@ numero: 151
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV151_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 151/13
@@ -734,7 +1097,7 @@ numero: 151
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV151_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 151/15
@@ -776,7 +1139,7 @@ numero: 151
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV151_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 151/17
@@ -808,7 +1171,7 @@ numero: 151
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV151_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 151/21
@@ -926,7 +1289,7 @@ numero: 151
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV151_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 151/25
@@ -1050,7 +1413,7 @@ numero: 152
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV152_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 152/02
@@ -1090,7 +1453,7 @@ numero: 152
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV152_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 152/06
@@ -1132,7 +1495,7 @@ numero: 152
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV152_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 152/08
@@ -1178,7 +1541,7 @@ numero: 152
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV152_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 152/15
@@ -1292,7 +1655,7 @@ numero: 153
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV153_94
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/94
@@ -1338,7 +1701,7 @@ numero: 153
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV153_04
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/04
@@ -1606,7 +1969,7 @@ numero: 153
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV153_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/05
@@ -1654,7 +2017,7 @@ numero: 153
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV153_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/06
@@ -1696,7 +2059,7 @@ numero: 153
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV153_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/15
@@ -1740,7 +2103,7 @@ numero: 153
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV153_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/17
@@ -1774,7 +2137,7 @@ numero: 153
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV153_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/21
@@ -1815,7 +2178,7 @@ numero: 153
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV153_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/24
@@ -1858,7 +2221,7 @@ numero: 153
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV153_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 153/25
@@ -1888,7 +2251,7 @@ numero: 154
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV154_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 154/05
@@ -1952,7 +2315,7 @@ numero: 154
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV154_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 154/15
@@ -2004,7 +2367,7 @@ numero: 154
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV154_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 154/22
@@ -2050,7 +2413,7 @@ numero: 154
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV154_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 154/24
@@ -2089,7 +2452,7 @@ numero: 154
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV154_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 154/25
@@ -2121,7 +2484,7 @@ numero: 155
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV155_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 155/02
@@ -2163,7 +2526,7 @@ numero: 155
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV155_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 155/13
@@ -2197,7 +2560,7 @@ numero: 155
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV155_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 155/15
@@ -2225,7 +2588,7 @@ numero: 156
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV156_94
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 156/94
@@ -3837,7 +4200,7 @@ numero: 156
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV156_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 156/02
@@ -3948,7 +4311,7 @@ numero: 156
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV156_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 156/08
@@ -3982,7 +4345,7 @@ numero: 156
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV156_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 156/15
@@ -4058,7 +4421,7 @@ numero: 156
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV156_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 156/17
@@ -4088,7 +4451,7 @@ numero: 156
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV156_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 156/23
@@ -4130,7 +4493,7 @@ numero: 156
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV156_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 156/25
@@ -4160,7 +4523,7 @@ numero: 157
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV157_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 157/06
@@ -4212,7 +4575,7 @@ numero: 157
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV157_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 157/10
@@ -4246,7 +4609,7 @@ numero: 157
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV157_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 157/15
@@ -4276,7 +4639,7 @@ numero: 157
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV157_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 157/19
@@ -4328,7 +4691,7 @@ numero: 157
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV157_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 157/21
@@ -4360,7 +4723,7 @@ numero: 158
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV158_94
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 158/94
@@ -4462,7 +4825,7 @@ numero: 158
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV158_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 158/02
@@ -4500,7 +4863,7 @@ numero: 158
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV158_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 158/05
@@ -4536,7 +4899,7 @@ numero: 158
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV158_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 158/06
@@ -4897,7 +5260,7 @@ numero: 158
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV158_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 158/08
@@ -4931,7 +5294,7 @@ numero: 158
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV158_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 158/13
@@ -4968,7 +5331,7 @@ numero: 158
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV158_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 158/15
@@ -4996,7 +5359,7 @@ numero: 158
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV158_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 158/19
@@ -5038,7 +5401,7 @@ numero: 158
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV158_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 158/21
@@ -5077,7 +5440,7 @@ numero: 159
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV159_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 159/10
@@ -5109,7 +5472,7 @@ numero: 159
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV159_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 159/13
@@ -5185,7 +5548,7 @@ numero: 159
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV159_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 159/20
@@ -5219,7 +5582,7 @@ numero: 159
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV159_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 159/21
@@ -5251,7 +5614,7 @@ numero: 160
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV160_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 160/02
@@ -5287,7 +5650,7 @@ numero: 160
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV160_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 160/06
@@ -5349,7 +5712,7 @@ numero: 160
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV160_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 160/08
@@ -5379,7 +5742,7 @@ numero: 160
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV160_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 160/10
@@ -5426,7 +5789,7 @@ numero: 160
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV160_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 160/24
@@ -5458,7 +5821,7 @@ numero: 161
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV161_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 161/02
@@ -5495,7 +5858,7 @@ numero: 161
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV161_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 161/21
@@ -5618,7 +5981,7 @@ numero: 161
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV161_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 161/23
@@ -5650,7 +6013,7 @@ numero: 161
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV161_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 161/25
@@ -5696,7 +6059,7 @@ numero: 162
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV162_94
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 162/94
@@ -6133,7 +6496,7 @@ numero: 162
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV162_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 162/13
@@ -6165,7 +6528,7 @@ numero: 162
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV162_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 162/19
@@ -6223,7 +6586,7 @@ numero: 163
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV163_94
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 163/94
@@ -6263,7 +6626,7 @@ numero: 163
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV163_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 163/02
@@ -6301,7 +6664,7 @@ numero: 163
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV163_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 163/10
@@ -6333,7 +6696,7 @@ numero: 163
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV163_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 163/13
@@ -6387,7 +6750,7 @@ numero: 163
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV163_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 163/15
@@ -6431,7 +6794,7 @@ numero: 163
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV163_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 163/21
@@ -6477,7 +6840,7 @@ numero: 164
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV164_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 164/13
@@ -6517,7 +6880,7 @@ numero: 164
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV164_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 164/15
@@ -6553,7 +6916,7 @@ numero: 165
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV165_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 165/10
@@ -6595,7 +6958,7 @@ numero: 165
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV165_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 165/19
@@ -6690,7 +7053,7 @@ numero: 165
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/cv165_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 165/21
@@ -6722,7 +7085,7 @@ numero: 165
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV165_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 165/25
@@ -6788,7 +7151,7 @@ numero: 166
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV166_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 166/02
@@ -6834,7 +7197,7 @@ numero: 166
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV166_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 166/06
@@ -6876,7 +7239,7 @@ numero: 166
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV166_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 166/13
@@ -6914,7 +7277,7 @@ numero: 166
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV166_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 166/17
@@ -6954,7 +7317,7 @@ numero: 166
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV166_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 166/21
@@ -6982,7 +7345,7 @@ numero: 166
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV166_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 166/22
@@ -7064,7 +7427,7 @@ numero: 166
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV166_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 166/25
@@ -7128,7 +7491,7 @@ numero: 167
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV167_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 167/05
@@ -7164,7 +7527,7 @@ numero: 167
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV167_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 167/10
@@ -7206,7 +7569,7 @@ numero: 167
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV167_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 167/15
@@ -7236,7 +7599,7 @@ numero: 167
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV167_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 167/19
@@ -7270,7 +7633,7 @@ numero: 167
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV167_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 167/21
@@ -7304,7 +7667,7 @@ numero: 167
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV167_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 167/22
@@ -7336,7 +7699,7 @@ numero: 168
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV168_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 168/05
@@ -7830,7 +8193,7 @@ numero: 168
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV168_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 168/10
@@ -7867,7 +8230,7 @@ numero: 168
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV168_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 168/15
@@ -7917,7 +8280,7 @@ numero: 168
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV168_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 168/17
@@ -8085,7 +8448,7 @@ numero: 168
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV168_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 168/21
@@ -8121,7 +8484,7 @@ numero: 168
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV168_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 168/25
@@ -8203,7 +8566,7 @@ numero: 169
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV169_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 169/05
@@ -8243,7 +8606,7 @@ numero: 169
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV169_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 169/10
@@ -8271,7 +8634,7 @@ numero: 169
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV169_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 169/15
@@ -8369,7 +8732,7 @@ numero: 169
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV169_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 169/17
@@ -8471,7 +8834,7 @@ numero: 169
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV169_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 169/19
@@ -8501,7 +8864,7 @@ numero: 169
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV169_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 169/21
@@ -8563,7 +8926,7 @@ numero: 169
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV169_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 169/25
@@ -8605,7 +8968,7 @@ numero: 170
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV170_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 170/10
@@ -8719,7 +9082,7 @@ numero: 170
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV170_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 170/21
@@ -8845,7 +9208,7 @@ numero: 170
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV170_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 170/23
@@ -8887,7 +9250,7 @@ numero: 170
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV170_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 170/25
@@ -8937,7 +9300,7 @@ numero: 171
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV171_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 171/10
@@ -8981,7 +9344,7 @@ numero: 171
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV171_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 171/19
@@ -9015,7 +9378,7 @@ numero: 171
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV171_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 171/21
@@ -9047,7 +9410,7 @@ numero: 171
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV171_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 171/23
@@ -9125,7 +9488,7 @@ numero: 172
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV172_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 172/10
@@ -9157,7 +9520,7 @@ numero: 172
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV172_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 172/15
@@ -9201,7 +9564,7 @@ numero: 172
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV172_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 172/17
@@ -9289,7 +9652,7 @@ numero: 172
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV172_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 172/19
@@ -9317,7 +9680,7 @@ numero: 172
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV172_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 172/23
@@ -9351,7 +9714,7 @@ numero: 172
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV172_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 172/24
@@ -9467,7 +9830,7 @@ numero: 173
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV173_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 173/10
@@ -9505,7 +9868,7 @@ numero: 173
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV173_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 173/19
@@ -9533,7 +9896,7 @@ numero: 173
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV173_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 173/22
@@ -9563,7 +9926,7 @@ numero: 173
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV173_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 173/23
@@ -9595,7 +9958,7 @@ numero: 173
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV173_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 173/24
@@ -9730,7 +10093,7 @@ numero: 174
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV174_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 174/24
@@ -9775,7 +10138,7 @@ numero: 175
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV175_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 175/10
@@ -9805,7 +10168,7 @@ numero: 175
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV175_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 175/13
@@ -9853,7 +10216,7 @@ numero: 175
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV175_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 175/24
@@ -9883,7 +10246,7 @@ numero: 176
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV176_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 176/10
@@ -9923,7 +10286,7 @@ numero: 176
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV176_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 176/13
@@ -9953,7 +10316,7 @@ numero: 176
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV176_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 176/24
@@ -10007,7 +10370,7 @@ numero: 176
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV176_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 176/25
@@ -10059,7 +10422,7 @@ numero: 177
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV177_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 177/13
@@ -10089,7 +10452,7 @@ numero: 177
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV177_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 177/17
@@ -10121,7 +10484,7 @@ numero: 178
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV178_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 178/17
@@ -10153,7 +10516,7 @@ numero: 178
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV178_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 178/21
@@ -10675,7 +11038,7 @@ numero: 178
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV178_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 178/24
@@ -10712,7 +11075,7 @@ numero: 179
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV179_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 179/10
@@ -10742,7 +11105,7 @@ numero: 179
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV179_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 179/13
@@ -10772,7 +11135,7 @@ numero: 179
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV179_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 179/24
@@ -10804,7 +11167,7 @@ numero: 180
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV180_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 180/13
@@ -10834,7 +11197,7 @@ numero: 180
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV180_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 180/15
@@ -10866,7 +11229,7 @@ numero: 180
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV180_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 180/22
@@ -10927,7 +11290,7 @@ numero: 180
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV180_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 180/23
@@ -10959,7 +11322,7 @@ numero: 180
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV180_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 180/24
@@ -11004,7 +11367,7 @@ numero: 181
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV181_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 181/10
@@ -11040,7 +11403,7 @@ numero: 181
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV181_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 181/13
@@ -11070,7 +11433,7 @@ numero: 181
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV181_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 181/17
@@ -11144,7 +11507,7 @@ numero: 181
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV181_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 181/22
@@ -11182,7 +11545,7 @@ numero: 181
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV181_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 181/24
@@ -11264,7 +11627,7 @@ numero: 182
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV182_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 182/10
@@ -11310,7 +11673,7 @@ numero: 182
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV182_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 182/13
@@ -11366,7 +11729,7 @@ numero: 182
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV182_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 182/17
@@ -11400,7 +11763,7 @@ numero: 182
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV182_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 182/22
@@ -11432,7 +11795,7 @@ numero: 182
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV182_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 182/24
@@ -11478,7 +11841,7 @@ numero: 183
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV183_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 183/10
@@ -11508,7 +11871,7 @@ numero: 183
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV183_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 183/13
@@ -11538,7 +11901,7 @@ numero: 184
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV184_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 184/13
@@ -11574,7 +11937,7 @@ numero: 184
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV184_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 184/15
@@ -11620,7 +11983,7 @@ numero: 184
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV184_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 184/17
@@ -11652,7 +12015,7 @@ numero: 185
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV185_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 185/10
@@ -11702,7 +12065,7 @@ numero: 185
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV185_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 185/13
@@ -11747,7 +12110,7 @@ numero: 185
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV185_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 185/17
@@ -11775,7 +12138,7 @@ numero: 185
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV185_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 185/19
@@ -11805,7 +12168,7 @@ numero: 186
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV186_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 186/13
@@ -11837,7 +12200,7 @@ numero: 186
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV186_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 186/21
@@ -11871,7 +12234,7 @@ numero: 186
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV186_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 186/23
@@ -11911,7 +12274,7 @@ numero: 187
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV187_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 187/10
@@ -11943,7 +12306,7 @@ numero: 187
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV187_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 187/23
@@ -11973,7 +12336,7 @@ numero: 188
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV188_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 188/17
@@ -12145,7 +12508,7 @@ numero: 188
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV188_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 188/19
@@ -12185,7 +12548,7 @@ numero: 189
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV189_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 189/13
@@ -12217,7 +12580,7 @@ numero: 189
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV189_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 189/23
@@ -12257,7 +12620,7 @@ numero: 190
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV190_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 190/10
@@ -12285,7 +12648,7 @@ numero: 190
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV190_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 190/13
@@ -12325,7 +12688,7 @@ numero: 190
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV190_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 190/17
@@ -12995,7 +13358,7 @@ numero: 191
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV191_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 191/13
@@ -13453,7 +13816,7 @@ numero: 191
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV191_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 191/17
@@ -13483,7 +13846,7 @@ numero: 191
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV191_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 191/21
@@ -13515,7 +13878,7 @@ numero: 192
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV192_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 192/10
@@ -13547,7 +13910,7 @@ numero: 192
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV192_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 192/17
@@ -13683,7 +14046,7 @@ numero: 192
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV192_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 192/21
@@ -13715,7 +14078,7 @@ numero: 193
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV193_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 193/10
@@ -13755,7 +14118,7 @@ numero: 193
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV193_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 193/23
@@ -13794,7 +14157,7 @@ numero: 194
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV194_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 194/17
@@ -13824,7 +14187,7 @@ numero: 194
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV194_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 194/23
@@ -13934,7 +14297,7 @@ numero: 195
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV195_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 195/10
@@ -13966,7 +14329,7 @@ numero: 195
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV195_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 195/22
@@ -14193,7 +14556,7 @@ numero: 196
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV196_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 196/17
@@ -14223,7 +14586,7 @@ numero: 197
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV197_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 197/17
@@ -14253,7 +14616,7 @@ numero: 197
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV197_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 197/22
@@ -14289,7 +14652,7 @@ numero: 198
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV198_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 198/17
@@ -14357,7 +14720,7 @@ numero: 198
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV198_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 198/19
@@ -14391,7 +14754,7 @@ numero: 199
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV199_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 199/17
@@ -14536,7 +14899,7 @@ numero: 199
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV199_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 199/21
@@ -14576,7 +14939,7 @@ numero: 199
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV199_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 199/22
@@ -15670,7 +16033,7 @@ numero: 199
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV199_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 199/23
@@ -15708,7 +16071,7 @@ numero: 200
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV200_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 200/17
@@ -15843,7 +16206,7 @@ numero: 200
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV200_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 200/22
@@ -15877,7 +16240,7 @@ numero: 201
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV201_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 201/17
@@ -16550,7 +16913,7 @@ numero: 201
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV201_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 201/22
@@ -16580,7 +16943,7 @@ numero: 202
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV202_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 202/19
@@ -16644,7 +17007,7 @@ numero: 202
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV202_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 202/22
@@ -16674,7 +17037,7 @@ numero: 203
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV203_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 203/17
@@ -16722,7 +17085,7 @@ numero: 204
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV204_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 204/17
@@ -16788,7 +17151,7 @@ numero: 204
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV204_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 204/21
@@ -16834,7 +17197,7 @@ numero: 205
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV205_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 205/17
@@ -16864,7 +17227,7 @@ numero: 205
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV205_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 205/21
@@ -16896,7 +17259,7 @@ numero: 206
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV206_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 206/23
@@ -16988,7 +17351,7 @@ numero: 207
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV207_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 207/21
@@ -17020,7 +17383,7 @@ numero: 208
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV208_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 208/17
@@ -17050,7 +17413,7 @@ numero: 208
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV208_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 208/23
@@ -17082,7 +17445,7 @@ numero: 210
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV210_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 210/17
@@ -17131,7 +17494,7 @@ numero: 210
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV210_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 210/19
@@ -17163,7 +17526,7 @@ numero: 210
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV210_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 210/23
@@ -17377,7 +17740,7 @@ numero: 211
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV211_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 211/17
@@ -17423,7 +17786,7 @@ numero: 211
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV211_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 211/19
@@ -17522,7 +17885,7 @@ numero: 212
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV212_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 212/17
@@ -17566,7 +17929,7 @@ numero: 212
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV212_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 212/19
@@ -17600,7 +17963,7 @@ numero: 212
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV212_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 212/23
@@ -17652,7 +18015,7 @@ numero: 213
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV213_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 213/17
@@ -17748,7 +18111,7 @@ numero: 213
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV213_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 213/21
@@ -17800,7 +18163,7 @@ numero: 213
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV213_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 213/23
@@ -17882,7 +18245,7 @@ numero: 214
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV214_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 214/17
@@ -17912,7 +18275,7 @@ numero: 214
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV214_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 214/23
@@ -17978,7 +18341,7 @@ numero: 215
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV215_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 215 /17
@@ -18008,7 +18371,7 @@ numero: 216
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV216_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 216/17
@@ -18081,7 +18444,7 @@ numero: 216
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV216_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 216/19
@@ -18113,7 +18476,7 @@ numero: 217
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV217_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 217/17
@@ -18137,308 +18500,3 @@ Cláusula primeira Fica o Estado de Minas Gerais autorizado a conceder o prazo a
 Parágrafo único. Na hipótese desta cláusula, não se aplica o disposto na cláusula sexta do Convênio ICMS 27/90, de 13 de setembro de 1990.
 
 Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2019.
-<<<DOC confaz/convenio/convenio-217-2023.md>>>
----
-documento: "CONVÊNIO ICMS 217/23"
-tipo: convenio
-numero: 217
-ano: 2023
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV217_23
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 217/23
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 217, DE 21 DE DEZEMBRO DE 2023
-
-Publicado no DOU de 22.12.23, pelo despacho 82/23.
-
-Ratificação Nacional no DOU de 28.12.23, pelo Ato Declaratório 51/23.
-
-Alterado pelo Conv. ICMS 114/25, 23/26, 91/26, 98/26.
-
-Adesão do DF, pelo Conv. 98/26, efeitos a partir de 15.09.26.
-
-> Nova redação dada à ementa pelo Conv. ICMS 98/26, efeitos a partir de 15.09.26.
-
-Autoriza a remissão de crédito tributário de pequeno valor inscrito em dívida ativa, reduzir juros e multas previstos na legislação tributária, bem como a conceder parcelamento de crédito tributário, relacionados com o ICMS.
-
-> Redação original efeitos até 14.09.26.
-
-~~Autoriza o Estado de Goiás a remitir crédito tributário de pequeno valor inscrito em dívida ativa, reduzir juros e multas previstos na legislação tributária, bem como a conceder parcelamento de crédito tributário, relacionados com o ICMS.~~
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 386ª Reunião Extraordinária, realizada em Brasília, DF, no dia 21 de dezembro de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-> Nova redação dada ao caput da cláusula primeira pelo Conv. ICMS 98/26, efeitos a partir de 15.09.26.
-
-Cláusula primeira O Estado de Goiás e o Distrito Federal ficam autorizado a reduzir juros e multas relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 30 de setembro de 2025, inclusive os ajuizados, bem como a conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e nas demais normas previstas na legislação tributária estadual.
-
-Parágrafo único. O Estado de Goiás e o Distrito Federal ficam também autorizado a remitir crédito tributário inscrito em dívida ativa até 31 de dezembro de 2019, cujo montante apurado, por processo, antes da aplicação das reduções previstas neste convênio, não ultrapasse o valor de R$ 37.254,03 (trinta e sete mil duzentos e cinqüenta e quatro reais e três centavos)
-
-> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 23/26, efeitos de 03.03.26 a 14.09.26.
-
-~~Cláusula primeira O Estado de Goiás fica autorizado a reduzir juros e multas relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 30 de setembro de 2025, inclusive os ajuizados, bem como a conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e nas demais normas previstas na legislação tributária estadual.~~
-
-> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 114/25, efeitos de 11.09.25 a 02.03.26.
-
-~~Cláusula primeira O Estado de Goiás fica autorizado a reduzir juros e multas relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 31 de março de 2025, inclusive os ajuizados, bem como a conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e nas demais normas previstas na legislação tributária estadual.~~
-
-~~Parágrafo único. O Estado de Goiás fica também autorizado a remitir crédito tributário inscrito em dívida ativa até 31 de dezembro de 2019, cujo montante apurado, por processo, antes da aplicação das reduções previstas neste convênio, não ultrapasse o valor de R$ 37.254,03 (trinta e sete mil duzentos e cinqüenta e quatro reais e três centavos).~~
-
-> Redação original, efeitos até 10.09.25.
-
-~~Cláusula primeira O Estado de Goiás fica autorizado a reduzir juros e multas relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 30 de junho de 2023, inclusive os ajuizados, bem como conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e as demais normas previstas na legislação tributária estadual.~~
-
-~~Parágrafo único. O Estado de Goiás fica também autorizado a remitir crédito tributário inscrito em dívida ativa até 31 de dezembro de 2018, cujo montante apurado, por processo, antes da aplicação das reduções previstas neste convênio, não ultrapasse o valor de R$ 35.537,57 (trinta e cinco mil quinhentos e trinta e sete reais e cinquenta e sete centavos).~~
-
-> Nova redação dada ao caput da cláusula segunda pelo Conv. ICMS 98/26, efeitos a partir de 15.09.25.
-
-Cláusula segunda O sujeito passivo, para usufruir os benefícios previstos neste convênio, deve promover a regularização do seu débito perante o Estado de Goiás e o Distrito Federal, nos termos da sua legislação tributária, cuja formalização é feita com a liquidação, total ou parcial do débito tributário, à vista ou da 1ª (primeira) parcela, que deve ocorrer no prazo máximo de 6 (seis) meses, contado da data fixada pela regulamentação em legislação estadual e distrital para o início da formalização.
-
-> Redação anterior dada ao caput da cláusula segunda pelo Conv. ICMS 114/25, efeitos de 11.09.25. a 14.09.26
-
-~~Cláusula segunda O sujeito passivo, para usufruir os benefícios previstos neste convênio, deve promover a regularização do seu débito perante o Estado de Goiás, nos termos da sua legislação tributária, cuja formalização é feita com a liquidação, total ou parcial do débito tributário, à vista ou da 1ª (primeira) parcela, que deve ocorrer no prazo máximo de 6 (seis) meses, contado da data fixada pela regulamentação em legislação estadual para o início da formalização.~~
-
-> Redação original, efeitos até 10.09.25.
-
-~~Cláusula segunda O sujeito passivo, para usufruir os benefícios previstos neste convênio, deve promover a regularização do seu débito perante o Estado de Goiás, nos termos da sua legislação tributária, cuja formalização é feita com a liquidação, total ou parcial do débito tributário, à vista ou da 1ª (primeira) parcela.~~
-
-> Renumerado o parágrafo único para §1º da cláusula segunda pelo Conv. ICMS 91/26, efeitos a partir de 31.07.26
-
-§1º A formalização do sujeito passivo, para a fruição da redução de que trata este convênio, implica o reconhecimento do respectivo débito tributário, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam, e da desistência de eventuais impugnações, defesas e recursos apresentados no âmbito administrativo ou judicial.
-
-> Redação original, efeitos até 30.07.26.
-
-~~Parágrafo único. A formalização do sujeito passivo, para a fruição da redução de que trata este convênio, implica o reconhecimento do respectivo débito tributário, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam, e da desistência de eventuais impugnações, defesas e recursos apresentados no âmbito administrativo ou judicial.~~
-
-> Acrescido o § 2º à cláusula segunda pelo Conv. ICMS 91/26, efeitos a partir de 31.07.26.
-
-§ 2º A opção do sujeito passivo e sua formalização pode ser estendida, pela legislação estadual, até o prazo máximo de 3 de novembro de 2026.
-
-Cláusula terceira Os créditos tributários consolidados para a quantificação do crédito tributário a ser liquidado terão redução de juros e multa de até:
-
-a) 99% (noventa e nove por cento) do seu valor, no pagamento à vista;
-
-b) 90% (noventa por cento) do seu valor, no pagamento em 2 (duas) a 12 (doze) parcelas;
-
-c) 80% (oitenta por cento) do seu valor, no pagamento em 13 (treze) a 24 (vinte e quatro) parcelas;
-
-d) 70% (setenta por cento) do seu valor, no pagamento em 25 (vinte e cinco) a 36 (trinta e seis) parcelas;
-
-e) 60% (sessenta por cento) do seu valor, no pagamento em 37 (trinta e sete) a 48 (quarenta e oito) parcelas;
-
-f) 50% (cinquenta por cento) do seu valor, no pagamento em 49 (quarenta e nove) a 60 (sessenta) parcelas;
-
-g) 40% (quarenta por cento) do seu valor, no pagamento em 61 (sessenta e uma) a 120 (cento e vinte) parcelas.
-
-> Renumerado o parágrafo único para §1º da cláusula terceira pelo Conv. ICMS 114/25, efeitos a partir de 11.09.25.
-
-§1º. Os créditos tributários decorrentes exclusivamente de penalidade pecuniária, por descumprimento de obrigações acessórias, terão redução de até:
-
-a) 90% (noventa por cento) do seu valor, no pagamento à vista;
-
-b) 80% (oitenta por cento) do seu valor, no pagamento em 2 (duas) a 12 (doze) parcelas;
-
-c) 70% (setenta por cento) do seu valor, no pagamento em 13 (treze) a 24 (vinte e quatro) parcelas;
-
-d) 60% (sessenta por cento) do seu valor, no pagamento em 25 (vinte e cinco) a 36 (trinta e seis) parcelas;
-
-e) 50% (cinquenta por cento) do seu valor, no pagamento em 37 (trinta e sete) a 48 (quarenta e oito) parcelas;
-
-f) 40% (quarenta por cento) do seu valor, no pagamento em 49 (quarenta e nove) a 60 (sessenta) parcelas;
-
-g) 30% (trinta por cento) do seu valor, no pagamento em 61 (sessenta e uma) a 120 (cento e vinte) parcelas.
-
-> Acrescido o § 2º à cláusula terceira pelo Conv. ICMS 114/25, efeitos a partir de 11.09.25.
-
-§ 2° Os créditos tributários consolidados devidos por empresário ou sociedade empresária em processo de recuperação judicial, bem como por contribuinte cuja falência tenha sido decretada judicialmente, terão redução de juros e multas de até:
-
-I – 95% (noventa e cinco por cento), para pagamento em até 48 (quarenta e oito) parcelas;
-
-II – 90% (noventa por cento), para pagamento em 49 (quarenta e nove) a 72 (setenta e duas) parcelas;
-
-III – 85% (oitenta e cinco por cento), para pagamento em 73 (setenta e três) a 96 (noventa e seis) parcelas;
-
-IV – 80% (oitenta por cento), para pagamento em 97 (noventa e sete) a 120 (cento e vinte) parcelas;
-
-V – 75% (setenta e cinco por cento), para pagamento em 121 (cento e vinte e uma) a 144 (cento e quarenta e quatro) parcelas;
-
-VI – 70% (setenta por cento), para pagamento em 145 (cento e quarenta e cinco) a 180 (cento e oitenta) parcelas.
-
-Cláusula quarta O disposto nesse convênio aplica-se inclusive a créditos tributários objetos de parcelamentos em curso.
-
-Cláusula quinta O disposto neste convênio não confere ao sujeito passivo beneficiado qualquer direito à restituição ou compensação das importâncias já pagas.
-
-Cláusula sexta Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
-<<<DOC confaz/convenio/convenio-218-2021.md>>>
----
-documento: "CONVÊNIO ICMS 218/21"
-tipo: convenio
-numero: 218
-ano: 2021
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV218_21
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 218/21
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 218, DE 09 DE DEZEMBRO DE 2021
-
-Publicado no DOU de 13.12.21, pelo despacho 84/21.
-
-Ratificação Nacional no DOU de 29.12.21, pelo Ato Declaratório 38/21.
-
-Retificação publicada no DOU de 10.03.22.
-
-Altera o Convênio ICMS nº 87/02, que concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 183ª Reunião Ordinária, realizada em Brasília, DF, no dia 09 de dezembro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Os itens 233 a 235 do Anexo Único do Convênio ICMS nº 87, de 28 de junho de 2002, passam a vigorar com as seguintes redações:
-
-“
-
-| Item | Fármacos | NCM | Medicamentos | NCM |
-| Fármacos | Medicamentos |
-| 233 | Insulina Degludeca | 2937.19.90 | 100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML (PENFILL) ATIVA | 3004.39.29 |
-| 100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML (PENFILL) ATIVA |
-| 100 U/ML SOL INJ CT 10 CAR VD TRANS X 3 ML (PENFILL) ATIVA |
-| 100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML X 1 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
-| 100 U/ML SOL INJ CT 2 CAR VD TRANS X 3 ML X 2 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
-| 100 U/ML SOL INJ CT 3 CAR VD TRANS X 3 ML X 3 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
-| 100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML X 5 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
-| 200 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML X 1 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
-| 200 U/ML SOL INJ CT 2 CAR VD TRANS X 3 ML X 2 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
-| 200 U/ML SOL INJ CT 3 CAR VD TRANS X 3 ML X 3 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
-| 200 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML X 5 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
-| 234 | Insulina Glargina | 2937.12.00 | 100 UI/ML SOL INJ CT 1 CAR VD TRANS X 3 ML | 3004.39.29 |
-| 100 UI/ML SOL INJ CT 1 CAR VD TRANS X 3 ML + 1 CAN APLIC |
-| 100 UI/ML SOL INJ CT 1 CARP VD INC X 3 ML + 1 SIST APLIC 60 UI PLAS |
-| 100 UI/ML SOL INJ CT 1 CARP VD INC X 3 ML |
-| 100 UI/ML SOL INJ CT 1 CARP VD INC X 3 ML + 1 SIST APLIC 80 UI PLAS |
-| 100 UI/ML SOL INJ CT 1 FA VD TRANS X 10 ML |
-| 100 UI/ML SOL INJ CT 10 CAR VD TRANS X 3 ML |
-| 100 UI/ML SOL INJ CT 10 CARP VD INC X 3 ML |
-| 100 UI/ML SOL INJ CT 10 CARP VD INC X 3 ML + 10 SIST APLIC 60 UI PLAS |
-| 100 UI/ML SOL INJ CT 10 CARP VD INC X 3 ML + 10 SIST APLIC 80 UI PLAS |
-| 100 UI/ML SOL INJ CT 10 FA VD INC X 3 ML |
-| 100 UI/ML SOL INJ CT 2 CAR VD TRANS X 3 ML |
-| 100 UI/ML SOL INJ CT 2 CARP VD INC X 3 ML + 2 SIST APLIC 60 UI PLAS |
-| 100 UI/ML SOL INJ CT 2 CARP VD INC X 3 ML |
-| 100 UI/ML SOL INJ CT 2 CARP VD INC X 3 ML + 2 SIST APLIC 80 UI PLAS |
-| 100 UI/ML SOL INJ CT 3 CAR VD TRANS X 3 ML |
-| 100 UI/ML SOL INJ CT 3 CAR VD TRANS X 3ML + 3 CAN APLIC |
-| 100 UI/ML SOL INJ CT 3 FA VD INC X 3 ML |
-| 100 UI/ML SOL INJ CT 4 CAR VD TRANS X 3 ML |
-| 100 UI/ML SOL INJ CT 5 CAR VD TRANS 3 ML + 5 CAN APLIC |
-| 100 UI/ML SOL INJ CT 5 CAR VD TRANS X 3 ML |
-| 100 UI/ML SOL INJ CT 5 CAR VD TRANS X 3 ML + 5 CAN APLIC |
-| 100 UI/ML SOL INJ CT 5 CARP VD INC X 3 ML + 5 SIST APLIC 60 UI PLAS |
-| 100 UI/ML SOL INJ CT 5 CARP VD INC X 3 ML |
-| 100 UI/ML SOL INJ CT 5 CARP VD INC X 3 ML + 5 SIST APLIC 80 UI PLAS |
-| 100 UI/ML SOL INJ CT 5 FA VD INC X 10 ML |
-| 100 UI/ML SOL INJ CT 5 FA VD INC X 3 ML |
-| 100 UI/ML SOL INJ CT 5 FA VD TRANS X 10 ML |
-| 100 UI/ML SOL INJ CT CAR VD TRANS X 3 ML + 1 CAN APLIC |
-| 100 UI/ML SOL INJ CT CAR VD TRANS X 3 ML |
-| 100 UI/ML SOL INJ CT FA VD INC X 10 ML |
-| 100 UI/ML SOL INJ CT FA VD INC X 3 ML |
-| 100 UI/ML SOL INJ CT FA VD TRANS X 10 ML |
-| 300 U/ML SOL INJ CT 1 CAR VD TRANS X 1,5 ML + 1 CAN APLIC |
-| 300 U/ML SOL INJ CT 2 CAR VD TRANS X 1,5 ML + 2 CAN APLIC |
-| 300 U/ML SOL INJ CT 3 CAR VD TRANS X 1,5 ML + 3 CAN APLIC |
-| 300 U/ML SOL INJ CT 4 CAR VD TRANS X 1,5 ML + 4 CAN APLIC |
-| 300 U/ML SOL INJ CT 5 CAR VD TRANS X 1,5 ML + 5 CAN APLIC |
-| 235 | Insulina Detemir | 2937.19.90 | 100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML (PENFILL) ATIVA | 3004.39.29 |
-| 100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML (PENFILL) ATIVA |
-| 100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML X 1 SIST APLIC PLAS (FLEXPEN) ATIVA |
-| 100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML X 5 SIST APLIC PLAS (FLEXPEN) ATIVA |
-
-” .
-
-Cláusula segunda Os itens 244 a 267 ficam acrescidos ao Anexo Único do Convênio ICMS nº 87/02, com as seguintes redações:
-
-“
-
-| Item | Fármacos | NCM | Medicamentos | NCM |
-| Fármacos | Medicamentos |
-| 244 | Abacavir | 2922.50.99 | 300 mg - comprimido revestido 200 mg/ml Solução oral - frasco | 3003.90.78 3004.90.68 |
-| 245 | Atazanavir | 2933.39.99 | 200 mg - cápsula gelatinosa dura 300 mg - cápsula gelatinosa dura | 3003.90.78 3004.90.68 |
-| 246 | Darunavir | 2935.90.29 | 75 mg - comprimido 150 mg - comprimido 600 mg - comprimido 800 mg - comprimido | 3003.90.89 3004.90.79 |
-| 247 | Dolutegravir | 2924.29.99 | 50 mg - comprimido revestido | 3003.90.59 3004.90.49 |
-| 248 | Efavirenz | 2933.39.99 | 200 mg - Cápsula gelatinosa dura 600 mg - Comprimido revestido 30 mg/ml Solução oral - Frasco | 3003.90.88 3004.90.78 |
-| 249 | Enfuvirtida | 2933.29.99 | 108 mg (90 mg/ml após reconstituição) - Pó para solução injetável | 3003.90.78 3004.90.68 |
-| 250 | Entricitabina + Tenofovir | 2934.99.29 (Entricitabina) 2933.59.49 (Tenofovir) | Entricitabina 200 mg + tenofovir 300 mg - comprimido revestido | 3003.90.99 3004.90.99 |
-| 251 | Estavudina | 2934.99.27 | 1 mg/ml solução oral - Frasco | 3003.90.89 3004.90.79 |
-| 252 | Etravirina | 2933.59.29 | 100 mg - comprimido 200 mg - comprimido | 3003.90.79 3004.90.69 |
-| 253 | Fosamprenavir | 2935.90.29 | 50 mg/ml - Suspensão oral - Frasco | 3003.90.88 3004.90.78 |
-| 254 | Lamivudina | 2934.99.93 | 150 mg - Comprimido revestido 10 mg/ml Solução oral - Frasco de 240 ml | 3003.90.89 3004.90.79 |
-| 255 | Lamivudina + Zidovudina | 2934.99.93 (Lamivudina) 2934.99.22 (Zidovudina) | Lamivudina 150mg + zidovudina 300mg - Comprimido revestido | 3003.90.89 3004.90.79 |
-| 256 | Lopinavir + ritonavir | 2933.59.49 (Lopinavir) 2934.99.99 (Ritonavir) | Lopinavir 100mg + ritonavir 25mg - Comrpimido revestido Lopinavir 80mg/mL + ritonavir 20mg/mL - Solução Oral - Frasco Lopinavir 200 mg + ritonavir 50mg - Comprimido revestido | 3003.90.99 3004.90.99 |
-| 257 | Maraviroque | 2924.29.99 | 150 mg - Comprimido revestido | 3003.90.79 3004.90.69 |
-| 258 | Nevirapina | 2934.99.99 | 200 mg - Comprimido simples 10 mg/ml Suspensão oral - Frasco | 3003.90.78 3004.90.68 |
-| 259 | Raltegravir | 2924.29.99 | 100 mg - Comprimido mastigável 400 mg - Comprimido revestido | 3003.90.89 3004.90.79 |
-| 260 | Ritonavir | 2934.99.99 | 100 mg - Comprimido revestido 80 mg/ml Solução oral - Frasco | 3003.90.88 3004.90.78 |
-| 261 | Tenofovir | 2933.59.49 | 300 mg - Comprimido revestido | 3003.90.78 3004.90.68 |
-| 262 | Tenofovir + lamivudina | 2933.59.49 (Tenofovir) 2934.99.93 (Lamivudina) | Tenofovir 300 mg + lamivudina 300 mg - Comprimido revestido | 3003.90.99 3004.90.99 |
-| 263 | Tenofovir + lamivudina + efavirenz | 2933.59.49 (Tenofovir) 2934.99.93 (Lamivudina) 2933.39.99 (Efavirenz) | Tenofovir 300 mg + lamivudina 300 mg + efavirenz 600mg - Comprimido | 3003.90.99 3004.90.99 |
-| 264 | Tipranavir | 2935.90.99 | 100 mg/ml Solução oral - frasco 250 mg - Cápsula gelatinosa mole | 3003.90.88 3004.90.78 |
-| 265 | Zidovudina (AZT) | 2934.99.22 | 100 mg - Cápsula gelatinosa dura 10 mg/ml Solução injetável - Frasco-ampola 10 mg/ml Xarope - Frasco | 3003.90.89 3004.90.79 |
-| 266 | Antimoniato de Meglumina | 2922.19.99 | 300 mg/ml - Solução injetável | 3004.90.39 |
-| 267 | Aflibercepte | 3002.13.00 | 40 mg/ml - Solução inc ivit ct 1 fa vd trans x 0,2278 ml + AGU | 3002.15.90 |
-
-”.
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2023.
-
-RETIFICAÇÃO
-
-Publicado no DOU de 10.03.22
-
-No item 267 da cláusula segunda do Convênio ICMS nº 218, de 9 de dezembro de 2021, publicado no DOU de 13 de dezembro de 2021, Seção 1, páginas 39 e 40, onde se lê: “Afibercepte”; leia-se: “Aflibercepte”.
-
-CARLOS HENRIQUE DE AZEVEDO OLIVEIRA
-
-Diretor da Secretaria-Executiva do CONFAZ
-<<<DOC confaz/convenio/convenio-218-2023.md>>>
----
-documento: "CONVÊNIO ICMS 218/23"
-tipo: convenio
-numero: 218
-ano: 2023
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV218_23
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 218/23
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 218, DE 21 DE DEZEMBRO DE 2023
-
-Publicado no DOU de 22.12.23, pelo despacho 82/23.
-
-Ratificação Nacional no DOU de 28.12.23, pelo Ato Declaratório 51/23.
-
-Altera o Convênio ICM nº 44/75 que, dispõe sobre a isenção de produtos hortifrutigranjeiros.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 386ª Reunião Extraordinária, realizada em Brasília, DF, no dia 21 de dezembro de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira O § 2º-A fica acrescido à cláusula primeira do Convênio ICM nº 44, de 10 de dezembro de 1975, com a seguinte redação:
-
-“§ 2º-A Os Estados do Acre, Alagoas, Rio Grande do Sul e Santa Catarina ficam autorizados a não aplicar o disposto no § 2º.”.
-
-Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

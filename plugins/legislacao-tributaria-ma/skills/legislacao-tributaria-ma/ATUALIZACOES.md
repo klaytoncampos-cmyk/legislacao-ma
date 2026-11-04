@@ -1,5 +1,11 @@
 # Registro de atualizações da base
 
+## 2026-11-04 09:50
+
+- SEFAZ alterado: **ANEXO 49.pdf** (atualizado na fonte em 2026-11-04 09:09:59)
+- SEFAZ alterado: **ANEXO 48 .pdf** (atualizado na fonte em 2026-11-04 09:08:06)
+- CONFAZ NOVO: convenio 124/2026: Autoriza a instituição de Plano de Regularização de créditos tributários com redução de penalidades e acréscimos legais, na forma que especifica.
+
 ## 2026-11-03
 
 - NOVO: **pauta de sorvetes e picolés** em `valores/sorvetes.md` (só na edição completa), 43 portarias de 2016 a 2026: tabelas Nestlé/Garoto, Tigelí/Classicy, Ster Bom, Flamboyant Gelato, Maioca, Akaska, Petruz e sorveterias regionais. Quase todos os itens são sem código e identificados pela descrição; a relação completa de um fornecedor só vale para os itens dele.

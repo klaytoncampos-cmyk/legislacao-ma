@@ -11655,9 +11655,9 @@ orgao: SEFAZ-MA
 categoria_id: 242
 arquivo_id: 7582
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=638aaf39-cd1f-471e-974d-e351b29b3337
-atualizado_na_fonte: "2026-08-03 18:13:51"
-extraido_em: "2026-10-15"
-paginas: 26
+atualizado_na_fonte: "2026-11-04 09:08:06"
+extraido_em: "2026-11-04"
+paginas: 28
 percentual_tachado: 5.6
 paginas_escaneadas: []
 ---
@@ -11672,7 +11672,7 @@ _REGIME DE TRIBUTAÇÃO MONOFÁSICA DO ICMS A SER APLICADO NAS OPERAÇÕES COM C
 ANEXO 48
 
 REGIME DE TRIBUTAÇÃO MONOFÁSICA DO ICMS A SER APLICADO NAS OPERAÇÕES COM COMBUSTÍVEIS NOS TERMOS DA LEI COMPLEMENTAR Nº 192, DE 11 DE MARÇO DE 2022, E ESTABELECE PROCEDIMENTOS PARA O CONTROLE, APURAÇÃO, REPASSE E DEDUÇÃO DO IMPOSTO.
-Alterações: RA 50/25
+Alterações: RA 50/25; 34/26
 
 
 CAPÍTULO I DAS DEFINIÇÕES INICIAIS
@@ -11722,36 +11722,46 @@ Art. 2º Para todos os efeitos deste Anexo, nos termos da Lei Complementar nº 1
 
 I - em relação a cada combustível, as alíquotas serão uniformes em todo o território nacional;
 
+<!-- p. 3 -->
 II - em relação a cada combustível, as alíquotas serão específicas (ad rem) por unidade de medida (litro ou quilograma);
 
-<!-- p. 3 -->
 III - não se aplicará o disposto na alínea “b” do inciso X do § 2º do art. 155 da Constituição Federal de 1988;
 
 IV - nas operações com óleo diesel A ou GLP, o imposto caberá à UFs onde ocorrer o consumo;
 
 V - nas operações interestaduais com B100 ou GLGN, inclusive o contido nas misturas de GLP/GLGN, destinadas a não contribuinte, o imposto caberá à UF de origem;
 
-VI - nas operações interestaduais com B100 ou GLGN, entre contribuintes, o imposto será repartido entre a UF de origem e a UF de destino, nas seguintes proporções, conforme a origem da mercadoria, se nacional ou importada, e, também, conforme as UFs de origem e de efetivo consumo:
+VI - nas operações interestaduais com B100 ou GLGN, entre contribuintes,
 
-a) B100 ou GLGN de origem importada na proporção de 22,22% (vinte e dois inteiros e vinte e dois centésimos por cento) para a UF do importador e 77,78% (setenta e sete inteiros e setenta e oito centésimos por cento) para a UF de destino;
+o imposto será repartido entre a UF de origem e a UF de destino, nas seguintes proporções, conforme a origem da mercadoria, se nacional ou importada, e, também, conforme as UFs de origem e de efetivo consumo:
+
+a) B100 ou GLGN de origem importada na proporção de 22,22% (vinte e
+
+dois inteiros e vinte e dois centésimos por cento) para a UF do importador e 77,78% (setenta e sete inteiros e setenta e oito centésimos por cento) para a UF de destino;
 
 b) B100 ou GLGN de origem nacional na proporção de 38,89% (trinta e oito inteiros e oitenta e nove centésimos por cento) para a UF do produtor e 61,11% (sessenta e um inteiros e onze centésimos por cento) para a UF de destino nas operações originadas em Minas Gerais, Paraná, Rio de Janeiro, Rio Grande do Sul, Santa Catarina ou São Paulo e não destinadas a nenhuma delas;
 
 c) B100 ou GLGN de origem nacional na proporção de 66,67% (sessenta e seis inteiros e sessenta e sete centésimos por cento) para a UF do produtor e 33,33% (trinta e três inteiros e trinta e três centésimos por cento) para a UF de destino, nas operações não referidas na alínea “b”.
 
-VII – na operação com óleo diesel B, o imposto da parcela de óleo diesel A, contido na mistura, caberá à UF onde ocorrer o consumo, e o imposto da parcela do B100 contido na mistura será repartido entre a UF de origem e a UF de destino nas proporções definidas no inciso VI;
+VII – na operação com óleo diesel B, o imposto da parcela de óleo diesel
+
+A, contido na mistura, caberá à UF onde ocorrer o consumo, e o imposto da parcela do B100 contido na mistura será repartido entre a UF de origem e a UF de destino nas proporções definidas no inciso VI;
 
 VIII – nas operações com GLP/GLGN, entre contribuintes, o imposto da parcela de GLP contido na mistura caberá à UF onde ocorrer o consumo e o imposto da parcela de GLGN contido na mistura será repartido entre as UFs de origem e de destino nas proporções definidas no inciso VI.
 
-§ 1º Para a determinação da repartição definida nos incisos VI, VII e VIII, e dos ajustes apurados nos Anexos IV-M-AJ e V-M-AJ, os contribuintes indicados no art. 3º, os estabelecimentos dos distribuidores de combustíveis e TRRs deverão, nas operações não destinadas a consumidor final, com B100 puro ou misturado no óleo diesel B e nas operações com GLGNn e GLGNi puros ou misturados no GLP/GLGN, indicar,
+§ 1º Para a determinação da repartição definida nos incisos VI, VII e VIII, e
 
 <!-- p. 4 -->
-nos campos próprios da nota fiscal, se o produto é nacional ou importado e os percentuais destes produtos por UF de origem, apurados nos termos de Ato COTEPE/ICMS.
+dos ajustes apurados nos Anexos IV-M-AJ e V-M-AJ, os contribuintes indicados no art. 3º, os estabelecimentos dos distribuidores de combustíveis e TRRs deverão, nas operações não destinadas a consumidor final, com B100 puro ou misturado no óleo diesel B e nas operações com GLGNn e GLGNi puros ou misturados no GLP/GLGN, indicar, nos campos próprios da nota fiscal, se o produto é nacional ou importado e os percentuais destes produtos por UF de origem, apurados nos termos de Ato COTEPE/ICMS.
 
 § 2º A indicação prevista no § 1º deverá ser feita:
-I – do dia 1º até o dia 5 do mês, com base na proporção apurada no segundo mês imediatamente anterior ao da remessa;
+I – do dia 1º até o dia 5 do mês, com base na proporção apurada no
 
-II – do dia 6 até o último dia do mês, com base na proporção apurada no mês imediatamente anterior ao da remessa.
+segundo mês imediatamente anterior ao da remessa;
+
+II – do dia 6 até o último dia do mês, com base na proporção apurada no
+
+mês imediatamente anterior ao da remessa.
 
 § 3º Em relação às repartições do imposto sobre o GLGN, para apuração das quantidades de GLGNn e GLGNi puros ou contidos na mistura de GLP/GLGN, nas notas fiscais de saídas:
 
@@ -11768,10 +11778,10 @@ a) do dia 1º até o dia 5 do mês, a média apurada no segundo mês imediatamen
 
 b) do dia 6 até o último dia do mês, a média apurada no mês imediatamente anterior ao da remessa.
 
+<!-- p. 5 -->
 (NR – RA 50/25)
 § 4º Caso algum dos estabelecimentos indicados nos incisos I e II do § 3º esteja iniciando suas operações, deverá ser utilizado o percentual médio de todas as operações dos estabelecimentos situados na mesma UF, apurado e informado pela respectiva UF.
 
-<!-- p. 5 -->
 Art. 3º São contribuintes do imposto de que trata este Anexo, nos termos da Lei Complementar nº 192/22:
 
 I - o produtor nacional de biocombustíveis;
@@ -11789,15 +11799,15 @@ VI - o importador.
 (AC – RA 50/25)
 Art. 4º Nos termos da Lei Complementar nº 192/22, o imposto incidirá uma única vez sobre as operações com combustíveis, considerando-se ocorrido o fato gerador no momento:
 
-I - do desembaraço aduaneiro do combustível, nas operações de importação;
+I - do desembaraço aduaneiro do combustível, nas operações de
+
+importação;
 II - da saída de combustível de estabelecimento de contribuinte, exceto se importado.
 
 § 1º Não se considera fato gerador do imposto a comercialização de combustível à temperatura ambiente, pelos estabelecimentos distribuidores, em volume superior ao recebido de seus fornecedores, faturado a 20oC, decorrente de variação volumétrica, cuja variação esteja dentro do limite previsto pelo FCV divulgado em Ato COTEPE/ICMS.
 
-§ 2º Na constatação de comercialização de combustível à temperatura ambiente, pelos estabelecimentos distribuidores, em volume superior ao recebido de seus fornecedores, faturado a 20oC, decorrente de variação volumétrica, cuja variação esteja acima do limite previsto pelo FCV divulgado em Ato COTEPE/ICMS, a UF do distribuidor deverá considerar como base de cálculo a diferença entre o volume de estoque final adicionado ao volume total de saídas à temperatura ambiente e o volume de estoque
-
 <!-- p. 6 -->
-inicial adicionado ao volume total de entradas à temperatura ambiente, aplicando-se a correção volumétrica sobre o volume recebido a 20oC (vinte graus celsius), conforme a seguinte fórmula:
+§ 2º Na constatação de comercialização de combustível à temperatura ambiente, pelos estabelecimentos distribuidores, em volume superior ao recebido de seus fornecedores, faturado a 20oC, decorrente de variação volumétrica, cuja variação esteja acima do limite previsto pelo FCV divulgado em Ato COTEPE/ICMS, a UF do distribuidor deverá considerar como base de cálculo a diferença entre o volume de estoque final adicionado ao volume total de saídas à temperatura ambiente e o volume de estoque inicial adicionado ao volume total de entradas à temperatura ambiente, aplicando-se a correção volumétrica sobre o volume recebido a 20oC (vinte graus celsius), conforme a seguinte fórmula:
 
 Base de Cálculo = (Volume em Estoque Final a Temperatura Ambiente + Volume Total de Saídas a Temperatura Ambiente) – [Volume em Estoque Inicial a Temperatura Ambiente + Volume Total de Entradas a Temperatura Ambiente + (Volume Total de Entradas a 20oC / FCV)]
 
@@ -11815,16 +11825,21 @@ Art. 7º As alíquotas do ICMS ficam instituídas e fixadas, nos termos do incis
 
 I ~~– para o diesel e biodiesel, em R$ 0,9456;~~
 
+<!-- p. 7 -->
 I – para o diesel e biodiesel:
 a) em R$ 1,12, até 31 de dezembro de 2025;
-b) em R$ 1,17, a partir de 1º de janeiro de 2026;
-(NR – RA 50/25) II ~~– para o GLP/GLGN, inclusive o derivado do gás natural, em R$ 1,2571.~~
+(NR – RA 50/25)
+b) em R$ 1,17, a partir de 1º de janeiro de 2026; (|AC– RA 50/25)
+c) em R$ 1,30, a partir de 1° de fevereiro de 2027.
+(AC – RA 34/26) II ~~– para o GLP/GLGN, inclusive o derivado do gás natural, em R$ 1,2571.~~
 
 II – para o GLP/GLGN, inclusive o derivado do gás natural:
-
-<!-- p. 7 -->
-em R$ 1,39, até 31 de dezembro de 2025; em R$ 1,47 a partir de 1º de janeiro de 2026
+a) em R$ 1,39, até 31 de dezembro de 2025;
 (NR – RA 50/25)
+b) em R$ 1,47 a partir de 1º de janeiro de 2026
+(AC – RA50/25)
+c) em R$ 1,54, a partir de 1o de fevereiro de 2027.
+(AC – RA 34/26)
 Parágrafo único. As alíquotas de que trata o “caput” deste artigo são fixadas em quilograma para GLP/GLGN e em litro para os demais combustíveis.
 
 Art. 8º As operações com Óleo Diesel A têm como base de cálculo o volume do combustível convertido a 20o Celsius, faturado pelo contribuinte.
@@ -11836,7 +11851,10 @@ I - nas operações de importação, no momento do desembaraço aduaneiro, a cr�
 
 a) do importador de Óleo Diesel A: 1. correspondente a 100% (cem inteiros por cento) do imposto sobre o Óleo Diesel A; e
 
-2. correspondente à proporção do imposto sobre o B100 que vier a compor a saída futura da mistura de Óleo Diesel B devida a UF de destino, definida na alínea “c” do inciso VI do art. 2º deste Anexo;
+2. correspondente à proporção do imposto sobre o B100 que vier a compor a
+
+<!-- p. 8 -->
+saída futura da mistura de Óleo Diesel B devida a UF de destino, definida na alínea “c” do inciso VI do art. 2º deste Anexo;
 
 b) do importador de GLP, de GLGN ou de GLP/GLGN correspondente a 100% (cem inteiros por cento) do imposto;
 
@@ -11848,7 +11866,6 @@ a) de destino do Óleo Diesel B resultante da mistura de Óleo Diesel A com B100
 
 1. correspondente a 100% (cem inteiros por cento) do imposto sobre o Óleo Diesel A contido na mistura; e
 
-<!-- p. 8 -->
 2. correspondente à proporção definida no inciso VI do Art. 2º, do imposto do B100, nos termos do art. 11;
 
 b) ~~de origem do GLGN, na proporção definida no inciso VI do art. 2º;~~
@@ -11863,6 +11880,7 @@ c) de destino do GLP, do GLGN ou do GLP/GLGN: 1. correspondente a 100% (cem inte
 
 2. ~~correspondente à proporção definida no inciso VI da art. 2º para o GLGN comercializado puro ou contido na mistura;~~
 
+<!-- p. 9 -->
 2. correspondente à proporção definida na alínea “c” do inciso VI do art. 2º para o GLGNn (Nacional) comercializado puro ou contido na mistura;
 
 (NR – RA 50/25) 3. correspondente à proporção definida na alínea “a” do inciso VI do art. 2º para o GLGNi (Importado) comercializado puro ou contido na mistura.
@@ -11872,10 +11890,7 @@ d) de destino do Óleo Diesel A ou do GLP, observado o § 10 do art. 16, corresp
 
 III - nas operações de saídas realizadas pelo produtor nacional de biocombustíveis, até o 10º (décimo) dia subsequente ao término do período de apuração em que tiver ocorrido a operação ou, no caso do 10º (décimo) dia cair em dia não útil ou sem expediente bancário, no primeiro dia útil subsequente, a crédito da UF de origem do B100, na proporção definida na alínea “c” do inciso VI do art. 2, nos termos do art. 11.
 
-IV - nas operações indicadas no § 2º do art. 3º, em relação ao volume de B100 adicionado que exceder o percentual obrigatório, observado o art. 11-A e a proporção do imposto sobre o B100 devida a UF de destino, definida na alínea “c” do inciso VI do art. 2º, até o 10º (décimo) dia subsequente ao término do período de apuração em que tiver ocorrido a operação ou, no caso do 10º (décimo) dia cair em dia não útil ou sem
-
-<!-- p. 9 -->
-expediente bancário, no primeiro dia útil subsequente, a crédito da UF de destino do óleo diesel B.
+IV - nas operações indicadas no § 2º do art. 3º, em relação ao volume de B100 adicionado que exceder o percentual obrigatório, observado o art. 11-A e a proporção do imposto sobre o B100 devida a UF de destino, definida na alínea “c” do inciso VI do art. 2º, até o 10º (décimo) dia subsequente ao término do período de apuração em que tiver ocorrido a operação ou, no caso do 10º (décimo) dia cair em dia não útil ou sem expediente bancário, no primeiro dia útil subsequente, a crédito da UF de destino do óleo diesel B.
 
 (AC – RA 50/25)
 ~~§ 1º O recolhimento do imposto nas operações de importação de óleo diesel A, inclusive a parcela retida sobre o B100 que vier a compor a mistura do óleo diesel B, GLP e GLGN realizadas pela refinaria de petróleo e pela CPQ fica diferido, devendo ser recolhido por ocasião da operação subsequente, devidamente tributada nos termos deste Anexo.~~
@@ -11885,6 +11900,7 @@ expediente bancário, no primeiro dia útil subsequente, a crédito da UF de des
 (NR – RA 50/25)
 ~~§ 2º Tratando-se de bases vinculadas à refinaria de petróleo, o diferimento no recolhimento do imposto nas operações de importação dos produtos mencionados no § 2º somente ocorrerá se a importação for realizada na unidade federada onde houver instalada refinaria de petróleo, assim entendida como a pessoa jurídica com uma ou mais instalações de refino de petróleo autorizadas pela ANP (Resolução ANP no 43/2009).~~
 
+<!-- p. 10 -->
 § 2º Tratando-se de bases vinculadas à refinaria de petróleo ou à UPGN, o diferimento no recolhimento do imposto nas operações de importação dos produtos mencionados no § 1º somente ocorrerá se a importação for realizada na unidade federada onde houver instalada a UPGN ou a refinaria de petróleo, assim entendida como a pessoa jurídica com uma ou mais instalações de refino de petróleo autorizadas pela ANP (Resolução ANP nº 43/2009).
 
 (NR – RA 50/25)
@@ -11896,7 +11912,6 @@ expediente bancário, no primeiro dia útil subsequente, a crédito da UF de des
 
 I - o Ato COTEPE/ICMS estabelecerá os requisitos necessários para a concessão e permanência do diferimento estabelecido no “caput”;
 
-<!-- p. 10 -->
 II - a administração tributária de cada unidade federada comunicará à Secretaria- Executiva do Conselho Nacional de Política Fazendária – SE/CONFAZ, a qualquer momento, a inclusão ou exclusão dos referidos produtores, e esta providenciará a publicação do ato COTEPE/ICMS no Diário Oficial da União e disponibilização no sítio eletrônico do CONFAZ;
 
 III - o Ato COTEPE/ICMS deve conter, no mínimo: Razão Social, número CNPJ, a unidade federada do domicílio fiscal do contribuinte e a data do início da vigência da concessão prevista nos §§ 2º e 5º
@@ -11905,6 +11920,7 @@ III - o Ato COTEPE/ICMS deve conter, no mínimo: Razão Social, número CNPJ, a 
 
 § 7º A refinaria de petróleo e suas bases, a CPQ, a UPGN e o formulador de combustíveis que adquirir o óleo diesel “A”, de GLP e de GLGN com o imposto retido controlará o estoque de forma a conseguir identificar as mercadorias com o imposto retido daquelas que não houve a retenção.
 
+<!-- p. 11 -->
 ~~Art. 11. Fica atribuída à refinaria de petróleo ou suas bases, à CPQ, à UPGN, ao Formulador de Combustíveis e ao importador, nas operações com Óleo Diesel A a responsabilidade pela retenção e pelo recolhimento do ICMS incidente nas importações de B100 ou sobre as saídas do estabelecimento produtor de B100, do valor correspondente a proporção devida à UF de destino definida na alínea “c” do inciso VI do art. 2º.~~
 
 Art.11. Fica atribuída a responsabilidade pela retenção e pelo recolhimento do ICMS incidente nas importações de B100 ou sobre as saídas do estabelecimento produtor de B100, do valor correspondente a proporção devida à UF de destino definida na alínea “c” do inciso VI do art. 2º:
@@ -11915,9 +11931,8 @@ II - à refinaria de petróleo ou suas bases, nas operações com Óleo Diesel B
 (NR – RA 50/25)
 § 1º O valor do imposto de que trata este artigo deverá ser retido concomitantemente com o imposto devido pelas operações com Óleo Diesel A e informados nos campos próprios do documento fiscal, de forma que componha integralmente o imposto devido às UFs de destino do Óleo Diesel B resultante da mistura;
 
-§ 2º O cálculo do imposto retido corresponderá, a cada operação, à aplicação da seguinte fórmula: IRBM = [QTDA/ (1 – IM)] X IM X ALIQ X PDEST, considerandose:
+§ 2º O cálculo do imposto retido corresponderá, a cada operação, à aplicação da seguinte fórmula: IRBM = [QTDA/ (1 – IM)] X IM X ALIQ X PDEST, considerando-se:
 
-<!-- p. 11 -->
 I - IRBM: imposto retido sobre o biocombustível (B100) a ser adicionado para composição do Óleo Diesel B;
 
 II - QTDA: quantidade de Óleo Diesel A, convertidos a 20oC (vinte graus celsius) e faturados pelo contribuinte sujeito passivo da tributação monofásica na operação tributada;
@@ -11927,7 +11942,10 @@ III - IM: índice de mistura do B100 no Óleo Diesel B instituído pelo órgão 
 IV - ALIQ: alíquota específica sobre o B100;
 V – PDEST: proporção devida à UF de destino definida na alínea “c” do inciso VI do art. 2º.
 
-§ 3º O imposto retido nos termos deste artigo será recolhido em favor da UF de destino do Óleo Diesel B resultante da mistura, na proporção definida na alínea “c” do inciso VI do art. 2º, nos prazos previstos no art. 10.
+§ 3º O imposto retido nos termos deste artigo será recolhido em favor da UF
+
+<!-- p. 12 -->
+de destino do Óleo Diesel B resultante da mistura, na proporção definida na alínea “c” do inciso VI do art. 2º, nos prazos previstos no art. 10.
 
 Art. 11-A. Fica atribuída, ao distribuidor de combustíveis que realizar a mistura de óleo diesel A com B100, a responsabilidade pela retenção e pelo recolhimento do ICMS sobre o volume de B100 que exceder o percentual obrigatório nas operações de saída de óleo diesel B, nos casos previstos e/ou autorizados pela agência reguladora.
 
@@ -11941,7 +11959,6 @@ Art. 12. O recolhimento do imposto referente às operações de que trata este A
 
 I - à refinaria de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustíveis, decorrentes de suas operações próprias com Óleo Diesel A em relação ao ICMS devido à UF de destino do Óleo Diesel B, nos termos da alínea “b” do inciso II do art. 10, observado o art. 11;
 
-<!-- p. 12 -->
 II - à refinaria de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustíveis, decorrentes de operações com Óleo Diesel A importado em relação ao ICMS devido à UF de destino, quando diversa da UF do importador, do Óleo Diesel B, nos termos da alínea “b” do inciso II do art. 10, observada o art. 11;
 
 III - à refinaria de petróleo ou suas bases, CPQs e UPGNs em relação ao ICMS devido à UF, decorrentes de suas operações próprias com GLP/GLGN:
@@ -11951,6 +11968,8 @@ a) ~~de origem do GLGN comercializado puro ou na mistura de GLP/GLGN, na propor�
 a) de origem do GLGN comercializado puro ou na mistura de GLP/GLGN, nos termos da alínea “c” do inciso II do art. 10;
 
 (NR – RA 50/25)
+
+<!-- p. 13 -->
 b) ~~de destino do GLP ou do GLGN comercializados puros ou da mistura de GLP/GLGN, na proporção definida no inciso VI do art. 2º e nos termos do inciso II do art. 10;~~
 
 b) de destino do GLP ou do GLGN comercializados puros ou da mistura de GLP/GLGN, nos termos da alínea “d” do inciso II do art. 10;
@@ -11970,10 +11989,7 @@ b) de destino do GLP ou do GLGNi (Importado) comercializados puros ou da mistura
 (NR – RA 50/25)
 V – ao importador ou produtor nacional de biocombustível em relação ao ICMS devido à UF de origem, nos termos dos incisos I e III do art. 10, respectivamente.
 
-Parágrafo único. O imposto destacado nos documentos fiscais, na tributação
-
-<!-- p. 13 -->
-monofásica, será lançado na apuração de ICMS relativo à substituição tributária – ICMSST.
+Parágrafo único. O imposto destacado nos documentos fiscais, na tributação monofásica, será lançado na apuração de ICMS relativo à substituição tributária – ICMSST.
 
 CAPÍTULO III DAS OPERAÇÕES SUBSEQUENTES À OPERAÇÃO TRIBUTADA
 
@@ -11981,6 +11997,7 @@ Art. 13. O disposto neste capítulo aplica-se às operações subsequentes à tr
 
 Art. 14. O estabelecimento que tiver importado ou recebido combustível derivado de petróleo, B100 ou GLGN diretamente do contribuinte sujeito passivo da tributação monofásica, deverá:
 
+<!-- p. 14 -->
 I - quando efetuar operações internas ou interestaduais com combustível derivado de petróleo, B100 ou GLGN:
 
 a) indicar nos campos próprios ou, nas suas ausências, no campo “Informações Complementares” da nota fiscal o valor do imposto cobrado sujeito a tributação monofásica em operação anterior com o combustível derivado de petróleo e o valor do imposto retido relativo ao biocombustível destinado à UF de destino, se for o caso, e a expressão “ICMS a ser recolhido e repassado nos termos do Capítulo V do Convênio ICMS 199/22”;
@@ -11997,19 +12014,19 @@ II - quando não tiver realizado operações internas ou interestaduais e apenas
 
 (NR – RA 50/25)
 
-§ 2º A indicação da alíquota específica nas notas fiscais de saídas, observados
-
-<!-- p. 14 -->
-os §§ 11 e 12 do art. 16, deverá ser feita:
+§ 2º A indicação da alíquota específica nas notas fiscais de saídas, observados os §§ 11 e 12 do art. 16, deverá ser feita:
 
 I – do dia 1º até o dia 5 do mês, com base na média ponderada da alíquota específica apurada no segundo mês imediatamente anterior ao da remessa;
 
-II – do dia 6 até o último dia do mês, com base na média ponderada da alíquota específica apurada no mês imediatamente anterior ao da remessa;
+II – do dia 6 até o último dia do mês, com base na média ponderada da
+
+alíquota específica apurada no mês imediatamente anterior ao da remessa;
 
 ~~§ 3° A indicação da alíquota específica nas notas fiscais de saídas, observados os §§ 11 e 12 do art. 16, deverá ser feita com base na média ponderada da alíquota específica apurada no mês imediatamente anterior ao da remessa.~~
 
 (Revogado – RA 50/25)
 
+<!-- p. 15 -->
 CAPÍTULO IV DAS OPERAÇÕES COM B100
 
 Art. 15. O imposto incidente sobre as operações com B100 realizadas pelo produtor e pelo importador atenderá ao disposto nos art. 10 e 11.
@@ -12031,14 +12048,15 @@ II - apurar, utilizando o programa de computador de que trata o § 2º do art. 1
 
 a) à UF de consumo de Óleo Diesel B;
 b) às UFs de origem e de consumo de GLP/GLGN;
-
-<!-- p. 15 -->
 III - efetuar:
 a) em relação às operações cujo imposto tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade da refinaria de petróleo ou suas bases, da CPQ, da UPGN e do Formulador de Combustíveis, o repasse do valor do imposto devido à UF de consumo de Óleo Diesel B e às UF de origem e consumo de GLP/ GLGN, limitado ao valor do imposto efetivamente cobrado e retido, até o 10° (décimo) dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais, ou, no caso do 10º (décimo) dia cair em dia não útil ou sem expediente bancário, no primeiro dia útil subsequente;
 
+<!-- p. 16 -->
 b) em relação às operações cujo imposto tenha sido anteriormente cobrado por tributação monofásica ou retido por atribuição de responsabilidade por outros contribuintes, a provisão do valor do imposto devido à UF de consumo de Óleo Diesel B e às UF de origem e consumo de GLP/GLGN, limitado ao valor efetivamente recolhido à UF de origem, para o repasse que será realizado até o 20° (vigésimo) dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais, observado o disposto no § 3º;
 
-c) o repasse do valor do imposto devido às UFs de origem e destino do GLP, do GLGNn e do GLGNi, limitado ao valor do imposto efetivamente cobrado, nos prazos da alínea “a”;
+c) o repasse do valor do imposto devido às UFs de origem e destino do
+
+GLP, do GLGNn e do GLGNi, limitado ao valor do imposto efetivamente cobrado, nos prazos da alínea “a”;
 
 IV - enviar as informações a que se referem os incisos I a III, por transmissão eletrônica de dados, na forma e prazos estabelecidos no Capítulo VII.
 
@@ -12048,14 +12066,18 @@ IV - enviar as informações a que se referem os incisos I a III, por transmiss�
 
 § 3º A UF de origem, na hipótese da alínea “b” do inciso III terá até o 18° (décimo oitavo) dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais, para verificar a ocorrência do efetivo pagamento do imposto e, se for o caso, manifestar-se, de forma escrita e motivada, contra a referida dedução, caso em que o valor anteriormente provisionado para repasse será recolhido em seu favor.
 
-<!-- p. 16 -->
 § 4º O disposto no § 3° não implica homologação dos lançamentos e procedimentos adotados pelo sujeito passivo.
 
 § 5º Caso a UF adote período de apuração diferente do mensal ou prazo de recolhimento do imposto devido pela tributação monofásica anterior ao 10° (décimo) dia de cada mês, a dedução prevista no § 1º será efetuada nos termos definidos na legislação de cada UF.
 
-§ 6º Se o imposto cobrado por tributação monofásica e retido por atribuição de responsabilidade for insuficiente para comportar a dedução do valor a ser repassado às UFs de origem e de destino, a dedução poderá ser compensada entre:
+§ 6º Se o imposto cobrado por tributação monofásica e retido por atribuição
 
-I – o ICMS-ST retido em favor da unidade federada a sofrer a dedução, em operações não sujeitas à tributação monofásica;
+<!-- p. 17 -->
+de responsabilidade for insuficiente para comportar a dedução do valor a ser repassado às UFs de origem e de destino, a dedução poderá ser compensada entre:
+
+I – o ICMS-ST retido em favor da unidade federada a sofrer a dedução,
+
+em operações não sujeitas à tributação monofásica;
 
 II – o ICMS monofásico e o ICMS-ST devido por outro estabelecimento da refinaria ou suas bases, da CPQ, da UPGN e do Formulador de Combustíveis, ainda que localizado em outra unidade federada, na parte que exceder o disposto no inciso I; e
 
@@ -12071,15 +12093,13 @@ III – o ICMS próprio devido à unidade federada a sofrer a dedução, na part
 
 § 11 Para efeito do cálculo do imposto a ser recolhido ou repassado às UFs de origem do B100 ou do GLGN e de consumo dos combustíveis derivados de petróleo, do GLGN e do B100 contido na mistura do Óleo Diesel B, serão consideradas as alíquotas específicas vigentes na data da operação tributada.
 
-§ 12 Para o cálculo do imposto retido a ser recolhido ou repassado sobre a
-
-<!-- p. 17 -->
-parcela do B100 contido na mistura, em favor da UF de consumo, considera-se como data da operação tributada aquela na qual houver a retenção do imposto nos termos do art. 11.
+§ 12 Para o cálculo do imposto retido a ser recolhido ou repassado sobre a parcela do B100 contido na mistura, em favor da UF de consumo, considera-se como data da operação tributada aquela na qual houver a retenção do imposto nos termos do art. 11.
 
 CAPÍTULO VI DA IMPOSSIBILIDADE DE APROPRIAÇÃO DE CRÉDITO NO REGIME DE
 
 TRIBUTAÇÃO MONOFÁSICA
 
+<!-- p. 18 -->
 Art. 17. Em face das características do regime de tributação monofásica, incompatível com o regime geral de apuração do imposto, fica vedada a apropriação de créditos das operações e prestações antecedentes às saídas de Óleo Diesel A, B100, GLP e GLGN qualquer que seja a sua natureza, cabendo ao contribuinte promover o devido estorno na proporção das saídas destes produtos.
 
 CAPÍTULO VII DAS INFORMAÇÕES RELATIVAS ÀS OPERAÇÕES COM COMBUSTÍVEIS
@@ -12096,11 +12116,11 @@ IV - ANEXO IV-M-AJ: informar as operações com combustível misturado destinada
 
 V - ANEXO V-M-AJ: informar o resumo das operações com combustível misturado destinadas a posto revendedor ou consumidor final, e apurar os valores de imposto sobre o biocombustível devidos à UF de origem e à UF de destino;
 
-<!-- p. 18 -->
 VI - ANEXO VI-M: demonstrar o recolhimento do ICMS devido pelas refinarias de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustíveis para as diversas UF;
 
 VII - ANEXO VII-M: demonstrar o recolhimento do ICMS provisionado pelas refinarias de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustíveis;
 
+<!-- p. 19 -->
 VIII – ANEXO VIII-M: demonstrar as operações com biocombustível puro e misturado e determinar a proporção por UF de origem;
 
 IX - ANEXO IX-M: apurar e informar a movimentação com GLP, GLGNn e GLGNi, por distribuidor de GLP;
@@ -12120,9 +12140,9 @@ Art. 19. A entrega das informações relativas às operações com combustíveis
 
 § 3º Ato COTEPE/ICMS aprovará o manual de instrução contendo as orientações para o atendimento do disposto neste capítulo.
 
-<!-- p. 19 -->
 Art. 20. A utilização do programa de computador de que trata o § 2º do art. 19 é obrigatória, devendo o sujeito passivo por tributação monofásica, o responsável por atribuição de responsabilidade, e os estabelecimentos que realizarem operações subsequentes com combustíveis derivados de petróleo ou GLGN ou adquirirem B100, procederem a entrega das informações relativas às mencionadas operações por transmissão eletrônica de dados.
 
+<!-- p. 20 -->
 Art. 21. Com base nos dados informados pelos contribuintes e estabelecimentos que realizarem operações subsequentes, o programa de computador de que trata o § 2º do art. 19 calculará:
 
 I - o imposto a ser repassado em favor da UF de destino decorrente das operações interestaduais com combustíveis derivados de petróleo e do B100 contido na mistura do Óleo Diesel B;
@@ -12140,12 +12160,11 @@ II - o imposto cobrado em favor da UF de origem da mercadoria, o imposto devido 
 Art. 22. As informações relativas às operações referidas nos Capítulos III e IV, relativamente ao mês imediatamente anterior, serão enviadas, com utilização do programa de computador de que trata o § 2° do art. 19:
 
 I - à UF de origem;
-
-<!-- p. 20 -->
 II - à UF de destino;
 III - ao fornecedor do combustível;
 IV - à refinaria de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustíveis.
 
+<!-- p. 21 -->
 § 1° O envio das informações será feito nos prazos estabelecidos em Ato COTEPE/ICMS de acordo com a seguinte classificação:
 
 I - TRR;
@@ -12160,19 +12179,17 @@ V - refinaria de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustívei
 
 Art. 23. Os bancos de dados utilizados para a geração das informações na forma prevista neste capítulo deverão ser mantidos pelo contribuinte, em meio magnético, pelo prazo decadencial.
 
-Art. 24. A entrega das informações fora do prazo estabelecido em Ato COTEPE/ICMS, pelo contribuinte ou estabelecimento que promover operações interestaduais com combustíveis derivados de petróleo ou com GLGN ou com B100, farse-á nos termos deste capítulo, observado o disposto no manual de instrução de que trata o § 3º do art. 19.
+Art. 24. A entrega das informações fora do prazo estabelecido em Ato COTEPE/ICMS, pelo contribuinte ou estabelecimento que promover operações interestaduais com combustíveis derivados de petróleo ou com GLGN ou com B100, far-se-á nos termos deste capítulo, observado o disposto no manual de instrução de que trata o § 3º do art. 19.
 
 § 1º O contribuinte ou estabelecimento que der causa a entrega das informações fora do prazo deverá protocolar os relatórios extemporâneos apenas nas UFs envolvidas nas operações interestaduais.
 
 § 2º Na hipótese do § 1º, a entrega dos relatórios extemporâneos a outros estabelecimentos, contribuintes, à refinaria de petróleo ou às suas bases, CPQ, UPGN e Formulador de Combustíveis que implique repasse/dedução não autorizado por ofício da UF, sujeitará o estabelecimento ou contribuinte ao ressarcimento do imposto deduzido e acréscimos legais.
 
-§ 3º Na hipótese de que trata o “caput”, a UF responsável por autorizar o
-
-<!-- p. 21 -->
-repasse terá o prazo de até 30 (trinta) dias contados da data do protocolo dos relatórios extemporâneos para, alternativamente:
+§ 3º Na hipótese de que trata o “caput”, a UF responsável por autorizar o repasse terá o prazo de até 30 (trinta) dias contados da data do protocolo dos relatórios extemporâneos para, alternativamente:
 
 I - realizar diligências fiscais e emitir parecer conclusivo, entregando ofício a refinaria de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustíveis autorizando o repasse;
 
+<!-- p. 22 -->
 II - formar grupo de trabalho com a UF destinatária do imposto, para a realização de diligências fiscais.
 
 § 4º Não havendo manifestação da UF que suportará a dedução do imposto no prazo definido no § 3º, fica caracterizada a autorização para que a refinaria ou suas bases, CPQ, UPGN e Formulador de Combustíveis efetue o repasse do imposto, por meio de ofício da UF destinatária do imposto.
@@ -12189,7 +12206,7 @@ II - formar grupo de trabalho com a UF destinatária do imposto, para a realiza�
 
 Art. 25. Em decorrência de impossibilidade técnica ou no caso de entrega fora do prazo estabelecido no Ato COTEPE/ICMS de que trata o § 1º do art. 22, TRR, a distribuidora de combustíveis, o distribuidor de GLP e o importador deverão protocolar, na UF de sua localização e nas UFs para as quais tenham remetido combustíveis derivados de petróleo ou GLGN, ou dos quais tenha recebido B100, os relatórios a que se refere o “caput” do art. 19.
 
-<!-- p. 22 -->
+<!-- p. 23 -->
 CAPÍTULO VIII DAS DEMAIS DISPOSIÇÕES
 
 Art. 26. O disposto nos Capítulos III a V não exclui a responsabilidade do TRR, da distribuidora de combustíveis, do distribuidor de GLP, do importador, da refinaria de petróleo ou suas bases, CPQ, UPGN e Formulador de combustíveis, pela omissão ou pela apresentação de informações falsas ou inexatas, podendo as UFs aplicarem penalidades ao responsável pela omissão ou pelas informações falsas ou inexatas bem como exigir diretamente do estabelecimento responsável pela omissão ou pelas informações falsas ou inexatas o imposto devido e seus respectivos acréscimos.
@@ -12204,10 +12221,14 @@ Art. 29. Na falta da inscrição prevista no art. 5º, caso exigida, fica atribu
 
 I - cópia da nota fiscal da operação interestadual;
 II - cópia da GNRE;
-III - cópia do protocolo da transmissão eletrônica das informações a que se refere o Capítulo V;
+III - cópia do protocolo da transmissão eletrônica das informações a que se
 
-<!-- p. 23 -->
-IV – cópias dos ANEXOS II-M e III-M, IV-M e V-M-AJ ou X-M e XI-M, de que trata o art. 18, conforme o caso.
+<!-- p. 24 -->
+refere o Capítulo V;
+
+IV – cópias dos ANEXOS II-M e III-M, IV-M e V-M-AJ ou X-M e XI-M,
+
+de que trata o art. 18, conforme o caso.
 
 § 2º Fica atribuída ao destinatário da mercadoria a responsabilidade pelo recolhimento do imposto e seus acréscimos legais quando, notificado, deixar de apresentar a cópia da GNRE e/ou do comprovante de pagamento de que trata o “caput”, podendo a UF de destino cobrar o ICMS incidente nas operações com a mercadoria adquirida, ressalvado o direito do remetente à restituição da parcela do imposto efetivamente repassado nos termos do § 1° deste artigo.
 
@@ -12227,10 +12248,8 @@ II - encaminhar, na mesma data prevista no “caput”, cópia da referida comun
 
 § 2º A refinaria de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustíveis que receberem a comunicação referida no “caput” deverão efetuar provisionamento do imposto devido às UFs, para que o repasse seja realizado até o 20º (vigésimo) dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais.
 
-§ 3º A UF que efetuou a comunicação prevista no “caput” deverá, até o 18º (décimo oitavo) dia do mês subsequente àquele em que tenha ocorrido as operações
-
-<!-- p. 24 -->
-interestaduais, manifestar-se de forma escrita e motivada, contra a referida dedução, caso em que o valor anteriormente provisionado para repasse será recolhido em seu favor.
+<!-- p. 25 -->
+§ 3º A UF que efetuou a comunicação prevista no “caput” deverá, até o 18º (décimo oitavo) dia do mês subsequente àquele em que tenha ocorrido as operações interestaduais, manifestar-se de forma escrita e motivada, contra a referida dedução, caso em que o valor anteriormente provisionado para repasse será recolhido em seu favor.
 
 § 4º Caso não haja a manifestação prevista no § 3º, a refinaria de petróleo ou suas bases, CPQ, UPGN e Formulador de Combustíveis deverão efetuar o repasse do imposto provisionado até o 20º (vigésimo) dia do mês subsequente àquele em que tenha ocorrido as operações interestaduais.
 
@@ -12251,10 +12270,8 @@ II - as unidades federadas de origem do GLGN, nos termos do art. 33, poderão en
 (Art, 31-A - AC – RA 50/25)
 Art. 32. O protocolo de entrega das informações de que trata este Anexo não implica homologação dos lançamentos e procedimentos adotados pelo contribuinte.
 
-Art. 33. O disposto neste Anexo não dispensa o contribuinte da entrega da Guia Nacional de Informação e Apuração do ICMS Substituição Tributária - GIA-ST -,
-
-<!-- p. 25 -->
-prevista no Ajuste SINIEF nº 4, de 9 de dezembro de 1993, quando exigida, devendo a apuração do imposto de que trata este Anexo estar inserida nesta declaração.
+<!-- p. 26 -->
+Art. 33. O disposto neste Anexo não dispensa o contribuinte da entrega da Guia Nacional de Informação e Apuração do ICMS Substituição Tributária - GIA-ST -, prevista no Ajuste SINIEF nº 4, de 9 de dezembro de 1993, quando exigida, devendo a apuração do imposto de que trata este Anexo estar inserida nesta declaração.
 
 Art. 33-A. No primeiro mês de produção de efeitos deste Anexo, para os combustíveis de que trata este Anexo existentes em estoque com ICMS retido anteriormente por substituição tributária, os estabelecimentos deverão ajustar suas declarações, efetuando a transposição dos estoques de forma a zerar os valores de ICMS/ST retidos e compor os valores de ICMS sobre os estoques como cobrados por tributação monofásica, conforme alíquotas específicas aprovadas.
 
@@ -12273,10 +12290,9 @@ Art. 33-E. Do primeiro ao quarto mês de produção de efeitos do Convênio ICMS
 § 2º É facultado às unidades federadas solicitar a complementação ou a retificação de informações fiscais prestadas em relação às operações realizadas no período previsto no “caput
 
 (AC – RA 50/25)
-Art. 33-F. No primeiro mês de produção de efeitos do Convênio ICMS nº 199, de 22 de dezembro de 2022, em substituição à previsão dos §§ 2º e 5º do art. 10, fica diferido o recolhimento do imposto nas operações de importação de óleo diesel “A”, GLP e GLGN realizadas pela refinaria de petróleo ou suas bases, pela CPQ e pela UPGN, e nas saídas, a qualquer título, desses produtos entre quaisquer destes contribuintes,
 
-<!-- p. 26 -->
-devendo ser recolhido por ocasião da operação subsequente, devidamente tributada nos termos deste Anexo.
+<!-- p. 27 -->
+Art. 33-F. No primeiro mês de produção de efeitos do Convênio ICMS nº 199, de 22 de dezembro de 2022, em substituição à previsão dos §§ 2º e 5º do art. 10, fica diferido o recolhimento do imposto nas operações de importação de óleo diesel “A”, GLP e GLGN realizadas pela refinaria de petróleo ou suas bases, pela CPQ e pela UPGN, e nas saídas, a qualquer título, desses produtos entre quaisquer destes contribuintes, devendo ser recolhido por ocasião da operação subsequente, devidamente tributada nos termos deste Anexo.
 
 (AC – RA 50/25)
 Art. 33-G. Nas operações com GLP, GLGN ou GLP/ GLGN comercializados em recipientes portáteis, utilizados em isqueiros, maçaricos, fogareiros ou similares, em quantidade inferior a 1 kg (um quilograma), o imposto deverá ser recolhido pelo contribuinte indicado no art. 3º:
@@ -12297,23 +12313,26 @@ II - no prazo indicado no inciso II do caput do art. 10 na saída de estabelecim
 
 CAPÍTULO IX DAS DISPOSIÇÕES FINAIS
 
-Art. 34. Este Anexo entra em vigor na data da sua publicação, produzindo efeitos a partir de 1° de maio de 2023 para as operações com Óleo Diesel A, B100, Óleo Diesel B, GLP, GLGNn, GLGNi e GLP/GLGN enquanto vigorarem as disposições da Lei Complementar nº 192/22.
+Art. 34. Este Anexo entra em vigor na data da sua publicação, produzindo efeitos a partir de 1° de maio de 2023 para as operações com Óleo Diesel A, B100, Óleo
+
+<!-- p. 28 -->
+Diesel B, GLP, GLGNn, GLGNi e GLP/GLGN enquanto vigorarem as disposições da Lei Complementar nº 192/22.
 <<<DOC sefaz/anexo-49.md>>>
 ---
-documento: "Anexo 49"
+documento: "ANEXO 49"
 descricao: "DO REGIME DE TRIBUTAÇÃO MONOFÁSICA DO ICMS A SER APLICADO NAS OPERAÇÕES COM GASOLINA E ETANOL ANIDRO COMBUSTÍVEL."
 orgao: SEFAZ-MA
 categoria_id: 242
 arquivo_id: 7581
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=befcc4ae-ace0-45ae-b490-40ff58f6b745
-atualizado_na_fonte: "2026-08-03 18:13:57"
-extraido_em: "2026-10-15"
-paginas: 22
+atualizado_na_fonte: "2026-11-04 09:09:59"
+extraido_em: "2026-11-04"
+paginas: 23
 percentual_tachado: 11.0
 paginas_escaneadas: []
 ---
 
-# Anexo 49
+# ANEXO 49
 
 _DO REGIME DE TRIBUTAÇÃO MONOFÁSICA DO ICMS A SER APLICADO NAS OPERAÇÕES COM GASOLINA E ETANOL ANIDRO COMBUSTÍVEL._
 
@@ -12324,7 +12343,7 @@ ANEXO 49
 
 (RESOLUÇÃO ADMINISTRATIVA Nº 27, de 26.05.23)
 
-VIGÊNCIA: 31.05.23 ALTERAÇÕES: RA nº 28/23, 49/25
+VIGÊNCIA: 31.05.23 ALTERAÇÕES: RA nº 28/23, 49/25, 35/26
 
 
 
@@ -12362,6 +12381,7 @@ II - em relação a cada combustível, as alíquotas serão específicas (“ad 
 III - não se aplicará o disposto na alínea “b” do inciso X do § 2º do art. 155 da Constituição Federal de 1988;
 
 IV - nas operações com gasolina A o imposto caberá à UF onde ocorrer o consumo;
+
 V - nas operações interestaduais com EAC destinadas a não contribuinte, o imposto caberá à UF de origem;
 
 VI - nas operações interestaduais com EAC entre contribuintes, o imposto será repartido entre a UF de origem e a UF de destino, nas seguintes proporções, conforme a origem da mercadoria, se nacional ou importada, e, também, conforme as UFs de origem e de efetivo consumo:
@@ -12374,10 +12394,8 @@ c) EAC de origem nacional na proporção de 66,67% (sessenta e seis inteiros e s
 
 VII - na operação com gasolina C, o imposto da parcela de gasolina A, contida na mistura, caberá à UF onde ocorrer o consumo, e o imposto da parcela do EAC contido na mistura será repartido entre a UF de origem e a UF de destino nas proporções definidas no inciso VI.
 
-§ 1º Para a determinação da repartição definida nos incisos VI e VII, e dos ajustes apurados nos Anexos IV-M-AJ e V-M-AJ, os contribuintes indicados o art. 3º, os
-
 <!-- p. 3 -->
-estabelecimentos dos distribuidores de combustíveis e TRRs deverão, nas operações não destinadas a consumidor final, com EAC puro ou misturado na gasolina C, indicar, nos campos próprios da nota fiscal, se o produto é nacional ou importado e os percentuais destes produtos por UF de origem, apurados nos termos de Ato COTEPE/ICMS.
+§ 1º Para a determinação da repartição definida nos incisos VI e VII, e dos ajustes apurados nos Anexos IV-M-AJ e V-M-AJ, os contribuintes indicados o art. 3º, os estabelecimentos dos distribuidores de combustíveis e TRRs deverão, nas operações não destinadas a consumidor final, com EAC puro ou misturado na gasolina C, indicar, nos campos próprios da nota fiscal, se o produto é nacional ou importado e os percentuais destes produtos por UF de origem, apurados nos termos de Ato COTEPE/ICMS.
 
 (AC – RA 28/23)
 § 2º A indicação prevista no § 1º deverá ser feita: I – do dia 1º até o dia 5 do mês, com base na proporção apurada no segundo mês imediatamente anterior ao da remessa; II – do dia 6 até o último dia do mês, com base na proporção apurada no mês imediatamente anterior ao da remessa.
@@ -12403,9 +12421,8 @@ V - o importador.
 (AC – RA 49/25)
 Art. 4º Nos termos da Lei Complementar nº 192/22, o imposto incidirá uma única vez sobre as operações com combustíveis, considerando-se ocorrido o fato gerador no momento:
 
-I - do desembaraço aduaneiro do combustível, nas operações de importação;
-
 <!-- p. 4 -->
+I - do desembaraço aduaneiro do combustível, nas operações de importação;
 II - da saída de combustível de estabelecimento de contribuinte, exceto se importado.
 
 § 1º Não se considera fato gerador do imposto a comercialização de combustível à temperatura ambiente, pelos estabelecimentos distribuidores, em volume superior ao recebido de seus fornecedores, faturado a 20ºC (vinte graus celsius), decorrente de variação volumétrica, cuja variação esteja dentro do limite previsto pelo FCV divulgado em Ato COTEPE/ICMS.
@@ -12426,12 +12443,15 @@ CAPÍTULO II DO CÁLCULO DO IMPOSTO RETIDO E DO MOMENTO DO PAGAMENTO
 
 ~~Art. 7º As alíquotas do ICMS ficam instituídas e fixadas, nos termos do inciso IV do § 4º do art. 155 da Constituição Federal, em R$ 1,2200 por litro, para a gasolina e etanol anidro combustível.~~
 
+<!-- p. 5 -->
 Art. 7º As alíquotas do ICMS ficam instituídas e fixadas, nos termos do inciso IV do § 4º do art. 155 da Constituição Federal, para a gasolina e etanol anidro combustível:
 
-<!-- p. 5 -->
 I - em R$ 1,47 por litro, até 31 de dezembro de 2025;
+(AC– RA 49/25)
 II – em R$ 1,57 por litro, a partir de 1º de janeiro de 2026.
-(NR – RA 49/25)
+(AC– RA 49/25)
+III – em R$ 1,64 por litro, a partir de 1° de fevereiro de 2027.
+(AC – RA 35/26)
 Art. 8º As operações com Gasolina A têm como base de cálculo o volume do combustível convertido a 20ºC (vinte graus celsius), faturado pelo contribuinte.
 
 Art. 9º O valor do imposto, nos termos deste anexo, corresponderá à multiplicação da alíquota específica do combustível pelo volume do combustível.
@@ -12453,11 +12473,12 @@ b) de destino da Gasolina C resultante da mistura de Gasolina A com EAC: 1. corr
 
 c) de destino da Gasolina A, observado o § 10 do art. 16, correspondente a 100% (cem inteiros por cento) do imposto.
 
-III - nas operações indicadas no § 3º do art. 3º, em relação ao volume de EAC adicionado que exceder o percentual obrigatório, decorrente do encerramento do diferimento do imposto previsto no § 13 do art. 10, observado o art. 11-A, até o 10º (décimo) dia subsequente ao término do período de apuração em que tiver ocorrido a operação ou, no caso do 10º (décimo) dia cair em dia não útil ou sem expediente bancário, no primeiro dia útil subsequente, a crédito da UF de destino da gasolina C.
-
-(AC – RA 49/25)
+III - nas operações indicadas no § 3º do art. 3º, em relação ao volume de EAC adicionado que exceder o percentual obrigatório, decorrente do encerramento do diferimento
 
 <!-- p. 6 -->
+do imposto previsto no § 13 do art. 10, observado o art. 11-A, até o 10º (décimo) dia subsequente ao término do período de apuração em que tiver ocorrido a operação ou, no caso do 10º (décimo) dia cair em dia não útil ou sem expediente bancário, no primeiro dia útil subsequente, a crédito da UF de destino da gasolina C.
+
+(AC – RA 49/25)
 § 1º Para os Estados de Alagoas, Amazonas e Sergipe, caso o 10º (décimo) dia ocorra em dia não útil ou sem expediente bancário, o imposto retido deverá ser recolhido no dia útil e com expediente bancário anterior àquele.
 
 § 2º O recolhimento do imposto nas operações de importação de gasolina A, realizadas pela refinaria de petróleo e pela CPQ fica diferido, devendo ser recolhido por ocasião da operação subsequente, devidamente tributada nos termos deste anexo.
@@ -12479,9 +12500,10 @@ III – internas destinadas a produtor nacional de biocombustíveis. (§ 3º NR 
 § 3°-A O recolhimento do imposto incidente sobre as remessas internas e interestaduais para armazenagem de EAC, realizadas pelo estabelecimento produtor nacional, fica suspenso, desde que retorne, real ou simbolicamente, pelo prazo de até 180 (cento e oitenta) dias contados da data da respectiva saída
 
 (AC – RA 49/25)
-§ 4º À exceção dos §§ 2º e 3º, fica vedada a concessão de tratamento tributário que dispense o recolhimento do imposto no desembaraço aduaneiro de combustíveis de que trata este anexo em relação às operações realizadas pelo importador, conforme inciso V do art. 3º, e pelo distribuidor de combustíveis.
 
 <!-- p. 7 -->
+§ 4º À exceção dos §§ 2º e 3º, fica vedada a concessão de tratamento tributário que dispense o recolhimento do imposto no desembaraço aduaneiro de combustíveis de que trata este anexo em relação às operações realizadas pelo importador, conforme inciso V do art. 3º, e pelo distribuidor de combustíveis.
+
 § 5º Fica diferido o recolhimento do imposto nas operações de transferência entre estabelecimentos de mesma titularidade de gasolina A realizadas pela refinaria de petróleo e suas bases, pela CPQ, devendo ser recolhido por ocasião da operação subsequente, devidamente tributada nos termos deste anexo.
 
 ~~§ 6º O disposto nos §§ 2º, 3º e 5º somente se aplica aos estabelecimentos relacionados em Ato COTEPE/ICMS, observado o seguinte:~~
@@ -12505,9 +12527,9 @@ III - o Ato COTEPE/ICMS deve conter, no mínimo: Razão Social, número CNPJ, a 
 
 § 8º A refinaria de petróleo e suas bases, a CPQ e o formulador de combustíveis que adquirir gasolina A com o imposto retido controlará o estoque de forma a conseguir identificar as mercadorias com o imposto retido daquelas que não houve a retenção.
 
+<!-- p. 8 -->
 § 9º O recolhimento do imposto nas operações com EAC não alcançadas pelo diferimento previsto no § 3º deve ser realizado: I - pelo importador, no momento do desembaraço aduaneiro, a crédito da UF de sua localização; II - pelo estabelecimento remetente, por ocasião da saída do EAC, antes de iniciado o transporte, observado o disposto nos incisos V a VII do art. 2°, devendo uma cópia do comprovante do pagamento do imposto acompanhar o transporte do combustível.
 
-<!-- p. 8 -->
 (AC – RA 28/23)
 
 § 10 Na aplicação do § 9º, caso seja constatado, além do recolhimento na operação, o repasse do imposto, nos termos do Capítulo V, o valor recolhido em duplicidade deverá ser ressarcido, hipótese em que o estabelecimento destinatário deve apresentar o requerimento à unidade federada de sua localização, nos termos previstos na legislação estadual.
@@ -12531,11 +12553,11 @@ II - QTDA: quantidade de Gasolina A convertida a 20ºC (vinte graus celsius) e f
 
 III - IM: índice de mistura do EAC na Gasolina C instituído pelo órgão regulamentador;
 
+<!-- p. 9 -->
 IV - ALIQ: alíquota específica sobre o EAC.
 § 3º O imposto retido nos termos deste artigo será recolhido:
 I – em favor da UF de origem do EAC, na proporção definida no inciso VI do art. 2º, nos prazos previstos no art. 10;
 
-<!-- p. 9 -->
 II – em favor da UF de destino da Gasolina C resultante da mistura, na proporção definida no inciso VI da art. 2º, nos prazos previstos no art. 10.
 
 Art. 11-A. Fica atribuída, ao distribuidor de combustíveis que realizar a mistura de gasolina A com EAC, a responsabilidade pela retenção e pelo recolhimento do ICMS sobre o volume de EAC que exceder o percentual obrigatório nas operações de saída de gasolina C, nos casos previstos e/ou autorizados pela agência reguladora, em virtude do encerramento do diferimento previsto no § 13 do art. 10.
@@ -12559,11 +12581,11 @@ b) em relação ao ICMS devido à UF de destino da Gasolina C, nos termos da al�
 
 III - à refinaria de petróleo ou suas bases, CPQ e Formulador de Combustíveis, decorrentes de operações com Gasolina A importada por outros contribuintes:
 
+<!-- p. 10 -->
 a) em relação ao ICMS devido à UF de origem, quando diversa da UF do importador, na proporção definida no inciso VI do art. 2º, referente às importações ou operações de saída do estabelecimento produtor de EAC, nos termos da alínea “a” do inciso II do art. 10, observada o art. décima primeira;
 
 b) em relação ao ICMS devido à UF de destino da Gasolina C, quando diversa da UF do importador da Gasolina A, nos termos da alínea “b” do inciso II do art. 10, observado o art. 11.
 
-<!-- p. 10 -->
 ~~Parágrafo único. O imposto destacado nos documentos fiscais, na tributação monofásica, será lançado na apuração de ICMS relativo à substituição tributária – ICMS-ST.~~
 
 Parágrafo único. Para fins de registro na Escrituração Fiscal Digital – EFD – o imposto destacado nos documentos fiscais, na tributação monofásica, será lançado na apuração de ICMS relativo à substituição tributária – ICMS-ST, enquanto não desenvolvida apuração própria do regime tributário monofásico.
@@ -12590,13 +12612,14 @@ Art. 14 O estabelecimento que tiver importado ou recebido combustível derivado 
 I - quando efetuar operações internas ou interestaduais com combustível derivado de petróleo ou EAC:
 
 (NR – RA 28/23)
-~~a) indicar nos campos próprios ou, nas suas ausências, no campo “Informações Complementares” da nota fiscal o valor do imposto cobrado sujeito a tributação monofásica em operação anterior com o combustível derivado de petróleo e o valor do imposto retido relativo ao biocombustível destinado à UF de destino, se for o caso, e a expressão “ICMS a ser recolhido e repassado nos termos do Capítulo V do Convênio ICMS nº 15/23;~~
+~~a) indicar nos campos próprios ou, nas suas ausências, no campo “Informações Complementares” da nota fiscal o valor do imposto cobrado sujeito a tributação monofásica em operação anterior com o combustível derivado de petróleo e o valor do imposto retido~~
+
+<!-- p. 11 -->
+~~relativo ao biocombustível destinado à UF de destino, se for o caso, e a expressão “ICMS a ser recolhido e repassado nos termos do Capítulo V do Convênio ICMS nº 15/23;~~
 
 a) indicar nos campos próprios ou, nas suas ausências, no campo “Informações Complementares” da nota fiscal o valor do imposto cobrado sujeito a tributação monofásica em operação anterior com o combustível derivado de petróleo e o valor do imposto retido relativo ao biocombustível destinado à UF de origem e de destino, se for o caso, e a expressão “ICMS a ser recolhido e repassado nos termos do Capítulo V do Anexo 49 do RICMS;
 
 (NR – RA 28/23)
-
-<!-- p. 11 -->
 b) registrar, com a utilização do programa de computador de que trata o § 2º do art. 19, os dados relativos a cada operação definidos no referido programa;
 
 c) enviar as informações relativas a essas operações, por transmissão eletrônica de dados, juntando-as, quando houver, às recebidas de seus clientes, na forma e prazos estabelecidos no Capítulo VII;
@@ -12611,16 +12634,20 @@ II - quando não tiver realizado operações internas ou interestaduais e apenas
 § 1º O disposto neste artigo aplica-se também ao estabelecimento que tiver recebido combustível derivado de petróleo ou EAC, daquele estabelecimento indicado no caput e aos estabelecimentos subsequentes na cadeia de comercialização
 
 (NR – RA 49/25)
-~~§ 2º A indicação da alíquota específica nas notas fiscais de saídas, observados os §§ 11 e 12 do art. 16, deverá ser feita:~~
+~~§ 2º A indicação da alíquota específica nas notas fiscais de saídas, observados os~~
+~~§§ 11 e 12 do art. 16, deverá ser feita:~~
 
 ~~I – do dia 1º até o dia 5 do mês, com base na média ponderada da alíquota específica apurada no segundo mês imediatamente anterior ao da remessa;~~
 
 ~~II – do dia 6 até o último dia do mês, com base na média ponderada da alíquota específica apurada no mês imediatamente anterior ao da remessa.~~
 
 ~~(Renumeração e NR – RA 28/23)~~
-§ 2º A indicação da alíquota específica nas notas fiscais de saídas, observados os §§ 11 e 12 do art. 16, deverá ser feita:
+§ 2º A indicação da alíquota específica nas notas fiscais de saídas, observados os
+§§ 11 e 12 do art. 16, deverá ser feita:
 
 I – no primeiro mês de vigência da alíquota:
+
+<!-- p. 12 -->
 a) do dia 1º até o dia 5, com base na média ponderada da alíquota específica apurada no segundo mês imediatamente anterior ao da remessa;
 
 b) do dia 6 até o último dia, com base na média ponderada da alíquota específica apurada no mês imediatamente anterior ao da remessa.
@@ -12629,7 +12656,6 @@ II – nos meses subsequentes, o valor da alíquota vigente. (§ 2° NR – RA 4
 
 CAPÍTULO IV DAS OPERAÇÕES COM EAC
 
-<!-- p. 12 -->
 Art. 15. O imposto incidente sobre as operações com EAC realizadas pelo produtor e pelo importador atenderá ao disposto nos arts. 10 e 11.
 
 CAPÍTULO V DOS PROCEDIMENTOS DA REFINARIA DE PETRÓLEO OU SUAS BASES, DA CPQ E
@@ -12649,13 +12675,15 @@ II - apurar, utilizando o programa de computador de que trata o § 2º do art. 1
 III - efetuar:
 a) em relação às operações cujo imposto tenha sido cobrado por tributação monofásica ou retido por atribuição de responsabilidade da refinaria de petróleo ou suas bases, da CPQ e do Formulador de Combustíveis, o repasse do valor do imposto devido às UFs de origem e de destino das mercadorias, limitado ao valor do imposto efetivamente cobrado e retido, até o 10° (décimo) dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais, ou, no caso do 10º (décimo) dia cair em dia não útil ou sem expediente bancário, no primeiro dia útil subsequente;
 
-b) em relação às operações cujo imposto tenha sido anteriormente cobrado por tributação monofásica ou retido por atribuição de responsabilidade por outros contribuintes, a provisão do valor do imposto devido às UFs de origem e de destino das mercadorias, limitado ao valor efetivamente recolhido à UF de origem, para o repasse que será realizado até o 20° (vigésimo) dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais, observado o disposto no § 3º;
+b) em relação às operações cujo imposto tenha sido anteriormente cobrado por tributação monofásica ou retido por atribuição de responsabilidade por outros contribuintes, a provisão do valor do imposto devido às UFs de origem e de destino das mercadorias, limitado
+
+<!-- p. 13 -->
+ao valor efetivamente recolhido à UF de origem, para o repasse que será realizado até o 20° (vigésimo) dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais, observado o disposto no § 3º;
 
 IV - enviar as informações a que se referem os incisos I a III, por transmissão eletrônica de dados, na forma e prazos estabelecidos no Capítulo VII.
 
 § 1º A refinaria de petróleo ou suas bases, a CPQ e o Formulador de Combustíveis deduzirão, até o limite da importância a ser repassada, o valor do imposto cobrado por tributação monofásica em favor da UF de origem da mercadoria, abrangendo os valores do imposto cobrado por tributação monofásica e retido por atribuição de responsabilidade, do recolhimento seguinte que tiver de efetuar em favor desta UF.
 
-<!-- p. 13 -->
 § 2º Para fins do disposto no inciso III do “caput”, o contribuinte que tenha prestado informação relativa à operação interestadual, identificará o sujeito passivo por tributação monofásica do qual o imposto foi cobrado anteriormente, com base na proporção da participação daquele sujeito passivo no somatório das quantidades do estoque inicial e das entradas ocorridas no mês.
 
 § 3º A UF de origem, na hipótese da alínea “b” do inciso III terá até o 18° (décimo oitavo) dia do mês subsequente àquele em que tenham ocorrido as operações interestaduais, para verificar a ocorrência do efetivo pagamento do imposto e, se for o caso, manifestar-se, de forma escrita e motivada, contra a referida dedução, caso em que o valor anteriormente provisionado para repasse será recolhido em seu favor.
@@ -12672,13 +12700,15 @@ II – o ICMS monofásico e o ICMS-ST devido por outro estabelecimento da refina
 
 III - o ICMS próprio devido à unidade federada a sofrer a dedução, na parte que exceder o disposto no inciso II.
 
-§ 7° A refinaria de petróleo ou suas bases, a CPQ e o Formulador de Combustíveis que efetuarem a dedução, em relação ao ICMS recolhido por outro sujeito passivo, sem a observância do disposto na alínea “b” do inciso III, será responsável pelo valor deduzido indevidamente e respectivos acréscimos.
+§ 7° A refinaria de petróleo ou suas bases, a CPQ e o Formulador de Combustíveis que efetuarem a dedução, em relação ao ICMS recolhido por outro sujeito passivo, sem a
+
+<!-- p. 14 -->
+observância do disposto na alínea “b” do inciso III, será responsável pelo valor deduzido indevidamente e respectivos acréscimos.
 
 § 8º Nas hipóteses do § 5º ou de dilação, a qualquer título, do prazo de pagamento do ICMS pela UF de origem, o imposto deverá ser recolhido integralmente à UF de destino no prazo fixado neste anexo.
 
 § 9º Nas hipóteses das alíneas “a” e “c” do inciso III, para os Estados de Alagoas, Amazonas e Sergipe, caso o 10º (décimo) dia ocorra em dia não útil ou sem expediente bancário, o imposto deverá ser recolhido no dia útil e com expediente bancário anterior àquele.
 
-<!-- p. 14 -->
 ~~§ 10 Para efeitos de repasses à UF de destino, fica presumido o consumo interno na UF destinatária dos produtos caso não seja informada subsequente operação interestadual no mesmo período.~~
 
 § 10 Para efeitos de recolhimento ou repasse à UF de destino, fica presumido o consumo interno na UF destinatária dos produtos caso não seja informada subsequente operação interestadual no mesmo período.
@@ -12699,13 +12729,15 @@ TRIBUTAÇÃO MONOFÁSICA
 
 Art. 17. Em face das características do regime de tributação monofásica, incompatível com o regime geral de apuração do imposto, fica vedada a apropriação de créditos das operações e prestações antecedentes às saídas de Gasolina A e EAC qualquer que seja a sua natureza, cabendo ao contribuinte promover o devido estorno na proporção das saídas destes produtos.
 
-CAPÍTULO VII DAS INFORMAÇÕES RELATIVAS ÀS OPERAÇÕES COM COMBUSTÍVEIS
+CAPÍTULO VII
+
+<!-- p. 15 -->
+DAS INFORMAÇÕES RELATIVAS ÀS OPERAÇÕES COM COMBUSTÍVEIS
 
 Art. 18. A entrega das informações relativas às operações com combustíveis derivados de petróleo e EAC em que o imposto tenha sido cobrado anteriormente por tributação monofásica ou retido por atribuição de responsabilidade, será efetuada, por transmissão eletrônica de dados, de acordo com as disposições deste capítulo e nos termos dos seguintes anexos, nos modelos aprovados em Ato COTEPE/ICMS e disponíveis nos sítios eletrônicos do CONFAZ e http:// scanc.fazenda.mg.gov.br/scanc, destinados a:
 
 ~~I - Anexo I-A: apurar e informar a movimentação de combustíveis derivados de petróleo realizada por distribuidora, importador e TRR;~~
 
-<!-- p. 15 -->
 I - ANEXO I-M: apurar e informar a movimentação de combustíveis derivados de petróleo realizada por distribuidora, importador e TRR;
 
 ~~II - Anexo II-A: informar as operações interestaduais com combustíveis derivados de petróleo;~~
@@ -12726,6 +12758,7 @@ V - ANEXO V-M: informar o resumo das operações de aquisições interestaduais 
 
 ~~VI - Anexo VI-A: demonstrar o recolhimento do ICMS devido pelas refinarias de petróleo ou suas bases, CPQ e Formulador de Combustíveis para as diversas UF;~~
 
+<!-- p. 16 -->
 VI - ANEXO IV-M-AJ: informar as operações com combustível misturado destinadas a posto revendedor ou consumidor final, apurar a quantidade de biocombustível misturado e determinar o imposto a ser repassado em favor das UFs de origem e destino do biocombustível adicionado ao combustível derivado de petróleo;
 
 ~~VII - Anexo VII-A: demonstrar o recolhimento do ICMS provisionado pelas refinarias de petróleo ou suas bases, CPQ e Formulador de Combustíveis.~~
@@ -12733,8 +12766,6 @@ VI - ANEXO IV-M-AJ: informar as operações com combustível misturado destinada
 VII - ANEXO V-M-AJ: informar o resumo das operações com combustível misturado destinadas a posto revendedor ou consumidor final, e apurar os valores de imposto sobre o biocombustível devidos à UF de origem e à UF de destino.
 
 (Incisos I a VII – NR RA 28/23)
-
-<!-- p. 16 -->
 VIII - ANEXO VI-M: demonstrar o recolhimento do ICMS devido pelas refinarias de petróleo ou suas bases, CPQ e Formulador de Combustíveis para as diversas UF;
 
 IX - ANEXO VII-M: demonstrar o recolhimento do ICMS provisionado pelas refinarias de petróleo ou suas bases, CPQ e Formulador de Combustíveis;
@@ -12755,16 +12786,15 @@ Art. 19. A entrega das informações relativas às operações com combustíveis
 
 § 3º Ato COTEPE/ICMS aprovará o manual de instrução contendo as orientações para o atendimento do disposto neste capítulo.
 
+<!-- p. 17 -->
 Art. 20. A utilização do programa de computador de que trata o § 2º do art. 19 é obrigatória, devendo o sujeito passivo por tributação monofásica, o responsável por atribuição de responsabilidade, e os estabelecimentos que realizarem operações subsequentes com combustíveis derivados de petróleo ou adquirirem EAC, procederem a entrega das informações relativas às mencionadas operações por transmissão eletrônica de dados.
 
 Art. 21. Com base nos dados informados pelos contribuintes e estabelecimentos que realizarem operações subsequentes, o programa de computador de que trata o § 2º do art. 19 calculará o imposto a ser repassado em favor da UF de origem do EAC e de destino decorrente das operações interestaduais com combustíveis derivados de petróleo e do EAC contido na mistura da Gasolina C.
 
-~~§ 1° Para o cálculo do imposto a ser repassado em favor da UF de origem do EAC, de consumo dos combustíveis derivados de petróleo e do EAC contido na mistura da Gasolina~~
+~~§ 1° Para o cálculo do imposto a ser repassado em favor da UF de origem do EAC, de consumo dos combustíveis derivados de petróleo e do EAC contido na mistura da Gasolina C, observado os §§ 11 e 12 do art. 16, o programa de computador de que trata o § 2º do art. 19 utilizará como base de cálculo, a quantidade comercializada, aplicando sobre a quantidade as respectivas alíquotas específicas, observada o art. 2º.~~
 
-<!-- p. 17 -->
-~~C, observado os §§ 11 e 12 do art. 16, o programa de computador de que trata o § 2º do art. 19 utilizará como base de cálculo, a quantidade comercializada, aplicando sobre a quantidade as respectivas alíquotas específicas, observada o art. 2º.~~
-
-§ 1° Para o cálculo do imposto a ser repassado em favor da UF de origem do EAC, de consumo dos combustíveis derivados de petróleo e do EAC contido na mistura da Gasolina C, observado os §§ 11, 12 e 13 do art. 16, o programa de computador de que trata o § 2º do art. 19 utilizará como base de cálculo, a quantidade comercializada, aplicando sobre a quantidade as respectivas alíquotas específicas, observado o art. 2º.
+§ 1° Para o cálculo do imposto a ser repassado em favor da UF de origem do EAC, de consumo dos combustíveis derivados de petróleo e do EAC contido na mistura da Gasolina C, observado os §§ 11, 12 e 13 do art. 16, o programa de computador de que trata o
+§ 2º do art. 19 utilizará como base de cálculo, a quantidade comercializada, aplicando sobre a quantidade as respectivas alíquotas específicas, observado o art. 2º.
 
 (NR – RA 28/23)
 § 2° Tratando-se de Gasolina C, da quantidade desse produto, será repassado 100% (cem inteiros por cento) do ICMS sobre a Gasolina A em favor da UF de destino, e o ICMS incidente sobre o EAC contido na mistura será repassado em favor da UF de origem e da UF de destino nas proporções definidas no inciso VI do art. 2º.
@@ -12778,6 +12808,8 @@ Art. 22. As informações relativas às operações referidas nos Capítulos III
 I - à UF de origem;
 II - à UF de destino;
 III - ao fornecedor do combustível;
+
+<!-- p. 18 -->
 IV - à refinaria de petróleo ou suas bases, CPQ e Formulador de Combustíveis.
 § 1° O envio das informações será feito nos prazos estabelecidos em Ato COTEPE/ICMS de acordo com a seguinte classificação:
 
@@ -12786,7 +12818,6 @@ II – estabelecimento que tiver recebido o combustível de outro estabeleciment
 
 III - estabelecimento que tiver recebido o combustível exclusivamente do sujeito passivo por tributação monofásica;
 
-<!-- p. 18 -->
 IV - importador;
 V - refinaria de petróleo ou suas bases, CPQ e Formulador de Combustíveis nas hipóteses previstas no inciso III do “caput” do art. 16.
 
@@ -12806,13 +12837,13 @@ I - realizar diligências fiscais e emitir parecer conclusivo, entregando ofíci
 
 II - formar grupo de trabalho com a UF destinatária do imposto, para a realização de diligências fiscais.
 
+<!-- p. 19 -->
 § 4º Não havendo manifestação da UF que suportará a dedução do imposto no prazo definido no § 3º, fica caracterizada a autorização para que a refinaria ou suas bases, CPQ e Formulador de Combustíveis efetue o repasse do imposto, por meio de ofício da UF destinatária do imposto.
 
 § 5º Para que se efetive o repasse a que se refere o § 4º, a UF de destino do imposto oficiará a refinaria ou suas bases, enviando cópia do ofício à UF que suportará a dedução.
 
 ~~§ 6º O ofício a ser encaminhado à refinaria ou suas bases, CPQ e Formulador de Combustíveis, deverá informar: o CNPJ e a razão social do emitente dos relatórios, o tipo de relatório, se Anexo III-A ou Anexo V-A, o período de referência com indicação de mês e ano e os respectivos valores de repasse, bem como a unidade da refinaria, CPQ e Formulador de Combustíveis com indicação do CNPJ que efetuará o repasse/dedução.~~
 
-<!-- p. 19 -->
 § 6º O ofício a ser encaminhado à refinaria ou suas bases, CPQ e Formulador de Combustíveis, deverá informar: o CNPJ e a razão social do emitente dos relatórios, o tipo de relatório, se ANEXO III-M, ANEXO V-M, ANEXO V-M-AJ ou ANEXO XI-M, o período de referência com indicação de mês e ano e os respectivos valores de repasse, bem como a unidade da refinaria, CPQ, UPGN e Formulador de Combustíveis com indicação do CNPJ que efetuará o repasse/dedução.
 
 (NR – RA 28/23)
@@ -12826,13 +12857,15 @@ Art. 25. Em decorrência de impossibilidade técnica ou no caso de entrega fora 
 
 CAPÍTULO VIII DAS DEMAIS DISPOSIÇÕES
 
-Art. 26. O disposto nos Capítulos III a V não exclui a responsabilidade do TRR, da distribuidora de combustíveis, do importador, da refinaria de petróleo ou suas bases, CPQ e Formulador de combustíveis, pela omissão ou pela apresentação de informações falsas ou inexatas, podendo as UFs aplicarem penalidades ao responsável pela omissão ou pelas informações falsas ou inexatas bem como exigir diretamente do estabelecimento responsável pela omissão ou pelas informações falsas ou inexatas o imposto devido e seus respectivos acréscimos.
+Art. 26. O disposto nos Capítulos III a V não exclui a responsabilidade do TRR, da distribuidora de combustíveis, do importador, da refinaria de petróleo ou suas bases, CPQ e
+
+<!-- p. 20 -->
+Formulador de combustíveis, pela omissão ou pela apresentação de informações falsas ou inexatas, podendo as UFs aplicarem penalidades ao responsável pela omissão ou pelas informações falsas ou inexatas bem como exigir diretamente do estabelecimento responsável pela omissão ou pelas informações falsas ou inexatas o imposto devido e seus respectivos acréscimos.
 
 Art. 27. O estabelecimento que realizar operação interestadual subsequente à tributação monofásica com combustíveis derivados de petróleo ou EAC será responsável solidário, nos termos da legislação estadual, pelo recolhimento do imposto devido, inclusive seus acréscimos legais, se este, por qualquer motivo, não tiver sido objeto de cobrança ou recolhimento, ou se a operação não tiver sido informada ao responsável pelo repasse, nas formas e prazos definidos nos Capítulos III a V.
 
 Art. 28. O TRR, a distribuidora de combustíveis ou o importador responderá pelo recolhimento dos acréscimos legais previstos na legislação da UF a que se destina o imposto, na hipótese de entrega das informações fora dos prazos estabelecidos no art. 22.
 
-<!-- p. 20 -->
 Art. 29. Na falta da inscrição prevista no art. 5º, fica atribuída à refinaria de petróleo ou suas bases, CPQ e Formulador de Combustíveis, a distribuidora de combustíveis, o importador ou o TRR, por ocasião da saída do produto de seu estabelecimento, a responsabilidade pelo recolhimento, por meio de Guia Nacional de Recolhimento de Tributos Estaduais – GNRE, do imposto devido em favor da UF de destino, devendo a via específica da GNRE e do comprovante de seu recolhimento acompanhar o seu transporte.
 
 § 1º Na hipótese do “caput”, se a refinaria de petróleo ou suas bases, CPQ ou formulador de Combustíveis tiverem efetuado o repasse na forma prevista no art. 21 o remetente da mercadoria poderá solicitar à UF, nos termos previstos na legislação estadual, a restituição do imposto que tiver sido pago em decorrência da aquisição do produto, inclusive da parcela cobrada antecipadamente por tributação monofásica, mediante requerimento instruído com, no mínimo, os seguintes documentos:
@@ -12843,19 +12876,20 @@ III - cópia do protocolo da transmissão eletrônica das informações a que se
 
 ~~IV – cópias dos Anexos II-A e III-A, IV-A e V-A, de que trata o art. 18, conforme o caso.~~
 
-IV – cópias dos ANEXOS II-M e III-M, IV-M e V-M, IV- -M-AJ e V-M-AJ ou X- M e XI-M, de que trata o art. 18, conforme o caso.
+IV – cópias dos ANEXOS II-M e III-M, IV-M e V-M, IV- -M-AJ e V-M-AJ ou
+X-M e XI-M, de que trata o art. 18, conforme o caso.
 
 (NR – RA 28/23)
 § 2º Fica atribuída ao destinatário da mercadoria a responsabilidade pelo recolhimento do imposto e seus acréscimos legais quando, notificado, deixar de apresentar a cópia da GNRE e/ou do comprovante de pagamento de que trata o “caput”, podendo a UF de destino cobrar o ICMS incidente nas operações com a mercadoria adquirida, ressalvado o direito do remetente à restituição da parcela do imposto efetivamente repassado nos termos do
 § 1°.
 
+<!-- p. 21 -->
 Art. 30. As UFs interessadas poderão, mediante comum acordo, em face de diligências fiscais e de documentação comprobatória em que tenham constatado entradas e saídas de mercadorias nos respectivos territórios, em quantidades ou valores omitidos ou informados com divergência pelos contribuintes, oficiar à refinaria de petróleo ou suas bases, CPQ ou Formulador de Combustíveis para que efetuem a dedução e o repasse do imposto, com base na situação real verificada.
 
 Art. 31. As UFs poderão, até o 8º (oitavo) dia de cada mês, comunicar à refinaria de petróleo ou suas bases, CPQ e Formulador de Combustíveis a não aceitação da dedução informada tempestivamente, nas seguintes hipóteses:
 
 ~~I - constatação de operações de recebimento do produto, cujo imposto não tenha sido destacado pelo sujeito passivo da tributação monofásica;~~
 
-<!-- p. 21 -->
 I - constatação de operações de recebimento do produto, cujo imposto não tenha sido recolhido pelo sujeito passivo da tributação monofásica ou repassado à UF que efetuar a comunicação;
 
 (NR = RA 49/25)
@@ -12874,6 +12908,7 @@ II - encaminhar, na mesma data prevista no “caput” do artigo, cópia da refe
 
 § 6º A refinaria de petróleo ou suas bases, CPQ ou Formulador de Combustíveis comunicadas nos termos deste artigo, que efetuarem a dedução, serão responsáveis pelo valor deduzido indevidamente e respectivos acréscimos legais.
 
+<!-- p. 22 -->
 § 7º A refinaria de petróleo ou suas bases, CPQ ou Formulador de Combustíveis que deixarem de efetuar repasse em hipóteses não previstas neste artigo serão responsáveis pelo valor não repassado e respectivos acréscimos legais.
 
 § 8º A não aceitação da dedução prevista no inciso II do “caput” deste artigo fica limitada ao valor da parcela do imposto deduzido a maior.
@@ -12882,7 +12917,6 @@ Art. 32. O protocolo de entrega das informações de que trata este anexo não i
 
 Art. 33. O disposto neste anexo não dispensa o contribuinte da entrega da Guia Nacional de Informação e Apuração do ICMS Substituição Tributária - GIA-ST -, prevista no Ajuste SINIEF nº 4, de 9 de dezembro de 1993, quando exigida, devendo a apuração do imposto de que trata este anexo estar inserida nesta declaração.
 
-<!-- p. 22 -->
 Art. 34. No primeiro mês de produção de efeitos deste anexo, para os combustíveis de que trata este anexo existentes em estoque com ICMS retido anteriormente por substituição tributária, os estabelecimentos deverão ajustar suas declarações, efetuando a transposição dos estoques de forma a zerar os valores de ICMS/ST retidos e compor os valores de ICMS sobre os estoques como cobrados por tributação monofásica, conforme alíquotas específicas aprovadas.
 
 Parágrafo único. A transposição dos estoques gravados com ICMS/ST para ICMS cobrado anteriormente por tributação monofásica será definitiva, não dando direito a ressarcimento nem gerando obrigação de recolhimento complementar em virtude da diferença de carga tributária retida por ST e calculada nos termos deste anexo.
@@ -12906,6 +12940,7 @@ Art. 34-C No primeiro e segundo meses de produção de efeitos deste Anexo, docu
 
 (AC – RA 28/23)
 
+<!-- p. 23 -->
 CAPÍTULO IX DAS DISPOSIÇÕES FINAIS
 
 Art. 35. Este anexo entra em vigor na data da sua publicação, produzindo efeitos a partir de 1° de junho de 2023 para as operações com Gasolina A e EAC, enquanto vigorar as disposições da Lei Complementar nº 192/22.

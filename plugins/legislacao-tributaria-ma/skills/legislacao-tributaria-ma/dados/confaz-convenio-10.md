@@ -1,3 +1,398 @@
+<<<DOC confaz/convenio/convenio-133-2005.md>>>
+---
+documento: "CONVÊNIO ICMS 133/05"
+tipo: convenio
+numero: 133
+ano: 2005
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV133_05
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 133/05
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+CONVÊNIO ICMS 133/05
+
+Publicado no DOU de 21.12.05.
+
+Altera o Convênio ICMS 115/03, que dispõe sobre a uniformização e disciplina a emissão, escrituração, manutenção e prestação das informações dos documentos fiscais emitidos em via única por sistema eletrônico de processamento de dados para contribuintes prestadores de serviços de comunicação e fornecedores de energia elétrica e dá outras providências.
+
+O Conselho Nacional de Política Fazendária - CONFAZ,
+
+na sua 120ª reunião ordinária, realizada em Mata de São João, BA, no dia 16 de dezembro de 2005, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira
+
+Os dispositivos adiante indicados do Convênio ICMS 115/03 , de 12 de dezembro de 2003, passam a vigorar com a seguinte redação:
+
+I - o inciso V da cláusula quinta:
+
+"V - na coluna "Observações":
+
+a) o nome do volume do arquivo Mestre de Documento Fiscal e a respectiva chave de codificação digital calculada com base em todas as informações dos documentos fiscais contidos no volume;
+
+b) um resumo com os somatórios dos valores negativos agrupados por espécie, de natureza meramente financeira, que reduzem o valor contábil da prestação ou da operação e não tenham nenhuma repercussão tributária;
+
+c) um resumo, por unidade federada, com o somatório dos valores de base de cálculo do ICMS e valores de ICMS retidos antecipadamente por substituição tributária.";
+
+II - os itens e subitens do Manual de Orientação, Anexo Único:
+
+a) o subitem 4.1.3:
+
+"4.1.3. Tamanho do registro: 254 bytes para os arquivos MESTRE DE DOCUMENTO FISCAL, ITEM DE DOCUMENTO FISCAL e DADOS CADASTRAIS DO DESTINATÁRIO DO DOCUMENTO FISCAL e 797 bytes para arquivo CONTROLE E IDENTIFICAÇÃO, acrescidos de CR/LF (Carriage return/Line Feed) ao final de cada registro;";
+
+b) o subitem 4.2.1:
+
+"4.2.1. Numérico (N), sem sinal, não compactado, alinhado à direita, suprimidos quaisquer caracteres não numéricos, com as posições não significativas preenchidas com zeros. Os valores negativos serão representados com o sinal negativo na primeira posição do campo.";
+
+c) o subitem 4.5:
+
+"4.5. Identificação dos Arquivos
+
+4.5.1. Os arquivos serão identificados no formato:
+
+| Nome do Arquivo | | Extensão |
+| U | F | S | S | S | A | A | M | M | ST | T | .. | V | V | V |
+| UF | série | ano | mês | Status | tipo | | volume |
+
+4.5.2. Observações:
+
+4.5.2.1. O nome do arquivo é formado da seguinte maneira:
+
+4.5.2.1.1. UF (UF) - sigla da unidade federada do emitente dos documentos fiscais;
+
+4.5.2.1.2. Série (SSS) - série dos documentos fiscais;
+
+4.5.2.1.3. Ano (AA) - ano do período de apuração dos documentos fiscais;
+
+4.5.2.1.4. Mês (MM) - mês do período de apuração dos documentos fiscais;
+
+4.5.2.1.5. Status (ST) - indica se o arquivo é normal (N) ou substituto (S);
+
+4.5.2.1.6. Tipo (T) - inicial do tipo do arquivo, podendo assumir um dos seguintes valores:
+
+a) ‘M’ - MESTRE DE DOCUMENTO FISCAL;
+
+b) ‘I’ - ITEM DE DOCUMENTO FISCAL;
+
+c) ‘D’ - DADOS CADASTRAIS DO DESTINATÁRIO DO DOCUMENTO FISCAL;
+
+d) ‘C’ - CONTROLE E IDENTIFICAÇÃO.
+
+4.5.2.1.7. Volume (VVV) – número seqüencial do volume, a quantidade de registros do arquivo MESTRE DE DOCUMENTO FISCAL é limitado a 100 (cem) mil ou 1 (um) milhão de documentos fiscais, conforme determinado no item 4.4.1, sempre que alcançado o limite, deverão ser criados arquivos de continuação, cuja numeração será seqüencial e consecutiva, iniciada em 001;";
+
+d) o subitem 5.2.4.1:
+
+"5.2.4.1. Campo 19 – Informar a situação do documento. Este campo deve ser preenchido com "S", em se tratando de documento fiscal cancelado, com "R", em se tratando de documento fiscal emitido em substituição a um documento fiscal cancelado ou anulado, ou "N", caso contrário;";
+
+e) o item 6.2.3.1:
+
+"6.2.3.1. Campo 10 - Informar o CFOP do item do documento fiscal. Para os itens classificados nos grupos 08 e 09 da Tabela de classificação do item de documento fiscal do item 11.5 preencher o campo com zeros;";
+
+f) o item 6.2.5.1:
+
+"6.2.5.1. Campo 26 - Informar a situação do item de fornecimento de energia elétrica ou de prestação de serviços de comunicação/telecomunicação. Este campo deve ser preenchido com "S", em se tratando de documento fiscal cancelado, com "R", em se tratando de documento fiscal emitido em substituição a um documento fiscal cancelado ou anulado, ou "N", caso contrário;";
+
+g) o item 8:
+
+"8. Arquivo de CONTROLE E IDENTIFICAÇÃO
+
+8.1. Para cada volume, deverá ser criado um arquivo de controle e identificação, o qual será composto por um único registro, com as seguintes informações:
+
+| n.º | Conteúdo | Tam. | posição | formato |
+| | | | Inicial | Final | |
+| 1 | CNPJ | 18 | 1 | 18 | X |
+| 2 | IE | 15 | 19 | 33 | X |
+| 3 | Razão Social | 50 | 34 | 83 | X |
+| 4 | Endereço | 50 | 84 | 133 | X |
+| 5 | CEP | 9 | 134 | 142 | X |
+| 6 | Bairro | 30 | 143 | 172 | X |
+| 7 | Município | 30 | 173 | 202 | X |
+| 8 | UF | 2 | 203 | 204 | X |
+| 9 | Responsável pela apresentação | 30 | 205 | 234 | X |
+| 10 | Cargo | 20 | 235 | 254 | X |
+| 11 | Telefone | 12 | 255 | 266 | N |
+| 12 | e-mail | 40 | 267 | 306 | X |
+| 13 | Quantidade de registros do arquivo Mestre do Documento Fiscal | 7 | 307 | 313 | N |
+| 14 | Quantidade de notas fiscais canceladas | 7 | 314 | 320 | N |
+| 15 | Data de emissão do primeiro documento fiscal | 8 | 321 | 328 | N |
+| 16 | Data de emissão do último documento fiscal | 8 | 329 | 336 | N |
+| 17 | Número do primeiro documento fiscal | 9 | 337 | 345 | N |
+| 18 | Número do último documento fiscal | 9 | 346 | 354 | N |
+| 19 | Valor Total (com 2 decimais) | 14 | 355 | 368 | N |
+| 20 | BC ICMS (com 2 decimais) | 14 | 369 | 382 | N |
+| 21 | ICMS (com 2 decimais) | 14 | 383 | 396 | N |
+| 22 | Operações Isentas ou não tributadas (com 2 decimais) | 14 | 397 | 410 | N |
+| 23 | Outros valores que não compõe a BC do ICMS (com 2 decimais) | 14 | 411 | 424 | N |
+| 24 | Nome do Arquivo Mestre do Documento Fiscal | 15 | 425 | 439 | X |
+| 25 | Status de retificação ou substituição do arquivo | 1 | 440 | 440 | X |
+| 26 | Código de Autenticação Digital do arquivo Mestre do Documento Fiscal | 32 | 441 | 472 | X |
+| 27 | Quantidade de registros do arquivo Item de Documento Fiscal | 9 | 473 | 481 | N |
+| 28 | Quantidade de itens cancelados | 7 | 482 | 488 | N |
+| 29 | Data de emissão do primeiro documento fiscal | 8 | 489 | 496 | N |
+| 30 | Data de emissão do último documento fiscal | 8 | 497 | 504 | N |
+| 31 | Número do primeiro documento fiscal | 9 | 505 | 513 | N |
+| 32 | Número do último documento fiscal | 9 | 514 | 522 | N |
+| 33 | Total (com 2 decimais) | 14 | 523 | 536 | N |
+| 34 | Descontos (com 2 decimais) | 14 | 537 | 550 | N |
+| 35 | Acréscimos e Despesas Acessórias (com 2 decimais) | 14 | 551 | 564 | N |
+| 36 | BC ICMS (com 2 decimais) | 14 | 565 | 578 | N |
+| 37 | ICMS (com 2 decimais) | 14 | 579 | 592 | N |
+| 38 | Operações Isentas ou não tributadas (com 2 decimais) | 14 | 593 | 606 | N |
+| 39 | Outros valores que não compõe a BC do ICMS (com 2 decimais) | 14 | 607 | 620 | N |
+| 40 | Nome do Arquivo Item do Documento Fiscal | 15 | 621 | 635 | X |
+| 41 | Status de retificação ou substituição do arquivo | 1 | 636 | 636 | X |
+| 42 | Código de Autenticação Digital do arquivo Item de Documento Fiscal | 32 | 637 | 668 | X |
+| 43 | Quantidade de registros do arquivo Dados Cadastrais do Destinatário do Documento Fiscal | 7 | 669 | 675 | N |
+| 44 | Nome do Arquivo Dados Cadastrais do Destinatário do Documento Fiscal | 15 | 676 | 690 | X |
+| 45 | Status de retificação ou substituição do arquivo | 1 | 691 | 691 | X |
+| 46 | Código de Autenticação Digital do arquivo Dados Cadastrais do Destinatário do Documento Fiscal | 32 | 692 | 723 | X |
+| 47 | Versão do programa Validador utilizado na validação | 3 | 724 | 726 | N |
+| 48 | Chave de Controle do Recibo de Entrega | 9 | 727 | 732 | X |
+| 49 | Quantidade de Advertências encontradas | 9 | 733 | 741 | N |
+| 50 | Brancos - reservado para uso futuro | 24 | 742 | 765 | X |
+| 51 | Código de Autenticação Digital do registro | 32 | 766 | 797 | X |
+| | Total | 797 | | | |
+
+8.2. Observações
+
+8.2.1. Identificação do Estabelecimento Informante
+
+8.2.1.1. Campo 01 - CPNJ, no formato 99.999.999/9999-99
+
+8.2.1.2. Campo 02 - Inscrição Estadual, no formato utilizado pela unidade federada
+
+8.2.1.3. Campo 03 - Razão Social ou Denominação
+
+8.2.1.4. Campo 04 - Endereço completo
+
+8.2.1.5. Campo 05 - CEP, no formato 99999-999
+
+8.2.1.6. Campo 06 - Bairro
+
+8.2.1.7. Campo 07 - Município
+
+8.2.1.8. Campo 08 - Sigla da unidade da federação
+
+8.2.2. Identificação da pessoa responsável pelas informações
+
+8.2.2.1. Campo 09 - Nome
+
+8.2.2.2. Campo 10 - Cargo
+
+8.2.2.3. Campo 11 - Telefone de contato
+
+8.2.2.4. Campo 12 - e-mail de contato
+
+8.2.3. Informações relativas ao Arquivo MESTRE DE DOCUMENTO FISCAL
+
+8.2.3.1. Campo 13 - Quantidade de registros do arquivo MESTRE DE DOCUMENTO FISCAL
+
+8.2.3.2. Campo 14 - Quantidade de documentos fiscais cancelados
+
+8.2.3.3. Campo 15 - Data de emissão do primeiro documento fiscal
+
+8.2.3.4. Campo 16 - Data de emissão do último documento fiscal
+
+8.2.3.5. Campo 17 - Número do primeiro documento fiscal
+
+8.2.3.6. Campo 18 - Número do último documento fiscal
+
+8.2.3.7. Campo 19 - Somatório do Valor Total (campo 14 do arquivo MESTRE DE DOCUMENTO FISCAL), não incluir os valores dos documentos fiscais cancelados
+
+8.2.3.8. Campo 20 - Somatório da BC ICMS (campo 15 do arquivo MESTRE DE DOCUMENTO FISCAL), não incluir os valores dos documentos fiscais cancelados;
+
+8.2.3.9. Campo 21 - Somatório do ICMS (campo 16 do arquivo MESTRE DE DOCUMENTO FISCAL), não incluir os valores dos documentos fiscais cancelados
+
+8.2.3.10. Campo 22 - Somatório das Operações isentas ou não tributadas (campo 17 do arquivo MESTRE DE DOCUMENTO FISCAL), não incluir os valores dos documentos fiscais cancelados
+
+8.2.3.11. Campo 23 - Somatório dos Outros valores que não compõe a BC do ICMS (campo 18 do arquivo MESTRE DE DOCUMENTO FISCAL), não incluir os valores dos documentos fiscais cancelados
+
+8.2.3.12. Campo 24 - Nome do arquivo MESTRE DE DOCUMENTO FISCAL
+
+8.2.3.13. Campo 25 - Indicador do Status do arquivo: normal (N) ou substituto (S)
+
+8.2.3.14. Campo 26 - Código de autenticação digital obtido através da aplicação do algoritmo MD5 (Message Digest 5, vide item 11.7) no arquivo MESTRE DE DOCUMENTO FISCAL
+
+8.2.4. Informações relativas ao arquivo ITEM DE DOCUMENTO FISCAL
+
+8.2.4.1. Campo 27 - Quantidade de registros do arquivo ITEM DE DOCUMENTO FISCAL
+
+8.2.4.2. Campo 28 - Quantidade de registro de Item de Documento Fiscal cancelados
+
+8.2.4.3. Campo 29 - Data de emissão do primeiro documento fiscal
+
+8.2.4.4. Campo 30 - Data de emissão do último documento fiscal
+
+8.2.4.5. Campo 31 - Número do primeiro documento fiscal
+
+8.2.4.6. Campo 32 - Número do último documento fiscal
+
+8.2.4.7. Campo 33 - Somatório do Total (campo 18 do arquivo ITEM DE DOCUMENTO FISCAL), não incluir os valores dos itens cancelados
+
+8.2.4.8. Campo 34 - Somatório dos Descontos (campo 19 do arquivo ITEM DE DOCUMENTO FISCAL), não incluir os valores dos itens cancelados
+
+8.2.4.9. Campo 35 - Somatório dos Acréscimos e Despesas Acessórias (campo 20 do arquivo ITEM DE DOCUMENTO FISCAL), não incluir os valores dos itens cancelados
+
+8.2.4.10. Campo 36 - Somatório da BC ICMS (campo 21 do arquivo ITEM DE DOCUMENTO FISCAL), não incluir os valores dos itens cancelados
+
+8.2.4.11. Campo 37 - Somatório do ICMS (campo 22 do arquivo ITEM DE DOCUMENTO FISCAL), não incluir os valores dos itens cancelados
+
+8.2.4.12. Campo 38 - Somatório das Operações isentas ou não tributadas (campo 23 do arquivo ITEM DE DOCUMENTO FISCAL), não incluir os valores dos itens cancelados
+
+8.2.4.13. Campo 39 - Somatório dos Outros valores que não compõe a BC do ICMS (campo 24 do arquivo ITEM DE DOCUMENTO FISCAL), não incluir os valores dos itens cancelados
+
+8.2.4.14. Campo 40 - Nome do arquivo ITEM DE DOCUMENTO FISCAL
+
+8.2.4.15. Campo 41 - Indicador do Status do arquivo: normal (N) ou substituto (S)
+
+8.2.4.16. Campo 42 - Código de autenticação digital obtido através da aplicação do algoritmo MD5 (Message Digest 5, vide item 11.7) no arquivo ITEM DE DOCUMENTO FISCAL
+
+8.2.5. Informações relativas ao arquivo DADOS CADASTRAIS DO DESTINATÁRIO DO DOCUMENTO FISCAL
+
+8.2.5.1. Campo 43 - Quantidade de registros do arquivo DADOS CADASTRAIS DO DESTINATÁRIO DO DOCUMENTO FISCAL
+
+8.2.5.2. Campo 44 - Nome do arquivo Dados Cadastrais do Destinatário do Documento Fiscal
+
+8.2.5.3. Campo 45 - Indicador do Status do arquivo: normal (N) ou substituto (S)
+
+8.2.5.4. Campo 46 - Código de autenticação digital obtido através da aplicação do algoritmo MD5 (Message Digest 5) no arquivo DADOS CADASTRAIS DO DESTINATÁRIO DO DOCUMENTO FISCAL
+
+8.2.6. Informações de Controle
+
+8.2.6.1. Campo 47 - Versão do programa Validador utilizado para gerar o arquivo de CONTROLE E IDENTIFICAÇÃO
+
+8.2.6.2. Campo 48 - Chave de Controle do Recibo de Entrega
+
+8.2.6.3. Campo 49 - Quantidade de Advertências encontradas na validação
+
+8.2.6.4. Campo 50 - brancos - reservado para uso futuro
+
+8.2.6.5. Campo 51 - Informar o Código de autenticação digital obtido através da aplicação do algoritmo MD5 (Message Digest 5, vide item 11.7) de 128 bits na cadeia de caracteres formado pelos campos 01 a 51.";
+
+h) o subitem 11.5:
+
+"11.5. Tabela de Classificação do Item de Documento Fiscal:
+
+| Grupo | Código | Descrição |
+| 01. Assinatura | 0101 | Assinatura de serviços de telefonia |
+| | 0102 | Assinatura de serviços de comunicação de dados |
+| | 0103 | Assinatura de serviços de TV por Assinatura |
+| | 0104 | Assinatura de serviços de provimento à internet |
+| | 0105 | Assinatura de outros serviços de multimídia |
+| | 0199 | Assinatura de outros serviços |
+| 02. Habilitação | 0201 | Habilitação de serviços de telefonia |
+| | 0202 | Habilitação de serviços de comunicação de dados |
+| | 0203 | Habilitação de TV por Assinatura |
+| | 0204 | Habilitação de serviços de provimento à internet |
+| | 0205 | Habilitação de outros serviços multimídia |
+| | 0299 | Habilitação de outros serviços |
+| 03. Serviço Medido | 0301 | Serviço Medido - chamadas locais |
+| 0302 | Serviço Medido - chamadas interurbanas no Estado |
+| 0303 | Serviço Medido - chamadas interurbanas para fora do Estado |
+| 0304 | Serviço Medido - chamadas internacionais |
+| 0305 | Serviço Medido - Números Especiais (0300/0500/0600/0800/etc.) |
+| 0306 | Serviço Medido - comunicação de dados |
+| 0307 | Serviço Medido - chamadas originadas em Roaming |
+| 0308 | Serviço Medido - chamadas recebidas em Roaming |
+| 0309 | Serviço Medido - adicional de chamada |
+| 0310 | Serviço Medido - provimento de acesso à Internet |
+| 0311 | Serviço Medido - pay-per-view (programação TV) |
+| 0312 | Serviço Medido - Mensagem SMS |
+| 0313 | Serviço Medido - Mensagem MMS |
+| 0314 | Serviço Medido - outros mensagens |
+| 0315 | Serviço Medido - serviço multimídia |
+| 0399 | Serviço Medido - outros serviços |
+| 04. Serviço pré-pago | 0401 | Cartão Telefônico - Telefonia Fixa |
+| 0402 | Cartão Telefônico - Telefonia Móvel |
+| 0403 | Cartão de Provimento de acesso à internet |
+| 0404 | Ficha Telefônica |
+| 0405 | Recarga de Créditos - Telefonia Fixa |
+| 0406 | Recarga de Créditos - Telefonia Móvel |
+| 0407 | Recarga de Créditos - Provimento de acesso à Internet |
+| 0499 | Outras cobranças realizadas de assinantes de plano serviço pré-pago |
+| 05. Outros Serviços | 0501 | Serviço Adicional (substituição de número, troca de aparelho, emissão de 2ª via de conta, conta detalhada, etc.) |
+| | 0502 | Serviço Facilidades (identificador de chamadas, caixa postal, transferência temporária, não-perturbe, etc.) |
+| | 0599 | Outros Serviços |
+| 06. Energia Elétrica | 0601 | Energia Elétrica - Consumo |
+| 0602 | Energia Elétrica - Demanda |
+| 0603 | Energia Elétrica - Serviços (Vistoria de unidade consumidora, Aferição de Medidor, Ligação, Religação, Troca de medidor, etc.) |
+| 0604 | Energia Elétrica - Encargos Emergenciais |
+| 0605 | Tarifa de Uso dos Sistemas de Distribuição de Energia Elétrica - TUSD - Consumidor Cativo |
+| 0606 | Tarifa de Uso dos Sistemas de Distribuição de Energia Elétrica - TUSD - Consumidor Livre |
+| 0607 | Encargos de Conexão |
+| 0608 | Tarifa de Uso dos Sistemas de Transmissão de Energia Elétrica - TUST - Consumidor Cativo |
+| 0609 | Tarifa de Uso dos Sistemas de Transmissão de Energia Elétrica - TUST - Consumidor Livre |
+| 0610 | Subvenção econômica para consumidores da subclasse "baixa renda" |
+| 0699 | Energia Elétrica - Outros |
+| 07. Disponibilização de meios ou equipamentos | 0701 | de Aparelho Telefônico |
+| 0702 | de Aparelho Identificador de chamadas |
+| 0703 | de Modem |
+| 0704 | de Rack |
+| 0705 | de Sala/Recinto |
+| 0706 | de Roteador |
+| 0707 | de Servidor |
+| 0708 | de Multiplexador |
+| 0709 | de Decodificador/Conversor |
+| 0799 | Outras disponibilizações |
+| 08. Cobranças | 0801 | Cobrança de Serviços de Terceiros |
+| | 0802 | Cobrança de Seguros |
+| | 0803 | Cobrança de Financiamento de Aparelho/Serviços |
+| | 0804 | Cobrança de Juros de Mora |
+| | 0805 | Cobrança de Multa de Mora |
+| | 0806 | Cobrança de Conta de meses anteriores |
+| | 0807 | Cobrança de Taxa Iluminação Pública |
+| | 0808 | Retenção de ICMS-ST |
+| | 0899 | Outras Cobranças |
+| 09. Deduções | 0901 | Dedução relativa a impugnação de serviços |
+| | 0902 | Dedução referente ajuste de conta |
+| | 0903 | Redutor – Energia Elétrica - In Nº 306/2003 (PIS/COFINS/IRPJ/CSLL) |
+| | 0904 | Dedução relativa à multa pela interrupção de fornecimento |
+| | 0905 | Dedução relativa à distribuição de dividendos Eletrobrás |
+| | 0906 | Dedução relativa à subvenção econômica para consumidores da subclasse "baixa renda" |
+| | 0999 | Outras deduções |
+| 10. Serviço não medido | 1001 | Serviço não medido de serviços de telefonia |
+| | 1002 | Serviço não medido de serviços de comunicação de dados |
+| | 1003 | Serviço não medido de serviços de TV por Assinatura |
+| | 1004 | Serviço não medido de serviços de provimento à internet |
+| | 1005 | Serviço não medido de outros serviços de multimídia |
+| | 1099 | Serviço não medido de outros serviços" |
+
+Cláusula segunda
+
+Fica acrescentado o parágrafo único à cláusula oitava do Convênio ICMS 115/03 , com a seguinte redação:
+
+"Parágrafo Único. A unidade federada que adotar o Leiaute Fiscal de Processamento de Dados aprovado pelo Ato Cotepe nº 34/05 poderá, a seu critério, dispensar a geração dos registros C500, C510, C520, C530, C540, D200, D210, D220, D230 e D240 para os documentos fiscais emitidos em via única, nos termos deste convênio.".
+
+Cláusula terceira
+
+Ficam acrescentados os subitens a seguir indicados ao Manual de Orientação, Anexo Único do Convênio ICMS 115/03 , com as seguintes redações:
+
+I - o subitem 4.4.3:
+
+"4.4.3. O conjunto de arquivos MESTRE DE DOCUMENTO FISCAL, ITEM DE DOCUMENTO FISCAL, DADOS CADASTRAIS DO DESTINATÁRIO DO DOCUMENTO FISCAL e CONTROLE E IDENTIFICAÇÃO pertencentes ao mesmo volume devem ser gravados em um único CD-R ou DVD-R, ficando a critério do contribuinte a gravação de mais de um conjunto de arquivos na mesma mídia.";
+
+II - o subitem 4.4. 4:
+
+"4.4.4. A versão atual do programa de consulta de notas fiscais eNotaFiscal.exe deverá ser gravada em cada CD-R ou DVD-R utilizado na geração dos arquivos.".
+
+Cláusula quarta
+
+A classificação prevista no Grupo 10 da Tabela de Classificação de Item de Documento Fiscal, exceto em relação ao código 1002, do Manual de Orientação, Anexo Único do Convênio ICMS 115/03 , não se aplica aos Estados do Amazonas, Goiás, Mato Grosso, Mato Grosso do Sul e Tocantins e ao Distrito Federal.
+
+Cláusula quinta
+
+Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, e a gravação dos arquivos magnéticos na forma estabelecida por este convênio será obrigatória em relação aos fatos geradores ocorridos a partir de:
+
+I - 1 º de julho de 2006, para o Estado do Espírito Santo;
+
+II - 1 º de janeiro de 2006, para os demais Estados.
+
+Mata de São João, BA, 16 de dezembro de 2005.
 <<<DOC confaz/convenio/convenio-133-2008.md>>>
 ---
 documento: "CONVÊNIO ICMS 133/08"
@@ -6,7 +401,7 @@ numero: 133
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV133_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 133/08
@@ -224,7 +619,7 @@ numero: 133
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV133_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 133/13
@@ -254,7 +649,7 @@ numero: 133
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV133_16
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 133/16
@@ -284,7 +679,7 @@ numero: 133
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV133_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 133/19
@@ -680,7 +1075,7 @@ numero: 133
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV133_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 133/20
@@ -1172,7 +1567,7 @@ numero: 133
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV133_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 133/21
@@ -1225,7 +1620,7 @@ numero: 133
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV133_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 133/22
@@ -1265,7 +1660,7 @@ numero: 133
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV133_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 133/23
@@ -1295,7 +1690,7 @@ numero: 134
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV134_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 134/02
@@ -1337,7 +1732,7 @@ numero: 134
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV134_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 134/06
@@ -1379,7 +1774,7 @@ numero: 134
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV134_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 134/10
@@ -1421,7 +1816,7 @@ numero: 134
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV134_12
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 134/12
@@ -1456,7 +1851,7 @@ numero: 134
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV134_14
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 134/14
@@ -1494,7 +1889,7 @@ numero: 134
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV134_16
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 134/16
@@ -1786,7 +2181,7 @@ numero: 134
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV134_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 134/17
@@ -1816,7 +2211,7 @@ numero: 135
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV135_01
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/01
@@ -1866,7 +2261,7 @@ numero: 135
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV135_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/02
@@ -1922,7 +2317,7 @@ numero: 135
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV135_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/05
@@ -1992,7 +2387,7 @@ numero: 135
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV135_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/06
@@ -2137,7 +2532,7 @@ numero: 135
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV135_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/07
@@ -2169,7 +2564,7 @@ numero: 135
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV135_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/10
@@ -2201,7 +2596,7 @@ numero: 135
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV135_12
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/12
@@ -2323,7 +2718,7 @@ numero: 135
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV135_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/13
@@ -2369,7 +2764,7 @@ numero: 135
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV135_14
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/14
@@ -2399,7 +2794,7 @@ numero: 135
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV135_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/20
@@ -2439,7 +2834,7 @@ numero: 135
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV135_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 135/25
@@ -2501,7 +2896,7 @@ numero: 136
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV136_93
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/93
@@ -2583,7 +2978,7 @@ numero: 136
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV136_94
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/94
@@ -2669,7 +3064,7 @@ numero: 136
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV136_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/05
@@ -2732,7 +3127,7 @@ numero: 136
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV136_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/06
@@ -2782,7 +3177,7 @@ numero: 136
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV136_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/07
@@ -2863,7 +3258,7 @@ numero: 136
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV136_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/08
@@ -3011,7 +3406,7 @@ numero: 136
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV136_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/10
@@ -3041,7 +3436,7 @@ numero: 136
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV136_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/13
@@ -3081,7 +3476,7 @@ numero: 136
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV136_14
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/14
@@ -3113,7 +3508,7 @@ numero: 136
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV136_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 136/19
@@ -3157,7 +3552,7 @@ numero: 136
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV136_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 136/21
@@ -3191,7 +3586,7 @@ numero: 137
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV137_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/05
@@ -3238,7 +3633,7 @@ numero: 137
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV137_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/06
@@ -3510,7 +3905,7 @@ numero: 137
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV137_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/08
@@ -3550,7 +3945,7 @@ numero: 137
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV137_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/10
@@ -3580,7 +3975,7 @@ numero: 137
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV137_12
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/12
@@ -3610,7 +4005,7 @@ numero: 137
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV137_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/13
@@ -3656,7 +4051,7 @@ numero: 137
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV137_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/20
@@ -3700,7 +4095,7 @@ numero: 137
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV137_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/21
@@ -3734,7 +4129,7 @@ numero: 137
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV137_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 137/24
@@ -3764,7 +4159,7 @@ numero: 138
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV138_01
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 138/01
@@ -4698,7 +5093,7 @@ numero: 138
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV138_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 138/05
@@ -4752,7 +5147,7 @@ numero: 138
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV138_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 138/08
@@ -5062,7 +5457,7 @@ numero: 138
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV138_11
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 138/11
@@ -5100,7 +5495,7 @@ numero: 138
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV138_12
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 138/12
@@ -5134,7 +5529,7 @@ numero: 138
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV138_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 138/13
@@ -5171,7 +5566,7 @@ numero: 138
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV138_14
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 138/14
@@ -5213,7 +5608,7 @@ numero: 138
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV138_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 138/19
@@ -5243,7 +5638,7 @@ numero: 138
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV138_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 138/22
@@ -5275,7 +5670,7 @@ numero: 139
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV139_03
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/03
@@ -5313,7 +5708,7 @@ numero: 139
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV139_04
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/04
@@ -5345,7 +5740,7 @@ numero: 139
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV139_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/05
@@ -5411,7 +5806,7 @@ numero: 139
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV139_11
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/11
@@ -5450,7 +5845,7 @@ numero: 139
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV139_12
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/12
@@ -5480,7 +5875,7 @@ numero: 139
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV139_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/13
@@ -5512,7 +5907,7 @@ numero: 139
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV139_14
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/14
@@ -5542,7 +5937,7 @@ numero: 139
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV139_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/15
@@ -5576,7 +5971,7 @@ numero: 139
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV139_18
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/18
@@ -5848,7 +6243,7 @@ numero: 139
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV139_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 139/21
@@ -5918,7 +6313,7 @@ numero: 140
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV140_01
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 140/01
@@ -6112,7 +6507,7 @@ numero: 140
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV140_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 140/10
@@ -6150,7 +6545,7 @@ numero: 140
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV140_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 140/13
@@ -6198,7 +6593,7 @@ numero: 140
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV140_14
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 140/14
@@ -6230,7 +6625,7 @@ numero: 140
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV140_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 140/19
@@ -6260,7 +6655,7 @@ numero: 141
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV141_01
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 141/01
@@ -6312,7 +6707,7 @@ numero: 141
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV141_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 141/02
@@ -6356,7 +6751,7 @@ numero: 141
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV141_04
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 141/04
@@ -6398,7 +6793,7 @@ numero: 141
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV141_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 141/06
@@ -6449,7 +6844,7 @@ numero: 141
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV141_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 141/07
@@ -6483,7 +6878,7 @@ numero: 141
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV141_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 141/13
@@ -6511,7 +6906,7 @@ numero: 141
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV141_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 141/22
@@ -6574,7 +6969,7 @@ numero: 142
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV142_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/02
@@ -7081,7 +7476,7 @@ numero: 142
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV142_03
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/03
@@ -7117,7 +7512,7 @@ numero: 142
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV142_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/07
@@ -7149,7 +7544,7 @@ numero: 142
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV142_11
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/11
@@ -7483,7 +7878,7 @@ numero: 142
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV142_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/13
@@ -7513,7 +7908,7 @@ numero: 142
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/18
@@ -10353,7 +10748,7 @@ numero: 142
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV142_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 142/19
@@ -10383,7 +10778,7 @@ numero: 142
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV142_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/20
@@ -10427,7 +10822,7 @@ numero: 142
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV142_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/24
@@ -10459,7 +10854,7 @@ numero: 142
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV142_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 142/25
@@ -10502,7 +10897,7 @@ numero: 143
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/cv143_92
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/92
@@ -10548,7 +10943,7 @@ numero: 143
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV143_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/02
@@ -10632,7 +11027,7 @@ numero: 143
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV143_03
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/03
@@ -10666,7 +11061,7 @@ numero: 143
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV143_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/05
@@ -10712,7 +11107,7 @@ numero: 143
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV143_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/06
@@ -10814,7 +11209,7 @@ numero: 143
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV143_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/07
@@ -10864,7 +11259,7 @@ numero: 143
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV143_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/10
@@ -11010,7 +11405,7 @@ numero: 143
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV143_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/13
@@ -11068,7 +11463,7 @@ numero: 143
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV143_14
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/14
@@ -11100,7 +11495,7 @@ numero: 143
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV143_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/21
@@ -11144,7 +11539,7 @@ numero: 143
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV143_22
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/22
@@ -11174,7 +11569,7 @@ numero: 143
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV143_24
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/24
@@ -11212,7 +11607,7 @@ numero: 143
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV143_25
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 143/25
@@ -11283,7 +11678,7 @@ numero: 144
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV144_93
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 144/93
@@ -11321,7 +11716,7 @@ numero: 144
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV144_03
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 144/03
@@ -11365,7 +11760,7 @@ numero: 144
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV144_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 144/07
@@ -11399,7 +11794,7 @@ numero: 144
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV144_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 144/10
@@ -11427,7 +11822,7 @@ numero: 144
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV144_11
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 144/11
@@ -11521,7 +11916,7 @@ numero: 144
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV144_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 144/13
@@ -11551,7 +11946,7 @@ numero: 144
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV144_18
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 144/18
@@ -11589,7 +11984,7 @@ numero: 144
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV144_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 144/19
@@ -11619,7 +12014,7 @@ numero: 144
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV144_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 144/20
@@ -11657,7 +12052,7 @@ numero: 145
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV145_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 145/07
@@ -11691,7 +12086,7 @@ numero: 145
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV145_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 145/08
@@ -11731,7 +12126,7 @@ numero: 145
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV145_11
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 145/11
@@ -11769,7 +12164,7 @@ numero: 145
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV145_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 145/13
@@ -11951,7 +12346,7 @@ numero: 146
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV146_93
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/93
@@ -12007,7 +12402,7 @@ numero: 146
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV146_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/02
@@ -12047,7 +12442,7 @@ numero: 146
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV146_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/06
@@ -12085,7 +12480,7 @@ numero: 146
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV146_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/07
@@ -12129,7 +12524,7 @@ numero: 146
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV146_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/08
@@ -12161,7 +12556,7 @@ numero: 146
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV146_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/13
@@ -12221,7 +12616,7 @@ numero: 146
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV146_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/15
@@ -13374,7 +13769,7 @@ numero: 146
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV146_18
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/18
@@ -13406,7 +13801,7 @@ numero: 146
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV146_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/20
@@ -13449,7 +13844,7 @@ numero: 146
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV146_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 146/23
@@ -13509,7 +13904,7 @@ numero: 147
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV147_92
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 147/92
@@ -13601,7 +13996,7 @@ numero: 147
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV147_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 147/02
@@ -13703,7 +14098,7 @@ numero: 147
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV147_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 147/05
@@ -13801,7 +14196,7 @@ numero: 147
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV147_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 147/06
@@ -13845,7 +14240,7 @@ numero: 147
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV147_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 147/07
@@ -13927,7 +14322,7 @@ numero: 147
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV147_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 147/15
@@ -13955,7 +14350,7 @@ numero: 147
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV147_20
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 147/20
@@ -13987,7 +14382,7 @@ numero: 147
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV147_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 147/23
@@ -14038,7 +14433,7 @@ numero: 148
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV148_92
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/92
@@ -14158,7 +14553,7 @@ numero: 148
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV148_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/02
@@ -14279,7 +14674,7 @@ numero: 148
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV148_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/06
@@ -14328,7 +14723,7 @@ numero: 148
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV148_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/07
@@ -14572,7 +14967,7 @@ numero: 148
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV148_10
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/10
@@ -14614,7 +15009,7 @@ numero: 148
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV148_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/15
@@ -14646,7 +15041,7 @@ numero: 148
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV148_18
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/18
@@ -14678,7 +15073,7 @@ numero: 148
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV148_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/21
@@ -14728,7 +15123,7 @@ numero: 148
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV148_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 148/23
@@ -14758,7 +15153,7 @@ numero: 149
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV149_02
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 149/02
@@ -14798,7 +15193,7 @@ numero: 149
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV149_05
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 149/05
@@ -14840,7 +15235,7 @@ numero: 149
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV149_06
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 149/06
@@ -15010,7 +15405,7 @@ numero: 149
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV149_07
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 149/07
@@ -15042,7 +15437,7 @@ numero: 149
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV149_08
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 149/08
@@ -15092,7 +15487,7 @@ numero: 149
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV149_13
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 149/13
@@ -15170,7 +15565,7 @@ numero: 149
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV149_15
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 149/15
@@ -15228,7 +15623,7 @@ numero: 149
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV149_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 149/17
@@ -15282,366 +15677,3 @@ Cláusula quinta Este convênio entra em vigor na data de sua publicação no Di
 I - do primeiro dia do primeiro do mês subsequente ao da publicação, quanto às cláusulas primeira e segunda;
 
 II - de 1º de janeiro de 2018, quanto às cláusulas terceira e quarta.
-<<<DOC confaz/convenio/convenio-149-2020.md>>>
----
-documento: "CONVÊNIO ICMS 149/20"
-tipo: convenio
-numero: 149
-ano: 2020
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV149_20
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 149/20
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 149/20, DE 9 DE DEZEMBRO DE 2020
-
-Publicado no DOU de 11.12.20, pelo Despacho 96/20
-
-Ratificação Nacional no DOU de 29.12.20, pelo Ato Declaratório 25/20
-
-Altera o Convênio ICMS 190/17, que dispõe, nos termos autorizados na Lei Complementar nº 160, de 7 de agosto de 2017, sobre a remissão de créditos tributários, constituídos ou não, decorrentes das isenções, dos incentivos e dos benefícios fiscais ou financeiro-fiscais instituídos em desacordo com o disposto na alínea “g” do inciso XII do § 2º do art. 155 da Constituição Federal, bem como sobre as correspondentes reinstituições.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 179ª Reunião Ordinária, realizada em Brasília, DF, no dia 9 de dezembro de 2020, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, e na Lei Complementar nº 160, de 7 de agosto de 2017, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira Ficam alterados os dispositivos a seguir indicados da cláusula décima primeira do Convênio ICMS 190/17, de 15 de dezembro de 2017, que passam a vigorar com as seguintes redações:
-
-I - o inciso II do § 4º:
-
-“II - o prazo para contestação e sugestão de reenquadramento por outra unidade federada previsto no § 1º desta cláusula terá início com o envio, pela Secretaria Executiva do CONFAZ, da informação prevista no § 5º desta cláusula.”;
-
-II – o § 5º:
-
-“5º A Secretaria Executiva do CONFAZ, até o 10º (décimo) dia seguinte à disponibilização do Certificado de Registro e Depósito no site do CONFAZ, deverá informar às demais unidades federadas sobre o reenquadramento.”.
-
-Cláusula segunda Fica acrescido o § 3º à cláusula sétima do Convênio ICMS 190/17, com a seguinte redação:
-
-“§ 3º No cumprimento do disposto nesta cláusula e nas demais hipóteses previstas neste convênio, não compete à Secretaria Executiva do CONFAZ a análise e conferência do conteúdo das informações e da documentação entregues pelas Secretarias de Economia, Fazenda, Finanças, Receita ou Tributação.”.
-
-Cláusula terceira Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional.
-<<<DOC confaz/convenio/convenio-149-2021.md>>>
----
-documento: "CONVÊNIO ICMS 149/21"
-tipo: convenio
-numero: 149
-ano: 2021
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV149_21
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 149/21
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 149, DE 1º DE OUTUBRO DE 2021
-
-Publicado no DOU de 06.10.21, pelo despacho 68/21.
-
-Ratificação Nacional no DOU de 22.10.21, pelo Ato Declaratório 26/21.
-
-Adesão da PB, a partir de 20.10.23., pelo Conv. ICMS 137/23.
-
-Alterado pelo Conv. ICMS 137/23, 43/26.
-
-Adesão do MA e do PR pelo Conv. ICMS 43/26, efeitos a partir de 27.04.26.
-
-Autoriza as unidades federadas que menciona a conceder crédito presumido do ICMS no fomento à internet rural.
-
-O Conselho Nacional de Política Fazendária – CONFAZ, na sua 182ª Reunião Ordinária, realizada em Brasília, DF, no dia 1º de outubro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
-
-CONVÊNIO
-
-> Nova redação dada ao caput da cláusula primeira pelo Conv. ICMS 43/26, efeitos a partir de 27.04.26
-
-Cláusula primeira Os Estados do Acre, Alagoas, Bahia, Espírito Santo, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder crédito presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, destinado exclusivamente à aplicação em investimentos relacionados ao fomento à internet rural em seu território, efetuados por empresas prestadoras de serviço de comunicação.
-
-> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 137/23, efeitos de 20.10.23 a 26.04.26.
-
-~~Cláusula primeira Os Estados do Acre, Alagoas, Bahia, Espírito Santo, Mato Grosso, Pará, Paraíba, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder crédito presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, destinado exclusivamente à aplicação em investimentos relacionados ao fomento à internet rural em seu território, efetuados por empresas prestadoras de serviço de comunicação.~~
-
-> Redação original, efeitos até 19.10.23.
-
-~~Cláusula primeira Os Estados do Acre, Alagoas, Bahia, Espírito Santo, Mato Grosso, Pará, Rio Grande do Sul e Santa Catarina ficam autorizados a conceder crédito presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, destinado exclusivamente à aplicação em investimentos relacionados ao fomento à internet rural em seu território, efetuados por empresas prestadoras de serviço de comunicação.~~
-
-> Renumerado o parágrafo único para §1º da cláusula primeira pelo Conv. ICMS 137/23, efeitos a partir de 20.10.23
-
-§1º. O benefício previsto nesta cláusula fica condicionado:
-
-I - ao limite de 50% (cinquenta por cento) do valor do investimento realizado;
-
-II - a prévio termo de compromisso a ser firmado com a unidade federada, definindo o investimento, as condições de sua realização e seu prazo de vigência;
-
-III - à desistência de qualquer discussão, administrativa ou judicial, relativa à incidência de ICMS sobre a prestação de serviços de telecomunicações, especialmente quanto à internet banda larga.
-
-> Nova redação dada §2º da cláusula primeira pelo Conv. ICMS 43/26, efeitos a partir de 27.04.26.
-
-§ 2º Os Estados do Rio Grande do Sul e Santa Catarina ficam autorizados a dispensar a exigência prevista no inciso III do § 1º.
-
-> Redação anterior acrescida do § 2º à cláusula primeira pelo Conv. ICMS 137/23, efeitos de 20.10.23 a 26.04.26.
-
-~~§ 2º O Estado do Rio Grande do Sul fica autorizado a dispensar a exigência prevista no inciso III do § 1º.~~
-
-> Acrescido o §3º à cláusula primeira pelo Conv. ICMS 43/26, efeitos a partir de 27.04.26.
-
-§ 3º Os Estados do Acre, Amapá, Amazonas, Bahia, Espírito Santo, Maranhão, Pará, Paraíba, Paraná, Piauí, Rio Grande do Norte, Rio Grande do Sul, Rondônia e Santa Catarina ficam autorizados a, em substituição ao disposto no inciso I do § 1º, adotar, como limite individual, 75% (setenta e cinco por cento) do valor do investimento realizado e, como limite total, em cada ano, o percentual de 2% (dois por cento) da arrecadação anual do ICMS relativa ao exercício imediatamente anterior.
-
-Cláusula segunda. A apropriação mensal permitida do benefício de que trata este convênio limitar-se-á às definições previstas no anexo único a serem aplicadas sobre o saldo devedor de cada período de apuração.
-
-Parágrafo único. Para o cálculo do saldo devedor do ICMS próprio serão considerados todos os estabelecimentos da empresa na unidade federada.
-
-Cláusula terceira A legislação estadual poderá estabelecer outras condições, limites e exceções para a fruição do benefício previsto neste convênio.
-
-Cláusula quarta Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do primeiro mês subsequente ao da ratificação até 31 de dezembro de 2026.
-
-ANEXO ÚNICO
-
-| Saldo Devedor médio de ICMS próprio nos 12 meses anteriores à apropriação (R$) | Percentual | Valor a acrescer (R$) |
-| - | Até 70.000,00 | 30% | 0 |
-| Acima de 70.000,00 | Até 200.000,00 | 20% | 7.000,00 |
-| Acima de 200.000,00 | 10% | 27.000,00 |
-<<<DOC confaz/convenio/convenio-149-2024.md>>>
----
-documento: "CONVÊNIO ICMS 149/24"
-tipo: convenio
-numero: 149
-ano: 2024
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV149_24
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 149/24
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS Nº 149, DE 6 DE DEZEMBRO DE 2024
-
-Publicado no DOU de 11.12.24. pelo despacho 51/24.
-
-Ratificação Nacional no DOU de 27.12.24, pelo Ato Declaratório 36/24.
-
-Altera o Convênio ICMS nº 199/22 e o Convênio ICMS nº 15/23.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 195ª Reunião Ordinária, realizada em Foz do Iguaçu, PR, no dia 6 de dezembro de 2024, tendo em vista o disposto nos artigos 102 e 109 da Lei nº 5.172, de 25 de outubro de 1966, na Lei Complementar nº 24, de 7 de janeiro de 1975 e na Lei Complementar n o 192, de 11 de março de 2022, resolve celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira O inciso I da cláusula trigésima primeira do Convênio ICMS nº 199, de 22 de dezembro de 2022, publicado no Diário Oficial da União de 23 de dezembro de 2022, passa a vigorar com a seguinte redação:
-
-"I - constatação de operações de recebimento do produto, cujo imposto não tenha sido recolhido pelo sujeito passivo da tributação monofásica ou repassado à UF que efetuar a comunicação;".
-
-Cláusula segunda O inciso I da cláusula trigésima primeira do Convênio ICMS nº 15, de 31 de março de 2023, publicado no Diário Oficial da União de 6 de abril de 2023, passa a vigorar com a seguinte redação:
-
-"I - constatação de operações de recebimento do produto, cujo imposto não tenha sido recolhido pelo sujeito passivo da tributação monofásica ou repassado à UF que efetuar a comunicação;".
-
-Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
-<<<DOC confaz/convenio/convenio-150-1994.md>>>
----
-documento: "CONVÊNIO ICMS 150/94"
-tipo: convenio
-numero: 150
-ano: 1994
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV150_94
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 150/94
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 150/94
-
-Publicado DOU de 14.12.94.
-
-Ratificação Nacional DOU de 02.01.95 pelo Ato COTEPE-ICMS
-
-13/94 .
-
-Dispõe sobre a adesão do Estado de Minas Gerais às disposições do Convênio ICMS 09/93, de 30.04.93, que concede redução da base de cálculo no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares.
-
-O Ministro de Estado da Fazenda e os Secretários de Fazenda, Economia ou Finanças dos Estados e do Distrito Federal, na 76ª Reunião Ordinária do Conselho Nacional de Política Fazendária realizada em Boa Vista, RR, no dia 7 de dezembro de 1994, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
-
-CONVÊNIO
-
-Cláusula primeira
-
-Fica o Estado de Minas Gerais incluído nas disposições contidas no Convênio ICMS 09/93 , de 30 de abril de 1993.
-
-Cláusula segunda
-
-Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
-
-Boa Vista, RR, 7 de dezembro de 1994.
-<<<DOC confaz/convenio/convenio-150-2005.md>>>
----
-documento: "CONVÊNIO ICMS 150/05"
-tipo: convenio
-numero: 150
-ano: 2005
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV150_05
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 150/05
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-CONVÊNIO ICMS 150/05
-
-Publicado no DOU de 21.12.05.
-
-Ratificação Nacional DOU de 09.01.06, pelo Ato Declaratório
-
-01/06 .
-
-Altera o Convênio ICMS 100/97, que reduz a base de cálculo do ICMS nas saídas de insumos agropecuários.
-
-O Conselho Nacional de Política Fazendária - CONFAZ
-
-, na sua 120ª reunião ordinária, realizada em Mata de São João, BA, no dia 16 de dezembro de 2005, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira
-
-O inciso I do "caput" da cláusula segunda do Convênio ICMS 100/97 , de 4 de novembro de 1997, passa a vigorar com a seguinte redação:
-
-"I - farelos e tortas de soja e de canola, farelos de suas cascas e sojas desativadas e seus farelos, quando destinados à alimentação animal ou ao emprego na fabricação de ração animal;".
-
-Cláusula segunda
-
-Ficam os Estados autorizados a não exigir o imposto relativo às saídas internas de sojas desativadas e seus farelos, realizadas com o benefício da redução da base de cálculo em 30% (trinta por cento) ou da isenção, ocorridas até a data do início de vigência deste convênio.
-
-Parágrafo único. O benefício de que trata esta cláusula não confere ao sujeito passivo direito a restituição ou compensação de valores eventualmente pagos.
-
-Cláusula terceira
-
-Este convênio entra em vigor na data da publicação de sua ratificação nacional.
-
-Mata de São João, BA, 16 de dezembro de 2005.
-<<<DOC confaz/convenio/convenio-150-2007.md>>>
----
-documento: "CONVÊNIO ICMS 150/07"
-tipo: convenio
-numero: 150
-ano: 2007
-orgao: CONFAZ
-fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV150_07
-extraido_em: "2026-10-30"
----
-
-# CONVÊNIO ICMS 150/07
-
-> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
-
-## CONVÊNIO ICMS 150, DE 14 DE DEZEMBRO DE 2007
-
-· Publicado no DOU de 18.12.07, pelo Despacho 107/07 .
-
-Altera dispositivos do Convênio ICMS 54/02 que estabelece procedimentos para o controle de operações interestaduais com combustíveis derivados de petróleo e álcool etílico anidro combustível - AEAC.
-
-O Conselho Nacional de Política Fazendária - CONFAZ, na sua 128ª reunião ordinária, realizada em Fortaleza, CE, no dia 14 de dezembro de 2007 , tendo em vista o disposto no art. 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
-
-C O N V Ê N I O
-
-Cláusula primeira Os dispositivos a seguir indicados do Convênio ICMS 54/02 , de 28 de junho de 2002, passam a vigorar com as seguintes redações:
-
-I - os incisos I e II da cláusula primeira:
-
-“I - impossibilidade técnica de transmissão das informações de que trata o Capítulo VI do Convênio ICMS 110/07, de 28 de setembro de 2007, mediante o programa previsto no § 2° da cláusula vigésima terceira do citado convênio;
-
-II - da cláusula trigésima primeira do Convênio ICMS 110/07, de 28 de setembro de 2007.”;
-
-II - o “ caput” da cláusula segunda:
-
-“Cláusula segunda Ficam instituídos os relatórios conforme modelos constantes nos Anexos I a VIII deste convênio, destinados a:”;
-
-III - a cláusula oitava :
-
-“Cláusula oitava Os relatórios a que se referem os modelos constantes nos Anexos I e VIII serão entregues pelo TRR, pela distribuidora e pelo importador, mensalmente, ainda que estes não tenham realizado operações interestaduais.
-
-§ 1º Os relatórios previstos no caput deverão ser entregues na forma e nos prazos previstos nas cláusulas terceira, quarta e sexta;
-
-§ 2º O relatório a que se refere o modelo constante no Anexo VIII deverá ser entregue apenas pela distribuidora.”;
-
-IV - o “ caput” da cláusula décima sexta:
-
-“Cláusula décima sexta O disposto neste convênio não prejudica a aplicação das demais disposições do Convênio ICMS 110/07, de 28 de setembro de 2007.”.
-
-Cláusula segunda Ficam acrescentados ao Convênio ICMS 54/02 , os seguintes dispositivos com as redações que se seguem:
-
-I - o inciso VIII à cláusula segunda:
-
-“VIII - Anexo VIII : demonstrar a movimentação de AEAC e apurar as saídas interestaduais de sua mistura à gasolina.”;
-
-II - o inciso VII à cláusula terceira:
-
-“VII - elaborar relatório da movimentação de AEAC realizada no mês, em 2 (duas) vias, de acordo com o modelo constante no Anexo VIII;”;
-
-III - o inciso VII à cláusula quarta:
-
-“VII - elaborar relatório da movimentação de AEAC realizada no mês, em 2 (duas) vias, de acordo com o modelo constante no Anexo VIII.”.
-
-Cláusula terceira Fica acrescentado ao Convênio ICMS 54/02 , o Anexo VIII, na forma do Anexo Único deste convênio.
-
-Cláusula quarta Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de julho de 2008.
-
-## Convênio ICMS 150/07, de 14 de dezembro de 2007
-
-## Anexo Único
-
-“ANEXO VIII - RELATÓRIO DE APURAÇÃO DAS SAÍDAS INTERESTADUAIS DE AEAC MISTURADA A GASOLINA
-
-Período.....: 0O/2007 ID: 000 Combustível: AEAC Categoria: DIS - DISTRIBUIDOR
-
-CNPJ........: 00.000.000/0000-00 Inscrição Estadual: 000000000000000
-
-Razão Social: DISTRIBUIDOR XXXXXXXXXXXXXXXX
-
-Endereço....: AVENIDA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX - XX CEP: 0000000000
-
-| QUADRO 1 - APURAÇÃO DA MÉDIA PONDERADA DO VALOR DA OPERAÇÃO |
-| H i s t ó r i c o | Qtd. AEAC | Qtd. AEAC Misturada | Vlr.Unit.Médio | Valor da Operação |
-| Estoque Inicial | 79.010,000 | /////////////////// | 1,910614 | 150.957,61 |
-| (+) Recebimentos (Entradas) | 190.000,000 | 188.000,000 | ////////////// | 361.000,00 |
-| (=) Sub-Total | 269.010,000 | /////////////////// | ////////////// | 511.957,61 |
-| Preço médio ponderado | /////////////////// | /////////////////// | 1,917372 | ////////////////// |
-| (+) Recebimentos (Devoluções) | 0,000 | 0,000 | ////////////// | ////////////////// |
-| (=) Total das Entradas | 269.010,000 | 267.010,000 | ////////////// | ////////////////// |
-| (-) Remessas (Saídas) | 40.000,000 | 39.600,000 | ////////////// | ////////////////// |
-| (-) Remessas (Devoluções) | 0,000 | 0,000 | ////////////// | ////////////////// |
-| (=) Total das Saidas | 40.000,000 | 39.600,000 | ////////////// | ////////////////// |
-| (-) Perdas | 0,000 | /////////////////// | ////////////// | ////////////////// |
-| (+) Ganhos | 10,000 | /////////////////// | ////////////// | ////////////////// |
-| (=) Estoque Final | 229.020,000 | /////////////////// | 1,917372 | 439.116,54 |
-
-| QUADRO 2 - RESUMO DOS RECEBIMENTOS DO PERÍODO CNPJ........: 00.000.000/0000-00 Inscrição Estadual: 000000000000000000 Inscrição Estadual ST: Razão Social: USINA XXXXXXXXXXXXXXXXX Endereço....: XXXXXXXXXXXX Municipio: XXXXXXX - XX CEP: 50000000 |
-| | Qtd. Total de Combustível | Valor Total da Operação |
-| | 10.000,000 | 9.800,000 |
-| TOTAL DO PERIODO | 10.000,00 | 9.800,000 |
-
-| QUADRO 3 - RELAÇÃO DAS REMESSAS REALIZADAS NO PERÍODO (SAIDAS) |
-| Operações destinadas | Qtd. AEAC | Qtd. AEAC Misturada à Gasolina |
-| Ao Própri o Estado XX | | |
-| Ao Exterior | 20.000,000 | 30.000,000 |
-| A UNIDADE FEDERADA YY | 20.000,000 | 20.000,000 |
-| A UNIDADE FEDERADA ZZ | 10.000,000 | 25.000,000 |
-| TOTAL DO PERIODO | 50.000,000 | 75.000,000 |
-
-| QUADRO 4 - APURAÇÃO DO IMPOSTO À SER RECOLHIDO |
-| UF Destinatária | Qtd. AEAC Misturada (SAIDA INTEREST) | Preço Médio | Base de Cálculo | Aliq. Interest | ICMS a Recolher |
-| YY | 20.000,000 | 1,2000 | 1,2000 | 12% | 10.000,000 |
-| ZZ | 25.000,000 | 1,2000 | 1,2000 | 7% | 11.000,000 |
-| TOTAL DO PERIODO | 45.000,000 | | | | 21.000,000 |
-| Declaro, na forma e sob as penas da lei, que as informações contidas neste relatório são a expressão da verdade e que as mesmas foram extraídas dos livros e documentos fiscais do contribuinte emitente. | Identificação do Signatário Nome: XXXXXXXXXXXXXXX CPF: 500.500 .500-52 RG: M500500 UF: XX |
-| Local e Data | VARZEA DA PALMA-MG 17/07/2007 15:25:22 | Cargo: MEGA CHEFE |
-| Assinatura do Responsável | | | | Fones: 03532176333 |
-| | | | | “ |

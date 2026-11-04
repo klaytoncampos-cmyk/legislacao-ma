@@ -1,3 +1,308 @@
+<<<DOC confaz/convenio/convenio-217-2023.md>>>
+---
+documento: "CONVÊNIO ICMS 217/23"
+tipo: convenio
+numero: 217
+ano: 2023
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV217_23
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 217/23
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 217, DE 21 DE DEZEMBRO DE 2023
+
+Publicado no DOU de 22.12.23, pelo despacho 82/23.
+
+Ratificação Nacional no DOU de 28.12.23, pelo Ato Declaratório 51/23.
+
+Alterado pelo Conv. ICMS 114/25, 23/26, 91/26, 98/26.
+
+Adesão do DF, pelo Conv. 98/26, efeitos a partir de 15.09.26.
+
+> Nova redação dada à ementa pelo Conv. ICMS 98/26, efeitos a partir de 15.09.26.
+
+Autoriza a remissão de crédito tributário de pequeno valor inscrito em dívida ativa, reduzir juros e multas previstos na legislação tributária, bem como a conceder parcelamento de crédito tributário, relacionados com o ICMS.
+
+> Redação original efeitos até 14.09.26.
+
+~~Autoriza o Estado de Goiás a remitir crédito tributário de pequeno valor inscrito em dívida ativa, reduzir juros e multas previstos na legislação tributária, bem como a conceder parcelamento de crédito tributário, relacionados com o ICMS.~~
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 386ª Reunião Extraordinária, realizada em Brasília, DF, no dia 21 de dezembro de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+> Nova redação dada ao caput da cláusula primeira pelo Conv. ICMS 98/26, efeitos a partir de 15.09.26.
+
+Cláusula primeira O Estado de Goiás e o Distrito Federal ficam autorizado a reduzir juros e multas relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 30 de setembro de 2025, inclusive os ajuizados, bem como a conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e nas demais normas previstas na legislação tributária estadual.
+
+Parágrafo único. O Estado de Goiás e o Distrito Federal ficam também autorizado a remitir crédito tributário inscrito em dívida ativa até 31 de dezembro de 2019, cujo montante apurado, por processo, antes da aplicação das reduções previstas neste convênio, não ultrapasse o valor de R$ 37.254,03 (trinta e sete mil duzentos e cinqüenta e quatro reais e três centavos)
+
+> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 23/26, efeitos de 03.03.26 a 14.09.26.
+
+~~Cláusula primeira O Estado de Goiás fica autorizado a reduzir juros e multas relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 30 de setembro de 2025, inclusive os ajuizados, bem como a conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e nas demais normas previstas na legislação tributária estadual.~~
+
+> Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 114/25, efeitos de 11.09.25 a 02.03.26.
+
+~~Cláusula primeira O Estado de Goiás fica autorizado a reduzir juros e multas relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 31 de março de 2025, inclusive os ajuizados, bem como a conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e nas demais normas previstas na legislação tributária estadual.~~
+
+~~Parágrafo único. O Estado de Goiás fica também autorizado a remitir crédito tributário inscrito em dívida ativa até 31 de dezembro de 2019, cujo montante apurado, por processo, antes da aplicação das reduções previstas neste convênio, não ultrapasse o valor de R$ 37.254,03 (trinta e sete mil duzentos e cinqüenta e quatro reais e três centavos).~~
+
+> Redação original, efeitos até 10.09.25.
+
+~~Cláusula primeira O Estado de Goiás fica autorizado a reduzir juros e multas relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 30 de junho de 2023, inclusive os ajuizados, bem como conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e as demais normas previstas na legislação tributária estadual.~~
+
+~~Parágrafo único. O Estado de Goiás fica também autorizado a remitir crédito tributário inscrito em dívida ativa até 31 de dezembro de 2018, cujo montante apurado, por processo, antes da aplicação das reduções previstas neste convênio, não ultrapasse o valor de R$ 35.537,57 (trinta e cinco mil quinhentos e trinta e sete reais e cinquenta e sete centavos).~~
+
+> Nova redação dada ao caput da cláusula segunda pelo Conv. ICMS 98/26, efeitos a partir de 15.09.25.
+
+Cláusula segunda O sujeito passivo, para usufruir os benefícios previstos neste convênio, deve promover a regularização do seu débito perante o Estado de Goiás e o Distrito Federal, nos termos da sua legislação tributária, cuja formalização é feita com a liquidação, total ou parcial do débito tributário, à vista ou da 1ª (primeira) parcela, que deve ocorrer no prazo máximo de 6 (seis) meses, contado da data fixada pela regulamentação em legislação estadual e distrital para o início da formalização.
+
+> Redação anterior dada ao caput da cláusula segunda pelo Conv. ICMS 114/25, efeitos de 11.09.25. a 14.09.26
+
+~~Cláusula segunda O sujeito passivo, para usufruir os benefícios previstos neste convênio, deve promover a regularização do seu débito perante o Estado de Goiás, nos termos da sua legislação tributária, cuja formalização é feita com a liquidação, total ou parcial do débito tributário, à vista ou da 1ª (primeira) parcela, que deve ocorrer no prazo máximo de 6 (seis) meses, contado da data fixada pela regulamentação em legislação estadual para o início da formalização.~~
+
+> Redação original, efeitos até 10.09.25.
+
+~~Cláusula segunda O sujeito passivo, para usufruir os benefícios previstos neste convênio, deve promover a regularização do seu débito perante o Estado de Goiás, nos termos da sua legislação tributária, cuja formalização é feita com a liquidação, total ou parcial do débito tributário, à vista ou da 1ª (primeira) parcela.~~
+
+> Renumerado o parágrafo único para §1º da cláusula segunda pelo Conv. ICMS 91/26, efeitos a partir de 31.07.26
+
+§1º A formalização do sujeito passivo, para a fruição da redução de que trata este convênio, implica o reconhecimento do respectivo débito tributário, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam, e da desistência de eventuais impugnações, defesas e recursos apresentados no âmbito administrativo ou judicial.
+
+> Redação original, efeitos até 30.07.26.
+
+~~Parágrafo único. A formalização do sujeito passivo, para a fruição da redução de que trata este convênio, implica o reconhecimento do respectivo débito tributário, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam, e da desistência de eventuais impugnações, defesas e recursos apresentados no âmbito administrativo ou judicial.~~
+
+> Acrescido o § 2º à cláusula segunda pelo Conv. ICMS 91/26, efeitos a partir de 31.07.26.
+
+§ 2º A opção do sujeito passivo e sua formalização pode ser estendida, pela legislação estadual, até o prazo máximo de 3 de novembro de 2026.
+
+Cláusula terceira Os créditos tributários consolidados para a quantificação do crédito tributário a ser liquidado terão redução de juros e multa de até:
+
+a) 99% (noventa e nove por cento) do seu valor, no pagamento à vista;
+
+b) 90% (noventa por cento) do seu valor, no pagamento em 2 (duas) a 12 (doze) parcelas;
+
+c) 80% (oitenta por cento) do seu valor, no pagamento em 13 (treze) a 24 (vinte e quatro) parcelas;
+
+d) 70% (setenta por cento) do seu valor, no pagamento em 25 (vinte e cinco) a 36 (trinta e seis) parcelas;
+
+e) 60% (sessenta por cento) do seu valor, no pagamento em 37 (trinta e sete) a 48 (quarenta e oito) parcelas;
+
+f) 50% (cinquenta por cento) do seu valor, no pagamento em 49 (quarenta e nove) a 60 (sessenta) parcelas;
+
+g) 40% (quarenta por cento) do seu valor, no pagamento em 61 (sessenta e uma) a 120 (cento e vinte) parcelas.
+
+> Renumerado o parágrafo único para §1º da cláusula terceira pelo Conv. ICMS 114/25, efeitos a partir de 11.09.25.
+
+§1º. Os créditos tributários decorrentes exclusivamente de penalidade pecuniária, por descumprimento de obrigações acessórias, terão redução de até:
+
+a) 90% (noventa por cento) do seu valor, no pagamento à vista;
+
+b) 80% (oitenta por cento) do seu valor, no pagamento em 2 (duas) a 12 (doze) parcelas;
+
+c) 70% (setenta por cento) do seu valor, no pagamento em 13 (treze) a 24 (vinte e quatro) parcelas;
+
+d) 60% (sessenta por cento) do seu valor, no pagamento em 25 (vinte e cinco) a 36 (trinta e seis) parcelas;
+
+e) 50% (cinquenta por cento) do seu valor, no pagamento em 37 (trinta e sete) a 48 (quarenta e oito) parcelas;
+
+f) 40% (quarenta por cento) do seu valor, no pagamento em 49 (quarenta e nove) a 60 (sessenta) parcelas;
+
+g) 30% (trinta por cento) do seu valor, no pagamento em 61 (sessenta e uma) a 120 (cento e vinte) parcelas.
+
+> Acrescido o § 2º à cláusula terceira pelo Conv. ICMS 114/25, efeitos a partir de 11.09.25.
+
+§ 2° Os créditos tributários consolidados devidos por empresário ou sociedade empresária em processo de recuperação judicial, bem como por contribuinte cuja falência tenha sido decretada judicialmente, terão redução de juros e multas de até:
+
+I – 95% (noventa e cinco por cento), para pagamento em até 48 (quarenta e oito) parcelas;
+
+II – 90% (noventa por cento), para pagamento em 49 (quarenta e nove) a 72 (setenta e duas) parcelas;
+
+III – 85% (oitenta e cinco por cento), para pagamento em 73 (setenta e três) a 96 (noventa e seis) parcelas;
+
+IV – 80% (oitenta por cento), para pagamento em 97 (noventa e sete) a 120 (cento e vinte) parcelas;
+
+V – 75% (setenta e cinco por cento), para pagamento em 121 (cento e vinte e uma) a 144 (cento e quarenta e quatro) parcelas;
+
+VI – 70% (setenta por cento), para pagamento em 145 (cento e quarenta e cinco) a 180 (cento e oitenta) parcelas.
+
+Cláusula quarta O disposto nesse convênio aplica-se inclusive a créditos tributários objetos de parcelamentos em curso.
+
+Cláusula quinta O disposto neste convênio não confere ao sujeito passivo beneficiado qualquer direito à restituição ou compensação das importâncias já pagas.
+
+Cláusula sexta Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
+<<<DOC confaz/convenio/convenio-218-2021.md>>>
+---
+documento: "CONVÊNIO ICMS 218/21"
+tipo: convenio
+numero: 218
+ano: 2021
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV218_21
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 218/21
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 218, DE 09 DE DEZEMBRO DE 2021
+
+Publicado no DOU de 13.12.21, pelo despacho 84/21.
+
+Ratificação Nacional no DOU de 29.12.21, pelo Ato Declaratório 38/21.
+
+Retificação publicada no DOU de 10.03.22.
+
+Altera o Convênio ICMS nº 87/02, que concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 183ª Reunião Ordinária, realizada em Brasília, DF, no dia 09 de dezembro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira Os itens 233 a 235 do Anexo Único do Convênio ICMS nº 87, de 28 de junho de 2002, passam a vigorar com as seguintes redações:
+
+“
+
+| Item | Fármacos | NCM | Medicamentos | NCM |
+| Fármacos | Medicamentos |
+| 233 | Insulina Degludeca | 2937.19.90 | 100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML (PENFILL) ATIVA | 3004.39.29 |
+| 100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML (PENFILL) ATIVA |
+| 100 U/ML SOL INJ CT 10 CAR VD TRANS X 3 ML (PENFILL) ATIVA |
+| 100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML X 1 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
+| 100 U/ML SOL INJ CT 2 CAR VD TRANS X 3 ML X 2 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
+| 100 U/ML SOL INJ CT 3 CAR VD TRANS X 3 ML X 3 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
+| 100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML X 5 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
+| 200 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML X 1 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
+| 200 U/ML SOL INJ CT 2 CAR VD TRANS X 3 ML X 2 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
+| 200 U/ML SOL INJ CT 3 CAR VD TRANS X 3 ML X 3 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
+| 200 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML X 5 SIST APLIC PLAS (FLEXTOUCH) ATIVA |
+| 234 | Insulina Glargina | 2937.12.00 | 100 UI/ML SOL INJ CT 1 CAR VD TRANS X 3 ML | 3004.39.29 |
+| 100 UI/ML SOL INJ CT 1 CAR VD TRANS X 3 ML + 1 CAN APLIC |
+| 100 UI/ML SOL INJ CT 1 CARP VD INC X 3 ML + 1 SIST APLIC 60 UI PLAS |
+| 100 UI/ML SOL INJ CT 1 CARP VD INC X 3 ML |
+| 100 UI/ML SOL INJ CT 1 CARP VD INC X 3 ML + 1 SIST APLIC 80 UI PLAS |
+| 100 UI/ML SOL INJ CT 1 FA VD TRANS X 10 ML |
+| 100 UI/ML SOL INJ CT 10 CAR VD TRANS X 3 ML |
+| 100 UI/ML SOL INJ CT 10 CARP VD INC X 3 ML |
+| 100 UI/ML SOL INJ CT 10 CARP VD INC X 3 ML + 10 SIST APLIC 60 UI PLAS |
+| 100 UI/ML SOL INJ CT 10 CARP VD INC X 3 ML + 10 SIST APLIC 80 UI PLAS |
+| 100 UI/ML SOL INJ CT 10 FA VD INC X 3 ML |
+| 100 UI/ML SOL INJ CT 2 CAR VD TRANS X 3 ML |
+| 100 UI/ML SOL INJ CT 2 CARP VD INC X 3 ML + 2 SIST APLIC 60 UI PLAS |
+| 100 UI/ML SOL INJ CT 2 CARP VD INC X 3 ML |
+| 100 UI/ML SOL INJ CT 2 CARP VD INC X 3 ML + 2 SIST APLIC 80 UI PLAS |
+| 100 UI/ML SOL INJ CT 3 CAR VD TRANS X 3 ML |
+| 100 UI/ML SOL INJ CT 3 CAR VD TRANS X 3ML + 3 CAN APLIC |
+| 100 UI/ML SOL INJ CT 3 FA VD INC X 3 ML |
+| 100 UI/ML SOL INJ CT 4 CAR VD TRANS X 3 ML |
+| 100 UI/ML SOL INJ CT 5 CAR VD TRANS 3 ML + 5 CAN APLIC |
+| 100 UI/ML SOL INJ CT 5 CAR VD TRANS X 3 ML |
+| 100 UI/ML SOL INJ CT 5 CAR VD TRANS X 3 ML + 5 CAN APLIC |
+| 100 UI/ML SOL INJ CT 5 CARP VD INC X 3 ML + 5 SIST APLIC 60 UI PLAS |
+| 100 UI/ML SOL INJ CT 5 CARP VD INC X 3 ML |
+| 100 UI/ML SOL INJ CT 5 CARP VD INC X 3 ML + 5 SIST APLIC 80 UI PLAS |
+| 100 UI/ML SOL INJ CT 5 FA VD INC X 10 ML |
+| 100 UI/ML SOL INJ CT 5 FA VD INC X 3 ML |
+| 100 UI/ML SOL INJ CT 5 FA VD TRANS X 10 ML |
+| 100 UI/ML SOL INJ CT CAR VD TRANS X 3 ML + 1 CAN APLIC |
+| 100 UI/ML SOL INJ CT CAR VD TRANS X 3 ML |
+| 100 UI/ML SOL INJ CT FA VD INC X 10 ML |
+| 100 UI/ML SOL INJ CT FA VD INC X 3 ML |
+| 100 UI/ML SOL INJ CT FA VD TRANS X 10 ML |
+| 300 U/ML SOL INJ CT 1 CAR VD TRANS X 1,5 ML + 1 CAN APLIC |
+| 300 U/ML SOL INJ CT 2 CAR VD TRANS X 1,5 ML + 2 CAN APLIC |
+| 300 U/ML SOL INJ CT 3 CAR VD TRANS X 1,5 ML + 3 CAN APLIC |
+| 300 U/ML SOL INJ CT 4 CAR VD TRANS X 1,5 ML + 4 CAN APLIC |
+| 300 U/ML SOL INJ CT 5 CAR VD TRANS X 1,5 ML + 5 CAN APLIC |
+| 235 | Insulina Detemir | 2937.19.90 | 100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML (PENFILL) ATIVA | 3004.39.29 |
+| 100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML (PENFILL) ATIVA |
+| 100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML X 1 SIST APLIC PLAS (FLEXPEN) ATIVA |
+| 100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML X 5 SIST APLIC PLAS (FLEXPEN) ATIVA |
+
+” .
+
+Cláusula segunda Os itens 244 a 267 ficam acrescidos ao Anexo Único do Convênio ICMS nº 87/02, com as seguintes redações:
+
+“
+
+| Item | Fármacos | NCM | Medicamentos | NCM |
+| Fármacos | Medicamentos |
+| 244 | Abacavir | 2922.50.99 | 300 mg - comprimido revestido 200 mg/ml Solução oral - frasco | 3003.90.78 3004.90.68 |
+| 245 | Atazanavir | 2933.39.99 | 200 mg - cápsula gelatinosa dura 300 mg - cápsula gelatinosa dura | 3003.90.78 3004.90.68 |
+| 246 | Darunavir | 2935.90.29 | 75 mg - comprimido 150 mg - comprimido 600 mg - comprimido 800 mg - comprimido | 3003.90.89 3004.90.79 |
+| 247 | Dolutegravir | 2924.29.99 | 50 mg - comprimido revestido | 3003.90.59 3004.90.49 |
+| 248 | Efavirenz | 2933.39.99 | 200 mg - Cápsula gelatinosa dura 600 mg - Comprimido revestido 30 mg/ml Solução oral - Frasco | 3003.90.88 3004.90.78 |
+| 249 | Enfuvirtida | 2933.29.99 | 108 mg (90 mg/ml após reconstituição) - Pó para solução injetável | 3003.90.78 3004.90.68 |
+| 250 | Entricitabina + Tenofovir | 2934.99.29 (Entricitabina) 2933.59.49 (Tenofovir) | Entricitabina 200 mg + tenofovir 300 mg - comprimido revestido | 3003.90.99 3004.90.99 |
+| 251 | Estavudina | 2934.99.27 | 1 mg/ml solução oral - Frasco | 3003.90.89 3004.90.79 |
+| 252 | Etravirina | 2933.59.29 | 100 mg - comprimido 200 mg - comprimido | 3003.90.79 3004.90.69 |
+| 253 | Fosamprenavir | 2935.90.29 | 50 mg/ml - Suspensão oral - Frasco | 3003.90.88 3004.90.78 |
+| 254 | Lamivudina | 2934.99.93 | 150 mg - Comprimido revestido 10 mg/ml Solução oral - Frasco de 240 ml | 3003.90.89 3004.90.79 |
+| 255 | Lamivudina + Zidovudina | 2934.99.93 (Lamivudina) 2934.99.22 (Zidovudina) | Lamivudina 150mg + zidovudina 300mg - Comprimido revestido | 3003.90.89 3004.90.79 |
+| 256 | Lopinavir + ritonavir | 2933.59.49 (Lopinavir) 2934.99.99 (Ritonavir) | Lopinavir 100mg + ritonavir 25mg - Comrpimido revestido Lopinavir 80mg/mL + ritonavir 20mg/mL - Solução Oral - Frasco Lopinavir 200 mg + ritonavir 50mg - Comprimido revestido | 3003.90.99 3004.90.99 |
+| 257 | Maraviroque | 2924.29.99 | 150 mg - Comprimido revestido | 3003.90.79 3004.90.69 |
+| 258 | Nevirapina | 2934.99.99 | 200 mg - Comprimido simples 10 mg/ml Suspensão oral - Frasco | 3003.90.78 3004.90.68 |
+| 259 | Raltegravir | 2924.29.99 | 100 mg - Comprimido mastigável 400 mg - Comprimido revestido | 3003.90.89 3004.90.79 |
+| 260 | Ritonavir | 2934.99.99 | 100 mg - Comprimido revestido 80 mg/ml Solução oral - Frasco | 3003.90.88 3004.90.78 |
+| 261 | Tenofovir | 2933.59.49 | 300 mg - Comprimido revestido | 3003.90.78 3004.90.68 |
+| 262 | Tenofovir + lamivudina | 2933.59.49 (Tenofovir) 2934.99.93 (Lamivudina) | Tenofovir 300 mg + lamivudina 300 mg - Comprimido revestido | 3003.90.99 3004.90.99 |
+| 263 | Tenofovir + lamivudina + efavirenz | 2933.59.49 (Tenofovir) 2934.99.93 (Lamivudina) 2933.39.99 (Efavirenz) | Tenofovir 300 mg + lamivudina 300 mg + efavirenz 600mg - Comprimido | 3003.90.99 3004.90.99 |
+| 264 | Tipranavir | 2935.90.99 | 100 mg/ml Solução oral - frasco 250 mg - Cápsula gelatinosa mole | 3003.90.88 3004.90.78 |
+| 265 | Zidovudina (AZT) | 2934.99.22 | 100 mg - Cápsula gelatinosa dura 10 mg/ml Solução injetável - Frasco-ampola 10 mg/ml Xarope - Frasco | 3003.90.89 3004.90.79 |
+| 266 | Antimoniato de Meglumina | 2922.19.99 | 300 mg/ml - Solução injetável | 3004.90.39 |
+| 267 | Aflibercepte | 3002.13.00 | 40 mg/ml - Solução inc ivit ct 1 fa vd trans x 0,2278 ml + AGU | 3002.15.90 |
+
+”.
+
+Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2023.
+
+RETIFICAÇÃO
+
+Publicado no DOU de 10.03.22
+
+No item 267 da cláusula segunda do Convênio ICMS nº 218, de 9 de dezembro de 2021, publicado no DOU de 13 de dezembro de 2021, Seção 1, páginas 39 e 40, onde se lê: “Afibercepte”; leia-se: “Aflibercepte”.
+
+CARLOS HENRIQUE DE AZEVEDO OLIVEIRA
+
+Diretor da Secretaria-Executiva do CONFAZ
+<<<DOC confaz/convenio/convenio-218-2023.md>>>
+---
+documento: "CONVÊNIO ICMS 218/23"
+tipo: convenio
+numero: 218
+ano: 2023
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV218_23
+extraido_em: "2026-11-04"
+---
+
+# CONVÊNIO ICMS 218/23
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 218, DE 21 DE DEZEMBRO DE 2023
+
+Publicado no DOU de 22.12.23, pelo despacho 82/23.
+
+Ratificação Nacional no DOU de 28.12.23, pelo Ato Declaratório 51/23.
+
+Altera o Convênio ICM nº 44/75 que, dispõe sobre a isenção de produtos hortifrutigranjeiros.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 386ª Reunião Extraordinária, realizada em Brasília, DF, no dia 21 de dezembro de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira O § 2º-A fica acrescido à cláusula primeira do Convênio ICM nº 44, de 10 de dezembro de 1975, com a seguinte redação:
+
+“§ 2º-A Os Estados do Acre, Alagoas, Rio Grande do Sul e Santa Catarina ficam autorizados a não aplicar o disposto no § 2º.”.
+
+Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
 <<<DOC confaz/convenio/convenio-219-2023.md>>>
 ---
 documento: "CONVÊNIO ICMS 219/23"
@@ -6,7 +311,7 @@ numero: 219
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV219_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 219/23
@@ -52,7 +357,7 @@ numero: 220
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV220_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 220/19
@@ -172,7 +477,7 @@ numero: 223
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV223_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 223/21
@@ -204,7 +509,7 @@ numero: 224
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV224_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 224/19
@@ -244,7 +549,7 @@ numero: 224
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV224_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 224/21
@@ -366,7 +671,7 @@ numero: 225
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV225_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 225/21
@@ -406,7 +711,7 @@ numero: 225
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV225_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 225/23
@@ -436,7 +741,7 @@ numero: 226
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV226_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 226/21
@@ -470,7 +775,7 @@ numero: 226
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV226_23
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 226/23
@@ -1016,7 +1321,7 @@ numero: 228
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV228_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 228/17
@@ -1046,7 +1351,7 @@ numero: 228
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV228_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 228/19
@@ -1142,7 +1447,7 @@ numero: 228
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV228_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 228/21
@@ -1176,7 +1481,7 @@ numero: 230
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV230_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 230/17
@@ -1208,7 +1513,7 @@ numero: 230
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV230_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 230/21
@@ -1240,7 +1545,7 @@ numero: 231
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV231_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 231/17
@@ -1270,7 +1575,7 @@ numero: 232
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV232_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 232/17
@@ -1302,7 +1607,7 @@ numero: 234
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV234_17
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 234/17
@@ -1453,7 +1758,7 @@ numero: 234
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV234_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 234/19
@@ -1483,7 +1788,7 @@ numero: 235
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV235_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 235/19
@@ -1513,7 +1818,7 @@ numero: 236
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV236_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 236/19
@@ -1543,7 +1848,7 @@ numero: 236
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV236_21
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # CONVÊNIO ICMS 236/21
@@ -1649,7 +1954,7 @@ numero: 240
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV240_19
-extraido_em: "2026-10-30"
+extraido_em: "2026-11-04"
 ---
 
 # Convênio ICMS 240/19
