@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: vinhos, espumantes e fermentados"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-04"
+gerado_em: "2026-11-05"
 portarias: 11
 registros: 410
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2020.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-04**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (387)
@@ -2795,7 +2795,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: cimento"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-04"
+gerado_em: "2026-11-05"
 portarias: 22
 registros: 128
 ---
@@ -2809,7 +2809,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2011.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-04**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (21)
@@ -3174,7 +3174,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: madeira: em tora, serrada, beneficiada e para cerca"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-04"
+gerado_em: "2026-11-05"
 portarias: 15
 registros: 2587
 ---
@@ -3188,7 +3188,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2008.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-04**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (325)
@@ -3530,7 +3530,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | código | descrição | unid. | último valor (R$) | desde | portaria | motivo |
 |---|---|---|---|---|---|---|
 
-## Superados (105)
+## Superados (110)
 
 | código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
 |---|---|---|---|---|
@@ -3538,6 +3538,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Aduelas / portais / bat. ipê de 1ª | 1067,00 | 2015-03-26 | não consta das relações completas das Portarias nº 8/2016 (2016-01-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Aduelas / portais / bat. ipê de 2ª | 903,00 | 2015-03-26 | não consta das relações completas das Portarias nº 8/2016 (2016-01-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | aduelas / portais / bat. ipê de primeira | 824,72 | 2008-02-22 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48871 | Aduelas / portais / bat. ipê de segunda | 1.117,73 | 2020-10-29 | o mesmo código e produto aparece depois como "Aduelas / portais / batedor ipê de segunda" (Portaria nº 495/2024, 2024-12-03) |
 | — | aduelas / portais / bat. Mad. de segunda | 491,66 | 2008-02-22 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Angelim | 1000,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Aproveitamento caibro | 800,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
@@ -3585,6 +3586,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Estaca de massar/inhauma | 5,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Estaca de massar/inhauma lapid. | 7,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Esticador de aroeira 2,5 m | 10,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48871 | iduelas / portais / bat. ipê de segunda | 962,53 | 2016-01-21 | o mesmo código e produto aparece depois como "Aduelas / portais / bat. ipê de segunda" (Portaria nº 294/2020, 2020-10-29) |
 | — | Ipê | 1800,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | 02093 | jatobá | 373,08 | 2016-01-21 | substituído pelo código 49744 (Jatobá) a partir de 2017-02-21; valeu até 2017-02-20 |
 | — | Jatobá | 350,00 | 2015-03-26 | substituído pelo código 02093 (jatobá) a partir de 2016-01-21; valeu até 2016-01-20 |
@@ -3629,11 +3631,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48871 | Portas comercial Ipê 2,10m/0,70cm | 68,33 | 2020-10-29 | substituído pelo código 02137 (Portas comercial Ipê 2,10m/0,70cm) a partir de 2021-06-14; valeu até 2021-06-13 |
 | — | portas lisas (comoensados) | 26,00 | 2008-02-22 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | portas lisas (comoensados)comercial | 22,50 | 2008-02-22 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 02019 | portas lisas compensados | 38,37 | 2016-01-21 | o mesmo código e produto aparece depois como "Portas lisas compensadas" (Portaria nº 495/2024, 2024-12-03) |
 | — | Sucupira | 800,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Tabua Construção Civil | 55,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | taco ipê | 31,00 | 2008-02-22 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | 48869 | Tamboril tábuas | 495,12 | 2020-10-29 | substituído pelo código 47651 (Tamboril tábuas) a partir de 2021-06-14; valeu até 2021-06-13 |
 | 2099 | Tamboril Vigas ( linhas) | 476,55 | 2020-10-29 | substituído pelo código 02135 (Tamboril Vigas ( linhas)) a partir de 2021-06-14; valeu até 2021-06-13 |
+| 48869 | Tamburil tábuas | 426,37 | 2016-01-21 | o mesmo código e produto aparece depois como "Tamboril tábuas" (Portaria nº 294/2020, 2020-10-29) |
+| 02099 | Tamburil Vigas ( linhas) | 410,38 | 2016-01-21 | o mesmo código e produto aparece depois como "Tamboril Vigas ( linhas)" (Portaria nº 294/2020, 2020-10-29) |
 | — | Tatajuba | 900,00 | 2015-03-26 | não consta das relações completas das Portarias nº 120/2017 (2017-02-21) e nº 495/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | 48838 | Tatajuba Aproveitamento | 906,96 | 2021-06-14 | substituído pelo código 52215 (Tatajuba Aproveitamento) a partir de 2023-04-19; valeu até 2023-04-18 |
 | 48627 | Tatajuba Caibros | 1036,53 | 2021-06-14 | substituído pelo código 52214 (Tatajuba Caibros) a partir de 2023-04-19; valeu até 2023-04-18 |
@@ -3667,6 +3672,15 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2008-02-22 (assin.) | 2008-02-22 | alterar | 824,72 |  | m³ | aduelas / portais / bat. ipê de primeira | Port. 146/2008 |
+
+### Aduelas / portais / bat. ipê de segunda (código 48871)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-02-22 (assin.) | 2008-02-22 | alterar | 697,84 |  | m³ | aduelas / portais / bat. ipê de segunda | Port. 146/2008 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.026,92 | +47.2% | m³ | Aduelas / portais / bat. ipê de segunda | Port. 120/2017 |
+| 2018-11-14 (pub.) | 2018-11-09 | alterar | 1055,79 | +2.8% | m³ | Aduelas / portais / bat. ipê de segunda | Port. 388/2018 |
+| 2020-10-29 (pub.) | 2020-10-27 | alterar | 1.117,73 | +5.9% | m³ | Aduelas / portais / bat. ipê de segunda | Port. 294/2020 |
 
 ### aduelas / portais / bat. Mad. de segunda (código —)
 
@@ -3721,12 +3735,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2008-02-22 (assin.) | 2008-02-22 | alterar | 697,84 |  | m³ | aduelas / portais / bat. ipê de segunda | Port. 146/2008 |
-| 2016-01-21 (pub.) | 2016-01-08 | alterar | 962,53 | +37.9% | m³ | iduelas / portais / bat. ipê de segunda ⚠ | Port. 8/2016 |
-| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.026,92 | +6.7% | m³ | Aduelas / portais / bat. ipê de segunda ⚠ | Port. 120/2017 |
-| 2018-11-14 (pub.) | 2018-11-09 | alterar | 1055,79 | +2.8% | m³ | Aduelas / portais / bat. ipê de segunda | Port. 388/2018 |
-| 2020-10-29 (pub.) | 2020-10-27 | alterar | 1.117,73 | +5.9% | m³ | Aduelas / portais / bat. ipê de segunda | Port. 294/2020 |
-| 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.169,98 | +4.7% | m³ | Aduelas / portais / batedor ipê de segunda ⚠ | Port. 209/2021 |
+| 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.169,98 |  | m³ | Aduelas / portais / batedor ipê de segunda | Port. 209/2021 |
 | 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.330,80 | +13.7% | m³ | Aduelas / portais / batedor ipê de segunda | Port. 160/2023 |
 | 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.341,00 | +0.8% | m³ | Aduelas / portais / batedor ipê de segunda | Port. 480/2023 |
 | 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.404,81 | +4.8% | m³ | Aduelas / portais / batedor ipê de segunda | Port. 495/2024 |
@@ -5748,6 +5757,12 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2023-12-04 (pub.) | 2023-10-30 | alterar | 809,00 | +0.8% | m³ | Guanandi Vigotas | Port. 480/2023 |
 | 2024-12-03 (pub.) | 2024-11-25 | alterar | 847,49 | +4.8% | m³ | Guanandi Vigotas | Port. 495/2024 |
 
+### iduelas / portais / bat. ipê de segunda (código 48871)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 962,53 |  | m³ | iduelas / portais / bat. ipê de segunda | Port. 8/2016 |
+
 ### Ipê (código 2092)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -7504,15 +7519,20 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-03-26 (assin.) | 2015-03-26 | alterar | 36,00 |  | m² | Portas lisas (compensados) | Port. 189/2015 |
-| 2016-01-21 (pub.) | 2016-01-08 | alterar | 38,37 | +6.6% | m² | portas lisas compensados | Port. 8/2016 |
-| 2017-02-21 (pub.) | 2017-02-16 | alterar | 40,94 | +6.7% | m² | Portas lisas compensadas ⚠ | Port. 120/2017 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 40,94 |  | m² | Portas lisas compensadas | Port. 120/2017 |
 | 2018-11-14 (pub.) | 2018-11-09 | alterar | 42,09 | +2.8% | m² | Portas lisas compensadas | Port. 388/2018 |
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 44,56 | +5.9% | m² | Portas lisas compensadas | Port. 294/2020 |
 | 2021-06-14 (pub.) | 2021-06-07 | alterar | 46,64 | +4.7% | m² | Portas lisas compensadas | Port. 209/2021 |
 | 2023-04-19 (pub.) | 2023-04-11 | alterar | 53,05 | +13.7% | m² | Portas lisas compensadas | Port. 160/2023 |
 | 2023-12-04 (pub.) | 2023-10-30 | alterar | 54,00 | +1.8% | m² | Portas lisas compensadas | Port. 480/2023 |
 | 2024-12-03 (pub.) | 2024-11-25 | alterar | 56,57 | +4.8% | m² | Portas lisas compensadas | Port. 495/2024 |
+
+### portas lisas compensados (código 02019)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-03-26 (assin.) | 2015-03-26 | alterar | 36,00 |  | m² | Portas lisas (compensados) | Port. 189/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 38,37 | +6.6% | m² | portas lisas compensados | Port. 8/2016 |
 
 ### Portas lisas compensados comerciais (código 2120)
 
@@ -8040,8 +8060,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2016-01-21 (pub.) | 2016-01-08 | alterar | 426,37 |  | m³ | Tamburil tábuas | Port. 8/2016 |
-| 2017-02-21 (pub.) | 2017-02-16 | alterar | 454,89 | +6.7% | m³ | Tamboril tábuas ⚠ | Port. 120/2017 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 454,89 |  | m³ | Tamboril tábuas | Port. 120/2017 |
 | 2018-11-14 (pub.) | 2018-11-09 | alterar | 467,68 | +2.8% | m³ | Tamboril tábuas | Port. 388/2018 |
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 495,12 | +5.9% | m³ | Tamboril tábuas | Port. 294/2020 |
 
@@ -8058,10 +8077,21 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2016-01-21 (pub.) | 2016-01-08 | alterar | 410,38 |  | m³ | Tamburil Vigas ( linhas) | Port. 8/2016 |
-| 2017-02-21 (pub.) | 2017-02-16 | alterar | 437,83 | +6.7% | m³ | Tamboril Vigas ( linhas) ⚠ | Port. 120/2017 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 437,83 |  | m³ | Tamboril Vigas ( linhas) | Port. 120/2017 |
 | 2018-11-14 (pub.) | 2018-11-09 | alterar | 450,14 | +2.8% | m³ | Tamboril Vigas ( linhas) | Port. 388/2018 |
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 476,55 | +5.9% | m³ | Tamboril Vigas ( linhas) | Port. 294/2020 |
+
+### Tamburil tábuas (código 48869)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 426,37 |  | m³ | Tamburil tábuas | Port. 8/2016 |
+
+### Tamburil Vigas ( linhas) (código 02099)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 410,38 |  | m³ | Tamburil Vigas ( linhas) | Port. 8/2016 |
 
 ### Tatajuba (código 49082)
 
@@ -8405,7 +8435,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: materiais de construção: lajotas, telhas, tijolos, blocos, areia, barro, pedras, gesso, mármores e granitos"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-04"
+gerado_em: "2026-11-05"
 portarias: 30
 registros: 1167
 ---
@@ -8419,7 +8449,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-04**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (131)

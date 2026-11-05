@@ -1,9 +1,4137 @@
+<<<DOC valores/agricultura.md>>>
+---
+documento: "Tabela de Valores de Referência: produtos agrícolas (Grupo 01: arroz, feijão, farinhas, macarrão, biscoitos, babaçu, milho, soja, sementes, mel, castanhas, carvão e outros)"
+tipo: valores-de-referencia
+orgao: SEFAZ-MA
+gerado_em: "2026-11-05"
+portarias: 60
+registros: 2069
+---
+
+# Tabela de Valores de Referência (ICMS): produtos agrícolas (Grupo 01: arroz, feijão, farinhas, macarrão, biscoitos, babaçu, milho, soja, sementes, mel, castanhas, carvão e outros)
+
+Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram ou excluem itens da Tabela de Valores de Referência (fundamento citado nas portarias: § 8º do art. 13 da Lei 7.799/2002). Conferido contra os PDFs por revisão independente em 2026-11-05; atualizações posteriores a essa data não foram revisadas manualmente. **Confira na portaria (link) antes de usar em lançamento.**
+
+- **Vigência desde** = data em que a portaria passou a valer: "efeitos a partir de", quando houver; senão a **publicação** no DOE (as portarias entram em vigor na publicação; republicação por incorreção vale da republicação); na falta das duas, a assinatura.
+- **Código** = o da própria tabela da SEFAZ (as portarias trazem código desde 2017, com exceções). A SEFAZ às vezes **troca o código** do mesmo produto e **reaproveita** códigos de outras categorias (aqui: 19918, 35001, 48258, 48484, 48576, 48584, 48615, 48648, 48809, 48961, 50369, 50370, 50371, 50372, 50373, 50374, 50375, 50376, 50377, 50378, 50379, 50380, 50381, 50382, 50383, 7001 também designam produtos de outras categorias em outras portarias); por isso o histórico liga códigos e descrições com cuidado e sinaliza mudanças de descrição.
+- Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
+- **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
+- **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
+- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
+
+## Valores vigentes (228)
+
+Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca de código e sem ausência em relação completa posterior.
+
+| código | descrição | unid. | valor (R$) | vigência desde | portaria |
+|---|---|---|---|---|---|
+| 51312 | 25kg Mel de Abelha In Natura – Balde |  | 187,45 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 27003 | 25kg Mel de Abelho Beneficiado – Balde | kg | 541,97 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51313 | 280L Mel de Abelha Beneficiado - Tambor |  | 8.801,064 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51314 | 280L Mel de Abelha In Natura – Tambor |  | 3.959,865 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 5001 | @ algodão em caroço |  | 37,17 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49801 | @ algodão em pluma |  | 87,07 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50372 | Algodão em Caroço | Kg | 0,80 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50374 | Algodão em Caroço | Ton | 796,45 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50373 | Algodão em Pluma | Kg | 1,01 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50375 | Algodão em Pluma | Ton | 1.008,84 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48488 | Amêndoa de Coco babaçu | Kg | 2,02 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50223 | Amêndoa de Coco babaçu | Ton | 1.943,66 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19918 | Amendoim Beneficiado | kg | 9,34 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7003 | Amendoim Inatura com Casca | Kg | 5,73 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48932 | Arroz beneficiado Agulhinha tipo - 1 - 30 kg | Fd | 78,58 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48931 | Arroz beneficiado Agulhinha tipo - 1 -60 kg | Sc | 157,17 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48934 | Arroz beneficiado Agulhinha tipo - 2 - 30 kg | Fd | 64,78 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48933 | Arroz beneficiado Agulhinha tipo - 2 - 60 Kg | sc | 129,50 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48926 | Arroz beneficiado Comum - 30 kg | Fd | 47,79 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 10005 | Arroz beneficiado comum - 60 Kg | Sc | 100,88 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48928 | Arroz beneficiado Comum longo tipo - 1 - 30 kg | Fd | 71,15 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48927 | Arroz beneficiado Comum longo tipo - 1 - 60 kg | Sc | 142,30 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48930 | Arroz beneficiado comum longo tipo - 2 - 30 kg | Fd | 65,84 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48929 | Arroz beneficiado Comum longo tipo - 2 - 60 Kg | Sc | 131,68 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48936 | Arroz beneficiado Comum quebrado - 30 kg | Fd | 41,41 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48935 | Arroz beneficiado Comum quebrado - 60 kg | Sc | 82,83 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48938 | Arroz beneficiado Parbolizado - 30 kg | Fd | 84,96 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48937 | Arroz beneficiado Parbolizado - 60 kg | Sc | 169,91 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48941 | Arroz com casca | Kg | 0,90 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48433 | Arroz comum com casca - 60 kg | Sc | 54,16 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48425 | Arroz comum longo com casca - 60 kg | Sc | 79,65 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48939 | Arroz xerém - 30 kg | Fd | 38,33 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 10002 | Arroz xerém - 60 kg | Sc | 76,67 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47065 | Biscoito Cream Cracker - 200 g | g | 2,82 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47064 | Biscoito Cream Cracker - 400 g | g | 4,15 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47570 | Biscoito de Leite - 200 g | g | 2,21 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47068 | Biscoito de Leite - 400 g | g | 4,30 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47074 | Biscoito Doce - 100 g | g | 1,86 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47072 | Biscoito Doce - 400 g | g | 3,89 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47073 | Biscoito Doce -200 g | g | 3,89 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47067 | Biscoito Maria - 200 g | g | 2,21 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47066 | Biscoito Maria - 400 g | g | 4,21 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 45607 | Biscoito Salgado - 100 g | g | 2,28 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47744 | Biscoito Salgado - 400 g | g | 3,75 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 45609 | Biscoito Salgado Sortido - 100 g | g | 4,35 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50232 | Briquete de Coco Babaçu ( Mesocarpo ) | Kg | 0,47 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50233 | Briquete de Coco Babaçu ( Mesocarpo ) | Ton | 435,18 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48584 | Café em grãos bebida fina cru | Kg | 6,69 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48251 | Café em grãos bebida fina cru - 60Kg | Sc | 402,91 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48533 | Café em grãos conilon cru | Kg | 3,48 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48252 | Café em grãos conilon cru - 60Kg | Sc | 204,93 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 5002 | Caroço de algodão | Kg | 0,90 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50371 | Caroço de Algodão | Ton | 902,65 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48253 | Carvão de casca de babaçu - op. interestadual | m3 | 343,17 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48253 | Carvão de casca de babaçu - op. Interna | m3 | 190,73 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48510 | Carvão vegetal - Operação Interestadual | m3 | 343,17 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48510 | Carvão vegetal - Operação Interna | m3 | 190,73 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7002 | Casca de Coco babaçu | m3 | 18,55 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50226 | Casca de Coco Babaçu | Kg | 0,26 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50227 | Casca de Coco Babaçu | Ton | 232,13 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51205 | Castanha de Caju In Natura com Casca | Kg | 3,14 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51610 | Castanha de Caju In Natura com Casca | Ton | 3.140,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51206 | Castanha de Caju In Natura sem Casca | Kg | 57,98 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51611 | Castanha do Caju In Natura sem Casca | Ton | 57.980,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51207 | Castanha do Pará In Natura com Casca | Kg | 64,10 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51612 | Castanha do Pará In Natura com Casca | Ton | 64.100,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51208 | Castanha do Pará In Natura sem Casca | Kg | 70,05 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51613 | Castanha do Pará In Natura sem Casca | Ton | 70.050,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48074 | Cera de Carnaúba em pó | Kg | 2,34 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48075 | Cera de Carnaúba em pó | Ton | 2.340,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48076 | Cera de Carnaúba em pó olho da Palha | Kg | 3,18 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48077 | Cera de Carnaúba em pó olho da Palha | Ton | 3.180,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48079 | Cera de Carnaúba Flor Branca | Kg | 7,44 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48080 | Cera de Carnaúba Flor Branca | Ton | 7.440,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48081 | Cera de Carnaúba Flor Parda | Kg | 6,90 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48082 | Cera de Carnaúba Flor Parda | Ton | 6.900,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50224 | Coco Babaçu com Casca | Kg | 0,68 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50225 | Coco Babaçu com Casca | Ton | 188,59 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49805 | Cravinho ( Cravo ) (⚠ este código já designou: Cravim) | Kg | 57,20 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48940 | Cuim de arroz | Kg | 0,69 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48149 | Cuim de arroz - 60 kg | Sc | 41,41 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48209 | Cumim | Kg | 46,87 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50234 | Endocarpo de Coco Babaçu | Kg | 0,53 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50235 | Endocarpo de Coco Babaçu | Ton | 435,18 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 6004 | Erva doce | Kg | 21,44 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48913 | Farelo de Soja | Kg | 1,38 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49133 | Farelo de Soja | Ton | 1.380,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48962 | Farelo de Soja - 30 Kg | Sc | 41,41 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49784 | Farelo e torta de babaçu | Kg | 0,61 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19002 | Farinha branca de primeira - 50 kg | Kg | 139,98 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19001 | Farinha branca de primeira -30 kg | Kg | 90,42 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19004 | Farinha branca de segunda - 30 kg | Kg | 62,28 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48809 | Farinha branca de segunda -50kg | Kg | 98,44 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19007 | Farinha d'agua de primeira - 30 kg | Kg | 94,44 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19008 | Farinha d'agua de primeira - 50kg | Kg | 144,93 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19009 | Farinha d'agua de segunda - 30kg | Kg | 82,91 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19010 | Farinha d'agua de segunda - 50kg | Kg | 111,17 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19005 | Farinha d'agua especial - biriba - 30kg | Kg | 113,19 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48490 | Farinha d'agua especial - biriba - 50 kg | Kg | 150,02 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50230 | Farinha de Coco Babaçu | Kg | 0,87 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50231 | Farinha de Coco Babaçu | Ton | 870,29 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 35001 | Farinha de tapioca (goma) – 60 kg | sc | 89,99 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48540 | Farinha de trigo comum - 1 kg | Kg | 2,95 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48607 | Farinha de trigo comum - 10 kg | Kg | 34,09 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19013 | Farinha de trigo comum - 2 kg | Kg | 5,76 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48606 | Farinha de trigo Comum - 25 kg | Kg | 94,57 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19012 | Farinha de trigo comum - 50 kg | Kg | 189,66 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48612 | Farinha de trigo comum a granel | Ton | 3.278,83 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49615 | Farinha de trigo especial - 1 kg | Kg | 4,02 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48537 | Farinha de trigo especial - 2 kg | Kg | 7,71 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48616 | Farinha de trigo especial - 25 kg | Kg | 102,74 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 19014 | Farinha de trigo especial - 50 kg | Kg | 194,22 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48613 | Farinha de trigo especial a granel | Ton | 3.446,52 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48611 | Farinha de trigo especial com fermento 10 Kg | Fd | 54,36 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48617 | Farinha de trigo especial sem fermento 10 kg | Fd | 51,94 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 52860 | Farinha de trigo integral - 25 kg | Sc | 144,94 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48618 | Farinha de trigo pré mistura/ Aditivada - 25 kg | Sc | 91,34 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48609 | Farinha de trigo pré mistura/Aditivada - 50 kg | Sc | 147,60 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48614 | Farinha de trigo pré mistura/Aditivada a Granel | Ton | 3.755,41 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49817 | Fava branca comum | Kg | 3,22 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49818 | Fava branca comum 60 kg | Kg | 188,87 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 44001 | Fava danta | Kg | 4,69 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 44003 | Fava muncuna | Kg | 6,96 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23001 | Feijão branco - 60 Kg | Sc | 103,26 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23002 | Feijão carioquinha - 60 Kg | Sc | 226,04 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48720 | Feijão Caupi - 60 Kg | Sc | 82,51 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23003 | Feijão macassar corda - 60 kg | Sc | 155,04 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23004 | Feijão manteiga - 60 Kg | Sc | 167,16 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23005 | Feijão moitinha - 60 Kg | Sc | 186,46 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23006 | Feijão mulata gorda - 60 Kg | Sc | 259,39 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48792 | Feijão nova era - 60 Kg | Sc | 82,51 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48718 | Feijão Pingo de Ouro - 60 Kg | Sc | 82,51 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23008 | Feijão preto - 60 Kg | Sc | 245,46 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23009 | Feijão quebra cadeira - 60 Kg | Sc | 179,62 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 23010 | Feijão sempre verde - 60 Kg | Sc | 159,40 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49812 | Feijão vermelho - 60 Kg | Sc | 239,36 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50369 | Folha de Louro | Kg | 26,80 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 17002 | Fumo em corda | Kg | 12,46 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 17003 | Fumo picado | Kg | 11,92 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48256 | Gergelim | Kg | 10,72 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48897 | Jaborandi folha seca | Kg | 6,32 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48896 | Jaborandi folha verde | Kg | 6,16 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48699 | Látex Coagulo – Interestadual | kg | 3,75 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48700 | Látex Coagulo – Interno | kg | 3,01 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48701 | Látex Geb - 1 – Interestadual | kg | 11,18 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48702 | Látex Geb - 1 – Interno | kg | 8,70 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48269 | Látex natural cernambi | kg | 6,42 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48270 | Lenha comum | m3 | 27,06 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47490 | Lenha eucalipto | m3 | 40,19 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 52505 | Macarrão de Sopa Argolinha - 500 g | g | 4,69 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49806 | Macarrão de Sopa Conchas - 200 g | g | 1,81 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49828 | Macarrão de Sopa Conchas - 500 g | g | 3,89 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49807 | Macarrão de Sopa Estrelinha - 200 g | g | 2,35 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49823 | Macarrão de Sopa Estrelinha - 500 g | g | 5,16 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49820 | Macarrão de Sopa Padre Nosso - 200 g | g | 2,35 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49819 | Macarrão de Sopa Padre Nosso - 500 g | g | 3,89 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49820 | Macarrão de Sopa Pai Nosso - 200 g | g | 2,14 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49819 | Macarrão de Sopa Pai Nosso - 500 g | g | 4,30 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49821 | Macarrão de Sopa parafuso - 200 g | g | 2,14 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49822 | Macarrão de Sopa parafuso - 500 g | g | 5,24 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48574 | Macarrão espaguete comum - 500 g | g | 3,75 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49814 | Macarrão espaguete semolina - 200 g | g | 2,02 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47576 | Macarrão espaguete semolina - 500 g | g | 3,81 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49124 | Macarrão espaguete Semolina Vitaminado - 500 g | g | 5,35 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49832 | Macarrão Lasanha - 500 g | g | 6,16 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49830 | Macarrão Talharim Liso - 500 g | g | 5,02 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49831 | Macarrão Talharim Meadas - 500 g | g | 5,16 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51310 | Mel de Abelha In Natura | L | 14,14 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 51311 | Mel de Abelha In Natura | kg | 7,50 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 27002 | Mel de Abelho Beneficiado | L | 33,02 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 27001 | Mel de Abelho Beneficiado | Kg | 22,77 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48599 | Milheto em grão | Kg | 0,68 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 45899 | Milheto em grão | Ton | 680,00 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 48257 | Milheto em grão - 60 kg | Sc | 40,80 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 49164 | Milho em grão de pipoca | Kg | 1,28 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48271 | Milho em grão de pipoca | Ton | 1.280,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47648 | Milho em grão de pipoca - 60 Kg | Sc | 76,80 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 41003 | Milho em grãos | Kg | 0,80 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 41004 | Milho em grãos | Ton | 800,00 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 41001 | Milho em grãos - 60 Kg | Sc | 48,00 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 11006 | Óleo bruto a granel de babaçu | Kg | 5,35 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50228 | Óleo de Coco babaçu | Kg | 8,71 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50229 | Óleo de Coco babaçu | Ton | 8.702,93 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48418 | Óleo de soja | Cx | 89,48 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50217 | Óleo de Soja Bruto | Kg | 3,35 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 50218 | Óleo de Soja Bruto | Ton | 3.350,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49813 | Outras marcas - 60 Kg | Sc | 303,53 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49406 | Palha ( Casca ) de Arroz | Kg | 0,15 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 50370 | Pimenta do Reino | Kg | 75,02 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 46961 | Pimenta do reino | Kg | 8,71 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47075 | Rosquinha de Coco - 100 g | g | 1,55 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48185 | Rosquinha de Leite - 100 g | g | 1,55 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7001 | Sc,, alpiste - 50 kg |  | 727,42 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7007 | Semente de capim andropogon | Kg | 7,10 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7009 | Semente de capim branquiarão | Kg | 16,33 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7008 | Semente de capim branquiarão / rosi | Kg | 9,24 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7010 | Semente de capim calopogone | Kg | 15,80 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7011 | Semente de capim colonião | Kg | 6,69 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7012 | Semente de capim colonião c / impurezas | Kg | 7,23 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7014 | Semente de capim misturada | Kg | 4,88 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7015 | Semente de capim não classificada | Kg | 5,90 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7016 | Semente de capim quikuiu | Kg | 16,47 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 7017 | Semente de capim tubiatan | Kg | 15,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48347 | Semente de soja 74I77RSFIPRO | Big | 7.977,74 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48332 | Semente de soja 83HO113TP IPRO | Big | 5.801,95 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48334 | Semente de soja 84185RSF IPRO | Big | 6.874,83 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48333 | Semente de soja 8473RSF | Big | 4.383,34 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48335 | Semente de soja 8579RSFIPRO | Big | 8.019,013 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48336 | Semente de soja M8210IPRO | Big | 7.413,10 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48337 | Semente de soja M8349IPRO | Big | 7.138,86 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48338 | Semente de soja M8372IPRO | Big | 7.672,76 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48339 | Semente de soja M8644IPRO | Big | 10.662,320 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48384 | Semente de soja M8766RR | Big | 4.396,006 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48341 | Semente de soja NS7447IPRO | Big | 6.403,42 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48403 | Semente de soja Outras | Big | 10.994,26 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48351 | Semente de soja SBT113710 | Big | 6.403,42 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48350 | Semente de soja ST797 IPRO | Big | 5.802,01 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48342 | Semente de soja ST879LL | Big | 5.511,83 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48343 | Semente de soja TMG1180RR | Big | 4.127,23 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48344 | Semente de soja TMG1288RR | Big | 4.163,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48345 | Semente de soja TMG132RR | Big | 6.403,42 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48346 | Semente de soja TMG2187IPRO | Big | 6.106,94 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 48258 | Soja em grãos | Kg | 2,13 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 49112 | Soja em grãos | Ton | 2.130,00 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 33001 | Soja em grãos - 60 Kg | Sc | 127,80 | 2024-12-03 (pub.) | Port. 496/2024 |
+| 47649 | Sorgo em grão | Kg | 0,68 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 47650 | Sorgo em grão | Ton | 680,00 | 2025-08-07 (pub.) | Port. 263/2025 |
+| 48491 | Sorgo em grão - 60 kg | Sc | 40,80 | 2025-08-07 (pub.) | Port. 263/2025 |
+
+## Situação incerta (0)
+
+O valor abaixo foi o último fixado, mas há motivo para duvidar que continue valendo: o item **não aparece** numa relação completa publicada depois (pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa) ou o **código dele foi dado a outro produto** (⚠). **Não use sem confirmar na SEFAZ.**
+
+| código | descrição | unid. | último valor (R$) | desde | portaria | motivo |
+|---|---|---|---|---|---|---|
+
+## Superados (97)
+
+| código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
+|---|---|---|---|---|
+| — | 25 Kg Balde de Mel de Abelha | 60,00 | 2011-07-13 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | 30 KG Arroz pilado longo | 19,50 | 2006-02-21 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | 60 kg Arroz Longo Casca | 20,00 | 2006-02-21 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | 60 kg Arroz pilado Longo | 39,00 | 2006-02-21 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | @ Igodão em caroço | 22,23 | 2015-04-07 | não consta das relações completas das Portarias nº 9/2016 (2016-01-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | @ Igodão em pluma | 49,80 | 2015-04-07 | não consta das relações completas das Portarias nº 9/2016 (2016-01-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | alpiste - 50 kg | 372,67 | 2011-01-05 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | amendoim inatura | 2,35 | 2011-01-05 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Arroz c/casca | 0,50 | 2015-04-07 | não consta das relações completas das Portarias nº 121/2017 (2017-02-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | ARROZ EM CASCA COMUM 60 Kg | 21,00 | 2004-03-22 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | ARROZ EM CASCA LONGO 60 Kg | 27,00 | 2004-03-22 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | ARROZ PILADO COMUM 60 Kg | 39,90 | 2004-03-22 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48961 | Café em grãos bebida fina cru - 60Kg | 5,00 | 2019-01-03 | não consta das relações completas das Portarias nº 263/2020 (2020-09-15) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão de casca de Babaçu | 75,00 | 2005-06-03 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48253 | Carvão de casca de babaçu - op. interestadual | 284,10 | 2021-06-15 | mesmo código, descrição/seção renomeada para "Carvão de casca de babaçu - op. interestadual" a partir de 2023-04-05 |
+| 48253 | Carvão de casca de babaçu - op. Interna | 157,91 | 2021-06-15 | mesmo código, descrição/seção renomeada para "Carvão de casca de babaçu - op. Interna" a partir de 2023-04-05 |
+| — | Carvão de Casca de Babaçu - Tonelada 1.000 kg | 1.600,00 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão de Casca de Babaçu Saco com 3 Kg | 5,30 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão de Casca de Babaçu – 1 KG | 1,60 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão de Casca de Babaçu – Operação Interestadual | 618,00 | 2023-04-28 | não consta das relações completas das Portarias nº 476/2023 (2023-10-31) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão de Casca de Babaçu – Operação Interna | 346,00 | 2023-04-28 | não consta das relações completas das Portarias nº 476/2023 (2023-10-31) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Ecológico Briquete - Operação Interna | 411,00 | 2023-04-28 | não consta das relações completas das Portarias nº 476/2023 (2023-10-31) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Ecológico Briquete - Tonelada 1.000 kg | 1.900,00 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Ecológico Briquete – 1 kg | 1,90 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Ecológico Briquete – Operação Interestadual | 734,00 | 2023-04-28 | não consta das relações completas das Portarias nº 476/2023 (2023-10-31) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Ecológico Briquete – Saco com 3 Kg | 6,00 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Vegatal Eucalipto – Tonelada 1.000 Kg | 1.580,00 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão vegetal | 120,00 | 2007-10-02 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48510 | Carvão vegetal - Operação Interestadual | 284,10 | 2021-06-15 | substituído pelo código  (Carvão Vegetal – Operação Interestadual) a partir de 2022-06-17; valeu até 2022-06-16 |
+| 48510 | Carvão vegetal - Operação Interna | 157,91 | 2021-06-15 | substituído pelo código  (Carvão Vegetal – Operação Interna) a partir de 2022-06-17; valeu até 2022-06-16 |
+| — | Carvão Vegetal - Saco com 3 Kg | 5,00 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Vegetal Eucalipto - Saco com 3 Kg | 5,10 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Vegetal Eucalipto – 1 Kg | 1,58 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Vegetal Eucalipto – Operação Interestadual | 602,00 | 2023-04-28 | não consta das relações completas das Portarias nº 476/2023 (2023-10-31) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Vegetal Eucalipto – Operação Interna | 337,00 | 2023-04-28 | não consta das relações completas das Portarias nº 476/2023 (2023-10-31) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Vegetal – Kg | 1,50 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Carvão Vegetal – Tonelada 1.000 Kg | 1.500,00 | 2022-06-17 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | castanha de caju | 0,80 | 2011-01-05 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 50376 | Castanha de Caju com Casca | 26,26 | 2020-09-15 | substituído pelo código 51205 (Castanha de Caju com Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
+| 50377 | Castanha de Caju com Casca | 262,59 | 2020-09-15 | substituído pelo código 51610 (Castanha de Caju com Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
+| — | Castanha de Caju In Natura - Interestadual | 4,20 | 2022-10-13 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 50378 | Castanha de Caju sem Casca | 36,76 | 2020-09-15 | substituído pelo código 51206 (Castanha de Caju sem Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
+| 50379 | Castanha do Caju sem Casca | 367,62 | 2020-09-15 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 50380 | Castanha do Para com Casca | 33,61 | 2020-09-15 | substituído pelo código 51207 (Castanha do Para com Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
+| 50381 | Castanha do Para com Casca | 336,11 | 2020-09-15 | substituído pelo código 51612 (Castanha do Para com Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
+| 50382 | Castanha do Para sem Casca | 44,11 | 2020-09-15 | substituído pelo código 51208 (Castanha do Para sem Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
+| 50383 | Castanha do Para sem Casca | 441,15 | 2020-09-15 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 49805 | Cravim | 39,42 | 2017-02-21 | o código 49805 passou a designar "Cravinho ( Cravo )" e este item não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03) |
+| — | Farelo de Soja | 0,59 | 2015-04-07 | não consta das relações completas das Portarias nº 121/2017 (2017-02-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farelo de Soja | 0,94 | 2017-04-17 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farelo de Soja | 940,00 | 2017-04-17 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48490 | Farinha d'agua especial - biriba - 50 kg | 124,20 | 2021-06-15 | mesmo código, descrição/seção renomeada para "Farinha d'agua especial - biriba - 50 kg" a partir de 2023-04-05 |
+| — | Farinha de trigo a granel pré misturada | 1.970,00 | 2012-04-23 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo c/fermento 10 kg | 12,00 | 2006-04-12 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo com Fermento – fardo 10 kg | 45,00 | 2022-04-01 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo Comum 1 kG | 0,90 | 2006-04-12 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo Comum a Granel 1.000 kg | 4.200,00 | 2022-04-01 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48615 | Farinha de trigo especial - 1 kg | 3,00 | 2019-01-03 | substituído pelo código 49615 (Farinha de trigo especial - 1 kg) a partir de 2020-09-15; valeu até 2020-09-14 |
+| — | Farinha de Trigo especial 1 Kg | 1,12 | 2006-04-12 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo especial 10 kg | 11,20 | 2006-04-12 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo Especial a Granel 1.000 kg | 4.400,00 | 2022-04-01 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo per Mistura / Aditivada - saco 25 kg | 113,00 | 2022-04-01 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo pre mistura / aditivada a Granel 1.000 kg | 4.520,00 | 2022-04-01 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo Pre-mistura – 25 kg | 47,00 | 2015-08-19 | não consta das relações completas das Portarias nº 9/2016 (2016-01-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo Pre-mistura– 50 kg | 93,00 | 2015-08-19 | não consta das relações completas das Portarias nº 9/2016 (2016-01-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Farinha de Trigo sem Fermento – fardo 10 kg | 43,00 | 2022-04-01 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 49618 | Fava branca comum 60 kg | 156,36 | 2021-06-15 | substituído pelo código 49818 (Fava branca comum 60 kg) a partir de 2023-04-05; valeu até 2023-04-04 |
+| — | Fava branca comum 60 kg | 114,41 | 2015-04-07 | não consta das relações completas das Portarias nº 9/2016 (2016-01-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Fumo em Corda Quilograma | 3,50 | 2007-02-28 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Fumo Picado Quilograma | 3,50 | 2007-02-28 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Jaborandi folha desidratada ( sêca ) | 2,00 | 2008-07-14 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 49896 | Jaborandi folha verde | 4,60 | 2021-06-15 | substituído pelo código 48896 (Jaborandi folha verde) a partir de 2023-04-05; valeu até 2023-04-04 |
+| — | Jaborandi folha verde | 3,35 | 2015-04-07 | substituído pelo código 49896 (Jaborandi folha verde) a partir de 2016-01-21; valeu até 2016-01-20 |
+| 48490 | Lenha eucalipto | 30,00 | 2019-01-03 | substituído pelo código 47490 (Lenha eucalipto) a partir de 2020-09-15; valeu até 2020-09-14 |
+| 49820 | Macarrão de Sopa Padre Nosso - 200 g | 1,94 | 2021-06-15 | mesmo código, descrição/seção renomeada para "Macarrão de Sopa Padre Nosso - 200 g" a partir de 2023-04-05 |
+| 49819 | Macarrão de Sopa Padre Nosso - 500 g | 3,22 | 2021-06-15 | mesmo código, descrição/seção renomeada para "Macarrão de Sopa Padre Nosso - 500 g" a partir de 2023-04-05 |
+| 49820 | Macarrão de Sopa Pai Nosso - 200 g | 1,77 | 2021-06-15 | mesmo código, descrição/seção renomeada para "Macarrão de Sopa Pai Nosso - 200 g" a partir de 2023-04-05 |
+| 49819 | Macarrão de Sopa Pai Nosso - 500 g | 3,55 | 2021-06-15 | mesmo código, descrição/seção renomeada para "Macarrão de Sopa Pai Nosso - 500 g" a partir de 2023-04-05 |
+| 48576 | Macarrão espaguete semolina - 500 g | 2,85 | 2019-01-03 | substituído pelo código 47576 (Macarrão espaguete semolina - 500 g) a partir de 2020-09-15; valeu até 2020-09-14 |
+| — | mendoa de babaçu | 1,18 | 2015-04-07 | não consta das relações completas das Portarias nº 121/2017 (2017-02-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Milheto - 1 kg | 0,30 | 2017-07-25 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Milho - 60 Kg | 19,00 | 2015-07-06 | não consta das relações completas das Portarias nº 9/2016 (2016-01-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Milho de Pipoca | 0,60 | 2017-04-17 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Milho de Pipoca | 600,00 | 2017-04-17 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48648 | Milho em grão de pipoca - 60 Kg | 41,47 | 2021-06-15 | substituído pelo código 47648 (Milho em grão de pipoca - 60 Kg) a partir de 2023-04-05; valeu até 2023-04-04 |
+| — | Milho em Grãos - 1 kg | 0,31 | 2017-07-26 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Óleo de soja - 20 und. | 54,26 | 2015-04-07 | não consta das relações completas das Portarias nº 121/2017 (2017-02-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Óleo de Soja Bruto | 2,30 | 2018-09-04 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Óleo de Soja Bruto | 2.300,00 | 2018-09-04 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 48484 | Pimenta do reino | 6,50 | 2019-01-03 | substituído pelo código 50370 (Pimenta do Reino) a partir de 2020-09-15; valeu até 2020-09-14 |
+| — | Semente de Capim Quikulu | 7,06 | 2010-08-02 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Soja - 1 kg | 0,90 | 2017-07-25 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | SOJA 60 kg | 28,00 | 2005-03-29 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Soja em grão Saca de 60 kg | 21,00 | 2006-05-11 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Soja – 60 kg – Saco | 54,00 | 2017-07-25 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Sorgo - 1 kg | 0,30 | 2017-07-25 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Sorgo - 60 kg | 20,26 | 2015-04-07 | não consta das relações completas das Portarias nº 121/2017 (2017-02-21) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+
+## Histórico por item
+
+Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudança de descrição dentro do mesmo código (a SEFAZ reutilizou ou detalhou o código; compare valores com cautela). Links das portarias no fim do arquivo ("Portarias citadas").
+
+### 25 Kg Balde de Mel de Abelha (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-07-13 (pub.) | 2011-07-08 | alterar | 60,00 |  |  | 25 Kg Balde de Mel de Abelha | Port. 337/2011 |
+
+### 25kg Mel de Abelha In Natura – Balde (código 51312)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-10-10 (pub.) | 2019-10-02 | alterar | 147,00 |  |  | Mel de Abelha In Natura – Balde 25 Kg | Port. 566/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 147,00 | +0.0% |  | 25kg Mel de Abelha In Natura – Balde | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 155,19 | +5.6% |  | 25kg Mel de Abelha In Natura – Balde | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 176,52 | +13.7% |  | 25kg Mel de Abelha In Natura – Balde | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 178,94 | +1.4% |  | 25kg Mel de Abelha In Natura – Balde | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 187,45 | +4.8% |  | 25kg Mel de Abelha In Natura – Balde | Port. 496/2024 |
+
+### 25kg Mel de Abelho Beneficiado – Balde (código 27003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 84,16 |  | kg | Mel de abelha 25kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 127,91 | +52.0% | kg | Mel de abelha 25kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 136,47 | +6.7% | kg | Mel de abelha 25kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 147,80 | +8.3% | kg | Mel de abelha 25kg | Port. 441/2018 |
+| 2019-10-10 (pub.) | 2019-10-02 | alterar | 425,00 | +187.6% |  | Mel de Abelho Beneficiado – Balde 25 Kg ⚠ | Port. 566/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 425,00 | +0.0% |  | 25kg Mel de Abelho Beneficiado – Balde | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 448,69 | +5.6% |  | 25kg Mel de Abelho Beneficiado – Balde | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 510,36 | +13.7% |  | 25kg Mel de Abelho Beneficiado – Balde | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 517,35 | +1.4% |  | 25kg Mel de Abelho Beneficiado – Balde | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 541,97 | +4.8% |  | 25kg Mel de Abelho Beneficiado – Balde | Port. 496/2024 |
+
+### 280L Mel de Abelha Beneficiado - Tambor (código 51313)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-10-10 (pub.) | 2019-10-02 | alterar | 6.902,00 |  |  | Mel de Abelha Beneficiado - Tambor 280 L | Port. 566/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6.902,00 | +0.0% |  | 280L Mel de Abelha Beneficiado - Tambor | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 7.286,75 | +5.6% |  | 280L Mel de Abelha Beneficiado - Tambor | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 8.288,32 | +13.7% |  | 280L Mel de Abelha Beneficiado - Tambor | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 8.401,87 | +1.4% |  | 280L Mel de Abelha Beneficiado - Tambor | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 8.801,064 | +4.8% |  | 280L Mel de Abelha Beneficiado - Tambor | Port. 496/2024 |
+
+### 280L Mel de Abelha In Natura – Tambor (código 51314)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-10-10 (pub.) | 2019-10-02 | alterar | 3.105,20 |  |  | Mel de Abelha In Natura – Tambor 280 L | Port. 566/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3.105,20 | +0.0% |  | 280L Mel de Abelha In Natura – Tambor | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3.278,30 | +5.6% |  | 280L Mel de Abelha In Natura – Tambor | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3.728,91 | +13.7% |  | 280L Mel de Abelha In Natura – Tambor | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.780,00 | +1.4% |  | 280L Mel de Abelha In Natura – Tambor | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3.959,865 | +4.8% |  | 280L Mel de Abelha In Natura – Tambor | Port. 496/2024 |
+
+### 30 KG Arroz pilado longo (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-02-21 (pub.) | 2006-02-15 | alterar | 19,50 |  |  | 30 KG Arroz pilado longo | Port. 80/2006 |
+
+### 60 kg Arroz Longo Casca (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-02-21 (pub.) | 2006-02-15 | alterar | 20,00 |  |  | 60 kg Arroz Longo Casca | Port. 80/2006 |
+
+### 60 kg Arroz pilado Longo (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-02-28 (assin.) | 2003-02-28 | alterar | 38,00 |  |  | ARROZ PILADO LONGO 60 Kg | Port. 51/2003 |
+| 2003-03-28 (efeitos) | 2003-03-27 | alterar | 43,70 | +15.0% |  | ARROZ PILADO LONGO 60 Kg | Port. 93/2003 |
+| 2004-03-22 (assin.) | 2004-03-22 | alterar | 51,30 | +17.4% |  | ARROZ PILADO LONGO 60 Kg | Port. 224/2004 |
+| 2006-02-21 (pub.) | 2006-02-15 | alterar | 39,00 | -24.0% |  | 60 kg Arroz pilado Longo | Port. 80/2006 |
+
+### @ algodão em caroço (código 5001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 23,70 |  |  | @ algodão em caroço | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 25,29 | +6.7% |  | @ algodão em caroço | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 27,40 | +8.3% |  | @ algodão em caroço | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 28,78 | +5.0% |  | @ algodão em caroço | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 30,38 | +5.6% |  | @ algodão em caroço | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 35,00 | +15.2% |  | @ algodão em caroço | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 35,48 | +1.4% |  | @ algodão em caroço | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 37,17 | +4.8% |  | @ algodão em caroço | Port. 496/2024 |
+
+### @ algodão em pluma (código 49801)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 53,08 |  |  | @ algodão em pluma | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 56,63 | +6.7% |  | @ algodão em pluma | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 61,35 | +8.3% |  | @ algodão em pluma | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 64,44 | +5.0% |  | @ algodão em pluma | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 68,03 | +5.6% |  | @ algodão em pluma | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 82,00 | +20.5% |  | @ algodão em pluma | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 83,12 | +1.4% |  | @ algodão em pluma | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 87,07 | +4.8% |  | @ algodão em pluma | Port. 496/2024 |
+
+### @ Igodão em caroço (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 22,23 |  |  | @ Igodão em caroço | Port. 192/2015 |
+
+### @ Igodão em pluma (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 49,80 |  |  | @ Igodão em pluma | Port. 192/2015 |
+
+### Algodão em Caroço (código 50372)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,45 |  | Kg | Algodão em Caroço | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,47 | +4.4% | Kg | Algodão em Caroço | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,50 | +6.4% | Kg | Algodão em Caroço | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,75 | +50.0% | Kg | Algodão em Caroço | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,76 | +1.3% | Kg | Algodão em Caroço | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,80 | +5.3% | Kg | Algodão em Caroço | Port. 496/2024 |
+
+### Algodão em Caroço (código 50374)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 450,00 |  | Ton | Algodão em Caroço | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 472,66 | +5.0% | Ton | Algodão em Caroço | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 499,01 | +5.6% | Ton | Algodão em Caroço | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 750,00 | +50.3% | Ton | Algodão em Caroço | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 760,28 | +1.4% | Ton | Algodão em Caroço | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 796,45 | +4.8% | Ton | Algodão em Caroço | Port. 496/2024 |
+
+### Algodão em Pluma (código 50373)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,60 |  | Kg | Algodão em Pluma | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,63 | +5.0% | Kg | Algodão em Pluma | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,67 | +6.3% | Kg | Algodão em Pluma | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,95 | +41.8% | Kg | Algodão em Pluma | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,96 | +1.1% | Kg | Algodão em Pluma | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1,01 | +5.2% | Kg | Algodão em Pluma | Port. 496/2024 |
+
+### Algodão em Pluma (código 50375)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 600,00 |  | Ton | Algodão em Pluma | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 630,21 | +5.0% | Ton | Algodão em Pluma | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 665,34 | +5.6% | Ton | Algodão em Pluma | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 950,00 | +42.8% | Ton | Algodão em Pluma | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 963,02 | +1.4% | Ton | Algodão em Pluma | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.008,84 | +4.8% | Ton | Algodão em Pluma | Port. 496/2024 |
+
+### alpiste - 50 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-01-05 (efeitos) | 2010-12-23 | alterar | 372,67 |  | SC | alpiste - 50 kg | Port. 331/2010 |
+
+### Amêndoa de Coco babaçu (código 48488)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,26 |  | kg | amendoa de babaçu | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,34 | +6.3% | kg | amendoa de babaçu | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,50 | +11.9% | Kg | Amêndoa de Coco babaçu ⚠ | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 1,50 | +0.0% | Kg | Amêndoa de Coco babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 1,34 | -10.7% | Kg | Amêndoa de Coco babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,58 | +17.9% | Kg | Amêndoa de Coco babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,67 | +5.7% | Kg | Amêndoa de Coco babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1,90 | +13.8% | Kg | Amêndoa de Coco babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1,93 | +1.6% | Kg | Amêndoa de Coco babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,02 | +4.7% | Kg | Amêndoa de Coco babaçu | Port. 496/2024 |
+
+### Amêndoa de Coco babaçu (código 50223)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1.451,09 |  | Ton | Amêndoa de Coco babaçu | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 1.500,00 | +3.4% | Ton | Amêndoa de Coco babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 1.340,00 | -10.7% | Ton | Amêndoa de Coco babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.524,16 | +13.7% | Ton | Amêndoa de Coco babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1.609,12 | +5.6% | Ton | Amêndoa de Coco babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1830,30 | +13.7% | Ton | Amêndoa de Coco babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1.855,38 | +1.4% | Ton | Amêndoa de Coco babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.943,66 | +4.8% | Ton | Amêndoa de Coco babaçu | Port. 496/2024 |
+
+### Amendoim Beneficiado (código 19918)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-01-05 (efeitos) | 2010-12-23 | alterar | 4,33 |  | Kg | amendoim beneficiado | Port. 331/2010 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 6,85 | +58.2% | kg | Amendoim Beneficiado | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 8,80 | +28.5% | kg | Amendoim Beneficiado | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 8,92 | +1.4% | kg | Amendoim Beneficiado | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 9,34 | +4.7% | kg | Amendoim Beneficiado | Port. 496/2024 |
+
+### amendoim inatura (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-01-05 (efeitos) | 2010-12-23 | alterar | 2,35 |  | Kg | amendoim inatura | Port. 331/2010 |
+
+### Amendoim Inatura com Casca (código 7003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,85 |  | Kg | Amendoim Inatura com Casca | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5,40 | +40.3% | Kg | Amendoim Inatura com Casca | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5,47 | +1.3% | Kg | Amendoim Inatura com Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,73 | +4.8% | Kg | Amendoim Inatura com Casca | Port. 496/2024 |
+
+### Arroz beneficiado Agulhinha tipo - 1 - 30 kg (código 48932)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 47,61 |  | fd | Arroz benef. Agulhinha tipo - 1 - 30 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 50,75 | +6.6% | fd | Arroz benef. Agulhinha tipo - 1 - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 54,15 | +6.7% | fd | Arroz benef. Agulhinha tipo - 1 - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 58,65 | +8.3% | Fd | Arroz beneficiado Agulhinha tipo - 1 - 30 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 61,60 | +5.0% | Fd | Arroz beneficiado Agulhinha tipo - 1 - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 65,03 | +5.6% | Fd | Arroz beneficiado Agulhinha tipo - 1 - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 74,00 | +13.8% | Fd | Arroz beneficiado Agulhinha tipo - 1 - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 75,01 | +1.4% | Fd | Arroz beneficiado Agulhinha tipo - 1 - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 78,58 | +4.8% | Fd | Arroz beneficiado Agulhinha tipo - 1 - 30 kg | Port. 496/2024 |
+
+### Arroz beneficiado Agulhinha tipo - 1 -60 kg (código 48931)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 81,73 |  | sc | Arroz benef. Agulhinha tipo - 1 -60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 87,11 | +6.6% | sc | Arroz benef. Agulhinha tipo - 1 -60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 92,94 | +6.7% | sc | Arroz benef. Agulhinha tipo - 1 -60 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 100,65 | +8.3% | Sc | Arroz beneficiado Agulhinha tipo - 1 -60 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 105,72 | +5.0% | Sc | Arroz beneficiado Agulhinha tipo - 1 -60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 111,61 | +5.6% | Sc | Arroz beneficiado Agulhinha tipo - 1 -60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 148,00 | +32.6% | Sc | Arroz beneficiado Agulhinha tipo - 1 -60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 150,03 | +1.4% | Sc | Arroz beneficiado Agulhinha tipo - 1 -60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 157,17 | +4.8% | Sc | Arroz beneficiado Agulhinha tipo - 1 -60 kg | Port. 496/2024 |
+
+### Arroz beneficiado Agulhinha tipo - 2 - 30 kg (código 48934)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 39,11 |  | Fd | Arroz benef. Agulhinha tipo - 2 - 30 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 41,68 | +6.6% | Fd | Arroz benef. Agulhinha tipo - 2 - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 44,47 | +6.7% | Fd | Arroz benef. Agulhinha tipo - 2 - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 48,20 | +8.4% | Fd | Arroz beneficiado Agulhinha tipo - 2 - 30 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 50,63 | +5.0% | Fd | Arroz beneficiado Agulhinha tipo - 2 - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 53,45 | +5.6% | Fd | Arroz beneficiado Agulhinha tipo - 2 - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 61,00 | +14.1% | Fd | Arroz beneficiado Agulhinha tipo - 2 - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 61,84 | +1.4% | Fd | Arroz beneficiado Agulhinha tipo - 2 - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 64,78 | +4.8% | Fd | Arroz beneficiado Agulhinha tipo - 2 - 30 kg | Port. 496/2024 |
+
+### Arroz beneficiado Agulhinha tipo - 2 - 60 Kg (código 48933)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 70,94 |  | sc | Arroz benef. Agulhinha tipo - 2 - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 75,62 | +6.6% | sc | Arroz benef. Agulhinha tipo - 2 - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 80,68 | +6.7% | sc | Arroz benef. Agulhinha tipo - 2 - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 87,35 | +8.3% | sc | Arroz beneficiado Agulhinha tipo - 2 - 60 Kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 91,75 | +5.0% | sc | Arroz beneficiado Agulhinha tipo - 2 - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 96,86 | +5.6% | sc | Arroz beneficiado Agulhinha tipo - 2 - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 122,00 | +26.0% | sc | Arroz beneficiado Agulhinha tipo - 2 - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 123,67 | +1.4% | sc | Arroz beneficiado Agulhinha tipo - 2 - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 129,50 | +4.7% | sc | Arroz beneficiado Agulhinha tipo - 2 - 60 Kg | Port. 496/2024 |
+
+### Arroz beneficiado Comum - 30 kg (código 48926)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 29,47 |  | Fd | Arroz benef. Comum - 30 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 31,41 | +6.6% | Fd | Arroz benef. Comum - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 33,51 | +6.7% | Fd | Arroz benef. Comum - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 36,30 | +8.3% | Fd | Arroz beneficiado Comum - 30 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 38,13 | +5.0% | Fd | Arroz beneficiado Comum - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 40,26 | +5.6% | Fd | Arroz beneficiado Comum - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 45,00 | +11.8% | Fd | Arroz beneficiado Comum - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 45,62 | +1.4% | Fd | Arroz beneficiado Comum - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 47,79 | +4.8% | Fd | Arroz beneficiado Comum - 30 kg | Port. 496/2024 |
+
+### Arroz beneficiado comum - 60 Kg (código 10005)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 53,16 |  | sc | Arroz benef. comum - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 56,66 | +6.6% | sc | Arroz benef. comum - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 60,45 | +6.7% | sc | Arroz benef. comum - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 65,50 | +8.4% | Sc | Arroz beneficiado comum - 60 Kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 68,80 | +5.0% | Sc | Arroz beneficiado comum - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 72,64 | +5.6% | Sc | Arroz beneficiado comum - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 95,00 | +30.8% | Sc | Arroz beneficiado comum - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 96,30 | +1.4% | Sc | Arroz beneficiado comum - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 100,88 | +4.8% | Sc | Arroz beneficiado comum - 60 Kg | Port. 496/2024 |
+
+### Arroz beneficiado Comum longo tipo - 1 - 30 kg (código 48928)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 43,20 |  | fd | Arroz benef. Comum longo tipo - 1 - 30 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 46,05 | +6.6% | fd | Arroz benef. Comum longo tipo - 1 - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 49,13 | +6.7% | fd | Arroz benef. Comum longo tipo - 1 - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 53,20 | +8.3% | Fd | Arroz beneficiado Comum longo tipo - 1 - 30 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 55,88 | +5.0% | Fd | Arroz beneficiado Comum longo tipo - 1 - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 58,99 | +5.6% | Fd | Arroz beneficiado Comum longo tipo - 1 - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 67,00 | +13.6% | Fd | Arroz beneficiado Comum longo tipo - 1 - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 67,92 | +1.4% | Fd | Arroz beneficiado Comum longo tipo - 1 - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 71,15 | +4.8% | Fd | Arroz beneficiado Comum longo tipo - 1 - 30 kg | Port. 496/2024 |
+
+### Arroz beneficiado Comum longo tipo - 1 - 60 kg (código 48927)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 79,45 |  | sc | Arroz benef. Comum longo tipo - 1 - 60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 84,69 | +6.6% | sc | Arroz benef. Comum longo tipo - 1 - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 90,36 | +6.7% | sc | Arroz benef. Comum longo tipo - 1 - 60 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 97,85 | +8.3% | Sc | Arroz beneficiado Comum longo tipo - 1 - 60 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 102,78 | +5.0% | Sc | Arroz beneficiado Comum longo tipo - 1 - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 108,51 | +5.6% | Sc | Arroz beneficiado Comum longo tipo - 1 - 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 134,00 | +23.5% | Sc | Arroz beneficiado Comum longo tipo - 1 - 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 135,84 | +1.4% | Sc | Arroz beneficiado Comum longo tipo - 1 - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 142,30 | +4.8% | Sc | Arroz beneficiado Comum longo tipo - 1 - 60 kg | Port. 496/2024 |
+
+### Arroz beneficiado comum longo tipo - 2 - 30 kg (código 48930)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 39,95 |  | fd | Arroz benef. comum longo tipo - 2 - 30 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 42,58 | +6.6% | fd | Arroz benef. comum longo tipo - 2 - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 45,43 | +6.7% | fd | Arroz benef. comum longo tipo - 2 - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 49,20 | +8.3% | Fd | Arroz beneficiado comum longo tipo - 2 - 30 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 51,68 | +5.0% | Fd | Arroz beneficiado comum longo tipo - 2 - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 54,56 | +5.6% | Fd | Arroz beneficiado comum longo tipo - 2 - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 62,00 | +13.6% | Fd | Arroz beneficiado comum longo tipo - 2 - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 62,85 | +1.4% | Fd | Arroz beneficiado comum longo tipo - 2 - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 65,84 | +4.8% | Fd | Arroz beneficiado comum longo tipo - 2 - 30 kg | Port. 496/2024 |
+
+### Arroz beneficiado Comum longo tipo - 2 - 60 Kg (código 48929)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 67,11 |  | sc | Arroz benef. Comum longo tipo - 2 - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 71,53 | +6.6% | sc | Arroz benef. Comum longo tipo - 2 - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 76,32 | +6.7% | sc | Arroz benef. Comum longo tipo - 2 - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 82,65 | +8.3% | Sc | Arroz beneficiado Comum longo tipo - 2 - 60 Kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 86,81 | +5.0% | Sc | Arroz beneficiado Comum longo tipo - 2 - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 91,65 | +5.6% | Sc | Arroz beneficiado Comum longo tipo - 2 - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 124,00 | +35.3% | Sc | Arroz beneficiado Comum longo tipo - 2 - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 125,70 | +1.4% | Sc | Arroz beneficiado Comum longo tipo - 2 - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 131,68 | +4.8% | Sc | Arroz beneficiado Comum longo tipo - 2 - 60 Kg | Port. 496/2024 |
+
+### Arroz beneficiado Comum quebrado - 30 kg (código 48936)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 24,33 |  | Fd | rroz benef. Comum quebrado - 30 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 25,93 | +6.6% | Fd | rroz benef. Comum quebrado - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 27,66 | +6.7% | Fd | Arroz benef. Comum quebrado - 30 kg ⚠ | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 30,00 | +8.5% | Fd | Arroz beneficiado Comum quebrado - 30 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 31,51 | +5.0% | Fd | Arroz beneficiado Comum quebrado - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 33,27 | +5.6% | Fd | Arroz beneficiado Comum quebrado - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 39,00 | +17.2% | Fd | Arroz beneficiado Comum quebrado - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 39,53 | +1.4% | Fd | Arroz beneficiado Comum quebrado - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 41,41 | +4.8% | Fd | Arroz beneficiado Comum quebrado - 30 kg | Port. 496/2024 |
+
+### Arroz beneficiado Comum quebrado - 60 kg (código 48935)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 43,81 |  | Sc | rroz benef. Comum quebrado - 60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 46,70 | +6.6% | Sc | rroz benef. Comum quebrado - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 49,82 | +6.7% | Sc | Arroz benef. Comum quebrado - 60 kg ⚠ | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 53,95 | +8.3% | Sc | Arroz beneficiado Comum quebrado - 60 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 56,67 | +5.0% | Sc | Arroz beneficiado Comum quebrado - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 59,83 | +5.6% | Sc | Arroz beneficiado Comum quebrado - 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 78,00 | +30.4% | Sc | Arroz beneficiado Comum quebrado - 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 79,07 | +1.4% | Sc | Arroz beneficiado Comum quebrado - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 82,83 | +4.8% | Sc | Arroz beneficiado Comum quebrado - 60 kg | Port. 496/2024 |
+
+### Arroz beneficiado Parbolizado - 30 kg (código 48938)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 50,99 |  | Fd | Arroz benef. Parbolizado - 30 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 54,35 | +6.6% | Fd | Arroz benef. Parbolizado - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 57,99 | +6.7% | Fd | Arroz benef. Parbolizado - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 62,80 | +8.3% | Fd | Arroz beneficiado Parbolizado - 30 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 65,96 | +5.0% | Fd | Arroz beneficiado Parbolizado - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 69,64 | +5.6% | Fd | Arroz beneficiado Parbolizado - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 80,00 | +14.9% | Fd | Arroz beneficiado Parbolizado - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 81,10 | +1.4% | Fd | Arroz beneficiado Parbolizado - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 84,96 | +4.8% | Fd | Arroz beneficiado Parbolizado - 30 kg | Port. 496/2024 |
+
+### Arroz beneficiado Parbolizado - 60 kg (código 48937)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 76,79 |  | Sc | Arroz benef. Parbolizado - 60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 81,85 | +6.6% | Sc | Arroz benef. Parbolizado - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 87,33 | +6.7% | Sc | Arroz benef. Parbolizado - 60 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 94,60 | +8.3% | Sc | Arroz beneficiado Parbolizado - 60 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 99,36 | +5.0% | Sc | Arroz beneficiado Parbolizado - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 104,90 | +5.6% | Sc | Arroz beneficiado Parbolizado - 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 160,00 | +52.5% | Sc | Arroz beneficiado Parbolizado - 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 162,19 | +1.4% | Sc | Arroz beneficiado Parbolizado - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 169,91 | +4.8% | Sc | Arroz beneficiado Parbolizado - 60 kg | Port. 496/2024 |
+
+### Arroz c/casca (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 0,50 |  | K | Arroz c/casca | Port. 192/2015 |
+
+### Arroz com casca (código 48941)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 0,53 |  | Kg | Arroz c/casca | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 0,57 | +7.5% | Kg | Arroz c/casca | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,65 | +14.0% | Kg | Arroz c/casca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,68 | +4.6% | Kg | Arroz c/casca | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,68 | +0.0% | Kg | Arroz c/casca | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,85 | +25.0% | Kg | Arroz com casca ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,86 | +1.2% | Kg | Arroz com casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,90 | +4.7% | Kg | Arroz com casca | Port. 496/2024 |
+
+### Arroz comum com casca - 60 kg (código 48433)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 27,03 |  | S | Arroz comum c/casca - 60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 28,81 | +6.6% | S | Arroz comum c/casca - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 30,74 | +6.7% | S | Arroz comum c/casca - 60 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 33,30 | +8.3% | Sc | Arroz comum com casca - 60 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 34,98 | +5.0% | Sc | Arroz comum com casca - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 36,93 | +5.6% | Sc | Arroz comum com casca - 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 51,00 | +38.1% | Sc | Arroz comum com casca - 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 51,70 | +1.4% | Sc | Arroz comum com casca - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 54,16 | +4.8% | Sc | Arroz comum com casca - 60 kg | Port. 496/2024 |
+
+### Arroz comum longo com casca - 60 kg (código 48425)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 32,33 |  | Sc | rroz comum longo c/ casca - 60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 34,47 | +6.6% | Sc | rroz comum longo c/ casca - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 36,78 | +6.7% | Sc | Arroz comum longo c/ casca - 60 kg ⚠ | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 39,85 | +8.3% | Sc | Arroz comum longo com casca - 60 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 41,86 | +5.0% | Sc | Arroz comum longo com casca - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 44,19 | +5.6% | Sc | Arroz comum longo com casca - 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 75,00 | +69.7% | Sc | Arroz comum longo com casca - 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 76,03 | +1.4% | Sc | Arroz comum longo com casca - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 79,65 | +4.8% | Sc | Arroz comum longo com casca - 60 kg | Port. 496/2024 |
+
+### ARROZ EM CASCA COMUM 60 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-02-28 (assin.) | 2003-02-28 | alterar | 18,00 |  |  | ARROZ EM CASCA COMUM 60 Kg | Port. 51/2003 |
+| 2003-03-28 (efeitos) | 2003-03-27 | alterar | 20,70 | +15.0% |  | ARROZ EM CASCA COMUM 60 Kg | Port. 93/2003 |
+| 2004-03-22 (assin.) | 2004-03-22 | alterar | 21,00 | +1.4% |  | ARROZ EM CASCA COMUM 60 Kg | Port. 224/2004 |
+
+### ARROZ EM CASCA LONGO 60 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-02-28 (assin.) | 2003-02-28 | alterar | 20,00 |  |  | ARROZ EM CASCA LONGO 60 Kg | Port. 51/2003 |
+| 2003-03-28 (efeitos) | 2003-03-27 | alterar | 23,00 | +15.0% |  | ARROZ EM CASCA LONGO 60 Kg | Port. 93/2003 |
+| 2004-03-22 (assin.) | 2004-03-22 | alterar | 27,00 | +17.4% |  | ARROZ EM CASCA LONGO 60 Kg | Port. 224/2004 |
+
+### ARROZ PILADO COMUM 60 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-02-28 (assin.) | 2003-02-28 | alterar | 34,20 |  |  | ARROZ PILADO COMUM 60 Kg | Port. 51/2003 |
+| 2003-03-28 (efeitos) | 2003-03-27 | alterar | 39,33 | +15.0% |  | ARROZ PILADO COMUM 60 Kg | Port. 93/2003 |
+| 2004-03-22 (assin.) | 2004-03-22 | alterar | 39,90 | +1.4% |  | ARROZ PILADO COMUM 60 Kg | Port. 224/2004 |
+
+### Arroz xerém - 30 kg (código 48939)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 22,15 |  | Fd | Arroz xerém - 30 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 23,61 | +6.6% | Fd | Arroz xerém - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 25,19 | +6.7% | Fd | Arroz xerém - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 27,30 | +8.4% | Fd | Arroz xerém - 30 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 28,67 | +5.0% | Fd | Arroz xerém - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 30,27 | +5.6% | Fd | Arroz xerém - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 36,10 | +19.3% | Fd | Arroz xerém - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 36,59 | +1.4% | Fd | Arroz xerém - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 38,33 | +4.8% | Fd | Arroz xerém - 30 kg | Port. 496/2024 |
+
+### Arroz xerém - 60 kg (código 10002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 46,42 |  | Sc | Arroz xerém - 60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 49,48 | +6.6% | Sc | Arroz xerém - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 52,79 | +6.7% | Sc | Arroz xerém - 60 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 57,20 | +8.4% | Sc | Arroz xerém - 60 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 60,08 | +5.0% | Sc | Arroz xerém - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 63,43 | +5.6% | Sc | Arroz xerém - 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 72,20 | +13.8% | Sc | Arroz xerém - 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 73,19 | +1.4% | Sc | Arroz xerém - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 76,67 | +4.8% | Sc | Arroz xerém - 60 kg | Port. 496/2024 |
+
+### Biscoito Cream Cracker - 200 g (código 47065)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,71 |  |  | 200 g Biscoito Cream Cracker | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,82 | +6.4% | g | Biscoito Cream Cracker - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,94 | +6.6% | g | Biscoito Cream Cracker - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,10 | +8.2% | g | Biscoito Cream Cracker - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,21 | +5.2% | g | Biscoito Cream Cracker - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2,33 | +5.4% | g | Biscoito Cream Cracker - 200 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,65 | +13.7% | g | Biscoito Cream Cracker - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,69 | +1.5% | g | Biscoito Cream Cracker - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,82 | +4.8% | g | Biscoito Cream Cracker - 200 g | Port. 496/2024 |
+
+### Biscoito Cream Cracker - 400 g (código 47064)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,51 |  |  | 400 g Biscoito Cream Cracker | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,67 | +6.4% | g | Biscoito Cream Cracker - 400 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,85 | +6.7% | g | Biscoito Cream Cracker - 400 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,10 | +8.8% | g | Biscoito Cream Cracker - 400 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,26 | +5.2% | g | Biscoito Cream Cracker - 400 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,44 | +5.5% | g | Biscoito Cream Cracker - 400 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,91 | +13.7% | g | Biscoito Cream Cracker - 400 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,96 | +1.3% | g | Biscoito Cream Cracker - 400 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,15 | +4.8% | g | Biscoito Cream Cracker - 400 g | Port. 496/2024 |
+
+### Biscoito de Leite - 200 g (código 47570)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,32 |  |  | 200 g Biscoito de Leite | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,40 | +6.1% | g | Biscoito de Leite - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,49 | +6.4% | g | Biscoito de Leite - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,65 | +10.7% | g | Biscoito de Leite - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,73 | +4.8% | g | Biscoito de Leite - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,83 | +5.8% | g | Biscoito de Leite - 200 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,08 | +13.7% | g | Biscoito de Leite - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,11 | +1.4% | g | Biscoito de Leite - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,21 | +4.7% | g | Biscoito de Leite - 200 g | Port. 496/2024 |
+
+### Biscoito de Leite - 400 g (código 47068)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,58 |  |  | 400 g Biscoito de Leite | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,75 | +6.6% | g | Biscoito de Leite - 400 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,93 | +6.5% | g | Biscoito de Leite - 400 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,20 | +9.2% | g | Biscoito de Leite - 400 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,36 | +5.0% | g | Biscoito de Leite - 400 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,55 | +5.7% | g | Biscoito de Leite - 400 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,04 | +13.8% | g | Biscoito de Leite - 400 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,10 | +1.5% | g | Biscoito de Leite - 400 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,30 | +4.9% | g | Biscoito de Leite - 400 g | Port. 496/2024 |
+
+### Biscoito Doce - 100 g (código 47074)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,11 |  |  | 100 g Biscoito Doce | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,18 | +6.3% | g | Biscoito Doce - 100 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,26 | +6.8% | g | Biscoito Doce - 100 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,40 | +11.1% | g | Biscoito Doce - 100 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,47 | +5.0% | g | Biscoito Doce - 100 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,55 | +5.4% | g | Biscoito Doce - 100 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1,76 | +13.5% | g | Biscoito Doce - 100 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1,78 | +1.1% | g | Biscoito Doce - 100 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1,86 | +4.5% | g | Biscoito Doce - 100 g | Port. 496/2024 |
+
+### Biscoito Doce - 400 g (código 47072)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,32 |  |  | 400 g Biscoito Doce | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,48 | +6.9% | g | Biscoito Doce - 400 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,65 | +6.9% | g | Biscoito Doce - 400 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,90 | +9.4% | g | Biscoito Doce - 400 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,05 | +5.2% | g | Biscoito Doce - 400 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,22 | +5.6% | g | Biscoito Doce - 400 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,66 | +13.7% | g | Biscoito Doce - 400 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,71 | +1.4% | g | Biscoito Doce - 400 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,89 | +4.9% | g | Biscoito Doce - 400 g | Port. 496/2024 |
+
+### Biscoito Doce -200 g (código 47073)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,35 |  |  | 200 g Biscoito Doce | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,50 | +6.4% | g | Biscoito Doce -200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,67 | +6.8% | g | Biscoito Doce -200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,90 | +8.6% | g | Biscoito Doce -200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,05 | +5.2% | g | Biscoito Doce -200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,22 | +5.6% | g | Biscoito Doce -200 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,66 | +13.7% | g | Biscoito Doce -200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,71 | +1.4% | g | Biscoito Doce -200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,89 | +4.9% | g | Biscoito Doce -200 g | Port. 496/2024 |
+
+### Biscoito Maria - 200 g (código 47067)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,33 |  |  | 200 g Biscoito Maria | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,42 | +6.8% | g | Biscoito Maria - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,51 | +6.3% | g | Biscoito Maria - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,65 | +9.3% | g | Biscoito Maria - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,73 | +4.8% | g | Biscoito Maria - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,83 | +5.8% | g | Biscoito Maria - 200 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,08 | +13.7% | g | Biscoito Maria - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,11 | +1.4% | g | Biscoito Maria - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,21 | +4.7% | g | Biscoito Maria - 200 g | Port. 496/2024 |
+
+### Biscoito Maria - 400 g (código 47066)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,57 |  |  | 400 g Biscoito Maria | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,73 | +6.2% | g | Biscoito Maria - 400 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,91 | +6.6% | g | Biscoito Maria - 400 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,15 | +8.2% | g | Biscoito Maria - 400 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,31 | +5.1% | g | Biscoito Maria - 400 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,49 | +5.4% | g | Biscoito Maria - 400 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,97 | +13.8% | g | Biscoito Maria - 400 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,02 | +1.3% | g | Biscoito Maria - 400 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,21 | +4.7% | g | Biscoito Maria - 400 g | Port. 496/2024 |
+
+### Biscoito Salgado - 100 g (código 45607)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,34 |  |  | 100 g Biscoito Salgado | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,43 | +6.7% | g | Biscoito Salgado - 100 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,53 | +7.0% | g | Biscoito Salgado - 100 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,70 | +11.1% | g | Biscoito Salgado - 100 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,79 | +5.3% | g | Biscoito Salgado - 100 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,89 | +5.6% | g | Biscoito Salgado - 100 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,15 | +13.8% | g | Biscoito Salgado - 100 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,18 | +1.4% | g | Biscoito Salgado - 100 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,28 | +4.6% | g | Biscoito Salgado - 100 g | Port. 496/2024 |
+
+### Biscoito Salgado - 400 g (código 47744)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,25 |  |  | 400 g Biscoito Salgado | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,40 | +6.7% | g | Biscoito Salgado - 400 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,56 | +6.7% | g | Biscoito Salgado - 400 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,80 | +9.4% | g | Biscoito Salgado - 400 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,94 | +5.0% | g | Biscoito Salgado - 400 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,10 | +5.4% | g | Biscoito Salgado - 400 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,53 | +13.9% | g | Biscoito Salgado - 400 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,58 | +1.4% | g | Biscoito Salgado - 400 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,75 | +4.7% | g | Biscoito Salgado - 400 g | Port. 496/2024 |
+
+### Biscoito Salgado Sortido - 100 g (código 45609)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,63 |  |  | 100 g Biscoito Salgado Sortido | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,81 | +6.8% | g | Biscoito Salgado Sortido - 100 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,00 | +6.8% | g | Biscoito Salgado Sortido - 100 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,25 | +8.3% | g | Biscoito Salgado Sortido - 100 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,41 | +4.9% | g | Biscoito Salgado Sortido - 100 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,60 | +5.6% | g | Biscoito Salgado Sortido - 100 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,09 | +13.6% | g | Biscoito Salgado Sortido - 100 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,15 | +1.5% | g | Biscoito Salgado Sortido - 100 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,35 | +4.8% | g | Biscoito Salgado Sortido - 100 g | Port. 496/2024 |
+
+### Briquete de Coco Babaçu ( Mesocarpo ) (código 50232)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,35 |  | Kg | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 0,35 | +0.0% | Kg | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 0,30 | -14.3% | Kg | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,37 | +23.3% | Kg | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,39 | +5.4% | Kg | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,44 | +12.8% | Kg | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,45 | +2.3% | Kg | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,47 | +4.4% | Kg | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 496/2024 |
+
+### Briquete de Coco Babaçu ( Mesocarpo ) (código 50233)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 324,90 |  | Ton | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 350,00 | +7.7% | Ton | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 300,00 | -14.3% | Ton | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 341,26 | +13.8% | Ton | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 360,28 | +5.6% | Ton | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 409,80 | +13.7% | Ton | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 415,41 | +1.4% | Ton | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 435,18 | +4.8% | Ton | Briquete de Coco Babaçu ( Mesocarpo ) | Port. 496/2024 |
+
+### Café em grãos bebida fina cru (código 48584)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,25 |  | Kg | Café em grãos bebida fina cru | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,54 | +5.5% | Kg | Café em grãos bebida fina cru | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6,30 | +13.7% | Kg | Café em grãos bebida fina cru | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6,39 | +1.4% | Kg | Café em grãos bebida fina cru | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6,69 | +4.7% | Kg | Café em grãos bebida fina cru | Port. 496/2024 |
+
+### Café em grãos bebida fina cru - 60Kg (código 48251)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 244,18 |  | sc | Café em grãos bebida fina crú - 60Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 260,28 | +6.6% | sc | Café em grãos bebida fina crú - 60Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 277,69 | +6.7% | sc | Café em grãos bebida fina crú - 60Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 300,80 | +8.3% | Sc | Café em grãos bebida fina cru - 60Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 315,95 | +5.0% | Sc | Café em grãos bebida fina cru - 60Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 333,56 | +5.6% | Sc | Café em grãos bebida fina cru - 60Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 379,41 | +13.7% | Sc | Café em grãos bebida fina cru - 60Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 384,61 | +1.4% | Sc | Café em grãos bebida fina cru - 60Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 402,91 | +4.8% | Sc | Café em grãos bebida fina cru - 60Kg | Port. 496/2024 |
+
+### Café em grãos bebida fina cru - 60Kg (código 48961)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,34 |  | Kg | Café em grãos bebida fina crú - 60Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,63 | +6.7% | Kg | Café em grãos bebida fina crú - 60Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5,00 | +8.0% | Kg | Café em grãos bebida fina cru - 60Kg | Port. 441/2018 |
+
+### Café em grãos conilon cru (código 48533)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,21 |  | Kg | Café em grãos conilon crú - 60Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,36 | +6.8% | Kg | Café em grãos conilon crú - 60Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,60 | +10.2% | Kg | Café em grãos conilon cru - 60Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,73 | +5.0% | Kg | Café em grãos conilon cru ⚠ | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2,88 | +5.5% | Kg | Café em grãos conilon cru | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,28 | +13.9% | Kg | Café em grãos conilon cru | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,32 | +1.2% | Kg | Café em grãos conilon cru | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,48 | +4.8% | Kg | Café em grãos conilon cru | Port. 496/2024 |
+
+### Café em grãos conilon cru - 60Kg (código 48252)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 124,23 |  | sc | Café em grãos conilon crú - 60Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 132,42 | +6.6% | sc | Café em grãos conilon crú - 60Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 141,28 | +6.7% | sc | Café em grãos conilon crú - 60Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 153,00 | +8.3% | Sc | Café em grãos conilon cru - 60Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 160,70 | +5.0% | Sc | Café em grãos conilon cru - 60Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 169,66 | +5.6% | Sc | Café em grãos conilon cru - 60Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 192,98 | +13.7% | Sc | Café em grãos conilon cru - 60Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 195,62 | +1.4% | Sc | Café em grãos conilon cru - 60Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 204,93 | +4.8% | Sc | Café em grãos conilon cru - 60Kg | Port. 496/2024 |
+
+### Caroço de algodão (código 5002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 0,40 |  | kg | Caroço de algodão | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 0,43 | +7.5% | kg | Caroço de algodão | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 0,46 | +7.0% | kg | Caroço de algodão | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,50 | +8.7% | Kg | Caroço de algodão | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,53 | +6.0% | Kg | Caroço de algodão | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,56 | +5.7% | Kg | Caroço de algodão | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,85 | +51.8% | Kg | Caroço de algodão | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,86 | +1.2% | Kg | Caroço de algodão | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,90 | +4.7% | Kg | Caroço de algodão | Port. 496/2024 |
+
+### Caroço de Algodão (código 50371)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 500,00 |  | Ton | Caroço de Algodão | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 525,18 | +5.0% | Ton | Caroço de Algodão | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 554,46 | +5.6% | Ton | Caroço de Algodão | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 850,00 | +53.3% | Ton | Caroço de Algodão | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 861,65 | +1.4% | Ton | Caroço de Algodão | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 902,65 | +4.8% | Ton | Caroço de Algodão | Port. 496/2024 |
+
+### Carvão de casca de Babaçu (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2005-06-03 (assin.) | 2005-06-03 | alterar | 75,00 |  | M³ | Carvão de casca de Babaçu | Port. 334/2005 |
+
+### Carvão de casca de babaçu - op. interestadual (código 48253)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 323,15 |  | m3 | Carvão de casca de babaçu - op. interestadual | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 327,58 | +1.4% | m3 | Carvão de casca de babaçu - op. interestadual | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 343,17 | +4.8% | m3 | Carvão de casca de babaçu - op. interestadual | Port. 496/2024 |
+
+### Carvão de casca de babaçu - op. interestadual (código 48253)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 208,01 |  | m3 | Carvão de casca de babaçu - op. interestadual | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 221,73 | +6.6% | m3 | Carvão de casca de babaçu - op. interestadual | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 236,56 | +6.7% | m3 | Carvão de casca de babaçu - op. interestadual | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 256,20 | +8.3% | m3 | Carvão de casca de babaçu - op. interestadual | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 269,10 | +5.0% | m3 | Carvão de casca de babaçu - op. interestadual | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 284,10 | +5.6% | m3 | Carvão de casca de babaçu - op. interestadual | Port. 219/2021 |
+
+### Carvão de casca de babaçu - op. Interna (código 48253)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 179,61 |  | m3 | Carvão de casca de babaçu - op. Interna | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 182,07 | +1.4% | m3 | Carvão de casca de babaçu - op. Interna | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 190,73 | +4.8% | m3 | Carvão de casca de babaçu - op. Interna | Port. 496/2024 |
+
+### Carvão de casca de babaçu - op. Interna (código 48253)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 115,56 |  | m3 | Carvão de casca de babaçu - op. Interna | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 123,18 | +6.6% | m3 | Carvão de casca de babaçu - op. Interna | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 131,42 | +6.7% | m3 | Carvão de casca de babaçu - op. Interna | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 142,40 | +8.4% | m3 | Carvão de casca de babaçu - op. Interna | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 149,57 | +5.0% | m3 | Carvão de casca de babaçu - op. Interna | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 157,91 | +5.6% | m3 | Carvão de casca de babaçu - op. Interna | Port. 219/2021 |
+
+### Carvão de Casca de Babaçu - Tonelada 1.000 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 1.600,00 |  |  | Carvão de Casca de Babaçu - Tonelada 1.000 kg | Port. 317/2022 |
+
+### Carvão de Casca de Babaçu Saco com 3 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 5,30 |  | Sc | Carvão de Casca de Babaçu Saco com 3 Kg | Port. 317/2022 |
+
+### Carvão de Casca de Babaçu – 1 KG (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 1,60 |  | Kg | Carvão de Casca de Babaçu – 1 KG | Port. 317/2022 |
+
+### Carvão de Casca de Babaçu – Operação Interestadual (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | alterar | 544,00 |  | M3 | Carvão de Casca de Babaçu – Operação Interestadual | Port. 316/2022 |
+| 2023-04-28 (pub.) | 2023-04-19 | alterar | 618,00 | +13.6% | m3 | Carvão de Casca de Babaçu – Operação Interestadual | Port. 175/2023 |
+
+### Carvão de Casca de Babaçu – Operação Interna (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | alterar | 305,00 |  | M3 | Carvão de Casca de Babaçu – Operação Interna | Port. 316/2022 |
+| 2023-04-28 (pub.) | 2023-04-19 | alterar | 346,00 | +13.4% | m3 | Carvão de Casca de Babaçu – Operação Interna | Port. 175/2023 |
+
+### Carvão Ecológico Briquete - Operação Interna (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | alterar | 362,00 |  | M3 | Carvão Ecológico Briquete - Operação Interna | Port. 316/2022 |
+| 2023-04-28 (pub.) | 2023-04-19 | alterar | 411,00 | +13.5% | m3 | Carvão Ecológico Briquete - Operação Interna | Port. 175/2023 |
+
+### Carvão Ecológico Briquete - Tonelada 1.000 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 1.900,00 |  |  | Carvão Ecológico Briquete - Tonelada 1.000 kg | Port. 317/2022 |
+
+### Carvão Ecológico Briquete – 1 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 1,90 |  | Kg | Carvão Ecológico Briquete – 1 kg | Port. 317/2022 |
+
+### Carvão Ecológico Briquete – Operação Interestadual (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | alterar | 646,00 |  | M3 | Carvão Ecológico Briquete – Operação Interestadual | Port. 316/2022 |
+| 2023-04-28 (pub.) | 2023-04-19 | alterar | 734,00 | +13.6% | m3 | Carvão Ecológico Briquete – Operação Interestadual | Port. 175/2023 |
+
+### Carvão Ecológico Briquete – Saco com 3 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 6,00 |  | Sc | Carvão Ecológico Briquete – Saco com 3 Kg | Port. 317/2022 |
+
+### Carvão Vegatal Eucalipto – Tonelada 1.000 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 1.580,00 |  |  | Carvão Vegatal Eucalipto – Tonelada 1.000 Kg | Port. 317/2022 |
+
+### Carvão vegetal (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2005-06-03 (assin.) | 2005-06-03 | alterar | 75,00 |  | M³ | Carvão Vegetal | Port. 334/2005 |
+| 2007-10-02 (assin.) | 2007-10-02 | alterar | 120,00 | +60.0% | M³ | Carvão vegetal | Port. 597/2007 |
+
+### Carvão vegetal - Operação Interestadual (código 48510)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | alterar | 510,00 |  | M3 | Carvão Vegetal – Operação Interestadual | Port. 316/2022 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 323,15 | -36.6% | m3 | Carvão vegetal - Operação Interestadual | Port. 134/2023 |
+| 2023-04-28 (pub.) | 2023-04-19 | alterar | 580,00 | +79.5% | m3 | Carvão Vegetal – Operação Interestadual | Port. 175/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 327,58 | -43.5% | m3 | Carvão vegetal - Operação Interestadual | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 343,17 | +4.8% | m3 | Carvão vegetal - Operação Interestadual | Port. 496/2024 |
+
+### Carvão vegetal - Operação Interestadual (código 48510)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 208,01 |  | m3 | Carvão vegetal - op. interestadual | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 221,73 | +6.6% | m3 | Carvão vegetal - op. interestadual | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 236,56 | +6.7% | m3 | Carvão vegetal - op. Interestadual | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 256,20 | +8.3% | m3 | Carvão vegetal - Operação Interestadual | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 269,10 | +5.0% | m3 | Carvão vegetal - Operação Interestadual | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 284,10 | +5.6% | m3 | Carvão vegetal - Operação Interestadual | Port. 219/2021 |
+
+### Carvão vegetal - Operação Interna (código 48510)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | alterar | 285,00 |  | M3 | Carvão Vegetal – Operação Interna | Port. 316/2022 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 179,61 | -37.0% | m3 | Carvão vegetal - Operação Interna | Port. 134/2023 |
+| 2023-04-28 (pub.) | 2023-04-19 | alterar | 324,00 | +80.4% | m3 | Carvão Vegetal – Operação Interna | Port. 175/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 182,07 | -43.8% | m3 | Carvão vegetal - Operação Interna | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 190,73 | +4.8% | m3 | Carvão vegetal - Operação Interna | Port. 496/2024 |
+
+### Carvão vegetal - Operação Interna (código 48510)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 115,56 |  | m3 | Carvão vegetal - op. interna | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 123,18 | +6.6% | m3 | Carvão vegetal - op. interna | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 131,42 | +6.7% | m3 | Carvão vegetal - op. Interna | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 142,40 | +8.4% | m3 | Carvão vegetal - Operação Interna | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 149,57 | +5.0% | m3 | Carvão vegetal - Operação Interna | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 157,91 | +5.6% | m3 | Carvão vegetal - Operação Interna | Port. 219/2021 |
+
+### Carvão Vegetal - Saco com 3 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 5,00 |  | Sc | Carvão Vegetal - Saco com 3 Kg | Port. 317/2022 |
+
+### Carvão Vegetal Eucalipto - Saco com 3 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 5,10 |  | Sc | Carvão Vegetal Eucalipto - Saco com 3 Kg | Port. 317/2022 |
+
+### Carvão Vegetal Eucalipto – 1 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 1,58 |  | Kg | Carvão Vegetal Eucalipto – 1 Kg | Port. 317/2022 |
+
+### Carvão Vegetal Eucalipto – Operação Interestadual (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | alterar | 530,00 |  | M3 | Carvão Vegetal Eucalipto – Operação Interestadual | Port. 316/2022 |
+| 2023-04-28 (pub.) | 2023-04-19 | alterar | 602,00 | +13.6% | m3 | Carvão Vegetal Eucalipto – Operação Interestadual | Port. 175/2023 |
+
+### Carvão Vegetal Eucalipto – Operação Interna (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | alterar | 297,00 |  | M3 | Carvão Vegetal Eucalipto – Operação Interna | Port. 316/2022 |
+| 2023-04-28 (pub.) | 2023-04-19 | alterar | 337,00 | +13.5% | m3 | Carvão Vegetal Eucalipto – Operação Interna | Port. 175/2023 |
+
+### Carvão Vegetal – Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 1,50 |  | Kg | Carvão Vegetal – Kg | Port. 317/2022 |
+
+### Carvão Vegetal – Tonelada 1.000 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-06-17 (pub.) | 2022-06-14 | incluir | 1.500,00 |  |  | Carvão Vegetal – Tonelada 1.000 Kg | Port. 317/2022 |
+
+### Casca de Coco babaçu (código 7002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 11,24 |  | m3 | Casca de babaçú | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 11,99 | +6.7% | m3 | Casca de babaçú | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 12,79 | +6.7% | m3 | Casca de babaçu | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 13,85 | +8.3% | m3 | Casca de Coco babaçu ⚠ | Port. 441/2018 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 12,79 | -7.7% | m3 | Casca de Coco babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 14,55 | +13.8% | m3 | Casca de Coco babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 15,36 | +5.6% | m3 | Casca de Coco babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 17,47 | +13.7% | m3 | Casca de Coco babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 17,71 | +1.4% | m3 | Casca de Coco babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 18,55 | +4.7% | m3 | Casca de Coco babaçu | Port. 496/2024 |
+
+### Casca de Coco Babaçu (código 50226)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,20 |  | Kg | Casca de Coco Babaçu | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 0,20 | +0.0% | Kg | Casca de Coco Babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 0,16 | -20.0% | Kg | Casca de Coco Babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,21 | +31.2% | Kg | Casca de Coco Babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,22 | +4.8% | Kg | Casca de Coco Babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,25 | +13.6% | Kg | Casca de Coco Babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,25 | +0.0% | Kg | Casca de Coco Babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,26 | +4.0% | Kg | Casca de Coco Babaçu | Port. 496/2024 |
+
+### Casca de Coco Babaçu (código 50227)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 200,00 |  | Ton | Casca de Coco Babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 160,00 | -20.0% | Ton | Casca de Coco Babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 182,03 | +13.8% | Ton | Casca de Coco Babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 192,18 | +5.6% | Ton | Casca de Coco Babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 218,60 | +13.7% | Ton | Casca de Coco Babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 221,59 | +1.4% | Ton | Casca de Coco Babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 232,13 | +4.8% | Ton | Casca de Coco Babaçu | Port. 496/2024 |
+
+### castanha de caju (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-01-05 (efeitos) | 2010-12-23 | alterar | 0,80 |  | Kg | castanha de caju | Port. 331/2010 |
+
+### Castanha de Caju com Casca (código 50376)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 25,00 |  | Kg | Castanha de Caju com Casca | Port. 441/2018 |
+| 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,50 | -90.0% | Kg | Castanha de Caju com casca | Port. 525/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 26,26 | +950.4% | Kg | Castanha de Caju com Casca | Port. 263/2020 |
+
+### Castanha de Caju com Casca (código 50377)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 250,00 |  | Ton | Castanha de Caju com Casca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 262,59 | +5.0% | Ton | Castanha de Caju com Casca | Port. 263/2020 |
+
+### Castanha de Caju In Natura - Interestadual (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-10-13 (pub.) | 2022-10-07 | alterar | 4,20 |  | Kg | Castanha de Caju In Natura - Interestadual | Port. 575/2022 |
+
+### Castanha de Caju In Natura com Casca (código 51205)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-12-21 (pub.) | 2020-10-16 | alterar | 3,00 |  | Kg | Castanha de Caju com casca In Natura | Port. 302/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 27,72 | +824.0% | Kg | Castanha de Caju com Casca ⚠ | Port. 219/2021 |
+| 2021-10-14 (pub.) | 2021-10-11 | alterar | 4,86 | -82.5% | Kg | Castanha de Caju In Natura com Casca ⚠ | Port. 444/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,30 | -11.5% | Kg | Castanha de Caju In Natura com Casca | Port. 134/2023 |
+| 2023-09-15 (pub.) | 2023-09-11 | alterar | 3,00 | -30.2% | Kg | Castanha de Caju In Natura com Casca | Port. 413/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,00 | +0.0% | Kg | Castanha de Caju In Natura com Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,14 | +4.7% | Kg | Castanha de Caju In Natura com Casca | Port. 496/2024 |
+
+### Castanha de Caju In Natura com Casca (código 51610)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-12-21 (pub.) | 2020-10-16 | alterar | 3.000,00 |  | Ton | Castanha de Caju com casca In Natura | Port. 302/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 27.720,00 | +824.0% | Ton | Castanha de Caju com Casca ⚠ | Port. 219/2021 |
+| 2021-10-14 (pub.) | 2021-10-11 | alterar | 4.860,00 | -82.5% | Ton. | Castanha de Caju In Natura com Casca ⚠ | Port. 444/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4.300,00 | -11.5% | Ton | Castanha de Caju In Natura com Casca | Port. 134/2023 |
+| 2023-09-15 (pub.) | 2023-09-11 | alterar | 3.000,00 | -30.2% | Ton | Castanha de Caju In Natura com Casca | Port. 413/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.000,00 | +0.0% | Ton | Castanha de Caju In Natura com Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3.140,00 | +4.7% | Ton | Castanha de Caju In Natura com Casca | Port. 496/2024 |
+
+### Castanha de Caju In Natura sem Casca (código 51206)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-12-21 (pub.) | 2020-10-16 | alterar | 33,00 |  | Kg | Castanha de Caju sem casca In Natura | Port. 302/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 48,00 | +45.5% | Kg | Castanha de Caju sem Casca ⚠ | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 54,60 | +13.7% | Kg | Castanha de Caju In Natura sem Casca ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 55,35 | +1.4% | Kg | Castanha de Caju In Natura sem Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 57,98 | +4.8% | Kg | Castanha de Caju In Natura sem Casca | Port. 496/2024 |
+
+### Castanha de Caju sem Casca (código 50378)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 35,00 |  | Kg | Castanha de Caju sem Casca | Port. 441/2018 |
+| 2019-09-18 (pub.) | 2019-09-13 | alterar | 30,00 | -14.3% | Kg | Castanha de Caju sem casca | Port. 525/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 36,76 | +22.5% | Kg | Castanha de Caju sem Casca | Port. 263/2020 |
+
+### Castanha do Caju In Natura sem Casca (código 51611)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-12-21 (pub.) | 2020-10-16 | alterar | 33.000,00 |  | Ton | Castanha de Caju sem casca In Natura | Port. 302/2020 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 54.600,00 | +65.5% | Ton | Castanha do Caju In Natura sem Casca ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 55.348,02 | +1.4% | Ton | Castanha do Caju In Natura sem Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 57.980,00 | +4.8% | Ton | Castanha do Caju In Natura sem Casca | Port. 496/2024 |
+
+### Castanha do Caju sem Casca (código 50379)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 350,00 |  | Ton | Castanha do Caju sem Casca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 367,62 | +5.0% | Ton | Castanha do Caju sem Casca | Port. 263/2020 |
+
+### Castanha do Para com Casca (código 50380)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 32,00 |  | Kg | Castanha do Para com Casca | Port. 441/2018 |
+| 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,50 | -85.9% | Kg | Castanha do Para com casca | Port. 525/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 33,61 | +646.9% | Kg | Castanha do Para com Casca | Port. 263/2020 |
+
+### Castanha do Para com Casca (código 50381)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 320,00 |  | Ton | Castanha do Para com Casca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 336,11 | +5.0% | Ton | Castanha do Para com Casca | Port. 263/2020 |
+
+### Castanha do Pará In Natura com Casca (código 51207)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-12-21 (pub.) | 2020-10-16 | alterar | 6,50 |  | Kg | Castanha do Para com casca In Natura | Port. 302/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 35,48 | +445.8% | Kg | Castanha do Para com Casca ⚠ | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 60,36 | +70.1% | Kg | Castanha do Pará In Natura com Casca ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 61,19 | +1.4% | Kg | Castanha do Pará In Natura com Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 64,10 | +4.8% | Kg | Castanha do Pará In Natura com Casca | Port. 496/2024 |
+
+### Castanha do Pará In Natura com Casca (código 51612)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-12-21 (pub.) | 2020-10-16 | alterar | 6.500,00 |  | Ton | Castanha do Para com casca In Natura | Port. 302/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 35.480,00 | +445.8% | Ton | Castanha do Para com Casca ⚠ | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 60.360,00 | +70.1% | Ton | Castanha do Pará In Natura com Casca ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 61.186,93 | +1.4% | Ton | Castanha do Pará In Natura com Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 64.100,00 | +4.8% | Ton | Castanha do Pará In Natura com Casca | Port. 496/2024 |
+
+### Castanha do Pará In Natura sem Casca (código 51208)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-12-21 (pub.) | 2020-10-16 | alterar | 48,00 |  | Kg | Castanha do Para sem casca In Natura | Port. 302/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 58,00 | +20.8% | Kg | Castanha do Para sem Casca ⚠ | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 65,97 | +13.7% | Kg | Castanha do Pará In Natura sem Casca ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 66,87 | +1.4% | Kg | Castanha do Pará In Natura sem Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 70,05 | +4.8% | Kg | Castanha do Pará In Natura sem Casca | Port. 496/2024 |
+
+### Castanha do Pará In Natura sem Casca (código 51613)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-12-21 (pub.) | 2020-10-16 | alterar | 48.000,00 |  | Ton | Castanha do Para sem casca In Natura | Port. 302/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 58.000,00 | +20.8% | Ton | Castanha do Para sem Casca ⚠ | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 65.970,00 | +13.7% | Ton | Castanha do Pará In Natura sem Casca ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 66.873,79 | +1.4% | Ton | Castanha do Pará In Natura sem Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 70.050,00 | +4.7% | Ton | Castanha do Pará In Natura sem Casca | Port. 496/2024 |
+
+### Castanha do Para sem Casca (código 50382)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 42,00 |  | Kg | Castanha do Para sem Casca | Port. 441/2018 |
+| 2019-09-18 (pub.) | 2019-09-13 | alterar | 40,00 | -4.8% | Kg | Castanha do Para sem casca | Port. 525/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 44,11 | +10.3% | Kg | Castanha do Para sem Casca | Port. 263/2020 |
+
+### Castanha do Para sem Casca (código 50383)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 420,00 |  | Ton | Castanha do Para sem Casca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 441,15 | +5.0% | To | Castanha do Para sem Casca | Port. 263/2020 |
+
+### Cera de Carnaúba em pó (código 48074)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-08-25 (pub.) | 2017-08-18 | incluir | 1,50 |  | Kg | Cera de Carnaúba em Pó | Port. 377/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,65 | +10.0% | Kg | Cera de Carnaúba em pó | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,73 | +4.8% | Kg | Cera de Carnaúba em pó | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,83 | +5.8% | Kg | Cera de Carnaúba em pó | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,20 | +20.2% | Kg | Cera de Carnaúba em pó | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,23 | +1.4% | Kg | Cera de Carnaúba em pó | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,34 | +4.9% | Kg | Cera de Carnaúba em pó | Port. 496/2024 |
+
+### Cera de Carnaúba em pó (código 48075)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-08-25 (pub.) | 2017-08-18 | incluir | 1.500,00 |  | Ton. | Cera de Carnaúba em Pó | Port. 377/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1.624,35 | +8.3% | Ton | Cera de Carnaúba em pó | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.730,00 | +6.5% | Ton | Cera de Carnaúba em pó | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1.830,00 | +5.8% | Ton | Cera de Carnaúba em pó | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2.200,00 | +20.2% | Ton | Cera de Carnaúba em pó | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2.230,14 | +1.4% | Ton | Cera de Carnaúba em pó | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2.340,00 | +4.9% | Ton | Cera de Carnaúba em pó | Port. 496/2024 |
+
+### Cera de Carnaúba em pó olho da Palha (código 48076)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-08-25 (pub.) | 2017-08-18 | incluir | 2,13 |  | Kg | Cera de Carnaúba em Pó Olho da Palha | Port. 377/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,35 | +10.3% | Kg | Cera de Carnaúba em pó olho da Palha | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,47 | +5.1% | Kg | Cera de Carnaúba em pó olho da Palha | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2,61 | +5.7% | Kg | Cera de Carnaúba em pó olho da Palha | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,00 | +14.9% | Kg | Cera de Carnaúba em pó olho da Palha | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,04 | +1.3% | Kg | Cera de Carnaúba em pó olho da Palha | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,18 | +4.6% | Kg | Cera de Carnaúba em pó olho da Palha | Port. 496/2024 |
+
+### Cera de Carnaúba em pó olho da Palha (código 48077)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-08-25 (pub.) | 2017-08-18 | incluir | 2.130,00 |  | Ton. | Cera de Carnaúba em Pó Olho da Palha | Port. 377/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2.306,60 | +8.3% | Ton | Cera de Carnaúba em pó olho da Palha | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2.470,00 | +7.1% | Ton | Cera de Carnaúba em pó olho da Palha | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2.610,00 | +5.7% | Ton | Cera de Carnaúba em pó olho da Palha | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3.000,00 | +14.9% | Ton | Cera de Carnaúba em pó olho da Palha | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.041,10 | +1.4% | Ton | Cera de Carnaúba em pó olho da Palha | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3.180,00 | +4.6% | Ton | Cera de Carnaúba em pó olho da Palha | Port. 496/2024 |
+
+### Cera de Carnaúba Flor Branca (código 48079)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-08-25 (pub.) | 2017-08-18 | incluir | 4,95 |  | Kg | Cera de Carnaúba Flor Branca | Port. 377/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5,40 | +9.1% | Kg | Cera de Carnaúba Flor Branca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,67 | +5.0% | Kg | Cera de Carnaúba Flor Branca | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,99 | +5.6% | Kg | Cera de Carnaúba Flor Branca | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 7,00 | +16.9% | Kg | Cera de Carnaúba Flor Branca | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 7,10 | +1.4% | Kg | Cera de Carnaúba Flor Branca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7,44 | +4.8% | Kg | Cera de Carnaúba Flor Branca | Port. 496/2024 |
+
+### Cera de Carnaúba Flor Branca (código 48080)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-08-25 (pub.) | 2017-08-18 | incluir | 4.950,00 |  | Ton. | Cera de Carnaúba Flor Branca | Port. 377/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5.360,40 | +8.3% | Ton | Cera de Carnaúba Flor Branca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.670,00 | +5.8% | Ton | Cera de Carnaúba Flor Branca | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5.990,00 | +5.6% | Ton | Cera de Carnaúba Flor Branca | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 7.000,00 | +16.9% | Ton | Cera de Carnaúba Flor Branca | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 7.095,90 | +1.4% | Ton | Cera de Carnaúba Flor Branca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7.440,00 | +4.8% | Ton | Cera de Carnaúba Flor Branca | Port. 496/2024 |
+
+### Cera de Carnaúba Flor Parda (código 48081)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-08-25 (pub.) | 2017-08-18 | incluir | 4,59 |  | Kg | Cera de Carnaúba Flor Parda | Port. 377/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5,00 | +8.9% | Kg | Cera de Carnaúba Flor Parda | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,25 | +5.0% | Kg | Cera de Carnaúba Flor Parda | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,54 | +5.5% | Kg | Cera de Carnaúba Flor Parda | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6,50 | +17.3% | Kg | Cera de Carnaúba Flor Parda | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6,59 | +1.4% | Kg | Cera de Carnaúba Flor Parda | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6,90 | +4.7% | Kg | Cera de Carnaúba Flor Parda | Port. 496/2024 |
+
+### Cera de Carnaúba Flor Parda (código 48082)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-08-25 (pub.) | 2017-08-18 | incluir | 4.590,00 |  | Ton. | Cera de Carnaúba Flor Parda | Port. 377/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.970,50 | +8.3% | Ton | Cera de Carnaúba Flor Parda | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.250,00 | +5.6% | Ton | Cera de Carnaúba Flor Parda | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5.540,00 | +5.5% | Ton | Cera de Carnaúba Flor Parda | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6.500,00 | +17.3% | Ton | Cera de Carnaúba Flor Parda | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6.589,05 | +1.4% | Ton | Cera de Carnaúba Flor Parda | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6.900,00 | +4.7% | Ton | Cera de Carnaúba Flor Parda | Port. 496/2024 |
+
+### Coco Babaçu com Casca (código 50224)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,50 |  | Kg | Coco Babaçu com Casca | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 0,50 | +0.0% | Kg | Coco Babaçu com Casca | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 0,13 | -74.0% | Kg | Coco Babaçu com Casca | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,53 | +307.7% | Kg | Coco Babaçu com Casca | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,56 | +5.7% | Kg | Coco Babaçu com Casca | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,64 | +14.3% | Kg | Coco Babaçu com Casca | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,65 | +1.6% | Kg | Coco Babaçu com Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,68 | +4.6% | Kg | Coco Babaçu com Casca | Port. 496/2024 |
+
+### Coco Babaçu com Casca (código 50225)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 140,80 |  | Ton | Coco Babaçu com Casca | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 500,00 | +255.1% | Ton | Coco Babaçu com Casca | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 130,00 | -74.0% | Ton | Coco Babaçu com Casca | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 147,89 | +13.8% | Ton | Coco Babaçu com Casca | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 156,13 | +5.6% | Ton | Coco Babaçu com Casca | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 177,59 | +13.7% | Ton | Coco Babaçu com Casca | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 180,02 | +1.4% | Ton | Coco Babaçu com Casca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 188,59 | +4.8% | Ton | Coco Babaçu com Casca | Port. 496/2024 |
+
+### Cravim (código 49805)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 34,67 |  | kg | Cravim | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 36,95 | +6.6% | kg | Cravim | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 39,42 | +6.7% | kg | Cravim | Port. 121/2017 |
+
+### Cravinho ( Cravo ) (código 49805)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 42,70 |  | Kg | Cravinho ( Cravo ) | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 44,85 | +5.0% | Kg | Cravinho ( Cravo ) | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 47,35 | +5.6% | Kg | Cravinho ( Cravo ) | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 53,86 | +13.7% | Kg | Cravinho ( Cravo ) | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 54,60 | +1.4% | Kg | Cravinho ( Cravo ) | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 57,20 | +4.8% | Kg | Cravinho ( Cravo ) | Port. 496/2024 |
+
+### Cuim de arroz (código 48940)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 0,38 |  | Kg | Cuim de arroz | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 0,41 | +7.9% | Kg | Cuim de arroz | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 0,44 | +7.3% | Kg | Cuim de arroz | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,50 | +13.6% | Kg | Cuim de arroz | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,53 | +6.0% | Kg | Cuim de arroz | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,56 | +5.7% | Kg | Cuim de arroz | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,65 | +16.1% | Kg | Cuim de arroz | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,66 | +1.5% | Kg | Cuim de arroz | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,69 | +4.5% | Kg | Cuim de arroz | Port. 496/2024 |
+
+### Cuim de arroz - 60 kg (código 48149)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 22,45 |  | Sc | Cuim de arroz - 60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 23,93 | +6.6% | Sc | Cuim de arroz - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 25,53 | +6.7% | Sc | Cuim de arroz - 60 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 27,65 | +8.3% | Sc | Cuim de arroz - 60 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 29,04 | +5.0% | Sc | Cuim de arroz - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 30,66 | +5.6% | Sc | Cuim de arroz - 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 39,00 | +27.2% | Sc | Cuim de arroz - 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 39,53 | +1.4% | Sc | Cuim de arroz - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 41,41 | +4.8% | Sc | Cuim de arroz - 60 kg | Port. 496/2024 |
+
+### Cumim (código 48209)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 35,00 |  | Kg | Cumim | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 36,76 | +5.0% | Kg | Cumim | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 38,81 | +5.6% | Kg | Cumim | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 44,14 | +13.7% | Kg | Cumim | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 44,74 | +1.4% | Kg | Cumim | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 46,87 | +4.8% | Kg | Cumim | Port. 496/2024 |
+
+### Endocarpo de Coco Babaçu (código 50234)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,40 |  | Kg | Endocarpo de Coco Babaçu | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 0,40 | +0.0% | Kg | Endocarpo de Coco Babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 0,30 | -25.0% | Kg | Endocarpo de Coco Babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,42 | +40.0% | Kg | Endocarpo de Coco Babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,44 | +4.8% | Kg | Endocarpo de Coco Babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,50 | +13.6% | Kg | Endocarpo de Coco Babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,51 | +2.0% | Kg | Endocarpo de Coco Babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,53 | +3.9% | Kg | Endocarpo de Coco Babaçu | Port. 496/2024 |
+
+### Endocarpo de Coco Babaçu (código 50235)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 324,90 |  | Ton | Endocarpo de Coco Babaçu | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 400,00 | +23.1% | Ton | Endocarpo de Coco Babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 300,00 | -25.0% | Ton | Endocarpo de Coco Babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 341,26 | +13.8% | Ton | Endocarpo de Coco Babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 360,28 | +5.6% | Ton | Endocarpo de Coco Babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 409,80 | +13.7% | Ton | Endocarpo de Coco Babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 415,41 | +1.4% | Ton | Endocarpo de Coco Babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 435,18 | +4.8% | Ton | Endocarpo de Coco Babaçu | Port. 496/2024 |
+
+### Erva doce (código 6004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 12,91 |  | kg | Erva doce | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 13,76 | +6.6% | kg | Erva doce | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 14,68 | +6.7% | kg | Erva doce | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 16,00 | +9.0% | Kg | Erva doce | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 16,81 | +5.1% | Kg | Erva doce | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 17,75 | +5.6% | Kg | Erva doce | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 20,19 | +13.7% | Kg | Erva doce | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 20,47 | +1.4% | Kg | Erva doce | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 21,44 | +4.7% | Kg | Erva doce | Port. 496/2024 |
+
+### Farelo de Soja (código 48913)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 0,63 |  | Kg | Farelo de Soja | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 0,67 | +6.3% | Kg | Farelo de Soja | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,03 | +53.7% | Kg | Farelo de Soja | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,08 | +4.9% | Kg | Farelo de Soja | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,14 | +5.6% | Kg | Farelo de Soja | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1,30 | +14.0% | Kg | Farelo de Soja | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1,32 | +1.5% | Kg | Farelo de Soja | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1,38 | +4.5% | Kg | Farelo de Soja | Port. 496/2024 |
+
+### Farelo de Soja (código 49133)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1.030,00 |  | Ton | Farelo de Soja | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.081,87 | +5.0% | Ton | Farelo de Soja | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1.142,18 | +5.6% | Ton | Farelo de Soja | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1.300,00 | +13.8% | Ton | Farelo de Soja | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1.317,81 | +1.4% | Ton | Farelo de Soja | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.380,00 | +4.7% | Ton | Farelo de Soja | Port. 496/2024 |
+
+### Farelo de Soja (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 0,59 |  | sc | Farelo de Soja | Port. 192/2015 |
+
+### Farelo de Soja (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 0,94 |  | Kg | Farelo de Soja | Port. 191/2017 |
+
+### Farelo de Soja (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 940,00 |  | ton | Farelo de Soja | Port. 191/2017 |
+
+### Farelo de Soja - 30 Kg (código 48962)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 26,65 |  | sc | Farelo de Soja - 30 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 28,43 | +6.7% | sc | Farelo de Soja - 30 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 30,79 | +8.3% | Sc | Farelo de Soja - 30 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 32,34 | +5.0% | Sc | Farelo de Soja - 30 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 34,14 | +5.6% | Sc | Farelo de Soja - 30 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 39,00 | +14.2% | Sc | Farelo de Soja - 30 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 39,53 | +1.4% | Sc | Farelo de Soja - 30 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 41,41 | +4.8% | Sc | Farelo de Soja - 30 Kg | Port. 496/2024 |
+
+### Farelo e torta de babaçu (código 49784)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 0,37 |  | kg | Farelo e torta de babaçu | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 0,39 | +5.4% | kg | Farelo e torta de babaçu | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 0,42 | +7.7% | kg | Farelo e torta de babaçu | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,45 | +7.1% | Kg | Farelo e torta de babaçu | Port. 441/2018 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 0,42 | -6.7% | Kg | Farelo e torta de babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,47 | +11.9% | Kg | Farelo e torta de babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,50 | +6.4% | Kg | Farelo e torta de babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,57 | +14.0% | Kg | Farelo e torta de babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,58 | +1.8% | Kg | Farelo e torta de babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,61 | +5.2% | Kg | Farelo e torta de babaçu | Port. 496/2024 |
+
+### Farinha branca de primeira - 50 kg (código 19002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-07-11 (assin.) | 2003-07-11 | alterar | 35,00 |  |  | FARINHA BRANCA DE PRIMEIRA 50 Kg | Port. 262/2003 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 84,71 | +142.0% |  | 50 kg Farinha branca de primeira | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 90,29 | +6.6% | Kg | Farinha branca de primeira - 50 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 96,33 | +6.7% | Kg | Farinha branca de primeira - 50 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 104,50 | +8.5% | Kg | Farinha branca de primeira - 50 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 109,76 | +5.0% | Kg | Farinha branca de primeira - 50 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 115,88 | +5.6% | Kg | Farinha branca de primeira - 50 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 131,81 | +13.7% | Kg | Farinha branca de primeira - 50 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 133,62 | +1.4% | Kg | Farinha branca de primeira - 50 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 139,98 | +4.8% | Kg | Farinha branca de primeira - 50 kg | Port. 496/2024 |
+
+### Farinha branca de primeira -30 kg (código 19001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 54,70 |  |  | 30kg Farinha branca de primeira | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 58,30 | +6.6% | Kg | Farinha branca de primeira -30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 62,20 | +6.7% | Kg | Farinha branca de primeira -30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 67,50 | +8.5% | Kg | Farinha branca de primeira -30 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 70,90 | +5.0% | Kg | Farinha branca de primeira -30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 74,85 | +5.6% | Kg | Farinha branca de primeira -30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 85,14 | +13.7% | Kg | Farinha branca de primeira -30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 86,31 | +1.4% | Kg | Farinha branca de primeira -30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 90,42 | +4.8% | Kg | Farinha branca de primeira -30 kg | Port. 496/2024 |
+
+### Farinha branca de segunda - 30 kg (código 19004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 37,64 |  |  | 30 kg Farinha branca de segunda | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 40,12 | +6.6% | Kg | Farinha branca de segunda - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 42,80 | +6.7% | Kg | Farinha branca de segunda - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 46,50 | +8.6% | Kg | Farinha branca de segunda - 30 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 48,84 | +5.0% | Kg | Farinha branca de segunda - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 51,56 | +5.6% | Kg | Farinha branca de segunda - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 58,65 | +13.8% | Kg | Farinha branca de segunda - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 59,45 | +1.4% | Kg | Farinha branca de segunda - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 62,28 | +4.8% | Kg | Farinha branca de segunda - 30 kg | Port. 496/2024 |
+
+### Farinha branca de segunda -50kg (código 48809)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-07-11 (assin.) | 2003-07-11 | alterar | 33,00 |  |  | FARINHA BRANCA DE SEGUNDA 50 Kg | Port. 262/2003 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 59,63 | +80.7% |  | 50kg Farinha branca de segunda | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 63,56 | +6.6% | Kg | Farinha branca de segunda -50kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 67,81 | +6.7% | Kg | Farinha branca de segunda -50kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 73,50 | +8.4% | Kg | Farinha branca de segunda -50kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 77,20 | +5.0% | Kg | Farinha branca de segunda -50kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 81,50 | +5.6% | Kg | Farinha branca de segunda -50kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 92,70 | +13.7% | Kg | Farinha branca de segunda -50kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 93,97 | +1.4% | Kg | Farinha branca de segunda -50kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 98,44 | +4.8% | Kg | Farinha branca de segunda -50kg | Port. 496/2024 |
+
+### Farinha d'agua de primeira - 30 kg (código 19007)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 57,20 |  |  | 30 kg Farinha d'agua de primeira | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 60,97 | +6.6% | Kg | Farinha d'agua de primeira - 30 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 65,05 | +6.7% | Kg | Farinha d'agua de primeira - 30 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 70,50 | +8.4% | Kg | Farinha d'agua de primeira - 30 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 74,05 | +5.0% | Kg | Farinha d'agua de primeira - 30 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 78,18 | +5.6% | Kg | Farinha d'agua de primeira - 30 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 88,93 | +13.8% | Kg | Farinha d'agua de primeira - 30 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 90,15 | +1.4% | Kg | Farinha d'agua de primeira - 30 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 94,44 | +4.8% | Kg | Farinha d'agua de primeira - 30 kg | Port. 496/2024 |
+
+### Farinha d'agua de primeira - 50kg (código 19008)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 87,86 |  |  | 50kg Farinha d'agua de primeira | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 93,66 | +6.6% | Kg | Farinha d'agua de primeira - 50kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 99,93 | +6.7% | Kg | Farinha d'agua de primeira - 50kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 108,20 | +8.3% | Kg | Farinha d'agua de primeira - 50kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 113,65 | +5.0% | Kg | Farinha d'agua de primeira - 50kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 119,99 | +5.6% | Kg | Farinha d'agua de primeira - 50kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 136,48 | +13.7% | Kg | Farinha d'agua de primeira - 50kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 138,35 | +1.4% | Kg | Farinha d'agua de primeira - 50kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 144,93 | +4.8% | Kg | Farinha d'agua de primeira - 50kg | Port. 496/2024 |
+
+### Farinha d'agua de segunda - 30kg (código 19009)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 50,19 |  |  | 30kg Farinha d'agua de segunda | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 53,50 | +6.6% | Kg | Farinha d'agua de segunda - 30kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 57,08 | +6.7% | Kg | Farinha d'agua de segunda - 30kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 61,90 | +8.4% | Kg | Farinha d'agua de segunda - 30kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 65,02 | +5.0% | Kg | Farinha d'agua de segunda - 30kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 68,64 | +5.6% | Kg | Farinha d'agua de segunda - 30kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 78,07 | +13.7% | Kg | Farinha d'agua de segunda - 30kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 79,14 | +1.4% | Kg | Farinha d'agua de segunda - 30kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 82,91 | +4.8% | Kg | Farinha d'agua de segunda - 30kg | Port. 496/2024 |
+
+### Farinha d'agua de segunda - 50kg (código 19010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 67,37 |  |  | 50kg Farinha d'agua de segunda | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 71,81 | +6.6% | Kg | Farinha d'agua de segunda - 50kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 76,61 | +6.7% | Kg | Farinha d'agua de segunda - 50kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 83,00 | +8.3% | Kg | Farinha d'agua de segunda - 50kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 87,18 | +5.0% | Kg | Farinha d'agua de segunda - 50kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 92,04 | +5.6% | Kg | Farinha d'agua de segunda - 50kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 104,69 | +13.7% | Kg | Farinha d'agua de segunda - 50kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 106,12 | +1.4% | Kg | Farinha d'agua de segunda - 50kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 111,17 | +4.8% | Kg | Farinha d'agua de segunda - 50kg | Port. 496/2024 |
+
+### Farinha d'agua especial - biriba - 30kg (código 19005)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 68,56 |  |  | 30kg Farinha d'agua especial - biriba | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 73,08 | +6.6% | Kg | Farinha d'agua especial - biriba - 30kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 77,97 | +6.7% | Kg | Farinha d'agua especial - biriba - 30kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 84,50 | +8.4% | Kg | Farinha d'agua especial - biriba - 30kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 88,76 | +5.0% | Kg | Farinha d'agua especial - biriba - 30kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 93,71 | +5.6% | Kg | Farinha d'agua especial - biriba - 30kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 106,59 | +13.7% | Kg | Farinha d'agua especial - biriba - 30kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 108,05 | +1.4% | Kg | Farinha d'agua especial - biriba - 30kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 113,19 | +4.8% | Kg | Farinha d'agua especial - biriba - 30kg | Port. 496/2024 |
+
+### Farinha d'agua especial - biriba - 50 kg (código 48490)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 141,27 |  | Kg | Farinha d'agua especial - biriba - 50 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 143,21 | +1.4% | Kg | Farinha d'agua especial - biriba - 50 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 150,02 | +4.8% | Kg | Farinha d'agua especial - biriba - 50 kg | Port. 496/2024 |
+
+### Farinha d'agua especial - biriba - 50 kg (código 48490)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 90,91 |  |  | 50 kg Farinha d'agua especial - biriba | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 96,91 | +6.6% | Kg | Farinha d'agua especial - biriba - 50 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 103,39 | +6.7% | Kg | Farinha d'agua especial - biriba - 50 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 112,00 | +8.3% | Kg | Farinha d'agua especial - biriba - 50 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 117,64 | +5.0% | Kg | Farinha d'agua especial - biriba - 50 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 124,20 | +5.6% | Kg | Farinha d'agua especial - biriba - 50 kg | Port. 219/2021 |
+
+### Farinha de Coco Babaçu (código 50230)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,65 |  | Kg | Farinha de Coco Babaçu | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 0,65 | +0.0% | Kg | Farinha de Coco Babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 0,60 | -7.7% | Kg | Farinha de Coco Babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,68 | +13.3% | Kg | Farinha de Coco Babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,72 | +5.9% | Kg | Farinha de Coco Babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,82 | +13.9% | Kg | Farinha de Coco Babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,83 | +1.2% | Kg | Farinha de Coco Babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,87 | +4.8% | Kg | Farinha de Coco Babaçu | Port. 496/2024 |
+
+### Farinha de Coco Babaçu (código 50231)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 649,74 |  | Ton | Farinha de Coco Babaçu | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 650,00 | +0.0% | Ton | Farinha de Coco Babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 600,00 | -7.7% | Ton | Farinha de Coco Babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 682,46 | +13.7% | Ton | Farinha de Coco Babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 720,50 | +5.6% | Ton | Farinha de Coco Babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 819,53 | +13.7% | Ton | Farinha de Coco Babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 830,76 | +1.4% | Ton | Farinha de Coco Babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 870,29 | +4.8% | Ton | Farinha de Coco Babaçu | Port. 496/2024 |
+
+### Farinha de tapioca (goma) – 60 kg (código 35001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 74,50 |  | sc | tapioca de goma – 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 84,74 | +13.7% | sc | Farinha de tapioca (goma) – 60 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 85,90 | +1.4% | sc | Farinha de tapioca (goma) – 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 89,99 | +4.8% | sc | Farinha de tapioca (goma) – 60 kg | Port. 496/2024 |
+
+### Farinha de trigo a granel pré misturada (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-04-23 (assin.) | 2012-04-23 | alterar | 1.970,00 |  | t | Farinha de trigo a granel pré misturada | Port. 108/2012 |
+
+### Farinha de Trigo c/fermento 10 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 12,00 |  | fd | Farinha de Trigo c/fermento 10 kg | Port. 227/2006 |
+
+### Farinha de Trigo com Fermento – fardo 10 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 45,00 |  |  | Farinha de Trigo com Fermento – fardo 10 kg | Port. 151/2022 |
+
+### Farinha de trigo comum - 1 kg (código 48540)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,84 |  | Kg | Farinha de trigo comum - 1 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,96 | +6.5% | Kg | Farinha de trigo comum - 1 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,20 | +12.2% | Kg | Farinha de trigo comum - 1 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,31 | +5.0% | Kg | Farinha de trigo comum - 1 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2,44 | +5.6% | Kg | Farinha de trigo comum - 1 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,78 | +13.9% | Kg | Farinha de trigo comum - 1 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,82 | +1.4% | Kg | Farinha de trigo comum - 1 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,95 | +4.6% | Kg | Farinha de trigo comum - 1 kg | Port. 496/2024 |
+
+### Farinha de trigo comum - 10 kg (código 48607)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 9,09 |  | fd | Farinha Trigo Comum 10 Kg | Port. 227/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 20,65 | +127.2% |  | 10 kg Farinha de trigo comum | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 22,01 | +6.6% | Kg | Farinha de trigo comum - 10 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 23,48 | +6.7% | Kg | Farinha de trigo comum - 10 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 25,45 | +8.4% | Kg | Farinha de trigo comum - 10 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 26,73 | +5.0% | Kg | Farinha de trigo comum - 10 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 28,22 | +5.6% | Kg | Farinha de trigo comum - 10 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 32,10 | +13.7% | Kg | Farinha de trigo comum - 10 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 32,54 | +1.4% | Kg | Farinha de trigo comum - 10 kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 50,00 | +53.7% | Fd | Farinha de Trigo Comum - 10 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 34,09 | -31.8% | Kg | Farinha de trigo comum - 10 kg | Port. 496/2024 |
+
+### Farinha de trigo comum - 2 kg (código 19013)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | alterar | 1,80 |  | kg | Farinha Trigo Comum 2 Kg | Port. 227/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,44 | +91.1% |  | 2 kg Farinha de trigo comum | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,67 | +6.7% | Kg | Farinha de trigo comum - 2 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,92 | +6.8% | Kg | Farinha de trigo comum - 2 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4,30 | +9.7% | Kg | Farinha de trigo comum - 2 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,52 | +5.1% | Kg | Farinha de trigo comum - 2 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,77 | +5.5% | Kg | Farinha de trigo comum - 2 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5,43 | +13.8% | Kg | Farinha de trigo comum - 2 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5,50 | +1.3% | Kg | Farinha de trigo comum - 2 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,76 | +4.7% | Kg | Farinha de trigo comum - 2 kg | Port. 496/2024 |
+
+### Farinha de trigo Comum - 25 kg (código 48606)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 27,50 |  | sc | Farinha de Trigo Comum 25 kG | Port. 227/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 57,31 | +108.4% |  | 25 kg Farinha de trigo Comum | Port. 192/2015 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 43,00 | -25.0% | Kg | Farinha de Trigo Comum – 25 kg | Port. 394/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 61,09 | +42.1% | Kg | Farinha de trigo Comum - 25 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 65,18 | +6.7% | Kg | Farinha de trigo Comum - 25 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 70,60 | +8.3% | Kg | Farinha de trigo Comum - 25 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 74,16 | +5.0% | Kg | Farinha de trigo Comum - 25 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 78,29 | +5.6% | Kg | Farinha de trigo Comum - 25 kg | Port. 219/2021 |
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 105,00 | +34.1% |  | Farinha de Trigo Comum – saco 25 kg ⚠ | Port. 151/2022 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 89,05 | -15.2% | Kg | Farinha de trigo Comum - 25 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 90,27 | +1.4% | Kg | Farinha de trigo Comum - 25 kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 109,01 | +20.8% | Sc | Farinha de Trigo Comum - 25 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 94,57 | -13.2% | Kg | Farinha de trigo Comum - 25 kg | Port. 496/2024 |
+
+### Farinha de trigo comum - 50 kg (código 19012)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | alterar | 55,00 |  | sc | Farinha de Trigo Comum 50 kG | Port. 227/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 117,70 | +114.0% |  | 50 kg Farinha de trigo comum | Port. 192/2015 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 85,00 | -27.8% | kg | Farinha de Trigo Comum – 50 kg | Port. 394/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 122,52 | +44.1% | Kg | Farinha de trigo comum - 50 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 130,72 | +6.7% | Kg | Farinha de trigo comum - 50 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 141,60 | +8.3% | Kg | Farinha de trigo comum - 50 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 148,73 | +5.0% | Kg | Farinha de trigo comum - 50 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 157,02 | +5.6% | Kg | Farinha de trigo comum - 50 kg | Port. 219/2021 |
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 210,00 | +33.7% |  | Farinha de Trigo Comum – saco 50 kg ⚠ | Port. 151/2022 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 178,60 | -15.0% | Kg | Farinha de trigo comum - 50 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 181,05 | +1.4% | Kg | Farinha de trigo comum - 50 kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 218,23 | +20.5% | Sc | Farinha de Trigo Comum - 50 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 189,66 | -13.1% | Kg | Farinha de trigo comum - 50 kg | Port. 496/2024 |
+
+### Farinha de Trigo Comum 1 kG (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 0,90 |  | sc | Farinha de Trigo Comum 1 kG | Port. 227/2006 |
+
+### Farinha de trigo comum a granel (código 48612)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 1.100,00 |  | t | Farinha de Trigo comum a granel | Port. 227/2006 |
+| 2012-04-23 (assin.) | 2012-04-23 | alterar | 1.720,00 | +56.4% | t | Farinha de trigo comum a granel | Port. 108/2012 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1.987,68 | +15.6% | t | Farinha de trigo comum a granel | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2.118,72 | +6.6% | t | Farinha de trigo comum a granel | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2.260,46 | +6.7% | t | Farinha de trigo comum a granel | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2447,90 | +8.3% | Ton | Farinha de trigo comum a granel | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2.571,17 | +5.0% | Ton | Farinha de trigo comum a granel | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2.714,50 | +5.6% | Ton | Farinha de trigo comum a granel | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3.087,61 | +13.7% | Ton | Farinha de trigo comum a granel | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.129,91 | +1.4% | Ton | Farinha de trigo comum a granel | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3.278,83 | +4.8% | Ton | Farinha de trigo comum a granel | Port. 496/2024 |
+
+### Farinha de Trigo Comum a Granel 1.000 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 4.200,00 |  |  | Farinha de Trigo Comum a Granel 1.000 kg | Port. 151/2022 |
+
+### Farinha de trigo especial - 1 kg (código 49615)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,15 |  | Kg | Farinha de trigo especial - 1 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,33 | +5.7% | Kg | Farinha de trigo especial - 1 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,79 | +13.8% | Kg | Farinha de trigo especial - 1 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,84 | +1.3% | Kg | Farinha de trigo especial - 1 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,02 | +4.7% | Kg | Farinha de trigo especial - 1 kg | Port. 496/2024 |
+
+### Farinha de trigo especial - 1 kg (código 48615)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,42 |  |  | 1 kg Farinha de trigo especial | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,57 | +6.2% | Kg | Farinha de trigo especial - 1 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,74 | +6.6% | Kg | Farinha de trigo especial - 1 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,00 | +9.5% | Kg | Farinha de trigo especial - 1 kg | Port. 441/2018 |
+
+### Farinha de trigo especial - 2 kg (código 48537)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | alterar | 2,24 |  | kg | Farinha de Trigo especial 2 kg | Port. 227/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 4,63 | +106.7% |  | 2 kg Farinha de trigo especial | Port. 192/2015 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 4,20 | -9.3% | kg | Farinha de Trigo Especial – 2 kg | Port. 394/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,94 | +17.6% | Kg | Farinha de trigo especial - 2 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 5,27 | +6.7% | Kg | Farinha de trigo especial - 2 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5,75 | +9.1% | Kg | Farinha de trigo especial - 2 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6,04 | +5.0% | Kg | Farinha de trigo especial - 2 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 6,38 | +5.6% | Kg | Farinha de trigo especial - 2 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 7,26 | +13.8% | Kg | Farinha de trigo especial - 2 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 7,36 | +1.4% | Kg | Farinha de trigo especial - 2 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7,71 | +4.8% | Kg | Farinha de trigo especial - 2 kg | Port. 496/2024 |
+
+### Farinha de trigo especial - 25 kg (código 48616)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 28,00 |  | sc | Farinha de Trigo especial 25 Kg | Port. 227/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 62,29 | +122.5% |  | 25 kg Farinha de trigo especial | Port. 192/2015 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 46,00 | -26.2% | Kg | Farinha de Trigo Especial – 25 kg | Port. 394/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 66,39 | +44.3% | Kg | Farinha de trigo especial - 25 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 70,83 | +6.7% | Kg | Farinha de trigo especial - 25 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 76,70 | +8.3% | Kg | Farinha de trigo especial - 25 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 80,56 | +5.0% | Kg | Farinha de trigo especial - 25 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 85,05 | +5.6% | Kg | Farinha de trigo especial - 25 kg | Port. 219/2021 |
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 110,00 | +29.3% |  | Farinha de Trigo Especial – saco 25 kg ⚠ | Port. 151/2022 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 96,74 | -12.1% | Kg | Farinha de trigo especial - 25 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 98,07 | +1.4% | Kg | Farinha de trigo especial - 25 kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 125,99 | +28.5% | Sc | Farinha de Trigo Especial - 25 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 102,74 | -18.5% | Kg | Farinha de trigo especial - 25 kg | Port. 496/2024 |
+
+### Farinha de trigo especial - 50 kg (código 19014)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | alterar | 56,00 |  | sc | Farinha de Trigo especial 50 Kg | Port. 227/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 114,94 | +105.2% |  | 50 kg Farinha de trigo especial | Port. 192/2015 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 90,00 | -21.7% | Kg | Farinha de Trigo Especial – 50 kg | Port. 394/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 125,46 | +39.4% | Kg | Farinha de trigo especial - 50 kg | Port. 9/2016 |
+| 2016-07-12 (pub.) | 2016-06-07 | alterar | 94,00 | -25.1% | kg | Farinha de Trigo Especial – 50 kg | Port. 263/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 133,85 | +42.4% | Kg | Farinha de trigo especial - 50 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 145,00 | +8.3% | Kg | Farinha de trigo especial - 50 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 152,30 | +5.0% | Kg | Farinha de trigo especial - 50 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 160,79 | +5.6% | Kg | Farinha de trigo especial - 50 kg | Port. 219/2021 |
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 220,00 | +36.8% |  | Farinha de Trigo Especial – saco 50 kg ⚠ | Port. 151/2022 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 182,89 | -16.9% | Kg | Farinha de trigo especial - 50 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 185,40 | +1.4% | Kg | Farinha de trigo especial - 50 kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 249,99 | +34.8% | Sc | Farinha de Trigo Especial - 50 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 194,22 | -22.3% | Kg | Farinha de trigo especial - 50 kg | Port. 496/2024 |
+
+### Farinha de Trigo especial 1 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 1,12 |  | sc | Farinha de Trigo especial 1 Kg | Port. 227/2006 |
+
+### Farinha de Trigo especial 10 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 11,20 |  | fd | Farinha de Trigo especial 10 kg | Port. 227/2006 |
+
+### Farinha de trigo especial a granel (código 48613)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-04-23 (assin.) | 2012-04-23 | alterar | 1.808,00 |  | t | Farinha de trigo especial a granel | Port. 108/2012 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2.089,37 | +15.6% | t | Farinha de trigo especial a granel | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2.227,12 | +6.6% | t | Farinha de trigo especial a granel | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2.376,11 | +6.7% | t | Farinha de trigo especial a granel | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2573,10 | +8.3% | Ton | Farinha de trigo especial a granel | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2.702,67 | +5.0% | Ton | Farinha de trigo especial a granel | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2.853,33 | +5.6% | Ton | Farinha de trigo especial a granel | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3.245,52 | +13.7% | Ton | Farinha de trigo especial a granel | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.289,98 | +1.4% | Ton | Farinha de trigo especial a granel | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 3.558,25 | +8.2% | Ton | Farinha de Trigo Especial Agranel - 1.000 kg ⚠ | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3.446,52 | -3.1% | Ton | Farinha de trigo especial a granel ⚠ | Port. 496/2024 |
+
+### Farinha de Trigo Especial a Granel 1.000 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 4.400,00 |  |  | Farinha de Trigo Especial a Granel 1.000 kg | Port. 151/2022 |
+
+### Farinha de trigo especial com fermento 10 Kg (código 48611)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 29,70 |  | fd | Farinha de trigo especial c/fermento 10 Kg | Port. 192/2015 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 21,00 | -29.3% | fd | Farinha de Trigo Especial c/Fermento – 10 kg | Port. 394/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 31,66 | +50.8% | fd | Farinha de trigo especial c/fermento 10 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 33,78 | +6.7% | fd | Farinha de trigo especial c/fermento 10 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 36,60 | +8.3% | Fd | Farinha de trigo especial c/fermento 10 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 38,44 | +5.0% | Fd | Farinha de trigo especial c/fermento 10 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 40,58 | +5.6% | Fd | Farinha de trigo especial c/fermento 10 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 51,19 | +26.1% | Fd | Farinha de trigo especial com fermento 10 Kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 51,89 | +1.4% | Fd | Farinha de trigo especial com fermento 10 Kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 54,00 | +4.1% | Fd | Farinha de Trigo Especial com Fermento - 10 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 54,36 | +0.7% | Fd | Farinha de trigo especial com fermento 10 Kg | Port. 496/2024 |
+
+### Farinha de trigo especial sem fermento 10 kg (código 48617)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 26,93 |  | fd | Farinha de trigo especial s/fermento 10 kg | Port. 192/2015 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 20,00 | -25.7% | fd | Farinha de Trigo Especial s/Fermento – 10 kg | Port. 394/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 28,70 | +43.5% | fd | Farinha de trigo especial s/fermento 10 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 30,62 | +6.7% | fd | Farinha de trigo especial s/fermento 10 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 33,20 | +8.4% | Fd | Farinha de trigo especial s/fermento 10 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 34,87 | +5.0% | Fd | Farinha de trigo especial s/fermento 10 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 36,81 | +5.6% | Fd | Farinha de trigo especial s/fermento 10 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 48,91 | +32.9% | Fd | Farinha de trigo especial sem fermento 10 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 49,58 | +1.4% | Fd | Farinha de trigo especial sem fermento 10 kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 58,00 | +17.0% | Fd | Farinha de Trigo Especial sem Fermento - 10 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 51,94 | -10.4% | Fd | Farinha de trigo especial sem fermento 10 kg | Port. 496/2024 |
+
+### Farinha de trigo integral - 25 kg (código 52860)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 120,00 |  |  | Farinha de Trigo Integral - saco 25 kg | Port. 151/2022 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 136,49 | +13.7% | Sc | Farinha de trigo integral - 25 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 138,36 | +1.4% | Sc | Farinha de trigo integral - 25 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 144,94 | +4.8% | Sc | Farinha de trigo integral - 25 kg | Port. 496/2024 |
+
+### Farinha de Trigo per Mistura / Aditivada - saco 25 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 113,00 |  |  | Farinha de Trigo per Mistura / Aditivada - saco 25 kg | Port. 151/2022 |
+
+### Farinha de Trigo pre mistura / aditivada a Granel 1.000 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 4.520,00 |  |  | Farinha de Trigo pre mistura / aditivada a Granel 1.000 kg | Port. 151/2022 |
+
+### Farinha de trigo pré mistura/ Aditivada - 25 kg (código 48618)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 55,35 |  | sc | Farinha de trigo pré mistura 25 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 59,00 | +6.6% | sc | Farinha de trigo pré mistura 25 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 62,95 | +6.7% | sc | Farinha de trigo pré mistura 25 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 68,20 | +8.3% | Sc | Farinha de trigo pré mistura 25 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 71,63 | +5.0% | Sc | Farinha de trigo pré mistura 25 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 75,62 | +5.6% | Sc | Farinha de trigo pré mistura 25 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 86,01 | +13.7% | Sc | Farinha de trigo pré mistura/ Aditivada - 25 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 87,19 | +1.4% | Sc | Farinha de trigo pré mistura/ Aditivada - 25 kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 119,00 | +36.5% | Sc | Farinha de Trigo Pre Mistura/Aditivada - 25 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 91,34 | -23.2% | Sc | Farinha de trigo pré mistura/ Aditivada - 25 kg | Port. 496/2024 |
+
+### Farinha de trigo pré mistura/Aditivada - 50 kg (código 48609)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 89,41 |  | sc | Farinha de trigo pré - mistura 50 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 95,31 | +6.6% | sc | Farinha de trigo pré - mistura 50 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 101,69 | +6.7% | sc | Farinha de trigo pré - mistura 50 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 110,20 | +8.4% | Sc | Farinha de trigo pré - mistura 50 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 115,75 | +5.0% | Sc | Farinha de trigo pré - mistura 50 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 122,20 | +5.6% | Sc | Farinha de trigo pré - mistura 50 kg | Port. 219/2021 |
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 226,00 | +84.9% |  | Farinha de Trigo pre Mistura / Aditivada - saco 50 kg ⚠ | Port. 151/2022 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 139,00 | -38.5% | Sc | Farinha de trigo pré mistura/Aditivada - 50 kg ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 140,90 | +1.4% | Sc | Farinha de trigo pré mistura/Aditivada - 50 kg | Port. 476/2023 |
+| 2024-02-22 (pub.) | 2024-02-15 | incluir | 222,00 | +57.6% | Sc | Farinha de Trigo Pre Mistura/Aditivada - 50 kg | Port. 50/2024 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 147,60 | -33.5% | Sc | Farinha de trigo pré mistura/Aditivada - 50 kg | Port. 496/2024 |
+
+### Farinha de trigo pré mistura/Aditivada a Granel (código 48614)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 1.200,00 |  | t | Farinha de Trigo a granel pré mistura | Port. 227/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2.276,59 | +89.7% | t | Farinha de trigo a granel pré mistura | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2.426,68 | +6.6% | t | Farinha de trigo a granel pré mistura | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2.589,02 | +6.7% | t | Farinha de trigo a granel pré mistura | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2803,70 | +8.3% | Ton | Farinha de trigo a granel pré mistura | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2.944,89 | +5.0% | Ton | Farinha de trigo a granel pré mistura | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3.109,05 | +5.6% | Ton | Farinha de trigo a granel pré mistura | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3.536,39 | +13.7% | Ton | Farinha de trigo pré mistura/Aditivada a Granel ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.584,84 | +1.4% | Ton | Farinha de trigo pré mistura/Aditivada a Granel | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3.755,41 | +4.8% | Ton | Farinha de trigo pré mistura/Aditivada a Granel | Port. 496/2024 |
+
+### Farinha de Trigo Pre-mistura – 25 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 30,00 |  | kg | Farinha Trigo pré mistura 25kg | Port. 227/2006 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 47,00 | +56.7% | Kg | Farinha de Trigo Pre-mistura – 25 kg | Port. 394/2015 |
+
+### Farinha de Trigo Pre-mistura– 50 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 60,00 |  | kg | Farinha Trigo pré mistura 50 kg | Port. 227/2006 |
+| 2015-08-19 (assin.) | 2015-08-19 | alterar | 93,00 | +55.0% | Kg | Farinha de Trigo Pre-mistura– 50 kg | Port. 394/2015 |
+
+### Farinha de Trigo sem Fermento – fardo 10 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2022-04-01 (pub.) | 2022-03-29 | alterar | 43,00 |  |  | Farinha de Trigo sem Fermento – fardo 10 kg | Port. 151/2022 |
+
+### Fava branca comum (código 49817)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,94 |  | kg | Fava branca comum | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,07 | +6.7% | kg | Fava branca comum | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,21 | +6.8% | kg | Fava branca comum | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,40 | +8.6% | Kg | Fava branca comum | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,52 | +5.0% | Kg | Fava branca comum | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2,66 | +5.6% | Kg | Fava branca comum | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,03 | +13.9% | Kg | Fava branca comum | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,07 | +1.3% | Kg | Fava branca comum | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,22 | +4.9% | Kg | Fava branca comum | Port. 496/2024 |
+
+### Fava branca comum 60 kg (código 49818)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 177,85 |  | Kg | Fava branca comum 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 180,29 | +1.4% | Kg | Fava branca comum 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 188,87 | +4.8% | Kg | Fava branca comum 60 kg | Port. 496/2024 |
+
+### Fava branca comum 60 kg (código 49618)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 121,95 |  | kg | Fava branca comum 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 130,11 | +6.7% | kg | Fava branca comum 60 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 141,00 | +8.4% | Kg | Fava branca comum 60 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 148,10 | +5.0% | Kg | Fava branca comum 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 156,36 | +5.6% | Kg | Fava branca comum 60 kg | Port. 219/2021 |
+
+### Fava branca comum 60 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 114,41 |  | sc | Fava branca comum 60 kg | Port. 192/2015 |
+
+### Fava danta (código 44001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,83 |  | kg | Fava danta | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,02 | +6.7% | kg | Fava danta | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,22 | +6.6% | kg | Fava danta | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,50 | +8.7% | Kg | Fava danta | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,68 | +5.1% | Kg | Fava danta | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,89 | +5.7% | Kg | Fava danta | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,42 | +13.6% | Kg | Fava danta | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,48 | +1.4% | Kg | Fava danta | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,69 | +4.7% | Kg | Fava danta | Port. 496/2024 |
+
+### Fava muncuna (código 44003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 4,19 |  | kg | Fava muncuna | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,47 | +6.7% | kg | Fava muncuna | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,77 | +6.7% | kg | Fava muncuna | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5,20 | +9.0% | Kg | Fava muncuna | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,46 | +5.0% | Kg | Fava muncuna | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,76 | +5.5% | Kg | Fava muncuna | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6,55 | +13.7% | Kg | Fava muncuna | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6,64 | +1.4% | Kg | Fava muncuna | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6,96 | +4.8% | Kg | Fava muncuna | Port. 496/2024 |
+
+### Feijão branco - 60 Kg (código 23001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 62,61 |  | sc | Feijão branco - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 66,74 | +6.6% | sc | Feijão branco - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 71,20 | +6.7% | sc | Feijão branco - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 77,10 | +8.3% | Sc | Feijão branco - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 80,98 | +5.0% | Sc | Feijão branco - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 85,49 | +5.6% | Sc | Feijão branco - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 97,24 | +13.7% | Sc | Feijão branco - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 98,57 | +1.4% | Sc | Feijão branco - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 103,26 | +4.8% | Sc | Feijão branco - 60 Kg | Port. 496/2024 |
+
+### Feijão carioquinha - 60 Kg (código 23002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 137,00 |  | sc | Feijão carioquinha - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 146,03 | +6.6% | sc | Feijão carioquinha - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 155,80 | +6.7% | sc | Feijão carioquinha - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 168,75 | +8.3% | Sc | Feijão carioquinha - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 177,25 | +5.0% | Sc | Feijão carioquinha - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 187,13 | +5.6% | Sc | Feijão carioquinha - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 212,85 | +13.7% | Sc | Feijão carioquinha - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 215,77 | +1.4% | Sc | Feijão carioquinha - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 226,04 | +4.8% | Sc | Feijão carioquinha - 60 Kg | Port. 496/2024 |
+
+### Feijão Caupi - 60 Kg (código 48720)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-06 (pub.) | 2015-06-30 | incluir | 50,00 |  | Sc | Feijão Caupi - 60 Kg | Port. 315/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 53,30 | +6.6% | sc | Feijão Caupi - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 56,87 | +6.7% | sc | Feijão Caupi - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 61,60 | +8.3% | Sc | Feijão Caupi - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 64,70 | +5.0% | Sc | Feijão Caupi - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 68,31 | +5.6% | Sc | Feijão Caupi - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 77,70 | +13.7% | Sc | Feijão Caupi - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 78,76 | +1.4% | Sc | Feijão Caupi - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 82,51 | +4.8% | Sc | Feijão Caupi - 60 Kg | Port. 496/2024 |
+
+### Feijão macassar corda - 60 kg (código 23003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 93,99 |  | sc | Feijão macassar corda - 60 kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 100,18 | +6.6% | sc | Feijão macassar corda - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 106,88 | +6.7% | sc | Feijão macassar corda - 60 kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 115,75 | +8.3% | Sc | Feijão macassar corda - 60 kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 121,58 | +5.0% | Sc | Feijão macassar corda - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 128,36 | +5.6% | Sc | Feijão macassar corda - 60 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 146,00 | +13.7% | Sc | Feijão macassar corda - 60 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 148,00 | +1.4% | Sc | Feijão macassar corda - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 155,04 | +4.8% | Sc | Feijão macassar corda - 60 kg | Port. 496/2024 |
+
+### Feijão manteiga - 60 Kg (código 23004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 101,31 |  | sc | Feijão manteiga - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 107,99 | +6.6% | sc | Feijão manteiga - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 115,21 | +6.7% | sc | Feijão manteiga - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 124,80 | +8.3% | Sc | Feijão manteiga - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 131,08 | +5.0% | Sc | Feijão manteiga - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 138,39 | +5.6% | Sc | Feijão manteiga - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 157,41 | +13.7% | Sc | Feijão manteiga - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 159,57 | +1.4% | Sc | Feijão manteiga - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 167,16 | +4.8% | Sc | Feijão manteiga - 60 Kg | Port. 496/2024 |
+
+### Feijão moitinha - 60 Kg (código 23005)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 113,02 |  | sc | Feijão moitinha - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 120,47 | +6.6% | sc | Feijão moitinha - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 128,53 | +6.7% | sc | Feijão moitinha - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 139,20 | +8.3% | Sc | Feijão moitinha - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 146,21 | +5.0% | Sc | Feijão moitinha - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 154,36 | +5.6% | Sc | Feijão moitinha - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 175,58 | +13.7% | Sc | Feijão moitinha - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 177,99 | +1.4% | Sc | Feijão moitinha - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 186,46 | +4.8% | Sc | Feijão moitinha - 60 Kg | Port. 496/2024 |
+
+### Feijão mulata gorda - 60 Kg (código 23006)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 157,25 |  | sc | Feijão mulata gorda - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 167,61 | +6.6% | sc | Feijão mulata gorda - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 178,82 | +6.7% | sc | Feijão mulata gorda - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 193,65 | +8.3% | Sc | Feijão mulata gorda - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 203,40 | +5.0% | Sc | Feijão mulata gorda - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 214,74 | +5.6% | Sc | Feijão mulata gorda - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 244,26 | +13.7% | Sc | Feijão mulata gorda - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 247,61 | +1.4% | Sc | Feijão mulata gorda - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 259,39 | +4.8% | Sc | Feijão mulata gorda - 60 Kg | Port. 496/2024 |
+
+### Feijão nova era - 60 Kg (código 48792)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-06 (pub.) | 2015-06-30 | incluir | 50,00 |  | Sc | Feijão Nova Era – 60 Kg | Port. 315/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 53,30 | +6.6% | sc | Feijão nova era - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 56,87 | +6.7% | sc | Feijão nova era - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 61,60 | +8.3% | Sc | Feijão nova era - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 64,70 | +5.0% | Sc | Feijão nova era - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 68,31 | +5.6% | Sc | Feijão nova era - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 77,70 | +13.7% | Sc | Feijão nova era - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 78,76 | +1.4% | Sc | Feijão nova era - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 82,51 | +4.8% | Sc | Feijão nova era - 60 Kg | Port. 496/2024 |
+
+### Feijão Pingo de Ouro - 60 Kg (código 48718)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-06 (pub.) | 2015-06-30 | incluir | 50,00 |  | Sc | Feijão Pingo de Ouro – 60 Kg | Port. 315/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 53,30 | +6.6% | sc | Feijão Pingo de Ouro - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 56,87 | +6.7% | sc | Feijão Pingo de Ouro - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 61,60 | +8.3% | Sc | Feijão Pingo de Ouro - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 64,70 | +5.0% | Sc | Feijão Pingo de Ouro - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 68,31 | +5.6% | Sc | Feijão Pingo de Ouro - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 77,70 | +13.7% | Sc | Feijão Pingo de Ouro - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 78,76 | +1.4% | Sc | Feijão Pingo de Ouro - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 82,51 | +4.8% | Sc | Feijão Pingo de Ouro - 60 Kg | Port. 496/2024 |
+
+### Feijão preto - 60 Kg (código 23008)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 148,71 |  | sc | Feijão preto - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 158,51 | +6.6% | sc | Feijão preto - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 169,11 | +6.7% | sc | Feijão preto - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 183,25 | +8.4% | Sc | Feijão preto - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 192,48 | +5.0% | Sc | Feijão preto - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 203,21 | +5.6% | Sc | Feijão preto - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 231,14 | +13.7% | Sc | Feijão preto - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 234,31 | +1.4% | Sc | Feijão preto - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 245,46 | +4.8% | Sc | Feijão preto - 60 Kg | Port. 496/2024 |
+
+### Feijão quebra cadeira - 60 Kg (código 23009)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 108,89 |  | sc | Feijão quebra cadeira - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 116,07 | +6.6% | sc | Feijão quebra cadeira - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 123,84 | +6.7% | sc | Feijão quebra cadeira - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 134,10 | +8.3% | Sc | Feijão quebra cadeira - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 140,85 | +5.0% | Sc | Feijão quebra cadeira - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 148,70 | +5.6% | Sc | Feijão quebra cadeira - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 169,14 | +13.7% | Sc | Feijão quebra cadeira - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 171,46 | +1.4% | Sc | Feijão quebra cadeira - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 179,62 | +4.8% | Sc | Feijão quebra cadeira - 60 Kg | Port. 496/2024 |
+
+### Feijão sempre verde - 60 Kg (código 23010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 96,61 |  | sc | Feijão sempre verde - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 102,98 | +6.6% | sc | Feijão sempre verde - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 109,87 | +6.7% | sc | Feijão sempre verde - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 119,00 | +8.3% | Sc | Feijão sempre verde - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 124,99 | +5.0% | Sc | Feijão sempre verde - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 131,96 | +5.6% | Sc | Feijão sempre verde - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 150,10 | +13.7% | Sc | Feijão sempre verde - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 152,16 | +1.4% | Sc | Feijão sempre verde - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 159,40 | +4.8% | Sc | Feijão sempre verde - 60 Kg | Port. 496/2024 |
+
+### Feijão vermelho - 60 Kg (código 49812)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 145,11 |  | sc | Feijão vermelho - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 154,68 | +6.6% | sc | Feijão vermelho - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 165,03 | +6.7% | sc | Feijão vermelho - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 178,70 | +8.3% | Sc | Feijão vermelho - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 187,70 | +5.0% | Sc | Feijão vermelho - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 198,16 | +5.6% | Sc | Feijão vermelho - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 225,40 | +13.7% | Sc | Feijão vermelho - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 228,49 | +1.4% | Sc | Feijão vermelho - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 239,36 | +4.8% | Sc | Feijão vermelho - 60 Kg | Port. 496/2024 |
+
+### Folha de Louro (código 50369)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 20,00 |  | Kg | Folha de Louro | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 21,01 | +5.0% | Kg | Folha de Louro | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 22,18 | +5.6% | Kg | Folha de Louro | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 25,23 | +13.8% | Kg | Folha de Louro | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 25,58 | +1.4% | Kg | Folha de Louro | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 26,80 | +4.8% | Kg | Folha de Louro | Port. 496/2024 |
+
+### Fumo em corda (código 17002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-04-07 (assin.) | 2010-04-07 | alterar | 5,00 |  | Kg | Fumo em Corda | Port. 102/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 7,51 | +50.2% | kg | Fumo em corda | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 8,01 | +6.7% | kg | Fumo em corda | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 8,55 | +6.7% | kg | Fumo em corda | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 9,30 | +8.8% | Kg | Fumo em corda | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 9,77 | +5.1% | Kg | Fumo em corda | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 10,31 | +5.5% | Kg | Fumo em corda | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 11,73 | +13.8% | Kg | Fumo em corda | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 11,89 | +1.4% | Kg | Fumo em corda | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 12,46 | +4.8% | Kg | Fumo em corda | Port. 496/2024 |
+
+### Fumo em Corda Quilograma (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2007-02-28 (pub.) | 2007-02-28 | alterar | 3,50 |  |  | Fumo em Corda Quilograma | Port. 136/2007 |
+
+### Fumo picado (código 17003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-04-07 (assin.) | 2010-04-07 | alterar | 5,00 |  | Kg | Fumo Picado | Port. 102/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 7,16 | +43.2% | kg | Fumo picado | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 7,64 | +6.7% | kg | Fumo picado | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 8,15 | +6.7% | kg | Fumo picado | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 8,90 | +9.2% | Kg | Fumo picado | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 9,35 | +5.1% | Kg | Fumo picado | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 9,87 | +5.6% | Kg | Fumo picado | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 11,23 | +13.8% | Kg | Fumo picado | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 11,38 | +1.3% | Kg | Fumo picado | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 11,92 | +4.7% | Kg | Fumo picado | Port. 496/2024 |
+
+### Fumo Picado Quilograma (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2007-02-28 (pub.) | 2007-02-28 | alterar | 3,50 |  |  | Fumo Picado Quilograma | Port. 136/2007 |
+
+### Gergelim (código 48256)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 6,55 |  | kg | Gergelim | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 6,98 | +6.6% | kg | Gergelim | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 7,45 | +6.7% | kg | Gergelim | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 8,00 | +7.4% | Kg | Gergelim | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 8,40 | +5.0% | Kg | Gergelim | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 8,87 | +5.6% | Kg | Gergelim | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 10,09 | +13.8% | Kg | Gergelim | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 10,23 | +1.4% | Kg | Gergelim | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 10,72 | +4.8% | Kg | Gergelim | Port. 496/2024 |
+
+### Jaborandi folha desidratada ( sêca ) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-07-14 (assin.) | 2008-07-14 | incluir | 2,00 |  | Kg | Jaborandi folha desidratada ( sêca ) | Port. 337/2008 |
+
+### Jaborandi folha seca (código 48897)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,41 |  | kg | Jaborandi folha seca | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,63 | +6.5% | kg | Jaborandi folha verde ⚠ | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,87 | +6.6% | kg | Jaborandi folha verde | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4,20 | +8.5% | Kg | Jaborandi folha verde | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,41 | +5.0% | Kg | Jaborandi folha verde | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,66 | +5.7% | Kg | Jaborandi folha verde | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5,95 | +27.7% | Kg | Jaborandi folha seca ⚠ | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6,03 | +1.3% | Kg | Jaborandi folha seca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6,32 | +4.8% | Kg | Jaborandi folha seca | Port. 496/2024 |
+
+### Jaborandi folha verde (código 48896)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5,80 |  | Kg | Jaborandi folha verde | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5,88 | +1.4% | Kg | Jaborandi folha verde | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6,16 | +4.8% | Kg | Jaborandi folha verde | Port. 496/2024 |
+
+### Jaborandi folha verde (código 49896)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,57 |  | kg | Jaborandi folha verde | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,81 | +6.7% | kg | Jaborandi folha verde | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4,15 | +8.9% | Kg | Jaborandi folha verde | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,36 | +5.1% | Kg | Jaborandi folha verde | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,60 | +5.5% | Kg | Jaborandi folha verde | Port. 219/2021 |
+
+### Jaborandi folha verde (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-07-14 (assin.) | 2008-07-14 | incluir | 2,20 |  | Kg | Jaborandi folha Verde | Port. 337/2008 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,35 | +52.3% | kg | Jaborandi folha verde | Port. 192/2015 |
+
+### Látex Coagulo – Interestadual (código 48699)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2007-05-14 (pub.) | 2007-05-04 | ? | 1,54 |  | Kg | Látex Coagulo - interestadual | Port. 252/2007 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,25 | +46.1% | kg | Látex Coagulo - Interestadual | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,40 | +6.7% | kg | Látex Coagulo - Interestadual | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,56 | +6.7% | kg | Látex Coagulo – Interestadual | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,80 | +9.4% | kg | Látex Coagulo – Interestadual | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,94 | +5.0% | kg | Látex Coagulo – Interestadual | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,10 | +5.4% | kg | Látex Coagulo – Interestadual | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,53 | +13.9% | kg | Látex Coagulo – Interestadual | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,58 | +1.4% | kg | Látex Coagulo – Interestadual | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,75 | +4.7% | kg | Látex Coagulo – Interestadual | Port. 496/2024 |
+
+### Látex Coagulo – Interno (código 48700)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2007-05-14 (pub.) | 2007-05-04 | ? | 1,10 |  | Kg | Látex Coagulo - interno | Port. 252/2007 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,79 | +62.7% | kg | Látex Coagulo - Interno | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,91 | +6.7% | kg | Látex Coagulo - Interno | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,04 | +6.8% | kg | Látex Coagulo – Interno | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,25 | +10.3% | kg | Látex Coagulo – Interno | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,36 | +4.9% | kg | Látex Coagulo – Interno | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2,49 | +5.5% | kg | Látex Coagulo – Interno | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,83 | +13.7% | kg | Látex Coagulo – Interno | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,87 | +1.4% | kg | Látex Coagulo – Interno | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,01 | +4.9% | kg | Látex Coagulo – Interno | Port. 496/2024 |
+
+### Látex Geb - 1 – Interestadual (código 48701)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2007-05-14 (pub.) | 2007-05-04 | ? | 4,78 |  | Kg | Látex Geb – 1 - interestadual | Port. 252/2007 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 6,78 | +41.8% | kg | Látex Geb - 1 - Interestadual | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 7,23 | +6.6% | kg | Látex Geb - 1 - Interestadual | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 7,71 | +6.6% | kg | Látex Geb - 1 – Interestadual | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 8,35 | +8.3% | kg | Látex Geb - 1 – Interestadual | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 8,77 | +5.0% | kg | Látex Geb - 1 – Interestadual | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 9,26 | +5.6% | kg | Látex Geb - 1 – Interestadual | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 10,53 | +13.7% | kg | Látex Geb - 1 – Interestadual | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 10,67 | +1.3% | kg | Látex Geb - 1 – Interestadual | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 11,18 | +4.8% | kg | Látex Geb - 1 – Interestadual | Port. 496/2024 |
+
+### Látex Geb - 1 – Interno (código 48702)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2007-05-14 (pub.) | 2007-05-04 | ? | 3,44 |  | Kg | Látex Geb – 1 - interno | Port. 252/2007 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 5,29 | +53.8% | kg | Látex Geb - 1 - Interno | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 5,64 | +6.6% | kg | Látex Geb - 1 - Interno | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 6,02 | +6.7% | kg | Látex Geb - 1 – Interno | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 6,50 | +8.0% | kg | Látex Geb - 1 – Interno | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6,83 | +5.1% | kg | Látex Geb - 1 – Interno | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 7,21 | +5.6% | kg | Látex Geb - 1 – Interno | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 8,20 | +13.7% | kg | Látex Geb - 1 – Interno | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 8,31 | +1.3% | kg | Látex Geb - 1 – Interno | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 8,70 | +4.7% | kg | Látex Geb - 1 – Interno | Port. 496/2024 |
+
+### Látex natural cernambi (código 48269)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-09-30 (assin.) | 2003-09-30 | alterar | 0,80 |  | Kg | LÁTEX NATURAL CERNAMBI | Port. 374/2003 |
+| 2006-07-06 (assin.) | 2006-07-06 | alterar | 2,80 | +250.0% | Kg | Latex Natural Cernambi | Port. 409/2006 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,85 | +37.5% | kg | Látex natural cernambi | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,10 | +6.5% | kg | Látex natural cernambi | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,37 | +6.6% | kg | Látex natural cernambi | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4,80 | +9.8% | kg | Látex natural cernambi | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,04 | +5.0% | kg | Látex natural cernambi | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,32 | +5.6% | kg | Látex natural cernambi | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6,05 | +13.7% | kg | Látex natural cernambi | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6,13 | +1.3% | kg | Látex natural cernambi | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6,42 | +4.7% | kg | Látex natural cernambi | Port. 496/2024 |
+
+### Lenha comum (código 48270)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 16,35 |  | m3 | Lenha comum | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 17,43 | +6.6% | m3 | Lenha comum | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 18,60 | +6.7% | m3 | Lenha comum | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 20,20 | +8.6% | m3 | Lenha comum | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 21,22 | +5.0% | m3 | Lenha comum | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 22,40 | +5.6% | m3 | Lenha comum | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 25,48 | +13.8% | m3 | Lenha comum | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 25,83 | +1.4% | m3 | Lenha comum | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 27,06 | +4.8% | m3 | Lenha comum | Port. 496/2024 |
+
+### Lenha eucalipto (código 47490)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 31,51 |  | m3 | Lenha eucalipto | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 33,27 | +5.6% | m3 | Lenha eucalipto | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 37,84 | +13.7% | m3 | Lenha eucalipto | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 38,36 | +1.4% | m3 | Lenha eucalipto | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 40,19 | +4.8% | m3 | Lenha eucalipto | Port. 496/2024 |
+
+### Lenha eucalipto (código 48490)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 23,54 |  | m3 | Lenha eucalipto | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 25,09 | +6.6% | m3 | Lenha eucalipto | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 26,77 | +6.7% | m3 | Lenha eucalipto | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 30,00 | +12.1% | m3 | Lenha eucalipto | Port. 441/2018 |
+
+### Macarrão de Sopa Argolinha - 500 g (código 52505)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,82 |  |  | 500 g Macarrão de Sopa Argolinha | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,01 | +6.7% | g | Macarrão de Sopa Argolinha - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,21 | +6.6% | g | Macarrão de Sopa Argolinha - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,50 | +9.0% | g | Macarrão de Sopa Argolinha - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,68 | +5.1% | g | Macarrão de Sopa Argolinha - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,89 | +5.7% | g | Macarrão de Sopa Argolinha - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,42 | +13.6% | g | Macarrão de Sopa Argolinha - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,48 | +1.4% | g | Macarrão de Sopa Argolinha - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,69 | +4.7% | g | Macarrão de Sopa Argolinha - 500 g | Port. 496/2024 |
+
+### Macarrão de Sopa Conchas - 200 g (código 49806)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,10 |  |  | 200 g Macarrão de Sopa Conchas | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,17 | +6.4% | g | Macarrão de Sopa Conchas - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,25 | +6.8% | g | Macarrão de Sopa Conchas - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,35 | +8.0% | g | Macarrão de Sopa Conchas - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,42 | +5.2% | g | Macarrão de Sopa Conchas - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,50 | +5.6% | g | Macarrão de Sopa Conchas - 200 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1,71 | +14.0% | g | Macarrão de Sopa Conchas - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1,73 | +1.2% | g | Macarrão de Sopa Conchas - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1,81 | +4.6% | g | Macarrão de Sopa Conchas - 200 g | Port. 496/2024 |
+
+### Macarrão de Sopa Conchas - 500 g (código 49828)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,35 |  |  | 500 g Macarrão de Sopa Conchas | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,50 | +6.4% | g | Macarrão de Sopa Conchas - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,67 | +6.8% | g | Macarrão de Sopa Conchas - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,90 | +8.6% | g | Macarrão de Sopa Conchas - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,05 | +5.2% | g | Macarrão de Sopa Conchas - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,22 | +5.6% | g | Macarrão de Sopa Conchas - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,66 | +13.7% | g | Macarrão de Sopa Conchas - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,71 | +1.4% | g | Macarrão de Sopa Conchas - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,89 | +4.9% | g | Macarrão de Sopa Conchas - 500 g | Port. 496/2024 |
+
+### Macarrão de Sopa Estrelinha - 200 g (código 49807)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,42 |  |  | 200 g Macarrão de Sopa Estrelinha | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,52 | +7.0% | g | Macarrão de Sopa Estrelinha - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,62 | +6.6% | g | Macarrão de Sopa Estrelinha - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,75 | +8.0% | g | Macarrão de Sopa Estrelinha - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,84 | +5.1% | g | Macarrão de Sopa Estrelinha - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,94 | +5.4% | g | Macarrão de Sopa Estrelinha - 200 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,21 | +13.9% | g | Macarrão de Sopa Estrelinha - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,24 | +1.4% | g | Macarrão de Sopa Estrelinha - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,35 | +4.9% | g | Macarrão de Sopa Estrelinha - 200 g | Port. 496/2024 |
+
+### Macarrão de Sopa Estrelinha - 500 g (código 49823)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,12 |  |  | 500 g Macarrão de Sopa Estrelinha | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,33 | +6.7% | g | Macarrão de Sopa Estrelinha - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,55 | +6.6% | g | Macarrão de Sopa Estrelinha - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,85 | +8.5% | g | Macarrão de Sopa Estrelinha - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,04 | +4.9% | g | Macarrão de Sopa Estrelinha - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,27 | +5.7% | g | Macarrão de Sopa Estrelinha - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,86 | +13.8% | g | Macarrão de Sopa Estrelinha - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,93 | +1.4% | g | Macarrão de Sopa Estrelinha - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,16 | +4.7% | g | Macarrão de Sopa Estrelinha - 500 g | Port. 496/2024 |
+
+### Macarrão de Sopa Padre Nosso - 200 g (código 49820)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,21 |  | g | Macarrão de Sopa Padre Nosso - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,24 | +1.4% | g | Macarrão de Sopa Padre Nosso - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,35 | +4.9% | g | Macarrão de Sopa Padre Nosso - 200 g | Port. 496/2024 |
+
+### Macarrão de Sopa Padre Nosso - 200 g (código 49820)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,39 |  |  | 200 g Macarrão de Sopa Padre Nosso | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,48 | +6.5% | g | Macarrão de Sopa Padre Nosso - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,58 | +6.8% | g | Macarrão de Sopa Padre Nosso - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,75 | +10.8% | g | Macarrão de Sopa Padre Nosso - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,84 | +5.1% | g | Macarrão de Sopa Padre Nosso - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,94 | +5.4% | g | Macarrão de Sopa Padre Nosso - 200 g | Port. 219/2021 |
+
+### Macarrão de Sopa Padre Nosso - 500 g (código 49819)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,66 |  | g | Macarrão de Sopa Padre Nosso - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,71 | +1.4% | g | Macarrão de Sopa Padre Nosso - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,89 | +4.9% | g | Macarrão de Sopa Padre Nosso - 500 g | Port. 496/2024 |
+
+### Macarrão de Sopa Padre Nosso - 500 g (código 49819)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,36 |  |  | 500 g Macarrão de Sopa Padre Nosso | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,51 | +6.4% | g | Macarrão de Sopa Padre Nosso - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,68 | +6.8% | g | Macarrão de Sopa Padre Nosso - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,90 | +8.2% | g | Macarrão de Sopa Padre Nosso - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,05 | +5.2% | g | Macarrão de Sopa Padre Nosso - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,22 | +5.6% | g | Macarrão de Sopa Padre Nosso - 500 g | Port. 219/2021 |
+
+### Macarrão de Sopa Pai Nosso - 200 g (código 49820)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,01 |  | g | Macarrão de Sopa Pai Nosso - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,04 | +1.5% | g | Macarrão de Sopa Pai Nosso - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,14 | +4.9% | g | Macarrão de Sopa Pai Nosso - 200 g | Port. 496/2024 |
+
+### Macarrão de Sopa Pai Nosso - 200 g (código 49820)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,25 |  |  | 200 g Macarrão de Sopa Pai Nosso | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,33 | +6.4% | g | Macarrão de Sopa Pai Nosso - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,42 | +6.8% | g | Macarrão de Sopa Pai Nosso - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,60 | +12.7% | g | Macarrão de Sopa Pai Nosso - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,68 | +5.0% | g | Macarrão de Sopa Pai Nosso - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,77 | +5.4% | g | Macarrão de Sopa Pai Nosso - 200 g | Port. 219/2021 |
+
+### Macarrão de Sopa Pai Nosso - 500 g (código 49819)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,04 |  | g | Macarrão de Sopa Pai Nosso - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,10 | +1.5% | g | Macarrão de Sopa Pai Nosso - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,30 | +4.9% | g | Macarrão de Sopa Pai Nosso - 500 g | Port. 496/2024 |
+
+### Macarrão de Sopa Pai Nosso - 500 g (código 49819)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,58 |  |  | 500 g Macarrão de Sopa Pai Nosso | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,75 | +6.6% | g | Macarrão de Sopa Pai Nosso - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,93 | +6.5% | g | Macarrão de Sopa Pai Nosso - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,20 | +9.2% | g | Macarrão de Sopa Pai Nosso - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,36 | +5.0% | g | Macarrão de Sopa Pai Nosso - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,55 | +5.7% | g | Macarrão de Sopa Pai Nosso - 500 g | Port. 219/2021 |
+
+### Macarrão de Sopa parafuso - 200 g (código 49821)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,25 |  |  | 200 g Macarrão de Sopa parafuso | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,33 | +6.4% | g | Macarrão de Sopa parafuso - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,42 | +6.8% | g | Macarrão de Sopa parafuso - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,60 | +12.7% | g | Macarrão de Sopa parafuso - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,68 | +5.0% | g | Macarrão de Sopa parafuso - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,77 | +5.4% | g | Macarrão de Sopa parafuso - 200 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,01 | +13.6% | g | Macarrão de Sopa parafuso - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,04 | +1.5% | g | Macarrão de Sopa parafuso - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,14 | +4.9% | g | Macarrão de Sopa parafuso - 200 g | Port. 496/2024 |
+
+### Macarrão de Sopa parafuso - 500 g (código 49822)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,15 |  |  | 500 g Macarrão de Sopa parafuso | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,36 | +6.7% | g | Macarrão de Sopa parafuso - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,58 | +6.5% | g | Macarrão de Sopa parafuso - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,90 | +8.9% | g | Macarrão de Sopa parafuso - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,10 | +5.1% | g | Macarrão de Sopa parafuso - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,33 | +5.6% | g | Macarrão de Sopa parafuso - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,93 | +13.9% | g | Macarrão de Sopa parafuso - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5,00 | +1.4% | g | Macarrão de Sopa parafuso - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,24 | +4.8% | g | Macarrão de Sopa parafuso - 500 g | Port. 496/2024 |
+
+### Macarrão espaguete comum - 500 g (código 48574)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,28 |  |  | 500 g Macarrão espaguete comum | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,43 | +6.6% | g | Macarrão espaguete comum - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,59 | +6.6% | g | Macarrão espaguete comum - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,80 | +8.1% | g | Macarrão espaguete comum - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,94 | +5.0% | g | Macarrão espaguete comum - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,10 | +5.4% | g | Macarrão espaguete comum - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,53 | +13.9% | g | Macarrão espaguete comum - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,58 | +1.4% | g | Macarrão espaguete comum - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,75 | +4.7% | g | Macarrão espaguete comum - 500 g | Port. 496/2024 |
+
+### Macarrão espaguete semolina - 200 g (código 49814)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,21 |  |  | 200 g Macarrão espaguete semolina | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,29 | +6.6% | g | Macarrão espaguete semolina - 200 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,38 | +7.0% | g | Macarrão espaguete semolina - 200 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,50 | +8.7% | g | Macarrão espaguete semolina - 200 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,58 | +5.3% | g | Macarrão espaguete semolina - 200 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,67 | +5.7% | g | Macarrão espaguete semolina - 200 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1,90 | +13.8% | g | Macarrão espaguete semolina - 200 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1,93 | +1.6% | g | Macarrão espaguete semolina - 200 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,02 | +4.7% | g | Macarrão espaguete semolina - 200 g | Port. 496/2024 |
+
+### Macarrão espaguete semolina - 500 g (código 47576)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,99 |  | g | Macarrão espaguete semolina - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3,16 | +5.7% | g | Macarrão espaguete semolina - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,59 | +13.6% | g | Macarrão espaguete semolina - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,64 | +1.4% | g | Macarrão espaguete semolina - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,81 | +4.7% | g | Macarrão espaguete semolina - 500 g | Port. 496/2024 |
+
+### Macarrão espaguete semolina - 500 g (código 48576)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,29 |  |  | 500 g Macarrão espaguete semolina | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,44 | +6.6% | g | Macarrão espaguete semolina - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,60 | +6.6% | g | Macarrão espaguete semolina - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,85 | +9.6% | g | Macarrão espaguete semolina - 500 g | Port. 441/2018 |
+
+### Macarrão espaguete Semolina Vitaminado - 500 g (código 49124)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,24 |  |  | 500 g Macarrão espaguete Semolina Vitaminado | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,45 | +6.5% | g | Macarrão espaguete Semolina Vitaminado - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,68 | +6.7% | g | Macarrão espaguete Semolina Vitaminado-500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4,00 | +8.7% | g | Macarrão espaguete Semolina Vitaminado - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,20 | +5.0% | g | Macarrão espaguete Semolina Vitaminado - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,43 | +5.5% | g | Macarrão espaguete Semolina Vitaminado - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5,04 | +13.8% | g | Macarrão espaguete Semolina Vitaminado - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5,11 | +1.4% | g | Macarrão espaguete Semolina Vitaminado - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,35 | +4.7% | g | Macarrão espaguete Semolina Vitaminado - 500 g | Port. 496/2024 |
+
+### Macarrão Lasanha - 500 g (código 49832)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,73 |  |  | 500 g Macarrão Lasanha | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,98 | +6.7% | g | Macarrão Lasanha - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,25 | +6.8% | g | Macarrão Lasanha - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4,60 | +8.2% | g | Macarrão Lasanha - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,83 | +5.0% | g | Macarrão Lasanha - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,10 | +5.6% | g | Macarrão Lasanha - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5,80 | +13.7% | g | Macarrão Lasanha - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5,88 | +1.4% | g | Macarrão Lasanha - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6,16 | +4.8% | g | Macarrão Lasanha - 500 g | Port. 496/2024 |
+
+### Macarrão Talharim Liso - 500 g (código 49830)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,04 |  |  | 500 g Macarrão Talharim Liso | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,24 | +6.6% | g | Macarrão Talharim Liso - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,46 | +6.8% | g | Macarrão Talharim Liso - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,75 | +8.4% | g | Macarrão Talharim Liso - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,94 | +5.1% | g | Macarrão Talharim Liso - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,16 | +5.6% | g | Macarrão Talharim Liso - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,73 | +13.7% | g | Macarrão Talharim Liso - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,79 | +1.3% | g | Macarrão Talharim Liso - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,02 | +4.8% | g | Macarrão Talharim Liso - 500 g | Port. 496/2024 |
+
+### Macarrão Talharim Meadas - 500 g (código 49831)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,12 |  |  | 500 g Macarrão Talharim Meadas | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,33 | +6.7% | g | Macarrão Talharim Meadas - 500 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,55 | +6.6% | g | Macarrão Talharim Meadas - 500 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,85 | +8.5% | g | Macarrão Talharim Meadas - 500 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,04 | +4.9% | g | Macarrão Talharim Meadas - 500 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,27 | +5.7% | g | Macarrão Talharim Meadas - 500 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,86 | +13.8% | g | Macarrão Talharim Meadas - 500 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,93 | +1.4% | g | Macarrão Talharim Meadas - 500 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,16 | +4.7% | g | Macarrão Talharim Meadas - 500 g | Port. 496/2024 |
+
+### Mel de Abelha In Natura (código 51310)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-10-10 (pub.) | 2019-10-02 | alterar | 11,09 |  | L | Mel de Abelha In Natura | Port. 566/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 11,09 | +0.0% | L | Mel de Abelha In Natura | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 11,71 | +5.6% | L | Mel de Abelha In Natura | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 13,32 | +13.7% | L | Mel de Abelha In Natura | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 13,50 | +1.4% | L | Mel de Abelha In Natura | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 14,14 | +4.7% | L | Mel de Abelha In Natura | Port. 496/2024 |
+
+### Mel de Abelha In Natura (código 51311)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-10-10 (pub.) | 2019-10-02 | alterar | 5,88 |  | Kg | Mel de Abelha In Natura | Port. 566/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,88 | +0.0% | kg | Mel de Abelha In Natura | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 6,21 | +5.6% | kg | Mel de Abelha In Natura | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 7,06 | +13.7% | kg | Mel de Abelha In Natura | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 7,16 | +1.4% | kg | Mel de Abelha In Natura | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7,50 | +4.7% | kg | Mel de Abelha In Natura | Port. 496/2024 |
+
+### Mel de Abelho Beneficiado (código 27002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-07-13 (pub.) | 2011-07-08 | alterar | 4,50 |  | L | Mel de Abelha | Port. 337/2011 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 6,18 | +37.3% | L | Mel de abelha | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 21,32 | +245.0% | L | Mel de abelha | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 22,75 | +6.7% | L | Mel de abelha | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 24,65 | +8.4% | L | Mel de abelha | Port. 441/2018 |
+| 2019-10-10 (pub.) | 2019-10-02 | alterar | 24,65 | +0.0% | L | Mel de Abelho Beneficiado ⚠ | Port. 566/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 25,89 | +5.0% | L | Mel de Abelho Beneficiado | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 27,33 | +5.6% | L | Mel de Abelho Beneficiado | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 31,09 | +13.8% | L | Mel de Abelho Beneficiado | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 31,52 | +1.4% | L | Mel de Abelho Beneficiado | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 33,02 | +4.8% | L | Mel de Abelho Beneficiado | Port. 496/2024 |
+
+### Mel de Abelho Beneficiado (código 27001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2011-07-13 (pub.) | 2011-07-08 | alterar | 4,00 |  | kg | Mel de Abelha | Port. 337/2011 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 5,55 | +38.7% | kg | Mel de abelha | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 14,71 | +165.0% | kg | Mel de abelha | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 15,69 | +6.7% | kg | Mel de abelha | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 17,00 | +8.3% | kg | Mel de abelha | Port. 441/2018 |
+| 2019-10-10 (pub.) | 2019-10-02 | alterar | 17,00 | +0.0% | Kg | Mel de Abelho Beneficiado ⚠ | Port. 566/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 17,86 | +5.1% | Kg | Mel de Abelho Beneficiado | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 18,86 | +5.6% | Kg | Mel de Abelho Beneficiado | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 21,45 | +13.7% | Kg | Mel de Abelho Beneficiado | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 21,74 | +1.4% | Kg | Mel de Abelho Beneficiado | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 22,77 | +4.7% | Kg | Mel de Abelho Beneficiado | Port. 496/2024 |
+
+### mendoa de babaçu (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 1,18 |  | kg | mendoa de babaçu | Port. 192/2015 |
+
+### Milheto - 1 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-07-25 (pub.) | 2017-07-25 | alterar | 0,30 |  | Kg | Milheto - 1 kg | Port. 343/2017 |
+
+### Milheto em grão (código 48599)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 0,38 |  | Kg | Milheto em Grão | Port. 191/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,35 | -7.9% | Kg | Milheto em grão | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,37 | +5.7% | Kg | Milheto em grão | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 0,45 | +21.6% | Kg | Milheto em Grão | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,39 | -13.3% | Kg | Milheto em grão | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 0,78 | +100.0% | Kg | Milheto em grão | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,80 | +2.6% | Kg | Milheto em grão | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 0,59 | -26.3% | Kg | Milheto em grão | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,60 | +1.7% | Kg | Milheto em grão | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,63 | +5.0% | Kg | Milheto em grão | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 0,68 | +7.9% | Kg | Milheto em grão | Port. 263/2025 |
+
+### Milheto em grão (código 45899)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 380,00 |  | ton | Milheto em Grão | Port. 191/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 320,00 | -15.8% | Ton | Milheto em grão | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 336,11 | +5.0% | Ton | Milheto em grão | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 450,00 | +33.9% | Tan | Milheto em Grão | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 354,85 | -21.1% | Ton | Milheto em grão | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 780,00 | +119.8% | Ton | Milheto em grão | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 800,00 | +2.6% | Ton | Milheto em grão | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 590,00 | -26.2% | Ton | Milheto em grão | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 600,00 | +1.7% | Ton | Milheto em grão | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 630,00 | +5.0% | Ton | Milheto em grão | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 680,00 | +7.9% | Ton | Milheto em grão | Port. 263/2025 |
+
+### Milheto em grão - 60 kg (código 48257)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-02-28 (assin.) | 2003-02-28 | alterar | 6,00 |  |  | MILHETO 60 Kg | Port. 51/2003 |
+| 2004-03-22 (assin.) | 2004-03-22 | alterar | 11,00 | +83.3% |  | MILHETO 60 Kg | Port. 224/2004 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 21,97 | +99.7% | sc | Milheto 60 kg | Port. 192/2015 |
+| 2015-07-06 (pub.) | 2015-06-30 | incluir | 18,00 | -18.1% | Sc | Milheto - 60 Kg | Port. 315/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 19,19 | +6.6% | sc | Milheto 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 20,47 | +6.7% | sc | Milheto 60 kg | Port. 121/2017 |
+| 2017-07-25 (pub.) | 2017-07-25 | alterar | 18,00 | -12.1% | Sc | Milheto – 60 kg - Saco ⚠ | Port. 343/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 19,20 | +6.7% | Sc | Milheto em grão - 60 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 20,17 | +5.1% | Sc | Milheto em grão - 60 kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 21,29 | +5.6% | Sc | Milheto em grão - 60 kg | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 46,80 | +119.8% | Sc | Milheto em grão – 60Kg | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 48,00 | +2.6% | Sc | Milheto em grão - 60 kg | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 35,40 | -26.3% | Sc | Milheto em grão – 60 kg | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 35,80 | +1.1% | Sc | Milheto em grão - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 37,80 | +5.6% | Sc | Milheto em grão - 60 kg | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 40,80 | +7.9% | Sc | Milheto em grão - 60 kg | Port. 263/2025 |
+
+### Milho - 60 Kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-06 (pub.) | 2015-06-30 | incluir | 19,00 |  | Sc | Milho - 60 Kg | Port. 315/2015 |
+
+### Milho de Pipoca (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 0,60 |  | Kg | Milho de Pipoca | Port. 191/2017 |
+
+### Milho de Pipoca (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 600,00 |  | ton | Milho de Pipoca | Port. 191/2017 |
+
+### Milho em grão de pipoca (código 49164)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,65 |  | Kg | Milho em grão de pipoca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,68 | +4.6% | Kg | Milho em grão de pipoca | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,72 | +5.9% | Kg | Milho em grão de pipoca | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1,20 | +66.7% | Kg | Milho em grão de pipoca | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1,22 | +1.7% | Kg | Milho em grão de pipoca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1,28 | +4.9% | Kg | Milho em grão de pipoca | Port. 496/2024 |
+
+### Milho em grão de pipoca (código 48271)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 628,10 |  | Ton | Milho em grão de pipoca | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 659,73 | +5.0% | Ton | Milho em grão de pipoca | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 696,51 | +5.6% | Ton | Milho em grão de pipoca | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1.200,00 | +72.3% | Ton | Milho em grão de pipoca | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1.216,44 | +1.4% | Ton | Milho em grão de pipoca | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.280,00 | +5.2% | Ton | Milho em grão de pipoca | Port. 496/2024 |
+
+### Milho em grão de pipoca - 60 Kg (código 47648)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 72,00 |  | Sc | Milho em grão de pipoca - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 72,99 | +1.4% | Sc | Milho em grão de pipoca - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 76,80 | +5.2% | Sc | Milho em grão de pipoca - 60 Kg | Port. 496/2024 |
+
+### Milho em grão de pipoca - 60 Kg (código 48648)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 30,36 |  | sc | Milho de pipoca 60 1Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 32,36 | +6.6% | sc | Milho de pipoca 60 1Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 34,52 | +6.7% | sc | Milho de pipoca 60 1Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 37,40 | +8.3% | Sc | Milho em grão de pipoca - 60 Kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 39,28 | +5.0% | Sc | Milho em grão de pipoca - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 41,47 | +5.6% | Sc | Milho em grão de pipoca - 60 Kg | Port. 219/2021 |
+
+### Milho em grãos (código 41003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 0,40 |  | Kg | Milho em Grão | Port. 191/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,40 | +0.0% | Kg | Milho em grãos ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,42 | +5.0% | Kg | Milho em grãos | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 0,60 | +42.9% | Kg | Milho em Grão ⚠ | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,35 | +125.0% | Kg | Milho em grãos ⚠ | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 0,95 | -29.6% | Kg | Milho em grãos | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,95 | +0.0% | Kg | Milho em grãos | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 0,66 | -30.5% | Kg | Milho em grãos | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,72 | +9.1% | Kg | Milho em grãos | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,75 | +4.2% | Kg | Milho em grãos | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 0,80 | +6.7% | Kg | Milho em grãos | Port. 263/2025 |
+
+### Milho em grãos (código 41004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 400,00 |  | ton | Milho em Grão | Port. 191/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 400,00 | +0.0% | Ton | Milho em grãos ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 420,14 | +5.0% | Ton | Milho em grãos | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 600,00 | +42.8% | Tan | Milho em Grão ⚠ | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1.350,00 | +125.0% | Ton | Milho em grãos ⚠ | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 950,00 | -29.6% | Ton | Milho em grãos | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 950,00 | +0.0% | Ton | Milho em grãos | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 660,00 | -30.5% | Ton | Milho em grãos | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 720,00 | +9.1% | Ton | Milho em grãos | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 750,00 | +4.2% | Ton | Milho em grãos | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 800,00 | +6.7% | Ton | Milho em grãos | Port. 263/2025 |
+
+### Milho em Grãos - 1 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-07-26 (pub.) | 2017-07-20 | alterar | 0,31 |  | kg | Milho em Grãos - 1 kg | Port. 336/2017 |
+
+### Milho em grãos - 60 Kg (código 41001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-02-28 (assin.) | 2003-02-28 | alterar | 10,00 |  |  | MILHO EM GRÃO 60 Kg | Port. 51/2003 |
+| 2003-03-28 (efeitos) | 2003-03-27 | alterar | 15,00 | +50.0% |  | MILHO EM GRÃO 60 Kg | Port. 93/2003 |
+| 2004-03-22 (assin.) | 2004-03-22 | alterar | 15,00 | +0.0% |  | MILHO EM GRÃO 60 Kg | Port. 224/2004 |
+| 2004-12-03 (assin.) | 2004-12-03 | alterar | 12,00 | -20.0% |  | MILHO EM GRÃO 60 Kg | Port. 825/2004 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 22,92 | +91.0% | sc | Milho em grãos - 60 Kg ⚠ | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 20,25 | -11.6% | sc | Milho em grãos - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 21,60 | +6.7% | sc | Milho em grãos - 60 Kg | Port. 121/2017 |
+| 2017-07-26 (pub.) | 2017-07-20 | alterar | 19,00 | -12.0% | Sc | Milho em Grãos - Saco - 60 kg ⚠ | Port. 336/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 24,00 | +26.3% | Sc | Milho em grãos - 60 Kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 25,21 | +5.0% | Sc | Milho em grãos - 60 Kg | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 36,00 | +42.8% | Sc | Milho em Grão – 60 Kg ⚠ | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 80,68 | +124.1% | Sc | Milho em grãos - 60 Kg ⚠ | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 57,00 | -29.4% | Sc | Milho em grãos - 60Kg | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 57,00 | +0.0% | Sc | Milho em grãos - 60 Kg | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 40,00 | -29.8% | Sc | Milho em grãos - 60 kg | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 43,00 | +7.5% | Sc | Milho em grãos - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 45,05 | +4.8% | Sc | Milho em grãos - 60 Kg | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 48,00 | +6.5% | Sc | Milho em grãos - 60 Kg | Port. 263/2025 |
+
+### Óleo bruto a granel de babaçu (código 11006)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,18 |  | kg | Óleo bruto a granel de babaçu | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,39 | +6.6% | kg | Óleo bruto a granel de babaçu | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,62 | +6.8% | kg | Óleo bruto a granel de babaçu | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4,00 | +10.5% | Kg | Óleo bruto a granel de babaçu | Port. 441/2018 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 3,62 | -9.5% | Kg | Óleo bruto a granel de babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,20 | +16.0% | Kg | Óleo bruto a granel de babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,43 | +5.5% | Kg | Óleo bruto a granel de babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5,04 | +13.8% | Kg | Óleo bruto a granel de babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5,11 | +1.4% | Kg | Óleo bruto a granel de babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,35 | +4.7% | Kg | Óleo bruto a granel de babaçu | Port. 496/2024 |
+
+### Óleo de Coco babaçu (código 50228)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 6,50 |  | Kg | Óleo de Coco babaçu | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 6,50 | +0.0% | Kg | Óleo de Coco babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 6,00 | -7.7% | Kg | Óleo de Coco babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6,83 | +13.8% | Kg | Óleo de Coco babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 7,21 | +5.6% | Kg | Óleo de Coco babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 8,20 | +13.7% | Kg | Óleo de Coco babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 8,31 | +1.3% | Kg | Óleo de Coco babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 8,71 | +4.8% | Kg | Óleo de Coco babaçu | Port. 496/2024 |
+
+### Óleo de Coco babaçu (código 50229)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 6.497,40 |  | Ton | Óleo de Coco babaçu | Port. 441/2018 |
+| 2019-01-15 (pub.) | 2019-01-10 | alterar | 6.500,00 | +0.0% | Ton | Óleo de Coco babaçu | Port. 16/2019 |
+| 2019-04-02 (pub.) | 2019-03-28 | alterar | 6.000,00 | -7.7% | Ton | Óleo de Coco babaçu | Port. 169/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6.824,59 | +13.7% | Ton | Óleo de Coco babaçu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 7.205,02 | +5.6% | Ton | Óleo de Coco babaçu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 8195,36 | +13.7% | Ton | Óleo de Coco babaçu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 8.307,64 | +1.4% | Ton | Óleo de Coco babaçu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 8.702,93 | +4.8% | Ton | Óleo de Coco babaçu | Port. 496/2024 |
+
+### Óleo de soja (código 48418)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 57,83 |  | cx | Óleo de soja - 20 und. | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 61,70 | +6.7% | cx | Óleo de soja - 20 und. | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 66,82 | +8.3% | Cx | Óleo de soja - 20 und. | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 70,18 | +5.0% | Cx | Óleo de soja - 20 und. | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 74,09 | +5.6% | Cx | Óleo de soja ⚠ | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 84,27 | +13.7% | Cx | Óleo de soja | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 85,42 | +1.4% | Cx | Óleo de soja | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 89,48 | +4.8% | Cx | Óleo de soja | Port. 496/2024 |
+
+### Óleo de soja - 20 und. (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 54,26 |  | cx | Óleo de soja - 20 und. | Port. 192/2015 |
+
+### Óleo de Soja Bruto (código 50217)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2,50 |  | Kg | Óleo de Soja Bruto | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,63 | +5.2% | Kg | Óleo de Soja Bruto | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2,78 | +5.7% | Kg | Óleo de Soja Bruto | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3,16 | +13.7% | Kg | Óleo de Soja Bruto | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3,20 | +1.3% | Kg | Óleo de Soja Bruto | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3,35 | +4.7% | Kg | Óleo de Soja Bruto | Port. 496/2024 |
+
+### Óleo de Soja Bruto (código 50218)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 2.500,00 |  | Ton | Óleo de Soja Bruto | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2.625,89 | +5.0% | Ton | Óleo de Soja Bruto | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2.772,27 | +5.6% | Ton | Óleo de Soja Bruto | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3.160,00 | +14.0% | Ton | Óleo de Soja Bruto | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.203,29 | +1.4% | Ton | Óleo de Soja Bruto | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 3.350,00 | +4.6% | Ton | Óleo de Soja Bruto | Port. 496/2024 |
+
+### Óleo de Soja Bruto (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-09-04 (pub.) | 2018-08-28 | incluir | 2,30 |  | Kg | Óleo de Soja Bruto | Port. 295/2018 |
+
+### Óleo de Soja Bruto (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-09-04 (pub.) | 2018-08-28 | incluir | 2.300,00 |  | Ton. | Óleo de Soja Bruto | Port. 295/2018 |
+
+### Outras marcas - 60 Kg (código 49813)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 184,01 |  | sc | Outras marcas - 60 Kg | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 196,14 | +6.6% | sc | Outras marcas - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 209,26 | +6.7% | sc | Outras marcas - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 226,60 | +8.3% | Sc | Outras marcas - 60 Kg | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 238,01 | +5.0% | Sc | Outras marcas - 60 Kg | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 251,28 | +5.6% | Sc | Outras marcas - 60 Kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 285,82 | +13.7% | Sc | Outras marcas - 60 Kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 289,74 | +1.4% | Sc | Outras marcas - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 303,53 | +4.8% | Sc | Outras marcas - 60 Kg | Port. 496/2024 |
+
+### Palha ( Casca ) de Arroz (código 49406)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-04 (pub.) | 2017-03-30 | incluir | 0,40 |  | Kg | Casca ( Palha ) de Arroz | Port. 182/2017 |
+| 2018-06-22 (pub.) | 2018-06-06 | incluir | 0,23 | -42.5% | Kg | Casca ( Palha ) de Arroz | Port. 218/2018 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,25 | +8.7% | Kg | Palha ( Casca ) de Arroz | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,26 | +4.0% | Kg | Palha ( Casca ) de Arroz | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,27 | +3.8% | Kg | Palha ( Casca ) de Arroz | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,31 | +14.8% | Kg | Palha ( Casca ) de Arroz | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,31 | +0.0% | Kg | Palha ( Casca ) de Arroz | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,32 | +3.2% | Kg | Palha ( Casca ) de Arroz | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 0,15 | -53.1% | Kg | Palha ( Casca ) de Arroz | Port. 263/2025 |
+
+### Pimenta do Reino (código 50370)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 56,00 |  | Kg | Pimenta do Reino | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 58,82 | +5.0% | Kg | Pimenta do Reino | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 62,10 | +5.6% | Kg | Pimenta do Reino | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 70,64 | +13.8% | Kg | Pimenta do Reino | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 71,61 | +1.4% | Kg | Pimenta do Reino | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 75,02 | +4.8% | Kg | Pimenta do Reino | Port. 496/2024 |
+
+### Pimenta do reino (código 46961)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6,83 |  | Kg | Pimenta do reino | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 7,21 | +5.6% | Kg | Pimenta do reino | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 8,20 | +13.7% | Kg | Pimenta do reino | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 8,31 | +1.3% | Kg | Pimenta do reino | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 8,71 | +4.8% | Kg | Pimenta do reino | Port. 496/2024 |
+
+### Pimenta do reino (código 48484)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-09-30 (assin.) | 2003-09-30 | alterar | 2,90 |  | Kg | PIMENTA DO REINO | Port. 374/2003 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 5,22 | +80.0% | kg | Pimenta do reino | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 5,57 | +6.7% | kg | Pimenta do reino | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 5,94 | +6.6% | kg | Pimenta do reino | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 6,50 | +9.4% | Kg | Pimenta do reino | Port. 441/2018 |
+
+### Rosquinha de Coco - 100 g (código 47075)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 0,92 |  |  | 100 g Rosquinha de Coco | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 0,99 | +7.6% | g | Rosquinha de Coco - 100 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,06 | +7.1% | g | Rosquinha de Coco - 100 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,15 | +8.5% | g | Rosquinha de Coco - 100 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,21 | +5.2% | g | Rosquinha de Coco - 100 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,28 | +5.8% | g | Rosquinha de Coco - 100 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1,46 | +14.1% | g | Rosquinha de Coco - 100 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1,48 | +1.4% | g | Rosquinha de Coco - 100 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1,55 | +4.7% | g | Rosquinha de Coco - 100 g | Port. 496/2024 |
+
+### Rosquinha de Leite - 100 g (código 48185)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 0,91 |  |  | 100 g Rosquinha de Leite | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 0,97 | +6.6% | g | Rosquinha de Leite - 100 g | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,03 | +6.2% | g | Rosquinha de Leite - 100 g | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,15 | +11.7% | g | Rosquinha de Leite - 100 g | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,21 | +5.2% | g | Rosquinha de Leite - 100 g | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 1,28 | +5.8% | g | Rosquinha de Leite - 100 g | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 1,46 | +14.1% | g | Rosquinha de Leite - 100 g | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 1,48 | +1.4% | g | Rosquinha de Leite - 100 g | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1,55 | +4.7% | g | Rosquinha de Leite - 100 g | Port. 496/2024 |
+
+### Sc,, alpiste - 50 kg (código 7001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 575,00 |  |  | Sc,, alpiste - 50 kg | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 685,00 | +19.1% |  | Sc,, alpiste - 50 kg | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 694,38 | +1.4% |  | Sc,, alpiste - 50 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 727,42 | +4.8% |  | Sc,, alpiste - 50 kg | Port. 496/2024 |
+
+### Semente de capim andropogon (código 7007)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 2,95 |  | Kg | Semente de Capim Andropogon | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 4,30 | +45.8% | kg | Semente de capim andropogon | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,58 | +6.5% | kg | Semente de capim andropogon | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,89 | +6.8% | kg | Semente de capim andropogon | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5,30 | +8.4% | Kg | Semente de capim andropogon | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,57 | +5.1% | Kg | Semente de capim andropogon | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,88 | +5.6% | Kg | Semente de capim andropogon | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6,69 | +13.8% | Kg | Semente de capim andropogon | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6,78 | +1.3% | Kg | Semente de capim andropogon | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7,10 | +4.7% | Kg | Semente de capim andropogon | Port. 496/2024 |
+
+### Semente de capim branquiarão (código 7009)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 6,78 |  | Kg | Semente de Capim Branquiarão | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 9,88 | +45.7% | kg | Semente de capim branquiarão | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 10,53 | +6.6% | kg | Semente de capim branquiarão | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 11,23 | +6.6% | kg | Semente de capim branquiarão | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 12,20 | +8.6% | Kg | Semente de capim branquiarão | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 12,81 | +5.0% | Kg | Semente de capim branquiarão | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 13,52 | +5.5% | Kg | Semente de capim branquiarão | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 15,38 | +13.8% | Kg | Semente de capim branquiarão | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 15,59 | +1.4% | Kg | Semente de capim branquiarão | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 16,33 | +4.7% | Kg | Semente de capim branquiarão | Port. 496/2024 |
+
+### Semente de capim branquiarão / rosi (código 7008)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 3,98 |  | Kg | Semente de Capim Branquiarão/Rosi | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 5,57 | +39.9% | kg | Semente de capim branquiarão / rosi | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 5,94 | +6.6% | kg | Semente de capim branquiarão / rosi | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 6,34 | +6.7% | kg | Semente de capim branquiarão / rosi | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 6,90 | +8.8% | Kg | Semente de capim branquiarão / rosi | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 7,25 | +5.1% | Kg | Semente de capim branquiarão / rosi | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 7,65 | +5.5% | Kg | Semente de capim branquiarão / rosi | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 8,70 | +13.7% | Kg | Semente de capim branquiarão / rosi | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 8,82 | +1.4% | Kg | Semente de capim branquiarão / rosi | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 9,24 | +4.8% | Kg | Semente de capim branquiarão / rosi | Port. 496/2024 |
+
+### Semente de capim calopogone (código 7010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 7,12 |  | Kg | Semente de Capim Calopogone | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 9,57 | +34.4% | kg | Semente de capim calopogone | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 10,20 | +6.6% | kg | Semente de capim calopogone | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 10,88 | +6.7% | kg | Semente de capim calopogone | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 11,80 | +8.5% | Kg | Semente de capim calopogone | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 12,39 | +5.0% | Kg | Semente de capim calopogone | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 13,08 | +5.6% | Kg | Semente de capim calopogone | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 14,88 | +13.8% | Kg | Semente de capim calopogone | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 15,08 | +1.3% | Kg | Semente de capim calopogone | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 15,80 | +4.8% | Kg | Semente de capim calopogone | Port. 496/2024 |
+
+### Semente de capim colonião (código 7011)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 5,72 |  | Kg | Semente de Capim Colonião | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 8,07 | +41.1% | kg | Semente de capim colonião | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 8,60 | +6.6% | kg | Semente de capim colonião | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 9,18 | +6.7% | kg | Semente de capim colonião | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5,00 | -45.5% | Kg | Semente de capim colonião | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,25 | +5.0% | Kg | Semente de capim colonião | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,54 | +5.5% | Kg | Semente de capim colonião | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6,30 | +13.7% | Kg | Semente de capim colonião | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6,39 | +1.4% | Kg | Semente de capim colonião | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6,69 | +4.7% | Kg | Semente de capim colonião | Port. 496/2024 |
+
+### Semente de capim colonião c / impurezas (código 7012)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 2,80 |  | Kg | Semente de Capim Colonião C/Impurezas | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 4,39 | +56.8% | kg | Semente de capim colonião c / impurezas | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,68 | +6.6% | kg | Semente de capim colonião c / impurezas | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,99 | +6.6% | kg | Semente de capim colonião c / impurezas | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5,40 | +8.2% | Kg | Semente de capim colonião c / impurezas | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,67 | +5.0% | Kg | Semente de capim colonião c / impurezas | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5,99 | +5.6% | Kg | Semente de capim colonião c / impurezas | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6,81 | +13.7% | Kg | Semente de capim colonião c / impurezas | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6,90 | +1.3% | Kg | Semente de capim colonião c / impurezas | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7,23 | +4.8% | Kg | Semente de capim colonião c / impurezas | Port. 496/2024 |
+
+### Semente de capim misturada (código 7014)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 1,80 |  | Kg | Semente de Capim Misturada | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,94 | +63.3% | kg | Semente de capim misturada | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,13 | +6.5% | kg | Semente de capim misturada | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,34 | +6.7% | kg | Semente de capim misturada | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3,65 | +9.3% | Kg | Semente de capim misturada | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,83 | +4.9% | Kg | Semente de capim misturada | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,04 | +5.5% | Kg | Semente de capim misturada | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4,60 | +13.9% | Kg | Semente de capim misturada | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4,66 | +1.3% | Kg | Semente de capim misturada | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4,88 | +4.7% | Kg | Semente de capim misturada | Port. 496/2024 |
+
+### Semente de capim não classificada (código 7015)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 2,60 |  | Kg | Semente de Capim não Classificada | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,55 | +36.5% | kg | Semente de capim não classificada | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,78 | +6.5% | kg | Semente de capim não classificada | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,03 | +6.6% | kg | Semente de capim não classificada | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4,40 | +9.2% | Kg | Semente de capim não classificada | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,62 | +5.0% | Kg | Semente de capim não classificada | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4,88 | +5.6% | Kg | Semente de capim não classificada | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5,55 | +13.7% | Kg | Semente de capim não classificada | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5,63 | +1.4% | Kg | Semente de capim não classificada | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5,90 | +4.8% | Kg | Semente de capim não classificada | Port. 496/2024 |
+
+### Semente de capim quikuiu (código 7016)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 9,93 |  | kg | Semente de capim quikuiu | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 10,58 | +6.5% | kg | Semente de capim quikuiu | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 11,29 | +6.7% | kg | Semente de capim quikuiu | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 12,30 | +8.9% | Kg | Semente de capim quikuiu | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 12,92 | +5.0% | Kg | Semente de capim quikuiu | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 13,64 | +5.6% | Kg | Semente de capim quikuiu | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 15,51 | +13.7% | Kg | Semente de capim quikuiu | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 15,72 | +1.4% | Kg | Semente de capim quikuiu | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 16,47 | +4.8% | Kg | Semente de capim quikuiu | Port. 496/2024 |
+
+### Semente de Capim Quikulu (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 7,06 |  | Kg | Semente de Capim Quikulu | Port. 231/2010 |
+
+### Semente de capim tubiatan (código 7017)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-08-02 (assin.) | 2010-08-02 | alterar | 6,84 |  | Kg | Semente de Capim Tubiatan | Port. 231/2010 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 9,05 | +32.3% | kg | Semente de capim tubiatan | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 9,65 | +6.6% | kg | Semente de capim tubiatan | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 10,30 | +6.7% | kg | Semente de capim tubiatan | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 11,20 | +8.7% | Kg | Semente de capim tubiatan | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 11,76 | +5.0% | Kg | Semente de capim tubiatan | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 12,42 | +5.6% | Kg | Semente de capim tubiatan | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 14,13 | +13.8% | Kg | Semente de capim tubiatan | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 14,32 | +1.3% | Kg | Semente de capim tubiatan | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 15,00 | +4.7% | Kg | Semente de capim tubiatan | Port. 496/2024 |
+
+### Semente de soja 74I77RSFIPRO (código 48347)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5.956,00 |  |  | Big Bag Semente de soja 74I77RSFIPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6.255,92 | +5.0% |  | Big Bag Semente de soja 74I77RSFIPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 6.604,65 | +5.6% |  | Big Bag Semente de soja 74I77RSFIPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 7.512,47 | +13.7% |  | Big Bag Semente de soja 74I77RSFIPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 7.615,39 | +1.4% |  | Big Bag Semente de soja 74I77RSFIPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7.977,74 | +4.8% | Big | Semente de soja 74I77RSFIPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja 83HO113TP IPRO (código 48332)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.331,60 |  |  | Big Bag Semente de soja 83HO113TP IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4.549,73 | +5.0% |  | Big Bag Semente de soja 83HO113TP IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4.803,35 | +5.6% |  | Big Bag Semente de soja 83HO113TP IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5.463,58 | +13.7% |  | Big Bag Semente de soja 83HO113TP IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5.538,43 | +1.4% |  | Big Bag Semente de soja 83HO113TP IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5.801,95 | +4.8% | Big | Semente de soja 83HO113TP IPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja 84185RSF IPRO (código 48334)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5.132,60 |  |  | Big Bag Semente de soja 84185RSF IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.391,06 | +5.0% |  | Big Bag Semente de soja 84185RSF IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5.691,58 | +5.6% |  | Big Bag Semente de soja 84185RSF IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6.473,89 | +13.7% |  | Big Bag Semente de soja 84185RSF IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6.562,58 | +1.4% |  | Big Bag Semente de soja 84185RSF IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6.874,83 | +4.8% | Big | Semente de soja 84185RSF IPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja 8473RSF (código 48333)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3.437,29 |  |  | Big Bag Semente de soja 8473RSF | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3.628,90 | +5.6% |  | Big Bag Semente de soja 8473RSF | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4.127,70 | +13.7% |  | Big Bag Semente de soja 8473RSF | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4.184,25 | +1.4% |  | Big Bag Semente de soja 8473RSF | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4.383,34 | +4.8% | Big | Semente de soja 8473RSF ⚠ | Port. 496/2024 |
+
+### Semente de soja 8579RSFIPRO (código 48335)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5.986,90 |  |  | Big Bag Semente de soja 8579RSFIPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6.288,38 | +5.0% |  | Big Bag Semente de soja 8579RSFIPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 6.638,92 | +5.6% |  | Big Bag Semente de soja 8579RSFIPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 7.551,45 | +13.7% |  | Big Bag Semente de soja 8579RSFIPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 7.654,90 | +1.4% |  | Big Bag Semente de soja 8579RSFIPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 8.019,013 | +4.8% | Big | Semente de soja 8579RSFIPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja M8210IPRO (código 48336)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5.534,45 |  |  | Big Bag Semente de soja M8210IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.813,15 | +5.0% |  | Big Bag Semente de soja M8210IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 6.137,20 | +5.6% |  | Big Bag Semente de soja M8210IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6.980,76 | +13.7% |  | Big Bag Semente de soja M8210IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 7.076,40 | +1.4% |  | Big Bag Semente de soja M8210IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7.413,10 | +4.8% | Big | Semente de soja M8210IPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja M8349IPRO (código 48337)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5.329,70 |  |  | Big Bag Semente de soja M8349IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.598,09 | +5.0% |  | Big Bag Semente de soja M8349IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5.910,15 | +5.6% |  | Big Bag Semente de soja M8349IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6.722,51 | +13.7% |  | Big Bag Semente de soja M8349IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6.814,61 | +1.4% |  | Big Bag Semente de soja M8349IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7.138,86 | +4.8% | Big | Semente de soja M8349IPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja M8372IPRO (código 48338)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 5.728,30 |  |  | Big Bag Semente de soja M8372IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6.016,76 | +5.0% |  | Big Bag Semente de soja M8372IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 6.352,16 | +5.6% |  | Big Bag Semente de soja M8372IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 7.225,27 | +13.7% |  | Big Bag Semente de soja M8372IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 7.324,26 | +1.4% |  | Big Bag Semente de soja M8372IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 7.672,76 | +4.8% | Big | Semente de soja M8372IPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja M8644IPRO (código 48339)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 7.960,25 |  |  | Big Bag Semente de soja M8644IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 8.361,10 | +5.0% |  | Big Bag Semente de soja M8644IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 8.827,18 | +5.6% |  | Big Bag Semente de soja M8644IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 10.040,49 | +13.7% |  | Big Bag Semente de soja M8644IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 10.178,04 | +1.4% |  | Big Bag Semente de soja M8644IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 10.662,320 | +4.8% | Big | Semente de soja M8644IPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja M8766RR (código 48384)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3.281,95 |  |  | Big Bag Semente de soja M8766RR | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3.447,22 | +5.0% |  | Big Bag Semente de soja M8766RR | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3.639,38 | +5.6% |  | Big Bag Semente de soja M8766RR | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 4.139,62 | +13.7% |  | Big Bag Semente de soja M8766RR | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 4.196,33 | +1.4% |  | Big Bag Semente de soja M8766RR | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4.396,006 | +4.8% | Big | Semente de soja M8766RR ⚠ | Port. 496/2024 |
+
+### Semente de soja NS7447IPRO (código 48341)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.780,65 |  |  | Big Bag Semente de soja NS7447IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.021,39 | +5.0% |  | Big Bag Semente de soja NS7447IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5.301,30 | +5.6% |  | Big Bag Semente de soja NS7447IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6.029,97 | +13.7% |  | Big Bag Semente de soja NS7447IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6.112,58 | +1.4% |  | Big Bag Semente de soja NS7447IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6.403,42 | +4.8% | Big | Semente de soja NS7447IPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja Outras (código 48403)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.780,65 |  |  | Big Bag 9Semente de soja Outras | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 8.621,39 | +80.3% |  | Big Bag 9Semente de soja Outras | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 9.101,98 | +5.6% |  | Big Bag 9Semente de soja Outras | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 10.353,06 | +13.7% |  | Big Bag 9Semente de soja Outras | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 10.494,90 | +1.4% |  | Big Bag Semente de soja Outras ⚠ | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 10.994,26 | +4.8% | Big | Semente de soja Outras ⚠ | Port. 496/2024 |
+
+### Semente de soja SBT113710 (código 48351)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.780,65 |  |  | Big Bag Semente de soja SBT113710 | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.021,39 | +5.0% |  | Big Bag Semente de soja SBT113710 | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5.301,30 | +5.6% |  | Big Bag Semente de soja SBT113710 | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6.029,97 | +13.7% |  | Big Bag Semente de soja SBT113710 | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6.112,58 | +1.4% |  | Big Bag Semente de soja SBT113710 | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6.403,42 | +4.8% | Big | Semente de soja SBT113710 ⚠ | Port. 496/2024 |
+
+### Semente de soja ST797 IPRO (código 48350)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.331,65 |  |  | Big Bag Semente de soja ST797 IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4.549,78 | +5.0% |  | Big Bag Semente de soja ST797 IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4.803,40 | +5.6% |  | Big Bag Semente de soja ST797 IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5.463,63 | +13.7% |  | Big Bag Semente de soja ST797 IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5.538,48 | +1.4% |  | Big Bag Semente de soja ST797 IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5.802,01 | +4.8% | Big | Semente de soja ST797 IPRO ⚠ | Port. 496/2024 |
+
+### Semente de soja ST879LL (código 48342)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.115,00 |  |  | Big Bag Semente de soja ST879LL | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4.322,22 | +5.0% |  | Big Bag Semente de soja ST879LL | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 4.563,16 | +5.6% |  | Big Bag Semente de soja ST879LL | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5.190,37 | +13.7% |  | Big Bag Semente de soja ST879LL | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5.261,48 | +1.4% |  | Big Bag Semente de soja ST879LL | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 5.511,83 | +4.8% | Big | Semente de soja ST879LL ⚠ | Port. 496/2024 |
+
+### Semente de soja TMG1180RR (código 48343)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3.081,30 |  |  | Big Bag Semente de soja TMG1180RR | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3.236,46 | +5.0% |  | Big Bag Semente de soja TMG1180RR | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3.416,87 | +5.6% |  | Big Bag Semente de soja TMG1180RR | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3.886,52 | +13.7% |  | Big Bag Semente de soja TMG1180RR | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.939,77 | +1.4% |  | Big Bag Semente de soja TMG1180RR | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4.127,23 | +4.8% | Big | Semente de soja TMG1180RR ⚠ | Port. 496/2024 |
+
+### Semente de soja TMG1288RR (código 48344)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 3.108,00 |  |  | Big Bag Semente de soja TMG1288RR | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3.264,51 | +5.0% |  | Big Bag Semente de soja TMG1288RR | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 3.446,49 | +5.6% |  | Big Bag Semente de soja TMG1288RR | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 3.920,21 | +13.7% |  | Big Bag Semente de soja TMG1288RR | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 3.973,92 | +1.4% |  | Big Bag Semente de soja TMG1288RR | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 4.163,00 | +4.8% | Big | Semente de soja TMG1288RR ⚠ | Port. 496/2024 |
+
+### Semente de soja TMG132RR (código 48345)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.780,65 |  |  | Big Bag Semente de soja TMG132RR | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.021,39 | +5.0% |  | Big Bag Semente de soja TMG132RR | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5.301,30 | +5.6% |  | Big Bag Semente de soja TMG132RR | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 6.029,97 | +13.7% |  | Big Bag Semente de soja TMG132RR | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 6.112,58 | +1.4% |  | Big Bag Semente de soja TMG132RR | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6.403,42 | +4.8% | Big | Semente de soja TMG132RR ⚠ | Port. 496/2024 |
+
+### Semente de soja TMG2187IPRO (código 48346)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 4.559,30 |  |  | Big Bag Semente de soja TMG2187IPRO | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4.788,89 | +5.0% |  | Big Bag Semente de soja TMG2187IPRO | Port. 263/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 5.055,84 | +5.6% |  | Big Bag Semente de soja TMG2187IPRO | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 5.750,77 | +13.7% |  | Big Bag Semente de soja TMG2187IPRO | Port. 134/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 5.829,56 | +1.4% |  | Big Bag Semente de soja TMG2187IPRO | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 6.106,94 | +4.8% | Big | Semente de soja TMG2187IPRO ⚠ | Port. 496/2024 |
+
+### Soja - 1 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-07-25 (pub.) | 2017-07-25 | alterar | 0,90 |  | Kg | Soja - 1 kg | Port. 343/2017 |
+
+### SOJA 60 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-02-28 (assin.) | 2003-02-28 | alterar | 18,00 |  |  | SOJA 60 Kg | Port. 51/2003 |
+| 2003-03-28 (efeitos) | 2003-03-27 | alterar | 25,00 | +38.9% |  | SOJA 60 Kg | Port. 93/2003 |
+| 2004-03-22 (assin.) | 2004-03-22 | alterar | 35,00 | +40.0% |  | SOJA 60 Kg | Port. 224/2004 |
+| 2005-03-29 (assin.) | 2005-03-29 | alterar | 28,00 | -20.0% |  | SOJA 60 kg | Port. 185/2005 |
+
+### Soja em grão Saca de 60 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-05-11 (assin.) | 2006-05-11 | alterar | 21,00 |  |  | Soja em grão Saca de 60 kg | Port. 306/2006 |
+
+### Soja em grãos (código 48258)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 0,95 |  | Kg | Soja em Grãos | Port. 191/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1,25 | +31.6% | Kg | Soja em grãos | Port. 441/2018 |
+| 2019-02-01 (pub.) | 2019-01-24 | alterar | 1,05 | -16.0% | Kg | Soja em grãos | Port. 37/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,31 | +24.8% | Kg | Soja em grãos | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 1,45 | +10.7% | Kg | Soja em Grão ⚠ | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2,68 | +84.8% | Kg | Soja em grãos ⚠ | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 1,77 | -34.0% | Kg | Soja em grãos | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2,00 | +13.0% | Kg | Soja em grãos | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 1,85 | -7.5% | Kg | Soja em grãos | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2,03 | +9.7% | Kg | Soja em grãos | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2,13 | +4.9% | Kg | Soja em grãos | Port. 496/2024 |
+
+### Soja em grãos (código 49112)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 950,00 |  | ton | Soja em Grãos | Port. 191/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 1.250,00 | +31.6% | Ton | Soja em grãos | Port. 441/2018 |
+| 2019-02-01 (pub.) | 2019-01-24 | alterar | 1.050,00 | -16.0% | ton | Soja em grãos | Port. 37/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.312,95 | +25.0% | Ton | Soja em grãos | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 1.450,00 | +10.4% | Tan | Soja em Grão ⚠ | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 2.680,00 | +84.8% | Ton | Soja em grãos ⚠ | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2.000,00 | -25.4% | Ton | Soja em grãos | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 1.850,00 | -7.5% | Ton | Soja em grãos | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 2.030,00 | +9.7% | Ton | Soja em grãos | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2.130,00 | +4.9% | Ton | Soja em grãos | Port. 496/2024 |
+
+### Soja em grãos - 60 Kg (código 33001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-05-02 (assin.) | 2003-05-02 | alterar | 31,50 |  |  | SOJA EM GRÃO SC 60 KG | Port. 118/2003 |
+| 2003-06-03 (assin.) | 2003-06-03 | alterar | 28,00 | -11.1% |  | SOJA EM GRÃO SC 60 KG | Port. 190/2003 |
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 49,96 | +78.4% | sc | Soja em grãos - 60 Kg ⚠ | Port. 192/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 53,25 | +6.6% | sc | Soja em grãos - 60 Kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 56,81 | +6.7% | sc | Soja em grãos - 60 Kg | Port. 121/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 75,00 | +32.0% | Sc | Soja em grãos - 60 Kg | Port. 441/2018 |
+| 2019-02-01 (pub.) | 2019-01-24 | alterar | 63,00 | -16.0% | sc | Soja em grãos - 60 kg | Port. 37/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 78,78 | +25.0% | Sc | Soja em grãos - 60 Kg | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 87,00 | +10.4% | Sc | Soja em Grão – 60 Kg ⚠ | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 160,75 | +84.8% | Sc | Soja em grãos - 60 Kg ⚠ | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 106,20 | -33.9% | Sc | Soja em grãos – 60Kg | Port. 355/2021 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 111,00 | +4.5% | Sc | Soja em grãos – 60 Kg | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 122,00 | +9.9% | Sc | Soja em grãos - 60 Kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 127,80 | +4.8% | Sc | Soja em grãos - 60 Kg | Port. 496/2024 |
+
+### Soja – 60 kg – Saco (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-07-25 (pub.) | 2017-07-25 | alterar | 54,00 |  | Sc | Soja – 60 kg – Saco | Port. 343/2017 |
+
+### Sorgo - 1 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-07-25 (pub.) | 2017-07-25 | alterar | 0,30 |  | Kg | Sorgo - 1 kg | Port. 343/2017 |
+
+### Sorgo - 60 kg (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-04-07 (pub.) | 2015-03-30 | alterar | 20,26 |  | sc | Sorgo - 60 kg | Port. 192/2015 |
+
+### Sorgo em grão (código 47649)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 0,35 |  | Kg | Sorgo em Grão | Port. 191/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 0,35 | +0.0% | Kg | Sorgo em grão | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 0,37 | +5.7% | Kg | Sorgo em grão | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 0,45 | +21.6% | Kg | Sorgo em Grão | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 0,39 | -13.3% | Kg | Sorgo em grão | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 0,72 | +84.6% | Kg | Sorgo em grão | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 0,80 | +11.1% | Kg | Sorgo em grão | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 0,59 | -26.3% | Kg | Sorgo em grão | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 0,60 | +1.7% | Kg | Sorgo em grão | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 0,63 | +5.0% | Kg | Sorgo em grão | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 0,68 | +7.9% | Kg | Sorgo em grão | Port. 263/2025 |
+
+### Sorgo em grão (código 47650)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-04-17 (pub.) | 2017-03-10 | alterar | 350,00 |  | ton | Sorgo em Grão | Port. 191/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 350,00 | +0.0% | Ton | Sorgo em grão | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 367,62 | +5.0% | Ton | Sorgo em grão | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 450,00 | +22.4% | Tan | Sorgo em Grão | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 388,11 | -13.8% | Ton | Sorgo em grão | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 720,00 | +85.5% | Ton | Sorgo em grão | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 800,00 | +11.1% | Ton | Sorgo em grão | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 590,00 | -26.2% | Ton | Sorgo em grão | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 600,00 | +1.7% | Ton | Sorgo em grão | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 630,00 | +5.0% | Ton | Sorgo em grão | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 680,00 | +7.9% | Ton | Sorgo em grão | Port. 263/2025 |
+
+### Sorgo em grão - 60 kg (código 48491)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2003-02-28 (assin.) | 2003-02-28 | alterar | 6,00 |  |  | SORGO 60 Kg | Port. 51/2003 |
+| 2004-03-22 (assin.) | 2004-03-22 | alterar | 11,00 | +83.3% |  | SORGO 60 Kg | Port. 224/2004 |
+| 2015-07-06 (pub.) | 2015-06-30 | incluir | 18,00 | +63.6% | Sc | Sorgo - 60 Kg | Port. 315/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 19,19 | +6.6% | sc | Sorgo - 60 kg | Port. 9/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 20,47 | +6.7% | sc | Sorgo - 60 kg | Port. 121/2017 |
+| 2017-07-25 (pub.) | 2017-07-25 | alterar | 18,00 | -12.1% | Sc | Sorgo – 60 kg – Saco ⚠ | Port. 343/2017 |
+| 2019-01-03 (pub.) | 2018-12-27 | alterar | 21,00 | +16.7% | Sc | Sorgo em grão - 60 kg ⚠ | Port. 441/2018 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 22,06 | +5.0% | Sc | Sorgo em grão - 60 kg | Port. 263/2020 |
+| 2020-09-28 (assin.) | 2020-09-28 | alterar | 27,00 | +22.4% | Sc | Sorgo em Grão – 60 kg | Port. 279/2020 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 23,29 | -13.7% | Sc | Sorgo em grão - 60 kg | Port. 219/2021 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 43,20 | +85.5% | Sc | Sorgo em grão – 60Kg | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 48,00 | +11.1% | Sc | Sorgo em grão - 60 kg | Port. 134/2023 |
+| 2023-07-21 (pub.) | 2023-06-17 | alterar | 35,40 | -26.3% | Sc | Sorgo em grão – 60 Kg | Port. 327/2023 |
+| 2023-10-31 (pub.) | 2023-10-30 | incluir | 35,80 | +1.1% | Sc | Sorgo em grão - 60 kg | Port. 476/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 37,80 | +5.6% | Sc | Sorgo em grão - 60 kg | Port. 496/2024 |
+| 2025-08-07 (pub.) | 2025-07-31 | alterar | 40,80 | +7.9% | Sc | Sorgo em grão - 60 kg | Port. 263/2025 |
+
+## Portarias citadas
+
+Links para o texto de cada portaria usada acima.
+
+- Port. 51/2003: [Portaria nº 51/2003](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=52e202d0-e99d-483b-8013-2882e77d0d1c), vigência 2003-02-28 (assin.)
+- Port. 93/2003: [Portaria nº 93/2003](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9edd450c-63c7-4532-86f0-f3bd33bc1a92), vigência 2003-03-28 (efeitos)
+- Port. 118/2003: [Portaria nº 118/2003](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=656fc570-7a04-45e1-bee9-64f092edad7a), vigência 2003-05-02 (assin.)
+- Port. 190/2003: [Portaria nº 190/2003](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4358878e-4f1a-4b70-8b80-0c0b11a66973), vigência 2003-06-03 (assin.)
+- Port. 262/2003: [Portaria nº 262/2003](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2a3b1656-f0c3-4763-8708-f898bdf34639), vigência 2003-07-11 (assin.)
+- Port. 374/2003: [Portaria nº 374/2003](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=18ff4369-92cf-4fe7-8019-4d95fef0e7c1), vigência 2003-09-30 (assin.)
+- Port. 224/2004: [Portaria nº 224/2004](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03eb3391-1ce4-4a87-8891-dae5ed1c8ad2), vigência 2004-03-22 (assin.)
+- Port. 825/2004: [Portaria nº 825/2004](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8c433c24-d409-4205-b9ac-da4a7bf6a901), vigência 2004-12-03 (assin.)
+- Port. 185/2005: [Portaria nº 185/2005](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c59381d9-bf74-42e3-a673-981ae1a1269b), vigência 2005-03-29 (assin.)
+- Port. 334/2005: [Portaria nº 334/2005](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6e94e5ca-31cf-46ad-ae48-8512c1002e9a), vigência 2005-06-03 (assin.)
+- Port. 80/2006: [Portaria nº 80/2006](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bc809d18-5367-4625-81b6-783fbb53d9c8), vigência 2006-02-21 (pub.)
+- Port. 227/2006: [Portaria nº 227/2006](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2cba5091-2d17-4fe7-870d-f7a838d597bd), vigência 2006-04-12 (pub.)
+- Port. 306/2006: [Portaria nº 306/2006](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9784f483-44ed-4744-8914-247e9cc77014), vigência 2006-05-11 (assin.)
+- Port. 409/2006: [Portaria nº 409/2006](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b0f228b8-e5ca-4441-a74c-800599147619), vigência 2006-07-06 (assin.)
+- Port. 136/2007: [Portaria nº 136/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3d202a0b-41f5-479f-a9af-b4048849e01c), vigência 2007-02-28 (pub.)
+- Port. 252/2007: [Portaria nº 252/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=add4ed1a-697d-4609-b5fa-1ccd19e756d5), vigência 2007-05-14 (pub.)
+- Port. 597/2007: [Portaria nº 597/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0bc0335f-827d-4292-a83e-333b8c32813a), vigência 2007-10-02 (assin.)
+- Port. 337/2008: [Portaria nº 337/2008](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b1de935f-3a53-4f5e-9695-6882e3431afd), vigência 2008-07-14 (assin.)
+- Port. 102/2010: [Portaria nº 102/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca6c5e42-8b66-4682-96a8-3d0ffcfbfc9f), vigência 2010-04-07 (assin.)
+- Port. 231/2010: [Portaria nº 231/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a9a4068c-76d7-4fdf-8ac1-f2b3d82282d4), vigência 2010-08-02 (assin.)
+- Port. 331/2010: [Portaria nº 331/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=45d7926f-08cf-435b-8c88-2c2c1f934ed6), vigência 2011-01-05 (efeitos)
+- Port. 337/2011: [Portaria nº 337/2011](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2365432f-d000-49f2-bb2b-01fbc3d08a99), vigência 2011-07-13 (pub.)
+- Port. 108/2012: [Portaria nº 108/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f1fda412-43f9-4f03-afe0-b2d84f823123), vigência 2012-04-23 (assin.)
+- Port. 192/2015: [Portaria nº 192/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=824e8994-0e18-4711-8971-d91af76ca51d), vigência 2015-04-07 (pub.)
+- Port. 315/2015: [Portaria nº 315/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9b810420-7354-4fb1-8875-e8d7a52ec883), vigência 2015-07-06 (pub.)
+- Port. 394/2015: [Portaria nº 394/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c9f096ed-0c4f-4596-99ea-fd249d335bb0), vigência 2015-08-19 (assin.)
+- Port. 9/2016: [Portaria nº 9/2016](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8fa5a083-7d7b-45f6-a6c8-8a2c143d3f39), vigência 2016-01-21 (pub.)
+- Port. 263/2016: [Portaria nº 263/2016](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3491fcd4-3a2c-4f57-842d-564c50706cfc), vigência 2016-07-12 (pub.)
+- Port. 121/2017: [Portaria nº 121/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=af3599ed-0301-4271-b25c-c0374d790710), vigência 2017-02-21 (pub.)
+- Port. 182/2017: [Portaria nº 182/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=44846894-7498-4844-8499-c337e11f2707), vigência 2017-04-04 (pub.)
+- Port. 191/2017: [Portaria nº 191/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b3d866fa-2fee-4231-983f-969796af58aa), vigência 2017-04-17 (pub.)
+- Port. 343/2017: [Portaria nº 343/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ff1efa3f-9df3-4e1a-8855-ef7800dae1d4), vigência 2017-07-25 (pub.)
+- Port. 336/2017: [Portaria nº 336/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f49ca027-f602-4c43-b875-c879a838c4be), vigência 2017-07-26 (pub.)
+- Port. 377/2017: [Portaria nº 377/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7bd96bb0-d574-4be9-ab83-c56e21122521), vigência 2017-08-25 (pub.)
+- Port. 218/2018: [Portaria nº 218/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3f2592c8-4575-406d-ac88-b8035b446d25), vigência 2018-06-22 (pub.)
+- Port. 295/2018: [Portaria nº 295/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=32a887e1-b84e-4597-8957-c1bac2f453a2), vigência 2018-09-04 (pub.)
+- Port. 441/2018: [Portaria nº 441/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=40380ff5-e09e-4c24-b633-fb36cd143baf), vigência 2019-01-03 (pub.)
+- Port. 16/2019: [Portaria nº 16/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=78527973-6a76-4e02-bf2c-2cb934331ce3), vigência 2019-01-15 (pub.)
+- Port. 37/2019: [Portaria nº 37/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1f8a0b75-f1dd-4eb2-96e9-acbf6ed7dae4), vigência 2019-02-01 (pub.)
+- Port. 169/2019: [Portaria nº 169/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b1b0d926-10fd-44d0-905d-b186f7018f84), vigência 2019-04-02 (pub.)
+- Port. 525/2019: [Portaria nº 525/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c6adba18-59c1-4056-a4f9-89203e970a2f), vigência 2019-09-18 (pub.)
+- Port. 566/2019: [Portaria nº 566/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c96505af-1174-42e9-84b1-d5b525ac3e98), vigência 2019-10-10 (pub.)
+- Port. 263/2020: [Portaria nº 263/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=51f34a3c-d23e-48b2-a5d2-ccfd2a48316a), vigência 2020-09-15 (pub.)
+- Port. 279/2020: [Portaria nº 279/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=42ceeffb-188d-4f2b-a40a-37498f40e905), vigência 2020-09-28 (assin.)
+- Port. 302/2020: [Portaria nº 302/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a72868f-4dc3-428d-93ee-657d8e28e967), vigência 2020-12-21 (pub.)
+- Port. 219/2021: [Portaria nº 219/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d5ba1b65-8278-4a16-91e9-9485525d2842), vigência 2021-06-15 (pub.)
+- Port. 355/2021: [Portaria nº 355/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=46bbaecf-8aeb-4f71-acc4-1721210f64de), vigência 2021-09-03 (pub.)
+- Port. 444/2021: [Portaria nº 444/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a65a7d4b-79fc-4407-9cca-6233ae2709c2), vigência 2021-10-14 (pub.)
+- Port. 151/2022: [Portaria nº 151/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7a76e38b-17e0-4af2-9410-35edb861dca4), vigência 2022-04-01 (pub.)
+- Port. 316/2022: [Portaria nº 316/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1127ce5a-3112-496f-9826-1900595e0e5d), vigência 2022-06-17 (pub.)
+- Port. 317/2022: [Portaria nº 317/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=724634ce-15a5-4a9e-a193-125c2f28b1b1), vigência 2022-06-17 (pub.)
+- Port. 575/2022: [Portaria nº 575/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=14ab1a13-725b-4974-b568-96d1f36a7a2c), vigência 2022-10-13 (pub.)
+- Port. 134/2023: [Portaria nº 134/2023](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2cf2f7d3-57fd-4226-9d4d-99418ac5ea7b), vigência 2023-04-05 (pub.)
+- Port. 175/2023: [Portaria nº 175/2023](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=60ebf7dd-fcc1-49c4-a9af-50f7706f2a1d), vigência 2023-04-28 (pub.)
+- Port. 327/2023: [Portaria nº 327/2023](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ff847868-03a7-4e73-8d17-7a0f96f97c64), vigência 2023-07-21 (pub.)
+- Port. 413/2023: [Portaria nº 413/2023](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d28fb515-e281-4157-be70-38c6576914ee), vigência 2023-09-15 (pub.)
+- Port. 476/2023: [Portaria nº 476/2023](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=39f7525c-18bd-4b57-80e1-1c3541fe052e), vigência 2023-10-31 (pub.)
+- Port. 50/2024: [Portaria nº 50/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b68ddb6b-2c68-41f7-9756-02c588fae326), vigência 2024-02-22 (pub.)
+- Port. 496/2024: [Portaria nº 496/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a36ee2d-992b-4ddb-94b6-2d4c4f048048), vigência 2024-12-03 (pub.)
+- Port. 263/2025: [Portaria nº 263/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=022f3714-4e42-425e-8df9-b79cc79a3f57), vigência 2025-08-07 (pub.)
 <<<DOC valores/bebidas-agua.md>>>
 ---
 documento: "Tabela de Valores de Referência: bebidas: águas minerais, adicionadas de sais e saborizadas"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-04"
+gerado_em: "2026-11-05"
 portarias: 200
 registros: 2183
 ---
@@ -17,7 +4145,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-04**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (457)
