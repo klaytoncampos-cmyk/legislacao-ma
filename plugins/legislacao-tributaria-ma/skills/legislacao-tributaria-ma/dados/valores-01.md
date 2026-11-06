@@ -5,7 +5,7 @@ tipo: valores-de-referencia
 orgao: SEFAZ-MA
 gerado_em: "2026-11-05"
 portarias: 60
-registros: 2069
+registros: 2072
 ---
 
 # Tabela de Valores de Referência (ICMS): produtos agrícolas (Grupo 01: arroz, feijão, farinhas, macarrão, biscoitos, babaçu, milho, soja, sementes, mel, castanhas, carvão e outros)
@@ -308,7 +308,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50377 | Castanha de Caju com Casca | 262,59 | 2020-09-15 | substituído pelo código 51610 (Castanha de Caju com Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
 | — | Castanha de Caju In Natura - Interestadual | 4,20 | 2022-10-13 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | 50378 | Castanha de Caju sem Casca | 36,76 | 2020-09-15 | substituído pelo código 51206 (Castanha de Caju sem Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
-| 50379 | Castanha do Caju sem Casca | 367,62 | 2020-09-15 | não consta das relações completas das Portarias nº 134/2023 (2023-04-05) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| 50379 | Castanha do Caju sem Casca | 367,62 | 2020-09-15 | substituído pelo código 51611 (Castanha do Caju sem Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
 | 50380 | Castanha do Para com Casca | 33,61 | 2020-09-15 | substituído pelo código 51207 (Castanha do Para com Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
 | 50381 | Castanha do Para com Casca | 336,11 | 2020-09-15 | substituído pelo código 51612 (Castanha do Para com Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
 | 50382 | Castanha do Para sem Casca | 44,11 | 2020-09-15 | substituído pelo código 51208 (Castanha do Para sem Casca) a partir de 2021-06-15; valeu até 2021-06-14 |
@@ -356,7 +356,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Óleo de Soja Bruto | 2,30 | 2018-09-04 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Óleo de Soja Bruto | 2.300,00 | 2018-09-04 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | 48484 | Pimenta do reino | 6,50 | 2019-01-03 | substituído pelo código 50370 (Pimenta do Reino) a partir de 2020-09-15; valeu até 2020-09-14 |
-| — | Semente de Capim Quikulu | 7,06 | 2010-08-02 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
+| — | Semente de Capim Quikulu | 7,06 | 2010-08-10 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Soja - 1 kg | 0,90 | 2017-07-25 | não consta das relações completas das Portarias nº 441/2018 (2019-01-03) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | SOJA 60 kg | 28,00 | 2005-03-29 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
 | — | Soja em grão Saca de 60 kg | 21,00 | 2006-05-11 | não consta das relações completas das Portarias nº 192/2015 (2015-04-07) e nº 496/2024 (2024-12-03): saiu da tabela sem exclusão expressa |
@@ -1478,7 +1478,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2020-12-21 (pub.) | 2020-10-16 | alterar | 33.000,00 |  | Ton | Castanha de Caju sem casca In Natura | Port. 302/2020 |
-| 2023-04-05 (pub.) | 2023-03-30 | alterar | 54.600,00 | +65.5% | Ton | Castanha do Caju In Natura sem Casca ⚠ | Port. 134/2023 |
+| 2021-06-15 (pub.) | 2021-06-11 | alterar | 48.000,00 | +45.5% | Ton | Castanha do Caju sem Casca ⚠ | Port. 219/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 54.600,00 | +13.7% | Ton | Castanha do Caju In Natura sem Casca ⚠ | Port. 134/2023 |
 | 2023-10-31 (pub.) | 2023-10-30 | incluir | 55.348,02 | +1.4% | Ton | Castanha do Caju In Natura sem Casca | Port. 476/2023 |
 | 2024-12-03 (pub.) | 2024-11-25 | alterar | 57.980,00 | +4.8% | Ton | Castanha do Caju In Natura sem Casca | Port. 496/2024 |
 
@@ -2245,7 +2246,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-04-23 (assin.) | 2012-04-23 | alterar | 1.808,00 |  | t | Farinha de trigo especial a granel | Port. 108/2012 |
+| 2006-04-12 (pub.) | 2006-04-06 | incluir | 1.120,00 |  | t | Farinha de Trigo especial a granel | Port. 227/2006 |
+| 2012-04-23 (assin.) | 2012-04-23 | alterar | 1.808,00 | +61.4% | t | Farinha de trigo especial a granel | Port. 108/2012 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 2.089,37 | +15.6% | t | Farinha de trigo especial a granel | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 2.227,12 | +6.6% | t | Farinha de trigo especial a granel | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 2.376,11 | +6.7% | t | Farinha de trigo especial a granel | Port. 121/2017 |
@@ -3561,7 +3563,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 2,95 |  | Kg | Semente de Capim Andropogon | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 2,95 |  | Kg | Semente de Capim Andropogon | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 4,30 | +45.8% | kg | Semente de capim andropogon | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,58 | +6.5% | kg | Semente de capim andropogon | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,89 | +6.8% | kg | Semente de capim andropogon | Port. 121/2017 |
@@ -3576,7 +3578,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 6,78 |  | Kg | Semente de Capim Branquiarão | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 6,78 |  | Kg | Semente de Capim Branquiarão | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 9,88 | +45.7% | kg | Semente de capim branquiarão | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 10,53 | +6.6% | kg | Semente de capim branquiarão | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 11,23 | +6.6% | kg | Semente de capim branquiarão | Port. 121/2017 |
@@ -3591,7 +3593,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 3,98 |  | Kg | Semente de Capim Branquiarão/Rosi | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 3,98 |  | Kg | Semente de Capim Branquiarão/Rosi | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 5,57 | +39.9% | kg | Semente de capim branquiarão / rosi | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 5,94 | +6.6% | kg | Semente de capim branquiarão / rosi | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 6,34 | +6.7% | kg | Semente de capim branquiarão / rosi | Port. 121/2017 |
@@ -3606,7 +3608,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 7,12 |  | Kg | Semente de Capim Calopogone | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 7,12 |  | Kg | Semente de Capim Calopogone | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 9,57 | +34.4% | kg | Semente de capim calopogone | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 10,20 | +6.6% | kg | Semente de capim calopogone | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 10,88 | +6.7% | kg | Semente de capim calopogone | Port. 121/2017 |
@@ -3621,7 +3623,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 5,72 |  | Kg | Semente de Capim Colonião | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 5,72 |  | Kg | Semente de Capim Colonião | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 8,07 | +41.1% | kg | Semente de capim colonião | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 8,60 | +6.6% | kg | Semente de capim colonião | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 9,18 | +6.7% | kg | Semente de capim colonião | Port. 121/2017 |
@@ -3636,7 +3638,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 2,80 |  | Kg | Semente de Capim Colonião C/Impurezas | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 2,80 |  | Kg | Semente de Capim Colonião C/Impurezas | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 4,39 | +56.8% | kg | Semente de capim colonião c / impurezas | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,68 | +6.6% | kg | Semente de capim colonião c / impurezas | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,99 | +6.6% | kg | Semente de capim colonião c / impurezas | Port. 121/2017 |
@@ -3651,7 +3653,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 1,80 |  | Kg | Semente de Capim Misturada | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 1,80 |  | Kg | Semente de Capim Misturada | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 2,94 | +63.3% | kg | Semente de capim misturada | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,13 | +6.5% | kg | Semente de capim misturada | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,34 | +6.7% | kg | Semente de capim misturada | Port. 121/2017 |
@@ -3666,7 +3668,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 2,60 |  | Kg | Semente de Capim não Classificada | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 2,60 |  | Kg | Semente de Capim não Classificada | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 3,55 | +36.5% | kg | Semente de capim não classificada | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,78 | +6.5% | kg | Semente de capim não classificada | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,03 | +6.6% | kg | Semente de capim não classificada | Port. 121/2017 |
@@ -3695,13 +3697,13 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 7,06 |  | Kg | Semente de Capim Quikulu | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 7,06 |  | Kg | Semente de Capim Quikulu | Port. 231/2010 |
 
 ### Semente de capim tubiatan (código 7017)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2010-08-02 (assin.) | 2010-08-02 | alterar | 6,84 |  | Kg | Semente de Capim Tubiatan | Port. 231/2010 |
+| 2010-08-10 (pub.) | 2010-08-02 | alterar | 6,84 |  | Kg | Semente de Capim Tubiatan | Port. 231/2010 |
 | 2015-04-07 (pub.) | 2015-03-30 | alterar | 9,05 | +32.3% | kg | Semente de capim tubiatan | Port. 192/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 9,65 | +6.6% | kg | Semente de capim tubiatan | Port. 9/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 10,30 | +6.7% | kg | Semente de capim tubiatan | Port. 121/2017 |
@@ -3967,7 +3969,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.312,95 | +25.0% | Ton | Soja em grãos | Port. 263/2020 |
 | 2020-09-28 (assin.) | 2020-09-28 | alterar | 1.450,00 | +10.4% | Tan | Soja em Grão ⚠ | Port. 279/2020 |
 | 2021-06-15 (pub.) | 2021-06-11 | alterar | 2.680,00 | +84.8% | Ton | Soja em grãos ⚠ | Port. 219/2021 |
-| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2.000,00 | -25.4% | Ton | Soja em grãos | Port. 134/2023 |
+| 2021-09-03 (pub.) | 2021-09-01 | alterar | 1.770,00 | -34.0% | Ton | Soja em grãos | Port. 355/2021 |
+| 2023-04-05 (pub.) | 2023-03-30 | alterar | 2.000,00 | +13.0% | Ton | Soja em grãos | Port. 134/2023 |
 | 2023-07-21 (pub.) | 2023-06-17 | alterar | 1.850,00 | -7.5% | Ton | Soja em grãos | Port. 327/2023 |
 | 2023-10-31 (pub.) | 2023-10-30 | incluir | 2.030,00 | +9.7% | Ton | Soja em grãos | Port. 476/2023 |
 | 2024-12-03 (pub.) | 2024-11-25 | alterar | 2.130,00 | +4.9% | Ton | Soja em grãos | Port. 496/2024 |
@@ -4085,7 +4088,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 597/2007: [Portaria nº 597/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0bc0335f-827d-4292-a83e-333b8c32813a), vigência 2007-10-02 (assin.)
 - Port. 337/2008: [Portaria nº 337/2008](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b1de935f-3a53-4f5e-9695-6882e3431afd), vigência 2008-07-14 (assin.)
 - Port. 102/2010: [Portaria nº 102/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca6c5e42-8b66-4682-96a8-3d0ffcfbfc9f), vigência 2010-04-07 (assin.)
-- Port. 231/2010: [Portaria nº 231/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a9a4068c-76d7-4fdf-8ac1-f2b3d82282d4), vigência 2010-08-02 (assin.)
+- Port. 231/2010: [Portaria nº 231/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a9a4068c-76d7-4fdf-8ac1-f2b3d82282d4), vigência 2010-08-10 (pub.)
 - Port. 331/2010: [Portaria nº 331/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=45d7926f-08cf-435b-8c88-2c2c1f934ed6), vigência 2011-01-05 (efeitos)
 - Port. 337/2011: [Portaria nº 337/2011](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2365432f-d000-49f2-bb2b-01fbc3d08a99), vigência 2011-07-13 (pub.)
 - Port. 108/2012: [Portaria nº 108/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f1fda412-43f9-4f03-afe0-b2d84f823123), vigência 2012-04-23 (assin.)
@@ -4863,7 +4866,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água mineral indaia + c/gás (mineral 500 ml) | 1,30 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Água Mineral Indaiá 10.000 ml | 6,50 | 2007-04-09 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Indaia 20.000 ml | 5,50 | 2014-11-18 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Água Mineral Indaiá com + gás (mineral 500 ml) | 0,88 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Água Mineral Indaiá com + gás (mineral 500 ml) | 0,88 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Lençóis Maranhense ( Copo ) 300 ml | 0,40 | 2005-05-16 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | AGUA MINERAL LENCOIS MARANHENSE - COPO 200 ml | 0,30 | 2006-10-19 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Lençóis Maranhense 10.000 ml | 1,85 | 2005-05-16 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -5077,7 +5080,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Indaiá (mineral 200 ml) | 0,36 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Indaiá (mineral 5 a 6 L) | 5,16 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Indaiá (mineral 5 L) | 3,69 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Indaiá (mineral 500 ml) | 0,88 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá (mineral 500 ml) | 0,88 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
 | — | Indáia (mineral copo 200 ml) | 0,50 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Indaiá (mineral descartável 10 L) | 6,63 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Indaia + com gás (mineral 500 ml) | 1,37 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
@@ -5086,7 +5089,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Indaiá com gás (mineral 330 ml) | 1,21 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Indaiá com gás (mineral 600 ml) | 1,42 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Indaiá sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Indaiá sem gás (mineral 300 ml) | 0,49 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá sem gás (mineral 300 ml) | 0,49 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
 | — | Indaiá sem gás (mineral 330 ml) | 0,99 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Indaiá sem gás (mineral 500 ml) | 0,98 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Indáia sem gás (mineral copo 200 a 300 ml) | 0,53 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -5099,13 +5102,13 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Lençóis Maranhense (mineral 2 L) | 1,60 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense (mineral 20 L) | 5,16 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Lençóis Maranhense (mineral 200 ml) | 0,31 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense (mineral 330 ml) | 0,32 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Lençóis Maranhense (mineral 5 a 6 L) | 4,57 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Lençóis Maranhense (mineral 330 ml) | 0,32 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense (mineral 5 a 6 L) | 4,57 | 2012-10-26 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Lençóis Maranhense (mineral 5 L) | 3,37 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense (mineral copo 200 ml) | 0,47 | 2015-06-01 | não consta das relações completas das Portarias nº 419/2018 (2018-12-14) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense (mineral descartável 1,5 L) | 1,96 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense c/ gás (mineral 510 ml) | 1,33 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense c/gás Pet (garrafa) (mineral 300 ml) | 0,41 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense c/gás Pet (garrafa) (mineral 300 ml) | 0,41 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense c/gás Pet (mineral 300 ml) | 0,94 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Lençóis Maranhense com gás (mineral 250 a 300 ml) | 0,84 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense com gás (mineral 330 ml) | 0,97 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
@@ -5114,7 +5117,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Lençóis Maranhense PP (mineral 350 a 450 ml) | 0,86 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense PP (Pet) (mineral 500 ml) | 0,82 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Lençóis Maranhense s/ gás (mineral 510 ml) | 1,07 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Lençóis Maranhense s/gás Pet (garrafa) (mineral 300 ml) | 0,39 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Lençóis Maranhense s/gás Pet (garrafa) (mineral 300 ml) | 0,39 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
 | — | Lençóis Maranhense s/gás Pet (mineral 300 ml) | 0,77 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Lençóis Maranhense sem gás (mineral 10 L) | 5,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Lençóis Maranhense sem gás (mineral 20 L) | 2,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
@@ -5181,9 +5184,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Nat Minalba Premi (vidro) s/gás (mineral 250 a 300 ml) | 2,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Nat Minalba Premi (vidro) s/gás (mineral 300 ml) | 2,49 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Natl Minalba Prem (vidro) c/gás (mineral 250 a 300 ml) | 2,62 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Natl Minalba Prem (vidro) c/gás (mineral 300 ml) | 2,21 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Natural Minalba Premium (vidro) c/gás (mineral 300 ml) | 2,13 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
-| — | Natural Minalba Premium (vidro) s/gás (mineral 300 ml) | 2,13 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Natl Minalba Prem (vidro) c/gás (mineral 300 ml) | 2,21 | 2012-10-26 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Natural Minalba Premium (vidro) c/gás (mineral 300 ml) | 2,13 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Natural Minalba Premium (vidro) s/gás (mineral 300 ml) | 2,13 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
 | — | Nestlê com gás (mineral 1 L) | 2,31 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Nestlê com gás (mineral 250 a 300 ml) | 0,63 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Nestlê com gás (mineral 300 ml) | 0,60 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
@@ -5223,7 +5226,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Outras marcas (mineral 20 L) | 7,00 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Outras marcas (mineral 200 ml) | 0,48 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Outras Marcas (mineral 350 a 450 ml) | 1,80 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas (mineral 5 a 6 L) | 5,00 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Outras marcas (mineral 5 a 6 L) | 5,00 | 2012-10-26 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Outras marcas (mineral 5 L) | 4,34 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Outras Marcas (mineral 510 ml) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Outras marcas (mineral 600 ml) | 2,50 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
@@ -5232,7 +5235,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Outras Marcas (mineral descartável 500 ml) | 2,50 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Outras marcas - - 5000 a 6000 ml | 7,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Outras marcas c/ gás (mineral 1 L) | 2,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Outras marcas c/ gás (mineral 2 L) | 2,00 | 2012-10-23 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Outras marcas c/ gás (mineral 2 L) | 2,00 | 2012-10-26 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Outras marcas c/ gás (mineral 500 ml) | 1,69 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Outras marcas com gás (mineral 1 L) | 3,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Outras marcas com gás (mineral 250 a 300 ml) | 2,80 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -5293,7 +5296,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Regiina s/gás (mineral 500 ml) | 1,00 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Regiina sem gás (mineral 350 a 450 ml) | 1,05 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Regina (mineral 20 L) | 4,70 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
-| — | Regina (mineral 5 a 6 L) | 3,71 | 2012-10-23 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
+| — | Regina (mineral 5 a 6 L) | 3,71 | 2012-10-26 | item sem código, sem atualização desde 2012; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Regina (mineral 5 L) | 3,32 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Regina c/gás (mineral 500 ml) | 1,06 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Regina com gás (mineral 1 L) | 2,23 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -5303,8 +5306,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Regina com gás (mineral 500 ml) | 1,33 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Regina com gás (mineral 510 ml) | 1,26 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Regina com gás (mineral descartável 1 L) | 2,23 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina s/ gás (mineral 1,5 L) | 1,17 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
-| — | Regina s/gás (mineral 500 ml) | 0,56 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-23) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
+| — | Regina s/ gás (mineral 1,5 L) | 1,17 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| — | Regina s/gás (mineral 500 ml) | 0,56 | 2011-05-30 | não consta das relações completas das Portarias nº 341/2012 (2012-10-26) e nº 283/2015 (2015-06-01): saiu da tabela sem exclusão expressa |
 | — | Regina sem gás (mineral 1 L) | 2,11 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Regina sem gás (mineral 20 L) | 4,00 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Regina sem gás (mineral 200 ml) | 0,29 | 2011-05-30 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -5510,7 +5513,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | Und | Acquality com gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,75 | +21.0% |  | Acquality com gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,75 | +21.0% |  | Acquality com gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,85 | +13.3% |  | Acquality com gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Acquality com gás (mineral 500 ml) (código —)
@@ -5524,7 +5527,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | Und | Acquality com gás (mineral 510 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,98 | +32.4% |  | Acquality com gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,98 | +32.4% |  | Acquality com gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,11 | +13.3% |  | Acquality com gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Acquality com gás (mineral descartável 330 ml) (código 12116)
@@ -5560,7 +5563,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 |  | und | Acquality sem gás (mineral 1,5 L) | Port. 220/2011 |
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 | +0.0% | und | Acquality sem gás (mineral 1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 | +9.4% |  | Acquality sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,28 | +9.4% |  | Acquality sem gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,44 | +12.5% |  | Acquality sem gás (mineral 1,5 L) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,51 | +4.9% |  | Acquality sem gás (mineral 1,5 L) | Port. 405/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 1,97 | +30.5% |  | Acquality sem gás (mineral 1,5 L) | Port. 215/2023 |
@@ -5583,7 +5586,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,42 |  | und | Acquality sem gás (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,52 | +23.8% |  | Acquality sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,52 | +23.8% |  | Acquality sem gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,59 | +13.5% |  | Acquality sem gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Acquality sem gás (mineral 330 ml) (código —)
@@ -5591,7 +5594,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,53 |  | Und | Acquality sem gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +28.3% |  | Acquality sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,68 | +28.3% |  | Acquality sem gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Acquality sem gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Acquality sem gás (mineral 500 ml) (código —)
@@ -5605,7 +5608,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | Und | Acquality sem gás (mineral 510 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 | +41.9% |  | Acquality sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,05 | +41.9% |  | Acquality sem gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +12.4% |  | Acquality sem gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Acquality sem gás (mineral copo 200 a 300 ml) (código —)
@@ -5618,7 +5621,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,39 |  |  | Acquality sem gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,39 |  |  | Acquality sem gás (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,44 | +12.8% |  | Acquality sem gás (mineral copo 200 ml) | Port. 283/2015 |
 | 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,46 | +4.5% |  | Acquality sem gás (mineral copo 200 ml) | Port. 419/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,60 | +30.4% |  | Acquality sem gás (mineral copo 200 ml) | Port. 215/2023 |
@@ -5669,7 +5672,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,82 |  |  | Acqullity com gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,82 |  |  | Acqullity com gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,05 | +12.6% |  | Acqullity com gás (mineral 1,5 L) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,16 | +5.4% |  | Acqullity com gás (mineral 1,5 L) | Port. 405/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,82 | +30.6% |  | Acqullity com gás (mineral 1,5 L) | Port. 215/2023 |
@@ -6440,7 +6443,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | Água Min Crystal s/ gás copo (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,53 |  |  | Água Min Crystal s/ gás copo (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Água Min Crystal s/ gás copo (mineral 300 ml) | Port. 283/2015 |
 
 ### Água Min Crystal sem gás copo (mineral descartável 300 ml) (código 48359)
@@ -6455,7 +6458,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Água Miner Crystal s/ gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,42 |  |  | Água Miner Crystal s/ gás (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,47 | +11.9% |  | Água Miner Crystal s/ gás (mineral copo 200 ml) | Port. 283/2015 |
 
 ### Água Miner Crystal sem gás (mineral copo 200 a 300 ml) (código —)
@@ -6752,14 +6755,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,13 |  |  | Agua Mineral Castelo (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,13 |  |  | Agua Mineral Castelo (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,27 | +12.4% |  | Agua Mineral Castelo (mineral 510 ml) | Port. 283/2015 |
 
 ### Agua Mineral Castelo (mineral copo 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,55 |  |  | Agua Mineral Castelo (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,55 |  |  | Agua Mineral Castelo (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,62 | +12.7% |  | Agua Mineral Castelo (mineral copo 200 ml) | Port. 283/2015 |
 
 ### Agua Mineral Castelo (mineral descartável 500 ml) (código —)
@@ -6864,14 +6867,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 |  |  | Água Mineral Crystal c/ gás pet (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,76 |  |  | Água Mineral Crystal c/ gás pet (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,86 | +13.2% |  | Água Mineral Crystal c/ gás pet (mineral 330 ml) | Port. 283/2015 |
 
 ### Água Mineral Crystal c/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,91 |  |  | Água Mineral Crystal c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,91 |  |  | Água Mineral Crystal c/gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,03 | +13.2% |  | Água Mineral Crystal c/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Mineral Crystal com gás - Pet 350 ml (código —)
@@ -6921,14 +6924,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,65 |  |  | Água Mineral Crystal s/ gás pet (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,65 |  |  | Água Mineral Crystal s/ gás pet (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,73 | +12.3% |  | Água Mineral Crystal s/ gás pet (mineral 330 ml) | Port. 283/2015 |
 
 ### Água Mineral Crystal s/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,80 |  |  | Água Mineral Crystal s/gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,80 |  |  | Água Mineral Crystal s/gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,90 | +12.5% |  | Água Mineral Crystal s/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Mineral Crystal sem gás - Pet 350 ml (código —)
@@ -7235,7 +7238,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | Und | Água Mineral Imperial c/gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +34.9% |  | Água Mineral Imperial c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,85 | +34.9% |  | Água Mineral Imperial c/gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Água Mineral Imperial c/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Mineral Imperial s/gás (mineral 500 ml) (código —)
@@ -7243,14 +7246,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | Und | Água Mineral Imperial s/gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 | +28.6% |  | Água Mineral Imperial s/gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,72 | +28.6% |  | Água Mineral Imperial s/gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | Água Mineral Imperial s/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água mineral indaia + c/gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Água mineral indaia + c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,15 |  |  | Água mineral indaia + c/gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Água mineral indaia + c/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Mineral Indaiá 10.000 ml (código —)
@@ -8332,7 +8335,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | You! Happy com gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,53 |  |  | You! Happy com gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | You! Happy com gás (mineral 500 ml) | Port. 283/2015 |
 | 2016-07-15 (pub.) | 2016-07-11 | incluir | 1,36 | +126.7% |  | Água Mineral You Happy com gás 500 ml | Port. 266/2016 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 1,47 | +8.1% |  | Água Mineral You Happy com gás 500 ml | Port. 382/2021 |
@@ -8430,7 +8433,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 |  |  | Àgua Saborizada Aquarius c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,05 |  |  | Àgua Saborizada Aquarius c/gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +12.4% |  | Àgua Saborizada Aquarius c/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Água Saborizada Aquarius c/gás 450 ml (código —)
@@ -8638,7 +8641,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,35 |  |  | Águs Saborizada Aquarias c/gás (mineral 350 a 450 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,35 |  |  | Águs Saborizada Aquarias c/gás (mineral 350 a 450 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,52 | +12.6% |  | Águs Saborizada Aquarias c/gás (mineral 350 a 450 ml) | Port. 283/2015 |
 
 ### Águs Saborizada Aquarias com gás (mineral 350 a 450 ml) (código —)
@@ -8848,7 +8851,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,23 |  | und | Belágua (mineral 1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,39 | +13.0% |  | Belágua (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,39 | +13.0% |  | Belágua (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,57 | +12.9% |  | Belágua (mineral 1,5 L) | Port. 283/2015 |
 
 ### Belágua (mineral 20 L) (código —)
@@ -8856,14 +8859,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,85 |  | und | Belágua (mineral 20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,88 | +0.8% |  | Belágua (mineral 20 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 3,88 | +0.8% |  | Belágua (mineral 20 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,38 | +12.9% |  | Belágua (mineral 20 L) | Port. 283/2015 |
 
 ### Belágua (mineral 5 a 6 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,57 |  |  | Belágua (mineral 5 a 6 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 3,57 |  |  | Belágua (mineral 5 a 6 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,03 | +12.9% |  | Belágua (mineral 5 a 6 L) | Port. 283/2015 |
 
 ### Belágua (mineral 5 L) (código —)
@@ -8877,7 +8880,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | und | Belágua (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +34.9% |  | Belágua (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,85 | +34.9% |  | Belágua (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Belágua (mineral 500 ml) | Port. 283/2015 |
 
 ### Belágua sem gás (mineral 1,5 L) (código 48120)
@@ -8905,7 +8908,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,47 |  | und | Belágua sem gás (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,61 | +29.8% |  | Belágua sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,61 | +29.8% |  | Belágua sem gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,69 | +13.1% |  | Belágua sem gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Belágua sem gás (mineral 500 ml) (código —)
@@ -9039,7 +9042,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,92 |  |  | Castelo sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,92 |  |  | Castelo sem gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,17 | +13.0% |  | Castelo sem gás (mineral 1,5 L) | Port. 283/2015 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,97 | +36.9% |  | Castelo sem gás (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,14 | +5.7% |  | Castelo sem gás (mineral 1,5 L) | Port. 500/2024 |
@@ -9081,7 +9084,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,19 |  |  | Clube Soda Crisstalina com gás (mineral 600 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,19 |  |  | Clube Soda Crisstalina com gás (mineral 600 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,34 | +12.6% |  | Clube Soda Crisstalina com gás (mineral 600 ml) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,41 | +5.2% |  | Clube Soda Crisstalina com gás (mineral 600 ml) | Port. 405/2018 |
 
@@ -9261,7 +9264,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Cristal com gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,15 |  |  | Cristal com gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Cristal com gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Cristal com gás (mineral descartável 500 ml) (código —)
@@ -9287,7 +9290,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 |  |  | Cristal sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,12 |  |  | Cristal sem gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Cristal sem gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Cristal sem gás (mineral descartável 500 ml) (código —)
@@ -9359,7 +9362,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,75 |  |  | Crystal sem gás (mineral 1 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,75 |  |  | Crystal sem gás (mineral 1 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,97 | +12.6% |  | Crystal sem gás (mineral 1 L) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,07 | +5.1% |  | Crystal sem gás (mineral 1 L) | Port. 405/2018 |
 
@@ -9408,7 +9411,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,28 |  |  | Cystal com gáss (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,28 |  |  | Cystal com gáss (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,57 | +12.7% |  | Cystal com gáss (mineral 1,5 L) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,70 | +5.1% |  | Cystal com gáss (mineral 1,5 L) | Port. 405/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,52 | +30.4% |  | Cystal com gáss (mineral 1,5 L) | Port. 215/2023 |
@@ -9424,7 +9427,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,90 |  |  | Cystal sem gáss (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,90 |  |  | Cystal sem gáss (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,14 | +12.6% |  | Cystal sem gáss (mineral 1,5 L) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 2,25 | +5.1% |  | Cystal sem gáss (mineral 1,5 L) | Port. 405/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,93 | +30.2% |  | Cystal sem gáss (mineral 1,5 L) | Port. 215/2023 |
@@ -9776,7 +9779,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,73 |  | und | Florata (mineral 20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,39 | +17.7% |  | Florata (mineral 20 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 4,39 | +17.7% |  | Florata (mineral 20 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,95 | +12.8% |  | Florata (mineral 20 L) | Port. 283/2015 |
 
 ### Florata (mineral 300 ml) (código —)
@@ -9784,7 +9787,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,39 |  | und | Florata (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,48 | +23.1% |  | Florata (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,48 | +23.1% |  | Florata (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,54 | +12.5% |  | Florata (mineral 300 ml) | Port. 283/2015 |
 
 ### Florata (mineral 500 ml) (código —)
@@ -9792,7 +9795,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | Florata (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 | +100.0% |  | Florata (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,12 | +100.0% |  | Florata (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Florata (mineral 500 ml) | Port. 283/2015 |
 
 ### Florata sem gás (mineral 20 L) (código —)
@@ -9856,8 +9859,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 |  |  | Guaravitã com gás (mineral 300 ml) | Port. 341/2012 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,70 | -17.6% |  | Guaravitã com gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,85 |  |  | Guaravitã com gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,70 | -17.6% |  | Guaravitã com gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +37.1% |  | Guaravitã com gás (mineral 300 ml) | Port. 283/2015 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,79 | -17.7% |  | Guaravitã com gás (mineral 300 ml) | Port. 283/2015 |
 
@@ -9886,7 +9889,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 8,39 |  |  | Idaiá (mineral descartável 10 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 8,39 |  |  | Idaiá (mineral descartável 10 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 9,47 | +12.9% |  | Idaiá (mineral descartável 10 L) | Port. 283/2015 |
 
 ### Idaiá sem gás (mineral descartável 10 L) (código —)
@@ -9968,7 +9971,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,32 |  | und | Indaiá (mineral 1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,87 | +41.7% |  | Indaiá (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,87 | +41.7% |  | Indaiá (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,11 | +12.8% |  | Indaiá (mineral 1,5 L) | Port. 283/2015 |
 
 ### Indaiá (mineral 20 L) (código —)
@@ -9976,7 +9979,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 4,54 |  | und | Indaiá (mineral 20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 5,34 | +17.6% |  | Indaiá (mineral 20 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 5,34 | +17.6% |  | Indaiá (mineral 20 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 6,02 | +12.7% |  | Indaiá (mineral 20 L) | Port. 283/2015 |
 
 ### Indaiá (mineral 200 ml) (código —)
@@ -9989,7 +9992,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 |  |  | Indaiá (mineral 5 a 6 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 4,57 |  |  | Indaiá (mineral 5 a 6 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,16 | +12.9% |  | Indaiá (mineral 5 a 6 L) | Port. 283/2015 |
 
 ### Indaiá (mineral 5 L) (código —)
@@ -10008,7 +10011,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,44 |  |  | Indáia (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,44 |  |  | Indáia (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,50 | +13.6% |  | Indáia (mineral copo 200 ml) | Port. 283/2015 |
 
 ### Indaiá (mineral descartável 10 L) (código —)
@@ -10021,7 +10024,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 |  |  | Indaiá com gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,18 |  |  | Indaiá com gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Indaiá com gás (mineral 500 ml) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,40 | +5.3% |  | Indaiá com gás (mineral 500 ml) | Port. 405/2018 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,37 | -2.1% |  | Indaia + com gás (mineral 500 ml) | Port. 405/2018 |
@@ -10051,7 +10054,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,63 |  | und | Indaiá com gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,02 | +61.9% |  | Indaiá com gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,02 | +61.9% |  | Indaiá com gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,15 | +12.7% |  | Indaiá com gás (mineral 330 ml) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,21 | +5.2% |  | Indaiá com gás (mineral 330 ml) | Port. 405/2018 |
 
@@ -10059,7 +10062,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,20 |  |  | Indaiá com gás (mineral 600 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,20 |  |  | Indaiá com gás (mineral 600 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,35 | +12.5% |  | Indaiá com gás (mineral 600 ml) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,42 | +5.2% |  | Indaiá com gás (mineral 600 ml) | Port. 405/2018 |
 
@@ -10111,7 +10114,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,59 |  | und | Indaiá sem gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,83 | +40.7% |  | Indaiá sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,83 | +40.7% |  | Indaiá sem gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,94 | +13.3% |  | Indaiá sem gás (mineral 330 ml) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,99 | +5.3% |  | Indaiá sem gás (mineral 330 ml) | Port. 405/2018 |
 
@@ -10119,7 +10122,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,82 |  |  | Indaiá sem gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,82 |  |  | Indaiá sem gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,93 | +13.4% |  | Indaiá sem gás (mineral 500 ml) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,98 | +5.4% |  | Indaiá sem gás (mineral 500 ml) | Port. 405/2018 |
 
@@ -10200,7 +10203,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,43 |  | und | Lençóis Maranhense (copo) (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 | +34.9% |  | Lençóis Maranhense (copo) (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,58 | +34.9% |  | Lençóis Maranhense (copo) (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,65 | +12.1% |  | Lençóis Maranhense (copo) (mineral 300 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense (mineral 10 L) (código —)
@@ -10208,7 +10211,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,98 |  | und | Lençóis Maranhense (mineral 10 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,78 | +90.9% |  | Lençóis Maranhense (mineral 10 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 3,78 | +90.9% |  | Lençóis Maranhense (mineral 10 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,26 | +12.7% |  | Lençóis Maranhense (mineral 10 L) | Port. 283/2015 |
 
 ### Lençóis Maranhense (mineral 2 L) (código —)
@@ -10222,7 +10225,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Lençóis Maranhense (mineral 20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 | +29.8% |  | Lençóis Maranhense (mineral 20 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 4,57 | +29.8% |  | Lençóis Maranhense (mineral 20 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 5,16 | +12.9% |  | Lençóis Maranhense (mineral 20 L) | Port. 283/2015 |
 
 ### Lençóis Maranhense (mineral 200 ml) (código —)
@@ -10241,7 +10244,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,57 |  |  | Lençóis Maranhense (mineral 5 a 6 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 4,57 |  |  | Lençóis Maranhense (mineral 5 a 6 L) | Port. 341/2012 |
 
 ### Lençóis Maranhense (mineral 5 L) (código —)
 
@@ -10253,7 +10256,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Lençóis Maranhense (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,42 |  |  | Lençóis Maranhense (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,47 | +11.9% |  | Lençóis Maranhense (mineral copo 200 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense (mineral descartável 1,5 L) (código —)
@@ -10267,7 +10270,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | und | Lençóis Maranhense c/ gás (mineral 510 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 | +59.5% |  | Lençóis Maranhense c/ gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,18 | +59.5% |  | Lençóis Maranhense c/ gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Lençóis Maranhense c/ gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense c/gás Pet (garrafa) (mineral 300 ml) (código —)
@@ -10280,7 +10283,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,83 |  |  | Lençóis Maranhense c/gás Pet (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,83 |  |  | Lençóis Maranhense c/gás Pet (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,94 | +13.3% |  | Lençóis Maranhense c/gás Pet (mineral 300 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense com gás (mineral 250 a 300 ml) (código —)
@@ -10293,7 +10296,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,86 |  |  | Lençóis Maranhense com gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,86 |  |  | Lençóis Maranhense com gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,97 | +12.8% |  | Lençóis Maranhense com gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense com gás (mineral 500 ml) (código —)
@@ -10351,7 +10354,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,53 |  | Und | Lençóis Maranhense PP (Pet) (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,73 | +37.7% |  | Lençóis Maranhense PP (Pet) (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,73 | +37.7% |  | Lençóis Maranhense PP (Pet) (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,82 | +12.3% |  | Lençóis Maranhense PP (Pet) (mineral 500 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense s/ gás (mineral 510 ml) (código —)
@@ -10359,7 +10362,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,69 |  | und | Lençóis Maranhense s/ gás (mineral 510 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 | +37.7% |  | Lençóis Maranhense s/ gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,95 | +37.7% |  | Lençóis Maranhense s/ gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Lençóis Maranhense s/ gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense s/gás Pet (garrafa) (mineral 300 ml) (código —)
@@ -10372,7 +10375,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 |  |  | Lençóis Maranhense s/gás Pet (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,68 |  |  | Lençóis Maranhense s/gás Pet (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Lençóis Maranhense s/gás Pet (mineral 300 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense sem gás (mineral 10 L) (código —)
@@ -10397,7 +10400,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,63 |  |  | Lençóis Maranhense sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,63 |  |  | Lençóis Maranhense sem gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,71 | +12.7% |  | Lençóis Maranhense sem gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Lençóis Maranhense sem gás (mineral 500 ml) (código —)
@@ -10460,7 +10463,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2005-05-16 (pub.) | 2005-05-11 | incluir | 1,10 |  |  | Água Mineral Lençóis Maranhense 1.500 ml | Port. 275/2005 |
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 | +6.4% | und | Lençóis Maranhense (mineral 1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,65 | +41.0% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,65 | +41.0% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,86 | +12.7% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,96 | +5.4% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 405/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,56 | +30.6% |  | Lençóis Maranhense (mineral 1,5 L) | Port. 215/2023 |
@@ -10577,7 +10580,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,38 |  | und | Mar doce (garrafa) (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,69 | +81.6% |  | Mar doce (garrafa) (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,69 | +81.6% |  | Mar doce (garrafa) (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,78 | +13.0% |  | Mar doce (garrafa) (mineral 300 ml) | Port. 283/2015 |
 
 ### Mar doce (garrafa) (mineral descartável 300 ml) (código 48379)
@@ -10593,7 +10596,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,17 |  | und | Mar Doce (mineral 1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,60 | +36.8% |  | Mar Doce (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,60 | +36.8% |  | Mar Doce (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,80 | +12.5% |  | Mar Doce (mineral 1,5 L) | Port. 283/2015 |
 
 ### Mar doce (mineral 10 L) (código —)
@@ -10601,7 +10604,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,87 |  | und | Mar doce (mineral 10 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,40 | +81.8% |  | Mar doce (mineral 10 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 3,40 | +81.8% |  | Mar doce (mineral 10 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,35 | -1.5% |  | Mar doce (mineral 10 L) | Port. 283/2015 |
 
 ### Mar doce (mineral 20 L) (código —)
@@ -10609,7 +10612,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Mar doce (mineral 20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,52 | +28.4% |  | Mar doce (mineral 20 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 4,52 | +28.4% |  | Mar doce (mineral 20 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,46 | -1.3% |  | Mar doce (mineral 20 L) | Port. 283/2015 |
 
 ### Mar doce (mineral 200 ml) (código —)
@@ -10623,7 +10626,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,41 |  | Und | Mar doce (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,60 | +46.3% |  | Mar Doce (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,60 | +46.3% |  | Mar Doce (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,68 | +13.3% |  | Mar Doce (mineral 330 ml) | Port. 283/2015 |
 
 ### Mar doce (mineral 5 L) (código —)
@@ -10637,14 +10640,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | Mar doce (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 | +35.7% |  | Mar doce (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,76 | +35.7% |  | Mar doce (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,80 | +5.3% |  | Mar doce (mineral 500 ml) | Port. 283/2015 |
 
 ### Mar doce (mineral copo 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,47 |  |  | Mar doce (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,47 |  |  | Mar doce (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,49 | +4.3% |  | Mar doce (mineral copo 200 ml) | Port. 283/2015 |
 
 ### ÁGUA MINERAL MAR DOCE (copo) 300 ml (código 48263)
@@ -10653,7 +10656,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2003-09-24 (assin.) | 2003-09-24 | incluir | 0,35 |  |  | ÁGUA MINERAL MAR DOCE (copo) 300 ml | Port. 369/2003 |
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,42 | +20.0% | und | Mar doce (copo) (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,57 | +35.7% |  | Mar doce (copo) (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,57 | +35.7% |  | Mar doce (copo) (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,64 | +12.3% |  | Mar doce (copo) (mineral 300 ml) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 0,67 | +4.7% |  | Mar doce (copo) (mineral 250 a 300 ml) | Port. 405/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,87 | +29.9% |  | Mar doce (mineral copo 300 ml) | Port. 215/2023 |
@@ -10663,7 +10666,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 7,00 |  |  | Mar doce (mineral descartável 10 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 7,00 |  |  | Mar doce (mineral descartável 10 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 7,90 | +12.9% |  | Mar doce (mineral descartável 10 L) | Port. 283/2015 |
 
 ### Água Mineral Mar Doce sem gás 1.500 ml (código 48363)
@@ -10916,7 +10919,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,57 |  | und | Minalba (mineral 1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,51 | +59.9% |  | Minalba (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,51 | +59.9% |  | Minalba (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,83 | +12.7% |  | Minalba (mineral 1,5 L) | Port. 283/2015 |
 
 ### Minalba c/ gás (mineral 1 L) (código —)
@@ -10930,7 +10933,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,81 |  | und | Minalba Classic com gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +4.9% |  | Minalba Classic com gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,85 | +4.9% |  | Minalba Classic com gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,96 | +12.9% |  | Minalba Classic com gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Minalba Classic com gás (mineral descartável 330 ml) (código 48348)
@@ -10952,7 +10955,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,74 |  | und | Minalba Classic sem gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,81 | +9.5% |  | Minalba Classic sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,81 | +9.5% |  | Minalba Classic sem gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,91 | +12.3% |  | Minalba Classic sem gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Minalba Classic sem gás (mineral descartável 330 ml) (código 48349)
@@ -10973,7 +10976,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,38 |  |  | Minalba com gás (mineral 1 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,38 |  |  | Minalba com gás (mineral 1 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,56 | +13.0% |  | Minalba com gás (mineral 1 L) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,64 | +5.1% |  | Minalba com gás (mineral 1 L) | Port. 405/2018 |
 
@@ -10990,7 +10993,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | und | Minalba com gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +9.7% |  | Minalba com gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,68 | +9.7% |  | Minalba com gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Minalba com gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Minalba com gás (mineral descartável 1 L) (código 48128)
@@ -11069,7 +11072,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,43 |  | und | Minalba sem gás (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 | +23.3% |  | Minalba sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,53 | +23.3% |  | Minalba sem gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Minalba sem gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Minalba sem gás (mineral 330 ml) (código —)
@@ -11077,7 +11080,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,62 |  | und | Minalba sem gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,68 | +9.7% |  | Minalba sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,68 | +9.7% |  | Minalba sem gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,77 | +13.2% |  | Minalba sem gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Minalba sem gás (mineral descartável 1,5 L) (código —)
@@ -11133,7 +11136,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,21 |  |  | Nat Minalba Premi (vidro) s/gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,21 |  |  | Nat Minalba Premi (vidro) s/gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,49 | +12.7% |  | Nat Minalba Premi (vidro) s/gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Natl Minalba Prem (vidro) c/gás (mineral 250 a 300 ml) (código —)
@@ -11146,7 +11149,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,21 |  |  | Natl Minalba Prem (vidro) c/gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,21 |  |  | Natl Minalba Prem (vidro) c/gás (mineral 300 ml) | Port. 341/2012 |
 
 ### Natural Minalba Premium (vidro) c/gás (mineral 300 ml) (código —)
 
@@ -11170,7 +11173,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,95 |  |  | Nestlê com gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,95 |  |  | Nestlê com gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,20 | +12.8% |  | Nestlê com gás (mineral 1,5 L) | Port. 283/2015 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,01 | +36.8% |  | Nestlé com gás (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,18 | +5.6% |  | Nestlé com gás (mineral 1,5 L) | Port. 500/2024 |
@@ -11185,7 +11188,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,53 |  |  | Nestlê com gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,53 |  |  | Nestlê com gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,60 | +13.2% |  | Nestlê com gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Nestlê com gás (mineral 500 ml) (código —)
@@ -11198,7 +11201,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 |  |  | Nestlê com gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,95 |  |  | Nestlê com gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Nestlê com gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Nestlé com gás (mineral descartável 1 L) (código —)
@@ -11238,7 +11241,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,86 |  |  | Nestlê sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,86 |  |  | Nestlê sem gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,10 | +12.9% |  | Nestlê sem gás (mineral 1,5 L) | Port. 283/2015 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,88 | +37.1% |  | Nestlé sem gás (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,04 | +5.6% |  | Nestlé sem gás (mineral 1,5 L) | Port. 500/2024 |
@@ -11253,7 +11256,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,81 |  |  | Nestlê sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,81 |  |  | Nestlê sem gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,91 | +12.3% |  | Nestlê sem gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Nestlê sem gás (mineral 500 ml) (código —)
@@ -11266,7 +11269,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,75 |  |  | Nestlê sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,75 |  |  | Nestlê sem gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,85 | +13.3% |  | Nestlê sem gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Nestlé sem gás (mineral descartável 1 L) (código —)
@@ -11309,42 +11312,42 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,25 |  |  | Ouro da Mina (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,25 |  |  | Ouro da Mina (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,01 | +60.8% |  | Ouro da Mina (mineral 1,5 L) | Port. 283/2015 |
 
 ### Ouro da Mina (mineral 10 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,95 |  |  | Ouro da Mina (mineral 10 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,95 |  |  | Ouro da Mina (mineral 10 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,57 | +83.1% |  | Ouro da Mina (mineral 10 L) | Port. 283/2015 |
 
 ### Ouro da Mina (mineral 20 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,54 |  |  | Ouro da Mina (mineral 20 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 3,54 |  |  | Ouro da Mina (mineral 20 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,70 | +32.8% |  | Ouro da Mina (mineral 20 L) | Port. 283/2015 |
 
 ### Ouro da MIna (mineral 300 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,42 |  |  | Ouro da MIna (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,42 |  |  | Ouro da MIna (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,79 | +88.1% |  | Ouro da MIna (mineral 300 ml) | Port. 283/2015 |
 
 ### Ouro da Mina (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 |  |  | Ouro da Mina (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,58 |  |  | Ouro da Mina (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,00 | +72.4% |  | Ouro da Mina (mineral 500 ml) | Port. 283/2015 |
 
 ### Ouro da Mina (mineral copo 200 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,30 |  |  | Ouro da Mina (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,30 |  |  | Ouro da Mina (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,56 | +86.7% |  | Ouro da Mina (mineral copo 200 ml) | Port. 283/2015 |
 
 ### Ouro da Mina sem gás (mineral 1 L) (código —)
@@ -11552,7 +11555,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,71 |  | und | Outras marcas (mineral 1,5 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,80 | +63.7% |  | Outras Marcas (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,80 | +63.7% |  | Outras Marcas (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 3,16 | +12.9% |  | Outras Marcas (mineral 1,5 L) | Port. 283/2015 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 4,56 | +44.3% |  | Outras Marcas (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 4,81 | +5.5% |  | Outras Marcas (mineral 1,5 L) | Port. 500/2024 |
@@ -11575,7 +11578,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 4,80 |  | und | Outras marcas (mineral 20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 6,00 | +25.0% |  | Outras marcas (mineral 20 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 6,00 | +25.0% |  | Outras marcas (mineral 20 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 7,00 | +16.7% |  | Outras marcas (mineral 20 L) | Port. 283/2015 |
 
 ### Outras marcas (mineral 200 ml) (código —)
@@ -11589,7 +11592,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,81 |  | und | Outras marcas (mineral 350 a 450 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +85.2% |  | Outras Marcas (mineral 350 a 450 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,50 | +85.2% |  | Outras Marcas (mineral 350 a 450 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras Marcas (mineral 350 a 450 ml) | Port. 283/2015 |
 | 2018-11-23 (assin.) | 2018-11-23 | alterar | 1,80 | +6.5% |  | Outras Marcas (mineral 350 a 450 ml) | Port. 405/2018 |
 
@@ -11605,7 +11608,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 5,00 |  |  | Outras marcas (mineral 5 a 6 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 5,00 |  |  | Outras marcas (mineral 5 a 6 L) | Port. 341/2012 |
 
 ### Outras marcas (mineral 5 L) (código —)
 
@@ -11617,7 +11620,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 |  |  | Outras Marcas (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,00 |  |  | Outras Marcas (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras Marcas (mineral 510 ml) | Port. 283/2015 |
 
 ### Outras marcas (mineral 600 ml) (código —)
@@ -11632,7 +11635,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,30 |  |  | Outras marcas (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,30 |  |  | Outras marcas (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,47 | +13.1% |  | Outras marcas (mineral copo 200 ml) | Port. 283/2015 |
 
 ### Outras Marcas (mineral copo 300 ml) (código 48138)
@@ -11663,8 +11666,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 8,28 |  | und | Outras Marcas (mineral descartável 10 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 4,00 | -51.7% |  | Outras marcas descartavel (mineral 10 L) | Port. 341/2012 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 8,50 | +112.5% |  | Outras Marcas (mineral descartável 10 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 4,00 | -51.7% |  | Outras marcas descartavel (mineral 10 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 8,50 | +112.5% |  | Outras Marcas (mineral descartável 10 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 9,60 | +12.9% |  | Outras Marcas (mineral descartável 10 L) | Port. 283/2015 |
 | 2018-12-14 (pub.) | 2018-12-11 | alterar | 9,00 | -6.2% |  | Outras Marcas (mineral descartável 10 L) | Port. 419/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 11,73 | +30.3% |  | Outras Marcas (mineral descartável 10 L) | Port. 215/2023 |
@@ -11745,7 +11748,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,73 |  | und | Outras marcas c/ gás (mineral 1 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +15.6% |  | Outras marcas c/ gás (mineral 1 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,00 | +15.6% |  | Outras marcas c/ gás (mineral 1 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas c/ gás (mineral 1 L) | Port. 283/2015 |
 
 ### Outras marcas c/ gás (mineral 2 L) (código —)
@@ -11753,14 +11756,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 2,00 |  | und | Outras marcas c/ gás (mineral 2 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +0.0% |  | Outras marcas c/ gás (mineral 2 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,00 | +0.0% |  | Outras marcas c/ gás (mineral 2 L) | Port. 341/2012 |
 
 ### Outras marcas c/ gás (mineral 500 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,10 |  | und | Outras marcas c/ gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +36.4% |  | Outras marcas c/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,50 | +36.4% |  | Outras marcas c/ gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras marcas c/ gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Outras marcas com gás (mineral 1 L) (código —)
@@ -11788,7 +11791,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,80 |  | und | Outras marcas com gás (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +150.0% |  | Outras marcas com gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,00 | +150.0% |  | Outras marcas com gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas com gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Outras Marcas com gás (mineral 330 ml) (código —)
@@ -11796,7 +11799,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,05 |  | und | Outras marcas com gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 | +6.7% |  | Outras marcas com gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,12 | +6.7% |  | Outras marcas com gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,18 | +5.4% |  | Outras Marcas com gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Outras marcas com gás (mineral 500 ml) (código —)
@@ -11892,7 +11895,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,61 |  | und | Outras marcas s/ gás (mineral 1 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +24.2% |  | Outras marcas s/ gás (mineral 1 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,00 | +24.2% |  | Outras marcas s/ gás (mineral 1 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas s/ gás (mineral 1 L) | Port. 283/2015 |
 
 ### Outras marcas s/ gás (mineral 500 ml) (código —)
@@ -11900,7 +11903,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 1,11 |  | und | Outras marcas s/ gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,50 | +35.1% |  | Outras marcas s/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,50 | +35.1% |  | Outras marcas s/ gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,69 | +12.7% |  | Outras marcas s/ gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Outras marcas sem gás (mineral 1 L) (código —)
@@ -11932,7 +11935,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,75 |  | und | Outras marcas sem gás (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,00 | +166.7% |  | Outras marcas sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,00 | +166.7% |  | Outras marcas sem gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,26 | +13.0% |  | Outras marcas sem gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Outras Marcas sem gás (mineral 330 ml) (código —)
@@ -11940,7 +11943,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,96 |  | und | Outras marcas sem gás (mineral 330 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,05 | +9.4% |  | Outras marcas sem gás (mineral 330 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,05 | +9.4% |  | Outras marcas sem gás (mineral 330 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +20.0% |  | Outras Marcas sem gás (mineral 330 ml) | Port. 283/2015 |
 
 ### Outras marcas sem gás (mineral 500 ml) (código —)
@@ -12089,7 +12092,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 |  | Und | Psiu Água com gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,97 | +59.0% |  | Psiu Água com gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,97 | +59.0% |  | Psiu Água com gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,09 | +12.4% |  | Psiu Água com gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Psiu Água com gás (mineral descartável 500 ml) (código 48290)
@@ -12145,7 +12148,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | Und | Psiu Água sem gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,85 | +51.8% |  | Psiu Água sem gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,85 | +51.8% |  | Psiu Água sem gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,90 | +5.9% |  | Psiu Água sem gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Psiu água sem gás (mineral descartável 1 L) (código —)
@@ -12211,7 +12214,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,15 |  |  | Pureza com gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,15 |  |  | Pureza com gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,43 | +13.0% |  | Pureza com gás (mineral 1,5 L) | Port. 283/2015 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,34 | +37.4% |  | Pureza com gás (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,53 | +5.7% |  | Pureza com gás (mineral 1,5 L) | Port. 500/2024 |
@@ -12232,7 +12235,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,05 |  |  | Pureza sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,05 |  |  | Pureza sem gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,31 | +12.7% |  | Pureza sem gás (mineral 1,5 L) | Port. 283/2015 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 3,17 | +37.2% |  | Pureza sem gás (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,35 | +5.7% |  | Pureza sem gás (mineral 1,5 L) | Port. 500/2024 |
@@ -12247,14 +12250,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 2,25 |  |  | Pureza Vital (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 2,25 |  |  | Pureza Vital (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,54 | +12.9% |  | Pureza Vital (mineral 1,5 L) | Port. 283/2015 |
 
 ### Pureza Vital (mineral 510 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,18 |  |  | Pureza Vital (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,18 |  |  | Pureza Vital (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,33 | +12.7% |  | Pureza Vital (mineral 510 ml) | Port. 283/2015 |
 
 ### Pureza Vital sem gás (mineral 1 L) (código —)
@@ -12353,7 +12356,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,58 |  |  | Regiina s/gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,58 |  |  | Regiina s/gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,00 | +72.4% |  | Regiina s/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Regiina sem gás (mineral 350 a 450 ml) (código —)
@@ -12367,14 +12370,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 3,52 |  | und | Regina (mineral 20 L) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,65 | +3.7% |  | Regina (mineral 20 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 3,65 | +3.7% |  | Regina (mineral 20 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 4,70 | +28.8% |  | Regina (mineral 20 L) | Port. 283/2015 |
 
 ### Regina (mineral 5 a 6 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 3,71 |  |  | Regina (mineral 5 a 6 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 3,71 |  |  | Regina (mineral 5 a 6 L) | Port. 341/2012 |
 
 ### Regina (mineral 5 L) (código —)
 
@@ -12387,7 +12390,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 |  | Und | Regina c/ gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,76 | +24.6% |  | Regina c/gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,76 | +24.6% |  | Regina c/gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,06 | +39.5% |  | Regina c/gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Regina com gás (mineral 1 L) (código —)
@@ -12400,7 +12403,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 |  |  | Regina com gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,28 |  |  | Regina com gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,12 | +65.6% |  | Regina com gás (mineral 1,5 L) | Port. 283/2015 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,91 | +37.3% |  | Regina com gás (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 3,07 | +5.5% |  | Regina com gás (mineral 1,5 L) | Port. 500/2024 |
@@ -12415,7 +12418,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,67 |  |  | Regina com gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,67 |  |  | Regina com gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,84 | +25.4% |  | Regina com gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Regina com gás (mineral 350 a 450 ml) (código —)
@@ -12434,7 +12437,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,12 |  |  | Regina com gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,12 |  |  | Regina com gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,26 | +12.5% |  | Regina com gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Regina com gás (mineral descartável 1 L) (código —)
@@ -12489,7 +12492,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,28 |  |  | Regina sem gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,28 |  |  | Regina sem gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,01 | +57.0% |  | Regina sem gás (mineral 1,5 L) | Port. 283/2015 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 2,75 | +36.8% |  | Regina sem gás (mineral 1,5 L) | Port. 215/2023 |
 | 2024-12-05 (pub.) | 2024-11-28 | alterar | 2,90 | +5.5% |  | Regina sem gás (mineral 1,5 L) | Port. 500/2024 |
@@ -12516,7 +12519,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,15 |  |  | Regina sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,15 |  |  | Regina sem gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,30 | +13.0% |  | Regina sem gás (mineral 510 ml) | Port. 283/2015 |
 
 ### Regina sem gás (mineral copo 200 a 300 ml) (código —)
@@ -12529,7 +12532,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,37 |  |  | Regina sem gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,37 |  |  | Regina sem gás (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,56 | +51.4% |  | Regina sem gás (mineral copo 200 ml) | Port. 283/2015 |
 | 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,59 | +5.4% |  | Regina sem gás (mineral copo 200 ml) | Port. 419/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,77 | +30.5% |  | Regina sem gás (mineral copo 200 ml) | Port. 215/2023 |
@@ -12590,7 +12593,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,56 |  | und | River c/ gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 | +28.6% |  | River c/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,72 | +28.6% |  | River c/ gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | River c/ gás (mineral 500 ml) | Port. 283/2015 |
 
 ### River com gás (mineral 500 ml) (código —)
@@ -12963,7 +12966,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,64 |  |  | Santa mônica s/gás (mineral 350 a 450 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,64 |  |  | Santa mônica s/gás (mineral 350 a 450 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,72 | +12.5% |  | Santa mônica s/gás (mineral 350 a 450 ml) | Port. 283/2015 |
 
 ### Santa mônica sem gás (mineral 350 a 450 ml) (código —)
@@ -12986,7 +12989,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 |  |  | Santa Mônica sem gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,72 |  |  | Santa Mônica sem gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | Santa Mônica sem gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Santa Mônica sem gás (mineral descartável 350 ml) (código —)
@@ -13082,7 +13085,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,79 |  |  | São Lourenço com gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,79 |  |  | São Lourenço com gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,89 | +12.7% |  | São Lourenço com gás (mineral 510 ml) | Port. 283/2015 |
 
 ### São Lourenço com gás (mineral descartável 500 ml) (código —)
@@ -13108,7 +13111,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,10 |  |  | São Lourenço sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,10 |  |  | São Lourenço sem gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,24 | +12.7% |  | São Lourenço sem gás (mineral 300 ml) | Port. 283/2015 |
 
 ### São Lourenço sem gás (mineral 500 ml) (código —)
@@ -13121,7 +13124,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,72 |  |  | São Lourenço sem gás (mineral 510 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,72 |  |  | São Lourenço sem gás (mineral 510 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,81 | +12.5% |  | São Lourenço sem gás (mineral 510 ml) | Port. 283/2015 |
 
 ### São Lourenço sem gás (mineral descartável 300 ml) (código 12068)
@@ -13245,7 +13248,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,85 |  |  | Schincariol c/ gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,85 |  |  | Schincariol c/ gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 2,09 | +13.0% |  | Schincariol c/ gás (mineral 1,5 L) | Port. 283/2015 |
 
 ### Schincariol c/ gás (mineral 500 ml) (código —)
@@ -13253,7 +13256,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,88 |  | und | Schincariol c/ gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,99 | +12.5% |  | Schincariol c/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,99 | +12.5% |  | Schincariol c/ gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,12 | +13.1% |  | Schincariol c/ gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Schincariol com gás (mineral 300 ml) (código —)
@@ -13261,7 +13264,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,61 |  | und | Schincariol com gás (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,77 | +26.2% |  | Schincariol com gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,77 | +26.2% |  | Schincariol com gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,87 | +13.0% |  | Schincariol com gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Schincariol s/ gás (mineral 1 L) (código —)
@@ -13274,7 +13277,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 1,75 |  |  | Schincariol s/ gás (mineral 1,5 L) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 1,75 |  |  | Schincariol s/ gás (mineral 1,5 L) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,97 | +12.6% |  | Schincariol s/ gás (mineral 1,5 L) | Port. 283/2015 |
 
 ### Schincariol s/ gás (mineral 500 ml) (código —)
@@ -13282,7 +13285,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,84 |  | und | Schincariol s/ gás (mineral 500 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,95 | +13.1% |  | Schincariol s/ gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,95 | +13.1% |  | Schincariol s/ gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 1,07 | +12.6% |  | Schincariol s/ gás (mineral 500 ml) | Port. 283/2015 |
 
 ### Schincariol sem gás (mineral 300 ml) (código —)
@@ -13290,7 +13293,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2011-05-30 (efeitos) | 2011-05-24 | alterar | 0,55 |  | Und | Schincariol sem gás (mineral 300 ml) | Port. 220/2011 |
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,74 | +34.5% |  | Schincariol sem gás (mineral 300 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,74 | +34.5% |  | Schincariol sem gás (mineral 300 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,83 | +12.2% |  | Schincariol sem gás (mineral 300 ml) | Port. 283/2015 |
 
 ### Serra Grande com gás (mineral 1 L) (código —)
@@ -13849,7 +13852,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,35 |  |  | You! Happy com gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,35 |  |  | You! Happy com gás (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,39 | +11.4% |  | You! Happy com gás (mineral copo 200 ml) | Port. 283/2015 |
 | 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,41 | +5.1% |  | You! Happy com gás (mineral copo 200 ml) | Port. 419/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,53 | +29.3% |  | You! Happy com gás (mineral copo 200 ml) | Port. 215/2023 |
@@ -13886,7 +13889,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,52 |  |  | You! Happy sem gás (mineral 500 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,52 |  |  | You! Happy sem gás (mineral 500 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,59 | +13.5% |  | You! Happy sem gás (mineral 500 ml) | Port. 283/2015 |
 
 ### You! Happy sem gás (mineral copo 200 a 300 ml) (código —)
@@ -13899,7 +13902,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-23 (assin.) | 2012-10-23 | alterar | 0,27 |  |  | You! Happy sem gás (mineral copo 200 ml) | Port. 341/2012 |
+| 2012-10-26 (pub.) | 2012-10-23 | alterar | 0,27 |  |  | You! Happy sem gás (mineral copo 200 ml) | Port. 341/2012 |
 | 2015-06-01 (pub.) | 2015-05-25 | alterar | 0,30 | +11.1% |  | You! Happy sem gás (mineral copo 200 ml) | Port. 283/2015 |
 | 2018-12-14 (pub.) | 2018-12-11 | alterar | 0,32 | +6.7% |  | You! Happy sem gás (mineral copo 200 ml) | Port. 419/2018 |
 | 2023-05-22 (pub.) | 2023-05-16 | incluir | 0,42 | +31.2% |  | You! Happy sem gás (mineral copo 200 ml) | Port. 215/2023 |
@@ -13955,7 +13958,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 137/2012: [Portaria nº 137/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dc454d07-21f0-4b88-875d-6d5d1de897d4), vigência 2012-05-16 (assin.)
 - Port. 254/2012: [Portaria nº 254/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e39c4270-7cac-437a-8788-6571fd31a0ce), vigência 2012-08-16 (assin.)
 - Port. 256/2012: [Portaria nº 256/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cfe0e1b5-fb35-4a1d-aa8a-98025dc7fd64), vigência 2012-08-16 (assin.)
-- Port. 341/2012: [Portaria nº 341/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a3cfb5f1-758d-4a7f-b3cc-78fda7e9ff67), vigência 2012-10-23 (assin.)
+- Port. 341/2012: [Portaria nº 341/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a3cfb5f1-758d-4a7f-b3cc-78fda7e9ff67), vigência 2012-10-26 (pub.)
 - Port. 14/2013: [Portaria nº 14/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5114560c-ea39-4fdc-9271-4ae3821bc10f), vigência 2013-01-17 (assin.)
 - Port. 62/2013: [Portaria nº 62/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7866e805-d696-4057-9cbe-3ed04cf6f5b9), vigência 2013-03-26 (pub.)
 - Port. 292/2014: [Portaria nº 292/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=83a0c32d-b4a0-4e76-9f8f-960a19bf9494), vigência 2014-11-18 (pub.)

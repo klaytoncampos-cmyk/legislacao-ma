@@ -85,7 +85,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Bebida Mista Psiu Frutas Cítricas 250 ml | 1,60 | 2016-11-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bebida Mista Psiu Frutas Uvas 250 ml | 1,60 | 2016-11-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bebida Mista Psiu Frutas Vermelhas 250 ml | 1,60 | 2016-11-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Bebida Mista Psiu Uva 250 ml | 1,00 | 2012-10-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Bebida Mista Psiu Uva 250 ml | 1,00 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bebida Mista Refresco de Uva – Pet 1.000 ml | 3,50 | 2025-08-25 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bebida Mista Santa Joana Frutas Vermelhas - Pet 250 ml | 1,79 | 2020-03-06 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bebida Mista Santa Joana Frutas Vermelhas - Pet 450 ml | 2,27 | 2020-03-06 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -169,7 +169,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 47676 | Psiu Laranja (PET 250 ml) | 1,61 | 2024-02-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47677 | Psiu Uva (PET 250 ml) | 1,61 | 2024-02-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Mate Couro 2000 ml | 4,04 | 2016-11-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Guaraná 1.500 ml | 1,95 | 2012-10-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Guaraná 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Santa Joana Laranja – Pet 2.000 ml | 2,90 | 2020-03-06 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin Frutas Cítricas (400 a 600 ml) | 2,24 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin Frutas Vermelhas (400 a 600 ml) | 2,24 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -240,7 +240,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-02 (assin.) | 2012-10-02 | incluir | 1,00 |  |  | Bebida Mista Psiu Frutas Citricas 250 ml | Port. 330/2012 |
+| 2012-10-08 (pub.) | 2012-10-02 | incluir | 1,00 |  |  | Bebida Mista Psiu Frutas Citricas 250 ml | Port. 330/2012 |
 | 2016-11-21 (pub.) | 2016-11-16 | alterar | 1,60 | +60.0% |  | Bebida Mista Psiu Frutas Cítricas 250 ml | Port. 414/2016 |
 
 ### Bebida Mista Psiu Frutas Uvas 250 ml (código —)
@@ -253,14 +253,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-02 (assin.) | 2012-10-02 | incluir | 1,00 |  |  | Bebida Mista Psiu Frutas Vermelhas 250 ml | Port. 330/2012 |
+| 2012-10-08 (pub.) | 2012-10-02 | incluir | 1,00 |  |  | Bebida Mista Psiu Frutas Vermelhas 250 ml | Port. 330/2012 |
 | 2016-11-21 (pub.) | 2016-11-16 | alterar | 1,60 | +60.0% |  | Bebida Mista Psiu Frutas Vermelhas 250 ml | Port. 414/2016 |
 
 ### Bebida Mista Psiu Uva 250 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-02 (assin.) | 2012-10-02 | incluir | 1,00 |  |  | Bebida Mista Psiu Uva 250 ml | Port. 330/2012 |
+| 2012-10-08 (pub.) | 2012-10-02 | incluir | 1,00 |  |  | Bebida Mista Psiu Uva 250 ml | Port. 330/2012 |
 
 ### Bebida Mista Refresco de Uva – Pet 1.000 ml (código —)
 
@@ -1535,7 +1535,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-02 (assin.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Guaraná 1.500 ml | Port. 330/2012 |
+| 2012-10-08 (pub.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Guaraná 1.500 ml | Port. 330/2012 |
 
 ### Refrigerante Santa Joana Laranja – Pet 2.000 ml (código —)
 
@@ -2135,7 +2135,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 506/2006: [Portaria nº 506/2006](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9bd24a1b-8649-4b43-8249-7d562d49ab76), vigência 2006-10-24 (pub.)
 - Port. 5/2007: [Portaria nº 5/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=36c59906-2db6-4632-94ee-ea89f0141914), vigência 2007-01-05 (assin.)
 - Port. 324/2012: [Portaria nº 324/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bfc53670-896d-46af-978d-bdcfc4402135), vigência 2012-09-25 (assin.)
-- Port. 330/2012: [Portaria nº 330/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fe907e53-f242-4d5e-b75e-9bcc2bec961e), vigência 2012-10-02 (assin.)
+- Port. 330/2012: [Portaria nº 330/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fe907e53-f242-4d5e-b75e-9bcc2bec961e), vigência 2012-10-08 (pub.)
 - Port. 74/2013: [Portaria nº 74/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=32e5316a-8283-4d02-9826-f442a55948de), vigência 2013-04-04 (pub.)
 - Port. 300/2013: [Portaria nº 300/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c31025ba-02f1-432b-b5c6-effa0b190106), vigência 2013-09-30 (assin.)
 - Port. 157/2014: [Portaria nº 157/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2014-05-29 (pub.)

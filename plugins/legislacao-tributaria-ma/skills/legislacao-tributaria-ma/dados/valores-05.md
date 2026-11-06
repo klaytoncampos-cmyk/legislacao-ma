@@ -1503,23 +1503,23 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Pitchula Uva 250 ml | 1,08 | 2020-12-02 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Pitchulão Cola 2.000 ml | 3,76 | 2024-02-09 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Pitchulão Uva 2.000 ml | 3,76 | 2024-02-09 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Cola 1.500 ml | 1,95 | 2012-10-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Cola 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Cola 2.000 ml | 5,42 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Cola 200 ml | 1,35 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Frutas Cítricas 1.500 ml | 4,55 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Frutas Uva 1.500 ml | 4,55 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Guaraná 1.500 ml | 1,95 | 2012-10-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Guaraná 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Guaraná 2.000 ml | 5,30 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Guaraná 200 ml | 1,34 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Guaraná 250 ml | 1,45 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Guaraná Tropical 2.000 ml | 4,33 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Laranja - Pet 2.000 ml | 4,09 | 2021-11-17 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Laranja 1.500 ml | 1,95 | 2012-10-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Laranja 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Laranja 200 ml | 1,34 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Laranja 250 ml | 1,20 | 2016-11-21 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Limão – 250ml | 0,50 | 2003-11-10 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Sabores 2.000 ml | 5,30 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Teen 1.500 ml | 1,95 | 2012-10-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Teen 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Teen 2.000 ml | 5,42 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Teen 200 ml | 1,33 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Teen 350 ml | 1,69 | 2016-11-21 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -17890,7 +17890,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-02 (assin.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Cola 1.500 ml | Port. 330/2012 |
+| 2012-10-08 (pub.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Cola 1.500 ml | Port. 330/2012 |
 
 ### Refrigerante Psiu Cola 2.000 ml (código —)
 
@@ -17920,7 +17920,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-02 (assin.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Guaraná 1.500 ml | Port. 330/2012 |
+| 2012-10-08 (pub.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Guaraná 1.500 ml | Port. 330/2012 |
 
 ### Refrigerante Psiu Guaraná 2.000 ml (código —)
 
@@ -17959,7 +17959,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-02 (assin.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Laranja 1.500 ml | Port. 330/2012 |
+| 2012-10-08 (pub.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Laranja 1.500 ml | Port. 330/2012 |
 
 ### Refrigerante Psiu Laranja 200 ml (código —)
 
@@ -17990,7 +17990,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2012-10-02 (assin.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Teen 1.500 ml | Port. 330/2012 |
+| 2012-10-08 (pub.) | 2012-10-02 | incluir | 1,95 |  |  | Refrigerante Psiu Teen 1.500 ml | Port. 330/2012 |
 
 ### Refrigerante Psiu Teen 2.000 ml (código —)
 
@@ -24477,7 +24477,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 256/2012: [Portaria nº 256/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cfe0e1b5-fb35-4a1d-aa8a-98025dc7fd64), vigência 2012-08-16 (assin.)
 - Port. 257/2012: [Portaria nº 257/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4e0b6b3b-ef0f-4a09-ad38-63813b556ede), vigência 2012-08-17 (assin.)
 - Port. 324/2012: [Portaria nº 324/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bfc53670-896d-46af-978d-bdcfc4402135), vigência 2012-09-25 (assin.)
-- Port. 330/2012: [Portaria nº 330/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fe907e53-f242-4d5e-b75e-9bcc2bec961e), vigência 2012-10-02 (assin.)
+- Port. 330/2012: [Portaria nº 330/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fe907e53-f242-4d5e-b75e-9bcc2bec961e), vigência 2012-10-08 (pub.)
 - Port. 74/2013: [Portaria nº 74/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=32e5316a-8283-4d02-9826-f442a55948de), vigência 2013-04-04 (pub.)
 - Port. 300/2013: [Portaria nº 300/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c31025ba-02f1-432b-b5c6-effa0b190106), vigência 2013-09-30 (assin.)
 - Port. 355/2013: [Portaria nº 355/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bab3b230-ceb7-4eb9-97ff-976e91629031), vigência 2013-11-22 (pub.)

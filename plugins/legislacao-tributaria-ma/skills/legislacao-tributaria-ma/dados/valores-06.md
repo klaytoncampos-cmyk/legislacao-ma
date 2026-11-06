@@ -3176,7 +3176,7 @@ tipo: valores-de-referencia
 orgao: SEFAZ-MA
 gerado_em: "2026-11-05"
 portarias: 15
-registros: 2587
+registros: 2595
 ---
 
 # Tabela de Valores de Referência (ICMS): madeira: em tora, serrada, beneficiada e para cerca
@@ -4716,7 +4716,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 1.671,03 | +5.9% | m³ | Cedro pranchas | Port. 294/2020 |
 | 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.749,14 | +4.7% | m³ | Cedro pranchas | Port. 209/2021 |
 | 2023-04-19 (pub.) | 2023-04-11 | alterar | 1989,56 | +13.7% | m³ | Cedro pranchas | Port. 160/2023 |
-| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2.100,40 | +5.6% | m³ | Cedro pranchas | Port. 495/2024 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2.005,00 | +0.8% | m³ | Cedro pranchas | Port. 480/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 2.100,40 | +4.8% | m³ | Cedro pranchas | Port. 495/2024 |
 
 ### Cedro tábua (código 2102)
 
@@ -5984,7 +5985,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 909,79 | +6.7% | m³ | jatobá caibros | Port. 120/2017 |
 | 2018-11-14 (pub.) | 2018-11-09 | alterar | 935,37 | +2.8% | m³ | jatobá caibros | Port. 388/2018 |
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 990,24 | +5.9% | m³ | jatobá caibros | Port. 294/2020 |
-| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.179,00 | +19.1% | m³ | jatobá caibros | Port. 160/2023 |
+| 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.036,53 | +4.7% | m³ | jatobá caibros | Port. 209/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.179,00 | +13.7% | m³ | jatobá caibros | Port. 160/2023 |
 | 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.188,00 | +0.8% | m³ | jatobá caibros | Port. 480/2023 |
 | 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.244,53 | +4.8% | m³ | jatobá caibros | Port. 495/2024 |
 
@@ -6239,7 +6241,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2015-03-26 (assin.) | 2015-03-26 | alterar | 1195,00 |  | m³ | Laminados faqueados de cedro | Port. 189/2015 |
+| 2008-02-22 (assin.) | 2008-02-22 | alterar | 1.090,00 |  | m³ | laminados faqueados de cedro | Port. 146/2008 |
+| 2015-03-26 (assin.) | 2015-03-26 | alterar | 1195,00 | +9.6% | m³ | Laminados faqueados de cedro | Port. 189/2015 |
 | 2016-01-21 (pub.) | 2016-01-08 | alterar | 1.273,79 | +6.6% | m³ | laminados faqueados de cedro | Port. 8/2016 |
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.359,01 | +6.7% | m³ | Laminados faqueados de cedro | Port. 120/2017 |
 | 2018-11-14 (pub.) | 2018-11-09 | alterar | 1397,21 | +2.8% | m³ | Laminados faqueados de cedro | Port. 388/2018 |
@@ -6273,7 +6276,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.099,71 | +6.7% | m³ | Laminados faqueados outros de primeira | Port. 120/2017 |
 | 2018-11-14 (pub.) | 2018-11-09 | alterar | 1130,62 | +2.8% | m³ | Laminados faqueados outros de primeira | Port. 388/2018 |
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 1.196,95 | +5.9% | m³ | Laminados faqueados outros de primeira | Port. 294/2020 |
-| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.881,63 | +57.2% | m³ | Laminados faqueados outros de primeira | Port. 160/2023 |
+| 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.654,25 | +38.2% | m³ | Laminados faqueados outros de primeira | Port. 209/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.881,63 | +13.7% | m³ | Laminados faqueados outros de primeira | Port. 160/2023 |
 | 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.896,00 | +0.8% | m³ | Laminados faqueados outros de primeira | Port. 480/2023 |
 | 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.986,21 | +4.8% | m³ | Laminados faqueados outros de primeira | Port. 495/2024 |
 
@@ -6324,7 +6328,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 1.196,95 | +5.9% | m³ | Laminados torneados de mesclado | Port. 294/2020 |
 | 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.252,90 | +4.7% | m³ | Laminados torneados de mesclado | Port. 209/2021 |
 | 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.425,11 | +13.7% | m³ | Laminados torneados de mesclado | Port. 160/2023 |
-| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.504,33 | +5.6% | m³ | Laminados torneados de mesclado | Port. 495/2024 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.436,00 | +0.8% | m³ | Laminados torneados de mesclado | Port. 480/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.504,33 | +4.8% | m³ | Laminados torneados de mesclado | Port. 495/2024 |
 
 ### Laminados torneados de sucupira (código 2064)
 
@@ -6609,7 +6614,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 1.151,15 | +5.9% | m³ | Madeira compensado cedro/sucupira 8 a 10mm 1ª | Port. 294/2020 |
 | 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.204,96 | +4.7% | m³ | Madeira compensado cedro/sucupira 8 a 10mm 1ª | Port. 209/2021 |
 | 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.370,58 | +13.7% | m³ | Madeira compensado cedro/sucupira 8 a 10 mm 1ª ⚠ | Port. 160/2023 |
-| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.447,76 | +5.6% | m³ | Madeira compensado cedro/sucupira 8 a 10 mm 1ª | Port. 495/2024 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.382,00 | +0.8% | m³ | Madeira compensado cedro/sucupira 8 a 10 mm 1ª | Port. 480/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.447,76 | +4.8% | m³ | Madeira compensado cedro/sucupira 8 a 10 mm 1ª | Port. 495/2024 |
 
 ### Madeira compensado cedro/sucupira 8 a 10 mm 2ª (código 2076)
 
@@ -6673,7 +6679,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 1.172,07 | +5.5% | m³ | Madeira compensado cedro/sucupira especia18/20mm 2ª | Port. 294/2020 |
 | 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.226,86 | +4.7% | m³ | Madeira compensado cedro/sucupira especia18/20mm 2ª | Port. 209/2021 |
 | 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.395,49 | +13.7% | m³ | Madeira compensado cedro/sucupira especia18/20 mm 2ª ⚠ | Port. 160/2023 |
-| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.473,95 | +5.6% | m³ | Madeira compensado cedro/sucupira especia18/20 mm 2ª | Port. 495/2024 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.407,00 | +0.8% | m³ | Madeira compensado cedro/sucupira especia18/20 mm 2ª | Port. 480/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.473,95 | +4.8% | m³ | Madeira compensado cedro/sucupira especia18/20 mm 2ª | Port. 495/2024 |
 
 ### Madeira compensado outros 12 mm 2a (código 48877)
 
@@ -6854,7 +6861,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2020-10-29 (pub.) | 2020-10-27 | alterar | 1.114,02 | +5.9% | m³ | Madeira compensado outros 8/10 mm 2a | Port. 294/2020 |
 | 2021-06-14 (pub.) | 2021-06-07 | alterar | 1.166,09 | +4.7% | m³ | Madeira compensado outros 8/10 mm 2a | Port. 209/2021 |
 | 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.326,37 | +13.7% | m³ | Madeira compensado outros 8/10 mm 2a | Port. 160/2023 |
-| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.400,62 | +5.6% | m³ | Madeira compensado outros 8/10 mm 2a | Port. 495/2024 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.337,00 | +0.8% | m³ | Madeira compensado outros 8/10 mm 2a | Port. 480/2023 |
+| 2024-12-03 (pub.) | 2024-11-25 | alterar | 1.400,62 | +4.8% | m³ | Madeira compensado outros 8/10 mm 2a | Port. 495/2024 |
 
 ### Madeira em Tora Buiuçu (código —)
 
@@ -10684,3 +10692,3323 @@ Links para o texto de cada portaria usada acima.
 - Port. 415/2024: [Portaria nº 415/2024](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=68f1b272-b354-4397-a44f-e7acde6656ae), vigência 2024-10-10 (pub.)
 - Port. 115/2025: [Portaria nº 115/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a87df4d1-8718-4317-ab1f-eafffad600fc), vigência 2025-04-07 (pub.)
 - Port. 116/2025: [Portaria nº 116/2025](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4af8649d-3702-4636-9d3e-4b4be544d68f), vigência 2025-04-07 (pub.)
+<<<DOC valores/pecuaria.md>>>
+---
+documento: "Tabela de Valores de Referência: pecuária (Grupo 06: bovinos, búfalos, caprinos, equinos, ovinos, suínos, aves e outros animais)"
+tipo: valores-de-referencia
+orgao: SEFAZ-MA
+gerado_em: "2026-11-05"
+portarias: 29
+registros: 1226
+---
+
+# Tabela de Valores de Referência (ICMS): pecuária (Grupo 06: bovinos, búfalos, caprinos, equinos, ovinos, suínos, aves e outros animais)
+
+Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram ou excluem itens da Tabela de Valores de Referência (fundamento citado nas portarias: § 8º do art. 13 da Lei 7.799/2002). Conferido contra os PDFs por revisão independente em 2026-11-05; atualizações posteriores a essa data não foram revisadas manualmente. **Confira na portaria (link) antes de usar em lançamento.**
+
+- **Vigência desde** = data em que a portaria passou a valer: "efeitos a partir de", quando houver; senão a **publicação** no DOE (as portarias entram em vigor na publicação; republicação por incorreção vale da republicação); na falta das duas, a assinatura.
+- **Código** = o da própria tabela da SEFAZ (as portarias trazem código desde 2017, com exceções). A SEFAZ às vezes **troca o código** do mesmo produto e **reaproveita** códigos de outras categorias (aqui: 18001, 22001, 22002, 24020, 30001, 30002, 45207, 50369, 50370, 50371, 50372, 50373, 50374, 50375, 50376, 50377, 50378, 50379, 50380, 50381, 50382, 50383, 52062, 52063 também designam produtos de outras categorias em outras portarias); por isso o histórico liga códigos e descrições com cuidado e sinaliza mudanças de descrição.
+- Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
+- **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2004.
+- **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
+- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
+
+## Valores vigentes (182)
+
+Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca de código e sem ausência em relação completa posterior.
+
+| código | descrição | unid. | valor (R$) | vigência desde | portaria |
+|---|---|---|---|---|---|
+| 38090 | Asinino Femea acima de 6 meses (⚠ este código já designou: Jumenta pega) | cb | 190,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 12045 | Asinino Femea até 6 meses (⚠ este código já designou: Jumenta comum) | cb | 149,30 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 45034 | Asinino Macho acima de 6 meses (⚠ este código já designou: Jumento pega) | cb | 217,06 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 00028 | Asinino Macho até 6 meses (⚠ este código já designou: Jumento comum) | cb | 176,35 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50413 | Aves Ornamentais Silvestres Adultas ( Macho ou Femea ) | cb | 203,40 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50414 | Aves Ornamentais Silvestres Ovos Férteis ( Ovos ) | dz | 37,95 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16001 | Bovino Femea acima de 36 meses | cb | 2.800,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 24007 | Bovino Femea de 0 a 12 meses (⚠ este código já designou: Bezerro até um ano) | cb | 1.200,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 13001 | Bovino Femea de 13 a 24 meses | cb | 2.160,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16003 | Bovino Femea de 25 a 36 meses | cb | 2.700,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16000 | Bovino Macho acima de 36 meses | cb | 3.800,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 24006 | Bovino Macho de 0 a 12 meses (⚠ este código já designou: Bezerra até um ano) | cb | 1.320,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 24002 | Bovino Macho de 13 a 24 meses (⚠ este código já designou: Boi para abate acima 24 meses) | cb | 2.400,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 13003 | Bovino Macho de 25 a 36 meses | cb | 3.200,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52066 | Bubalino Femea acima de 36 meses | cb | 1.764,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 24014 | Bubalino Femea de 0 a 12 meses (⚠ este código já designou: Bezerro até um ano) | cb | 814,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 53293 | Bubalino Femea de 13 a 24 meses | cb | 882,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52064 | Bubalino Femea de 25 a 36 meses | cb | 1.700,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52065 | Bubalino Macho acima de 36 meses | cb | 2.240,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 24013 | Bubalino Macho de 0 a 12 meses (⚠ este código já designou: Bezerra até um ano) | cb | 882,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 51603 | Bubalino Macho de 13 a 24 meses | cb | 950,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 53294 | Bubalino Macho de 25 a 36 meses | cb | 2.037,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 28002 | Caprino Femea acima de 6 meses (⚠ este código já designou: Pele de caprino de segunda) | cb | 214,90 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 00021 | Caprino Femea até 6 meses | cb | 102,38 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 28001 | Caprino Macho acima de 6 meses | cb | 244,30 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 00019 | Caprino Macho até 6 meses (⚠ este código já designou: Bode) | cb | 115,56 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 00024 | Carne | kg | 19,77 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 00017 | Carne | kg | 19,26 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16010 | Carne de Javali | Kg | 14,24 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16011 | Carne de Suíno | Kg | 14,03 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16002 | Carne dianteira | Kg | 16,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52067 | Carne dianteira | Kg | 14,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16004 | Carne traseira | Kg | 19,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52068 | Carne traseira | Kg | 16,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50385 | Codorna Adulta ( Macho ou Femea ) | cb | 8,14 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50386 | Codorna Aves de um ( 1 ) deia | cb | 1,26 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50387 | Codorna Ovos Freteis ( Ovos ) | dz | 10,02 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50388 | Codorna Recriada ( Macho ou Femea ) | cb | 3,12 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52070 | Couro Fresc - interna | Kg | 1,62 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 3001 | Couro fresco - interestadual | Kg | 6,08 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52070 | Couro fresco - interestadual | Kg | 6,08 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 3001 | Couro Fresco - interno | Kg | 1,62 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 45010 | Couro salmourado Interestadual | Kg | 7,50 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52069 | Couro salmourado Interestadual | Kg | 7,50 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 45010 | Couro salmourado Interno | Kg | 1,80 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52069 | Couro salmourado Interno | Kg | 1,80 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50420 | Crustácea Lagosta Cistos | mil | 250,88 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50417 | Crustácea Lagosta Larvas | mil | 322,39 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50419 | Crustácea Lagosta Ovos Embrionários | mil | 149,66 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50418 | Crustácea Lagosta Pos - Lavras | mil | 160,56 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50421 | Crustáceo Camarão Adultos | Kg | 28,18 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50422 | Crustáceo Camarão Alevinos | mil | 224,70 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50426 | Crustáceo Camarão Cistos | mil | 89,93 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50423 | Crustáceo Camarão Larvas | mil | 160,06 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50425 | Crustáceo Camarão Ovos Embrionários | mil | 132,90 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50424 | Crustáceo Camarão Pos - Lavras | mil | 183,12 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50427 | Crustáceo Caranguejo Adultos | Kg | 39,45 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50428 | Crustáceo Caranguejo Alevinos | mil | 88,68 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50432 | Crustáceo Caranguejo Cistos | mil | 69,14 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50429 | Crustáceo Caranguejo Larvas | mil | 81,80 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50431 | Crustáceo Caranguejo Ovos Embrionários | mil | 88,17 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50430 | Crustáceo Caranguejo Pos - Lavras | mil | 115,24 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50415 | Crustáceo Lagosta Adultos | Kg | 310,62 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50416 | Crustáceo Lagosta Alevinos | mil | 255,51 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50433 | Crustáceo Siri Adultos | Kg | 26,92 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50434 | Crustáceo Siri Alevinos | mil | 95,94 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50438 | Crustáceo Siri Cistos | mil | 70,52 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50435 | Crustáceo Siri Larvas | mil | 78,16 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50437 | Crustáceo Siri Ovos Embrionários | mil | 78,78 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50436 | Crustáceo Siri Pos - Lavras | mil | 85,55 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 51605 | Equino Femea acima de 6 meses | cb | 610,59 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 48890 | Equino Femea até 6 meses (⚠ este código já designou: Égua) | cb | 339,17 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52092 | Equino Macho acima de 6 meses | cb | 746,24 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52091 | Equino Macho até 6 meses | cb | 407,05 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50382 | Faisão Adulto 9 Macho ou Femea ) | cb | 61,13 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50383 | Faisão Ovos Freteis ( Ovos ) | dz | 43,84 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50384 | Faisão Pinto de um ( 1 ) dia | cb | 17,53 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50608 | Galinha Adulta ( Macho ou Femea ) | cb | 33,82 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50609 | Galinha Aves de um (1) dia | cb | 2,76 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50612 | Galinha Dangola Adulto ( Mocho ou Femea ) | cb | 47,59 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50613 | Galinha Dangola Ovos Freteis ( Ovos ) | dz | 25,06 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50614 | Galinha Dangola Pinto de um ( 1 ) dia | cb | 4,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50610 | Galinha Ovos Férteis ( Ovos ) | dz | 16,29 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50611 | Galinha Recriada ( Mocho ou Femea ) | cb | 18,78 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50379 | Ganso Adulto ( Mocho ou Femea ) | cb | 81,42 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50380 | Ganso Ovos Freteis ( Ovos ) | dz | 31,30 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50381 | Ganso Pinto de um ( 1 ) dia | cb | 20,04 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16009 | Javali Femea acima de 6 meses | cb | 189,93 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16007 | Javali Femea de 0 a 6 meses | cb | 81,40 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16008 | Javali Macho acima de 6 meses | cb | 203,50 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 16005 | Javali Macho de 0 a 6 meses | cb | 94,96 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50410 | Marreco Adulto ( Macho ou Femea ) | cb | 47,47 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50411 | Marreco Ovos Férteis ( Ovos ) | dz | 88,17 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50412 | Marreco Pinto de um ( 1 ) dia | cb | 20,41 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50445 | Moluscos Lula Adultos | Kg | 35,68 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50446 | Moluscos Lula Alevinos | mil | 130,27 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50447 | Moluscos Lula Cistos | mil | 34,31 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50448 | Moluscos Lula Larvas | mil | 190,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50449 | Moluscos Lula Ovos Embrionários | mil | 113,60 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50450 | Moluscos Lula Pos-Larva | mil | 197,14 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50457 | Moluscos Mexilhões Adultos | Kg | 19,16 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50458 | Moluscos Mexilhões Alevinos | mil | 219,30 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50459 | Moluscos Mexilhões Cistos | mil | 132,52 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50460 | Moluscos Mexilhões Larvas | mil | 213,80 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50461 | Moluscos Mexilhões Ovos Embrionários | mil | 203,40 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50462 | Moluscos Mexilhões Pos-Larva | mil | 146,04 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50439 | Moluscos Ostra Adultos | Kg | 24,42 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50440 | Moluscos Ostra Alevinos | mil | 119,87 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50441 | Moluscos Ostra Cistos | mil | 78,16 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50442 | Moluscos Ostra Larvas88 | mil | 99,08 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50443 | Moluscos Ostra Ovos Embrionários | mil | 162,69 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50444 | Moluscos Ostra Pos-Larva | mil | 135,64 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50451 | Moluscos Polvo Adultos | Kg | 81,42 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50452 | Moluscos Polvo Alevinos | mil | 285,81 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50453 | Moluscos Polvo Cistos | mil | 129,26 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50454 | Moluscos Polvo Larvas | mil | 126,13 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50455 | Moluscos Polvo Ovos Embrionários | mil | 339,05 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50456 | Moluscos Polvo Pos-Larva | mil | 308,86 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50377 | Muar Femea acima de 6 meses | cb | 542,69 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 45052 | Muar Femea até 6 meses (⚠ este código já designou: Burra) | cb | 325,64 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50376 | Muar Macho acima de 6 meses | cb | 610,59 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 00030 | Muar Macho até 6 meses (⚠ este código já designou: Burro) | cb | 339,17 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50378 | Outras Espécies | cb | 678,34 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 51609 | Ovino Femea acima de 6 meses | cb | 215,92 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 51607 | Ovino Femea até 6 meses | cb | 115,56 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 51608 | Ovino Macho acima de 6 meses | cb | 254,44 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 51606 | Ovino Macho até 6 meses | cb | 127,73 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50389 | Pato Adulto ( Macho ou Femea ) | cb | 41,33 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50390 | Pato Ovos Freteis ( Ovos ) | dz | 21,92 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50391 | Pato Pinto de um ( 1 ) dia | cb | 6,89 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50463 | Peixe Adulto | Kg | 26,92 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50480 | Peixe Alevino - Outros | mil | 474,82 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50471 | Peixe Alevino Carpa | mil | 176,35 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50467 | Peixe Alevino Curimatá | mil | 135,64 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50474 | Peixe Alevino Pacu | mil | 203,40 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50469 | Peixe Alevino Pintado | mil | 135,64 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50476 | Peixe Alevino Pirarucu | und | 14,90 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50468 | Peixe Alevino Ponga | mil | 135,64 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50470 | Peixe Alevino Surubim | und | 10,77 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50466 | Peixe Alevino Tambacu | mil | 135,64 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50465 | Peixe Alevino Tambaqui | mil | 135,64 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50464 | Peixe Alevino Tambatinga | mil | 135,64 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50472 | Peixe Alevino Tilapia | mil | 176,35 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50473 | Peixe Alevino Trairão | mil | 156,43 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50475 | Peixe Alevino Tucunaré | mil | 339,05 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50477 | Peixe Cistos - Ração | mil | 305,24 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50478 | Peixe Lavra | mil | 203,40 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50479 | Peixe Ovos Embrionários | mil | 271,29 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 51604 | Pele | und | 2,13 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 28003 | Pele | und | 2,13 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 29001 | Pêlo da crina e da Calda | kg | 20,67 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52073 | Pelo da ponta da cauda do boi | kg | 7,50 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 29002 | Pêlo da ponta da cauda do boi | kg | 7,50 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50392 | Perdiz Adulta ( Macho ou Femea ) | cb | 39,45 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50393 | Perdiz Aves de um ( 1 ) dia | cb | 11,89 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50394 | Perdiz Ovos Férteis ( Ovos ) | dz | 19,53 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50395 | Peru Adulto ( Macho ou Femea ) | cb | 122,12 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50396 | Peru Aves de um ( 1 ) dia | cb | 23,16 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50397 | Peru Iniciado ( Macho ou Femea ) | cb | 34,81 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50398 | Peru Ovos Férteis ( Ovos ) | dz | 35,68 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50399 | Peru Recriado ( Macho ou Femea ) | cb | 48,72 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50400 | Ratita Adulta - Avestruzes ( Macho ou Femea ) | cb | 6.782,23 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50401 | Ratita Adulta - Emas ( Macho ou Femea ) | cb | 6.104,63 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50402 | Ratita Aves de um ( 1 ) dia - Avestruzes ( Pinto ) | cb | 677,59 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50403 | Ratita Aves de um ( 1 ) dia - Emas ( Pinto ) | cb | 609,95 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50404 | Ratita Criada - Avestruzes ( Macho ou Femea ) | cb | 1.763,63 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50405 | Ratita Criada - Emas ( Macho ou Femea ) | cb | 1.695,87 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50406 | Ratita Ovos Férteis - Avestruzes ( Ovos ) | dz | 433,37 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50407 | Ratita Ovos Férteis - Emas ( Ovos ) | dz | 420,58 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50408 | Ratita Recriada - Avestruzes ( Macho ou Femea ) | cb | 4.069,84 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 50409 | Ratita Recriada - Emas ( Macho ou Femea ) | cb | 3.391,62 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52071 | Sebo beneficiado | Kg | 6,60 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 32001 | Sebo beneficiado Interestadual | Kg | 6,60 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 32001 | Sebo beneficiado Interno | kg | 3,60 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 52072 | Sebo in natura | Kg | 3,60 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 32003 | Sebo in natura Interestadual | Kg | 6,08 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 32003 | Sebo in natura Interno | kg | 3,04 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 49504 | Suíno de sexo e idade não relevante | cb | 271,32 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 48891 | Suíno Femea Leitoa (⚠ este código já designou: Suíno Pêlo Escuro) | cb | 67,85 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 48189 | Suíno Femea Matriz (⚠ este código já designou: Porco Comum (pé duro)) | cb | 407,00 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 00025 | Suíno Macho Leitão (⚠ este código já designou: Suíno Pêlo Claro) | cb | 81,40 | 2023-12-04 (pub.) | Port. 481/2023 |
+| 45601 | Suíno Macho Reprodutor ( Cachaço ) | cb | 542,65 | 2023-12-04 (pub.) | Port. 481/2023 |
+
+## Situação incerta (0)
+
+O valor abaixo foi o último fixado, mas há motivo para duvidar que continue valendo: o item **não aparece** numa relação completa publicada depois (pode ter passado a "Outras Marcas"/"Todas as Marcas" ou sido excluído sem menção expressa) ou o **código dele foi dado a outro produto** (⚠). **Não use sem confirmar na SEFAZ.**
+
+| código | descrição | unid. | último valor (R$) | desde | portaria | motivo |
+|---|---|---|---|---|---|---|
+
+## Superados (154)
+
+| código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
+|---|---|---|---|---|
+| — | Bezerra aé um ano | 540,00 | 2015-10-23 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | bezerra até 01 ano | 190,00 | 2008-05-08 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | bezerra até 01 ano | 300,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | bezerra até 01 ano | 228,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 24006 | Bezerra até um ano | 850,79 | 2017-02-21 | o código 24006 passou a designar "Bovino Macho de 0 a 12 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 24013 | Bezerra até um ano | 600,56 | 2017-02-21 | o código 24013 passou a designar "Bubalino Macho de 0 a 12 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Bezerra até um ano | 308,00 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | bezerro até 01 ano | 200,00 | 2008-05-08 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | bezerro até 01 ano | 360,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | bezerro até 01 ano | 240,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 24007 | Bezerro até um ano | 900,84 | 2017-02-21 | o código 24007 passou a designar "Bovino Femea de 0 a 12 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 24014 | Bezerro até um ano | 645,04 | 2017-02-21 | o código 24014 passou a designar "Bubalino Femea de 0 a 12 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Bezerro até um ano | 580,00 | 2015-10-23 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 00019 | Bode | 182,39 | 2017-02-21 | o código 00019 passou a designar "Caprino Macho até 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | boi | 800,00 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | boi com inspeão sanitária | 600,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | boi com inspeão sanitária | 564,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Boi com Inspeção Sanitária | 900,00 | 2010-08-23 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 24002 | Boi para abate acima 24 meses | 2.126,97 | 2017-02-21 | o código 24002 passou a designar "Bovino Macho de 13 a 24 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 24009 | Boi para abate acima 24 meses | 1.501,40 | 2017-02-21 | o código 24009 passou a designar "Bubalino Macho de 13 a 24 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Boi para abate acima de 25 meses | 1.350,00 | 2015-10-23 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | boi sem inspeão sanitária | 648,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | boi sem inspeão sanitária | 576,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Boi sem Inspeção Sanitária | 960,00 | 2010-08-23 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 3001 | Bovino Femea acima de 36 meses | 2.851,00 | 2021-06-22 | substituído pelo código 16001 (Bovino Femea acima de 36 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 45010 | Bovino Femea de 25 a 36 meses | 2.513,00 | 2021-06-22 | substituído pelo código 16003 (Bovino Femea de 25 a 36 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 45010 | Bovino Macho acima de 36 meses | 3.147,00 | 2021-06-22 | substituído pelo código 16000 (Bovino Macho acima de 36 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 48887 | Bubalino Femea acima de 36 meses | 1.529,55 | 2021-06-22 | substituído pelo código 52066 (Bubalino Femea acima de 36 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 52062 | Bubalino Femea de 13 a 24 meses | 870,00 | 2023-04-19 | substituído pelo código 53293 (Bubalino Femea de 13 a 24 meses) a partir de 2023-12-04; valeu até 2023-12-03 |
+| 13002 | Bubalino Femea de 13 a 24 meses | 764,73 | 2021-06-22 | substituído pelo código 52062 (Bubalino Femea de 13 a 24 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 24010 | Bubalino Femea de 25 a 36 meses | 1.471,88 | 2021-06-22 | substituído pelo código 52064 (Bubalino Femea de 25 a 36 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 48886 | Bubalino Macho acima de 36 meses | 1.941,36 | 2021-06-22 | substituído pelo código 52065 (Bubalino Macho acima de 36 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 24009 | Bubalino Macho de 13 a 24 meses | 823,60 | 2021-06-22 | substituído pelo código 51603 (Bubalino Macho de 13 a 24 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 52063 | Bubalino Macho de 25 a 36 meses | 2.009,00 | 2023-04-19 | substituído pelo código 53294 (Bubalino Macho de 25 a 36 meses) a partir de 2023-12-04; valeu até 2023-12-03 |
+| 13004 | Bubalino Macho de 25 a 36 meses | 1.766,04 | 2021-06-22 | substituído pelo código 52063 (Bubalino Macho de 25 a 36 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 45052 | Burra | 522,71 | 2017-02-21 | o código 45052 passou a designar "Muar Femea até 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 00030 | Burro | 570,52 | 2017-02-21 | o código 00030 passou a designar "Muar Macho até 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Cabeça | 1.610,00 | 2014-05-13 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Cabeça | 1.127,00 | 2014-05-13 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Caprino | 164,00 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 50564 | Caprino Femea até 6 meses | 81,20 | 2019-04-08 | substituído pelo código 00021 (Caprino Femea até 6 meses) a partir de 2020-09-15; valeu até 2020-09-14 |
+| 50481 | Carne | 16,08 | 2021-06-22 | substituído pelo código 00024 (Carne) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 00021 | Carne | 16,08 | 2021-06-22 | substituído pelo código 00017 (Carne) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 50375 | Carne de Javali | 12,35 | 2021-06-22 | substituído pelo código 16010 (Carne de Javali) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 45601 | Carne de Suíno | 10,34 | 2017-02-21 | substituído pelo código 16011 (Carne de Suíno) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 45601 | Carne de Suíno | 12,17 | 2021-06-22 | substituído pelo código 16011 (Carne de Suíno) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 13001 | Carne dianteira | 5,43 | 2021-06-22 | substituído pelo código 52067 (Carne dianteira) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 13001 | Carne dianteira | 11,62 | 2021-06-22 | substituído pelo código 16002 (Carne dianteira) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 13002 | Carne Dianteira | 4,56 | 2017-02-21 | o código 13002 passou a designar "Bubalino Femea de 13 a 24 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Carne dianteira | 4,10 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | carne ponta de agulha | 2,18 | 2008-05-08 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | carne ponta de agulha | 2,62 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 13003 | Carne traseira | 7,06 | 2021-06-22 | substituído pelo código 52068 (Carne traseira) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 13003 | Carne traseira | 13,14 | 2021-06-22 | substituído pelo código 16004 (Carne traseira) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 13004 | Carne Traseira | 5,78 | 2017-02-21 | o código 13004 passou a designar "Bubalino Macho de 25 a 36 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Carne traseira | 5,20 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 00023 | Carneiro | 182,39 | 2017-02-21 | o código 00023 passou a designar "Ovino Macho até 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 00022 | Cavalo | 570,52 | 2017-02-21 | o código 00022 passou a designar "Equino Macho até 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Couro Fresco | 1,10 | 2018-08-16 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 3001 | Couro fresco - interestadual | 5,43 | 2021-06-22 | substituído pelo código 52070 (Couro fresco - interestadual) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 3001 | Couro Fresco - interna | 1,34 | 2020-09-15 | o mesmo código e produto aparece depois como "Couro fresco - interestadual" (Portaria nº 481/2023, 2023-12-04) |
+| 3001 | Couro Fresco - interna | 1,63 | 2021-06-22 | substituído pelo código 52070 (Couro Fresco - interna) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 52070 | Couro Fresco - interna | 1,50 | 2023-04-19 | o mesmo código e produto aparece depois como "Couro fresco - interestadual" (Portaria nº 481/2023, 2023-12-04) |
+| — | Couro Mecânico | 3,00 | 2006-08-23 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Couro Salmorado | 1,20 | 2018-08-16 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Couro Salmorado - Interestadual | 2,50 | 2017-12-01 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Couro Salmorado Interno | 1,50 | 2019-09-05 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Couro Salmourado | 3,00 | 2006-08-23 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Couro salmourado ( interna ) | 2,40 | 2012-09-27 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 45010 | Couro salmourado Interestadual | 6,51 | 2021-06-22 | substituído pelo código 52069 (Couro salmourado Interestadual) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 45010 | Couro salmourado Interno | 1,41 | 2021-06-22 | substituído pelo código 52069 (Couro salmourado Interno) a partir de 2023-04-19; valeu até 2023-04-18 |
+| — | Couro salmourado interno | 3,00 | 2014-11-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | couro salmourado manual | 3,00 | 2008-05-08 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | couro salmourado manual | 2,40 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | couro salmourado mecânico | 3,00 | 2008-05-08 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | couro salmourado mecânico | 2,40 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | COURO VERDE | 3,60 | 2004-02-11 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Couro Verde - Fresco | 1,85 | 2005-10-20 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 48890 | Égua | 446,41 | 2017-02-21 | o código 48890 passou a designar "Equino Femea até 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Égua | 401,40 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Égua | 156,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 50369 | Equino Femea acima de 6 meses | 529,55 | 2021-06-22 | substituído pelo código 51605 (Equino Femea acima de 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 29001 | Equino Macho acima de 6 meses | 647,19 | 2021-06-22 | substituído pelo código 52092 (Equino Macho acima de 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 00022 | Equino Macho até 6 meses | 353,03 | 2021-06-22 | substituído pelo código 52091 (Equino Macho até 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 22001 | Galinha Adulta ( Macho ou Femea ) | 29,33 | 2021-06-22 | substituído pelo código 50608 (Galinha Adulta ( Macho ou Femea )) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 22002 | Galinha Aves de um (1) dia | 2,39 | 2021-06-22 | substituído pelo código 50609 (Galinha Aves de um (1) dia) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 30001 | Galinha Dangola Adulto ( Mocho ou Femea ) | 41,28 | 2021-06-22 | substituído pelo código 50612 (Galinha Dangola Adulto ( Mocho ou Femea )) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 45207 | Galinha Dangola Ovos Freteis ( Ovos ) | 21,73 | 2021-06-22 | substituído pelo código 50613 (Galinha Dangola Ovos Freteis ( Ovos )) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 18001 | Galinha Dangola Pinto de um ( 1 ) dia | 3,47 | 2021-06-22 | substituído pelo código 50614 (Galinha Dangola Pinto de um ( 1 ) dia) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 24020 | Galinha Ovos Férteis ( Ovos ) | 14,13 | 2021-06-22 | substituído pelo código 50610 (Galinha Ovos Férteis ( Ovos )) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 30002 | Galinha Recriada ( Mocho ou Femea ) | 16,29 | 2021-06-22 | substituído pelo código 50611 (Galinha Recriada ( Mocho ou Femea )) a partir de 2023-04-19; valeu até 2023-04-18 |
+| — | Garrote | 420,00 | 2010-08-23 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Garrote | 360,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Garrote | 252,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 48884 | Garrote até dois anos | 1.417,98 | 2017-02-21 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 48886 | Garrote até dois anos | 1.000,92 | 2017-02-21 | o código 48886 passou a designar "Bubalino Macho acima de 36 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Garrote até dois anos | 900,00 | 2015-10-23 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 50374 | Javali Femea acima de 6 meses | 164,72 | 2021-06-22 | substituído pelo código 16009 (Javali Femea acima de 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 50372 | Javali Femea de 0 a 6 meses | 70,60 | 2021-06-22 | substituído pelo código 16007 (Javali Femea de 0 a 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 50373 | Javali Macho acima de 6 meses | 176,49 | 2021-06-22 | substituído pelo código 16008 (Javali Macho acima de 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 50371 | Javali Macho de 0 a 6 meses | 82,36 | 2021-06-22 | substituído pelo código 16005 (Javali Macho de 0 a 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 12045 | Jumenta comum | 133,46 | 2017-02-21 | o código 12045 passou a designar "Asinino Femea até 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 38090 | Jumenta pega | 333,64 | 2017-02-21 | o código 38090 passou a designar "Asinino Femea acima de 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 00028 | Jumento comum | 170,94 | 2017-02-21 | o código 00028 passou a designar "Asinino Macho até 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 45034 | Jumento pega | 389,25 | 2017-02-21 | o código 45034 passou a designar "Asinino Macho acima de 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | novilha | 150,00 | 2008-05-08 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Novilha | 180,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Novilha até 2 anos | 400,00 | 2010-08-23 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | novilha até 2 anos | 348,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 24008 | Novilha até dois anos | 1.334,57 | 2017-02-21 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 48887 | Novilha até dois anos | 834,10 | 2017-02-21 | o código 48887 passou a designar "Bubalino Femea acima de 36 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Novilha até dois anos | 750,00 | 2015-10-23 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 28004 | Ovino Femea acima de 6 mese | 170,54 | 2021-06-22 | substituído pelo código 51609 (Ovino Femea acima de 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 28003 | Ovino Macho acima de 6 meses | 188,25 | 2021-06-22 | substituído pelo código 51608 (Ovino Macho acima de 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 00023 | Ovino Macho até 6 meses | 110,80 | 2021-06-22 | substituído pelo código 51606 (Ovino Macho até 6 meses) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 28001 | Pele | 1,85 | 2021-06-22 | substituído pelo código 51604 (Pele) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 28001 | Pele de caprino de primeira | 14,01 | 2017-02-21 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 28002 | Pele de caprino de segunda | 10,34 | 2017-02-21 | o código 28002 passou a designar "Caprino Femea acima de 6 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 28003 | Pele de carneiro de primeira | 13,68 | 2017-02-21 | o mesmo código e produto aparece depois como "Pele de Carneiro ou Ovelha" (Portaria nº 184/2019, 2019-04-08) |
+| 28004 | Pele de carneiro de segunda | 10,34 | 2017-02-21 | o código 28004 passou a designar "Ovino Femea acima de 6 mese" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| 28003 | Pele de Carneiro ou Ovelha | 1,70 | 2019-04-08 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Pêlo da crina | 4,70 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 29001 | Pêlo da crina do cavalo | 5,23 | 2017-02-21 | o mesmo código e produto aparece depois como "Pêlo da crina e da Calda" (Portaria nº 481/2023, 2023-12-04) |
+| — | pêlo da crina do cavalo | 1,50 | 2008-05-08 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | pêlo da crina do cavalo | 1,80 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 29002 | Pelo da ponta da cauda do boi | 4,89 | 2021-06-22 | substituído pelo código 52073 (Pelo da ponta da cauda do boi) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 48189 | Porco Comum (pé duro) | 166,82 | 2017-02-21 | o código 48189 passou a designar "Suíno Femea Matriz" e este item não consta das relações completas das Portarias nº 236/2021 (2021-06-22) e nº 481/2023 (2023-12-04) |
+| 32001 | Sebo beneficiado | 2,17 | 2021-06-22 | substituído pelo código 52071 (Sebo beneficiado) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 32001 | Sebo beneficiado | 2,57 | 2020-09-15 | o mesmo código e produto aparece depois como "Sebo beneficiado" (Portaria nº 236/2021, 2021-06-22) |
+| 51585 | Sebo beneficiado Interno | 2,60 | 2020-10-09 | substituído pelo código 32001 (Sebo beneficiado Interno) a partir de 2021-06-22; valeu até 2021-06-21 |
+| — | sêbo em rama | 0,73 | 2008-05-08 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | sêbo em rama | 0,88 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 32003 | Sebo in natura | 1,95 | 2021-06-22 | substituído pelo código 52072 (Sebo in natura) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 32003 | Sebo in natura | 1,85 | 2020-09-15 | o mesmo código e produto aparece depois como "Sebo in natura" (Portaria nº 236/2021, 2021-06-22) |
+| 51586 | Sebo In Natura Interestadual | 4,90 | 2020-10-09 | substituído pelo código 32003 (Sebo in natura Interestadual) a partir de 2021-06-22; valeu até 2021-06-21 |
+| — | Sebo natural | 1,40 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | sêbo natural | 0,98 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 50370 | Suíno de sexo e idade não relevante | 235,31 | 2021-06-22 | substituído pelo código 49504 (Suíno de sexo e idade não relevante) a partir de 2023-04-19; valeu até 2023-04-18 |
+| 00025 | Suíno Pêlo Claro | 245,00 | 2017-02-21 | o código 00025 passou a designar "Suíno Macho Leitão" e este item não consta das relações completas das Portarias nº 236/2021 (2021-06-22) e nº 481/2023 (2023-12-04) |
+| 48891 | Suíno Pêlo Escuro | 216,87 | 2017-02-21 | o código 48891 passou a designar "Suíno Femea Leitoa" e este item não consta das relações completas das Portarias nº 236/2021 (2021-06-22) e nº 481/2023 (2023-12-04) |
+| — | suíno pelo escuro - pé duro | 120,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Vaca | 615,00 | 2015-07-03 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | vaca com inspeão sanitária | 480,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Vaca com inspeão sanitária | 360,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Vaca com Inspeção Sanitária | 600,00 | 2010-08-23 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 89896 | Vaca para abate acima 24 meses | 1.601,48 | 2017-02-21 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| 24010 | Vaca para abate acima 24 meses | 1.251,16 | 2017-02-21 | o código 24010 passou a designar "Bubalino Femea de 25 a 36 meses" e este item não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04) |
+| — | Vaca para abate acima de 25 meses | 1.125,00 | 2015-10-23 | não consta das relações completas das Portarias nº 261/2020 (2020-09-15) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | vaca sem inspeão sanitária | 492,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | vaca sem inspeão sanitária | 372,00 | 2010-01-18 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Vaca sem Inspeção Sanitária | 680,00 | 2010-08-23 | não consta das relações completas das Portarias nº 301/2015 (2015-07-03) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Vinho La Burra Burra Cabernet Sauvignon - Tinto 750 ml | 21,38 | 2021-09-23 | não consta das relações completas das Portarias nº 161/2023 (2023-04-19) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Vinho La Burra Burra Merlot - Tinto 750 ml | 21,38 | 2021-09-23 | não consta das relações completas das Portarias nº 161/2023 (2023-04-19) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+| — | Vinho La Burra Burra Sauvignon Blanc – Branco 750 ml | 21,38 | 2021-09-23 | não consta das relações completas das Portarias nº 161/2023 (2023-04-19) e nº 481/2023 (2023-12-04): saiu da tabela sem exclusão expressa |
+
+## Histórico por item
+
+Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudança de descrição dentro do mesmo código (a SEFAZ reutilizou ou detalhou o código; compare valores com cautela). Links das portarias no fim do arquivo ("Portarias citadas").
+
+### Asinino Femea acima de 6 meses (código 38090)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 151,70 |  | cb | Asinino Femea acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 156,08 | +2.9% | cb | Asinino Femea acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 164,78 | +5.6% | cb | Asinino Femea acima de 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 187,43 | +13.7% | cb | Asinino Femea acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 190,00 | +1.4% | cb | Asinino Femea acima de 6 meses | Port. 481/2023 |
+
+### Asinino Femea até 6 meses (código 12045)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 119,20 |  | cb | Asinino Femea até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 122,64 | +2.9% | cb | Asinino Femea até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 129,48 | +5.6% | cb | Asinino Femea até 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 147,28 | +13.7% | cb | Asinino Femea até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 149,30 | +1.4% | cb | Asinino Femea até 6 meses | Port. 481/2023 |
+
+### Asinino Macho acima de 6 meses (código 45034)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 173,30 |  | cb | Asinino Macho acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 178,31 | +2.9% | cb | Asinino Macho acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 188,25 | +5.6% | cb | Asinino Macho acima de 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 214,13 | +13.7% | cb | Asinino Macho acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 217,06 | +1.4% | cb | Asinino Macho acima de 6 meses | Port. 481/2023 |
+
+### Asinino Macho até 6 meses (código 00028)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 140,80 |  | cb | Asinino Macho até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 144,87 | +2.9% | cb | Asinino Macho até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 152,95 | +5.6% | cb | Asinino Macho até 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 173,97 | +13.7% | cb | Asinino Macho até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 176,35 | +1.4% | cb | Asinino Macho até 6 meses | Port. 481/2023 |
+
+### Aves Ornamentais Silvestres Adultas ( Macho ou Femea ) (código 50413)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 162,40 |  | cb | Aves Ornamentais Silvestres Adultas ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 167,09 | +2.9% | cb | Aves Ornamentais Silvestres Adultas ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 176,40 | +5.6% | cb | Aves Ornamentais Silvestres Adultas ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 200,65 | +13.7% | cb | Aves Ornamentais Silvestres Adultas ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 203,40 | +1.4% | cb | Aves Ornamentais Silvestres Adultas ( Macho ou Femea ) | Port. 481/2023 |
+
+### Aves Ornamentais Silvestres Ovos Férteis ( Ovos ) (código 50414)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 30,30 |  | dz | Aves Ornamentais Silvestres Ovos Férteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 31,18 | +2.9% | dz | Aves Ornamentais Silvestres Ovos Férteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 32,92 | +5.6% | dz | Aves Ornamentais Silvestres Ovos Férteis ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 37,44 | +13.7% | dz | Aves Ornamentais Silvestres Ovos Férteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 37,95 | +1.4% | dz | Aves Ornamentais Silvestres Ovos Férteis ( Ovos ) | Port. 481/2023 |
+
+### Bezerra aé um ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 765,00 |  | Cb | Bezerra aé um ano | Port. 487/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 540,00 | -29.4% | Cb | Bezerra aé um ano | Port. 487/2015 |
+
+### bezerra até 01 ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 250,00 |  | cb | bezerra até 01 ano | Port. 233/2008 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 190,00 | -24.0% | cb | bezerra até 01 ano | Port. 233/2008 |
+
+### bezerra até 01 ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 300,00 |  | cb | bezerra até 01 ano | Port. 6/2010 |
+
+### bezerra até 01 ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 228,00 |  | cb | bezerra até 01 ano | Port. 6/2010 |
+
+### Bezerra até um ano (código 24006)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 797,44 |  | cb | Bezerra até um ano | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 850,79 | +6.7% | cb | Bezerra até um ano | Port. 123/2017 |
+
+### Bezerra até um ano (código 24013)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 562,90 |  | cb | Bezerra até um ano | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 600,56 | +6.7% | cb | Bezerra até um ano | Port. 123/2017 |
+
+### Bezerra até um ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 500,00 |  | cb | Bezerra até um ano | Port. 291/2014 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 300,00 | -40.0% | cb | bezerra até um ano | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 513,00 | +71.0% | cb | Bezerra até um ano | Port. 301/2015 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 308,00 | -40.0% | cb | Bezerra até um ano | Port. 301/2015 |
+
+### bezerro até 01 ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 300,00 |  | cb | bezerro até 01 ano | Port. 233/2008 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 200,00 | -33.3% | cb | bezerro até 01 ano | Port. 233/2008 |
+
+### bezerro até 01 ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 360,00 |  | cb | bezerro até 01 ano | Port. 6/2010 |
+
+### bezerro até 01 ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 240,00 |  | cb | bezerro até 01 ano | Port. 6/2010 |
+
+### Bezerro até um ano (código 24007)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 844,35 |  | cb | Bezerro até um ano | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 900,84 | +6.7% | cb | Bezerro até um ano | Port. 123/2017 |
+
+### Bezerro até um ano (código 24014)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 604,59 |  | cb | Bezerro até um ano | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 645,04 | +6.7% | cb | Bezerro até um ano | Port. 123/2017 |
+
+### Bezerro até um ano (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 650,00 |  | cb | Bezerro até um ano | Port. 291/2014 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 400,00 | -38.5% | cb | bezerro até um ano | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 666,00 | +66.5% | cb | Bezerro até um ano | Port. 301/2015 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 410,00 | -38.4% | cb | Bezerro até um ano | Port. 301/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 810,00 | +97.6% | Cb | Bezerro até um anos ⚠ | Port. 487/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 580,00 | -28.4% | Cb | Bezerro até um ano ⚠ | Port. 487/2015 |
+
+### Bode (código 00019)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 170,95 |  | cb | Bode | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 182,39 | +6.7% | cb | Bode | Port. 123/2017 |
+
+### boi (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 1.610,00 |  | cb | boi | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 1.650,00 | +2.5% | cb | Boi | Port. 301/2015 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 800,00 | -51.5% | cb | boi | Port. 301/2015 |
+
+### boi com inspeão sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 600,00 |  | cb | boi com inspeão sanitária | Port. 6/2010 |
+
+### boi com inspeão sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 564,00 |  | cb | boi com inspeão sanitária | Port. 6/2010 |
+
+### Boi com Inspeção Sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 500,00 |  | cb | boi com inspeção sanitária | Port. 233/2008 |
+| 2010-08-23 (pub.) | 2010-08-17 | alterar | 900,00 | +80.0% | Cb | Boi com Inspeção Sanitária | Port. 245/2010 |
+
+### Boi para abate acima 24 meses (código 24002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1.993,60 |  | cb | Boi para abate acima 25 meses | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2.126,97 | +6.7% | cb | Boi para abate acima 24 meses | Port. 123/2017 |
+
+### Boi para abate acima 24 meses (código 24009)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1.407,25 |  | cb | Boi para abate acima 25 meses | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.501,40 | +6.7% | cb | Boi para abate acima 24 meses | Port. 123/2017 |
+
+### Boi para abate acima de 25 meses (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 1.912,50 |  | Cb | Boi para abate acima de 25 meses | Port. 487/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 1.350,00 | -29.4% | Cb | Boi para abate acima de 25 meses | Port. 487/2015 |
+
+### boi sem inspeão sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 648,00 |  | cb | boi sem inspeão sanitária | Port. 6/2010 |
+
+### boi sem inspeão sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 576,00 |  | cb | boi sem inspeão sanitária | Port. 6/2010 |
+
+### Boi sem Inspeção Sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 540,00 |  | cb | boi sem inspeção sanitária | Port. 233/2008 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 480,00 | -11.1% | cb | boi sem inspeção sanitária | Port. 233/2008 |
+| 2010-08-23 (pub.) | 2010-08-17 | alterar | 960,00 | +100.0% | Cb | Boi sem Inspeção Sanitária | Port. 245/2010 |
+
+### Bovino Femea acima de 36 meses (código 16001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-24 (pub.) | 2019-04-16 | alterar | 1.734,00 |  | Cb | Bovino Femea acima de 36 meses | Port. 223/2019 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 3.243,00 | +87.0% | cb | Bovino Femea acima de 36 meses | Port. 161/2023 |
+| 2023-09-25 (pub.) | 2023-09-25 | incluir | 2.800,00 | -13.7% | Cab. | Bovino Femea acima de 36 meses | Port. 429/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2.800,00 | +0.0% | cb | Bovino Femea acima de 36 meses | Port. 481/2023 |
+
+### Bovino Femea acima de 36 meses (código 3001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2.003,90 |  | cb | Bovino Femea acima de 36 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.784,11 | -11.0% | cb | Bovino Femea acima de 36 meses | Port. 261/2020 |
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 2.700,00 | +51.3% | cb | Bovino Femea acima de 36 meses | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2.851,00 | +5.6% | cb | Bovino Femea acima de 36 meses | Port. 236/2021 |
+
+### Bovino Femea de 0 a 12 meses (código 24007)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 920,70 |  | cb | Bovino Femea de 0 a 12 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 947,31 | +2.9% | cb | Bovino Femea de 0 a 12 meses | Port. 261/2020 |
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 1.500,00 | +58.3% | cb | Bovino Femea de 0 a 12 meses | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.584,00 | +5.6% | cb | Bovino Femea de 0 a 12 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.802,00 | +13.8% | cb | Bovino Femea de 0 a 12 meses | Port. 161/2023 |
+| 2023-09-25 (pub.) | 2023-09-25 | incluir | 1.200,00 | -33.4% | Cab. | Bovino Femea de 0 a 12 meses | Port. 429/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.200,00 | +0.0% | cb | Bovino Femea de 0 a 12 meses | Port. 481/2023 |
+
+### Bovino Femea de 13 a 24 meses (código 13001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 980,30 |  | cb | Bovino Femea de 13 a 24 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.008,63 | +2.9% | cb | Bovino Femea de 13 a 24 meses | Port. 261/2020 |
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 1.750,00 | +73.5% | cb | Bovino Femea de 13 a 24 meses | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.848,00 | +5.6% | cb | Bovino Femea de 13 a 24 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2.102,00 | +13.7% | cb | Bovino Femea de 13 a 24 meses | Port. 161/2023 |
+| 2023-09-25 (pub.) | 2023-09-25 | incluir | 2.160,00 | +2.8% | Cab. | Bovino Femea de 13 a 24 meses | Port. 429/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2.160,00 | +0.0% | cb | Bovino Femea de 13 a 24 meses | Port. 481/2023 |
+
+### Bovino Femea de 25 a 36 meses (código 16003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-24 (pub.) | 2019-04-16 | alterar | 1.601,00 |  | Cb | Bovino Femea de 25 a 36 meses | Port. 223/2019 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2.859,00 | +78.6% | cb | Bovino Femea de 25 a 36 meses | Port. 161/2023 |
+| 2023-09-25 (pub.) | 2023-09-25 | incluir | 2.700,00 | -5.6% | Cab. | Bovino Femea de 25 a 36 meses | Port. 429/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2.700,00 | +0.0% | cb | Bovino Femea de 25 a 36 meses | Port. 481/2023 |
+
+### Bovino Femea de 25 a 36 meses (código 45010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1.734,20 |  | cb | Bovino Femea de 25 a 36 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.647,27 | -5.0% | cb | Bovino Femea de 25 a 36 meses | Port. 261/2020 |
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 2.380,00 | +44.5% | cb | Bovino Femea de 25 a 36 meses | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2.513,00 | +5.6% | cb | Bovino Femea de 25 a 36 meses | Port. 236/2021 |
+
+### Bovino Macho acima de 36 meses (código 16000)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-24 (pub.) | 2019-04-16 | alterar | 2.303,00 |  | Cb | Bovino macho acima de 36 meses | Port. 223/2019 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 3.580,00 | +55.4% | cb | Bovino Macho acima de 36 meses | Port. 161/2023 |
+| 2023-09-25 (pub.) | 2023-09-25 | incluir | 3.800,00 | +6.1% | Cab. | Bovino Macho acima de 36 meses | Port. 429/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 3.800,00 | +0.0% | cb | Bovino Macho acima de 36 meses | Port. 481/2023 |
+
+### Bovino Macho acima de 36 meses (código 45010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2.653,80 |  | cb | Bovino Macho acima de 36 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2.369,56 | -10.7% | cb | Bovino Macho acima de 36 meses | Port. 261/2020 |
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 2.980,00 | +25.8% | cb | Bovino Macho acima de 36 meses | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 3.147,00 | +5.6% | cb | Bovino Macho acima de 36 meses | Port. 236/2021 |
+
+### Bovino Macho de 0 a 12 meses (código 24006)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 974,90 |  | cb | Bovino Macho de 0 a 12 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.003,07 | +2.9% | cb | Bovino Macho de 0 a 12 meses | Port. 261/2020 |
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 1.600,00 | +59.5% | cb | Bovino Macho de 0 a 12 meses | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.690,00 | +5.6% | cb | Bovino Macho de 0 a 12 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.923,00 | +13.8% | cb | Bovino Macho de 0 a 12 meses | Port. 161/2023 |
+| 2023-09-25 (pub.) | 2023-09-25 | incluir | 1.320,00 | -31.4% | Cab. | Bovino Macho de 0 a 12 meses | Port. 429/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.320,00 | +0.0% | cb | Bovino Macho de 0 a 12 meses | Port. 481/2023 |
+
+### Bovino Macho de 13 a 24 meses (código 24002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1.037,70 |  | cb | Bovino Macho de 13 a 24 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.067,69 | +2.9% | cb | Bovino Macho de 13 a 24 meses | Port. 261/2020 |
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 1.820,00 | +70.5% | cb | Bovino Macho de 13 a 24 meses | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.922,00 | +5.6% | cb | Bovino Macho de 13 a 24 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2.187,00 | +13.8% | cb | Bovino Macho de 13 a 24 meses | Port. 161/2023 |
+| 2023-09-25 (pub.) | 2023-09-25 | incluir | 2.400,00 | +9.7% | Cab. | Bovino Macho de 13 a 24 meses | Port. 429/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2.400,00 | +0.0% | cb | Bovino Macho de 13 a 24 meses | Port. 481/2023 |
+
+### Bovino Macho de 25 a 36 meses (código 13003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2.302,80 |  | cb | Bovino Macho de 25 a 36 meses | Port. 184/2019 |
+| 2019-04-24 (pub.) | 2019-04-16 | alterar | 2.127,00 | -7.6% | Cb | Bovino macho de 25 a 36 meses | Port. 223/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2.188,47 | +2.9% | cb | Bovino Macho de 25 a 36 meses | Port. 261/2020 |
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 2.500,00 | +14.2% | cb | Bovino Macho de 25 a 36 meses | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2.640,00 | +5.6% | cb | Bovino Macho de 25 a 36 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 3.003,00 | +13.7% | cb | Bovino Macho de 25 a 36 meses | Port. 161/2023 |
+| 2023-09-25 (pub.) | 2023-09-25 | incluir | 3.200,00 | +6.6% | Cab. | Bovino Macho de 25 a 36 meses | Port. 429/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 3.200,00 | +0.0% | cb | Bovino Macho de 25 a 36 meses | Port. 481/2023 |
+
+### Bubalino Femea acima de 36 meses (código 52066)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.740,00 |  | cb | Bubalino Femea acima de 36 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.764,00 | +1.4% | cb | Bubalino Femea acima de 36 meses | Port. 481/2023 |
+
+### Bubalino Femea acima de 36 meses (código 48887)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1.408,10 |  | cb | Bubalino Femea acima de 36 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.448,79 | +2.9% | cb | Bubalino Femea acima de 36 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.529,55 | +5.6% | cb | Bubalino Femea acima de 36 meses | Port. 236/2021 |
+
+### Bubalino Femea de 0 a 12 meses (código 24014)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 649,90 |  | cb | Bubalino Femea de 0 a 12 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 668,68 | +2.9% | cb | Bubalino Femea de 0 a 12 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 705,96 | +5.6% | cb | Bubalino Femea de 0 a 12 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 803,00 | +13.7% | cb | Bubalino Femea de 0 a 12 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 814,00 | +1.4% | cb | Bubalino Femea de 0 a 12 meses | Port. 481/2023 |
+
+### Bubalino Femea de 13 a 24 meses (código 53293)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 882,00 |  | cb | Bubalino Femea de 13 a 24 meses | Port. 481/2023 |
+
+### Bubalino Femea de 13 a 24 meses (código 52062)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 870,00 |  | cb | Bubalino Femea de 13 a 24 meses | Port. 161/2023 |
+
+### Bubalino Femea de 13 a 24 meses (código 13002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 704,00 |  | cb | Bubalino Femea de 13 a 24 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 724,35 | +2.9% | cb | Bubalino Femea de 13 a 24 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 764,73 | +5.6% | cb | Bubalino Femea de 13 a 24 meses | Port. 236/2021 |
+
+### Bubalino Femea de 25 a 36 meses (código 52064)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.675,00 |  | cb | Bubalino Femea de 25 a 36 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.700,00 | +1.5% | cb | Bubalino Femea de 25 a 36 meses | Port. 481/2023 |
+
+### Bubalino Femea de 25 a 36 meses (código 24010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1.355,00 |  | cb | Bubalino Femea de 25 a 36 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.394,16 | +2.9% | cb | Bubalino Femea de 25 a 36 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.471,88 | +5.6% | cb | Bubalino Femea de 25 a 36 meses | Port. 236/2021 |
+
+### Bubalino Macho acima de 36 meses (código 52065)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2.209,00 |  | cb | Bubalino Macho acima de 36 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2.240,00 | +1.4% | cb | Bubalino Macho acima de 36 meses | Port. 481/2023 |
+
+### Bubalino Macho acima de 36 meses (código 48886)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1.787,20 |  | cb | Bubalino Macho acima de 36 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.838,85 | +2.9% | cb | Bubalino Macho acima de 36 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.941,36 | +5.6% | cb | Bubalino Macho acima de 36 meses | Port. 236/2021 |
+
+### Bubalino Macho de 0 a 12 meses (código 24013)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 704,00 |  | cb | Bubalino Macho de 0 a 12 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 724,35 | +2.9% | cb | Bubalino Macho de 0 a 12 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 764,73 | +5.6% | cb | Bubalino Macho de 0 a 12 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 870,00 | +13.8% | cb | Bubalino Macho de 0 a 12 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 882,00 | +1.4% | cb | Bubalino Macho de 0 a 12 meses | Port. 481/2023 |
+
+### Bubalino Macho de 13 a 24 meses (código 51603)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 937,00 |  | cb | Bubalino Macho de 13 a 24 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 950,00 | +1.4% | cb | Bubalino Macho de 13 a 24 meses | Port. 481/2023 |
+
+### Bubalino Macho de 13 a 24 meses (código 24009)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 758,20 |  | cb | Bubalino Macho de 13 a 24 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 780,11 | +2.9% | cb | Bubalino Macho de 13 a 24 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 823,60 | +5.6% | cb | Bubalino Macho de 13 a 24 meses | Port. 236/2021 |
+
+### Bubalino Macho de 25 a 36 meses (código 53294)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2.037,00 |  | cb | Bubalino Macho de 25 a 36 meses | Port. 481/2023 |
+
+### Bubalino Macho de 25 a 36 meses (código 52063)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2.009,00 |  | cb | Bubalino Macho de 25 a 36 meses | Port. 161/2023 |
+
+### Bubalino Macho de 25 a 36 meses (código 13004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1.625,80 |  | cb | Bubalino Macho de 25 a 36 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.672,79 | +2.9% | cb | Bubalino Macho de 25 a 36 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.766,04 | +5.6% | cb | Bubalino Macho de 25 a 36 meses | Port. 236/2021 |
+
+### Burra (código 45052)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 470,00 |  | cb | Burra | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 489,93 | +4.2% | cb | Burra | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 522,71 | +6.7% | cb | Burra | Port. 123/2017 |
+
+### Burro (código 00030)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 320,00 |  | cb | burro | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 384,00 | +20.0% | cb | burro | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 500,00 | +30.2% | cb | burro | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 513,00 | +2.6% | cb | Burro | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 534,75 | +4.2% | cb | Burro | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 570,52 | +6.7% | cb | Burro | Port. 123/2017 |
+
+### Cabeça (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-05-13 (pub.) | 2014-05-13 | alterar | 1.610,00 |  | Boi | Cabeça | Port. 134/2014 |
+
+### Cabeça (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-05-13 (pub.) | 2014-05-13 | alterar | 1.127,00 |  | Vaca | Cabeça | Port. 134/2014 |
+
+### Caprino (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 108,00 |  | cb | caprino | Port. 6/2010 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 164,00 | +51.9% | cb | Caprino | Port. 301/2015 |
+
+### Caprino Femea acima de 6 meses (código 28002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 171,20 |  | cb | Caprino Femea acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 176,15 | +2.9% | cb | Caprino Femea acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 185,97 | +5.6% | cb | Caprino Femea acima de 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 212,00 | +14.0% | cb | Caprino Femea acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 214,90 | +1.4% | cb | Caprino Femea acima de 6 meses | Port. 481/2023 |
+
+### Caprino Femea até 6 meses (código 00021)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 83,55 |  | cb | Caprino Femea até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 88,21 | +5.6% | cb | Caprino Femea até 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 101,00 | +14.5% | cb | Caprino Femea até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 102,38 | +1.4% | cb | Caprino Femea até 6 meses | Port. 481/2023 |
+
+### Caprino Femea até 6 meses (código 50564)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 81,20 |  | cb | Caprino Femea até 6 meses | Port. 184/2019 |
+
+### Caprino Macho acima de 6 meses (código 28001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 195,00 |  | cb | Caprino Macho acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 200,64 | +2.9% | cb | Caprino Macho acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 211,82 | +5.6% | cb | Caprino Macho acima de 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 241,00 | +13.8% | cb | Caprino Macho acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 244,30 | +1.4% | cb | Caprino Macho acima de 6 meses | Port. 481/2023 |
+
+### Caprino Macho até 6 meses (código 00019)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 92,00 |  | cb | Caprino Macho até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 94,66 | +2.9% | cb | Caprino Macho até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 99,94 | +5.6% | cb | Caprino Macho até 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 114,00 | +14.1% | cb | Caprino Macho até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 115,56 | +1.4% | cb | Caprino Macho até 6 meses | Port. 481/2023 |
+
+### Carne (código 00024)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 6,00 |  | kg | carne | Port. 6/2010 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 12,51 | +108.5% | kg | Carne | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 13,35 | +6.7% | kg | Carne | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 14,80 | +10.9% | kg | Carne de Caeneiro ou Ovelha ⚠ | Port. 184/2019 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 19,50 | +31.8% | kg | Carne ⚠ | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 19,77 | +1.4% | kg | Carne | Port. 481/2023 |
+
+### Carne (código 00017)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 19,00 |  | kg | Carne | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 19,26 | +1.4% | kg | Carne | Port. 481/2023 |
+
+### Carne (código 50481)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 15,23 |  | kg | Carne | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 16,08 | +5.6% | kg | Carne | Port. 236/2021 |
+
+### Carne (código 00021)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 6,00 |  | kg | carne | Port. 6/2010 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 12,82 | +113.7% | kg | Carne | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 13,68 | +6.7% | kg | Carne | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 14,80 | +8.2% | kg | Carne de Caprino ⚠ | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 15,23 | +2.9% | kg | Carne ⚠ | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 16,08 | +5.6% | kg | Carne | Port. 236/2021 |
+
+### Carne de Javali (código 16010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 14,05 |  | Kg | Carne de Javali | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 14,24 | +1.4% | Kg | Carne de Javali | Port. 481/2023 |
+
+### Carne de Javali (código 50375)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 15,50 |  | Kg | Carne de Javali | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 11,70 | -24.5% | Kg | Carne de Javali | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 12,35 | +5.6% | Kg | Carne de Javali | Port. 236/2021 |
+
+### Carne de Suíno (código 16011)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 13,84 |  | Kg | Carne de Suíno | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 14,03 | +1.4% | Kg | Carne de Suíno | Port. 481/2023 |
+
+### Carne de Suíno (código 45601)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 5,00 |  | kg | carne de suíno | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 6,00 | +20.0% | kg | carne de suíno | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 9,00 | +50.0% | kg | carne de suíno | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 9,30 | +3.3% | kg | Carne de suino | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 9,69 | +4.2% | Kg | Carne de Suíno | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 10,34 | +6.7% | Kg | Carne de Suíno | Port. 123/2017 |
+
+### Carne de Suíno (código 45601)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 11,30 |  | Kg | Carne de Suíno | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 11,53 | +2.0% | Kg | Carne de Suíno | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 12,17 | +5.6% | Kg | Carne de Suíno | Port. 236/2021 |
+
+### Carne dianteira (código 16002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 15,00 |  | Kg | Carne dianteira | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 16,00 | +6.7% | Kg | Carne dianteira | Port. 481/2023 |
+
+### Carne dianteira (código 52067)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 11,00 |  | Kg | Carne dianteira | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 14,00 | +27.3% | Kg | Carne dianteira | Port. 481/2023 |
+
+### Carne dianteira (código 13001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 6,50 |  | Kg | Carne dianteira de Bubalino | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,14 | -20.9% | Kg | Carne dianteira ⚠ | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 5,43 | +5.6% | Kg | Carne dianteira | Port. 236/2021 |
+
+### Carne dianteira (código 13001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 2,82 |  | Kg | carne dianteira | Port. 6/2010 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 8,34 | +195.7% | Kg | Carne dianteira | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 8,90 | +6.7% | Kg | Carne dianteira | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 10,70 | +20.2% | Kg | Carne dianteira de Bovino ⚠ | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 11,01 | +2.9% | Kg | Carne dianteira ⚠ | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 11,62 | +5.5% | Kg | Carne dianteira | Port. 236/2021 |
+
+### Carne Dianteira (código 13002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,27 |  | Kg | Carne Dianteira | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,56 | +6.8% | Kg | Carne Dianteira | Port. 123/2017 |
+
+### Carne dianteira (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 2,35 |  | Kg | carne dianteira | Port. 233/2008 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 7,50 | +219.1% | Kg | carne dianteira | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 8,00 | +6.7% | kg | Carne dianteira | Port. 301/2015 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 4,10 | -48.8% | kg | Carne dianteira | Port. 301/2015 |
+
+### carne ponta de agulha (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 2,18 |  | Kg | carne ponta de agulha | Port. 233/2008 |
+
+### carne ponta de agulha (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 2,62 |  | Kg | carne ponta de agulha | Port. 6/2010 |
+
+### Carne traseira (código 16004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 18,00 |  | Kg | Carne traseira | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 19,00 | +5.6% | Kg | Carne traseira | Port. 481/2023 |
+
+### Carne traseira (código 52068)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 15,00 |  | Kg | Carne traseira | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 16,00 | +6.7% | Kg | Carne traseira | Port. 481/2023 |
+
+### Carne traseira (código 13003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 7,50 |  | Kg | Carne traseira de Bubalino | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6,69 | -10.8% | Kg | Carne traseira ⚠ | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 7,06 | +5.5% | Kg | Carne traseira | Port. 236/2021 |
+
+### Carne traseira (código 13003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 4,08 |  | Kg | carne traseira | Port. 6/2010 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 10,42 | +155.4% | Kg | Carne traseira | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 11,12 | +6.7% | Kg | Carne traseira | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 12,10 | +8.8% | Kg | Carne traseira de Bovino ⚠ | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 12,45 | +2.9% | Kg | Carne traseira ⚠ | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 13,14 | +5.5% | Kg | Carne traseira | Port. 236/2021 |
+
+### Carne Traseira (código 13004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 5,42 |  | Kg | Carne Traseira | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 5,78 | +6.6% | Kg | Carne Traseira | Port. 123/2017 |
+
+### Carne traseira (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 3,40 |  | Kg | carne traseira | Port. 233/2008 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 9,50 | +179.4% | Kg | carne traseira | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 10,00 | +5.3% | kg | Carne traseira | Port. 301/2015 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 5,20 | -48.0% | kg | Carne traseira | Port. 301/2015 |
+
+### Carneiro (código 00023)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 90,00 |  | cb | carneiro | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 108,00 | +20.0% | cb | carneiro | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 160,00 | +48.1% | cb | carneiro | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 164,00 | +2.5% | cb | Carneiro | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 170,95 | +4.2% | cb | Carneiro | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 182,39 | +6.7% | cb | Carneiro | Port. 123/2017 |
+
+### Cavalo (código 00022)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 256,67 |  | cb | cavalo | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 308,00 | +20.0% | cb | cavalo | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 500,00 | +62.3% | cb | cavalo | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 513,00 | +2.6% | cb | Cavalo | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 534,75 | +4.2% | cb | Cavalo | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 570,52 | +6.7% | cb | Cavalo | Port. 123/2017 |
+
+### Codorna Adulta ( Macho ou Femea ) (código 50385)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 6,50 |  | cb | Codorna Adulta ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6,69 | +2.9% | cb | Codorna Adulta ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 7,06 | +5.5% | cb | Codorna Adulta ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 8,03 | +13.7% | cb | Codorna Adulta ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 8,14 | +1.4% | cb | Codorna Adulta ( Macho ou Femea ) | Port. 481/2023 |
+
+### Codorna Aves de um ( 1 ) deia (código 50386)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,00 |  | cb | Codorna Aves de um ( 1 ) deia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,03 | +3.0% | cb | Codorna Aves de um ( 1 ) deia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1,09 | +5.8% | cb | Codorna Aves de um ( 1 ) deia | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1,24 | +13.8% | cb | Codorna Aves de um ( 1 ) deia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1,26 | +1.6% | cb | Codorna Aves de um ( 1 ) deia | Port. 481/2023 |
+
+### Codorna Ovos Freteis ( Ovos ) (código 50387)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 8,00 |  | dz | Codorna Ovos Freteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 8,23 | +2.9% | dz | Codorna Ovos Freteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 8,69 | +5.6% | dz | Codorna Ovos Freteis ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 9,88 | +13.7% | dz | Codorna Ovos Freteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 10,02 | +1.4% | dz | Codorna Ovos Freteis ( Ovos ) | Port. 481/2023 |
+
+### Codorna Recriada ( Macho ou Femea ) (código 50388)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2,50 |  | cb | Codorna Recriada ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,57 | +2.8% | cb | Codorna Recriada ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2,71 | +5.4% | cb | Codorna Recriada ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 3,08 | +13.7% | cb | Codorna Recriada ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 3,12 | +1.3% | cb | Codorna Recriada ( Macho ou Femea ) | Port. 481/2023 |
+
+### Couro Fresc - interna (código 52070)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1,62 |  | Kg | Couro Fresc - interna | Port. 481/2023 |
+
+### Couro Fresco (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2005-05-16 (pub.) | 2005-05-11 | alterar | 2,31 |  | Kg | COURO FRESCO | Port. 276/2005 |
+| 2006-08-23 (pub.) | 2006-08-16 | alterar | 2,00 | -13.4% | Kg | Couro fresco | Port. 447/2006 |
+| 2018-08-16 (pub.) | 2018-08-10 | alterar | 1,10 | -45.0% | kg | Couro Fresco | Port. 284/2018 |
+
+### Couro fresco - interestadual (código 3001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 2,00 |  | Kg | couro fresco(o.interestadual) | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 1,80 | -10.0% | Kg | couro fresco(o.interestadual) | Port. 6/2010 |
+| 2012-09-27 (pub.) | 2012-09-24 | alterar | 3,00 | +66.7% | Kg | Couro fresco ( interestadual ) | Port. 316/2012 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 4,00 | +33.3% | Kg | couro fresco interestadual | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 4,10 | +2.5% | kg | Couro fresco interestadual | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,27 | +4.1% | Kg | Couro fresco - interestadual | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 4,56 | +6.8% | Kg | Couro fresco - interestadual | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2,10 | -53.9% | Kg | Couro fresco - interestadual | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,14 | +144.8% | Kg | Couro fresco - interestadual | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 5,43 | +5.6% | Kg | Couro fresco - interestadual | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 6,00 | +10.5% | Kg | Couro fresco - interestadual | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 6,08 | +1.3% | Kg | Couro fresco - interestadual | Port. 481/2023 |
+
+### Couro fresco - interestadual (código 52070)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 6,00 |  | Kg | Couro fresco - interestadual | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 6,08 | +1.3% | Kg | Couro fresco - interestadual | Port. 481/2023 |
+
+### Couro fresco - interestadual (código 3001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,40 |  | kg | Couro Fresco - Interestadual | Port. 561/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2,10 | -12.5% | Kg | Couro fresco - interestadual | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,14 | +144.8% | Kg | Couro fresco - interestadual | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 5,43 | +5.6% | Kg | Couro fresco - interestadual | Port. 236/2021 |
+
+### Couro Fresco - interna (código 3001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 1,85 |  | Kg | couro Fresco(o.interna) | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 1,56 | -15.7% | Kg | couro Fresco(o.interna) | Port. 6/2010 |
+| 2012-09-27 (pub.) | 2012-09-24 | alterar | 1,56 | +0.0% | Kg | Couro fresco ( interna ) | Port. 316/2012 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 2,50 | +60.3% | Kg | couro Fresco interna | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 2,60 | +4.0% | kg | Couro fresco interna | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 2,71 | +4.2% | Kg | Couro Fresco - interna | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 2,89 | +6.6% | Kg | Couro Fresco - interna | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,30 | -55.0% | Kg | Couro Fresco - interna | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,34 | +3.1% | Kg | Couro Fresco - interna | Port. 261/2020 |
+
+### Couro Fresco - interna (código 3001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,30 |  | Kg | Couro Fresco - interna | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,54 | +18.5% | Kg | Couro Fresco - interna | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1,63 | +5.8% | Kg | Couro Fresco - interna | Port. 236/2021 |
+
+### Couro Fresco - interna (código 52070)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1,50 |  | Kg | Couro Fresco - interna | Port. 161/2023 |
+
+### Couro Fresco - interno (código 3001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,00 |  | kg | Couro Fresco - Interno | Port. 561/2017 |
+| 2019-09-05 (pub.) | 2019-09-02 | alterar | 0,60 | -70.0% | kg | Couro Fresco Interno | Port. 509/2019 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1,41 | +135.0% | Kg | Couro Fresco - interno | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1,60 | +13.5% | Kg | Couro Fresco - interno | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1,62 | +1.2% | Kg | Couro Fresco - interno | Port. 481/2023 |
+
+### Couro Mecânico (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-08-23 (pub.) | 2006-08-16 | alterar | 3,00 |  | Kg | Couro Mecânico | Port. 447/2006 |
+
+### Couro Salmorado (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2018-08-16 (pub.) | 2018-08-10 | alterar | 1,20 |  | kg | Couro Salmorado | Port. 284/2018 |
+
+### Couro Salmorado - Interestadual (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,50 |  | kg | Couro Salmorado - Interestadual | Port. 561/2017 |
+
+### Couro Salmorado Interno (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2017-12-01 (pub.) | 2017-11-28 | alterar | 2,10 |  | kg | Couro Salmorado - Interno | Port. 561/2017 |
+| 2019-09-05 (pub.) | 2019-09-02 | alterar | 1,50 | -28.6% | kg | Couro Salmorado Interno | Port. 509/2019 |
+
+### Couro Salmourado (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2006-08-23 (pub.) | 2006-08-16 | alterar | 3,00 |  | Kg | Couro Salmourado | Port. 447/2006 |
+
+### Couro salmourado ( interna ) (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-09-27 (pub.) | 2012-09-24 | alterar | 2,40 |  | Kg | Couro salmourado ( interna ) | Port. 316/2012 |
+
+### Couro salmourado Interestadual (código 45010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2012-09-27 (pub.) | 2012-09-24 | alterar | 3,00 |  | Kg | Couro salmourado ( interestadual ) | Port. 316/2012 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 4,50 | +50.0% | Kg | couro salmourado interestadual | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 5,00 | +11.1% | kg | Couro salmourado interestadual | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 5,21 | +4.2% | Kg | Couro salmourado Interestadual | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 5,56 | +6.7% | Kg | Couro salmourado Interestadual | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2,10 | -62.2% | Kg | Couro salmourado Interestadual | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6,17 | +193.8% | Kg | Couro salmourado Interestadual | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 6,51 | +5.5% | Kg | Couro salmourado Interestadual | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 7,40 | +13.7% | Kg | Couro salmourado Interestadual | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 7,50 | +1.4% | Kg | Couro salmourado Interestadual | Port. 481/2023 |
+
+### Couro salmourado Interestadual (código 52069)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 7,00 |  | Kg | Couro salmourado Interestadual | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 7,50 | +7.1% | Kg | Couro salmourado Interestadual | Port. 481/2023 |
+
+### Couro salmourado Interestadual (código 45010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2,10 |  | Kg | Couro salmourado Interestadual | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 6,17 | +193.8% | Kg | Couro salmourado Interestadual | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 6,51 | +5.5% | Kg | Couro salmourado Interestadual | Port. 236/2021 |
+
+### Couro salmourado Interno (código 45010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 3,10 |  | kg | Couro salmourado interno | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,23 | +4.2% | Kg | Couro salmourado Interno | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,45 | +6.8% | Kg | Couro salmourado Interno | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,50 | -56.5% | Kg | Couro salmourado Interno | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,54 | +2.7% | Kg | Couro salmourado Interno | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1,63 | +5.8% | Kg | Couro salmourado Interno | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1,80 | +10.4% | Kg | Couro salmourado Interno | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1,80 | +0.0% | Kg | Couro salmourado Interno | Port. 481/2023 |
+
+### Couro salmourado Interno (código 52069)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1,60 |  | Kg | Couro salmourado Interno | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1,80 | +12.5% | Kg | Couro salmourado Interno | Port. 481/2023 |
+
+### Couro salmourado Interno (código 45010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,50 |  | Kg | Couro salmourado Interno | Port. 184/2019 |
+| 2019-08-02 (pub.) | 2019-07-30 | alterar | 0,60 | -60.0% | kg | Couro salmourado Interno | Port. 447/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,34 | +123.3% | Kg | Couro salmourado Interno | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1,41 | +5.2% | Kg | Couro salmourado Interno | Port. 236/2021 |
+
+### Couro salmourado interno (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 3,00 |  | Hg | Couro salmourado interno | Port. 291/2014 |
+
+### couro salmourado manual (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2004-02-11 (assin.) | 2004-02-11 | alterar | 3,80 |  | Kg. | COURO SALMOURADO MANUAL | Port. 24/2004 |
+| 2005-05-16 (pub.) | 2005-05-11 | alterar | 2,56 | -32.6% | Kg | COURO SALMOURADO MANUAL | Port. 276/2005 |
+| 2005-10-20 (pub.) | 2005-10-14 | alterar | 2,08 | -18.8% | Kg | Couro Salmourado Manual | Port. 511/2005 |
+| 2007-02-23 (assin.) | 2007-02-23 | alterar | 2,00 | -3.8% | Kg | Couro Salmourado Manual | Port. 135/2007 |
+| 2007-05-28 (pub.) | 2007-05-22 | alterar | 3,00 | +50.0% | Kg | Couro Salmourado Manual | Port. 284/2007 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 3,00 | +0.0% | Kg | couro salmourado manual | Port. 233/2008 |
+
+### couro salmourado manual (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 2,40 |  | Kg | couro salmourado manual | Port. 6/2010 |
+
+### couro salmourado mecânico (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2004-02-11 (assin.) | 2004-02-11 | alterar | 4,00 |  | Kg. | COURO SALMOURADO MECÂNICO | Port. 24/2004 |
+| 2005-05-16 (pub.) | 2005-05-11 | alterar | 3,00 | -25.0% | Kg | COURO SALMOURADO MECÂNICO | Port. 276/2005 |
+| 2005-10-20 (pub.) | 2005-10-14 | alterar | 2,16 | -28.0% | Kg | Couro Salmourado Mecânico | Port. 511/2005 |
+| 2007-02-23 (assin.) | 2007-02-23 | alterar | 2,00 | -7.4% | Kg | Couro Salmourado Mecânico | Port. 135/2007 |
+| 2007-05-28 (pub.) | 2007-05-22 | alterar | 3,00 | +50.0% | Kg | Couro Salmourado Mecânico | Port. 284/2007 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 3,00 | +0.0% | Kg | couro salmourado mecânico | Port. 233/2008 |
+
+### couro salmourado mecânico (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 2,40 |  | Kg | couro salmourado mecânico | Port. 6/2010 |
+
+### COURO VERDE (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2004-02-11 (assin.) | 2004-02-11 | alterar | 3,60 |  | Kg. | COURO VERDE | Port. 24/2004 |
+
+### Couro Verde - Fresco (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2005-10-20 (pub.) | 2005-10-14 | alterar | 1,85 |  | Kg | Couro Verde - Fresco | Port. 511/2005 |
+
+### Crustácea Lagosta Cistos (código 50420)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 200,30 |  | mil | Crustácea Lagosta Cistos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 206,09 | +2.9% | mil | Crustácea Lagosta Cistos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 217,58 | +5.6% | mil | Crustácea Lagosta Cistos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 247,49 | +13.7% | mil | Crustácea Lagosta Cistos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 250,88 | +1.4% | mil | Crustácea Lagosta Cistos | Port. 481/2023 |
+
+### Crustácea Lagosta Larvas (código 50417)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 257,40 |  | mil | Crustácea Lagosta Larvas | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 264,84 | +2.9% | mil | Crustácea Lagosta Larvas | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 279,60 | +5.6% | mil | Crustácea Lagosta Larvas | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 318,03 | +13.7% | mil | Crustácea Lagosta Larvas | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 322,39 | +1.4% | mil | Crustácea Lagosta Larvas | Port. 481/2023 |
+
+### Crustácea Lagosta Ovos Embrionários (código 50419)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 119,50 |  | mil | Crustácea Lagosta Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 122,95 | +2.9% | mil | Crustácea Lagosta Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 129,80 | +5.6% | mil | Crustácea Lagosta Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 147,64 | +13.7% | mil | Crustácea Lagosta Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 149,66 | +1.4% | mil | Crustácea Lagosta Ovos Embrionários | Port. 481/2023 |
+
+### Crustácea Lagosta Pos - Lavras (código 50418)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 128,20 |  | mil | Crustácea Lagosta Pos - Lavras | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 131,90 | +2.9% | mil | Crustácea Lagosta Pos - Lavras | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 139,25 | +5.6% | mil | Crustácea Lagosta Pos - Lavras | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 158,39 | +13.7% | mil | Crustácea Lagosta Pos - Lavras | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 160,56 | +1.4% | mil | Crustácea Lagosta Pos - Lavras | Port. 481/2023 |
+
+### Crustáceo Camarão Adultos (código 50421)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 22,50 |  | Kg | Crustáceo Camarão Adultos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 23,15 | +2.9% | Kg | Crustáceo Camarão Adultos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 24,44 | +5.6% | Kg | Crustáceo Camarão Adultos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 27,80 | +13.7% | Kg | Crustáceo Camarão Adultos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 28,18 | +1.4% | Kg | Crustáceo Camarão Adultos | Port. 481/2023 |
+
+### Crustáceo Camarão Alevinos (código 50422)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 179,40 |  | mil | Crustáceo Camarão Alevinos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 184,58 | +2.9% | mil | Crustáceo Camarão Alevinos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 194,87 | +5.6% | mil | Crustáceo Camarão Alevinos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 221,66 | +13.7% | mil | Crustáceo Camarão Alevinos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 224,70 | +1.4% | mil | Crustáceo Camarão Alevinos | Port. 481/2023 |
+
+### Crustáceo Camarão Cistos (código 50426)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 71,80 |  | mil | Crustáceo Camarão Cistos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 73,87 | +2.9% | mil | Crustáceo Camarão Cistos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 77,99 | +5.6% | mil | Crustáceo Camarão Cistos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 88,71 | +13.7% | mil | Crustáceo Camarão Cistos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 89,93 | +1.4% | mil | Crustáceo Camarão Cistos | Port. 481/2023 |
+
+### Crustáceo Camarão Larvas (código 50423)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 127,80 |  | mil | Crustáceo Camarão Larvas | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 131,49 | +2.9% | mil | Crustáceo Camarão Larvas | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 138,82 | +5.6% | mil | Crustáceo Camarão Larvas | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 157,90 | +13.7% | mil | Crustáceo Camarão Larvas | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 160,06 | +1.4% | mil | Crustáceo Camarão Larvas | Port. 481/2023 |
+
+### Crustáceo Camarão Ovos Embrionários (código 50425)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 106,10 |  | mil | Crustáceo Camarão Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 109,17 | +2.9% | mil | Crustáceo Camarão Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 115,26 | +5.6% | mil | Crustáceo Camarão Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 131,10 | +13.7% | mil | Crustáceo Camarão Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 132,90 | +1.4% | mil | Crustáceo Camarão Ovos Embrionários | Port. 481/2023 |
+
+### Crustáceo Camarão Pos - Lavras (código 50424)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 146,20 |  | mil | Crustáceo Camarão Pos - Lavras | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 150,43 | +2.9% | mil | Crustáceo Camarão Pos - Lavras | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 158,82 | +5.6% | mil | Crustáceo Camarão Pos - Lavras | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 180,65 | +13.7% | mil | Crustáceo Camarão Pos - Lavras | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 183,12 | +1.4% | mil | Crustáceo Camarão Pos - Lavras | Port. 481/2023 |
+
+### Crustáceo Caranguejo Adultos (código 50427)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 31,50 |  | Kg | Crustáceo Caranguejo Adultos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 32,41 | +2.9% | Kg | Crustáceo Caranguejo Adultos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 34,22 | +5.6% | Kg | Crustáceo Caranguejo Adultos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 38,92 | +13.7% | Kg | Crustáceo Caranguejo Adultos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 39,45 | +1.4% | Kg | Crustáceo Caranguejo Adultos | Port. 481/2023 |
+
+### Crustáceo Caranguejo Alevinos (código 50428)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 70,80 |  | mil | Crustáceo Caranguejo Alevinos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 72,85 | +2.9% | mil | Crustáceo Caranguejo Alevinos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 76,91 | +5.6% | mil | Crustáceo Caranguejo Alevinos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 87,48 | +13.7% | mil | Crustáceo Caranguejo Alevinos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 88,68 | +1.4% | mil | Crustáceo Caranguejo Alevinos | Port. 481/2023 |
+
+### Crustáceo Caranguejo Cistos (código 50432)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 55,20 |  | mil | Crustáceo Caranguejo Cistos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 56,80 | +2.9% | mil | Crustáceo Caranguejo Cistos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 59,97 | +5.6% | mil | Crustáceo Caranguejo Cistos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 68,21 | +13.7% | mil | Crustáceo Caranguejo Cistos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 69,14 | +1.4% | mil | Crustáceo Caranguejo Cistos | Port. 481/2023 |
+
+### Crustáceo Caranguejo Larvas (código 50429)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 65,30 |  | mil | Crustáceo Caranguejo Larvas | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 67,19 | +2.9% | mil | Crustáceo Caranguejo Larvas | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 70,94 | +5.6% | mil | Crustáceo Caranguejo Larvas | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 80,69 | +13.7% | mil | Crustáceo Caranguejo Larvas | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 81,80 | +1.4% | mil | Crustáceo Caranguejo Larvas | Port. 481/2023 |
+
+### Crustáceo Caranguejo Ovos Embrionários (código 50431)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 70,40 |  | mil | Crustáceo Caranguejo Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 72,43 | +2.9% | mil | Crustáceo Caranguejo Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 76,47 | +5.6% | mil | Crustáceo Caranguejo Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 86,98 | +13.7% | mil | Crustáceo Caranguejo Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 88,17 | +1.4% | mil | Crustáceo Caranguejo Ovos Embrionários | Port. 481/2023 |
+
+### Crustáceo Caranguejo Pos - Lavras (código 50430)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 92,00 |  | mil | Crustáceo Caranguejo Pos - Lavras | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 94,66 | +2.9% | mil | Crustáceo Caranguejo Pos - Lavras | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 99,94 | +5.6% | mil | Crustáceo Caranguejo Pos - Lavras | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 113,68 | +13.7% | mil | Crustáceo Caranguejo Pos - Lavras | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 115,24 | +1.4% | mil | Crustáceo Caranguejo Pos - Lavras | Port. 481/2023 |
+
+### Crustáceo Lagosta Adultos (código 50415)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 248,00 |  | Kg | Crustáceo Lagosta Adultos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 255,17 | +2.9% | Kg | Crustáceo Lagosta Adultos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 269,39 | +5.6% | Kg | Crustáceo Lagosta Adultos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 306,42 | +13.7% | Kg | Crustáceo Lagosta Adultos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 310,62 | +1.4% | Kg | Crustáceo Lagosta Adultos | Port. 481/2023 |
+
+### Crustáceo Lagosta Alevinos (código 50416)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 204,00 |  | mil | Crustáceo Lagosta Alevinos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 209,90 | +2.9% | mil | Crustáceo Lagosta Alevinos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 221,60 | +5.6% | mil | Crustáceo Lagosta Alevinos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 252,06 | +13.7% | mil | Crustáceo Lagosta Alevinos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 255,51 | +1.4% | mil | Crustáceo Lagosta Alevinos | Port. 481/2023 |
+
+### Crustáceo Siri Adultos (código 50433)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 21,50 |  | Kg | Crustáceo Siri Adultos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 22,12 | +2.9% | Kg | Crustáceo Siri Adultos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 23,35 | +5.6% | Kg | Crustáceo Siri Adultos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 26,56 | +13.7% | Kg | Crustáceo Siri Adultos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 26,92 | +1.4% | Kg | Crustáceo Siri Adultos | Port. 481/2023 |
+
+### Crustáceo Siri Alevinos (código 50434)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 76,60 |  | mil | Crustáceo Siri Alevinos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 78,81 | +2.9% | mil | Crustáceo Siri Alevinos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 83,20 | +5.6% | mil | Crustáceo Siri Alevinos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 94,64 | +13.7% | mil | Crustáceo Siri Alevinos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 95,94 | +1.4% | mil | Crustáceo Siri Alevinos | Port. 481/2023 |
+
+### Crustáceo Siri Cistos (código 50438)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 56,30 |  | mil | Crustáceo Siri Cistos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 57,93 | +2.9% | mil | Crustáceo Siri Cistos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 61,16 | +5.6% | mil | Crustáceo Siri Cistos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 69,57 | +13.8% | mil | Crustáceo Siri Cistos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 70,52 | +1.4% | mil | Crustáceo Siri Cistos | Port. 481/2023 |
+
+### Crustáceo Siri Larvas (código 50435)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 62,40 |  | mil | Crustáceo Siri Larvas | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 64,20 | +2.9% | mil | Crustáceo Siri Larvas | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 67,78 | +5.6% | mil | Crustáceo Siri Larvas | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 77,10 | +13.8% | mil | Crustáceo Siri Larvas | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 78,16 | +1.4% | mil | Crustáceo Siri Larvas | Port. 481/2023 |
+
+### Crustáceo Siri Ovos Embrionários (código 50437)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 62,90 |  | mil | Crustáceo Siri Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 64,72 | +2.9% | mil | Crustáceo Siri Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 68,33 | +5.6% | mil | Crustáceo Siri Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 77,72 | +13.7% | mil | Crustáceo Siri Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 78,78 | +1.4% | mil | Crustáceo Siri Ovos Embrionários | Port. 481/2023 |
+
+### Crustáceo Siri Pos - Lavras (código 50436)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 68,30 |  | mil | Crustáceo Siri Pos - Lavras | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 70,27 | +2.9% | mil | Crustáceo Siri Pos - Lavras | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 74,19 | +5.6% | mil | Crustáceo Siri Pos - Lavras | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 84,39 | +13.7% | mil | Crustáceo Siri Pos - Lavras | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 85,55 | +1.4% | mil | Crustáceo Siri Pos - Lavras | Port. 481/2023 |
+
+### Égua (código 48890)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 418,42 |  | kg | Égua | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 446,41 | +6.7% | kg | Égua | Port. 123/2017 |
+
+### Égua (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 130,00 |  | cb | égua | Port. 233/2008 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 400,00 | +207.7% | cb | égua | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 401,40 | +0.3% | cb | Égua | Port. 301/2015 |
+
+### Égua (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 156,00 |  | Cb | Égua | Port. 6/2010 |
+
+### Equino Femea acima de 6 meses (código 51605)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 602,34 |  | cb | Equino Femea acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 610,59 | +1.4% | cb | Equino Femea acima de 6 meses | Port. 481/2023 |
+
+### Equino Femea acima de 6 meses (código 50369)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 487,50 |  | cb | Equino Femea acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 501,59 | +2.9% | cb | Equino Femea acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 529,55 | +5.6% | cb | Equino Femea acima de 6 meses | Port. 236/2021 |
+
+### Equino Femea até 6 meses (código 48890)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 270,80 |  | cb | Equino Femea até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 278,63 | +2.9% | cb | Equino Femea até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 294,16 | +5.6% | cb | Equino Femea até 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 334,59 | +13.7% | cb | Equino Femea até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 339,17 | +1.4% | cb | Equino Femea até 6 meses | Port. 481/2023 |
+
+### Equino Macho acima de 6 meses (código 52092)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 736,15 |  | cb | Equino Macho acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 746,24 | +1.4% | cb | Equino Macho acima de 6 meses | Port. 481/2023 |
+
+### Equino Macho acima de 6 meses (código 29001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 595,80 |  | cb | Equino Macho acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 613,02 | +2.9% | cb | Equino Macho acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 647,19 | +5.6% | cb | Equino Macho acima de 6 meses | Port. 236/2021 |
+
+### Equino Macho até 6 meses (código 52091)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 401,55 |  | cb | Equino Macho até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 407,05 | +1.4% | cb | Equino Macho até 6 meses | Port. 481/2023 |
+
+### Equino Macho até 6 meses (código 00022)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 325,00 |  | cb | Equino Macho até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 334,39 | +2.9% | cb | Equino Macho até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 353,03 | +5.6% | cb | Equino Macho até 6 meses | Port. 236/2021 |
+
+### Faisão Adulto 9 Macho ou Femea ) (código 50382)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 48,80 |  | cb | Faisão Adulto 9 Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 50,21 | +2.9% | cb | Faisão Adulto 9 Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 53,01 | +5.6% | cb | Faisão Adulto 9 Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 60,30 | +13.8% | cb | Faisão Adulto 9 Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 61,13 | +1.4% | cb | Faisão Adulto 9 Macho ou Femea ) | Port. 481/2023 |
+
+### Faisão Ovos Freteis ( Ovos ) (código 50383)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 35,00 |  | dz | Faisão Ovos Freteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 36,01 | +2.9% | dz | Faisão Ovos Freteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 38,02 | +5.6% | dz | Faisão Ovos Freteis ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 43,25 | +13.8% | dz | Faisão Ovos Freteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 43,84 | +1.4% | dz | Faisão Ovos Freteis ( Ovos ) | Port. 481/2023 |
+
+### Faisão Pinto de um ( 1 ) dia (código 50384)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 14,00 |  | cb | Faisão Pinto de um ( 1 ) dia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 14,40 | +2.9% | cb | Faisão Pinto de um ( 1 ) dia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 15,20 | +5.6% | cb | Faisão Pinto de um ( 1 ) dia | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 17,29 | +13.7% | cb | Faisão Pinto de um ( 1 ) dia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 17,53 | +1.4% | cb | Faisão Pinto de um ( 1 ) dia | Port. 481/2023 |
+
+### Galinha Adulta ( Macho ou Femea ) (código 50608)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 33,36 |  | cb | Galinha Adulta ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 33,82 | +1.4% | cb | Galinha Adulta ( Macho ou Femea ) | Port. 481/2023 |
+
+### Galinha Adulta ( Macho ou Femea ) (código 22001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 27,00 |  | cb | Galinha Adulta ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 27,78 | +2.9% | cb | Galinha Adulta ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 29,33 | +5.6% | cb | Galinha Adulta ( Macho ou Femea ) | Port. 236/2021 |
+
+### Galinha Aves de um (1) dia (código 50609)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2,72 |  | cb | Galinha Aves de um (1) dia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2,76 | +1.5% | cb | Galinha Aves de um (1) dia | Port. 481/2023 |
+
+### Galinha Aves de um (1) dia (código 22002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2,20 |  | cb | Galinha Aves de um (1) dia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,26 | +2.7% | cb | Galinha Aves de um (1) dia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2,39 | +5.8% | cb | Galinha Aves de um (1) dia | Port. 236/2021 |
+
+### Galinha Dangola Adulto ( Mocho ou Femea ) (código 50612)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 46,95 |  | cb | Galinha Dangola Adulto ( Mocho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 47,59 | +1.4% | cb | Galinha Dangola Adulto ( Mocho ou Femea ) | Port. 481/2023 |
+
+### Galinha Dangola Adulto ( Mocho ou Femea ) (código 30001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 38,00 |  | cb | Galinha Dangola Adulto ( Mocho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 39,10 | +2.9% | cb | Galinha Dangola Adulto ( Mocho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 41,28 | +5.6% | cb | Galinha Dangola Adulto ( Mocho ou Femea ) | Port. 236/2021 |
+
+### Galinha Dangola Ovos Freteis ( Ovos ) (código 50613)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 24,72 |  | dz | Galinha Dangola Ovos Freteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 25,06 | +1.4% | dz | Galinha Dangola Ovos Freteis ( Ovos ) | Port. 481/2023 |
+
+### Galinha Dangola Ovos Freteis ( Ovos ) (código 45207)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 20,00 |  | dz | Galinha Dangola Ovos Freteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 20,58 | +2.9% | dz | Galinha Dangola Ovos Freteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 21,73 | +5.6% | dz | Galinha Dangola Ovos Freteis ( Ovos ) | Port. 236/2021 |
+
+### Galinha Dangola Pinto de um ( 1 ) dia (código 50614)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 3,95 |  | cb | Galinha Dangola Pinto de um ( 1 ) dia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 4,00 | +1.3% | cb | Galinha Dangola Pinto de um ( 1 ) dia | Port. 481/2023 |
+
+### Galinha Dangola Pinto de um ( 1 ) dia (código 18001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 3,20 |  | cb | Galinha Dangola Pinto de um ( 1 ) dia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3,29 | +2.8% | cb | Galinha Dangola Pinto de um ( 1 ) dia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 3,47 | +5.5% | cb | Galinha Dangola Pinto de um ( 1 ) dia | Port. 236/2021 |
+
+### Galinha Ovos Férteis ( Ovos ) (código 50610)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 16,07 |  | dz | Galinha Ovos Férteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 16,29 | +1.4% | dz | Galinha Ovos Férteis ( Ovos ) | Port. 481/2023 |
+
+### Galinha Ovos Férteis ( Ovos ) (código 24020)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 13,00 |  | dz | Galinha Ovos Férteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 13,38 | +2.9% | dz | Galinha Ovos Férteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 14,13 | +5.6% | dz | Galinha Ovos Férteis ( Ovos ) | Port. 236/2021 |
+
+### Galinha Recriada ( Mocho ou Femea ) (código 50611)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 18,53 |  | cb | Galinha Recriada ( Mocho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 18,78 | +1.3% | cb | Galinha Recriada ( Mocho ou Femea ) | Port. 481/2023 |
+
+### Galinha Recriada ( Mocho ou Femea ) (código 30002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 15,00 |  | cb | Galinha Recriada ( Mocho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 15,43 | +2.9% | cb | Galinha Recriada ( Mocho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 16,29 | +5.6% | cb | Galinha Recriada ( Mocho ou Femea ) | Port. 236/2021 |
+
+### Ganso Adulto ( Mocho ou Femea ) (código 50379)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 65,00 |  | cb | Ganso Adulto ( Mocho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 66,88 | +2.9% | cb | Ganso Adulto ( Mocho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 70,61 | +5.6% | cb | Ganso Adulto ( Mocho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 80,32 | +13.8% | cb | Ganso Adulto ( Mocho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 81,42 | +1.4% | cb | Ganso Adulto ( Mocho ou Femea ) | Port. 481/2023 |
+
+### Ganso Ovos Freteis ( Ovos ) (código 50380)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 25,00 |  | dz | Ganso Ovos Freteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 25,72 | +2.9% | dz | Ganso Ovos Freteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 27,15 | +5.6% | dz | Ganso Ovos Freteis ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 30,88 | +13.7% | dz | Ganso Ovos Freteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 31,30 | +1.4% | dz | Ganso Ovos Freteis ( Ovos ) | Port. 481/2023 |
+
+### Ganso Pinto de um ( 1 ) dia (código 50381)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 16,00 |  | cb | Ganso Pinto de um ( 1 ) dia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 16,46 | +2.9% | cb | Ganso Pinto de um ( 1 ) dia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 17,38 | +5.6% | cb | Ganso Pinto de um ( 1 ) dia | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 19,77 | +13.8% | cb | Ganso Pinto de um ( 1 ) dia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 20,04 | +1.4% | cb | Ganso Pinto de um ( 1 ) dia | Port. 481/2023 |
+
+### Garrote (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 300,00 |  | cb | garrote | Port. 233/2008 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 210,00 | -30.0% | cb | Garrote | Port. 233/2008 |
+| 2010-08-23 (pub.) | 2010-08-17 | alterar | 420,00 | +100.0% | Cb | Garrote | Port. 245/2010 |
+
+### Garrote (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 360,00 |  | Cb | Garrote | Port. 6/2010 |
+
+### Garrote (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 252,00 |  | Cb | Garrote | Port. 6/2010 |
+
+### Garrote até dois anos (código 48884)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1.329,07 |  | cb | Garrote até dois anos | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.417,98 | +6.7% | cb | Garrote até dois anos | Port. 123/2017 |
+
+### Garrote até dois anos (código 48886)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 938,16 |  | Cb | Garrote até dois anos | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.000,92 | +6.7% | Cb | Garrote até dois anos | Port. 123/2017 |
+
+### Garrote até dois anos (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 900,00 |  | cb | Garrote até dois anos | Port. 291/2014 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 500,00 | -44.4% | cb | Garrote até dois anos | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 922,00 | +84.4% | cb | Garrote até dois anos | Port. 301/2015 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 513,00 | -44.4% | cb | Garrote até dois anos | Port. 301/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 1.275,00 | +148.5% | Cb | Garrote até dois anos | Port. 487/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 900,00 | -29.4% | Cb | Garrote até dois anos | Port. 487/2015 |
+
+### Javali Femea acima de 6 meses (código 16009)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 187,36 |  | cb | Javali Femea acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 189,93 | +1.4% | cb | Javali Femea acima de 6 meses | Port. 481/2023 |
+
+### Javali Femea acima de 6 meses (código 50374)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 351,00 |  | cb | Javali Femea acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 156,02 | -55.5% | cb | Javali Femea acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 164,72 | +5.6% | cb | Javali Femea acima de 6 meses | Port. 236/2021 |
+
+### Javali Femea de 0 a 6 meses (código 16007)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 80,30 |  | cb | Javali Femea de 0 a 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 81,40 | +1.4% | cb | Javali Femea de 0 a 6 meses | Port. 481/2023 |
+
+### Javali Femea de 0 a 6 meses (código 50372)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 165,00 |  | cb | Javali Femea de 0 a 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 66,87 | -59.5% | cb | Javali Femea de 0 a 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 70,60 | +5.6% | cb | Javali Femea de 0 a 6 meses | Port. 236/2021 |
+
+### Javali Macho acima de 6 meses (código 16008)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 200,75 |  | cb | Javali Macho acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 203,50 | +1.4% | cb | Javali Macho acima de 6 meses | Port. 481/2023 |
+
+### Javali Macho acima de 6 meses (código 50373)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 362,00 |  | cb | Javali Macho acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 167,17 | -53.8% | cb | Javali Macho acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 176,49 | +5.6% | cb | Javali Macho acima de 6 meses | Port. 236/2021 |
+
+### Javali Macho de 0 a 6 meses (código 16005)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 93,68 |  | cb | Javali Macho de 0 a 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 94,96 | +1.4% | cb | Javali Macho de 0 a 6 meses | Port. 481/2023 |
+
+### Javali Macho de 0 a 6 meses (código 50371)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 175,00 |  | cb | Javali Macho de 0 a 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 78,01 | -55.4% | cb | Javali Macho de 0 a 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 82,36 | +5.6% | cb | Javali Macho de 0 a 6 meses | Port. 236/2021 |
+
+### Jumenta comum (código 12045)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 120,00 |  | cb | Jumenta comum | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 125,09 | +4.2% | cb | Jumenta comum | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 133,46 | +6.7% | cb | Jumenta comum | Port. 123/2017 |
+
+### Jumenta pega (código 38090)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 300,00 |  | cb | Jumenta pega | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 312,72 | +4.2% | cb | Jumenta pega | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 333,64 | +6.7% | cb | Jumenta pega | Port. 123/2017 |
+
+### Jumento comum (código 00028)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 90,00 |  | cb | jumento | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 108,00 | +20.0% | cb | jumento | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 150,00 | +38.9% | cb | jumento | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 153,70 | +2.5% | cb | Jumento comum ⚠ | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 160,22 | +4.2% | cb | Jumento comum | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 170,94 | +6.7% | cb | Jumento comum | Port. 123/2017 |
+
+### Jumento pega (código 45034)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 350,00 |  | cb | Jumento pega | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 364,84 | +4.2% | cb | Jumento pega | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 389,25 | +6.7% | cb | Jumento pega | Port. 123/2017 |
+
+### Marreco Adulto ( Macho ou Femea ) (código 50410)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 37,90 |  | cb | Marreco Adulto ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 39,00 | +2.9% | cb | Marreco Adulto ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 41,17 | +5.6% | cb | Marreco Adulto ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 46,83 | +13.7% | cb | Marreco Adulto ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 47,47 | +1.4% | cb | Marreco Adulto ( Macho ou Femea ) | Port. 481/2023 |
+
+### Marreco Ovos Férteis ( Ovos ) (código 50411)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 70,40 |  | dz | Marreco Ovos Férteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 72,43 | +2.9% | dz | Marreco Ovos Férteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 76,47 | +5.6% | dz | Marreco Ovos Férteis ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 86,98 | +13.7% | dz | Marreco Ovos Férteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 88,17 | +1.4% | dz | Marreco Ovos Férteis ( Ovos ) | Port. 481/2023 |
+
+### Marreco Pinto de um ( 1 ) dia (código 50412)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 16,30 |  | cb | Marreco Pinto de um ( 1 ) dia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 16,77 | +2.9% | cb | Marreco Pinto de um ( 1 ) dia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 17,70 | +5.5% | cb | Marreco Pinto de um ( 1 ) dia | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 20,13 | +13.7% | cb | Marreco Pinto de um ( 1 ) dia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 20,41 | +1.4% | cb | Marreco Pinto de um ( 1 ) dia | Port. 481/2023 |
+
+### Moluscos Lula Adultos (código 50445)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 28,50 |  | Kg | Moluscos Lula Adultos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 29,32 | +2.9% | Kg | Moluscos Lula Adultos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 30,95 | +5.6% | Kg | Moluscos Lula Adultos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 35,20 | +13.7% | Kg | Moluscos Lula Adultos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 35,68 | +1.4% | Kg | Moluscos Lula Adultos | Port. 481/2023 |
+
+### Moluscos Lula Alevinos (código 50446)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 104,00 |  | mil | Moluscos Lula Alevinos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 107,01 | +2.9% | mil | Moluscos Lula Alevinos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 112,98 | +5.6% | mil | Moluscos Lula Alevinos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 128,51 | +13.7% | mil | Moluscos Lula Alevinos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 130,27 | +1.4% | mil | Moluscos Lula Alevinos | Port. 481/2023 |
+
+### Moluscos Lula Cistos (código 50447)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 27,408 |  | mil | Moluscos Lula Cistos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 28,19 | +2.9% | mil | Moluscos Lula Cistos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 29,76 | +5.6% | mil | Moluscos Lula Cistos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 33,85 | +13.7% | mil | Moluscos Lula Cistos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 34,31 | +1.4% | mil | Moluscos Lula Cistos | Port. 481/2023 |
+
+### Moluscos Lula Larvas (código 50448)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 151,70 |  | mil | Moluscos Lula Larvas | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 156,08 | +2.9% | mil | Moluscos Lula Larvas | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 164,78 | +5.6% | mil | Moluscos Lula Larvas | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 187,43 | +13.7% | mil | Moluscos Lula Larvas | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 190,00 | +1.4% | mil | Moluscos Lula Larvas | Port. 481/2023 |
+
+### Moluscos Lula Ovos Embrionários (código 50449)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 90,70 |  | mil | Moluscos Lula Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 93,32 | +2.9% | mil | Moluscos Lula Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 98,52 | +5.6% | mil | Moluscos Lula Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 112,06 | +13.7% | mil | Moluscos Lula Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 113,60 | +1.4% | mil | Moluscos Lula Ovos Embrionários | Port. 481/2023 |
+
+### Moluscos Lula Pos-Larva (código 50450)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 157,40 |  | mil | Moluscos Lula Pos-Larva | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 161,95 | +2.9% | mil | Moluscos Lula Pos-Larva | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 170,98 | +5.6% | mil | Moluscos Lula Pos-Larva | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 194,48 | +13.7% | mil | Moluscos Lula Pos-Larva | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 197,14 | +1.4% | mil | Moluscos Lula Pos-Larva | Port. 481/2023 |
+
+### Moluscos Mexilhões Adultos (código 50457)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 15,30 |  | Kg | Moluscos Mexilhões Adultos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 15,74 | +2.9% | Kg | Moluscos Mexilhões Adultos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 16,62 | +5.6% | Kg | Moluscos Mexilhões Adultos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 18,90 | +13.7% | Kg | Moluscos Mexilhões Adultos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 19,16 | +1.4% | Kg | Moluscos Mexilhões Adultos | Port. 481/2023 |
+
+### Moluscos Mexilhões Alevinos (código 50458)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 175,10 |  | mil | Moluscos Mexilhões Alevinos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 180,16 | +2.9% | mil | Moluscos Mexilhões Alevinos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 190,20 | +5.6% | mil | Moluscos Mexilhões Alevinos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 216,34 | +13.7% | mil | Moluscos Mexilhões Alevinos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 219,30 | +1.4% | mil | Moluscos Mexilhões Alevinos | Port. 481/2023 |
+
+### Moluscos Mexilhões Cistos (código 50459)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 105,80 |  | mil | Moluscos Mexilhões Cistos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 108,86 | +2.9% | mil | Moluscos Mexilhões Cistos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 114,93 | +5.6% | mil | Moluscos Mexilhões Cistos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 130,73 | +13.7% | mil | Moluscos Mexilhões Cistos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 132,52 | +1.4% | mil | Moluscos Mexilhões Cistos | Port. 481/2023 |
+
+### Moluscos Mexilhões Larvas (código 50460)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 170,70 |  | mil | Moluscos Mexilhões Larvas | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 175,63 | +2.9% | mil | Moluscos Mexilhões Larvas | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 185,42 | +5.6% | mil | Moluscos Mexilhões Larvas | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 210,91 | +13.7% | mil | Moluscos Mexilhões Larvas | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 213,80 | +1.4% | mil | Moluscos Mexilhões Larvas | Port. 481/2023 |
+
+### Moluscos Mexilhões Ovos Embrionários (código 50461)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 162,40 |  | mil | Moluscos Mexilhões Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 167,09 | +2.9% | mil | Moluscos Mexilhões Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 176,40 | +5.6% | mil | Moluscos Mexilhões Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 200,65 | +13.7% | mil | Moluscos Mexilhões Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 203,40 | +1.4% | mil | Moluscos Mexilhões Ovos Embrionários | Port. 481/2023 |
+
+### Moluscos Mexilhões Pos-Larva (código 50462)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 116,60 |  | mil | Moluscos Mexilhões Pos-Larva | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 119,97 | +2.9% | mil | Moluscos Mexilhões Pos-Larva | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 126,66 | +5.6% | mil | Moluscos Mexilhões Pos-Larva | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 144,07 | +13.7% | mil | Moluscos Mexilhões Pos-Larva | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 146,04 | +1.4% | mil | Moluscos Mexilhões Pos-Larva | Port. 481/2023 |
+
+### Moluscos Ostra Adultos (código 50439)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 19,50 |  | Kg | Moluscos Ostra Adultos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 20,06 | +2.9% | Kg | Moluscos Ostra Adultos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 21,18 | +5.6% | Kg | Moluscos Ostra Adultos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 24,09 | +13.7% | Kg | Moluscos Ostra Adultos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 24,42 | +1.4% | Kg | Moluscos Ostra Adultos | Port. 481/2023 |
+
+### Moluscos Ostra Alevinos (código 50440)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 95,70 |  | mil | Moluscos Ostra Alevinos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 98,47 | +2.9% | mil | Moluscos Ostra Alevinos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 103,96 | +5.6% | mil | Moluscos Ostra Alevinos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 118,25 | +13.7% | mil | Moluscos Ostra Alevinos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 119,87 | +1.4% | mil | Moluscos Ostra Alevinos | Port. 481/2023 |
+
+### Moluscos Ostra Cistos (código 50441)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 62,40 |  | mil | Moluscos Ostra Cistos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 64,20 | +2.9% | mil | Moluscos Ostra Cistos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 67,78 | +5.6% | mil | Moluscos Ostra Cistos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 77,10 | +13.8% | mil | Moluscos Ostra Cistos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 78,16 | +1.4% | mil | Moluscos Ostra Cistos | Port. 481/2023 |
+
+### Moluscos Ostra Larvas88 (código 50442)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 79,10 |  | mil | Moluscos Ostra Larvas | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 81,39 | +2.9% | mil | Moluscos Ostra Larvas | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 85,93 | +5.6% | mil | Moluscos Ostra Larvas88 ⚠ | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 97,74 | +13.7% | mil | Moluscos Ostra Larvas88 | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 99,08 | +1.4% | mil | Moluscos Ostra Larvas88 | Port. 481/2023 |
+
+### Moluscos Ostra Ovos Embrionários (código 50443)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 129,90 |  | mil | Moluscos Ostra Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 133,65 | +2.9% | mil | Moluscos Ostra Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 141,10 | +5.6% | mil | Moluscos Ostra Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 160,49 | +13.7% | mil | Moluscos Ostra Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 162,69 | +1.4% | mil | Moluscos Ostra Ovos Embrionários | Port. 481/2023 |
+
+### Moluscos Ostra Pos-Larva (código 50444)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 108,30 |  | mil | Moluscos Ostra Pos-Larva | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 111,43 | +2.9% | mil | Moluscos Ostra Pos-Larva | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 117,64 | +5.6% | mil | Moluscos Ostra Pos-Larva | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 133,81 | +13.7% | mil | Moluscos Ostra Pos-Larva | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 135,64 | +1.4% | mil | Moluscos Ostra Pos-Larva | Port. 481/2023 |
+
+### Moluscos Polvo Adultos (código 50451)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 65,00 |  | Kg | Moluscos Polvo Adultos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 66,88 | +2.9% | Kg | Moluscos Polvo Adultos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 70,61 | +5.6% | Kg | Moluscos Polvo Adultos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 80,32 | +13.8% | Kg | Moluscos Polvo Adultos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 81,42 | +1.4% | Kg | Moluscos Polvo Adultos | Port. 481/2023 |
+
+### Moluscos Polvo Alevinos (código 50452)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 228,20 |  | mil | Moluscos Polvo Alevinos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 234,79 | +2.9% | mil | Moluscos Polvo Alevinos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 247,88 | +5.6% | mil | Moluscos Polvo Alevinos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 281,95 | +13.7% | mil | Moluscos Polvo Alevinos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 285,81 | +1.4% | mil | Moluscos Polvo Alevinos | Port. 481/2023 |
+
+### Moluscos Polvo Cistos (código 50453)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 103,20 |  | mil | Moluscos Polvo Cistos | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 106,18 | +2.9% | mil | Moluscos Polvo Cistos | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 112,10 | +5.6% | mil | Moluscos Polvo Cistos | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 127,51 | +13.7% | mil | Moluscos Polvo Cistos | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 129,26 | +1.4% | mil | Moluscos Polvo Cistos | Port. 481/2023 |
+
+### Moluscos Polvo Larvas (código 50454)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 100,70 |  | mil | Moluscos Polvo Larvas | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 103,61 | +2.9% | mil | Moluscos Polvo Larvas | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 109,39 | +5.6% | mil | Moluscos Polvo Larvas | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 124,43 | +13.7% | mil | Moluscos Polvo Larvas | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 126,13 | +1.4% | mil | Moluscos Polvo Larvas | Port. 481/2023 |
+
+### Moluscos Polvo Ovos Embrionários (código 50455)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 270,70 |  | mil | Moluscos Polvo Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 278,52 | +2.9% | mil | Moluscos Polvo Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 294,05 | +5.6% | mil | Moluscos Polvo Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 334,47 | +13.7% | mil | Moluscos Polvo Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 339,05 | +1.4% | mil | Moluscos Polvo Ovos Embrionários | Port. 481/2023 |
+
+### Moluscos Polvo Pos-Larva (código 50456)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 246,60 |  | mil | Moluscos Polvo Pos-Larva | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 253,73 | +2.9% | mil | Moluscos Polvo Pos-Larva | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 267,87 | +5.6% | mil | Moluscos Polvo Pos-Larva | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 304,69 | +13.7% | mil | Moluscos Polvo Pos-Larva | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 308,86 | +1.4% | mil | Moluscos Polvo Pos-Larva | Port. 481/2023 |
+
+### Muar Femea acima de 6 meses (código 50377)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 433,30 |  | cb | Muar Femea acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 445,82 | +2.9% | cb | Muar Femea acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 470,67 | +5.6% | cb | Muar Femea acima de 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 535,36 | +13.7% | cb | Muar Femea acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 542,69 | +1.4% | cb | Muar Femea acima de 6 meses | Port. 481/2023 |
+
+### Muar Femea até 6 meses (código 45052)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 260,00 |  | cb | Muar Femea até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 267,51 | +2.9% | cb | Muar Femea até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 282,42 | +5.6% | cb | Muar Femea até 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 321,24 | +13.7% | cb | Muar Femea até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 325,64 | +1.4% | cb | Muar Femea até 6 meses | Port. 481/2023 |
+
+### Muar Macho acima de 6 meses (código 50376)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 487,50 |  | cb | Muar Macho acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 501,59 | +2.9% | cb | Muar Macho acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 529,55 | +5.6% | cb | Muar Macho acima de 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 602,34 | +13.7% | cb | Muar Macho acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 610,59 | +1.4% | cb | Muar Macho acima de 6 meses | Port. 481/2023 |
+
+### Muar Macho até 6 meses (código 00030)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 270,80 |  | cb | Muar Macho até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 278,63 | +2.9% | cb | Muar Macho até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 294,16 | +5.6% | cb | Muar Macho até 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 334,59 | +13.7% | cb | Muar Macho até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 339,17 | +1.4% | cb | Muar Macho até 6 meses | Port. 481/2023 |
+
+### novilha (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 150,00 |  | cb | novilha | Port. 233/2008 |
+
+### Novilha (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 180,00 |  | Cb | Novilha | Port. 6/2010 |
+
+### Novilha até 2 anos (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 290,00 |  | cb | novilha até 2 anos | Port. 233/2008 |
+| 2010-08-23 (pub.) | 2010-08-17 | alterar | 400,00 | +37.9% | Cb | Novilha até 2 anos | Port. 245/2010 |
+
+### novilha até 2 anos (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 348,00 |  | cb | novilha até 2 anos | Port. 6/2010 |
+
+### Novilha até dois anos (código 24008)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1.250,89 |  | cb | Novilha até dois anos | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.334,57 | +6.7% | cb | Novilha até dois anos | Port. 123/2017 |
+
+### Novilha até dois anos (código 48887)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 781,80 |  | Cb | Novilha até dois anos | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 834,10 | +6.7% | Cb | Novilha até dois anos | Port. 123/2017 |
+
+### Novilha até dois anos (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 750,00 |  | cb | novilha até dois anos | Port. 291/2014 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 450,00 | -40.0% | cb | Novilha até dois anos | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 769,00 | +70.9% | cb | Novilha até dois anos | Port. 301/2015 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 461,00 | -40.1% | cb | Novilha até dois anos | Port. 301/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 1.200,00 | +160.3% | Cb | Novilha até dois anos | Port. 487/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 750,00 | -37.5% | Cb | Novilha até dois anos | Port. 487/2015 |
+
+### Outras Espécies (código 50378)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 541,60 |  | cb | Outras Espécies | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 557,25 | +2.9% | cb | Outras Espécies | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 588,31 | +5.6% | cb | Outras Espécies | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 669,17 | +13.7% | cb | Outras Espécies | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 678,34 | +1.4% | cb | Outras Espécies | Port. 481/2023 |
+
+### Ovino Femea acima de 6 mese (código 28004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 157,00 |  | cb | Ovino Femea acima de 6 mese | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 161,54 | +2.9% | cb | Ovino Femea acima de 6 mese | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 170,54 | +5.6% | cb | Ovino Femea acima de 6 mese | Port. 236/2021 |
+
+### Ovino Femea acima de 6 meses (código 51609)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 213,00 |  | cb | Ovino Femea acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 215,92 | +1.4% | cb | Ovino Femea acima de 6 meses | Port. 481/2023 |
+
+### Ovino Femea até 6 meses (código 51607)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 92,00 |  | cb | Ovino Femea até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 94,66 | +2.9% | cb | Ovino Femea até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 99,94 | +5.6% | cb | Ovino Femea até 6 meses | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 114,00 | +14.1% | cb | Ovino Femea até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 115,56 | +1.4% | cb | Ovino Femea até 6 meses | Port. 481/2023 |
+
+### Ovino Macho acima de 6 meses (código 51608)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 251,00 |  | cb | Ovino Macho acima de 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 254,44 | +1.4% | cb | Ovino Macho acima de 6 meses | Port. 481/2023 |
+
+### Ovino Macho acima de 6 meses (código 28003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 173,30 |  | cb | Ovino Macho acima de 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 178,31 | +2.9% | cb | Ovino Macho acima de 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 188,25 | +5.6% | cb | Ovino Macho acima de 6 meses | Port. 236/2021 |
+
+### Ovino Macho até 6 meses (código 51606)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 126,00 |  | cb | Ovino Macho até 6 meses | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 127,73 | +1.4% | cb | Ovino Macho até 6 meses | Port. 481/2023 |
+
+### Ovino Macho até 6 meses (código 00023)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 102,00 |  | cb | Ovino Macho até 6 meses | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 104,95 | +2.9% | cb | Ovino Macho até 6 meses | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 110,80 | +5.6% | cb | Ovino Macho até 6 meses | Port. 236/2021 |
+
+### Pato Adulto ( Macho ou Femea ) (código 50389)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 33,00 |  | cb | Pato Adulto ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 33,95 | +2.9% | cb | Pato Adulto ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 35,84 | +5.6% | cb | Pato Adulto ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 40,77 | +13.8% | cb | Pato Adulto ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 41,33 | +1.4% | cb | Pato Adulto ( Macho ou Femea ) | Port. 481/2023 |
+
+### Pato Ovos Freteis ( Ovos ) (código 50390)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 17,50 |  | dz | Pato Ovos Freteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 18,01 | +2.9% | dz | Pato Ovos Freteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 19,01 | +5.6% | dz | Pato Ovos Freteis ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 21,62 | +13.7% | dz | Pato Ovos Freteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 21,92 | +1.4% | dz | Pato Ovos Freteis ( Ovos ) | Port. 481/2023 |
+
+### Pato Pinto de um ( 1 ) dia (código 50391)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 5,50 |  | cb | Pato Pinto de um ( 1 ) dia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5,66 | +2.9% | cb | Pato Pinto de um ( 1 ) dia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 5,98 | +5.7% | cb | Pato Pinto de um ( 1 ) dia | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 6,80 | +13.7% | cb | Pato Pinto de um ( 1 ) dia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 6,89 | +1.3% | cb | Pato Pinto de um ( 1 ) dia | Port. 481/2023 |
+
+### Peixe Adulto (código 50463)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 21,50 |  | Kg | Peixe Adulto | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 22,12 | +2.9% | Kg | Peixe Adulto | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 23,35 | +5.6% | Kg | Peixe Adulto | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 26,56 | +13.7% | Kg | Peixe Adulto | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 26,92 | +1.4% | Kg | Peixe Adulto | Port. 481/2023 |
+
+### Peixe Alevino - Outros (código 50480)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 379,10 |  | mil | Peixe Alevino - Outros | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 390,06 | +2.9% | mil | Peixe Alevino - Outros | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 411,80 | +5.6% | mil | Peixe Alevino - Outros | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 468,40 | +13.7% | mil | Peixe Alevino - Outros | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 474,82 | +1.4% | mil | Peixe Alevino - Outros | Port. 481/2023 |
+
+### Peixe Alevino Carpa (código 50471)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 140,80 |  | mil | Peixe Alevino Carpa | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 144,87 | +2.9% | mil | Peixe Alevino Carpa | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 152,95 | +5.6% | mil | Peixe Alevino Carpa | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 173,97 | +13.7% | mil | Peixe Alevino Carpa | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 176,35 | +1.4% | mil | Peixe Alevino Carpa | Port. 481/2023 |
+
+### Peixe Alevino Curimatá (código 50467)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 108,30 |  | mil | Peixe Alevino Curimatá | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 111,43 | +2.9% | mil | Peixe Alevino Curimatá | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 117,64 | +5.6% | mil | Peixe Alevino Curimatá | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 133,81 | +13.7% | mil | Peixe Alevino Curimatá | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 135,64 | +1.4% | mil | Peixe Alevino Curimatá | Port. 481/2023 |
+
+### Peixe Alevino Pacu (código 50474)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 162,40 |  | mil | Peixe Alevino Pacu | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 167,09 | +2.9% | mil | Peixe Alevino Pacu | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 176,40 | +5.6% | mil | Peixe Alevino Pacu | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 200,65 | +13.7% | mil | Peixe Alevino Pacu | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 203,40 | +1.4% | mil | Peixe Alevino Pacu | Port. 481/2023 |
+
+### Peixe Alevino Pintado (código 50469)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 108,30 |  | mil | Peixe Alevino Pintado | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 111,43 | +2.9% | mil | Peixe Alevino Pintado | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 117,64 | +5.6% | mil | Peixe Alevino Pintado | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 133,81 | +13.7% | mil | Peixe Alevino Pintado | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 135,64 | +1.4% | mil | Peixe Alevino Pintado | Port. 481/2023 |
+
+### Peixe Alevino Pirarucu (código 50476)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 11,90 |  | und | Peixe Alevino Pirarucu | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 12,24 | +2.9% | und | Peixe Alevino Pirarucu | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 12,92 | +5.6% | und | Peixe Alevino Pirarucu | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 14,70 | +13.8% | und | Peixe Alevino Pirarucu | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 14,90 | +1.4% | und | Peixe Alevino Pirarucu | Port. 481/2023 |
+
+### Peixe Alevino Ponga (código 50468)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 108,30 |  | mil | Peixe Alevino Ponga | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 111,43 | +2.9% | mil | Peixe Alevino Ponga | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 117,64 | +5.6% | mil | Peixe Alevino Ponga | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 133,81 | +13.7% | mil | Peixe Alevino Ponga | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 135,64 | +1.4% | mil | Peixe Alevino Ponga | Port. 481/2023 |
+
+### Peixe Alevino Surubim (código 50470)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 8,60 |  | und | Peixe Alevino Surubim | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 8,85 | +2.9% | und | Peixe Alevino Surubim | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 9,34 | +5.5% | und | Peixe Alevino Surubim | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 10,62 | +13.7% | und | Peixe Alevino Surubim | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 10,77 | +1.4% | und | Peixe Alevino Surubim | Port. 481/2023 |
+
+### Peixe Alevino Tambacu (código 50466)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 108,30 |  | mil | Peixe Alevino Tambacu | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 111,43 | +2.9% | mil | Peixe Alevino Tambacu | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 117,64 | +5.6% | mil | Peixe Alevino Tambacu | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 133,81 | +13.7% | mil | Peixe Alevino Tambacu | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 135,64 | +1.4% | mil | Peixe Alevino Tambacu | Port. 481/2023 |
+
+### Peixe Alevino Tambaqui (código 50465)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 108,30 |  | mil | Peixe Alevino Tambaqui | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 111,43 | +2.9% | mil | Peixe Alevino Tambaqui | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 117,64 | +5.6% | mil | Peixe Alevino Tambaqui | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 133,81 | +13.7% | mil | Peixe Alevino Tambaqui | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 135,64 | +1.4% | mil | Peixe Alevino Tambaqui | Port. 481/2023 |
+
+### Peixe Alevino Tambatinga (código 50464)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 108,30 |  | mil | Peixe Alevino Tambatinga | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 111,43 | +2.9% | mil | Peixe Alevino Tambatinga | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 117,64 | +5.6% | mil | Peixe Alevino Tambatinga | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 133,81 | +13.7% | mil | Peixe Alevino Tambatinga | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 135,64 | +1.4% | mil | Peixe Alevino Tambatinga | Port. 481/2023 |
+
+### Peixe Alevino Tilapia (código 50472)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 140,80 |  | mil | Peixe Alevino Tilapia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 144,87 | +2.9% | mil | Peixe Alevino Tilapia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 152,95 | +5.6% | mil | Peixe Alevino Tilapia | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 173,97 | +13.7% | mil | Peixe Alevino Tilapia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 176,35 | +1.4% | mil | Peixe Alevino Tilapia | Port. 481/2023 |
+
+### Peixe Alevino Trairão (código 50473)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 124,90 |  | mil | Peixe Alevino Trairão | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 128,51 | +2.9% | mil | Peixe Alevino Trairão | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 135,67 | +5.6% | mil | Peixe Alevino Trairão | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 154,32 | +13.7% | mil | Peixe Alevino Trairão | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 156,43 | +1.4% | mil | Peixe Alevino Trairão | Port. 481/2023 |
+
+### Peixe Alevino Tucunaré (código 50475)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 270,70 |  | mil | Peixe Alevino Tucunaré | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 278,52 | +2.9% | mil | Peixe Alevino Tucunaré | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 294,05 | +5.6% | mil | Peixe Alevino Tucunaré | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 334,47 | +13.7% | mil | Peixe Alevino Tucunaré | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 339,05 | +1.4% | mil | Peixe Alevino Tucunaré | Port. 481/2023 |
+
+### Peixe Cistos - Ração (código 50477)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 243,70 |  | mil | Peixe Cistos - Ração | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 250,74 | +2.9% | mil | Peixe Cistos - Ração | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 264,72 | +5.6% | mil | Peixe Cistos - Ração | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 301,11 | +13.7% | mil | Peixe Cistos - Ração | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 305,24 | +1.4% | mil | Peixe Cistos - Ração | Port. 481/2023 |
+
+### Peixe Lavra (código 50478)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 162,40 |  | mil | Peixe Lavra | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 167,09 | +2.9% | mil | Peixe Lavra | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 176,40 | +5.6% | mil | Peixe Lavra | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 200,65 | +13.7% | mil | Peixe Lavra | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 203,40 | +1.4% | mil | Peixe Lavra | Port. 481/2023 |
+
+### Peixe Ovos Embrionários (código 50479)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 216,60 |  | mil | Peixe Ovos Embrionários | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 222,86 | +2.9% | mil | Peixe Ovos Embrionários | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 235,28 | +5.6% | mil | Peixe Ovos Embrionários | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 267,62 | +13.7% | mil | Peixe Ovos Embrionários | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 271,29 | +1.4% | mil | Peixe Ovos Embrionários | Port. 481/2023 |
+
+### Pele (código 51604)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2,10 |  | und | Pele | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2,13 | +1.4% | und | Pele | Port. 481/2023 |
+
+### Pele (código 28003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,75 |  | und | Pele | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1,85 | +5.7% | und | Pele | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2,10 | +13.5% | und | Pele | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 2,13 | +1.4% | und | Pele | Port. 481/2023 |
+
+### Pele (código 28001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,70 |  | und | Pele de Caprino | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,75 | +2.9% | und | Pele ⚠ | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1,85 | +5.7% | und | Pele | Port. 236/2021 |
+
+### Pele de caprino de primeira (código 28001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 7,00 |  | und. | pele de caprino de primeira | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 8,40 | +20.0% | und. | pele de caprino de primeira | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 12,50 | +48.8% | und. | pele de caprino de primeira | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 12,90 | +3.2% | und. | Pele de caprino de primeira | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 13,13 | +1.8% | und | Pele de caprino de primeira | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 14,01 | +6.7% | und | Pele de caprino de primeira | Port. 123/2017 |
+
+### Pele de caprino de segunda (código 28002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 5,00 |  | und. | pele de caprino de segunda | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 6,00 | +20.0% | und. | pele de caprino de segunda | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 9,00 | +50.0% | und. | pele de caprino de segunda | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 9,30 | +3.3% | und. | Pele de caprino de segunda | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 9,69 | +4.2% | und | Pele de caprino de segunda | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 10,34 | +6.7% | und | Pele de caprino de segunda | Port. 123/2017 |
+
+### Pele de carneiro de primeira (código 28003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 7,00 |  | und. | pele de carneiro de primeira | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 8,40 | +20.0% | und. | pele de carneiro de primeira | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 12,50 | +48.8% | und. | pele de carneiro de primeira | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 12,30 | -1.6% | und. | Pele de carneiro de primeira | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 12,82 | +4.2% | und | Pele de carneiro de primeira | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 13,68 | +6.7% | und | Pele de carneiro de primeira | Port. 123/2017 |
+
+### Pele de carneiro de segunda (código 28004)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 4,00 |  | und. | pele de carneiro de segunda | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 4,80 | +20.0% | und. | pele de carneiro de segunda | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 9,00 | +87.5% | und. | pele de carneiro de segunda | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 9,30 | +3.3% | und. | Pele de carneiro de segunda | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 9,69 | +4.2% | und | Pele de carneiro de segunda | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 10,34 | +6.7% | und | Pele de carneiro de segunda | Port. 123/2017 |
+
+### Pele de Carneiro ou Ovelha (código 28003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,70 |  | und | Pele de Carneiro ou Ovelha | Port. 184/2019 |
+
+### Pêlo da crina (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 4,50 |  | kg | pêlo da crina | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 4,70 | +4.4% | kg | Pêlo da crina | Port. 301/2015 |
+
+### Pêlo da crina do cavalo (código 29001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 4,90 |  | Cb | Pêlo da crina do cavalo | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 5,23 | +6.7% | Cb | Pêlo da crina do cavalo | Port. 123/2017 |
+
+### pêlo da crina do cavalo (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 1,50 |  | kg | pêlo da crina do cavalo | Port. 233/2008 |
+
+### pêlo da crina do cavalo (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 1,80 |  | kg | pêlo da crina do cavalo | Port. 6/2010 |
+
+### Pêlo da crina e da Calda (código 29001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 16,50 |  | kg | Pêlo da crina e da Calda | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 16,98 | +2.9% | kg | Pêlo da crina e da Calda | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 17,93 | +5.6% | kg | Pêlo da crina e da Calda | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 20,39 | +13.7% | kg | Pêlo da crina e da Calda | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 20,67 | +1.4% | kg | Pêlo da crina e da Calda | Port. 481/2023 |
+
+### Pelo da ponta da cauda do boi (código 52073)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 5,80 |  | kg | Pelo da ponta da cauda do boi | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 7,50 | +29.3% | kg | Pelo da ponta da cauda do boi | Port. 481/2023 |
+
+### Pêlo da ponta da cauda do boi (código 29002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 1,50 |  | kg | pêlo da ponta cauda do boi | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 1,80 | +20.0% | kg | pêlo da ponta da cauda do boi | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 2,80 | +55.6% | kg | pêlo da ponta cauda ⚠ | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 2,90 | +3.6% | kg | Pêlo da ponta cauda | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 3,02 | +4.1% | kg | Pêlo da ponta da cauda do boi ⚠ | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 3,22 | +6.6% | kg | Pêlo da ponta da cauda do boi | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 4,50 | +39.8% | kg | Pêlo da ponta da cauda ⚠ | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,63 | +2.9% | kg | Pêlo da ponta da cauda do boi ⚠ | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 4,89 | +5.6% | kg | Pêlo da ponta da cauda do boi | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 6,50 | +32.9% | kg | Pêlo da ponta da cauda do boi | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 7,50 | +15.4% | kg | Pêlo da ponta da cauda do boi | Port. 481/2023 |
+
+### Pelo da ponta da cauda do boi (código 29002)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 4,50 |  | kg | Pelo da ponta da cauda do boi | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 4,63 | +2.9% | kg | Pelo da ponta da cauda do boi | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 4,89 | +5.6% | kg | Pelo da ponta da cauda do boi | Port. 236/2021 |
+
+### Perdiz Adulta ( Macho ou Femea ) (código 50392)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 31,50 |  | cb | Perdiz Adulta ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 32,41 | +2.9% | cb | Perdiz Adulta ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 34,22 | +5.6% | cb | Perdiz Adulta ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 38,92 | +13.7% | cb | Perdiz Adulta ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 39,45 | +1.4% | cb | Perdiz Adulta ( Macho ou Femea ) | Port. 481/2023 |
+
+### Perdiz Aves de um ( 1 ) dia (código 50393)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 9,50 |  | cb | Perdiz Aves de um ( 1 ) dia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 9,77 | +2.8% | cb | Perdiz Aves de um ( 1 ) dia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 10,31 | +5.5% | cb | Perdiz Aves de um ( 1 ) dia | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 11,73 | +13.8% | cb | Perdiz Aves de um ( 1 ) dia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 11,89 | +1.4% | cb | Perdiz Aves de um ( 1 ) dia | Port. 481/2023 |
+
+### Perdiz Ovos Férteis ( Ovos ) (código 50394)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 15,60 |  | dz | Perdiz Ovos Férteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 16,05 | +2.9% | dz | Perdiz Ovos Férteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 16,94 | +5.5% | dz | Perdiz Ovos Férteis ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 19,27 | +13.8% | dz | Perdiz Ovos Férteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 19,53 | +1.3% | dz | Perdiz Ovos Férteis ( Ovos ) | Port. 481/2023 |
+
+### Peru Adulto ( Macho ou Femea ) (código 50395)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 97,50 |  | cb | Peru Adulto ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 100,32 | +2.9% | cb | Peru Adulto ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 105,91 | +5.6% | cb | Peru Adulto ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 120,47 | +13.7% | cb | Peru Adulto ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 122,12 | +1.4% | cb | Peru Adulto ( Macho ou Femea ) | Port. 481/2023 |
+
+### Peru Aves de um ( 1 ) dia (código 50396)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 18,50 |  | cb | Peru Aves de um ( 1 ) dia | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 19,03 | +2.9% | cb | Peru Aves de um ( 1 ) dia | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 20,09 | +5.6% | cb | Peru Aves de um ( 1 ) dia | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 22,85 | +13.7% | cb | Peru Aves de um ( 1 ) dia | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 23,16 | +1.4% | cb | Peru Aves de um ( 1 ) dia | Port. 481/2023 |
+
+### Peru Iniciado ( Macho ou Femea ) (código 50397)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 27,80 |  | cb | Peru Iniciado ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 28,60 | +2.9% | cb | Peru Iniciado ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 30,19 | +5.6% | cb | Peru Iniciado ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 34,34 | +13.7% | cb | Peru Iniciado ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 34,81 | +1.4% | cb | Peru Iniciado ( Macho ou Femea ) | Port. 481/2023 |
+
+### Peru Ovos Férteis ( Ovos ) (código 50398)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 28,50 |  | dz | Peru Ovos Férteis ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 29,32 | +2.9% | dz | Peru Ovos Férteis ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 30,95 | +5.6% | dz | Peru Ovos Férteis ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 35,20 | +13.7% | dz | Peru Ovos Férteis ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 35,68 | +1.4% | dz | Peru Ovos Férteis ( Ovos ) | Port. 481/2023 |
+
+### Peru Recriado ( Macho ou Femea ) (código 50399)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 38,90 |  | cb | Peru Recriado ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 40,02 | +2.9% | cb | Peru Recriado ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 42,25 | +5.6% | cb | Peru Recriado ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 48,06 | +13.8% | cb | Peru Recriado ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 48,72 | +1.4% | cb | Peru Recriado ( Macho ou Femea ) | Port. 481/2023 |
+
+### Porco Comum (pé duro) (código 48189)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 156,36 |  | cb | Porco Comum (pé duro) | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 166,82 | +6.7% | cb | Porco Comum (pé duro) | Port. 123/2017 |
+
+### Ratita Adulta - Avestruzes ( Macho ou Femea ) (código 50400)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 4.415,00 |  | cb | Ratita Adulta - Avestruzes ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.571,49 | +26.2% | cb | Ratita Adulta - Avestruzes ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 5.882,07 | +5.6% | cb | Ratita Adulta - Avestruzes ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 6.690,57 | +13.7% | cb | Ratita Adulta - Avestruzes ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 6.782,23 | +1.4% | cb | Ratita Adulta - Avestruzes ( Macho ou Femea ) | Port. 481/2023 |
+
+### Ratita Adulta - Emas ( Macho ou Femea ) (código 50401)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 3.874,00 |  | cb | Ratita Adulta - Emas ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 5.014,86 | +29.4% | cb | Ratita Adulta - Emas ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 5.294,41 | +5.6% | cb | Ratita Adulta - Emas ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 6.022,13 | +13.7% | cb | Ratita Adulta - Emas ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 6.104,63 | +1.4% | cb | Ratita Adulta - Emas ( Macho ou Femea ) | Port. 481/2023 |
+
+### Ratita Aves de um ( 1 ) dia - Avestruzes ( Pinto ) (código 50402)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 541,00 |  | cb | Ratita Aves de um ( 1 ) dia - Avestruzes ( Pinto ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 556,63 | +2.9% | cb | Ratita Aves de um ( 1 ) dia - Avestruzes ( Pinto ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 587,66 | +5.6% | cb | Ratita Aves de um ( 1 ) dia - Avestruzes ( Pinto ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 668,43 | +13.7% | cb | Ratita Aves de um ( 1 ) dia - Avestruzes ( Pinto ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 677,59 | +1.4% | cb | Ratita Aves de um ( 1 ) dia - Avestruzes ( Pinto ) | Port. 481/2023 |
+
+### Ratita Aves de um ( 1 ) dia - Emas ( Pinto ) (código 50403)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 487,00 |  | cb | Ratita Aves de um ( 1 ) dia - Emas ( Pinto ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 501,07 | +2.9% | cb | Ratita Aves de um ( 1 ) dia - Emas ( Pinto ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 529,00 | +5.6% | cb | Ratita Aves de um ( 1 ) dia - Emas ( Pinto ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 601,71 | +13.7% | cb | Ratita Aves de um ( 1 ) dia - Emas ( Pinto ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 609,95 | +1.4% | cb | Ratita Aves de um ( 1 ) dia - Emas ( Pinto ) | Port. 481/2023 |
+
+### Ratita Criada - Avestruzes ( Macho ou Femea ) (código 50404)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1.408,10 |  | cb | Ratita Criada - Avestruzes ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.448,79 | +2.9% | cb | Ratita Criada - Avestruzes ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.529,55 | +5.6% | cb | Ratita Criada - Avestruzes ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.739,79 | +13.7% | cb | Ratita Criada - Avestruzes ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.763,63 | +1.4% | cb | Ratita Criada - Avestruzes ( Macho ou Femea ) | Port. 481/2023 |
+
+### Ratita Criada - Emas ( Macho ou Femea ) (código 50405)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1.354,00 |  | cb | Ratita Criada - Emas ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1.393,13 | +2.9% | cb | Ratita Criada - Emas ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1.470,79 | +5.6% | cb | Ratita Criada - Emas ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 1.672,95 | +13.7% | cb | Ratita Criada - Emas ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 1.695,87 | +1.4% | cb | Ratita Criada - Emas ( Macho ou Femea ) | Port. 481/2023 |
+
+### Ratita Ovos Férteis - Avestruzes ( Ovos ) (código 50406)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 346,00 |  | dz | Ratita Ovos Férteis - Avestruzes ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 356,00 | +2.9% | dz | Ratita Ovos Férteis - Avestruzes ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 375,85 | +5.6% | dz | Ratita Ovos Férteis - Avestruzes ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 427,51 | +13.7% | dz | Ratita Ovos Férteis - Avestruzes ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 433,37 | +1.4% | dz | Ratita Ovos Férteis - Avestruzes ( Ovos ) | Port. 481/2023 |
+
+### Ratita Ovos Férteis - Emas ( Ovos ) (código 50407)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 335,80 |  | dz | Ratita Ovos Férteis - Emas ( Ovos ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 345,50 | +2.9% | dz | Ratita Ovos Férteis - Emas ( Ovos ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 364,76 | +5.6% | dz | Ratita Ovos Férteis - Emas ( Ovos ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 414,90 | +13.7% | dz | Ratita Ovos Férteis - Emas ( Ovos ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 420,58 | +1.4% | dz | Ratita Ovos Férteis - Emas ( Ovos ) | Port. 481/2023 |
+
+### Ratita Recriada - Avestruzes ( Macho ou Femea ) (código 50408)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 3.249,40 |  | cb | Ratita Recriada - Avestruzes ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 3.343,31 | +2.9% | cb | Ratita Recriada - Avestruzes ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 3.529,68 | +5.6% | cb | Ratita Recriada - Avestruzes ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 4.014,84 | +13.7% | cb | Ratita Recriada - Avestruzes ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 4.069,84 | +1.4% | cb | Ratita Recriada - Avestruzes ( Macho ou Femea ) | Port. 481/2023 |
+
+### Ratita Recriada - Emas ( Macho ou Femea ) (código 50409)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2.707,90 |  | cb | Ratita Recriada - Emas ( Macho ou Femea ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2.786,16 | +2.9% | cb | Ratita Recriada - Emas ( Macho ou Femea ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2.941,47 | +5.6% | cb | Ratita Recriada - Emas ( Macho ou Femea ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 3.345,78 | +13.7% | cb | Ratita Recriada - Emas ( Macho ou Femea ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 3.391,62 | +1.4% | cb | Ratita Recriada - Emas ( Macho ou Femea ) | Port. 481/2023 |
+
+### Sebo beneficiado (código 52071)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2,80 |  | Kg | Sebo beneficiado | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 6,60 | +135.7% | Kg | Sebo beneficiado | Port. 481/2023 |
+
+### Sebo beneficiado (código 32001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2,00 |  | Kg | Sebo beneficiado | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,06 | +3.0% | Kg | Sebo beneficiado | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2,17 | +5.3% | Kg | Sebo beneficiado | Port. 236/2021 |
+
+### Sebo beneficiado (código 32001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 0,40 |  | Kg | sêbo beneficiado | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 0,48 | +20.0% | Kg | sêbo beneficiado | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 1,50 | +212.5% | Kg | sebo beneficiado | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 1,60 | +6.7% | kg | Sebo beneficiado | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,67 | +4.4% | Kg | Sebo beneficiado | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,78 | +6.6% | Kg | Sebo beneficiado | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 2,00 | +12.4% | Kg | Sebo beneficiado | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 2,57 | +28.5% | Kg | Sebo beneficiado | Port. 261/2020 |
+
+### Sebo beneficiado Interestadual (código 32001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 5,00 |  | Kg | Sebo beneficiado Interestadual | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 5,28 | +5.6% | Kg | Sebo beneficiado Interestadual | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 6,50 | +23.1% | Kg | Sebo beneficiado Interestadual | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 6,60 | +1.5% | Kg | Sebo beneficiado Interestadual | Port. 481/2023 |
+
+### Sebo beneficiado Interno (código 32001)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2,74 |  | kg | Sebo beneficiado Interno | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 3,50 | +27.7% | kg | Sebo beneficiado Interno | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 3,60 | +2.9% | kg | Sebo beneficiado Interno | Port. 481/2023 |
+
+### Sebo beneficiado Interno (código 51585)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 2,60 |  | kg | Sebo beneficiado Interno | Port. 267/2020 |
+
+### sêbo em rama (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 0,73 |  | Kg | sêbo em rama | Port. 233/2008 |
+
+### sêbo em rama (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 0,88 |  | Kg | sêbo em rama | Port. 6/2010 |
+
+### Sebo in natura (código 52072)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 2,502 |  | Kg | Sebo in natura | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 3,60 | +43.9% | Kg | Sebo in natura | Port. 481/2023 |
+
+### Sebo in natura (código 32003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,80 |  | Kg | Sebo in natura | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,85 | +2.8% | Kg | Sebo in natura | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 1,95 | +5.4% | Kg | Sebo in natura | Port. 236/2021 |
+
+### Sebo in natura (código 32003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1,46 |  | Kg | Sebo in natura | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1,56 | +6.8% | Kg | Sebo in natura | Port. 123/2017 |
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 1,80 | +15.4% | Kg | Sebo in natura | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 1,85 | +2.8% | Kg | Sebo in natura | Port. 261/2020 |
+
+### Sebo in natura Interestadual (código 32003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 5,17 |  | Kg | Sebo in natura Interestadual | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 6,00 | +16.1% | Kg | Sebo in natura Interestadual | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 6,08 | +1.3% | Kg | Sebo in natura Interestadual | Port. 481/2023 |
+
+### Sebo In Natura Interestadual (código 51586)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 4,90 |  | kg | Sebo In Natura Interestadual | Port. 267/2020 |
+
+### Sebo in natura Interno (código 32003)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2020-10-09 (pub.) | 2020-09-15 | alterar | 1,90 |  | Kg | Sebo In Natura Interno | Port. 267/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 2,01 | +5.8% | kg | Sebo in natura Interno | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 3,00 | +49.3% | kg | Sebo in natura Interno | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 3,04 | +1.3% | kg | Sebo in natura Interno | Port. 481/2023 |
+
+### Sebo natural (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 0,82 |  | Kg | sêbo natural | Port. 233/2008 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 1,30 | +58.5% | Kg | sebo natural | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 1,40 | +7.7% | kg | Sebo natural | Port. 301/2015 |
+
+### sêbo natural (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 0,98 |  | Kg | sêbo natural | Port. 6/2010 |
+
+### Suíno de sexo e idade não relevante (código 49504)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 267,65 |  | cb | Suíno de sexo e idade não relevante | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 271,32 | +1.4% | cb | Suíno de sexo e idade não relevante | Port. 481/2023 |
+
+### Suíno de sexo e idade não relevante (código 50370)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 217,00 |  | cb | Suíno de sexo e idade não relevante | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 222,89 | +2.7% | cb | Suíno de sexo e idade não relevante | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 235,31 | +5.6% | cb | Suíno de sexo e idade não relevante | Port. 236/2021 |
+
+### Suíno Femea Leitoa (código 48891)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 154,00 |  | cb | Suíno Femea Leitoa | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 55,73 | -63.8% | cb | Suíno Femea Leitoa | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 58,84 | +5.6% | cb | Suíno Femea Leitoa | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 66,93 | +13.7% | cb | Suíno Femea Leitoa | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 67,85 | +1.4% | cb | Suíno Femea Leitoa | Port. 481/2023 |
+
+### Suíno Femea Matriz (código 48189)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 325,00 |  | cb | Suíno Femea Matriz | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 334,34 | +2.9% | cb | Suíno Femea Matriz | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 352,98 | +5.6% | cb | Suíno Femea Matriz | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 401,50 | +13.7% | cb | Suíno Femea Matriz | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 407,00 | +1.4% | cb | Suíno Femea Matriz | Port. 481/2023 |
+
+### Suíno Macho Leitão (código 00025)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 165,00 |  | cb | Suíno Macho Leitão | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 66,87 | -59.5% | cb | Suíno Macho Leitão | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 70,60 | +5.6% | cb | Suíno Macho Leitão | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 80,30 | +13.7% | cb | Suíno Macho Leitão | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 81,40 | +1.4% | cb | Suíno Macho Leitão | Port. 481/2023 |
+
+### Suíno Macho Reprodutor ( Cachaço ) (código 45601)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-04-08 (pub.) | 2019-04-03 | alterar | 433,00 |  | cb | Suíno Macho Reprodutor ( Cachaço ) | Port. 184/2019 |
+| 2020-09-15 (pub.) | 2020-09-10 | alterar | 445,78 | +3.0% | cb | Suíno Macho Reprodutor ( Cachaço ) | Port. 261/2020 |
+| 2021-06-22 (pub.) | 2021-06-17 | alterar | 470,63 | +5.6% | cb | Suíno Macho Reprodutor ( Cachaço ) | Port. 236/2021 |
+| 2023-04-19 (pub.) | 2023-04-11 | alterar | 535,32 | +13.7% | cb | Suíno Macho Reprodutor ( Cachaço ) | Port. 161/2023 |
+| 2023-12-04 (pub.) | 2023-10-30 | alterar | 542,65 | +1.4% | cb | Suíno Macho Reprodutor ( Cachaço ) | Port. 481/2023 |
+
+### Suíno Pêlo Claro (código 00025)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 120,00 |  | cb | suíno pelo claro | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 144,00 | +20.0% | cb | suíno pelo claro | Port. 6/2010 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 215,00 | +49.3% | cb | suíno pelo claro | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 220,30 | +2.5% | cb | Suíno pêlo claro | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 229,64 | +4.2% | cb | Suíno Pêlo Claro | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 245,00 | +6.7% | cb | Suíno Pêlo Claro | Port. 123/2017 |
+
+### Suíno Pêlo Escuro (código 48891)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 190,00 |  | cb | suíno pelo escuro | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 195,00 | +2.6% | cb | Suíno pêlo escuro | Port. 301/2015 |
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 203,27 | +4.2% | cb | Suíno Pêlo Escuro | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 216,87 | +6.7% | cb | Suíno Pêlo Escuro | Port. 123/2017 |
+
+### suíno pelo escuro - pé duro (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 100,00 |  | cb | suíno pelo escuro ( pé duro ) | Port. 233/2008 |
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 120,00 | +20.0% | cb | suíno pelo escuro - pé duro | Port. 6/2010 |
+
+### Vaca (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 1.127,00 |  | cb | vaca | Port. 291/2014 |
+| 2014-11-18 (pub.) | 2014-11-13 | alterar | 600,00 | -46.8% | cb | Vaca | Port. 291/2014 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 1.154,70 | +92.5% | cb | vaca | Port. 301/2015 |
+| 2015-07-03 (pub.) | 2015-06-09 | alterar | 615,00 | -46.7% | cb | Vaca | Port. 301/2015 |
+
+### vaca com inspeão sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 480,00 |  | cb | vaca com inspeão sanitária | Port. 6/2010 |
+
+### Vaca com inspeão sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 360,00 |  | cb | Vaca com inspeão sanitária | Port. 6/2010 |
+
+### Vaca com Inspeção Sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 400,00 |  | cb | vaca com inspeção sanitária | Port. 233/2008 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 300,00 | -25.0% | cb | Vaca com inspeção sanitária | Port. 233/2008 |
+| 2010-08-23 (pub.) | 2010-08-17 | alterar | 600,00 | +100.0% | Cb | Vaca com Inspeção Sanitária | Port. 245/2010 |
+
+### Vaca para abate acima 24 meses (código 89896)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1.501,06 |  | cb | Vaca para abate acima 25 meses | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.601,48 | +6.7% | cb | Vaca para abate acima 24 meses | Port. 123/2017 |
+
+### Vaca para abate acima 24 meses (código 24010)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2016-01-21 (pub.) | 2016-01-08 | alterar | 1.172,71 |  | cb | Vaca para abate acima 25 meses | Port. 14/2016 |
+| 2017-02-21 (pub.) | 2017-02-16 | alterar | 1.251,16 | +6.7% | cb | Vaca para abate acima 24 meses | Port. 123/2017 |
+
+### Vaca para abate acima de 25 meses (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 1.440,00 |  | Cb | Vaca para abate acima de 25 meses | Port. 487/2015 |
+| 2015-10-23 (pub.) | 2015-10-20 | alterar | 1.125,00 | -21.9% | Cb | Vaca para abate acima de 25 meses | Port. 487/2015 |
+
+### vaca sem inspeão sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 492,00 |  | cb | vaca sem inspeão sanitária | Port. 6/2010 |
+
+### vaca sem inspeão sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2010-01-18 (efeitos) | 2010-01-07 | alterar | 372,00 |  | cb | vaca sem inspeão sanitária | Port. 6/2010 |
+
+### Vaca sem Inspeção Sanitária (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 410,00 |  | cb | vaca sem inspeção sanitária | Port. 233/2008 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 310,00 | -24.4% | cb | vaca sem inspeção sanitária | Port. 233/2008 |
+| 2010-08-23 (pub.) | 2010-08-17 | alterar | 680,00 | +119.4% | Cb | Vaca sem Inspeção Sanitária | Port. 245/2010 |
+
+### Vinho La Burra Burra Cabernet Sauvignon - Tinto 750 ml (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2021-09-23 (pub.) | 2021-09-20 | incluir | 21,38 |  |  | Vinho La Burra Burra Cabernet Sauvignon - Tinto 750 ml | Port. 388/2021 |
+
+### Vinho La Burra Burra Merlot - Tinto 750 ml (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2021-09-23 (pub.) | 2021-09-20 | incluir | 21,38 |  |  | Vinho La Burra Burra Merlot - Tinto 750 ml | Port. 388/2021 |
+
+### Vinho La Burra Burra Sauvignon Blanc – Branco 750 ml (código —)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2021-09-23 (pub.) | 2021-09-20 | incluir | 21,38 |  |  | Vinho La Burra Burra Sauvignon Blanc – Branco 750 ml | Port. 388/2021 |
+
+## Portarias citadas
+
+Links para o texto de cada portaria usada acima.
+
+- Port. 24/2004: [Portaria nº 24/2004](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e655dd5e-25b8-445c-8b0c-85eacfde41d6), vigência 2004-02-11 (assin.)
+- Port. 276/2005: [Portaria nº 276/2005](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0e7bfc99-2f4d-45cb-ab5b-2f5fbba6a5b4), vigência 2005-05-16 (pub.)
+- Port. 511/2005: [Portaria nº 511/2005](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82a1f8da-e967-4d32-8f82-c5cede81cf08), vigência 2005-10-20 (pub.)
+- Port. 447/2006: [Portaria nº 447/2006](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f943d829-dcfe-4814-bfec-65c97a7baa22), vigência 2006-08-23 (pub.)
+- Port. 135/2007: [Portaria nº 135/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=899fba4b-33ea-4081-8448-eca52c2b4962), vigência 2007-02-23 (assin.)
+- Port. 284/2007: [Portaria nº 284/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b9d8524f-b38f-4fe2-8f32-b920bfa0d9f6), vigência 2007-05-28 (pub.)
+- Port. 233/2008: [Portaria nº 233/2008](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3c4eb736-9388-4204-8d37-a84a29680f1e), vigência 2008-05-08 (pub.)
+- Port. 6/2010: [Portaria nº 6/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8fe3f683-ce6e-4241-bce2-8f5d9c51d441), vigência 2010-01-18 (efeitos)
+- Port. 245/2010: [Portaria nº 245/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6a3d618f-ec54-4830-bd5b-e494dbf834de), vigência 2010-08-23 (pub.)
+- Port. 316/2012: [Portaria nº 316/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=28b843f4-be49-442c-9b48-7f977e1b19b2), vigência 2012-09-27 (pub.)
+- Port. 134/2014: [Portaria nº 134/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8da5c564-fcb4-4e95-9ded-f4229c684486), vigência 2014-05-13 (pub.)
+- Port. 291/2014: [Portaria nº 291/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b832706-9ba5-43a6-9689-da6f50aa5fb3), vigência 2014-11-18 (pub.)
+- Port. 301/2015: [Portaria nº 301/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2954469b-2609-4776-a102-22e0c354e811), vigência 2015-07-03 (pub.)
+- Port. 487/2015: [Portaria nº 487/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3fb84c39-d6cc-4337-a20b-5e99d6cf335f), vigência 2015-10-23 (pub.)
+- Port. 14/2016: [Portaria nº 14/2016](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d7dab608-aec5-400d-9399-421d92389c5f), vigência 2016-01-21 (pub.)
+- Port. 123/2017: [Portaria nº 123/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd0f672f-d088-45c5-aad3-daf7fc7b2c72), vigência 2017-02-21 (pub.)
+- Port. 561/2017: [Portaria nº 561/2017](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=93fa3060-56da-4755-9985-fc405451f6b3), vigência 2017-12-01 (pub.)
+- Port. 284/2018: [Portaria nº 284/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2120a1a5-efa0-46bc-802e-7e2c13bbfdd7), vigência 2018-08-16 (pub.)
+- Port. 184/2019: [Portaria nº 184/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ba57732f-cebb-4237-a92d-0bdffcd6c53a), vigência 2019-04-08 (pub.)
+- Port. 223/2019: [Portaria nº 223/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c3340837-294c-49a9-8bb1-3ab31b36b789), vigência 2019-04-24 (pub.)
+- Port. 447/2019: [Portaria nº 447/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ebd3e067-bd46-4910-9bcb-7d0a7159c88d), vigência 2019-08-02 (pub.)
+- Port. 509/2019: [Portaria nº 509/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a1e5de08-62c7-4a01-9e52-aa7020b49c94), vigência 2019-09-05 (pub.)
+- Port. 261/2020: [Portaria nº 261/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=04441c29-a675-4385-8f78-44ccc9b50556), vigência 2020-09-15 (pub.)
+- Port. 267/2020: [Portaria nº 267/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d5755077-65b1-45fa-bb61-4937642f254b), vigência 2020-10-09 (pub.)
+- Port. 236/2021: [Portaria nº 236/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dc4da81c-2cc2-4f68-bd87-3ac12dde08f9), vigência 2021-06-22 (pub.)
+- Port. 388/2021: [Portaria nº 388/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=87ec4847-a8a4-4252-a160-931321c69b06), vigência 2021-09-23 (pub.)
+- Port. 161/2023: [Portaria nº 161/2023](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c59617ce-6ccc-4632-a673-4c396c1f53b3), vigência 2023-04-19 (pub.)
+- Port. 429/2023: [Portaria nº 429/2023](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e8d663c3-6400-4564-90c2-4faea5d5f508), vigência 2023-09-25 (pub.)
+- Port. 481/2023: [Portaria nº 481/2023](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=57df4c6a-fca8-49c7-85fa-4ee31839d749), vigência 2023-12-04 (pub.)

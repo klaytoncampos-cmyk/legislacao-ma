@@ -5,11 +5,11 @@ description: >-
   RICMS-MA (Decreto 19.714/2003), Código Tributário Estadual (Lei 7.799/2002), anexos do RICMS-MA, substituição
   tributária, antecipação, isenção, redução de base de cálculo, crédito presumido, diferimento, alíquotas, MVA,
   pauta fiscal ou valores de referência do ICMS (Tabela de Valores de Referência da SEFAZ-MA: cimento, materiais de
-  construção, madeira, farinha de trigo e produtos agrícolas, cervejas, refrigerantes, energéticos, águas,
-  sorvetes), NCM/CEST, segmentos (autopeças, combustíveis, bebidas, medicamentos etc.), ou convênios, protocolos e
-  ajustes SINIEF do CONFAZ citados pela legislação maranhense. Contém o texto integral e atualizado dessas normas,
-  com histórico de redações. Consulte primeiro a base local (texto oficial) e use a web para complementar: normas
-  fora da base, alterações recentes, jurisprudência e interpretação.
+  construção, madeira, farinha de trigo e produtos agrícolas, bovinos e pecuária, cervejas, refrigerantes,
+  energéticos, águas, sorvetes), NCM/CEST, segmentos (autopeças, combustíveis, bebidas, medicamentos etc.), ou
+  convênios, protocolos e ajustes SINIEF do CONFAZ citados pela legislação maranhense. Contém o texto integral e
+  atualizado dessas normas, com histórico de redações. Consulte primeiro a base local (texto oficial) e use a web
+  para complementar: normas fora da base, alterações recentes, jurisprudência e interpretação.
 ---
 
 # Legislação tributária do Maranhão (ICMS)
@@ -25,7 +25,7 @@ Esta skill traz o **texto integral** das normas, extraído das fontes oficiais:
   e todas as do ano corrente. O texto das normas citadas já vem **consolidado** pelo CONFAZ, com as alterações incorporadas e as notas
   "Nova redação dada… pelo Prot. X"; a norma alteradora serve para conferir o texto original da alteração e suas regras de vigência.
 
-Os documentos (5.502 nesta edição: 143 da SEFAZ-MA, 1.828 normas complementares, 3.519 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
+Os documentos (5.503 nesta edição: 143 da SEFAZ-MA, 1.828 normas complementares, 3.519 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
 `<<<DOC caminho>>>`. Use sempre `scripts/buscar.py`, que separa os documentos e busca/lê cada um pelo seu caminho. `INDICE.md` (na raiz da skill) lista todos os documentos, com descrição,
 situação (vigente/parcial/revogado), data de atualização na fonte e caminho.
 
@@ -136,6 +136,11 @@ SEFAZ-MA que incluem, alteram ou excluem itens da tabela. Comece por `python3 sc
   e milheto, sementes de capim, castanhas, jaborandi e cera de carnaúba. Itens por código; o mesmo produto costuma ter valor
   por kg, por saco e por tonelada (confira a unidade) e, no carvão, para operação interna e interestadual. Arquivo **só na
   edição completa (Claude Code)**.
+- **Pecuária** (`valores/pecuaria.md`, Grupo 06): bovinos e búfalos por sexo e idade (por cabeça), carne dianteira e traseira,
+  couro e sebo (valores distintos para operação interna e interestadual, às vezes com o mesmo código), caprinos, equinos, ovinos,
+  suínos e javalis, asininos, muares, aves (galinha, pato, peru, avestruz etc., por cabeça, kg ou dúzia de ovos férteis) e, no
+  fim da tabela, crustáceos, moluscos e alevinos. Frango e galinha para consumo do grupo de hortifrutigranjeiros não estão
+  aqui. Arquivo **só na edição completa (Claude Code)**.
 - Produtos ainda sem arquivo em `valores/`: diga que a pauta desse produto ainda não foi consolidada na base e pesquise na web.
 
 ## Convenções da base (importante)

@@ -2,7 +2,7 @@
 
 Texto integral e atualizado do CTE (Lei 7.799/2002), do RICMS-MA (Decreto 19.714/2003) e seus anexos, das normas
 complementares da SEFAZ-MA e dos convênios, protocolos e ajustes SINIEF do CONFAZ citados por elas, além da **pauta
-fiscal (Tabela de Valores de Referência do ICMS)** de cimento, materiais de construção, madeira, produtos agrícolas (inclusive farinha de trigo), bebidas e sorvetes, com o histórico de cada item. A base é atualizada
+fiscal (Tabela de Valores de Referência do ICMS)** de cimento, materiais de construção, madeira, produtos agrícolas (inclusive farinha de trigo), pecuária, bebidas e sorvetes, com o histórico de cada item. A base é atualizada
 toda semana a partir das fontes oficiais, e cada atualização chega sozinha a quem instalou o plugin.
 
 ## O que tem na base
@@ -21,6 +21,8 @@ toda semana a partir das fontes oficiais, e cada atualização chega sozinha a q
     granitos) e **madeira** (em tora, serrada, beneficiada e para cerca, por espécie), com histórico desde 2010.
   - **Produtos agrícolas** (Grupo 01): arroz, feijão, farinha de trigo e de mandioca, macarrão, biscoitos, café em grão,
     babaçu, milho, soja, sementes de capim, mel, castanhas, carvão e outros.
+  - **Pecuária** (Grupo 06): bovinos e búfalos por sexo e idade, carne, couro e sebo, caprinos, equinos, ovinos, suínos, aves e
+    outros animais.
   - **Sorvetes e picolés**: tabelas de cada fornecedor (Nestlé/Garoto, Tigelí, Ster Bom, Flamboyant, Maioca, sorveterias
     regionais), quase sempre sem código; o item é identificado pela descrição (marca, sabor, tamanho).
   - Para cada item: **valor vigente**, **histórico** (todas as portarias, com a variação), **valor com vigência futura**
