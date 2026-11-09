@@ -3,9 +3,9 @@
 documento: "Tabela de Valores de Referência: bebidas: refrigerantes e águas tônicas"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-05"
-portarias: 166
-registros: 13719
+gerado_em: "2026-11-09"
+portarias: 167
+registros: 13720
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: refrigerantes e águas tônicas
@@ -13,11 +13,11 @@ registros: 13719
 Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram ou excluem itens da Tabela de Valores de Referência (fundamento citado nas portarias: § 8º do art. 13 da Lei 7.799/2002). A leitura das tabelas em PDF é automática e **não foi revisada manualmente**. **Confira na portaria (link) antes de usar em lançamento.**
 
 - **Vigência desde** = data em que a portaria passou a valer: "efeitos a partir de", quando houver; senão a **publicação** no DOE (as portarias entram em vigor na publicação; republicação por incorreção vale da republicação); na falta das duas, a assinatura.
-- **Código** = o da própria tabela da SEFAZ (as portarias trazem código desde 2017, com exceções). A SEFAZ às vezes **troca o código** do mesmo produto e **reaproveita** códigos de outras categorias (aqui: 47876, 48447, 48576, 48584, 48648, 48809, 50995, 52461, 53149, 54545 também designam produtos de outras categorias em outras portarias); por isso o histórico liga códigos e descrições com cuidado e sinaliza mudanças de descrição.
+- **Código** = o da própria tabela da SEFAZ (as portarias trazem código desde 2017, com exceções). A SEFAZ às vezes **troca o código** do mesmo produto e **reaproveita** códigos de outras categorias (aqui: 47876, 48447, 48576, 48584, 48648, 48809, 50309, 50310, 50995, 52461, 53149, 54545 também designam produtos de outras categorias em outras portarias); por isso o histórico liga códigos e descrições com cuidado e sinaliza mudanças de descrição.
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (792)
@@ -168,7 +168,6 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 49878 | Refrigerante Cristalina Uva - Pet 2000 ml | und | 5,99 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 49880 | Refrigerante Cristalina Uva - Pet 600 ml | und | 2,54 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48579 | Cristo Rei (PET 2 L) | und | 6,41 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 50884 | Refrigerante Crystal Limão - Pet 510 ml | und | 2,75 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 51750 | Refrigerante Dore Cola – Pet 1000 ml | und | 3,76 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 51745 | Refrigerante Dore Cola – Pet 2000 ml | und | 4,97 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 51839 | Refrigerante Dore Cola – Pet 250 ml | und | 1,65 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -540,6 +539,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 54489 | Refrigerante Cold Cola Zero – Pet 2.000 ml |  | 4,75 | 2026-09-18 (pub.) | Port. 339/2026 |
 | 54502 | Refrigerante Cold Cola Zero – Pet 250 ml |  | 1,30 | 2026-09-18 (pub.) | Port. 339/2026 |
 | 54490 | Refrigerante Cold Cola – Pet 2.000 ml |  | 4,75 | 2026-09-18 (pub.) | Port. 339/2026 |
+| 50884 | Refrigerante Cristal Sabores 510 ml | und | 3,99 | 2026-11-04 (pub.) | Port. 413/2026 |
 | 54491 | Refrigerante Di Tubaina – Pet 2.000 ml |  | 4,75 | 2026-09-18 (pub.) | Port. 339/2026 |
 | 54504 | Refrigerante Di Tubaina – Pet 250 ml |  | 1,30 | 2026-09-18 (pub.) | Port. 339/2026 |
 | 54493 | Refrigerante Guaraçai - Pet 2.000 ml |  | 4,75 | 2026-09-18 (pub.) | Port. 339/2026 |
@@ -1426,16 +1426,16 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Guaraná Antártica + Guaraná Antártica Zero - Kit 2 gafs. - Pet 2.000 ml | 12,66 | 2024-05-17 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica + Pepsi – Kit com 2 Garf - Pet 100 ml | 4,99 | 2020-06-30 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica + Pepsi – Kit com 2 Garrafas - Pet 1000 ml | 4,99 | 2020-07-13 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Guaraná Antártica = Pepsi Cola - Multpack - Kit com 2 gafs - Pet 2.000 ml | 11,09 | 2022-09-12 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Guaraná Antártica = Soda Limonada - Multpack - Kit com 2 gafs- Pet 2.000 ml | 11,09 | 2022-09-12 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Guaraná Antártica = Pepsi Cola - Multpack - Kit com 2 gafs - Pet 2.000 ml | 11,09 | 2022-09-12 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Guaraná Antártica = Soda Limonada - Multpack - Kit com 2 gafs- Pet 2.000 ml | 11,09 | 2022-09-12 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica Zero – Lata – Multpack – com 12 unidades 350 ml | 28,68 | 2025-01-15 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica – Kit Com 2 Garf - Pet 1000 ml | 4,99 | 2020-06-30 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica – Lata – Multpack – com 12 unidades 350 ml | 28,68 | 2025-01-15 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Antártica – Pet 3.300 ml | 6,60 | 2019-06-14 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Guaraná Jeneve 2.000 ml | 4,09 | 2022-08-23 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Guaraná Jeneve 2.000 ml | 4,09 | 2022-08-23 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Jeneve 200 ml | 1,40 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Guaraná Mara 200 ml | 1,01 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Guaraná Tropical 200 ml | 1,30 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Guaraná Mara 200 ml | 1,01 | 2022-11-03 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Guaraná Tropical 200 ml | 1,30 | 2022-11-03 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Tropical – Pet 2.000 ml | 4,09 | 2021-11-17 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Guaraná Tropical – PET 250 ml | 1,06 | 2021-11-17 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Imperial Cola 2.000 ml | 1,42 | 2005-09-15 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1453,9 +1453,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Indaiá Sabores - PET 330 ml | 0,88 | 2007-01-17 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Sabores 1000 ml | 1,45 | 2014-06-23 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Indaiá Sabores 2000 ml | 2,60 | 2007-01-17 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante It! Cola 2.000 ml | 4,88 | 2022-12-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante It! Guaraná 2.000 ml | 4,84 | 2022-12-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante It! Laranja 2.000 ml | 4,80 | 2022-12-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante It! Cola 2.000 ml | 4,88 | 2022-12-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante It! Guaraná 2.000 ml | 4,84 | 2022-12-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante It! Laranja 2.000 ml | 4,80 | 2022-12-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante IT! Tonica 2.000 ml | 4,24 | 2020-02-14 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante ITI Sabores - Lata 350 ml | 1,23 | 2014-03-07 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Jeneve - Pet 1.000 ml | 4,21 | 2023-07-10 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1470,23 +1470,23 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Mará – Pet 250 ml | 0,94 | 2021-07-13 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Mate Couro 2000 ml | 4,04 | 2016-11-21 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Mate Couro – 250ml | 0,50 | 2003-11-10 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Cola 1.000 ml | 2,67 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Cola 2.500 ml | 3,70 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Cola 200 ml | 1,34 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Cola 1.000 ml | 2,67 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Cola 2.500 ml | 3,70 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Cola 200 ml | 1,34 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Cola 2000 ml | 2,85 | 2019-08-14 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Cola 500 ml | 2,48 | 2024-05-06 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Cola 600 ml | 1,86 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Gr Champ 1.000 ml | 2,67 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Gr Champ 2.500 ml | 3,70 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Gr Champ 200 ml | 1,34 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Gr Champ 600 ml | 1,86 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Cola 600 ml | 1,86 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Gr Champ 1.000 ml | 2,67 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Gr Champ 2.500 ml | 3,70 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Gr Champ 200 ml | 1,34 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Gr Champ 600 ml | 1,86 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Guaraná 500 ml | 2,48 | 2024-05-06 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Guaraná Champ 2000 ml | 2,85 | 2019-08-14 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Guaraná Champ 250 ml | 0,83 | 2019-08-14 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Laranja 200 ml | 1,33 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Laranja 200 ml | 1,33 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Laranja 2000 ml | 2,85 | 2019-08-14 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Laranja 500 ml | 2,48 | 2024-05-06 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Okey Uva 200 ml | 1,33 | 2022-11-09 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Okey Uva 200 ml | 1,33 | 2022-11-09 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Uva 2000 ml | 2,85 | 2019-08-14 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Okey Uva 500 ml | 2,48 | 2024-05-06 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Orange 2.000 ml | 1,42 | 2005-09-15 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1505,26 +1505,26 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante Pitchulão Uva 2.000 ml | 3,76 | 2024-02-09 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Cola 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Cola 2.000 ml | 5,42 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Cola 200 ml | 1,35 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Cola 200 ml | 1,35 | 2022-11-03 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Frutas Cítricas 1.500 ml | 4,55 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Frutas Uva 1.500 ml | 4,55 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Guaraná 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Guaraná 2.000 ml | 5,30 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Guaraná 200 ml | 1,34 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Guaraná 200 ml | 1,34 | 2022-11-03 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Guaraná 250 ml | 1,45 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Guaraná Tropical 2.000 ml | 4,33 | 2019-11-05 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Laranja - Pet 2.000 ml | 4,09 | 2021-11-17 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Laranja 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Laranja 200 ml | 1,34 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Laranja 200 ml | 1,34 | 2022-11-03 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Laranja 250 ml | 1,20 | 2016-11-21 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Limão – 250ml | 0,50 | 2003-11-10 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Sabores 2.000 ml | 5,30 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Teen 1.500 ml | 1,95 | 2012-10-08 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Teen 2.000 ml | 5,42 | 2023-12-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Teen 200 ml | 1,33 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Teen 200 ml | 1,33 | 2022-11-03 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Teen 350 ml | 1,69 | 2016-11-21 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Tutti-Fruti – 250ml | 0,50 | 2003-11-10 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante Psiu Uva 200 ml | 1,34 | 2022-11-03 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante Psiu Uva 200 ml | 1,34 | 2022-11-03 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Uva 250 ml | 1,20 | 2016-11-21 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Psiu Uva – Pet 2.000 ml | 4,09 | 2021-11-17 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante Puragua Tônica - Pet 350 ml | 3,00 | 2021-05-25 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1551,7 +1551,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Refrigerante São Geraldo Caju Zero 1.000 ml | 5,83 | 2025-08-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante São Geraldo Caju Zero 2.000 ml | 6,44 | 2025-08-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante São Geraldo Caju Zero 200 ml | 1,15 | 2025-08-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Refrigerante São Geraldo de Caju - Vidro Retornável 200 ml | 1,20 | 2022-09-12 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Refrigerante São Geraldo de Caju - Vidro Retornável 200 ml | 1,20 | 2022-09-12 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante São Geraldo de Caju 269 ml | 1,70 | 2020-03-24 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante São Geraldo Guaraná Reduzido em Açúcar - Pet 200 ml | 1,09 | 2023-10-10 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Refrigerante São Geraldo Laranja - Pet 1.000 ml1 | 4,59 | 2025-08-07 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -6224,23 +6224,6 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2024-02-01 (pub.) | 2024-01-26 | alterar | 2,48 | +1.6% | und | Crystal Frutver (PET 510 ml) | Port. 31/2024 |
 | 2024-08-30 (pub.) | 2024-08-23 | incluir | 2,46 | -0.8% | und | Crystal Frutver (PET 510 ml) | Port. 336/2024 |
 | 2025-05-01 (efeitos) | 2025-04-28 | alterar | 2,45 | -0.4% | und | Crystal Frutver (PET 510 ml) | Port. 151/2025 |
-
-### Refrigerante Crystal Limão - Pet 510 ml (código 50884)
-
-| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
-|---|---|---|---|---|---|---|---|
-| 2019-07-31 (pub.) | 2019-07-23 | incluir | 2,02 |  |  | Refrigerante Crystal Limão - Pet 510 ml | Port. 435/2019 |
-| 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,02 | +0.0% | und | Crystal Limão – 510 ml ⚠ | Port. 614/2019 |
-| 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,06 | +2.0% | und | Crystal Limão (PET 510 ml) ⚠ | Port. 383/2021 |
-| 2022-09-01 (assin.) | 2022-09-01 | alterar | 2,20 | +6.8% | und | Crystal Limão (PET 510 ml) | Port. 454/2022 |
-| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 2,26 | +2.7% | und | Crystal Limão (PET 510 ml) | Port. 128/2023 |
-| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 2,44 | +8.0% | und | Crystal Limão (PET 510 ml) | Port. 477/2023 |
-| 2024-02-01 (pub.) | 2024-01-26 | alterar | 2,48 | +1.6% | und | Crystal Limão (PET 510 ml) | Port. 31/2024 |
-| 2024-08-30 (pub.) | 2024-08-23 | incluir | 2,46 | -0.8% | und | Crystal Limão (PET 510 ml) | Port. 336/2024 |
-| 2025-05-01 (efeitos) | 2025-04-28 | alterar | 2,45 | -0.4% | und | Crystal Limão (PET 510 ml) | Port. 151/2025 |
-| 2025-11-01 (efeitos) | 2025-10-22 | alterar | 2,69 | +9.8% | und | Crystal Sabores (PET 510 ml) ⚠ | Port. 370/2025 |
-| 2026-05-01 (efeitos) | 2026-04-29 | alterar | 2,68 | -0.4% | und | Crystal Sabores (PET 510 ml) | Port. 170/2026 |
-| 2026-11-01 (efeitos) | 2026-10-16 | alterar | 2,75 | +2.6% | und | Crystal Sabores (PET 510 ml) | Port. 402/2026 |
 
 ### Refrigerante Dore Cola – Pet 1000 ml (código 51750)
 
@@ -17022,6 +17005,24 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2026-09-18 (pub.) | 2026-09-14 | incluir | 4,75 |  |  | Refrigerante Cold Cola – Pet 2.000 ml | Port. 339/2026 |
 
+### Refrigerante Cristal Sabores 510 ml (código 50884)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2019-07-31 (pub.) | 2019-07-23 | incluir | 2,02 |  |  | Refrigerante Crystal Limão - Pet 510 ml | Port. 435/2019 |
+| 2019-11-12 (pub.) | 2019-11-07 | incluir | 2,02 | +0.0% | und | Crystal Limão – 510 ml ⚠ | Port. 614/2019 |
+| 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,06 | +2.0% | und | Crystal Limão (PET 510 ml) ⚠ | Port. 383/2021 |
+| 2022-09-01 (assin.) | 2022-09-01 | alterar | 2,20 | +6.8% | und | Crystal Limão (PET 510 ml) | Port. 454/2022 |
+| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 2,26 | +2.7% | und | Crystal Limão (PET 510 ml) | Port. 128/2023 |
+| 2023-11-01 (efeitos) | 2023-10-30 | alterar | 2,44 | +8.0% | und | Crystal Limão (PET 510 ml) | Port. 477/2023 |
+| 2024-02-01 (pub.) | 2024-01-26 | alterar | 2,48 | +1.6% | und | Crystal Limão (PET 510 ml) | Port. 31/2024 |
+| 2024-08-30 (pub.) | 2024-08-23 | incluir | 2,46 | -0.8% | und | Crystal Limão (PET 510 ml) | Port. 336/2024 |
+| 2025-05-01 (efeitos) | 2025-04-28 | alterar | 2,45 | -0.4% | und | Crystal Limão (PET 510 ml) | Port. 151/2025 |
+| 2025-11-01 (efeitos) | 2025-10-22 | alterar | 2,69 | +9.8% | und | Crystal Sabores (PET 510 ml) ⚠ | Port. 370/2025 |
+| 2026-05-01 (efeitos) | 2026-04-29 | alterar | 2,68 | -0.4% | und | Crystal Sabores (PET 510 ml) | Port. 170/2026 |
+| 2026-11-01 (efeitos) | 2026-10-16 | alterar | 2,75 | +2.6% | und | Crystal Sabores (PET 510 ml) | Port. 402/2026 |
+| 2026-11-04 (pub.) | 2026-10-28 | alterar | 3,99 | +45.1% |  | Refrigerante Cristal Sabores 510 ml ⚠ | Port. 413/2026 |
+
 ### Refrigerante Cristo Rei 2.000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -24612,3 +24613,4 @@ Links para o texto de cada portaria usada acima.
 - Port. 339/2026: [Portaria nº 339/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d34fd6e3-4d42-4e0c-9a5c-8967b4523270), vigência 2026-09-18 (pub.)
 - Port. 351/2026: [Portaria nº 351/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7a91d0a4-ce67-4a6d-baaf-c78902a19ef4), vigência 2026-09-24 (pub.)
 - Port. 402/2026: [Portaria nº 402/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c97c66f2-9051-4f91-a763-ac27b07ba5e5), vigência 2026-11-01 (efeitos)
+- Port. 413/2026: [Portaria nº 413/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e3db49b2-9750-427c-b5d1-114c86397f17), vigência 2026-11-04 (pub.)

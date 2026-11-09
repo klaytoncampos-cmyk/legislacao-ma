@@ -1,5 +1,12 @@
 # Registro de atualizações da base
 
+## 2026-11-09 20:24
+
+- SEFAZ norma complementar alterada: **PORTARIA Nº 410, DE 03 DE DEZEMBRO DE 2025**: Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS.
+- SEFAZ norma complementar REMOVIDA da base: PORTARIA Nº 410, DE 03 DE OUTUBRO DE 2026 (saiu do portal ou deixou de remeter ao RICMS/anexo/CTE; conferir)
+- Pauta (valores de referência) NOVA: **PORTARIA Nº 413, DE 28 DE OUTUBRO DE 2026**: Dispõe sobre altaração de valores de produtos na tabela de Valores de Referência.
+- Pauta (valores de referência) NOVA: **PORTARIA Nº 411, DE 28 DE OUTUBRO DE 2026**: Dispõe sobre inclusão de valores de produtos na tabela de Valores de Referência.
+
 ## 2026-11-04 09:50
 
 - SEFAZ alterado: **ANEXO 49.pdf** (atualizado na fonte em 2026-11-04 09:09:59)

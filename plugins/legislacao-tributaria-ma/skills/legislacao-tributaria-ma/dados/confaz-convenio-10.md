@@ -6,7 +6,7 @@ numero: 133
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV133_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 133/05
@@ -401,7 +401,7 @@ numero: 133
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV133_08
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 133/08
@@ -619,7 +619,7 @@ numero: 133
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV133_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 133/13
@@ -649,7 +649,7 @@ numero: 133
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV133_16
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 133/16
@@ -679,7 +679,7 @@ numero: 133
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV133_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 133/19
@@ -1075,7 +1075,7 @@ numero: 133
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV133_20
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 133/20
@@ -1567,7 +1567,7 @@ numero: 133
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV133_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 133/21
@@ -1620,7 +1620,7 @@ numero: 133
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV133_22
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 133/22
@@ -1660,7 +1660,7 @@ numero: 133
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV133_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 133/23
@@ -1690,7 +1690,7 @@ numero: 134
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV134_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 134/02
@@ -1732,7 +1732,7 @@ numero: 134
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV134_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 134/06
@@ -1774,7 +1774,7 @@ numero: 134
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV134_10
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 134/10
@@ -1816,7 +1816,7 @@ numero: 134
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV134_12
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 134/12
@@ -1851,7 +1851,7 @@ numero: 134
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV134_14
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 134/14
@@ -1889,7 +1889,7 @@ numero: 134
 ano: 2016
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV134_16
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 134/16
@@ -2181,7 +2181,7 @@ numero: 134
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV134_17
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 134/17
@@ -2211,7 +2211,7 @@ numero: 135
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV135_01
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/01
@@ -2261,7 +2261,7 @@ numero: 135
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV135_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/02
@@ -2317,7 +2317,7 @@ numero: 135
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV135_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/05
@@ -2387,7 +2387,7 @@ numero: 135
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV135_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/06
@@ -2532,7 +2532,7 @@ numero: 135
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV135_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/07
@@ -2564,7 +2564,7 @@ numero: 135
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV135_10
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/10
@@ -2596,7 +2596,7 @@ numero: 135
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV135_12
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/12
@@ -2718,7 +2718,7 @@ numero: 135
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV135_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/13
@@ -2764,7 +2764,7 @@ numero: 135
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV135_14
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/14
@@ -2794,7 +2794,7 @@ numero: 135
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV135_20
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/20
@@ -2834,7 +2834,7 @@ numero: 135
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV135_25
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 135/25
@@ -2896,7 +2896,7 @@ numero: 136
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV136_93
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/93
@@ -2978,7 +2978,7 @@ numero: 136
 ano: 1994
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV136_94
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/94
@@ -3064,7 +3064,7 @@ numero: 136
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV136_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/05
@@ -3127,7 +3127,7 @@ numero: 136
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV136_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/06
@@ -3177,7 +3177,7 @@ numero: 136
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV136_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/07
@@ -3258,7 +3258,7 @@ numero: 136
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV136_08
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/08
@@ -3406,7 +3406,7 @@ numero: 136
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV136_10
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/10
@@ -3436,7 +3436,7 @@ numero: 136
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV136_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/13
@@ -3476,7 +3476,7 @@ numero: 136
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV136_14
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/14
@@ -3508,7 +3508,7 @@ numero: 136
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV136_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 136/19
@@ -3552,7 +3552,7 @@ numero: 136
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV136_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 136/21
@@ -3586,7 +3586,7 @@ numero: 137
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV137_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/05
@@ -3633,7 +3633,7 @@ numero: 137
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV137_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/06
@@ -3905,7 +3905,7 @@ numero: 137
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV137_08
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/08
@@ -3945,7 +3945,7 @@ numero: 137
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV137_10
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/10
@@ -3975,7 +3975,7 @@ numero: 137
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV137_12
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/12
@@ -4005,7 +4005,7 @@ numero: 137
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV137_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/13
@@ -4051,7 +4051,7 @@ numero: 137
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV137_20
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/20
@@ -4095,7 +4095,7 @@ numero: 137
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV137_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/21
@@ -4129,7 +4129,7 @@ numero: 137
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV137_24
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 137/24
@@ -4159,7 +4159,7 @@ numero: 138
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV138_01
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 138/01
@@ -5093,7 +5093,7 @@ numero: 138
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV138_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 138/05
@@ -5147,7 +5147,7 @@ numero: 138
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV138_08
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 138/08
@@ -5457,7 +5457,7 @@ numero: 138
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV138_11
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 138/11
@@ -5495,7 +5495,7 @@ numero: 138
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV138_12
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 138/12
@@ -5529,7 +5529,7 @@ numero: 138
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV138_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 138/13
@@ -5566,7 +5566,7 @@ numero: 138
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV138_14
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 138/14
@@ -5608,7 +5608,7 @@ numero: 138
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV138_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 138/19
@@ -5638,7 +5638,7 @@ numero: 138
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV138_22
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 138/22
@@ -5670,7 +5670,7 @@ numero: 139
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV139_03
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/03
@@ -5708,7 +5708,7 @@ numero: 139
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV139_04
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/04
@@ -5740,7 +5740,7 @@ numero: 139
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV139_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/05
@@ -5806,7 +5806,7 @@ numero: 139
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV139_11
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/11
@@ -5845,7 +5845,7 @@ numero: 139
 ano: 2012
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV139_12
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/12
@@ -5875,7 +5875,7 @@ numero: 139
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV139_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/13
@@ -5907,7 +5907,7 @@ numero: 139
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV139_14
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/14
@@ -5937,7 +5937,7 @@ numero: 139
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV139_15
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/15
@@ -5971,7 +5971,7 @@ numero: 139
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV139_18
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/18
@@ -6243,7 +6243,7 @@ numero: 139
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV139_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 139/21
@@ -6313,7 +6313,7 @@ numero: 140
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV140_01
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 140/01
@@ -6507,7 +6507,7 @@ numero: 140
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV140_10
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 140/10
@@ -6545,7 +6545,7 @@ numero: 140
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV140_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 140/13
@@ -6593,7 +6593,7 @@ numero: 140
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV140_14
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 140/14
@@ -6625,7 +6625,7 @@ numero: 140
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV140_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 140/19
@@ -6655,7 +6655,7 @@ numero: 141
 ano: 2001
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV141_01
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 141/01
@@ -6707,7 +6707,7 @@ numero: 141
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV141_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 141/02
@@ -6751,7 +6751,7 @@ numero: 141
 ano: 2004
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV141_04
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 141/04
@@ -6793,7 +6793,7 @@ numero: 141
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV141_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 141/06
@@ -6844,7 +6844,7 @@ numero: 141
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV141_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 141/07
@@ -6878,7 +6878,7 @@ numero: 141
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV141_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 141/13
@@ -6906,7 +6906,7 @@ numero: 141
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV141_22
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 141/22
@@ -6969,7 +6969,7 @@ numero: 142
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV142_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/02
@@ -7476,7 +7476,7 @@ numero: 142
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV142_03
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/03
@@ -7512,7 +7512,7 @@ numero: 142
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV142_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/07
@@ -7544,7 +7544,7 @@ numero: 142
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV142_11
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/11
@@ -7878,7 +7878,7 @@ numero: 142
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV142_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/13
@@ -7908,7 +7908,7 @@ numero: 142
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/18
@@ -10748,7 +10748,7 @@ numero: 142
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV142_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 142/19
@@ -10778,7 +10778,7 @@ numero: 142
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV142_20
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/20
@@ -10822,7 +10822,7 @@ numero: 142
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV142_24
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/24
@@ -10854,7 +10854,7 @@ numero: 142
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV142_25
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 142/25
@@ -10897,7 +10897,7 @@ numero: 143
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/cv143_92
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/92
@@ -10943,7 +10943,7 @@ numero: 143
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV143_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/02
@@ -11027,7 +11027,7 @@ numero: 143
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV143_03
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/03
@@ -11061,7 +11061,7 @@ numero: 143
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV143_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/05
@@ -11107,7 +11107,7 @@ numero: 143
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV143_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/06
@@ -11209,7 +11209,7 @@ numero: 143
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV143_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/07
@@ -11259,7 +11259,7 @@ numero: 143
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV143_10
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/10
@@ -11405,7 +11405,7 @@ numero: 143
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV143_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/13
@@ -11463,7 +11463,7 @@ numero: 143
 ano: 2014
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV143_14
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/14
@@ -11495,7 +11495,7 @@ numero: 143
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV143_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/21
@@ -11539,7 +11539,7 @@ numero: 143
 ano: 2022
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV143_22
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/22
@@ -11569,7 +11569,7 @@ numero: 143
 ano: 2024
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV143_24
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/24
@@ -11607,7 +11607,7 @@ numero: 143
 ano: 2025
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV143_25
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 143/25
@@ -11678,7 +11678,7 @@ numero: 144
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV144_93
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 144/93
@@ -11716,7 +11716,7 @@ numero: 144
 ano: 2003
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV144_03
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 144/03
@@ -11760,7 +11760,7 @@ numero: 144
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV144_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 144/07
@@ -11794,7 +11794,7 @@ numero: 144
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV144_10
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 144/10
@@ -11822,7 +11822,7 @@ numero: 144
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV144_11
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 144/11
@@ -11916,7 +11916,7 @@ numero: 144
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV144_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 144/13
@@ -11946,7 +11946,7 @@ numero: 144
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV144_18
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 144/18
@@ -11984,7 +11984,7 @@ numero: 144
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV144_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 144/19
@@ -12014,7 +12014,7 @@ numero: 144
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV144_20
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 144/20
@@ -12052,7 +12052,7 @@ numero: 145
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV145_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 145/07
@@ -12086,7 +12086,7 @@ numero: 145
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV145_08
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 145/08
@@ -12126,7 +12126,7 @@ numero: 145
 ano: 2011
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV145_11
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 145/11
@@ -12164,7 +12164,7 @@ numero: 145
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV145_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 145/13
@@ -12346,7 +12346,7 @@ numero: 146
 ano: 1993
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV146_93
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/93
@@ -12402,7 +12402,7 @@ numero: 146
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV146_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/02
@@ -12442,7 +12442,7 @@ numero: 146
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV146_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/06
@@ -12480,7 +12480,7 @@ numero: 146
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV146_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/07
@@ -12524,7 +12524,7 @@ numero: 146
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV146_08
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/08
@@ -12556,7 +12556,7 @@ numero: 146
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV146_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/13
@@ -12616,7 +12616,7 @@ numero: 146
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV146_15
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/15
@@ -13769,7 +13769,7 @@ numero: 146
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV146_18
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/18
@@ -13801,7 +13801,7 @@ numero: 146
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV146_20
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/20
@@ -13844,7 +13844,7 @@ numero: 146
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV146_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 146/23
@@ -13904,7 +13904,7 @@ numero: 147
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV147_92
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 147/92
@@ -13996,7 +13996,7 @@ numero: 147
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV147_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 147/02
@@ -14098,7 +14098,7 @@ numero: 147
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV147_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 147/05
@@ -14196,7 +14196,7 @@ numero: 147
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV147_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 147/06
@@ -14240,7 +14240,7 @@ numero: 147
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV147_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 147/07
@@ -14322,7 +14322,7 @@ numero: 147
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV147_15
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 147/15
@@ -14350,7 +14350,7 @@ numero: 147
 ano: 2020
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV147_20
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 147/20
@@ -14382,7 +14382,7 @@ numero: 147
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV147_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 147/23
@@ -14433,7 +14433,7 @@ numero: 148
 ano: 1992
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV148_92
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/92
@@ -14553,7 +14553,7 @@ numero: 148
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV148_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/02
@@ -14674,7 +14674,7 @@ numero: 148
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV148_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/06
@@ -14723,7 +14723,7 @@ numero: 148
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV148_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/07
@@ -14967,7 +14967,7 @@ numero: 148
 ano: 2010
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV148_10
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/10
@@ -15009,7 +15009,7 @@ numero: 148
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV148_15
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/15
@@ -15041,7 +15041,7 @@ numero: 148
 ano: 2018
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV148_18
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/18
@@ -15073,7 +15073,7 @@ numero: 148
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV148_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/21
@@ -15123,7 +15123,7 @@ numero: 148
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV148_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 148/23
@@ -15153,7 +15153,7 @@ numero: 149
 ano: 2002
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV149_02
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 149/02
@@ -15193,7 +15193,7 @@ numero: 149
 ano: 2005
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV149_05
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 149/05
@@ -15235,7 +15235,7 @@ numero: 149
 ano: 2006
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV149_06
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 149/06
@@ -15405,7 +15405,7 @@ numero: 149
 ano: 2007
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV149_07
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 149/07
@@ -15437,7 +15437,7 @@ numero: 149
 ano: 2008
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV149_08
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 149/08
@@ -15487,7 +15487,7 @@ numero: 149
 ano: 2013
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV149_13
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 149/13
@@ -15565,7 +15565,7 @@ numero: 149
 ano: 2015
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV149_15
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 149/15
@@ -15623,7 +15623,7 @@ numero: 149
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV149_17
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 149/17

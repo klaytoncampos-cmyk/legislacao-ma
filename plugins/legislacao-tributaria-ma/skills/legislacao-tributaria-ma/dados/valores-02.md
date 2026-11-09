@@ -3,9 +3,9 @@
 documento: "Tabela de Valores de Referência: bebidas: cervejas e chopes"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-05"
-portarias: 250
-registros: 24534
+gerado_em: "2026-11-09"
+portarias: 251
+registros: 24536
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: cervejas e chopes
@@ -17,10 +17,10 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-05**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
-## Valores vigentes (1712)
+## Valores vigentes (1714)
 
 Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca de código e sem ausência em relação completa posterior.
 
@@ -364,6 +364,8 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 50625 | Cerveja Cerpa Tijuca Puro Malte - Lata 350 ml | und | 4,15 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 50623 | Cerveja Cerpa Tijuca Puro Malte – Long Neck 350 ml | und | 6,77 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 50619 | Cerpa Tijuca Puro Malte (retornável 600 ml) | und | 5,51 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 50309 | Cerveja HB Lager Nacional – Vidro Descartavel 500 ml |  | 14,90 | 2026-11-04 (pub.) | Port. 411/2026 |
+| 50310 | Cerveja HB Weisse Nacional – Vidro Descartavel 500 ml |  | 14,90 | 2026-11-04 (pub.) | Port. 411/2026 |
 | 50651 | Chopp Agnes 08 (1 L) | und | 11,92 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 54299 | Chopp Agnes 08 (barril 50 L) | und | 595,00 | 2026-05-01 (efeitos) | Port. 170/2026 |
 | 54292 | Chopp Agnes Apa (1 L) (⚠ este código já designou: Chopp Agnes Puro Malte (barril 50 L)) | und | 12,92 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -13530,6 +13532,12 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2021-07-13 (pub.) | 2021-07-08 | incluir | 10,10 |  |  | Cerveja Gota Serena Sour – Descartavel 500 ml | Port. 261/2021 |
 
+### Cerveja HB Lager Nacional – Vidro Descartavel 500 ml (código 50309)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2026-11-04 (pub.) | 2026-10-28 | incluir | 14,90 |  |  | Cerveja HB Lager Nacional – Vidro Descartavel 500 ml | Port. 411/2026 |
+
 ### Cerveja HB Weissbier Dunkel ( Schwarze ) - Garrafa 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -13541,6 +13549,12 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2025-10-15 (assin.) | 2025-10-15 | incluir | 14,90 |  |  | Cerveja HB Weissbier Lager - Lata 500 ml | Port. 366/2025 |
+
+### Cerveja HB Weisse Nacional – Vidro Descartavel 500 ml (código 50310)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2026-11-04 (pub.) | 2026-10-28 | incluir | 14,90 |  |  | Cerveja HB Weisse Nacional – Vidro Descartavel 500 ml | Port. 411/2026 |
 
 ### Cerveja Heineken 0% - Descartavel 330 ml (código —)
 
@@ -45357,3 +45371,4 @@ Links para o texto de cada portaria usada acima.
 - Port. 349/2026: [Portaria nº 349/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6d5eb711-b90b-49eb-8a79-5b0718d9f9c9), vigência 2026-09-21 (pub.)
 - Port. 368/2026: [Portaria nº 368/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6c6e65e0-3bc2-4344-acb6-6087ca16bf07), vigência 2026-10-01 (pub.)
 - Port. 402/2026: [Portaria nº 402/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c97c66f2-9051-4f91-a763-ac27b07ba5e5), vigência 2026-11-01 (efeitos)
+- Port. 411/2026: [Portaria nº 411/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=057b095e-9af9-4a90-9c71-a0e5d6594524), vigência 2026-11-04 (pub.)

@@ -1,7 +1,7 @@
 <<<DOC catalogo/normas.md>>>
 # Catálogo: normas complementares da SEFAZ-MA
 
-1828 portarias, resoluções administrativas, decretos e instruções normativas cujo texto remete ao RICMS, a anexo do RICMS ou ao CTE. Situação: *vigente* = nenhuma revogação identificada no texto das outras normas da base (não é garantia); **REVOGADA** / *parcialmente revogada* = revogação encontrada em outra norma (detalhe no cabeçalho do arquivo); *alteradora* = só altera o RICMS/anexo (alteração já incorporada no texto consolidado).
+1827 portarias, resoluções administrativas, decretos e instruções normativas cujo texto remete ao RICMS, a anexo do RICMS ou ao CTE. Situação: *vigente* = nenhuma revogação identificada no texto das outras normas da base (não é garantia); **REVOGADA** / *parcialmente revogada* = revogação encontrada em outra norma (detalhe no cabeçalho do arquivo); *alteradora* = só altera o RICMS/anexo (alteração já incorporada no texto consolidado).
 
 | arquivo | tipo | data | ementa | remete a | situação |
 |---|---|---|---|---|---|
@@ -1297,7 +1297,6 @@
 | normas/portaria/portaria-361-2025-22639.md | portaria | 2025-10-13 | Dispõe sobre normas gerais de credenciamento, quando exigível, para a obtenção de benefício fiscal ou condição especial concedida ao contribuinte pelo poder público no âmbito da Secretaria de Fazenda  | CTE | vigente |
 | normas/portaria/portaria-405-2025-23007.md | portaria | 2025-11-28 | Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2026, e dá outras providências. | CTE | vigente |
 | normas/portaria/portaria-410-2025-23042.md | portaria | 2025-12-03 | Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS. | Anexo 4.24, RICMS | PARCIALMENTE REVOGADA |
-| normas/portaria/portaria-410-2025-24704.md | portaria | 2025-12-03 | Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS. | Anexo 4.24, RICMS | PARCIALMENTE REVOGADA |
 | normas/portaria/portaria-033-2026-23227.md | portaria | 2026-01-16 | Prorroga, excepcionalmente o prazos para a transmissão dos arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF e da Escrituração Fiscal Digital – EFD, e para o pagamento do ICMS, r | RICMS | vigente |
 | normas/portaria/portaria-110-2026-23557.md | portaria | 2026-03-10 | Altera a Portaria nº 449/2021-GABIN relativamente à delegação de competência para autorização de restituição de tributos. | CTE | vigente |
 | normas/portaria/portaria-109-2026-23558.md | portaria | 2026-03-10 | Aprova o Procedimento Operacional Padrão para o cálculo dos Índices de Participação dos Municípios – POP/IPM nº 01/2026. | RICMS | vigente |

@@ -6,7 +6,7 @@ numero: 217
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV217_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 217/23
@@ -144,7 +144,7 @@ numero: 218
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV218_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 218/21
@@ -279,7 +279,7 @@ numero: 218
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV218_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 218/23
@@ -311,7 +311,7 @@ numero: 219
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV219_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 219/23
@@ -357,7 +357,7 @@ numero: 220
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV220_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 220/19
@@ -477,7 +477,7 @@ numero: 223
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV223_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 223/21
@@ -509,7 +509,7 @@ numero: 224
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV224_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 224/19
@@ -549,7 +549,7 @@ numero: 224
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV224_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 224/21
@@ -671,7 +671,7 @@ numero: 225
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV225_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 225/21
@@ -711,7 +711,7 @@ numero: 225
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV225_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 225/23
@@ -741,7 +741,7 @@ numero: 226
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV226_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 226/21
@@ -775,7 +775,7 @@ numero: 226
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV226_23
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 226/23
@@ -1321,7 +1321,7 @@ numero: 228
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV228_17
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 228/17
@@ -1351,7 +1351,7 @@ numero: 228
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV228_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 228/19
@@ -1447,7 +1447,7 @@ numero: 228
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV228_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 228/21
@@ -1481,7 +1481,7 @@ numero: 230
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV230_17
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 230/17
@@ -1513,7 +1513,7 @@ numero: 230
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV230_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 230/21
@@ -1545,7 +1545,7 @@ numero: 231
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV231_17
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 231/17
@@ -1575,7 +1575,7 @@ numero: 232
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV232_17
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 232/17
@@ -1607,7 +1607,7 @@ numero: 234
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV234_17
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 234/17
@@ -1758,7 +1758,7 @@ numero: 234
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV234_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 234/19
@@ -1788,7 +1788,7 @@ numero: 235
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV235_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 235/19
@@ -1818,7 +1818,7 @@ numero: 236
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV236_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 236/19
@@ -1848,7 +1848,7 @@ numero: 236
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV236_21
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # CONVÊNIO ICMS 236/21
@@ -1954,7 +1954,7 @@ numero: 240
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV240_19
-extraido_em: "2026-11-04"
+extraido_em: "2026-11-09"
 ---
 
 # Convênio ICMS 240/19
