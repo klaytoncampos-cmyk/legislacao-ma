@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: produtos agrícolas (Grupo 01: arroz, feijão, farinhas, macarrão, biscoitos, babaçu, milho, soja, sementes, mel, castanhas, carvão e outros)"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 60
 registros: 2072
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (228)
@@ -4134,7 +4134,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: bebidas: águas minerais, adicionadas de sais e saborizadas"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 200
 registros: 2183
 ---
@@ -4148,7 +4148,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (457)
@@ -6197,7 +6197,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-11-20 (pub.) | 2020-11-17 | alterar | 0,46 |  |  | Água Adicionada de Sais San Sebastian - Copo 200 ml | Port. 355/2020 |
+| 2020-11-20 (pub.) | 2020-11-17 | alterar | 0,46 |  |  | Água Adicionada de Sais San Sebastian - Copo 200 ml | Port. 335/2020 |
 | 2020-11-20 (pub.) | 2020-11-17 | alterar | 0,46 | +0.0% |  | Água Adicionada de Sais San Sebastian - Copo 200 ml | Port. 355/2020 |
 | 2022-12-19 (pub.) | 2022-12-12 | alterar | 0,69 | +50.0% |  | Água Adicionada de Sais San Sebastian - Copo 200 ml | Port. 695/2022 |
 
@@ -6205,7 +6205,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-11-20 (pub.) | 2020-11-17 | alterar | 0,72 |  |  | Água Adicionada de Sais San Sebastian - Pet 510 ml | Port. 355/2020 |
+| 2020-11-20 (pub.) | 2020-11-17 | alterar | 0,72 |  |  | Água Adicionada de Sais San Sebastian - Pet 510 ml | Port. 335/2020 |
 | 2020-11-20 (pub.) | 2020-11-17 | alterar | 0,72 | +0.0% |  | Água Adicionada de Sais San Sebastian - Pet 510 ml | Port. 355/2020 |
 
 ### Agua Adicionada de Sais San Sebastian 20.000 ml (código —)
@@ -6274,7 +6274,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-11-20 (pub.) | 2020-11-17 | alterar | 1,52 |  |  | Água Adicionada de Sais San Sebastian – Pet 1.500 ml | Port. 355/2020 |
+| 2020-11-20 (pub.) | 2020-11-17 | alterar | 1,52 |  |  | Água Adicionada de Sais San Sebastian – Pet 1.500 ml | Port. 335/2020 |
 | 2020-11-20 (pub.) | 2020-11-17 | alterar | 1,52 | +0.0% |  | Água Adicionada de Sais San Sebastian – Pet 1.500 ml | Port. 355/2020 |
 
 ### Água Adicionada de Sais Sarah - Pet 20.000 ml (código —)
@@ -14024,7 +14024,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 168/2020: [Portaria nº 168/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=644fc44d-5cbc-4ccd-aac0-7d29bb5485ac), vigência 2020-06-30 (pub.)
 - Port. 232/2020: [Portaria nº 232/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=17bb79c2-ebdf-4665-961c-2b7b018a0d24), vigência 2020-08-13 (pub.)
 - Port. 328/2020: [Portaria nº 328/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6bb3431e-0631-4f97-9e2a-9a52e565d0a5), vigência 2020-10-29 (pub.)
-- Port. 355/2020: [Portaria nº 355/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4170e1e4-b2e4-4ad6-8d00-22762ecfb070), vigência 2020-11-20 (pub.)
+- Port. 335/2020: [Portaria nº 335/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4170e1e4-b2e4-4ad6-8d00-22762ecfb070), vigência 2020-11-20 (pub.)
 - Port. 355/2020: [Portaria nº 355/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=97f4e3a8-4664-4384-a2c3-0f78f08e7e51), vigência 2020-11-20 (pub.)
 - Port. 140/2021: [Portaria nº 140/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=471e812a-c5ea-4916-876f-9fe810015305), vigência 2021-04-16 (pub.)
 - Port. 168/2021: [Portaria nº 168/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=55b5c38d-9ab2-485e-9083-b99b726820e6), vigência 2021-05-07 (pub.)

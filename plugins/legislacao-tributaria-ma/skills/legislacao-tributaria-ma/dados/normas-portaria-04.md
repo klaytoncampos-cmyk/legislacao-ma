@@ -7,8 +7,8 @@ data: "2021-11-10"
 ementa: "Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no anexo único desta Portaria, da apresentação da DIEF."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=278e5744-7b64-49cc-99b5-8944a86a0a91
-atualizado_na_fonte: "2025-08-11 17:46:03"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-19 09:57:51"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3106,8 +3106,8 @@ data: "2008-12-04"
 ementa: "Os valores do Imposto sobre a Propriedade de Veículos Automotores – IPVA, expressos em moeda corrente - REAL, para efeito de cobrança desse tributo, relativo ao exercício de 2009, na hipótese de renovação anual de licenciamento, são os constantes da tabela do Anexo I desta Portaria."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=43f50204-4466-487e-8136-3a16acec37e9
-atualizado_na_fonte: "2025-06-23 14:52:34"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 10:24:12"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3185,8 +3185,8 @@ data: "2011-09-20"
 ementa: "Deverá ser cobrado antecipadamente na primeira unidade fazendária deste Estado, por onde circularem as mercadorias, o ICMS - Substituição Tributária nas operações interestaduais de entrada de vinhos e sidras, bebidas quentes e aguardentes destinadas a contribuintes maranhenses."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96a90703-931a-415e-a3d8-4c8ab666447e
-atualizado_na_fonte: "2025-06-23 18:35:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:38:51"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 4.32, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3239,8 +3239,8 @@ data: "2011-09-20"
 ementa: "Deverá ser cobrado antecipadamente na primeira unidade fazendária deste Estado, por onde circularem as mercadorias, o ICMS - Substituição Tributária nas operações interestaduais de entrada de açúcar de cana destinadas a contribuintes maranhenses."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=09be636d-f8a0-4f5b-82b0-c97e77a86eb4
-atualizado_na_fonte: "2025-06-23 18:37:23"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:38:44"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3290,7 +3290,7 @@ ementa: "Dispõe sobre a concessão de crédito presumido de ICMS, nas operaçõ
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=958fca1c-ab0d-481b-829a-8f88f7af5b85
 atualizado_na_fonte: "2026-10-15 10:38:51"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3362,8 +3362,8 @@ data: "2011-09-20"
 ementa: "Alterar o percentual do crédito a glosar dos produtos abaixo especificados, incluídos no anexo único da Portaria nº 523/2009, de 29 de dezembro de 2009."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e9dc4d6e-d685-49fb-951f-93dee6a8d398
-atualizado_na_fonte: "2025-09-23 17:17:59"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:38:30"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3410,21 +3410,21 @@ SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 20 DE SETEMBRO DE 2011.
 MARIA DE FÁTIMA PEREIRA DA SILVA Secretária de Estado da Fazenda, em exercício
 <<<DOC normas/portaria/portaria-501-2022-20874.md>>>
 ---
-documento: "PORTARIA 501, DE 21 DE SETEMBRO DE 2022"
+documento: "PORTARIA Nº 501, DE 21 DE SETEMBRO DE 2022"
 tipo: portaria
 numero: 501
 data: "2022-09-21"
 ementa: "Altera o Anexo III da Portaria 535/ 2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0cdd1c7b-9fab-426a-98fc-1819348d874f
-atualizado_na_fonte: "2025-08-22 15:04:54"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-21 09:36:07"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA 501, DE 21 DE SETEMBRO DE 2022
+# PORTARIA Nº 501, DE 21 DE SETEMBRO DE 2022
 
 _Altera o Anexo III da Portaria 535/ 2015 - GABIN._
 
@@ -3495,7 +3495,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=605fa924-96a2-438e-953a-72f9dffb412a
 atualizado_na_fonte: "2026-10-09 18:57:39"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3573,8 +3573,8 @@ data: "2017-11-01"
 ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de vinhos e similares."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2bb1b874-e31c-48bd-812b-4407abd2e48f
-atualizado_na_fonte: "2025-07-03 14:05:00"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-22 09:40:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3632,7 +3632,7 @@ ementa: "Dispõe sobre prazo para recadastramento de contribuintes produtores ru
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=584ea88f-c7f2-4b82-a359-767fad272862
 atualizado_na_fonte: "2026-10-15 10:40:40"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3693,8 +3693,8 @@ data: "2017-11-07"
 ementa: "Dispõe sobre os requisitos e procedimentos concernentes ao credenciamento de contribuinte local envasador de água mineral natural, natural e adicionada de sais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e392a827-cfad-403e-82fd-bfe2723456e8
-atualizado_na_fonte: "2025-07-03 14:06:30"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-22 09:39:18"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3797,8 +3797,8 @@ data: "2009-12-29"
 ementa: "Dispõe sobre a cobrança complementar do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), provenientes de operações ou prestações amparadas por benefícios fiscais do ICMS não autorizados por convênio celebrado nos termos da Lei Complementar nº 24, de 7/1/1975."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=73f61b9c-0b1a-4c67-a687-9d904672817b
-atualizado_na_fonte: "2025-06-23 15:58:48"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:57:52"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -3901,7 +3901,7 @@ ementa: "Institui o Sistema de Fiscalização e Monitoramento do Agronegócio �
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fae7c837-dcb8-40ec-b821-9370b0b7fb2a
 atualizado_na_fonte: "2026-10-15 10:57:58"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.3, Anexo 1.5, RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0

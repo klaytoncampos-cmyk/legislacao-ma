@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: sucos, néctares, chás, bebidas mistas e outras"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 47
 registros: 1130
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2005.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (38)
@@ -81,7 +81,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 
 | código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
 |---|---|---|---|---|
-| — | 02.02.26.0056 Citrus Indaiá 2000 ml | 3,00 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | 02.02.26.0056 Citrus Indaiá 2000 ml | 3,00 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bebida Mista Psiu Frutas Cítricas 250 ml | 1,60 | 2016-11-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bebida Mista Psiu Frutas Uvas 250 ml | 1,60 | 2016-11-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bebida Mista Psiu Frutas Vermelhas 250 ml | 1,60 | 2016-11-21 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -114,32 +114,32 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | BEBIDA REFRES. TTOSV BOLEADOR GAUCHO 7,5% 700 ml | 3,50 | 2014-07-15 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Citrus Indaiá - 1000 ml | 3,03 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Frutico Frutas Citricas – 2000 ml | 4,48 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Indaia (400 a 600 ml) | 3,15 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Indaia (até 399 ml) | 1,70 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Indaiá 1000 ml | 2,95 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Indaia (400 a 600 ml) | 3,15 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Indaia (até 399 ml) | 1,70 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá 1000 ml | 2,95 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Indaiá Cit Acerola Tetra Pak - 200 ml | 1,07 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Indaiá Cit Acerola Tetra Pak-1000 ml | 3,58 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Indaiá Cit Laranja Tetra Pak – 200 ml | 1,07 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Indaiá Cit Laranja Tetra Pak- 1000 ml | 3,58 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Indaiá Cit Manga Tetra Pak – 1000 ml | 3,58 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Indaiá Cit Uva Tetra Pak – 1000 ml | 3,58 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Indaiá Citrus Acerola Tetra Pak - 200 (até 399 ml) | 0,88 | 2015-03-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá Citrus Acerola Tetra Pak - 200 (até 399 ml) | 0,88 | 2015-05-29 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48170 | Indaiá Citrus Acerola Tetra Pak - 200 ml | 1,37 | 2022-09-01 | sem atualização desde 2022 e fora da relação completa da Portaria nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45621 | Indaiá Citrus Acerola Tetra Pak-1000 ml | 4,57 | 2022-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45114 | Indaiá Citrus Acerola- 1000 ml | 4,54 | 2022-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45641 | Indaiá Citrus Acerola- 2000 ml | 4,64 | 2022-09-01 | sem atualização desde 2022 e fora da relação completa da Portaria nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Indaiá Citrus Laranja Tetra Pak – 200 (até 399 ml) | 0,88 | 2015-03-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá Citrus Laranja Tetra Pak – 200 (até 399 ml) | 0,88 | 2015-05-29 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48171 | Indaiá Citrus Laranja Tetra Pak –200 ml | 1,37 | 2022-09-01 | sem atualização desde 2022 e fora da relação completa da Portaria nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45620 | Indaiá Citrus Laranja Tetra Pak- 1000 ml | 4,18 | 2021-09-22 | substituído pelo código 53073 (Indaiá Citrus Laranja Tetra Pak- 1000 ml) a partir de 2022-09-01; valeu até 2022-08-31 |
 | 53073 | Indaiá Citrus Laranja Tetra Pak- 1000 ml | 4,57 | 2022-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45115 | Indaiá Citrus Laranja – 1000 ml | 4,54 | 2022-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45629 | Indaiá Citrus Laranja- 2000 ml | 4,64 | 2022-09-01 | sem atualização desde 2022 e fora da relação completa da Portaria nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45619 | Indaiá Citrus Manga Tetra Pak – 1000 ml | 4,57 | 2022-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Indaiá Citrus Manga Tetra Pak – 200 (até 399 ml) | 0,88 | 2015-03-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá Citrus Manga Tetra Pak – 200 (até 399 ml) | 0,88 | 2015-05-29 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48172 | Indaiá Citrus Manga Tetra Pak – 200 ml | 1,37 | 2022-09-01 | sem atualização desde 2022 e fora da relação completa da Portaria nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45100 | Indaiá Citrus Manga – 1000 ml | 4,54 | 2022-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45630 | Indaiá Citrus Manga- 2000 ml | 4,64 | 2022-09-01 | sem atualização desde 2022 e fora da relação completa da Portaria nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Indaiá Citrus Uva Tetra Pak - 1000 (1 a 2 L) | 3,07 | 2015-03-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá Citrus Uva Tetra Pak - 1000 (1 a 2 L) | 3,07 | 2015-05-29 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45113 | Indaiá Citrus Uva Tetra Pak – 1000 ml | 4,57 | 2022-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48173 | Indaiá Citrus Uva Tetra Pak – 200 ml | 1,37 | 2022-09-01 | sem atualização desde 2022 e fora da relação completa da Portaria nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45123 | Indaiá Citrus Uva – 1000 ml | 4,54 | 2022-09-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -175,11 +175,11 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Schin Frutas Vermelhas (400 a 600 ml) | 2,24 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Skinka (400 a 600 ml) | 1,29 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | skinka - 500 ml | 2,13 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Sukita (400 a 600 ml) | 1,97 | 2015-03-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Sukita (400 a 600 ml) | 1,97 | 2015-03-23 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49789 | Sukita Laranja – 500 ml | 3,28 | 2022-09-01 | sem atualização desde 2022 e fora da relação completa da Portaria nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sukita – 500 ml | 2,36 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Tampico (400 a 600 ml) | 1,65 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Tampico (até 399 ml) | 1,80 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Tampico (400 a 600 ml) | 1,65 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Tampico (até 399 ml) | 1,80 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Tampico - 1000 ml | 3,44 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50317 | Tampico Citrus – 1000 ml | 2,85 | 2019-11-12 | substituído pelo código 45317 (Tampico Citrus– 1000 ml) a partir de 2021-09-22; valeu até 2021-09-21 |
 | 50318 | Tampico Uva - 1000 ml | 2,85 | 2019-11-12 | substituído pelo código 51286 (Tampico Uva- 1000 ml) a partir de 2021-09-22; valeu até 2021-09-21 |
@@ -189,8 +189,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Tampico – 330 ml | 1,94 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Tampico – 450 ml | 2,29 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Tampico – 500 ml | 2,34 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Toda Hora (400 a 600 ml) | 1,65 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Toda Hora (até 399 ml) | 1,80 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Toda Hora (400 a 600 ml) | 1,65 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Toda Hora (até 399 ml) | 1,80 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Toda Hora - 1000 ml | 4,42 | 2016-10-31 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Toda Hora – 500 ml | 2,13 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Uvinha - Bebida Mista 310 ml | 1,29 | 2016-04-13 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -443,8 +443,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,50 |  | und | Citrus Indaiá 1000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 | +0.0% | und | Citrus Indaiá - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +4.0% | und | Citrus Indaiá - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +0.0% | und | Citrus Indaiá - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +4.0% | und | Citrus Indaiá - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | +0.0% | und | Citrus Indaiá - 1000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,72 | +4.6% | und | Citrus Indaiá - 1000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,72 | +0.0% | und | Citrus Indaiá - 1000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,03 | +11.4% | Und | Citrus Indaiá - 1000 ml | Port. 397/2016 |
@@ -556,8 +556,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,70 |  | und | Indaia Citrus Acerola - 330 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,77 | +4.1% | und | Indaia Citrus Acerola - 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +0.0% | und | Indaia Citrus Acerola - 330 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +4.1% | und | Indaia Citrus Acerola - 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,77 | +0.0% | und | Indaia Citrus Acerola - 330 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,85 | +4.5% | und | Indaia Citrus Acerola - 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,85 | +0.0% | und | Indaia Citrus Acerola - 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,08 | +12.4% | und | Indaia Citrus Acerola - 330 ml | Port. 397/2016 |
@@ -576,8 +576,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,88 |  | und | Indaiá Citrus Acerola Tetra Pak - 200 (até 399 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,88 | +0.0% | und | Indaiá Citrus Acerola Tetra Pak - 200 (até 399 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,88 |  | und | Indaiá Citrus Acerola Tetra Pak - 200 (até 399 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,88 | +0.0% | und | Indaiá Citrus Acerola Tetra Pak - 200 (até 399 ml) | Port. 157/2015 |
 
 ### Indaiá Citrus Acerola Tetra Pak - 200 ml (código 48170)
 
@@ -599,8 +599,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,95 |  | und | Indaiá Citrus Acerola Tetra Pak - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Acerola Tetra Pak - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Acerola Tetra Pak - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Acerola Tetra Pak - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Acerola Tetra Pak - 1000 ml | Port. 157/2015 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,58 | +16.6% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,47 | -58.9% | ml | Indaiá Citrus Acerola Tetra Pak-1000 (1 a 2 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,67 | +149.7% | und | Indaiá Citrus Acerola Tetra Pak-1000 ml ⚠ | Port. 147/2018 |
@@ -616,8 +616,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,95 |  | und | Indaiá Citrus Acerola - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Acerola - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Acerola - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Acerola - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Acerola - 1000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,20 | +4.2% | und | Indaiá Citrus Acerola - 1000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,20 | +0.0% | und | Indaiá Citrus Acerola - 1000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,56 | +11.3% | Und | Indaiá Citrus Acerola - 1000 ml | Port. 397/2016 |
@@ -636,8 +636,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,00 |  | und | Indaiá Citrus Acerola - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,12 | +4.0% | und | Indaiá Citrus Acerola - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +0.0% | und | Indaiá Citrus Acerola - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +4.0% | und | Indaiá Citrus Acerola - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,12 | +0.0% | und | Indaiá Citrus Acerola - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +4.5% | und | Indaiá Citrus Acerola - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,26 | +0.0% | und | Indaiá Citrus Acerola - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,63 | +11.3% | Und | Indaiá Citrus Acerola - 2000 ml | Port. 397/2016 |
@@ -656,8 +656,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,70 |  | und | Indaia Citrus Laranja - 330 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,77 | +4.1% | und | Indaia Citrus Laranja - 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +0.0% | und | Indaia Citrus Laranja - 330 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +4.1% | und | Indaia Citrus Laranja - 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,77 | +0.0% | und | Indaia Citrus Laranja - 330 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,85 | +4.5% | und | Indaia Citrus Laranja - 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,85 | +0.0% | und | Indaia Citrus Laranja - 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,08 | +12.4% | und | Indaia Citrus Laranja - 330 ml | Port. 397/2016 |
@@ -676,8 +676,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,88 |  | und | Indaiá Citrus Laranja Tetra Pak – 200 (até 399 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,88 | +0.0% | und | Indaiá Citrus Laranja Tetra Pak – 200 (até 399 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,88 |  | und | Indaiá Citrus Laranja Tetra Pak – 200 (até 399 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,88 | +0.0% | und | Indaiá Citrus Laranja Tetra Pak – 200 (até 399 ml) | Port. 157/2015 |
 
 ### Indaiá Citrus Laranja Tetra Pak –200 ml (código 48171)
 
@@ -699,8 +699,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,95 |  | und | Indaiá Citrus Laranja Tetra Pak - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Laranja Tetra Pak - (1 a 2 L) ⚠ | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Laranja Tetra Pak - (1 a 2 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Laranja Tetra Pak - (1 a 2 L) ⚠ | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Laranja Tetra Pak - (1 a 2 L) | Port. 157/2015 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,58 | +16.6% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml ⚠ | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,47 | -58.9% | ml | Indaiá Citrus Laranja Tetra Pak- 1000 (1 a 2 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,67 | +149.7% | und | Indaiá Citrus Laranja Tetra Pak- 1000 ml ⚠ | Port. 147/2018 |
@@ -721,8 +721,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,95 |  | und | Indaiá Citrus Laranja - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Laranja - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Laranja - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Laranja - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Laranja - 1000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,20 | +4.2% | und | Indaiá Citrus Laranja - 1000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,20 | +0.0% | und | Indaiá Citrus Laranja - 1000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,56 | +11.3% | Und | Indaiá Citrus Laranja – 1000 ml | Port. 397/2016 |
@@ -741,8 +741,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,00 |  | und | Indaiá Citrus Laranja - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,12 | +4.0% | und | Indaiá Citrus Laranja - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +0.0% | und | Indaiá Citrus Laranja - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +4.0% | und | Indaiá Citrus Laranja - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,12 | +0.0% | und | Indaiá Citrus Laranja - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +4.5% | und | Indaiá Citrus Laranja - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,26 | +0.0% | und | Indaiá Citrus Laranja - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,63 | +11.3% | Und | Indaiá Citrus Laranja - 2000 ml | Port. 397/2016 |
@@ -761,8 +761,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,70 |  | und | Indaia Citrus Manga - 330 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,77 | +4.1% | und | Indaia Citrus Manga - 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +0.0% | und | Indaia Citrus Manga - 330 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +4.1% | und | Indaia Citrus Manga - 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,77 | +0.0% | und | Indaia Citrus Manga - 330 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,85 | +4.5% | und | Indaia Citrus Manga - 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,85 | +0.0% | und | Indaia Citrus Manga - 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,08 | +12.4% | und | Indaia Citrus Manga - 330 ml | Port. 397/2016 |
@@ -789,8 +789,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,95 |  | und | Indaiá Citrus Manga Tetra Pak - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Manga Tetra Pak - 1000 (1 a 2 L) ⚠ | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Manga Tetra Pak - 1000 (1 a 2 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Manga Tetra Pak - 1000 (1 a 2 L) ⚠ | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Manga Tetra Pak - 1000 (1 a 2 L) | Port. 157/2015 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,58 | +16.6% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml ⚠ | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,47 | -58.9% | ml | Indaiá Citrus Manga Tetra Pak – 1000 (1 a 2 L) ⚠ | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 3,67 | +149.7% | und | Indaiá Citrus Manga Tetra Pak – 1000 ml ⚠ | Port. 147/2018 |
@@ -805,8 +805,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,88 |  | und | Indaiá Citrus Manga Tetra Pak – 200 (até 399 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,88 | +0.0% | und | Indaiá Citrus Manga Tetra Pak – 200 (até 399 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,88 |  | und | Indaiá Citrus Manga Tetra Pak – 200 (até 399 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,88 | +0.0% | und | Indaiá Citrus Manga Tetra Pak – 200 (até 399 ml) | Port. 157/2015 |
 
 ### Indaiá Citrus Manga Tetra Pak – 200 ml (código 48172)
 
@@ -828,8 +828,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,95 |  | und | Indaiá Citrus Manga - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Manga - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Manga - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Manga - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Manga - 1000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,20 | +4.2% | und | Indaiá Citrus Manga - 1000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,20 | +0.0% | und | Indaiá Citrus Manga - 1000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,56 | +11.3% | Und | Indaiá Citrus Manga – 1000 ml | Port. 397/2016 |
@@ -848,8 +848,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,00 |  | und | Indaiá Citrus Manga - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,12 | +4.0% | und | Indaiá Citrus Manga - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +0.0% | und | Indaiá Citrus Manga - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +4.0% | und | Indaiá Citrus Manga - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,12 | +0.0% | und | Indaiá Citrus Manga - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +4.5% | und | Indaiá Citrus Manga - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,26 | +0.0% | und | Indaiá Citrus Manga - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,63 | +11.3% | Und | Indaiá Citrus Manga - 2000 ml | Port. 397/2016 |
@@ -868,8 +868,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,70 |  | und | Indaia Citrus Uva - 330 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,77 | +4.1% | und | Indaia Citrus Uva - 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +0.0% | und | Indaia Citrus Uva - 330 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +4.1% | und | Indaia Citrus Uva - 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,77 | +0.0% | und | Indaia Citrus Uva - 330 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,85 | +4.5% | und | Indaia Citrus Uva - 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,85 | +0.0% | und | Indaia Citrus Uva - 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,08 | +12.4% | und | Indaia Citrus Uva - 330 ml | Port. 397/2016 |
@@ -895,8 +895,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,07 |  | und | Indaiá Citrus Uva Tetra Pak - 1000 (1 a 2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Uva Tetra Pak - 1000 (1 a 2 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 |  | und | Indaiá Citrus Uva Tetra Pak - 1000 (1 a 2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Uva Tetra Pak - 1000 (1 a 2 L) | Port. 157/2015 |
 
 ### Indaiá Citrus Uva Tetra Pak – 1000 ml (código 45113)
 
@@ -918,8 +918,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,85 |  | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,88 | +3.5% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,88 | +0.0% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,88 | +3.5% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,88 | +0.0% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,95 | +8.0% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,95 | +0.0% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,07 | +12.6% | und | Indaiá Citrus Uva Tetra Pak – 200 ml | Port. 397/2016 |
@@ -938,8 +938,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,95 |  | und | Indaiá Citrus Uva - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Uva - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Uva - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +4.1% | und | Indaiá Citrus Uva - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,07 | +0.0% | und | Indaiá Citrus Uva - 1000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,20 | +4.2% | und | Indaiá Citrus Uva - 1000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,20 | +0.0% | und | Indaiá Citrus Uva - 1000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,56 | +11.3% | Und | Indaiá Citrus Uva – 1000 ml | Port. 397/2016 |
@@ -958,8 +958,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,00 |  | und | Indaiá Citrus Uva - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,12 | +4.0% | und | Indaiá Citrus Uva - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +0.0% | und | Indaiá Citrus Uva - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +4.0% | und | Indaiá Citrus Uva - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,12 | +0.0% | und | Indaiá Citrus Uva - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +4.5% | und | Indaiá Citrus Uva - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,26 | +0.0% | und | Indaiá Citrus Uva - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,63 | +11.3% | Und | Indaiá Citrus Uva - 2000 ml | Port. 397/2016 |
@@ -1100,8 +1100,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,65 |  | und | Outras Marcas (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,00 | +9.6% | und | Outras Marcas 1000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,00 | +0.0% | und | Outras Marcas - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,16 | +4.0% | und | Outras Marcas - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,16 | +0.0% | und | Outras Marcas - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,16 | +4.0% | und | Outras Marcas - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,16 | +0.0% | und | Outras Marcas - 1000 ml | Port. 157/2015 |
 | 2024-08-30 (pub.) | 2024-08-23 | incluir | 7,75 | +86.3% | und | Outras Marcas (1 L) | Port. 336/2024 |
 | 2025-05-01 (efeitos) | 2025-04-28 | alterar | 8,14 | +5.0% | und | Outras Marcas (1 L) | Port. 151/2025 |
 | 2025-11-01 (efeitos) | 2025-10-22 | alterar | 8,23 | +1.1% | und | Outras Marcas (1 L) | Port. 370/2025 |
@@ -1192,8 +1192,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,40 |  | und | Outras Marcas (até 399 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +42.9% | und | Outras Marcas (até 399 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,00 | +0.0% | und | Outras Marcas - até 399 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,08 | +4.0% | und | Outras Marcas - até 399 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,08 | +0.0% | und | Outras Marcas - até 399 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,08 | +4.0% | und | Outras Marcas - até 399 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,08 | +0.0% | und | Outras Marcas - até 399 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,20 | +5.8% | und | Outras Marcas - até 399 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,20 | +0.0% | und | Outras Marcas - até 399 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,48 | +12.7% | und | Outras Marcas – até 399 ml | Port. 397/2016 |
@@ -1214,8 +1214,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,35 |  | und | Outras Marcas (400 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,50 | +4.5% | und | Outras Marcas (400 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,50 | +0.0% | und | Outras Marcas – de 400 a 600 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,64 | +4.0% | und | Outras Marcas – de 400 a 600 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,64 | +0.0% | und | Outras Marcas – de 400 a 600 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,64 | +4.0% | und | Outras Marcas – de 400 a 600 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,64 | +0.0% | und | Outras Marcas – de 400 a 600 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,80 | +4.4% | und | Outras Marcas – de 400 a 600 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,80 | +0.0% | und | Outras Marcas – de 400 a 600 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,51 | +18.7% | und | Outras Marcas – de 400 a 600 ml | Port. 397/2016 |
@@ -1256,8 +1256,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 |  | und | Psiu Frutas Citricas – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,98 | -2.0% | und | Psiu Frutas Citricas – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,98 | +0.0% | und | Psiu Frutas Citricas – 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,98 | -2.0% | und | Psiu Frutas Citricas – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,98 | +0.0% | und | Psiu Frutas Citricas – 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,26 | +28.6% | und | Psiu Frutas Citricas – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,26 | +0.0% | und | Psiu Frutas Citricas – 250 ml | Port. 142/2016 |
 | 2016-06-13 (pub.) | 2016-05-12 | alterar | 1,53 | +21.4% |  | Psiu Frutas Cítricas 250 ml | Port. 167/2016 |
@@ -1286,8 +1286,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 |  | und | Psiu Frutas cítricas - 450 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 | +0.0% | und | Psiu Frutas Cítricas - 450 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,10 | +22.2% | und | Psiu Frutas Cítricas - 450 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,10 | +0.0% | und | Psiu Frutas Cítricas - 450 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,10 | +22.2% | und | Psiu Frutas Cítricas - 450 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,10 | +0.0% | und | Psiu Frutas Cítricas - 450 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,56 | +41.8% | und | Psiu Frutas Cítricas - 450 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,56 | +0.0% | und | Psiu Frutas Cítricas - 450 ml | Port. 142/2016 |
 | 2016-06-13 (pub.) | 2016-05-12 | alterar | 1,75 | +12.2% |  | Psiu Frutas Cítricas 450 ml | Port. 167/2016 |
@@ -1334,8 +1334,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 |  | und | Psiu Frutas Uva – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,98 | -2.0% | und | Psiu Frutas Uva – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,98 | +0.0% | und | Psiu Frutas Uva – 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,98 | -2.0% | und | Psiu Frutas Uva – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,98 | +0.0% | und | Psiu Frutas Uva – 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,26 | +28.6% | und | Psiu Frutas Uva – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,26 | +0.0% | und | Psiu Frutas Uva – 250 ml | Port. 142/2016 |
 | 2016-06-13 (pub.) | 2016-05-12 | alterar | 1,53 | +21.4% |  | Psiu Frutas Uva 250 ml | Port. 167/2016 |
@@ -1360,8 +1360,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | Psiu Frutas Uva – 450 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,10 | +22.2% | und | Psiu Frutas Uva – 450 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,10 | +0.0% | und | Psiu Frutas Uva – 450 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,10 | +22.2% | und | Psiu Frutas Uva – 450 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,10 | +0.0% | und | Psiu Frutas Uva – 450 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,56 | +41.8% | und | Psiu Frutas Uva – 450 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,56 | +0.0% | und | Psiu Frutas Uva – 450 ml | Port. 142/2016 |
 | 2016-06-13 (pub.) | 2016-05-12 | alterar | 1,75 | +12.2% |  | Psiu Frutas Uva 450 ml | Port. 167/2016 |
@@ -1406,8 +1406,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | Psiu Frutas Vermelhas – 450 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,10 | +22.2% | und | Psiu Frutas Vermelhas – 450 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,10 | +0.0% | und | Psiu Frutas Vermelhas – 450 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,10 | +22.2% | und | Psiu Frutas Vermelhas – 450 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,10 | +0.0% | und | Psiu Frutas Vermelhas – 450 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,56 | +41.8% | und | Psiu Frutas Vermelhas – 450 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,56 | +0.0% | und | Psiu Frutas Vermelhas – 450 ml | Port. 142/2016 |
 | 2016-06-13 (pub.) | 2016-05-12 | alterar | 1,75 | +12.2% |  | Psiu Frutas Vermelhas 450 ml | Port. 167/2016 |
@@ -1438,8 +1438,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 |  | und | Psiu Frutas Vermelhas - 250 (até 399 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,98 | -2.0% | und | Psiu Frutas Vermelhas - 250 (até 399 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,98 | +0.0% | und | Psiu Frutas Vermelhas - 250 (até 399 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,98 | -2.0% | und | Psiu Frutas Vermelhas - 250 (até 399 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,98 | +0.0% | und | Psiu Frutas Vermelhas - 250 (até 399 ml) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,26 | +28.6% | und | Psiu Frutas Vermelhas - 250 (até 399 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,26 | +0.0% | und | Psiu Frutas Vermelhas - 250 (até 399 ml) | Port. 142/2016 |
 
@@ -1670,8 +1670,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,70 |  | und | Tampico (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,85 | +5.6% | und | Tampico 1000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,85 | +0.0% | und | Tampico - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,96 | +3.9% | und | Tampico - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,96 | +0.0% | und | Tampico - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,96 | +3.9% | und | Tampico - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,96 | +0.0% | und | Tampico - 1000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,09 | +4.4% | und | Tampico - 1000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,09 | +0.0% | und | Tampico - 1000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,44 | +11.3% | Und | Tampico - 1000 ml | Port. 397/2016 |
@@ -1915,8 +1915,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,80 |  | und | Tampico – 330 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,87 | +3.9% | und | Tampico – 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +0.0% | und | Tampico – 330 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +3.9% | und | Tampico – 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,87 | +0.0% | und | Tampico – 330 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,73 | -7.5% | und | Tampico – 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,73 | +0.0% | und | Tampico – 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,94 | +12.1% | und | Tampico – 330 ml | Port. 397/2016 |
@@ -1932,8 +1932,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,65 |  | und | Tampico – 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,72 | +4.2% | und | Tampico – 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,72 | +0.0% | und | Tampico – 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,72 | +4.2% | und | Tampico – 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,72 | +0.0% | und | Tampico – 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,97 | +14.5% | und | Tampico – 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,97 | +0.0% | und | Tampico – 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,34 | +18.8% | und | Tampico – 500 ml | Port. 397/2016 |
@@ -1957,8 +1957,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,80 |  | und | Toda Hora – 330 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,87 | +3.9% | und | Toda Hora – 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +0.0% | und | Toda Hora – 330 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +3.9% | und | Toda Hora – 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,87 | +0.0% | und | Toda Hora – 330 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,95 | +4.3% | und | Toda Hora – 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,95 | +0.0% | und | Toda Hora – 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,20 | +12.8% | und | Toda Hora – 330 ml | Port. 397/2016 |
@@ -1987,8 +1987,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,48 |  | und | Toda Hora (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,65 | +4.9% | und | Toda Hora 1000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,65 | +0.0% | und | Toda Hora - 1000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,80 | +4.1% | und | Toda Hora - 1000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,80 | +0.0% | und | Toda Hora - 1000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,80 | +4.1% | und | Toda Hora - 1000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,80 | +0.0% | und | Toda Hora - 1000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,97 | +4.5% | und | Toda Hora - 1000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,97 | +0.0% | und | Toda Hora - 1000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,42 | +11.3% | Und | Toda Hora - 1000 ml | Port. 397/2016 |
@@ -2042,8 +2042,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,65 |  | und | Toda Hora – 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,72 | +4.2% | und | Toda Hora – 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,72 | +0.0% | und | Toda Hora – 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,72 | +4.2% | und | Toda Hora – 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,72 | +0.0% | und | Toda Hora – 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +4.7% | und | Toda Hora – 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,80 | +0.0% | und | Toda Hora – 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,13 | +18.3% | und | Toda Hora – 500 ml | Port. 397/2016 |
@@ -2138,9 +2138,9 @@ Links para o texto de cada portaria usada acima.
 - Port. 330/2012: [Portaria nº 330/2012](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fe907e53-f242-4d5e-b75e-9bcc2bec961e), vigência 2012-10-08 (pub.)
 - Port. 74/2013: [Portaria nº 74/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=32e5316a-8283-4d02-9826-f442a55948de), vigência 2013-04-04 (pub.)
 - Port. 300/2013: [Portaria nº 300/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c31025ba-02f1-432b-b5c6-effa0b190106), vigência 2013-09-30 (assin.)
-- Port. 157/2014: [Portaria nº 157/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2014-05-29 (pub.)
 - Port. 196/2014: [Portaria nº 196/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3ab190f5-2f66-4b60-ab6d-ee1053bbe8c1), vigência 2014-07-15 (pub.)
 - Port. 176/2015: [Portaria nº 176/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5cb442e4-bce1-4b23-a633-17e200165e14), vigência 2015-03-23 (assin.)
+- Port. 157/2015: [Portaria nº 157/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2015-05-29 (pub.)
 - Port. 463/2015: [Portaria nº 463/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=72cba1e0-3573-42a0-9590-9f3ddfa036b6), vigência 2015-10-02 (pub.)
 - Port. 122/2016: [Portaria nº 122/2016](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bc49f7e0-17e4-477b-bae3-4183129baf79), vigência 2016-04-13 (pub.)
 - Port. 142/2016: [Portaria nº 142/2016](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=153371ce-ac23-4b56-961f-2b5f6dc6e1e0), vigência 2016-05-03 (pub.)

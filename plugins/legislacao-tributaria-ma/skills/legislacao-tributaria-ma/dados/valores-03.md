@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: destilados e licores"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 5
 registros: 10
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2015.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 - **Nesta categoria não há relação completa republicada**: "vigente" significa apenas "último valor publicado" para o item, sem confirmação de que continua na tabela.
 
@@ -122,7 +122,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: bebidas: energéticos e isotônicos"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 145
 registros: 5939
 ---
@@ -136,7 +136,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2004.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (470)
@@ -695,14 +695,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48088 | Black Roots - 500 ml | 5,09 | 2021-09-22 | mesmo código, descrição/seção renomeada para "Black Roots - 500 ml" a partir de 2022-09-01 |
 | 48088 | Black Roots - 500 ml | 5,57 | 2022-09-01 | mesmo código, descrição/seção renomeada para "Black Roots - 500 ml" a partir de 2023-04-01 |
 | 48088 | Black Roots - 500 ml | 5,72 | 2023-04-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Black Roots - 500 ml - pet | 4,37 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Black Roots 250 ml pet | 2,60 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Black Roots - 500 ml - pet | 4,37 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Black Roots 250 ml pet | 2,60 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50577 | Blue Ray – 269 ml - lata | 4,50 | 2021-09-22 | mesmo código, descrição/seção renomeada para "Blue Ray – 269 ml - lata" a partir de 2022-09-01 |
 | — | Burn Drink (até 250 ml) | 4,94 | 2009-02-26 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Burn Drink (até 310 ml) | 5,18 | 2010-10-01 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Burn Drink (Energético) 473 ml | 6,00 | 2011-02-15 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Burn Drink - 270 ml pet | 5,77 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Burn drink - 473 ml | 6,65 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Burn Drink - 270 ml pet | 5,77 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Burn drink - 473 ml | 6,65 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Burn Drink 270 ml | 6,07 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Burn Drink 310 ml | 6,39 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Burn Energy Drink (1 L) | 9,18 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -843,10 +843,10 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Energético Vulcano Jungle Açaí 310 ml | 3,71 | 2022-11-16 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Vulcano Wild 1.000 ml | 7,61 | 2022-11-16 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Vulcano Wild Morango Selvagem 310 ml | 3,71 | 2022-11-16 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energico Hooters 310 ml | 4,42 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energico Hooters 310 ml | 4,42 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energil Sport - 500 ml | 4,82 | 2016-10-31 | substituído pelo código 49108 (Energil Sport - 500ml) a partir de 2017-05-05; valeu até 2017-05-04 |
 | — | Energy (1 L) | 8,45 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Energy - 473 ml | 5,40 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Energy - 473 ml | 5,40 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energy 270 ml | 5,07 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energy Drink (1 L) | 8,40 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Extra Power (1 L) | 6,96 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -921,7 +921,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Isotônico Limão Hysotonic Sport LK - Descartavel 500 ml | 3,99 | 2024-10-07 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Isotônico Mix de Frutas Hysotonic - Descartavel 500 ml | 3,99 | 2024-10-07 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Isotônico Mix de Frutas Hysotonic Sport LK - Descartavel 500 ml | 3,99 | 2024-10-07 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Isotônico Santu Côco 500 ml | 2,03 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Isotônico Santu Côco 500 ml | 2,03 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Isotônico Santu Côco – Pet Descartável 500 ml | 1,80 | 2011-12-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Isotônico Tangerina Hysotonic - Descartavel 500 ml | 3,99 | 2024-10-07 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Isotônico Tangerina Hysotonic Sport LK - Descartavel 500 ml | 3,99 | 2024-10-07 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -960,7 +960,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 53946 | Monster Zero Sugar (lata 473 ml) | 8,98 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47866 | Monster- 473 ml - lata | 7,39 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Net Power (1 L) | 7,06 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Net Power Lt 350 ml | 3,93 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Net Power Lt 350 ml | 3,93 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Night Power Pack – 269 ml – lata | 5,27 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Night Power Regular – 269 ml – lata | 5,38 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nigth Power (até 250 ml) | 4,44 | 2009-02-26 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -975,7 +975,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | On Line - 2000 ml | 9,86 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49785 | On Line - 270 ml - lata | 4,70 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | On Line 270 ml | 4,61 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | On Lione (1 L) | 6,24 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | On Lione (1 L) | 6,24 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 54211 | One Token Energy Drink Tradicional Suggarfree-Creatina-Lata 375 ml | 5,95 | 2026-05-01 | substituído pelo código 54203 (One Token Energy Drink Tradicional Suggarfree+Creatina (lata 355 a 375 ml)) a partir de 2026-11-01; valeu até 2026-10-31 |
 | — | Outras Marcas (1 L) | 13,50 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49681 | Outras Marcas (3 L) | 24,96 | 2024-02-01 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -987,15 +987,15 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 53672 | Outras Marcas (lata 260 ml) | 7,74 | 2024-08-30 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48975 | Outras Marcas até- 310 ml | 9,81 | 2022-09-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45678 | Outras Marcas – de 311 a 710 ml | 11,57 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Palmeiron (400 a 600 ml) | 3,17 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Palmeiron (400 a 600 ml) | 3,17 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Palmeiron (PET 400 a 600 ml) | 2,45 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Panico energy drink (até 310 ml) | 4,23 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 46200 | Panico Energy Drink (PET 250 ml) | 6,05 | 2024-02-01 | substituído pelo código 45200 (Panico Energy Drink (PET 250 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
 | — | Pânico Energy Drink 250 e 269 ml | 3,80 | 2010-10-01 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 46200 | Panicoenergy drink (250 ml) | 6,05 | 2023-11-01 | o mesmo código e produto aparece depois como "Panico energy drink (lata 250 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | — | Power Bull (1 L) | 7,70 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Power Bull - 270 ml | 4,89 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Power Bull - 500 ml | 6,14 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Power Bull - 270 ml | 4,89 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Power Bull - 500 ml | 6,14 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Power Bull 269 ml | 5,07 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Powerade (Isotônico) 500 ml | 2,00 | 2011-02-15 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Psiu frutas cítricas – 450 ml | 1,00 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1061,14 +1061,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Vulcano (até 1 L) | 9,00 | 2010-10-01 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Vulcano (até 2 L) | 12,00 | 2010-10-01 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Vulcano (até 500 ml) | 6,00 | 2010-10-01 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Vulcano Energy Drink - 473 ml | 5,40 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Vulcano Energy Drink - 473 ml | 5,40 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Vulcano pet (311 a 600 ml) | 5,82 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48392 | Vulcano – 458 ml – Lata | 7,46 | 2022-09-01 | mesmo código, descrição/seção renomeada para "Vulcano – 458 ml – lata" a partir de 2023-04-01 |
 | 51201 | Wilde Dragon (250 ml) | 6,84 | 2023-11-01 | o mesmo código e produto aparece depois como "Wilde Dragon (lata 250 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 51201 | Wilde Dragon-Lt- 250 ml | 5,70 | 2021-09-22 | mesmo código, descrição/seção renomeada para "Wilde Dragon-Lt- 250 ml" a partir de 2022-09-01 |
 | — | X - 7 (1 L) | 6,87 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | X-treme (até 310 ml) | 3,78 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | X7 (1,5 a 3 L) | 9,68 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | X7 (1,5 a 3 L) | 9,68 | 2015-03-23 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 
 ## Histórico por item
 
@@ -1216,8 +1216,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,69 |  | und | Bad Boy - 269 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,95 | +5.5% | und | Bad Boy - 269 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,95 | +0.0% | und | Bad Boy - 269 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,15 | +4.0% | und | Bad Boy - 269 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,15 | +0.0% | und | Bad Boy - 269 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,15 | +4.0% | und | Bad Boy - 269 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,15 | +0.0% | und | Bad Boy - 269 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,38 | +4.5% | und | Bad Boy - 269 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,38 | +0.0% | und | Bad Boy – 269 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,57 | +3.5% | und | Bad Boy 269 ml | Port. 397/2016 |
@@ -1289,8 +1289,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,68 |  | und | Balablue – 269 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,83 | +4.1% | und | Balablue – 269 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,83 | +0.0% | und | Balablue – 269 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,83 | +4.1% | und | Balablue – 269 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,83 | +0.0% | und | Balablue – 269 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,00 | +4.4% | und | Balablue – 269 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,00 | +0.0% | und | Balablue – 269 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,14 | +3.5% | und | Balablue 269 ml | Port. 397/2016 |
@@ -1541,8 +1541,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,75 | +5.0% | und | Energético Battery – 350 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,75 | +0.0% | und | Energético Battery – 350 ml | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,95 | +5.3% | und | Battery 350 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,11 | +4.1% | und | Battery – 350 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,11 | +0.0% | und | Battery – 350 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,11 | +4.1% | und | Battery – 350 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,11 | +0.0% | und | Battery – 350 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,29 | +4.4% | und | Battery – 350 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,29 | +0.0% | und | Battery – 350 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,52 | +5.4% | und | Battery – 350 ml | Port. 397/2016 |
@@ -1814,8 +1814,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 6,25 |  | und | Black Roots (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 6,55 | +4.8% | und | Black Roots (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,55 | +0.0% | und | Black Roots (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,81 | +4.0% | und | Black Roots (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,81 | +0.0% | und | Black Roots (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,81 | +4.0% | und | Black Roots (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,81 | +0.0% | und | Black Roots (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,12 | +4.6% | und | Black Roots (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,12 | +0.0% | und | Black Roots (1 L) | Port. 142/2016 |
 
@@ -1868,8 +1868,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,00 |  | und | Black Roots 500 ml - pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,20 | +5.0% | und | Black Roots 500 ml - pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,20 | +0.0% | und | Black Roots - 500 ml - pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,37 | +4.0% | und | Black Roots - 500 ml - pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,37 | +0.0% | und | Black Roots - 500 ml - pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,37 | +4.0% | und | Black Roots - 500 ml - pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,37 | +0.0% | und | Black Roots - 500 ml - pet | Port. 157/2015 |
 
 ### Black Roots 250 ml (código 48754)
 
@@ -1897,8 +1897,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,50 | -54.5% | und | Black Roots - 250 ml pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 | +0.0% | und | Black Roots - 250 ml pet | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,50 | +120.0% | und | Black Roots 250 ml pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | -52.7% | und | Black Roots 250 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +0.0% | und | Black Roots 250 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | -52.7% | und | Black Roots 250 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | +0.0% | und | Black Roots 250 ml pet | Port. 157/2015 |
 
 ### Black Roots – 2000 ml (código 45023)
 
@@ -1907,8 +1907,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 8,85 |  | und | Black Roots 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 9,20 | +4.0% | und | Black Roots 2000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 9,20 | +0.0% | und | Black Roots 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 9,57 | +4.0% | und | Black Roots 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,57 | +0.0% | und | Black Roots 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,57 | +4.0% | und | Black Roots 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 9,57 | +0.0% | und | Black Roots 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 10,00 | +4.5% | und | Black Roots - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 10,00 | +0.0% | und | Black Roots - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 11,20 | +12.0% | Und | Black Roots - 2000 ml | Port. 397/2016 |
@@ -2148,8 +2148,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,77 |  | und | Burn Drink - 270 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,77 | +0.0% | und | Burn Drink - 270 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,77 |  | und | Burn Drink - 270 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,77 | +0.0% | und | Burn Drink - 270 ml pet | Port. 157/2015 |
 
 ### Burn drink - 473 ml (código —)
 
@@ -2174,9 +2174,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,68 |  | und | Burn Drink - 310 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,91 | +4.0% | und | Burn Drink - 310 ml | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,91 | +0.0% | und | Burn Drink - 310 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,91 | +0.0% | und | Burn Drink - 310 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,91 | +4.0% | und | Burn Drink - 310 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,91 | +0.0% | und | Burn Drink - 310 ml | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,91 | +0.0% | und | Burn Drink - 310 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,17 | +4.4% | und | Burn Drink - 310 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,17 | +0.0% | und | Burn Drink – 310 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,39 | +3.6% | und | Burn Drink 310 ml | Port. 397/2016 |
@@ -2186,8 +2186,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,45 |  | und | Burn Energy Drink (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,79 | +4.0% | und | Burn Energy Drink (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,79 | +0.0% | und | Burn Energy Drink (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,79 | +4.0% | und | Burn Energy Drink (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,79 | +0.0% | und | Burn Energy Drink (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,18 | +4.4% | und | Burn Energy Drink (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 9,18 | +0.0% | und | Burn Energy Drink (1 L) | Port. 142/2016 |
 
@@ -2241,8 +2241,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,65 |  | und | Burn Energy Drink - 473 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,92 | +4.1% | und | Burn Energy Drink - 473 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,92 | +0.0% | und | Burn Energy Drink - 473 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,92 | +4.1% | und | Burn Energy Drink - 473 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,92 | +0.0% | und | Burn Energy Drink - 473 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,23 | +4.5% | und | Burn Energy Drink - 473 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,23 | +0.0% | und | Burn Energy Drink - 473 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,62 | +5.4% | und | Burn Energy Drink - 473 ml | Port. 397/2016 |
@@ -2401,8 +2401,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,50 |  | und | Cerpa amazon power - 269 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,68 | +5.1% | und | Cerpa amazon power - 269 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,68 | +0.0% | und | Cerpa Amazon Power - 269 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,83 | +4.1% | und | Cerpa Amazon Power - 269 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,83 | +0.0% | und | Cerpa Amazon Power - 269 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,83 | +4.1% | und | Cerpa Amazon Power - 269 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,83 | +0.0% | und | Cerpa Amazon Power - 269 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,00 | +4.4% | und | Cerpa Amazon Power - 269 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,00 | +0.0% | und | Cerpa Amazon Power – 269 ml | Port. 142/2016 |
 
@@ -2555,8 +2555,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,70 |  | und | DR UP 269 ml lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,70 | +0.0% | und | DR UP 269 ml lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,70 |  | und | DR UP 269 ml lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,70 | +0.0% | und | DR UP 269 ml lata | Port. 157/2015 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,07 | +7.9% | und | Dr Up - 269 ml - lata | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 5,17 | +2.0% | und | Dr Up - 269 ml - lata | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,24 | +1.4% | und | Dr Up - 269 ml - lata | Port. 147/2018 |
@@ -2604,8 +2604,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,59 |  | und | Ecco - 269 ml - lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,59 | +0.0% | und | Ecco – 269 ml lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,59 |  | und | Ecco – 269 ml lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,59 | +0.0% | und | Ecco - 269 ml - lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,80 | +4.6% | und | Ecco – 269 ml lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,80 | +0.0% | und | Ecco – 269 ml lata | Port. 142/2016 |
 
@@ -3873,7 +3873,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,03 |  | und | Energico hooters 310 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,23 | +5.0% | und | Energico hooters 310 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,23 | +0.0% | und | Energico Hooters 310 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,42 | +4.5% | und | Energico Hooters 310 ml | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,42 | +4.5% | und | Energico Hooters 310 ml | Port. 157/2015 |
 
 ### Energil Sport (PET 500 ml) (código 49108)
 
@@ -3930,10 +3930,10 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,25 |  | und | Energil Sport 500ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,25 | +0.0% | und | Energil Sport 500ml | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,20 | +86.7% | und | Energil Sport 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,34 | -44.3% | und | Energil Sport 500ml | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,37 | +86.8% | und | Energil Sport 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,34 | -46.5% | und | Energil Sport 500ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,34 | -44.3% | und | Energil Sport 500ml | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,37 | +86.8% | und | Energil Sport 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,34 | -46.5% | und | Energil Sport 500ml | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,37 | +86.8% | und | Energil Sport 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,34 | -46.5% | und | Energil Sport - 500ml | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,57 | +95.3% | und | Energil Sport - 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,34 | -48.8% | und | Energil Sport – 500ml | Port. 142/2016 |
@@ -3976,8 +3976,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 8,35 |  | und | Energy - 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 8,75 | +4.8% | und | Energy - 2000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,75 | +0.0% | und | Energy - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 9,10 | +4.0% | und | Energy - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,10 | +0.0% | und | Energy - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,10 | +4.0% | und | Energy - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 9,10 | +0.0% | und | Energy - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 11,60 | +27.5% | und | Energy - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 11,60 | +0.0% | und | Energy - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 12,99 | +12.0% | Und | Energy - 2000 ml | Port. 397/2016 |
@@ -4006,8 +4006,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 10,30 |  | und | Energy - 3000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 10,80 | +4.9% | und | Energy - 3000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 10,80 | +0.0% | und | Energy - 3000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 11,23 | +4.0% | und | Energy - 3000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 11,23 | +0.0% | und | Energy - 3000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 11,23 | +4.0% | und | Energy - 3000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 11,23 | +0.0% | und | Energy - 3000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 11,73 | +4.5% | und | Energy - 3000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 11,73 | +0.0% | und | Energy - 3000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 13,14 | +12.0% | Und | Energy - 3000 ml | Port. 397/2016 |
@@ -4035,8 +4035,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,19 |  | und | Energy - 473 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,40 | +4.0% | und | Energy - 473 ml | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,40 | +0.0% | und | Energy - 473 ml | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,40 | +0.0% | und | Energy - 473 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,40 | +0.0% | und | Energy - 473 ml | Port. 157/2015 |
 
 ### Energy 270 ml (código —)
 
@@ -4045,8 +4045,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,30 |  | und | Energy - 270 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,50 | +4.7% | und | Energy - 270 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,50 | +0.0% | und | Energy - 270 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,68 | +4.0% | und | Energy - 270 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,68 | +0.0% | und | Energy - 270 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,68 | +4.0% | und | Energy - 270 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,68 | +0.0% | und | Energy - 270 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,89 | +4.5% | und | Energy - 270 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,89 | +0.0% | und | Energy – 270 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,07 | +3.7% | und | Energy 270 ml | Port. 397/2016 |
@@ -4056,8 +4056,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 7,80 |  | und | Energy Drink (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,11 | +4.0% | und | Energy Drink (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,11 | +0.0% | und | Energy Drink (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,11 | +4.0% | und | Energy Drink (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,11 | +0.0% | und | Energy Drink (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,40 | +3.6% | und | Energy Drink (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,40 | +0.0% | und | Energy Drink (1 L) | Port. 142/2016 |
 
@@ -4215,8 +4215,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 6,00 |  | und | Extra Power (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 6,40 | +6.7% | und | Extra Power (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,40 | +0.0% | und | Extra Power (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,66 | +4.1% | und | Extra Power (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,66 | +0.0% | und | Extra Power (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,66 | +4.1% | und | Extra Power (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,66 | +0.0% | und | Extra Power (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,96 | +4.5% | und | Extra Power (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,96 | +0.0% | und | Extra Power (1 L) | Port. 142/2016 |
 
@@ -4229,8 +4229,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,90 | +6.0% | und | Extra Power 270 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,10 | +5.1% | und | Extra Power 270 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,10 | +0.0% | und | Extra Power 270 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,26 | +3.9% | und | Extra Power 270 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,26 | +0.0% | und | Extra Power 270 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,26 | +3.9% | und | Extra Power 270 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,26 | +0.0% | und | Extra Power 270 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,45 | +4.5% | und | Extra Power - 270 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,45 | +0.0% | und | Extra Power – 270 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,61 | +3.6% | und | Extra Power 270 ml | Port. 397/2016 |
@@ -4254,8 +4254,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,00 |  | Und | Extra Power - 473 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,25 | +5.0% | Und | Extra Power - 473 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,25 | +0.0% | Und | Extra Power - 473 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,46 | +4.0% | Und | Extra Power - 473 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,46 | +0.0% | Und | Extra Power - 473 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,46 | +4.0% | Und | Extra Power - 473 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,46 | +0.0% | Und | Extra Power - 473 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,70 | -13.9% | Und | Extra Power - 473 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,70 | +0.0% | und | Extra Power - 473 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,95 | +5.3% | und | Extra Power - 473 ml | Port. 397/2016 |
@@ -4312,8 +4312,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 12,00 |  | und | Extra Power - 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 12,50 | +4.2% | und | Extra Power - 2000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 12,50 | +0.0% | und | Extra Power - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 13,00 | +4.0% | und | Extra Power - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 13,00 | +0.0% | und | Extra Power - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 13,00 | +4.0% | und | Extra Power - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 13,00 | +0.0% | und | Extra Power - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 13,58 | +4.5% | und | Extra Power - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 13,58 | +0.0% | und | Extra Power - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 15,21 | +12.0% | Und | Extra Power - 2000 ml | Port. 397/2016 |
@@ -4367,8 +4367,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,80 |  | und | Extra Power 710 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,03 | +4.0% | und | Extra Power 710 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,03 | +0.0% | und | Extra Power 710 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,03 | +4.0% | und | Extra Power 710 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,03 | +0.0% | und | Extra Power 710 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,30 | +4.5% | und | Extra Power - 710 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,30 | +0.0% | und | Extra Power - 710 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,64 | +5.4% | und | Extra Power - 710 ml | Port. 397/2016 |
@@ -4390,8 +4390,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,34 | +6.1% | und | Extra Power 310 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,55 | +4.8% | und | Extra Power 310 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,55 | +0.0% | und | Extra Power 310 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,73 | +4.0% | und | Extra Power 310 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,73 | +0.0% | und | Extra Power 310 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,73 | +4.0% | und | Extra Power 310 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,73 | +0.0% | und | Extra Power 310 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,94 | +4.4% | und | Extra Power - 310 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,94 | +0.0% | und | Extra Power – 310 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,12 | +3.6% | und | Extra Power 310 ml | Port. 397/2016 |
@@ -4695,8 +4695,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 7,70 |  | Und | Falcon (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 8,00 | +3.9% | Und | Falcon (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,00 | +0.0% | Und | Falcon (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,32 | +4.0% | Und | Falcon (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,32 | +0.0% | Und | Falcon (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,32 | +4.0% | Und | Falcon (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,32 | +0.0% | Und | Falcon (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,69 | +4.4% | Und | Falcon (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,69 | +0.0% | und | Falcon (1 L) | Port. 142/2016 |
 
@@ -4707,8 +4707,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,59 |  | und | Falcon 250 ml lata | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,77 | +5.0% | und | Falcon 250 ml lata | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,77 | +0.0% | und | Falcon 250 ml lata | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,92 | +4.0% | und | Falcon 250 ml lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,92 | +0.0% | und | Falcon 250 ml lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,92 | +4.0% | und | Falcon 250 ml lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,92 | +0.0% | und | Falcon 250 ml lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,10 | +4.6% | und | Falcon - 250 ml lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,10 | +0.0% | und | Falcon – 250 ml lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,25 | +3.7% | Und | Falcon 250 ml lata | Port. 397/2016 |
@@ -4737,8 +4737,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,60 |  | und | Falcon 269 ml lata | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,78 | +5.0% | und | Falcon 269 ml lata | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,78 | +0.0% | und | Falcon 269 ml lata | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,93 | +4.0% | und | Falcon 269 ml lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,93 | +0.0% | und | Falcon 269 ml lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,93 | +4.0% | und | Falcon 269 ml lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,93 | +0.0% | und | Falcon 269 ml lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,11 | +4.6% | und | Falcon - 269 ml lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,11 | +0.0% | und | Falcon – 269 ml lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,26 | +3.6% | Und | Falcon 269 ml lata | Port. 397/2016 |
@@ -4790,8 +4790,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 9,80 |  | und | Falcon 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 10,30 | +5.1% | und | Falcon 2000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 10,30 | +0.0% | und | Falcon - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 10,71 | +4.0% | und | Falcon - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 10,71 | +0.0% | und | Falcon - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 10,71 | +4.0% | und | Falcon - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 10,71 | +0.0% | und | Falcon - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 11,20 | +4.6% | und | Falcon - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 11,20 | +0.0% | und | Falcon - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 12,54 | +12.0% | Und | Falcon - 2000 ml | Port. 397/2016 |
@@ -4820,8 +4820,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,69 |  | Und | Falcon 450 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,95 | +5.5% | Und | Falcon 450 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,95 | +0.0% | Und | Falcon 450 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,15 | +4.0% | Und | Falcon 450 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,15 | +0.0% | Und | Falcon 450 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,15 | +4.0% | Und | Falcon 450 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,15 | +0.0% | Und | Falcon 450 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,38 | +4.5% | Und | Falcon - 450 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,38 | +0.0% | und | Falcon - 450 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,67 | +5.4% | und | Falcon - 450 ml | Port. 397/2016 |
@@ -4848,8 +4848,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,00 |  | und | Fireball (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,24 | +4.0% | und | Fireball (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,24 | +0.0% | und | Fireball (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,24 | +4.0% | und | Fireball (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,24 | +0.0% | und | Fireball (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,52 | +4.5% | und | Fireball (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,52 | +0.0% | und | Fireball (1 L) | Port. 142/2016 |
 
@@ -4912,8 +4912,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 6,50 |  | und | Flying Horse (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,50 | +0.0% | und | Flying Horse (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,76 | +4.0% | und | Flying Horse (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,76 | +0.0% | und | Flying Horse (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,76 | +4.0% | und | Flying Horse (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,76 | +0.0% | und | Flying Horse (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,06 | +4.4% | und | Flying Horse (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,06 | +0.0% | und | Flying Horse (1 L) | Port. 142/2016 |
 
@@ -4943,8 +4943,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,00 | -3.4% | und | Flying Horse 270 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,20 | +5.0% | und | Flying Horse 270 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,20 | +0.0% | und | Flying Horse 270 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,37 | +4.0% | und | Flying Horse 270 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,37 | +0.0% | und | Flying Horse 270 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,37 | +4.0% | und | Flying Horse 270 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,37 | +0.0% | und | Flying Horse 270 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,57 | +4.6% | und | Flying Horse - 270 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,57 | +0.0% | und | Flying Horse – 270 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,73 | +3.5% | und | Flying Horse 270 ml | Port. 397/2016 |
@@ -4961,8 +4961,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,39 | -4.6% | und | Flying Horse 310 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,61 | +5.0% | und | Flying Horse 310 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,61 | +0.0% | und | Flying Horse 310 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,79 | +3.9% | und | Flying Horse 310 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,79 | +0.0% | und | Flying Horse 310 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,79 | +3.9% | und | Flying Horse 310 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,79 | +0.0% | und | Flying Horse 310 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,00 | +4.4% | und | Flying Horse - 310 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,00 | +0.0% | und | Flying Horse – 310 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,18 | +3.6% | und | Flying Horse 310 ml | Port. 397/2016 |
@@ -4976,8 +4976,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,10 |  | Und | Flying Horse - 473 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,35 | +4.9% | Und | Flying Horse - 473 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,35 | +0.0% | Und | Flying Horse - 473 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,56 | +3.9% | Und | Flying Horse - 473 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,56 | +0.0% | Und | Flying Horse - 473 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,56 | +3.9% | Und | Flying Horse - 473 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,56 | +0.0% | Und | Flying Horse - 473 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,81 | +4.5% | Und | Flying Horse - 473 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,81 | +0.0% | und | Flying Horse - 473 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,12 | +5.3% | und | Flying Horse - 473 ml | Port. 397/2016 |
@@ -4989,8 +4989,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,80 |  | und | Flying Horse 710 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,07 | +4.0% | und | Flying Horse 710 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,07 | +0.0% | und | Flying Horse 710 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,07 | +4.0% | und | Flying Horse 710 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,07 | +0.0% | und | Flying Horse 710 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,39 | +4.5% | und | Flying Horse - 710 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,39 | +0.0% | und | Flying Horse - 710 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,79 | +5.4% | Und | Flying Horse - 710 ml | Port. 397/2016 |
@@ -5024,8 +5024,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 12,00 |  | und | Flynig Horse - 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 12,50 | +4.2% | und | Flynig Horse - 2000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 12,50 | +0.0% | und | Flynig Horse - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 13,00 | +4.0% | und | Flynig Horse - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 13,00 | +0.0% | und | Flynig Horse - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 13,00 | +4.0% | und | Flynig Horse - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 13,00 | +0.0% | und | Flynig Horse - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 13,58 | +4.5% | und | Flynig Horse - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 13,58 | +0.0% | und | Flynig Horse - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 15,21 | +12.0% | und | Flynig Horse - 2000 ml | Port. 397/2016 |
@@ -5125,8 +5125,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,10 |  | und | Freepower Energy Drink 600 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,26 | +3.9% | und | Freepower Energy Drink 600 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,26 | +0.0% | und | Freepower Energy Drink 600 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,26 | +3.9% | und | Freepower Energy Drink 600 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,26 | +0.0% | und | Freepower Energy Drink 600 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,45 | +4.5% | und | Freepower Energy Drink - 600 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,45 | +0.0% | und | Freepower Energy Drink - 600 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,69 | +5.4% | und | Freepower Energy Drink - 600 ml | Port. 397/2016 |
@@ -5153,8 +5153,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,95 |  | und | Freepower Energy Drink 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,11 | +4.1% | und | Freepower Energy Drink 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,11 | +0.0% | und | Freepower Energy Drink 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,11 | +4.1% | und | Freepower Energy Drink 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,11 | +0.0% | und | Freepower Energy Drink 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,29 | +4.4% | und | Freepower Energy Drink - 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,29 | +0.0% | und | Freepower Energy Drink - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,52 | +5.4% | Und | Freepower Energy Drink - 500 ml | Port. 397/2016 |
@@ -5564,9 +5564,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,29 |  | und | Fusion 250 ml - lata | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,55 | +4.9% | und | Fusion 250 ml ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,55 | +0.0% | und | Fusion 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,77 | +4.0% | und | Fusion 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,49 | -4.9% | und | Fusion 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,60 | +2.0% | und | Fusion - 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,49 | -1.1% | und | Fusion 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,77 | +5.1% | und | Fusion 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,60 | -2.9% | und | Fusion - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,60 | +0.0% | und | Fusion – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,60 | +0.0% | und | Fusion 250 ml - lata ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,60 | +0.0% | und | Fusion - 250 ml – lata | Port. 222/2017 |
@@ -5710,8 +5710,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,99 |  | und | Gatorade - 350 ml - pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | +5.5% | und | Gatorade - 350 ml - pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,10 | +0.0% | und | Gatorade - 350 ml - pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,18 | +3.8% | und | Gatorade – 350 ml – pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,18 | +0.0% | und | Gatorade – 350 ml – pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,18 | +3.8% | und | Gatorade – 350 ml – pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,18 | +0.0% | und | Gatorade – 350 ml – pet | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,28 | +4.6% | und | Gatorade – 350 ml – pet | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,28 | +0.0% | und | Gatorade – 350 ml – pet | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,39 | +4.8% | und | Gatorade 350 ml ⚠ | Port. 397/2016 |
@@ -5740,8 +5740,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,87 |  | und | Gatorade - 500 ml - pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,10 | +8.0% | und | Gatorade - 500 ml ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,10 | +0.0% | und | Gatorade - 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,22 | +3.9% | und | Gatorade – 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,22 | +0.0% | und | Gatorade – 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,22 | +3.9% | und | Gatorade – 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,22 | +0.0% | und | Gatorade – 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,54 | +9.9% | und | Gatorade – 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,54 | +0.0% | und | Gatorade – 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,67 | +3.7% | und | Gatorade 500 ml | Port. 397/2016 |
@@ -5770,8 +5770,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 6,98 |  | und | Giant Badboy (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 7,30 | +4.6% | und | Giant Badboy (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 7,30 | +0.0% | und | Giant Badboy (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,59 | +4.0% | und | Giant Badboy (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,59 | +0.0% | und | Giant Badboy (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,59 | +4.0% | und | Giant Badboy (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,59 | +0.0% | und | Giant Badboy (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,93 | +4.5% | und | Giant Badboy (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,93 | +0.0% | und | Giant Badboy (1 L) | Port. 142/2016 |
 
@@ -5833,8 +5833,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,50 |  | und | Gladiador 270 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,68 | +5.1% | und | Gladiador 270 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,68 | +0.0% | und | Gladiador 270 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,83 | +4.1% | und | Gladiador 270 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,83 | +0.0% | und | Gladiador 270 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,83 | +4.1% | und | Gladiador 270 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,83 | +0.0% | und | Gladiador 270 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,00 | +4.4% | und | Gladiador - 270 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,00 | +0.0% | und | Gladiador – 270 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,14 | +3.5% | und | Gladiador 270 ml | Port. 397/2016 |
@@ -6113,9 +6113,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,25 |  | und | Hooters - 310 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,25 | +0.0% | und | Hooters - 310 ml | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,42 | +4.0% | und | Hooters 310 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,62 | +4.5% | und | Hooters - 310 ml | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,25 | -3.8% | und | Hooters - 310 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,62 | +8.7% | und | Hooters - 310 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,62 | +0.0% | und | Hooters – 310 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,79 | +3.7% | und | Hooters 310 ml | Port. 397/2016 |
 
@@ -6181,8 +6181,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,48 |  | und | HP Hot Power 269 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,70 | +4.9% | und | HP Hot Power 269 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,70 | +0.0% | und | HP Hot Power 269 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,89 | +4.0% | und | HP Hot Power 269 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,89 | +0.0% | und | HP Hot Power 269 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,89 | +4.0% | und | HP Hot Power 269 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,89 | +0.0% | und | HP Hot Power 269 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,11 | +4.5% | und | HP Hot Power - 269 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,11 | +0.0% | und | HP Hot Power – 269 ml | Port. 142/2016 |
 
@@ -6370,8 +6370,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,39 |  | und | I9 (500 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,50 | +4.6% | und | I9 - 500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 | +0.0% | und | I9 - 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +4.0% | und | I9 – 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +0.0% | und | I9 – 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +4.0% | und | I9 – 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | +0.0% | und | I9 – 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,91 | +11.9% | und | I9 – 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,91 | +0.0% | und | I9 – 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,13 | +7.6% | und | i9 500 ml | Port. 397/2016 |
@@ -6501,8 +6501,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 |  | und | Irorange Sabores – 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +0.0% | und | Irorange Sabores – 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 |  | und | Irorange Sabores – 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | +0.0% | und | Irorange Sabores – 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,72 | +4.6% | und | Irorange Sabores – 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,72 | +0.0% | und | Irorange Sabores – 500 ml | Port. 142/2016 |
 
@@ -6591,8 +6591,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,84 |  | und | Isotônico Santu Côco 500 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,95 | +6.0% | und | Isotônico Santu Côco 500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,95 | +0.0% | und | Isotônico Santu Côco 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | +4.1% | und | Isotônico Santu Côco 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,03 | +0.0% | und | Isotônico Santu Côco 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,03 | +4.1% | und | Isotônico Santu Côco 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | +0.0% | und | Isotônico Santu Côco 500 ml | Port. 157/2015 |
 
 ### Isotônico Santu Côco – Pet Descartável 500 ml (código —)
 
@@ -6902,8 +6902,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,11 |  | und | Marathon 500 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,25 | +6.6% | und | Marathon 500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,25 | +0.0% | und | Marathon 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,34 | +4.0% | und | Marathon 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,34 | +0.0% | und | Marathon 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,34 | +4.0% | und | Marathon 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,34 | +0.0% | und | Marathon 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,44 | +4.3% | und | Marathon - 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,44 | +0.0% | und | Marathon – 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,59 | +6.1% | und | Marathon 500 ml | Port. 397/2016 |
@@ -6917,8 +6917,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,95 |  | und | Marathon - 200 ml - copo | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,00 | +5.3% | und | Marathon - 200 ml - copo | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 | +0.0% | und | Marathon - 200 ml - copo | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,04 | +4.0% | und | Marathon – 200 ml – copo | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,04 | +0.0% | und | Marathon – 200 ml – copo | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,04 | +4.0% | und | Marathon – 200 ml – copo | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,04 | +0.0% | und | Marathon – 200 ml – copo | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,09 | +4.8% | und | Marathon – 200 ml – copo | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,09 | +0.0% | und | Marathon – 200 ml – copo | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,14 | +4.6% | und | Marathon 200 ml copo | Port. 397/2016 |
@@ -6992,8 +6992,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,43 | +6.1% | Und | Monster 500 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,70 | +5.0% | Und | Monster 500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,70 | +0.0% | Und | Monster 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,93 | +4.0% | Und | Monster 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,93 | +0.0% | Und | Monster 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,93 | +4.0% | Und | Monster 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,93 | +0.0% | Und | Monster 500 ml | Port. 157/2015 |
 | 2016-12-19 (pub.) | 2016-12-13 | incluir | 8,11 | +36.8% |  | Energético Monster 500 ml | Port. 441/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 8,11 | +0.0% | Und | Monster - 500 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 7,62 | -6.0% | Und | Monster - 500 ml | Port. 507/2017 |
@@ -7014,8 +7014,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,25 | +5.9% | und | Monster 120 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,43 | +5.5% | und | Monster 120 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,43 | +0.0% | und | Monster 120 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,57 | +4.1% | und | Monster 120 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,57 | +0.0% | und | Monster 120 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,57 | +4.1% | und | Monster 120 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,57 | +0.0% | und | Monster 120 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,73 | +4.5% | und | Monster - 120 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,73 | +0.0% | und | Monster – 120 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,86 | +3.5% | und | Monster 120 ml | Port. 397/2016 |
@@ -7220,8 +7220,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 6,20 |  | und | Net Power (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 6,50 | +4.8% | und | Net Power (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,50 | +0.0% | und | Net Power (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,76 | +4.0% | und | Net Power (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,76 | +0.0% | und | Net Power (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,76 | +4.0% | und | Net Power (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,76 | +0.0% | und | Net Power (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,06 | +4.4% | und | Net Power (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,06 | +0.0% | und | Net Power (1 L) | Port. 142/2016 |
 
@@ -7257,8 +7257,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 9,00 | +1.7% | und | Net Power Pet 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 9,50 | +5.6% | und | Net Power 2000 ml ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 9,50 | +0.0% | und | Net Power - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 10,76 | +13.3% | und | Net Power - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 10,76 | +0.0% | und | Net Power - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 10,76 | +13.3% | und | Net Power - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 10,76 | +0.0% | und | Net Power - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 11,24 | +4.5% | und | Net Power - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 11,24 | +0.0% | und | Net Power - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 12,59 | +12.0% | Und | Net Power - 2000 ml | Port. 397/2016 |
@@ -7288,8 +7288,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,55 | +0.0% | und | Net Power Pet 600 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,80 | +5.5% | und | Net Power Pet 600 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,80 | +0.0% | und | Net Power Pet 600 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,99 | +4.0% | und | Net Power Pet 600 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,99 | +0.0% | und | Net Power Pet 600 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,99 | +4.0% | und | Net Power Pet 600 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,99 | +0.0% | und | Net Power Pet 600 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,21 | +4.4% | und | Net Power - 600 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,21 | +0.0% | und | Net Power - 600 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,49 | +5.4% | und | Net Power - 600 ml | Port. 397/2016 |
@@ -7345,16 +7345,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,60 |  | Und | Net Power Lt 350 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,78 | +5.0% | Und | Net Power Lt 350 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,78 | +0.0% | Und | Net Power Lt 350 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,93 | +4.0% | Und | Net Power Lt 350 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,93 | +0.0% | Und | Net Power Lt 350 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,93 | +4.0% | Und | Net Power Lt 350 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,93 | +0.0% | Und | Net Power Lt 350 ml | Port. 157/2015 |
 
 ### Night Power (PET 1250 a 1,5 L) (código 48049)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 9,50 |  | und | Night Power - 1500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 9,88 | +4.0% | und | Night Power - 1500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,88 | +0.0% | und | Night Power - 1500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,88 | +4.0% | und | Night Power - 1500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 9,88 | +0.0% | und | Night Power - 1500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 10,32 | +4.5% | und | Night Power - 1500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 10,32 | +0.0% | und | Night Power - 1500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 11,56 | +12.0% | Und | Night Power - 1500 ml | Port. 397/2016 |
@@ -7421,8 +7421,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,85 |  | und | Night Power Pack – 269 ml - lata | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,04 | +3.9% | und | Night Power Pack – 269 ml - lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,04 | +0.0% | und | Night Power Pack – 269 ml - lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,04 | +3.9% | und | Night Power Pack – 269 ml - lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,04 | +0.0% | und | Night Power Pack – 269 ml - lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,27 | +4.6% | und | Night Power Pack – 269 ml - lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,27 | +0.0% | und | Night Power Pack – 269 ml – lata | Port. 142/2016 |
 
@@ -7431,8 +7431,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,95 |  | und | Night Power Regular – 269 ml - lata | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,15 | +4.0% | und | Night Power Regular – 269 ml - lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,15 | +0.0% | und | Night Power Regular – 269 ml - lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,15 | +4.0% | und | Night Power Regular – 269 ml - lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,15 | +0.0% | und | Night Power Regular – 269 ml - lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,38 | +4.5% | und | Night Power Regular – 269 ml - lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,38 | +0.0% | und | Night Power Regular – 269 ml – lata | Port. 142/2016 |
 
@@ -7495,8 +7495,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,85 |  | und | Nigth Power - 250 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,09 | +4.9% | und | Nigth Power - 250 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,09 | +0.0% | und | Nigth Power - 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,29 | +3.9% | und | Nigth Power - 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,29 | +0.0% | und | Nigth Power - 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,29 | +3.9% | und | Nigth Power - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,29 | +0.0% | und | Nigth Power - 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,21 | -1.5% | und | Nigth Power - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,21 | +0.0% | und | Nigth Power – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,40 | +3.6% | und | Nigth Power 250 ml | Port. 397/2016 |
@@ -7515,8 +7515,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,65 |  | und | Ninja Guaraná 10 ml pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,68 | +4.6% | und | Ninja Guaraná 10 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,68 | +0.0% | und | Ninja Guaraná 10 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,68 | +4.6% | und | Ninja Guaraná 10 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,68 | +0.0% | und | Ninja Guaraná 10 ml pet | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,71 | +4.4% | und | Ninja Guaraná - 10 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,71 | +0.0% | und | Ninja Guaraná – 10 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,74 | +4.2% | und | Ninja Guaraná 10 ml pet ⚠ | Port. 397/2016 |
@@ -7545,8 +7545,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,72 |  | und | Ninja Guaraná 20 ml pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,77 | +6.9% | und | Ninja Guaraná 20 ml pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,77 | +0.0% | und | Ninja Guaraná 20 ml pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,80 | +3.9% | und | Ninja Guaraná 20 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,80 | +0.0% | und | Ninja Guaraná 20 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,80 | +3.9% | und | Ninja Guaraná 20 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,80 | +0.0% | und | Ninja Guaraná 20 ml pet | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,84 | +5.0% | und | Ninja Guaraná - 20 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,84 | +0.0% | und | Ninja Guaraná – 20 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,87 | +3.6% | und | Ninja Guaraná 20 ml pet ⚠ | Port. 397/2016 |
@@ -7575,8 +7575,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,65 |  | und | Ninja Guaraná 50 ml pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,75 | +6.1% | und | Ninja Guaraná 50 ml pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,75 | +0.0% | und | Ninja Guaraná 50 ml pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 | +4.0% | und | Ninja Guaraná 50 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,82 | +0.0% | und | Ninja Guaraná 50 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,82 | +4.0% | und | Ninja Guaraná 50 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | +0.0% | und | Ninja Guaraná 50 ml pet | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,90 | +4.4% | und | Ninja Guaraná - 50 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,90 | +0.0% | und | Ninja Guaraná – 50 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,97 | +3.7% | und | Ninja Guaraná 50 ml pet ⚠ | Port. 397/2016 |
@@ -7605,8 +7605,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 7,05 |  | und | Ninja power (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 7,40 | +5.0% | und | Ninja power (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 7,40 | +0.0% | und | Ninja power (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,70 | +4.1% | und | Ninja power (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,70 | +0.0% | und | Ninja power (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,70 | +4.1% | und | Ninja power (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,70 | +0.0% | und | Ninja power (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,04 | +4.4% | und | Ninja power (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,04 | +0.0% | und | Ninja power (1 L) | Port. 142/2016 |
 
@@ -7640,8 +7640,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 8,80 |  | und | Ninja power 1500 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 9,25 | +5.1% | und | Ninja power 1500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 9,25 | +0.0% | und | Ninja Power - 1500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 9,62 | +4.0% | und | Ninja Power - 1500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,62 | +0.0% | und | Ninja Power - 1500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,62 | +4.0% | und | Ninja Power - 1500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 9,62 | +0.0% | und | Ninja Power - 1500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 10,05 | +4.5% | und | Ninja Power - 1500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 10,05 | +0.0% | und | Ninja Power - 1500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 11,26 | +12.0% | und | Ninja Power - 1500 ml | Port. 397/2016 |
@@ -7670,8 +7670,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 9,84 |  | und | Ninja power 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 10,35 | +5.2% | und | Ninja power 2000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 10,35 | +0.0% | und | Ninja Power - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 10,76 | +4.0% | und | Ninja Power - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 10,76 | +0.0% | und | Ninja Power - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 10,76 | +4.0% | und | Ninja Power - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 10,76 | +0.0% | und | Ninja Power - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 11,24 | +4.5% | und | Ninja Power - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 11,24 | +0.0% | und | Ninja Power - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 12,59 | +12.0% | und | Ninja Power - 2000 ml | Port. 397/2016 |
@@ -7700,8 +7700,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,35 |  | und | Ninja power 250 ml pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,52 | +5.1% | und | Ninja power 250 ml pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,52 | +0.0% | und | Ninja Power 250 ml pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,66 | +4.0% | und | Ninja Power 250 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,66 | +0.0% | und | Ninja Power 250 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,66 | +4.0% | und | Ninja Power 250 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,66 | +0.0% | und | Ninja Power 250 ml pet | Port. 157/2015 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,96 | +8.2% | und | Ninja power 250 ml pet | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,96 | +0.0% | und | Ninja power - 250 ml - pet | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,04 | +2.0% | und | Ninja power - 250 ml - pet | Port. 507/2017 |
@@ -7728,8 +7728,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,50 |  | und | Ninja power 290 ml pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,68 | +5.1% | und | Ninja power 290 ml pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,68 | +0.0% | und | Ninja power 290 ml pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,83 | +4.1% | und | Ninja power 290 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,83 | +0.0% | und | Ninja power 290 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,83 | +4.1% | und | Ninja power 290 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,83 | +0.0% | und | Ninja power 290 ml pet | Port. 157/2015 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,14 | +8.1% | und | Ninja power 290 ml pet | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,14 | +0.0% | und | Ninja power - 290 ml - pet | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 4,22 | +1.9% | und | Ninja power - 290 ml - pet | Port. 507/2017 |
@@ -7756,8 +7756,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,97 |  | und | Ninja power 100 ml pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,07 | +5.1% | und | Ninja power 100 ml pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,07 | +0.0% | und | Ninja Power 100 ml pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,15 | +3.9% | und | Ninja Power 100 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +0.0% | und | Ninja Power 100 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +3.9% | und | Ninja Power 100 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,15 | +0.0% | und | Ninja Power 100 ml pet | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,25 | +4.7% | und | Ninja Power - 100 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,25 | +0.0% | und | Ninja Power – 100 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,33 | +3.6% | und | Ninja power 100 ml pet ⚠ | Port. 397/2016 |
@@ -7877,8 +7877,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,10 |  | und | On Line - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,42 | +4.0% | und | On Line - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,42 | +0.0% | und | On Line - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,42 | +4.0% | und | On Line - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,42 | +0.0% | und | On Line - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,80 | +4.5% | und | On Line - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,80 | +0.0% | und | On Line - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 9,86 | +12.0% | Und | On Line - 2000 ml | Port. 397/2016 |
@@ -7900,8 +7900,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,90 | +6.0% | und | On Line 270 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,10 | +5.1% | und | On Line 270 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,10 | +0.0% | und | On Line 270 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,26 | +3.9% | und | On Line 270 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,26 | +0.0% | und | On Line 270 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,26 | +3.9% | und | On Line 270 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,26 | +0.0% | und | On Line 270 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,45 | +4.5% | und | On Line - 270 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,45 | +0.0% | und | On Line – 270 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,61 | +3.6% | und | On Line 270 ml | Port. 397/2016 |
@@ -7911,7 +7911,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,00 |  | und | On Lione (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,24 | +4.0% | und | On Lione (1 L) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,24 | +4.0% | und | On Lione (1 L) | Port. 157/2015 |
 
 ### One Token Energy Drink Coco Açai Suggarfree + Creatina (lata 355 a 375 ml) (código 54205)
 
@@ -7978,8 +7978,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 12,50 | +263.4% | und | Outras Marcas (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 12,50 | +0.0% | und | Outras Marcas (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 12,50 | +0.0% | und | Outras Marcas (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 13,00 | +4.0% | und | Outras Marcas (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 13,00 | +0.0% | und | Outras Marcas (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 13,00 | +4.0% | und | Outras Marcas (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 13,00 | +0.0% | und | Outras Marcas (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 13,50 | +3.8% | und | Outras Marcas (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 13,50 | +0.0% | und | Outras Marcas (1 L) | Port. 142/2016 |
 
@@ -7999,8 +7999,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 15,50 |  | und | Outras Marcas (1,5 a 3 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 15,50 | +0.0% | und | Outras Marcas (1,5 a 3 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 15,50 | +0.0% | und | Outras Marcas de 1500 a 3000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 16,12 | +4.0% | und | Outras Marcas de 1500 a 3000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 16,12 | +0.0% | und | Outras Marcas de 1500 a 3000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 16,12 | +4.0% | und | Outras Marcas de 1500 a 3000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 16,12 | +0.0% | und | Outras Marcas de 1500 a 3000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 16,90 | +4.8% | und | Outras Marcas - de 1500 a 3000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 16,90 | +0.0% | und | Outras Marcas - de 1500 a 3000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 18,93 | +12.0% | und | Outras Marcas - de 1500 a 3000 ml | Port. 397/2016 |
@@ -8068,8 +8068,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 1,31 | +0.0% | und | Outras Marcas (até 399 ml) | Port. 469/2010 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,50 | +90.8% | und | Outras Marcas (até 399 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 | +0.0% | und | Outras Marcas (até 399 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +4.0% | und | Outras Marcas (até 399 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +0.0% | und | Outras Marcas (até 399 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +4.0% | und | Outras Marcas (até 399 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | +0.0% | und | Outras Marcas (até 399 ml) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,80 | +7.7% | und | Outras Marcas (até 399 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,80 | +0.0% | und | Outras Marcas (até 399 ml) | Port. 142/2016 |
 
@@ -8333,8 +8333,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,50 | -63.2% | und | Outras Marcas (400 a 600 ml) | Port. 74/2013 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 9,50 | +171.4% | und | Outras Marcas (311 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,50 | -63.2% | und | Outras Marcas (400 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,64 | +4.0% | und | Outras Marcas (400 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,64 | +0.0% | und | Outras Marcas (400 a 600 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,64 | +4.0% | und | Outras Marcas (400 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,64 | +0.0% | und | Outras Marcas (400 a 600 ml) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,80 | +4.4% | und | Outras Marcas (400 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,80 | +0.0% | und | Outras Marcas (400 a 600 ml) | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,03 | +6.1% | und | Outras Marcas – 400 a 600 ml | Port. 222/2017 |
@@ -8395,8 +8395,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 7,50 | +5.8% | und | Outras Marcas (até 310 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 7,50 | +0.0% | und | Outras Marcas (até 310 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 7,50 | +0.0% | und | Outras Marcas (até 310 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,80 | +4.0% | und | Outras Marcas (até 310 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,80 | +0.0% | und | Outras Marcas (até 310 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,80 | +4.0% | und | Outras Marcas (até 310 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,80 | +0.0% | und | Outras Marcas (até 310 ml) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,20 | +5.1% | und | Outras Marcas – até 310 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,20 | +0.0% | und | Outras Marcas – até 310 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 8,50 | +3.7% | und | Outras Marcas até 310 ml | Port. 397/2016 |
@@ -8416,8 +8416,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 9,50 |  | und | Outras Marcas (311 a 710 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 9,88 | +4.0% | und | Outras Marcas (311 a 710 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,88 | +0.0% | und | Outras Marcas (311 a 710 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,88 | +4.0% | und | Outras Marcas (311 a 710 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 9,88 | +0.0% | und | Outras Marcas (311 a 710 ml) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 10,40 | +5.3% | und | Outras Marcas – de 311 a 710 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 10,40 | +0.0% | und | Outras Marcas – de 311 a 710 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,96 | +5.4% | und | Outras Marcas – de 311 a 710 ml | Port. 397/2016 |
@@ -8443,8 +8443,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,90 | +1.8% | und | Palmeiron (400 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,05 | +5.2% | und | Palmeiron (400 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,05 | +0.0% | und | Palmeiron (400 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,17 | +3.9% | und | Palmeiron (400 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,17 | +0.0% | und | Palmeiron (400 a 600 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,17 | +3.9% | und | Palmeiron (400 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,17 | +0.0% | und | Palmeiron (400 a 600 ml) | Port. 157/2015 |
 
 ### Palmeiron (PET 400 a 600 ml) (código —)
 
@@ -8488,8 +8488,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,23 |  | und | Panico Energy Drink 250 ml lata | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,40 | +4.0% | und | Panico Energy Drink 250 ml lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,40 | +0.0% | und | Panico Energy Drink 250 ml lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,40 | +4.0% | und | Panico Energy Drink 250 ml lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,40 | +0.0% | und | Panico Energy Drink 250 ml lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,60 | +4.5% | und | Panico Energy Drink - 250 ml lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,60 | +0.0% | und | Panico Energy Drink – 250 ml lata | Port. 142/2016 |
 | 2024-02-01 (pub.) | 2024-01-26 | alterar | 6,11 | +32.8% | und | Panicoenergy drink (lata 250 ml) ⚠ | Port. 31/2024 |
@@ -8615,8 +8615,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 7,20 |  | und | Power Bull (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 7,40 | +2.8% | und | Power Bull (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 7,40 | +0.0% | und | Power Bull (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,70 | +4.1% | und | Power Bull (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,70 | +0.0% | und | Power Bull (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,70 | +4.1% | und | Power Bull (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,70 | +0.0% | und | Power Bull (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,70 | +0.0% | und | Power Bull (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,70 | +0.0% | und | Power Bull (1 L) | Port. 142/2016 |
 
@@ -8673,8 +8673,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,48 |  | und | Power Bull - 270 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,70 | +4.9% | und | Power Bull - 270 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,70 | +0.0% | und | Power Bull - 270 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,89 | +4.0% | und | Power Bull - 270 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,89 | +0.0% | und | Power Bull - 270 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,89 | +4.0% | und | Power Bull - 270 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,89 | +0.0% | und | Power Bull - 270 ml | Port. 157/2015 |
 
 ### Power Bull - 500 ml (código —)
 
@@ -8683,8 +8683,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,61 |  | und | Power Bull - 500 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,90 | +5.2% | und | Power Bull - 500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,90 | +0.0% | und | Power Bull - 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,14 | +4.1% | und | Power Bull - 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,14 | +0.0% | und | Power Bull - 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,14 | +4.1% | und | Power Bull - 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,14 | +0.0% | und | Power Bull - 500 ml | Port. 157/2015 |
 
 ### Power Bull 269 ml (código —)
 
@@ -8698,8 +8698,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 9,35 |  | und | Power Bull Buster – 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,35 | +0.0% | und | Power Bull Buster – 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,35 |  | und | Power Bull Buster – 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 9,35 | +0.0% | und | Power Bull Buster – 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,35 | +0.0% | und | Power Bull Buster – 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 9,35 | +0.0% | und | Power Bull Buster – 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,47 | +12.0% | und | Power Bull Buster – 2000 ml | Port. 397/2016 |
@@ -8759,8 +8759,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,99 |  | und | Powerade - 500ml - pet | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,10 | +3.7% | und | Powerade - 500ml ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,10 | +0.0% | und | Powerade - 500ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,22 | +3.9% | und | Powerade – 500ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,22 | +0.0% | und | Powerade – 500ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,22 | +3.9% | und | Powerade – 500ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,22 | +0.0% | und | Powerade – 500ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,51 | +9.0% | und | Powerade – 500ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,51 | +0.0% | und | Powerade – 500ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,76 | +7.1% | und | Powerade 500ml | Port. 397/2016 |
@@ -8795,8 +8795,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 6,89 |  | und | Psiu teen power (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 7,20 | +4.5% | und | Psiu teen power (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 7,20 | +0.0% | und | Psiu teen power (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,49 | +4.0% | und | Psiu teen power (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,49 | +0.0% | und | Psiu teen power (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,49 | +4.0% | und | Psiu teen power (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,49 | +0.0% | und | Psiu teen power (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,38 | -1.5% | und | Psiu teen power (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,38 | +0.0% | und | Psiu teen power (1 L) | Port. 142/2016 |
 
@@ -8918,8 +8918,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,76 | +5.8% | und | Psiu teen power 500 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,00 | +5.0% | und | Psiu teen power 500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,00 | +0.0% | und | Psiu teen power 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,20 | +4.0% | und | Psiu teen power 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,20 | +0.0% | und | Psiu teen power 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,20 | +4.0% | und | Psiu teen power 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,20 | +0.0% | und | Psiu teen power 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,39 | +3.7% | und | Psiu teen power - 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,39 | +0.0% | und | Psiu teen power - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,68 | +5.4% | und | Psiu teen power - 500 ml | Port. 397/2016 |
@@ -8944,8 +8944,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,63 |  | und | Psiu Teen power 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,74 | +4.2% | und | Psiu Teen power 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,74 | +0.0% | und | Psiu Teen power 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,74 | +4.2% | und | Psiu Teen power 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,74 | +0.0% | und | Psiu Teen power 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,30 | +20.4% | und | Psiu Teen power - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,30 | +0.0% | und | Psiu Teen power – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,42 | +3.6% | und | Psiu Teen power 250 ml | Port. 397/2016 |
@@ -9033,8 +9033,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 6,60 | +37.5% | und | Red Bull - 250 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 6,95 | +5.3% | und | Red Bull - 250 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,95 | +0.0% | und | Red Bull - 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,23 | +4.0% | und | Red Bull - 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,23 | +0.0% | und | Red Bull - 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,23 | +4.0% | und | Red Bull - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,23 | +0.0% | und | Red Bull - 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,06 | -2.4% | und | Red Bull - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,06 | +0.0% | und | Red Bull – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,07 | +0.1% | und | Red Bull 250 ml | Port. 397/2016 |
@@ -9066,8 +9066,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 7,40 | +7.7% | und | Red Bull 355 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 7,75 | +4.7% | und | Red Bull 355 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 7,75 | +0.0% | und | Red Bull 355 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,06 | +4.0% | und | Red Bull 355 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,06 | +0.0% | und | Red Bull 355 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,06 | +4.0% | und | Red Bull 355 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,06 | +0.0% | und | Red Bull 355 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,06 | +12.4% | und | Red Bull - 355 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 9,06 | +0.0% | und | Red Bull - 355 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 9,32 | +2.9% | und | Red Bull - 355 ml | Port. 397/2016 |
@@ -9096,8 +9096,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 8,50 |  | und | Red Bull 473 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 8,90 | +4.7% | und | Red Bull 473 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,90 | +0.0% | und | Red Bull 473 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 9,26 | +4.0% | und | Red Bull 473 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,26 | +0.0% | und | Red Bull 473 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,26 | +4.0% | und | Red Bull 473 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 9,26 | +0.0% | und | Red Bull 473 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 11,10 | +19.9% | und | Red Bull - 473 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 11,10 | +0.0% | und | Red Bull - 473 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 11,69 | +5.3% | und | Red Bull - 473 ml | Port. 397/2016 |
@@ -9451,8 +9451,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,00 |  | Und | Red Hot - 250 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,20 | +5.0% | Und | Red Hot - 250 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,20 | +0.0% | Und | Red Hot - 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,37 | +4.0% | Und | Red Hot - 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,37 | +0.0% | Und | Red Hot - 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,37 | +4.0% | Und | Red Hot - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,37 | +0.0% | Und | Red Hot - 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,57 | +4.6% | Und | Red Hot - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,57 | +0.0% | und | Red Hot – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,73 | +3.5% | und | Red Hot 250 ml | Port. 397/2016 |
@@ -9559,8 +9559,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,20 |  | und | Red Tiger (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,45 | +4.0% | und | Red Tiger (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,45 | +0.0% | und | Red Tiger (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,45 | +4.0% | und | Red Tiger (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,45 | +0.0% | und | Red Tiger (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,74 | +4.5% | und | Red Tiger (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,74 | +0.0% | und | Red Tiger (1 L) | Port. 142/2016 |
 
@@ -9592,8 +9592,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,50 |  | und | Red Tiger – 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,84 | +4.0% | und | Red Tiger – 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,84 | +0.0% | und | Red Tiger – 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,84 | +4.0% | und | Red Tiger – 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,84 | +0.0% | und | Red Tiger – 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,24 | +4.5% | und | Red Tiger – 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 9,24 | +0.0% | und | Red Tiger – 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,35 | +12.0% | Und | Red Tiger – 2000 ml | Port. 397/2016 |
@@ -9822,8 +9822,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,38 | +6.1% | Und | Speed Up 250 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,60 | +5.0% | Und | Speed Up 250 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,60 | +0.0% | Und | Speed Up 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,78 | +3.9% | Und | Speed Up 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,78 | +0.0% | Und | Speed Up 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,78 | +3.9% | Und | Speed Up 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,78 | +0.0% | Und | Speed Up 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,99 | +4.4% | Und | Speed Up - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,99 | +0.0% | und | Speed Up – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,17 | +3.6% | und | Speed Up 250 ml | Port. 397/2016 |
@@ -9856,8 +9856,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 6,57 | +6.0% | und | Speed Up 473ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 6,90 | +5.0% | und | Speed Up 473ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,90 | +0.0% | und | Speed Up 473ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,16 | +3.8% | und | Speed Up 473ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,16 | +0.0% | und | Speed Up 473ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,16 | +3.8% | und | Speed Up 473ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,16 | +0.0% | und | Speed Up 473ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,48 | +4.5% | und | Speed Up - 473ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,48 | +0.0% | und | Speed Up - 473ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,88 | +5.3% | und | Speed Up - 473ml | Port. 397/2016 |
@@ -9889,8 +9889,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,10 | +5.4% | und | Sports Drinks 250 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,30 | +4.9% | und | Sports Drinks 250 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,30 | +0.0% | und | Sports Drinks 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,47 | +4.0% | und | Sports Drinks 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,47 | +0.0% | und | Sports Drinks 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,47 | +4.0% | und | Sports Drinks 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,47 | +0.0% | und | Sports Drinks 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,67 | +4.5% | und | Sports Drinks - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,67 | +0.0% | und | Sports Drinks – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,84 | +3.6% | und | Sports Drinks 250 ml | Port. 397/2016 |
@@ -9996,8 +9996,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,53 |  | und | TNT - 269 ml - lata | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,75 | +4.0% | und | TNT 269 ml lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,75 | +0.0% | und | TNT 269 ml lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,75 | +4.0% | und | TNT 269 ml lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,75 | +0.0% | und | TNT 269 ml lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,82 | +1.2% | und | TNT - 269 ml lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,82 | +0.0% | und | TNT – 269 ml lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,86 | +0.7% | Und | TNT 269 ml lata | Port. 397/2016 |
@@ -10008,8 +10008,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,61 |  | und | TNT 350 ml lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,61 | +0.0% | und | TNT 350 ml lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,61 |  | und | TNT 350 ml lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,61 | +0.0% | und | TNT 350 ml lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,91 | +4.5% | und | TNT - 350 ml - lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,91 | +0.0% | und | TNT - 350 ml - lata | Port. 142/2016 |
 
@@ -10017,8 +10017,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,19 |  | und | TNT 473 ml lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,19 | +0.0% | und | TNT 473 ml lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,19 |  | und | TNT 473 ml lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,19 | +0.0% | und | TNT 473 ml lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,51 | +4.5% | und | TNT - 473 ml - lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,51 | +0.0% | und | TNT - 473 ml - lata | Port. 142/2016 |
 
@@ -10549,8 +10549,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,69 |  | und | Tsunami (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 6,00 | +5.4% | und | Tsunami (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,00 | +0.0% | und | Tsunami (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,34 | +5.7% | und | Tsunami (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,34 | +0.0% | und | Tsunami (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,34 | +5.7% | und | Tsunami (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,34 | +0.0% | und | Tsunami (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,62 | +4.4% | und | Tsunami (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,62 | +0.0% | und | Tsunami (1 L) | Port. 142/2016 |
 
@@ -10561,8 +10561,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,19 |  | und | Tsunami - 269 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,35 | +5.0% | und | Tsunami - 269 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,35 | +0.0% | und | Tsunami - 269 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,48 | +3.9% | und | Tsunami - 269 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,48 | +0.0% | und | Tsunami - 269 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,48 | +3.9% | und | Tsunami - 269 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,48 | +0.0% | und | Tsunami - 269 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,64 | +4.6% | und | Tsunami - 269 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,64 | +0.0% | und | Tsunami – 269 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,77 | +3.6% | und | Tsunami 269 ml | Port. 397/2016 |
@@ -10614,8 +10614,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 7,98 |  | und | Tsunami - 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 8,50 | +6.5% | und | Tsunami - 2000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,50 | +0.0% | und | Tsunami - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,84 | +4.0% | und | Tsunami - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,84 | +0.0% | und | Tsunami - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,84 | +4.0% | und | Tsunami - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,84 | +0.0% | und | Tsunami - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,24 | +4.5% | und | Tsunami - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 9,24 | +0.0% | und | Tsunami - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,35 | +12.0% | Und | Tsunami - 2000 ml | Port. 397/2016 |
@@ -10747,8 +10747,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 7,95 |  | und | Vulcano (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 8,35 | +5.0% | und | Vulcano (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,35 | +0.0% | und | Vulcano (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,68 | +4.0% | und | Vulcano (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,68 | +0.0% | und | Vulcano (1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,68 | +4.0% | und | Vulcano (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,68 | +0.0% | und | Vulcano (1 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,54 | +9.9% | und | Vulcano (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 9,54 | +0.0% | und | Vulcano (1 L) | Port. 142/2016 |
 
@@ -10777,8 +10777,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,30 |  | und | Vulcano Lata - 250 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,48 | +5.5% | und | Vulcano Lata - 250 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,48 | +0.0% | und | Vulcano Lata - 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,62 | +4.0% | und | Vulcano Lata - 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,62 | +0.0% | und | Vulcano Lata - 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,62 | +4.0% | und | Vulcano Lata - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,62 | +0.0% | und | Vulcano Lata - 250 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,66 | +28.7% | und | Vulcano - 250 ml - lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,66 | +0.0% | und | Vulcano – 250 ml – lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,83 | +3.6% | und | Vulcano Lata 250ml | Port. 397/2016 |
@@ -10804,8 +10804,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,89 |  | und | Vulcano – 473 ml – Lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,89 | +0.0% | und | Vulcano – 473 ml – Lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,89 |  | und | Vulcano – 473 ml – Lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,89 | +0.0% | und | Vulcano – 473 ml – Lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,72 | +14.1% | und | Vulcano – 473 ml – Lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,72 | +0.0% | und | Vulcano – 473 ml – Lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,08 | +5.4% | und | Vulcano – 473 ml – Lata | Port. 397/2016 |
@@ -10856,8 +10856,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 6,12 |  | und | Vulcano 500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,12 | +0.0% | und | Vulcano 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,36 | +3.9% | und | Vulcano 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,36 | +0.0% | und | Vulcano 500 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,36 | +3.9% | und | Vulcano 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,36 | +0.0% | und | Vulcano 500 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,90 | +8.5% | und | Vulcano - 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,90 | +0.0% | und | Vulcano - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,48 | +8.4% | Und | Vulcano - 500 ml | Port. 397/2016 |
@@ -10883,8 +10883,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,99 |  | und | Vulcano – 350 ml – Lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,99 | +0.0% | und | Vulcano – 350 ml – Lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,99 |  | und | Vulcano – 350 ml – Lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,99 | +0.0% | und | Vulcano – 350 ml – Lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,17 | +4.5% | und | Vulcano – 350 ml – Lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,17 | +0.0% | und | Vulcano – 350 ml – Lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,40 | +5.5% | und | Vulcano – 350 ml – Lata | Port. 397/2016 |
@@ -10910,8 +10910,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,39 |  | und | Vulcano – 710 ml - Lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,39 | +0.0% | und | Vulcano – 710 ml - Lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,39 |  | und | Vulcano – 710 ml - Lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,39 | +0.0% | und | Vulcano – 710 ml - Lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,68 | +4.5% | und | Vulcano – 710 ml - Lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,68 | +0.0% | und | Vulcano – 710 ml - Lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,04 | +5.4% | und | Vulcano – 710 ml - Lata | Port. 397/2016 |
@@ -10992,8 +10992,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,00 |  | und | Vulcano Energy drink 250 ml pet | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,00 | +0.0% | und | Vulcano Energy drink 250 ml pet | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,12 | +4.0% | und | Vulcano Energy drink 250 ml pet | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +0.0% | und | Vulcano Energy drink 250 ml pet | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +4.0% | und | Vulcano Energy drink 250 ml pet | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,12 | +0.0% | und | Vulcano Energy drink 250 ml pet | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +4.5% | und | Vulcano Energy drink - 250 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,26 | +0.0% | und | Vulcano Energy drink – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,38 | +3.7% | und | Vulcano Energy drink 250 ml pet ⚠ | Port. 397/2016 |
@@ -11378,8 +11378,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 11,65 |  | und | Vulcano - 2000 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 12,25 | +5.2% | und | Vulcano - 2000 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 12,25 | +0.0% | und | Vulcano - 2000 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 12,74 | +4.0% | und | Vulcano - 2000 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 12,74 | +0.0% | und | Vulcano - 2000 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 12,74 | +4.0% | und | Vulcano - 2000 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 12,74 | +0.0% | und | Vulcano - 2000 ml | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 15,40 | +20.9% | und | Vulcano - 2000 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 15,40 | +0.0% | und | Vulcano - 2000 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 17,22 | +11.8% | Und | Vulcano - 2000 ml | Port. 397/2016 |
@@ -11404,8 +11404,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,87 |  | und | Vulcano – 458 ml – Lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,87 | +0.0% | und | Vulcano – 458 ml – Lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,87 |  | und | Vulcano – 458 ml – Lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,87 | +0.0% | und | Vulcano – 458 ml – Lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,13 | +4.4% | und | Vulcano – 458 ml – Lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,13 | +0.0% | und | Vulcano – 458 ml – Lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,46 | +5.4% | und | Vulcano – 458 ml – Lata | Port. 397/2016 |
@@ -11534,8 +11534,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2009-02-06 (assin.) | 2009-02-06 | incluir | 3,30 |  |  | Energético X - Treme 250 ml | Port. 37/2009 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,78 | +14.5% | und | X-Treme – 250 ml - lata ⚠ | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,93 | +4.0% | und | X-Treme – 250 ml – lata | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,93 | +0.0% | und | X-Treme – 250 ml - lata | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,93 | +4.0% | und | X-Treme – 250 ml - lata | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,93 | +0.0% | und | X-Treme – 250 ml – lata | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,11 | +4.6% | und | X-Treme – 250 ml - lata | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,11 | +0.0% | und | X-Treme – 250 ml – lata | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,26 | +3.6% | und | X-treme 250 ml ⚠ | Port. 397/2016 |
@@ -11603,10 +11603,10 @@ Links para o texto de cada portaria usada acima.
 - Port. 24/2014: [Portaria nº 24/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=40e9a1a8-596b-4df5-ab30-ea7bae8d0a57), vigência 2014-01-30 (pub.)
 - Port. 77/2014: [Portaria nº 77/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=64f25695-54d2-43b8-bddb-8d69f47616d3), vigência 2014-03-07 (pub.)
 - Port. 78/2014: [Portaria nº 78/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5af88718-935b-4e63-8c22-8ca7bdf037c0), vigência 2014-03-07 (pub.)
-- Port. 157/2014: [Portaria nº 157/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2014-05-29 (pub.)
 - Port. 236/2014: [Portaria nº 236/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca97cc93-4fb4-4663-9fe1-87d5059ee4a3), vigência 2014-09-03 (pub.)
 - Port. 275/2014: [Portaria nº 275/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=76352367-dc07-49f8-a444-d661a4ab9335), vigência 2014-10-29 (pub.)
 - Port. 176/2015: [Portaria nº 176/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5cb442e4-bce1-4b23-a633-17e200165e14), vigência 2015-03-23 (assin.)
+- Port. 157/2015: [Portaria nº 157/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2015-05-29 (pub.)
 - Port. 463/2015: [Portaria nº 463/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=72cba1e0-3573-42a0-9590-9f3ddfa036b6), vigência 2015-10-02 (pub.)
 - Port. 124/2016: [Portaria nº 124/2016](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=706207dd-3503-4bd6-b01b-232471b99e86), vigência 2016-04-13 (pub.)
 - Port. 142/2016: [Portaria nº 142/2016](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=153371ce-ac23-4b56-961f-2b5f6dc6e1e0), vigência 2016-05-03 (pub.)

@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: vinhos, espumantes e fermentados"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 11
 registros: 410
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2020.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (387)
@@ -2795,7 +2795,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: cimento"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 22
 registros: 128
 ---
@@ -2809,7 +2809,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2011.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (21)
@@ -3174,7 +3174,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: madeira: em tora, serrada, beneficiada e para cerca"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 15
 registros: 2595
 ---
@@ -3188,7 +3188,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2008.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (325)
@@ -8443,7 +8443,7 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: materiais de construção: lajotas, telhas, tijolos, blocos, areia, barro, pedras, gesso, mármores e granitos"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 30
 registros: 1167
 ---
@@ -8457,7 +8457,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (131)
@@ -10697,9 +10697,9 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: pecuária (Grupo 06: bovinos, búfalos, caprinos, equinos, ovinos, suínos, aves e outros animais)"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
-portarias: 29
-registros: 1226
+gerado_em: "2026-11-14"
+portarias: 28
+registros: 1224
 ---
 
 # Tabela de Valores de Referência (ICMS): pecuária (Grupo 06: bovinos, búfalos, caprinos, equinos, ovinos, suínos, aves e outros animais)
@@ -10711,7 +10711,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2004.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (182)
@@ -12063,8 +12063,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2005-05-16 (pub.) | 2005-05-11 | alterar | 2,56 | -32.6% | Kg | COURO SALMOURADO MANUAL | Port. 276/2005 |
 | 2005-10-20 (pub.) | 2005-10-14 | alterar | 2,08 | -18.8% | Kg | Couro Salmourado Manual | Port. 511/2005 |
 | 2007-02-23 (assin.) | 2007-02-23 | alterar | 2,00 | -3.8% | Kg | Couro Salmourado Manual | Port. 135/2007 |
-| 2007-05-28 (pub.) | 2007-05-22 | alterar | 3,00 | +50.0% | Kg | Couro Salmourado Manual | Port. 284/2007 |
-| 2008-05-08 (pub.) | 2008-04-29 | alterar | 3,00 | +0.0% | Kg | couro salmourado manual | Port. 233/2008 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 3,00 | +50.0% | Kg | couro salmourado manual | Port. 233/2008 |
 
 ### couro salmourado manual (código —)
 
@@ -12080,8 +12079,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2005-05-16 (pub.) | 2005-05-11 | alterar | 3,00 | -25.0% | Kg | COURO SALMOURADO MECÂNICO | Port. 276/2005 |
 | 2005-10-20 (pub.) | 2005-10-14 | alterar | 2,16 | -28.0% | Kg | Couro Salmourado Mecânico | Port. 511/2005 |
 | 2007-02-23 (assin.) | 2007-02-23 | alterar | 2,00 | -7.4% | Kg | Couro Salmourado Mecânico | Port. 135/2007 |
-| 2007-05-28 (pub.) | 2007-05-22 | alterar | 3,00 | +50.0% | Kg | Couro Salmourado Mecânico | Port. 284/2007 |
-| 2008-05-08 (pub.) | 2008-04-29 | alterar | 3,00 | +0.0% | Kg | couro salmourado mecânico | Port. 233/2008 |
+| 2008-05-08 (pub.) | 2008-04-29 | alterar | 3,00 | +50.0% | Kg | couro salmourado mecânico | Port. 233/2008 |
 
 ### couro salmourado mecânico (código —)
 
@@ -13988,7 +13986,6 @@ Links para o texto de cada portaria usada acima.
 - Port. 511/2005: [Portaria nº 511/2005](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82a1f8da-e967-4d32-8f82-c5cede81cf08), vigência 2005-10-20 (pub.)
 - Port. 447/2006: [Portaria nº 447/2006](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f943d829-dcfe-4814-bfec-65c97a7baa22), vigência 2006-08-23 (pub.)
 - Port. 135/2007: [Portaria nº 135/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=899fba4b-33ea-4081-8448-eca52c2b4962), vigência 2007-02-23 (assin.)
-- Port. 284/2007: [Portaria nº 284/2007](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b9d8524f-b38f-4fe2-8f32-b920bfa0d9f6), vigência 2007-05-28 (pub.)
 - Port. 233/2008: [Portaria nº 233/2008](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3c4eb736-9388-4204-8d37-a84a29680f1e), vigência 2008-05-08 (pub.)
 - Port. 6/2010: [Portaria nº 6/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8fe3f683-ce6e-4241-bce2-8f5d9c51d441), vigência 2010-01-18 (efeitos)
 - Port. 245/2010: [Portaria nº 245/2010](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6a3d618f-ec54-4830-bd5b-e494dbf834de), vigência 2010-08-23 (pub.)

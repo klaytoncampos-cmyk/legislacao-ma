@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: sorvetes e picolés"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
+gerado_em: "2026-11-14"
 portarias: 43
 registros: 2193
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2016.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (418)
@@ -801,19 +801,19 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 
 | código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
 |---|---|---|---|---|
-| — | Picolé Aalpino 80 ML | 6,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Aalpino 80 ML | 6,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Alpino Pic 80 ml | 7,00 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Bubbaloo 60 ML | 4,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Bubbaloo 60 ML | 4,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Caramello Salato 85 ML | 10,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Caramello Salato 98 ml | 9,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Caramello Salato 98 ml | 9,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Chambinho Pic 65 ml | 4,50 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé CHAMBINHO Sorvete Morango 65 ML | 4,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Chocolate 58 ML | 4,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Cioccolato Nero 85 ML | 10,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Cioccolato Nero 98 ml | 9,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Cioccolato Nero 98 ml | 9,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé CLASSIC Chocolate 58 ML | 5,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Clássico Branco 100 ML | 6,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Crunch - 80 ML | 5,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Crunch - 80 ML | 5,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé FINI BEIJOS 71 ML | 4,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Fini Tube Morango 45 ML | 3,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Fini tube Tutti Frutti 46 ML | 3,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -824,12 +824,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Picolé Garoto Mp Pascoa 310 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Garoto Multipack Pascoa 310 ML | 16,64 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé IMPORT Multipack 240 ML | 4,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé La Fruta Coco 54 ML | 4,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé La Fruta Juice Acai + Mrorango + Banana 55 ML | 4,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé La Fruta Juice Pera com Abacaxii 56 ML | 3,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé La Fruta Limao 55 ML | 3,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé La Fruta Morango 58 ML | 3,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé La Fruta Uva 55 ML | 3,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé La Fruta Coco 54 ML | 4,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé La Fruta Juice Acai + Mrorango + Banana 55 ML | 4,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé La Fruta Juice Pera com Abacaxii 56 ML | 3,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé La Fruta Limao 55 ML | 3,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé La Fruta Morango 58 ML | 3,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé La Fruta Uva 55 ML | 3,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé LA FRUTTA ABACAXI 58 ML | 3,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé La Frutta Açaí Banana Morango 55 ML | 4,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé LA FRUTTA Coco 54 ML | 4,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -840,17 +840,17 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Picolé La Furtta Coco 54 ml | 4,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé LACTA 98 ML | 9,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picole Lacta Choc 98 ml | 9,50 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Lafrutta Acaimrgbna 55 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Lafrutta Coco 54 ml | 3,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Lafrutta Limao 55 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé LaFrutta Maracujá 58 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Lafrutta Acaimrgbna 55 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Lafrutta Coco 54 ml | 3,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Lafrutta Limao 55 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé LaFrutta Maracujá 58 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé LaFrutta Moran ao Leite 54 ml | 4,00 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Lafrutta Morango 58 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Lafrutta Pera + laranja + abacaxi 56 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Lafrutta Uva 55 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Lafrutta Morango 58 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Lafrutta Pera + laranja + abacaxi 56 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Lafrutta Uva 55 ml | 3,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Leite Moça 56 ML | 5,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Mega 3 Chocolates 92 ml | 9,00 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Mega Brownie 110 ml | 7,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Mega Brownie 110 ml | 7,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Mega Brownie 97 ML | 9,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé MEGA Doce de Leite 97 ML | 9,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Mega novo sabor 92 ml | 9,00 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -867,19 +867,19 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Picolé Nobrelli Brigadeiro 80 ML | 5,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Cash & Carry 564 ml | 12,81 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Clássico Baunilha 100 ML | 6,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Nobrelli Clássico Branco 108 ml | 4,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Nobrelli Clássico Branco 108 ml | 4,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Clássico Chocolate 100 ML | 6,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Clássico Clássico 100 ML | 6,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Coco 54 ML | 3,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Frutas Morango 54 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Frutas Uva 54 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Nobrelli Kids TutiFruti 47 ml | 1,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Nobrelli Kids TutiFruti 47 ml | 1,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Limão 54 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Mousse Chocolate 47 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Mousse Morango 47 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Paçoca 47 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Nobrelli Promo Leite Condensado 47 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Pega Pop 42 ml | 2,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Pega Pop 42 ml | 2,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Pic Garoto Crocante 97 ml | 7,00 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Pic Laka Oreo 98 ml | 9,50 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé PRESTÍGIO 54 ML | 7,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -891,25 +891,25 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Picolé TANG MORANGO 55 ML | 3,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé TANG UVA 55 ML | 3,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Zooper Cilíndrico Uva/Limão 45 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Picolé Zooper Circus 50 ml | 3,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Picolé Zooper Circus 50 ml | 3,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé ZOOPER Explosion 47 ML | 4,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Picolé Zooper Morango Abacaxi 47 ML | 3,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete 5 Star 110 ml | 9,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Aapino 140 ml | 6,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Aça Boom Banana 180 ML | 10,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Aça Boom Banana 180 ML | 10,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Aça Boom Morango 180 ml | 10,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Aça Boom Original 180 ML | 10,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Aça Boom Original 180 ML | 10,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Açai Boom 2000 ml | 28,97 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Açai Boom Banana 180 ml | 10,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Açai Boom Banana 2000 ml | 28,97 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Açai Boom Banana 500 ml | 9,42 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Açai Boom Morango 180 ml | 7,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Açai Boom Banana 500 ml | 9,42 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Açai Boom Morango 180 ml | 7,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Açai Boom Morango 2000 ml | 28,97 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Açai Boom Morango 500 ml | 9,42 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Açai Boom Morango 500 ml | 9,42 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Açai Boom Original 180 ml | 10,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Açai Boom Original 500 ml | 11,36 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Açai Boom Original 5000 ml | 63,60 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Alpino 140 ML | 6,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Alpino 140 ML | 6,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Alpino 455 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Caldas Coco 1500 ml | 19,29 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Caldas Morango 1500 ml | 19,29 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -921,36 +921,36 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Sorvete Cone CRUNCH Peanut 90 ML | 7,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone LOLLO 126 ML | 9,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone Moça Brigadeiro DUO 90 ML | 7,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Cone Nobrelli Baunilha 100 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Cone Nobrelli Baunilha 100 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone Nobrelli Casq Baunilha 100 ML | 5,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Cone Nobrelli Casquinha Baunilha 100 ml | 4,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Cone Nobrelli Casquinha Baunilha 100 ml | 4,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone Nobrelli Crocante 90 ML | 6,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone Óreo 130 ML | 9,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone SENSACAO 122 ML | 9,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone SENSACAO Reduzido 90 ML | 7,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone SERENATA DE AMOR 110 ML | 9,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cone Sonho de Valsa 110 ML | 9,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Copo La Frutta Coco 140 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Copo La Frutta Coco 140 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Crunch 140 ml | 6,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Crunch 455 ML | 12,24 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Crunch 455 ML | 12,24 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Cruncjh 455 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Dia 1500 ml | 13,45 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Garoto Chocolate ao Leite 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Garoto Chocolate Branco + Negresco 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Garoto Chocolate ao Leite 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Garoto Chocolate Branco + Negresco 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Garoto Chocolate.Branco Negresco 1500 ml | 16,64 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete GAROTO Copão ChocoNata 380 ml | 7,50 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Garoto Negresco+Bco 1300 ml | 16,64 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Kit Kat 140 ml | 6,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Kitkat 140 ml | 6,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Kitkat Multipack 560 ml | 20,18 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete La Fruta Abacaxi com Coco 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete La Fruta Coco 140 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete La Fruta Limao 140 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete La Fruta Manga com Maracujá 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete La Fruta Morango 140 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete La Fruta Morango com Framboesa 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete La Fruta Uva e Limão 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete La Frutat Abacaxi com Coco 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Kitkat 140 ml | 6,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Kitkat Multipack 560 ml | 20,18 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete La Fruta Abacaxi com Coco 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete La Fruta Coco 140 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete La Fruta Limao 140 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete La Fruta Manga com Maracujá 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete La Fruta Morango 140 ML | 5,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete La Fruta Morango com Framboesa 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete La Fruta Uva e Limão 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete La Frutat Abacaxi com Coco 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete La Frutta Abacaxi com Coco 1500 ml | 19,29 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete La Frutta Açaí+Mor 1500 ml | 19,29 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete La Frutta Coco 140 ml | 5,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -960,43 +960,43 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Sorvete La Frutta Morango com Framboesa 1500 ml | 19,29 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Lacta 3 Chocolates 1500 ml | 21,05 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Lafrutta Abacaxi C/ Coco 1500 ml | 19,29 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Lafrutta Bulk Morango 5000 ml | 56,37 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Lafrutta Coco 140 ml | 5,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Lafrutta Limao 140 ml | 5,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Lafrutta Manga + Maracujá 1500 ml | 15,58 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Lafrutta Morango 140 ml | 5,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Lafrutta Morango e Framboesa 1500 ml | 15,58 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Lafrutta Bulk Morango 5000 ml | 56,37 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Lafrutta Coco 140 ml | 5,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Lafrutta Limao 140 ml | 5,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Lafrutta Manga + Maracujá 1500 ml | 15,58 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Lafrutta Morango 140 ml | 5,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Lafrutta Morango e Framboesa 1500 ml | 15,58 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Lollo 126 ml | 9,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Lolloe 126 ML | 7,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Lolloe 126 ML | 7,00 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | 54038 | Sorvete Moça Caldas Brigadeiro 1500ml | 32,80 | 2026-01-28 | substituído pelo código 54404 (Sorvete Moça Brigadeiro Caldas 1.500 ml) a partir de 2026-09-21; valeu até 2026-09-20 |
 | 54039 | Sorvete Moça Caldas Morango 1500ml | 32,80 | 2026-01-28 | substituído pelo código 54405 (Sorvete Moça Morango Caldas 1.500 ml) a partir de 2026-09-21; valeu até 2026-09-20 |
-| — | Sorvete Molico 0% Lactose 140 ml | 6,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Molico 0% Lactose 140 ml | 6,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Molico Caramelo Zero Lacta 455 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Molico Chocolate e Morango 455 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Molico Creme + Chocolate 500 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Molico Creme + Morango 500 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Molico Creme 0% Lactose 455 ml | 11,80 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Molico Cremoso Zero Lactose 455 ML | 12,24 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Molico Creme 0% Lactose 455 ml | 11,80 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Molico Cremoso Zero Lactose 455 ML | 12,24 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Molico Zero Lactose 140 ml | 6,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Mondelez Oreo com Laka Oreo 1000 ML | 17,52 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Multipack Garoto Novo 310 ml | 10,97 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Mondelez Oreo com Laka Oreo 1000 ML | 17,52 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Multipack Garoto Novo 310 ml | 10,97 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Napoli Especi Novo 1500 ml | 19,29 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Negresco 455 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nestlé 5000 ml | 79,40 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Choc Tradicional 1500 ml | 12,81 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Choc Tradicional 1500 ml | 12,81 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Chocomelo 455 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Creme Tradicional 1500 mlL | 12,81 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Creme Tradicional 1500 mlL | 12,81 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete NESTLE Gelato Cappuccino 140 ML | 8,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Gelato Caramello Salato 140 ML | 8,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Gelato Caramello Salato 1500 ML | 40,74 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Gelato Caramello Salato 455 ml | 16,55 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Gelato Caramello Salato 140 ML | 8,50 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Gelato Caramello Salato 1500 ML | 40,74 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Gelato Caramello Salato 455 ml | 16,55 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete NESTLE Gelato Caramelo Salato 140 ML | 8,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Gelato Caramelo Salato 1500 ml | 40,74 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete NESTLE Gelato Cioccolato Nero 140 ML | 8,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Gelato Cioccolato Nero 1500 ml | 40,74 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Gelato CioccolatoNero 1500 ML | 40,74 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Gelato Cioccolatonero 455 ML | 16,54 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Gelato Cioco Nero 140 ml | 8,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Gelato CioccolatoNero 1500 ML | 40,74 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Gelato Cioccolatonero 455 ML | 16,54 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Gelato Cioco Nero 140 ml | 8,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Gelato Crml Salato 140 ml | 8,50 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Gelato Crml Salato 455 ml | 16,55 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete NESTLE Gelato Fragola 140 ML | 8,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -1004,32 +1004,32 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Sorvete NESTLE Gelato Limoncello 140 ML | 8,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Gelato Macadâmia 1500 ml | 40,74 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete NESTLE Gelato Panna Cotta 140 ML | 8,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Gelato PannaCotta 455 ML | 16,54 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Gelato PannaCotta 455 ML | 16,54 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete NESTLE Gelato Pistacchio 140 ML | 8,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Gelato Pistacchio 1500 ml | 40,74 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete NESTLE Gelato Vaniglia 140 ML | 8,50 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Gelato Vaniglia 1500 ml | 40,74 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle GelatoFragola 455 ML | 16,54 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle GelatoFragola 455 ML | 16,54 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Néstle Gelatoto Panna Cotta 455 ml | 16,55 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nestlé Marcas 1000 ml | 18,41 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nestle Napoli 0% Lactose 1500 ml | 15,58 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nestle Napoli 0% Lactose 1500 ml | 15,58 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nestle Napoli Promocional 1800 ml | 14,00 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nestle Naptn Tradicional 1500 ml | 14,88 | 2021-03-10 | não consta das relações completas das Portarias nº 335/2021 (2021-08-24) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Caldas Coco com leite 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Caldas Coco com leite 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nobrelli Casquinha Baunilha 100 ml | 5,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Casquinha Mousse Morango 564 ml | 12,81 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Churros 2000 mlL | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Creme 1500 mlL | 11,36 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Casquinha Mousse Morango 564 ml | 12,81 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Churros 2000 mlL | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Creme 1500 mlL | 11,36 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nobrelli Duo Baun + Morango 1800 ml | 9,89 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Duo Baunilha com Morango 1800 ML | 9,06 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Duo Nata com Chocolate 1800 ML | 9,06 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Flocos 1500 mlL | 11,36 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Duo Baunilha com Morango 1800 ML | 9,06 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Duo Nata com Chocolate 1800 ML | 9,06 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Flocos 1500 mlL | 11,36 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nobrelli Kids 46 ML | 2,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nobrelli Kids Tutti-Frutti 46 ml | 2,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nobrelli Napolitano 2000 ml | 14,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Nobrelli Sundae 140 ML | 5,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Sundae 180 ml | 4,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Nobrelli Tapioca 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Sundae 180 ml | 4,50 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Nobrelli Tapioca 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Óreo 130 ml | 9,00 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Oreo 1500 ml | 18,41 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Óreo 455 ml | 12,24 | 2020-03-23 | não consta das relações completas das Portarias nº 251/2020 (2020-09-02) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -1055,9 +1055,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Sorvete Pote Chambinho 500 ML | 14,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Churros 1500 ML | 13,12 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Churros 2000 ML | 16,64 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote CRF Mousse Limão 1500 ML | 11,76 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote CRF Mousse Maracujá 1500 ML | 11,76 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote CRF Mousse Morango 1500 ML | 11,76 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote CRF Mousse Limão 1500 ML | 11,76 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote CRF Mousse Maracujá 1500 ML | 11,76 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote CRF Mousse Morango 1500 ML | 11,76 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Garoto Chocolate 2000 ML | 14,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Garoto Negresco 2000 ML | 14,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote GPA Flocos 1500 ML | 14,30 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -1065,14 +1065,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Sorvete Pote GPA Manga 1500 ML | 14,30 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote La Frutta 1000 ML | 19,29 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote LA FRUTTA Abacaxi Coco 1500 ML | 19,29 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote La Frutta Açaí com Morango 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote La Frutta Açaí com Morango 1500 ML | 16,64 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote LA FRUTTA Manga + Morango c/ Chia 1000 ML | 19,29 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote LA FRUTTA Manga Maracujá 1500 ML | 19,29 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote LA FRUTTA Morango Framboesa 1500 ML | 19,29 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote LA FRUTTA Uva Limão 1500 ML | 19,29 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Lacta Chocolate 1500 ML | 20,17 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote Makro Creme 5000 ml | 42,44 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote Makro Morango 1500 ml | 11,37 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote Makro Creme 5000 ml | 42,44 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote Makro Morango 1500 ml | 11,37 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Napolitano Especialidades 1500 ML | 18,40 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Napolitano Flocos 1500 ML | 14,88 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Natal Flocos 1500 ML | 14,88 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -1088,14 +1088,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Sorvete Pote NESTLE GELATO Pistacchio 455 ML | 16,54 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Nestlé Marcas 1000 ML | 19,29 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote NESTLE Napolitano Zero Lactose 1500 ML | 18,40 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote Nobrelli Creme 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote Nobrelli Flocos 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote Nobrelli Creme 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote Nobrelli Flocos 2000 ml | 14,00 | 2019-08-29 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote NOBRELLI Grego Yogurt 2000 ML | 16,64 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Nobrelli Mesclado 1500 ML | 13,12 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Nobrelli Mesclado 2000 ML | 14,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Nobrelli Milho Verde 1500 ML | 13,12 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Nobrelli Milho Verde 2000 ML | 14,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
-| — | Sorvete Pote Nobrelli Napolitano BF 2000 ML | 11,36 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2019 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
+| — | Sorvete Pote Nobrelli Napolitano BF 2000 ML | 11,36 | 2019-09-18 | não consta das relações completas das Portarias nº 99/2020 (2020-03-23) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Nobrelli Napolitano Black Friday 1500 ML | 13,12 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Nobrelli Napolitano Black Friday 2000 ML | 14,00 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
 | — | Sorvete Pote Passas ao Rum 1500 ML | 14,88 | 2020-09-02 | não consta das relações completas das Portarias nº 79/2021 (2021-03-10) e nº 126/2022 (2022-03-16): saiu da tabela sem exclusão expressa |
@@ -1137,7 +1137,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 5,00 |  |  | Picolé Alpino 80 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 6,00 | +20.0% |  | Picolé Alpino 80 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 6,00 | +0.0% |  | Picolé Alpino 80 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 6,00 | +0.0% |  | Picolé Alpino 80 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 7,00 | +16.7% |  | Picolé ALPINO 80 ML | Port. 251/2020 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 0,00 |  |  | Picolé Alpino 80 ML | Port. 335/2021 |
 
@@ -1154,7 +1154,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,50 |  |  | Picolé Baton 42 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 | +20.0% |  | Picolé Baton 42 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 | +0.0% |  | Picolé Baton 42 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Baton 42 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Baton 42 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +16.7% |  | Picolé Baton 42 ML | Port. 251/2020 |
 | 2025-05-20 (pub.) | 2025-04-30 | incluir | 5,90 | +68.6% |  | Picolé Baton 42ml | Port. 172/2025 |
 
@@ -1178,7 +1178,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 10,00 |  |  | Picolé Caramello Salato 85 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 10,00 | +0.0% |  | Picolé Caramello Salato 85 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 10,00 | +0.0% |  | Picolé Caramello Salato 85 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 10,00 | +0.0% |  | Picolé Caramello Salato 85 ML | Port. 251/2020 |
 
 ### Picolé Caramello Salato 98 ml (código —)
@@ -1206,7 +1206,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 |  |  | Picolé Chambinho Morango 65 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé Chambinho Morango 65 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé Chambinho Morango 65 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 4,50 | +12.5% |  | Picolé CHAMBINHO Sorvete Morango 65 ML | Port. 251/2020 |
 
 ### Picolé Chocolate 58 ML (código —)
@@ -1214,7 +1214,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 |  |  | Picolé Chocolate - 58 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé Chocolate 58 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé Chocolate 58 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 4,00 | +0.0% |  | Picolé Chocolate 58 ML | Port. 251/2020 |
 
 ### Picolé Cioccolato Nero 85 ML (código —)
@@ -1222,7 +1222,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 10,00 |  |  | Picolé Cioccolato Nero 85 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 10,00 | +0.0% |  | Picolé Cioccolato Nero 85 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 10,00 | +0.0% |  | Picolé Cioccolato Nero 85 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 10,00 | +0.0% |  | Picolé Cioccolato Nero 85 ML | Port. 251/2020 |
 
 ### Picolé Cioccolato Nero 98 ml (código —)
@@ -1253,7 +1253,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,50 |  |  | Picolé Classic Chocolate 58 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,50 | +0.0% |  | Picolé Classic Chocolate 58 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,50 | +0.0% |  | Picolé Classic Chocolate 58 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,50 | +0.0% |  | Picolé Classic Chocolate 58 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 5,00 | +11.1% |  | Picolé CLASSIC Chocolate 58 ML | Port. 251/2020 |
 
 ### Picolé Clássico Branco 100 ML (código —)
@@ -1261,7 +1261,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 5,00 |  |  | Picolé Clássico Branco 100 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 | +0.0% |  | Picolé Clássico Branco 100 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 | +0.0% |  | Picolé Clássico Branco 100 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 6,00 | +20.0% |  | Picolé Clássico Branco 100 ML | Port. 251/2020 |
 
 ### Picolé com cobertura Trufa gelada 70g (código —)
@@ -1498,7 +1498,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,00 |  |  | Picolé Diamante Negro 100 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 9,00 | +12.5% |  | Picolé Diamante Negro 100 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +0.0% |  | Picolé Diamante Negro 100 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +0.0% |  | Picolé Diamante Negro 100 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,50 | +5.6% |  | Picolé Diamante Negro 100 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,50 | +0.0% |  | Picole Diamante Negro 100 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 10,50 | +10.5% |  | Picolé Diamante Negro 100 ML | Port. 335/2021 |
@@ -1521,7 +1521,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 |  |  | Picolé Fini Beijos 72 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé Fini Beijos 72 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé Fini Beijos 72 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 4,50 | +12.5% |  | Picolé Fini Beijos 72 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 4,50 | +0.0% |  | Picolé Fini Beijos 72 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 5,00 | +11.1% |  | Picolé Fini Beijos 72 ML | Port. 335/2021 |
@@ -1558,7 +1558,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 |  |  | Picolé Fini Tube Morango 45 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Fini Tube Morango 45 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Fini Tube Morango 45 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +16.7% |  | Picolé Fini Tube Morango 45 ML | Port. 251/2020 |
 
 ### Picolé Fini tube Tutti Frutti 46 ML (código —)
@@ -1572,7 +1572,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 |  |  | Picolé Fini Tube Uva - 45 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Fini Tube Uva 45 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Fini Tube Uva 45 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +16.7% |  | Picolé Fini Tube Uva 45 ML | Port. 251/2020 |
 
 ### Picolé Fini Tubes Moran 43 ml (código 51225, anterior)
@@ -1897,7 +1897,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 10,97 |  |  | Picolé Garoto Mp Pascoa 310 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +11.6% |  | Picolé Garoto Mp Pascoa 310 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +11.6% |  | Picolé Garoto Mp Pascoa 310 ml | Port. 99/2020 |
 
 ### Picolé Garoto Multipack Pascoa 310 ML (código —)
 
@@ -1993,7 +1993,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,00 |  |  | Picolé Kit Kat 90 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,00 | +0.0% |  | Picolé Kit Kat 90 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +12.5% |  | Picolé Kit Kat 90 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +12.5% |  | Picolé Kit Kat 90 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,50 | +5.6% |  | Picolé Kit Kat 90 ML | Port. 251/2020 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 10,50 | +10.5% |  | Picolé Kit Kat 90 ML | Port. 335/2021 |
 | 2022-03-16 (pub.) | 2022-03-10 | alterar | 13,00 | +23.8% |  | Picolé Kit Kat 90 ml | Port. 126/2022 |
@@ -2059,7 +2059,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 3,00 |  |  | Picolé La Frutta Abacaxi 55 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,50 | -16.7% |  | Picolé La Frutta Abacaxi 55 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,50 | +40.0% |  | Picolé La Frutta Abacaxi 55 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,50 | +40.0% |  | Picolé La Frutta Abacaxi 55 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +0.0% |  | Picolé La Frutta Abacaxi 55 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 3,50 | +0.0% |  | Picolé La Frutta Abacaxi 55 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 4,00 | +14.3% |  | Picolé La Frutta Abacaxi 55 ML | Port. 335/2021 |
@@ -2076,7 +2076,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 |  |  | Picolé La Frutta Açaí + Banana + Morango 55 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé La Frutta Açaí + Banana + Morango 55 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé La Frutta Açaí + Banana + Morango 55 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 4,00 | +0.0% |  | Picolé La Frutta Açaí Banana Morango 55 ML | Port. 251/2020 |
 
 ### Picolé La Frutta Coco (novo formato) 72,5 ml (código —)
@@ -2104,7 +2104,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 3,50 |  |  | Picolé La Frutta Juice Pera Abacaxi Laranja 56 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,50 |  |  | Picolé La Frutta Juice Pera Abacaxi Laranja 56 ml | Port. 99/2020 |
 
 ### Picolé LA FRUTTA JUICE Pera Abcxi Laranja 56 ML (código —)
 
@@ -2122,7 +2122,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 3,50 |  |  | Picolé La Frutta Limão 55 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,50 |  |  | Picolé La Frutta Limão 55 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +0.0% |  | Picolé LA FRUTTA Limao 55 ML | Port. 251/2020 |
 
 ### Picolé La Frutta Limão 58 ml (código 51019, anterior)
@@ -2139,7 +2139,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,50 |  |  | Picolé La Frutta Maracuja 58 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,50 | +40.0% |  | Picolé La Frutta Maracuja 58 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,50 | +40.0% |  | Picolé La Frutta Maracuja 58 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +0.0% |  | Picolé La Frutta Maracuja 58 ML | Port. 251/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +0.0% |  | Picolé LA FRUTTA MARACUJÁ 58 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 3,50 | +0.0% |  | Picolé La Frutta Maracujá 58 ml | Port. 79/2021 |
@@ -2175,7 +2175,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 3,50 |  |  | Picolé La Frutta Morango 58 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,50 |  |  | Picolé La Frutta Morango 58 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +0.0% |  | Picolé LA FRUTTA MORANGO 58 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 3,50 | +0.0% |  | Picolé La Frutta Morango 58 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 4,00 | +14.3% |  | Picolé La Frutta Morango 58 ML | Port. 335/2021 |
@@ -2192,7 +2192,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 |  |  | Picolé La Frutta Morango ao Leite 54 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé La Frutta Morango ao Leite 54 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé La Frutta Morango ao Leite 54 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 4,00 | +0.0% |  | Picolé La Frutta Morango ao Leite 54 ML | Port. 251/2020 |
 | 2022-03-16 (pub.) | 2022-03-10 | alterar | 5,50 | +37.5% |  | Picolé La Frutta Morango ao Leite 54 ml | Port. 126/2022 |
 
@@ -2232,7 +2232,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,50 |  |  | Picolé La Frutta Uva 58 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,50 | +0.0% |  | Picolé La Frutta Uva 58 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,50 | +0.0% |  | Picolé La Frutta Uva 58 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +0.0% |  | Picolé LA FRUTTA UVA 58 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 3,50 | +0.0% |  | Picolé La Frutta Uva 58 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 4,00 | +14.3% |  | Picolé La Frutta Uva 58 ML | Port. 335/2021 |
@@ -2242,14 +2242,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 |  |  | Picolé La Furtta Coco 54 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 |  |  | Picolé La Furtta Coco 54 ml | Port. 99/2020 |
 
 ### Picolé LACTA 98 ML (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 9,00 |  |  | Picolé Lacta 98 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +0.0% |  | Picolé Lacta 98 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +0.0% |  | Picolé Lacta 98 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,50 | +5.6% |  | Picolé LACTA 98 ML | Port. 251/2020 |
 
 ### Picole Lacta Choc 98 ml (código —)
@@ -2356,7 +2356,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,00 |  |  | Picolé Laka 98 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 9,00 | +12.5% |  | Picolé Laka 98 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +0.0% |  | Picolé Laka 98 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +0.0% |  | Picolé Laka 98 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,50 | +5.6% |  | Picolé Laka 98 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,50 | +0.0% |  | Picole Laka 98 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 10,50 | +10.5% |  | Picolé Laka 98 ML | Port. 335/2021 |
@@ -2383,7 +2383,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 3,50 |  |  | Picolé Leite Moça 56 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,50 | +28.6% |  | Picolé Leite Moça 56 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,50 | +0.0% |  | Picolé Leite Moça 56 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,50 | +0.0% |  | Picolé Leite Moça 56 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 5,00 | +11.1% |  | Picolé Leite Moça 56 ML | Port. 251/2020 |
 
 ### Picolé Leite Moça 58ml (código —)
@@ -2554,7 +2554,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Picolé Mega 3 Chocolates 92 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,50 | +7.1% |  | Picolé Mega 3 Chocolates 92 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +13.3% |  | Picolé Mega 3 Chocolates 92 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +13.3% |  | Picolé Mega 3 Chocolates 92 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,00 | +5.9% |  | Picolé MEGA 3 Chocolates 92 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,00 | +0.0% |  | Picolé Mega 3 Chocolates 92 ml | Port. 79/2021 |
 
@@ -2564,7 +2564,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Picolé Mega Amêndoas 110 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,50 | +7.1% |  | Picolé Mega Amendoas 110 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +13.3% |  | Picolé Mega Amendoas 110 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +13.3% |  | Picolé Mega Amendoas 110 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,00 | +5.9% |  | Picolé MEGA Amendoas 110 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,00 | +0.0% |  | Picolé Mega Amendoas 110 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 10,00 | +11.1% |  | Picolé Mega Amendoas 110 ML | Port. 335/2021 |
@@ -2577,7 +2577,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Picolé Mega Branco 108 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,50 | +7.1% |  | Picolé Mega Branco 108 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +13.3% |  | Picolé Mega Branco 108 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +13.3% |  | Picolé Mega Branco 108 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,00 | +5.9% |  | Picolé MEGA Branco 108 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,00 | +0.0% |  | Picolé Mega Branco 108 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 9,50 | +5.6% |  | Picolé Mega Branco 108 ML | Port. 335/2021 |
@@ -2594,7 +2594,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,50 |  |  | Picolé Mega Brownie 97 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +13.3% |  | Picolé Mega Brownie 97 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +13.3% |  | Picolé Mega Brownie 97 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,00 | +5.9% |  | Picolé Mega Brownie 97 ML | Port. 251/2020 |
 
 ### Picolé Mega Chessecake 92 ml (código 51614)
@@ -2613,7 +2613,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Picolé Mega Classico 108 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,50 | +7.1% |  | Picolé Mega Classico 108 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +13.3% |  | Picolé Mega Classico 108 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +13.3% |  | Picolé Mega Classico 108 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,00 | +5.9% |  | Picolé MEGA Classico Sorvete 108 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,00 | +0.0% |  | Picolé Mega Classico 108 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 9,50 | +5.6% |  | Picolé Mega Classico 108 ML | Port. 335/2021 |
@@ -2633,7 +2633,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Picolé Mega Cookies Cream 108 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,50 | +7.1% |  | Picolé Mega Cookies & Cream 108 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +13.3% |  | Picolé Mega Cookies & Cream 108 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +13.3% |  | Picolé Mega Cookies & Cream 108 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,00 | +5.9% |  | Picolé Mega Cookies & Cream 108 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,00 | +0.0% |  | Picolé Mega Cookies Cream 108 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 10,00 | +11.1% |  | Picolé Mega Cookies Cream 108 ML | Port. 335/2021 |
@@ -2645,7 +2645,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Picolé Mega Doce De Leite 97 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,50 | +7.1% |  | Picolé Mega Doce de Leite 97 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +13.3% |  | Picolé Mega Doce de Leite 97 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +13.3% |  | Picolé Mega Doce de Leite 97 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,00 | +5.9% |  | Picolé MEGA Doce de Leite 97 ML | Port. 251/2020 |
 
 ### Picolé Mega novo sabor 92 ml (código —)
@@ -2668,7 +2668,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Picolé Mega Trufa Branco 92 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,50 | +7.1% |  | Picolé Mega Trufa Branco 92 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +13.3% |  | Picolé Mega Trufa Branco 92 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +13.3% |  | Picolé Mega Trufa Branco 92 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,00 | +5.9% |  | Picolé MEGA Trufa Branco 92 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,00 | +0.0% |  | Picolé Mega Trufa Branco 92 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 10,00 | +11.1% |  | Picolé Mega Trufa Branco 92 ML | Port. 335/2021 |
@@ -2688,14 +2688,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 4,50 |  |  | Picolé Moça Brigadeiro 73 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 5,50 | +22.2% |  | Picolé Moça Brigadeiro 73 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 5,50 | +0.0% |  | Picolé Moça Brigadeiro 73 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 5,50 | +0.0% |  | Picolé Moça Brigadeiro 73 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,50 | +0.0% |  | Picolé Moça Brigadeiro 73 ml | Port. 99/2020 |
 
 ### Picolé Moça Brigadeiro 80ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 5,50 |  |  | Picolé Moça Brigadeiro 80 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 5,50 | +0.0% |  | Picolé Moça Brigadeiro 80 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,50 | +0.0% |  | Picolé Moça Brigadeiro 80 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 6,00 | +9.1% |  | Picolé Moça Brigadeiro 80 ML | Port. 251/2020 |
 | 2025-05-20 (pub.) | 2025-04-30 | incluir | 9,90 | +65.0% |  | Picolé Moça Brigadeiro 80ml | Port. 172/2025 |
 
@@ -2705,7 +2705,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 4,50 |  |  | Picolé Moça Brigadeiro Morango 80 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 5,50 | +22.2% |  | Picolé Moça Brigadeiro Morango 80 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 5,50 | +0.0% |  | Picolé Moça Brigadeiro Morango 80 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,50 | +0.0% |  | Picolé Moça Brigadeiro Morango 80 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 6,00 | +9.1% |  | Picolé Moça Brigadeiro Morango 80 ML | Port. 251/2020 |
 
 ### Picolé Multipack Fini 252 ML (código —)
@@ -2749,7 +2749,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 9,00 | +0.0% |  | Picolé Nestlé Gelato Fragola 98 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 10,00 | +11.1% |  | Picolé Nestle Gelato Fragola 98 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 10,00 | +0.0% |  | Picolé Nestlé Gelato Fragola 98 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 10,00 | +0.0% |  | Picolé Néstle Gelato Fragola 98 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 10,00 | +0.0% |  | Picolé Néstle Gelato Fragola 98 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 10,00 | +0.0% |  | Picolé NESTLE Gelato Fragola 98 ML | Port. 251/2020 |
 
 ### Picolé NESTLE Gelato Limoncello 98 ML (código —)
@@ -2758,7 +2758,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 9,00 |  |  | Picolé Nestlé.Gelato Limoncello 98 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 10,00 | +11.1% |  | Picolé Nestle Gelato Limoncello 98 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 10,00 | +0.0% |  | Picolé Néstle Gelato Limoncello 98 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 10,00 | +0.0% |  | Picolé Néstle Gelato Limoncello 98 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 10,00 | +0.0% |  | Picolé NESTLE Gelato Limoncello 98 ML | Port. 251/2020 |
 
 ### Picolé NESTLE Gelato Pistacchio 97 ML (código —)
@@ -2775,7 +2775,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 9,00 |  |  | Picolé Nestlé Gelato Pistachio 97 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 10,00 | +11.1% |  | Picolé Nestlé Gelato Pistachio 97 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 10,00 | +0.0% |  | Picolé Nestlé Gelato Pistachio 97 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 10,00 | +0.0% |  | Picolé Nestlé Gelato Pistachio 97 ml | Port. 99/2020 |
 
 ### Picolé Nestlé KitKat 1 74ml (código —)
 
@@ -2844,7 +2844,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,50 |  |  | Picolé Nestlé Tuttiblue 47 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 | +20.0% |  | Picolé Nestle Tuttiblue 47 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Néstle Tuttiblue 47 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Néstle Tuttiblue 47 ml | Port. 99/2020 |
 
 ### Picolé Nobrelli Abacaxi 45 ML (código —)
 
@@ -2857,7 +2857,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 |  |  | Picolé Nobrelli Brigadeiro - 80 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé Nobrelli Brigadeiro 80 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé Nobrelli Brigadeiro 80 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 5,00 | +25.0% |  | Picolé Nobrelli Brigadeiro 80 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Cash & Carry 564 ml (código —)
@@ -2865,7 +2865,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,81 |  |  | Picolé Nobrelli Cash & Carry 564 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,81 | +0.0% |  | Picolé Nobrelli Cash & Carry 564 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,81 | +0.0% |  | Picolé Nobrelli Cash & Carry 564 ml | Port. 99/2020 |
 
 ### Picolé Nobrelli Clássico Baunilha 100 ML (código —)
 
@@ -2873,7 +2873,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 4,00 |  |  | Picolé Nobrelli Clássico Baunilha 100 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 5,00 | +25.0% |  | Picolé Nobrelli Clássico Baunilha 100 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 | +0.0% |  | Picolé Nobrelli Clássico Baunilha 100 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 | +0.0% |  | Picolé Nobrelli Clássico Baunilha 100 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 6,00 | +20.0% |  | Picolé Nobrelli Clássico Baunilha 100 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Clássico Branco 108 ml (código —)
@@ -2900,7 +2900,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Nobrelli Coco 54 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 | +50.0% |  | Picolé Nobrelli Coco 54 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Nobrelli Coco 54 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Nobrelli Coco 54 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,50 | +16.7% |  | Picolé Nobrelli Coco 54 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Frutas Morango 54 ML (código —)
@@ -2909,7 +2909,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Nobrelli Frutas Morango 54 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Frutas Morango 54 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Frutas Morango 54 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Frutas Morango 54 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Frutas Morango 54 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Frutas Uva 54 ML (código —)
@@ -2918,7 +2918,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Nobrelli Frutas Uva 54 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Frutas Uva 54 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Frutas Uva 54 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Frutas Uva 54 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Frutas Uva 54 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Kids TutiFruti 47 ml (código —)
@@ -2933,7 +2933,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Nobrelli Limão 54 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Limão 54 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Limão 54 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Limão 54 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Limão 54 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Mousse Chocolate 47 ML (código —)
@@ -2942,7 +2942,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Nobrelli Mousse Chocolate 47 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Mousse Chocolate 47 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Mousse Chocolate 47 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Mousse Chocolate 47 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Mousse Chocolate 47 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Mousse Morango 47 ML (código —)
@@ -2951,7 +2951,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Nobrelli Mousse Morango 47 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Mousse Morango 47 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Mousse Morango 47 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Mousse Morango 47 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Mousse Morango 47 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Paçoca 47 ML (código —)
@@ -2960,7 +2960,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Nobrelli Paçoca 47 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Paçoca 47 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Paçoca 47 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Paçoca 47 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Paçoca 47 ML | Port. 251/2020 |
 
 ### Picolé Nobrelli Promo Leite Condensado 47 ML (código —)
@@ -2970,7 +2970,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 0,61 |  |  | Picolé Nobrelli Promo Leite Condensado 47 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 | +227.9% |  | Picolé Nobrelli Promo Leite Condensado 47 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Promo Leite Condensado 47 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Promo Leite Condensado 47 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Promo Leite Condensado 47 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 2,00 | +0.0% |  | Picolé Nobrelli Promo Leite Condensado 47 ML | Port. 251/2020 |
 
 ### Picolé Novo Kit Kat Chocolate 90 ml (código 52365)
@@ -3001,7 +3001,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,00 |  |  | Picolé Oreo 90 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 9,00 | +12.5% |  | Picolé Óreo 90 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +0.0% |  | Picolé Óreo 90 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +0.0% |  | Picolé Óreo 90 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,50 | +5.6% |  | Picolé Óreo 90 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 9,50 | +0.0% |  | Picolé Oreo Picole 90 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 10,50 | +10.5% |  | Picolé Oreo 90 ML | Port. 335/2021 |
@@ -3050,7 +3050,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 5,00 |  |  | Picolé Prestigio 80 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 6,00 | +20.0% |  | Picolé Prestigio 80 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 6,00 | +0.0% |  | Picolé Prestigio 80 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 6,00 | +0.0% |  | Picolé Prestigio 80 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 7,00 | +16.7% |  | Picolé PRESTIGIO 80 ML | Port. 251/2020 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 8,00 | +14.3% |  | Picolé Prestigio 80 ML | Port. 335/2021 |
 | 2022-03-16 (pub.) | 2022-03-10 | alterar | 9,50 | +18.8% |  | Picolé Prestigio 80 ml | Port. 126/2022 |
@@ -3094,7 +3094,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 |  |  | Picolé Tang Limão 58 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Tang Limão 58 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Tang Limão 58 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,00 | +0.0% |  | Picolé TANG Limão 58 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 3,00 | +0.0% |  | Picolé Tang Limão 58 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 3,00 | +0.0% |  | Picolé Tang Limão 58 ML | Port. 335/2021 |
@@ -3113,7 +3113,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 |  |  | Picolé Tang Morango 58 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Tang Morango 58 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Tang Morango 58 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,00 | +0.0% |  | Picolé TANG Morango 58 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 3,00 | +0.0% |  | Picolé Tang Morango 58 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 3,00 | +0.0% |  | Picolé Tang Morango 58 ML | Port. 335/2021 |
@@ -3132,7 +3132,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 |  |  | Picolé Tang Uva 58 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Tang Uva 58 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Tang Uva 58 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,00 | +0.0% |  | Picolé TANG Uva 58 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 3,00 | +0.0% |  | Picolé Tang uva 58 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 3,00 | +0.0% |  | Picolé Tang uva 58 ML | Port. 335/2021 |
@@ -3314,8 +3314,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 |  |  | Picolé Zooper Circus 49 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 | +0.0% |  | Picolé Zooper Circus 49 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé Zooper Circus 49 ml | Port. 99/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé Zooper Circus 49 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé Zooper Circus 49 ml | Port. 99/2020 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé Zooper Circus 49 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 4,00 | +0.0% |  | Picolé Zooper Circus 49 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 4,00 | +0.0% |  | picolé Zooper Circus 49 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 0,00 |  |  | Picolé Zooper Circus 49 ML | Port. 335/2021 |
@@ -3339,7 +3339,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 4,00 |  |  | Picolé Zooper Explosion 47 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 4,00 | +0.0% |  | Picolé Zooper Explosion 47 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 4,00 | +0.0% |  | Picolé Zooper Explosion 47 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 4,00 | +0.0% |  | Picolé ZOOPER Explosion 47 ML | Port. 251/2020 |
 
 ### Picolé Zooper Morango Abacaxi 47 ML (código —)
@@ -3348,7 +3348,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Zooper Morango + Abacaxi 47 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 | +50.0% |  | Picolé Zooper Morango + Abacaxi 47 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Zooper Morango + Abacaxi 47 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Zooper Morango + Abacaxi 47 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,00 | +0.0% |  | Picolé Zooper Morango Abacaxi 47 ML | Port. 251/2020 |
 
 ### Picolé Zooper Uva + Limão 47 ml (código 51058, anterior)
@@ -3357,7 +3357,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 2,00 |  |  | Picolé Zooper Uva+Limão 47 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 3,00 | +50.0% |  | Picolé Zooper Uva + Limão 47 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 3,00 | +0.0% |  | Picolé Zooper Uva + Limão 47 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 3,00 | +0.0% |  | Picolé Zooper Uva + Limão 47 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 3,00 | +0.0% |  | Picolé Zooper Uva Limão 47 ML | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 3,00 | +0.0% |  | Picolé Zooper Uva+Limão 47 ml | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 3,00 | +0.0% |  | Picolé Zooper Uva + Limão 47 ML | Port. 335/2021 |
@@ -3381,13 +3381,13 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,00 |  |  | Sorvete 5 Star 110 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +12.5% |  | Sorvete 5 Star 110 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +12.5% |  | Sorvete 5 Star 110 ml | Port. 99/2020 |
 
 ### Sorvete Aapino 140 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 6,00 |  |  | Sorvete Aapino 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 6,00 |  |  | Sorvete Aapino 140 ml | Port. 99/2020 |
 
 ### Sorvete Abacaxi 90g (código —)
 
@@ -3407,7 +3407,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 10,00 |  |  | Sorvete Aça Boom Morango 180 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 10,00 | +0.0% |  | Sorvete Aça Boom Morango 180 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 10,00 | +0.0% |  | Sorvete Aça Boom Morango 180 ml | Port. 99/2020 |
 
 ### Sorvete Aça Boom Original 180 ML (código —)
 
@@ -3426,20 +3426,20 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 28,97 |  |  | Sorvete Açai Boom 2000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 28,97 |  |  | Sorvete Açai Boom 2000 ml | Port. 99/2020 |
 
 ### Sorvete Açai Boom Banana 180 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Sorvete Açai Boom Banana 180 ml | Port. 497/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 10,00 | +42.9% |  | Sorvete Açai Boom Banana 180 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 10,00 | +42.9% |  | Sorvete Açai Boom Banana 180 ml | Port. 99/2020 |
 
 ### Sorvete Açai Boom Banana 2000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 28,97 |  |  | Sorvete Açai Boom Banana 2000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 28,97 |  |  | Sorvete Açai Boom Banana 2000 ml | Port. 99/2020 |
 
 ### Sorvete Açai Boom Banana 500 ml (código —)
 
@@ -3457,7 +3457,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 28,97 |  |  | Sorvete Açai Boom Morango 2000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 28,97 |  |  | Sorvete Açai Boom Morango 2000 ml | Port. 99/2020 |
 
 ### Sorvete Açai Boom Morango 500 ml (código —)
 
@@ -3470,20 +3470,20 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 7,00 |  |  | Sorvete Açai Boom Original 180 ml | Port. 497/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 10,00 | +42.9% |  | Sorvete Açai Boom Original 180 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 10,00 | +42.9% |  | Sorvete Açai Boom Original 180 ml | Port. 99/2020 |
 
 ### Sorvete Açai Boom Original 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 9,42 |  |  | Sorvete Açai Boom Original 500 ml | Port. 497/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 11,36 | +20.6% |  | Sorvete Açai Boom Original 500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 11,36 | +20.6% |  | Sorvete Açai Boom Original 500 ml | Port. 99/2020 |
 
 ### Sorvete Açai Boom Original 5000 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 63,60 |  |  | Sorvete Açai Boom Original 5000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 63,60 |  |  | Sorvete Açai Boom Original 5000 ml | Port. 99/2020 |
 
 ### Sorvete Akaska 1000 g (código —)
 
@@ -3564,7 +3564,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,80 |  |  | Sorvete Alpino 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 | +3.7% |  | Sorvete Alpino 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Alpino 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Alpino 455 ml | Port. 99/2020 |
 
 ### Sorvete Ameixa 90g (código —)
 
@@ -3684,14 +3684,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 |  |  | Sorvete Pote Cencosud 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Cencosud 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Cencosud 1500 ml ⚠ | Port. 99/2020 |
 
 ### Sorvete Chambinho 1000 ml (código 51302)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 15,76 |  |  | Sorvete Chambinho 1000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 18,41 | +16.8% |  | Sorvete Chambinho 1000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 18,41 | +16.8% |  | Sorvete Chambinho 1000 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 19,29 | +4.8% |  | Sorvete Pote Chambinho 1000 ML ⚠ | Port. 251/2020 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 22,49 | +16.6% |  | Sorvete Chambinho 1000 ML ⚠ | Port. 335/2021 |
 | 2022-03-16 (pub.) | 2022-03-10 | alterar | 26,10 | +16.1% |  | Sorvete Chambinho 1000 ml | Port. 126/2022 |
@@ -3735,7 +3735,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 55,30 |  |  | Sorvete Pote Chocolate Gourmet 7000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 62,67 | +13.3% |  | Sorvete Pote Chocolate Gourmet 7000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 67,69 | +8.0% |  | Sorvete Chocolate Gourmet 7000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 67,69 | +8.0% |  | Sorvete Chocolate Gourmet 7000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 67,69 | +0.0% |  | Sorvete Pote Chocolate Gourmet 7000 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 67,68 | -0.0% |  | Sorvete 7L Chocolate Gourmet 7000 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 69,42 | +2.6% |  | Sorvete Chocolate Gourmet 7000 ML | Port. 335/2021 |
@@ -4033,7 +4033,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Pote Creme 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +23.2% |  | Sorvete Creme 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +23.2% |  | Sorvete Creme 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Creme 2000 ML ⚠ | Port. 251/2020 |
 | 2024-02-09 (pub.) | 2024-01-31 | incluir | 23,00 | +64.3% |  | Sorvete Creme 2.000 ml ⚠ | Port. 41/2024 |
 | 2024-10-30 (pub.) | 2024-10-23 | alterar | 25,00 | +8.7% |  | Sorvete Creme 2.000 ml | Port. 440/2024 |
@@ -4051,7 +4051,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 55,30 |  |  | Sorvete Pote Creme Gourmet 7000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 62,67 | +13.3% |  | Sorvete Pote Creme Gourmet 7000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 67,69 | +8.0% |  | Sorvete Creme Gourmet 7000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 67,69 | +8.0% |  | Sorvete Creme Gourmet 7000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 67,69 | +0.0% |  | Sorvete Pote Creme Gourmet 7000 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 67,68 | -0.0% |  | Sorvete 7L Creme Gourmet 7000 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 69,42 | +2.6% |  | Sorvete Creme Gourmet 7000 ML | Port. 335/2021 |
@@ -4063,7 +4063,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 6,00 |  |  | Sorvete Crunch 140 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 6,00 | +0.0% |  | Sorvete Crunch 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 6,00 | +0.0% |  | Sorvete Crunch 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 6,00 | +0.0% |  | Sorvete Crunch 140 ml | Port. 99/2020 |
 
 ### Sorvete Crunch 455 ML (código —)
 
@@ -4076,7 +4076,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 |  |  | Sorvete Cruncjh 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 |  |  | Sorvete Cruncjh 455 ml | Port. 99/2020 |
 
 ### Sorvete Cupuaçu 90g (código —)
 
@@ -4361,7 +4361,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 |  |  | Sorvete Pote Dia 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Dia 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Dia 1500 ml ⚠ | Port. 99/2020 |
 
 ### Sorvete Diamante Negro Chocolate + Laka Chocolate Branco Lacta - Pote 1.500ml (código —)
 
@@ -4375,7 +4375,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,50 |  |  | Sorvete Diamante Negro e Laka 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 19,29 | +16.9% |  | Sorvete Diamante Negro e Laka 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 | +0.0% |  | Sorvete Diamante Negro e Laka 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 | +0.0% |  | Sorvete Diamante Negro e Laka 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 20,17 | +4.6% |  | Sorvete Pote Diamante Negro e Laka 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 21,05 | +4.4% |  | Sorvete Diamante Negro e Laka 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 22,49 | +6.8% |  | Sorvete Diamante Negro e Laka 1500 ML | Port. 335/2021 |
@@ -4682,7 +4682,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Pote Flocos 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +23.2% |  | Sorvete Flocos 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +23.2% |  | Sorvete Flocos 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Flocos 2000 ML ⚠ | Port. 251/2020 |
 | 2024-02-09 (pub.) | 2024-01-31 | incluir | 23,00 | +64.3% |  | Sorvete Flocos 2.000 ml ⚠ | Port. 41/2024 |
 | 2024-10-30 (pub.) | 2024-10-23 | alterar | 25,00 | +8.7% |  | Sorvete Flocos 2.000 ml | Port. 440/2024 |
@@ -4728,7 +4728,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 13,12 |  |  | Sorvete Garoto Chocolate 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 13,12 | +0.0% |  | Sorvete Garoto Chocolate 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 | +13.4% |  | Sorvete Garoto Chocolate 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 | +13.4% |  | Sorvete Garoto Chocolate 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 15,76 | +5.9% |  | Sorvete Pote Garoto Chocolate 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 16,64 | +5.6% |  | Sorvete Garoto Chocolate 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 18,88 | +13.5% |  | Sorvete Garoto Chocolate 1500 ML | Port. 335/2021 |
@@ -4759,7 +4759,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 13,12 |  |  | Sorvete Garoto Chocolate Branco + Negresco 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 13,12 | +0.0% |  | Sorvete Garoto Chocolate.Branco + Negresco 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 | +13.4% |  | Sorvete Garoto Chocolate.Branco + Negresco 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 | +13.4% |  | Sorvete Garoto Chocolate.Branco + Negresco 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 15,76 | +5.9% |  | Sorvete Pote Garoto Chocolate Branco Negresco 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 16,64 | +5.6% |  | Sorvete Garoto Chocolate.Branco Negresco 1500 ml ⚠ | Port. 79/2021 |
 
@@ -4824,7 +4824,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 |  |  | Sorvete Garoto Crocante 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 |  |  | Sorvete Garoto Crocante 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 15,76 | +5.9% |  | Sorvete Pote Garoto Crocante 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 16,64 | +5.6% |  | Sorvete Garoto Crocante 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 18,88 | +13.5% |  | Sorvete Garoto Crocante 1500 ML | Port. 335/2021 |
@@ -4962,7 +4962,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 6,00 |  |  | Sorvete Kit Kat 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 6,00 | +0.0% |  | Sorvete Kit Kat 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 6,00 | +0.0% |  | Sorvete Kit Kat 140 ml | Port. 99/2020 |
 
 ### Sorvete Kitkat 140 ml (código —)
 
@@ -5034,8 +5034,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 |  |  | Sorvete La Frutta Abacaxi com Coco 1500 ml | Port. 99/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 | +0.0% |  | Sorvete La Frutta Abacaxi com Coco 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 |  |  | Sorvete La Frutta Abacaxi com Coco 1500 ml | Port. 99/2020 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 | +0.0% |  | Sorvete La Frutta Abacaxi com Coco 1500 ml | Port. 99/2020 |
 
 ### Sorvete La Frutta Abacaxi e Coco 1000 ml (código 51675)
 
@@ -5053,7 +5053,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 15,58 |  |  | Sorvete Pote La Frutta Açaí + Morango 1500 ml | Port. 497/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 | +23.8% |  | Sorvete La Frutta Açaí + Morango 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 | +23.8% |  | Sorvete La Frutta Açaí + Morango 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 19,29 | +0.0% |  | Sorvete Pote La Frutta Açaí Morango 1500 ML ⚠ | Port. 251/2020 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 19,78 | +2.5% |  | Sorvete La Frutta Açaí + Morango 1500 ML ⚠ | Port. 335/2021 |
 
@@ -5067,8 +5067,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 |  |  | Sorvete La Frutta Coco 140 ml | Port. 99/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 | +0.0% |  | Sorvete La Frutta Coco 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 |  |  | Sorvete La Frutta Coco 140 ml | Port. 99/2020 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 | +0.0% |  | Sorvete La Frutta Coco 140 ml | Port. 99/2020 |
 
 ### Sorvete La Frutta Coco Abacaxi 900ml (código —)
 
@@ -5098,13 +5098,13 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 |  |  | Sorvete La Frutta Limão 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 |  |  | Sorvete La Frutta Limão 140 ml | Port. 99/2020 |
 
 ### Sorvete La Frutta Manga com Maracuja 1500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 |  |  | Sorvete La Frutta Manga com Maracuja 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 |  |  | Sorvete La Frutta Manga com Maracuja 1500 ml | Port. 99/2020 |
 
 ### Sorvete La Frutta Manga e Mora Chia 1000 ml (código 51636)
 
@@ -5133,13 +5133,13 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 |  |  | Sorvete La Frutta Morango 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 |  |  | Sorvete La Frutta Morango 140 ml | Port. 99/2020 |
 
 ### Sorvete La Frutta Morango com Framboesa 1500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 |  |  | Sorvete La Frutta Morango com Framboesa 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 |  |  | Sorvete La Frutta Morango com Framboesa 1500 ml | Port. 99/2020 |
 
 ### Sorvete La Frutta Multipack 420ml (código 54056)
 
@@ -5170,7 +5170,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,50 |  |  | Sorvete Lacta 3 Chocolates 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 19,29 | +16.9% |  | Sorvete Lacta 3 Chocolates 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 | +0.0% |  | Sorvete Lacta 3 Chocolates 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 | +0.0% |  | Sorvete Lacta 3 Chocolates 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 20,17 | +4.6% |  | Sorvete Pote Lacta 3 Chocolates 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 21,05 | +4.4% |  | Sorvete Lacta 3 Chocolates 1500 ml ⚠ | Port. 79/2021 |
 
@@ -5295,7 +5295,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,50 |  |  | Sorvete Laka 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 19,29 | +16.9% |  | Sorvete Laka 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 | +0.0% |  | Sorvete Laka 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 | +0.0% |  | Sorvete Laka 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 20,17 | +4.6% |  | Sorvete Pote Laka 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 21,05 | +4.4% |  | Sorvete Laka 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 22,49 | +6.8% |  | Sorvete Laka 1500 ML | Port. 335/2021 |
@@ -5312,7 +5312,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 18,41 |  |  | Sorvete Laka Oreo 1000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 18,41 |  |  | Sorvete Laka Oreo 1000 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 19,29 | +4.8% |  | Sorvete Pote Laka Oreo 1000 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 20,17 | +4.6% |  | Sorvete Laka Oreo 1000 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 22,49 | +11.5% |  | Sorvete Laka Oreo 1000 ML | Port. 335/2021 |
@@ -5341,7 +5341,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 |  |  | Sorvete Lollo 126 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 |  |  | Sorvete Lollo 126 ml | Port. 99/2020 |
 
 ### Sorvete Lolloe 126 ML (código —)
 
@@ -5609,7 +5609,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 15,58 |  |  | Sorvete Moca Brigadeiro 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 | +6.8% |  | Sorvete Pote Moça Brigadeiro 1500 ML ⚠ | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +5.3% |  | Sorvete Moça Brigadeiro 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +5.3% |  | Sorvete Moça Brigadeiro 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 18,40 | +5.0% |  | Sorvete Pote MOCA Brigadeiro 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 19,29 | +4.8% |  | Sorvete Moca Brigadeiro 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 21,59 | +11.9% |  | Sorvete Moca Brigadeiro 1500 ML | Port. 335/2021 |
@@ -5671,7 +5671,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 |  |  | Sorvete Molico Caramelo Zero Lacta 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 |  |  | Sorvete Molico Caramelo Zero Lacta 455 ml | Port. 99/2020 |
 
 ### Sorvete Molico Chocolate e Morango 455 ml (código —)
 
@@ -5679,21 +5679,21 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,80 |  |  | Sorvete Molico Chocolate e Morango 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 | +3.7% |  | Sorvete Molico Chocolate e Morango 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Molico Chocolate e Morango 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Molico Chocolate e Morango 455 ml | Port. 99/2020 |
 
 ### Sorvete Molico Creme + Chocolate 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 |  |  | Sorvete Molico Creme + Chocolate 500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Molico Creme + Chocolate 500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Molico Creme + Chocolate 500 ml | Port. 99/2020 |
 
 ### Sorvete Molico Creme + Morango 500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 |  |  | Sorvete Molico Creme + Morango 500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Molico Creme + Morango 500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Molico Creme + Morango 500 ml | Port. 99/2020 |
 
 ### Sorvete Molico Creme 0% Lactose 455 ml (código —)
 
@@ -5712,7 +5712,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 6,00 |  |  | Sorvete Molico Zero Lactose 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 6,00 | +0.0% |  | Sorvete Molico Zero Lactose 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 6,00 | +0.0% |  | Sorvete Molico Zero Lactose 140 ml | Port. 99/2020 |
 
 ### Sorvete Mondelez Oreo com Laka Oreo 1000 ML (código —)
 
@@ -5825,7 +5825,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Pote Napolitano 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +23.2% |  | Sorvete Napolitano 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +23.2% |  | Sorvete Napolitano 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Napolitano 2000 ML ⚠ | Port. 251/2020 |
 | 2024-02-09 (pub.) | 2024-01-31 | incluir | 23,00 | +64.3% |  | Sorvete Napolitano 2.000 ml ⚠ | Port. 41/2024 |
 | 2024-10-30 (pub.) | 2024-10-23 | alterar | 25,00 | +8.7% |  | Sorvete Napolitano 2.000 ml | Port. 440/2024 |
@@ -5879,7 +5879,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,80 |  |  | Sorvete Negresco 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 | +3.7% |  | Sorvete Negresco 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Negresco 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Negresco 455 ml | Port. 99/2020 |
 
 ### Sorvete Nestlé 5000 ml (código —)
 
@@ -5917,14 +5917,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,80 |  |  | Sorvete Nestle Chocomelo 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 | +3.7% |  | Sorvete Nestle Chocomelo 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Néstle Chocomelo 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Néstle Chocomelo 455 ml | Port. 99/2020 |
 
 ### Sorvete Nestle Creme Tradicional 1500 ml (código 51126)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 13,12 |  |  | Sorvete Nestle Creme Tradicional 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 | +13.4% |  | Sorvete Néstle Creme Tradicional 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 | +13.4% |  | Sorvete Néstle Creme Tradicional 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,88 | +0.0% |  | Sorvete Pote NESTLE Creme Tradicional 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 14,88 | +0.0% |  | Sorvete Nestle Creme Tradicional 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 17,07 | +14.7% |  | Sorvete Nestle Creme Tradicional 1500 ML | Port. 335/2021 |
@@ -5949,7 +5949,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 15,58 |  |  | Sorvete Galak 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 | +6.8% |  | Sorvete Galak 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +5.3% |  | Sorvete Galak 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +5.3% |  | Sorvete Galak 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 18,40 | +5.0% |  | Sorvete Pote GALAK 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 19,29 | +4.8% |  | Sorvete Galak 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 21,59 | +11.9% |  | Sorvete Galak 1500 ML | Port. 335/2021 |
@@ -5963,7 +5963,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,50 |  |  | Sorvete Nestle Gelato Cappuccino 140 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,50 | +0.0% |  | Sorvete Nestle Gelato Cappuccino 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Cappuccino 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Cappuccino 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +0.0% |  | Sorvete NESTLE Gelato Cappuccino 140 ML | Port. 251/2020 |
 
 ### Sorvete Nestle Gelato Caramello Salato 140 ML (código —)
@@ -5996,21 +5996,21 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 40,74 |  |  | Sorvete Néstle Gelato Caramelo Salato 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 40,74 |  |  | Sorvete Néstle Gelato Caramelo Salato 1500 ml | Port. 99/2020 |
 
 ### Sorvete NESTLE Gelato Cioccolato Nero 140 ML (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,50 |  |  | Sorvete Nestle Gelato Cioccolato Nero 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Cioccolato Nero 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Cioccolato Nero 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +0.0% |  | Sorvete NESTLE Gelato Cioccolato Nero 140 ML | Port. 251/2020 |
 
 ### Sorvete Néstle Gelato Cioccolato Nero 1500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 40,74 |  |  | Sorvete Néstle Gelato Cioccolato Nero 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 40,74 |  |  | Sorvete Néstle Gelato Cioccolato Nero 1500 ml | Port. 99/2020 |
 
 ### Sorvete Nestle Gelato CioccolatoNero 1500 ML (código —)
 
@@ -6036,13 +6036,13 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 |  |  | Sorvete Néstle Gelato Crml Salato 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 |  |  | Sorvete Néstle Gelato Crml Salato 140 ml | Port. 99/2020 |
 
 ### Sorvete Néstle Gelato Crml Salato 455 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 |  |  | Sorvete Néstle Gelato Crml Salato 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 |  |  | Sorvete Néstle Gelato Crml Salato 455 ml | Port. 99/2020 |
 
 ### Sorvete NESTLE Gelato Fragola 140 ML (código —)
 
@@ -6050,7 +6050,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,50 |  |  | Sorvete Nestle Gelato Fragola 140 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,50 | +0.0% |  | Sorvete Nestle Gelato Fragola 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Fragola 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Fragola 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +0.0% |  | Sorvete NESTLE Gelato Fragola 140 ML | Port. 251/2020 |
 
 ### Sorvete NESTLE Gelato Gianduia 140 ML (código —)
@@ -6059,7 +6059,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,50 |  |  | Sorvete Nestle Gelato Gianduia 140 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,50 | +0.0% |  | Sorvete Nestle Gelato Gianduia 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Gianduia 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Gianduia 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +0.0% |  | Sorvete NESTLE Gelato Gianduia 140 ML | Port. 251/2020 |
 
 ### Sorvete NESTLE Gelato Limoncello 140 ML (código —)
@@ -6068,7 +6068,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,50 |  |  | Sorvete Nestle Gelato Limoncello 140 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,50 | +0.0% |  | Sorvete Nestle Gelato Limoncello 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Limoncello 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Limoncello 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +0.0% |  | Sorvete NESTLE Gelato Limoncello 140 ML | Port. 251/2020 |
 
 ### Sorvete Néstle Gelato Macadâmia 1500 ml (código —)
@@ -6076,7 +6076,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 40,74 |  |  | Sorvete Nestle Gelato Macadâmia 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 40,74 | +0.0% |  | Sorvete Néstle Gelato Macadâmia 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 40,74 | +0.0% |  | Sorvete Néstle Gelato Macadâmia 1500 ml | Port. 99/2020 |
 
 ### Sorvete NESTLE Gelato Panna Cotta 140 ML (código —)
 
@@ -6084,7 +6084,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,50 |  |  | Sorvete Nestle Gelato Panna Cotta 140 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,50 | +0.0% |  | Sorvete Nestle Gelato Panna Cotta 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Panna Cotta 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Panna Cotta 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +0.0% |  | Sorvete NESTLE Gelato Panna Cotta 140 ML | Port. 251/2020 |
 
 ### Sorvete Nestle Gelato PannaCotta 455 ML (código —)
@@ -6099,7 +6099,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,50 |  |  | Sorvete Nestle Gelato Pistacchio 140 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,50 | +0.0% |  | Sorvete Nestle Gelato Pistacchio 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Pistacchio 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Pistacchio 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +0.0% |  | Sorvete NESTLE Gelato Pistacchio 140 ML | Port. 251/2020 |
 
 ### Sorvete Néstle Gelato Pistacchio 1500 ml (código —)
@@ -6108,7 +6108,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 40,74 |  |  | Sorvete Nestle Gelato Pistacchio 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 40,74 | +0.0% |  | Sorvete Nestle Gelato Pistacchio 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 40,74 | +0.0% |  | Sorvete Néstle Gelato Pistacchio 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 40,74 | +0.0% |  | Sorvete Néstle Gelato Pistacchio 1500 ml | Port. 99/2020 |
 
 ### Sorvete NESTLE Gelato Vaniglia 140 ML (código —)
 
@@ -6116,7 +6116,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 8,50 |  |  | Sorvete Nestle Gelato Vaniglia 140 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,50 | +0.0% |  | Sorvete Nestle Gelato Vaniglia 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Vaniglia 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,50 | +0.0% |  | Sorvete Néstle Gelato Vaniglia 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +0.0% |  | Sorvete NESTLE Gelato Vaniglia 140 ML | Port. 251/2020 |
 
 ### Sorvete Néstle Gelato Vaniglia 1500 ml (código —)
@@ -6125,7 +6125,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 40,74 |  |  | Sorvete Nestle Gelato Vaniglia 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 40,74 | +0.0% |  | Sorvete Nestle Gelato Vaniglia 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 40,74 | +0.0% |  | Sorvete Néstle Gelato Vaniglia 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 40,74 | +0.0% |  | Sorvete Néstle Gelato Vaniglia 1500 ml | Port. 99/2020 |
 
 ### Sorvete Nestle GelatoFragola 455 ML (código —)
 
@@ -6137,7 +6137,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 |  |  | Sorvete Néstle Gelatoto Panna Cotta 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 |  |  | Sorvete Néstle Gelatoto Panna Cotta 455 ml | Port. 99/2020 |
 
 ### Sorvete Nestlé Gourmet Chocolate 500ml (código —)
 
@@ -6168,7 +6168,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 15,76 |  |  | Sorvete Nestlé Marcas 1000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 18,41 | +16.8% |  | Sorvete Nestlé Marcas 1000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 18,41 | +16.8% |  | Sorvete Nestlé Marcas 1000 ml | Port. 99/2020 |
 
 ### Sorvete Nestlé Moça Trio 1.500ml (código 51164, anterior)
 
@@ -6176,7 +6176,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 15,58 |  |  | Sorvete Pote Trio Moça 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 | +6.8% |  | Sorvete Pote trio Moça 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +5.3% |  | Sorvete Trio Moça 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +5.3% |  | Sorvete Trio Moça 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 18,40 | +5.0% |  | Sorvete Pote Trio Moça 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 19,29 | +4.8% |  | Sorvete Trio Moça 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 21,59 | +11.9% |  | Sorvete Trio Moça 1500 ML | Port. 335/2021 |
@@ -6243,7 +6243,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 |  |  | Sorvete Néstle Naptn Tradicional 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 |  |  | Sorvete Néstle Naptn Tradicional 1500 ml | Port. 99/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 14,88 | +0.0% |  | Sorvete Nestle Naptn Tradicional 1500 ml | Port. 79/2021 |
 
 ### Sorvete Nestlé Prestigio 1.500ml (código 51184, anterior)
@@ -6254,8 +6254,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 15,58 | +0.0% |  | Sorvete Prestigio 1500 ml ⚠ | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 | +6.8% |  | Sorvete Pote Prestigio 1500 ML ⚠ | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 | +0.0% |  | Sorvete Prestigio 1500 ML ⚠ | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +5.3% |  | Sorvete Prestigio 1500 ml | Port. 99/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +0.0% |  | Sorvete Prestigio 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +5.3% |  | Sorvete Prestigio 1500 ml | Port. 99/2020 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +0.0% |  | Sorvete Prestigio 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 18,40 | +5.0% |  | Sorvete Pote PRESTIGIO 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 19,29 | +4.8% |  | Sorvete Prestigio 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 21,59 | +11.9% |  | Sorvete Prestigio 1500 ML | Port. 335/2021 |
@@ -6272,8 +6272,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 15,58 | +0.0% |  | Sorvete Sensaçâo 1500 ml ⚠ | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 | +6.8% |  | Sorvete Sensação 1500 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 | +0.0% |  | Sorvete Sensação 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +5.3% |  | Sorvete Sensação 1500 ml | Port. 99/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +0.0% |  | Sorvete Sensação 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +5.3% |  | Sorvete Sensação 1500 ml | Port. 99/2020 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +0.0% |  | Sorvete Sensação 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 18,40 | +5.0% |  | Sorvete Pote SENSACAO 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 19,29 | +4.8% |  | Sorvete Sensacao 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 21,59 | +11.9% |  | Sorvete Sensação 1500 ML | Port. 335/2021 |
@@ -6286,7 +6286,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 13,12 |  |  | Sorvete Nestle Chocolate Tradicional 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 | +13.4% |  | Sorvete Néstle Chocolate Tradicional 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 | +13.4% |  | Sorvete Néstle Chocolate Tradicional 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,88 | +0.0% |  | Sorvete Pote NESTLE Chocolate Tradicional 1500 ML ⚠ | Port. 251/2020 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 17,07 | +14.7% |  | Sorvete Nestlé Tradicional Chocolate 1,5L 1500 ML ⚠ | Port. 335/2021 |
 | 2022-03-16 (pub.) | 2022-03-10 | alterar | 20,68 | +21.1% |  | Sorvete Nestlé Tradicional Chocolate 1500 ml | Port. 126/2022 |
@@ -6339,7 +6339,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 |  |  | Sorvete Nobrelli Casquinha Baunilha 100 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 |  |  | Sorvete Nobrelli Casquinha Baunilha 100 ml | Port. 99/2020 |
 
 ### Sorvete Nobrelli Casquinha Mousse Morango 564 ml (código —)
 
@@ -6353,7 +6353,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 41,47 |  |  | Sorvete Pote Nobrelli Chocolate 5000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 41,47 | +0.0% |  | Sorvete Pote Nobrelli Chocolate 5000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 44,79 | +8.0% |  | Sorvete Nobrelli Chocolate 5000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 44,79 | +8.0% |  | Sorvete Nobrelli Chocolate 5000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 44,79 | +0.0% |  | Sorvete Pote Nobrelli Chocolate 5000 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 44,79 | +0.0% |  | Sorvete 5L Nobrelli Chocolate 5000 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 45,94 | +2.6% |  | Sorvete Nobrelli Chocolate 5000 ML | Port. 335/2021 |
@@ -6385,7 +6385,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Nobrelli Creme 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Creme 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Creme 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,12 | +7.2% |  | Sorvete Pote Nobrelli Creme 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 14,00 | +6.7% |  | Sorvete Nobrelli Creme 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 15,26 | +9.0% |  | Sorvete Nobrelli Creme 1500 ML | Port. 335/2021 |
@@ -6403,7 +6403,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 41,47 |  |  | Sorvete Pote Nobrelli Creme 5000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 41,47 | +0.0% |  | Sorvete Pote Nobrelli Creme 5000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 44,79 | +8.0% |  | Sorvete Nobrelli Creme 5000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 44,79 | +8.0% |  | Sorvete Nobrelli Creme 5000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 44,79 | +0.0% |  | Sorvete Pote Nobrelli Creme 5000 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 44,79 | +0.0% |  | Sorvete 5L Nobrelli Creme 5000 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 45,94 | +2.6% |  | Sorvete Nobrelli Creme 5000 ML | Port. 335/2021 |
@@ -6419,7 +6419,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 9,89 |  |  | Sorvete Nobrelli Duo Baun + Morango 1800 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,89 |  |  | Sorvete Nobrelli Duo Baun + Morango 1800 ml | Port. 99/2020 |
 
 ### Sorvete Nobrelli Duo Baunilha + Morango 1800 ml (código —)
 
@@ -6453,7 +6453,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 9,89 |  |  | Sorvete Nobrelli Duo Nata + Chocolate 1800 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,89 |  |  | Sorvete Nobrelli Duo Nata + Chocolate 1800 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 9,89 | +0.0% |  | Sorvete Pote Nobrelli Duo Nata + Chocolate 1800 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 11,56 | +16.9% |  | Sorvete Nobrelli Duo Nata + Chocolate 1800 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 11,85 | +2.5% |  | Sorvete Nobrelli Duo Nata + Chocolate 1800 ML | Port. 335/2021 |
@@ -6477,7 +6477,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Nobrelli Flocos 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Flocos 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Flocos 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,12 | +7.2% |  | Sorvete Pote Nobrelli Flocos 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 14,00 | +6.7% |  | Sorvete Nobrelli Flocos 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 15,26 | +9.0% |  | Sorvete Nobrelli Flocos 1500 ML | Port. 335/2021 |
@@ -6495,7 +6495,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 41,47 |  |  | Sorvete Pote Nobrelli Flocos 5000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 41,47 | +0.0% |  | Sorvete Pote Nobrelli Flocos 5000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 44,79 | +8.0% |  | Sorvete Nobrelli Flocos 5000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 44,79 | +8.0% |  | Sorvete Nobrelli Flocos 5000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 44,79 | +0.0% |  | Sorvete Pote Nobrelli Flocos 5000 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 44,79 | +0.0% |  | Sorvete 5L Nobrelli Flocos 5000 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 45,94 | +2.6% |  | Sorvete Nobrelli Flocos 5000 ML | Port. 335/2021 |
@@ -6512,7 +6512,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 2,00 |  |  | Sorvete Nobrelli Kids Tutti-Frutti 46 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 2,00 | +0.0% |  | Sorvete Nobrelli Kids Tutti-Frutti 46 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 2,00 | +0.0% |  | Sorvete Nobrelli Kids Tutti-Frutti 46 ml | Port. 99/2020 |
 
 ### Sorvete Nobrelli Morango 5000 ml (código 51177, anterior)
 
@@ -6520,7 +6520,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 41,47 |  |  | Sorvete Pote Nobrelli Morango 5000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 41,47 | +0.0% |  | Sorvete Pote Nobrelli Morango 5000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 44,79 | +8.0% |  | Sorvete Nobrelli Morango 5000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 44,79 | +8.0% |  | Sorvete Nobrelli Morango 5000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 44,79 | +0.0% |  | Sorvete Pote Nobrelli Morango 5000 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 44,79 | +0.0% |  | Sorvete 5L Nobrelli Morango 5000 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 45,94 | +2.6% |  | Sorvete Nobrelli Morango 5000 ML | Port. 335/2021 |
@@ -6540,8 +6540,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,36 |  |  | Sorvete Nobrelli Napolitano 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 | +0.0% |  | Sorvete Nobrelli Napolitano 1500 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 | +0.0% |  | Sorvete Pote Nobrelli Napolitano 1500 ML ⚠ | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Napolitano 1500 ml ⚠ | Port. 99/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Nobrelli Napolitano 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Napolitano 1500 ml ⚠ | Port. 99/2020 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Nobrelli Napolitano 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,12 | +7.2% |  | Sorvete Pote Nobrelli Napolitano 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 14,00 | +6.7% |  | Sorvete Nobrelli Napolitano 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 15,26 | +9.0% |  | Sorvete Nobrelli Napolitano 1500 ML | Port. 335/2021 |
@@ -6552,7 +6552,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 14,00 |  |  | Sorvete Pote Nobrelli Napolitano 2000 ml | Port. 497/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +0.0% |  | Sorvete Nobrelli Napolitano 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +0.0% |  | Sorvete Nobrelli Napolitano 2000 ml ⚠ | Port. 99/2020 |
 
 ### Sorvete Nobrelli Sundae 12x98g 180 ML (código 51141)
 
@@ -6565,7 +6565,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 5,00 |  |  | Sorvete Nobrelli Sundae 140 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 | +0.0% |  | Sorvete Nobrelli Sundae 140 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 | +0.0% |  | Sorvete Nobrelli Sundae 140 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 5,00 | +0.0% |  | Sorvete Nobrelli Sundae 140 ML | Port. 251/2020 |
 
 ### Sorvete Nobrelli Sundae 180 ml (código —)
@@ -6620,7 +6620,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 12,24 |  |  | Sorvete Nobrelli Trufadinho 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 | +0.0% |  | Sorvete Nobrelli Trufadinho 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Nobrelli Trufadinho 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Nobrelli Trufadinho 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,12 | +7.2% |  | Sorvete Pote Nobrelli Trufadinho 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 14,00 | +6.7% |  | Sorvete Nobrelli Trufadinho 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 15,26 | +9.0% |  | Sorvete Nobrelli Trufadinho 1500 ML | Port. 335/2021 |
@@ -6646,7 +6646,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 18,41 |  |  | Sorvete Oreo 1000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 18,41 |  |  | Sorvete Oreo 1000 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 19,29 | +4.8% |  | Sorvete Pote Oreo 1000 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 20,17 | +4.6% |  | Sorvete Oreo 1000 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 22,49 | +11.5% |  | Sorvete Oreo 1000 ML | Port. 335/2021 |
@@ -6656,14 +6656,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 |  |  | Sorvete Óreo 130 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 |  |  | Sorvete Óreo 130 ml | Port. 99/2020 |
 
 ### Sorvete Oreo 1500 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 19,29 |  |  | Sorvete Oreo 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 18,41 | -4.6% |  | Sorvete Oreo 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 18,41 | -4.6% |  | Sorvete Oreo 1500 ml | Port. 99/2020 |
 
 ### Sorvete Óreo 455 ml (código —)
 
@@ -6671,7 +6671,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 10,95 |  |  | Sorvete Pote Oreo 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 | +11.8% |  | Sorvete Pote Óreo 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Óreo 455 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Óreo 455 ml ⚠ | Port. 99/2020 |
 
 ### Sorvete Oreo 900ml (código —)
 
@@ -6770,7 +6770,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Aça Boom Banana 500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 11,36 | +0.0% |  | Sorvete Aça Boom Banana 500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 11,36 | +0.0% |  | Sorvete Aça Boom Banana 500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 11,36 | +0.0% |  | Sorvete Pote Aça Boom Banana 500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aça Boom Morango 2000 ML (código —)
@@ -6786,7 +6786,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Aça Boom Morango 500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 11,36 | +0.0% |  | Sorvete Aça Boom Morango 500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 11,36 | +0.0% |  | Sorvete Aça Boom Morango 500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 11,36 | +0.0% |  | Sorvete Pote Aça Boom Morango 500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aça Boom Original 500 ML (código —)
@@ -6809,7 +6809,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 |  |  | Sorvete Alpino Sorvete Pote 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +5.3% |  | Sorvete Alpino 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +5.3% |  | Sorvete Alpino 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 18,40 | +5.0% |  | Sorvete Pote Alpino 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Chocolate 1500 ML (código —)
@@ -6818,7 +6818,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,37 |  |  | Sorvete Pote Aro Chocolate 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +3.4% |  | Sorvete Pote Aro Chocolate 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Aro Chocolate 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Aro Chocolate 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,45 | +0.0% |  | Sorvete Pote Aro Chocolate 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Chocolate 5000 ML (código —)
@@ -6827,7 +6827,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 42,44 |  |  | Sorvete Pote Aro Chocolate 5000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 42,43 | -0.0% |  | Sorvete Pote Aro Chocolate 5000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 42,43 | +0.0% |  | Sorvete Aro Chocolate 5000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 42,43 | +0.0% |  | Sorvete Aro Chocolate 5000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 42,43 | +0.0% |  | Sorvete Pote Aro Chocolate 5000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Creme 1500 ML (código —)
@@ -6836,7 +6836,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,37 |  |  | Sorvete Pote Aro Creme 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +3.4% |  | Sorvete Pote Aro Creme 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Aro Creme 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Aro Creme 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,45 | +0.0% |  | Sorvete Pote Aro Creme 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Creme 5000 ML (código —)
@@ -6844,7 +6844,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 42,43 |  |  | Sorvete Pote Aro Creme 5000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 42,43 | +0.0% |  | Sorvete Aro Creme 5000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 42,43 | +0.0% |  | Sorvete Aro Creme 5000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 42,43 | +0.0% |  | Sorvete Pote Aro Creme 5000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Flocos 1500 ML (código —)
@@ -6853,7 +6853,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,37 |  |  | Sorvete Pote Aro Flocos 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +3.4% |  | Sorvete Pote Aro Flocos 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Aro Flocos 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Aro Flocos 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,45 | +0.0% |  | Sorvete Pote Aro Flocos 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Flocos 5000 ML (código —)
@@ -6862,7 +6862,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 42,44 |  |  | Sorvete Pote Aro Flocos 5000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 42,43 | -0.0% |  | Sorvete Pote Aro Flocos 5000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 42,43 | +0.0% |  | Sorvete Aro Flocos 5000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 42,43 | +0.0% |  | Sorvete Aro Flocos 5000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 42,43 | +0.0% |  | Sorvete Pote Aro Flocos 5000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Morango 1500 ML (código —)
@@ -6870,7 +6870,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 |  |  | Sorvete Pote Aro Morango 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Aro Morango 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Aro Morango 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,45 | +0.0% |  | Sorvete Pote Aro Morango 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Morango 5000 ML (código —)
@@ -6879,7 +6879,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 42,44 |  |  | Sorvete Pote Aro Morango 5000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 42,43 | -0.0% |  | Sorvete Pote Aro Morango 5000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 42,43 | +0.0% |  | Sorvete Aro Morango 5000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 42,43 | +0.0% |  | Sorvete Aro Morango 5000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 42,43 | +0.0% |  | Sorvete Pote Aro Morango 5000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Aro Napolitano 1500 ML (código —)
@@ -6888,7 +6888,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,37 |  |  | Sorvete Pote Aro Napolitano 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +3.4% |  | Sorvete Pote Aro Napolitano 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Aro Napolitano 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Aro Napolitano 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,45 | +0.0% |  | Sorvete Pote Aro Napolitano 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Caldas Leite Condensado 2000 ML (código —)
@@ -6896,7 +6896,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 14,88 |  |  | Sorvete Pote Caldas Leite Condensado 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,64 | +11.8% |  | Sorvete Caldas Leite Condensado 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,64 | +11.8% |  | Sorvete Caldas Leite Condensado 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,64 | +0.0% |  | Sorvete Pote Caldas Leite Condensado 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Caldas Morango 2000 ML (código —)
@@ -6904,7 +6904,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 14,88 |  |  | Sorvete Pote Caldas Morango 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,64 | +11.8% |  | Sorvete Caldas Morango 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,64 | +11.8% |  | Sorvete Caldas Morango 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,64 | +0.0% |  | Sorvete Pote Caldas Morango 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Chambinho 500 ML (código —)
@@ -6913,7 +6913,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,80 |  |  | Sorvete Chambinho 500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 | +3.7% |  | Sorvete Chambinho 500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +14.4% |  | Sorvete Chambinho 500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +14.4% |  | Sorvete Chambinho 500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Chambinho 500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Churros 1500 ML (código —)
@@ -6921,7 +6921,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 12,24 |  |  | Sorvete Pote Churros 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +0.0% |  | Sorvete Churros 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +0.0% |  | Sorvete Churros 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,12 | +7.2% |  | Sorvete Pote Churros 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Churros 2000 ML (código —)
@@ -6929,7 +6929,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 14,88 |  |  | Sorvete Pote Churros 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,64 | +11.8% |  | Sorvete Churros 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,64 | +11.8% |  | Sorvete Churros 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,64 | +0.0% |  | Sorvete Pote Churros 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote CRF Mousse Limão 1500 ML (código —)
@@ -6958,7 +6958,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 14,00 |  |  | Sorvete Pote Garoto Chocolate 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +0.0% |  | Sorvete Garoto Chocolate 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +0.0% |  | Sorvete Garoto Chocolate 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Garoto Chocolate 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Garoto Negresco 2000 ML (código —)
@@ -6966,7 +6966,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 14,00 |  |  | Sorvete Pote Garoto Negresco 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +0.0% |  | Sorvete Garoto Negresco 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +0.0% |  | Sorvete Garoto Negresco 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Garoto Negresco 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote GPA Flocos 1500 ML (código —)
@@ -6976,7 +6976,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Pote GPA Flocos 1500 ml | Port. 497/2019 |
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 | +0.0% |  | Sorvete Pote GPA Flocos 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Pote GPA Flocos 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete GPA Flocos 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete GPA Flocos 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,30 | +6.3% |  | Sorvete Pote GPA Flocos 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote GPA Limão 1500 ML (código —)
@@ -6984,7 +6984,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 |  |  | Sorvete Pote GPA Limão 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete GPA Limão 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete GPA Limão 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,30 | +6.3% |  | Sorvete Pote GPA Limão 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote GPA Manga 1500 ML (código —)
@@ -6992,7 +6992,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 |  |  | Sorvete Pote GPA Manga 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete GPA Manga 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete GPA Manga 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,30 | +6.3% |  | Sorvete Pote GPA Manga 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote La Frutta 1000 ML (código —)
@@ -7000,7 +7000,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 15,76 |  |  | Sorvete La Frutta 1000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 18,41 | +16.8% |  | Sorvete La Frutta 1000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 18,41 | +16.8% |  | Sorvete La Frutta 1000 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 19,29 | +4.8% |  | Sorvete Pote La Frutta 1000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote LA FRUTTA Abacaxi Coco 1500 ML (código —)
@@ -7037,7 +7037,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 |  |  | Sorvete La Frutta Uva e Limão 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 |  |  | Sorvete La Frutta Uva e Limão 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 19,29 | +0.0% |  | Sorvete Pote LA FRUTTA Uva Limão 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Lacta Chocolate 1500 ML (código —)
@@ -7046,7 +7046,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,50 |  |  | Sorvete Lacta Chocolate 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 19,29 | +16.9% |  | Sorvete Lacta Chocolate 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 | +0.0% |  | Sorvete Lacta Chocolate 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 | +0.0% |  | Sorvete Lacta Chocolate 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 20,17 | +4.6% |  | Sorvete Pote Lacta Chocolate 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Makro Creme 5000 ml (código —)
@@ -7067,7 +7067,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 |  |  | Sorvete Nestle Napolitano Especialidades 1500 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 | +0.0% |  | Sorvete Nestle Napolitano Especialidades 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +5.3% |  | Sorvete Néstle Napolitano Especialidades 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +5.3% |  | Sorvete Néstle Napolitano Especialidades 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 18,40 | +5.0% |  | Sorvete Pote Napolitano Especialidades 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Napolitano Flocos 1500 ML (código —)
@@ -7076,21 +7076,21 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 12,81 |  |  | Sorvete Napolitano Flocos 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 13,12 | +2.4% |  | Sorvete Napolitano Flocos 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 | +13.4% |  | Sorvete Napolitano Flocos 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 | +13.4% |  | Sorvete Napolitano Flocos 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,88 | +0.0% |  | Sorvete Pote Napolitano Flocos 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Natal Flocos 1500 ML (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 |  |  | Sorvete Natal Flocos 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 |  |  | Sorvete Natal Flocos 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,88 | +0.0% |  | Sorvete Pote Natal Flocos 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Natal Napolitano 1500 ML (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 |  |  | Sorvete Natal Napolitano 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 |  |  | Sorvete Natal Napolitano 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,88 | +0.0% |  | Sorvete Pote Natal Napolitano 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote NESTLE GELATO Capuccino 455 ML (código —)
@@ -7099,7 +7099,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,55 |  |  | Sorvete Nestle gelato Capuccino 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,54 | -0.1% |  | Sorvete Nestle Gelato Capuccino 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 | +0.1% |  | Sorvete Nestle Gelato Capuccino 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 | +0.1% |  | Sorvete Nestle Gelato Capuccino 455 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,54 | -0.1% |  | Sorvete Pote NESTLE GELATO Capuccino 455 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote NESTLE Gelato Caramelo Salato 455 ML (código —)
@@ -7113,7 +7113,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 |  |  | Sorvete Néstle Gelato Cioccolato Nero 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 |  |  | Sorvete Néstle Gelato Cioccolato Nero 455 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,54 | -0.1% |  | Sorvete Pote NESTLE Gelato Cioccolato Nero 455 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote NESTLE GELATO Fragola 455 ML (código —)
@@ -7121,7 +7121,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,55 |  |  | Sorvete Nestle Gelato Fragola 455 ml | Port. 497/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 | +0.0% |  | Sorvete Néstle Gelato Fragola 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 | +0.0% |  | Sorvete Néstle Gelato Fragola 455 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,54 | -0.1% |  | Sorvete Pote NESTLE GELATO Fragola 455 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote NESTLE GELATO Gianduia 455 ML (código —)
@@ -7130,7 +7130,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,55 |  |  | Sorvete Nestle Gelato Gianduia 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,54 | -0.1% |  | Sorvete Nestle Gelato Gianduia 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 | +0.1% |  | Sorvete Néstle Gelato Gianduia 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 | +0.1% |  | Sorvete Néstle Gelato Gianduia 455 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,54 | -0.1% |  | Sorvete Pote NESTLE GELATO Gianduia 455 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote NESTLE Gelato Limoncello 455 ML (código —)
@@ -7139,7 +7139,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,55 |  |  | Sorvete Nestle Gelato Limoncello 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,54 | -0.1% |  | Sorvete Nestle Gelato Limoncello 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 | +0.1% |  | Sorvete Néstle Gelato Limoncello 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 | +0.1% |  | Sorvete Néstle Gelato Limoncello 455 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,54 | -0.1% |  | Sorvete Pote NESTLE Gelato Limoncello 455 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote NESTLE Gelato Macadâmia 455 ML (código —)
@@ -7147,7 +7147,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,54 |  |  | Sorvete Nestle Gelato Macadâmia 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 | +0.1% |  | Sorvete Néstle Gelato Macadâmia 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 | +0.1% |  | Sorvete Néstle Gelato Macadâmia 455 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,54 | -0.1% |  | Sorvete Pote NESTLE Gelato Macadâmia 455 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote NESTLE GELATO Panna Cotta 455 ML (código —)
@@ -7163,7 +7163,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,55 |  |  | Sorvete Nestle Gelato Pistacchio 455 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,54 | -0.1% |  | Sorvete Nestle Gelato Pistacchio 455 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,55 | +0.1% |  | Sorvete Néstle Gelato Pistacchio 455 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,55 | +0.1% |  | Sorvete Néstle Gelato Pistacchio 455 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,54 | -0.1% |  | Sorvete Pote NESTLE GELATO Pistacchio 455 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Nestlé Marcas 1000 ML (código —)
@@ -7177,7 +7177,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 16,64 |  |  | Sorvete Nestle Napolitano Zero Lactose 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 17,52 | +5.3% |  | Sorvete Néstle Napolitano Zero Lactose 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 17,52 | +5.3% |  | Sorvete Néstle Napolitano Zero Lactose 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 18,40 | +5.0% |  | Sorvete Pote NESTLE Napolitano Zero Lactose 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Nobrelli Creme 2000 ml (código —)
@@ -7203,7 +7203,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Nobrelli Mesclado 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Mesclado 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Mesclado 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,12 | +7.2% |  | Sorvete Pote Nobrelli Mesclado 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Nobrelli Mesclado 2000 ML (código —)
@@ -7212,7 +7212,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 14,00 |  |  | Sorvete Nobrelli Mesclado 2000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 | -18.9% |  | Sorvete Nobrelli Mesclado 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +23.2% |  | Sorvete Nobrelli Mesclado 2000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +23.2% |  | Sorvete Nobrelli Mesclado 2000 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Nobrelli Mesclado 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Nobrelli Milho Verde 1500 ML (código —)
@@ -7220,7 +7220,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Nobrelli Milho Verde 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Milho Verde 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +7.7% |  | Sorvete Nobrelli Milho Verde 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,12 | +7.2% |  | Sorvete Pote Nobrelli Milho Verde 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Nobrelli Milho Verde 2000 ML (código —)
@@ -7229,7 +7229,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 14,00 |  |  | Sorvete Nobrelli Milho Verde 2000 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 | -18.9% |  | Sorvete Nobrelli Milho Verde 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +23.2% |  | Sorvete Nobrelli Milho Verde 2000 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +23.2% |  | Sorvete Nobrelli Milho Verde 2000 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Nobrelli Milho Verde 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Nobrelli Napolitano BF 2000 ML (código —)
@@ -7257,7 +7257,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 12,81 |  |  | Sorvete Pote Passas ao Rum 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 13,12 | +2.4% |  | Sorvete Pote Passas ao Rum 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 | +13.4% |  | Sorvete Passas ao Rum 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 | +13.4% |  | Sorvete Passas ao Rum 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,88 | +0.0% |  | Sorvete Pote Passas ao Rum 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Projeto Girafa 1800 ML (código —)
@@ -7270,7 +7270,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 |  |  | Sorvete Rosadinha Napolitano 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 |  |  | Sorvete Rosadinha Napolitano 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,88 | +0.0% |  | Sorvete Pote Rosadinha Napolitano 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Tapioca 1500 ML (código —)
@@ -7278,7 +7278,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Pote Tapioca 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 12,24 | +7.7% |  | Sorvete Tapioca 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 12,24 | +7.7% |  | Sorvete Tapioca 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 13,12 | +7.2% |  | Sorvete Pote Tapioca 1500 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Tapioca 2000 ML (código —)
@@ -7286,7 +7286,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,36 |  |  | Sorvete Pote Tapioca 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,00 | +23.2% |  | Sorvete Tapioca 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,00 | +23.2% |  | Sorvete Tapioca 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,00 | +0.0% |  | Sorvete Pote Tapioca 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Pote Trufadinho 2000 ML (código —)
@@ -7294,7 +7294,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 14,88 |  |  | Sorvete Pote Trufadinho 2000 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 16,64 | +11.8% |  | Sorvete Trufadinho 2000 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 16,64 | +11.8% |  | Sorvete Trufadinho 2000 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 16,64 | +0.0% |  | Sorvete Pote Trufadinho 2000 ML ⚠ | Port. 251/2020 |
 
 ### Sorvete Premy Abacaxi 1.500 ml (código —)
@@ -7422,7 +7422,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Pote Qualitá Coco 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Pote Qualitá Coco 1500 ML | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Pote Qualitá Coco 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Qualitá Coco 1500 ml ⚠ | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Qualitá Coco 1500 ml ⚠ | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,30 | +6.3% |  | Sorvete Pote Qualitá Coco 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 12,94 | -9.5% |  | Sorvete Qualitá Coco 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 14,55 | +12.4% |  | Sorvete Qualitá Coco 1500 ML | Port. 335/2021 |
@@ -7432,7 +7432,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 |  |  | Sorvete Qualita GPA Carioca 1500 mçl | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 |  |  | Sorvete Qualita GPA Carioca 1500 mçl | Port. 99/2020 |
 
 ### Sorvete Qualita Gpa Carioca 1500 ml (código 51185, anterior)
 
@@ -7451,7 +7451,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Qualita Gpa Chocolate 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Qualita GPA Chocolate 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Qualita GPA Chocolate 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Qualita GPA Chocolate 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,30 | +6.3% |  | Sorvete Pote Qualita GPA Chocolate 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 12,94 | -9.5% |  | Sorvete Qualita Gpa Chocolate 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 14,55 | +12.4% |  | Sorvete Qualita Gpa Chocolate 1500 ML | Port. 335/2021 |
@@ -7464,7 +7464,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Qualita Gpa Creme 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Qualita GPA Creme 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Qualita GPA Creme 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Qualita GPA Creme 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,30 | +6.3% |  | Sorvete Pote Qualita GPA Creme 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 12,94 | -9.5% |  | Sorvete Qualita Gpa Creme 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 14,55 | +12.4% |  | Sorvete Qualita Gpa Creme 1500 ML | Port. 335/2021 |
@@ -7477,7 +7477,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Qualita Gpa Flocos 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Qualita GPA Flocos 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Qualita GPA Flocos 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Qualita GPA Flocos 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,30 | +6.3% |  | Sorvete Pote Qualita GPA Flocos 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 12,94 | -9.5% |  | Sorvete Qualita Gpa Flocos 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 14,55 | +12.4% |  | Sorvete Qualita Gpa Flocos 1500 ML | Port. 335/2021 |
@@ -7508,7 +7508,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Qualita Gpa Naptn 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Qualita GPA Napolitano 1500 ML ⚠ | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Qualita GPA Napolitano 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Qualita GPA Napolitano 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,30 | +6.3% |  | Sorvete Pote Qualita GPA Naptn 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 12,94 | -9.5% |  | Sorvete Qualita Gpa Naptn 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 14,55 | +12.4% |  | Sorvete Qualita Gpa Naptn 1500 ML | Port. 335/2021 |
@@ -7692,21 +7692,21 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 9,00 |  |  | Sorvete Sanduíche Garoto cookies 135 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +0.0% |  | Sorvete Sanduíche Garoto cookies 135 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +0.0% |  | Sorvete Sanduíche Garoto cookies 135 ml | Port. 99/2020 |
 
 ### Sorvete Sanduiche Nobrelli 80 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 5,00 |  |  | Sorvete Sanduiche Nobrelli 80 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 5,00 | +0.0% |  | Sorvete Sanduiche Nobrelli 80 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 5,00 | +0.0% |  | Sorvete Sanduiche Nobrelli 80 ml | Port. 99/2020 |
 
 ### Sorvete Sanduíche Óreo 135 ML (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,00 |  |  | Sorvete Sanduíche Óreo 135 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,00 | +0.0% |  | Sorvete Sanduíche Óreo 135 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,00 | +0.0% |  | Sorvete Sanduíche Óreo 135 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +6.2% |  | Sorvete Sanduíche Óreo 135 ML | Port. 251/2020 |
 
 ### Sorvete Sanduíche Óreo Chocolate 135 ML (código —)
@@ -7714,7 +7714,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 8,00 |  |  | Sorvete Sanduíche Óreo Chocolate 135 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 8,00 | +0.0% |  | Sorvete Sanduíche Óreo Chocolate 135 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 8,00 | +0.0% |  | Sorvete Sanduíche Óreo Chocolate 135 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 8,50 | +6.2% |  | Sorvete Sanduíche Óreo Chocolate 135 ML | Port. 251/2020 |
 
 ### Sorvete Seleções Belga - Copo 400 ml (código —)
@@ -7812,14 +7812,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,00 |  |  | Sorvete Sensação 122 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +28.6% |  | Sorvete Sensação 122 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +28.6% |  | Sorvete Sensação 122 ml | Port. 99/2020 |
 
 ### Sorvete Serenata de Amor 110 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 7,00 |  |  | Sorvete Serenata de Amor 110 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 9,00 | +28.6% |  | Sorvete Serenata de Amor 110 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 9,00 | +28.6% |  | Sorvete Serenata de Amor 110 ml | Port. 99/2020 |
 
 ### Sorvete Seresta 2.000 ml (código —)
 
@@ -7841,7 +7841,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 16,50 |  |  | Sorvete Sonho de Valsa 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 19,29 | +16.9% |  | Sorvete Sonho de Valsa 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 19,29 | +0.0% |  | Sorvete Sonho de Valsa 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 19,29 | +0.0% |  | Sorvete Sonho de Valsa 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 20,17 | +4.6% |  | Sorvete Pote Sonho de Valsa 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 21,05 | +4.4% |  | Sorvete Sonho de Valsa 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 22,49 | +6.8% |  | Sorvete Sonho de Valsa 1500 ML | Port. 335/2021 |
@@ -8309,7 +8309,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 12,81 | +0.0% |  | Sorvete Pote Tradicional Flocos 1500 ml ⚠ | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 13,12 | +2.4% |  | Sorvete Nestle Flocos Tradicional 1500 ML ⚠ | Port. 523/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 13,12 | +0.0% |  | Sorvete Nestle Flocos Tradicional 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 14,88 | +13.4% |  | Sorvete Néstle Flocos Tradicional 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 14,88 | +13.4% |  | Sorvete Néstle Flocos Tradicional 1500 ml | Port. 99/2020 |
 | 2020-09-02 (pub.) | 2020-08-26 | alterar | 14,88 | +0.0% |  | Sorvete Pote NESTLE Flocos Tradicional 1500 ML ⚠ | Port. 251/2020 |
 | 2021-03-10 (pub.) | 2021-03-05 | incluir | 14,88 | +0.0% |  | Sorvete Tradicional Flocos 1500 ml ⚠ | Port. 79/2021 |
 | 2021-08-24 (pub.) | 2021-08-20 | alterar | 17,07 | +14.7% |  | Sorvete Tradicional Flocos 1500 ML | Port. 335/2021 |
@@ -8680,7 +8680,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Walmart Chocolate 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Walmart Chocolate 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Chocolate 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Chocolate 1500 ml | Port. 99/2020 |
 
 ### Sorvete Walmart Creme 1500 ml (código —)
 
@@ -8688,7 +8688,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Walmart Creme 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Walmart Creme 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Creme 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Creme 1500 ml | Port. 99/2020 |
 
 ### Sorvete Walmart Flocos 1500 ml (código —)
 
@@ -8696,7 +8696,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Walmart Flocos 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Walmart Flocos 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Flocos 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Flocos 1500 ml | Port. 99/2020 |
 
 ### Sorvete Walmart Morango 1500 ml (código —)
 
@@ -8704,7 +8704,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Walmart Morango 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Walmart Morango 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Morango 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Morango 1500 ml | Port. 99/2020 |
 
 ### Sorvete Walmart Napolitano 1500 ml (código —)
 
@@ -8712,7 +8712,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-08-29 (pub.) | 2019-08-26 | incluir | 11,76 |  |  | Sorvete Walmart Napolitano 1500 ml | Port. 497/2019 |
 | 2019-09-18 (pub.) | 2019-09-13 | alterar | 11,76 | +0.0% |  | Sorvete Walmart Napolitano 1500 ML | Port. 523/2019 |
-| 2020-03-23 (pub.) | 2019 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Napolitano 1500 ml | Port. 99/2019 |
+| 2020-03-23 (pub.) | 2020-03-17 | alterar | 13,45 | +14.4% |  | Sorvete Walmart Napolitano 1500 ml | Port. 99/2020 |
 
 ### SUNDAE DE CHOCOLATE 90g (código —)
 
@@ -8739,7 +8739,7 @@ Links para o texto de cada portaria usada acima.
 - Port. 523/2019: [Portaria nº 523/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=953d338e-621a-4177-ae6a-fe6928334fe7), vigência 2019-09-18 (pub.)
 - Port. 602/2019: [Portaria nº 602/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8fe8bf80-618d-47e9-9b78-faf27da61349), vigência 2019-11-05 (pub.)
 - Port. 88/2020: [Portaria nº 88/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a0253580-af36-459e-8230-3573e2a84d3d), vigência 2020-03-13 (pub.)
-- Port. 99/2019: [Portaria nº 99/2019](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9df8fb22-5265-4314-8d7f-a282df94a5ac), vigência 2020-03-23 (pub.)
+- Port. 99/2020: [Portaria nº 99/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9df8fb22-5265-4314-8d7f-a282df94a5ac), vigência 2020-03-23 (pub.)
 - Port. 141/2020: [Portaria nº 141/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4d7ae287-cb0c-4ad8-a7e4-7edc01bc1fda), vigência 2020-05-13 (pub.)
 - Port. 170/2020: [Portaria nº 170/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c79c862b-dd4c-450b-aeb6-1e6989e8a664), vigência 2020-06-30 (pub.)
 - Port. 251/2020: [Portaria nº 251/2020](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ebfec985-1ad6-4828-bdb2-f7c2976b249b), vigência 2020-09-02 (pub.)

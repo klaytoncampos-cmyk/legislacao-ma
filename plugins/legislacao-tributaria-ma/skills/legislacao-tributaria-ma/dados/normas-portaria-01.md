@@ -7,8 +7,8 @@ data: "2015-01-06"
 ementa: "Alterar a redação do art. 4º da Portaria nº 312/GABIN, de 1º de dezembro de 2014, que passa a vigorar com a redação a seguir."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f5c9aef4-8919-4e88-87b0-0f7f2a3962aa
-atualizado_na_fonte: "2025-06-25 17:03:01"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:42:23"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -56,7 +56,7 @@ ementa: "Prorroga, excepcionalmente, o prazo para recadastramento de contribuint
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=435052b7-151d-4cd3-b8b3-0d6c6b22e838
 atualizado_na_fonte: "2026-10-09 17:04:25"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -114,8 +114,8 @@ data: "2016-01-06"
 ementa: "Dispõe sobre a autorização de que trata a alínea “b” do inciso I do § 2o do artigo 2o do Anexo 4.41 do RICMS/03 (Substituição Tributária nas Operações Interestaduais com Autopeças)."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4d3def64-3581-4a2b-a670-e6e56770efb9
-atualizado_na_fonte: "2025-07-01 15:35:37"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:42:38"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 4.41, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -294,8 +294,8 @@ data: "2016-01-07"
 ementa: "Tornar público que a empresa TAM LINHAS AÉREAS S.A."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=64cc3312-7021-4fae-8b04-2eb2887f2c2e
-atualizado_na_fonte: "2025-07-01 15:36:29"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:42:15"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -347,7 +347,7 @@ ementa: "Dispõe sobre os procedimentos a serem observados neste Estado quando d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a5e2e0da-0377-4792-9b34-67e8f35781f4
 atualizado_na_fonte: "2026-10-13 10:30:09"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -411,8 +411,8 @@ data: "2015-01-15"
 ementa: "Alterar a redação do caput art. 4º da Portaria nº 312/ GABIN, de 1º de dezembro de 2014, que passa a vigorar com a redação a seguir."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03f5034f-abdf-4500-bc94-cee67bc68293
-atualizado_na_fonte: "2025-06-25 17:07:21"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:40:54"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -461,7 +461,7 @@ ementa: "Art. 1º. Definir que para fins da base de cálculo do Imposto sobre a 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=70134eb6-f097-408d-9bdd-791be32de4aa
 atualizado_na_fonte: "2026-10-09 17:06:57"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -506,8 +506,8 @@ data: "2021-01-21"
 ementa: "Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 2015."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=14d3c712-ff42-4d78-beef-836b0120d84c
-atualizado_na_fonte: "2025-08-11 15:02:46"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 09:33:25"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -575,8 +575,8 @@ data: "2007-01-23"
 ementa: "Determina que a partirr de 2007 os débitos de ICMS de valor declarado e a penalidade por omissão de declaração de informações econômico-fiscais (DIEF) no prazo regulamentar sejam lançados por meio da Notificação de Lançamento, conforme dispõe o Art. 178 da Lei n°.7.799/02 com nova redação dada pela Lei n°. 8.438, de 26 de julho de 2006."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d13ef3e0-690c-4d2b-820c-d36429a3a09f
-atualizado_na_fonte: "2025-06-23 13:49:28"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 10:21:23"
+extraido_em: "2026-11-14"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -732,21 +732,21 @@ COTEA/Área de Recuperação da Receita
 3. Emitir a certidão de dívida ativa, obedecendo aos mesmos critérios utilizados para inscrição de crédito tributário lançado por meio do auto de infração.
 <<<DOC normas/portaria/portaria-020-2004-12532.md>>>
 ---
-documento: "PORTARIA Nº 20, DE 02 DE FEVEREIRO DE 2004"
+documento: "PORTARIA Nº 020, DE 02 DE FEVEREIRO DE 2004"
 tipo: portaria
 numero: 20
 data: "2004-02-02"
 ementa: "Criar no âmbito desta Gerência o Grupo Especial de Gestão do Crédito Tributário - GECET."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d14e163c-f4b5-40e7-a857-30d7fe7e37e4
-atualizado_na_fonte: "2025-06-18 17:05:49"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 09:37:02"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 20, DE 02 DE FEVEREIRO DE 2004
+# PORTARIA Nº 020, DE 02 DE FEVEREIRO DE 2004
 
 _Criar no âmbito desta Gerência o Grupo Especial de Gestão do Crédito Tributário - GECET._
 
@@ -811,7 +811,7 @@ ementa: "Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 201
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6f528f99-8a48-49a8-b1b9-beb5147ac693
 atualizado_na_fonte: "2025-08-01 13:59:21"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -891,7 +891,7 @@ ementa: "Dispõe sobre a instrução e a tramitação de processos de consulta f
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0f227b36-d83f-46ee-a838-1f2a9b598b64
 atualizado_na_fonte: "2026-10-09 17:08:17"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1013,21 +1013,21 @@ MARCELLUS RIBEIRO ALVES
 Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-024-2016-15754.md>>>
 ---
-documento: "PORTARIA nº 24, DE 18 DE JANEIRO DE 2016"
+documento: "PORTARIA Nº 024, DE 18 DE JANEIRO DE 2016"
 tipo: portaria
 numero: 24
 data: "2016-01-18"
 ementa: "Considerando a obrigatoriedade dos contribuintes à Declaração de Informações Econômico-Fiscais (DIEF) e à Escrituração Fiscal Digital (EFD)."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2270c581-154e-4e78-943d-2a56c2f3214c
-atualizado_na_fonte: "2025-07-01 15:47:06"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:39:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA nº 24, DE 18 DE JANEIRO DE 2016
+# PORTARIA Nº 024, DE 18 DE JANEIRO DE 2016
 
 _Considerando a obrigatoriedade dos contribuintes à Declaração de Informações Econômico-Fiscais (DIEF) e à Escrituração Fiscal Digital (EFD)._
 
@@ -1091,7 +1091,7 @@ ementa: "Dispõe sobre regras complementares à fruição do benefício da redu�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c3c96376-ee1a-4fa3-90b5-822252e4f045
 atualizado_na_fonte: "2025-08-01 14:01:47"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 48.0
@@ -1883,21 +1883,21 @@ SETA TRANSPORTES LTDA
 12.226.410-0 06/2022 JUNHO2023
 <<<DOC normas/portaria/portaria-025-2016-15755.md>>>
 ---
-documento: "PORTARIA nº 25, DE 18 DE JANEIRO DE 2016"
+documento: "PORTARIA Nº 025, DE 18 DE JANEIRO DE 2016"
 tipo: portaria
 numero: 25
 data: "2016-01-18"
 ementa: "Considerando que os pagamentos realizados referentes às intimações fiscais destinados a cobrança de ICMS das pessoas físicas, com fundamento no Art."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b24740e5-a01c-4e21-87ba-9752c3364815
-atualizado_na_fonte: "2025-07-01 15:47:42"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:38:27"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA nº 25, DE 18 DE JANEIRO DE 2016
+# PORTARIA Nº 025, DE 18 DE JANEIRO DE 2016
 
 _Considerando que os pagamentos realizados referentes às intimações fiscais destinados a cobrança de ICMS das pessoas físicas, com fundamento no Art._
 
@@ -2051,7 +2051,7 @@ ementa: "Altera a Portaria nº 160, de 08 de junho de 2020, que dispõe sobre os
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=05101b0b-7c6e-4142-a237-e36a3361b41a
 atualizado_na_fonte: "2026-10-09 17:08:39"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.3, Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2095,8 +2095,8 @@ data: "2018-01-22"
 ementa: "Altera a Portaria nº 140/16, que dispõe sobre o cálculo dos créditos de restituição de ICMS, quando o contribuinte, emitente do documento fiscal, for integrante do Simples Nacional."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e6538c40-e47e-40fc-a3c2-31d26886a34a
-atualizado_na_fonte: "2025-07-03 15:12:01"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 18:06:01"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2146,7 +2146,7 @@ ementa: "Determinar que seja aceito como comprovação o laudo apresentado à Se
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cfa91db1-49f4-43e9-ac8c-748e8b57a390
 atualizado_na_fonte: "2026-10-13 10:37:24"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2190,8 +2190,8 @@ data: "2011-01-28"
 ementa: "Excluir do regime de substituição tributária as operações interestaduais destinadas ao contribuinte Centro de Distribuição Moto Moura Ltda., Rua Teresina 830 Proximo a BR, Timon – MA, inscrição estadual no 07.413.835/0005-46."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1c243b39-2481-43ee-a2e5-21397799f773
-atualizado_na_fonte: "2025-06-23 17:31:41"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:46:34"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2248,7 +2248,7 @@ ementa: "Prorroga, excepcionalmente, o prazo para o pagamento parcelado do IPVA,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4e870dda-bd9e-47bc-a46c-9f12fd20b810
 atualizado_na_fonte: "2026-10-09 15:02:17"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2295,21 +2295,21 @@ SECRETARIA DE ESTADO DA FAZENDA DO MARANHÃO, EM SÃO LUÍS, 20 DE JANEIRO DE 20
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda do Maranhão
 <<<DOC normas/portaria/portaria-032-2022-20775.md>>>
 ---
-documento: "PORTARIA 032, DE 12 DE JANEIRO DE 2022"
+documento: "PORTARIA Nº 032, DE 12 DE JANEIRO DE 2022"
 tipo: portaria
 numero: 32
 data: "2022-01-12"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=28143e93-c16b-4cff-90f1-28e46da71302
-atualizado_na_fonte: "2025-08-22 14:24:58"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-21 11:05:43"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA 032, DE 12 DE JANEIRO DE 2022
+# PORTARIA Nº 032, DE 12 DE JANEIRO DE 2022
 
 _Altera o Anexo III da Portaria 535/2015 - GABIN._
 
@@ -2375,7 +2375,7 @@ ementa: "Prorroga, excepcionalmente o prazos para a transmissão dos arquivos di
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3a4f3d1c-ba01-414a-aa3b-570cfcac669f
 atualizado_na_fonte: "2026-10-07 18:27:36"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2417,8 +2417,8 @@ data: "2015-01-29"
 ementa: "Criar no âmbito desta Secretaria o Núcleo de Estudos Econômico-Fiscais - NEEF."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96622d4e-fbc9-4155-8b77-fe8934458342
-atualizado_na_fonte: "2025-06-25 17:13:30"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:39:54"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2534,7 +2534,7 @@ ementa: "Estabelece limite mensal de utilização do óleo diesel marítimo por 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5362408d-4567-46d9-a27b-b754961b83cc
 atualizado_na_fonte: "2026-10-09 15:04:51"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2597,21 +2597,21 @@ MARCELLUS RIBEIRO ALVES
 Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-041-2004-12534.md>>>
 ---
-documento: "PORTARIA Nº 41, DE 16 DE FEVEREIRO DE 2004"
+documento: "PORTARIA Nº 041, DE 16 DE FEVEREIRO DE 2004"
 tipo: portaria
 numero: 41
 data: "2004-02-16"
 ementa: "Dispõe sobre o registro de inventário que será entregue pelo contribuinte usuário de sistema eletrônico de processamento de dados juntamente com o arquivo do Convênio 57/95."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=76f7ac65-20e2-4224-96b2-bdaef72ddd4e
-atualizado_na_fonte: "2025-06-18 17:07:07"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 09:36:12"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 41, DE 16 DE FEVEREIRO DE 2004
+# PORTARIA Nº 041, DE 16 DE FEVEREIRO DE 2004
 
 _Dispõe sobre o registro de inventário que será entregue pelo contribuinte usuário de sistema eletrônico de processamento de dados juntamente com o arquivo do Convênio 57/95._
 
@@ -2772,7 +2772,7 @@ ementa: "Fixa critério para a definição do valor venal de bem ou direito na t
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4ff0dae1-3715-4255-a160-54d98505ce63
 atualizado_na_fonte: "2026-10-09 15:05:45"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -2816,21 +2816,21 @@ ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
 Secretário de Estado da Fazenda do Maranhão
 <<<DOC normas/portaria/portaria-043-2003-12488.md>>>
 ---
-documento: "PORTARIA Nº 43, DE 21 DE FEVEREIRO DE 2003"
+documento: "PORTARIA Nº 043, DE 21 DE FEVEREIRO DE 2003"
 tipo: portaria
 numero: 43
 data: "2003-02-21"
 ementa: "Adota procedimentos relativos às normas do Ajuste SINIEF n.º 7, de 28 de setembro de 2001 e Convênios ICMS 69/02 e 142/02."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5506d204-ea4e-497e-b0a6-9bb4435abb68
-atualizado_na_fonte: "2025-06-18 16:13:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 09:09:15"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 43, DE 21 DE FEVEREIRO DE 2003
+# PORTARIA Nº 043, DE 21 DE FEVEREIRO DE 2003
 
 _Adota procedimentos relativos às normas do Ajuste SINIEF n.º 7, de 28 de setembro de 2001 e Convênios ICMS 69/02 e 142/02._
 
@@ -2872,8 +2872,8 @@ data: "2021-02-15"
 ementa: "Define hipótese de suspensão de ofício de contribuintes do ICMS, com comunicação de inconformidades de informações na EFD."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e647fded-a0b7-48b2-a5a2-5b198c17d614
-atualizado_na_fonte: "2025-08-11 15:13:08"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 09:45:19"
+extraido_em: "2026-11-14"
 remete_a: "RICMS, CTE"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 18.0
@@ -2993,8 +2993,8 @@ data: "2015-02-03"
 ementa: "Aprovar o POP constante dos Anexos I, II e III, relativos ao ICMS, que tratam dos procedimentos referentes à cobrança do crédito de natureza tributária inscrito na dívida ativa."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e2798fec-b967-4b36-a19f-b67e1aa7b936
-atualizado_na_fonte: "2025-06-25 17:15:14"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:39:36"
+extraido_em: "2026-11-14"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3683,8 +3683,8 @@ data: "2021-02-19"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fd174c30-ba1b-45de-b2d3-cfa87ab25389
-atualizado_na_fonte: "2025-08-11 15:13:45"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 09:46:32"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3763,8 +3763,8 @@ data: "2005-01-26"
 ementa: "Estabelece critérios para concessão de credenciamento tributário para o comércio atacadista, na hipótese que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7679974e-d5d8-412e-8893-294939253ff3
-atualizado_na_fonte: "2025-06-18 17:38:49"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 11:46:34"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -3838,21 +3838,21 @@ Secretário de Estado da Fazenda
 CEGAT / FISC / AS
 <<<DOC normas/portaria/portaria-051-2016-15782.md>>>
 ---
-documento: "PORTARIA Nº 51, DE 04 DE FEVEREIRO DE 2016"
+documento: "PORTARIA Nº 051, DE 04 DE FEVEREIRO DE 2016"
 tipo: portaria
 numero: 51
 data: "2016-02-04"
 ementa: "Institui nova versão do Programa DIEF, por meio do qual os contribuintes transmitem arquivo digital com a escrituração fiscal."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ab2aefed-747a-4e1a-b8f0-585765497401
-atualizado_na_fonte: "2025-07-01 16:08:54"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:33:32"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 51, DE 04 DE FEVEREIRO DE 2016
+# PORTARIA Nº 051, DE 04 DE FEVEREIRO DE 2016
 
 _Institui nova versão do Programa DIEF, por meio do qual os contribuintes transmitem arquivo digital com a escrituração fiscal._
 
@@ -3944,8 +3944,8 @@ data: "2010-02-25"
 ementa: "Inclui novos estabelecimentos e produtos ao anexo único da Portaria nº 523/2009, de 29 de dezembro de 2009"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=08e4a3a7-c43c-4eaf-a67d-5e3db081de31
-atualizado_na_fonte: "2025-06-23 16:20:14"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:55:33"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -4030,21 +4030,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-052-2016-15783.md>>>
 ---
-documento: "PORTARIA Nº 52, DE 04 DE FEVEREIRO DE 2016"
+documento: "PORTARIA Nº 052, DE 04 DE FEVEREIRO DE 2016"
 tipo: portaria
 numero: 52
 data: "2016-02-04"
 ementa: "Cancelar as multas e Notificações de lançamentos por omissão na entrega de arquivo da DIEF, nas condições que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c811d3fb-8b69-434a-a954-c423cd33d579
-atualizado_na_fonte: "2025-07-01 16:09:41"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:33:14"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 52, DE 04 DE FEVEREIRO DE 2016
+# PORTARIA Nº 052, DE 04 DE FEVEREIRO DE 2016
 
 _Cancelar as multas e Notificações de lançamentos por omissão na entrega de arquivo da DIEF, nas condições que especifica._
 
@@ -4086,8 +4086,8 @@ data: "2014-02-14"
 ementa: "Determinar o recredenciamento de todos os contribuintes que exercem a atividade de Transportadora de Cargas conforme as normas estabelecidas nesta Portaria."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f7ca3019-666c-413b-9060-d574e076d79f
-atualizado_na_fonte: "2025-06-25 12:12:47"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:53:31"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4272,8 +4272,8 @@ data: "2021-02-24"
 ementa: "O processo de restituição do Imposto sobre a Propriedade de Veículos Automotores - IPVA observará o disposto nesta portaria."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0fce4466-e204-49f6-b60a-956f53e6de03
-atualizado_na_fonte: "2025-08-11 15:15:16"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 09:47:23"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4344,8 +4344,8 @@ data: "2011-02-11"
 ementa: "Prorroga o prazo de entrega dos arquivos da Escrituração Fiscal Digital EFD."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9c796d34-1256-46d2-833e-0eb8890c519a
-atualizado_na_fonte: "2025-06-23 17:34:01"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:46:18"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 18, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4396,7 +4396,7 @@ ementa: "Dispensar, nos termos do inciso II, do artigo 314 do RICMS/03, a aprese
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b24537cb-a959-47ae-a9cd-68e6d3631d47
 atualizado_na_fonte: "2026-10-13 10:42:19"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4458,7 +4458,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a4ecb1a3-eeaf-440b-bca1-8425f1df9d9f
 atualizado_na_fonte: "2025-08-01 14:11:31"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4530,21 +4530,21 @@ SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 18 DE FEVEREIRO DE 2020.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-058-2022-20780.md>>>
 ---
-documento: "PORTARIA 058, DE 03 DE FEVEREIRO DE 2022"
+documento: "PORTARIA Nº 058, DE 03 DE FEVEREIRO DE 2022"
 tipo: portaria
 numero: 58
 data: "2022-02-03"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f640198d-84b3-45e8-9297-feb4d19c6de6
-atualizado_na_fonte: "2025-08-22 14:26:57"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-21 11:03:40"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA 058, DE 03 DE FEVEREIRO DE 2022
+# PORTARIA Nº 058, DE 03 DE FEVEREIRO DE 2022
 
 _Altera o Anexo III da Portaria 535/2015 - GABIN._
 
@@ -4609,8 +4609,8 @@ data: "2018-02-20"
 ementa: "Dispõe sobre os critérios para o credenciamento de Conta Gráfica e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=81aa006e-178c-496f-a555-92e9006b010c
-atualizado_na_fonte: "2025-07-03 15:24:34"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 18:03:20"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -4743,59 +4743,6 @@ SECRETARIA DE ESTADO DA FAZENDA, São Luís, 20 de fevereiro de 2018.
 MARCELLUS RIBEIRO ALVES
 
 Secretário de Estado da Fazenda
-<<<DOC normas/portaria/portaria-059-2020-20079.md>>>
----
-documento: "PORTARIA N º 105, DE 27 DE MARÇO DE 2020"
-tipo: portaria
-numero: 59
-data: "2020-03-27"
-ementa: "Prorroga os prazos para o pagamento do IPVA, relativo ao exercício de 2020, e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f3a927d6-e059-4d58-a604-fe90168a1a37
-atualizado_na_fonte: "2025-08-01 14:44:04"
-extraido_em: "2026-11-09"
-remete_a: "CTE"
-situacao: "vigente (sem revogação identificada)"
-percentual_tachado: 0.0
----
-
-# PORTARIA N º 105, DE 27 DE MARÇO DE 2020
-
-_Prorroga os prazos para o pagamento do IPVA, relativo ao exercício de 2020, e dá outras providências._
-
-**Data:** 2020-03-27  
-**Remete a:** CTE  
-**Situação:** vigente (sem revogação identificada)
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
-
-PORTARIA N º 105/GABIN DOE nº 59, de 27.03.20 SÃO LUÍS, 27 DE MARÇO DE 2020.
-
-Prorroga os prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2020, e dá outras providências.
-
-O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista o que dispõem os artigos 95 e 96 da Lei nº 7.799, de 19 de dezembro de 2002 e o parágrafo único do artigo 19 e artigo 20 do Decreto nº 20.685, de 23 de julho de 2004,
-
-CONSIDERANDO os termos do Decreto Estadual nº 35.677, de 21 de março 2020, que estabelece medidas de prevenção do contágio e de combate à propagação da transmissão da COVID-19, infecção humana causada pelo Coronavírus (SARS-Cov2) procedimentos e regras para fins de prevenção ao COVID19,
-
-R E S O L V E:
-
-Art. 1º Prorrogar o prazo para pagamento do Imposto sobre Propriedade de Veículos Automotores – IPVA, relativo ao exercício de 2020, estabelecido no Art. 2º da Portaria 686/2019, para os seguintes prazos:
-
-Final de placa 1ª Cota ou Cota Única
-
-2ª Cota 3ª Cota Início da fiscalização
-
-1 e 2 06/05/2020 08/06/2020 06/07/2020 06/08/2020 3 e 4 13/05/2020 15/06/2020 13/07/2020 13/08/2020 5 e 6 20/05/2020 22/06/2020 20/07/2020 20/08/2020 7 e 8 27/05/2020 26/06/2020 27/07/2020 27/08/2020 9 e 0 29/05/2020 30/06/2020 30/07/2020 30/08/2020
-
-<!-- p. 2 -->
-ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
-
-Art. 2º Esta Portaria entra em vigor na data de sua publicação.
-SECRETARIA DE ESTADO DA FAZENDA, São Luís, 27 de março de 2020.
-
-MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-060-2014-14088.md>>>
 ---
 documento: "PORTARIA Nº 60, DE 25 DE FEVEREIRO DE 2014"
@@ -4805,8 +4752,8 @@ data: "2014-02-25"
 ementa: "Inclui produtos no anexo único da Portaria nº 523, de 29 de dezembro de 2009."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=173a75bd-e06a-4345-9f47-cb82286745f2
-atualizado_na_fonte: "2025-06-25 12:17:03"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:53:10"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4872,8 +4819,8 @@ data: "2011-02-15"
 ementa: "Definir, com base no § 6°, do artigo 66 da Lei Nº 7.799, de 19 de dezembro de 2002, outras hipóteses de suspensão de ofício de inscrição estadual de contribuintes maranhenses."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5c2e707c-9c39-4f41-95c1-af8d26cea2c8
-atualizado_na_fonte: "2025-06-23 17:46:03"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:45:55"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -4887,8 +4834,8 @@ _Definir, com base no § 6°, do artigo 66 da Lei Nº 7.799, de 19 de dezembro d
 **Remete a:** CTE  
 **Situação:** REVOGADA
 
-> REVOGADA pela portaria 235/2015 (normas/portaria/portaria-235-2015-14639.md): "9º Fica revogada a Portaria nº 063/GABIN, de 15 de fevereiro de 2011."
 > REVOGADA pela portaria 271/2015 (normas/portaria/portaria-271-2015-14661.md): "9º Fica revogada a Portaria nº 063/GABIN, de 15 de fevereiro de 2011."
+> REVOGADA pela portaria 235/2015 (normas/portaria/portaria-235-2015-14639.md): "9º Fica revogada a Portaria nº 063/GABIN, de 15 de fevereiro de 2011."
 > REVOGADA pela portaria 235/2015 (normas/portaria/portaria-235-2015-14639.md), segundo anotação no cabeçalho do próprio PDF: "REVOGADA PELA PORTARIA Nº 0235/2015."
 
 > Publicada em duplicidade no portal (ids 14543); mantida uma cópia.
@@ -4962,21 +4909,21 @@ CLÁUDIO JOSÉ TRINCHÃO SANTOS
 Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-063-2016-15787.md>>>
 ---
-documento: "PORTARIA Nº 63, DE 18 DE FEVEREIRO DE 2016"
+documento: "PORTARIA Nº 063, DE 18 DE FEVEREIRO DE 2016"
 tipo: portaria
 numero: 63
 data: "2016-02-18"
 ementa: "Disciplinar a entrega do arquivo digital da DIEF, no período de janeiro a março de 2016, nas condições que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2397a605-7993-44ba-9adc-3abe89f8d5d1
-atualizado_na_fonte: "2025-07-01 16:16:11"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:31:26"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 63, DE 18 DE FEVEREIRO DE 2016
+# PORTARIA Nº 063, DE 18 DE FEVEREIRO DE 2016
 
 _Disciplinar a entrega do arquivo digital da DIEF, no período de janeiro a março de 2016, nas condições que especifica._
 
@@ -5005,21 +4952,21 @@ DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em Exercício
 <<<DOC normas/portaria/portaria-065-2022-20782.md>>>
 ---
-documento: "PORTARIA 065, DE 03 DE FEVEREIRO DE 2022"
+documento: "PORTARIA Nº 065, DE 03 DE FEVEREIRO DE 2022"
 tipo: portaria
 numero: 65
 data: "2022-02-03"
 ementa: "Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no anexo único desta Portaria, da apresentação da DIEF."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3f9a5057-72f2-4ab1-ac83-68681d5d5747
-atualizado_na_fonte: "2026-09-16 13:55:06"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-21 11:02:42"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA 065, DE 03 DE FEVEREIRO DE 2022
+# PORTARIA Nº 065, DE 03 DE FEVEREIRO DE 2022
 
 _Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no anexo único desta Portaria, da apresentação da DIEF._
 
@@ -6710,7 +6657,7 @@ ementa: "Aprovar o Manual de Orientação de Preenchimento das Notas Fiscais Ele
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=362383b8-c122-4336-a436-fd24cf26f1ca
 atualizado_na_fonte: "2026-10-13 10:43:03"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -6917,7 +6864,7 @@ ementa: "Art. 1º Aprovar o Procedimento Operacional Padrão, para o cálculo do
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b9e05534-e721-436b-be0f-6077639f60b9
 atualizado_na_fonte: "2026-10-15 08:42:49"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -8170,8 +8117,8 @@ data: "2021-03-11"
 ementa: "Dispõe sobre protocolo de petições por meio de correio eletrônico no âmbito da Secretaria de Estado da Fazenda - SEFAZ/MA."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ed5b6df4-65ee-438c-978f-dc74d0f9da9e
-atualizado_na_fonte: "2025-08-11 15:20:57"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 09:57:30"
+extraido_em: "2026-11-14"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8295,21 +8242,21 @@ Página 3 de 3
 Arrecadação protocolo.arrecadacao@sefaz.ma.gov.br Trânsito protocolo.transito@sefaz.ma.gov.br Simples Nacional protocolo.simplesnacional@sefaz.ma.gov.br Substituição Tributária protocolo.st@sefaz.ma.gov.br Combustíveis protocolo.combustiveis@sefaz.ma.gov.br Grandes Contribuintes protocolo.gc@sefaz.ma.gov.br Energia/ Telecom protocolo.energiatelecom@sefaz.ma.gov.br Comércio Exterior protocolo.comex@sefaz.ma.gov.br Preventiva protocolo.preventiva@sefaz.ma.gov.br UFRE São Luís protocolo.ufreslz@sefaz.ma.gov.br UFRE Imperatriz protocolo.ufreimperatriz@sefaz.ma.gov.br UFRE Caxias protocolo.ufrecaxias@sefaz.ma.gov.br UFRE Bacabal protocolo.ufrebacabal@sefaz.ma.gov.br UFRE Santa Inês protocolo.ufresantaines@sefaz.ma.gov.br UPCAF protocolo.upcaf@sefaz.ma.gov.br COE protocolo.coe@sefaz.ma.gov.br COTET (Tributação) protocolo.cotet@sefaz.ma.gov.br Agência São Luís protocolo.agenciaslz@sefaz.ma.gov.br Agência Balsas protocolo.agenciabalsas@sefaz.ma.gov.br Agência Imperatriz protocolo.agenciaimperatriz@sefaz.ma.gov.br Agência Caxias protocolo.agenciacaxias@sefaz.ma.gov.br Agência Santa Inês protocolo.agenciasantaines@sefaz.ma.gov.br Agência Bacabal protocolo.agenciabacabal@sefaz.ma.gov.br Agência Chapadinha protocolo.agenciachapadinha@sefaz.ma.gov.br Agência Codó protocolo.agenciacodo@sefaz.ma.gov.br Agência Timon protocolo.agenciatimon@sefaz.ma.gov.br Agência Açailândia protocolo.agenciaacailandia@sefaz.ma.gov.br Ouvidoria protocolo.ouvidoria@sefaz.ma.gov.br Gabinete protocolo.gabin@sefaz.ma.gov.br
 <<<DOC normas/portaria/portaria-083-2003-12495.md>>>
 ---
-documento: "PORTARIA Nº 83, DE 22 DE MARÇO DE 2003"
+documento: "PORTARIA Nº 083, DE 22 DE MARÇO DE 2003"
 tipo: portaria
 numero: 83
 data: "2003-03-19"
 ementa: "Determina prazo para cadastramento de pessoa jurídica fornecedora de programa aplicativo, utilizado por usuário de equipamento Emissor de Cupom Fiscal-ECF, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=704613cf-de96-4359-a546-d6c2a7a7bf00
-atualizado_na_fonte: "2025-06-18 16:34:55"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 09:02:45"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 83, DE 22 DE MARÇO DE 2003
+# PORTARIA Nº 083, DE 22 DE MARÇO DE 2003
 
 _Determina prazo para cadastramento de pessoa jurídica fornecedora de programa aplicativo, utilizado por usuário de equipamento Emissor de Cupom Fiscal-ECF, e dá outras providências._
 
@@ -8391,21 +8338,21 @@ JOSÉ DE JESUS DO ROSÁRIO AZZOLINI Gerente de Estado da Receita Estadual
 CEGAT- COTEF
 <<<DOC normas/portaria/portaria-083-2016-15791.md>>>
 ---
-documento: "PORTARIA Nº 83, DE 04 DE MARÇO DE 2016"
+documento: "PORTARIA Nº 083, DE 04 DE MARÇO DE 2016"
 tipo: portaria
 numero: 83
 data: "2016-03-04"
 ementa: "Alterar o art. 1º da Portaria nº 342-GABIN, de 13 de julho de 2015."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=60403b70-77d6-4008-b5cc-95d1950428d4
-atualizado_na_fonte: "2025-07-01 16:22:18"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:29:47"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 83, DE 04 DE MARÇO DE 2016
+# PORTARIA Nº 083, DE 04 DE MARÇO DE 2016
 
 _Alterar o art. 1º da Portaria nº 342-GABIN, de 13 de julho de 2015._
 
@@ -8443,8 +8390,8 @@ data: "2018-03-05"
 ementa: "Dispõe sobre a relação dos atos normativos instituidores de incentivos e benefícios fiscais ou financeiros-fiscais, relacionados ao ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3ab38334-707f-4e11-8149-7563bc90092c
-atualizado_na_fonte: "2025-07-03 15:37:33"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 18:02:18"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.1, Anexo 1.2, Anexo 1.3, Anexo 1.4, Anexo 1.5, Anexo 1.7, Anexo 4.4, Anexo 4.24, Anexo 8.1, Anexo 8.2, RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9588,7 +9535,7 @@ ementa: "Prorroga, excepcionalmente, o prazo para pagamento do Imposto sobre a P
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c7835930-b600-4f25-8257-b36e5603378c
 atualizado_na_fonte: "2026-10-15 08:45:58"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9625,21 +9572,21 @@ DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
 FERNANDO ANTONIO RESENDE DE JESUS Secretário de Estado da Fazenda, em exercício
 <<<DOC normas/portaria/portaria-087-2016-15792.md>>>
 ---
-documento: "PORTARIA Nº 87, DE 08 DE MARÇO DE 2016"
+documento: "PORTARIA Nº 087, DE 08 DE MARÇO DE 2016"
 tipo: portaria
 numero: 87
 data: "2016-03-08"
 ementa: "Incluir o §3º ao art. 1º da Portaria nº 336-GABIN, de 10 de julho de 2015."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2ccb7019-28c3-437c-b64e-56017de55808
-atualizado_na_fonte: "2025-07-01 16:23:00"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:29:27"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 87, DE 08 DE MARÇO DE 2016
+# PORTARIA Nº 087, DE 08 DE MARÇO DE 2016
 
 _Incluir o §3º ao art. 1º da Portaria nº 336-GABIN, de 10 de julho de 2015._
 
@@ -9681,7 +9628,7 @@ ementa: "Dispõe sobre a renovação de ofício dos pedidos de reconhecimento de
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=390b8ab0-2877-428d-83dc-ed5994ae7439
 atualizado_na_fonte: "2026-10-09 18:02:31"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 11.2
@@ -9744,8 +9691,8 @@ data: "2021-03-16"
 ementa: "Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 2015."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=393303cc-c458-4bf8-8268-5f49c9fa6982
-atualizado_na_fonte: "2025-08-11 15:21:43"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 10:09:36"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9817,21 +9764,21 @@ SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 16 DE MARÇO DE 2021.
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-092-2009-16170.md>>>
 ---
-documento: "PORTARIA Nº 92, DE 23 DE MARÇO DE 2009 "
+documento: "PORTARIA Nº 92, DE 23 DE MARÇO DE 2009"
 tipo: portaria
 numero: 92
 data: "2009-03-23"
 ementa: "Declarar devedor remisso por falta de pagamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bcca34c1-9177-4bac-8706-51ae8b51e795
-atualizado_na_fonte: "2025-07-02 13:48:07"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-29 08:41:51"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA Nº 92, DE 23 DE MARÇO DE 2009 
+# PORTARIA Nº 92, DE 23 DE MARÇO DE 2009
 
 _Declarar devedor remisso por falta de pagamento do ICMS._
 
@@ -9885,6 +9832,49 @@ M. CLEUDECI R. SILVA 12 220 416 6 851002243-5
 ESTADO DO MARANHÃO
 
 SECRETARIA DE ESTADO DA FAZENDA
+<<<DOC normas/portaria/portaria-094-2022-20786.md>>>
+---
+documento: "PORTARIA Nº 094, DE 23 DE FEVEREIRO DE 2022"
+tipo: portaria
+numero: 94
+data: "2022-02-23"
+ementa: "Art. 1º Prorrogar, excepcionalmente, até 28 de fevereiro de 2022, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF e da Escrituração Fiscal Digital (EFD), referente à competência janeiro de 2022."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=866caf4a-f704-4574-8d0e-9e2341a6131d
+atualizado_na_fonte: "2026-10-21 11:01:03"
+extraido_em: "2026-11-14"
+remete_a: "RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 094, DE 23 DE FEVEREIRO DE 2022
+
+_Art. 1º Prorrogar, excepcionalmente, até 28 de fevereiro de 2022, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF e da Escrituração Fiscal Digital (EFD), referente à competência janeiro de 2022._
+
+**Data:** 2022-02-23  
+**Remete a:** RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA Portaria n.º 097/2022 – GABIN/SEFAZ São Luís, 23 de fevereiro de 2022.
+
+O Secretário de Estado da Fazenda, no uso de suas atribuições legais, e de acordo com o que prevê o art. 314, do Regulamento do ICMS, aprovado pelo Decreto 19.714/2003, que dispõe sobre a prerrogativa do titular da Receita Estadual, mediante ato normativo, poderá alterar o prazo de entrega das obrigações acessórias;
+
+
+RESOLVE:
+
+Art. 1º Prorrogar, excepcionalmente, até 28 de fevereiro de 2022, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF e da Escrituração Fiscal Digital (EFD), referente à competência janeiro de 2022.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA PUBLIQUE-SE E CUMPRA-SE.
+Secretaria de Estado da Fazenda, em São Luís, 23 de fevereiro de 2022.
+
+
+
+Marcellus Ribeiro Alves Secretário de Estado da Fazenda.
 <<<DOC normas/portaria/portaria-097-2019-19479.md>>>
 ---
 documento: "PORTARIA Nº 97, DE 28 DE FEVEREIRO DE 2019"
@@ -9895,7 +9885,7 @@ ementa: "Considerando o disposto no artigo 314 do RICMS/03, aprovado pelo Decret
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b939978b-3fd7-4582-ad44-8ee632ce2960
 atualizado_na_fonte: "2026-10-13 10:44:43"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9949,8 +9939,8 @@ data: "2018-03-20"
 ementa: "Dispõe sobre os critérios para o Credenciamento de Conta Gráfica e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3a33787c-0642-432e-9313-48e389f53c78
-atualizado_na_fonte: "2025-07-03 15:40:16"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 18:01:30"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10106,8 +10096,8 @@ data: "2018-03-26"
 ementa: "Altera o Anexo Único da Portaria no 84 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2179a82-2937-4aba-8e3b-b96359cb67cd
-atualizado_na_fonte: "2025-07-03 15:41:38"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 18:01:17"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.1, Anexo 1.2, Anexo 1.3, Anexo 1.4, Anexo 1.5, Anexo 1.7, Anexo 4.4, Anexo 4.24, Anexo 4.33, Anexo 8.1, Anexo 8.2, Anexo 9.5, Anexo 36, RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12044,8 +12034,8 @@ data: "2021-03-31"
 ementa: "Prorroga excepcionalmente os prazos para o pagamento do IPVA, relativo ao exercício de 2021, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4d2b0311-a883-4625-8bf9-fd87c2dd119f
-atualizado_na_fonte: "2025-08-11 15:26:31"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 10:16:01"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12096,6 +12086,59 @@ Art. 3º Esta Portaria entra em vigor na data de sua publicação.
 SECRETARIA DE ESTADO DA FAZENDA, São Luís, 31 de março de 2021.
 
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-105-2020-20079.md>>>
+---
+documento: "PORTARIA Nº 105, DE 27 DE MARÇO DE 2020"
+tipo: portaria
+numero: 105
+data: "2020-03-27"
+ementa: "Prorroga os prazos para o pagamento do IPVA, relativo ao exercício de 2020, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f3a927d6-e059-4d58-a604-fe90168a1a37
+atualizado_na_fonte: "2026-10-27 17:35:28"
+extraido_em: "2026-11-14"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 105, DE 27 DE MARÇO DE 2020
+
+_Prorroga os prazos para o pagamento do IPVA, relativo ao exercício de 2020, e dá outras providências._
+
+**Data:** 2020-03-27  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA N º 105/GABIN DOE nº 59, de 27.03.20 SÃO LUÍS, 27 DE MARÇO DE 2020.
+
+Prorroga os prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2020, e dá outras providências.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista o que dispõem os artigos 95 e 96 da Lei nº 7.799, de 19 de dezembro de 2002 e o parágrafo único do artigo 19 e artigo 20 do Decreto nº 20.685, de 23 de julho de 2004,
+
+CONSIDERANDO os termos do Decreto Estadual nº 35.677, de 21 de março 2020, que estabelece medidas de prevenção do contágio e de combate à propagação da transmissão da COVID-19, infecção humana causada pelo Coronavírus (SARS-Cov2) procedimentos e regras para fins de prevenção ao COVID19,
+
+R E S O L V E:
+
+Art. 1º Prorrogar o prazo para pagamento do Imposto sobre Propriedade de Veículos Automotores – IPVA, relativo ao exercício de 2020, estabelecido no Art. 2º da Portaria 686/2019, para os seguintes prazos:
+
+Final de placa 1ª Cota ou Cota Única
+
+2ª Cota 3ª Cota Início da fiscalização
+
+1 e 2 06/05/2020 08/06/2020 06/07/2020 06/08/2020 3 e 4 13/05/2020 15/06/2020 13/07/2020 13/08/2020 5 e 6 20/05/2020 22/06/2020 20/07/2020 20/08/2020 7 e 8 27/05/2020 26/06/2020 27/07/2020 27/08/2020 9 e 0 29/05/2020 30/06/2020 30/07/2020 30/08/2020
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+SECRETARIA DE ESTADO DA FAZENDA, São Luís, 27 de março de 2020.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-106-2010-13226.md>>>
 ---
 documento: "PORTARIA Nº 106, DE 13 DE ABRIL DE 2010"
@@ -12105,8 +12148,8 @@ data: "2010-04-13"
 ementa: "Definir, com base no § 6°, do artigo 66 da Lei N º 7 .799 , de 19 de dezembro de 2002, outras hipóteses de suspensão de ofício de inscrição estadual de contribuintes maranhenses."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=55c964b2-97ed-42e9-a521-0364e95a2ed6
-atualizado_na_fonte: "2025-06-23 16:28:03"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:53:00"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12183,8 +12226,8 @@ data: "2018-03-27"
 ementa: "Desconsiderar, para efeito de cálculo dos Índices de Participação dos Municípios, os lançamentos relativos às Notas Fiscais no Livro Registro de Saídas Valor Contábil da DIEF."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ae36cce1-12c3-442b-98c9-cd9bcc7e6ce5
-atualizado_na_fonte: "2025-07-03 15:44:01"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 18:00:16"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12260,8 +12303,8 @@ data: "2020-03-27"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=511f4e2c-67bc-4d03-97a3-5034e2b031f3
-atualizado_na_fonte: "2025-08-01 14:46:05"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 17:35:01"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12341,7 +12384,7 @@ ementa: "Aprova o Procedimento Operacional Padrão para o cálculo dos Índices 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=367eca9b-35bc-4de0-a2e9-1e40b5d8fa54
 atualizado_na_fonte: "2026-10-07 18:37:43"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -13688,21 +13731,21 @@ D696 CAMPO
 3 CAMPO 5 REGISTRO ANALÍTICO DOS DOCUMENTOS (CÓDIGO 21 E 22).
 <<<DOC normas/portaria/portaria-110-2022-20789.md>>>
 ---
-documento: "PORTARIA 110, DE 03 DE MARÇO DE 2022"
+documento: "PORTARIA Nº 110, DE 03 DE MARÇO DE 2022"
 tipo: portaria
 numero: 110
 data: "2022-03-03"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=12fefb7e-9468-40bb-b6fb-42d55436b8d9
-atualizado_na_fonte: "2025-08-22 14:29:25"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-21 10:59:44"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA 110, DE 03 DE MARÇO DE 2022
+# PORTARIA Nº 110, DE 03 DE MARÇO DE 2022
 
 _Altera o Anexo III da Portaria 535/2015 - GABIN._
 
@@ -13768,7 +13811,7 @@ ementa: "Altera a Portaria nº 449/2021-GABIN relativamente à delegação de co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cd6571bc-cec0-48e3-87ce-a6e7e62a1e63
 atualizado_na_fonte: "2026-10-07 18:37:21"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -13830,8 +13873,8 @@ data: "2015-03-06"
 ementa: "Dispõe sobre a criação da Unidade de Planejamento, Controle e Avaliação Fiscal da SEFAZ-MA"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a2c36ef3-d903-41e5-8238-88f1a76740c7
-atualizado_na_fonte: "2025-06-25 17:22:47"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:37:37"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -13899,8 +13942,8 @@ data: "2017-02-13"
 ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complementação da alíquota do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b8b0e517-b432-4c25-86a8-9afd36ba8734
-atualizado_na_fonte: "2025-07-02 14:31:50"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-22 11:04:02"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14184,8 +14227,8 @@ data: "2015-03-09"
 ementa: "Prorrogar o prazo para a entrega dos arquivos digitais da EFD, referentes aos períodos de apuração de novembro de 2014 a fevereiro de 2015 para até o dia 31 de março de 2015."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b45d09ac-bb62-49f9-9cfd-87437a89394f
-atualizado_na_fonte: "2025-06-25 17:23:21"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:37:22"
+extraido_em: "2026-11-14"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14227,8 +14270,8 @@ data: "2015-03-09"
 ementa: "Será suspensa de ofício a inscrição do contribuinte que tenha Termo de Verificação lavrado contra si que se encontre no status de pendente de pagamento há mais de 40 dias."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67bc469e-65c8-49a8-84d0-7ab7f88e360a
-atualizado_na_fonte: "2025-06-25 17:23:56"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 13:37:13"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14271,8 +14314,8 @@ data: "2016-04-07"
 ementa: "Dispõe sobre a obrigatoriedade do recadastramento para os produtores rurais alcançados pelas exigências Contidas na Resolução Administrativa nº 08 /16."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=15d1bc56-6117-42e3-a541-cb9a4d799ee7
-atualizado_na_fonte: "2025-07-01 16:37:20"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:24:05"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -14323,8 +14366,8 @@ data: "2020-04-17"
 ementa: "Dispõe sobre os procedimentos a serem adotados para os efeitos do constante no Decreto nº 35.383, de 11 de novembro de 2019."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=11f0d0b1-d6c3-44f9-b312-c4d88c1e15a7
-atualizado_na_fonte: "2025-08-01 14:51:39"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 14:57:18"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14370,8 +14413,8 @@ data: "2010-05-05"
 ementa: "Dispõe sobre a exclusão do Regime de substituição tributária, na forma do disposto no § 2 o, do art. 512 do RICMS/03, do contribuinte que indica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8ad0526a-c07c-43cf-82e8-82bc1a95e5bb
-atualizado_na_fonte: "2025-06-23 16:41:17"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:52:35"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14448,8 +14491,8 @@ data: "2020-04-17"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c988504e-4f59-4cd6-af09-c0090f52b200
-atualizado_na_fonte: "2025-08-01 14:52:46"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 14:57:05"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14526,7 +14569,7 @@ ementa: "Aprova o Procedimento Operacional Padrão, para o cálculo dos Índices
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=252952ab-1bfa-45a2-836e-7172a1edeec5
 atualizado_na_fonte: "2026-10-09 15:45:21"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -15854,8 +15897,8 @@ data: "2020-04-28"
 ementa: "Dispõe sobre a emissão de documentos fiscais relativos ao abastecimento de aeronaves em área aeroportuária."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=489d629e-3dc4-4844-8509-0ed463d80b83
-atualizado_na_fonte: "2025-08-01 14:55:50"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 14:56:19"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -15962,8 +16005,8 @@ data: "2018-04-10"
 ementa: "Determinar que 10 dias antes do cancelamento ou suspensão previstos nos §§ 3º e 4º do art. 66 da Lei 7.799/2002."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=08673e44-f2ff-484f-8985-2418c84367af
-atualizado_na_fonte: "2025-07-03 15:49:57"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 17:58:50"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16019,7 +16062,7 @@ ementa: "Modifica a Portaria nº 358/2017-GABIN, que dispõe sobre os requisitos
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=651d37d6-ea0f-49a9-9915-f88f89cae85c
 atualizado_na_fonte: "2026-10-07 18:43:12"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.5, Anexo 18, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16086,21 +16129,21 @@ SECRETARIA DE ESTADO DA FAZENDA DO MARANHÃO, SÃO LUÍS,
 MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/portaria/portaria-137-2021-3087.md>>>
 ---
-documento: "PORTARIA N° 137-2021-GABIN "
+documento: "PORTARIA Nº 137, DE 13 DE ABRIL DE 2021"
 tipo: portaria
 numero: 137
 data: "2021-04-13"
 ementa: "Permitir que para fins de determinação da base de cálculo do Imposto sobre a transmissão “Causa Mortis” e Doação de quaisquer bens ou direitos - ITCD"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd03a7ef-8d5a-4857-9bb1-8d2868e5f08d
-atualizado_na_fonte: "2026-09-23 10:04:34"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 09:05:15"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA N° 137-2021-GABIN 
+# PORTARIA Nº 137, DE 13 DE ABRIL DE 2021
 
 _Permitir que para fins de determinação da base de cálculo do Imposto sobre a transmissão “Causa Mortis” e Doação de quaisquer bens ou direitos - ITCD_
 
@@ -16139,8 +16182,8 @@ data: "2011-03-30"
 ementa: "Ficam prorrogados os prazos de entrega da Declaração de Informações Econômico-Fiscais – Dief dos contribuintes do ICMS optantes pelo Simples Nacional."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=199a9e40-7939-454a-8d22-889304250d3d
-atualizado_na_fonte: "2025-06-23 18:08:49"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-28 14:45:17"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16186,8 +16229,8 @@ data: "2016-04-26"
 ementa: "Para fins de cálculo do valor dos créditos previstos no art. 2º do Decreto nº 30.989, de 3 de setembro de 2015, que regulamentou o Programa Nota Legal."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=51fb4af1-e406-416d-8c6f-b90cd9ff6af4
-atualizado_na_fonte: "2025-07-01 16:51:25"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:19:58"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16233,7 +16276,7 @@ ementa: "Estabelece hipótese de suspensão de ofício da inscrição estadual, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6406422c-d5c4-4e72-b3cc-101c1df86b70
 atualizado_na_fonte: "2026-10-09 15:46:36"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -16327,7 +16370,7 @@ ementa: "Dispõe sobre procedimentos e outras condições para fruição do cré
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=48be63a8-6dc0-4304-9e65-b105c4afcfb4
 atualizado_na_fonte: "2026-10-09 18:07:42"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 2.1
@@ -16628,8 +16671,8 @@ data: "2020-05-22"
 ementa: "Dispõe sobre o parcelamento eletrônico de crédito tributário de ICMS e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7f2da583-bccd-42b6-a67f-b2468a6bd349
-atualizado_na_fonte: "2025-08-01 14:59:52"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 14:55:18"
+extraido_em: "2026-11-14"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17231,7 +17274,7 @@ ementa: "Estabelece hipótese de suspensão de ofício da inscrição estadual, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67b548a4-654b-40d5-8a8c-4446012b794b
 atualizado_na_fonte: "2026-10-09 15:47:04"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17349,8 +17392,8 @@ data: "2020-05-22"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2826661-fc2b-43ea-9af6-2293127633ad
-atualizado_na_fonte: "2025-08-01 15:00:09"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 14:55:12"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17430,7 +17473,7 @@ ementa: "Torna sem efeito as isenções concedidas a adquirentes de veículos co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fefcde7a-f518-44d3-96c5-9c939fb876f5
 atualizado_na_fonte: "2026-10-09 15:49:39"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17509,8 +17552,8 @@ data: "2021-04-19"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9d12a9d1-6774-49b8-a2c5-5b2a2af03bd5
-atualizado_na_fonte: "2025-08-11 15:34:21"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 10:17:55"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -17590,7 +17633,7 @@ ementa: "Art. 1º Aprovar o Procedimento Operacional Padrão, para o cálculo do
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5625504d-52b4-4963-905b-f8a6f150a425
 atualizado_na_fonte: "2026-10-09 18:08:41"
-extraido_em: "2026-11-09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -18916,21 +18959,21 @@ D690 CAMPO 3 CAMPO 5 REGISTRO ANALÍTICO DOS DOCUMENTOS (CÓDIGOS 21 e 22).
 D696 CAMPO 3 CAMPO 5 REGISTRO ANALÍTICO DOS DOCUMENTOS (CÓDIGO 21 E 22).
 <<<DOC normas/portaria/portaria-152-2022-20798.md>>>
 ---
-documento: "PORTARIA 152, DE 29 DE MARÇO DE 2022"
+documento: "PORTARIA Nº 152, DE 29 DE MARÇO DE 2022"
 tipo: portaria
 numero: 152
 data: "2022-03-29"
 ementa: "Prorrogar, excepcionalmente, até 31 de março de 2022, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF e da Escrituração Fiscal Digital (EFD), referente à competência fevereiro de 2022."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6a51edf4-61e3-4661-856b-e9d7c31c1015
-atualizado_na_fonte: "2025-08-22 14:31:50"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-21 10:56:14"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
 ---
 
-# PORTARIA 152, DE 29 DE MARÇO DE 2022
+# PORTARIA Nº 152, DE 29 DE MARÇO DE 2022
 
 _Prorrogar, excepcionalmente, até 31 de março de 2022, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF e da Escrituração Fiscal Digital (EFD), referente à competência fevereiro de 2022._
 
@@ -18966,8 +19009,8 @@ data: "2016-05-05"
 ementa: "Dispõe sobre a prorrogação do prazo para recadastramento dos produtores rurais alcançados pelas exigências contidas na Resolução Administrativa nº 08/16."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=70f3df0f-c51b-4e47-a597-f829c95cb0f4
-atualizado_na_fonte: "2025-07-01 16:59:14"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:16:14"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -19024,8 +19067,8 @@ data: "2020-06-08"
 ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte prestadores internos de serviços de comunicação."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9451a741-09f8-48bc-8b88-af0fa82ed1ff
-atualizado_na_fonte: "2025-08-01 15:04:59"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 14:54:07"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.3, Anexo 1.4, RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 7.7
@@ -19039,8 +19082,8 @@ _Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte
 **Remete a:** Anexo 1.3, Anexo 1.4, RICMS  
 **Situação:** PARCIALMENTE REVOGADA
 
-> PARCIALMENTE REVOGADA pela portaria 26/2024 (nota no meio do texto do próprio PDF: algum dispositivo foi revogado): "(Revogado – Port. 26/24)"
 > PARCIALMENTE REVOGADA pela portaria 26/2024 (normas/portaria/portaria-026-2024-21076.md): "1º Fica revogado o inciso III, do art. 4º, da Portaria nº 160, de 08 de junho de 2020."
+> PARCIALMENTE REVOGADA pela portaria 26/2024 (nota no meio do texto do próprio PDF: algum dispositivo foi revogado): "(Revogado – Port. 26/24)"
 
 > Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
 <!-- p. 1 -->
@@ -19239,8 +19282,8 @@ data: "2021-04-26"
 ementa: "Aprovar o Procedimento Operacional Padrão, para o cálculo dos Índices de Participação dos Municípios – POP/IPM Nº 01/2021."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=300c5d82-8e6e-474c-ab15-b316dde1398a
-atualizado_na_fonte: "2025-08-11 15:38:51"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 10:20:46"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.3
@@ -20578,8 +20621,8 @@ data: "2016-05-09"
 ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complementação da alíquota do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=596eafd0-c967-41c5-9569-7a60b3df8217
-atualizado_na_fonte: "2025-07-01 17:01:03"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:15:34"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -20764,8 +20807,8 @@ data: "2016-05-11"
 ementa: "Disciplinar a entrega do arquivo digital da DIEF nas condições que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8b6703ea-dd9e-4193-bbca-8a066a3c7cce
-atualizado_na_fonte: "2025-07-01 17:01:47"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-20 09:15:11"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -20819,8 +20862,8 @@ data: "2020-06-18"
 ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=05b04ec3-751a-44bd-9211-24dda3b6813a
-atualizado_na_fonte: "2025-08-01 15:07:48"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-27 14:53:41"
+extraido_em: "2026-11-14"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0

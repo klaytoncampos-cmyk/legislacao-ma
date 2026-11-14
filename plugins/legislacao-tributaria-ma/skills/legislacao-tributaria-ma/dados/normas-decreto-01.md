@@ -7,8 +7,8 @@ data: "1994-04-25"
 ementa: "Dispõe sobre a redução da base de cálculo do ICMS nas operações de exportação para o exterior dos produtos classificados nas posições 44.06 a 44.09 da NBM/SH."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=486fc382-003e-46bc-acb0-655d1e314edc
-atualizado_na_fonte: "2025-07-09 18:29:23"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:50:26"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -51,8 +51,8 @@ data: "1994-06-09"
 ementa: "Dispõe sobre a vedação de autorização de uso de Máquina Registradora (MR) para fins fiscais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5ccd1da7-650e-461f-b46a-09c3dd425e52
-atualizado_na_fonte: "2025-07-09 18:30:47"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:49:11"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -102,8 +102,8 @@ data: "1994-06-23"
 ementa: "Introduz modificações no art. 281 do Regulamento do ICMS, aprovado pelo Decreto 11.416, de 27 de março de 1990."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=33eb04f1-83ca-4e75-ba70-c29419fb1bff
-atualizado_na_fonte: "2025-07-09 18:31:12"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:48:20"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -142,6 +142,60 @@ Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogadas as 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 23 DE JUNHO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
 
 Imprimir página
+<<<DOC normas/decreto/decreto-13945-1994-17968.md>>>
+---
+documento: "DECRETO Nº 13.945 DE 23 DE JUNHO DE 1994"
+tipo: decreto
+numero: 13945
+data: "1994-06-23"
+ementa: "Dá nova redação ao art. 1º do Decreto nº 12.999, de 30 de março de 1993."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=eba6d894-206f-4855-9de8-439e372bdcd7
+atualizado_na_fonte: "2026-10-16 17:47:21"
+extraido_em: "2026-11-14"
+remete_a: "RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.945 DE 23 DE JUNHO DE 1994
+
+_Dá nova redação ao art. 1º do Decreto nº 12.999, de 30 de março de 1993._
+
+**Data:** 1994-06-23  
+**Remete a:** RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.945 DE 23 DE JUNHO DE 1994 DOE 30.06.94
+
+Dá nova redação ao art. 1º do Decreto nº 12.999, de 30 de março de 1993.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição Estadual,
+
+
+D E C R E T A :
+
+Art. 1º. O art. 1º do Decreto nº 12.999, de 30 de março de 1993, passa a vigorar com a seguinte redação:
+
+"Art. 1º - Ficam diferidos, o lançamento e o pagamento do ICMS, nas operações internas com amêndoas de babaçu, atendidos os requisitos previstos no
+§ 3º.
+
+§ 1º - Para efeitos deste artigo, além da nota fiscal do remetente, a mercadoria será acompanhada, no seu transporte, por Nota Fiscal de Entrada, mod. 03, de emissão do destinatário.
+
+§ 2º - As primeiras vias das notas fiscais de entrada, previstas no parágrafo anterior, serão entregues até o dia 10 (dez) do mês subsequente ao das operações, pelos emitentes, nas Exatorias dos seus domicílios tributários, para efeito de controle.
+
+§ 3º - O pagamento do imposto pelo regime normal, previsto nos arts. 98 a 101 do Regulamento do ICMS - Decreto 11.416, de 27 de março de 1990, dos estabelecimentos enquadrados no C.A.E. 3.15.01 - Gorduras e óleos (animais e vegetais); produtos de sua
+
+<!-- p. 2 -->
+dissociação, gorduras alimentícias elaboradas, ceras de origem animal e vegetal, sujeita-se a prévio credenciamento desses estabelecimentos pelo Superintendente de Administração Tributária da Secretaria de Estado da Fazenda."
+
+Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS 23 DE JUNHO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
 <<<DOC normas/decreto/decreto-14224-1994-17982.md>>>
 ---
 documento: "DECRETO Nº 14.224 DE 13 DE OUTUBRO DE 1994"
@@ -151,8 +205,8 @@ data: "1994-10-13"
 ementa: "Dispõe sobre a redução da base de cálculo do ICMS nas operações de importação de milho, do exterior do país, prorroga prazo de pagamento do ICMS dos contribuintes enquadrados no PRODEIN, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce0e235c-a817-4573-81e2-99e686fae948
-atualizado_na_fonte: "2025-07-09 18:34:39"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:41:19"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -208,8 +262,8 @@ data: "1994-11-09"
 ementa: "Dispõe sobre a substituição tributária nas operações com produtos farmacêuticos."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96443e09-a244-4a29-a141-ecbc8e38ab7c
-atualizado_na_fonte: "2025-07-09 18:35:17"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:40:24"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -406,8 +460,8 @@ data: "1994-11-09"
 ementa: "Dispõe, excepcionalmente, sobre o parcelamento de créditos tributários oriundos do ICMS, no período de 07 de novembro a 15 de dezembro de 1994, nas condições que indica, e dá providências correlatas."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03fe470f-a4e8-4f52-a81e-bfa0908ca8bd
-atualizado_na_fonte: "2025-07-09 18:35:29"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:40:13"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -464,8 +518,8 @@ data: "1994-11-21"
 ementa: "Exclui da lista de produtos semi-elaborados, constantes do Anexo 1 ao RICMS - Decreto nº 11.416/90, os produtos que indica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=66bd22fd-e09e-4ce2-ab44-606736664212
-atualizado_na_fonte: "2025-07-09 18:42:19"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:39:09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -517,8 +571,8 @@ data: "1994-12-09"
 ementa: "Dispõe sobre regime de substituição tributária nas operações com tintas, vernizes e outras mercadorias da indústria química."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=30930f06-6cdc-4d72-83dc-37349fc05a79
-atualizado_na_fonte: "2025-07-09 18:42:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:38:49"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -709,8 +763,8 @@ data: "1995-01-23"
 ementa: "Introduz modificação no art. 40 do Regulamento do ICMS, aprovado pelo Decreto nº 11.416, de 27 de março de 1990."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fc327ec6-9df2-4aea-b645-4b6660d8e09c
-atualizado_na_fonte: "2025-07-11 13:32:36"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:32:22"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -764,8 +818,8 @@ data: "1995-02-07"
 ementa: "Altera o art. 3º do Decreto nº 14.224, de 13 de outubro de 1994, que prorroga o prazo de pagamento do ICMS dos contribuintes enquadrados no PRODEIN, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=012270d4-cd85-4c3b-b921-f19b68a8e9af
-atualizado_na_fonte: "2025-07-11 13:33:26"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:31:38"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -775,7 +829,7 @@ percentual_tachado: 0.0
 
 _Altera o art. 3º do Decreto nº 14.224, de 13 de outubro de 1994, que prorroga o prazo de pagamento do ICMS dos contribuintes enquadrados no PRODEIN, e dá outras providências._
 
-**Data:** 1995-02-07  
+**Data:** 1995-02-07 (data no portal: 1995-03-07 (divergente do PDF))  
 **Remete a:** CTE  
 **Situação:** vigente (sem revogação identificada)
 
@@ -804,8 +858,8 @@ data: "1995-03-02"
 ementa: "Dispõe sobre o diferimento do ICMS incidente sobre energia elétrica, fornecida mediante Contrato de Reserva de Potência e Fornecimento, n_o utilizada pela empresa contratante e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dae5b2c3-fa8b-4e9e-a37d-edbeb5a4dd27
-atualizado_na_fonte: "2025-07-11 13:33:39"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:31:25"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -843,8 +897,8 @@ data: "1995-03-21"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto 11.416, de 27 de março de 1990, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=12c7ac57-fd70-4386-b729-d948d5371db9
-atualizado_na_fonte: "2025-07-11 13:34:15"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:30:46"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1466,8 +1520,8 @@ data: "1995-03-27"
 ementa: "Dispõe sobre a redução da base de cálculo do ICMS na exportação de soja em grão."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6bd5e9f9-6414-4377-863e-c1e88fa74051
-atualizado_na_fonte: "2025-07-11 13:34:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:30:32"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1505,8 +1559,8 @@ data: "1995-05-12"
 ementa: "Prorroga o prazo de pagamento do ICMS dos contribuintes enquadrados no PRODEIN e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=41c9d11c-ff11-4057-8adb-1bb75a4c0036
-atualizado_na_fonte: "2025-07-11 13:35:34"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:29:27"
+extraido_em: "2026-11-14"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1546,8 +1600,8 @@ data: "1995-05-22"
 ementa: "Altera e consolida a legislação que dispõe sobre a substituição tributária nas operações com produtos farmacêuticos, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3c7627ab-14a8-49de-ab02-447e9663af66
-atualizado_na_fonte: "2025-07-11 13:36:02"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:28:51"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1734,8 +1788,8 @@ data: "1995-05-30"
 ementa: "Altera e consolida a legislação que dispõe sobre o regime de substituição tributária nas operações com tintas, vernizes e outras mercadorias da indústria química."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f19b633d-6c9c-43d6-8c84-ab93b8710174
-atualizado_na_fonte: "2025-07-11 13:36:48"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:27:39"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1910,8 +1964,8 @@ data: "1995-06-09"
 ementa: "Concede isenção do ICMS nas operações com mercadorias ou bens destinados ou provenientes do exterior, na forma que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ffe6d27a-7891-4152-a942-b4fc74624eb9
-atualizado_na_fonte: "2025-07-11 13:37:20"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:27:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1990,8 +2044,8 @@ data: "1995-06-13"
 ementa: "Revoga dispositivo do Regulamento do ICMS e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd8b6011-580c-438d-9ad2-c7bd08adb894
-atualizado_na_fonte: "2025-07-11 13:38:01"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:26:26"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2033,8 +2087,8 @@ data: "1995-07-27"
 ementa: "Introduz modificações nos arts. 574, 579 e 580 do Regulamento do ICMS - Decreto 11.416/90."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b875f81-685f-4e75-ad6b-eb86b2c2cf6a
-atualizado_na_fonte: "2025-07-11 13:39:12"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:25:11"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2098,8 +2152,8 @@ data: "1995-08-09"
 ementa: "Consolida e altera o Regulamento da Administração Tributária e do Processo Administrativo Tributário."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e5e71ae8-1687-4d82-a94f-5077c4710f87
-atualizado_na_fonte: "2025-07-11 13:39:26"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:24:48"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2892,8 +2946,8 @@ data: "1995-10-09"
 ementa: "Institui a Nota Fiscal do Produtor."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1bcd7486-67c7-4e58-92e6-1cc5f5bf325b
-atualizado_na_fonte: "2025-07-11 13:39:53"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:24:12"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3121,8 +3175,8 @@ data: "1995-10-18"
 ementa: "Altera dispositivo do Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbfd6fc9-a7ba-4ccf-86fd-36c8e1d01986
-atualizado_na_fonte: "2025-07-11 13:40:23"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:23:38"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3169,8 +3223,8 @@ data: "1995-11-06"
 ementa: "Altera o § 1º do art. 10 do RICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6cecbc10-5706-466f-b484-99218be35a84
-atualizado_na_fonte: "2025-07-11 13:40:41"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:23:14"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3224,8 +3278,8 @@ data: "1995-12-26"
 ementa: "Institui o lacre em bombas de combustíveis e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cc1bc4f1-b049-47d2-8516-ba0c37879816
-atualizado_na_fonte: "2025-07-11 13:40:55"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:22:52"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3385,8 +3439,8 @@ data: "1995-12-27"
 ementa: "Dispõe sobre o regime jurídico aplicável à microempresa industrial maranhense e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cb3864ad-0855-4084-8811-1d5879eceb46
-atualizado_na_fonte: "2025-07-11 13:41:11"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:22:32"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3512,8 +3566,8 @@ data: "1995-12-27"
 ementa: "Introduz modificações no Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a9e16e7e-5b1d-4776-9ede-5f3156a84a85
-atualizado_na_fonte: "2025-07-11 13:41:38"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:22:17"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3684,8 +3738,8 @@ data: "1995-12-27"
 ementa: "Prorroga, excepcionalmente, o prazo de recolhimento do ICMS decorrente dos fatos geradores ocorridos no mês de dezembro de 1995, para os estabelecimentos comerciais varejistas."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3d53febf-a74b-4ebe-9819-0f857a32c4a1
-atualizado_na_fonte: "2025-07-11 13:41:51"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:22:10"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3741,8 +3795,8 @@ data: "1996-01-08"
 ementa: "Introduz modificações no art. 521 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b53230ad-a82c-41b5-b9b8-f7ef18baf596
-atualizado_na_fonte: "2025-07-11 13:43:11"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:19:39"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3803,8 +3857,8 @@ data: "1996-01-17"
 ementa: "Introduz modificações no Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, adotando a UFIR em substituição à UFR."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1c089d3f-22cf-42d9-8ea3-7869e285f724
-atualizado_na_fonte: "2025-07-11 13:43:39"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:19:13"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3901,8 +3955,8 @@ data: "1996-01-29"
 ementa: "Introduz alterações nos arts. 10 e 706 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=34a50633-5eed-4aa5-b067-ade89467d74c
-atualizado_na_fonte: "2025-07-11 13:43:51"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:18:19"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3959,8 +4013,8 @@ data: "1996-01-29"
 ementa: "Introduz alterações nos arts. 9º e 871 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb3a641c-ff2d-4444-ab63-ade387493dae
-atualizado_na_fonte: "2025-07-11 13:44:05"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:18:12"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4015,8 +4069,8 @@ data: "1996-02-26"
 ementa: "Dispõe sobre o período de apuração e prazo de pagamento do ICMS e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c1a972c-89de-4443-8611-243a26a5dcf5
-atualizado_na_fonte: "2025-07-11 13:44:20"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:17:50"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 0.0
@@ -4074,8 +4128,8 @@ data: "1996-03-04"
 ementa: "Altera o § 1º do art. 82 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0ee59813-9c5f-4869-8838-8bf4c962b45f
-atualizado_na_fonte: "2025-07-11 13:44:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:17:31"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4123,8 +4177,8 @@ data: "1996-03-04"
 ementa: "Altera o art. 770 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=29872625-b9da-4695-a0e9-aec4d2b11c60
-atualizado_na_fonte: "2025-07-11 13:44:47"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:17:20"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4175,8 +4229,8 @@ data: "1996-03-04"
 ementa: "Acrescenta parágrafo ao art. 734 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e30c4fa9-3c9d-45ea-a9d2-81cee3ba6c44
-atualizado_na_fonte: "2025-07-11 13:44:58"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:17:10"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4225,8 +4279,8 @@ data: "1996-04-11"
 ementa: "Altera o art. 86 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=75ffdb2a-a22a-4489-8043-5ec4405eb442
-atualizado_na_fonte: "2025-07-11 13:45:10"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:16:38"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4270,8 +4324,8 @@ data: "1996-04-11"
 ementa: "Introduz modificação no anexo 1, ao Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=eb674862-5d27-4469-b99d-911218cc28f5
-atualizado_na_fonte: "2025-07-11 13:45:25"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:16:30"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4314,8 +4368,8 @@ data: "1996-04-23"
 ementa: "Introduz modificações no Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0bc0b151-6ef3-41c6-8da4-64ffa1c4736c
-atualizado_na_fonte: "2025-07-11 13:45:49"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:15:57"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4448,8 +4502,8 @@ data: "1996-04-23"
 ementa: "Dá nova redação ao art. 795 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1.995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=41840af1-5098-4870-b4e0-2975485d314d
-atualizado_na_fonte: "2025-07-11 13:46:05"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:15:35"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4531,8 +4585,8 @@ data: "1996-05-06"
 ementa: "Altera o item III do Anexo 85 ao Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2df8dc44-7f0c-4a79-973a-e6ee72de75a3
-atualizado_na_fonte: "2025-07-11 13:46:17"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:15:26"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4573,25 +4627,25 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 06 DE MAIO DE 1996, 1
 Imprimir
 <<<DOC normas/decreto/decreto-15034-1996-18057.md>>>
 ---
-documento: "DECRETO Nº 15.034 DE 06 DE MAIO DE 1996"
+documento: "DECRETO Nº 15.034 DE 08 DE MAIO DE 1996"
 tipo: decreto
 numero: 15034
 data: "1996-05-08"
 ementa: "Dá nova redação ao Capítulo XI e revigora o art. 609 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=48a2306a-8362-4f04-b41d-366754de4df9
-atualizado_na_fonte: "2025-07-11 13:46:28"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:15:09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
 ---
 
-# DECRETO Nº 15.034 DE 06 DE MAIO DE 1996
+# DECRETO Nº 15.034 DE 08 DE MAIO DE 1996
 
 _Dá nova redação ao Capítulo XI e revigora o art. 609 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995._
 
-**Data:** 1996-05-08 (data no portal: 1996-05-06 (divergente do PDF))  
+**Data:** 1996-05-08  
 **Remete a:** RICMS  
 **Situação:** histórica (alterava o RICMS/1995)
 
@@ -4644,8 +4698,8 @@ data: "1996-05-08"
 ementa: "Dá nova redação ao Capítulo XXVIII do Título VI do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a303835f-1789-4626-94f5-5b03812f68fe
-atualizado_na_fonte: "2025-07-11 13:46:41"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:13:09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4774,8 +4828,8 @@ data: "1996-05-30"
 ementa: "Introduz alteração no inciso VI, do art.11 e na alínea a , do inciso I, do § 1o , do art. 690 do RICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6bd75126-e533-4a6e-8001-a4a7f796f270
-atualizado_na_fonte: "2025-07-11 13:46:53"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:13:00"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4833,8 +4887,8 @@ data: "1996-06-15"
 ementa: "Dá nova redação ao art. 1o do Decreto no 14.872, de 27 de dezembro de 1995, prorroga o prazo para a apropriação de crédito presumido decorrente da aquisição de equipamento Emissor de Cupom Fiscal - ECF, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0685a8d5-ff14-4522-8d3b-1dc4f61ac077
-atualizado_na_fonte: "2025-07-11 13:47:29"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:12:42"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4909,8 +4963,8 @@ data: "1996-06-28"
 ementa: "Dá nova redação ao art. 51 do RICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1e01756a-6808-4dce-acef-ec788ce769f7
-atualizado_na_fonte: "2025-07-11 13:47:41"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:12:33"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4972,8 +5026,8 @@ data: "1996-07-01"
 ementa: "Concede crédito presumido nas saídas de café torrado e moído da indústria de torrefação, inclui o pão na cesta básica e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=976f223a-17da-4e2d-b11f-8c2f14218d50
-atualizado_na_fonte: "2025-07-11 13:47:54"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:12:24"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5028,8 +5082,8 @@ data: "1996-07-01"
 ementa: "Altera o art. 74 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a4093a43-5c3a-47fa-b5c6-0ed47d48ca72
-atualizado_na_fonte: "2025-07-11 13:48:19"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:12:08"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5086,8 +5140,8 @@ data: "1996-07-09"
 ementa: "Introduz alterações no Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fdd31061-a6ac-4fb6-8b24-a3cd02eaf2aa
-atualizado_na_fonte: "2025-07-11 13:48:41"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:11:33"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5146,8 +5200,8 @@ data: "1996-07-19"
 ementa: "Dispõe sobre as operações com álcool anidro e combustíveis líquidos e gasosos derivados de petróleo, exceto querosene de aviação e óleo combustível, iniciadas neste Estado ou em outra unidade da Federação, pela Petróleo Brasileiro S.A.- PETROBRAS, e pelas demais distribuidoras destes produtos, altera a redação do art. 803 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82e84c66-cb8f-44a6-b8dd-1f187b6a0c35
-atualizado_na_fonte: "2025-07-11 13:50:29"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:11:19"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -5301,8 +5355,8 @@ data: "1996-07-24"
 ementa: "Acrescenta, altera e revoga dispositivos do RICMS para reduzir a base de cálculo do ICMS, nas operações realizadas por comerciantes atacadistas e revoga os arts. 1o a 3o do Decreto no 14.926, de 26 de fevereiro de 1996."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6f20280b-27e6-48af-af9e-d71681cec3ee
-atualizado_na_fonte: "2025-07-11 13:51:21"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:10:59"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5405,8 +5459,8 @@ data: "1996-07-30"
 ementa: "Acrescenta o parágrafo único ao art. 719 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e74a4cb5-baab-435d-8952-5a4db6875337
-atualizado_na_fonte: "2025-07-11 13:51:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:10:47"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5451,8 +5505,8 @@ data: "1996-08-01"
 ementa: "Concede diferimento do ICMS nas operações internas e de importação do exterior de algodão em pluma, quando destinado ao processo de industrialização."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce47251b-ddd0-4ca9-8342-dacf57e60648
-atualizado_na_fonte: "2025-07-11 13:51:45"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:10:22"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5501,8 +5555,8 @@ data: "1996-08-22"
 ementa: "Dá nova redação aos §§ 1o e 2o do art. 3o do Decreto no 15.154, de 24 de julho de 1996, revoga o art. 3o do Decreto no 14.923, de 08 de fevereiro de 1996, introduz alterações e acrescenta dispositivos ao Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ff717c22-3175-4cd4-b983-483ebd7d31cb
-atualizado_na_fonte: "2025-07-11 13:52:23"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:07:23"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5612,8 +5666,8 @@ data: "1996-08-28"
 ementa: "Dá nova redação ao inciso XI, do art. 13 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9e365ee4-abc8-4721-85df-92aa90b5ca66
-atualizado_na_fonte: "2025-07-11 13:52:34"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:07:12"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5661,8 +5715,8 @@ data: "1996-09-04"
 ementa: "Dá nova redação ao inciso XI, do art. 13 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b4e6a71-c34e-4561-95ec-5537863f7f3b
-atualizado_na_fonte: "2025-07-11 13:52:57"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:06:33"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5709,8 +5763,8 @@ data: "1996-10-08"
 ementa: "Concede isenção do ICMS nas prestações de serviço de transporte ferroviário, nas condições que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=87302b12-0c9a-4e4e-8248-1a84b4f2d69c
-atualizado_na_fonte: "2025-07-11 13:53:23"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:01:32"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5761,8 +5815,8 @@ data: "1996-11-11"
 ementa: "Acrescenta o § 7o ao art. 598 e dá nova redação ao art. 599 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e619bf40-3d9c-4ee8-b6d7-f8c35c478ab6
-atualizado_na_fonte: "2025-07-11 13:54:00"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:00:56"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5810,8 +5864,8 @@ data: "1996-11-20"
 ementa: "Acrescenta o parágrafo único ao art. 263 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=32ac5873-efca-4759-8c94-c7da1c852b3f
-atualizado_na_fonte: "2025-07-11 13:54:15"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:00:35"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5863,8 +5917,8 @@ data: "1996-11-20"
 ementa: "Dá nova redação ao inciso XLVIII do art. 9o do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2743fd4c-3066-4edd-94a0-540e6c07ecdf
-atualizado_na_fonte: "2025-07-11 13:54:27"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:00:29"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5921,8 +5975,8 @@ data: "1996-11-21"
 ementa: "Dá nova redação à alínea b , do inciso VII, do art.13 e acrescenta os §§ 4o e 5o ao art. 15 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cb5e72a8-51eb-42a9-a329-72c849744015
-atualizado_na_fonte: "2025-07-11 13:54:39"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:00:20"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5979,8 +6033,8 @@ data: "1996-11-25"
 ementa: "Acrescenta o parágrafo único ao art. 365 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b58dd892-f74e-4adb-ad18-fe5ce00bd87a
-atualizado_na_fonte: "2025-07-11 13:54:57"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 17:00:02"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6025,8 +6079,8 @@ data: "1996-11-25"
 ementa: "Acrescenta o § 7o ao art. 581 e dá nova redação ao art. 582 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb7b45a2-77c3-4015-9e29-985888c6ee34
-atualizado_na_fonte: "2025-07-11 13:55:18"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:59:47"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6073,8 +6127,8 @@ data: "1997-01-14"
 ementa: "Altera a redação, revoga e acrescenta dispositivos ao Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=17cfd29c-eec4-4569-89f7-91df5f9f31d4
-atualizado_na_fonte: "2025-07-11 14:11:57"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:54:09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6159,8 +6213,8 @@ data: "1997-02-04"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f72e1626-8b2f-49bd-bb14-c505e540d7a3
-atualizado_na_fonte: "2025-07-11 14:11:31"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:54:44"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6452,8 +6506,8 @@ data: "1997-03-03"
 ementa: "Alterado pelo Decreto n.º 15.480, de 01.04.97. Alterado pelo Decreto n.º 15.534, de 30.04.97. Alterado pelo Decreto n.º 15.616, de 17.06.97. Alterado pelo Decreto n.º 15.713, de 25.07.97. Alterado pelo Decreto n.º 15.823, de 29.09.97. Dispõe sobre o regime jurídico tributário dispensado à microempresa maranhense, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=45fc3bcb-2fb3-4ed5-8217-a1bd6504233d
-atualizado_na_fonte: "2025-07-11 14:11:15"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:32:52"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -6580,8 +6634,8 @@ data: "1997-03-06"
 ementa: "Dá nova redação ao art. 582 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=60dfc084-21e3-482f-9841-264dc6839678
-atualizado_na_fonte: "2025-07-11 14:10:43"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:33:13"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6638,8 +6692,8 @@ data: "1997-03-06"
 ementa: "Dá nova redação ao inciso VI do art. 581 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67e353bc-6542-4361-9620-3cb02f83e07a
-atualizado_na_fonte: "2025-07-11 14:10:02"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:33:21"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6681,8 +6735,8 @@ data: "1997-03-06"
 ementa: "Concede crédito presumido de 50% (cinqüenta por cento) sobre o ICMS incidente nas saídas de mercadorias produzidas pela Sociedade Pobres Servos da Divina Providência."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03f0049e-a7d4-4de7-b3cd-e1e3cbc56e5a
-atualizado_na_fonte: "2025-07-11 14:09:47"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:33:28"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -6733,8 +6787,8 @@ data: "1997-03-06"
 ementa: "Acrescenta o parágrafo único ao art. 353 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2d2e725-9387-43b3-aa49-a8a12964e9db
-atualizado_na_fonte: "2025-07-11 14:09:35"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:33:35"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6776,8 +6830,8 @@ data: "1997-03-06"
 ementa: "Dá nova redação ao caput do art. 685 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67d52c36-6e27-4f71-b3ee-366096dbd85b
-atualizado_na_fonte: "2025-07-11 14:09:25"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:33:40"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6819,8 +6873,8 @@ data: "1997-03-12"
 ementa: "Dá nova redação aos arts. 490 e 493 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96b178a1-5991-4ce4-b197-5cc34ea21b06
-atualizado_na_fonte: "2025-07-11 14:08:35"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:35:41"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7072,8 +7126,8 @@ data: "1997-03-12"
 ementa: "Dá nova redação ao art. 260 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=251571dd-1fde-4648-809a-2f605efd8ca1
-atualizado_na_fonte: "2025-07-11 14:08:23"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:35:48"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7183,8 +7237,8 @@ data: "1997-03-20"
 ementa: "Dá nova redação ao art. 766 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f00dc001-06d5-4627-8111-72e62e7c89fb
-atualizado_na_fonte: "2025-07-11 14:12:58"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:36:07"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7236,8 +7290,8 @@ data: "1997-03-20"
 ementa: "Dá nova redação ao caput do art. 842 e acrescenta o § 7o ao art. 855 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=959d46a0-b8bb-49e8-a446-5dad906347b3
-atualizado_na_fonte: "2025-07-11 14:07:44"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:36:17"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7285,8 +7339,8 @@ data: "1997-03-20"
 ementa: "Acrescenta o inciso XVII ao art. 37 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=65b620e9-7ea9-46b3-a99f-3043442b3518
-atualizado_na_fonte: "2025-07-11 14:07:15"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:36:31"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7332,8 +7386,8 @@ data: "1997-03-20"
 ementa: "Dá nova redação ao inciso XLVIII do art. 9o do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=08d920cd-916a-444f-91fc-f27daf318fec
-atualizado_na_fonte: "2025-07-11 14:07:01"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:37:31"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7385,8 +7439,8 @@ data: "1997-03-20"
 ementa: "Acrescenta o §§ 3o , 4o e 5o ao art. 589 e o § 2o do art. 595 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f125fb39-72ea-43e1-bf7b-d292bb6992ed
-atualizado_na_fonte: "2025-07-11 14:06:45"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:37:37"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7436,8 +7490,8 @@ data: "1997-03-20"
 ementa: "Dá nova redação ao parágrafo único do art. 675 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=04c57704-fe79-483c-85ce-b30237466ca8
-atualizado_na_fonte: "2025-07-11 14:06:30"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:37:43"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7479,8 +7533,8 @@ data: "1997-04-01"
 ementa: "Altera o art. 76 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=69d2b643-3662-4271-b6ea-5183cb39d0d4
-atualizado_na_fonte: "2025-07-11 14:06:18"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:38:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7531,8 +7585,8 @@ data: "1997-04-01"
 ementa: "Altera o art. 38 do RICMS e dispositivos do Decreto n.º 15.413 de 03 de março de 1997."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2ba36ae-9941-4543-99c0-7380581ae49e
-atualizado_na_fonte: "2025-07-11 14:06:04"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:38:09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7589,8 +7643,8 @@ data: "1997-04-30"
 ementa: "Institui o Regime de Substituição Tributária para estabelecimentos atacadistas de produtos farmacêuticos e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b9cc54ac-7b78-4216-b718-514397c9d589
-atualizado_na_fonte: "2025-07-11 14:05:52"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:38:26"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -7816,8 +7870,8 @@ data: "1997-04-30"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4e5771d5-2f41-4818-911e-e74dc616c7f2
-atualizado_na_fonte: "2025-07-11 14:05:25"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:38:41"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8060,8 +8114,8 @@ data: "1997-04-30"
 ementa: "Altera a redação do art. 92 do Regulamento do ICMS - RICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3fc1c250-ce85-4ce9-9e86-28c3f4fd26fb
-atualizado_na_fonte: "2025-07-11 14:05:09"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:38:48"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8122,8 +8176,8 @@ data: "1997-05-12"
 ementa: "Restabelece o art. 865 do Regulamento do ICMS aprovado pelo Decreto no 14.744/95."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5856a655-4128-4740-bc82-f855171aebda
-atualizado_na_fonte: "2025-07-11 14:04:44"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:41:24"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8172,8 +8226,8 @@ data: "1997-06-11"
 ementa: "Consolida os prazos de pagamento estabelecidos no Regulamento do ICMS, altera dispositivo do Decreto no 15.532, de 30 de abril de 1997, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b83f64ef-ddac-4087-aa0d-ee879706abf5
-atualizado_na_fonte: "2025-07-11 14:04:20"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:42:47"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8246,8 +8300,8 @@ data: "1997-06-17"
 ementa: "Consolida e altera as normas que regulamentam o regime jurídico aplicável à microempresa maranhense e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ccf864c8-0223-481e-945e-0591368dfa00
-atualizado_na_fonte: "2025-07-11 14:04:03"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:42:57"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8341,8 +8395,8 @@ data: "1997-06-17"
 ementa: "Altera os arts. 11, 38 e 51 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3830d571-5624-46f4-a2ef-836754e7c664
-atualizado_na_fonte: "2025-07-11 14:03:50"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:43:08"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8504,8 +8558,8 @@ data: "1997-06-26"
 ementa: "Altera o art. 295 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8e5ead3b-8ae2-48be-84bd-c037b1b59291
-atualizado_na_fonte: "2025-07-11 14:03:36"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:43:45"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8558,8 +8612,8 @@ data: "1997-07-15"
 ementa: "Altera os arts. 37 e 51 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ff79bdfb-86aa-4a3d-8504-b10bd3571476
-atualizado_na_fonte: "2025-07-11 14:03:08"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:45:21"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8663,8 +8717,8 @@ data: "1997-08-01"
 ementa: "Acrescenta dispositivos ao Decreto 15.413, de 03 de março de 1997 que dispõe sobre o regime jurídico tributário dispensado à empresa de pequeno porte maranhense, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b74ba8f-fd19-4f2f-90e8-fd1afd5bac37
-atualizado_na_fonte: "2025-07-11 14:02:37"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:45:51"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8833,8 +8887,8 @@ data: "1997-08-14"
 ementa: "Acrescenta alínea 'f' ao inciso VII do art. 13 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d5db723a-1fb1-432c-a4ee-53220ac10ede
-atualizado_na_fonte: "2025-07-11 14:02:23"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:46:01"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8889,8 +8943,8 @@ data: "1997-08-14"
 ementa: "Restabelece o Capítulo XXVIII do Título VI do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995, que concede isenção do ICMS às operações internas com automóveis de passageiros, para utilização como táxi, nas condições que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=deca6f44-7f6e-41a1-b89d-243118a32ac4
-atualizado_na_fonte: "2025-07-11 14:02:00"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:46:13"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9017,8 +9071,8 @@ data: "1997-08-18"
 ementa: "Altera o art. 116 do Regulamento do ICMS, aprovado pelo Decreto n. 14.744, de 29 de setembro de 1997."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=230e7bf4-41a1-41d5-bc97-76fe18813944
-atualizado_na_fonte: "2025-07-11 14:01:42"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:46:25"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9072,8 +9126,8 @@ data: "1997-09-22"
 ementa: "Institui o Regime de Substituição Tributária nas operações com gado bovino, bubalino e produtos de sua matança."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c2b4a403-4c1b-4829-aa09-641f23c76045
-atualizado_na_fonte: "2025-07-11 14:01:21"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:46:44"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -9246,8 +9300,8 @@ data: "1997-09-22"
 ementa: "Altera o art. 753 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=01016953-2499-4d06-b946-7b37e5e8dd4e
-atualizado_na_fonte: "2025-07-11 14:01:04"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:46:55"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9296,8 +9350,8 @@ data: "1997-09-29"
 ementa: "Altera os arts. 696 e 699 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e08e6ed7-d1ac-4c7c-bcd0-401ff93e508c
-atualizado_na_fonte: "2025-07-11 14:00:07"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:47:14"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9358,8 +9412,8 @@ data: "1997-09-29"
 ementa: "Atribui aos remetentes de derivados de petróleo e dos demais combustíveis e lubrificantes, situados em outras unidades da Federação, a condição de responsável para efeito de pagamento de ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f50ce906-5f53-467c-b5e4-9fad8c6c564f
-atualizado_na_fonte: "2025-07-11 13:59:55"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:47:22"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -9694,8 +9748,8 @@ data: "1997-10-13"
 ementa: "Concede diferimento do ICMS na operações internas com insumos agropecuários que especifica e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7ca20dae-4ac8-4946-aaee-404c9b423f8c
-atualizado_na_fonte: "2025-07-11 13:59:42"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:47:33"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9834,8 +9888,8 @@ data: "1997-10-13"
 ementa: "Altera dispositivos do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8aa70e3a-0522-4581-b680-d8b7af4d4591
-atualizado_na_fonte: "2025-07-11 13:59:10"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:49:11"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9887,8 +9941,8 @@ data: "1997-10-13"
 ementa: "Restabelece o regime de substituição tributária, com produtos farmacêuticos, na forma do Convênio ICMS 76/94, de 30 de junho de 1994."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d2af5ec0-af26-475d-b6d8-6b6825408703
-atualizado_na_fonte: "2025-07-11 13:58:56"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:49:17"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10045,8 +10099,8 @@ data: "1997-10-13"
 ementa: "Restabelece dispositivos do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=52b6f0f4-64e5-4dcd-a951-3d92c41b231d
-atualizado_na_fonte: "2025-07-11 13:58:44"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:49:24"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10232,8 +10286,8 @@ data: "1997-11-27"
 ementa: "Dispõe sobre o Regime de Substituição Tributária para estabelecimentos atacadistas de produtos farmacêuticos e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e46a6044-ffab-40b1-89a0-d0ff3072ea00
-atualizado_na_fonte: "2025-07-11 13:58:04"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:50:52"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -10441,8 +10495,8 @@ data: "1997-12-02"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1996."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=38081b57-e2da-4a57-8267-1873e46d7d7a
-atualizado_na_fonte: "2025-07-11 13:57:36"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:51:10"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10507,8 +10561,8 @@ data: "1997-12-29"
 ementa: "Acrescenta alínea d ao § 2.º do art. 13 do Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fbf87c5a-3d29-4d5e-8018-bfac1433422a
-atualizado_na_fonte: "2025-07-11 14:14:18"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:51:46"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10565,8 +10619,8 @@ data: "1997-12-29"
 ementa: "Restabelece, com a seguinte redação, os arts 579 a 588 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1997."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=87f84889-047f-426c-b2ea-72d43f52a268
-atualizado_na_fonte: "2025-07-11 13:56:23"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:51:52"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10716,8 +10770,8 @@ data: "1997-12-29"
 ementa: "Acrescenta dispositivos ao Decreto no 15.820, de 22 de setembro de 1997, que institui o Regime de Substituição Tributária nas operações com gado bovino, bubalino e produtos de sua matança e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=127f4a31-708a-4da8-bab6-2787dda55c58
-atualizado_na_fonte: "2025-07-11 13:56:10"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 16:51:59"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10785,8 +10839,8 @@ data: "1998-01-09"
 ementa: "Dá nova redação ao art. 51 do Regulamento do ICMS aprovado pelo Decreto 14.744, de 29 de setembro de 1995, e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=83e073b9-47d8-40e1-a1af-53d1e7b268c5
-atualizado_na_fonte: "2025-07-11 14:18:16"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:53:09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10891,8 +10945,8 @@ data: "1998-01-09"
 ementa: "Restabelece, com nova redação, art. 852 do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=069b5de3-f175-47f9-ac2e-98f2f28cbf70
-atualizado_na_fonte: "2025-07-11 14:18:44"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:52:54"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10969,8 +11023,8 @@ data: "1998-01-09"
 ementa: "Prorroga prazos referentes à concessão de isenções fiscais e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82c35c19-19de-4f08-bc0c-2b2d5552a0a1
-atualizado_na_fonte: "2025-07-11 14:18:58"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:52:46"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11168,8 +11222,8 @@ data: "1998-01-09"
 ementa: "Prorroga prazos referentes a reduções de bases de cálculo do ICMS e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b035791-9087-46eb-9fe4-1df42abf4759
-atualizado_na_fonte: "2025-07-11 14:19:09"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:52:38"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11298,8 +11352,8 @@ data: "1998-01-09"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce1ed966-5853-49d1-a273-c90a9575181e
-atualizado_na_fonte: "2025-07-11 14:19:20"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:52:32"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11438,8 +11492,8 @@ data: "1998-01-09"
 ementa: "Concede isenção do ICMS às operações com equipamentos ou acessórios destinados a portadores de deficiência física ou auditiva e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=09bf126f-73e7-4740-baf2-3737df0ff710
-atualizado_na_fonte: "2025-07-11 14:19:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:52:21"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11565,8 +11619,8 @@ data: "1998-02-03"
 ementa: "Dispõe sobre o parcelamento do ICMS nas condições que indica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0c4a386f-1ea9-40ab-9fc9-446a5daec8f2
-atualizado_na_fonte: "2025-07-11 14:19:58"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:31:00"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11623,8 +11677,8 @@ data: "1998-02-03"
 ementa: "Altera os arts. 37 e 51 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995, que dispõem sobre comércio atacadista."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6c378da5-e2cd-47cb-a20f-0a1c15dc3189
-atualizado_na_fonte: "2025-07-11 14:20:19"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:29:37"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11791,8 +11845,8 @@ data: "1998-02-19"
 ementa: "Altera os arts. 241 e 306 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=06bc29a5-abc8-453f-9f4d-6bc1f609997d
-atualizado_na_fonte: "2025-07-11 14:23:41"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:29:04"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11874,8 +11928,8 @@ data: "1998-03-02"
 ementa: "Altera o art. 295 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5fe4e4af-a930-4dd6-9ca2-5c4f170173e5
-atualizado_na_fonte: "2025-07-11 14:38:51"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:28:40"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11943,8 +11997,8 @@ data: "1998-03-03"
 ementa: "Estabelece procedimentos para liberação de mercadorias em Postos Fiscais, transportadas por transportador não credenciado pela Secretaria de Estado da Fazenda e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7a087f4a-f4c6-4f01-a9e2-92fa009e75d4
-atualizado_na_fonte: "2025-07-11 15:23:38"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:28:28"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12028,8 +12082,8 @@ data: "1998-03-31"
 ementa: "Acrescenta o § 2.º ao art. 109 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c16734a7-9c95-4007-8c8a-d90c45ff287b
-atualizado_na_fonte: "2025-07-11 15:23:54"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:28:10"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12117,8 +12171,8 @@ data: "1998-04-01"
 ementa: "Altera os arts. 903 a 908 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=410be2ae-49d2-47c8-9d19-9465d1e02599
-atualizado_na_fonte: "2025-07-11 15:24:39"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:27:45"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12345,8 +12399,8 @@ data: "1998-04-20"
 ementa: "Dá nova redação ao art. 614 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c0c7fb92-2d52-4cf7-80f7-37a4329d750e
-atualizado_na_fonte: "2025-07-11 15:25:34"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:27:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12428,8 +12482,8 @@ data: "1998-04-20"
 ementa: "Dá nova redação aos arts 686 e 689 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=960022e1-005d-464a-af53-16d3ff5048ff
-atualizado_na_fonte: "2025-07-11 15:31:28"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:26:56"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12686,8 +12740,8 @@ data: "1998-04-20"
 ementa: "Dá nova redação aos dispositivos que indica do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c9b4f6d7-be3e-4224-b8a9-01f23bcdfd38
-atualizado_na_fonte: "2025-07-11 15:31:44"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:26:47"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12801,8 +12855,8 @@ data: "1998-04-20"
 ementa: "Dá nova redação aos arts. 37 e 51 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a40b496-f30f-4511-9e38-82d326339c67
-atualizado_na_fonte: "2025-07-11 15:31:59"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:26:40"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12935,8 +12989,8 @@ data: "1998-04-20"
 ementa: "Acrescenta dispositivos ao art. 10 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=242e63dd-3f77-4c94-915b-3be347a4fb52
-atualizado_na_fonte: "2025-07-11 15:44:58"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:25:02"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12998,8 +13052,8 @@ data: "1998-04-30"
 ementa: "Acrescenta o inciso VI ao art. 256 e dá nova redação aos arts. 257 e 277 do Regulamento do ICMS aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=87c6995f-a159-46ff-98f4-5d5a2014b269
-atualizado_na_fonte: "2025-07-11 15:45:39"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:24:35"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13058,8 +13112,8 @@ data: "1998-05-25"
 ementa: "Dá nova redação ao inciso XXIII do art. 10 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b4aab403-71c9-45fb-aaf9-0c1fc139b337
-atualizado_na_fonte: "2025-07-11 15:45:51"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:24:20"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13140,8 +13194,8 @@ data: "1998-05-25"
 ementa: "Dá nova redação ao art. 156 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cac90950-33bf-4eac-a149-1304711115c3
-atualizado_na_fonte: "2025-07-11 15:46:02"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:24:08"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13226,8 +13280,8 @@ data: "1998-05-25"
 ementa: "Altera os arts. 453 e 462 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5fb2c80f-0a3b-4e5e-888c-a3ef95ee0fcc
-atualizado_na_fonte: "2025-07-11 15:46:15"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:24:01"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13352,8 +13406,8 @@ data: "1998-05-25"
 ementa: "Acrescenta o § 6º ao art. 714 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f2205f51-c5c6-46c5-aba1-994e2287352c
-atualizado_na_fonte: "2025-07-11 15:46:30"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:23:52"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13437,8 +13491,8 @@ data: "1998-05-25"
 ementa: "Acrescenta o inciso LXXIII e o § 19 ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d23012a0-e3e9-4a8a-b3aa-2da39438cee7
-atualizado_na_fonte: "2025-07-11 15:46:42"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:23:44"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13514,8 +13568,8 @@ data: "1998-05-25"
 ementa: "Acrescenta alínea 'o' ao inciso XII do art. 37 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5ac3be6f-4950-45dd-b652-f4bbcefc9282
-atualizado_na_fonte: "2025-07-11 15:46:56"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:23:25"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13584,8 +13638,8 @@ data: "1998-06-03"
 ementa: "Acrescenta o inciso XIII ao art. 13 do RICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8b6cda95-050f-4fd5-b0e6-ec07fc90054c
-atualizado_na_fonte: "2025-07-11 15:47:35"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:23:09"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13646,8 +13700,8 @@ data: "1998-07-27"
 ementa: "Altera o art. 96 do RICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=823b191a-30a6-4bf6-b2b9-a438ba72441f
-atualizado_na_fonte: "2025-07-11 15:49:26"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:22:46"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13707,8 +13761,8 @@ data: "1998-07-31"
 ementa: "Acrescenta a alínea 'e' ao § 2.º do art. 13 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92603865-10b4-4c25-a16a-79dd8656fcb4
-atualizado_na_fonte: "2025-07-11 15:52:43"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:22:31"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13776,8 +13830,8 @@ data: "1998-08-13"
 ementa: "Acrescenta o inciso XIII ao art. 13 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=221105c9-bd8e-4519-accf-233055dfd9ba
-atualizado_na_fonte: "2025-07-11 15:52:58"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:22:12"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13845,8 +13899,8 @@ data: "1998-08-19"
 ementa: "Acrescenta o inciso XXXI ao art. 10 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7497b510-dc62-447d-ba09-7e8e069f5ac7
-atualizado_na_fonte: "2025-07-11 15:56:38"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:22:05"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13948,8 +14002,8 @@ data: "1998-08-13"
 ementa: "Altera o inciso LI, do art. 9.º do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd2be2f6-a73f-4e58-8ce9-fa32d1d445ef
-atualizado_na_fonte: "2025-07-11 15:56:50"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:21:57"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14033,8 +14087,8 @@ data: "1998-08-13"
 ementa: "Acrescenta dispositivos aos arts. 444 e 468 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6b7fbcd7-76aa-4289-ad1d-d34809e5e719
-atualizado_na_fonte: "2025-07-11 15:57:02"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:21:46"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14197,8 +14251,8 @@ data: "1998-08-13"
 ementa: "Altera o § 4º do art. 277 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e38fac9b-0e49-400e-add7-5f73d5117190
-atualizado_na_fonte: "2025-07-11 15:57:16"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:19:37"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14280,8 +14334,8 @@ data: "1998-08-13"
 ementa: "Acrescenta dispositivos aos arts. 263 e 282 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=adbb370f-699b-4e18-8116-cf580bcfe6c5
-atualizado_na_fonte: "2025-07-11 15:57:27"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:19:30"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14363,8 +14417,8 @@ data: "1998-08-31"
 ementa: "Dá nova redação aos Decretos 16.380, de 13 de agosto de 1998 e 16.385, de 13 de agosto de 1998."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3e584b98-2dae-40da-a9de-1a058c4d1ea4
-atualizado_na_fonte: "2025-07-11 15:58:34"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:18:17"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14459,8 +14513,8 @@ data: "1998-10-19"
 ementa: "Dispõe sobre a transferência de saldo credor do ICMS e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4ca9c505-3b27-42b6-9fe9-678da958c9c8
-atualizado_na_fonte: "2025-07-11 15:59:21"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:14:35"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 0.0
@@ -14665,8 +14719,8 @@ data: "1998-10-19"
 ementa: "Acrescenta dispositivos ao Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b4bc120a-2219-459c-a2a5-038bc9add937
-atualizado_na_fonte: "2025-07-11 15:59:46"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:14:27"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14762,8 +14816,8 @@ data: "1998-10-19"
 ementa: "Altera o § 5º do art. 589 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb2e7afc-9d2d-4386-bdab-ef256939c9ca
-atualizado_na_fonte: "2025-07-11 16:00:50"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:14:19"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14842,8 +14896,8 @@ data: "1998-10-19"
 ementa: "Dá nova redação ao art. 89 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e7cec44d-6afd-4c4f-925a-799cf696f872
-atualizado_na_fonte: "2025-07-11 16:01:17"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:14:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15099,8 +15153,8 @@ data: "1998-10-19"
 ementa: "Autoriza o parcelamento do ICMS decorrente de operações com produtos sujeitos à substituição tributária."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9571cc08-9d0e-4632-a573-205d6fdd09f1
-atualizado_na_fonte: "2025-07-11 16:01:30"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:13:55"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -15207,8 +15261,8 @@ data: "1998-10-19"
 ementa: "Dá nova redação ao § 22 do art. 153 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=69dcc86e-8938-4147-951d-4dda7c7650a4
-atualizado_na_fonte: "2025-07-11 16:01:42"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:13:45"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15286,8 +15340,8 @@ data: "1998-11-05"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d6cd036b-17e1-4f9e-8916-e23b61026d08
-atualizado_na_fonte: "2025-07-11 16:01:53"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:13:33"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15297,7 +15351,7 @@ percentual_tachado: 0.0
 
 _Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995._
 
-**Data:** 1998-11-05  
+**Data:** 1998-11-05 (data no portal: 1998-10-05 (divergente do PDF))  
 **Remete a:** RICMS  
 **Situação:** histórica (alterava o RICMS/1995)
 
@@ -15722,12 +15776,12 @@ Voltar
 documento: "DECRETO Nº 16.531 DE 05 DE NOVEMBRO DE 1998"
 tipo: decreto
 numero: 16531
-data: "1998-11-05"
+data: "1998-10-05"
 ementa: "Acrescenta dispositivos ao Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c2f9bde-9e11-48d1-8767-5bade4a307f2
-atualizado_na_fonte: "2025-07-11 16:02:06"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:13:26"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 0.0
@@ -15737,7 +15791,7 @@ percentual_tachado: 0.0
 
 _Acrescenta dispositivos ao Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995._
 
-**Data:** 1998-11-05  
+**Data:** 1998-10-05  
 **Remete a:** RICMS  
 **Situação:** PARCIALMENTE REVOGADA
 
@@ -15900,8 +15954,8 @@ data: "1998-11-05"
 ementa: "Altera o inciso XII do art. 9º do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8c9bd70e-f021-4ecd-8e62-f60e52f066d1
-atualizado_na_fonte: "2025-07-11 16:02:18"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:13:18"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15911,7 +15965,7 @@ percentual_tachado: 0.0
 
 _Altera o inciso XII do art. 9º do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995._
 
-**Data:** 1998-11-05  
+**Data:** 1998-11-05 (data no portal: 1998-10-05 (divergente do PDF))  
 **Remete a:** RICMS  
 **Situação:** histórica (alterava o RICMS/1995)
 
@@ -15973,8 +16027,8 @@ data: "1998-11-05"
 ementa: "Altera o inciso VI do art. 581 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fa2c0831-763b-49af-9f84-668294b46745
-atualizado_na_fonte: "2025-07-11 16:02:29"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:05:08"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15984,7 +16038,7 @@ percentual_tachado: 0.0
 
 _Altera o inciso VI do art. 581 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995._
 
-**Data:** 1998-11-05  
+**Data:** 1998-11-05 (data no portal: 1998-10-05 (divergente do PDF))  
 **Remete a:** RICMS  
 **Situação:** histórica (alterava o RICMS/1995)
 
@@ -16045,8 +16099,8 @@ data: "1998-11-05"
 ementa: "Acrescenta o § 8º ao artigo 340 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=995ca091-f698-44b8-98d0-2fdb1556a8c7
-atualizado_na_fonte: "2025-07-11 16:02:41"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 15:02:02"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16056,7 +16110,7 @@ percentual_tachado: 0.0
 
 _Acrescenta o § 8º ao artigo 340 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995._
 
-**Data:** 1998-11-05  
+**Data:** 1998-11-05 (data no portal: 1998-10-05 (divergente do PDF))  
 **Remete a:** RICMS  
 **Situação:** histórica (alterava o RICMS/1995)
 
@@ -16120,8 +16174,8 @@ data: "1998-11-16"
 ementa: "Altera o art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b4f7ecce-8bbe-409d-9f6c-d489b7ea4810
-atualizado_na_fonte: "2025-07-11 16:03:25"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:54:45"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16226,8 +16280,8 @@ data: "1998-11-16"
 ementa: "Dá nova redação ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7028a17a-5297-4c61-823c-5f86913bdbf6
-atualizado_na_fonte: "2025-07-11 16:03:46"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:54:37"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16307,8 +16361,8 @@ data: "1998-11-16"
 ementa: "Acrescenta os §§ 6º, 7º e 8º ao art. 589 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=21d74ea6-1c6f-4704-afab-f35ffe80a454
-atualizado_na_fonte: "2025-07-11 16:09:45"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:54:30"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16391,8 +16445,8 @@ data: "1998-11-16"
 ementa: "Altera o inciso XXVII do art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=996a89b3-2489-4345-b655-17ca0dad9957
-atualizado_na_fonte: "2025-07-11 16:10:17"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:52:04"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16471,8 +16525,8 @@ data: "1998-11-16"
 ementa: "Acrescenta o § 20 ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=be7ada14-86bf-4c4c-8686-18d5c52df1bf
-atualizado_na_fonte: "2025-07-11 16:10:30"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:51:42"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16557,8 +16611,8 @@ data: "1998-12-10"
 ementa: "Dispõe sobre a transferência de saldo credor do ICMS decorrente de operações de comercialização e prestação de serviços de transporte pellets, minério de ferro e seus concentrados."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=02f716e6-1e8b-4dab-a460-227e7d5b35af
-atualizado_na_fonte: "2025-07-11 16:10:43"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:50:46"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16747,8 +16801,8 @@ data: "1998-12-10"
 ementa: "Altera os incisos XVI e XII, respectivamente, dos arts. 37 e 51 do RICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2bf9af65-fd79-433b-8c7e-e4c9f7c9101d
-atualizado_na_fonte: "2025-07-11 16:11:19"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:50:26"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16849,8 +16903,8 @@ data: "1998-12-21"
 ementa: "Altera e revoga dispositivos do RICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=917337a1-f844-4fee-847b-ae634f433bdf
-atualizado_na_fonte: "2025-07-11 16:11:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:50:16"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16954,8 +17008,8 @@ data: "1998-12-30"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=28c60fc6-2813-40c0-9bd5-3f0d8d3a2618
-atualizado_na_fonte: "2025-07-11 16:12:10"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-16 14:49:23"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17088,8 +17142,8 @@ data: "1999-02-18"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7af7ea9c-0280-48b5-ab35-26df63cbe7ab
-atualizado_na_fonte: "2025-07-11 16:34:13"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 14:57:24"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17226,8 +17280,8 @@ data: "1999-02-18"
 ementa: "Dá nova redação aos incisos XXIX e XXXIII do art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=36d180a5-5ecf-46fa-8488-41c008331905
-atualizado_na_fonte: "2025-07-11 16:34:01"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 14:57:33"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17284,8 +17338,8 @@ data: "1999-02-18"
 ementa: "Dá nova redação aos arts. 606 e 607 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7dd9c28a-04d4-4628-a45a-75adecbdd0e2
-atualizado_na_fonte: "2025-07-11 16:33:49"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 14:57:47"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17413,8 +17467,8 @@ data: "1999-02-18"
 ementa: "Dá nova redação ao inciso XLVIII do art. 9o do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f02321a0-5c6b-44fc-8307-b5adcc49211c
-atualizado_na_fonte: "2025-07-11 16:33:38"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 14:57:56"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17484,8 +17538,8 @@ data: "1999-02-18"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0d0a8d2e-287e-43f0-9c68-09ccdb24846d
-atualizado_na_fonte: "2025-07-11 16:33:25"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 14:58:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17568,8 +17622,8 @@ data: "1999-02-18"
 ementa: "Dá nova redação ao § 7o do art. 589 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=151726e1-cb4c-43bc-a1a8-cfc378d9b91a
-atualizado_na_fonte: "2025-07-11 16:33:12"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 14:58:12"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17617,8 +17671,8 @@ data: "1999-02-18"
 ementa: "Dá nova redação ao caput do art. 764 do Regulamento do ICMS aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ba2013b0-11f3-4948-804c-d4413b620300
-atualizado_na_fonte: "2025-07-11 16:32:59"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 14:58:25"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17666,8 +17720,8 @@ data: "1999-02-26"
 ementa: "Dá nova redação aos incisos I e IV do art. 91 e ao art. 96 do Regulamento do ICMS aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8c904c19-1865-4fb0-ad39-7b4434886b92
-atualizado_na_fonte: "2025-07-11 16:32:36"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 14:59:00"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17728,8 +17782,8 @@ data: "1999-03-12"
 ementa: "Acrescenta a Seção VI ao Capítulo III do Título II do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6c83af01-a565-4011-8915-429dc6e61ac9
-atualizado_na_fonte: "2025-07-11 16:32:01"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:00:40"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17838,8 +17892,8 @@ data: "1999-03-12"
 ementa: "Dá nova redação ao Capítulo XV do Título VI do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d8ecf2f7-f64a-475d-a4d3-399f91d0d7a0
-atualizado_na_fonte: "2025-07-11 16:31:47"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:00:49"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -18299,8 +18353,8 @@ data: "1999-03-23"
 ementa: "Altera e acrescenta dispositivos ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bbd79236-25ac-4148-a84d-3c0dcc802744
-atualizado_na_fonte: "2025-07-11 16:31:35"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:01:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -18518,8 +18572,8 @@ data: "1999-03-31"
 ementa: "Restabelece os arts. 852 a 865 do RICMS, aprovado pelo Decreto nº 14.744/1995 - Regime de ST para estabelecimentos atacadistas de produtos farmacêuticos."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=562009c0-ed45-48ce-970b-33b99b107f34
-atualizado_na_fonte: "2026-08-12 14:33:56"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:01:20"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -18740,8 +18794,8 @@ data: "1999-03-31"
 ementa: "Acrescenta o inciso XXXIV e o § 13 ao art. 10 do RICMS, aprovado pelo Decreto nº 14.744/1995 - isenção do ICMS com equipamentos e insumos de serviços de saúde."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=06e9c9d2-8ce1-4ec5-b193-9821bbf2aee5
-atualizado_na_fonte: "2026-08-12 14:35:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:01:28"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -19368,8 +19422,8 @@ data: "1999-03-31"
 ementa: "Restabelece os arts. 546 a 559 e 564 do RICMS, aprovado pelo Decreto nº 14.744/1995 - operações com gado bovino, bubalino e produtos de sua matança."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f7913cda-2790-4235-8ab2-96609165bda4
-atualizado_na_fonte: "2026-08-12 14:36:02"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:01:46"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -19553,8 +19607,8 @@ data: "1999-05-18"
 ementa: "Dá nova redação aos arts. 256, 260, 263 e 278 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c29440fd-5b8b-425c-bcc3-9e321966fca2
-atualizado_na_fonte: "2025-07-11 16:27:32"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:03:58"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -19633,8 +19687,8 @@ data: "1999-05-18"
 ementa: "Dá nova redação ao art. 634 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências"
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1bff29d1-2823-4e25-b5b3-81445a94ed80
-atualizado_na_fonte: "2025-07-11 16:27:20"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:04:10"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -19889,8 +19943,8 @@ data: "1999-05-18"
 ementa: "Acrescenta dispositivos ao Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=85a6a6b4-072e-4baa-9078-d217ba47b805
-atualizado_na_fonte: "2025-07-11 16:27:07"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:04:18"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -20242,8 +20296,8 @@ data: "1999-05-18"
 ementa: "Dá nova redação ao inciso I do art. 591, ao 'caput' do art. 595 e aos incisos II e III do art. 597 do RICMS, aprovado pelo Decreto nº 14.744/1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d8e0f4b5-b22c-47e5-9fc2-1a5f4a4aec99
-atualizado_na_fonte: "2026-08-12 14:36:21"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:04:28"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -20329,8 +20383,8 @@ data: "1999-05-18"
 ementa: "Dá nova redação aos arts. 444, 446 e 461 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=47ee5554-61a2-4d6d-92fd-74ab25386130
-atualizado_na_fonte: "2025-07-11 16:26:40"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:04:36"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -20504,8 +20558,8 @@ data: "1999-05-18"
 ementa: "Acrescenta o inciso XVI ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744 de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a77b2cf-0184-4de5-bb9d-f6bb7fd634d7
-atualizado_na_fonte: "2025-07-11 16:26:25"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:04:43"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -20578,8 +20632,8 @@ data: "1999-05-18"
 ementa: "Da nova redação ao § 1º do art. 861 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=63e09c53-48f8-40dd-8c92-d78425909ed4
-atualizado_na_fonte: "2025-07-11 16:26:12"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:04:51"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -20655,8 +20709,8 @@ data: "1999-05-27"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6afb48f0-3802-43b3-9b18-d13723ef27d1
-atualizado_na_fonte: "2025-07-11 16:25:57"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:05:12"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -20712,8 +20766,8 @@ data: "1999-05-27"
 ementa: "Prorroga prazos referentes à concessão de benefícios fiscais e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3328cd1e-1107-40d9-b758-177487847abe
-atualizado_na_fonte: "2025-07-11 16:25:26"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:05:21"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -21199,8 +21253,8 @@ data: "1999-06-25"
 ementa: "Acrescenta o parágrafo único ao art. 97 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c70dd900-da9e-43ae-b36b-6d60fa28222a
-atualizado_na_fonte: "2025-07-11 16:23:30"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:05:55"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -21255,8 +21309,8 @@ data: "1999-06-25"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c762010e-4f8d-41fa-a749-b86bb72149d0
-atualizado_na_fonte: "2025-07-11 16:23:16"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 15:12:50"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -21331,8 +21385,8 @@ data: "1999-06-25"
 ementa: "Acrescenta o § 5.º ao art. 2.º do Processo Administrativo Tributário, aprovado pelo Decreto n.º 14.689, de 09 de agosto de 1.995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=77fedbd3-3adc-424e-b373-edadac463f02
-atualizado_na_fonte: "2025-07-11 16:23:05"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:28:55"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -21396,8 +21450,8 @@ data: "1999-06-25"
 ementa: "Acrescenta o inciso XVII ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d75f3688-27c3-4bbf-8c34-0d5269090367
-atualizado_na_fonte: "2025-07-11 16:22:52"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:29:03"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -21454,8 +21508,8 @@ data: "1999-07-09"
 ementa: "Restabelece os arts. 794 a 803 do RICMS, aprovado pelo Decreto nº 14.744/1995 - operações com combustíveis e lubrificantes, derivados ou não de petróleo."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=992fa8f8-2cd4-4f2a-a6e4-1353bea37e58
-atualizado_na_fonte: "2026-08-12 14:36:48"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:31:19"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -22081,8 +22135,8 @@ data: "1999-07-21"
 ementa: "Autoriza a redução da base de cálculo do ICMS nas operações com gado e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=65c77103-1acf-4f00-8bda-5e3f9977bc40
-atualizado_na_fonte: "2025-07-11 16:22:24"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:31:40"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -22207,8 +22261,8 @@ data: "1999-08-26"
 ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=233425f2-297d-4abe-8fd5-ad70ae6c1644
-atualizado_na_fonte: "2025-07-11 16:22:11"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:31:53"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -22325,8 +22379,8 @@ data: "1999-09-16"
 ementa: "Dá nova redação ao capítulo XVIII do Título VI, do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6e1d9b50-5713-49e0-8c60-2dcb841110e8
-atualizado_na_fonte: "2025-07-11 16:21:45"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:32:37"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -22452,8 +22506,8 @@ data: "1999-10-18"
 ementa: "Da nova redação aos dispositivos que indica, do Decreto nº 16.501/1998, que dispõe sobre a transferência de saldo credor."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3b1b5842-feb4-4ac4-ad71-022f21a44896
-atualizado_na_fonte: "2026-08-12 14:37:09"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:33:08"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -22668,8 +22722,8 @@ data: "1999-10-18"
 ementa: "Altera e acrescenta dispositivos ao Capítulo XII do Título VII do RICMS, aprovado pelo Decreto nº 14.744/1995, que trata das operações com combustíveis e Lubrificantes."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b6e676a4-f01e-4779-9625-acdc663c8e03
-atualizado_na_fonte: "2026-08-12 14:37:28"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:33:17"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -22843,8 +22897,8 @@ data: "1999-10-18"
 ementa: "Altera e acrescenta dispositivos ao RICMS, aprovado pelo Decreto nº 14.744/1995, que dispõe sobre a concessão de Regimes Especiais, nos casos que especifica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3810c08c-253e-4f7d-b9fc-c7ec29d375e0
-atualizado_na_fonte: "2026-08-12 14:37:48"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:33:58"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -22947,8 +23001,8 @@ data: "1999-10-29"
 ementa: "Acrescenta o inciso LXXVIII ao art. 9º do RICMS, aprovado pelo Decreto nº 14.744/1995, que concede isenção do ICMS nas saídas de frutas frescas nacionais."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9a513c78-cad1-4e1c-869e-dfd895d37335
-atualizado_na_fonte: "2026-08-12 14:38:33"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:38:26"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -23029,70 +23083,6 @@ Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo e
 
 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 29 DE OUTUBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-17026-1999-18241.md>>>
----
-documento: "DECRETO Nº 17.026 DE 09 DE NOVEMBRO DE 1999"
-tipo: decreto
-numero: 17026
-data: "1999-11-09"
-ementa: "Acrescenta os arts. 98.A e 98.B. ao RICMS, aprovado pelo Decreto nº 14.744/1995, que dispõe sobre parcelamento, mediante a concessão de regime especial."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=aff0a239-676e-4fea-9aae-6b5015954b58
-atualizado_na_fonte: "2026-08-12 14:38:51"
-extraido_em: "2026-11-09"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 17.026 DE 09 DE NOVEMBRO DE 1999
-
-_Acrescenta os arts. 98.A e 98.B. ao RICMS, aprovado pelo Decreto nº 14.744/1995, que dispõe sobre parcelamento, mediante a concessão de regime especial._
-
-**Data:** 1999-11-09  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-
-DECRETO Nº 17.026 DE 09 DE NOVEMBRO DE 1999
-
-
-Acrescenta os arts. 98.A e 98.B. ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que dispõe sobre parcelamento, mediante a concessão de regime especial.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Ficam acrescentados os arts. 98.A e 98.B ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a redação a seguir:
-
-"Art. 98.A – Fica o Gerente de Estado da Receita Estadual autorizado a conceder parcelamento de crédito tributário constituído ou não, inscrito ou não em dívida ativa, inclusive os decorrentes de falta de recolhimento do imposto retido de contribuinte substituído.
-
-Parágrafo único – O benefício será concedido mediante regime especial de parcelamento, formalizado pela Subgerência de Processos Fiscais.
-
-Art. 98.B – As normas para concessão do benefício serão de acordo com o que dispuser o regime especial concedido, especialmente em relação à:
-
-I - determinação do número de parcelas;
-
-II - fixação do percentual da receita bruta a ser utilizado para determinação das parcelas mensais, que poderá ser diferenciado em função da atividade econômica desenvolvida pelo contribuinte;
-
-III - forma de homologação e de exclusão do contribuinte da dívida ativa;
-
-IV - forma do acompanhamento fiscal específico."
-
-Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de novembro de 1.999.
-
-<!-- p. 2 -->
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE NOVEMBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
 <<<DOC normas/decreto/decreto-17040-1999-18240.md>>>
 ---
 documento: "DECRETO Nº 17.040 DE 18 DE NOVEMBRO DE 1999"
@@ -23102,8 +23092,8 @@ data: "1999-11-18"
 ementa: "Acrescenta dispositivos ao RICMS, aprovado pelo Decreto 14.744/1995, que concede diferimento e redução de base de cálculo aos produtos que indica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7b56add0-e278-4d03-8190-e7160f221df3
-atualizado_na_fonte: "2026-08-12 14:40:04"
-extraido_em: "2026-11-09"
+atualizado_na_fonte: "2026-10-15 16:43:41"
+extraido_em: "2026-11-14"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0

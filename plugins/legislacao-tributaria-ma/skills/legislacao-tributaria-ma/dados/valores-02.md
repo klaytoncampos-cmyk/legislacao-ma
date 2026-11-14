@@ -3,9 +3,9 @@
 documento: "Tabela de Valores de Referência: bebidas: cervejas e chopes"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
-portarias: 251
-registros: 24536
+gerado_em: "2026-11-14"
+portarias: 250
+registros: 24526
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: cervejas e chopes
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (1714)
@@ -1815,7 +1815,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
 |---|---|---|---|---|
 | 1500 | 02.03.09.048 (retornável 600 ml) | 4,42 | 2016-10-31 | substituído pelo código 39008 (Outras Marcas (retornável 600 ml)) a partir de 2017-05-05; valeu até 2017-05-04 |
-| — | 02.03.1.046 Cerveja 1906 Resev Especial – 330 ml | 30,00 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | 02.03.1.046 Cerveja 1906 Resev Especial – 330 ml | 30,00 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | 02.03.11007 Glacial (retornável 600 ml) | 1,95 | 2010-10-01 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 1500 | 02.03.12.024 (descartável 600 ml) | 4,19 | 2016-05-03 | substituído pelo código 49946 (Chopp Outras Marcas (descartável 500 a 600 ml)) a partir de 2017-05-05; valeu até 2017-05-04 |
 | 1500 | 02.03.16.073 (lata 350 ml) | 2,01 | 2016-10-31 | substituído pelo código 14006 (Outras Marcas (lata 350 ml)) a partir de 2017-05-05; valeu até 2017-05-04 |
@@ -1869,7 +1869,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50831 | Cerveja Baden Baden Dark Ale Stout – Descartavel 600 ml | 17,42 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Baden Baden Golden (descartável 600 ml) | 15,57 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50833 | Cerveja Baden Baden Lager Bock - Descartavel 600 ml | 17,42 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Baden Baden outras (descartável 600 ml) | 12,92 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Baden Baden outras (descartável 600 ml) | 12,92 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50192 | Baden Baden Peach (descartável 600 ml) | 15,55 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48427 | Baden Baden Red Ale (descartável 600 ml) | 21,42 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49605 | Baden Baden Weiss (descartável 600 ml) | 25,42 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1893,9 +1893,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 38013 | Bavaria sem álcool (lata 350 ml) | 2,78 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50489 | Becks - 275ml | 4,74 | 2019-11-12 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38026 | Belco (retornável 600 ml) | 3,30 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Belco Claro e Escuro (descartável 1 L) | 3,32 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Belco Claro e Escuro (descartável 1 L) | 3,32 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49775 | Chopp Belco Claro e Escuro (retornável 1,5 L) | 7,98 | 2019-05-09 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Belco escura ãe preta (lata 350 ml) | 1,65 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Belco escura ãe preta (lata 350 ml) | 1,65 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38016 | Cerveja Belco Pilsen Lata 350 ml | 2,14 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48538 | Black Princess Escura (long neck 355 ml) | 7,50 | 2022-09-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48541 | Black Princess Gold Puro Malte (long neck 355 ml) | 4,88 | 2022-09-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1905,7 +1905,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Bohemia (lata 350 ml) | 2,69 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bohemia (long neck 200 a 355 ml) | 3,00 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Bohemia (long neck 275 a 350 ml) | 1,81 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Bohemia (long neck 275 a 355 ml) | 2,10 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Bohemia (long neck 275 a 355 ml) | 2,10 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48200 | Bohemia (retornável 550 ml) | 11,33 | 2024-08-30 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48200 | Bohemia - 550 ml | 8,44 | 2019-11-12 | mesmo código, descrição/seção renomeada para "Bohemia – 550 ml" a partir de 2021-09-22 |
 | 47853 | Bohemia Aura /838 Pale/14 Weiss-300 (long neck 200 a 375 ml) | 7,65 | 2019-11-12 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1946,7 +1946,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 38051 | Brahma fresh (lata 350 ml) | 2,52 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Brahma fresh (lata 473 ml) | 2,82 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Brahma fresh (long neck 200 a 355 ml) | 2,54 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Brahma fresh (long neck 275 a 355 ml) | 1,74 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Brahma fresh (long neck 275 a 355 ml) | 1,74 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49773 | Brahma fresh (retornável 1 L) | 6,06 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49715 | Brahma fresh (retornável 600 ml) | 5,20 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 9035 | Brahma fresh – 473 ml | 3,21 | 2017-05-05 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1994,7 +1994,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48705 | Cerpa Export (lata 269 ml) | 3,65 | 2023-04-01 | substituído pelo código 2138 (Cerpa Export (lata 269 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
 | 49721 | Cerveja Cerpa Export – Long Neck 355 ml | 4,73 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerpa Export (retornável 350 ml) | 1,47 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerpa Export - Vidro - ret (lata 350 ml) | 2,15 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerpa Export - Vidro - ret (lata 350 ml) | 2,15 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 9040 | Cerpa Export – retornável (lata 350 ml) | 3,23 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50628 | Cerpa Extra (lata 220 a 310 ml) | 1,73 | 2019-11-12 | o mesmo código e produto aparece depois como "Cerpa Extra (lata 250 a 330 ml)" (Portaria nº 383/2021, 2021-09-22) |
 | 50628 | Cerpa Extra (lata 250 a 330 ml) | 1,79 | 2021-09-22 | o mesmo código e produto aparece depois como "Cerpa Extra (lata 269 ml)" (Portaria nº 402/2026, 2026-11-01) |
@@ -2003,14 +2003,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 38014 | Cerpa Prime – 310 ml | 3,74 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48704 | Cerpa Primer (lata 269 ml) | 3,86 | 2023-04-01 | substituído pelo código 52040 (Cerpa Primer (lata 269 ml)) a partir de 2023-11-01; valeu até 2023-10-31 |
 | 9038 | Cerpa Primer OW (long neck 350 ml) | 5,36 | 2023-04-01 | substituído pelo código 52033 (Cerpa Primer OW (long neck 350 ml)) a partir de 2023-11-01; valeu até 2023-10-31 |
-| — | Cerpa tijuca - Vidro - ret (lata 350 ml) | 2,07 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerpa tijuca - Vidro - ret (lata 350 ml) | 2,07 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49720 | Cerveja Cerpa Tijuca - Long Neck 355 ml | 5,36 | 2018-11-09 | substituído pelo código 9037 (Cerpa Tijuca – 350 ml) a partir de 2019-05-09; valeu até 2019-05-08 |
 | 9041 | Cerpa Tijuca – retornável (lata 350 ml) | 3,11 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja 1906 Red Vintage Reserva Especial - LN 330 ml | 2,69 | 2014-02-27 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja 1906 Red Vintage Reserva Especial - Long Neck 330 ml | 4,60 | 2016-08-01 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja 1906 Reserva Especial - Kit com seis garrafas (LN) 330 ml | 51,60 | 2016-08-01 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja 1906 Reserva Especial – Kit com 6 garrafas 330 ml | 30,00 | 2013-08-21 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja 1906 Resev Especial – 330ml | 2,59 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja 1906 Reserva Especial – Kit com 6 garrafas 330 ml | 30,00 | 2013-08-21 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja 1906 Resev Especial – 330ml | 2,59 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja A Certa Pilsen - Lata 473 ml | 2,00 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja A Certa Pilsen - Retornável 600 ml | 3,06 | 2019-01-15 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Al Capone Ipa Chopp - Descartavel 30.000 ml | 496,00 | 2018-03-06 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2256,13 +2256,13 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Estela Galícia – Garrafa Descartável 600 ml | 6,30 | 2016-08-01 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Estela Galícia – Long Neck 330 ml | 3,90 | 2016-08-01 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Estella Artois - Lata 310 ml | 3,01 | 2021-11-08 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Estella Galicia – 330 ml | 25,00 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Estella Galícia- 200ml | 1,79 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Estrella Galícia - Kit com 6 garrafas 330 ml | 25,00 | 2013-08-21 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Estella Galicia – 330 ml | 25,00 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Estella Galícia- 200ml | 1,79 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Estrella Galícia - Kit com 6 garrafas 330 ml | 25,00 | 2013-08-21 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Estrella Galícia 0,0 Álcool Black – Vidro Descartavel 250 ml | 4,40 | 2021-01-21 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Estrella Galícia 0,0 sem álcool - LN 250 ml | 1,69 | 2014-02-27 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Estrella Galícia Menor Teor de Gluten 330 ml | 5,54 | 2021-04-30 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Estrella Galícia – Long Neck 200 ml | 1,79 | 2013-08-21 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Estrella Galícia – Long Neck 200 ml | 1,79 | 2013-08-21 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Export – Long Neck 350 ml | 4,00 | 2020-12-22 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Flying Fish – Vidro descartável 330 ml | 5,69 | 2025-11-24 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Forevis Session Ipa - Descartavel 355 ml | 7,14 | 2019-01-15 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2498,8 +2498,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Premium Lager 500 ml | 10,00 | 2024-10-16 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Premium Pilsen - Descartável 600 ml | 5,99 | 2014-03-07 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Preta Pilsen - Retornável 600 ml | 3,21 | 2014-03-07 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Proibida - Lata 269 ml | 0,88 | 2013-08-21 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Proibida - lata 473 ml | 1,70 | 2013-08-21 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Proibida - Lata 269 ml | 0,88 | 2013-08-21 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Proibida - lata 473 ml | 1,70 | 2013-08-21 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Pilsen - Descartável 335 ml | 2,19 | 2016-07-25 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Pilsen – Vidro Descartável 355 ml | 2,19 | 2016-11-04 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Pilsen – Vidro Descartável 600 ml | 3,39 | 2016-11-04 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2513,8 +2513,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Proibida Puro Malte – Vidro Retornável 600 ml | 5,69 | 2016-11-04 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Puro Malte-Descartável 300 ml | 3,09 | 2016-07-25 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Proibida Puro Malte-Descartável 330 ml | 3,29 | 2016-07-25 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Proibida – 300 ml - retornavel | 0,90 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Proibida – Vidro Retornável 300 ml | 0,87 | 2013-08-21 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Proibida – 300 ml - retornavel | 0,90 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Proibida – Vidro Retornável 300 ml | 0,87 | 2013-08-21 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Província Amber Lager 355 ml | 2,63 | 2018-01-29 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Província Amber Lager – Vidro Descartável 600 ml | 5,90 | 2024-07-30 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Província Dunkel 600 ml | 8,99 | 2018-01-29 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2566,15 +2566,15 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Cerveja Roleta Russa Session Ipa 500 ml | 8,15 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Roleta Russa Triple Ipa 500 ml | 12,61 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Roleta Russa Triple New England Ipa 500 ml | 14,62 | 2021-09-16 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Garrafa - Descartável 1000 ml | 3,96 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Garrafa - Descartável 355 ml | 1,59 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Garrafa - Retornável 1000 ml | 3,51 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Garrafa - Retornável 600 ml | 3,06 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Lata 269 ml | 1,00 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Lata 350 ml | 1,56 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin - Lata 473 ml | 1,89 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin Malzbier - Garrafa - Descartável 355 ml | 2,46 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cerveja Schin Zero Álcool - Garrafa - Descartável 355 ml | 2,20 | 2013-12-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Garrafa - Descartável 1000 ml | 3,96 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Garrafa - Descartável 355 ml | 1,59 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Garrafa - Retornável 1000 ml | 3,51 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Garrafa - Retornável 600 ml | 3,06 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Lata 269 ml | 1,00 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Lata 350 ml | 1,56 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin - Lata 473 ml | 1,89 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin Malzbier - Garrafa - Descartável 355 ml | 2,46 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cerveja Schin Zero Álcool - Garrafa - Descartável 355 ml | 2,20 | 2013-12-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Scholer's Bier German Pilsner – Pet Descartavel 1.000 ml | 14,50 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Scholer's Bier German Pilsner – Vidro Descartavel 600 ml | 11,90 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerveja Scholer's Bier IPA – Pet Descartavel 1.000 ml | 18,50 | 2021-12-01 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2690,17 +2690,17 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50119 | Chopp Belco Claro e Escuro (barril 30 L) | 147,35 | 2019-05-09 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50127 | Chopp Belco Claro e Escuro (barril 50 L) | 245,60 | 2019-05-09 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Claro e Escuro (descartável 1 L) | 4,08 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Chopp Belco Claro e Escuro (descartável 350 ml) | 1,19 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Chopp Belco Claro e Escuro (descartável 350 ml) | 1,19 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Claro e Escuro (descartável 500 ml) | 2,13 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Claro e Escuro (descartável 600 ml) | 2,43 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Claro e Escuro – 350 ml | 1,54 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45667 | Chopp Belco Claro e Escuro – 500 ml | 2,36 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45668 | Chopp Belco Claro e Escuro – 600 ml | 2,84 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Chopp Belco Mista (473 ml) | 1,60 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Chopp Belco Mista (473 ml) | 1,60 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49735 | Chopp Belco Mista (lata 473 ml) | 2,35 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Mista - Lata 350 ml | 1,15 | 2011-12-02 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Mista 350 ml | 1,83 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Chopp Belco Sabores (473 ml) | 1,60 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Chopp Belco Sabores (473 ml) | 1,60 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Sabores (descartável 250 ml) | 1,16 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Chopp Belco Sabores (descartável 330 ml) | 0,91 | 2010-10-01 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45118 | Chopp Belco Sabores (lata 473 ml) | 2,35 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2846,7 +2846,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50825 | Chopp Kaiser (1 L) | 16,07 | 2026-05-01 | substituído pelo código 53433 (Chopp Kaiser (1 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
 | — | Chopp Kaiser Claro – 350 ml | 1,56 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49762 | Chopp Kalena Mista (1 L) | 4,90 | 2019-05-09 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Chopp Kalena Mista (473 ml) | 1,60 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Chopp Kalena Mista (473 ml) | 1,60 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50112 | Chopp Kalena Mista (barril 20 L) | 98,01 | 2019-05-09 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50120 | Chopp Kalena Mista (barril 30 L) | 147,02 | 2019-05-09 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50128 | Chopp Kalena Mista (barril 50 L) | 245,03 | 2019-05-09 | não consta das relações completas das Portarias nº 383/2021 (2021-09-22) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3029,7 +3029,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Crystal Malzbier (lata 350 ml) | 1,96 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Crystal Malzbier (long neck 200 a 355 ml) | 2,90 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Crystal Malzbier (retornável 600 ml) | 4,14 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Crystal Pilen (retornável 1 L) | 3,22 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Crystal Pilen (retornável 1 L) | 3,22 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Crystal Pilsen | 1,09 | 2016-05-03 | substituído pelo código 48919 (Crystal Pilsen) a partir de 2018-05-02; valeu até 2018-05-01 |
 | 48899 | Crystal Pilsen (250 ml) | 2,07 | 2024-08-30 | o mesmo código e produto aparece depois como "Crystal Pilsen (descartável 250 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 48868 | Cerveja Crystal Pilsen - Descartável 1000 ml | 4,45 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3043,14 +3043,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Curuja Otus (descartável 500 ml) | 12,97 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Curuja Otus Hop (descartável 500 ml) | 14,09 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Curuja Strix (descartável 500 ml) | 10,42 | 2016-10-31 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | D'Ávila Pilsen (long neck 275 a 355 ml) | 1,50 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | D'Ávila Pilsen (long neck 275 a 355 ml) | 1,50 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Davila Pilsen (retornável 600 ml) | 3,08 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49989 | Desperados – 250 ml | 2,01 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48727 | Desperados – 330 ml | 5,57 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Devassa Bem Loura (lata 350 ml) | 2,06 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Devassa Bem Loura (retornável 600 ml) | 4,18 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Devassa Loura (lata 350 ml) | 1,62 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Devassa Loura 300 ml | 2,07 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Devassa Loura 300 ml | 2,07 | 2015-03-23 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48216 | Devassa Negra (long neck 355 ml) | 6,98 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48217 | Devassa Ruiva (long neck 355 ml) | 6,98 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50222 | Ditriguis Witbier (long neck 355 ml) | 7,82 | 2022-09-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3124,14 +3124,14 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48910 | Itaipava Pilsen (250 ml) | 3,25 | 2024-08-30 | o mesmo código e produto aparece depois como "Itaipava Pilsen (descartável 250 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 48910 | Itaipava Pilsen (long neck 250 ml) | 2,28 | 2019-11-12 | o mesmo código e produto aparece depois como "Itaipava Pilsen (250 ml)" (Portaria nº 336/2024, 2024-08-30) |
 | 48922 | Itaipava Pilsen (long neck 355 ml) | 3,19 | 2022-09-01 | o mesmo código e produto aparece depois como "Skol Pilsen (lata 710 ml)" (Portaria nº 170/2026, 2026-05-01) |
-| — | Itaipava Pilsen – 310 ml | 2,33 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Itaipava Pilsen – 310 ml | 2,33 | 2015-03-23 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Itaipava Premium | 1,80 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48711 | Itaipava Premium (barril 5 L) | 82,17 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48543 | Cerveja Itaipava Premium - Descartavel 600 ml | 7,08 | 2022-09-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48693 | Itaipava Premium (lata 269 ml) | 2,54 | 2022-09-01 | substituído pelo código 53688 (Itaipava Premium (lata 269 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
 | 48920 | Cerveja Itaipava Premium – Long Neck 355 ml | 4,17 | 2022-09-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48841 | Itaipava Premium (retornável 600 ml) | 6,85 | 2022-09-01 | substituído pelo código  (Cerveja Itaipava Premium - Retornável 600 ml) a partir de 2024-05-27; valeu até 2024-05-26 |
-| — | Itaipava Primium | 1,65 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Itaipava Primium | 1,49 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48539 | Itaipava Zero Alcool (long neck 355 ml) | 3,53 | 2022-09-01 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38011 | kaiser (250 ml) | 2,41 | 2024-08-30 | o mesmo código e produto aparece depois como "kaiser (descartável 250 ml)" (Portaria nº 370/2025, 2025-11-01) |
 | 38011 | kaiser (descartável 250 ml) | 2,33 | 2025-11-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3152,7 +3152,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 39003 | Kaiser Summer (lata 350 ml) | 2,68 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kaiser Summer Draft (long neck 200 a 355 ml) | 2,90 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kaiser Summer Draft (long neck 275 a 350 ml) | 1,65 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Kaiser Summer Draft (long neck 275 a 355 ml) | 1,99 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Kaiser Summer Draft (long neck 275 a 355 ml) | 1,99 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49767 | Chopp Kalena Mista (descartável 1 L) | 4,58 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48512 | Kirin Ichiban (lata 350 ml) | 4,14 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45640 | Cerveja Kirin Ichiban - Long Neck 355 ml | 4,69 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3206,7 +3206,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Kronembier (lata 350 ml) | 2,85 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kronembier (long neck 200 a 355 ml) | 3,36 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kronembier (long neck 275 a 350 ml) | 1,81 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Kronembier (long neck 275 a 355 ml) | 2,30 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Kronembier (long neck 275 a 355 ml) | 2,30 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53435 | Krug Cacau Stout (descartável 500 ml) | 18,00 | 2023-11-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 51699 | La Trappe Blond – 1 grf + 1 taça (descartável 750 ml) | 67,67 | 2022-09-01 | o mesmo código e produto aparece depois como "La Trappe Blond - 1 grf + 1 taça (kit 750 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 51702 | La Trappe Dubbel – 1 grf + 1 taça (descartável 750 ml) | 67,67 | 2022-09-01 | o mesmo código e produto aparece depois como "La Trappe Dubbel - 1 grf + 1 taça (kit 750 ml)" (Portaria nº 402/2026, 2026-11-01) |
@@ -3219,7 +3219,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Liber (lata 350 ml) | 2,67 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Liber (long neck 200 a 355 ml) | 2,89 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Liber (long neck 275 a 350 ml) | 1,87 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Liber (long neck 275 a 355 ml) | 2,25 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Liber (long neck 275 a 355 ml) | 2,25 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49720 | Magnífica Pilsen (retornável 1 L) | 4,39 | 2019-05-09 | substituído pelo código 50497 (Magnífica Pilsen (retornável 1 L)) a partir de 2019-11-12; valeu até 2019-11-11 |
 | 48727 | Magnífica Pilsen (retornável 600 ml) | 3,33 | 2019-11-12 | substituído pelo código 50496 (Magnífica Pilsen (retornável 550 a 600 ml)) a partir de 2021-09-22; valeu até 2021-09-21 |
 | — | Malta Golden (descartável 600 ml) | 2,66 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3246,38 +3246,38 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 49741 | Mista de Chopp Kalena Mista – 250 ml | 1,42 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49960 | Mista de Chopp Outras Marcas | 2,44 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nobel (lata 350 ml) | 2,22 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nobel (long neck 200 a 355 ml) | 2,34 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nobel (long neck 200 a 355 ml) | 1,98 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nobel (long neck 275 a 350 ml) | 1,47 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nobel (long neck 275 a 355 ml) | 1,78 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nobel (retornável 600 ml) | 3,75 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nobel (long neck 275 a 355 ml) | 1,78 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nobel (retornável 600 ml) | 3,31 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 51119 | Cerveja Nobre Belco Pilsen - Lata 350 ml | 1,43 | 2019-11-12 | substituído pelo código 50119 (Nobre belco Pilsen (lata 350 ml)) a partir de 2021-09-22; valeu até 2021-09-21 |
 | 51111 | Cerveja Nobre Belco Pilsen – Retornável 600 ml | 2,91 | 2019-11-12 | substituído pelo código 50111 (Nobre belco Pilsen (retornável 550 a 600 ml)) a partir de 2021-09-22; valeu até 2021-09-21 |
 | — | Nova Schin Malzbier (long neck 200 a 355 ml) | 3,10 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin Malzbier (long neck 275 a 355 ml) | 2,37 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin NS2 (long neck 200 a 355 ml) | 2,28 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin Malzbier (long neck 275 a 355 ml) | 2,37 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin NS2 (long neck 200 a 355 ml) | 2,28 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin NS2 (long neck 275 a 350 ml) | 1,81 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin NS2 (long neck 275 a 355 ml) | 2,19 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin NS2 (long neck 275 a 355 ml) | 2,19 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen | 1,39 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen (descartável 1 L) | 4,84 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin Pilsen (lata 269 ml) | 1,00 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin Pilsen (lata 269 ml) | 1,00 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen (lata 350 ml) | 1,51 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen (lata 473 ml) | 2,20 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin Pilsen (long neck 200 a 355 ml) | 1,65 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin Pilsen (long neck 200 a 355 ml) | 1,65 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen (long neck 275 a 350 ml) | 1,41 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin Pilsen (long neck 275 a 355 ml) | 1,53 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin Pilsen (long neck 275 a 355 ml) | 1,53 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen (retornável 1 L) | 4,68 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen (retornável 600 ml) | 3,88 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen zero álcool (lata 350 ml) | 2,47 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Pilsen – 473 ml | 2,30 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin Play (retornável 600 ml) | 2,88 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin sem Alcool (lata 350 ml) | 1,95 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin sem Alcool (long neck 200 a 355 ml) | 2,20 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin Play (retornável 600 ml) | 2,88 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin sem Alcool (lata 350 ml) | 1,95 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin sem Alcool (long neck 200 a 355 ml) | 2,20 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin sem Alcool (long neck 275 a 350 ml) | 1,69 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin sem Alcool (long neck 275 a 355 ml) | 2,12 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova Schin zero álcool (lata 350 ml) | 2,03 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin sem Alcool (long neck 275 a 355 ml) | 2,12 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova Schin zero álcool (lata 350 ml) | 2,03 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Zero álcool (long neck 200 a 355 ml) | 3,34 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Nova Schin Zero Álcool (long neck 275 a 350 ml) | 1,69 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Nova schin Zero Alcool (long neck 275 a 355 ml) | 2,12 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Nova schin Zero Alcool (long neck 275 a 355 ml) | 2,12 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Original (retornável 600 ml) | 6,20 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47856 | Original 330ml | 4,49 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50049 | Original Antarctica (retornável 300 ml) | 3,55 | 2019-05-09 | substituído pelo código 48304 (Original Antarctica (retornável 300 ml)) a partir de 2019-11-12; valeu até 2019-11-11 |
@@ -3331,12 +3331,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Primus (lata 350 ml) | 1,80 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Primus (long neck 200 a 355 ml) | 2,50 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Primus (long neck 275 a 350 ml) | 1,48 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Primus (long neck 275 a 355 ml) | 1,79 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Primus (long neck 275 a 355 ml) | 1,79 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Primus (retornável 600 ml) | 2,31 | 2010-10-01 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Primus Pilsen (retornável 600 ml) | 3,14 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Primus Pilsen (retornável 600 ml) | 2,77 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Proibida | 1,12 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Proibida (descartável 600 ml) | 3,35 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Proibida (lata 269 ml) | 0,88 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Proibida (lata 269 ml) | 0,88 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Proibida (lata 350 ml) | 1,73 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Proibida (lata 473 ml) | 1,91 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Proibida (long neck 200 a 355 ml) | 1,90 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3348,7 +3348,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48801 | Proibida Puro Malte Lager - 330 ml | 3,05 | 2019-05-09 | substituído pelo código 50544 (Proibida Puro Malte Lager - 330 ml) a partir de 2019-11-12; valeu até 2019-11-11 |
 | 48637 | Proibida Puro Malte Lager – 350 ml | 2,34 | 2019-05-09 | substituído pelo código 50543 (Proibida Puro Malte Lager – 350 ml) a partir de 2019-11-12; valeu até 2019-11-11 |
 | 48210 | Proibida Puro Malte Leve – 269 ml | 2,02 | 2019-05-09 | substituído pelo código 49167 (Proibida Puro Malte Leve – 269 ml) a partir de 2019-11-12; valeu até 2019-11-11 |
-| — | Proibida – 300 ml – retorn | 1,11 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Proibida – 300 ml – retorn | 0,94 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Proibida – 473 ml | 2,17 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50046 | Província Amber Lager | 2,65 | 2018-05-02 | o mesmo código e produto aparece depois como "Província Amber Lager (long neck 355 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 50043 | Província Ipa (descartável 600 ml) | 9,34 | 2019-05-09 | substituído pelo código 52498 (Província Ipa (descartável 600 ml)) a partir de 2022-09-01; valeu até 2022-08-31 |
@@ -3378,8 +3378,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 49647 | Schin Pilsen (descartável 1 L) | 8,23 | 2025-11-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48311 | Schin Pilsen (long neck 300 ml) | 3,17 | 2025-11-01 | não consta das relações completas das Portarias nº 170/2026 (2026-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38052 | Schin Pilsen (long neck 355 ml) | 3,06 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schin Pilsen – 300 ml - ret | 1,45 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schin Pilsenl (long neck 200 a 355 ml) | 1,65 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schin Pilsen – 300 ml - ret | 1,45 | 2015-03-23 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schin Pilsenl (long neck 200 a 355 ml) | 1,65 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49984 | Cerveja Schin Zero Álcool - Lata 350 ml | 2,74 | 2018-11-09 | substituído pelo código 50362 (Schin zero álcool (lata 350 ml)) a partir de 2019-05-09; valeu até 2019-05-08 |
 | 50362 | Schin zero álcool (lata 350 ml) | 3,45 | 2023-11-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48213 | Schin Zero Alcool (long neck 355 ml) | 4,12 | 2023-11-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3387,7 +3387,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 38050 | Skol Beats | 3,30 | 2018-05-02 | o mesmo código e produto aparece depois como "Skol Beats (lata 220 a 310 ml)" (Portaria nº 286/2019, 2019-05-09) |
 | 38050 | Skol Beats (lata 220 a 310 ml) | 3,44 | 2019-05-09 | o mesmo código e produto aparece depois como "Skol Pilsen Pack (lata 350 ml)" (Portaria nº 614/2019, 2019-11-12) |
 | 38050 | Skol Beats (lata 250 a 310 ml) | 2,93 | 2017-05-05 | mesmo código, descrição/seção renomeada para "Skol Beats (lata 220 a 310 ml)" a partir de 2017-10-23 |
-| — | Skol Beats (lata 269 ml) | 1,95 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Skol Beats (lata 269 ml) | 1,95 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45026 | Skol Beats (long neck 200 a 375 ml) | 4,31 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Skol Beats (long neck 275 a 350 ml) | 1,81 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48658 | Skol Beats Extreme | 3,62 | 2018-05-02 | o mesmo código e produto aparece depois como "Skol Beats Extreme (lata 220 a 310 ml)" (Portaria nº 286/2019, 2019-05-09) |
@@ -3414,22 +3414,22 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Skol Pilsen (long neck 250 ml) | 2,12 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Skol Pilsen (long neck 275 a 350 ml) | 1,60 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Skol Pilsen - 250 ml | 2,50 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Skol Pilsen 300 ml retorn | 1,51 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Skol Pilsen 300 ml retorn | 1,51 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 52427 | Skol Pilsen 310ml – Multipack | 2,48 | 2024-08-30 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48175 | Skol Pilsen 360 (retornável 600 ml) | 5,75 | 2017-10-23 | substituído pelo código 48764 (Skol Pilsen (retornável 600 ml)) a partir de 2018-05-02; valeu até 2018-05-01 |
 | — | Skol Pilsen 360 graus (lata 350 ml) | 2,46 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | 2,79 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Skol Pilsen 360 Graus (long neck 275 a 355 ml) | 2,00 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Skol Pilsen 360 Graus (long neck 275 a 355 ml) | 2,00 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38050 | Skol Pilsen Pack (lata 350 ml) | 2,34 | 2019-11-12 | o mesmo código e produto aparece depois como "Skol Pilsen – Multipack (lata 350 ml)" (Portaria nº 336/2024, 2024-08-30) |
 | 48513 | Skol Pilsen – 300 ml | 2,88 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Skol Pilsen – 300 ml – descartável | 2,18 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Skol Pilsen – 300 ml – descartável | 1,80 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 52632 | Skol Pilsen – 410ml Multipack | 3,04 | 2024-08-30 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48835 | Skol Ultra - 275 ml desc. | 3,34 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Skol Ultra - 375 ml desc. | 2,49 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48784 | Skol Ultra -310 ml | 3,16 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Sol (long neck 200 a 355 ml) | 1,47 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Sol (long neck 200 a 355 ml) | 1,47 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sol (long neck 275 a 350 ml) | 1,43 | 2010-02-23 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Sol (long neck 275 a 355 ml) | 1,41 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Sol (long neck 275 a 355 ml) | 1,41 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sol Pilsen (descartável 250 ml) | 1,16 | 2016-05-03 | não consta das relações completas das Portarias nº 397/2016 (2016-10-31) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 46701 | Sol Pilsen (lata 350 ml) | 2,81 | 2018-11-09 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sol pilsen (lata 473 ml) | 2,62 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -3541,22 +3541,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,68 | -2.9% |  | 02.03.18.040 (lata 350 ml) | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,38 | -17.9% |  | 02.03.18.041 (lata 350 ml) | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +53.6% |  | 02.03.18.042 (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,70 | -19.8% |  | 02.03.18.010 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +30.6% |  | 02.03.18.015 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,09 | +39.2% |  | 02.03.18.016 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 | -25.9% |  | 02.03.18.017 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,43 | +6.1% |  | 02.03.18.018 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | -7.4% |  | 02.03.18.019 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,65 | -26.7% |  | 02.03.18.020 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,65 | +0.0% |  | 02.03.18.022 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | +23.0% |  | 02.03.18.023 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,25 | -38.4% |  | 02.03.18.024 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,43 | +94.4% |  | 02.03.18.025 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,80 | -25.9% |  | 02.03.18.041 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,75 | -2.8% |  | 02.03.18.042 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,44 | -17.7% |  | 02.03.18.043 (lata 350 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,20 | +52.8% |  | 02.03.18.044 (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,89 | -14.1% |  | 02.03.18.010 (lata 350 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,89 | -10.8% |  | 02.03.18.010 (lata 350 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,47 | +30.7% |  | 02.03.18.016 (lata 350 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,44 | +39.3% |  | 02.03.18.017 (lata 350 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,51 | -27.0% |  | 02.03.18.018 (lata 350 ml) | Port. 176/2015 |
@@ -3569,7 +3554,22 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,58 | +80.4% |  | 02.03.18.026 (lata 350 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,92 | -25.6% |  | 02.03.18.044 (lata 350 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,95 | +1.6% |  | 02.03.18.045 (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,97 | +1.0% |  | 02.03.18.010 (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,70 | -12.8% |  | 02.03.18.010 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | +30.6% |  | 02.03.18.015 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,09 | +39.2% |  | 02.03.18.016 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -25.9% |  | 02.03.18.017 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,43 | +6.1% |  | 02.03.18.018 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -7.4% |  | 02.03.18.019 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,65 | -26.7% |  | 02.03.18.020 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,65 | +0.0% |  | 02.03.18.022 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | +23.0% |  | 02.03.18.023 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,25 | -38.4% |  | 02.03.18.024 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,43 | +94.4% |  | 02.03.18.025 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,80 | -25.9% |  | 02.03.18.041 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,75 | -2.8% |  | 02.03.18.042 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,44 | -17.7% |  | 02.03.18.043 (lata 350 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,20 | +52.8% |  | 02.03.18.044 (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,97 | -10.5% |  | 02.03.18.010 (lata 350 ml) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,58 | +31.0% |  | 02.03.18.016 (lata 350 ml) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,59 | +39.1% |  | 02.03.18.017 (lata 350 ml) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,79 | -22.3% |  | 02.03.18.018 (lata 350 ml) | Port. 463/2015 |
@@ -3856,9 +3856,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-08-21 (pub.) | 2013-08-13 | incluir | 2,59 |  |  | Cerveja 1906 Reserva Especial – Long Neck 330 ml | Port. 210/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,69 | +3.9% | und | 1906 Reserva Especial 330 ml ⚠ | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,19 | +18.6% | und | 1906 Reserva Especial 330 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,33 | +4.4% | und | 1906 Reserva Especial 330 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,19 | +23.2% | und | 1906 Reserva Especial 330 ml ⚠ | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,69 | -15.7% | und | 1906 Reserva Especial 330 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,33 | +23.8% | und | 1906 Reserva Especial 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,49 | +4.8% | und | 1906 Reserva Especial 330 ml | Port. 142/2016 |
 | 2016-08-01 (pub.) | 2016-07-11 | incluir | 4,16 | +19.2% |  | Cerveja 1906 Reserva Especial - Long Neck 330 ml ⚠ | Port. 267/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,64 | -12.5% | und | 1906 Reserva Especial - 330 ml ⚠ | Port. 397/2016 |
@@ -3896,9 +3896,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 31,20 |  | und | 1906 Reserva Especial – 330 ml – kit | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 36,95 | +18.4% | und | 1906 Reserva Especial – 330 ml – kit | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 38,61 | +4.5% | und | 1906 Reserva Especial – 330 ml – kit | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 36,95 |  | und | 1906 Reserva Especial – 330 ml – kit | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 31,20 | -15.6% | und | 1906 Reserva Especial – 330 ml – kit | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 38,61 | +23.8% | und | 1906 Reserva Especial – 330 ml – kit | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 40,42 | +4.7% | und | 1906 Reserva Especial – 330 ml – kit | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 42,12 | +4.2% | und | 1906 Reserva Especial – 330 ml – kit | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 51,06 | +21.2% | Und | 1906 Reserva Especial – 330 ml – kit | Port. 222/2017 |
@@ -4742,9 +4742,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,97 | +11.3% | und | Antarctica Extra Cristal (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +4.1% | und | Antarctica Extra Cristal (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 | +3.9% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,56 | +15.3% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,79 | +9.0% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,56 | +20.2% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -13.3% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,79 | +25.7% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,92 | +4.7% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,01 | +3.1% | und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,05 | +1.3% | Und | Antarctica Extra Cristal (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -4769,9 +4769,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,93 | +14.2% | und | Antarctica Malzebier (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,80 | +45.1% | und | Antarctica Malzebier (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,97 | +6.1% | und | Antarctica Malzebier (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,09 | +4.0% | und | Antarctica Malzebier (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,44 | +11.3% | und | Antarctica Malzebier (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,59 | +4.4% | und | Antarctica Malzebier (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,44 | +15.8% | und | Antarctica Malzebier (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,09 | -10.2% | und | Antarctica Malzebier (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,59 | +16.2% | und | Antarctica Malzebier (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,76 | +4.7% | und | Antarctica Malzebier (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,99 | +6.1% | und | Antarctica Malzebier (lata 350 ml) | Port. 397/2016 |
 
@@ -4783,9 +4783,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,86 | +0.0% | und | Antarctica Malzebier (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,93 | +3.8% | und | Antarctica Malzebier (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,01 | +4.1% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,09 | +4.0% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,48 | +18.7% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,59 | +4.4% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,48 | +23.4% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,09 | -15.7% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,59 | +23.9% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,71 | +4.6% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,82 | +4.1% | und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,86 | +1.4% | Und | Antarctica Malzebier (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -4961,9 +4961,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,36 | +12.1% | und. | Antarctica Pilsen (descartável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,53 | +3.9% | und. | Antarctica Pilsen (descartável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,85 | +7.1% | und. | Antarctica Pilsen (descartável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,04 | +3.9% | und. | Antarctica Pilsen (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,40 | +7.1% | und. | Antarctica Pilsen (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,64 | +4.4% | und. | Antarctica Pilsen (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,40 | +11.3% | und. | Antarctica Pilsen (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,04 | -6.7% | und. | Antarctica Pilsen (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,64 | +11.9% | und. | Antarctica Pilsen (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,90 | +4.6% | und. | Antarctica Pilsen (descartável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,90 | +0.0% | und | Antarctica Pilsen (descartável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,99 | +1.5% | Und | Antarctica Pilsen (descartável 1 L) | Port. 222/2017 |
@@ -5010,9 +5010,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,65 | +10.0% | und | Antarctica Pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,72 | +4.2% | und | Antarctica Pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,82 | +5.8% | und | Antarctica Pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,89 | +3.8% | und | Antarctica Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,04 | +7.9% | und | Antarctica Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,18 | +6.9% | und | Antarctica Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,04 | +12.1% | und | Antarctica Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,89 | -7.4% | und | Antarctica Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,18 | +15.3% | und | Antarctica Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,28 | +4.6% | und | Antarctica Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,41 | +5.7% | und | Antarctica Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,44 | +1.2% | Und | Antarctica Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -5049,9 +5049,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,69 | +10.5% | und | Antarctica Pilsen (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,76 | +4.1% | und | Antarctica Pilsen (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,83 | +4.0% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,90 | +3.8% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,18 | +14.7% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,46 | +12.8% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,18 | +19.1% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,90 | -12.8% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,46 | +29.5% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,58 | +4.9% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,63 | +1.9% | und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,67 | +1.5% | Und | Antarctica Pilsen (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -5080,9 +5080,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,41 | +14.0% | und. | Antarctica Pilsen (retornável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,55 | +4.1% | und. | Antarctica Pilsen (retornável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,79 | +6.8% | und. | Antarctica Pilsen (retornável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,09 | +7.9% | und. | Antarctica Pilsen (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,62 | +13.0% | und. | Antarctica Pilsen (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,98 | +7.8% | und. | Antarctica Pilsen (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,62 | +21.9% | und. | Antarctica Pilsen (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,09 | -11.5% | und. | Antarctica Pilsen (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,98 | +21.8% | und. | Antarctica Pilsen (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,21 | +4.6% | und. | Antarctica Pilsen (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,37 | +3.1% | und | Antarctica Pilsen (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,45 | +1.5% | Und | Antarctica Pilsen (retornável 1 L) | Port. 222/2017 |
@@ -5113,9 +5113,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 2,42 | +1.7% | und | Antarctica Pilsen (retornável 600 ml) | Port. 469/2010 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,20 | +32.2% | und | Antarctica Pilsen (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,58 | +11.9% | und | Antarctica Pilsen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,79 | +5.9% | und | Antarctica Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,24 | +11.9% | und | Antarctica Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,49 | +5.9% | und | Antarctica Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,24 | +18.4% | und | Antarctica Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,79 | -10.6% | und | Antarctica Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,49 | +18.5% | und | Antarctica Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,70 | +4.7% | und | Antarctica Pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,16 | +9.8% | und | Antarctica Pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,23 | +1.4% | Und | Antarctica Pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -5163,9 +5163,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 |  | und | Antarctica SubZero (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,99 | +11.2% | und | Antarctica SubZero (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,08 | +4.5% | und | Antarctica SubZero (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,99 |  | und | Antarctica SubZero (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -10.1% | und | Antarctica SubZero (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,08 | +16.2% | und | Antarctica SubZero (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,18 | +4.8% | und | Antarctica SubZero (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,31 | +6.0% | und | Antarctica SubZero (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,34 | +1.3% | Und | Antarctica SubZero (lata 350 ml) | Port. 222/2017 |
@@ -5209,9 +5209,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,61 |  | und | Antartica Subzero (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,20 | +16.3% | und | Antartica Subzero (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,39 | +4.5% | und | Antartica Subzero (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,20 |  | und | Antartica Subzero (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,61 | -14.0% | und | Antartica Subzero (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,39 | +21.6% | und | Antartica Subzero (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,60 | +4.8% | und | Antartica Subzero (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,10 | +10.9% | und | Antartica Subzero (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,17 | +1.4% | Und | Antarctica Subzero (retornável 600 ml) ⚠ | Port. 222/2017 |
@@ -6177,9 +6177,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 10,39 | +20.8% | und | Baden Baden Cristal (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 10,81 | +4.0% | und | Baden Baden Cristal (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 11,45 | +5.9% | und | Baden Baden Cristal (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 11,91 | +4.0% | und | Baden Baden Cristal (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 12,42 | +4.3% | und | Baden Baden Cristal (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 12,98 | +4.5% | und | Baden Baden Cristal (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 12,42 | +8.5% | und | Baden Baden Cristal (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 11,91 | -4.1% | und | Baden Baden Cristal (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 12,98 | +9.0% | und | Baden Baden Cristal (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 13,59 | +4.7% | und | Baden Baden Cristal (descartável 600 ml) | Port. 142/2016 |
 
 ### Cerveja Baden Baden Cristal - Lata 350 ml (código 53067)
@@ -6212,9 +6212,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 13,44 |  | und | Baden Baden Golden (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 14,23 | +5.9% | und | Baden Baden Golden (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 14,87 | +4.5% | und | Baden Baden Golden (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 14,23 |  | und | Baden Baden Golden (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 13,44 | -5.6% | und | Baden Baden Golden (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 14,87 | +10.6% | und | Baden Baden Golden (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 15,57 | +4.7% | und | Baden Baden Golden (descartável 600 ml) | Port. 142/2016 |
 
 ### Cerveja Baden Baden Golden - Lata 350 ml (código 53065)
@@ -6342,9 +6342,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 13,44 |  | und | Baden Baden Red Ale (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 14,45 | +7.5% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 15,10 | +4.5% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 14,45 |  | und | Baden Baden Red Ale (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 13,44 | -7.0% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 15,10 | +12.4% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 15,51 | +2.7% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 16,23 | +4.6% | und | Baden Baden Red Ale (descartável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 16,47 | +1.5% | Und | Baden Baden Red Ale (descartável 600 ml) | Port. 222/2017 |
@@ -6886,18 +6886,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,25 |  | Und | Bavária o,o | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +10.4% | Und | Bavária o,o | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +4.3% | Und | Bavária o,o | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 |  | Und | Bavária o,o | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,25 | -9.4% | Und | Bavária o,o | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +15.2% | Und | Bavária o,o | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Bavária o,o | Port. 142/2016 |
 
 ### Bavária O,O (lata 350 ml) (código 48652)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,45 |  | und | Bavária O,O (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +11.7% | und | Bavária O,O (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +4.3% | und | Bavária O,O (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 |  | und | Bavária O,O (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,45 | -10.5% | und | Bavária O,O (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +16.6% | und | Bavária O,O (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,77 | +4.7% | und | Bavária O,O (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,88 | +6.2% | und | Bavária O,O (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,91 | +1.6% | Und | Bavária O,O (lata 350 ml) | Port. 222/2017 |
@@ -6941,9 +6941,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,99 |  | Und | Bavária Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,09 | +10.1% | Und | Bavária Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,14 | +4.6% | Und | Bavária Pilsen | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,09 |  | Und | Bavária Pilsen | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,99 | -9.2% | Und | Bavária Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,14 | +15.2% | Und | Bavária Pilsen | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,25 | +9.6% | und. | Bavaria Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,19 | -4.8% | und | Bavária Pilsen | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,31 | +10.1% | und | Bavaria Pilsen | Port. 142/2016 |
@@ -6975,9 +6975,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,60 | +27.0% | und | Bavaria Pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,66 | +3.7% | und | Bavaria Pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,76 | +6.0% | und | Bavaria Pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,83 | +4.0% | und | Bavaria Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,00 | +9.3% | und | Bavaria Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,09 | +4.5% | und | Bavaria Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,00 | +13.6% | und | Bavaria Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,83 | -8.5% | und | Bavaria Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,09 | +14.2% | und | Bavaria Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,19 | +4.8% | und | Bavaria Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,33 | +6.4% | und | Bavaria Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,36 | +1.3% | Und | Bavaria Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -7009,9 +7009,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,98 | +14.5% | und | Bavaria Pilsen (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,06 | +4.0% | und | Bavaria Pilsen (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,14 | +3.9% | und | Bavaria Pilsen (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,23 | +4.2% | und | Bavaria Pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,30 | +3.1% | und | Bavaria Pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,40 | +4.3% | und | Bavaria Pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,30 | +7.5% | und | Bavaria Pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,23 | -3.0% | und | Bavaria Pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,40 | +7.6% | und | Bavaria Pilsen (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,51 | +4.6% | und | Bavaria Pilsen – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,69 | +7.2% | und | Bavaria Pilsen – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,73 | +1.5% | Und | Bavaria Pilsen – 473 ml | Port. 222/2017 |
@@ -7056,9 +7056,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,37 | +9.2% | und | Bavaria Pilsen (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,54 | +7.2% | und | Bavaria Pilsen (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,69 | +5.9% | und | Bavaria Pilsen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,85 | +5.9% | und | Bavaria Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,23 | +13.3% | und | Bavaria Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,37 | +4.3% | und | Bavaria Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,23 | +20.1% | und | Bavaria Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,85 | -11.8% | und | Bavaria Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,37 | +18.2% | und | Bavaria Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,53 | +4.7% | und | Bavaria Pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,91 | +10.8% | und | Bavaria Pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,97 | +1.5% | Und | Bavaria Pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -7096,9 +7096,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,72 | +15.4% | und | Bavaria Premium (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,79 | +4.1% | und | Bavaria Premium (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,90 | +6.1% | und | Bavaria Premium (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,98 | +4.2% | und | Bavaria Premium (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,21 | +11.6% | und | Bavaria Premium (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,31 | +4.5% | und | Bavaria Premium (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,21 | +16.3% | und | Bavaria Premium (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,98 | -10.4% | und | Bavaria Premium (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,31 | +16.7% | und | Bavaria Premium (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,42 | +4.8% | und | Bavaria Premium (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,57 | +6.2% | und | Bavaria Premium (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,61 | +1.6% | Und | Bavaria Premium (lata 350 ml) | Port. 222/2017 |
@@ -7113,9 +7113,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,13 | +17.0% | und | Bavaria Premium (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | -1.4% | und | Bavaria Premium (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +3.8% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,27 | +4.1% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,69 | +18.5% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,81 | +4.5% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,69 | +23.4% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,27 | -15.6% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,81 | +23.8% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,94 | +4.6% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,06 | +4.1% | und | Bavaria Premium (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,10 | +1.3% | Und | Bavaria Premium (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -7140,9 +7140,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,77 | +9.5% | und | Bavaria Premium (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,96 | +6.9% | und | Bavaria Premium (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,14 | +6.1% | und | Bavaria Premium (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,33 | +6.1% | und | Bavaria Premium (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,77 | +13.2% | und | Bavaria Premium (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,94 | +4.5% | und | Bavaria Premium (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,77 | +20.1% | und | Bavaria Premium (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,33 | -11.7% | und | Bavaria Premium (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,94 | +18.3% | und | Bavaria Premium (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,12 | +4.6% | und | Bavaria Premium (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,56 | +10.7% | und | Bavaria Premium (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,63 | +1.5% | Und | Bavaria Premium (retornável 600 ml) | Port. 222/2017 |
@@ -7163,9 +7163,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,73 |  | und | Bavaria sem álcool (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,80 | +4.0% | und | Bavaria sem álcool (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,91 | +6.1% | und | Bavaria sem álcool (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,99 | +4.2% | und | Bavaria sem álcool (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,30 | +15.6% | und | Bavaria sem álcool (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,40 | +4.3% | und | Bavaria sem álcool (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,30 | +20.4% | und | Bavaria sem álcool (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,99 | -13.5% | und | Bavaria sem álcool (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,40 | +20.6% | und | Bavaria sem álcool (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,51 | +4.6% | und | Bavaria sem álcool (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,67 | +6.4% | und | Bavaria sem álcool (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,71 | +1.5% | Und | Bavaria sem álcool (lata 350 ml) | Port. 222/2017 |
@@ -7257,9 +7257,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,66 | +13.7% | und | Belco (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +20.5% | und | Belco (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Belco (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +6.1% | und | Belco (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +13.3% | und | Belco (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +4.3% | und | Belco (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +20.3% | und | Belco (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -11.8% | und | Belco (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +18.2% | und | Belco (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,78 | +4.5% | und | Belco (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,08 | +10.8% | und | Belco (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,12 | +1.3% | Und | Belco (retornável 600 ml) | Port. 222/2017 |
@@ -7286,9 +7286,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,53 | +14.4% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,75 | +4.9% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,94 | +4.0% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,14 | +4.0% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,54 | +7.8% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,79 | +4.5% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,54 | +12.1% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,14 | -7.2% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,79 | +12.6% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,06 | +4.7% | und. | Chopp Belco Claro e Escuro (retornável 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,90 | +13.9% | und. | Belco Claro e Escuro (retornável 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,00 | +1.4% | und. | Belco Claro e Escuro (retornável 1,5 L) | Port. 222/2017 |
@@ -7302,7 +7302,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,65 |  | und | Belco escura ãe preta (lata 350 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,65 |  | und | Belco escura ãe preta (lata 350 ml) | Port. 157/2015 |
 
 ### Cerveja Belco Escura Mãe Preta lata 350 ml (código 38018)
 
@@ -7344,9 +7344,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,26 | +13.5% | und | Belco pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,31 | +4.0% | und | Belco pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,39 | +6.1% | und | Belco pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,45 | +4.3% | und | Belco pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +11.7% | und | Belco pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +4.3% | und | Belco pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +16.5% | und | Belco pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,45 | -10.5% | und | Belco pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +16.6% | und | Belco pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,77 | +4.7% | und | Belco pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,88 | +6.2% | und | Belco pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,91 | +1.6% | Und | Belco pilsen (lata 350 ml) | Port. 222/2017 |
@@ -7362,9 +7362,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 |  | und | Belco Preta (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,20 | +7.3% | und | Belco Preta (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,33 | +5.9% | und | Belco Preta (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,64 | +13.3% | und | Belco Preta (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,76 | +4.5% | und | Belco Preta (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,64 | +20.0% | und | Belco Preta (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,33 | -11.7% | und | Belco Preta (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,76 | +18.5% | und | Belco Preta (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,89 | +4.7% | und | Belco Preta (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,20 | +10.7% | und | Belco Preta (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,25 | +1.6% | Und | Belco Preta (retornável 600 ml) | Port. 222/2017 |
@@ -7724,9 +7724,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,23 |  | und | Black Princess Escura (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,60 | +5.9% | und | Black Princess Escura (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,90 | +4.5% | und | Black Princess Escura (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,60 |  | und | Black Princess Escura (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,23 | -5.6% | und | Black Princess Escura (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,90 | +10.8% | und | Black Princess Escura (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,22 | +4.6% | und | Black Princess Escura (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,57 | +4.8% | und | Black Princess Escura (descartável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,68 | +1.5% | Und | Black Princess Escura (descartável 600 ml) | Port. 222/2017 |
@@ -7751,9 +7751,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,15 |  | und | Black Princess Escura (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,91 | +18.3% | und | Black Princess Escura (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,13 | +4.5% | und | Black Princess Escura (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,91 |  | und | Black Princess Escura (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,15 | -15.5% | und | Black Princess Escura (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,13 | +23.6% | und | Black Princess Escura (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,37 | +4.7% | und | Black Princess Escura (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,53 | +3.0% | und | Black Princess Escura (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,61 | +1.4% | Und | Black Princess Escura (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -7818,9 +7818,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,23 |  | und | Black Princess Gold (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,60 | +5.9% | und | Black Princess Gold (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,90 | +4.5% | und | Black Princess Gold (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,60 |  | und | Black Princess Gold (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,23 | -5.6% | und | Black Princess Gold (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,90 | +10.8% | und | Black Princess Gold (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,22 | +4.6% | und | Black Princess Gold (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,57 | +4.8% | und | Black Princess Gold (descartável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,68 | +1.5% | Und | Black Princess Gold (descartável 600 ml) | Port. 222/2017 |
@@ -7846,9 +7846,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,15 |  | und | Black Princess Gold (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,91 | +18.3% | und | Black Princess Gold (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,13 | +4.5% | und | Black Princess Gold (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,91 |  | und | Black Princess Gold (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,15 | -15.5% | und | Black Princess Gold (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,13 | +23.6% | und | Black Princess Gold (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,37 | +4.7% | und | Black Princess Gold (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,53 | +3.0% | und | Black Princess Gold (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,61 | +1.4% | Und | Black Princess Gold (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -8063,9 +8063,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,35 | +14.6% | und | Bohemia (descartável 550 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,56 | +3.9% | und | Bohemia (descartável 550 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,80 | +4.3% | und | Bohemia (descartável 550 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,03 | +4.0% | und | Bohemia (descartável 550 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,49 | +7.6% | und | Bohemia (descartável 550 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,78 | +4.5% | und | Bohemia (descartável 550 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,49 | +11.9% | und | Bohemia (descartável 550 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,03 | -7.1% | und | Bohemia (descartável 550 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,78 | +12.4% | und | Bohemia (descartável 550 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,10 | +4.7% | und | Bohemia (descartável 550 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,44 | +4.8% | und | Bohemia (descartável 550 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,55 | +1.5% |  | Bohemia (descartável 550 ml) | Port. 222/2017 |
@@ -8103,9 +8103,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,00 | +9.9% | und | Bohemia (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,08 | +4.0% | und | Bohemia (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,20 | +5.8% | und | Bohemia (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 | +4.1% | und | Bohemia (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,40 | +4.8% | und | Bohemia (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,57 | +7.1% | und | Bohemia (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,40 | +9.1% | und | Bohemia (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -4.6% | und | Bohemia (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,57 | +12.2% | und | Bohemia (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,69 | +4.7% | und | Bohemia (lata 350 ml) | Port. 142/2016 |
 
 ### Bohemia (long neck 200 a 355 ml) (código —)
@@ -8113,9 +8113,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,20 |  | und | Bohemia (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 | +4.1% | und | Bohemia (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,74 | +19.7% | und | Bohemia (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,87 | +4.7% | und | Bohemia (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,74 | +24.5% | und | Bohemia (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -16.4% | und | Bohemia (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,87 | +25.3% | und | Bohemia (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,00 | +4.5% | und | Bohemia (long neck 200 a 355 ml) | Port. 142/2016 |
 
 ### Bohemia (long neck 275 a 350 ml) (código —)
@@ -8162,9 +8162,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,48 | +23.4% | und | Bohemia (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,72 | +6.9% | und | Bohemia (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,28 | +15.1% | und | Bohemia (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,54 | +6.1% | und | Bohemia (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,05 | +33.3% | und | Bohemia (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,15 | +1.7% | und | Bohemia (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,05 | +41.4% | und | Bohemia (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,54 | -25.0% | und | Bohemia (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,15 | +35.5% | und | Bohemia (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,44 | +4.7% | und | Bohemia (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,92 | +7.5% | und | Bohemia (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,02 | +1.4% | Und | Bohemia (retornável 600 ml) | Port. 222/2017 |
@@ -8385,9 +8385,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,49 | +14.6% | und | Bossa Nova (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,55 | +4.0% | und | Bossa Nova (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,64 | +5.8% | und | Bossa Nova (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,71 | +4.3% | und | Bossa Nova (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,91 | +11.7% | und | Bossa Nova (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,00 | +4.7% | und | Bossa Nova (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,91 | +16.5% | und | Bossa Nova (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,71 | -10.5% | und | Bossa Nova (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,00 | +17.0% | und | Bossa Nova (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,09 | +4.5% | und | Bossa Nova (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +6.2% | und | Bossa Nova (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,25 | +1.4% | Und | Bossa Nova (lata 350 ml) | Port. 222/2017 |
@@ -8419,9 +8419,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,43 | +14.4% | und | Bossa Nova (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +39.9% | und | Bossa Nova (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Bossa Nova (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +6.1% | und | Bossa Nova (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +13.3% | und | Bossa Nova (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +4.3% | und | Bossa Nova (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +20.3% | und | Bossa Nova (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -11.8% | und | Bossa Nova (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +18.2% | und | Bossa Nova (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,78 | +4.5% | und | Bossa Nova (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,08 | +10.8% | und | Bossa Nova (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,12 | +1.3% | Und | Bossa Nova (retornável 600 ml) | Port. 222/2017 |
@@ -8545,9 +8545,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,33 | +11.3% | und. | Brahma Chopp (descartável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,50 | +3.9% | und. | Brahma Chopp (descartável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,82 | +7.1% | und. | Brahma Chopp (descartável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,04 | +4.6% | und. | Brahma Chopp (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,40 | +7.1% | und. | Brahma Chopp (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,64 | +4.4% | und. | Brahma Chopp (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,40 | +12.0% | und. | Brahma Chopp (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,04 | -6.7% | und. | Brahma Chopp (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,64 | +11.9% | und. | Brahma Chopp (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,90 | +4.6% | und. | Brahma Chopp (descartável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,90 | +0.0% | und | Brahma Chopp (descartável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,99 | +1.5% | Und | Brahma Chopp (descartável 1 L) | Port. 222/2017 |
@@ -8599,9 +8599,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,74 | +13.7% | und | Brahma Chopp (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,81 | +4.0% | und | Brahma Chopp (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,92 | +6.1% | und | Brahma Chopp (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,00 | +4.2% | und | Brahma Chopp (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +12.5% | und | Brahma Chopp (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +2.2% | und | Brahma Chopp (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +17.2% | und | Brahma Chopp (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,00 | -11.1% | und | Brahma Chopp (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +15.0% | und | Brahma Chopp (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,41 | +4.8% | und | Brahma Chopp (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,41 | +0.0% | und | Brahma Chopp (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,44 | +1.2% | Und | Brahma Chopp (lata 350 ml) | Port. 222/2017 |
@@ -8633,9 +8633,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,42 | +14.7% | und | Brahma Chopp (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,52 | +4.1% | und | Brahma Chopp (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,62 | +4.0% | und | Brahma Chopp (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,72 | +3.8% | und | Brahma Chopp (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,77 | +1.8% | und | Brahma Chopp (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,89 | +4.3% | und | Brahma Chopp (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,77 | +5.7% | und | Brahma Chopp (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,72 | -1.8% | und | Brahma Chopp (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,89 | +6.2% | und | Brahma Chopp (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,03 | +4.8% | und | Brahma Chopp – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,25 | +7.3% | und | Brahma Chopp – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,30 | +1.5% | Und | Brahma Chopp – 473 ml | Port. 222/2017 |
@@ -8672,9 +8672,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,74 | +13.7% | und | Brahma Chopp (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,81 | +4.0% | und | Brahma Chopp (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,88 | +3.9% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,96 | +4.3% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,32 | +18.4% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,53 | +9.1% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,32 | +23.4% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,96 | -15.5% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,53 | +29.1% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,65 | +4.7% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,76 | +4.2% | und | Brahma Chopp (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,80 | +1.4% | Und | Brahma Chopp (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -8703,9 +8703,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,42 | +14.4% | und. | Brahma Chopp (retornável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,56 | +4.1% | und. | Brahma Chopp (retornável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,81 | +7.0% | und. | Brahma Chopp (retornável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,11 | +7.9% | und. | Brahma Chopp (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,64 | +12.9% | und. | Brahma Chopp (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,10 | +9.9% | und. | Brahma Chopp (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,64 | +21.8% | und. | Brahma Chopp (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,11 | -11.4% | und. | Brahma Chopp (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,10 | +24.1% | und. | Brahma Chopp (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,34 | +4.7% | und. | Brahma Chopp (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,34 | +0.0% | und | Brahma Chopp (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,42 | +1.5% | Und | Brahma Chopp (retornável 1 L) | Port. 222/2017 |
@@ -8761,9 +8761,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,27 | +23.9% | und | Brahma Chopp (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,50 | +7.0% | und | Brahma Chopp (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,92 | +12.0% | und | Brahma Chopp (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,16 | +6.1% | und | Brahma Chopp (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,49 | +7.9% | und | Brahma Chopp (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,63 | +3.1% | und | Brahma Chopp (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,49 | +14.5% | und | Brahma Chopp (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,16 | -7.3% | und | Brahma Chopp (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,63 | +11.3% | und | Brahma Chopp (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,85 | +4.8% | und | Brahma Chopp (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,08 | +4.7% | und | Brahma Chopp (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,15 | +1.4% | Und | Brahma Chopp (retornável 600 ml) | Port. 222/2017 |
@@ -9048,9 +9048,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,00 | +11.7% | und | Brahma Extra (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,08 | +4.0% | und | Brahma Extra (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,16 | +3.8% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +4.2% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,66 | +18.2% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,78 | +4.5% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,66 | +23.1% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -15.4% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,78 | +23.6% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,91 | +4.7% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,03 | +4.1% | und | Brahma Extra (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,83 | +26.4% | Und | Brahma Extra (long neck 200 a 355 ml) | Port. 507/2017 |
@@ -9236,9 +9236,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,58 |  | und | Brahma Extra (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,00 | +11.7% | und | Brahma Extra (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,24 | +6.0% | und | Brahma Extra (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,80 | +13.2% | und | Brahma Extra (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,02 | +4.6% | und | Brahma Extra (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,80 | +20.0% | und | Brahma Extra (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,24 | -11.7% | und | Brahma Extra (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,02 | +18.4% | und | Brahma Extra (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,25 | +4.6% | und | Brahma Extra (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,81 | +10.7% | und | Brahma Extra (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,89 | +1.4% | Und | Brahma Extra (retornável 600 ml) | Port. 222/2017 |
@@ -9339,9 +9339,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,74 |  | und | Brahma fresh (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,81 | +4.0% | und | Brahma fresh (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,92 | +6.1% | und | Brahma fresh (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,00 | +4.2% | und | Brahma fresh (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,90 | -5.0% | und | Brahma fresh (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,99 | +4.7% | und | Brahma fresh (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,90 | -1.0% | und | Brahma fresh (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,00 | +5.3% | und | Brahma fresh (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,99 | -0.5% | und | Brahma fresh (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,08 | +4.5% | und | Brahma fresh (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,21 | +6.2% | und | Brahma fresh (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,24 | +1.4% | Und | Brahma fresh (lata 350 ml) | Port. 222/2017 |
@@ -9358,18 +9358,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,32 |  | und | Brahma fresh (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,41 | +3.9% | und | Brahma fresh (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,51 | +4.1% | und | Brahma fresh (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,61 | +4.0% | und | Brahma fresh (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,70 | +3.4% | und | Brahma fresh (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,82 | +4.4% | und | Brahma fresh (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,70 | +7.6% | und | Brahma fresh (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,61 | -3.3% | und | Brahma fresh (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,82 | +8.0% | und | Brahma fresh (lata 473 ml) | Port. 463/2015 |
 
 ### Brahma fresh (long neck 200 a 355 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,81 |  | und | Brahma fresh (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,88 | +3.9% | und | Brahma fresh (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,23 | +18.6% | und | Brahma fresh (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,33 | +4.5% | und | Brahma fresh (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,23 | +23.2% | und | Brahma fresh (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,88 | -15.7% | und | Brahma fresh (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,33 | +23.9% | und | Brahma fresh (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,44 | +4.7% | und | Brahma fresh (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,54 | +4.1% | und | Brahma fresh (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -9387,9 +9387,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,33 |  | und. | Brahma fresh (retornável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,46 | +3.9% | und. | Brahma fresh (retornável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,71 | +7.2% | und. | Brahma fresh (retornável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,01 | +8.1% | und. | Brahma fresh (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,53 | +13.0% | und. | Brahma fresh (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,73 | +4.4% | und. | Brahma fresh (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,53 | +22.1% | und. | Brahma fresh (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,01 | -11.5% | und. | Brahma fresh (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,73 | +18.0% | und. | Brahma fresh (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,95 | +4.7% | und. | Brahma fresh (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,48 | +10.7% | und | Brahma fresh (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,56 | +1.5% | Und | Brahma fresh (retornável 1 L) | Port. 222/2017 |
@@ -9402,9 +9402,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,00 |  | und | Brahma fresh (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,21 | +7.0% | und | Brahma fresh (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,60 | +12.1% | und | Brahma fresh (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,82 | +6.1% | und | Brahma fresh (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,00 | +4.7% | und | Brahma fresh (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,18 | +4.5% | und | Brahma fresh (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,00 | +11.1% | und | Brahma fresh (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,82 | -4.5% | und | Brahma fresh (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,18 | +9.4% | und | Brahma fresh (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,38 | +4.8% | und | Brahma fresh (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,85 | +10.7% | und | Brahma fresh (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,92 | +1.4% | Und | Brahma fresh (retornável 600 ml) | Port. 222/2017 |
@@ -9428,9 +9428,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,58 |  | und | Brahma Preta (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,00 | +11.7% | und | Brahma Preta (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,24 | +6.0% | und | Brahma Preta (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,80 | +13.2% | und | Brahma Preta (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,02 | +4.6% | und | Brahma Preta (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,80 | +20.0% | und | Brahma Preta (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,24 | -11.7% | und | Brahma Preta (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,02 | +18.4% | und | Brahma Preta (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,25 | +4.6% | und | Brahma Preta (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,81 | +10.7% | und | Brahma Preta (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,89 | +1.4% | Und | Brahma Preta (retornável 600 ml) | Port. 222/2017 |
@@ -9490,9 +9490,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,98 | +11.2% | und | Brahma Malzebier (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,06 | +4.0% | und | Brahma Malzebier (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,14 | +3.9% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,23 | +4.2% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +16.6% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +5.4% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +21.5% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,23 | -14.2% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +22.9% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,87 | +4.7% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,93 | +2.1% | und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,97 | +1.4% | Und | Brahma Malzebier (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -9519,9 +9519,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,81 |  | und | Brunnen | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +11.1% | und | Brunnen | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,98 | +8.9% | und | Brunnen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,08 | +10.2% | und | Brunnen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,13 | +4.6% | und | Brunnen | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,08 | +20.0% | und | Brunnen | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,98 | -9.3% | und | Brunnen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,13 | +15.3% | und | Brunnen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,18 | +4.4% | und | Brunnen | Port. 142/2016 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,30 | +94.9% | und | Brunnen (250 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 2,51 | +9.1% | und | Brunnen ⚠ | Port. 454/2022 |
@@ -9560,9 +9560,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,66 |  | und | Brunnen (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +20.5% | und | Brunnen (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Brunnen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +6.1% | und | Brunnen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +13.3% | und | Brunnen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +4.3% | und | Brunnen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +20.3% | und | Brunnen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -11.8% | und | Brunnen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +18.2% | und | Brunnen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,78 | +4.5% | und | Brunnen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,08 | +10.8% | und | Brunnen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,12 | +1.3% | Und | Brunnen (retornável 600 ml) | Port. 222/2017 |
@@ -9734,9 +9734,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,50 |  | und. | Budweiser (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,71 | +6.0% | und. | Budweiser (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,93 | +5.9% | und. | Budweiser (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,45 | +13.2% | und. | Budweiser (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,65 | +4.5% | und. | Budweiser (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,45 | +19.9% | und. | Budweiser (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,93 | -11.7% | und. | Budweiser (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,65 | +18.3% | und. | Budweiser (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,87 | +4.7% | und. | Budweiser (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,39 | +10.7% | und | Budweiser (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,47 | +1.5% | Und | Budweiser (retornável 600 ml) | Port. 222/2017 |
@@ -9778,9 +9778,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 |  | Und. | Budweiser 343 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +3.8% | Und. | Budweiser 343 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,27 | +4.1% | Und. | Budweiser 343 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,54 | +11.9% | Und. | Budweiser 343 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,93 | +15.4% | Und. | Budweiser 343 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,54 | +16.5% | Und. | Budweiser 343 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,27 | -10.6% | Und. | Budweiser 343 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,93 | +29.1% | Und. | Budweiser 343 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,07 | +4.8% | und. | Budweiser - 343 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,33 | +8.5% | und | Budweiser - 343 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,38 | +1.5% | Und | Budweiser - 343 ml | Port. 222/2017 |
@@ -10341,9 +10341,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,00 |  | und | Capivaryana (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,15 | +5.0% | und | Capivaryana (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,35 | +6.3% | und | Capivaryana (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,48 | +3.9% | und | Capivaryana (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,69 | +6.0% | und | Capivaryana (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,86 | +4.6% | und | Capivaryana (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,69 | +10.1% | und | Capivaryana (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,48 | -5.7% | und | Capivaryana (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,86 | +10.9% | und | Capivaryana (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,04 | +4.7% | und | Capivaryana (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,23 | +4.7% | und | Capivaryana (descartável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,29 | +1.4% | Und | Capivaryana (descartável 600 ml) | Port. 222/2017 |
@@ -10733,9 +10733,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,03 | +10.3% | und | Caracu (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,11 | +3.9% | und | Caracu (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,20 | +4.3% | und | Caracu (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 | +4.1% | und | Caracu (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,52 | +10.0% | und | Caracu (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,68 | +6.3% | und | Caracu (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,52 | +14.5% | und | Caracu (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -9.1% | und | Caracu (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,68 | +17.0% | und | Caracu (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,81 | +4.9% | und | Caracu (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,95 | +5.0% | und | Caracu (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,99 | +1.4% | Und | Caracu (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -10936,9 +10936,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,92 | +14.3% | und | Cerpa Draft (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +6.8% | und | Cerpa Draft (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +6.3% | und | Cerpa Draft (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,31 | +6.0% | und | Cerpa Draft (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,87 | +24.2% | und | Cerpa Draft (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,00 | +4.5% | und | Cerpa Draft (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,87 | +31.7% | und | Cerpa Draft (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,31 | -19.5% | und | Cerpa Draft (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,00 | +29.9% | und | Cerpa Draft (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,14 | +4.7% | und | Cerpa Draft (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,48 | +10.8% | und | Cerpa Draft (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,48 | +0.0% | Und | Cerpa Draft (retornável 600 ml) | Port. 222/2017 |
@@ -10968,9 +10968,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,20 | +16.8% | und | Cerpa Draft (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,35 | +4.7% | und | Cerpa Draft (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,53 | +5.4% | und | Cerpa Draft (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,67 | +4.0% | und | Cerpa Draft (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,89 | +6.0% | und | Cerpa Draft (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,06 | +4.4% | und | Cerpa Draft (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,89 | +10.2% | und | Cerpa Draft (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,67 | -5.7% | und | Cerpa Draft (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,06 | +10.6% | und | Cerpa Draft (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,25 | +4.7% | und | Cerpa Draft (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,45 | +4.7% | und | Cerpa Draft (descartável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,45 | +0.0% | Und | Cerpa Draft (descartável 600 ml) | Port. 222/2017 |
@@ -11162,9 +11162,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,24 |  | und | Cerpa Export – retornável (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,50 | +11.6% | und | Cerpa Export – retornável (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,61 | +4.4% | und | Cerpa Export – retornável (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,50 |  | und | Cerpa Export – retornável (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,24 | -10.4% | und | Cerpa Export – retornável (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,61 | +16.5% | und | Cerpa Export – retornável (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,73 | +4.6% | und | Cerpa Export – retornável (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,90 | +6.2% | und | Cerpa Export – retornável (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,94 | +1.4% | Und | Cerpa Export – retornável (lata 350 ml) | Port. 222/2017 |
@@ -11281,11 +11281,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,68 | +40.0% | und | Cerpa Gold ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,75 | +4.2% | und | Cerpa Gold (lata 269 ml) ⚠ | Port. 300/2013 |
 | 2013-11-22 (pub.) | 2013-10-01 | incluir | 1,20 | -31.4% |  | Cerveja Cerpa Gold – Lata 269 ml | Port. 355/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 | +51.7% | und | Cerpa Gold ⚠ | Port. 157/2014 |
-| 2014-09-03 (pub.) | 2014-08-27 | alterar | 1,60 | -12.1% |  | Cerveja Cerpa Gold – Lata 269 ml ⚠ | Port. 236/2014 |
+| 2014-09-03 (pub.) | 2014-08-27 | alterar | 1,60 | +33.3% |  | Cerveja Cerpa Gold – Lata 269 ml | Port. 236/2014 |
 | 2014-10-29 (pub.) | 2014-10-23 | alterar | 1,10 | -31.2% |  | Cerveja Cerpa Gold – Lata 269 ml | Port. 275/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,01 | +82.7% | und | Cerpa Gold ⚠ | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,10 | +4.5% | und | Cerpa Gold | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -9.5% | und | Cerpa Gold | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,10 | +15.4% | und | Cerpa Gold | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,20 | +4.8% | und | Cerpa Gold | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,40 | +9.1% | und | Cerpa Gold (lata 250 a 310 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,43 | +1.3% | Und | Cerpa Gold (lata 250 a 310 ml) | Port. 222/2017 |
@@ -11345,9 +11345,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,02 | +13.5% | und | Cerpa Gold (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,16 | +6.9% | und | Cerpa Gold (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,28 | +5.6% | und | Cerpa Gold (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,42 | +6.1% | und | Cerpa Gold (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,62 | +8.3% | und | Cerpa Gold (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +4.6% | und | Cerpa Gold (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,62 | +14.9% | und | Cerpa Gold (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,42 | -7.6% | und | Cerpa Gold (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +13.2% | und | Cerpa Gold (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,87 | +4.7% | und | Cerpa Gold (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,18 | +10.8% | und | Cerpa Gold (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,18 | +0.0% | Und | Cerpa Gold (retornável 600 ml) | Port. 222/2017 |
@@ -11377,9 +11377,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,25 | +16.5% | und | Cerpa Gold (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,38 | +4.0% | und | Cerpa Gold (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,58 | +5.9% | und | Cerpa Gold (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,72 | +3.9% | und | Cerpa Gold (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,94 | +5.9% | und | Cerpa Gold (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,12 | +4.6% | und | Cerpa Gold (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,94 | +10.1% | und | Cerpa Gold (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,72 | -5.6% | und | Cerpa Gold (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,12 | +10.8% | und | Cerpa Gold (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,31 | +4.6% | und | Cerpa Gold (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,51 | +4.6% | und | Cerpa Gold (descartável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,51 | +0.0% | Und | Cerpa Gold (descartável 600 ml) | Port. 222/2017 |
@@ -11399,11 +11399,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,03 | +4.1% | und | Cerpa Gold (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,10 | +3.4% | und | Cerpa Gold (long neck 200 a 355 ml) | Port. 300/2013 |
 | 2013-11-22 (pub.) | 2013-10-01 | incluir | 1,27 | -39.5% |  | Cerveja Cerpa Gold – Long Neck 355 ml | Port. 355/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,18 | +71.7% | und | Cerpa Gold (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2014-09-03 (pub.) | 2014-08-27 | alterar | 2,30 | +5.5% |  | Cerveja Cerpa Gold – Long Neck 355 ml | Port. 236/2014 |
+| 2014-09-03 (pub.) | 2014-08-27 | alterar | 2,30 | +81.1% |  | Cerveja Cerpa Gold – Long Neck 355 ml | Port. 236/2014 |
 | 2014-10-29 (pub.) | 2014-10-23 | alterar | 1,70 | -26.1% |  | Cerveja Cerpa Gold – Long Neck 355 ml | Port. 275/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,89 | +70.0% | und | Cerpa Gold (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,02 | +4.5% | und | Cerpa Gold (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,18 | -24.6% | und | Cerpa Gold (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,02 | +38.5% | und | Cerpa Gold (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,16 | +4.6% | und | Cerpa Gold (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,29 | +4.1% | und | Cerpa Gold (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,29 | +0.0% | Und | Cerpa Gold (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -11583,9 +11583,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-02-26 (assin.) | 2013-02-26 | incluir | 4,16 |  |  | Cerveja Cerpa Tijuca - Descartável 600 ml | Port. 38/2013 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,30 | +27.4% | und | Cerpa Tijuca (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,60 | +5.7% | und | Cerpa Tijuca (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,82 | +3.9% | und | Cerpa Tijuca (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,16 | +5.8% | und | Cerpa Tijuca (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,44 | +4.5% | und | Cerpa Tijuca (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,16 | +10.0% | und | Cerpa Tijuca (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,82 | -5.5% | und | Cerpa Tijuca (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,44 | +10.7% | und | Cerpa Tijuca (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,74 | +4.7% | und | Cerpa Tijuca (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,05 | +4.6% | und | Cerpa Tijuca (descartável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,05 | +0.0% | Und | Cerpa Tijuca (descartável 600 ml) | Port. 222/2017 |
@@ -11616,11 +11616,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +41.4% | und | Cerpa Tijuca ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,10 | +2.4% | und | Cerpa Tijuca (lata 269 ml) ⚠ | Port. 300/2013 |
 | 2013-11-22 (pub.) | 2013-10-01 | incluir | 1,45 | -31.0% |  | Cerveja Cerpa Tijuca – Lata 269 ml | Port. 355/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,18 | +50.3% | und | Cerpa Tijuca ⚠ | Port. 157/2014 |
-| 2014-09-03 (pub.) | 2014-08-27 | alterar | 2,70 | +23.9% |  | Cerveja Cerpa Tijuca – Lata 269 ml ⚠ | Port. 236/2014 |
+| 2014-09-03 (pub.) | 2014-08-27 | alterar | 2,70 | +86.2% |  | Cerveja Cerpa Tijuca – Lata 269 ml | Port. 236/2014 |
 | 2014-10-29 (pub.) | 2014-10-23 | alterar | 2,00 | -25.9% |  | Cerveja Cerpa Tijuca – Lata 269 ml | Port. 275/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,73 | +36.5% | und | Cerpa Tijuca ⚠ | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,85 | +4.4% | und | Cerpa Tijuca | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,18 | -20.1% | und | Cerpa Tijuca | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,85 | +30.7% | und | Cerpa Tijuca | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,98 | +4.6% | und | Cerpa Tijuca | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,26 | +9.4% | und | Cerpa Tijuca (lata 250 a 310 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,31 | +1.5% | Und | Cerpa Tijuca (lata 250 a 310 ml) | Port. 222/2017 |
@@ -11671,9 +11671,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-02-26 (assin.) | 2013-02-26 | incluir | 2,70 |  |  | Cerveja Cerpa Tijuca - Retornável 600 ml | Port. 38/2013 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,82 | +4.4% | und | Cerpa Tijuca (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,98 | +5.7% | und | Cerpa Tijuca (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,16 | +6.0% | und | Cerpa Tijuca (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,58 | +13.3% | und | Cerpa Tijuca (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,74 | +4.5% | und | Cerpa Tijuca (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,58 | +20.1% | und | Cerpa Tijuca (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,16 | -11.7% | und | Cerpa Tijuca (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,74 | +18.4% | und | Cerpa Tijuca (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,92 | +4.8% | und | Cerpa Tijuca (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,85 | +23.7% | und | Cerpa Tijuca (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,85 | +0.0% | Und | Cerpa Tijuca (retornável 600 ml) | Port. 222/2017 |
@@ -11827,9 +11827,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,15 |  | und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,40 | +11.6% | und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,51 | +4.6% | und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,40 |  | und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,15 | -10.4% | und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,51 | +16.7% | und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,63 | +4.8% | und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,79 | +6.1% | und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,83 | +1.4% | Und | Cerpa Tijuca – retornável (lata 350 ml) | Port. 222/2017 |
@@ -16827,9 +16827,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 2,58 | +1.6% | und | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,95 | +14.3% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,10 | +5.1% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,48 | +12.3% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,73 | +7.2% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,90 | +4.6% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,73 | +20.3% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,48 | -6.7% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,90 | +12.1% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,08 | +4.6% | und. | Chopp Belco Claro e Escuro (descartável 1 L) | Port. 142/2016 |
 
 ### Chopp Belco Claro e Escuro (descartável 350 ml) (código —)
@@ -16843,7 +16843,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,03 | +14.4% | und. | Chopp Belco Claro e Escuro (descartável 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,10 | +6.8% | und. | Chopp Belco Claro e Escuro (descartável 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,14 | +3.6% | und. | Chopp Belco Claro e Escuro (descartável 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,19 | +4.4% | und. | Chopp Belco Claro e Escuro (descartável 350 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,19 | +4.4% | und. | Chopp Belco Claro e Escuro (descartável 350 ml) | Port. 157/2015 |
 
 ### Chopp Belco Claro e Escuro (descartável 500 ml) (código —)
 
@@ -16856,9 +16856,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,50 | +15.4% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,60 | +6.7% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,66 | +3.7% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,73 | +4.2% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,86 | +7.5% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,94 | +4.3% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,86 | +12.0% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,73 | -7.0% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,94 | +12.1% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,03 | +4.6% | und. | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,58 | +27.1% | und | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 397/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,13 | -17.4% | und | Chopp Belco Claro e Escuro (descartável 500 ml) | Port. 397/2016 |
@@ -16874,9 +16874,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,75 | +14.4% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,90 | +8.6% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,98 | +4.2% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,06 | +4.0% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,22 | +7.8% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,32 | +4.5% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,22 | +12.1% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,06 | -7.2% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,32 | +12.6% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,43 | +4.7% | und. | Chopp Belco Claro e Escuro (descartável 600 ml) | Port. 142/2016 |
 
 ### Chopp Belco Claro e Escuro – 350 ml (código —)
@@ -16919,9 +16919,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2011-12-02 (pub.) | 2011-11-29 | incluir | 1,35 |  | UND | Chopp Belco Mista – Lata 473 ml | Port. 571/2011 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,48 | +9.6% | und. | Chopp Belco Mista (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,54 | +4.1% | und. | Chopp Belco Mista (lata 473 ml) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,66 | +7.8% | und. | Chopp Belco Mista (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,79 | +7.8% | und. | Chopp Belco Mista (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,87 | +4.5% | und. | Chopp Belco Mista (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,79 | +16.2% | und. | Chopp Belco Mista (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,66 | -7.3% | und. | Chopp Belco Mista (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,87 | +12.7% | und. | Chopp Belco Mista (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,96 | +4.8% | und. | Chopp Belco Mista (lata 473 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,12 | +8.2% | und. | Chopp Belco Mista (lata 473 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,15 | +1.4% | und. | Chopp Belco Mista (lata 473 ml) | Port. 222/2017 |
@@ -16941,9 +16941,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,26 |  | und. | Chopp Belco Mista 350 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,31 | +4.0% | und. | Chopp Belco Mista 350 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,36 | +3.8% | und. | Chopp Belco Mista 350 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,41 | +3.7% | und. | Chopp Belco Mista 350 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,52 | +7.8% | und. | Chopp Belco Mista 350 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,59 | +4.6% | und. | Chopp Belco Mista 350 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,52 | +11.8% | und. | Chopp Belco Mista 350 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,41 | -7.2% | und. | Chopp Belco Mista 350 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,59 | +12.8% | und. | Chopp Belco Mista 350 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,66 | +4.4% | und. | Chopp Belco Mista 350 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,83 | +10.2% | und. | Chopp Belco Mista 350 ml | Port. 397/2016 |
 
@@ -16961,9 +16961,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,81 | +14.1% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +11.1% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,94 | +4.4% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,98 | +4.3% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +8.2% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +4.7% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +12.8% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,98 | -7.5% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +13.3% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,16 | +4.5% | und. | Chopp Belco Sabores (descartável 250 ml) | Port. 142/2016 |
 
 ### Chopp Belco Sabores (descartável 330 ml) (código —)
@@ -16979,9 +16979,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 1,29 |  | und. | Chopp Belco Sabores (lata 473 ml) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,48 | +14.7% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,54 | +4.1% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,66 | +7.8% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,79 | +7.8% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,87 | +4.5% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,79 | +16.2% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,66 | -7.3% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,87 | +12.7% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,96 | +4.8% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,12 | +8.2% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,15 | +1.4% | und. | Chopp Belco Sabores (lata 473 ml) | Port. 222/2017 |
@@ -16995,9 +16995,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,04 |  | und. | Chopp Belco Sabores 330 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,10 | +5.8% | und. | Chopp Belco Sabores 330 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,14 | +3.6% | und. | Chopp Belco Sabores 330 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,19 | +4.4% | und. | Chopp Belco Sabores 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,28 | +7.6% | und. | Chopp Belco Sabores 330 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,34 | +4.7% | und. | Chopp Belco Sabores 330 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,28 | +12.3% | und. | Chopp Belco Sabores 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,19 | -7.0% | und. | Chopp Belco Sabores 330 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,34 | +12.6% | und. | Chopp Belco Sabores 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,40 | +4.5% | und. | Chopp Belco Sabores 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,54 | +10.0% | und. | Chopp Belco Sabores 330 ml | Port. 397/2016 |
 
@@ -18376,8 +18376,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-09-26 (pub.) | 2017-09-18 | incluir | 9,15 |  |  | Chopp Dona IPA 1000 ml | Port. 416/2017 |
 | 2018-05-15 (pub.) | 2018-05-09 | alterar | 16,90 | +84.7% |  | Chopp Dona Ipa 1000 ml | Port. 159/2018 |
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 19,96 | +18.1% |  | Chopp Dona Ipa 1.000 mL | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 20,36 | +2.0% | und | Chopp Dona Ipa (1 L) | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 20,36 | +20.5% | und | Chopp Dona Ipa (1 L) | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 20,77 | +2.0% | und | Chopp Dona Ipa (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 20,77 | +0.0% | und | Chopp Dona Ipa (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 20,77 | +0.0% | und | Chopp Dona Ipa (1 L) | Port. 614/2019 |
@@ -18395,8 +18394,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 199,60 |  |  | Chopp Dona Ipa - Barril 10.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 203,59 | +2.0% | und | Chopp Dona Ipa ⚠ | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 203,59 |  | und | Chopp Dona Ipa | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 207,66 | +2.0% | und | Chopp Dona Ipa | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 207,66 | +0.0% | und | Chopp Dona Ipa (barril 10 L) ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 207,66 | +0.0% | und | Chopp Dona Ipa ⚠ | Port. 614/2019 |
@@ -18414,8 +18412,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 399,20 |  |  | Chopp Dona Ipa - Barril 20.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 407,18 | +2.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 407,18 |  | und | Chopp Dona Ipa (barril 20 L) | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 415,32 | +2.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 415,32 | +0.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 415,32 | +0.0% | und | Chopp Dona Ipa (barril 20 L) | Port. 614/2019 |
@@ -18433,8 +18430,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 598,80 |  |  | Chopp Dona Ipa - Barril 30.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 610,78 | +2.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 610,78 |  | und | Chopp Dona Ipa (barril 30 L) | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 623,00 | +2.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 623,00 | +0.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 623,00 | +0.0% | und | Chopp Dona Ipa (barril 30 L) | Port. 614/2019 |
@@ -18452,8 +18448,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 998,00 |  |  | Chopp Dona Ipa - Barril 50.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 1017,96 | +2.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 1017,96 |  | und | Chopp Dona Ipa (barril 50 L) | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1038,32 | +2.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 1038,32 | +0.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 1.038,32 | +0.0% | und | Chopp Dona Ipa (barril 50 L) | Port. 614/2019 |
@@ -18499,8 +18494,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2017-09-26 (pub.) | 2017-09-18 | incluir | 9,16 |  |  | Chopp Dona Pilsen 1000 ml | Port. 416/2017 |
 | 2018-05-15 (pub.) | 2018-05-09 | alterar | 10,90 | +19.0% |  | Chopp Dona Pilsen 1000 ml | Port. 159/2018 |
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 12,88 | +18.2% |  | Chopp Dona Pilsen 1.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,14 | +2.0% | und | Chopp Dona Pilsen (1 L) | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 13,14 | +20.6% | und | Chopp Dona Pilsen (1 L) | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,40 | +2.0% | und | Chopp Dona Pilsen (1 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 13,40 | +0.0% | und | Chopp Dona Pilsen (1 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 13,40 | +0.0% | und | Chopp Dona Pilsen (1 L) | Port. 614/2019 |
@@ -18518,8 +18512,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 128,80 |  |  | Chopp Dona Pilsen - Barril 10.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 131,38 | +2.0% | und | Chopp Dona Pilsen ⚠ | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 131,38 |  | und | Chopp Dona Pilsen | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 134,01 | +2.0% | und | Chopp Dona Pilsen | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 134,01 | +0.0% | und | Chopp Dona Pilsen (barril 10 L) ⚠ | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 134,01 | +0.0% | und | Chopp Dona Pilsen ⚠ | Port. 614/2019 |
@@ -18537,8 +18530,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 257,60 |  |  | Chopp Dona Pilsen - Barril 20.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 262,75 | +2.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 262,75 |  | und | Chopp Dona Pilsen (barril 20 L) | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 268,01 | +2.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 268,01 | +0.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 268,01 | +0.0% | und | Chopp Dona Pilsen (barril 20 L) | Port. 614/2019 |
@@ -18556,8 +18548,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 386,40 |  |  | Chopp Dona Pilsen - Barril 30.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 394,13 | +2.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 394,13 |  | und | Chopp Dona Pilsen (barril 30 L) | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 402,01 | +2.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 402,01 | +0.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 402,01 | +0.0% | und | Chopp Dona Pilsen (barril 30 L) | Port. 614/2019 |
@@ -18575,8 +18566,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2018-09-13 (pub.) | 2018-09-06 | alterar | 644,00 |  |  | Chopp Dona Pilsen - Barril 50.000 ml | Port. 313/2018 |
-| 2018-11-09 (pub.) | 2018-11-06 | alterar | 656,88 | +2.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 383/2018 |
+| 2018-11-09 (pub.) | 2018-11-06 | alterar | 656,88 |  | und | Chopp Dona Pilsen (barril 50 L) | Port. 383/2018 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 670,02 | +2.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 285/2019 |
 | 2019-05-09 (efeitos) | 2019-05-06 | alterar | 670,02 | +0.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 286/2019 |
 | 2019-11-12 (pub.) | 2019-11-07 | incluir | 670,02 | +0.0% | und | Chopp Dona Pilsen (barril 50 L) | Port. 614/2019 |
@@ -20087,9 +20077,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,81 |  | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +11.1% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,94 | +4.4% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,98 | +4.3% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +8.2% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +4.7% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +12.8% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,98 | -7.5% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +13.3% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,16 | +4.5% | und. | Chopp Kalena Mista (descartável 250 ml) | Port. 142/2016 |
 
 ### Chopp Kalena Mista (descartável 600 ml) (código —)
@@ -20099,9 +20089,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,75 |  | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,90 | +8.6% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,98 | +4.2% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,06 | -46.5% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,22 | +109.4% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,32 | +4.5% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,22 | +12.1% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,06 | -52.3% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,32 | +118.9% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,43 | +4.7% | und. | Chopp Kalena Mista (descartável 600 ml) | Port. 142/2016 |
 
 ### Chopp Kalena Mista (lata 473 ml) (código 49737)
@@ -20111,9 +20101,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2011-12-02 (pub.) | 2011-11-29 | incluir | 1,35 |  | UND | Chopp Kalena Mista - Lata 473 ml | Port. 571/2011 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,48 | +9.6% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,54 | +4.1% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,66 | +7.8% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,79 | +7.8% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,87 | +4.5% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,79 | +16.2% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,66 | -7.3% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,87 | +12.7% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,96 | +4.8% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,12 | +8.2% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,15 | +1.4% | und. | Chopp Kalena Mista (lata 473 ml) | Port. 222/2017 |
@@ -20133,9 +20123,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,26 |  | und. | Chopp Kalena Mista 350 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,31 | +4.0% | und. | Chopp Kalena Mista 350 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,36 | +3.8% | und. | Chopp Kalena Mista 350 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,41 | +3.7% | und. | Chopp Kalena Mista 350 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,52 | +7.8% | und. | Chopp Kalena Mista 350 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,59 | +4.6% | und. | Chopp Kalena Mista 350 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,52 | +11.8% | und. | Chopp Kalena Mista 350 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,41 | -7.2% | und. | Chopp Kalena Mista 350 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,59 | +12.8% | und. | Chopp Kalena Mista 350 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,66 | +4.4% | und. | Chopp Kalena Mista 350 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,83 | +10.2% | und. | Chopp Kalena Mista 350 ml | Port. 397/2016 |
 
@@ -25725,9 +25715,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,51 |  | und | Crystal Malzbier (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,68 | +11.3% | und | Crystal Malzbier (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,76 | +4.8% | und | Crystal Malzbier (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,68 |  | und | Crystal Malzbier (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,51 | -10.1% | und | Crystal Malzbier (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,76 | +16.6% | und | Crystal Malzbier (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,84 | +4.5% | und | Crystal Malzbier (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,96 | +6.5% | und | Crystal Malzbier (lata 350 ml) | Port. 397/2016 |
 
@@ -25735,9 +25725,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,17 |  | und | Crystal Malzbier (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,57 | +18.4% | und | Crystal Malzbier (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,69 | +4.7% | und | Crystal Malzbier (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,57 |  | und | Crystal Malzbier (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,17 | -15.6% | und | Crystal Malzbier (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,69 | +24.0% | und | Crystal Malzbier (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,82 | +4.8% | und | Crystal Malzbier (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,90 | +2.8% | und | Crystal Malzbier (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -25745,9 +25735,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,00 |  | Und | Crystal Malzbier (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,40 | +13.3% | Und | Crystal Malzbier (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,55 | +4.4% | Und | Crystal Malzbier (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,40 |  | Und | Crystal Malzbier (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,00 | -11.8% | Und | Crystal Malzbier (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,55 | +18.3% | Und | Crystal Malzbier (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,72 | +4.8% | und | Crystal Malzbier (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,14 | +11.3% | und | Crystal Malzbier (retornável 600 ml) | Port. 397/2016 |
 
@@ -25755,17 +25745,17 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,22 |  | und | Crystal Pilen (retornável 1 L) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,22 |  | und | Crystal Pilen (retornável 1 L) | Port. 157/2015 |
 
 ### Crystal Pilsen (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,97 |  | und | Crystal Pilsen | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,88 | -9.3% | und | Crystal Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,07 | +21.6% | und | Crystal Pilsen | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,07 |  | und | Crystal Pilsen | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,00 | -6.5% | und | Crystal Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,12 | +12.0% | und | Crystal Pilsen | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,97 | -3.0% | und | Crystal Pilsen | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,88 | -9.3% | und | Crystal Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,12 | +27.3% | und | Crystal Pilsen | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,04 | -7.1% | und | Crystal Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,17 | +12.5% | und | Crystal Pilsen | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,09 | -6.8% | und | Crystal Pilsen | Port. 142/2016 |
@@ -25786,9 +25776,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 3,37 |  |  | Cerveja Crystal Pilsen - Descartável 1000 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,50 | +3.9% | und | Crystal Pilsen (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,75 | +7.1% | und | Crystal Pilsen (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,92 | +4.5% | und | Crystal Pilsen (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,75 | +11.3% | und | Crystal Pilsen (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,50 | -6.7% | und | Crystal Pilsen (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,92 | +12.0% | und | Crystal Pilsen (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,10 | +4.6% | und | Crystal Pilsen (descartável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,27 | +4.1% | und | Crystal Pilsen (descartável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,33 | +1.4% | Und | Crystal Pilsen (descartável 1 L) | Port. 222/2017 |
@@ -25831,9 +25821,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,37 |  | und | Crystal Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 | +11.7% | und | Crystal Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,60 | +4.6% | und | Crystal Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 |  | und | Crystal Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,37 | -10.5% | und | Crystal Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,60 | +16.8% | und | Crystal Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,67 | +4.4% | und | Crystal Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,80 | +7.8% | und | Crystal Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,83 | +1.7% | Und | Crystal Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -25859,9 +25849,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 1,61 |  |  | Cerveja Crystal Pilsen - Lata 473 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,67 | +3.7% | und | Crystal Pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,73 | +3.6% | und | Crystal Pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,81 | +4.6% | und | Crystal Pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,73 | +7.5% | und | Crystal Pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,67 | -3.5% | und | Crystal Pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,81 | +8.4% | und | Crystal Pilsen (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,89 | +4.4% | und | Crystal Pilsen – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,05 | +8.5% | und | Crystal Pilsen – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,08 | +1.5% | Und | Crystal Pilsen – 473 ml | Port. 222/2017 |
@@ -25886,9 +25876,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,40 |  | und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,66 | +18.6% | und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,73 | +4.2% | und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,66 |  | und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,40 | -15.7% | und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,73 | +23.6% | und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,81 | +4.6% | und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,86 | +2.8% | und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,89 | +1.6% | Und | Crystal Pilsen (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -25986,9 +25976,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,72 |  | und | Crystal Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,08 | +13.2% | und | Crystal Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,22 | +4.5% | und | Crystal Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,08 |  | und | Crystal Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,72 | -11.7% | und | Crystal Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,22 | +18.4% | und | Crystal Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,37 | +4.7% | und | Crystal Pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,75 | +11.3% | und | Crystal Pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,80 | +1.3% | Und | Crystal Pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -26013,9 +26003,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,51 |  | und | Crystal zero Álcool (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,68 | +11.3% | und | Crystal zero Álcool (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,76 | +4.8% | und | Crystal zero Álcool (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,68 |  | und | Crystal zero Álcool (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,51 | -10.1% | und | Crystal zero Álcool (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,76 | +16.6% | und | Crystal zero Álcool (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,84 | +4.5% | und | Crystal zero Álcool (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,96 | +6.5% | und | Crystal zero Álcool (lata 350 ml) | Port. 397/2016 |
 
@@ -26023,9 +26013,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,94 |  | und | Crystal zero Alcool (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,30 | +18.6% | und | Crystal zero Alcool (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,40 | +4.3% | und | Crystal zero Alcool (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,30 |  | und | Crystal zero Alcool (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,94 | -15.7% | und | Crystal zero Alcool (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,40 | +23.7% | und | Crystal zero Alcool (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,51 | +4.6% | und | Crystal zero Alcool (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,59 | +3.2% | und | Crystal zero Alcool (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -26324,9 +26314,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,35 |  | und | Desperados – 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,30 | +83.0% | und | Desperados – 330 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,23 | -1.6% | und | Desperados – 330 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,30 |  | und | Desperados – 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,35 | -45.3% | und | Desperados – 330 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,23 | +80.0% | und | Desperados – 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,43 | +4.7% | und | Desperados – 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,74 | +7.0% | und | Desperados – 330 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,81 | +1.5% | Und | Desperados – 330 ml | Port. 222/2017 |
@@ -26339,9 +26329,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-02-26 (pub.) | 2014-02-19 | incluir | 1,10 |  |  | Cerveja Devassa - lata 269 ml | Port. 59/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,19 | +8.2% | und | Devassa ⚠ | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,32 | +10.9% | und | Devassa | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,38 | +4.5% | und | Devassa | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,32 | +20.0% | und | Devassa ⚠ | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,19 | -9.8% | und | Devassa | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,38 | +16.0% | und | Devassa | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,44 | +4.3% | und | Devassa | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,61 | +11.8% | und | Devassa (lata 250 a 310 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,63 | +1.2% | und | Devassa (lata 250 a 310 ml) | Port. 222/2017 |
@@ -26367,9 +26357,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-02-26 (pub.) | 2014-02-19 | incluir | 1,76 |  |  | Cerveja Devassa - lata 350 ml | Port. 59/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 | +1.7% | und | Devassa (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,80 | +0.6% | und | Devassa (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,88 | +4.4% | und | Devassa (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,80 | +2.3% | und | Devassa (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -0.6% | und | Devassa (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,88 | +5.0% | und | Devassa (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,97 | +4.8% | und | Devassa (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +12.7% | und | Devassa (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,25 | +1.4% | Und | Devassa (lata 350 ml) | Port. 222/2017 |
@@ -26522,9 +26512,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,68 |  | und | Devassa Bem Loura (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,79 | +6.5% | und | Devassa Bem Loura (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 | +0.0% | und | Devassa Bem Loura (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,97 | +10.1% | und | Devassa Bem Loura (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,06 | +4.6% | und | Devassa Bem Loura (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -9.1% | und | Devassa Bem Loura (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,06 | +15.1% | und | Devassa Bem Loura (lata 350 ml) | Port. 463/2015 |
 
 ### Devassa Bem Loura (retornável 600 ml) (código —)
 
@@ -26532,9 +26522,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,20 |  | und | Devassa Bem Loura (retornável 600 ml) | Port. 324/2012 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,63 | +13.4% | und | Devassa Bem Loura (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,85 | +6.1% | und | Devassa Bem Loura (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,00 | +3.9% | und | Devassa Bem Loura (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,18 | +4.5% | und | Devassa Bem Loura (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,00 | +10.2% | und | Devassa Bem Loura (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,85 | -3.7% | und | Devassa Bem Loura (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,18 | +8.6% | und | Devassa Bem Loura (retornável 600 ml) | Port. 463/2015 |
 
 ### Devassa Loura (lata 350 ml) (código —)
 
@@ -26546,9 +26536,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,94 |  | und. | Devassa Loura (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,90 | +32.7% | und. | Devassa Loura (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,07 | +4.4% | und. | Devassa Loura (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,90 |  | und. | Devassa Loura (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,94 | -24.6% | und. | Devassa Loura (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,07 | +38.4% | und. | Devassa Loura (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,26 | +4.7% | und. | Devassa Loura (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,26 | +0.0% | und | Devassa Loura (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,32 | +1.4% | Und | Devassa Loura (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -27067,9 +27057,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,21 |  |  | D'Ávila Pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,30 | +7.4% |  | D'Ávila Pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,38 | +6.2% |  | D'Ávila Pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,44 | +4.3% | und. | D’Ávila Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +11.1% | und. | D’Ávila Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +4.4% | und. | D’Ávila Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +15.9% | und. | D’Ávila Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,44 | -10.0% | und. | D’Ávila Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +16.0% | und. | D’Ávila Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,75 | +4.8% | und. | D’Ávila Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,86 | +6.3% | und | D’Ávila Pilsen (lata 350 ml) | Port. 397/2016 |
 
@@ -27078,9 +27068,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,56 |  |  | D'Ávila Pilsen (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,62 | +3.8% | und | D’Ávila Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,92 | +18.5% | und | D’Ávila Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +4.7% | und | D’Ávila Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,92 | +23.1% | und | D’Ávila Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,62 | -15.6% | und | D’Ávila Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +24.1% | und | D’Ávila Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,10 | +4.5% | und | D’Ávila Pilsen (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,19 | +4.3% | und | D’Ávila Pilsen (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -27088,9 +27078,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,27 |  | und | D’Ávila Pilsen (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,70 | +13.1% | und | D’Ávila Pilsen (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,87 | +4.6% | und | D’Ávila Pilsen (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,70 |  | und | D’Ávila Pilsen (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,27 | -11.6% | und | D’Ávila Pilsen (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,87 | +18.3% | und | D’Ávila Pilsen (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,05 | +4.7% | und | D’Ávila Pilsen (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,49 | +10.9% | und | D’Ávila Pilsen (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,56 | +1.6% | Und | D’Ávila Pilsen (retornável 1 L) | Port. 222/2017 |
@@ -27118,9 +27108,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,85 |  | und | D'Ávila Pilsen (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +8.1% | und | D'Ávila Pilsen (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | D'Ávila Pilsen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +6.1% | und | D’Ávila Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +13.3% | und | D’Ávila Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +4.3% | und | D’Ávila Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +20.3% | und | D’Ávila Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -11.8% | und | D’Ávila Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +18.2% | und | D’Ávila Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,78 | +4.5% | und | D’Ávila Pilsen (retornável 600 ml) | Port. 142/2016 |
 
 ### Cerveja Kriek Mariage Parfait 375 ml (código 50056)
@@ -28206,9 +28196,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,86 |  | und | Estella Galícia – 200 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,20 | +18.3% | und | Estella Galícia – 200 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +4.5% | und | Estella Galícia – 200 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,20 |  | und | Estella Galícia – 200 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,86 | -15.5% | und | Estella Galícia – 200 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +23.7% | und | Estella Galícia – 200 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,41 | +4.8% | und | Estella Galícia – 200 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,51 | +4.1% | und | Estella Galícia – 200 ml | Port. 397/2016 |
 
@@ -28216,9 +28206,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,37 |  | und | Estella Galícia – 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,81 | +18.6% | und | Estella Galícia – 330 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,94 | +4.6% | und | Estella Galícia – 330 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,81 |  | und | Estella Galícia – 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,37 | -15.7% | und | Estella Galícia – 330 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,94 | +24.1% | und | Estella Galícia – 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,08 | +4.8% | und | Estella Galícia – 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,21 | +4.2% | und | Estella Galícia – 330 ml | Port. 397/2016 |
 
@@ -28226,9 +28216,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 26,00 |  | und | Estella Galícia – 330 ml – Kit | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 30,79 | +18.4% | und | Estella Galícia – 330 ml – Kit | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 32,17 | +4.5% | und | Estella Galícia – 330 ml – Kit | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 30,79 |  | und | Estella Galícia – 330 ml – Kit | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 26,00 | -15.6% | und | Estella Galícia – 330 ml – Kit | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 32,17 | +23.7% | und | Estella Galícia – 330 ml – Kit | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 33,68 | +4.7% | und | Estella Galícia – 330 ml – Kit | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 35,09 | +4.2% | und | Estella Galícia – 330 ml – Kit | Port. 397/2016 |
 
@@ -28780,9 +28770,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,42 | +14.5% | und | Frevo (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +40.8% | und | Frevo (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Frevo (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +6.1% | und | Frevo (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +13.3% | und | Frevo (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +4.3% | und | Frevo (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +20.3% | und | Frevo (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -11.8% | und | Frevo (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +18.2% | und | Frevo (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,78 | +4.5% | und | Frevo (retornável 600 ml) | Port. 142/2016 |
 
 ### Frevo Pilsen (lata 350 ml) (código 38083)
@@ -28941,9 +28931,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-02-23 (assin.) | 2010-02-23 | incluir | 1,92 | +2.1% | und | Glacial (retornável 600 ml) | Port. 50/2010 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,39 | +24.5% | und | Glacial (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,53 | +5.9% | und | Glacial (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,53 | +0.0% | und | Glacial (retornável 600 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,63 | +4.0% | und | Glacial (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,05 | +16.0% | und | Glacial (retornável 600 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,53 | -3.8% | und | Glacial (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,05 | +20.6% | und | Glacial (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,19 | +4.6% | und | Glacial (retornável 600 ml) | Port. 142/2016 |
 
 ### Glacial Pilsen (lata 350 ml) (código 38084)
@@ -28976,9 +28966,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,49 |  | und | Glacial Pilsen (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,55 | +4.0% | und | Glacial Pilsen (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,61 | +3.9% | und | Glacial Pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,67 | +3.7% | und | Glacial Pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,74 | +4.2% | und | Glacial Pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,67 | +7.7% | und | Glacial Pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,61 | -3.6% | und | Glacial Pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,74 | +8.1% | und | Glacial Pilsen (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,82 | +4.6% | und | Glacial Pilsen – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,95 | +7.1% | und | Glacial Pilsen – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,98 | +1.5% | Und | Glacial Pilsen – 473 ml | Port. 222/2017 |
@@ -29028,9 +29018,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,90 |  | Und. | Glacial Pilsen (retornável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,10 | +6.9% | Und. | Glacial Pilsen (retornável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,35 | +8.1% | Und. | Glacial Pilsen (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,64 | +8.7% | Und. | Glacial Pilsen (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,80 | +4.4% | Und. | Glacial Pilsen (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,64 | +17.4% | Und. | Glacial Pilsen (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,35 | -8.0% | Und. | Glacial Pilsen (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,80 | +13.4% | Und. | Glacial Pilsen (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,98 | +4.7% | und. | Glacial Pilsen (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,41 | +10.8% | und | Glacial Pilsen (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,47 | +1.4% | Und | Glacial Pilsen (retornável 1 L) | Port. 222/2017 |
@@ -29473,11 +29463,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,27 | +13.5% | und | Heineken (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,36 | +4.0% | und | Heineken (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,46 | +4.2% | und | Heineken (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,56 | +4.1% | und | Heineken (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,69 | -34.0% | und | Heineken ⚠ | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,00 | +77.5% | und | Heineken (long neck 200 a 355 ml) ⚠ | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,00 | +22.0% | und | Heineken (long neck 200 a 355 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | -37.7% | und | Heineken ⚠ | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,15 | +68.4% | und | Heineken (long neck 200 a 355 ml) ⚠ | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,56 | +36.9% | und | Heineken (long neck 200 a 355 ml) ⚠ | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,69 | -34.0% | und | Heineken ⚠ | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,15 | +86.4% | und | Heineken (long neck 200 a 355 ml) ⚠ | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,95 | -38.1% | und | Heineken ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,30 | +69.2% | und | Heineken (long neck 200 a 355 ml) ⚠ | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,04 | -38.2% | und | Heineken ⚠ | Port. 142/2016 |
@@ -29506,9 +29496,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,98 |  | und. | Heineken (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,30 | +8.0% | und. | Heineken (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,56 | +6.0% | und. | Heineken (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,83 | +5.9% | und. | Heineken (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,95 | +2.5% | und. | Heineken (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,17 | +4.4% | und. | Heineken (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,95 | +8.6% | und. | Heineken (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,83 | -2.4% | und. | Heineken (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,17 | +7.0% | und. | Heineken (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,41 | +4.6% | und. | Heineken (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,12 | +13.1% | und | Heineken (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 6,21 | +1.5% | Und | Heineken (retornável 600 ml) | Port. 222/2017 |
@@ -30434,9 +30424,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,42 | +15.4% | und | Imperial Beer (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,48 | +4.2% | und | Imperial Beer (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,57 | +6.1% | und | Imperial Beer (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,63 | +3.8% | und | Imperial Beer (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,82 | +11.7% | und | Imperial Beer (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,90 | +4.4% | und | Imperial Beer (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,82 | +15.9% | und | Imperial Beer (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,63 | -10.4% | und | Imperial Beer (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,90 | +16.6% | und | Imperial Beer (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,99 | +4.7% | und | Imperial Beer (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,11 | +6.0% | und | Imperial Beer (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,14 | +1.4% | Und | Imperial Beer (lata 350 ml) | Port. 222/2017 |
@@ -30468,9 +30458,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,25 | +14.2% | und | Imperial Beer (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,41 | +7.1% | und | Imperial Beer (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,55 | +5.8% | und | Imperial Beer (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,70 | +5.9% | und | Imperial Beer (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,06 | +13.3% | und | Imperial Beer (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,20 | +4.6% | und | Imperial Beer (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,06 | +20.0% | und | Imperial Beer (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,70 | -11.8% | und | Imperial Beer (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,20 | +18.5% | und | Imperial Beer (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,35 | +4.7% | und | Imperial Beer (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,71 | +10.7% | und | Imperial Beer (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,76 | +1.3% | Und | Imperial Beer (retornável 600 ml) | Port. 222/2017 |
@@ -31132,9 +31122,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 |  | und | Itaipava zero Álcool (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,26 | +11.3% | und | Itaipava zero Álcool (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,36 | +4.4% | und | Itaipava zero Álcool (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,26 |  | und | Itaipava zero Álcool (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | -10.2% | und | Itaipava zero Álcool (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,36 | +16.3% | und | Itaipava zero Álcool (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,47 | +4.7% | und | Itaipava zero Álcool (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,63 | +6.5% | und | Itaipava zero Álcool (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,67 | +1.5% | Und | Itaipava zero Álcool (lata 350 ml) | Port. 222/2017 |
@@ -31349,9 +31339,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,14 |  | und | Itaipava Fest | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +10.5% | und | Itaipava Fest | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +4.8% | und | Itaipava Fest | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 |  | und | Itaipava Fest | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,14 | -9.5% | und | Itaipava Fest | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +15.8% | und | Itaipava Fest | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,38 | +4.5% | und | Itaipava Fest | Port. 142/2016 |
 
 ### Itaipava Fest (lata 220 a 310 ml) (código 48692)
@@ -31374,9 +31364,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 |  | und | Itaipava Fest (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,16 | +18.7% | und | Itaipava Fest (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,26 | +4.6% | und | Itaipava Fest (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,16 |  | und | Itaipava Fest (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -15.7% | und | Itaipava Fest (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,26 | +24.2% | und | Itaipava Fest (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,37 | +4.9% | und | Itaipava Fest (long neck 200 a 355 ml) | Port. 142/2016 |
 
 ### Itaipava Fest - 350 ml (código 48803)
@@ -31467,18 +31457,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,25 |  | und | Itaipava Light Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +10.4% | und | Itaipava Light Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +4.3% | und | Itaipava Light Pilsen | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 |  | und | Itaipava Light Pilsen | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,25 | -9.4% | und | Itaipava Light Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +15.2% | und | Itaipava Light Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Itaipava Light Pilsen | Port. 142/2016 |
 
 ### Itaipava Light Pilsen (lata 350 ml) (código 48684)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 |  | und | Itaipava Light Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,99 | +11.2% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,08 | +4.5% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,99 |  | und | Itaipava Light Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -10.1% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,08 | +16.2% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,18 | +4.8% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,32 | +6.4% | und | Itaipava Light Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,35 | +1.3% | Und | Itaipava Light Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -31504,9 +31494,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 |  | und | Itaipava Malzbier (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,99 | +11.2% | und | Itaipava Malzbier (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,08 | +4.5% | und | Itaipava Malzbier (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,99 |  | und | Itaipava Malzbier (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -10.1% | und | Itaipava Malzbier (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,08 | +16.2% | und | Itaipava Malzbier (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,18 | +4.8% | und | Itaipava Malzbier (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,32 | +6.4% | und | Itaipava Malzbier (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,35 | +1.3% | Und | Itaipava Malzbier (lata 350 ml) | Port. 222/2017 |
@@ -31545,9 +31535,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,56 |  | und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 | +18.4% | und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,17 | +4.6% | und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 |  | und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,56 | -15.5% | und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,17 | +23.8% | und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,32 | +4.7% | und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,42 | +3.0% | und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,47 | +1.5% | Und | Itaipava Malzbier (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -31564,9 +31554,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,57 |  | und | Itaipava Malzbier (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,04 | +13.2% | und | Itaipava Malzbier (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,22 | +4.5% | und | Itaipava Malzbier (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,04 |  | und | Itaipava Malzbier (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,57 | -11.6% | und | Itaipava Malzbier (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,22 | +18.2% | und | Itaipava Malzbier (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,42 | +4.7% | und | Itaipava Malzbier (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,92 | +11.3% | und | Itaipava Malzbier (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,99 | +1.4% | Und | Itaipava Malzbier (retornável 600 ml) | Port. 222/2017 |
@@ -31600,9 +31590,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,12 |  | und | Itaipava Pilsen (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,42 | +7.3% | und | Itaipava Pilsen (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,62 | +4.5% | und | Itaipava Pilsen (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,42 |  | und | Itaipava Pilsen (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,12 | -6.8% | und | Itaipava Pilsen (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,62 | +12.1% | und | Itaipava Pilsen (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,84 | +4.8% | und | Itaipava Pilsen (descartável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,34 | +10.3% | und | Itaipava Pilsen (descartável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,42 | +1.5% | Und | Itaipava Pilsen (descartável 1 L) | Port. 222/2017 |
@@ -31636,11 +31626,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,13 |  | und | Itaipava Pilsen | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,27 | +12.4% | und | Itaipava Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | -1.6% | und | Itaipava Pilsen | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 |  | und | Itaipava Pilsen | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,40 | +12.0% | und | Itaipava Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,61 | +15.0% | und | Itaipava Pilsen | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,13 | -19.3% | und | Itaipava Pilsen | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,27 | +12.4% | und | Itaipava Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,61 | +26.8% | und | Itaipava Pilsen | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,61 | +0.0% | und | Itaipava Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,69 | +5.0% | und | Itaipava Pilsen | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,69 | +0.0% | und | Itaipava Pilsen | Port. 142/2016 |
@@ -31667,9 +31657,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,73 |  | und | Itaipava Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,80 | +4.0% | und | Itaipava Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,90 | +5.6% | und | Itaipava Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,80 |  | und | Itaipava Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,73 | -3.9% | und | Itaipava Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,90 | +9.8% | und | Itaipava Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,99 | +4.7% | und | Itaipava Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,10 | +5.5% | und | Itaipava Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,13 | +1.4% | Und | Itaipava Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -31694,9 +31684,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,97 |  | und | Itaipava Pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,11 | +7.1% | und | Itaipava Pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,34 | +10.9% | und | Itaipava Pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,11 |  | und | Itaipava Pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,97 | -6.6% | und | Itaipava Pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,34 | +18.8% | und | Itaipava Pilsen (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,45 | +4.7% | und | Itaipava Pilsen – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,68 | +9.4% | und | Itaipava Pilsen – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,72 | +1.5% | Und | Itaipava Pilsen – 473 ml | Port. 222/2017 |
@@ -31773,9 +31763,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,65 |  | und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,00 | +21.2% | und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,28 | +14.0% | und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,00 |  | und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,65 | -17.5% | und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,28 | +38.2% | und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,39 | +4.8% | und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,57 | +7.5% | und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,61 | +1.6% | Und | Itaipava Pilsen (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -31791,9 +31781,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,79 |  | Und | Itaipava Pilsen (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,28 | +12.9% | Und | Itaipava Pilsen (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,47 | +4.4% | Und | Itaipava Pilsen (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,28 |  | Und | Itaipava Pilsen (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,79 | -11.4% | Und | Itaipava Pilsen (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,47 | +17.9% | Und | Itaipava Pilsen (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,68 | +4.7% | und | Itaipava Pilsen (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,06 | +8.1% | und | Itaipava Pilsen (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,13 | +1.4% | Und | Itaipava Pilsen (retornável 1 L) | Port. 222/2017 |
@@ -31842,9 +31832,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,24 |  | und | Itaipava Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,65 | +12.7% | und | Itaipava Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,09 | +12.1% | und | Itaipava Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,65 |  | und | Itaipava Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,24 | -11.2% | und | Itaipava Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,09 | +26.2% | und | Itaipava Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,28 | +4.6% | und | Itaipava Pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,87 | +13.8% | und | Itaipava Pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,94 | +1.4% | Und | Itaipava Pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -31915,9 +31905,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,20 |  | und | Itaipava Premium (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,45 | +6.0% | und | Itaipava Premium (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,65 | +4.5% | und | Itaipava Premium (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,45 |  | und | Itaipava Premium (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,20 | -5.6% | und | Itaipava Premium (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,65 | +10.7% | und | Itaipava Premium (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,87 | +4.7% | und | Itaipava Premium (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,11 | +4.9% | und | Itaipava Premium Pilsen (descartável 600 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,18 | +1.4% | Und | Itaipava Premium Pilsen (descartável 600 ml) | Port. 222/2017 |
@@ -31971,9 +31961,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 |  | und | Itaipava Premium (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,28 | +12.3% | und | Itaipava Premium (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,38 | +4.4% | und | Itaipava Premium (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,28 |  | und | Itaipava Premium (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | -11.0% | und | Itaipava Premium (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,38 | +17.2% | und | Itaipava Premium (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,49 | +4.6% | und | Itaipava Premium (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,49 | +0.0% | und | Itaipava Premium Pilsen (lata 350 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,53 | +1.6% | Und | Itaipava Premium Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -32012,9 +32002,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 |  | und | Itaipava Premium (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +18.1% | und | Itaipava Premium (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,47 | +14.9% | und | Itaipava Premium (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 |  | und | Itaipava Premium (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -15.3% | und | Itaipava Premium (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,47 | +35.7% | und | Itaipava Premium (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,59 | +4.9% | und | Itaipava Premium (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,67 | +3.1% | und | Itaipava Premium Pilsen (long neck 200 a 355 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,71 | +1.5% | Und | Itaipava Premium Pilsen (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -32043,9 +32033,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,57 |  | und | Itaipava Premium (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,05 | +13.4% | und | Itaipava Premium (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,23 | +4.4% | und | Itaipava Premium (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,05 |  | und | Itaipava Premium (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,57 | -11.9% | und | Itaipava Premium (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,23 | +18.5% | und | Itaipava Premium (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,43 | +4.7% | und | Itaipava Premium (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,93 | +11.3% | und | Itaipava Premium (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,00 | +1.4% | Und | Itaipava Premium (retornável 600 ml) | Port. 222/2017 |
@@ -32062,16 +32052,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,49 |  | und | Itaipava Primium | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,65 | +10.7% | und | Itaipava Primium | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,65 |  | und | Itaipava Primium | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,49 | -9.7% | und | Itaipava Primium | Port. 157/2015 |
 
 ### Itaipava Zero Alcool (long neck 355 ml) (código 48539)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 |  | und | Itaipava zero Alcool (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,70 | +17.9% | und | Itaipava zero Alcool (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,70 | +0.0% | und | Itaipava zero Alcool (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,70 |  | und | Itaipava zero Alcool (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -15.2% | und | Itaipava zero Alcool (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,70 | +17.9% | und | Itaipava zero Alcool (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,83 | +4.8% | und | Itaipava zero Alcool (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,84 | +0.4% | und | Itaipava zero Alcool (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,88 | +1.4% | Und | Itaipava Zero Alcool (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -32141,9 +32131,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,27 | +9.5% | und | Kaiser Pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,32 | +3.9% | und | Kaiser Pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,40 | +6.1% | und | Kaiser Pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,46 | +4.3% | und | Kaiser Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 | +4.8% | und | Kaiser Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +9.2% | und | Kaiser Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 | +9.3% | und | Kaiser Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,46 | -4.6% | und | Kaiser Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +14.4% | und | Kaiser Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,75 | +4.8% | und | Kaiser Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,82 | +4.0% | und | Kaiser Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,85 | +1.6% | Und | Kaiser Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -32214,9 +32204,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,00 | +107.5% | und | Outras Marcas Kaiser (retornável 600 ml) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,58 | -48.4% | und | Kaiser pilsen (retornável 600 ml) ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,58 | +0.0% | und | Kaiser pilsen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,73 | +5.8% | und | Kaiser pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,86 | +4.8% | und | Kaiser pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,34 | +16.8% | und | Kaiser pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,86 | +10.9% | und | Kaiser pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,73 | -4.5% | und | Kaiser pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,34 | +22.3% | und | Kaiser pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,50 | +4.8% | und | Kaiser pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,00 | +14.3% | und | Kaiser pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,06 | +1.5% | Und | Kaiser pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -32252,11 +32242,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 30,63 | +2993.9% | und | Kaiser Pilsen | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,05 | -96.6% | und | Kaiser pilsen | Port. 74/2013 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 32,00 | +2947.6% | und | Kaiser Pilsen | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,13 | -96.5% | und | Kaiser pilsen | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 34,32 | +2937.2% | und | Kaiser Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,28 | -96.3% | und | Kaiser pilsen | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,28 | -96.0% | und | Kaiser pilsen | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 37,75 | +2849.2% | und | Kaiser Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,34 | -96.5% | und | Kaiser pilsen | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,13 | -97.0% | und | Kaiser pilsen | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 34,32 | +2937.2% | und | Kaiser Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,34 | -96.1% | und | Kaiser pilsen | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,35 | +0.7% | und. | Kaiser Pilsen | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 39,44 | +2821.5% | und | Kaiser Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,40 | -96.5% | und | Kaiser pilsen | Port. 142/2016 |
@@ -32290,9 +32280,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,57 | -4.8% | und | Kaiser pilsen (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,80 | +14.6% | und | Kaiser pilsen (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,87 | +3.9% | und | Kaiser pilsen (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,94 | +3.7% | und | Kaiser pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | -3.6% | und | Kaiser pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +7.5% | und | Kaiser pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +0.0% | und | Kaiser pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,94 | +3.7% | und | Kaiser pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +3.6% | und | Kaiser pilsen (lata 473 ml) | Port. 463/2015 |
 
 ### Kaiser Pilsen (long neck 200 a 375 ml) (código 48631)
 
@@ -32302,9 +32292,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,61 | +14.2% | und | Kaiser Pilsen (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,67 | +3.7% | und | Kaiser Pilsen (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,74 | +4.2% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,81 | +4.0% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,85 | +2.2% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,93 | +4.3% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,85 | +6.3% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,81 | -2.2% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,93 | +6.6% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,02 | +4.7% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,10 | +4.0% | und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,13 | +1.4% | Und | Kaiser Pilsen (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -32324,9 +32314,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,20 |  | und | Kaiser Radier | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,30 | +8.3% | und | Kaiser Radier | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,36 | +4.6% | und | Kaiser Radier | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,30 |  | und | Kaiser Radier | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,20 | -7.7% | und | Kaiser Radier | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,36 | +13.3% | und | Kaiser Radier | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,42 | +4.4% | und | Kaiser Radier | Port. 142/2016 |
 
 ### Kaiser Radier (long neck 250 ml) (código 38079)
@@ -32357,9 +32347,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-02-03 (pub.) | 2014-01-27 | incluir | 1,47 |  |  | Cerveja Kaiser Radler - lata 350 ml | Port. 29/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,53 | +4.1% | und | Kaiser Radler (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,80 | +17.6% | und | Kaiser Radler (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,88 | +4.4% | und | Kaiser Radler (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,80 | +22.4% | und | Kaiser Radler (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,53 | -15.0% | und | Kaiser Radler (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,88 | +22.9% | und | Kaiser Radler (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,97 | +4.8% | und | Kaiser Radler (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,09 | +6.1% | und | Kaiser Radler (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,12 | +1.4% | Und | Kaiser Radler (lata 350 ml) | Port. 222/2017 |
@@ -32376,9 +32366,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,72 | +13.9% | und | Kaiser Summer (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,79 | +4.1% | und | Kaiser Summer (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,90 | +6.1% | und | Kaiser Summer (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,98 | +4.2% | und | Kaiser Summer (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,21 | +11.6% | und | Kaiser Summer (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,31 | +4.5% | und | Kaiser Summer (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,21 | +16.3% | und | Kaiser Summer (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,98 | -10.4% | und | Kaiser Summer (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,31 | +16.7% | und | Kaiser Summer (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,42 | +4.8% | und | Kaiser Summer (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,57 | +6.2% | und | Kaiser Summer (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,61 | +1.6% | Und | Kaiser Summer (lata 350 ml) | Port. 222/2017 |
@@ -32389,9 +32379,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,07 |  | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,15 | +3.9% | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +18.6% | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +4.3% | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +23.2% | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,15 | -15.7% | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +23.7% | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,78 | +4.5% | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,90 | +4.3% | und | Kaiser Summer Draft (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -32418,9 +32408,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,95 |  | und. | Chopp Kalena Mista (descartável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,10 | +5.1% | und. | Chopp Kalena Mista (descartável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,32 | +7.1% | und. | Kalena Mista (descartável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,45 | +3.9% | und. | Chopp Kalena Mista (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,72 | +7.8% | und. | Chopp Kalena Mista (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,89 | +4.6% | und. | Chopp Kalena Mista (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,72 | +12.0% | und. | Chopp Kalena Mista (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,45 | -7.3% | und. | Chopp Kalena Mista (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,89 | +12.8% | und. | Chopp Kalena Mista (descartável 1 L) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,89 | +0.0% | und | Kalena mista (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,07 | +4.6% | und. | Chopp Kalena Mista (descartável 1 L) | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,07 | +0.0% | und | Kalena mista (descartável 1 L) | Port. 142/2016 |
@@ -32920,9 +32910,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,39 |  | und | Kronembier (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,49 | +4.2% | und | Kronembier (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,95 | +18.5% | und | Kronembier (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,08 | +4.4% | und | Kronembier (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,95 | +23.4% | und | Kronembier (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,49 | -15.6% | und | Kronembier (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,08 | +23.7% | und | Kronembier (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,22 | +4.5% | und | Kronembier (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,36 | +4.3% | und | Kronembier (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -33725,9 +33715,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,04 |  | Und. | Liber (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,16 | +5.9% | Und. | Liber (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +4.2% | Und. | Liber (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,30 | +2.2% | Und. | Liber (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,40 | +4.3% | Und. | Liber (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,30 | +6.5% | Und. | Liber (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -2.2% | Und. | Liber (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,40 | +6.7% | Und. | Liber (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,51 | +4.6% | und. | Liber (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,67 | +6.4% | und | Liber (lata 350 ml) | Port. 397/2016 |
 
@@ -33736,9 +33726,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,34 |  | und | Liber (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,43 | +3.8% | und | Liber (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,54 | +4.5% | und | Liber (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,65 | +4.3% | und | Liber (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,54 | +8.5% | und | Liber (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,43 | -4.3% | und | Liber (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,65 | +9.1% | und | Liber (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,77 | +4.5% | und | Liber (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,89 | +4.3% | und | Liber (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -34092,9 +34082,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,54 |  | und | Malta Dunkel (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,15 | +39.6% | und | Malta Dunkel (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,24 | +4.2% | und | Malta Dunkel (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,33 | +4.0% | und | Malta Dunkel (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,41 | +3.4% | und | Malta Dunkel (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,52 | +4.6% | und | Malta Dunkel (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,41 | +7.6% | und | Malta Dunkel (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,33 | -3.3% | und | Malta Dunkel (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,52 | +8.2% | und | Malta Dunkel (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,64 | +4.8% | und | Malta Dunkel – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,83 | +7.2% | und | Malta Dunkel – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,87 | +1.4% | Und | Malta Dunkel – 473 ml | Port. 222/2017 |
@@ -34122,9 +34112,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,89 |  | und | Malta Golden (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +5.8% | und | Malta Golden (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Malta Golden (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,20 | +3.8% | und | Malta Golden (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,33 | +5.9% | und | Malta Golden (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,43 | +4.3% | und | Malta Golden (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,33 | +9.9% | und | Malta Golden (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,20 | -5.6% | und | Malta Golden (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,43 | +10.5% | und | Malta Golden (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,54 | +4.5% | und | Malta Golden (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,66 | +4.7% | und | Malta Golden (descartável 600 ml) | Port. 397/2016 |
 
@@ -34135,9 +34125,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 |  |  | Malta Golden (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,30 | +11.1% |  | Malta Golden (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,38 | +6.2% |  | Malta Golden (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,44 | +4.3% |  | Malta Golden (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +11.1% | und. | Malta Golden (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +4.4% | und. | Malta Golden (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +15.9% | und. | Malta Golden (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,44 | -10.0% |  | Malta Golden (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +16.0% | und. | Malta Golden (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,75 | +4.8% | und. | Malta Golden (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,86 | +6.3% | und | Malta Golden (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,89 | +1.6% | Und | Malta Golden (lata 350 ml) | Port. 222/2017 |
@@ -34165,9 +34155,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,48 |  | und | Malta Golden (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +38.5% | und | Malta Golden (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 | +3.9% | und | Malta Golden (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | Malta Golden (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +3.2% | und | Malta Golden (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +4.4% | und | Malta Golden (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +7.5% | und | Malta Golden (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -3.1% | und | Malta Golden (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +7.7% | und | Malta Golden (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,50 | +4.6% | und | Malta Golden – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,68 | +7.2% | und | Malta Golden – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,72 | +1.5% | Und | Malta Golden – 473 ml | Port. 222/2017 |
@@ -34348,9 +34338,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,89 |  | und | Malta Malzbier (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +5.8% | und | Malta Malzbier (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Malta Malzbier (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,20 | +3.8% | und | Malta Malzbier (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,33 | +5.9% | und | Malta Malzbier (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,43 | +4.3% | und | Malta Malzbier (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,33 | +9.9% | und | Malta Malzbier (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,20 | -5.6% | und | Malta Malzbier (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,43 | +10.5% | und | Malta Malzbier (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,54 | +4.5% | und | Malta Malzbier (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,66 | +4.7% | und | Malta Malzbier (descartável 600 ml) | Port. 397/2016 |
 
@@ -34361,9 +34351,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 |  |  | Malta Malzbier (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,30 | +11.1% |  | Malta Malzbier (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,38 | +6.2% |  | Malta Malzbier (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,44 | +4.3% |  | Malta Malzbier (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +11.1% | und. | Malta Malzbier (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +4.4% | und. | Malta Malzbier (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +15.9% | und. | Malta Malzbier (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,44 | -10.0% |  | Malta Malzbier (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +16.0% | und. | Malta Malzbier (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,75 | +4.8% | und. | Malta Malzbier (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,86 | +6.3% | und | Malta Malzbier (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,89 | +1.6% | Und | Malta Malzbier (lata 350 ml) | Port. 222/2017 |
@@ -34391,9 +34381,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,48 |  | und | Malta Malzbier (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +38.5% | und | Malta Malzbier (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 | +3.9% | und | Malta Malzbier (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | Malta Malzbier (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +3.2% | und | Malta Malzbier (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +4.4% | und | Malta Malzbier (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +7.5% | und | Malta Malzbier (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -3.1% | und | Malta Malzbier (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +7.7% | und | Malta Malzbier (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,50 | +4.6% | und | Malta Malzbier – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,68 | +7.2% | und | Malta Malzbier – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,72 | +1.5% | Und | Malta Malzbier – 473 ml | Port. 222/2017 |
@@ -34549,9 +34539,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,89 |  | und | Malta Pilsen (descartável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +5.8% | und | Malta Pilsen (descartável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Malta Pilsen (descartável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,20 | +3.8% | und | Malta Pilsen (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,33 | +5.9% | und | Malta Pilsen (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,43 | +4.3% | und | Malta Pilsen (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,33 | +9.9% | und | Malta Pilsen (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,20 | -5.6% | und | Malta Pilsen (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,43 | +10.5% | und | Malta Pilsen (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,54 | +4.5% | und | Malta Pilsen (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,66 | +4.7% | und | Malta Pilsen (descartável 600 ml) | Port. 397/2016 |
 
@@ -34584,9 +34574,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 | +6.4% |  | Malta Pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,30 | +11.1% |  | Malta Pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,38 | +6.2% |  | Malta Pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,44 | +4.3% |  | Malta Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +11.1% |  | Malta Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +4.4% |  | Malta Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +15.9% |  | Malta Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,44 | -10.0% |  | Malta Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,67 | +16.0% |  | Malta Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,75 | +4.8% | und. | Malta Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,86 | +6.3% | und | Malta Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,89 | +1.6% | Und | Malta Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -34615,9 +34605,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,48 | +5.7% | und | Malta Pilsen (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +38.5% | und | Malta Pilsen (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 | +3.9% | und | Malta Pilsen (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | Malta Pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +3.2% | und | Malta Pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +4.4% | und | Malta Pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +7.5% | und | Malta Pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -3.1% | und | Malta Pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +7.7% | und | Malta Pilsen (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,50 | +4.6% | und | Malta Pilsen – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,68 | +7.2% | und | Malta Pilsen – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,52 | -6.0% | Und | Malta Pilsen – 473 ml | Port. 222/2017 |
@@ -35002,9 +34992,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,00 |  | und | Miller (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,37 | +18.5% | und | Miller (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,48 | +4.6% | und | Miller (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,37 |  | und | Miller (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,00 | -15.6% | und | Miller (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,48 | +24.0% | und | Miller (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,60 | +4.8% | und | Miller (long neck 200 a 355 ml) | Port. 142/2016 |
 
 ### Miller Draft Pilsen (descartável 600 ml) (código 49792)
@@ -35387,9 +35377,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,49 | +14.6% | und | Nobel (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,55 | +4.0% | und | Nobel (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,64 | +5.8% | und | Nobel (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,71 | +4.3% | und | Nobel (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,91 | +11.7% | und | Nobel (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,00 | +4.7% | und | Nobel (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,91 | +16.5% | und | Nobel (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,71 | -10.5% | und | Nobel (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,00 | +17.0% | und | Nobel (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,09 | +4.5% | und | Nobel (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +6.2% | und | Nobel (lata 350 ml) | Port. 397/2016 |
 
@@ -35398,8 +35388,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,85 |  | und | Nobel (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,98 | +7.0% | und | Nobel (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,34 | +18.2% | und | Nobel (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,34 | +26.5% | und | Nobel (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,98 | -15.4% | und | Nobel (long neck 200 a 355 ml) | Port. 157/2015 |
 
 ### Nobel (long neck 275 a 350 ml) (código —)
 
@@ -35427,8 +35417,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 2,41 | +1.7% | und | Nobel (retornável 600 ml) | Port. 469/2010 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,94 | +22.0% | und | Nobel (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,12 | +6.1% | und | Nobel (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,31 | +6.1% | und | Nobel (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,75 | +13.3% | und | Nobel (retornável 600 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,75 | +20.2% | und | Nobel (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,31 | -11.7% | und | Nobel (retornável 600 ml) | Port. 157/2015 |
 
 ### Nobre belco Pilsen (lata 269 ml) (código 50120)
 
@@ -35559,9 +35549,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-06-10 (pub.) | 2013-05-28 | incluir | 1,13 |  |  | Cerveja Noponto - Lata 350 ml | Port. 134/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,15 | +1.8% |  | Noponto (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,20 | +4.3% | und | Noponto (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,34 | +11.7% | und | Noponto (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,40 | +4.5% | und | Noponto (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,34 | +16.5% | und | Noponto (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,20 | -10.4% | und | Noponto (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,40 | +16.7% | und | Noponto (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,47 | +5.0% | und | Noponto (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,56 | +6.1% | und | Noponto (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,58 | +1.3% | Und | Noponto (lata 350 ml) | Port. 222/2017 |
@@ -35588,9 +35578,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-06-10 (pub.) | 2013-05-28 | incluir | 2,00 |  |  | Cerveja Noponto - Retornável 600ml | Port. 134/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Noponto (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +6.1% | und | Noponto (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +13.3% | und | Noponto (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +4.3% | und | Noponto (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +20.3% | und | Noponto (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -11.8% | und | Noponto (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +18.2% | und | Noponto (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,78 | +4.5% | und | Noponto (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,08 | +10.8% | und | Noponto (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,12 | +1.3% | Und | Noponto (retornável 600 ml) | Port. 222/2017 |
@@ -35616,9 +35606,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,46 |  | Und. | Nova Schin Malzbier (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,56 | +4.1% | Und. | Nova Schin Malzbier (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 | +18.4% | und. | Nova Schin Malzbier (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,96 | -2.3% | und. | Nova Schin Malzbier (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 | +23.2% | und. | Nova Schin Malzbier (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,56 | -15.5% | Und. | Nova Schin Malzbier (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,96 | +15.6% | und. | Nova Schin Malzbier (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,10 | +4.7% | und. | Nova Schin Malzbier (long neck 200 a 355 ml) | Port. 142/2016 |
 
 ### Nova Schin Malzbier (long neck 275 a 355 ml) (código —)
@@ -35653,9 +35643,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,15 |  | und | Nova Schin Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,27 | +10.4% | und | Nova Schin Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,33 | +4.7% | und | Nova Schin Pilsen | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,27 |  | und | Nova Schin Pilsen | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,15 | -9.4% | und | Nova Schin Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,33 | +15.7% | und | Nova Schin Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,39 | +4.5% | und | Nova Schin Pilsen | Port. 142/2016 |
 
 ### Nova Schin Pilsen (descartável 1 L) (código —)
@@ -35686,9 +35676,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,47 | +14.8% | und | Nova Schin Pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,47 | +0.0% | und | Nova Schin Pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,56 | +6.1% | und | Nova Schin Pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,56 | +0.0% | und | Nova Schin Pilsen (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | -11.5% | und | Nova Schin Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +4.3% | und | Nova Schin Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,56 | +13.0% | und | Nova Schin Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | -7.7% | und | Nova Schin Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Nova Schin Pilsen (lata 350 ml) | Port. 142/2016 |
 
 ### Nova Schin Pilsen (lata 473 ml) (código —)
@@ -35702,16 +35692,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,75 | -1.7% | und | Nova Schin Pilsen (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,82 | +4.0% | und | Nova Schin Pilsen (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,89 | +3.8% | und | Nova Schin Pilsen (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,96 | +3.7% | und | Nova Schin Pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,11 | +7.7% | und | Nova Schin Pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,20 | +4.3% | und | Nova Schin Pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,11 | +11.6% | und | Nova Schin Pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,96 | -7.1% | und | Nova Schin Pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,20 | +12.2% | und | Nova Schin Pilsen (lata 473 ml) | Port. 463/2015 |
 
 ### Nova Schin Pilsen (long neck 200 a 355 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,59 |  | und | Nova Schin Pilsen (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,65 | +3.8% | und | Nova Schin Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,65 | +3.8% | und | Nova Schin Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
 
 ### Nova Schin Pilsen (long neck 275 a 350 ml) (código —)
 
@@ -35736,9 +35726,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,15 |  | und. | Nova Schin Pilsen (retornável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,28 | +4.1% | und. | Nova Schin Pilsen (retornável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,51 | +7.0% | und. | Nova Schin Pilsen (retornável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,79 | +8.0% | und. | Nova Schin Pilsen (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,28 | +12.9% | und | Nova Schin Pilsen (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,47 | +4.4% | und | Nova Schin Pilsen (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,28 | +21.9% | und | Nova Schin Pilsen (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,79 | -11.4% | und. | Nova Schin Pilsen (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,47 | +17.9% | und | Nova Schin Pilsen (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,68 | +4.7% | und | Nova Schin Pilsen (retornável 1 L) | Port. 142/2016 |
 
 ### Nova Schin Pilsen (retornável 600 ml) (código —)
@@ -35751,9 +35741,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 2,28 | +0.0% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 469/2010 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,89 | +26.8% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,06 | +5.9% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,24 | +5.9% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,55 | +9.6% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,71 | +4.5% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,55 | +16.0% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,24 | -8.7% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,71 | +14.5% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,88 | +4.6% | und | Nova Schin Pilsen (retornável 600 ml) | Port. 142/2016 |
 
 ### Nova Schin Pilsen zero álcool (lata 350 ml) (código —)
@@ -35823,16 +35813,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,77 | +23.8% | und | Nova Schin zero álcool (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,84 | +4.0% | und | Nova Schin zero álcool (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,95 | +6.0% | und | Nova Schin zero álcool (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | +4.1% | und | Nova Schin zero álcool (lata 350 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | +4.1% | und | Nova Schin zero álcool (lata 350 ml) | Port. 157/2015 |
 
 ### Nova Schin Zero álcool (long neck 200 a 355 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,20 |  | und | Nova schin Zero Alcool (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 | +4.1% | und | Nova Schin Zero Alcool (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +33.2% | und | Nova Schin Zero alcool (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +4.6% | und. | Nova Schin Zero álcool (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +38.6% | und | Nova Schin Zero alcool (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -24.9% | und | Nova Schin Zero Alcool (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +39.3% | und. | Nova Schin Zero álcool (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,34 | +4.7% | und. | Nova Schin Zero álcool (long neck 200 a 355 ml) | Port. 142/2016 |
 
 ### Nova Schin Zero Álcool (long neck 275 a 350 ml) (código —)
@@ -35914,9 +35904,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,43 | +49.7% | und | Original (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,75 | +7.2% | und | Original (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,02 | +5.7% | und | Original (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,32 | +6.0% | und | Original (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,55 | +4.3% | und | Original (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,92 | +6.7% | und | Original (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,55 | +10.6% | und | Original (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,32 | -4.1% | und | Original (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,92 | +11.3% | und | Original (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,20 | +4.7% | und | Original (retornável 600 ml) | Port. 142/2016 |
 
 ### Original 330ml (código 47856)
@@ -36035,9 +36025,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,50 |  | und | Outras Marcas | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,00 | +33.3% | und | Outras Marcas | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,09 | +4.5% | und | Outras Marcas | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,00 |  | und | Outras Marcas | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,50 | -25.0% | und | Outras Marcas | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,09 | +39.3% | und | Outras Marcas | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,19 | +4.8% | und | Outras Marcas | Port. 142/2016 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 6,49 | +196.3% | und | Outras Marcas | Port. 147/2018 |
 
@@ -36210,9 +36200,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,00 |  | und | Outras Marcas (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,20 | +36.7% | und | Outras Marcas (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,57 | +4.5% | und | Outras Marcas (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,20 |  | und | Outras Marcas (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,00 | -26.8% | und | Outras Marcas (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,57 | +42.8% | und | Outras Marcas (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,97 | +4.7% | und | Outras Marcas (descartável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 9,35 | +4.2% | und | Outras Marcas (descartável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 9,49 | +1.5% | Und | Outras Marcas (descartável 1 L) | Port. 222/2017 |
@@ -36275,9 +36265,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,00 |  | und | Outras Marcas (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,62 | +7.7% | und | Outras Marcas (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,01 | +4.5% | und | Outras Marcas (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 8,62 |  | und | Outras Marcas (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,00 | -7.2% | und | Outras Marcas (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,01 | +12.6% | und | Outras Marcas (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 9,43 | +4.7% | und | Outras Marcas (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 25,00 | +165.1% | und | Outras Marcas (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 25,36 | +1.4% | Und | Outras Marcas (descartável 500 ml) | Port. 222/2017 |
@@ -36316,9 +36306,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,50 |  | und | Outras Marcas (descartável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,94 | +5.9% | und | Outras Marcas (descartável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,30 | +4.5% | und | Outras Marcas (descartável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,94 |  | und | Outras Marcas (descartável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,50 | -5.5% | und | Outras Marcas (descartável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,30 | +10.7% | und | Outras Marcas (descartável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,69 | +4.7% | und | Outras Marcas (descartável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 9,09 | +4.6% | und | Outras Marcas (descartável 600 ml) | Port. 397/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 9,09 | +0.0% | und | Outras Marcas (descartável 600 ml) | Port. 397/2016 |
@@ -36444,9 +36434,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,00 | +50.8% | und | Outras Marcas (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,50 | +16.7% | und | Outras Marcas (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,00 | +14.3% | und | Outras Marcas (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,16 | +4.0% | und | Outras Marcas (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,70 | +13.0% | und | Outras Marcas (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,91 | +4.5% | und | Outras Marcas (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,70 | +17.5% | und | Outras Marcas (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,16 | -11.5% | und | Outras Marcas (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,91 | +18.0% | und | Outras Marcas (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,14 | +4.7% | und | Outras Marcas (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,46 | +6.2% | und | Outras Marcas (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,54 | +1.5% | Und | Outras Marcas (lata 350 ml) | Port. 222/2017 |
@@ -36492,9 +36482,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,00 |  | und | Outras Marcas (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,23 | +7.7% | und | Outras Marcas (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,37 | +4.3% | und | Outras Marcas (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,23 |  | und | Outras Marcas (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,00 | -7.1% | und | Outras Marcas (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,37 | +12.3% | und | Outras Marcas (lata 473 ml) | Port. 463/2015 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 12,54 | +272.1% | und | Outras Marcas (lata) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 13,04 | +4.0% | und | Outras Marcas (lata 473 ml) ⚠ | Port. 454/2022 |
 | 2023-04-01 (efeitos) | 2023-03-29 | alterar | 13,39 | +2.7% | und | Outras Marcas (lata 473 ml) | Port. 128/2023 |
@@ -36623,15 +36613,15 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,45 | -58.6% |  | 02.03.16.037 (long neck 200 a 355 ml) ⚠ | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +50.3% |  | 02.03.16.038 (long neck 200 a 355 ml) | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,92 | -11.9% | Miller | 02.03.16.041 (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,48 | +29.2% |  | 02.03.16.012 (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,02 | +21.8% |  | 02.03.16.013 (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | -32.8% |  | 02.03.16.015 (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,64 | +79.3% | und | Outras Marcas (long neck 200 a 355 ml) ⚠ | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,85 | +5.8% |  | 02.03.16.012 (long neck 200 a 355 ml) ⚠ | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,85 | +100.5% |  | 02.03.16.012 (long neck 200 a 355 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,58 | -7.0% |  | 02.03.16.013 (long neck 200 a 355 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,40 | -33.0% |  | 02.03.16.015 (long neck 200 a 355 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,85 | +102.1% | und | Outras Marcas (long neck 200 a 355 ml) ⚠ | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,02 | -17.1% |  | 02.03.16.012 (long neck 200 a 355 ml) ⚠ | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,48 | -48.9% |  | 02.03.16.012 (long neck 200 a 355 ml) ⚠ | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,02 | +21.8% |  | 02.03.16.013 (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | -32.8% |  | 02.03.16.015 (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,64 | +79.3% | und | Outras Marcas (long neck 200 a 355 ml) ⚠ | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,02 | +10.4% |  | 02.03.16.012 (long neck 200 a 355 ml) ⚠ | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,42 | +10.0% |  | 02.03.16.013 (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,51 | -43.2% |  | 02.03.16.015 (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,07 | +102.0% | und | Outras Marcas (long neck 200 a 355 ml) ⚠ | Port. 463/2015 |
@@ -36664,9 +36654,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,00 |  | und | Outras Marcas (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,80 | +16.0% | und | Outras Marcas (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,06 | +4.5% | und | Outras Marcas (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,80 |  | und | Outras Marcas (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,00 | -13.8% | und | Outras Marcas (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,06 | +21.2% | und | Outras Marcas (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,34 | +4.6% | und | Outras Marcas (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,02 | +10.7% | und | Outras Marcas (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,12 | +1.4% | Und | Outras Marcas (retornável 1 L) | Port. 222/2017 |
@@ -36744,9 +36734,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 5,00 | +59.7% | und | Outras Marcas (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,35 | +7.0% | und | Outras Marcas (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 6,00 | +12.1% | und | Outras Marcas (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 6,36 | +6.0% | und | Outras Marcas (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,20 | +13.2% | und | Outras Marcas (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,52 | +4.4% | und | Outras Marcas (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,20 | +20.0% | und | Outras Marcas (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 6,36 | -11.7% | und | Outras Marcas (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,52 | +18.2% | und | Outras Marcas (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,87 | +4.7% | und | Outras Marcas (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 8,72 | +10.8% | und | Outras Marcas (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 8,85 | +1.5% | Und | Outras Marcas (retornável 600 ml) | Port. 222/2017 |
@@ -37843,9 +37833,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,09 |  | und | Petra Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,20 | +10.1% | und | Petra Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,25 | +4.2% | und | Petra Pilsen | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,20 |  | und | Petra Pilsen | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,09 | -9.2% | und | Petra Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,25 | +14.7% | und | Petra Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,31 | +4.8% | und | Petra Pilsen | Port. 142/2016 |
 
 ### Cerveja Petra Pilsen - Descartável 1000 ml (código 48859)
@@ -37853,9 +37843,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 4,16 |  |  | Cerveja Petra Pilsen - Descartável 1000 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,12 | -1.0% | und | Petra Pilsen (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,42 | +7.3% | und | Petra Pilsen (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,62 | +4.5% | und | Petra Pilsen (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,42 | +6.2% | und | Petra Pilsen (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,12 | -6.8% | und | Petra Pilsen (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,62 | +12.1% | und | Petra Pilsen (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,84 | +4.8% | und | Petra Pilsen (descartável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,04 | +4.1% | und | Petra Pilsen (descartável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,11 | +1.4% | Und | Petra Pilsen (descartável 1 L) | Port. 222/2017 |
@@ -37882,9 +37872,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 1,64 |  |  | Cerveja Petra Pilsen - Lata 350 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,71 | +4.3% | und | Petra Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,91 | +11.7% | und | Petra Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,00 | +4.7% | und | Petra Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,91 | +16.5% | und | Petra Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,71 | -10.5% | und | Petra Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,00 | +17.0% | und | Petra Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,09 | +4.5% | und | Petra Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +6.2% | und | Petra Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,25 | +1.4% | Und | Petra Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -37894,9 +37884,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,74 |  | und | Petra Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,06 | +18.4% | und | Petra Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,15 | +4.4% | und | Petra Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,06 |  | und | Petra Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,74 | -15.5% | und | Petra Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,15 | +23.6% | und | Petra Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,25 | +4.7% | und | Petra Pilsen (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,32 | +3.1% | und | Petra Pilsen (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,35 | +1.3% | Und | Petra Pilsen (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -37907,9 +37897,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 3,69 |  |  | Cerveja Petra Pilsen - Retornável 1000 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,99 | +8.1% | Und | Petra Pilsen (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,51 | +13.0% | Und | Petra Pilsen (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,71 | +4.4% | Und | Petra Pilsen (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,51 | +22.2% | Und | Petra Pilsen (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,99 | -11.5% | Und | Petra Pilsen (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,71 | +18.0% | Und | Petra Pilsen (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,93 | +4.7% | und | Petra Pilsen (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,61 | +13.8% | und | Petra Pilsen (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,69 | +1.4% | Und | Petra Pilsen (retornável 1 L) | Port. 222/2017 |
@@ -37919,9 +37909,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,40 |  | und | Petra Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,85 | +13.2% | und | Petra Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,02 | +4.4% | und | Petra Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,85 |  | und | Petra Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,40 | -11.7% | und | Petra Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,02 | +18.2% | und | Petra Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,21 | +4.7% | und | Petra Pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,69 | +11.4% | und | Petra Pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,76 | +1.5% | Und | Petra Pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -37932,9 +37922,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 6,99 |  |  | Cerveja Petra Premium Aurum - Descartável 500 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 | +4.0% | und | Petra Premium Aurum (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Petra Premium Aurum (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Petra Premium Aurum (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +12.0% | und | Petra Premium Aurum (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Petra Premium Aurum (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Petra Premium Aurum (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Petra Premium Aurum (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,02 | +17.1% | und | Petra Premium Aurum (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 10,17 | +1.5% | Und | Petra Premium Aurum (descartável 500 ml) | Port. 222/2017 |
@@ -37960,9 +37950,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 6,99 |  |  | Cerveja Petra Premium Bock - Descartável 500 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 | +4.0% | und | Petra Premium Bock (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Petra Premium Bock (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Petra Premium Bock (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +12.0% | und | Petra Premium Bock (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Petra Premium Bock (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Petra Premium Bock (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Petra Premium Bock (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,02 | +17.1% | und | Petra Premium Bock (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 10,17 | +1.5% | Und | Petra Premium Bock (descartável 500 ml) | Port. 222/2017 |
@@ -37988,9 +37978,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 1,72 |  |  | Cerveja Petra Premium Escura - Lata 350 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 | +4.1% | und | Petra Premium Escura (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,99 | +11.2% | und | Petra Premium Escura (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,08 | +4.5% | und | Petra Premium Escura (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,99 | +15.7% | und | Petra Premium Escura (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -10.1% | und | Petra Premium Escura (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,08 | +16.2% | und | Petra Premium Escura (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,18 | +4.8% | und | Petra Premium Escura (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,32 | +6.4% | und | Petra Premium Escura (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,35 | +1.3% | Und | Petra Premium Escura (lata 350 ml) | Port. 222/2017 |
@@ -38029,9 +38019,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 |  | und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +18.1% | und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,13 | +138.6% | und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 |  | und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -15.3% | und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,13 | +181.9% | und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,37 | +4.7% | und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,53 | +3.0% | und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,61 | +1.4% | Und | Petra Premium Escura (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -38049,9 +38039,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 6,99 |  |  | Cerveja Petra Premium Schwarzbier - Descartável 500 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 | +4.0% | und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +12.0% | und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,02 | +17.1% | und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 10,17 | +1.5% | Und | Petra Premium Schwarzbier (descartável 500 ml) | Port. 222/2017 |
@@ -38077,9 +38067,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 6,99 |  |  | Cerveja Petra Premium Stark Bier - Descartável 500 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 | +4.0% | und | Petra Premium Stark Bier (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Petra Premium Stark Bier (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Petra Premium Stark Bier (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +12.0% | und | Petra Premium Stark Bier (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Petra Premium Stark Bier (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Petra Premium Stark Bier (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Petra Premium Stark Bier (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,02 | +17.1% | und | Petra Premium Stark Bier (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 10,17 | +1.5% | Und | Petra Premium Stark Bier (descartável 500 ml) | Port. 222/2017 |
@@ -38104,9 +38094,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 |  | und | Petra Premium Weiss (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Petra Premium Weiss (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Petra Premium Weiss (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 |  | und | Petra Premium Weiss (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Petra Premium Weiss (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Petra Premium Weiss (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Petra Premium Weiss (descartável 500 ml) | Port. 142/2016 |
 
 ### Petra Premium Weiss Bier (descartável 500 ml) (código 48588)
@@ -38533,9 +38523,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,29 | -3.0% | und | Primus (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,34 | +3.9% | und | Primus (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,42 | +6.0% | und | Primus (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,48 | +4.2% | und | Primus (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,65 | +11.5% | und | Primus (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,72 | +4.2% | und | Primus (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,65 | +16.2% | und | Primus (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,48 | -10.3% | und | Primus (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,72 | +16.2% | und | Primus (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,80 | +4.7% | und | Primus (lata 350 ml) | Port. 142/2016 |
 
 ### Primus (long neck 200 a 355 ml) (código —)
@@ -38543,9 +38533,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,86 |  | und | Primus (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,93 | +3.8% | und | Primus (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +18.7% | und | Primus (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +4.4% | und | Primus (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +23.1% | und | Primus (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,93 | -15.7% | und | Primus (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +23.8% | und | Primus (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,50 | +4.6% | und | Primus (long neck 200 a 355 ml) | Port. 142/2016 |
 
 ### Primus (long neck 275 a 350 ml) (código —)
@@ -38579,16 +38569,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,46 |  | und | Primus Pilsen (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,61 | +6.1% | und | Primus Pilsen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,77 | +6.1% | und | Primus Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,14 | +13.4% | und | Primus Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,14 | +20.3% | und | Primus Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,77 | -11.8% | und | Primus Pilsen (retornável 600 ml) | Port. 157/2015 |
 
 ### Proibida (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 |  | und | Proibida | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,02 | +10.9% | und | Proibida | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,07 | +4.9% | und | Proibida | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,02 |  | und | Proibida | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -9.8% | und | Proibida | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,07 | +16.3% | und | Proibida | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,12 | +4.7% | und | Proibida | Port. 142/2016 |
 
 ### Proibida (descartável 600 ml) (código —)
@@ -38616,17 +38606,17 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,70 |  | und | Proibida (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,77 | +4.1% | und | Proibida (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,83 | +3.4% | und | Proibida (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,91 | +4.4% | und | Proibida (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,83 | +7.6% | und | Proibida (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,77 | -3.3% | und | Proibida (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,91 | +7.9% | und | Proibida (lata 473 ml) | Port. 463/2015 |
 
 ### Proibida (long neck 200 a 355 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,51 |  | und | Proibida (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,68 | +11.3% | und | Proibida (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,76 | +4.8% | und | Proibida (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,68 |  | und | Proibida (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,51 | -10.1% | und | Proibida (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,76 | +16.6% | und | Proibida (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,84 | +4.5% | und | Proibida (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,90 | +3.3% | und | Proibida (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -38635,9 +38625,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,02 |  | und | proibida (retornável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,26 | +7.9% | und | Proibida (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,68 | +12.9% | und | Proibida (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,84 | +4.3% | und | Proibida (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,68 | +21.9% | und | Proibida (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,26 | -11.4% | und | Proibida (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,84 | +17.8% | und | Proibida (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,02 | +4.7% | und | Proibida (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,57 | +13.7% | und | Proibida (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,64 | +1.5% | Und | Proibida (retornável 1 L) | Port. 222/2017 |
@@ -38672,9 +38662,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,50 |  | und | Proibida (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +33.3% | und | Proibida (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,12 | +6.0% | und | Proibida (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,25 | +6.1% | und | Proibida (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +13.3% | und | Proibida (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +4.3% | und | Proibida (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,55 | +20.3% | und | Proibida (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,25 | -11.8% | und | Proibida (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,66 | +18.2% | und | Proibida (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,78 | +4.5% | und | Proibida (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,09 | +11.2% | und | Proibida (retornável 600 ml) | Port. 397/2016 |
 
@@ -39400,8 +39390,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,94 |  | und | Proibida – 300 ml – retorn | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,11 | +18.1% | und | Proibida – 300 ml – retorn | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,11 |  | und | Proibida – 300 ml – retorn | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,94 | -15.3% | und | Proibida – 300 ml – retorn | Port. 157/2015 |
 
 ### Proibida – 473 ml (código —)
 
@@ -40336,9 +40326,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,32 | +10.0% |  | Ricca Premium (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,35 | +2.3% |  | Ricca Premium (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,43 | +5.9% |  | Ricca Premium (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,89 | +32.2% |  | Ricca Premium (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,05 | +8.5% | Und. | Ricca Premium (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,14 | +4.4% | Und. | Ricca Premium (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,05 | +43.4% | Und. | Ricca Premium (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,89 | -7.8% |  | Ricca Premium (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,14 | +13.2% | Und. | Ricca Premium (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,24 | +4.7% | und. | Ricca Premium (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,38 | +6.2% | und | Ricca Premium (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,41 | +1.3% | Und | Ricca Premium (lata 350 ml) | Port. 222/2017 |
@@ -40367,9 +40357,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,47 | +9.7% |  | Ricca Premium (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,55 | +5.4% |  | Ricca Premium (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,61 | +3.9% |  | Ricca Premium (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,67 | +3.7% | und | Ricca Premium (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,98 | +18.6% | und | Ricca Premium (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,07 | +4.5% | und | Ricca Premium (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,98 | +23.0% | und | Ricca Premium (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,67 | -15.7% | und | Ricca Premium (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,07 | +24.0% | und | Ricca Premium (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,17 | +4.8% | und | Ricca Premium (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,26 | +4.1% | und | Ricca Premium (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,29 | +1.3% | Und | Ricca Premium (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -40398,9 +40388,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,90 | +6.1% | und | Ricca Premium (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +7.9% | und | Ricca Premium (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +6.3% | und | Ricca Premium (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,31 | +6.0% | und | Ricca Premium (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,62 | +13.4% | und | Ricca Premium (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +4.6% | und | Ricca Premium (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,62 | +20.2% | und | Ricca Premium (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,31 | -11.8% | und | Ricca Premium (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +18.6% | und | Ricca Premium (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,87 | +4.7% | und | Ricca Premium (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,18 | +10.8% | und | Ricca Premium (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,23 | +1.6% | Und | Ricca Premium (retornável 600 ml) | Port. 222/2017 |
@@ -41213,9 +41203,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,25 | +14.2% | und | Santa Cerva (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,41 | +7.1% | und | Santa Cerva (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,55 | +5.8% | und | Santa Cerva (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,70 | +5.9% | und | Santa Cerva (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,06 | +13.3% | und | Santa Cerva (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,20 | +4.6% | und | Santa Cerva (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,06 | +20.0% | und | Santa Cerva (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,70 | -11.8% | und | Santa Cerva (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,20 | +18.5% | und | Santa Cerva (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,35 | +4.7% | und | Santa Cerva (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,71 | +10.7% | und | Santa Cerva (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,76 | +1.3% | Und | Santa Cerva (retornável 600 ml) | Port. 222/2017 |
@@ -41241,9 +41231,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,56 |  | und | Schin Malzbier (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 | +18.4% | Und | Schin Malzbier (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,92 | -3.6% | Und | Schin Malzbier (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 |  | Und | Schin Malzbier (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,56 | -15.5% | und | Schin Malzbier (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,92 | +14.1% | Und | Schin Malzbier (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,06 | +4.8% | und | Schin Malzbier (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,19 | +4.2% | und | Schin Malzbier (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,24 | +1.6% | Und | Schin Malzbier (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -41285,9 +41275,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,20 |  |  | Schin no Grau (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,25 | +4.2% | und | Schin no grau (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,32 | +5.6% | und | Schin no grau (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,37 | +3.8% | und | Schin no grau (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +0.7% | und | Schin no grau (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,64 | +18.8% | und | Schin no grau (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +4.5% | und | Schin no grau (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,37 | -0.7% | und | Schin no grau (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,64 | +19.7% | und | Schin no grau (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,72 | +4.9% | und | Schin no grau (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,76 | +2.3% | und | No grau (lata 350 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,79 | +1.7% | Und | No grau (lata 350 ml) | Port. 222/2017 |
@@ -41314,9 +41304,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,57 |  | und | Schin no Grau (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,57 | +0.0% | und | Schin no Grau (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,72 | +5.8% | und | Schin no Grau (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,77 | +1.8% | und | Schin no Grau (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,89 | +4.3% | und | Schin no Grau (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,77 | +7.8% | und | Schin no Grau (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,72 | -1.8% | und | Schin no Grau (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,89 | +6.2% | und | Schin no Grau (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,03 | +4.8% | und | Schin no Grau (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,36 | +10.9% | und | No Grau (retornável 600 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,41 | +1.5% | Und | No Grau (retornável 600 ml) | Port. 222/2017 |
@@ -41341,18 +41331,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,15 |  | und | Schin Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,27 | +10.4% | und | Schin Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,52 | +19.7% | und | Schin Pilsen | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,27 |  | und | Schin Pilsen | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,15 | -9.4% | und | Schin Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,52 | +32.2% | und | Schin Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,59 | +4.6% | und | Schin Pilsen | Port. 142/2016 |
 
 ### Schin Pilsen (descartável 1 L) (código 49647)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,12 |  | Und. | Schin Pilsen (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,42 | +7.3% | und | Schin Pilsen (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,62 | +4.5% | und | Schin Pilsen (descartável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,42 |  | und | Schin Pilsen (descartável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,12 | -6.8% | Und. | Schin Pilsen (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,62 | +12.1% | und | Schin Pilsen (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,84 | +4.8% | und | Schin Pilsen (descartável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,84 | +0.0% | und | Schin Pilsen (descartável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,91 | +1.4% | Und | Schin Pilsen (descartável 1 L) | Port. 222/2017 |
@@ -41398,9 +41388,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,56 |  | und | Schin Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,72 | +10.3% | und | Schin Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,78 | +3.5% | und | Schin Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,72 |  | und | Schin Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,56 | -9.3% | und | Schin Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,78 | +14.1% | und | Schin Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,86 | +4.5% | und | Schin Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,91 | +2.7% | und | Schin Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,94 | +1.6% | Und | Schin Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -41425,9 +41415,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,96 |  | und | Schin Pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,11 | +7.7% | und | Schin Pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,20 | +4.3% | und | Schin Pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,11 |  | und | Schin Pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,96 | -7.1% | und | Schin Pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,20 | +12.2% | und | Schin Pilsen (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,30 | +4.5% | und | Schin Pilsen – 473 ml ⚠ | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,47 | +7.4% | und | Schin Pilsen – 473 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,51 | +1.6% | Und | Schin Pilsen – 473 ml | Port. 222/2017 |
@@ -41497,9 +41487,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,79 |  | und | Schin Pilsen (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,28 | +12.9% | und. | Schin Pilsen (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,47 | +4.4% | und. | Schin Pilsen (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,28 |  | und. | Schin Pilsen (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,79 | -11.4% | und | Schin Pilsen (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,47 | +17.9% | und. | Schin Pilsen (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,68 | +4.7% | und. | Schin Pilsen (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,95 | +5.8% | und | Schin Pilsen (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,02 | +1.4% | Und | Schin Pilsen (retornável 1 L) | Port. 222/2017 |
@@ -41548,9 +41538,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,24 |  | und | Schin Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,55 | +9.6% | und | Schin Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,53 | -0.6% | und | Schin Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,55 |  | und | Schin Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,24 | -8.7% | und | Schin Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,53 | +9.0% | und | Schin Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,70 | +4.8% | und | Schin Pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,02 | +8.6% | und | Schin Pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,08 | +1.5% | Und | Schin Pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -41581,16 +41571,16 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,65 |  | und | Schin Pilsenl (long neck 200 a 355 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,65 |  | und | Schin Pilsenl (long neck 200 a 355 ml) | Port. 157/2015 |
 
 ### Cerveja Schin Zero Álcool - Lata 350 ml (código 49984)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-12-04 (pub.) | 2013-11-23 | incluir | 1,95 |  |  | Cerveja Schin Zero Álcool - Lata 350 ml | Port. 366/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | +4.1% | und | Schin Zero Álcool (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,26 | +11.3% | und | Schin zero álcool (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,36 | +4.4% | und | Schin zero álcool (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,26 | +15.9% | und | Schin zero álcool (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | -10.2% | und | Schin Zero Álcool (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,36 | +16.3% | und | Schin zero álcool (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,47 | +4.7% | und | Schin zero álcool (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,62 | +6.1% | und | Schin zero álcool (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,66 | +1.5% | Und | Schin zero álcool (lata 350 ml) | Port. 222/2017 |
@@ -41614,9 +41604,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 |  | und | Schin Zero Álcool (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,91 | +27.1% | und | Schin Zero Alcool (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,77 | -4.8% | und | Schin Zero Alcool (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,91 |  | und | Schin Zero Alcool (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -21.3% | und | Schin Zero Álcool (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,77 | +21.0% | und | Schin Zero Alcool (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,90 | +4.7% | und | Schin Zero Alcool (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,90 | +0.0% | und | Schin Zero Alcool (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,94 | +1.4% | Und | Schin Zero Alcool (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -41859,9 +41849,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,38 | +14.2% | und | Serramalte (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,62 | +7.1% | und | Serramalte (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,83 | +5.8% | und | Serramalte (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,06 | +6.0% | und | Serramalte (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,60 | +13.3% | und | Serramalte (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,81 | +4.6% | und | Serramalte (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,60 | +20.1% | und | Serramalte (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,06 | -11.7% | und | Serramalte (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,81 | +18.5% | und | Serramalte (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,04 | +4.8% | und | Serramalte (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,58 | +10.7% | und | Serramalte (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,66 | +1.4% | Und | Serramalte (retornável 600 ml) | Port. 222/2017 |
@@ -42105,11 +42095,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,30 | +27.8% | und | Skol Beats (long neck 275 a 355 ml) ⚠ | Port. 74/2013 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,87 | -18.7% | und | Skol Beats ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,40 | +28.3% | und | Skol Beats (long neck 200 a 355 ml) ⚠ | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,50 | +4.2% | und | Skol Beats (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | -18.8% | und | Skol Beats ⚠ | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,84 | +39.9% | und | Skol Beats (long neck 200 a 355 ml) ⚠ | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,84 | +18.3% | und | Skol Beats (long neck 200 a 355 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,41 | -15.1% | und | Skol Beats ⚠ | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,06 | +27.0% | und | Skol Beats (long neck 200 a 355 ml) ⚠ | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,50 | +3.7% | und | Skol Beats (long neck 200 a 355 ml) ⚠ | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | -18.8% | und | Skol Beats ⚠ | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,06 | +50.7% | und | Skol Beats (long neck 200 a 355 ml) ⚠ | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,52 | -17.6% | und | Skol Beats ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,20 | +27.0% | und | Skol Beats (long neck 200 a 355 ml) ⚠ | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,64 | -17.5% | und | Skol Beats ⚠ | Port. 142/2016 |
@@ -42312,10 +42302,10 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,32 |  | und | Skol Pilsen | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,37 | +3.8% | und | Skol Pilsen | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,49 | +8.8% | und | Skol Pilsen | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,75 | +17.4% | und | Skol Pilsen | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,75 | +27.7% | und | Skol Pilsen | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 | -12.6% | und | Skol Pilsen | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,83 | +19.6% | und | Skol Pilsen | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,49 | -2.6% | und | Skol Pilsen | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,83 | +22.8% | und | Skol Pilsen | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,81 | -1.1% | und | Skol Pilsen | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,92 | +6.1% | und | Skol Pilsen | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,89 | -1.6% | und | Skol Pilsen | Port. 142/2016 |
@@ -42328,10 +42318,10 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,36 | +12.1% | und. | Skol Pilsen (descartável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,53 | +3.9% | und. | Skol Pilsen (descartável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,85 | +7.1% | und. | Skol Pilsen (descartável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,04 | +3.9% | und. | Skol Pilsen (descartável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,40 | +7.1% | und. | Skol Pilsen (descartável 1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,40 | +11.3% | und. | Skol Pilsen (descartável 1 L) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,99 | -7.6% | Und | Skol Pilsen 360 (descartável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,64 | +13.0% | und. | Skol Pilsen (descartável 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,04 | +1.0% | und. | Skol Pilsen (descartável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,64 | +11.9% | und. | Skol Pilsen (descartável 1 L) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,21 | -7.6% | Und | Skol Pilsen 360 (descartável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,90 | +13.2% | und. | Skol Pilsen (descartável 1 L) | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,45 | -7.6% | und | Skol Pilsen 360 (descartável 1 L) | Port. 142/2016 |
@@ -42365,9 +42355,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,85 | +17.3% | und | Skol Pilsen (descartável 500 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,96 | +3.9% | und | Skol Pilsen (descartável 500 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,08 | +4.1% | und | Skol Pilsen (descartável 500 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,15 | +34.7% | und | Skol Pilsen (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,47 | +7.7% | und | Skol Pilsen (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,67 | +4.5% | und | Skol Pilsen (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,47 | +45.1% | und | Skol Pilsen (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,15 | -7.2% | und | Skol Pilsen (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,67 | +12.5% | und | Skol Pilsen (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,89 | +4.7% | und | Skol Pilsen (descartável 500 ml) | Port. 142/2016 |
 
 ### Skol Pilsen (lata 269 ml) (código 38032)
@@ -42406,9 +42396,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,77 | +14.9% | und | Skol pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,84 | +4.0% | und | Skol pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,95 | +6.0% | und | Skol pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | +4.1% | und | Skol pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,22 | +9.4% | und | Skol pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +3.6% | und | Skol pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,22 | +13.8% | und | Skol pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | -8.6% | und | Skol pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +13.3% | und | Skol pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,41 | +4.8% | und | Skol pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,54 | +5.4% | und | Skol pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,58 | +1.6% | Und | Skol pilsen (lata 350 ml) | Port. 222/2017 |
@@ -42442,11 +42432,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,60 | +10.6% | Und. | Skol Pilsen 360 (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,44 | -6.2% | und | Skol Pilsen (lata 473 ml) | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,70 | +10.7% | und. | Skol Pilsen 360 (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,54 | -5.9% | und | Skol Pilsen (lata 473 ml) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,81 | +10.6% | Und. | Skol Pilsen 360 (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,62 | -6.8% | und | Skol Pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,62 | -3.0% | und | Skol Pilsen (lata 473 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,90 | +10.7% | Und. | Skol Pilsen 360 (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,73 | -5.9% | und | Skol Pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,54 | -12.4% | und | Skol Pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,81 | +10.6% | Und. | Skol Pilsen 360 (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,73 | -2.8% | und | Skol Pilsen (lata 473 ml) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,03 | +11.0% | Und. | Skol Pilsen 360 (lata 473 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,86 | -5.6% | und | Skol Pilsen – 473 ml ⚠ | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,17 | +10.8% | und. | Skol Pilsen 360 – 473 ml | Port. 142/2016 |
@@ -42540,9 +42530,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,82 | +12.3% | und | Skol Pilsen (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,89 | +3.8% | und | Skol Pilsen (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,97 | +4.2% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,05 | +4.1% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,41 | +17.6% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,59 | +7.5% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,41 | +22.3% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,05 | -14.9% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,59 | +26.3% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,71 | +4.6% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,84 | +4.8% | und | Skol Pilsen (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,88 | +1.4% | Und | Skol Pilsen (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -42571,9 +42561,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,42 | +14.4% | und. | Skol Pilsen (retornável 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,56 | +4.1% | und. | Skol Pilsen (retornável 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,81 | +7.0% | und. | Skol Pilsen (retornável 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,11 | +7.9% | und. | Skol Pilsen (retornável 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,64 | +12.9% | und. | Skol Pilsen (retornável 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,10 | +9.9% | und. | Skol Pilsen (retornável 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,64 | +21.8% | und. | Skol Pilsen (retornável 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,11 | -11.4% | und. | Skol Pilsen (retornável 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,10 | +24.1% | und. | Skol Pilsen (retornável 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,34 | +4.7% | und. | Skol Pilsen (retornável 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,63 | +5.4% | und | Skol Pilsen (retornável 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,71 | +1.4% | Und | Skol Pilsen (retornável 1 L) | Port. 222/2017 |
@@ -42598,9 +42588,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,57 |  | und. | Skol Pilsen – 300 ml – retornável | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,85 | +17.8% | und. | Skol Pilsen – 300 ml – retornável | Port. 176/2015 |
-| 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,02 | +9.2% | und | Skol Pilsen (retornável 300 ml) | Port. 142/2016 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,85 |  | und. | Skol Pilsen – 300 ml – retornável | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,57 | -15.1% | und. | Skol Pilsen – 300 ml – retornável | Port. 157/2015 |
+| 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,02 | +28.7% | und | Skol Pilsen (retornável 300 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,57 | +27.2% | und | Skol Pilsen (retornável 300 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,61 | +1.6% | Und | Skol Pilsen (retornável 300 ml) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,69 | +3.1% | Und | Skol Pilsen (retornável 300 ml) | Port. 507/2017 |
@@ -42631,9 +42621,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,25 | +24.5% | und | Skol Pilsen (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,48 | +7.1% | und | Skol Pilsen (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,90 | +12.1% | und | Skol Pilsen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,13 | +5.9% | und | Skol Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,49 | +8.7% | und | Skol Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,77 | +6.2% | und | Skol Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,49 | +15.1% | und | Skol Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,13 | -8.0% | und | Skol Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,77 | +15.5% | und | Skol Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,99 | +4.6% | und | Skol Pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,40 | +8.2% | und | Skol Pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,48 | +1.5% | Und | Skol Pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -42714,9 +42704,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,48 |  |  | Skol Pilsen 360 (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,90 | +12.1% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,92 | +0.5% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,40 | +12.2% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,60 | +4.5% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,40 | +12.8% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,92 | -10.9% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,60 | +17.3% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,82 | +4.8% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,34 | +10.8% | und | Skol Pilsen 360 (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,42 | +1.5% | Und | Skol Pilsen 360 (retornável 600 ml) | Port. 222/2017 |
@@ -42728,9 +42718,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,02 |  | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,14 | +5.9% | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,23 | +4.2% | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +0.9% | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,35 | +4.4% | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +5.1% | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,23 | -0.9% | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,35 | +5.4% | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,46 | +4.7% | und | Skol Pilsen 360 graus (lata 350 ml) | Port. 142/2016 |
 
 ### Skol Pilsen 360 Graus (long neck 200 a 355 ml) (código —)
@@ -42738,9 +42728,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,08 |  | Und. | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,16 | +3.8% | und. | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,56 | +18.5% | und. | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,67 | +4.3% | und. | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,56 | +23.1% | und. | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,16 | -15.6% | und. | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,67 | +23.6% | und. | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,79 | +4.5% | und. | Skol Pilsen 360 Graus (long neck 200 a 355 ml) | Port. 142/2016 |
 
 ### Skol Pilsen 360 Graus (long neck 275 a 355 ml) (código —)
@@ -42774,8 +42764,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,80 |  | und | Skol Pilsen – 300 ml – descartável | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,18 | +21.1% | und | Skol Pilsen – 300 ml – descartável | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,18 |  | und | Skol Pilsen – 300 ml – descartável | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,80 | -17.4% | und | Skol Pilsen – 300 ml – descartável | Port. 157/2015 |
 
 ### Skol Pilsen – 410ml Multipack (código 52632)
 
@@ -42990,9 +42980,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,06 |  | und. | Sol Pilsen (descartável 250 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | -15.1% | und. | Sol Pilsen (descartável 250 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 | +0.0% | und. | Sol Pilsen (descartável 250 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,98 | +8.9% | und. | Sol Pilsen (descartável 250 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +8.2% | und. | Sol Pilsen (descartável 250 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +4.7% | und. | Sol Pilsen (descartável 250 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +17.8% | und. | Sol Pilsen (descartável 250 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,98 | -7.5% | und. | Sol Pilsen (descartável 250 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +13.3% | und. | Sol Pilsen (descartável 250 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,16 | +4.5% | und. | Sol Pilsen (descartável 250 ml) | Port. 142/2016 |
 
 ### Sol Pilsen (lata 350 ml) (código 46701)
@@ -43006,9 +42996,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,26 | +0.8% | und | Sol Pilsen (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,31 | +4.0% | und | Sol Pilsen (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,39 | +6.1% | und | Sol Pilsen (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,45 | +4.3% | und | Sol Pilsen (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,32 | +60.0% | und | Sol Pilsen (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,42 | +4.3% | und | Sol Pilsen (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,32 | +66.9% | und | Sol Pilsen (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,45 | -37.5% | und | Sol Pilsen (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,42 | +66.9% | und | Sol Pilsen (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,53 | +4.5% | und | Sol Pilsen (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,69 | +6.3% | und | Sol Pilsen (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,73 | +1.5% | Und | Sol Pilsen (lata 350 ml) | Port. 222/2017 |
@@ -43027,17 +43017,17 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,15 | +14.4% | und | Sol pilsen (lata 473 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,24 | +4.2% | und | Sol pilsen (lata 473 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,33 | +4.0% | und | Sol pilsen (lata 473 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,42 | +3.9% | und | Sol pilsen (lata 473 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,51 | +3.7% | und | Sol pilsen (lata 473 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,62 | +4.4% | und | Sol pilsen (lata 473 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,51 | +7.7% | und | Sol pilsen (lata 473 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,42 | -3.6% | und | Sol pilsen (lata 473 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,62 | +8.3% | und | Sol pilsen (lata 473 ml) | Port. 463/2015 |
 
 ### Sol Pilsen (long neck 200 a 355 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,53 |  | und | Sol Pilsen (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,81 | +18.3% | und | Sol Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,89 | +4.4% | und | Sol Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,81 |  | und | Sol Pilsen (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,53 | -15.5% | und | Sol Pilsen (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,89 | +23.5% | und | Sol Pilsen (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,98 | +4.8% | und | Sol Pilsen (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,06 | +4.0% | und | Sol Pilsen (long neck 200 a 355 ml) | Port. 397/2016 |
 
@@ -43068,9 +43058,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,69 | +14.0% | und | Sol Pilsen (retornável 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,88 | +7.1% | und | Sol Pilsen (retornável 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,05 | +5.9% | und | Sol Pilsen (retornável 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,23 | +5.9% | und | Sol Pilsen (retornável 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,66 | +13.3% | und | Sol Pilsen (retornável 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,82 | +4.4% | und | Sol Pilsen (retornável 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,66 | +20.0% | und | Sol Pilsen (retornável 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,23 | -11.7% | und | Sol Pilsen (retornável 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,82 | +18.3% | und | Sol Pilsen (retornável 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,00 | +4.7% | und | Sol Pilsen (retornável 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,43 | +10.7% | und | Sol Pilsen (retornável 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,49 | +1.4% | Und | Sol Pilsen (retornável 600 ml) | Port. 222/2017 |
@@ -43104,9 +43094,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,10 |  | und | Sol Premium – 330 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,08 | +94.3% | und | Sol Premium – 330 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,61 | -11.5% | und | Sol Premium – 330 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,08 |  | und | Sol Premium – 330 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,10 | -48.5% | und | Sol Premium – 330 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,61 | +71.9% | und | Sol Premium – 330 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,78 | +4.7% | und | Sol Premium – 330 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,78 | +0.0% | und | Sol Premium – 330 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,83 | +1.3% | Und | Sol Premium – 330 ml | Port. 222/2017 |
@@ -43158,8 +43148,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,18 |  | und | Sol Shot | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,20 | +1.7% | und | Sol Shot | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,30 | +8.3% | und | Sol Shot | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,30 | +0.0% | und | Sol Shot | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,30 | +8.3% | und | Sol Shot | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,30 | +0.0% | und | Sol Shot | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,36 | +4.6% | und | Sol Shot | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,42 | +4.4% | und | Sol Shot | Port. 142/2016 |
 
@@ -43460,9 +43450,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,00 |  | und. | Stella Artois | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,20 | -40.0% | und | Stella Artois | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,30 | +8.3% | und | Stella Artois | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,44 | +10.8% | und | Stella Artois | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,50 | +4.2% | und | Stella Artois | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,44 | +20.0% | und | Stella Artois | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,30 | -9.7% | und | Stella Artois | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,50 | +15.4% | und | Stella Artois | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,34 | +122.7% | und. | Stella Artois | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,57 | -53.0% | und | Stella Artois | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,50 | +122.9% | und | Stella Artois | Port. 142/2016 |
@@ -43514,9 +43504,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,30 |  | Und. | Stella Artois 275 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,40 | +4.3% | Und. | Stella Artois 275 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,50 | +4.2% | und. | Stella Artois – 275 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 | +21.2% | und. | Stella Artois – 275 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,23 | +6.6% | und. | Stella Artois – 275 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 | +26.2% | und. | Stella Artois – 275 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,50 | -17.5% | und. | Stella Artois – 275 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,23 | +29.2% | und. | Stella Artois – 275 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,38 | +4.6% | und. | Stella Artois – 275 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,51 | +3.8% | und | Stella Artois – 275 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,56 | +1.4% | Und | Stella Artois – 275 ml | Port. 222/2017 |
@@ -43813,9 +43803,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,81 |  | und | Tauber | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +11.1% | und | Tauber | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,98 | +8.9% | und | Tauber | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,08 | +10.2% | und | Tauber | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,13 | +4.6% | und | Tauber | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,08 | +20.0% | und | Tauber | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,98 | -9.3% | und | Tauber | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,13 | +15.3% | und | Tauber | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,18 | +4.4% | und | Tauber | Port. 142/2016 |
 | 2021-09-22 (pub.) | 2021-09-16 | alterar | 2,30 | +94.9% | und | Tauber (250 ml) ⚠ | Port. 383/2021 |
 | 2022-09-01 (assin.) | 2022-09-01 | alterar | 2,51 | +9.1% | und | Tauber ⚠ | Port. 454/2022 |
@@ -43844,9 +43834,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,59 | +14.4% | und | Tauber (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,65 | +3.8% | und | Tauber (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,75 | +6.1% | und | Tauber (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 | +4.0% | und | Tauber (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,03 | +11.5% | und | Tauber (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,12 | +4.4% | und | Tauber (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,03 | +16.0% | und | Tauber (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -10.3% | und | Tauber (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,12 | +16.5% | und | Tauber (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,22 | +4.7% | und | Tauber (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,36 | +6.3% | und | Tauber (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,39 | +1.3% | Und | Tauber (lata 350 ml) | Port. 222/2017 |
@@ -43966,9 +43956,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,12 | +14.6% | und | Therezópolis Gold (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,30 | +8.5% | und | Therezópolis Gold (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,40 | +4.3% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,50 | +4.2% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,00 | +100.0% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,22 | +44.4% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,00 | +108.3% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,50 | -50.0% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 7,22 | +188.8% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,56 | +4.7% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,88 | +4.2% | und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 7,99 | +1.4% | Und | Therezópolis Gold (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -44231,9 +44221,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 7,70 | +14.6% | und. | Todas Marcas (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 8,00 | +3.9% | und. | Todas Marcas (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 8,32 | +4.0% | und. | Todas Marcas (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 8,65 | +4.0% | und. | Todas Marcas (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,32 | +7.7% | und. | Todas Marcas (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,74 | +4.5% | und. | Todas Marcas (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 9,32 | +12.0% | und. | Todas Marcas (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 8,65 | -7.2% | und. | Todas Marcas (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 9,74 | +12.6% | und. | Todas Marcas (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 10,20 | +4.7% | und. | Todas Marcas (1 L) | Port. 142/2016 |
 
 ### Cerveja Trooper - Descartavel 500 ml (código 51538)
@@ -44905,9 +44895,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 6,99 |  |  | Cerveja Weltenburger Anno 1050 - Descartável 500 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 | +4.0% | und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +12.0% | und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,02 | +17.1% | und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 10,17 | +1.5% | Und | Weltenburger Anno 1050 (descartável 500 ml) | Port. 222/2017 |
@@ -44933,9 +44923,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 6,99 |  |  | Cerveja Weltenburger Barock Dunkel - Descartável 500 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 | +4.0% | und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +12.0% | und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,02 | +17.1% | und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 10,17 | +1.5% | Und | Weltenburger Barock Dunkel (descartável 500 ml) | Port. 222/2017 |
@@ -44961,9 +44951,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 6,99 |  |  | Cerveja Weltenburger Urtyp Hell - Descartável 500 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 | +4.0% | und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +12.0% | und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,02 | +17.1% | und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 10,17 | +1.5% | Und | Weltenburger Urtyp Hell (descartável 500 ml) | Port. 222/2017 |
@@ -44989,9 +44979,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2014-03-07 (pub.) | 2014-02-28 | incluir | 6,99 |  |  | Cerveja Weltenburger Weiss - Descartável 500 ml | Port. 77/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 7,27 | +4.0% | und | Weltenburger Weiss (descartável 500 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +7.7% | und | Weltenburger Weiss (descartável 500 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +4.5% | und | Weltenburger Weiss (descartável 500 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 7,83 | +12.0% | und | Weltenburger Weiss (descartável 500 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 7,27 | -7.2% | und | Weltenburger Weiss (descartável 500 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 8,18 | +12.5% | und | Weltenburger Weiss (descartável 500 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 8,56 | +4.6% | und | Weltenburger Weiss (descartável 500 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 10,02 | +17.1% | und | Weltenburger Weiss (descartável 500 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 10,17 | +1.5% | Und | Weltenburger Weiss (descartável 500 ml) | Port. 222/2017 |
@@ -45037,9 +45027,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,99 | +15.0% | und | Xingu (long neck 275 a 355 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,07 | +4.0% | und | Xingu (long neck 275 a 355 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,15 | +3.9% | und | Xingu (long neck 200 a 355 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,24 | +4.2% | und | Xingu (long neck 200 a 355 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,65 | +18.3% | und | Xingu (long neck 200 a 355 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,77 | +4.5% | und | Xingu (long neck 200 a 355 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,65 | +23.3% | und | Xingu (long neck 200 a 355 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,24 | -15.5% | und | Xingu (long neck 200 a 355 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,77 | +23.7% | und | Xingu (long neck 200 a 355 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,90 | +4.7% | und | Xingu (long neck 200 a 355 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,02 | +4.1% | und | Xingu (long neck 200 a 355 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,06 | +1.3% | Und | Xingu (long neck 200 a 355 ml) | Port. 222/2017 |
@@ -45155,10 +45145,10 @@ Links para o texto de cada portaria usada acima.
 - Port. 59/2014: [Portaria nº 59/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=18e33001-d9db-494e-8343-0a2a275f7b8f), vigência 2014-02-26 (pub.)
 - Port. 69/2014: [Portaria nº 69/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=133898bf-2f78-4b5d-a652-4fd74536dfd7), vigência 2014-02-27 (assin.)
 - Port. 77/2014: [Portaria nº 77/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=64f25695-54d2-43b8-bddb-8d69f47616d3), vigência 2014-03-07 (pub.)
-- Port. 157/2014: [Portaria nº 157/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2014-05-29 (pub.)
 - Port. 236/2014: [Portaria nº 236/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca97cc93-4fb4-4663-9fe1-87d5059ee4a3), vigência 2014-09-03 (pub.)
 - Port. 275/2014: [Portaria nº 275/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=76352367-dc07-49f8-a444-d661a4ab9335), vigência 2014-10-29 (pub.)
 - Port. 176/2015: [Portaria nº 176/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5cb442e4-bce1-4b23-a633-17e200165e14), vigência 2015-03-23 (assin.)
+- Port. 157/2015: [Portaria nº 157/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2015-05-29 (pub.)
 - Port. 463/2015: [Portaria nº 463/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=72cba1e0-3573-42a0-9590-9f3ddfa036b6), vigência 2015-10-02 (pub.)
 - Port. 488/2015: [Portaria nº 488/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c136c102-a822-49ef-8a37-94d79d92db46), vigência 2015-10-23 (pub.)
 - Port. 123/2016: [Portaria nº 123/2016](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=914b8ae0-c048-4c7f-a090-447683a6acce), vigência 2016-04-13 (pub.)
@@ -45199,7 +45189,6 @@ Links para o texto de cada portaria usada acima.
 - Port. 246/2018: [Portaria nº 246/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6cff55f6-43ec-453f-ab9a-0842899c55c4), vigência 2018-07-12 (pub.)
 - Port. 251/2018: [Portaria nº 251/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f0cbfe90-3879-41f4-9ef9-f018a19d9ffe), vigência 2018-07-18 (pub.)
 - Port. 304/2018: [Portaria nº 304/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=08fd45dd-d376-4383-ab05-d968f706b47a), vigência 2018-09-11 (pub.)
-- Port. 313/2018: [Portaria nº 313/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=da49746b-abcb-46f6-afba-b8b5a2e25a21), vigência 2018-09-13 (pub.)
 - Port. 314/2018: [Portaria nº 314/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=20798065-7ff9-4fbb-88fc-8fbd3ec0203f), vigência 2018-09-17 (pub.)
 - Port. 383/2018: [Portaria nº 383/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1cc17837-12bb-4eba-b1e5-a401a888678f), vigência 2018-11-09 (pub.)
 - Port. 390/2018: [Portaria nº 390/2018](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5c13727d-6df9-4da4-868a-c59c9e406062), vigência 2018-11-19 (pub.)

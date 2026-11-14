@@ -3,9 +3,9 @@
 documento: "Tabela de Valores de Referência: bebidas: refrigerantes e águas tônicas"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-09"
-portarias: 167
-registros: 13720
+gerado_em: "2026-11-14"
+portarias: 166
+registros: 13719
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: refrigerantes e águas tônicas
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-09**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (792)
@@ -684,7 +684,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 12110 | Sprite (PET 250 ml) | und | 2,42 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48480 | Sprite (retornável 290 ml) | und | 4,58 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 52403 | Sprite Fresh Limão (lata 310 a 330 ml) | und | 3,53 | 2026-11-01 (efeitos) | Port. 402/2026 |
-| 52968 | Refrigerante Sprite Fresh Limão - Pet 1.500 ml | und | 8,43 | 2026-11-01 (efeitos) | Port. 402/2026 |
+| 52968 | Sprite Fresh Limão (PET 1,5 L) | und | 8,43 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 51851 | Refrigerante Sprite Fresh Limão - Pet 510 ml | und | 4,52 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 54570 | Sprite Original (PET 500 ml) | und | 4,08 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 53478 | Refrigerante Sprite Sem Açúcar - Lata 350 ml | und | 3,50 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -855,7 +855,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 
 | código | descrição | último valor (R$) | último valor desde | motivo (e fim da vigência) |
 |---|---|---|---|---|
-| — | 02.02.06.0010 Shincariol Sabores (1 L) | 17,00 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | 02.02.06.0010 Shincariol Sabores (1 L) | 17,00 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | 1.000 ml Refrigerante Kero | 1,15 | 2006-03-29 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | 2.000 ml Refrigerante Kero | 1,55 | 2006-03-29 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | 350 ml Refrigerante Kero | 0,65 | 2006-03-29 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -874,7 +874,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48708 | Ambev Sabores (PET 237 ml) | 1,76 | 2023-04-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | AMBEV Sabores (PET até 250 ml) | 0,98 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Ambev Sabores (PET até 255 ml) | 0,76 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | AMBEV Sabores (PET até 260 ml) | 1,02 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | AMBEV Sabores (PET até 260 ml) | 1,02 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | AMBEV sabores (retornável 201 a 330 ml) | 0,87 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Ambev Sabores (vidro 1 L) | 1,83 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Ambev Sabores (vidro até 200 ml) | 1,05 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -895,8 +895,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 49992 | Aquazero Limao Minalba - 500 ml | 2,01 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50044 | Baré – 250 ml | 0,99 | 2019-11-12 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Belco (2 L) | 2,22 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Belco (lata 350 ml) | 0,95 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Belco (PET 350 ml) | 0,85 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Belco (lata 350 ml) | 0,95 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Belco (PET 350 ml) | 0,85 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Belco Sabores (2 L) | 2,95 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Caca Cola Life (lata 350 ml) | 2,10 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cerpa diversos sabores | 1,06 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -923,7 +923,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Coca cola (até 200 ml) | 0,96 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca cola (lata 200 ml) | 1,00 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48225 | Coca Cola (lata 250 ml) | 1,79 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Coca Cola (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Coca Cola (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola (PET 450 ml) | 1,85 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola (vidro 1 L) | 2,23 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola (vidro até 200 ml) | 1,05 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -951,17 +951,17 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Coca Cola Lig Lemon (PET 500 a 600 ml) | 1,81 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca cola Light (2 L) | 4,85 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola Light (lata 350 ml) | 2,10 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Coca Cola light (lata até 250 ml) | 1,15 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Coca Cola light (lata até 250 ml) | 1,15 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48906 | Coca Cola Light (PET 2 L) | 5,86 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Coca Cola Light (retornável 200 a 290 ml) | 1,57 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Coca Cola Light (retornável 201 a 290 ml) | 0,88 | 2012-09-25 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Coca Cola Light (retornável 200 a 290 ml) | 1,30 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Coca Cola Light (retornável 201 a 290 ml) | 0,88 | 2012-09-25 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola light - 250 ml | 1,29 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola Light Lemon (lata 350 ml) | 2,15 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola Light Lemon (PET 500 a 600 ml) | 2,13 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola Light – 290 ml | 1,64 | 2015-10-02 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 12106 | Coca Cola Mais Sabor (PET 250 ml) | 2,46 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53064 | Refrigerante Coca Cola Melancia e Morango sem Açúcar - Lata 310 ml | 3,48 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Coca Cola Retorn. (até 200 ml) | 0,68 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Coca Cola Retorn. (até 200 ml) | 0,68 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50063 | Coca Cola sem açúcar (PET 250 ml) | 1,94 | 2022-09-01 | substituído pelo código 53140 (Coca Cola sem açúcar (PET 250 ml)) a partir de 2023-04-01; valeu até 2023-03-31 |
 | 38003 | Coca Cola Sem Açucar (PET 600 ml) | 4,52 | 2023-11-01 | substituído pelo código 53699 (Coca Cola Sem Açúcar (PET 600 ml)) a partir de 2025-05-01; valeu até 2025-04-30 |
 | 50629 | Coca Cola Sem Açucar (PET 600 ml) | 4,97 | 2024-08-30 | substituído pelo código 53699 (Coca Cola Sem Açúcar (PET 600 ml)) a partir de 2025-05-01; valeu até 2025-04-30 |
@@ -980,12 +980,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 45101 | Coca Cola Zero (2,5 L) | 7,12 | 2017-10-23 | não consta das relações completas das Portarias nº 383/2018 (2018-11-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola Zero (500 a 600 ml) | 1,67 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48696 | Coca Cola Zero (lata 250 ml) | 1,89 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Coca Cola zero (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Coca Cola zero (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48837 | Coca cola zero (PET 1 L) | 4,01 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola Zero (PET 450 ml) | 1,88 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48638 | Coca Cola Zero (PET 500 a 600 ml) | 3,16 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Cola Zero (retornável 200 a 290 ml) | 2,15 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Coca Cola Zero (retornável 201 a 290 ml) | 1,19 | 2012-09-25 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Coca Cola Zero (retornável 201 a 290 ml) | 1,19 | 2012-09-25 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50596 | Coca Cola Zero 2000 ml - Retornavel - Pet | 4,88 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50594 | Coca Cola – 2.250 ml | 6,86 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca Sprite - 220 ml | 1,22 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -995,7 +995,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 51856 | Refrigerante Coca Cola MA - Pet 1.000 ml | 4,56 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 51855 | Refrigerante Coca Cola MA – Pet 1.500 ml | 5,41 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca-Cola (PET até 250 ml) | 0,89 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Coca-Cola (PET até 260 ml) | 0,93 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Coca-Cola (PET até 260 ml) | 0,93 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca-Cola Light/ lemom (2 L) | 2,52 | 2006-12-19 | não consta das relações completas das Portarias nº 52/2009 (2009-02-26) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca-Cola Light/ lemom (200 ml) | 0,50 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Coca-Cola Light/ lemom (descartável 500 a 600 ml) | 1,35 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1007,10 +1007,10 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 51852 | Refrigerante Coca Cola MA - Pet 3.000 ml | 11,18 | 2024-08-30 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 170/2026 (2026-05-01): saiu da tabela sem exclusão expressa |
 | — | Cola Indaiá (2 L) | 3,64 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48805 | Cola Indaiá (PET 2 L) | 4,35 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cola Light Indaiá (2 L) | 3,78 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cola Light Indaiá (2 L) | 3,78 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cola Mais Sabor (2 L) | 3,34 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Cola mais sabor (PET até 250 ml) | 0,68 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Cola mais sabor (PET até 260 ml) | 0,75 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Cola mais sabor (PET até 260 ml) | 0,75 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Conti Cola | 2,17 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Conti Cola (2 L) | 3,45 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Conti Sabores | 2,01 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1028,7 +1028,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50885 | Refrigerante Crystal Frutver - Pet 510 ml | 2,45 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Ehbon (2 L) | 2,49 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Ehbon (lata 350 ml) | 1,50 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Ehbon (PET 1 L) | 2,10 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Ehbon (PET 1 L) | 2,10 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Ehbon (PET 350 ml) | 1,16 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Ehbon Sabores (2 L) | 3,34 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Energético Indaiá 1.000 ml | 2,03 | 2004-04-01 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1058,13 +1058,13 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50597 | Fanta laranja – Retornável – Pet (PET 2 L) | 6,01 | 2024-02-01 | substituído pelo código 49836 (Fanta laranja – Retornável – Pet (PET 2 L)) a partir de 2024-08-30; valeu até 2024-08-29 |
 | 54096 | Fanta Mistério (lata 350 ml) | 3,37 | 2026-05-01 | o mesmo código e produto aparece depois como "Fanta Laranja Zero sem Açucar (PET 2 L)" (Portaria nº 402/2026, 2026-11-01) |
 | 51976 | Fanta Mistério Green (lata 350 ml) | 3,25 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Fanta NS (até 200 ml) | 0,68 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Fanta NS (até 200 ml) | 0,68 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Fanta sabores (1,5 L) | 2,19 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Fanta sabores (2 L) | 4,71 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45031 | Fanta Sabores (lata 250 ml) | 1,85 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45033 | Fanta Sabores (lata 310 a 350 ml) | 2,77 | 2021-09-22 | o mesmo código e produto aparece depois como "Fanta Laranja (lata 350 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 45033 | Fanta Sabores (lata 350 ml) | 2,67 | 2019-11-12 | mesmo código, descrição/seção renomeada para "Fanta Sabores (lata 310 a 350 ml)" a partir de 2021-09-22 |
-| — | Fanta Sabores (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Fanta Sabores (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48229 | Fanta sabores (PET 1 L) | 4,33 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48443 | Fanta sabores (PET 1,5 L) | 4,70 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45037 | Fanta sabores (PET 2 L) | 6,27 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1092,20 +1092,20 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48468 | Fanta Uva Sleek can 310 ml | 1,92 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Folia (PET 350 ml) | 0,85 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Folia Baixa Caloria (2 L) | 3,10 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Folia Bx Caloria (2 L) | 2,00 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Folia Bx Caloria (2 L) | 2,00 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Frevo (2 L) | 2,93 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Frevo (lata 350 ml) | 1,28 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Frevo (PET 1 L) | 2,10 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Frevo (lata 350 ml) | 1,28 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Frevo (PET 1 L) | 2,10 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50080 | Refrigerante Frevo Guaraná - Pet 1000 ml | 2,72 | 2022-09-01 | substituído pelo código 53095 (Frevo Guaraná (PET 1 L)) a partir de 2023-04-01; valeu até 2023-03-31 |
 | — | Frevo Sabores (2 L) | 3,92 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48114 | Frevo sabores (PET 2 L) | 4,39 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Garoto (2 L) | 2,90 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Garoto (500 a 600 ml) | 1,11 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Garoto (descartável 500 a 600 ml) | 0,92 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Garoto (PET 500 a 600 ml) | 1,27 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Garoto (PET 500 a 600 ml) | 1,27 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Garoto Sabores (2 L) | 3,86 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Goianinho (2 L) | 2,55 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Goianinho (lata 350 ml) | 1,05 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Goianinho (lata 350 ml) | 1,05 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Goianinho Sabores (2 L) | 3,41 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50265 | Goob Laranja (PET 2 L) | 3,84 | 2023-04-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50264 | Goob Maracujá (PET 2 L) | 3,84 | 2023-04-01 | não consta das relações completas das Portarias nº 477/2023 (2023-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1127,10 +1127,10 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Guaraná Antártica 237 ml | 1,16 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Guaraná Antartica Diet (2 L) | 4,70 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49671 | Guarana Antartica – (lata 269 ml) | 2,32 | 2024-02-01 | o mesmo código e produto aparece depois como "Guaraná Antárctica (lata 269 a 270 ml)" (Portaria nº 402/2026, 2026-11-01) |
-| — | Guaraná Anttartica (2,5 L) | 3,80 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Guaraná Brahma (1 L) | 17,00 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Guaraná Brahma (2 L) | 3,35 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Guaraná Brahma (PET 1 L) | 2,30 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Guaraná Anttartica (2,5 L) | 3,80 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Guaraná Brahma (1 L) | 17,00 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Guaraná Brahma (2 L) | 3,35 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Guaraná Brahma (PET 1 L) | 2,30 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Guaraná Indaiá (2 L) | 3,64 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48446 | Guaraná Indaia (PET 2 L) | 4,35 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53152 | Guarana Jeneve (retornável 220 ml) | 2,11 | 2024-02-01 | o mesmo código e produto aparece depois como "Guaraná Jeneve (PET 200 ml)" (Portaria nº 402/2026, 2026-11-01) |
@@ -1151,7 +1151,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Guaraná Kuat (até 200 ml) | 0,96 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Guaraná Kuat (lata 200 ml) | 1,00 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48583 | Guaraná Kuat (lata 250 ml) | 1,64 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Guaraná Kuat (lata até 250 ml) | 1,06 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Guaraná Kuat (lata até 250 ml) | 1,06 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 45018 | Guaraná Kuat (PET 500 a 600 ml) | 3,39 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48634 | Guaraná Kuat (retornável 200 ml) | 2,25 | 2023-11-01 | substituído pelo código 48213 (Guaraná Kuat (retornável 200 ml)) a partir de 2024-08-30; valeu até 2024-08-29 |
 | — | Guaraná Kuat (vidro até 200 ml) | 1,05 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1162,7 +1162,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 48719 | Guaraná Kuat Zero (lata 350 ml) | 2,46 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Guaraná Mais Sabor (2 L) | 3,34 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Guaraná mais sabor (PET até 250 ml) | 0,68 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Guaraná mais sabor (PET até 260 ml) | 0,78 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Guaraná mais sabor (PET até 260 ml) | 0,78 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53147 | Guaraná Mara (PET 200 ml) | 2,10 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53147 | Guarana Mara (retornável 220 ml) | 1,24 | 2024-02-01 | o mesmo código e produto aparece depois como "Guaraná Mara (PET 200 ml)" (Portaria nº 151/2025, 2025-05-01) |
 | 45635 | Guaraná River (retornável 200 ml) | 2,21 | 2023-11-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1176,7 +1176,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Imperial Cola (2 L) | 3,49 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Imperial Laranja (2 L) | 3,22 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Imperial Limão (2 L) | 3,22 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Indaiá (PET até 260 ml) | 0,90 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Indaiá (PET até 260 ml) | 0,90 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48724 | Indaiá Laranja - 250 ml | 1,31 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48670 | Indaiá Limão – 250 ml | 1,31 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Indaiá Refri Cola (2 L) | 2,96 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1208,28 +1208,28 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Jao (2 L) | 2,49 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jaó Cola (2 L) | 3,21 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jao Sabores (2 L) | 3,33 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus | 1,65 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus | 1,65 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus (1 L) | 16,33 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus (1,5 L) | 2,34 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus (2 L) | 3,95 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (2,5 L) | 4,33 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (2,5 L) | 4,33 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus (500 a 600 ml) | 1,66 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (até 200 ml) | 0,68 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (até 200 ml) | 0,68 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus (descartável 500 a 600 ml) | 1,37 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (lata 350 ml) | 1,54 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (PET 1 L) | 2,38 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (PET 1,5 L) | 2,69 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (PET 500 a 600 ml) | 1,90 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (lata 350 ml) | 1,54 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (PET 1 L) | 2,38 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (PET 1,5 L) | 2,69 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (PET 500 a 600 ml) | 1,90 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus (PET até 250 ml) | 0,89 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (PET até 260 ml) | 0,93 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (retornável 200 a 290 ml) | 1,21 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Jesus (retornável 201 a 290 ml) | 1,16 | 2012-09-25 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (PET até 260 ml) | 0,93 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (retornável 200 a 290 ml) | 1,21 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Jesus (retornável 201 a 290 ml) | 1,16 | 2012-09-25 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus (retornável 201 a 330 ml) | 0,88 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus (vidro 1 L) | 1,45 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Jesus sabores (PET até 255 ml) | 0,71 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kero (2 L) | 2,55 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Kero (PET 1 L) | 1,75 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Kero (PET 1 L) | 1,75 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kero Cola (2 L) | 4,24 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kero Cola PET (PET 1 L) | 1,88 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Kero Sabores (2 L) | 3,92 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1238,16 +1238,16 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Kero Sabores (PET 2 L) | 4,20 | 2016-10-31 | substituído pelo código 48725 (Kero sabores (PET 2 L)) a partir de 2017-05-05; valeu até 2017-05-04 |
 | — | Kero Sabores PET (PET 1 L) | 1,88 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50601 | Refrigerante Ki-Tubaina Guaraná – Pet 2.000 ml | 6,76 | 2026-05-01 | substituído pelo código 51001 (Ki - Tubaina Guaraná (PET 2 L)) a partir de 2026-11-01; valeu até 2026-10-31 |
-| — | Kuat (2,5 L) | 3,61 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Kuat (até 200 ml) | 0,68 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Kuat (2,5 L) | 3,61 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Kuat (até 200 ml) | 0,68 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Laranja Indaiá (2 L) | 3,78 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Limão Indaiá (2 L) | 3,75 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Limão Indaiá (2 L) | 3,75 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 52048 | Refrigerante Mará Pet (PET 1 L) | 4,25 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Mate couro (2 L) | 3,40 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Mate Couro (500 a 600 ml) | 1,05 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Mate Couro (descartável 500 a 600 ml) | 0,88 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Mate Couro (PET 350 ml) | 0,92 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Mate Couro (PET 500 a 600 ml) | 1,24 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Mate Couro (PET 350 ml) | 0,92 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Mate Couro (PET 500 a 600 ml) | 1,24 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Mate Couro sabores (PET 1 L) | 2,60 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50890 | Okey Cola (lata 250 ml) | 0,96 | 2023-04-01 | o mesmo código e produto aparece depois como "Okey Cola (PET 250 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 50886 | Okey Cola (PET 2 L) | 2,85 | 2019-11-12 | mesmo código, descrição/seção renomeada para "Okey Cola (PET 2 L)" a partir de 2021-09-22 |
@@ -1275,35 +1275,35 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Outras marcas (até 200 ml) | 1,20 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (descartável 500 a 600 ml) | 1,42 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (lata 200 ml) | 1,26 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Outras marcas (lata até 250 ml) | 1,40 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Outras marcas (lata até 250 ml) | 1,40 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48660 | Outras Marcas (PET 350 ml) | 3,23 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48921 | Outras Marcas (PET 450 ml) | 2,66 | 2018-05-02 | não consta das relações completas das Portarias nº 285/2019 (2019-05-09) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (PET até 250 ml) | 1,16 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Outras marcas (PET até 260 ml) | 1,30 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Outras marcas (PET até 260 ml) | 1,30 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (retornável 201 a 330 ml) | 0,88 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50662 | Outras Marcas (retornável 355 ml) | 2,20 | 2019-05-30 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras Marcas (vidro 1 L) | 2,30 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Outras marcas (vidro até 200 ml) | 1,32 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48090 | Outras Marcas - até 270 ml | 2,35 | 2019-11-12 | o mesmo código e produto aparece depois como "Outras Marcas – até 270 ml" (Portaria nº 31/2024, 2024-02-01) |
 | — | Outras marcas até – 237 a 250 ml | 1,99 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Outras marcas até – 260 ml | 1,80 | 2015-03-23 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Outras marcas até – 260 ml | 1,56 | 2015-05-29 | não consta das relações completas das Portarias nº 142/2016 (2016-05-03) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48090 | Outras Marcas – até 270 ml | 2,80 | 2024-02-01 | não consta das relações completas das Portarias nº 151/2025 (2025-05-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Pepsi (1 L) | 17,00 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Pepsi (1 L) | 17,00 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Pepsi - Cola (retornável 201 a 330 ml) | 0,88 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Pepsi Cola (1,5 L) | 2,19 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Pepsi Cola (2 L) | 4,42 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Pepsi cola (2,5 L) | 4,15 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Pepsi cola (2,5 L) | 4,15 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38070 | Pepsi Cola (3 L) | 8,19 | 2023-11-01 | substituído pelo código 53536 (Pepsi Cola (3 L)) a partir de 2024-02-01; valeu até 2024-01-31 |
 | — | Pepsi Cola (descartável 500 a 600 ml) | 1,42 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 38063 | Pepsi Cola (PET 237 ml) | 1,38 | 2023-04-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Pepsi Cola (retornável 200 a 290 ml) | 1,65 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Pepsi Cola (retornável 201 a 290 ml) | 1,18 | 2012-09-25 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Pepsi Cola (retornável 200 a 290 ml) | 1,28 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Pepsi Cola (retornável 201 a 290 ml) | 1,18 | 2012-09-25 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48476 | Pepsi Cola - 284 ml | 2,60 | 2019-11-12 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Pepsi Cola 290 ml | 1,97 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Pepsi twist (2 L) | 4,28 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Pepsi twist (descartável 500 a 600 ml) | 1,42 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Pitchula (PET até 250 ml) | 0,70 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Pitchula (PET até 260 ml) | 0,80 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Pitchula (PET até 260 ml) | 0,80 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 51829 | Pitchula Cola (PET 250 ml) | 1,48 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 51832 | Pitchula Limão (PET 250 ml) | 1,40 | 2024-02-01 | não consta das relações completas das Portarias nº 336/2024 (2024-08-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Pitchula Sabores (PET até 255 ml) | 0,70 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1323,18 +1323,18 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Psiu Cola Zero (2 L) | 3,87 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Psiu Cola Zero (500 a 600 ml) | 1,05 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48105 | Psiu Cola Zero (PET 2 L) | 6,47 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Psiu Cola Zero (PET 500 a 600 ml) | 1,20 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Psiu Cola Zero (PET 500 a 600 ml) | 1,20 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Psiu Frutas Citricas (PET 450 ml) | 1,58 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Psiu Guaraná (2 L) | 3,50 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Psiu Guaraná (PET 1 L) | 1,85 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Psiu Guaraná (PET 1 L) | 1,85 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49915 | Psiu Guaraná (PET 1,5 L) | 6,34 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47675 | Refrigerante Psiu Guaraná – Pet 250 ml | 1,84 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48312 | Psiu Guaraná (PET 350 ml) | 2,47 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53149 | Psiu Guarana (retornável 220 ml) | 1,64 | 2024-02-01 | o mesmo código e produto aparece depois como "Psiu Guaraná (PET 200 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 47867 | Psiu Guaraná Tropical (PET 2 L) | 6,70 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47868 | Refrigerante Psiu Guaraná Tropical 250 ml | 1,77 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Psiu Laranja (2 L) | 2,72 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Psiu Laranja (PET 1 L) | 1,85 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Psiu Laranja (2 L) | 2,72 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Psiu Laranja (PET 1 L) | 1,85 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49916 | Psiu Laranja (PET 1,5 L) | 6,34 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47676 | Refrigerante Psiu Laranja - Pet 250 ml | 1,84 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48902 | Psiu Laranja (PET 350 ml) | 1,78 | 2019-11-12 | mesmo código, descrição/seção renomeada para "Psiu Laranja (PET 350 ml)" a partir de 2021-09-22 |
@@ -1342,10 +1342,10 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 53148 | Psiu Laranja (retornável 220 ml) | 1,64 | 2024-02-01 | o mesmo código e produto aparece depois como "Psiu Laranja (PET 200 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | — | Psiu Sabores (2 L) | 3,51 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48103 | Refrigerante Psiu Sabores 250 ml | 1,77 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Psiu Sabores (PET 350 ml) | 0,85 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Psiu Sabores (PET 350 ml) | 0,85 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49023 | Psiu Sabores (PET 600 ml) | 2,52 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Psiu Sabores (PET até 250 ml) | 0,80 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Psiu Sabores (PET até 260 ml) | 0,85 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Psiu Sabores (PET até 260 ml) | 0,85 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Psiu Teen (2 L) | 3,51 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 49914 | Psiu Teen (PET 1,5 L) | 6,34 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48851 | Refrigerante Psiu Teen 250 ml | 1,77 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1356,9 +1356,9 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Psiu Teen Zero (500 a 600 ml) | 1,05 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48799 | Refrigerante Psiu Teen Zero – Pet 2.000 ml | 6,74 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48785 | Refrigerante Psiu Teen Zero 250 ml | 1,77 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Psiu Teen Zero (PET 500 a 600 ml) | 1,20 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Psiu Teen Zero (PET 500 a 600 ml) | 1,20 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48857 | Psiu Teen Zero (PET 500 ml) | 3,09 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Psiu Uva (2 L) | 2,72 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Psiu Uva (2 L) | 2,72 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 47677 | Refrigerante Psiu Uva – Pet 250 ml | 1,84 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 53151 | Psiu Uva (retornável 220 ml) | 1,64 | 2024-02-01 | o mesmo código e produto aparece depois como "Psiu Uva (PET 200 ml)" (Portaria nº 402/2026, 2026-11-01) |
 | 50103 | Psiu Zib Cola (PET 2 L) | 5,78 | 2025-05-01 | não consta das relações completas das Portarias nº 370/2025 (2025-11-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1683,12 +1683,12 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Rellva (2 L) | 2,39 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Rellva (PET 1 L) | 1,84 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Relva (2 L) | 2,94 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Relva (PET 1 L) | 2,10 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Relva (PET 1 L) | 2,10 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Relva Sabores (2 L) | 3,77 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River (PET até 250 ml) | 0,76 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River descartável (500 a 600 ml) | 1,08 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River descartável (descartável 500 a 600 ml) | 0,92 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | River descartável (PET 500 a 600 ml) | 1,60 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | River descartável (PET 500 a 600 ml) | 1,29 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River retornável (200 ml) | 0,53 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River Sab. Retornav (500 a 600 ml) | 1,09 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River Sab. Retornav (PET 500 a 600 ml) | 1,10 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1699,34 +1699,34 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | River Sabores (PET 500 a 600 ml) | 1,77 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River Sabores (PET até 250 ml) | 0,83 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River Sabores (PET até 255 ml) | 0,66 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | River Sabores (PET até 260 ml) | 0,86 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | River Sabores (PET até 260 ml) | 0,86 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50313 | River sabores (retornável 200 ml) | 1,18 | 2022-09-01 | substituído pelo código 51279 (River sabores (retornável 200 ml)) a partir de 2023-04-01; valeu até 2023-03-31 |
-| — | River Sabores Retornav (PET 500 a 600 ml) | 1,50 | 2015-03-23 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | River Sabores Retornav (PET 500 a 600 ml) | 1,25 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | River Sabores Retornavel (descartável 500 a 600 ml) | 0,92 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sabores Mais Sabor (2 L) | 3,34 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sabores mais sabor (PET até 250 ml) | 0,68 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Sabores mais sabor (PET até 260 ml) | 0,78 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schin Cola (1 L) | 17,88 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Sabores mais sabor (PET até 260 ml) | 0,78 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schin Cola (1 L) | 17,88 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin cola (2 L) | 3,39 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin cola (PET até 250 ml) | 0,83 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schin cola (PET até 260 ml) | 0,86 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schin cola (PET até 260 ml) | 0,86 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48924 | Schin sabores (1 L) | 23,03 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin Sabores (2 L) | 3,48 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin sabores (PET 500 a 600 ml) | 1,77 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin sabores (PET até 250 ml) | 0,82 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schin Sabores (PET até 255 ml) | 0,65 | 2006-12-19 | não consta das relações completas das Portarias nº 50/2010 (2010-02-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schin sabores (PET até 260 ml) | 0,85 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schin sabores (PET até 260 ml) | 0,85 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schincariol (2 L) | 1,93 | 2006-12-19 | não consta das relações completas das Portarias nº 52/2009 (2009-02-26) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schincariol (descartável 500 a 600 ml) | 0,93 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schincariol (lata 350 ml) | 0,91 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schincariol (PET 1 L) | 1,40 | 2006-12-19 | não consta das relações completas das Portarias nº 431/2009 (2009-10-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schincariol cola (2 L) | 2,75 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schincariol cola (2 L) | 2,75 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schincariol cola (500 a 600 ml) | 1,09 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schincariol cola (PET 500 a 600 ml) | 1,30 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schincariol Sabores (2 L) | 2,70 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schincariol cola (PET 500 a 600 ml) | 1,30 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schincariol Sabores (2 L) | 2,70 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schincariol sabores (500 a 600 ml) | 1,09 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schincariol Sabores (PET 1 L) | 1,82 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Schincariol sabores (PET 500 a 600 ml) | 1,30 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schincariol Sabores (PET 1 L) | 1,82 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Schincariol sabores (PET 500 a 600 ml) | 1,30 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Schinkariol sabores (1 L) | 21,82 | 2016-10-31 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48722 | Schweppes Citrus (lata 350 ml) | 2,51 | 2017-05-05 | substituído pelo código 48957 (Schweppes Citrus (lata 350 ml)) a partir de 2017-10-23; valeu até 2017-10-22 |
 | — | Schweppes Citrus (lata 350 ml) | 2,48 | 2016-10-31 | substituído pelo código 48957 (Schweppes Citrus (lata 350 ml)) a partir de 2017-05-05; valeu até 2017-05-04 |
@@ -1735,7 +1735,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Simba Sabores (2 L) | 3,53 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48854 | Simba sabores (PET 2 L) | 4,49 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50061 | Simba sabores (PET 250 ml) | 1,08 | 2021-09-22 | não consta das relações completas das Portarias nº 454/2022 (2022-09-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Soda Limanada (retornável 200 a 290 ml) | 1,20 | 2014-05-29 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Soda Limanada (retornável 200 a 290 ml) | 1,20 | 2015-05-29 | não consta das relações completas das Portarias nº 463/2015 (2015-10-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Soda Limanoda 237 ml | 1,21 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Soda Limonada (2 L) | 4,40 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48634 | Soda Limonada (PET 237 ml) | 1,43 | 2023-04-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1748,7 +1748,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Sprite (500 a 600 ml) | 1,69 | 2010-10-01 | não consta das relações completas das Portarias nº 324/2012 (2012-09-25) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sprite (até 200 ml) | 0,96 | 2015-10-02 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sprite (lata 200 ml) | 1,00 | 2016-05-03 | não consta das relações completas das Portarias nº 507/2017 (2017-10-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Sprite (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Sprite (lata até 250 ml) | 1,10 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2015 (2015-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48449 | Sprite (PET 1 L) | 3,83 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 12034 | Sprite (PET 2250 a 2,5 L) | 7,22 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48462 | Sprite (PET 500 a 600 ml) | 3,45 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1761,8 +1761,8 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | 50591 | Sprite Limão Zero (Sprite Limão sem açúcar) (lata 310 a 350 ml) | 2,71 | 2021-09-22 | não consta das relações completas das Portarias nº 128/2023 (2023-04-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 48448 | Sprite Sleek Can 310 ml | 1,92 | 2017-10-23 | não consta das relações completas das Portarias nº 147/2018 (2018-05-02) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Sukita (2 L) | 3,22 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Sukita (PET 1 L) | 2,07 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Sukita Laranja (2 L) | 3,35 | 2013-09-30 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Sukita (PET 1 L) | 2,07 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Sukita Laranja (2 L) | 3,35 | 2013-09-30 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50053 | Sukita Laranja (PET 2 L) | 5,55 | 2019-05-09 | não consta das relações completas das Portarias nº 614/2019 (2019-11-12) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | 50062 | Sukita Laranja (PET 237 ml) | 1,31 | 2022-09-01 | substituído pelo código 48989 (Sukita Laranja (PET 237 ml)) a partir de 2023-04-01; valeu até 2023-03-31 |
 | 48989 | Sukita Laranja (PET 237 ml) | 1,35 | 2023-04-01 | não consta das relações completas das Portarias nº 31/2024 (2024-02-01) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -1787,7 +1787,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Tropicola Zero (2 L) | 3,03 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Tubarel sabores (2 L) | 4,64 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Tubarel sabores (PET até 250 ml) | 0,49 | 2012-09-25 | não consta das relações completas das Portarias nº 74/2013 (2013-04-04) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
-| — | Tubarel sabores (PET até 260 ml) | 0,55 | 2013-04-04 | não consta das relações completas das Portarias nº 157/2014 (2014-05-29) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
+| — | Tubarel sabores (PET até 260 ml) | 0,55 | 2013-04-04 | não consta das relações completas das Portarias nº 176/2015 (2015-03-23) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Tuca (2 L) | 2,37 | 2013-04-04 | não consta das relações completas das Portarias nº 300/2013 (2013-09-30) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Tuca Sabores (2 L) | 3,21 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
 | — | Turma da Monica (2 L) | 3,40 | 2016-05-03 | não consta das relações completas das Portarias nº 222/2017 (2017-05-05) e nº 402/2026 (2026-11-01): saiu da tabela sem exclusão expressa |
@@ -2121,9 +2121,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 15,70 | +10.2% | und | AMBEV sabores (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 16,33 | +4.0% | und | AMBEV sabores (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 17,00 | +4.1% | und | AMBEV sabores (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 | +4.0% | und | AMBEV sabores (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | AMBEV sabores (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | AMBEV sabores (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +12.0% | und | AMBEV sabores (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | AMBEV sabores (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | AMBEV sabores (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | AMBEV sabores (1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 21,82 | +4.8% | und | Ambev sabores (1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 22,14 | +1.5% | und | Ambev sabores (1 L) | Port. 222/2017 |
@@ -2166,9 +2166,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,13 | +17.7% | und | AMBEV Sabores (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,29 | +5.1% | und | AMBEV Sabores (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,50 | +6.4% | und | AMBEV Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,64 | +4.0% | und | AMBEV Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,12 | +13.2% | und | AMBEV Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,30 | +4.4% | und | AMBEV Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,12 | +17.7% | und | AMBEV Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,64 | -11.7% | und | AMBEV Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,30 | +18.1% | und | AMBEV Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,50 | +4.7% | und | AMBEV Sabores (2 L) | Port. 142/2016 |
 
 ### Ambev Sabores (até 200 ml) (código —)
@@ -2195,9 +2195,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,39 | +9.4% | und | AMBEV Sabores (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,45 | +4.3% | und | AMBEV Sabores (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,50 | +3.4% | und | AMBEV Sabores (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,56 | +4.0% | und | AMBEV Sabores (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,88 | +20.5% | und | AMBEV Sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,96 | +4.3% | und | AMBEV Sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,88 | +25.3% | und | AMBEV Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,56 | -17.0% | und | AMBEV Sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,96 | +25.6% | und | AMBEV Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,05 | +4.6% | und | AMBEV Sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,23 | +8.8% | und | AMBEV Sabores (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,26 | +1.3% | und | AMBEV Sabores (lata 350 ml) | Port. 222/2017 |
@@ -2230,9 +2230,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,00 | +10.5% | und | AMBEV sabores (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | +5.0% | und | AMBEV sabores (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 | +1.4% | und | AMBEV sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | AMBEV sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +17.1% | und | AMBEV sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,31 | +27.3% | und | AMBEV sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,60 | +22.1% | und | AMBEV sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -14.6% | und | AMBEV sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,31 | +49.1% | und | AMBEV sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,46 | +4.5% | und | AMBEV sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,81 | +10.1% | und | AMBEV sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,87 | +1.6% | und | AMBEV sabores (PET 1 L) | Port. 222/2017 |
@@ -2260,9 +2260,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,41 |  | und | Ambev Sabores (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,51 | +4.1% | und | Ambev Sabores (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,61 | +4.0% | und | Ambev Sabores (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,71 | +3.8% | und | Ambev Sabores (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,18 | +17.3% | und | Ambev Sabores (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,32 | +4.4% | und | Ambev Sabores (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,18 | +21.8% | und | Ambev Sabores (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,71 | -14.8% | und | Ambev Sabores (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,32 | +22.5% | und | Ambev Sabores (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,48 | +4.8% | und | Ambev Sabores (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,98 | +14.4% | und | Ambev Sabores (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,04 | +1.5% | und | Ambev Sabores (PET 1,5 L) | Port. 222/2017 |
@@ -2317,9 +2317,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,56 | +7.2% | und | Ambev Sabores (2,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,70 | +3.9% | und | Ambev Sabores (2,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,85 | +4.1% | und | Ambev Sabores (2,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,00 | +3.9% | und | Ambev Sabores (2,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,63 | +15.7% | und | Ambev Sabores (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,90 | +5.8% | und | Ambev Sabores (2,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,63 | +20.3% | und | Ambev Sabores (2,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,00 | -13.6% | und | Ambev Sabores (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,90 | +22.5% | und | Ambev Sabores (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,13 | +4.7% | und | Ambev Sabores (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,65 | +10.1% | und | Ambev Sabores (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,73 | +1.4% | Und | Ambev Sabores (2,5 L) | Port. 222/2017 |
@@ -2368,9 +2368,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,84 | +8.9% | und | AMBEV sabores (PET 500 a 600 ml) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,91 | +3.8% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,00 | +4.7% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,08 | +4.0% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,49 | +19.7% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,60 | +4.4% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,49 | +24.5% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,08 | -16.5% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,60 | +25.0% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,72 | +4.6% | und | AMBEV sabores (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,95 | +8.5% | und | Ambev sabores (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,99 | +1.4% | und | Ambev sabores (PET 500 a 600 ml) | Port. 222/2017 |
@@ -2453,9 +2453,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,18 | +10.3% | und | AMBEV Sabores (retornável 201 a 290 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,23 | +4.2% | und | AMBEV Sabores (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,23 | +0.0% | und | AMBEV Sabores (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,28 | +4.1% | und | AMBEV Sabores (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,65 | +28.9% | und | AMBEV Sabores (retornável 200 a 290 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +9.1% | und | AMBEV Sabores – 290ml ⚠ | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,65 | +34.1% | und | AMBEV Sabores (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,28 | -22.4% | und | AMBEV Sabores (retornável 200 a 290 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +40.6% | und | AMBEV Sabores – 290ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,88 | +4.4% | und | AMBEV Sabores – 290ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,06 | +9.6% | und | Ambev Sabores (retornável 200 a 290 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,09 | +1.5% | und | Ambev Sabores – 290 ml ⚠ | Port. 222/2017 |
@@ -2480,9 +2480,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,60 |  | und | Ambev Sabores (vidro 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,75 | +9.4% | und | Ambev Sabores (vidro 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,83 | +4.6% | und | Ambev Sabores (vidro 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,75 |  | und | Ambev Sabores (vidro 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,60 | -8.6% | und | Ambev Sabores (vidro 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,83 | +14.4% | und | Ambev Sabores (vidro 1 L) | Port. 463/2015 |
 
 ### Ambev Sabores (vidro até 200 ml) (código —)
 
@@ -2507,9 +2507,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,06 |  | und | AMBEV Sabores – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,10 | +3.8% | und | AMBEV Sabores – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,24 | +12.7% | und | AMBEV Sabores – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,30 | +4.8% | und | AMBEV Sabores – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,24 | +17.0% | und | AMBEV Sabores – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,10 | -11.3% | und | AMBEV Sabores – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,30 | +18.2% | und | AMBEV Sabores – 250 ml | Port. 463/2015 |
 
 ### American Cola (2 L) (código —)
 
@@ -2523,9 +2523,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,97 | +17.4% | und | American Cola (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,12 | +5.1% | und | American Cola (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,24 | +3.8% | und | American Cola (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,37 | +4.0% | und | American Cola (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,81 | +13.1% | und | American Cola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,98 | +4.5% | und | American Cola (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,81 | +17.6% | und | American Cola (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,37 | -11.5% | und | American Cola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,98 | +18.1% | und | American Cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,17 | +4.8% | und | American Cola (2 L) | Port. 142/2016 |
 
 ### American Cola (descartável 500 a 600 ml) (código —)
@@ -2546,9 +2546,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,77 | +10.0% | und | American Cola (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +16.9% | und | American Cola (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,94 | +4.4% | und | American Cola (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,05 | +11.7% | und | American Cola (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +20.0% | und | American Cola (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +4.8% | und | American Cola (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +34.0% | und | American Cola (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,05 | -16.7% | und | American Cola (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +25.7% | und | American Cola (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,38 | +4.5% | und | American Cola (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,59 | +87.7% | und | American Cola (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,63 | +1.5% | und | American Cola (lata 350 ml) | Port. 222/2017 |
@@ -2603,9 +2603,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 | +9.3% | und | American Cola (PET 500 a 600 ml) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,22 | +4.3% | und | American Cola (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,27 | +4.1% | und | American Cola (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,32 | +3.9% | und | American Cola (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,58 | +19.7% | und | American Cola (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,65 | +4.4% | und | American Cola (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,58 | +24.4% | und | American Cola (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,32 | -16.5% | und | American Cola (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,65 | +25.0% | und | American Cola (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,73 | +4.8% | und | American Cola (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,88 | +8.7% | und | American Cola (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,91 | +1.6% | und | American Cola (PET 500 a 600 ml) | Port. 222/2017 |
@@ -2635,9 +2635,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,36 | +9.7% | und | Antarctica Tonica (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,41 | +3.7% | und | Antarctica Tonica (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,47 | +4.3% | und | Antarctica Tonica (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,53 | +4.1% | und | Antarctica Tonica (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,84 | +20.3% | und | Antarctica Tonica (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,95 | +6.0% | und | Antarctica Tonica (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,84 | +25.2% | und | Antarctica Tonica (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,53 | -16.8% | und | Antarctica Tonica (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,95 | +27.5% | und | Antarctica Tonica (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,04 | +4.6% | und | Antarctica Tonica (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,25 | +10.3% | und | Antarctica Tonica (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,28 | +1.3% | und | Antarctica Tonica (lata 350 ml) | Port. 222/2017 |
@@ -2663,9 +2663,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,55 |  | und | Aquários Fresh (PET 450 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,61 | +3.9% | und | Aquários Fresh (PET 450 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,73 | +7.5% | und | Aquários Fresh (PET 450 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,81 | +4.6% | und | Aquários Fresh (PET 450 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,73 | +11.6% | und | Aquários Fresh (PET 450 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,61 | -6.9% | und | Aquários Fresh (PET 450 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,81 | +12.4% | und | Aquários Fresh (PET 450 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,89 | +4.4% | und | Aquários Fresh (PET 450 ml) | Port. 142/2016 |
 
 ### Aquarius Fresh (1,5 L) (código —)
@@ -2695,9 +2695,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,40 | +10.2% | und | Aquarius Fresh (lata 450 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,50 | +7.1% | und | Aquarius Fresh (lata 450 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,56 | +4.0% | und | Aquarius Fresh (lata 450 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,62 | +3.8% | und | Aquarius Fresh (lata 450 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,74 | +7.4% | und | Aquarius Fresh (lata 450 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,82 | +4.6% | und | Aquarius Fresh (lata 450 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,74 | +11.5% | und | Aquarius Fresh (lata 450 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,62 | -6.9% | und | Aquarius Fresh (lata 450 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,82 | +12.3% | und | Aquarius Fresh (lata 450 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,91 | +4.9% | und | Aquarius Fresh (lata 450 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,00 | +4.7% | und | Aquarius Fresh (lata 450 ml) | Port. 397/2016 |
 
@@ -2708,9 +2708,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,97 |  | und | Aquarius Fresh (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +4.1% | und | Aquarius Fresh (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 | +3.9% | und | Aquarius Fresh (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,30 | +8.0% | und | Aquarius Fresh (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,70 | +17.4% | und | Aquarius Fresh (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,82 | +4.4% | und | Aquarius Fresh (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,70 | +26.8% | und | Aquarius Fresh (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,30 | -14.8% | und | Aquarius Fresh (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,82 | +22.6% | und | Aquarius Fresh (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,95 | +4.6% | und | Aquarius Fresh (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,37 | +14.2% | und | Aquarius Fresh (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,42 | +1.5% | und | Aquarius Fresh (PET 1,5 L) | Port. 222/2017 |
@@ -2729,9 +2729,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,51 |  | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,57 | +4.0% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,57 | +0.0% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,63 | +3.8% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,21 | +35.6% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,19 | -0.9% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,21 | +40.8% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,63 | -26.2% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,19 | +34.4% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,29 | +4.6% | und | Aquarius Fresh (PET 500 a 600 ml) | Port. 142/2016 |
 
 ### Aquarius Fresh (PET 510 ml) (código 45110)
@@ -2753,9 +2753,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,50 |  | und | Aquazero Limão Indaiá – 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,56 | +4.0% | und | Aquazero Limão Indaiá – 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +19.9% | und | Aquazero Limão Indaiá – 500 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,95 | +4.3% | und | Aquazero Limão Indaiá – 500 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +24.7% | und | Aquazero Limão Indaiá – 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,56 | -16.6% | und | Aquazero Limão Indaiá – 500 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,95 | +25.0% | und | Aquazero Limão Indaiá – 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,04 | +4.6% | und | Aquazero Limão Indaiá – 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,21 | +8.3% | und | Aquazero Limao Indaiá 500 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,24 | +1.4% | und | Aquazero Limão Indaiá - 500 ml | Port. 222/2017 |
@@ -2770,9 +2770,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,50 |  | und | Aquazero Limão Minalba – 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,56 | +4.0% | und | Aquazero Limão Minalba – 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +19.9% | und | Aquazero Limão Minalba – 500 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,95 | +4.3% | und | Aquazero Limão Minalba – 500 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,87 | +24.7% | und | Aquazero Limão Minalba – 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,56 | -16.6% | und | Aquazero Limão Minalba – 500 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,95 | +25.0% | und | Aquazero Limão Minalba – 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,04 | +4.6% | und | Aquazero Limão Minalba – 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,21 | +8.3% | und | Aquazero Limao Minalba 500 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,62 | -26.7% | und | Aquazero Limão Minalba - 500 ml | Port. 222/2017 |
@@ -2871,9 +2871,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,30 |  | und | Belco Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,39 | +3.9% | und | Belco Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,70 | +13.0% | und | Belco Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,82 | +4.4% | und | Belco Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,70 | +17.4% | und | Belco Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,39 | -11.5% | und | Belco Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,82 | +18.0% | und | Belco Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,95 | +4.6% | und | Belco Sabores (2 L) | Port. 142/2016 |
 
 ### Belco sabores (lata 350 ml) (código 45119)
@@ -2881,9 +2881,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 |  | und | Belco Sabores (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,04 | +4.0% | und | Belco Sabores (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | +20.2% | und | Belco Sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,31 | +4.8% | und | Belco Sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | +25.0% | und | Belco Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,04 | -16.8% | und | Belco Sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,31 | +26.0% | und | Belco Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,37 | +4.6% | und | Belco Sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,49 | +8.8% | und | Belco sabores (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,51 | +1.3% | und | Belco sabores (lata 350 ml) | Port. 222/2017 |
@@ -2932,9 +2932,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 |  | und | Belco Sabores (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | Belco Sabores (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +9.8% | und | Belco Sabores (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +5.0% | und | Belco Sabores (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +14.8% | und | Belco Sabores (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -8.9% | und | Belco Sabores (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +15.2% | und | Belco Sabores (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,11 | +4.7% | und | Belco Sabores (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,16 | +4.5% | und | Belco sabores (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,18 | +1.7% | und | Belco Sabores (PET 350 ml) | Port. 222/2017 |
@@ -3019,9 +3019,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,89 | +6.0% | Und | Black Cola (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,95 | +6.7% | Und | Black Cola (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 | +5.3% | Und | Black Cola (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,04 | +4.0% | und | Black Cola (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | +20.2% | und | Black Cola (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,31 | +4.8% | und | Black Cola (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | +25.0% | und | Black Cola (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,04 | -16.8% | und | Black Cola (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,31 | +26.0% | und | Black Cola (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,37 | +4.6% | und | Black Cola (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,49 | +8.8% | Und | Black Cola (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,51 | +1.3% | und | Black Cola (lata 350 ml) | Port. 222/2017 |
@@ -3102,9 +3102,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,70 |  | und | Cerpa diversos sabores | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,73 | +4.3% | und | Cerpa diversos sabores | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,76 | +4.1% | und | Cerpa diversos sabores | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,82 | +7.9% | und | Cerpa diversos sabores | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,01 | +23.2% | und | Cerpa diversos sabores | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,82 | +12.3% | und | Cerpa diversos sabores | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,76 | -7.3% | und | Cerpa diversos sabores | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,01 | +32.9% | und | Cerpa diversos sabores | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,06 | +5.0% | und | Cerpa diversos sabores | Port. 142/2016 |
 
 ### Cerpa diversos sabores (lata 350 ml) (código —)
@@ -3315,9 +3315,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,65 |  | und | Cerpa sabores (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,75 | +3.8% | und | Cerpa sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,86 | +4.0% | und | Cerpa sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,23 | +12.9% | und | Cerpa sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,37 | +4.3% | und | Cerpa sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,23 | +17.5% | und | Cerpa sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,86 | -11.5% | und | Cerpa sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,37 | +17.8% | und | Cerpa sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,53 | +4.7% | und | Cerpa sabores (2 L) | Port. 142/2016 |
 
 ### Cerpa sabores (lata 350 ml) (código 52036)
@@ -3339,11 +3339,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,10 |  | und | Cerpa sabores (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,10 | +0.0% | und | Cerpa sabores (lata 350 ml) | Port. 300/2013 |
 | 2013-11-22 (pub.) | 2013-10-01 | incluir | 1,05 | -4.5% |  | Refrigerante Cerpa Sabores - Lata 350 ml | Port. 355/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,14 | +8.6% | und | Cerpa sabores (lata 350 ml) | Port. 157/2014 |
-| 2014-09-03 (pub.) | 2014-08-27 | alterar | 1,25 | +9.6% |  | Refrigerante Cerpa Sabores - Lata 350 ml | Port. 236/2014 |
+| 2014-09-03 (pub.) | 2014-08-27 | alterar | 1,25 | +19.0% |  | Refrigerante Cerpa Sabores - Lata 350 ml | Port. 236/2014 |
 | 2014-10-29 (pub.) | 2014-10-23 | alterar | 1,15 | -8.0% |  | Refrigerante Cerpa Sabores - Lata 350 ml | Port. 275/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,37 | +19.1% | und | Cerpa sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,43 | +4.4% | und | Cerpa sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,14 | -16.8% | und | Cerpa sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,43 | +25.4% | und | Cerpa sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,50 | +4.9% | und | Cerpa sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,64 | +9.3% | und | Cerpa sabores (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,58 | -3.7% | und | Cerpa sabores (lata 350 ml) | Port. 222/2017 |
@@ -3422,9 +3422,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,00 |  | und | Cerpa Sabores - retornavel (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,05 | +5.0% | und | Cerpa Sabores - retornavel (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,05 | +0.0% | und | Cerpa Sabores – retornavel (PET 500 a 600 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +20.0% | und | Cerpa Sabores – retornavel (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +4.8% | und | Cerpa Sabores – retornavel (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,05 | -16.7% | und | Cerpa Sabores – retornavel (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +25.7% | und | Cerpa Sabores – retornavel (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,38 | +4.5% | und | Cerpa Sabores – retornavel (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,50 | +8.7% | und | Cerpa Sabores retornável (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,52 | +1.3% | und | Cerpa Sabores - Retornável (PET 500 a 600 ml) | Port. 222/2017 |
@@ -3545,9 +3545,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 15,70 | +10.2% | und | Coca - Cola (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 16,33 | +4.0% | und | Coca - Cola (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 17,00 | +4.1% | und | Coca - Cola (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 | +4.0% | und | Coca – Cola (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | Coca – Cola (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | Coca – Cola (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +12.0% | und | Coca – Cola (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | Coca – Cola (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | Coca – Cola (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | Coca – Cola (1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 21,82 | +4.8% | und | Coca - Cola (1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 22,14 | +1.5% | und | Coca - Cola (1 L) | Port. 222/2017 |
@@ -3630,9 +3630,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,46 | +9.0% | und | Coca Cola (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,52 | +4.1% | und | Coca Cola (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,58 | +3.9% | und | Coca Cola (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,58 | +0.0% | und | Coca Cola (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,92 | +21.5% | und | Coca Cola (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,00 | +4.2% | und | Coca Cola (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,58 | -17.7% | und | Coca Cola (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,00 | +26.6% | und | Coca Cola (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,09 | +4.5% | und | Coca Cola (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,28 | +9.1% | und | Coca Cola (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,31 | +1.3% | und | Coca Cola (lata 350 ml) | Port. 222/2017 |
@@ -3665,9 +3665,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,30 | +10.6% | und | Coca – Cola (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,39 | +3.9% | und | Coca – Cola (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,49 | +4.2% | und | Coca – Cola (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,49 | +0.0% | und | Coca – Cola (PET 1 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,00 | +20.5% | und | Coca – Cola (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,35 | +11.7% | und | Coca – Cola (PET 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,49 | -17.0% | und | Coca – Cola (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,35 | +34.5% | und | Coca – Cola (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,51 | +4.8% | und | Coca – Cola (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,95 | +12.5% | und | Coca – Cola (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,01 | +1.5% | und | Coca – Cola (PET 1 L) | Port. 222/2017 |
@@ -3695,9 +3695,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,62 |  | und | Coca - Cola (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,72 | +3.8% | und | Coca - Cola (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,83 | +4.0% | und | Coca - Cola (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,83 | +0.0% | und | Coca – Cola (PET 1,5 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,25 | +14.8% | und | Coca – Cola (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,60 | +10.8% | und | Coca – Cola (PET 1,5 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,83 | -12.9% | und | Coca – Cola (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,60 | +27.2% | und | Coca – Cola (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,77 | +4.7% | und | Coca – Cola (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,12 | +9.3% | und | Coca - Cola (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,18 | +1.5% | und | Coca - Cola (PET 1,5 L) | Port. 222/2017 |
@@ -3786,9 +3786,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,25 | +15.5% | und | Coca-cola (3 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,42 | +4.0% | und | Coca-cola (3 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,60 | +4.1% | und | Coca-cola (3 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,78 | +3.9% | und | Coca-cola (3 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,25 | +9.8% | und | Coca-cola (3 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,49 | +4.6% | und | Coca-cola (3 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,25 | +14.1% | und | Coca-cola (3 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,78 | -9.0% | und | Coca-cola (3 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,49 | +14.9% | und | Coca-cola (3 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,75 | +4.7% | und | Coca-cola (3 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,03 | +4.9% | und | Coca-cola (3 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 6,12 | +1.5% | Und | Coca-cola (3 L) | Port. 222/2017 |
@@ -3900,9 +3900,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 | +10.4% | und | Coca Cola (retornável 201 a 290 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,22 | +4.3% | und | Coca Cola (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,22 | +0.0% | und | Coca Cola (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,27 | +4.1% | und | Coca Cola (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,66 | +30.7% | und | Coca Cola (retornável 200 a 290 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,79 | +7.8% | und | Coca Cola - 290 ml ⚠ | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,66 | +36.1% | und | Coca Cola (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,27 | -23.5% | und | Coca Cola (retornável 200 a 290 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,79 | +40.9% | und | Coca Cola - 290 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,87 | +4.5% | und | Coca Cola - 290 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,17 | +16.0% | und | coca Cola 290 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,20 | +1.4% | und | coca Cola - 290 ml | Port. 222/2017 |
@@ -4163,9 +4163,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,42 | +10.1% | und | Coca Cola Zero (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,48 | +4.2% | und | Coca Cola Zero (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,55 | +4.7% | und | Coca Cola Zero (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,55 | +0.0% | und | Coca Cola Zero (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,91 | +23.2% | und | Coca Cola Zero (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +5.2% | und | Coca Cola Zero (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,55 | -18.8% | und | Coca Cola Zero (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +29.7% | und | Coca Cola Zero (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,10 | +4.5% | und | Coca Cola Zero (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,29 | +9.0% | und | Coca Cola Zero (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,32 | +1.3% | und | Coca Cola Zero (lata 350 ml) | Port. 222/2017 |
@@ -4207,9 +4207,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,43 |  | und | Coca Cola Zero (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,53 | +4.1% | und | Coca Cola Zero (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,63 | +4.0% | und | Coca Cola Zero (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,63 | +0.0% | und | Coca Cola Zero (PET 1,5 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,13 | +19.0% | und | Coca Cola Zero (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,42 | +9.3% | und | Coca Cola Zero (PET 1,5 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,63 | -16.0% | und | Coca Cola Zero (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,42 | +30.0% | und | Coca Cola Zero (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,58 | +4.7% | und | Coca Cola Zero (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,10 | +14.5% | und | Coca Cola Zero (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,16 | +1.5% | und | Coca Cola Zero (PET 1,5 L) | Port. 222/2017 |
@@ -4286,9 +4286,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,85 | +10.1% | und | Coca Cola (PET 500 a 600 ml) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,92 | +3.8% | und | Coca Cola (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,92 | +0.0% | und | Coca Cola (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,00 | +4.2% | und | Coca Cola (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,43 | +21.5% | und | Coca Cola (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,70 | +11.1% | und | Coca Cola (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,43 | +26.6% | und | Coca Cola (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,00 | -17.7% | und | Coca Cola (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,70 | +35.0% | und | Coca Cola (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,83 | +4.8% | und | Coca Cola (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,00 | +6.0% | und | Coca Cola (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,04 | +1.3% | und | Coca Cola (PET 500 a 600 ml) | Port. 222/2017 |
@@ -4423,9 +4423,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,03 | +18.2% | und | Coca Cola (2,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,19 | +4.0% | und | Coca Cola (2,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,19 | +0.0% | und | Coca Cola (2,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,19 | +0.0% | und | Coca Cola (2,5 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,61 | +10.0% | und | Coca Cola (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,25 | +13.9% | und | Coca Cola (2,5 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,19 | -9.1% | und | Coca Cola (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,25 | +25.3% | und | Coca Cola (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,50 | +4.8% | und | Coca Cola (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,19 | +12.5% | und | Coca Cola (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 6,28 | +1.5% | Und | Coca Cola (2,5 L) | Port. 222/2017 |
@@ -4495,9 +4495,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,33 | +9.9% | und | Coca Cola (PET 450 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,38 | +3.8% | und | Coca Cola (PET 450 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,44 | +4.3% | und | Coca Cola (PET 450 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,50 | +4.2% | und | Coca Cola (PET 450 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +8.0% | und | Coca Cola (PET 450 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +4.3% | und | Coca Cola (PET 450 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +12.5% | und | Coca Cola (PET 450 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,50 | -7.4% | und | Coca Cola (PET 450 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +12.7% | und | Coca Cola (PET 450 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,77 | +4.7% | und | Coca Cola (PET 450 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,85 | +4.5% | und | Coca Cola (PET 450 ml) | Port. 397/2016 |
 
@@ -4509,9 +4509,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2009-10-05 (efeitos) | 2009-09-29 | alterar | 1,42 | +0.7% | und | Coca Cola (vidro 1 L) | Port. 431/2009 |
 | 2010-02-23 (assin.) | 2010-02-23 | incluir | 1,42 | +0.0% | und | Coca Cola (vidro 1 L) | Port. 50/2010 |
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 1,45 | +2.1% | und | Coca Cola (vidro 1 L) | Port. 469/2010 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 | +23.4% | und | Coca Cola (vidro 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,93 | +7.8% | und | Coca Cola (vidro 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,23 | +15.5% | und | Coca Cola (vidro 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,93 | +33.1% | und | Coca Cola (vidro 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -7.3% | und | Coca Cola (vidro 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,23 | +24.6% | und | Coca Cola (vidro 1 L) | Port. 463/2015 |
 
 ### Coca Cola (vidro até 200 ml) (código —)
 
@@ -4542,11 +4542,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,96 |  | und | Coca-Cola – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,00 | +4.2% | und | Coca-Cola – 250 ml | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,10 | +10.0% | und | Coca Cola 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,11 | +0.9% | und | Coca-Cola – 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,11 | +15.6% | und | Coca-Cola – 250 ml | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,22 | +9.9% | und | Coca Cola - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,22 | +0.0% | und | Coca-Cola – 250 ml | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,00 | -18.0% | und | Coca-Cola – 250 ml | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,10 | +10.0% | und | Coca Cola 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,22 | +10.9% | und | Coca-Cola – 250 ml | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,23 | +0.8% | und | Coca Cola - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,28 | +4.1% | und | Coca-Cola – 250 ml | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,29 | +0.8% | und | Coca Cola - 250 ml | Port. 142/2016 |
@@ -4704,9 +4704,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,75 | +17.2% | und | Coca cola Light (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,94 | +5.1% | und | Coca cola Light (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,10 | +4.1% | und | Coca cola Light (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,10 | +0.0% | und | Coca cola Light (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,64 | +13.2% | und | Coca cola Light (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,85 | +4.5% | und | Coca cola Light (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,10 | -11.6% | und | Coca cola Light (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,85 | +18.3% | und | Coca cola Light (2 L) | Port. 463/2015 |
 
 ### Coca Cola Light (lata 350 ml) (código —)
 
@@ -4715,9 +4715,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,48 |  | und | Coca Cola Light (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,55 | +4.7% | und | Coca Cola Light (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,61 | +3.9% | und | Coca Cola Light (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,67 | +3.7% | und | Coca Cola Light (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,01 | +20.4% | und | Coca Cola Light (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,10 | +4.5% | und | Coca Cola Light (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,01 | +24.8% | und | Coca Cola Light (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,67 | -16.9% | und | Coca Cola Light (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,10 | +25.7% | und | Coca Cola Light (lata 350 ml) | Port. 463/2015 |
 
 ### Coca Cola light (lata até 250 ml) (código —)
 
@@ -4745,8 +4745,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,00 |  | und | Coca Cola Light (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,25 | +25.0% | und | Coca Cola Light (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,30 | +4.0% | und | Coca Cola Light (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,57 | +20.8% | und | Coca Cola Light (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,57 | +25.6% | und | Coca Cola Light (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,30 | -17.2% | und | Coca Cola Light (retornável 200 a 290 ml) | Port. 157/2015 |
 
 ### Coca Cola Light (retornável 201 a 290 ml) (código —)
 
@@ -4762,9 +4762,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,15 |  | und | Coca Cola light 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,23 | +7.0% | und | Coca Cola light - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,29 | +4.9% | und | Coca Cola light - 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,23 |  | und | Coca Cola light - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,15 | -6.5% | und | Coca Cola light 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,29 | +12.2% | und | Coca Cola light - 250 ml | Port. 463/2015 |
 
 ### Coca Cola Light Lemon (lata 350 ml) (código —)
 
@@ -4772,9 +4772,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,58 |  | und | Coca Cola Light Lemon (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,64 | +3.8% | und | Coca Cola Light Lemon (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,71 | +4.3% | und | Coca Cola Light Lemon (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,06 | +20.5% | und | Coca Cola Light Lemon (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,15 | +4.4% | und | Coca Cola Light Lemon (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,06 | +25.6% | und | Coca Cola Light Lemon (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,71 | -17.0% | und | Coca Cola Light Lemon (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,15 | +25.7% | und | Coca Cola Light Lemon (lata 350 ml) | Port. 463/2015 |
 
 ### Coca Cola Light Lemon (PET 500 a 600 ml) (código —)
 
@@ -4782,9 +4782,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,88 |  | und | Coca Cola Light Lemon (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,96 | +4.3% | und | Coca Cola Light Lemon (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,04 | +4.1% | und | Coca Cola Light Lemon (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,44 | +19.6% | und | Coca Cola Light Lemon (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,13 | -12.7% | und | Coca Cola Light Lemon (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,44 | +24.5% | und | Coca Cola Light Lemon (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,04 | -16.4% | und | Coca Cola Light Lemon (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,13 | +4.4% | und | Coca Cola Light Lemon (PET 500 a 600 ml) | Port. 463/2015 |
 
 ### Coca Cola Light – 290 ml (código —)
 
@@ -4797,9 +4797,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,78 |  | und | Cola mais sabor - 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,81 | +3.8% | und | Cola mais sabor - 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,91 | +12.3% | und | Cola mais sabor - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,00 | +9.9% | und | Cola mais sabor - 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,91 | +16.7% | und | Cola mais sabor - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,81 | -11.0% | und | Cola mais sabor - 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,00 | +23.5% | und | Cola mais sabor - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,00 | +0.0% | und | Cola mais sabor - 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,03 | +3.0% | und | Cola Mais Sabor - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,04 | +1.0% | und | Cola Mais Sabor - 250 ml | Port. 222/2017 |
@@ -4839,7 +4839,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,61 | +17.3% | und | Coca Cola Retorn. (até 200 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,63 | +3.3% | und | Coca Cola Retorn. (até 200 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,65 | +3.2% | und | Coca Cola Retorn. (até 200 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,68 | +4.6% | und | Coca Cola Retorn. (até 200 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,68 | +4.6% | und | Coca Cola Retorn. (até 200 ml) | Port. 157/2015 |
 
 ### Coca Cola sem açúcar (PET 250 ml) (código 50063)
 
@@ -4886,9 +4886,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,38 |  | und | Coca Cola Sleek Can 270 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,56 | +13.0% | und | Coca Cola Sleek Can 270 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,63 | +4.5% | und | Coca Cola Sleek Can - 270 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,56 |  | und | Coca Cola Sleek Can 270 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,38 | -11.5% | und | Coca Cola Sleek Can 270 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,63 | +18.1% | und | Coca Cola Sleek Can - 270 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,71 | +4.9% | und | Coca Cola Sleek Can - 270 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,81 | +5.8% | und | Coca cola sleek can 270 ml | Port. 397/2016 |
 
@@ -4978,9 +4978,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,77 | +17.8% | und | Coca Cola Zero (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,96 | +5.0% | und | Coca Cola Zero (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,12 | +4.0% | und | Coca Cola Zero (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,12 | +0.0% | und | Coca Cola Zero (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,67 | +13.3% | und | Coca Cola Zero (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,00 | +7.1% | und | Coca Cola Zero (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,12 | -11.8% | und | Coca Cola Zero (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,00 | +21.4% | und | Coca Cola Zero (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,23 | +4.6% | und | Coca Cola Zero (2 L) | Port. 142/2016 |
 
 ### Coca Cola Zero (2,5 L) (código 45101)
@@ -4992,9 +4992,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,99 | +17.0% | und | Coca Cola Zero (2,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,15 | +4.0% | und | Coca Cola Zero (2,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,32 | +4.1% | und | Coca Cola Zero (2,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,49 | +3.9% | und | Coca Cola Zero (2,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,20 | +15.8% | und | Coca Cola Zero (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,55 | +6.7% | und | Coca Cola Zero (2,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,20 | +20.4% | und | Coca Cola Zero (2,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,49 | -13.7% | und | Coca Cola Zero (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,55 | +23.6% | und | Coca Cola Zero (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,81 | +4.7% | und | Coca Cola Zero (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,21 | +6.9% | und | Coca Cola Zero (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 6,30 | +1.4% | Und | Coca Cola Zero (2,5 L) | Port. 222/2017 |
@@ -5013,11 +5013,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,00 |  | und | Coca Cola Zero 250 ml | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,10 | +10.0% | und | Coca Cola zero 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,72 | +56.4% | und | Coca Cola Zero 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,72 |  | und | Coca Cola Zero 250 ml | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,12 | -34.9% | und | Coca Cola zero - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +60.7% | und | Coca Cola Zero 250 ml | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,00 | -10.7% | und | Coca Cola Zero 250 ml | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,10 | +10.0% | und | Coca Cola zero 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +63.6% | und | Coca Cola Zero 250 ml | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,18 | -34.4% | und | Coca Cola zero - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,88 | +59.3% | und | Coca Cola Zero 250 ml | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,24 | -34.0% | und | Coca Cola zero - 250 ml | Port. 142/2016 |
@@ -5055,9 +5055,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,26 | +10.2% | und | Coca cola zero (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,35 | +4.0% | und | Coca cola zero (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,45 | +4.3% | und | Coca cola zero (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,45 | +0.0% | und | Coca cola zero (PET 1 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,01 | +22.9% | und | Coca cola zero (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,36 | +11.6% | und | Coca cola zero (PET 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,45 | -18.6% | und | Coca cola zero (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,36 | +37.1% | und | Coca cola zero (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,52 | +4.8% | und | Coca cola zero (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,94 | +11.9% | und | Coca cola zero (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,00 | +1.5% | und | Coca cola zero (PET 1 L) | Port. 222/2017 |
@@ -5074,9 +5074,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,33 | +9.9% | und | Coca Cola Zero (PET 450 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,40 | +5.3% | und | Coca Cola Zero (PET 450 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,46 | +4.3% | und | Coca Cola Zero (PET 450 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,52 | +4.1% | und | Coca Cola Zero (PET 450 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,64 | +7.9% | und | Coca Cola Zero (PET 450 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,71 | +4.3% | und | Coca Cola Zero (PET 450 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,64 | +12.3% | und | Coca Cola Zero (PET 450 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,52 | -7.3% | und | Coca Cola Zero (PET 450 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,71 | +12.5% | und | Coca Cola Zero (PET 450 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,79 | +4.7% | und | Coca Cola Zero (PET 450 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,88 | +5.0% | und | Coca Cola Zero (PET 450 ml) | Port. 397/2016 |
 
@@ -5087,9 +5087,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,84 |  | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,91 | +3.8% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,91 | +0.0% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,99 | +4.2% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,41 | +21.1% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,23 | -7.5% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,41 | +26.2% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,99 | -17.4% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,23 | +12.1% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,33 | +4.5% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,94 | +26.2% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,98 | +1.4% | und | Coca Cola Zero (PET 500 a 600 ml) | Port. 222/2017 |
@@ -5101,9 +5101,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,24 |  | und | Coca Cola Zero (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,29 | +4.0% | und | Coca Cola Zero (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,34 | +3.9% | und | Coca Cola Zero (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,70 | +26.9% | und | Coca Cola Zero (retornável 200 a 290 ml) | Port. 176/2015 |
-| 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,15 | +26.5% | und | Coca Cola Zero (retornável 200 a 290 ml) | Port. 397/2016 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,70 | +31.8% | und | Coca Cola Zero (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,34 | -21.2% | und | Coca Cola Zero (retornável 200 a 290 ml) | Port. 157/2015 |
+| 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,15 | +60.4% | und | Coca Cola Zero (retornável 200 a 290 ml) | Port. 397/2016 |
 
 ### Coca Cola Zero (retornável 201 a 290 ml) (código —)
 
@@ -5161,9 +5161,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,77 | +17.8% | und | Coca – Cola (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,96 | +5.0% | und | Coca – Cola (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,12 | +4.0% | und | Coca – Cola (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,12 | +0.0% | und | Coca – Cola (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,66 | +13.1% | und | Coca – Cola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,04 | +8.2% | und | Coca – Cola (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,12 | -11.6% | und | Coca – Cola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,04 | +22.3% | und | Coca – Cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,28 | +4.8% | und | Coca – Cola (2 L) | Port. 142/2016 |
 
 ### Coca – Cola (PET 2 L) (código 50309)
@@ -5265,9 +5265,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,22 |  | und | Coca–Cola light (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,40 | +8.1% | und | Coca–Cola light (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 | +4.2% | und | Coca–Cola light (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +4.0% | und | Coca–Cola light (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +17.3% | und | Coca–Cola light (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +4.6% | und | Coca–Cola light (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +22.0% | und | Coca–Cola light (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | -14.8% | und | Coca–Cola light (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +22.7% | und | Coca–Cola light (PET 1 L) | Port. 463/2015 |
 
 ### Refrigerante Coca Cola MA - Pet 3.000 ml (código 51852)
 
@@ -5292,9 +5292,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,60 | +17.3% | und | Cola Indaiá (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,78 | +5.0% | und | Cola Indaiá (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,78 | +0.0% | und | Cola Indaiá (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,95 | -22.0% | und | Cola Indaiá (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,33 | +12.9% | und | Cola Indaiá (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,48 | +4.5% | und | Cola Indaiá (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,33 | -11.9% | und | Cola Indaiá (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,95 | -11.4% | und | Cola Indaiá (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,48 | +18.0% | und | Cola Indaiá (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,64 | +4.6% | und | Cola Indaiá (2 L) | Port. 142/2016 |
 
 ### Cola Indaiá (PET 2 L) (código 48805)
@@ -5329,9 +5329,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,37 | +17.3% | und | Cola mais sabor (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,49 | +5.1% | und | Cola Mais Sabor (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,59 | +4.0% | und | Cola Mais Sabor (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,70 | +4.2% | und | Cola Mais Sabor (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +13.0% | und | Cola Mais Sabor (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +4.6% | und | Cola Mais Sabor (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +17.8% | und | Cola Mais Sabor (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,70 | -11.5% | und | Cola Mais Sabor (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +18.1% | und | Cola Mais Sabor (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,34 | +4.7% | und | Cola Mais Sabor (2 L) | Port. 142/2016 |
 
 ### Cola Mais Sabor (PET 1 L) (código 12103)
@@ -5342,9 +5342,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,63 | +10.1% | und | Cola mais sabor (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,70 | +4.3% | und | Cola Mais Sabor (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,76 | +3.5% | und | Cola Mais Sabor (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,83 | +4.0% | und | Cola Mais Sabor (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +17.5% | und | Cola Mais Sabor (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,25 | +4.7% | und | Cola Mais Sabor (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +22.2% | und | Cola Mais Sabor (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,83 | -14.9% | und | Cola Mais Sabor (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,25 | +23.0% | und | Cola Mais Sabor (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,25 | +0.0% | und | Cola Mais Sabor (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,48 | +10.2% | und | Cola Mais Sabor (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,52 | +1.6% | und | Cola Mais Sabor (PET 1 L) | Port. 222/2017 |
@@ -5396,9 +5396,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,80 | +11.1% | und | Cola mais sabor (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,85 | +6.2% | und | Cola mais sabor (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 | +3.5% | und | Cola mais sabor (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | Cola mais sabor (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +9.8% | und | Cola mais sabor (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +5.0% | und | Cola mais sabor (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +14.8% | und | Cola mais sabor (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -8.9% | und | Cola mais sabor (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +15.2% | und | Cola mais sabor (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,06 | +0.0% | und | Cola mais sabor (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,11 | +4.7% | und | Cola Mais Sabor (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,13 | +1.8% | und | Cola Mais Sabor (PET 350 ml) | Port. 222/2017 |
@@ -5722,9 +5722,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,98 |  | Und | Cristalina Citrus (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | +6.1% | Und | Cristalina Citrus (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +3.8% | und | Cristalina Citrus (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,40 | +10.1% | und | Cristalina Citrus (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +12.9% | und | Cristalina Citrus (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +4.4% | und | Cristalina Citrus (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +24.3% | und | Cristalina Citrus (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,40 | -11.4% | und | Cristalina Citrus (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +17.9% | und | Cristalina Citrus (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,96 | +4.6% | und | Cristalina Citrus (2 L) | Port. 142/2016 |
 
 ### Refrigerante Cristalina Citrus - Pet 1000 ml (código 49876)
@@ -5735,9 +5735,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,62 | +3.8% | Und | Cristalina Citrus (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,70 | +4.9% | Und | Cristalina Citrus (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,75 | +2.9% | und | Cristalina Citrus (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 | +4.0% | und | Cristalina Citrus (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,14 | +17.6% | und | Cristalina Citrus (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,24 | +4.7% | und | Cristalina Citrus (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,14 | +22.3% | und | Cristalina Citrus (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -15.0% | und | Cristalina Citrus (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,24 | +23.1% | und | Cristalina Citrus (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,34 | +4.5% | und | Cristalina Citrus (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,58 | +10.3% | Und | Cristalina Citrus (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,62 | +1.6% | Und | Cristalina Citrus (PET 1 L) | Port. 222/2017 |
@@ -5790,9 +5790,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,95 | +3.3% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,00 | +5.3% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,05 | +5.0% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,15 | +9.5% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +20.0% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +4.3% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +31.4% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,15 | -16.7% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +25.2% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,64 | +8.6% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,66 | +1.2% | und | Cristalina Citrus (PET 500 a 600 ml) | Port. 222/2017 |
@@ -5820,9 +5820,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,96 |  | Und | Cristalina Sabores (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | +7.1% | Und | Cristalina Sabores (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +3.8% | und | Cristalina Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,40 | +10.1% | und | Cristalina Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +12.9% | und | Cristalina Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +4.4% | und | Cristalina Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +24.3% | und | Cristalina Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,40 | -11.4% | und | Cristalina Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +17.9% | und | Cristalina Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,96 | +4.6% | und | Cristalina Sabores (2 L) | Port. 142/2016 |
 
 ### Cristalina Sabores (lata 350 ml) (código 49866)
@@ -5832,9 +5832,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,78 |  | Und | Cristalina Sabores (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +15.4% | Und | Cristalina Sabores (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,94 | +4.4% | Und | Cristalina Sabores (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,04 | +10.6% | und | Cristalina Sabores (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | +20.2% | und | Cristalina Sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,31 | +4.8% | und | Cristalina Sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | +33.0% | und | Cristalina Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,04 | -16.8% | und | Cristalina Sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,31 | +26.0% | und | Cristalina Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,37 | +4.6% | und | Cristalina Sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,49 | +8.8% | Und | Cristalina Sabores (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,51 | +1.3% | und | Cristalina Sabores (lata 350 ml) | Port. 222/2017 |
@@ -5862,9 +5862,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,66 |  | Und | Cristalina Sabores (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,75 | +5.4% | Und | Cristalina Sabores (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,82 | +4.0% | und | Cristalina Sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,89 | +3.8% | und | Cristalina Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,22 | +17.5% | und | Cristalina Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,32 | +4.5% | und | Cristalina Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,22 | +22.0% | und | Cristalina Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,89 | -14.9% | und | Cristalina Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,32 | +22.8% | und | Cristalina Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,43 | +4.7% | und | Cristalina Sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,68 | +10.3% | Und | Cristalina Sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,72 | +1.5% | Und | Cristalina Sabores (PET 1 L) | Port. 222/2017 |
@@ -5915,9 +5915,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,93 |  | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,00 | +7.5% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,05 | +5.0% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,15 | +9.5% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +20.0% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +4.3% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +31.4% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,15 | -16.7% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +25.2% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,64 | +8.6% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,66 | +1.2% | und | Cristalina Sabores (PET 500 a 600 ml) | Port. 222/2017 |
@@ -5944,9 +5944,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,95 |  | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 | +5.3% | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,05 | +5.0% | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +20.0% | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,37 | +8.7% | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +26.0% | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,05 | -16.7% | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,37 | +30.5% | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,43 | +4.4% | und | Cristalina Sabores retornável (PET 500 a 600 ml) | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,88 | +31.5% | und | Cristalina Sabores - Retornável (PET 500 a 600 ml) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,99 | +5.9% | Und | Cristalina Sabores - Retornavel (PET 500 a 600 ml) | Port. 507/2017 |
@@ -5985,9 +5985,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,98 |  | Und | Cristalina Sabores Zero (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | +6.1% | Und | Cristalina Sabores Zero (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +3.8% | und | Cristalina Sabores Zero (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,40 | +10.1% | und | Cristalina Sabores Zero (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +12.9% | und | Cristalina Sabores Zero (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +4.4% | und | Cristalina Sabores Zero (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +24.3% | und | Cristalina Sabores Zero (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,40 | -11.4% | und | Cristalina Sabores Zero (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +17.9% | und | Cristalina Sabores Zero (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,96 | +4.6% | und | Cristalina Sabores Zero (2 L) | Port. 142/2016 |
 
 ### Cristalina Sabores Zero (PET 1 L) (código 49863)
@@ -5997,9 +5997,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,71 |  | Und | Cristalina Sabores Zero (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,78 | +4.1% | Und | Cristalina Sabores Zero (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,85 | +3.9% | und | Cristalina Sabores Zero (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,92 | +3.8% | und | Cristalina Sabores Zero (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +17.2% | und | Cristalina Sabores Zero (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,35 | +4.4% | und | Cristalina Sabores Zero (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +21.6% | und | Cristalina Sabores Zero (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,92 | -14.7% | und | Cristalina Sabores Zero (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,35 | +22.4% | und | Cristalina Sabores Zero (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,46 | +4.7% | und | Cristalina Sabores Zero (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,71 | +10.2% | Und | Cristalina Sabores Zero (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,75 | +1.5% | Und | Cristalina Sabores Zero (PET 1 L) | Port. 222/2017 |
@@ -6050,9 +6050,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,99 |  | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,05 | +6.1% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,10 | +4.8% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,15 | +4.5% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +20.0% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +4.3% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +25.5% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,15 | -16.7% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +25.2% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,64 | +8.6% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,66 | +1.2% | und | Cristalina Sabores Zero (PET 500 a 600 ml) | Port. 222/2017 |
@@ -6080,9 +6080,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,98 |  | Und | Cristalina Uva (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | +6.1% | Und | Cristalina Uva (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 | +3.8% | und | Cristalina Uva (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,40 | +10.1% | und | Cristalina Uva (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +12.9% | und | Cristalina Uva (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +4.4% | und | Cristalina Uva (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +24.3% | und | Cristalina Uva (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,40 | -11.4% | und | Cristalina Uva (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +17.9% | und | Cristalina Uva (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,96 | +4.6% | und | Cristalina Uva (2 L) | Port. 142/2016 |
 
 ### Refrigerante Cristalina Uva – Pet 1000 ml (código 49879)
@@ -6093,9 +6093,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,62 | +3.8% | Und | Cristalina Uva (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,70 | +4.9% | Und | Cristalina Uva (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,75 | +2.9% | und | Cristalina Uva (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 | +4.0% | und | Cristalina Uva (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,14 | +17.6% | und | Cristalina Uva (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,24 | +4.7% | und | Cristalina Uva (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,14 | +22.3% | und | Cristalina Uva (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -15.0% | und | Cristalina Uva (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,24 | +23.1% | und | Cristalina Uva (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,34 | +4.5% | und | Cristalina Uva (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,58 | +10.3% | Und | Cristalina Uva (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,62 | +1.6% | Und | Cristalina Uva (PET 1 L) | Port. 222/2017 |
@@ -6148,9 +6148,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,95 | +3.3% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,00 | +5.3% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,05 | +5.0% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,15 | +9.5% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +20.0% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +4.3% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +31.4% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,15 | -16.7% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +25.2% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,64 | +8.6% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,66 | +1.2% | und | Cristalina Uva (PET 500 a 600 ml) | Port. 222/2017 |
@@ -6183,9 +6183,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,26 | +17.1% | und | Cristo Rei (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,37 | +4.9% | und | Cristo Rei (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,47 | +4.2% | und | Cristo Rei (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,57 | +4.0% | und | Cristo Rei (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,91 | +13.2% | und | Cristo Rei (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,04 | +4.5% | und | Cristo Rei (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,91 | +17.8% | und | Cristo Rei (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,57 | -11.7% | und | Cristo Rei (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,04 | +18.3% | und | Cristo Rei (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,18 | +4.6% | und | Cristo Rei (2 L) | Port. 142/2016 |
 
 ### Cristo Rei (PET 2 L) (código 48579)
@@ -6646,9 +6646,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,60 |  | und | Ehbon Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,70 | +3.8% | und | Ehbon Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +13.0% | und | Ehbon Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +4.6% | und | Ehbon Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +17.3% | und | Ehbon Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,70 | -11.5% | und | Ehbon Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +18.1% | und | Ehbon Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,34 | +4.7% | und | Ehbon Sabores (2 L) | Port. 142/2016 |
 
 ### Ehbon Sabores (lata 350 ml) (código 48471)
@@ -6656,9 +6656,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,94 |  | und | Ehbon Sabores (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,05 | +11.7% | und | Ehbon Sabores (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +20.0% | und | Ehbon Sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +4.8% | und | Ehbon Sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +34.0% | und | Ehbon Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,05 | -16.7% | und | Ehbon Sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +25.7% | und | Ehbon Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,38 | +4.5% | und | Ehbon Sabores (lata 350 ml) | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,52 | +10.1% | und | Ehbon Sabores (lata 350 ml) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,73 | +13.8% | Und | Ehbon Sabores (lata 350 ml) | Port. 507/2017 |
@@ -6683,9 +6683,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 |  | und | Ehbon Sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,27 | +4.1% | und | Ehbon Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,66 | +17.2% | und | Ehbon Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,78 | +4.5% | und | Ehbon Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,66 | +22.0% | und | Ehbon Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,27 | -14.7% | und | Ehbon Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,78 | +22.5% | und | Ehbon Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,91 | +4.7% | und | Ehbon Sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,21 | +10.3% | und | Ehbon sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,26 | +1.6% | und | Ehbon sabores (PET 1 L) | Port. 222/2017 |
@@ -6734,9 +6734,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 |  | und | Ehbon Sabores (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | Ehbon Sabores (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +9.8% | und | Ehbon Sabores (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +5.0% | und | Ehbon Sabores (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +14.8% | und | Ehbon Sabores (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -8.9% | und | Ehbon Sabores (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +15.2% | und | Ehbon Sabores (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,11 | +4.7% | und | Ehbon Sabores (PET 350 ml) | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,18 | +6.3% | und | Ehbon Sabores (PET 350 ml) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,35 | +14.4% | Und | Ehbon Sabores (PET 350 ml) | Port. 507/2017 |
@@ -7181,9 +7181,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 |  | und | Fanta Laranja (vidro 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,93 | +7.8% | und | Fanta Laranja (vidro 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,19 | +13.5% | und | Fanta Laranja (vidro 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,93 |  | und | Fanta Laranja (vidro 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -7.3% | und | Fanta Laranja (vidro 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,19 | +22.3% | und | Fanta Laranja (vidro 1 L) | Port. 463/2015 |
 
 ### Fanta Laranja - 200 ml (código —)
 
@@ -7394,7 +7394,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,61 | +17.3% | und | Fanta NS (até 200 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,63 | +3.3% | und | Fanta NS (até 200 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,65 | +3.2% | und | Fanta NS (até 200 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,68 | +4.6% | und | Fanta NS (até 200 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,68 | +4.6% | und | Fanta NS (até 200 ml) | Port. 157/2015 |
 
 ### Fanta sabores (1 L) (código 48407)
 
@@ -7407,9 +7407,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 15,70 | +10.2% | und | Fanta sabores (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 16,33 | +4.0% | und | Fanta sabores (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 17,00 | +4.1% | und | Fanta sabores (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 | +4.0% | und | Fanta sabores (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | Fanta sabores (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | Fanta sabores (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +12.0% | und | Fanta sabores (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | Fanta sabores (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | Fanta sabores (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | Fanta sabores (1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 21,82 | +4.8% | und | Fanta sabores (1 L) | Port. 397/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,89 | -86.8% | und | Fanta laranja (PET 500 a 600 ml) ⚠ | Port. 397/2016 |
@@ -7455,18 +7455,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,39 | +18.1% | und | Fanta sabores (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,56 | +5.0% | und | Fanta sabores (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,70 | +3.9% | und | Fanta sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,70 | +0.0% | und | Fanta sabores (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,31 | +16.5% | und | Fanta sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,50 | +4.4% | und | Fanta sabores (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,70 | -14.2% | und | Fanta sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,50 | +21.6% | und | Fanta sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,71 | +4.7% | und | Fanta sabores (2 L) | Port. 142/2016 |
 
 ### Fanta Sabores (lata 250 ml) (código 45031)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,10 |  | und | Fanta Sabores 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,19 | +8.2% | und | Fanta Sabores - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +4.2% | und | Fanta Sabores - 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,19 |  | und | Fanta Sabores - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,10 | -7.6% | und | Fanta Sabores 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +12.7% | und | Fanta Sabores - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,30 | +4.8% | und | Fanta Sabores - 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,38 | +6.2% | und | Fanta Sabores - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,40 | +1.4% | und | Fanta Sabores - 250 ml | Port. 222/2017 |
@@ -7496,9 +7496,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,43 | +10.0% | und | Fanta Sabores (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,49 | +4.2% | und | Fanta Sabores (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,55 | +4.0% | und | Fanta Sabores (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,55 | +0.0% | und | Fanta Sabores (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,92 | +23.9% | und | Fanta Sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +4.7% | und | Fanta Sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,55 | -19.3% | und | Fanta Sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +29.7% | und | Fanta Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,10 | +4.5% | und | Fanta Sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,29 | +9.0% | und | Fanta Sabores (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,32 | +1.3% | und | Fanta Sabores (lata 350 ml) | Port. 222/2017 |
@@ -7532,9 +7532,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,24 | +10.3% | und | Fanta sabores (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,33 | +4.0% | und | Fanta sabores (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,42 | +3.9% | und | Fanta sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,42 | +0.0% | und | Fanta sabores (PET 1 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,03 | +25.2% | und | Fanta sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,17 | +4.6% | und | Fanta sabores (PET 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,42 | -20.1% | und | Fanta sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,17 | +31.0% | und | Fanta sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,32 | +4.7% | und | Fanta sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,72 | +12.0% | und | Fanta sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,77 | +1.3% | und | Fanta sabores (PET 1 L) | Port. 222/2017 |
@@ -7553,9 +7553,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,41 |  | und | Fanta sabores (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,51 | +4.1% | und | Fanta sabores (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,61 | +4.0% | und | Fanta sabores (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,61 | +0.0% | und | Fanta sabores (PET 1,5 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,25 | +24.5% | und | Fanta sabores (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,40 | +4.6% | und | Fanta sabores (PET 1,5 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,61 | -19.7% | und | Fanta sabores (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,40 | +30.3% | und | Fanta sabores (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,56 | +4.7% | und | Fanta sabores (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,07 | +14.3% | und | Fanta sabores (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,13 | +1.5% | und | Fanta sabores (PET 1,5 L) | Port. 222/2017 |
@@ -7587,9 +7587,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,71 |  | und | Fanta Sabores (2,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,86 | +4.0% | und | Fanta Sabores (2,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,86 | +0.0% | und | Fanta Sabores (2,5 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,45 | +15.3% | und | Fanta Sabores (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,65 | +4.5% | und | Fanta Sabores (2,5 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,86 | -13.3% | und | Fanta Sabores (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,65 | +20.5% | und | Fanta Sabores (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,87 | +4.7% | und | Fanta Sabores (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,37 | +10.3% | und | Fanta sabores (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,45 | +1.5% | Und | Fanta sabores (2,5 L) | Port. 222/2017 |
@@ -7612,9 +7612,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,80 | +9.8% | und | Fanta Sabores (PET 500 a 600 ml) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,87 | +3.9% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,95 | +4.3% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,03 | +4.1% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,47 | +21.7% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,58 | +4.5% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,47 | +26.7% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,03 | -17.8% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,58 | +27.1% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,70 | +4.7% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,89 | +7.0% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,93 | +1.4% | und | Fanta Sabores (PET 500 a 600 ml) | Port. 222/2017 |
@@ -7662,10 +7662,10 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,16 | +10.5% | und | Fanta Sabores (retornável 201 a 290 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,21 | +4.3% | und | Fanta Sabores (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,21 | +0.0% | und | Fanta Sabores (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,21 | +0.0% | und | Fanta Sabores (retornável 200 a 290 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +33.9% | und | Fanta Sabores (retornável 200 a 290 ml) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,15 | -29.0% | und | Fanta Sabores – 200 ml ⚠ | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,20 | +4.3% | und | Fanta Sabores – 200 ml | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,21 | +5.2% | und | Fanta Sabores (retornável 200 a 290 ml) ⚠ | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,20 | -0.8% | und | Fanta Sabores – 200 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,26 | +5.0% | und | Fanta Sabores – 200 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,38 | +9.5% | und | Fanta Sabores 200 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,40 | +1.4% | und | Fanta Sabores - 200 ml | Port. 222/2017 |
@@ -7938,18 +7938,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 0,56 | +1.8% | und | Folia (PET 350 ml) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,62 | +10.7% | und | Folia (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,65 | +4.8% | und | Folia (PET 350 ml) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,71 | +9.2% | und | Folia (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,78 | +9.9% | und | Folia (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,81 | +3.8% | und | Folia (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,78 | +20.0% | und | Folia (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,71 | -9.0% | und | Folia (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,81 | +14.1% | und | Folia (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,85 | +4.9% | und | Folia (PET 350 ml) | Port. 142/2016 |
 
 ### Folia Baixa Caloria (2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,50 |  | und | Folia Baixa Caloria (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,83 | +13.2% | und | Folia Baixa Caloria (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,96 | +4.6% | und | Folia Baixa Caloria (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,83 |  | und | Folia Baixa Caloria (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,50 | -11.7% | und | Folia Baixa Caloria (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,96 | +18.4% | und | Folia Baixa Caloria (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,10 | +4.7% | und | Folia Baixa Caloria (2 L) | Port. 142/2016 |
 
 ### Folia Baixa Caloria (PET 2 L) (código 48808)
@@ -8335,9 +8335,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,05 |  | und | Frevo Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,17 | +3.9% | und | Frevo Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,58 | +12.9% | und | Frevo Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,74 | +4.5% | und | Frevo Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,58 | +17.4% | und | Frevo Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,17 | -11.5% | und | Frevo Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,74 | +18.0% | und | Frevo Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,92 | +4.8% | und | Frevo Sabores (2 L) | Port. 142/2016 |
 
 ### Frevo sabores (lata 350 ml) (código 48234)
@@ -8345,9 +8345,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,33 |  | und | Frevo Sabores (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,38 | +3.8% | und | Frevo Sabores (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,66 | +20.3% | und | Frevo Sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,73 | +4.2% | und | Frevo Sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,66 | +24.8% | und | Frevo Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,38 | -16.9% | und | Frevo Sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,73 | +25.4% | und | Frevo Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,81 | +4.6% | und | Frevo Sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,97 | +8.8% | und | Frevo sabores (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,00 | +1.5% | und | Frevo sabores (lata 350 ml) | Port. 222/2017 |
@@ -8373,9 +8373,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 |  | und | Frevo Sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,27 | +4.1% | und | Frevo Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,66 | +17.2% | und | Frevo Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,78 | +4.5% | und | Frevo Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,66 | +22.0% | und | Frevo Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,27 | -14.7% | und | Frevo Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,78 | +22.5% | und | Frevo Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,91 | +4.7% | und | Frevo Sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,21 | +10.3% | und | Frevo Sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,26 | +1.6% | und | Frevo Sabores (PET 1 L) | Port. 222/2017 |
@@ -8535,9 +8535,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,00 |  | und | Garoto Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,12 | +4.0% | und | Garoto Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,53 | +13.1% | und | Garoto Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,69 | +4.5% | und | Garoto Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,53 | +17.7% | und | Garoto Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,12 | -11.6% | und | Garoto Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,69 | +18.3% | und | Garoto Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,86 | +4.6% | und | Garoto Sabores (2 L) | Port. 142/2016 |
 
 ### Garoto sabores (PET 2 L) (código 48421)
@@ -8568,9 +8568,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,32 |  | und | Garoto Sabores (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,37 | +3.8% | und | Garoto Sabores (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,64 | +19.7% | und | Garoto Sabores (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,71 | +4.3% | und | Garoto Sabores (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,64 | +24.2% | und | Garoto Sabores (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,37 | -16.5% | und | Garoto Sabores (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,71 | +24.8% | und | Garoto Sabores (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,79 | +4.7% | und | Garoto Sabores (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,02 | +68.7% | und | Garoto sabores (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,06 | +1.3% | und | Garoto sabores (PET 500 a 600 ml) | Port. 222/2017 |
@@ -8613,7 +8613,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 0,70 | +1.4% | und | Goianinho (lata 350 ml) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,77 | +10.0% | und | Goianinho (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +16.9% | und | Goianinho (lata 350 ml) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,05 | +16.7% | und | Goianinho (lata 350 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,05 | +16.7% | und | Goianinho (lata 350 ml) | Port. 157/2015 |
 
 ### Refrigerante Goianinho 500 ml (código 48820)
 
@@ -8627,9 +8627,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,93 | +9.4% | und | Goianinho 500 ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,00 | +7.5% | und | Goianinho 500 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,05 | +5.0% | und | Goianinho 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,15 | +9.5% | und | Goianinho 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +20.0% | und | Goianinho 500 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +4.3% | und | Goianinho 500 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,38 | +31.4% | und | Goianinho 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,15 | -16.7% | und | Goianinho 500 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +25.2% | und | Goianinho 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Goianinho - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,64 | +8.6% | und | Goianinho 500 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,66 | +1.2% | und | Goianinho - 500 ml | Port. 222/2017 |
@@ -8655,9 +8655,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,65 |  | und | Goianinho Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,76 | +4.2% | und | Goianinho Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +13.0% | und | Goianinho Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +4.5% | und | Goianinho Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +17.7% | und | Goianinho Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,76 | -11.5% | und | Goianinho Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +18.1% | und | Goianinho Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,41 | +4.6% | und | Goianinho Sabores (2 L) | Port. 142/2016 |
 
 ### Goianinho Sabores (lata 350 ml) (código 48590)
@@ -9198,9 +9198,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 |  | und | Granfino Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +4.0% | und | Granfino Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,94 | +13.1% | und | Granfino Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,07 | +4.4% | und | Granfino Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,94 | +17.6% | und | Granfino Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | -11.6% | und | Granfino Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,07 | +18.1% | und | Granfino Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,21 | +4.6% | und | Granfino Sabores (2 L) | Port. 142/2016 |
 
 ### Granfino sabores (PET 2 L) (código 48506)
@@ -9238,9 +9238,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,37 | +17.3% | und | Grapette (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,50 | +5.5% | und | Grapette (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,60 | +4.0% | und | Grapette (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,70 | +3.8% | und | Grapette (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +13.0% | und | Grapette (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +4.6% | und | Grapette (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +17.3% | und | Grapette (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,70 | -11.5% | und | Grapette (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +18.1% | und | Grapette (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,34 | +4.7% | und | Grapette (2 L) | Port. 142/2016 |
 
 ### Refrigerante Grapette – Pet 1000 ml (código 51752)
@@ -9309,9 +9309,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 17,00 |  | und | Guaraná Antártica (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 | +4.0% | und | Guaraná Antártica (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | Guaraná Antártica (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | Guaraná Antártica (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +12.0% | und | Guaraná Antártica (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | Guaraná Antártica (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | Guaraná Antártica (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | Guaraná Antártica (1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 21,82 | +4.8% | und | Guaraná Antartica (1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 22,14 | +1.5% | und | Guaraná Antartica (1 L) | Port. 222/2017 |
@@ -9373,9 +9373,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,55 |  | und | Guaraná Antartica (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,84 | +18.7% | und | Guaraná Antartica (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,92 | +4.3% | und | Guaraná Antartica (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,84 |  | und | Guaraná Antartica (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,55 | -15.8% | und | Guaraná Antartica (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,92 | +23.9% | und | Guaraná Antartica (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,01 | +4.7% | und | Guaraná Antartica (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,19 | +9.0% | und | Guaraná Antartica (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,22 | +1.4% | und | Guaraná Antarctica (lata 350 ml) ⚠ | Port. 222/2017 |
@@ -9400,9 +9400,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,40 |  | und | Guaraná Antartica (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,50 | +4.2% | und | Guaraná Antartica (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | -8.4% | und | Guaraná Antartica (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,68 | +17.0% | und | Guaraná Antartica (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | -4.6% | und | Guaraná Antartica (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,50 | +9.2% | und | Guaraná Antartica (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,68 | +7.2% | und | Guaraná Antartica (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,81 | +4.9% | und | Guaraná Antartica (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,27 | +16.4% | und | Guaraná Antartica (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,32 | +1.5% | und | Guaraná Antarctica (PET 1 L) ⚠ | Port. 222/2017 |
@@ -9476,9 +9476,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,95 |  | und | Guaraná Antártica (2,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,57 | +15.7% | und | Guaraná Antártica (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,77 | +4.4% | und | Guaraná Antártica (2,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,57 |  | und | Guaraná Antártica (2,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,95 | -13.6% | und | Guaraná Antártica (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,77 | +20.8% | und | Guaraná Antártica (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,99 | +4.6% | und | Guaraná Antártica (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,32 | +6.6% | und | Guaraná Antartica (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,40 | +1.5% | Und | Guaraná Antartica (2,5 L) | Port. 222/2017 |
@@ -9630,9 +9630,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,25 |  | und | Guaraná Antartica (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,61 | +28.8% | und | Guaraná Antartica (retornável 200 a 290 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,72 | +6.8% | und | Guaraná Antartica – 290 ml ⚠ | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,61 |  | und | Guaraná Antartica (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,25 | -22.4% | und | Guaraná Antartica (retornável 200 a 290 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,72 | +37.6% | und | Guaraná Antartica – 290 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,80 | +4.7% | und | Guaraná Antartica – 290 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,96 | +8.9% | und | Guaraná Antartica (retornável 200 a 290 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,99 | +1.5% | und | Guaraná Antartica – 290 ml ⚠ | Port. 222/2017 |
@@ -9762,9 +9762,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,30 | +17.4% | und | Guarana Antarctica / açai (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,47 | +5.2% | und | Guarana Antarctica / açai (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,60 | +3.7% | und | Guarana Antarctica / açai (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,74 | +3.9% | und | Guarana Antarctica / açai (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,23 | +13.1% | und | Guarana Antarctica / açai (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,42 | +4.5% | und | Guarana Antarctica / açai (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,23 | +17.5% | und | Guarana Antarctica / açai (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,74 | -11.6% | und | Guarana Antarctica / açai (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,42 | +18.2% | und | Guarana Antarctica / açai (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,63 | +4.8% | und | Guarana Antarctica / açai (2 L) | Port. 142/2016 |
 
 ### Guarana Antarctica açai (PET 2 L) (código 12052)
@@ -9828,9 +9828,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 |  | und | Guaraná Antartica Diet (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +4.0% | und | Guaraná Antartica Diet (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +17.3% | und | Guaraná Antartica Diet (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +4.6% | und | Guaraná Antartica Diet (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +22.0% | und | Guaraná Antartica Diet (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | -14.8% | und | Guaraná Antartica Diet (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +22.7% | und | Guaraná Antartica Diet (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,34 | +4.7% | und | Guaraná Antartica Diet (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,68 | +10.2% | und | Guaraná Antartica Diet (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,73 | +1.4% | und | Guaraná Antarctica Diet (PET 1 L) ⚠ | Port. 222/2017 |
@@ -9929,18 +9929,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,55 |  | und | Guaraná Antartica (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,69 | +3.9% | und | Guaraná Antartica (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,09 | +10.8% | und | Guaraná Antartica (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,43 | +8.3% | und | Guaraná Antartica (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,09 | +15.2% | und | Guaraná Antartica (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,69 | -9.8% | und | Guaraná Antartica (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,43 | +20.1% | und | Guaraná Antartica (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,64 | +4.7% | und | Guaraná Antartica (2 L) | Port. 142/2016 |
 
 ### Guaraná Antartica (vidro 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,79 |  | und | Guaraná Antartica (vidro 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,94 | +8.4% | und | Guaraná Antartica (vidro 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,18 | +12.4% | und | Guaraná Antartica (vidro 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,94 |  | und | Guaraná Antartica (vidro 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,79 | -7.7% | und | Guaraná Antartica (vidro 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,18 | +21.8% | und | Guaraná Antartica (vidro 1 L) | Port. 463/2015 |
 
 ### Guarana antartica - 250 ml (código —)
 
@@ -9966,9 +9966,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,99 |  | und | Guaraná Antártica 237 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,14 | +15.2% | und | Guaraná Antártica 237 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | -2.6% | und | Guaraná Antártica 237 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,14 |  | und | Guaraná Antártica 237 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,99 | -13.2% | und | Guaraná Antártica 237 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +12.1% | und | Guaraná Antártica 237 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,16 | +4.5% | und | Guaraná Antártica 237 ml | Port. 142/2016 |
 
 ### Guaraná Antartica Diet (2 L) (código —)
@@ -9976,9 +9976,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,65 |  | und | Guaraná Antartica Diet (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,80 | +4.1% | und | Guaraná Antartica Diet (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,30 | +13.2% | und | Guaraná Antartica Diet (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,49 | +4.4% | und | Guaraná Antartica Diet (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,30 | +17.8% | und | Guaraná Antartica Diet (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,80 | -11.6% | und | Guaraná Antartica Diet (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,49 | +18.2% | und | Guaraná Antartica Diet (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,70 | +4.7% | und | Guaraná Antartica Diet (2 L) | Port. 142/2016 |
 
 ### Refrigerante Guaraná Antarctica Zero + Fibras – Lata 350 ml (código 54453)
@@ -10041,9 +10041,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 3,24 | +1.6% | und | Guaraná Indaia (2 L) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,79 | +17.0% | und | Guaraná Indaia (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,98 | +5.0% | und | Guaraná Indaia (2 L) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,95 | -25.9% | und | Guaraná Indaiá (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,33 | +12.9% | und | Guaraná Indaiá (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,48 | +4.5% | und | Guaraná Indaiá (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,33 | -16.3% | und | Guaraná Indaiá (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,95 | -11.4% | und | Guaraná Indaiá (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,48 | +18.0% | und | Guaraná Indaiá (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,64 | +4.6% | und | Guaraná Indaiá (2 L) | Port. 142/2016 |
 
 ### Guaraná Indaia (PET 2 L) (código 48446)
@@ -10152,9 +10152,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 17,00 |  | und | Guaraná Jesus (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 | +4.0% | und | Guaraná Jesus (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | Guaraná Jesus (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | Guaraná Jesus (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +12.0% | und | Guaraná Jesus (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | Guaraná Jesus (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | Guaraná Jesus (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | Guaraná Jesus (1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 21,82 | +4.8% | und | Guaraná Jesus (1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 22,14 | +1.5% | und | Guaraná Jesus (1 L) | Port. 222/2017 |
@@ -10180,9 +10180,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,10 |  | und | Guaraná Jesus (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,10 | +0.0% | und | Guaraná Jesus (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,64 | +13.2% | und | Guaraná Jesus (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,04 | +8.6% | und | Guaraná Jesus (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,10 | -11.6% | und | Guaraná Jesus (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,04 | +22.9% | und | Guaraná Jesus (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,28 | +4.8% | und | Guaraná Jesus (2 L) | Port. 142/2016 |
 
 ### Guaraná Jesus (até 200 ml) (código —)
@@ -10253,9 +10253,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,60 |  | und | Guaraná Jesus (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,60 | +0.0% | und | Guaraná Jesus (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,95 | +21.9% | und | Guaraná Jesus (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,02 | +3.6% | und | Guaraná Jesus (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,60 | -17.9% | und | Guaraná Jesus (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,02 | +26.2% | und | Guaraná Jesus (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,11 | +4.5% | und | Guaraná Jesus (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,28 | +8.1% | und | Guaraná Jesus (lata 350 ml) | Port. 397/2016 |
 
@@ -10264,9 +10264,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,48 |  | und | Guaraná Jesus (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,48 | +0.0% | und | Guaraná Jesus (PET 1 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,96 | +19.4% | und | Guaraná Jesus (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,28 | +10.8% | und | Guaraná Jesus (PET 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,48 | -16.2% | und | Guaraná Jesus (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,28 | +32.3% | und | Guaraná Jesus (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,43 | +4.6% | und | Guaraná Jesus (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,84 | +12.0% | und | Guaraná Jesus (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,90 | +1.6% | und | Guaraná Jesus (PET 1 L) | Port. 222/2017 |
@@ -10292,9 +10292,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,80 |  | und | Guaraná Jesus (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,80 | +0.0% | und | Guaraná Jesus (PET 1,5 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,25 | +16.1% | und | Guaraná Jesus (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,50 | +7.7% | und | Guaraná Jesus (PET 1,5 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,80 | -13.8% | und | Guaraná Jesus (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,50 | +25.0% | und | Guaraná Jesus (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,66 | +4.6% | und | Guaraná Jesus (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,05 | +10.7% | und | Guaraná Jesus (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,11 | +1.5% | und | Guaraná Jesus (PET 1,5 L) | Port. 222/2017 |
@@ -10342,9 +10342,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,33 |  | und | Guaraná Jesus (2,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,80 | +10.9% | und | Guaraná Jesus (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,21 | +8.5% | und | Guaraná Jesus (2,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,80 |  | und | Guaraná Jesus (2,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,33 | -9.8% | und | Guaraná Jesus (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,21 | +20.3% | und | Guaraná Jesus (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,45 | +4.6% | und | Guaraná Jesus (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,16 | +13.0% | und | Guaraná Jesus (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 6,25 | +1.5% | Und | Guaraná Jesus (2,5 L) | Port. 222/2017 |
@@ -10406,9 +10406,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,98 |  | und | Guaraná Jesus (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,98 | +0.0% | und | Guaraná Jesus (PET 500 a 600 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,40 | +21.2% | und | Guaraná Jesus (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,63 | +9.6% | und | Guaraná Jesus (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,98 | -17.5% | und | Guaraná Jesus (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,63 | +32.8% | und | Guaraná Jesus (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,75 | +4.6% | und | Guaraná Jesus (PET 500 a 600 ml) | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,09 | +12.4% | und | Guaraná Jesus - 600 ml ⚠ | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 3,28 | +6.1% | Und | Guaraná Jesus - 600 ml | Port. 507/2017 |
@@ -10480,9 +10480,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,26 |  | und | Guaraná Jesus (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,66 | +31.7% | und | Guaraná Jesus (retornável 200 a 290 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +8.4% | und | Guaraná Jesus – 290 ml ⚠ | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,66 |  | und | Guaraná Jesus (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,26 | -24.1% | und | Guaraná Jesus (retornável 200 a 290 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +42.9% | und | Guaraná Jesus – 290 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,88 | +4.4% | und | Guaraná Jesus – 290 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +18.1% | und | Guaraná Jesus 290 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,25 | +1.4% | und | Guaraná Jesus - 290 ml | Port. 222/2017 |
@@ -10507,9 +10507,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,81 |  | und | Guaraná Jesus (vidro 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,98 | +9.4% | und | Guaraná Jesus (vidro 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,21 | +11.6% | und | Guaraná Jesus (vidro 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,98 |  | und | Guaraná Jesus (vidro 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,81 | -8.6% | und | Guaraná Jesus (vidro 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,21 | +22.1% | und | Guaraná Jesus (vidro 1 L) | Port. 463/2015 |
 
 ### Guaraná Jesus (vidro até 200 ml) (código —)
 
@@ -10522,11 +10522,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,96 |  | und | Guaraná Jesus – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,00 | +4.2% | und | Guaraná Jesus – 250 ml | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,14 | +14.0% | und | Guaraná Jesus 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,12 | -1.8% | und | Guaraná Jesus – 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,12 | +16.7% | und | Guaraná Jesus – 250 ml | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,20 | +7.1% | und | Guaraná Jesus - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,18 | -1.7% | und | Guaraná Jesus – 250 ml | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,00 | -16.7% | und | Guaraná Jesus – 250 ml | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,14 | +14.0% | und | Guaraná Jesus 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,18 | +3.5% | und | Guaraná Jesus – 250 ml | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,22 | +3.4% | und | Guaraná Jesus - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,24 | +1.6% | und | Guaraná Jesus – 250 ml | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,28 | +3.2% | und | Guaraná Jesus - 250 ml | Port. 142/2016 |
@@ -10610,9 +10610,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 15,70 | +10.2% | und | Guaraná Kuat (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 16,33 | +4.0% | und | Guaraná Kuat (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 17,00 | +4.1% | und | Guaraná Kuat (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 | +4.0% | und | Guaraná Kuat (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | Guaraná Kuat (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | Guaraná Kuat (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +12.0% | und | Guaraná Kuat (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | Guaraná Kuat (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | Guaraná Kuat (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | Guaraná Kuat (1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 21,82 | +4.8% | und | Guaraná Kuat (1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 22,14 | +1.5% | und | Guaraná Kuat (1 L) | Port. 222/2017 |
@@ -10638,9 +10638,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,21 | +19.3% | und | Guaraná Kuat (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,37 | +5.0% | und | Guaraná Kuat (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,51 | +4.2% | und | Guaraná Kuat (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,51 | +0.0% | und | Guaraná Kuat (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,23 | +20.5% | und | Guaraná Kuat (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,57 | +8.0% | und | Guaraná Kuat (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,51 | -17.0% | und | Guaraná Kuat (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,57 | +30.2% | und | Guaraná Kuat (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,78 | +4.6% | und | Guaraná Kuat (2 L) | Port. 142/2016 |
 
 ### Guaraná Kuat (500 a 600 ml) (código —)
@@ -10711,9 +10711,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,35 | +8.0% | und | Guaraná Kuat (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,40 | +3.7% | und | Guaraná Kuat (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,46 | +4.3% | und | Guaraná Kuat (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,46 | +0.0% | und | Guaraná Kuat (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,85 | +26.7% | und | Guaraná Kuat (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,97 | +6.5% | und | Guaraná Kuat (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,46 | -21.1% | und | Guaraná Kuat (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,97 | +34.9% | und | Guaraná Kuat (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,06 | +4.6% | und | Guaraná Kuat (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,13 | +3.4% | und | Guaraná Kuat (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,16 | +1.4% | und | Guaraná Kuat (lata 350 ml) | Port. 222/2017 |
@@ -10757,9 +10757,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,21 | +10.0% | und | Guaraná Kuat (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,30 | +4.1% | und | Guaraná Kuat (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,30 | +0.0% | und | Guaraná Kuat (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,30 | +0.0% | und | Guaraná Kuat (PET 1 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,90 | +26.1% | und | Guaraná Kuat (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,25 | +12.1% | und | Guaraná Kuat (PET 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,30 | -20.7% | und | Guaraná Kuat (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,25 | +41.3% | und | Guaraná Kuat (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,40 | +4.6% | und | Guaraná Kuat (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,69 | +8.5% | und | Guaraná Kuat (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,74 | +1.4% | und | Guaraná Kuat (PET 1 L) | Port. 222/2017 |
@@ -10787,9 +10787,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,41 |  | und | Guaraná Kuat (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,51 | +4.1% | und | Guaraná Kuat (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,61 | +4.0% | und | Guaraná Kuat (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,61 | +0.0% | und | Guaraná Kuat (PET 1,5 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,93 | +12.3% | und | Guaraná Kuat (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,08 | +5.1% | und | Guaraná Kuat (PET 1,5 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,61 | -10.9% | und | Guaraná Kuat (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,08 | +18.0% | und | Guaraná Kuat (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,22 | +4.5% | und | Guaraná Kuat (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,58 | +11.2% | und | Guaraná Kuat (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,63 | +1.4% | und | Guaraná Kuat (PET 1,5 L) | Port. 222/2017 |
@@ -10837,9 +10837,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,61 |  | und | Guaraná Kuat (2,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,58 | +26.9% | und | Guaraná Kuat (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,14 | +12.2% | und | Guaraná Kuat (2,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,58 |  | und | Guaraná Kuat (2,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,61 | -21.2% | und | Guaraná Kuat (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,14 | +42.4% | und | Guaraná Kuat (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,38 | +4.7% | und | Guaraná Kuat (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,70 | +5.9% | und | Guaraná Kuat (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,78 | +1.4% | Und | Guaraná Kuat (2,5 L) | Port. 222/2017 |
@@ -10889,9 +10889,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,81 |  | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,88 | +3.9% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,96 | +4.3% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,04 | +4.1% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,62 | +28.4% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +4.6% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,62 | +33.7% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,04 | -22.1% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +34.3% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,87 | +4.7% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,15 | +9.8% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,20 | +1.6% | und | Guaraná Kuat (PET 500 a 600 ml) | Port. 222/2017 |
@@ -10934,9 +10934,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,14 | +9.6% | und | Guaraná Kuat (retornável 201 a 290 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,19 | +4.4% | und | Guaraná Kuat (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,19 | +0.0% | und | Guaraná Kuat (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,24 | +4.2% | und | Guaraná Kuat (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +29.0% | und | Guaraná Kuat (retornável 200 a 290 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +12.5% | und | Guaraná Kuat – 290 ml ⚠ | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +34.5% | und | Guaraná Kuat (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,24 | -22.5% | und | Guaraná Kuat (retornável 200 a 290 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,80 | +45.2% | und | Guaraná Kuat – 290 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,88 | +4.4% | und | Guaraná Kuat – 290 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,10 | +11.7% | und | Guaraná Kuat 290 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,13 | +1.4% | und | Guaraná Kuat - 290 ml | Port. 222/2017 |
@@ -10973,9 +10973,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,06 |  | und | Guaraná Kuat 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,19 | +12.3% | und | Guaraná Kuat - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,15 | -3.4% | und | Guaraná Kuat - 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,19 |  | und | Guaraná Kuat - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,06 | -10.9% | und | Guaraná Kuat 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,15 | +8.5% | und | Guaraná Kuat - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,15 | +0.0% | und | Guaraná Kuat – 250 ml | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,20 | +4.3% | und | Guaraná Kuat - 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,18 | -1.7% | und | Guaraná Kuat- 250 ml | Port. 397/2016 |
@@ -11004,9 +11004,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,51 |  | und | Guaraná Kuat Diet (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,65 | +4.0% | und | Guaraná Kuat Diet (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,13 | +13.2% | und | Guaraná Kuat Diet (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,37 | +5.8% | und | Guaraná Kuat Diet (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,13 | +17.7% | und | Guaraná Kuat Diet (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,65 | -11.6% | und | Guaraná Kuat Diet (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,37 | +19.7% | und | Guaraná Kuat Diet (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,57 | +4.6% | und | Guaraná Kuat Diet (2 L) | Port. 142/2016 |
 
 ### Guaraná Kuat Diet (PET 2 L) (código 45019)
@@ -11055,9 +11055,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,37 | +17.3% | und | Guaraná mais sabor (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,49 | +5.1% | und | Guaraná Mais Sabor (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,59 | +4.0% | und | Guaraná Mais Sabor (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,70 | +4.2% | und | Guaraná Mais Sabor (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +13.0% | und | Guaraná Mais Sabor (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +4.6% | und | Guaraná Mais Sabor (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +17.8% | und | Guaraná Mais Sabor (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,70 | -11.5% | und | Guaraná Mais Sabor (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +18.1% | und | Guaraná Mais Sabor (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,34 | +4.7% | und | Guaraná Mais Sabor (2 L) | Port. 142/2016 |
 
 ### Guaraná Mais Sabor (PET 1 L) (código 12104)
@@ -11068,9 +11068,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,63 | +10.1% | und | Guaraná mais sabor (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,70 | +4.3% | und | Guaraná Mais Sabor (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,76 | +3.5% | und | Guaraná Mais Sabor (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,83 | +4.0% | und | Guaraná Mais Sabor (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +17.5% | und | Guaraná Mais Sabor (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,25 | +4.7% | und | Guaraná Mais Sabor (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +22.2% | und | Guaraná Mais Sabor (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,83 | -14.9% | und | Guaraná Mais Sabor (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,25 | +23.0% | und | Guaraná Mais Sabor (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,25 | +0.0% | und | Guaraná Mais Sabor (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,48 | +10.2% | und | Guaraná Mais Sabor (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,52 | +1.6% | und | Guaraná Mais Sabor (PET 1 L) | Port. 222/2017 |
@@ -11118,9 +11118,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,81 |  | und | Guaraná mais sabor 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,91 | +12.3% | und | Guaraná mais sabor 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,95 | +4.4% | und | Guaraná mais sabor 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,91 |  | und | Guaraná mais sabor 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,81 | -11.0% | und | Guaraná mais sabor 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,95 | +17.3% | und | Guaraná mais sabor 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,95 | +0.0% | und | Guaraná mais sabor 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,98 | +3.2% | und | Guaraná Mais Sabor- 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 0,99 | +1.0% | und | Guaraná Mais Sabor- 250 ml | Port. 222/2017 |
@@ -11149,9 +11149,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,80 | +11.1% | und | Guaraná mais sabor (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,85 | +6.2% | und | Guaraná mais sabor (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 | +3.5% | und | Guaraná mais sabor (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | Guaraná mais sabor (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +9.8% | und | Guaraná mais sabor (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +5.0% | und | Guaraná mais sabor (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +14.8% | und | Guaraná mais sabor (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -8.9% | und | Guaraná mais sabor (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +15.2% | und | Guaraná mais sabor (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,06 | +0.0% | und | Guaraná mais sabor (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,11 | +4.7% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,13 | +1.8% | und | Guaraná Mais Sabor (PET 350 ml) | Port. 222/2017 |
@@ -11222,9 +11222,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,70 | +9.4% | und | Guaraná River 200ml | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,80 | +14.3% | und | Guaraná River 200 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,80 | +0.0% | und | Guaraná River 200 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,85 | +6.2% | und | Guaraná River 200 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,09 | +28.2% | und | Guaraná River 200 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,14 | +4.6% | und | Guaraná River 200 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,09 | +36.3% | und | Guaraná River 200 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,85 | -22.0% | und | Guaraná River 200 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,14 | +34.1% | und | Guaraná River 200 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,19 | +4.4% | und | Guaraná River 200 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,30 | +9.2% | und | Guaraná River 200ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,32 | +1.5% | und | Guaraná River 200ml | Port. 222/2017 |
@@ -11304,9 +11304,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,04 |  | und | H2OH (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,16 | +3.9% | und | H2OH (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,29 | +4.1% | und | H2OH (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,42 | +4.0% | und | H2OH (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,00 | +17.0% | und | H2OH (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,18 | +4.5% | und | H2OH (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,00 | +21.6% | und | H2OH (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,42 | -14.5% | und | H2OH (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,18 | +22.2% | und | H2OH (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,38 | +4.8% | und | H2OH (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,01 | +14.4% | und | H2OH (PET 1,5 L) | Port. 397/2016 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 5,36 | +7.0% | und | H2OH (PET 1,5 L) | Port. 147/2018 |
@@ -11325,9 +11325,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,62 |  | und | H2OH (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,68 | +3.7% | und | H2OH (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,75 | +4.2% | und | H2OH (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 | +4.0% | und | H2OH (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,96 | +7.7% | und | H2OH (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,04 | +4.1% | und | H2OH (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,96 | +12.0% | und | H2OH (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -7.1% | und | H2OH (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,04 | +12.1% | und | H2OH (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,14 | +4.9% | und | H2OH (PET 500 a 600 ml) | Port. 142/2016 |
 
 ### H2OH limão (PET 500 a 600 ml) (código —)
@@ -11436,9 +11436,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,48 | +17.0% | und | Imperial Cola (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,60 | +4.8% | und | Imperial Cola (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,71 | +4.2% | und | Imperial Cola (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,82 | +4.1% | und | Imperial Cola (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,19 | +13.1% | und | Imperial Cola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,33 | +4.4% | und | Imperial Cola (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,19 | +17.7% | und | Imperial Cola (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,82 | -11.6% | und | Imperial Cola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,33 | +18.1% | und | Imperial Cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,49 | +4.8% | und | Imperial Cola (2 L) | Port. 142/2016 |
 
 ### Imperial Cola (PET 2 L) (código 48580)
@@ -11476,9 +11476,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,30 | +17.3% | und | Imperial Laranja (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,42 | +5.2% | und | Imperial Laranja (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,51 | +3.7% | und | Imperial Laranja (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,61 | +4.0% | und | Imperial Laranja (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,95 | +13.0% | und | Imperial Laranja (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,08 | +4.4% | und | Imperial Laranja (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,95 | +17.5% | und | Imperial Laranja (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,61 | -11.5% | und | Imperial Laranja (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,08 | +18.0% | und | Imperial Laranja (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,22 | +4.5% | und | Imperial Laranja (2 L) | Port. 142/2016 |
 
 ### Imperial Laranja (PET 2 L) (código 48581)
@@ -11516,9 +11516,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,30 | +17.3% | und | Imperial Limão (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,42 | +5.2% | und | Imperial Limão (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,51 | +3.7% | und | Imperial Limão (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,61 | +4.0% | und | Imperial Limão (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,95 | +13.0% | und | Imperial Limão (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,08 | +4.4% | und | Imperial Limão (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,95 | +17.5% | und | Imperial Limão (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,61 | -11.5% | und | Imperial Limão (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,08 | +18.0% | und | Imperial Limão (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,22 | +4.5% | und | Imperial Limão (2 L) | Port. 142/2016 |
 
 ### Imperial Limão (PET 2 L) (código 48582)
@@ -11555,9 +11555,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | Indaiá Cola – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,94 | +4.4% | und | Indaiá Cola – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +12.8% | und | Indaiá Cola – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,12 | +5.7% | und | Indaiá Cola – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +17.8% | und | Indaiá Cola – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,94 | -11.3% | und | Indaiá Cola – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,12 | +19.1% | und | Indaiá Cola – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,17 | +4.5% | und | Indaiá Cola – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,21 | +3.4% | und | Indaiá Cola - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,23 | +1.7% | und | Indaiá Cola - 250 ml | Port. 222/2017 |
@@ -11572,9 +11572,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | Indaiá Guaraná – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,94 | +4.4% | und | Indaiá Guaraná – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +12.8% | und | Indaiá Guaraná – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,12 | +5.7% | und | Indaiá Guaraná – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +17.8% | und | Indaiá Guaraná – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,94 | -11.3% | und | Indaiá Guaraná – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,12 | +19.1% | und | Indaiá Guaraná – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,17 | +4.5% | und | Indaiá Guaraná – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,21 | +3.4% | und | Indaiá Guaraná - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,23 | +1.7% | und | Indaiá Guaraná - 250 ml | Port. 222/2017 |
@@ -11589,9 +11589,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | Indaiá Laranja – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,94 | +4.4% | und | Indaiá Laranja – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +12.8% | und | Indaiá Laranja – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +4.7% | und | Indaiá Laranja – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +17.8% | und | Indaiá Laranja – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,94 | -11.3% | und | Indaiá Laranja – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +18.1% | und | Indaiá Laranja – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,16 | +4.5% | und | Indaiá Laranja – 250 ml | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,21 | +4.3% | und | Indaiá Laranja - 250 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,16 | -4.1% | Und | Indaiá Laranja - 250 ml | Port. 507/2017 |
@@ -11605,9 +11605,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | Indaiá Limão - 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,94 | +4.4% | und | Indaiá Limão - 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +12.8% | und | Indaiá Limão - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +4.7% | und | Indaiá Limão - 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +17.8% | und | Indaiá Limão - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,94 | -11.3% | und | Indaiá Limão - 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +18.1% | und | Indaiá Limão - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,16 | +4.5% | und | Indaiá Limão - 250 ml | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,21 | +4.3% | und | Idaiá Limão – 250 ml ⚠ | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,16 | -4.1% | Und | Idaiá Limão – 250 ml | Port. 507/2017 |
@@ -11620,18 +11620,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,40 |  | und | Indaiá Refri Cola (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +12.9% | und | Indaiá Refri Cola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +4.4% | und | Indaiá Refri Cola (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 |  | und | Indaiá Refri Cola (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,40 | -11.4% | und | Indaiá Refri Cola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +17.9% | und | Indaiá Refri Cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,96 | +4.6% | und | Indaiá Refri Cola (2 L) | Port. 142/2016 |
 
 ### Indaiá Refri Cola (PET 1 L) (código 48156)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,42 |  | und | Indaiá Refri Cola (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,67 | +17.6% | und | Indaiá Refri Cola (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +64.1% | und | Indaiá Refri Cola (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,67 |  | und | Indaiá Refri Cola (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,42 | -15.0% | und | Indaiá Refri Cola (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,74 | +93.0% | und | Indaiá Refri Cola (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,84 | +3.6% | und | Indaiá Refri Cola (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,13 | +10.2% | Und | Indaia Refri Cola (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,18 | +1.6% | Und | Indaiá Refri Cola (PET 1 L) | Port. 222/2017 |
@@ -11692,9 +11692,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,76 |  | und | Indaiá Refri Cola 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 | +11.8% | und | Indaiá Refri Cola 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,90 | +5.9% | und | Indaiá Refri Cola 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 |  | und | Indaiá Refri Cola 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,76 | -10.6% | und | Indaiá Refri Cola 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,90 | +18.4% | und | Indaiá Refri Cola 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,94 | +4.4% | und | Indaiá Refri Cola 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,97 | +3.2% | und | Indaia Refri Cola - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 0,98 | +1.0% | und | Indaiá Refri Cola - 250 ml | Port. 222/2017 |
@@ -11719,9 +11719,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,76 |  | und | Indaiá Refri Cola Bax Caloria 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 | +11.8% | und | Indaiá Refri Cola Bax Caloria 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,89 | +4.7% | und | Indaiá Refri Cola Bax Caloria 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 |  | und | Indaiá Refri Cola Bax Caloria 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,76 | -10.6% | und | Indaiá Refri Cola Bax Caloria 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,89 | +17.1% | und | Indaiá Refri Cola Bax Caloria 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,93 | +4.5% | und | Indaiá Refri Cola Bax Caloria 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,96 | +3.2% | und | Indaia Refri cola bax Caloria - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 0,97 | +1.0% | und | Indaiá Refri cola bax Caloria - 250 ml | Port. 222/2017 |
@@ -11748,9 +11748,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,76 |  | und | Indaiá Refri Guaraná 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 | +11.8% | und | Indaiá Refri Guaraná 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,89 | +4.7% | und | Indaiá Refri Guaraná 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 |  | und | Indaiá Refri Guaraná 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,76 | -10.6% | und | Indaiá Refri Guaraná 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,89 | +17.1% | und | Indaiá Refri Guaraná 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,93 | +4.5% | und | Indaiá Refri Guaraná 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,96 | +3.2% | und | Indaia Refri Guaraná - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 0,97 | +1.0% | und | Indaiá Refri Guaraná - 250 ml | Port. 222/2017 |
@@ -11787,9 +11787,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,76 |  | und | Indaiá Refri Guarná Bax calor 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 | +11.8% | und | Indaiá Refri Guarná Bax calor 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,90 | +5.9% | und | Indaiá Refri Guarná Bax calor 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 |  | und | Indaiá Refri Guarná Bax calor 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,76 | -10.6% | und | Indaiá Refri Guarná Bax calor 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,90 | +18.4% | und | Indaiá Refri Guarná Bax calor 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,94 | +4.4% | und | Indaiá Refri Guarná Bax calor 250 ml | Port. 142/2016 |
 
 ### Indaiá Refri Laranja (PET 200 ml) (código 48171)
@@ -11822,18 +11822,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,40 |  | und | Indaiá Refri Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +12.9% | und | Indaiá Refri Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +4.4% | und | Indaiá Refri Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 |  | und | Indaiá Refri Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,40 | -11.4% | und | Indaiá Refri Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +17.9% | und | Indaiá Refri Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,96 | +4.6% | und | Indaiá Refri Sabores (2 L) | Port. 142/2016 |
 
 ### Indaiá Refri Sabores (PET 1 L) (código 48223)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,42 |  | und | Indaiá Refri Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,67 | +17.6% | und | Indaiá Refri Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,79 | +67.1% | und | Indaiá Refri Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,67 |  | und | Indaiá Refri Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,42 | -15.0% | und | Indaiá Refri Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,79 | +96.5% | und | Indaiá Refri Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,92 | +4.7% | und | Indaiá Refri Sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,22 | +10.3% | Und | Indaia Refri Sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,27 | +1.6% | Und | Indaiá Refri Sabores (PET 1 L) | Port. 222/2017 |
@@ -11881,9 +11881,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,76 |  | und | Indaiá Refri Sabores 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 | +11.8% | und | Indaiá Refri Sabores 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,89 | +4.7% | und | Indaiá Refri Sabores 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 |  | und | Indaiá Refri Sabores 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,76 | -10.6% | und | Indaiá Refri Sabores 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,89 | +17.1% | und | Indaiá Refri Sabores 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,93 | +4.5% | und | Indaiá Refri Sabores 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,19 | +28.0% | und | Indaiá sabores - 250 ml | Port. 397/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,96 | -19.3% | und | Indaia Refri sabores - 250 ml | Port. 397/2016 |
@@ -11916,9 +11916,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 | +10.4% | und | Indaia Sabores (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,20 | +2.6% | und | Indaia Sabores (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,20 | +0.0% | und | Indaia Sabores (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,25 | +4.2% | und | Indaia Sabores (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,37 | +9.6% | und | Indaia Sabores (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,43 | +4.4% | und | Indaia Sabores (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,37 | +14.2% | und | Indaia Sabores (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,25 | -8.8% | und | Indaia Sabores (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,43 | +14.4% | und | Indaia Sabores (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,50 | +4.9% | und | Indaia Sabores (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,57 | +4.7% | und | Indaia Sabores (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,59 | +1.3% | und | Indaia Sabores (PET 350 ml) | Port. 222/2017 |
@@ -11956,9 +11956,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,75 |  | und | Indaiá Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,95 | -21.3% | und | Indaiá Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,33 | +12.9% | und | Indaiá Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,48 | +4.5% | und | Indaiá Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,33 | -11.2% | und | Indaiá Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,95 | -11.4% | und | Indaiá Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,48 | +18.0% | und | Indaiá Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,64 | +4.6% | und | Indaiá Sabores (2 L) | Port. 142/2016 |
 
 ### Indaiá sabores (PET 2 L) (código 48801)
@@ -11978,9 +11978,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | Indaiá Uva – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,94 | +4.4% | und | Indaiá Uva – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +12.8% | und | Indaiá Uva – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +4.7% | und | Indaiá Uva – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,06 | +17.8% | und | Indaiá Uva – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,94 | -11.3% | und | Indaiá Uva – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,11 | +18.1% | und | Indaiá Uva – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,16 | +4.5% | und | Indaiá Uva – 250 ml | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,21 | +4.3% | und | Indaiá Uva – 250 ml | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 1,16 | -4.1% | Und | Indaiá Uva – 250 ml | Port. 507/2017 |
@@ -12179,9 +12179,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,26 |  | und | It! Sabores (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,28 | +1.6% | und | It! Sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,34 | +4.7% | und | It! Sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,28 |  | und | It! Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,26 | -1.6% | und | It! Sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,34 | +6.3% | und | It! Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,40 | +4.5% | und | It! Sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,53 | +9.3% | und | It! Sabores (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,55 | +1.3% | und | It! Sabores (lata 350 ml) | Port. 222/2017 |
@@ -12272,7 +12272,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,21 | +10.0% | und | Itubaina Schincariol (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,25 | +3.3% | und | Itubaina Schincariol (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,30 | +4.0% | und | Itubaina Schincariol (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,35 | +3.8% | und | Itubaina Schincariol (PET 350 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,35 | +3.8% | und | Itubaina Schincariol (PET 350 ml) | Port. 157/2015 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,70 | +25.9% | und | Itubaina Schincariol (PET 350 ml) | Port. 397/2016 |
 
 ### Jao (2 L) (código —)
@@ -12292,9 +12292,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,60 |  | und | Jaó Cola (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +0.0% | und | Jaó Cola (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,94 | +13.1% | und | Jaó Cola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,07 | +4.4% | und | Jaó Cola (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | -11.6% | und | Jaó Cola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,07 | +18.1% | und | Jaó Cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,21 | +4.6% | und | Jaó Cola (2 L) | Port. 142/2016 |
 
 ### Jaó cola (PET 2 L) (código 12031)
@@ -12325,9 +12325,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,59 |  | und | Jao Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,69 | +3.9% | und | Jao Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,04 | +13.0% | und | Jao Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,18 | +4.6% | und | Jao Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,04 | +17.4% | und | Jao Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,69 | -11.5% | und | Jao Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,18 | +18.2% | und | Jao Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,33 | +4.7% | und | Jao Sabores (2 L) | Port. 142/2016 |
 
 ### Jaó sabores (PET 2 L) (código 12030)
@@ -12424,7 +12424,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,61 | +17.3% | und | Jesus (até 200 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,63 | +3.3% | und | Jesus (até 200 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,65 | +3.2% | und | Jesus (até 200 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,68 | +4.6% | und | Jesus (até 200 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,68 | +4.6% | und | Jesus (até 200 ml) | Port. 157/2015 |
 
 ### Jesus (descartável 500 a 600 ml) (código —)
 
@@ -12575,9 +12575,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,15 |  | Und | Kero Cola (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,30 | +4.8% | und | Kero Cola (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,43 | +3.9% | und | Kero Cola (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,88 | +13.1% | und | Kero Cola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,05 | +4.4% | und | Kero Cola (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,88 | +17.6% | und | Kero Cola (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,43 | -11.6% | und | Kero Cola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,05 | +18.1% | und | Kero Cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,24 | +4.7% | und | Kero Cola (2 L) | Port. 142/2016 |
 
 ### Kero Cola (PET 1 L) (código 49748)
@@ -12586,9 +12586,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 |  | Und | Kero Cola (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,05 | +2.5% | und | Kero Cola (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,13 | +3.9% | und | Kero Cola (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,50 | +17.4% | und | Kero Cola (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,61 | +4.4% | und | Kero Cola (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,50 | +22.0% | und | Kero Cola (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,13 | -14.8% | und | Kero Cola (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,61 | +22.5% | und | Kero Cola (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,73 | +4.6% | und | Kero Cola (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,01 | +10.3% | Und | Kero Cola (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,05 | +1.3% | Und | Kero Cola (PET 1 L) | Port. 222/2017 |
@@ -12640,9 +12640,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,87 |  | Und | Kero cola (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,95 | +9.2% | Und | Kero cola (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 | +5.3% | Und | Kero cola (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,04 | +4.0% | Und | Kero cola (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,14 | +9.6% | Und | Kero cola (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,19 | +4.4% | Und | Kero cola (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,14 | +14.0% | Und | Kero cola (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,04 | -8.8% | Und | Kero cola (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,19 | +14.4% | Und | Kero cola (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,25 | +5.0% | und | Kero cola (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,31 | +4.8% | Und | Kero cola (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,33 | +1.5% | Und | Kero cola (PET 350 ml) | Port. 222/2017 |
@@ -12681,9 +12681,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,63 | +10.1% | und | Kero Jah Guarana (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,75 | +7.4% | und | Kero Jah Guarana (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,85 | +5.7% | und | Kero Jah Guaraná (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,95 | +5.4% | und | Kero Jah Guarana (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +17.4% | und | Kero Jah Guarana (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +4.4% | und | Kero Jah Guarana (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +23.8% | und | Kero Jah Guarana (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,95 | -14.8% | und | Kero Jah Guarana (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +22.6% | und | Kero Jah Guarana (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,50 | +4.6% | und | Kero Jah Guarana (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,76 | +10.4% | und | Kero Jah Guarana (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,80 | +1.4% | und | Kero Jah Guaraná (PET 1 L) | Port. 222/2017 |
@@ -12711,11 +12711,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,15 |  | Und | Kero Sabores (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,70 | -14.3% | und | Kero Sabores (2 L) | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,05 | +13.0% | und | Kero Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,81 | -7.9% | und | Kero Sabores (2 L) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,17 | +12.8% | und | Kero Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,18 | +0.3% | und | Kero Sabores (2 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,18 | +4.3% | und | Kero Sabores (2 L) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,58 | +12.6% | und | Kero Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,32 | -7.3% | und | Kero Sabores (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,81 | -21.5% | und | Kero Sabores (2 L) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,17 | +12.8% | und | Kero Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,32 | +4.7% | und | Kero Sabores (2 L) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,74 | +12.7% | und | Kero Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,48 | -7.0% | und | Kero Sabores (2 L) | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,92 | +12.6% | und | Kero Sabores (2 L) | Port. 142/2016 |
@@ -12742,11 +12742,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 |  | Und | Kero Sabores (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,85 | -7.5% | und | Kero Sabores (PET 1 L) | Port. 300/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,05 | +10.8% | und | Kero Sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,95 | -4.9% | und | Kero Sabores (PET 1 L) | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,13 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +7.5% | und | Kero Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,29 | +11.7% | und | Kero Sabores (PET 1 L) | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,50 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | -4.4% | und | Kero Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,95 | -22.0% | und | Kero Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,13 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,39 | +12.2% | und | Kero Sabores (PET 1 L) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,61 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,50 | -4.2% | und | Kero Sabores (PET 1 L) | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,73 | +9.2% | und | Kero Sabores (PET 1 L) | Port. 142/2016 |
@@ -12825,9 +12825,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,87 |  | Und | Kero sabores (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,95 | +9.2% | Und | Kero sabores (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 | +5.3% | Und | Kero sabores (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,04 | +4.0% | Und | Kero sabores (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,14 | +9.6% | Und | Kero sabores (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,19 | +4.4% | Und | Kero sabores (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,14 | +14.0% | Und | Kero sabores (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,04 | -8.8% | Und | Kero sabores (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,19 | +14.4% | Und | Kero sabores (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,25 | +5.0% | und | Kero sabores (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,31 | +4.8% | Und | Kero sabores (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,33 | +1.5% | Und | Kero sabores (PET 350 ml) | Port. 222/2017 |
@@ -12939,7 +12939,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,61 | +15.1% | und | Kuat (até 200 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,63 | +3.3% | und | Kuat (até 200 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,65 | +3.2% | und | Kuat (até 200 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,68 | +4.6% | und | Kuat (até 200 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,68 | +4.6% | und | Kuat (até 200 ml) | Port. 157/2015 |
 
 ### Laranja Indaiá (2 L) (código —)
 
@@ -13015,9 +13015,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,42 | +15.8% | und | Mate couro (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,54 | +5.0% | und | Mate couro (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,64 | +3.9% | und | Mate couro (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,75 | +4.2% | und | Mate couro (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,11 | +13.1% | und | Mate couro (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,25 | +4.5% | und | Mate couro (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,11 | +17.8% | und | Mate couro (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,75 | -11.6% | und | Mate couro (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,25 | +18.2% | und | Mate couro (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,40 | +4.6% | und | Mate couro (2 L) | Port. 142/2016 |
 
 ### Mate Couro (500 a 600 ml) (código —)
@@ -13112,9 +13112,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,79 | +9.8% | und | Mate Couro sabores (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,86 | +3.9% | und | Mate Couro sabores (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,94 | +4.3% | und | Mate Couro sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,02 | +4.1% | und | Mate Couro sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,37 | +17.3% | und | Mate Couro sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,48 | +4.6% | und | Mate Couro sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,37 | +22.2% | und | Mate Couro sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,02 | -14.8% | und | Mate Couro sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,48 | +22.8% | und | Mate Couro sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,60 | +4.8% | und | Mate Couro sabores (PET 1 L) | Port. 142/2016 |
 
 ### Okey Cola (lata 250 ml) (código 50890)
@@ -13554,9 +13554,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,40 | +17.1% | und | Orange (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,52 | +5.0% | und | Orange (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,62 | +4.0% | und | Orange (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,72 | +3.8% | und | Orange (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +12.9% | und | Orange (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,21 | +4.6% | und | Orange (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,07 | +17.2% | und | Orange (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,72 | -11.4% | und | Orange (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,21 | +18.0% | und | Orange (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,36 | +4.7% | und | Orange (2 L) | Port. 142/2016 |
 
 ### Orange (descartável 500 a 600 ml) (código —)
@@ -13576,9 +13576,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,77 | +10.0% | und | Orange (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +16.9% | und | Orange (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,94 | +4.4% | und | Orange (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,05 | +11.7% | und | Orange (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +20.0% | und | Orange (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +4.8% | und | Orange (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,26 | +34.0% | und | Orange (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,05 | -16.7% | und | Orange (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,32 | +25.7% | und | Orange (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,38 | +4.5% | und | Orange (lata 350 ml) | Port. 142/2016 |
 
 ### Orange (PET 2 L) (código 48142)
@@ -13615,9 +13615,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 | +9.3% | und | Orange (PET 500 a 600 ml) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,22 | +4.3% | und | Orange (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,27 | +4.1% | und | Orange (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,32 | +3.9% | und | Orange (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,58 | +19.7% | und | Orange (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,65 | +4.4% | und | Orange (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,58 | +24.4% | und | Orange (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,32 | -16.5% | und | Orange (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,65 | +25.0% | und | Orange (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,73 | +4.8% | und | Orange (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,88 | +8.7% | und | Orange (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,91 | +1.6% | und | Orange (PET 500 a 600 ml) | Port. 222/2017 |
@@ -13672,9 +13672,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 4,24 | +16.2% | und | outra marcas (2,5 L) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 5,00 | +17.9% | und | Outras marcas (2,5 L) ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,50 | +10.0% | und | Outras marcas (2,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,72 | +4.0% | und | Outras marcas (2,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,62 | +15.7% | und | Outras marcas (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,92 | +4.5% | und | Outras marcas (2,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 6,62 | +20.4% | und | Outras marcas (2,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,72 | -13.6% | und | Outras marcas (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,92 | +21.0% | und | Outras marcas (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 7,24 | +4.6% | und | Outras marcas (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 7,98 | +10.2% | und | outra marcas (2,5 L) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 8,10 | +1.5% | Und | Outra marcas (2,5 L) | Port. 222/2017 |
@@ -13706,9 +13706,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 16,70 | +10.2% | und | Outras marcas (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 18,00 | +7.8% | und | Outras marcas (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 20,00 | +11.1% | und | Outras Marcas (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 20,80 | +4.0% | und | Outras Marcas (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 22,40 | +7.7% | und | Outras Marcas (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 23,40 | +4.5% | und | Outras Marcas (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 22,40 | +12.0% | und | Outras Marcas (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 20,80 | -7.1% | und | Outras Marcas (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 23,40 | +12.5% | und | Outras Marcas (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 24,50 | +4.7% | und | Outras Marcas (1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 25,68 | +4.8% | und | Outras Marcas (1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 26,05 | +1.4% | und | Outras Marcas (1 L) | Port. 222/2017 |
@@ -13752,9 +13752,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,95 | +17.2% | und | Outras Marcas (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 4,10 | +3.8% | und | Outras Marcas (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 5,00 | +22.0% | und | Outras Marcas (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 5,20 | +4.0% | und | Outras Marcas (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,88 | +13.1% | und | Outras Marcas (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,14 | +4.4% | und | Outras Marcas (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,88 | +17.6% | und | Outras Marcas (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 5,20 | -11.6% | und | Outras Marcas (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 6,14 | +18.1% | und | Outras Marcas (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 6,43 | +4.7% | und | Outras Marcas (2 L) | Port. 142/2016 |
 
 ### Outras Marcas (3 L) (código 53643)
@@ -13807,9 +13807,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,97 | +10.2% | und | Outras marcas (até 200 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,00 | +3.1% | und | Outras marcas (até 200 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,10 | +10.0% | und | Outras marcas (até 200 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,14 | +3.6% | und | Outras marcas (até 200 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,10 | -3.5% | und | Outras marcas (até 200 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,20 | +9.1% | und | Outras marcas (até 200 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,10 | +0.0% | und | Outras marcas (até 200 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,14 | +3.6% | und | Outras marcas (até 200 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,20 | +5.3% | und | Outras marcas (até 200 ml) | Port. 463/2015 |
 
 ### Outras Marcas (descartável 200 ml) (código 53654)
 
@@ -13911,9 +13911,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,82 | +9.6% | und | Outras marcas (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +9.9% | und | Outras marcas (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 | +25.0% | und | Outras marcas (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +4.0% | und | Outras marcas (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,15 | +21.2% | und | Outras marcas (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,30 | +4.8% | und | Outras marcas (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,15 | +26.0% | und | Outras marcas (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | -17.5% | und | Outras marcas (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,30 | +26.9% | und | Outras marcas (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,45 | +4.5% | und | Outras marcas (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,76 | +9.0% | und | Outras marcas (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,81 | +1.3% | und | Outras marcas (lata 350 ml) | Port. 222/2017 |
@@ -13959,9 +13959,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,45 | +9.9% | und | Outras marcas (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,00 | +22.4% | und | Outras marcas (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,50 | +16.7% | und | Outras marcas (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,64 | +4.0% | und | Outras marcas (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,27 | +17.3% | und | Outras marcas (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,50 | +5.4% | und | Outras marcas (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,27 | +22.0% | und | Outras marcas (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,64 | -14.8% | und | Outras marcas (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,50 | +23.6% | und | Outras marcas (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,71 | +4.7% | und | Outras marcas (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,19 | +10.2% | und | Outras marcas (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,27 | +1.5% | und | Outras marcas (PET 1 L) | Port. 222/2017 |
@@ -13990,9 +13990,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,81 |  | und | Outras marcas (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,00 | +6.8% | und | Outras marcas (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 4,00 | +33.3% | und | Outras marcas (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,16 | +4.0% | und | Outras marcas (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,88 | +17.3% | und | Outras marcas (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,10 | +4.5% | und | Outras marcas (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,88 | +22.0% | und | Outras marcas (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,16 | -14.8% | und | Outras marcas (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,10 | +22.6% | und | Outras marcas (PET 1,5 L) | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,50 | -11.8% | und | Outras Marcas (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,34 | +18.7% | und | Outras marcas (PET 1,5 L) | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,71 | -11.8% | und | Outras Marcas (PET 1,5 L) | Port. 142/2016 |
@@ -14128,9 +14128,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,27 | +9.5% | und | Outras Marcas (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,40 | +10.2% | und | Outras Marcas (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,50 | +7.1% | und | Outras Marcas (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,56 | +4.0% | und | Outras Marcas (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,75 | +12.2% | und | Outras Marcas (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,85 | +5.7% | und | Outras Marcas (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,75 | +16.7% | und | Outras Marcas (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,56 | -10.9% | und | Outras Marcas (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,85 | +18.6% | und | Outras Marcas (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,94 | +4.9% | und | Outras Marcas (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,03 | +4.6% | und | Outras Marcas (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,06 | +1.5% | und | Outras Marcas (PET 350 ml) | Port. 222/2017 |
@@ -14158,9 +14158,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,51 | +9.4% | und | Outras Marcas (PET 450 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,80 | +19.2% | und | Outras Marcas (PET 450 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,00 | +11.1% | und | Outras Marcas (PET 450 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,08 | +4.0% | und | Outras Marcas (PET 450 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +8.2% | und | Outras Marcas (PET 450 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,35 | +4.4% | und | Outras Marcas (PET 450 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +12.5% | und | Outras Marcas (PET 450 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,08 | -7.6% | und | Outras Marcas (PET 450 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,35 | +13.0% | und | Outras Marcas (PET 450 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,46 | +4.7% | und | Outras Marcas (PET 450 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,58 | +4.9% | und | Outras Marcas (PET 450 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,62 | +1.6% | und | Outras Marcas (PET 450 ml) | Port. 222/2017 |
@@ -14204,9 +14204,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,19 |  | und | Outras marcas (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,50 | +14.2% | und | Outras marcas (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,00 | +20.0% | und | Outras marcas (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,12 | +4.0% | und | Outras marcas (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,74 | +19.9% | und | Outras marcas (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,91 | +4.5% | und | Outras marcas (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,74 | +24.7% | und | Outras marcas (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,12 | -16.6% | und | Outras marcas (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,91 | +25.3% | und | Outras marcas (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,09 | +4.6% | und | Outras marcas (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,43 | +8.3% | und | Outras marcas (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,49 | +1.4% | und | Outras marcas (PET 500 a 600 ml) | Port. 222/2017 |
@@ -14289,9 +14289,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,46 | +9.8% | und | Outras Marcas (retornável 201 a 290 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,60 | +9.6% | und | Outras Marcas (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,60 | +0.0% | und | Outras Marcas (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,66 | +3.7% | und | Outras Marcas (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +29.5% | und | Outras Marcas (retornável 200 a 290 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +7.0% | und | Outras Marcas de 200 a 290 ml ⚠ | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +34.4% | und | Outras Marcas (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,66 | -22.8% | und | Outras Marcas (retornável 200 a 290 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +38.6% | und | Outras Marcas de 200 a 290 ml ⚠ | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,41 | +4.8% | und | Outras Marcas de 200 a 290 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,64 | +9.5% | und | Outras Marcas (retornável 200 a 290 ml) ⚠ | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,68 | +1.5% | und | Outras Marcas – 200 a 290 ml ⚠ | Port. 222/2017 |
@@ -14333,9 +14333,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,00 |  | Und. | Outras Marcas (vidro 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,17 | +8.5% | Und. | Outras Marcas (vidro 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +6.0% | Und. | Outras Marcas (vidro 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,17 |  | Und. | Outras Marcas (vidro 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,00 | -7.8% | Und. | Outras Marcas (vidro 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,30 | +15.0% | Und. | Outras Marcas (vidro 1 L) | Port. 463/2015 |
 
 ### Outras marcas (vidro até 200 ml) (código —)
 
@@ -14357,9 +14357,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,46 |  | und | Outras marcas até 270 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,50 | +2.7% | und | Outras marcas até 270 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,60 | +6.7% | und | Outras marcas até - 270 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,50 |  | und | Outras marcas até 270 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,46 | -2.7% | und | Outras marcas até 270 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,60 | +9.6% | und | Outras marcas até - 270 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,67 | +4.4% | und | Outras marcas até - 270 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,77 | +6.0% | und | Outras marcas - até 270 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,80 | +1.7% | und | Outras Marcas - até 270 ml | Port. 222/2017 |
@@ -14383,8 +14383,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,50 |  | und | Outras marcas até – 260 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,56 | +4.0% | und | Outras marcas até – 260 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,80 | +15.4% | und | Outras marcas até – 260 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,80 | +20.0% | und | Outras marcas até – 260 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,56 | -13.3% | und | Outras marcas até – 260 ml | Port. 157/2015 |
 
 ### Outras Marcas – até 270 ml (código 48090)
 
@@ -14508,9 +14508,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 |  | und | Pepsi Cola (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | Pepsi Cola (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | Pepsi Cola (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 |  | und | Pepsi Cola (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | Pepsi Cola (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | Pepsi Cola (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | Pepsi Cola (1 L) | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 22,14 | +6.3% | und | Pepsi Cola (1 L) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 23,03 | +4.0% | Und | Pepsi Cola (1 L) | Port. 507/2017 |
@@ -14552,9 +14552,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,18 | +18.7% | und | Pepsi Cola (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,34 | +5.0% | und | Pepsi Cola (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,73 | -18.3% | und | Pepsi Cola (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,69 | +35.2% | und | Pepsi Cola (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,06 | +10.0% | und | Pepsi Cola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,22 | +3.9% | und | Pepsi Cola (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,06 | +48.7% | und | Pepsi Cola (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,69 | -9.1% | und | Pepsi Cola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,22 | +14.4% | und | Pepsi Cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,42 | +4.7% | und | Pepsi Cola (2 L) | Port. 142/2016 |
 
 ### Pepsi cola (2,5 L) (código —)
@@ -14622,9 +14622,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,34 | +10.7% | und | Pepsi Cola (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,39 | +3.7% | und | Pepsi Cola (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,39 | +0.0% | und | Pepsi Cola (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,45 | +4.3% | und | Pepsi Cola (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,74 | +20.0% | und | Pepsi Cola (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,82 | +4.6% | und | Pepsi Cola (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,74 | +25.2% | und | Pepsi Cola (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,45 | -16.7% | und | Pepsi Cola (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,82 | +25.5% | und | Pepsi Cola (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,91 | +4.9% | und | Pepsi Cola (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,16 | +13.1% | und | Pepsi Cola (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,19 | +1.4% | und | Pepsi Cola (lata 350 ml) | Port. 222/2017 |
@@ -14657,9 +14657,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,94 | +12.1% | und | Pepsi Cola (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,05 | +5.7% | und | Pepsi Cola (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,05 | +0.0% | und | Pepsi Cola (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,15 | +4.9% | und | Pepsi Cola (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,45 | +14.0% | und | Pepsi Cola (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,75 | +12.2% | und | Pepsi Cola (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,45 | +19.5% | und | Pepsi Cola (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,15 | -12.2% | und | Pepsi Cola (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,75 | +27.9% | und | Pepsi Cola (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,88 | +4.7% | und | Pepsi Cola (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,27 | +13.5% | und | Pepsi Cola (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,32 | +1.5% | und | Pepsi Cola (PET 1 L) | Port. 222/2017 |
@@ -14687,9 +14687,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,43 |  | und | Pepsi Cola (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,53 | +4.1% | und | Pepsi Cola (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,63 | +4.0% | und | Pepsi Cola (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,74 | +4.2% | und | Pepsi Cola (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,22 | +17.5% | und | Pepsi Cola (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,36 | +4.3% | und | Pepsi Cola (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,22 | +22.4% | und | Pepsi Cola (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,74 | -14.9% | und | Pepsi Cola (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,36 | +22.6% | und | Pepsi Cola (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,52 | +4.8% | und | Pepsi Cola (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,03 | +14.5% | und | Pepsi Cola (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,09 | +1.5% | und | Pepsi Cola (PET 1,5 L) | Port. 222/2017 |
@@ -14743,9 +14743,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 3,31 | +1.5% | und | Pepsi (2,5 L) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,84 | +16.0% | und | Pepsi (2,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,99 | +3.9% | und | Pepsi (2,5 L) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 4,32 | +8.3% | und | Pepsi (2,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,00 | +15.7% | und | Pepsi (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,22 | +4.4% | und | Pepsi (2,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 5,00 | +25.3% | und | Pepsi (2,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 4,32 | -13.6% | und | Pepsi (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 5,22 | +20.8% | und | Pepsi (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 5,46 | +4.6% | und | Pepsi (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 6,02 | +10.3% | und | Pepsi (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 6,11 | +1.5% | Und | Pepsi (2,5 L) | Port. 222/2017 |
@@ -14791,9 +14791,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,00 |  | und | Pepsi Cola – 237 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,04 | +4.0% | und | Pepsi Cola – 237 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,05 | +1.0% | und | Pepsi Cola – 237 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,08 | +2.9% | und | Pepsi Cola – 237 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,05 | +5.0% | und | Pepsi Cola – 237 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,04 | -1.0% | und | Pepsi Cola – 237 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,08 | +3.8% | und | Pepsi Cola – 237 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,13 | +4.6% | und | Pepsi Cola – 237 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,13 | +0.0% | und | Pepsi Cola - 237 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,15 | +1.8% | und | Pepsi Cola - 237 ml | Port. 222/2017 |
@@ -14861,9 +14861,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,85 | +9.5% | und | Pepsi Cola (PET 500 a 600 ml) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,92 | +3.8% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,00 | +4.2% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,08 | +4.0% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,49 | +19.7% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,96 | -21.3% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,49 | +24.5% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,08 | -16.5% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,96 | -5.8% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,05 | +4.6% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +8.3% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,25 | +1.4% | und | Pepsi Cola (PET 500 a 600 ml) | Port. 222/2017 |
@@ -14890,8 +14890,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,23 |  | und | Pepsi Cola (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,23 | +0.0% | und | Pepsi Cola (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,28 | +4.1% | und | Pepsi Cola (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,65 | +28.9% | und | Pepsi Cola (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,65 | +34.1% | und | Pepsi Cola (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,28 | -22.4% | und | Pepsi Cola (retornável 200 a 290 ml) | Port. 157/2015 |
 
 ### Pepsi Cola (retornável 201 a 290 ml) (código —)
 
@@ -14950,9 +14950,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,25 | +19.5% | und | Pepsi twist (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,41 | +4.9% | und | Pepsi twist (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,55 | +4.1% | und | Pepsi twist (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,69 | +3.9% | und | Pepsi twist (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,91 | +6.0% | und | Pepsi twist (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,09 | +4.6% | und | Pepsi twist (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,91 | +10.1% | und | Pepsi twist (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,69 | -5.6% | und | Pepsi twist (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,09 | +10.8% | und | Pepsi twist (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,28 | +4.6% | und | Pepsi twist (2 L) | Port. 142/2016 |
 
 ### Pepsi twist (descartável 500 a 600 ml) (código —)
@@ -14989,9 +14989,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,33 | +10.8% | und | Pepsi twist (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,40 | +5.3% | und | Pepsi twist (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,40 | +0.0% | und | Pepsi twist (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,40 | +0.0% | und | Pepsi twist (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,77 | +26.4% | und | Pepsi twist (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,88 | +6.2% | und | Pepsi twist (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,40 | -20.9% | und | Pepsi twist (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,88 | +34.3% | und | Pepsi twist (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,97 | +4.8% | und | Pepsi twist (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +12.7% | und | Pepsi twist (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,25 | +1.4% | und | Pepsi twist (lata 350 ml) | Port. 222/2017 |
@@ -15024,9 +15024,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,03 | +8.6% | und | Pepsi twist (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,15 | +5.9% | und | Pepsi twist (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,24 | +4.2% | und | Pepsi twist (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,24 | +0.0% | und | Pepsi twist (PET 1 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,57 | +14.7% | und | Pepsi twist (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,69 | +4.7% | und | Pepsi twist (PET 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,24 | -12.8% | und | Pepsi twist (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,69 | +20.1% | und | Pepsi twist (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,82 | +4.8% | und | Pepsi twist (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,35 | +18.8% | und | Pepsi twist (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,40 | +1.5% | und | Pepsi twist (PET 1 L) | Port. 222/2017 |
@@ -15117,9 +15117,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,85 | +9.5% | und | Pepsi twist (PET 500 a 600 ml) ⚠ | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,92 | +3.8% | und | Pepsi twist (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,00 | +4.2% | und | Pepsi twist (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,08 | +4.0% | und | Pepsi twist (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,49 | +19.7% | und | Pepsi twist (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,60 | +4.4% | und | Pepsi twist (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,49 | +24.5% | und | Pepsi twist (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,08 | -16.5% | und | Pepsi twist (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,60 | +25.0% | und | Pepsi twist (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,72 | +4.6% | und | Pepsi twist (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,95 | +8.5% | und | Pepsi twist (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,99 | +1.4% | und | Pepsi twist (PET 500 a 600 ml) | Port. 222/2017 |
@@ -15326,9 +15326,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,83 |  | und | Pitchula – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,86 | +3.6% | und | Pitchula – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,08 | +25.6% | und | Pitchula – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,09 | +0.9% | und | Pitchula – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,08 | +30.1% | und | Pitchula – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,86 | -20.4% | und | Pitchula – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,09 | +26.7% | und | Pitchula – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,14 | +4.6% | und | Pitchula – 250 ml | Port. 142/2016 |
 
 ### Pitchulão Cola (PET 2 L) (código 53513)
@@ -15648,9 +15648,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,50 | +17.4% | und | Psiu Cola (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,63 | +5.2% | und | Psiu Cola (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,72 | +3.4% | und | Psiu Cola (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,83 | +4.0% | und | Psiu Cola (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,08 | +8.8% | und | Psiu Cola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,27 | +6.2% | und | Psiu Cola (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,08 | +13.2% | und | Psiu Cola (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,83 | -8.1% | und | Psiu Cola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,27 | +15.5% | und | Psiu Cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,42 | +4.6% | und | Psiu Cola (2 L) | Port. 142/2016 |
 
 ### Refrigerante Psiu Cola - Lata 269 ml (código 53155)
@@ -15674,9 +15674,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,72 |  | und | Psiu Cola (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,79 | +4.1% | und | Psiu Cola (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,79 | +0.0% | und | Psiu Cola (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,86 | +3.9% | und | Psiu Cola (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,56 | +37.6% | und | Psiu Cola (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,67 | +4.3% | und | Psiu Cola (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,56 | +43.0% | und | Psiu Cola (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,86 | -27.3% | und | Psiu Cola (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,67 | +43.5% | und | Psiu Cola (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,79 | +4.5% | und | Psiu Cola (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,81 | +0.7% | und | Psiu Cola (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,85 | +1.4% | und | Psiu Cola (PET 1 L) | Port. 222/2017 |
@@ -15703,9 +15703,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 |  | und | Psiu Cola (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | Psiu Cola (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,61 | +62.6% | und | Psiu Cola (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,77 | +4.4% | und | Psiu Cola (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,61 | +69.5% | und | Psiu Cola (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -38.5% | und | Psiu Cola (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,77 | +69.8% | und | Psiu Cola (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,95 | +4.8% | und | Psiu Cola (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,68 | -6.8% | und | Psiu Cola (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,73 | +1.4% | und | Psiu Cola (PET 1,5 L) | Port. 222/2017 |
@@ -15764,9 +15764,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2003-11-10 (assin.) | 2003-11-10 | ? | 0,54 |  |  | Refrigerante Psiu Cola – 250ml | Port. 509/2003 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,89 | +64.8% | und | Psiu Cola 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,99 | +11.2% | und | Psiu Cola 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,03 | +4.0% | und | Psiu Cola 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,99 | +83.3% | und | Psiu Cola 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,89 | -10.1% | und | Psiu Cola 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,03 | +15.7% | und | Psiu Cola 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,08 | +4.9% | und | Psiu Cola 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,10 | +1.9% | und | psiu cola - 250 ml | Port. 397/2016 |
 | 2016-11-21 (pub.) | 2016-11-16 | alterar | 1,20 | +9.1% |  | Refrigerante Psiu Cola 250 ml | Port. 414/2016 |
@@ -15792,9 +15792,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,95 |  | und | Psiu Cola (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,99 | +4.2% | und | Psiu Cola (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,03 | +4.0% | und | Psiu Cola (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +20.4% | und | Psiu Cola (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,03 | +8.4% | und | Psiu Cola (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,99 | -3.9% | und | Psiu Cola (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +25.3% | und | Psiu Cola (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,30 | +4.8% | und | Psiu Cola (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,53 | +17.7% | und | Psiu cola (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,55 | +1.3% | und | Psiu cola (PET 350 ml) | Port. 222/2017 |
@@ -15817,9 +15817,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,24 |  | und | Psiu Cola 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,29 | +4.0% | und | Psiu Cola 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,55 | +20.2% | und | Psiu Cola 500 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,62 | +4.5% | und | Psiu Cola 500 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,55 | +25.0% | und | Psiu Cola 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,29 | -16.8% | und | Psiu Cola 500 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,62 | +25.6% | und | Psiu Cola 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,70 | +4.9% | und | Psiu Cola - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,76 | +3.5% | und | Psiu cola 500 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,79 | +1.7% | und | Psiu cola - 500 ml | Port. 222/2017 |
@@ -15858,9 +15858,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 2,13 | +1.4% | und | Psiu Cola Zero (2 L) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,48 | +16.4% | und | Psiu Cola Zero (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,60 | +4.8% | und | Psiu Cola Zero (2 L) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,83 | +8.8% | und | Psiu Cola Zero (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,54 | +25.1% | und | Psiu Cola Zero (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,70 | +4.5% | und | Psiu Cola Zero (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,54 | +36.2% | und | Psiu Cola Zero (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,83 | -20.1% | und | Psiu Cola Zero (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,70 | +30.7% | und | Psiu Cola Zero (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,87 | +4.6% | und | Psiu Cola Zero (2 L) | Port. 142/2016 |
 
 ### Psiu Cola Zero (500 a 600 ml) (código —)
@@ -15909,9 +15909,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 0,79 | +2.6% | und | Psiu-Frutas Citricas (PET 450 ml) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,87 | +10.1% | und | Psiu-Frutas Citricas (PET 450 ml) | Port. 324/2012 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,30 | +49.4% | und | Psiu Frutas Citricas (PET 450 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,35 | +3.8% | und | Psiu Frutas Citricas (PET 450 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,45 | +7.4% | und | Psiu Frutas Citricas (PET 450 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,51 | +4.1% | und | Psiu Frutas Citricas (PET 450 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,45 | +11.5% | und | Psiu Frutas Citricas (PET 450 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,35 | -6.9% | und | Psiu Frutas Citricas (PET 450 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,51 | +11.9% | und | Psiu Frutas Citricas (PET 450 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,58 | +4.6% | und | Psiu Frutas Citricas (PET 450 ml) | Port. 142/2016 |
 
 ### Psiu Guaraná (2 L) (código —)
@@ -15919,9 +15919,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,72 |  | und | Psiu Guaraná (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,83 | +4.0% | und | Psiu Guaraná (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,20 | +13.1% | und | Psiu Guaraná (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,34 | +4.4% | und | Psiu Guaraná (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,20 | +17.6% | und | Psiu Guaraná (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,83 | -11.6% | und | Psiu Guaraná (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,34 | +18.0% | und | Psiu Guaraná (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,50 | +4.8% | und | Psiu Guaraná (2 L) | Port. 142/2016 |
 
 ### Psiu Guaraná (PET 1 L) (código —)
@@ -15935,9 +15935,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 |  | und | Psiu Guaraná (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | Psiu Guaraná (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,61 | +62.6% | und | Psiu Guaraná (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,77 | +4.4% | und | Psiu Guaraná (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,61 | +69.5% | und | Psiu Guaraná (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -38.5% | und | Psiu Guaraná (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,77 | +69.8% | und | Psiu Guaraná (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,95 | +4.8% | und | Psiu Guaraná (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,68 | -6.8% | und | Psiu guaraná (PET 1,5 L) | Port. 397/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,68 | +0.0% | und | Psiu Guaraná (PET 1,5 L) | Port. 397/2016 |
@@ -16007,9 +16007,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 |  | und | Psiu Guaraná (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | Psiu Guaraná (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,03 | +12.0% | und | Psiu Guaraná (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +20.4% | und | Psiu Guaraná (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,03 | +17.0% | und | Psiu Guaraná (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -10.7% | und | Psiu Guaraná (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +34.8% | und | Psiu Guaraná (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,30 | +4.8% | und | Psiu Guaraná (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,43 | +10.0% | und | Psiu Guaraná (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,45 | +1.4% | und | Psiu Guaraná (PET 350 ml) | Port. 222/2017 |
@@ -16032,9 +16032,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,24 |  | und | Psiu Guaraná 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,29 | +4.0% | und | Psiu Guaraná 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,55 | +20.2% | und | Psiu Guaraná 500 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,62 | +4.5% | und | Psiu Guaraná 500 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,55 | +25.0% | und | Psiu Guaraná 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,29 | -16.8% | und | Psiu Guaraná 500 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,62 | +25.6% | und | Psiu Guaraná 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,70 | +4.9% | und | Psiu Guaraná - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,84 | +8.2% | und | Psiu guaraná 500 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,87 | +1.6% | und | Psiu guaraná - 500 ml | Port. 222/2017 |
@@ -16120,9 +16120,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 |  | und | Psiu Laranja (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | Psiu Laranja (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,61 | +62.6% | und | Psiu Laranja (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,77 | +4.4% | und | Psiu Laranja (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,61 | +69.5% | und | Psiu Laranja (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -38.5% | und | Psiu Laranja (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,77 | +69.8% | und | Psiu Laranja (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,95 | +4.8% | und | Psiu Laranja (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,68 | -6.8% | und | Psiu Laranja (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,73 | +1.4% | und | Psiu Laranja (PET 1,5 L) | Port. 222/2017 |
@@ -16166,9 +16166,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 |  | und | Psiu Laranja (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | Psiu Laranja (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,03 | +12.0% | und | Psiu Laranja (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +20.4% | und | Psiu Laranja (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,03 | +17.0% | und | Psiu Laranja (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -10.7% | und | Psiu Laranja (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +34.8% | und | Psiu Laranja (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,30 | +4.8% | und | Psiu Laranja (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,43 | +10.0% | und | Psiu Laranja (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,45 | +1.4% | und | Psiu Laranja (PET 350 ml) | Port. 222/2017 |
@@ -16198,9 +16198,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,24 |  | und | Psiu Laranja 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,29 | +4.0% | und | Psiu Laranja 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,42 | +10.1% | und | Psiu Laranja 500 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,48 | +4.2% | und | Psiu Laranja 500 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,42 | +14.5% | und | Psiu Laranja 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,29 | -9.2% | und | Psiu Laranja 500 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,48 | +14.7% | und | Psiu Laranja 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,55 | +4.7% | und | Psiu Laranja - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,83 | +18.1% | und | Psiu Laranja 500 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,86 | +1.6% | und | Psiu Laranja - 500 ml | Port. 222/2017 |
@@ -16240,9 +16240,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2010-10-01 (efeitos) | 2010-09-28 | alterar | 2,17 | +1.4% | und | Psiu Sabores (2 L) | Port. 469/2010 |
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,53 | +16.6% | und | Psiu Sabores (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,66 | +5.1% | und | Psiu Sabores (2 L) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,05 | +14.7% | und | Psiu Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,36 | +10.2% | und | Psiu Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,35 | -0.3% | und | Psiu Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,36 | +26.3% | und | Psiu Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,05 | -9.2% | und | Psiu Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,35 | +9.8% | und | Psiu Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,51 | +4.8% | und | Psiu Sabores (2 L) | Port. 142/2016 |
 
 ### Psiu Sabores (PET 1 L) (código 45106)
@@ -16251,9 +16251,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,71 |  | und | Psiu Sabores (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,78 | +4.1% | und | Psiu Sabores (PET 1 L) | Port. 74/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 | +2.2% | und | Psiu Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,14 | +17.6% | und | Psiu Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,24 | +4.7% | und | Psiu Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,14 | +20.2% | und | Psiu Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -15.0% | und | Psiu Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,24 | +23.1% | und | Psiu Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,34 | +4.5% | und | Psiu Sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,59 | +10.7% | und | Psiu Sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,63 | +1.5% | und | Psiu Sabores (PET 1 L) | Port. 222/2017 |
@@ -16303,11 +16303,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,83 |  | und | Psiu Sabores - 250 ml | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,86 | +3.6% | und | Psiu Sabores – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,85 | -1.2% | und | Psiu Sabores - 250 ml | Port. 157/2014 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,89 | +4.7% | und | Psiu Sabores – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,09 | +22.5% | und | Psiu Sabores - 250 ml | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,09 | +26.7% | und | Psiu Sabores - 250 ml | Port. 176/2015 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,98 | -10.1% | und | Psiu Sabores – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,14 | +16.3% | und | Psiu Sabores - 250 ml | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,85 | -13.3% | und | Psiu Sabores - 250 ml | Port. 157/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,89 | +4.7% | und | Psiu Sabores – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,14 | +28.1% | und | Psiu Sabores - 250 ml | Port. 463/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,02 | -10.5% | und | Psiu Sabores – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,19 | +16.7% | und | Psiu Sabores - 250 ml | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,07 | -10.1% | und | Psiu Sabores – 250 ml | Port. 142/2016 |
@@ -16384,9 +16384,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,72 |  | und | Psiu Teen (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,83 | +4.0% | und | Psiu Teen (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,19 | +12.7% | und | Psiu Teen (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,35 | +5.0% | und | Psiu Teen (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,19 | +17.3% | und | Psiu Teen (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,83 | -11.3% | und | Psiu Teen (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,35 | +18.4% | und | Psiu Teen (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,51 | +4.8% | und | Psiu Teen (2 L) | Port. 142/2016 |
 
 ### Refrigerante Psiu Teen – Lata 269 ml (código 47722)
@@ -16442,9 +16442,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,71 |  | und | Psiu Teen (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,78 | +4.1% | und | Psiu Teen (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,85 | +3.9% | und | Psiu Teen (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,92 | +3.8% | und | Psiu Teen (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +17.2% | und | Psiu Teen (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,35 | +4.4% | und | Psiu Teen (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,25 | +21.6% | und | Psiu Teen (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,92 | -14.7% | und | Psiu Teen (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,35 | +22.4% | und | Psiu Teen (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,46 | +4.7% | und | Psiu Teen (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,95 | +19.9% | und | Psiu Teen (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,99 | +1.4% | und | Psiu Teen (PET 1 L) | Port. 222/2017 |
@@ -16470,9 +16470,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,13 |  | und | Psiu Teen (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,22 | +4.2% | und | Psiu Teen (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,61 | +62.6% | und | Psiu Teen (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,77 | +4.4% | und | Psiu Teen (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,61 | +69.5% | und | Psiu Teen (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,22 | -38.5% | und | Psiu Teen (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,77 | +69.8% | und | Psiu Teen (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,95 | +4.8% | und | Psiu Teen (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,68 | -6.8% | und | Psiu Teen (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,73 | +1.4% | und | Psiu Teen (PET 1,5 L) | Port. 222/2017 |
@@ -16559,9 +16559,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 |  | und | Psiu Teen (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | Psiu Teen (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,03 | +12.0% | und | Psiu Teen (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +20.4% | und | Psiu Teen (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,03 | +17.0% | und | Psiu Teen (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -10.7% | und | Psiu Teen (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,24 | +34.8% | und | Psiu Teen (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,30 | +4.8% | und | Psiu Teen (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,54 | +18.5% | und | Psiu teen (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,71 | +11.0% | und | Psiu teen (PET 350 ml) | Port. 222/2017 |
@@ -16591,9 +16591,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,24 |  | und | Psiu Teen 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,29 | +4.0% | und | Psiu Teen 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,55 | +20.2% | und | Psiu Teen 500 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,54 | -0.6% | und | Psiu Teen 500 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,55 | +25.0% | und | Psiu Teen 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,29 | -16.8% | und | Psiu Teen 500 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,54 | +19.4% | und | Psiu Teen 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,61 | +4.5% | und | Psiu Teen - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,79 | +11.2% | und | Psiu Teen 500 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,82 | +1.7% | und | Psiu Teen - 500 ml | Port. 222/2017 |
@@ -16633,9 +16633,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,49 | +18.0% | und | Psiu Teen Zero (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,61 | +4.8% | und | Psiu Teen Zero (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,72 | +4.2% | und | Psiu Teen Zero (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,83 | +4.0% | und | Psiu Teen Zero (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,20 | +13.1% | und | Psiu Teen Zero (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,34 | +4.4% | und | Psiu Teen Zero (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,20 | +17.6% | und | Psiu Teen Zero (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,83 | -11.6% | und | Psiu Teen Zero (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,34 | +18.0% | und | Psiu Teen Zero (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,50 | +4.8% | und | Psiu Teen Zero (2 L) | Port. 142/2016 |
 
 ### Psiu Teen Zero (500 a 600 ml) (código —)
@@ -16672,9 +16672,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,89 |  | und | Psiu Teen Zero 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,00 | +12.4% | und | Psiu Teen Zero 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,04 | +4.0% | und | Psiu Teen Zero 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,00 |  | und | Psiu Teen Zero 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,89 | -11.0% | und | Psiu Teen Zero 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,04 | +16.9% | und | Psiu Teen Zero 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,09 | +4.8% | und | Psiu Teen Zero 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,12 | +2.8% | und | psiu teen zero- 250 ml | Port. 397/2016 |
 | 2016-11-21 (pub.) | 2016-11-16 | alterar | 1,29 | +15.2% |  | Refrigerante Psiu Teen Zero 250 ml | Port. 414/2016 |
@@ -16705,9 +16705,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,24 |  | und | Psiu Teen Zero 500 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,29 | +4.0% | und | Psiu Teen Zero 500 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,55 | +20.2% | und | Psiu Teen Zero 500 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,62 | +4.5% | und | Psiu Teen Zero 500 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,55 | +25.0% | und | Psiu Teen Zero 500 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,29 | -16.8% | und | Psiu Teen Zero 500 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,62 | +25.6% | und | Psiu Teen Zero 500 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,70 | +4.9% | und | Psiu Teen Zero - 500 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,84 | +8.2% | und | Psiu Teen Zero 500 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,87 | +1.6% | und | Psiu Teen Zero - 500 ml | Port. 222/2017 |
@@ -19114,18 +19114,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,05 |  | und | Relva Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,05 | +0.0% | und | Relva Sabores (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,45 | +13.1% | und | Relva Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,60 | +4.3% | und | Relva Sabores (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,05 | -11.6% | und | Relva Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,60 | +18.0% | und | Relva Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,77 | +4.7% | und | Relva Sabores (2 L) | Port. 142/2016 |
 
 ### Relva sabores (lata 350 ml) (código 48141)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,19 |  | und | Relva Sabores (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,43 | +20.2% | und | Relva Sabores (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,49 | +4.2% | und | Relva Sabores (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,43 |  | und | Relva Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,19 | -16.8% | und | Relva Sabores (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,49 | +25.2% | und | Relva Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,56 | +4.7% | und | Relva Sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,70 | +9.0% | Und | Relva sabores (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,72 | +1.2% | und | Relva sabores (lata 350 ml) | Port. 222/2017 |
@@ -19151,9 +19151,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,18 |  | und | Relva Sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,20 | +0.9% | und | Relva Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,58 | +17.3% | und | Relva Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,70 | +4.7% | und | Relva Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,58 | +18.3% | und | Relva Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,20 | -14.7% | und | Relva Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,70 | +22.7% | und | Relva Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,83 | +4.8% | und | Relva Sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,12 | +10.2% | und | Relva Sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,17 | +1.6% | und | Relva Sabores (PET 1 L) | Port. 222/2017 |
@@ -19202,9 +19202,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,68 |  | und | Relva Sabores – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,71 | +4.4% | und | Relva Sabores – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 | +19.7% | und | Relva Sabores – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,90 | +5.9% | und | Relva Sabores – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,85 | +25.0% | und | Relva Sabores – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,71 | -16.5% | und | Relva Sabores – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,90 | +26.8% | und | Relva Sabores – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,94 | +4.4% | und | Relva Sabores – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,97 | +3.2% | und | Relva sabores - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 0,98 | +1.0% | und | Relva sabores - 250 ml | Port. 222/2017 |
@@ -19280,8 +19280,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,14 |  | und | River descartável (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,20 | +5.3% | und | River descartável (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,24 | +3.3% | und | River descartável (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,29 | +4.0% | und | River descartável (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +24.0% | und | River descartável (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,60 | +29.0% | und | River descartável (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,29 | -19.4% | und | River descartável (PET 500 a 600 ml) | Port. 157/2015 |
 
 ### Refrigerante Guaraná River - Pet 200 ml (código 53879)
 
@@ -19326,9 +19326,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,55 | +18.1% | und | River Sabores (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,68 | +5.1% | und | River Sabores (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,78 | +3.7% | und | River Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,89 | +4.0% | und | River Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,13 | +8.3% | und | River Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,25 | +3.8% | und | River Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,13 | +12.6% | und | River Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,89 | -7.7% | und | River Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,25 | +12.5% | und | River Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,40 | +4.6% | und | River Sabores (2 L) | Port. 142/2016 |
 
 ### River Sabores (até 200 ml) (código —)
@@ -19338,9 +19338,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,61 |  | und | River Sabores (até 200 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,63 | +3.3% | und | River Sabores (até 200 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,65 | +3.2% | und | River Sabores (até 200 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,68 | +4.6% | und | River Sabores (até 200 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,92 | +35.3% | und | River Sabores (até 200 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,86 | -6.5% | und | River Sabores (até 200 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,92 | +41.5% | und | River Sabores (até 200 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,68 | -26.1% | und | River Sabores (até 200 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,86 | +26.5% | und | River Sabores (até 200 ml) | Port. 463/2015 |
 
 ### River Sabores (lata 200 ml) (código —)
 
@@ -19404,9 +19404,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | River Sabores – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,94 | +4.4% | und | River Sabores – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,07 | +13.8% | und | River Sabores – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | -0.9% | und | River Sabores – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,07 | +18.9% | und | River Sabores – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,94 | -12.1% | und | River Sabores – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +12.8% | und | River Sabores – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,11 | +4.7% | und | River Sabores – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,16 | +4.5% | und | River Sabores - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,18 | +1.7% | und | River Sabores - 250 ml | Port. 222/2017 |
@@ -19438,9 +19438,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,80 | +6.7% | und | River Sabores (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,85 | +6.2% | und | River Sabores (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 | +3.5% | und | River Sabores (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | River Sabores (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +9.8% | und | River Sabores (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +5.0% | und | River Sabores (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +14.8% | und | River Sabores (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -8.9% | und | River Sabores (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +15.2% | und | River Sabores (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,11 | +4.7% | und | River Sabores (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,16 | +4.5% | und | River Sabores (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,18 | +1.7% | und | River Sabores (PET 350 ml) | Port. 222/2017 |
@@ -19576,8 +19576,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,15 |  | und | River Sabores Retornav (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,20 | +4.3% | und | River Sabores Retornav (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,25 | +4.2% | und | River Sabores Retornav (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,50 | +20.0% | und | River Sabores Retornav (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,50 | +25.0% | und | River Sabores Retornav (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,25 | -16.7% | und | River Sabores Retornav (PET 500 a 600 ml) | Port. 157/2015 |
 
 ### River Sabores Retornavel (descartável 500 a 600 ml) (código —)
 
@@ -19593,9 +19593,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,37 | +17.3% | und | Sabores mais sabor (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,49 | +5.1% | und | Sabores Mais Sabor (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,59 | +4.0% | und | Sabores Mais Sabor (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,70 | +4.2% | und | Sabores Mais Sabor (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +13.0% | und | Sabores Mais Sabor (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +4.6% | und | Sabores Mais Sabor (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,05 | +17.8% | und | Sabores Mais Sabor (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,70 | -11.5% | und | Sabores Mais Sabor (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,19 | +18.1% | und | Sabores Mais Sabor (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,34 | +4.7% | und | Sabores Mais Sabor (2 L) | Port. 142/2016 |
 
 ### Sabores Mais Sabor (PET 1 L) (código 12105)
@@ -19606,9 +19606,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,63 | +10.1% | und | Sabores mais sabor (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,70 | +4.3% | und | Sabores Mais Sabor (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,76 | +3.5% | und | Sabores Mais Sabor (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,83 | +4.0% | und | Sabores Mais Sabor (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +17.5% | und | Sabores Mais Sabor (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,25 | +4.7% | und | Sabores Mais Sabor (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,15 | +22.2% | und | Sabores Mais Sabor (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,83 | -14.9% | und | Sabores Mais Sabor (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,25 | +23.0% | und | Sabores Mais Sabor (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,25 | +0.0% | und | Sabores Mais Sabor (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,48 | +10.2% | und | Sabores Mais Sabor (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,52 | +1.6% | und | Sabores Mais Sabor (PET 1 L) | Port. 222/2017 |
@@ -19656,9 +19656,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,81 |  | und | Sabores mais sabor 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,91 | +12.3% | und | Sabores mais sabor 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,95 | +4.4% | und | Sabores mais sabor 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,91 |  | und | Sabores mais sabor 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,81 | -11.0% | und | Sabores mais sabor 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,95 | +17.3% | und | Sabores mais sabor 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,95 | +0.0% | und | Sabores mais sabor 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,98 | +3.2% | und | Sabores Mais Sabor - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 0,99 | +1.0% | und | Sabores Mais Sabor - 250 ml | Port. 222/2017 |
@@ -19687,9 +19687,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,80 | +11.1% | und | Sabores mais sabor (PET 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,85 | +6.2% | und | Sabores mais sabor (PET 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,88 | +3.5% | und | Sabores mais sabor (PET 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,92 | +4.5% | und | Sabores mais sabor (PET 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +9.8% | und | Sabores mais sabor (PET 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +5.0% | und | Sabores mais sabor (PET 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,01 | +14.8% | und | Sabores mais sabor (PET 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,92 | -8.9% | und | Sabores mais sabor (PET 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,06 | +15.2% | und | Sabores mais sabor (PET 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,06 | +0.0% | und | Sabores mais sabor (PET 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,11 | +4.7% | und | Sabores Mais Sabor (PET 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,13 | +1.8% | und | Sabores Mais Sabor (PET 350 ml) | Port. 222/2017 |
@@ -20359,14 +20359,14 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,88 |  | und | Schin Cola (1 L) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,88 |  | und | Schin Cola (1 L) | Port. 157/2015 |
 
 ### Schin cola (2 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,86 |  | und | Schin cola (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,86 | +0.0% | und | Schin cola (2 L) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,86 |  | und | Schin cola (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,86 | +0.0% | und | Schin cola (2 L) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,24 | +13.3% | und | Schin cola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,39 | +4.6% | und | Schin cola (2 L) | Port. 142/2016 |
 
@@ -20390,9 +20390,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 |  | und | Schin Sabores (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | Schin Sabores (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | Schin Sabores (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 |  | und | Schin Sabores (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | Schin Sabores (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | Schin Sabores (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | Schin Sabores (1 L) | Port. 142/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 22,14 | +6.3% | und | Schin sabores (1 L) | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 23,03 | +4.0% | Und | Schin sabores (1 L) | Port. 507/2017 |
@@ -20401,18 +20401,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,81 |  | und | Schin Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,14 | +11.7% | und | Schin Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,32 | +5.7% | und | Schin Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,14 |  | und | Schin Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,81 | -10.5% | und | Schin Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,32 | +18.1% | und | Schin Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,48 | +4.8% | und | Schin Sabores (2 L) | Port. 142/2016 |
 
 ### Schin sabores (PET 500 a 600 ml) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,35 |  | und | Schin sabores (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +20.0% | und | Schin sabores (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +4.3% | und | Schin sabores (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 |  | und | Schin sabores (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,35 | -16.7% | und | Schin sabores (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +25.2% | und | Schin sabores (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,77 | +4.7% | und | Schin sabores (PET 500 a 600 ml) | Port. 142/2016 |
 
 ### Schin sabores (PET até 250 ml) (código —)
@@ -20594,9 +20594,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,70 | +9.0% | und | Schweppes Citrus (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,77 | +4.1% | und | Schweppes Citrus (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,77 | +0.0% | und | Schweppes Citrus (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,77 | +0.0% | und | Schweppes Citrus (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,03 | +14.7% | und | Schweppes Citrus (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,18 | +7.4% | und | Schweppes Citrus (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,77 | -12.8% | und | Schweppes Citrus (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,18 | +23.2% | und | Schweppes Citrus (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,28 | +4.6% | und | Schweppes Citrus (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,48 | +8.8% | und | Schweppes Citrus (lata 350 ml) | Port. 397/2016 |
 
@@ -20713,9 +20713,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,75 |  | und | Simba Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,86 | +4.0% | und | Simba Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,23 | +12.9% | und | Simba Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,37 | +4.3% | und | Simba Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,23 | +17.5% | und | Simba Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,86 | -11.5% | und | Simba Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,37 | +17.8% | und | Simba Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,53 | +4.7% | und | Simba Sabores (2 L) | Port. 142/2016 |
 
 ### Simba sabores (PET 2 L) (código 48854)
@@ -20748,15 +20748,15 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,20 |  | Und | Soda Limanada (retornável 200 a 290 ml) | Port. 157/2014 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,20 |  | Und | Soda Limanada (retornável 200 a 290 ml) | Port. 157/2015 |
 
 ### Soda Limanoda 237 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,99 |  | und | Soda Limanoda 237 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,11 | +12.1% | und | Soda Limanoda 237 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,16 | +4.5% | und | Soda Limanoda 237 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,11 |  | und | Soda Limanoda 237 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,99 | -10.8% | und | Soda Limanoda 237 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,16 | +17.2% | und | Soda Limanoda 237 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,21 | +4.3% | und | Soda Limanoda 237 ml | Port. 142/2016 |
 
 ### Soda Limonada (2 L) (código —)
@@ -20768,9 +20768,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,05 | +14.2% | und | Soda Limonada (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,20 | +4.9% | und | Soda Limonada (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,35 | +4.7% | und | Soda Limonada (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,48 | +3.9% | und | Soda Limonada (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,00 | +14.9% | und | Soda Limonada (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,20 | +5.0% | und | Soda Limonada (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,00 | +19.4% | und | Soda Limonada (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,48 | -13.0% | und | Soda Limonada (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,20 | +20.7% | und | Soda Limonada (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,40 | +4.8% | und | Soda Limonada (2 L) | Port. 142/2016 |
 
 ### Soda Limonada (lata 350 ml) (código 45107)
@@ -20782,9 +20782,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,36 | +9.7% | und | Soda Limonada (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,41 | +3.7% | und | Soda Limonada (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,41 | +0.0% | und | Soda Limonada (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,47 | +4.3% | und | Soda Limonada (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,76 | +19.7% | und | Soda Limonada (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,87 | +6.2% | und | Soda Limonada (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,76 | +24.8% | und | Soda Limonada (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,47 | -16.5% | und | Soda Limonada (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,87 | +27.2% | und | Soda Limonada (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,96 | +4.8% | und | Soda Limonada (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,19 | +11.7% | und | Soda Limonada (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,22 | +1.4% | und | Soda Limonada (lata 350 ml) | Port. 222/2017 |
@@ -21449,9 +21449,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 15,70 | +10.2% | und | Sprite (1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 16,33 | +4.0% | und | Sprite (1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 17,00 | +4.1% | und | Sprite (1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 17,68 | +4.0% | und | Sprite (1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +7.7% | und | Sprite (1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +4.5% | und | Sprite (1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 19,04 | +12.0% | und | Sprite (1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 17,68 | -7.1% | und | Sprite (1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 19,89 | +12.5% | und | Sprite (1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 20,82 | +4.7% | und | Sprite (1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 21,82 | +4.8% | und | Sprite (1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 22,14 | +1.5% | und | Sprite (1 L) | Port. 222/2017 |
@@ -21492,9 +21492,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 3,32 | +19.0% | und | Sprite (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,49 | +5.1% | und | Sprite (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,63 | +4.0% | und | Sprite (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,63 | +0.0% | und | Sprite (2 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,24 | +16.8% | und | Sprite (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,55 | +7.3% | und | Sprite (2 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,63 | -14.4% | und | Sprite (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,55 | +25.3% | und | Sprite (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,76 | +4.6% | und | Sprite (2 L) | Port. 142/2016 |
 
 ### Sprite (500 a 600 ml) (código —)
@@ -21513,9 +21513,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,61 |  | und | Sprite (até 200 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,63 | +3.3% | und | Sprite (até 200 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,65 | +3.2% | und | Sprite (até 200 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,68 | +4.6% | und | Sprite (até 200 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,92 | +35.3% | und | Sprite (até 200 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,96 | +4.3% | und | Sprite (até 200 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,92 | +41.5% | und | Sprite (até 200 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,68 | -26.1% | und | Sprite (até 200 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,96 | +41.2% | und | Sprite (até 200 ml) | Port. 463/2015 |
 
 ### Sprite (lata 200 ml) (código —)
 
@@ -21558,9 +21558,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,39 | +10.3% | und | Sprite (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,45 | +4.3% | und | Sprite (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,50 | +3.4% | und | Sprite (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,50 | +0.0% | und | Sprite (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,88 | +25.3% | und | Sprite (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,99 | +5.9% | und | Sprite (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,50 | -20.2% | und | Sprite (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,99 | +32.7% | und | Sprite (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,08 | +4.5% | und | Sprite (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +6.7% | und | Sprite (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,25 | +1.4% | und | Sprite (lata 350 ml) | Port. 222/2017 |
@@ -21604,9 +21604,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,17 | +11.3% | und | Sprite (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,25 | +3.7% | und | Sprite (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,35 | +4.4% | und | Sprite (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,73 | +16.2% | und | Sprite (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,11 | +13.9% | und | Sprite (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,25 | +4.5% | und | Sprite (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,11 | +32.3% | und | Sprite (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,73 | -12.2% | und | Sprite (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,25 | +19.0% | und | Sprite (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,40 | +4.6% | und | Sprite (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,63 | +6.8% | und | Sprite (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,68 | +1.4% | und | Sprite (PET 1 L) | Port. 222/2017 |
@@ -21619,9 +21619,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,47 |  | und | Sprite (PET 1,5 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,57 | +4.0% | und | Sprite (PET 1,5 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,67 | +3.9% | und | Sprite (PET 1,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,78 | +4.1% | und | Sprite (PET 1,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,26 | +17.3% | und | Sprite (PET 1,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,41 | +4.6% | und | Sprite (PET 1,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,26 | +22.1% | und | Sprite (PET 1,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,78 | -14.7% | und | Sprite (PET 1,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,41 | +22.7% | und | Sprite (PET 1,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,57 | +4.7% | und | Sprite (PET 1,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 4,05 | +13.4% | und | Sprite (PET 1,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 4,11 | +1.5% | und | Sprite (PET 1,5 L) | Port. 222/2017 |
@@ -21655,9 +21655,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,61 |  | und | Sprite (2,5 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,79 | +5.0% | und | Sprite (2,5 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,39 | +15.8% | und | Sprite (2,5 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,59 | +4.6% | und | Sprite (2,5 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,39 | +21.6% | und | Sprite (2,5 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,79 | -13.7% | und | Sprite (2,5 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,59 | +21.1% | und | Sprite (2,5 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,80 | +4.6% | und | Sprite (2,5 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 5,71 | +19.0% | und | Sprite (2,5 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 5,79 | +1.4% | Und | Sprite (2,5 L) | Port. 222/2017 |
@@ -21698,9 +21698,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,83 |  | und | Sprite (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,90 | +3.8% | und | Sprite (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,98 | +4.2% | und | Sprite (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,06 | +4.0% | und | Sprite (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,47 | +19.9% | und | Sprite (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,82 | +14.2% | und | Sprite (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,47 | +24.7% | und | Sprite (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,06 | -16.6% | und | Sprite (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,82 | +36.9% | und | Sprite (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,95 | +4.6% | und | Sprite (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,20 | +8.5% | und | Sprite (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,25 | +1.6% | und | Sprite (PET 500 a 600 ml) | Port. 222/2017 |
@@ -21717,9 +21717,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,16 | +9.4% | und | Sprite (retornável 201 a 290 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,21 | +4.3% | und | Sprite (retornável 200 a 290 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,21 | +0.0% | und | Sprite (retornável 200 a 290 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,26 | +4.1% | und | Sprite (retornável 200 a 290 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 | +21.4% | und | Sprite (retornável 200 a 290 ml) | Port. 176/2015 |
-| 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,11 | +37.9% | und | Sprite - 300 ml ⚠ | Port. 222/2017 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 | +26.4% | und | Sprite (retornável 200 a 290 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,26 | -17.6% | und | Sprite (retornável 200 a 290 ml) | Port. 157/2015 |
+| 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,11 | +67.5% | und | Sprite - 300 ml ⚠ | Port. 222/2017 |
 | 2017-10-23 (assin.) | 2017-10-23 | alterar | 2,20 | +4.3% | Und | Sprite - 300 ml | Port. 507/2017 |
 | 2018-05-02 (pub.) | 2018-04-26 | alterar | 2,23 | +1.4% | und | Sprite - 300 ml | Port. 147/2018 |
 | 2018-11-09 (pub.) | 2018-11-06 | alterar | 2,52 | +13.0% | und | Sprite - 300 ml | Port. 383/2018 |
@@ -21753,9 +21753,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,10 |  | und | Sprite 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,18 | +7.3% | und | Sprite 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,15 | -2.5% | und | Sprite - 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,18 |  | und | Sprite 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,10 | -6.8% | und | Sprite 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,15 | +4.5% | und | Sprite - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,15 | +0.0% | und | Sprite – 250 ml | Port. 142/2016 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,20 | +4.3% | und | Sprite - 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,18 | -1.7% | und | Sprite - 250 ml | Port. 397/2016 |
@@ -21778,12 +21778,11 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2026-05-01 (efeitos) | 2026-04-29 | alterar | 3,43 | +1.8% | und | Sprite Fresh Limão (lata 310 a 330 ml) | Port. 170/2026 |
 | 2026-11-01 (efeitos) | 2026-10-16 | alterar | 3,53 | +2.9% | und | Sprite Fresh Limão (lata 310 a 330 ml) | Port. 402/2026 |
 
-### Refrigerante Sprite Fresh Limão - Pet 1.500 ml (código 52968)
+### Sprite Fresh Limão (PET 1,5 L) (código 52968)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2022-05-13 (pub.) | 2022-05-10 | incluir | 5,99 |  |  | Refrigerante Sprite Fresh Limão - Pet 1.500 ml | Port. 256/2022 |
-| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 6,15 | +2.7% | und | Sprite Fresh Limão (PET 1,5 L) | Port. 128/2023 |
+| 2023-04-01 (efeitos) | 2023-03-29 | alterar | 6,15 |  | und | Sprite Fresh Limão (PET 1,5 L) | Port. 128/2023 |
 | 2023-11-01 (efeitos) | 2023-10-30 | alterar | 6,77 | +10.1% | und | Sprite Fresh Limão (PET 1,5 L) | Port. 477/2023 |
 | 2024-02-01 (pub.) | 2024-01-26 | alterar | 6,92 | +2.2% | und | Sprite Fresh Limão (PET 1,5 L) | Port. 31/2024 |
 | 2024-08-30 (pub.) | 2024-08-23 | incluir | 7,21 | +4.2% | und | Sprite Fresh Limão (PET 1,5 L) | Port. 336/2024 |
@@ -21931,9 +21930,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,35 | +8.9% | und | Sukita Laranja (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,40 | +3.7% | und | Sukita Laranja (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,40 | +0.0% | und | Sukita Laranja (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,46 | +4.3% | und | Sukita Laranja (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,73 | +18.5% | und | Sukita Laranja (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,85 | +6.9% | und | Sukita Laranja (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,73 | +23.6% | und | Sukita Laranja (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,46 | -15.6% | und | Sukita Laranja (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,85 | +26.7% | und | Sukita Laranja (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,94 | +4.9% | und | Sukita Laranja (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,11 | +8.8% | und | Sukita Laranja (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,14 | +1.4% | und | Sukita Laranja (lata 350 ml) | Port. 222/2017 |
@@ -22044,18 +22043,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,48 |  | und | Sukita Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,15 | +19.3% | und | Sukita Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,34 | +4.6% | und | Sukita Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,15 |  | und | Sukita Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,48 | -16.1% | und | Sukita Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,34 | +24.7% | und | Sukita Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,54 | +4.6% | und | Sukita Sabores (2 L) | Port. 142/2016 |
 
 ### Sukita Sabores (PET 1 L) (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,24 |  | und | Sukita Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,49 | +11.2% | und | Sukita Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,70 | +8.4% | und | Sukita Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,49 |  | und | Sukita Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,24 | -10.0% | und | Sukita Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,70 | +20.5% | und | Sukita Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,83 | +4.8% | und | Sukita Sabores (PET 1 L) | Port. 142/2016 |
 
 ### Sukita Sabores (PET 2 L) (código 45006)
@@ -22085,9 +22084,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,99 |  | und | Sukita Sabores 237 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,11 | +12.1% | und | Sukita Sabores 237 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,16 | +4.5% | und | Sukita Sabores 237 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,11 |  | und | Sukita Sabores 237 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,99 | -10.8% | und | Sukita Sabores 237 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,16 | +17.2% | und | Sukita Sabores 237 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,21 | +4.3% | und | Sukita Sabores 237 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,25 | +3.3% | und | Sukita sabores - 237 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,27 | +1.6% | und | Sukita sabores - 237 ml | Port. 222/2017 |
@@ -22110,9 +22109,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,33 | +7.3% | und | Sukita Uva (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,38 | +3.8% | und | Sukita Uva (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,38 | +0.0% | und | Sukita Uva (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,38 | +0.0% | und | Sukita Uva (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,67 | +21.0% | und | Sukita Uva (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,99 | +19.2% | und | Sukita Uva (lata 350 ml) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,38 | -17.4% | und | Sukita Uva (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,99 | +44.2% | und | Sukita Uva (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,08 | +4.5% | und | Sukita Uva (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,41 | +15.9% | und | Sukita Uva (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,44 | +1.2% | und | Sukita Uva (lata 350 ml) | Port. 222/2017 |
@@ -22962,9 +22961,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,07 |  | Und | Tropicola (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,17 | +4.8% | Und | Tropicola (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,26 | +4.1% | und | Tropicola (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,45 | +8.4% | und | Tropicola (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,77 | +13.1% | und | Tropicola (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,89 | +4.3% | und | Tropicola (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,77 | +22.6% | und | Tropicola (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,45 | -11.6% | und | Tropicola (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,89 | +18.0% | und | Tropicola (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,03 | +4.8% | und | Tropicola (2 L) | Port. 142/2016 |
 
 ### Refrigerantes Tropicola – Lata 350 ml (código 49874)
@@ -22975,9 +22974,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,78 | +4.0% | Und | Tropicola (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 0,90 | +15.4% | Und | Tropicola (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,94 | +4.4% | Und | Tropicola (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,04 | +10.6% | und | Tropicola (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | +20.2% | und | Tropicola (lata 350 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,31 | +4.8% | und | Tropicola (lata 350 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,25 | +33.0% | und | Tropicola (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,04 | -16.8% | und | Tropicola (lata 350 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,31 | +26.0% | und | Tropicola (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,37 | +4.6% | und | Tropicola (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,49 | +8.8% | Und | Tropicola (lata 350 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,51 | +1.3% | und | Tropicola (lata 350 ml) | Port. 222/2017 |
@@ -23006,9 +23005,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,03 | +3.6% | Und | Tropicola (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | +3.4% | Und | Tropicola (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,20 | +4.8% | und | Tropicola (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 | +4.1% | und | Tropicola (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,69 | +17.5% | und | Tropicola (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,81 | +4.5% | und | Tropicola (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,69 | +22.3% | und | Tropicola (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -14.9% | und | Tropicola (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,81 | +22.7% | und | Tropicola (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,94 | +4.6% | und | Tropicola (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,24 | +10.2% | Und | Tropicola (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,29 | +1.5% | Und | Tropicola (PET 1 L) | Port. 222/2017 |
@@ -23061,9 +23060,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 | +3.5% | und | Tropicola (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,20 | +2.6% | und | Tropicola (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,25 | +4.2% | und | Tropicola (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,30 | +4.0% | und | Tropicola (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,56 | +20.0% | und | Tropicola (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,63 | +4.5% | und | Tropicola (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,56 | +24.8% | und | Tropicola (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,30 | -16.7% | und | Tropicola (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,63 | +25.4% | und | Tropicola (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,71 | +4.9% | und | Tropicola (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,85 | +8.2% | und | Tropicola (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,88 | +1.6% | und | Tropicola (PET 500 a 600 ml) | Port. 222/2017 |
@@ -23092,9 +23091,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,19 | +3.5% | und | Tropicola 600 ml retornável | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,20 | +0.8% | und | Tropicola retornável (PET 500 a 600 ml) ⚠ | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,25 | +4.2% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,30 | +4.0% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,56 | +20.0% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,63 | +4.5% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,56 | +24.8% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,30 | -16.7% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,63 | +25.4% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,71 | +4.9% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,85 | +8.2% | und | Tropicola retornável (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,57 | -15.1% | und | Tropicola - Retornável (PET 500 a 600 ml) | Port. 222/2017 |
@@ -23122,9 +23121,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,08 |  | Und | Tropicola Zero (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,18 | +4.8% | Und | Tropicola Zero (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,27 | +4.1% | und | Tropicola Zero (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,45 | +7.9% | und | Tropicola Zero (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,77 | +13.1% | und | Tropicola Zero (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,89 | +4.3% | und | Tropicola Zero (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,77 | +22.0% | und | Tropicola Zero (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,45 | -11.6% | und | Tropicola Zero (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,89 | +18.0% | und | Tropicola Zero (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,03 | +4.8% | und | Tropicola Zero (2 L) | Port. 142/2016 |
 
 ### Tropicola Zero (PET 1 L) (código 49871)
@@ -23134,9 +23133,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,03 |  | Und | Tropicola Zero (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,10 | +3.4% | Und | Tropicola Zero (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,20 | +4.8% | und | Tropicola Zero (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,29 | +4.1% | und | Tropicola Zero (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,69 | +17.5% | und | Tropicola Zero (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,81 | +4.5% | und | Tropicola Zero (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,69 | +22.3% | und | Tropicola Zero (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,29 | -14.9% | und | Tropicola Zero (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,81 | +22.7% | und | Tropicola Zero (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,94 | +4.6% | und | Tropicola Zero (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,24 | +10.2% | Und | Tropicola Zero (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,29 | +1.5% | und | Tropicola Zero (PET 1 L) | Port. 222/2017 |
@@ -23187,9 +23186,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,19 |  | und | Tropicola Zero (PET 500 a 600 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,25 | +5.0% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,30 | +4.0% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,35 | +3.8% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +20.0% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +4.3% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +24.6% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,35 | -16.7% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +25.2% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,77 | +4.7% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,92 | +8.5% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,95 | +1.6% | und | Tropicola Zero (PET 500 a 600 ml) | Port. 222/2017 |
@@ -23216,9 +23215,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 3,15 |  | und | Tubarel sabores (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 3,63 | +15.2% | und | Tubarel sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 3,75 | +3.3% | und | Tubarel sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,24 | +13.1% | und | Tubarel sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,43 | +4.5% | und | Tubarel sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 4,24 | +16.8% | und | Tubarel sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 3,75 | -11.6% | und | Tubarel sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 4,43 | +18.1% | und | Tubarel sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 4,64 | +4.7% | und | Tubarel sabores (2 L) | Port. 142/2016 |
 
 ### Refrigerante Tubarel Sabores Pet 1.000 ml (código 48818)
@@ -23233,9 +23232,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 0,99 | +8.8% | und | Tubarel sabores (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,10 | +11.1% | und | Tubarel sabores (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,14 | +3.6% | und | Tubarel sabores (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,30 | +14.0% | und | Tubarel sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 | +17.7% | und | Tubarel sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,60 | +69.9% | und | Tubarel sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,53 | +34.2% | und | Tubarel sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,30 | -15.0% | und | Tubarel sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,60 | +100.0% | und | Tubarel sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,72 | +4.6% | und | Tubarel sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 3,00 | +10.3% | und | Tubarel sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 3,04 | +1.3% | und | Tubarel sabores (PET 1 L) | Port. 222/2017 |
@@ -23291,9 +23290,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2007-09-28 (assin.) | 2007-09-28 | incluir | 0,40 |  |  | Refrigerante Tubarel Sabores Pet 250 ml | Port. 609/2007 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,59 | +47.5% | und | Tubarel sabores – 250 ml ⚠ | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,70 | +18.6% | und | Tubarel sabores – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,79 | +12.9% | und | Tubarel sabores – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,83 | +5.1% | und | Tubarel sabores – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,79 | +33.9% | und | Tubarel sabores – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,70 | -11.4% | und | Tubarel sabores – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 0,83 | +18.6% | und | Tubarel sabores – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 0,87 | +4.8% | und | Tubarel sabores – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 0,90 | +3.4% | und | Tubarel sabores - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 0,91 | +1.1% | und | Tubarel sabores - 250 ml | Port. 222/2017 |
@@ -23347,9 +23346,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,47 |  | und | Tuca Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +5.3% | und | Tuca Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,94 | +13.1% | und | Tuca Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,07 | +4.4% | und | Tuca Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,94 | +19.0% | und | Tuca Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | -11.6% | und | Tuca Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,07 | +18.1% | und | Tuca Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,21 | +4.6% | und | Tuca Sabores (2 L) | Port. 142/2016 |
 
 ### Tuca sabores (PET 2 L) (código 48398)
@@ -23387,9 +23386,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,43 | +17.4% | und | Turma da Monica (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,55 | +4.9% | und | Turma da Monica (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,65 | +3.9% | und | Turma da Monica (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,76 | +4.2% | und | Turma da Monica (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +13.0% | und | Turma da Monica (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +4.5% | und | Turma da Monica (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 3,12 | +17.7% | und | Turma da Monica (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,76 | -11.5% | und | Turma da Monica (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,26 | +18.1% | und | Turma da Monica (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,40 | +4.3% | und | Turma da Monica (2 L) | Port. 142/2016 |
 
 ### Turma da Monica (PET 2 L) (código 48085)
@@ -23430,9 +23429,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,35 |  | und | Schin cola (PET 500 a 600 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 | +20.0% | und | Schin cola (PET 500 a 600 ml) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +4.3% | und | Schin cola (PET 500 a 600 ml) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,62 |  | und | Schin cola (PET 500 a 600 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,35 | -16.7% | und | Schin cola (PET 500 a 600 ml) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,69 | +25.2% | und | Schin cola (PET 500 a 600 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,77 | +4.7% | und | Schin cola (PET 500 a 600 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,92 | +8.5% | und | Schin cola (PET 500 a 600 ml) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,95 | +1.6% | und | Schin Cola (PET 500 a 600 ml) | Port. 222/2017 |
@@ -23450,8 +23449,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,17 | +12.5% | und | Schin Cola (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,22 | +4.3% | und | Schin Cola (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,22 | +0.0% | und | Schin Cola (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,22 | +0.0% | und | Schin Cola (lata 350 ml) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,22 | +0.0% | und | Schin Cola (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,22 | +0.0% | und | Schin Cola (lata 350 ml) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,44 | +18.0% | und | Schin Cola (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,51 | +4.9% | und | Schin Cola (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,61 | +6.6% | und | Schin Cola (lata 350 ml) | Port. 397/2016 |
@@ -23482,9 +23481,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,68 | +8.4% | und | Schin cola (PET 1 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,75 | +4.2% | und | Schin cola (PET 1 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,82 | +4.0% | und | Schin cola (PET 1 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 | +0.0% | und | Schin cola (PET 1 L) | Port. 157/2014 |
 | 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,92 | +5.5% | und | Schin cola (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,10 | +9.4% | und | Schin cola (PET 1 L) | Port. 463/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -5.2% | und | Schin cola (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,10 | +15.4% | und | Schin cola (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,20 | +4.8% | und | Schin cola (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,22 | +0.9% | und | Schin cola (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,25 | +1.4% | und | Schin cola (PET 1 L) | Port. 222/2017 |
@@ -23529,9 +23528,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,90 |  | und | Schin cola - 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,94 | +4.4% | und | Schin cola - 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,97 | +3.2% | und | Schin cola - 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,03 | +6.2% | und | Schin cola - 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,97 | +7.8% | und | Schin cola - 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,94 | -3.1% | und | Schin cola - 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,03 | +9.6% | und | Schin cola - 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,08 | +4.9% | und | Schin cola - 250 ml | Port. 142/2016 |
 | 2016-06-13 (pub.) | 2016-05-12 | alterar | 1,14 | +5.6% |  | Refrigerante Schin Cola 250 ml | Port. 168/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,14 | +0.0% | und | Schin cola - 250 ml | Port. 397/2016 |
@@ -23583,8 +23582,8 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,18 | +13.5% | und | Schin Sabores (lata 350 ml) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 1,23 | +4.2% | und | Schin Sabores (lata 350 ml) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 1,23 | +0.0% | und | Schin Sabores (lata 350 ml) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,28 | +4.1% | und | Schin Sabores (lata 350 ml) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,28 | +0.0% | und | Schin Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,28 | +4.1% | und | Schin Sabores (lata 350 ml) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,28 | +0.0% | und | Schin Sabores (lata 350 ml) | Port. 157/2015 |
 | 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,41 | +10.2% | und | Schin Sabores (lata 350 ml) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,48 | +5.0% | und | Schin Sabores (lata 350 ml) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,56 | +5.4% | und | Schin Sabores (lata 350 ml) | Port. 397/2016 |
@@ -23608,9 +23607,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 1,82 |  | und | Schin Sabores (PET 1 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,88 | +3.3% | und | Schin Sabores (PET 1 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +6.9% | und | Schin Sabores (PET 1 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 1,88 |  | und | Schin Sabores (PET 1 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 1,82 | -3.2% | und | Schin Sabores (PET 1 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,01 | +10.4% | und | Schin Sabores (PET 1 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,10 | +4.5% | und | Schin Sabores (PET 1 L) | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 2,14 | +1.9% | und | Schin Sabores (PET 1 L) | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 2,17 | +1.4% | und | Schin Sabores (PET 1 L) | Port. 222/2017 |
@@ -23655,9 +23654,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 0,89 |  | und | Schin sabores – 250 ml | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 0,93 | +4.5% | und | Schin sabores – 250 ml | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,97 | +4.3% | und | Schin sabores – 250 ml | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,02 | +5.2% | und | Schin sabores – 250 ml | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 0,97 | +9.0% | und | Schin sabores – 250 ml | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 0,93 | -4.1% | und | Schin sabores – 250 ml | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 1,02 | +9.7% | und | Schin sabores – 250 ml | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 1,07 | +4.9% | und | Schin sabores – 250 ml | Port. 142/2016 |
 | 2016-10-31 (pub.) | 2016-10-26 | alterar | 1,14 | +6.5% | und | Schin sabores - 250 ml | Port. 397/2016 |
 | 2017-05-05 (pub.) | 2017-04-28 | alterar | 1,16 | +1.8% | und | Schin sabores - 250 ml | Port. 222/2017 |
@@ -24060,9 +24059,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 2,01 | +17.5% | und | Wilson Açucar (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,15 | +7.0% | und | Wilson Açucar (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,24 | +4.2% | und | Wilson Açucar (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,50 | +11.6% | und | Wilson Açucar (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,83 | +13.2% | und | Wilson Açucar (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,96 | +4.6% | und | Wilson Açucar (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,83 | +26.3% | und | Wilson Açucar (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,50 | -11.7% | und | Wilson Açucar (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,96 | +18.4% | und | Wilson Açucar (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,10 | +4.7% | und | Wilson Açucar (2 L) | Port. 142/2016 |
 
 ### Wilson Açúcar (PET 2 L) (código 48824)
@@ -24099,9 +24098,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | 2012-09-25 (assin.) | 2012-09-25 | alterar | 1,90 | +17.3% | und | Wilson Baixa Caloria (2 L) | Port. 324/2012 |
 | 2013-04-04 (pub.) | 2013-03-27 | alterar | 2,00 | +5.3% | und | Wilson Baixa Caloria (2 L) | Port. 74/2013 |
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,07 | +3.5% | und | Wilson Baixa Caloria (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,40 | +15.9% | und | Wilson Baixa Caloria (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +12.9% | und | Wilson Baixa Caloria (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +4.4% | und | Wilson Baixa Caloria (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,71 | +30.9% | und | Wilson Baixa Caloria (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,40 | -11.4% | und | Wilson Baixa Caloria (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,83 | +17.9% | und | Wilson Baixa Caloria (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 2,96 | +4.6% | und | Wilson Baixa Caloria (2 L) | Port. 142/2016 |
 
 ### Wilson Baixa Caloria (PET 2 L) (código 48823)
@@ -24307,9 +24306,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,22 |  | und | Xereta Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,50 | +12.6% | und | Xereta Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,83 | +13.2% | und | Xereta Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,96 | +4.6% | und | Xereta Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,83 | +27.5% | und | Xereta Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,50 | -11.7% | und | Xereta Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 2,96 | +18.4% | und | Xereta Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,10 | +4.7% | und | Xereta Sabores (2 L) | Port. 142/2016 |
 
 ### Xereta Sabores (PET 2 L) (código 48441)
@@ -24418,9 +24417,9 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2013-09-30 (assin.) | 2013-09-30 | alterar | 2,50 |  | und | Zib Sabores (2 L) | Port. 300/2013 |
-| 2014-05-29 (pub.) | 2014-05-26 | alterar | 2,60 | +4.0% | und | Zib Sabores (2 L) | Port. 157/2014 |
-| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,94 | +13.1% | und | Zib Sabores (2 L) | Port. 176/2015 |
-| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,07 | +4.4% | und | Zib Sabores (2 L) | Port. 463/2015 |
+| 2015-03-23 (assin.) | 2015-03-23 | alterar | 2,94 | +17.6% | und | Zib Sabores (2 L) | Port. 176/2015 |
+| 2015-05-29 (pub.) | 2015-05-26 | alterar | 2,60 | -11.6% | und | Zib Sabores (2 L) | Port. 157/2015 |
+| 2015-10-02 (pub.) | 2015-09-30 | alterar | 3,07 | +18.1% | und | Zib Sabores (2 L) | Port. 463/2015 |
 | 2016-05-03 (pub.) | 2016-04-28 | alterar | 3,21 | +4.6% | und | Zib Sabores (2 L) | Port. 142/2016 |
 
 ### Zib sabores (PET 2 L) (código 48419)
@@ -24483,11 +24482,11 @@ Links para o texto de cada portaria usada acima.
 - Port. 300/2013: [Portaria nº 300/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c31025ba-02f1-432b-b5c6-effa0b190106), vigência 2013-09-30 (assin.)
 - Port. 355/2013: [Portaria nº 355/2013](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bab3b230-ceb7-4eb9-97ff-976e91629031), vigência 2013-11-22 (pub.)
 - Port. 77/2014: [Portaria nº 77/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=64f25695-54d2-43b8-bddb-8d69f47616d3), vigência 2014-03-07 (pub.)
-- Port. 157/2014: [Portaria nº 157/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2014-05-29 (pub.)
 - Port. 180/2014: [Portaria nº 180/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ea7a7425-f263-4349-973e-2539adeeb8d6), vigência 2014-06-23 (pub.)
 - Port. 236/2014: [Portaria nº 236/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca97cc93-4fb4-4663-9fe1-87d5059ee4a3), vigência 2014-09-03 (pub.)
 - Port. 275/2014: [Portaria nº 275/2014](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=76352367-dc07-49f8-a444-d661a4ab9335), vigência 2014-10-29 (pub.)
 - Port. 176/2015: [Portaria nº 176/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5cb442e4-bce1-4b23-a633-17e200165e14), vigência 2015-03-23 (assin.)
+- Port. 157/2015: [Portaria nº 157/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2bae4c9-9684-4416-a948-ce9cc7439f6b), vigência 2015-05-29 (pub.)
 - Port. 282/2015: [Portaria nº 282/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d472af2d-e502-4f8c-8cb7-4eb958c59f4e), vigência 2015-06-01 (pub.)
 - Port. 463/2015: [Portaria nº 463/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=72cba1e0-3573-42a0-9590-9f3ddfa036b6), vigência 2015-10-02 (pub.)
 - Port. 568/2015: [Portaria nº 568/2015](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb4b6c40-c038-4023-8de2-2fbda4fc3a3e), vigência 2015-12-03 (assin.)
@@ -24551,7 +24550,6 @@ Links para o texto de cada portaria usada acima.
 - Port. 483/2021: [Portaria nº 483/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=12759d65-0b11-4130-a634-854271d38849), vigência 2021-11-17 (pub.)
 - Port. 556/2021: [Portaria nº 556/2021](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1f8b4bd0-0c62-4946-8d05-4da27cb97d7f), vigência 2021-12-07 (assin.)
 - Port. 89/2022: [Portaria nº 89/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7ba7c765-1bff-4e18-b2a1-6d99ac540d36), vigência 2022-02-22 (pub.)
-- Port. 256/2022: [Portaria nº 256/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e8dc9f1e-e523-477f-aad6-cb6b6610a5df), vigência 2022-05-13 (pub.)
 - Port. 266/2022: [Portaria nº 266/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3bb32750-d99d-4014-9a5c-622228c9c189), vigência 2022-05-23 (pub.)
 - Port. 305/2022: [Portaria nº 305/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=20b2defe-4c5c-4a8c-b59b-d193bd03b39c), vigência 2022-06-15 (pub.)
 - Port. 347/2022: [Portaria nº 347/2022](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a072ebb8-9fe8-4485-8a4e-e00dd64ded33), vigência 2022-07-11 (pub.)
