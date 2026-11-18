@@ -1,3 +1,404 @@
+<<<DOC normas/decreto/decreto-13666-1994-17949.md>>>
+---
+documento: "DECRETO Nº 13.666 DE 03 DE JANEIRO DE 1994"
+tipo: decreto
+numero: 13666
+data: "1994-01-03"
+ementa: "Altera a redução do art. 1º do Decreto nº 12.884/92, que estabelece a antecipação de parcela do ICMS nas operações interestaduais de mercadorias que indica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=28ed8744-870d-4ea0-a792-efd875a89b20
+atualizado_na_fonte: "2026-10-16 17:52:02"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.666 DE 03 DE JANEIRO DE 1994
+
+_Altera a redução do art. 1º do Decreto nº 12.884/92, que estabelece a antecipação de parcela do ICMS nas operações interestaduais de mercadorias que indica._
+
+**Data:** 1994-01-03  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.666 DE 03 DE JANEIRO DE 1994.  V. Dec. 12.884/92
+
+Altera a redução do art. 1º do Decreto nº 12.884/92, que estabelece a antecipação de parcela do ICMS nas operações interestaduais de mercadorias que indica.
+
+O GOVERNO DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o art. 41 da Lei nº 4.914, de 29 de dezembro de 1988.
+
+
+D E C R E T A:
+
+Art. 1º - O Art. 1º do Decreto nº 12.884, de 21 de dezembro de 1992, observado as modificações pelos Decretos nº 12.964, de 17 de fevereiro de 1993, e 13.473, de 04 de novembro de 1993, passa a vigorar com a seguinte redação:
+
+"Art.1º........................................................... ...........................................
+
+I - peças e acessórios para veículos, inclusive pneus e câmaras, de bicicletas, e baterias;
+
+II - discos fonográficos e fitas virgens ou gravadas;
+
+III - bebidas alcóolicas, exceto cerveja e chope;
+IV - arroz pilado;
+V - confecções, inclusive cama, mesa e banho, e calçados;
+
+VI - ferragens;
+VII - madeira serrada ou beneficiada;
+VIII - material eletro-eletrônico;
+
+<!-- p. 2 -->
+IX - material de construção, exceto cimento;
+X - tintas e vernizes. ......................................................
+Art. 2º - Este Decreto entra em vigor na data de sua publicação.
+
+Art. 3º - Revogam -se as disposições em contrário.
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 03 DE JANEIRO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir
+<<<DOC normas/decreto/decreto-13702-1994-17952.md>>>
+---
+documento: "DECRETO Nº 13.702 DE 09 DE FEVEREIRO DE 1994"
+tipo: decreto
+numero: 13702
+data: "1994-02-09"
+ementa: "Consolida o regime especial de tributação do ICMS sobre operações internas com mercadorias adquiridas pela Administração Pública Estadual, direta e indireta, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6b16c914-99d3-46cd-8ccd-4b762e509d9a
+atualizado_na_fonte: "2026-10-16 17:51:30"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.702 DE 09 DE FEVEREIRO DE 1994
+
+_Consolida o regime especial de tributação do ICMS sobre operações internas com mercadorias adquiridas pela Administração Pública Estadual, direta e indireta, e dá outras providências._
+
+**Data:** 1994-02-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.702 DE 09 DE FEVEREIRO DE 1994.
+
+Consolida o regime especial de tributação do ICMS sobre operações internas com mercadorias adquiridas pela Administração Pública Estadual, direta e indireta, e dá outras providências.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista os arts. 39 da Lei nº 3.875, de 14/07/77, e 41 da Lei nº 4.914, de 07/12/88,
+
+
+D E C R E T A:
+Art. 1º. Fica consolidado o regime especial de tributação do ICMS incidente nas operações internas com mercadorias adquiridas pelos órgãos da Administração Pública Estadual direta e indireta, instituído pelo Decreto nº 12.732, de 28 de outubro de 1.992.
+
+Art. 2º. Na saída de mercadoria de estabelecimento de contribuinte do ICMS, localizado neste Estado, destinada a órgãos da Administração Pública Estadual, direta e indireta, será observado:
+
+I - quanto à emissão do documento fiscal:
+a) utilização de nota fiscal, modelo 1;
+b) como destinatário, o órgão governamental comprador da mercadoria;
+
+c) o valor do ICMS devido sobre a operação será também expresso por extenso;
+
+d) constar a expressão: "Regime Especial de Tributação - Decreto nº 12.732/92";
+
+II - quanto aos créditos fiscais oriundos das entradas das mercadorias vendidas para os órgãos governamentais, serão utilizados normalmente;
+
+<!-- p. 2 -->
+III - quanto aos débitos das operações realizadas, indistintamente, serão lançados regularmente, nos livros próprios;
+
+IV - quanto ao ICMS a ser pago na forma do artigo 3º, será escriturado na coluna "Outros Créditos" do livro Registro de Apuração do ICMS, com a expressão: "Regime Especial de Tributação - Decreto nº12.732", no próprio período de apuração.
+
+Parágrafo único. O valor do ICMS a que alude o inciso IV deverá ser escriturado no livro Registro de Saídas, coluna "Observações", sem prejuízo do lançamento nas colunas próprias.
+
+Art. 3º. O pagamento do ICMS, correspondente a 60% (sessenta por cento) do imposto destacado na respectiva nota fiscal, será efetuado simultaneamente com o das compras pela Administração Pública Estadual/Municipal, mediante documento de arrecadação específico.
+
+Parágrafo único. Para os efeitos deste artigo, o Secretário de Estado da Fazenda baixará ato normativo próprio, disciplinando a forma e critérios para recebimento do referido crédito tributário, sem prejuízo do Sistema de Arrecadação Estadual.
+
+Art. 4º. Ficam excluídos do regime especial de tributação aqui instituído:
+
+I - os pagamentos por compras governamentais decorrentes de adiantamentos para despesas miúdas de pronto pagamento, de valor igual ou inferior a 20 (vinte) Unidades Fiscais de Referência - UFR;
+
+II - as compras governamentais efetuadas fora do Estado, desde que a alíquota aplicada seja plena;
+
+III - as compras de mercadorias n_o tributadas ou tributadas pelo regime de substituição tributária;
+
+Parágrafo único. Na hipótese do inciso II, n_o atendida a condição, a complementação de alíquota deverá ser efetuada.
+
+Art. 5º. Nas compras realizadas pela Administração Pública Estadual, decorrente de
+
+<!-- p. 3 -->
+adiantamentos, exceto o disposto no inciso I, do artigo anterior, será observado:
+
+I - o contribuinte recolherá o correspondente a 60% (sessenta por cento) do ICMS devido na operação;
+
+II - o imposto será recolhido em documento de arrecadação - DAR 1, na rede bancária autorizada, antes do pagamento da compra;
+
+III - o DAR 1 será emitido em 04 (quatro) vias, com a seguinte destinação:
+
+1ª via - Contribuinte; 2ª via - Banco/CINF; 3ª via - Banco; 4ª via - Responsável pelo adiantamento.
+Parágrafo único - A 4ª (quarta) via servirá para a prestação de conta do responsável pelo adiantamento, que passará a integrá-la.
+
+Art. 6º -Será responsabilizado civil e criminalmente, os funcionários ordenadores de despesas que deixarem de cumprir, por ação ou omissão, o disposto neste Decreto.
+
+Art. 7º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de fevereiro de 1994.
+
+Art. 8º. Revogam-se as disposições em contrário.
+SÃO LUÍS, 09 DE FEVEREIRO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+
+Imprimir
+<<<DOC normas/decreto/decreto-13777-1994-17954.md>>>
+---
+documento: "DECRETO Nº 13.777 DE 25 DE MARÇO DE 1994"
+tipo: decreto
+numero: 13777
+data: "1994-03-25"
+ementa: "Concede redução da base de cálculo do ICMS das mercadorias que compõem a cesta básica maranhense."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e1b891a9-152d-40f2-8cf8-e7d0290189f6
+atualizado_na_fonte: "2026-10-16 17:51:04"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.777 DE 25 DE MARÇO DE 1994
+
+_Concede redução da base de cálculo do ICMS das mercadorias que compõem a cesta básica maranhense._
+
+**Data:** 1994-03-25 (data no portal: 1994-04-25 (divergente do PDF))  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.777 DE 25 DE MARÇO DE 1994.
+Alterado pelos Decretos. 14.074/94 14.282/94 14.383/94.
+
+Concede redução da base de cálculo do ICMS das mercadorias que compõem a cesta básica maranhense.
+
+O GOVERNO DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio ICMS 139/93, celebrado nos termos da Lei Complementar federal nº 24/75.
+
+D E C R E T A:
+
+Art. 1º - Fica reduzida, até 31 de dezembro de 1.994, a base de cálculo do ICMS, nas operações internas, com mercadorias que compõe a cesta básica maranhense, a seguir indicadas, de forma que a carga tributária seja de 12% (doze por cento):
+
+I - açúcar;
+II - arroz;
+III - café;
+IV - farinha de mandioca;
+V - farinha de trigo;
+VI - óleo comestível (soja e babaçu);
+§ 1º - A redução da base de cálculo será de 29,41% (vinte e nove inteiros e quarenta e um centésimos por cento).
+
+§ 2º - N_o será exigido estorno proporcional do crédito do imposto.
+
+<!-- p. 2 -->
+§ 3º - A concessão do benefício se subordina a que o valor correspondente ao imposto reduzido seja abatido no preço do produto.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 25 DE MARÇO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-13798-1994-17955.md>>>
+---
+documento: "DECRETO Nº 13.798 DE 04 DE ABRIL DE 1994"
+tipo: decreto
+numero: 13798
+data: "1994-04-04"
+ementa: "Dispõe sobre a n_o exigência do ICMS incidente sobre a diferença originada da conversão da URV em Cruzeiro Real."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0a571cd6-bc3a-4386-ba47-7011aac491f6
+atualizado_na_fonte: "2026-10-16 17:50:53"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.798 DE 04 DE ABRIL DE 1994
+
+_Dispõe sobre a n_o exigência do ICMS incidente sobre a diferença originada da conversão da URV em Cruzeiro Real._
+
+**Data:** 1994-04-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.798 DE 04 DE ABRIL DE 1994.
+
+Dispõe sobre a n_o exigência do ICMS incidente sobre a diferença originada da conversão da URV em Cruzeiro Real.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o Art. 64, III, da Constituição do Estado, e fundamentado na cláusula primeira do Convênio ICMS 01/94, de 18 de março de 1994, celebrado nos termos da Lei Complementar Federal nº 24, de 07 de janeiro de 1975,
+
+D E C R E T A:
+Art. 1º - Fica excluída da base de cálculo do ICMS, nas operações e prestações contratadas em Unidade Real de Valor - URV, a diferença decorrente da variação monetária apurada entre o valor expresso em Cruzeiros Reais no documento fiscal e o obtido da conversão da URV em Cruzeiro Real na data do pagamento do preço estipulado.
+
+§ 1º. A base de cálculo tributável de que trata este artigo, em cada operação, não poderá ser inferior:
+
+a) ao preço máximo ou único de venda fixado pelo fabricante ou por autoridade competente, se houver esse preço;
+
+b) ao valor da venda a vista da mercadoria na operação mais recente, na hipótese de não existir o preço a que se refere a alínea anterior:
+
+c) ao valor da aquisição mais recente, acrescido do percentual de margem de lucro correspondente a 20% (vinte por cento), na hipótese de inaplicabilidade das alíneas anteriores.
+
+§ 2º. No documento fiscal relativo à operação ou à prestação, sem prejuízo dos demais requisitos previstos na
+
+<!-- p. 2 -->
+legislação, deverá ser indicado o número de URV correspondente ao valor expresso em Cruzeiros Reais nesse mesmo documento.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data de 22 de março de 1994.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, DE DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-13807-1994-17957.md>>>
+---
+documento: "DECRETO Nº 13.807 DE 20 DE ABRIL DE 1994"
+tipo: decreto
+numero: 13807
+data: "1994-04-20"
+ementa: "Concede isenção do ICMS às operações com automóveis de passageiros para utilização como táxi, nas condições que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d0f76851-ec57-423b-b37b-2483ca4af9ba
+atualizado_na_fonte: "2026-10-16 17:50:36"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.807 DE 20 DE ABRIL DE 1994
+
+_Concede isenção do ICMS às operações com automóveis de passageiros para utilização como táxi, nas condições que especifica._
+
+**Data:** 1994-04-20  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.807 DE 20 DE ABRIL DE 1994 (DOE de 26.04.94)
+
+Concede isenção do ICMS às operações com automóveis de passageiros para utilização como táxi, nas condições que especifica.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado e fundamentado no Convênio ICMS 24/94, de 29 de março de 1994, celebrado nos moldes da Lei Complementar federal nº 24, de 07 de janeiro de 1975,
+
+D E C R E T A :
+
+Art. 1º. Ficam isentas do ICMS as saídas da respectiva indústria e do estabelecimento concessionário de automóveis de passageiros, com motor até 127 HP de potência bruta (SAE), quando destinados a motoristas profissionais, desde que, cumulativa e comprovadamente, a critério da Secretaria de Estado da Fazenda:
+
+I - o adquirente:
+a) exercesse, em 29 de março de 1994, a atividade de condutor autônomo de passageiros, na categoria de aluguel (táxi), em veículo de sua propriedade;
+
+b) utilize o veículo na atividade de condutor autônomo de passageiros, na categoria de aluguel (táxi);
+
+c) não tenha adquirido, nos últimos três anos, veículo com isenção de ICMS;
+
+II - o benefício correspondente seja transferido para o adquirente do veículo, mediante redução no seu preço;
+
+<!-- p. 2 -->
+III - o veículo seja novo e esteja beneficiado com a isenção do Imposto sobre Produtos Industrializados - IPI, nos termos da Lei federal nº 8.843, de 10 de janeiro de 1994.
+
+Parágrafo único - Ressalvados os casos excepcionais em que ocorra destruição completa do veículo ou seu desaparecimento, o benefício previsto neste artigo somente poderá ser utilizado uma única vez.
+
+<!-- p. 3 -->
+Art. 2º. Não se exigirá estorno do crédito do imposto relativo às entradas das mercadorias para utilização como matéria-prima, material secundário ou de embalagem, na fabricação dos veículos de que trata este Decreto, bem como dos serviços relacionados com aquelas mercadorias.
+
+Art. 3º. O imposto incidirá, normalmente, sobre quaisquer acessórios opcionais que não sejam equipamentos originais do veículo adquirido.
+
+Art. 4º. A alienação do veículo, adquirido com a isenção, a pessoas que não satisfaçam os requisitos e as condições estabelecidas no artigo primeiro sujeitará o alienante ao pagamento do tributo dispensado, monetariamente corrigido.
+
+Art. 5º. Na hipótese de fraude, considerando-se como tal, também, a não observância do disposto no inciso I do artigo primeiro, o tributo, corrigido monetariamente, será integralmente exigido com multa e juros moratórios previstos na legislação própria.
+
+Art. 6º. Para aquisição de veículo com o benefício previsto neste Decreto, deverá, ainda, o interessado:
+
+I - obter declaração, em três vias, probatória de que exerce atividade de condutor autônomo de passageiros e já a exercia na data de 29 de março de 1994, na categoria de automóvel de aluguel (táxi);
+
+II - entregar as três vias da declaração ao concessionário autorizado, juntamente com o pedido do veículo.
+
+Parágrafo único. A declaração de que trata este artigo será fornecida pelo chefe da Exatoria ou do Posto de Fiscalização e Arrecadação do domicílio tributário do concessionário autorizado.
+
+"Parágrafo único. A declaração de que trata este artigo será fornecida pelo chefe da Exatoria ou do Posto de Fiscalização e Arrecadação do domicílio tributário do adquirente."
+
+* Redação dada pelo Dec. nº 14.028, de 04.08.94.
+
+<!-- p. 4 -->
+Art. 7º. As concessionárias autorizadas, além do cumprimento das demais obrigações previstas na legislação, deverão:
+
+I - mencionar, na nota fiscal emitida para entrega do veículo ao adquirente, que a operação é beneficiada com a isenção do ICMS, nos termos deste Decreto, e que, nos primeiros três anos, o veículo n_o poderá ser alienado sem autorização do Fisco;
+
+II - encaminhar, mensalmente, à Secretaria de Estado da Fazenda, juntamente com a primeira via da declaração referida no artigo anterior, informações relativas a:
+
+a) domicílio do adquirente e seu número de inscrição no Cadastro de Pessoas Físicas do Ministério da Fazenda - CPF;
+
+b) número, série e data da nota fiscal emitida e os identificadores do veículo vendido;
+
+III - conservar, em seu poder, a segunda via da declaração e, encaminhar a terceira, ao Departamento Estadual de Trânsito para que se proceda à matrícula do veículo nos prazos estabelecidos na legislação respectiva.
+
+Art. 8º. Os estabelecimentos fabricantes ficam autorizados a promover as saídas dos veículos com o benefício previsto neste Decreto, mediante encomenda dos revendedores autorizados, desde que, em 120 (cento e vinte) dias, contados da data daquela saída, possam demonstrar, perante o Fisco, o cumprimento do disposto no inciso II do artigo anterior, por parte daqueles revendedores.
+
+Art. 9º.
+Os estabelecimentos fabricantes deverão:
+
+I - quando da saída de veículos amparada pelo benefício instituído neste Decreto, especificar o valor a ele correspondente;
+
+II - até o último dia de cada mês, elaborar relação das notas fiscais emitidas no mês anterior, nas condições do artigo precedente, indicando a quantidade de veículos e respectivos destinatários revendedores, separadamente por unidade da Federação;
+
+<!-- p. 5 -->
+III - anotar na relação referida no inciso anterior, no prazo de 120 (cento e vinte ) dias, as informações recebidas dos revendedores, mencionando:
+
+a) nome e domicílio do adquirente final do veículo;
+
+b) seu número de inscrição no Cadastro de Pessoas Físicas do Ministério da Fazenda - CPF;
+
+c) número, série e data da nota fiscal emitida pelo revendedor;
+
+IV - conservar à disposição dos Fiscos das unidades federadas, pelo prazo previsto em suas legislações para a guarda de documentos, os elementos referidos nos incisos anteriores.
+
+§ 1º. Quando o faturamento for efetuado diretamente pelo fabricante, deverá este cumprir, no que couber, as obrigações cometidas aos revendedores.
+
+§ 2º. A obrigação aludida no inciso III poderá ser suprida por relação elaborada no prazo ali previsto e contendo os elementos nele indicados, separadamente por unidade da Federação.
+
+§ 3º. Poderá o fisco arrecadar as relações referidas neste artigo e os elementos que lhe servirem de suporte, para as verificações que se fizerem necessárias.
+
+<!-- p. 6 -->
+Art. 10. O benefício previsto neste Decreto vigorará a partir da data da ratificação nacional do Convênio ICMS 24/94 até:
+
+I - 30 de novembro de 1994, para as saídas efetuadas pelos estabelecimentos industriais;
+
+II - 31 de dezembro de 1994, para as saídas efetuadas pelos estabelecimentos revendedores dos veículos recebidos ao abrigo da isenção de que trata o inciso anterior.
+
+Art. 11. O Secretário de Estado da Fazenda poderá baixar normas complementares necessárias à execução deste Decreto.
+
+Art. 12. Este Decreto entra em vigor na data de sua publicação, revogados as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, DE ABRIL DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
 <<<DOC normas/decreto/decreto-13809-1994-17958.md>>>
 ---
 documento: "DECRETO Nº 13.809 DE 25 DE ABRIL DE 1994"
@@ -8,7 +409,7 @@ ementa: "Dispõe sobre a redução da base de cálculo do ICMS nas operações d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=486fc382-003e-46bc-acb0-655d1e314edc
 atualizado_na_fonte: "2026-10-16 17:50:26"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -42,6 +443,210 @@ Art. 3º - Este Decreto entra em vigor na data de sua publicação, revogadas as
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 25 DE ABRIL DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
 
 Imprimir página
+<<<DOC normas/decreto/decreto-13825-1994-17959.md>>>
+---
+documento: "DECRETO Nº 13.825 DE 28 DE ABRIL DE 1994"
+tipo: decreto
+numero: 13825
+data: "1994-04-28"
+ementa: "Concede redução da base de cálculo do ICMS na prestação de serviços públicos de telecomunicações internacionais."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cc0bb1e1-cf2b-40b4-9089-d29f0f889914
+atualizado_na_fonte: "2026-10-16 17:50:14"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.825 DE 28 DE ABRIL DE 1994
+
+_Concede redução da base de cálculo do ICMS na prestação de serviços públicos de telecomunicações internacionais._
+
+**Data:** 1994-04-28  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.825 DE 28 DE ABRIL DE 1994
+
+Concede redução da base de cálculo do ICMS na prestação de serviços públicos de telecomunicações internacionais.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio ICMS 27/94,
+
+
+D E C R E T A:
+
+
+Art. 1º. Fica reduzida em 48% (quarenta e oito por cento) a base de cálculo do ICMS na prestação de serviços públicos de telecomunicações internacionais, de forma que corresponda a uma carga tributária efetiva de 13% (treze por cento).
+
+
+Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 28 DE ABRIL DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-13839-1994-17960.md>>>
+---
+documento: "DECRETO Nº 13.839 DE 06 DE MAIO DE 1994"
+tipo: decreto
+numero: 13839
+data: "1994-05-06"
+ementa: "Faculta aos Estabelecimentos produtores e comerciais a antecipação do ICMS nas exportações."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a116dfee-3886-4699-8887-3b83a819ef6b
+atualizado_na_fonte: "2026-10-16 17:49:53"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "REVOGADA"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.839 DE 06 DE MAIO DE 1994
+
+_Faculta aos Estabelecimentos produtores e comerciais a antecipação do ICMS nas exportações._
+
+**Data:** 1994-05-06  
+**Remete a:** nada (norma autônoma)  
+**Situação:** REVOGADA
+
+> REVOGADA pela decreto 13865/1994 (normas/decreto/decreto-13865-1994-17962.md): "Este Decreto entra em vigor na data de sua publicação, revogados as disposições em contrário e especialmente o Decreto nº 13.839, de 06 de maio de 1994."
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.839 DE 06 DE MAIO DE 1994
+
+Faculta aos Estabelecimentos produtores e comerciais a antecipação do ICMS nas exportações.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o § 3º do art. 2º do Convênio 66/88,
+
+
+
+D E C R E T A:
+
+
+
+Art. 1º. Quando o estabelecimento produtor e comercial, exportador, devidamente inscrito no Cadastro de Contribuinte do ICMS - CAD/ICMS, que tenha como objetivo social a exportação de soja através do corredor de exportação do Estado do Maranhão, optar em antecipar o pagamento do ICMS para data anterior à da ocorrência do fato gerador, em razão do fechamento antecipado do contrato de câmbio, a conversão em moeda nacional no valor da exportação, para esse efeito, far-se-á pela taxa cambial vigente na data do efeito pagamento, ficando dispensado do imposto sobre a variação cambial, desta data, até a ocorrência do fato gerador.
+
+
+Art. 2º. Este Decreto em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 06 DE MAIO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+<!-- p. 2 -->
+Imprimir página
+<<<DOC normas/decreto/decreto-13865-1994-17962.md>>>
+---
+documento: "DECRETO Nº 13.865 DE 18 DE MAIO DE 1994"
+tipo: decreto
+numero: 13865
+data: "1994-05-18"
+ementa: "Faculta aos estabelecimentos produtores e comerciais que tenham como objetivo social a exportação de soja através do corredor de exportação do Estado do Maranhão, a antecipação do ICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f5b4f510-134a-43e3-bc4e-a31c9b8db549
+atualizado_na_fonte: "2026-10-16 17:49:28"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.865 DE 18 DE MAIO DE 1994
+
+_Faculta aos estabelecimentos produtores e comerciais que tenham como objetivo social a exportação de soja através do corredor de exportação do Estado do Maranhão, a antecipação do ICMS._
+
+**Data:** 1994-05-18  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.865 DE 18 DE MAIO DE 1994.
+
+(DOE DE 24.05.94)
+
+Faculta aos estabelecimentos produtores e comerciais que tenham como objetivo social a exportação de soja através do corredor de exportação do Estado do Maranhão, a antecipação do ICMS.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o § 3º do art. 2º do Convênio 66/88,
+
+
+D E C R E T A:
+
+Art. 1º. Quando o estabelecimento produtor e comercial, exportador, devidamente inscrito no Cadastro de Contribuinte do ICMS, que tenha como objetivo social a exportação de soja pelo corredor do exportação do Estado do Maranhão, optar em antecipar o pagamento do ICMS para data anterior à da ocorrência do fato gerador, em razão do fechamento antecipado do contrato de câmbio, a conversão em moeda nacional no valor da exportação, para esse efeito, far-se-á pela taxa cambial vigente a data do contrato de antecipação de câmbio, observado o prazo de pagamento previsto no Decreto nº 12.381/92. Ficando dispensado do imposto sobre a variação cambial, desta data, até a ocorrência do fato gerador.
+
+Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogados as disposições em contrário e especialmente o Decreto nº 13.839, de 06 de maio de 1994.
+
+<!-- p. 2 -->
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-13898-1994-17963.md>>>
+---
+documento: "DECRETO Nº 13.898 DE 09 DE JUNHO DE 1994"
+tipo: decreto
+numero: 13898
+data: "1994-06-09"
+ementa: "Prorroga, até 30 de junho de 1994, a redução da base de cálculo do ICMS nas saídas dos insumos agropecuários que especifica e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6580de42-7325-4e42-be74-2afd2ab9ae54
+atualizado_na_fonte: "2026-10-16 17:49:19"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.898 DE 09 DE JUNHO DE 1994
+
+_Prorroga, até 30 de junho de 1994, a redução da base de cálculo do ICMS nas saídas dos insumos agropecuários que especifica e dá outras providências._
+
+**Data:** 1994-06-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.898 DE 09 DE JUNHO DE 1994.
+
+(DOE DE 15.06.94)
+
+
+
+Prorroga, até 30 de junho de 1994, a redução da base de cálculo do ICMS nas saídas dos insumos agropecuários que especifica e dá outras providências.
+
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o Art. 64, III, da Constituição do Estado, e tendo em vista os Convênios ICMS 36/92 e 124/93, celebrados e ratificados nos termos da Lei Complementar federal nº 24/75.
+
+
+
+D E C R E T A :
+
+
+
+Art. 1º. Ficam prorrogadas, até 30 de junho de 1994, as disposições do Decreto nº 12.389, de 08 de maio de 1992, que dispõe sobre o tratamento tributário do ICMS nas operações com insumos agropecuários que especifica.
+
+
+Art. 2º. Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data, de 1º de janeiro de 1994, revogadas as disposições em contrário.
+
+<!-- p. 2 -->
+PALÁCIO DO GOVERNO DO MARANHÃO, EM SÃO LUÍS, 09 DE JUNHO DE 1994, 173º. DA INDEPENDÊNCIA E 1060. DA REPÚBLICA.
+
+Imprimir página
 <<<DOC normas/decreto/decreto-13899-1994-17964.md>>>
 ---
 documento: "DECRETO Nº 13.899 DE 09 DE JUNHO DE 1994"
@@ -52,7 +657,7 @@ ementa: "Dispõe sobre a vedação de autorização de uso de Máquina Registrad
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5ccd1da7-650e-461f-b46a-09c3dd425e52
 atualizado_na_fonte: "2026-10-16 17:49:11"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -93,6 +698,64 @@ Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS 09 DE JUNHO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
 
 Imprimir página
+<<<DOC normas/decreto/decreto-13900-1994-17965.md>>>
+---
+documento: "DECRETO Nº 13.900 DE 09 DE JUNHO DE 1994"
+tipo: decreto
+numero: 13900
+data: "1994-06-09"
+ementa: "Dispõe sobre o prazo de pagamento do ICMS, pelos contribuintes sujeitos ao regime de antecipação de parcela do imposto, nas operações interestaduais com peças, partes e acessórios para veículos, inclusive pneus e câmaras, de bicicletas, e baterias, previsto no Decreto nº 12.884, de 21 de dezembro de 1992."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=555dfcb9-48a3-4b29-9b8b-83e3165fa98c
+atualizado_na_fonte: "2026-10-16 17:48:41"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.900 DE 09 DE JUNHO DE 1994
+
+_Dispõe sobre o prazo de pagamento do ICMS, pelos contribuintes sujeitos ao regime de antecipação de parcela do imposto, nas operações interestaduais com peças, partes e acessórios para veículos, inclusive pneus e câmaras, de bicicletas, e baterias, previsto no Decreto nº 12.884, de 21 de dezembro de 1992._
+
+**Data:** 1994-06-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.900 E 09 DE JUNHO DE 1994
+
+Dispõe sobre o prazo de pagamento do ICMS, pelos contribuintes sujeitos ao regime de antecipação de parcela do imposto, nas operações interestaduais com peças, partes e acessórios para veículos, inclusive pneus e câmaras, de bicicletas, e baterias, previsto no Decreto nº 12.884, de 21 de dezembro de 1992.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição Estadual,
+
+
+D E C R E T A:
+
+Art.1º. O pagamento do ICMS pelos contribuintes sujeitos ao regime de apuração mensal e ao de antecipação de parcela do imposto, nas operações interestaduais, com peças, partes e acessórios para veículos, inclusive pneus e câmaras, de bicicletas, e baterias, previsto no Decreto nº 12.884, de 21 de dezembro de 1992, far-se-á nos seguintes prazos:
+
+I - até o dia 9 (nove) do mês seguinte ao da apuração, da parcela correspondente à diferença entre a alíquota interestadual aplicada na unidade federada de origem e a interna deste Estado; e,
+
+II - até o dia 20 (vinte) do mês seguinte ao da apuração, do imposto oriundo do regime normal.
+
+§ 1º - O disposto neste artigo só se aplica aos contribuintes devidamente credenciados junto à Superintendência de Administração Tributária da Secretaria de Estado da Fazenda.
+
+§ 2º - O valor do ICMS pago nos prazos previstos neste artigo será corrigido monetariamente, a partir do primeiro dia útil após o período de apuração, pelo seu valor nominal, ou transformado em UFRD para recolhimento sem
+
+<!-- p. 2 -->
+qualquer penalidade, mediante conversão, até a data respectiva prevista no "caput".
+
+Art. 2º. Na execução deste Decreto observar-seão, no que couber, as disposições dos Decretos nºs 12.884, de 21 de dezembro de 1992, e 13.826, de 28 de abril de 1994.
+
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, produzindo seus efeitos sobre os fatos geradores ocorridos a partir de 1º de junho de 1994.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, DE 09 DE JUNHO DE 1994 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
 <<<DOC normas/decreto/decreto-13943-1994-17966.md>>>
 ---
 documento: "DECRETO Nº 13.943 DE 23 DE JUNHO DE 1994"
@@ -103,7 +766,7 @@ ementa: "Introduz modificações no art. 281 do Regulamento do ICMS, aprovado pe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=33eb04f1-83ca-4e75-ba70-c29419fb1bff
 atualizado_na_fonte: "2026-10-16 17:48:20"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -142,6 +805,61 @@ Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogadas as 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 23 DE JUNHO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
 
 Imprimir página
+<<<DOC normas/decreto/decreto-13944-1994-17967.md>>>
+---
+documento: "DECRETO Nº 13.944 DE 23 DE JUNHO DE 1994"
+tipo: decreto
+numero: 13944
+data: "1994-06-23"
+ementa: "Prorroga prazos de benefícios fiscais."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=751a64e9-acc3-4e93-a192-82115956fe52
+atualizado_na_fonte: "2026-10-16 17:47:32"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.944 DE 23 DE JUNHO DE 1994
+
+_Prorroga prazos de benefícios fiscais._
+
+**Data:** 1994-06-23  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.944 de 23 de junho de 1994 DOE 30.06.94
+
+Prorroga prazos de benefícios fiscais.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição Estadual, e fundamentado no Convênio ICMS 148/92,
+
+D E C R E T A:
+
+Art.1º. Ficam prorrogados, até 31 de dezembro de 1995, os seguintes prazos:
+
+I - da isenção do ICMS nas operações internas com pescado, exceto crustáceo, molusco, adoque, bacalhau, merluza, pirarucu, salmão e r_, excluídos (Convênios ICMS 60/91 e 148/92):
+
+a) a operação que destine pescado à industrialização;
+
+b) ao pescado enlatado ou cozido.
+II - da redução em 40% (quarenta por cento), da base de cálculo do ICMS, nas operações interestaduais com pescado, exceto, crustáceo, molusco, adoque, bacalhau, merluza, pirarucu, salmão e rã, excluídos (Convênios ICMS 60/91 e 148/92):
+
+a) a operação que destine pescado à industrialização;
+
+b) ao pescado enlatado ou cozido.
+Art.2º. Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a partir de 1º de janeiro de 1993.
+
+<!-- p. 2 -->
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 23 DE JUNHO DE 1994 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
 <<<DOC normas/decreto/decreto-13945-1994-17968.md>>>
 ---
 documento: "DECRETO Nº 13.945 DE 23 DE JUNHO DE 1994"
@@ -152,7 +870,7 @@ ementa: "Dá nova redação ao art. 1º do Decreto nº 12.999, de 30 de março d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=eba6d894-206f-4855-9de8-439e372bdcd7
 atualizado_na_fonte: "2026-10-16 17:47:21"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -196,6 +914,488 @@ Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogadas as 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS 23 DE JUNHO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
 
 Imprimir página
+<<<DOC normas/decreto/decreto-13967-1994-17970.md>>>
+---
+documento: "DECRETO Nº 13.967 DE 06 DE JULHO DE 1994"
+tipo: decreto
+numero: 13967
+data: "1994-07-06"
+ementa: "Estabelece período mensal de apuração do ICMS às atividades econômicas que indica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=42bc642e-cb77-4297-9464-38546f85f1e6
+atualizado_na_fonte: "2026-10-16 17:46:45"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 13.967 DE 06 DE JULHO DE 1994
+
+_Estabelece período mensal de apuração do ICMS às atividades econômicas que indica._
+
+**Data:** 1994-07-06  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 13.967 DE 06 DE JULHO DE 1994
+
+Estabelece período mensal de apuração do ICMS às atividades econômicas que indica.
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado e fundamentado no parágrafo único da Cláusula segunda do Convênio ICMS 01/94, de 18 de março de 1994,
+
+
+D E C R E T A :
+
+Art. 1º. O parágrafo único do Art. 1º do Decreto nº 13.826, de 28 de abril de 1994, passa a vigorar com a seguinte redação:
+
+"Parágrafo único. O disposto neste artigo n_o se aplica aos contribuintes inscritos no Cadastro de Contribuintes do ICMS - CAD/ICMS cuja atividade econômica envolva operações relativas à circulação de mercadorias ou prestações de serviço de comunicação".
+
+Art. 2º. Fica revogado o Art. 3º do Decreto nº 13.826, de 28 de abril de 1994.
+
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, produzindo seus efeitos sobre os fatos geradores ocorridos a partir de 1º de junho de 1994.
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS 06 DE JULHO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-14027-1994-17972.md>>>
+---
+documento: "DECRETO Nº 14.027 DE 04 DE AGOSTO DE 1994"
+tipo: decreto
+numero: 14027
+data: "1994-08-04"
+ementa: "Dispõe sobre a faculdade da adoção de regime especial de prazo de pagamento do ICMS à ECT e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=12a03f22-9e94-47c8-ad61-53ecc08e0872
+atualizado_na_fonte: "2026-10-16 17:45:31"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.027 DE 04 DE AGOSTO DE 1994
+
+_Dispõe sobre a faculdade da adoção de regime especial de prazo de pagamento do ICMS à ECT e dá outras providências._
+
+**Data:** 1994-08-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.027 DE 04 DE AGOSTO DE 1994 (DOE de 09.08.94)
+
+Dispõe sobre a faculdade da adoção de regime especial de prazo de pagamento do ICMS à ECT e dá outras providências.
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição Estadual,
+
+
+D E C R E T A:
+
+Art. 1º. A Empresa Brasileira de Correios e Telégrafos - ECT/Diretoria Regional do Maranhão poderá adotar o regime especial de pagamento do ICMS incidente na prestação de Serviço de Comunicação, previsto no artigo seguinte.
+
+Art. 2º. O recolhimento do ICMS será efetuado no primeiro dia útil do mês subsequente ao da ocorrência dos fatos geradores, em percentual n_o inferior a 90% (noventa por cento) do valor do imposto devido no mês anterior ao da ocorrência dos fatos geradores, e a sua complementação até o dia 16 (dezesseis) do mês subsequente ao da prestação dos serviços.
+
+Parágrafo único. Na hipótese do primeiro recolhimento representar um valor superior ao saldo devedor apurado, o excedente poderá ser lançado como crédito fiscal no mesmo mês do pagamento.
+
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 04 DE AGOSTO DE 1994 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-14029-1994-17974.md>>>
+---
+documento: "DECRETO Nº 14.029 DE 04 DE AGOSTO DE 1994"
+tipo: decreto
+numero: 14029
+data: "1994-08-04"
+ementa: "Altera dispositivos do Decreto 12.389, de 08 de maio de 1992 e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=303e7360-106e-4cd3-97e5-1462369764c1
+atualizado_na_fonte: "2026-10-16 17:45:05"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.029 DE 04 DE AGOSTO DE 1994
+
+_Altera dispositivos do Decreto 12.389, de 08 de maio de 1992 e dá outras providências._
+
+**Data:** 1994-08-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.029 DE 04 DE AGOSTO DE 1994. (DOE de 09.08.94)
+
+
+Altera dispositivos do Decreto 12.389, de 08 de maio de 1992 e dá outras providências.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o Art. 64, III, da Constituição do Estado, e tendo em vista os Convênios ICMS 36/92, 124/93, 29/94 e 68/94, celebrados e ratificados nos termos da Lei Complementar federal nº 24/75.
+
+
+D E C R E T A :
+
+Art. 1º. Os dispositivos adiantes enumerados, do Decreto nº 12.389, de 08 de maio de 1992, e suas alterações, passam a vigorar com a seguinte redação:
+
+I - O art. 1º: "Art. 1º. ........................................ ................................................................
+
+I - inseticidas, fungicidas, formicidas, herbicidas, parasiticidas, germicidas, acaricidas, nematicidas, raticidas, desfolhantes, dessecantes, espalhantes, adesivos, estimuladores e inibidores de crescimento (reguladores), vacinas, soros e medicamentos produzidos para uso na agricultura e na pecuária, vedada a sua aplicação quando dada ao produto destinação diversa (Convênio ICMS 29/94);
+
+..................................................................
+VI - sorgo, sal mineralizado, farinhas de peixe, de ostra, de carne, de osso, de pena, de sangue e de víscera, calcário calcítico, farelos e tortas de algodão, de
+
+<!-- p. 2 -->
+babaçu, de cacau, de amendoim, de linhaça, de mamona, de milho e de trigo, farelos de arroz, de glútem de milho, de casca e de semente de uva, glútem de milho e resíduos industriais, destinados à alimentação animal ou ao emprego na fabricação de ração animal; (Convênio ICMS 29/94)
+
+................................................................."
+II - O "caput" do art. 2º: "Art. 2º - Fica reduzida em 25% (vinte e cinco por cento) a base de cálculo do ICMS nas saídas interestaduais de milho, farelos e tortas de soja e de canola, DL Metionina e seus análogos, amônia, uréia, sulfato de amônio, nitrato de amônio, nitrocálcio, MAP (Mono-amônio fosfato), DAP (di-amônio fosfato), cloreto de potássio, adubos simples e compostos fertilizantes. (Convênio ICMS 29/94)";
+
+III - O art. 8º: "Art. 8º - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a 27 de abril de 1992, relativo aos arts. 1º a 3º e produzindo efeitos de 1º de maio a 31 de dezembro de 1.994."
+
+Art. 2º. Este Decreto entra em vigor na data de sua publicação.
+
+Art. 3º. Revogam-se as disposições em contrário.
+PALÁCIO DO GOVERNO DO MARANHÃO, EM SÃO LUÍS, 04 DE AGOSTO DE 1994, 173º. DA INDEPENDÊNCIA E 106º. DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-14030-1994-17975.md>>>
+---
+documento: "DECRETO Nº 14.030 DE 04 DE AGOSTO DE 1994"
+tipo: decreto
+numero: 14030
+data: "1994-08-04"
+ementa: "Introduz modificações no Decreto nº 13.148/93, que consolida e altera as normas regulamentares do Regime de Estimativa Fiscal do ICMS aplicável à pequena e microempresa."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a4dcb726-14b7-4482-bbed-e411461933ee
+atualizado_na_fonte: "2026-10-16 17:43:21"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.030 DE 04 DE AGOSTO DE 1994
+
+_Introduz modificações no Decreto nº 13.148/93, que consolida e altera as normas regulamentares do Regime de Estimativa Fiscal do ICMS aplicável à pequena e microempresa._
+
+**Data:** 1994-08-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.030 DE 04 DE AGOSTO DE 1994
+
+Introduz modificações no Decreto nº 13.148/93, que consolida e altera as normas regulamentares do Regime de Estimativa Fiscal do ICMS aplicável à pequena e microempresa.
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista os arts. 21 e 41 da Lei nº 4.914, de 29 de dezembro de 1988,
+
+D E C R E T A :
+
+Art. 1º. Os dispositivos adiante enumerados, do Decreto nº 13.148, de 09 de julho de 1993, passam a vigorar com a seguinte redação:
+I - o § 1º. do Art. 1º: "§ 1º. Excluem-se do regime, as empresas com mais de um estabelecimento e as seguintes atividades econômicas:
+8.01.00 - Carnes, Peixes, Aves e Derivados;
+8.05.00 - Produtos Químicos, Farmacêuticos, Veterinários e Odontológicos; 8.09.00 - Lojas de Departamentos e Artigos Domésticos; 8.10.00 - Equipamentos para Escritórios e Comunicação;
+8.11.00 - Máquinas e Equipamentos Diversos;
+8.12.00 - Veículos;
+
+<!-- p. 2 -->
+8.13.00 - Peças e Acessórios para Veículos;
+8.14.00 - Ferragens e Materiais Elétricos;
+8.15.00 - Materiais para Construção;
+8.16.00 - Livrarias, Papelarias e Jornais;
+8.17.00 - Combustíveis e Lubrificantes;
+8.19.00 - Padarias e Confeitarias;
+
+<!-- p. 3 -->
+8.20.01 - Cigarrarias;
+8.21.01 - água;
+8.22.01 - Energia Elétrica;
+8.99.00 - Outras Atividades."
+II - o § 2º do Art. 1º : "§ 2º. Entende-se por receita bruta todas as receitas auferidas pelo estabelecimento decorrentes de atividades do campo de incidência do ICMS."
+III - o "caput" do Art. 3º : "Art. 3º. Tratando-se de estabelecimento em início de atividade, nos três ( 3 ) primeiros meses o imposto será apurado e pago pelo Regime Normal e a partir do quarto mês o valor do ICMS mensal estimado corresponderá à aplicação da alíquota de 17 % (dezessete por cento) sobre o seguinte percentual da receita das vendas mensais:
+I -
+50 % ( cincoenta por cento ); aos estabelecimentos enquadrados nos CAE:
+8.04.00 - Cafés, Bares e Restaurantes;
+8.96.00 - Boutiques e Artigos para Presente;
+8.97.00 - Boites;
+II - 30 % (trinta por cento), aos estabelecimentos enquadrados nos CAE:
+8.06.00 - Tecidos, Roupas, Confecções e Artefatos de Tecidos;
+8.07.00 - Calçados;
+8.08.00 - Armarinhos, Miudezas e Artigos e Geral;
+8.18.00 - óticas, Jóias e Materiais Fotográficos;
+8.95.00 - Discos, Instrumentos Musicais, Aparelhos para Reprodução de Som;
+
+<!-- p. 4 -->
+III - 20 % (vinte por cento), aos estabelecimentos enquadrados no CAE:
+8.02.00 - Gêneros Alimentícios;
+
+8.03.00 - Mercadinhos e Supermercados".
+
+<!-- p. 5 -->
+Art. 2º. Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a partir de 1º de julho de 1994.
+Art. 3º. Revogam-se as disposições em contrário.
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 04 DE AGOSTO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-14074-1994-17976.md>>>
+---
+documento: "DECRETO Nº 14.074 DE 17 DE AGOSTO DE 1994"
+tipo: decreto
+numero: 14074
+data: "1994-08-17"
+ementa: "Inclui mercadorias na relação de produtos que compõe a cesta básica maranhense."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f3b984af-d7c9-42bc-8ac9-512281c9e5bb
+atualizado_na_fonte: "2026-10-16 17:43:10"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.074 DE 17 DE AGOSTO DE 1994
+
+_Inclui mercadorias na relação de produtos que compõe a cesta básica maranhense._
+
+**Data:** 1994-08-17  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.074 DE 17 DE AGOSTO DE 1994
+
+Inclui mercadorias na relação de produtos que compõe a cesta básica maranhense.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio ICMS 139/93, celebrado nos termos da Lei Complementar Federal nº 24/75,
+
+
+D E C R E T A :
+
+Art. 1º. Ficam incluídas na relação de produtos que compõe a cesta básica maranhense, instituída pelo Decreto nº 13.777, de 25 de maio de 1994, as seguintes mercadorias: biscoitos, farinha de milho, macarrão, óleo comestível, sal e margarina.
+
+Art. 2º. Aplicam-se a este Decreto, as disposições do Decreto nº 13.777, de 25 de março de 1994, exceto quanto ao prazo de vigência do benefício previsto no art. 1º daquele Decreto.
+
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, produzindo seus efeitos até 30 de setembro de 1994.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 17 DE AGOSTO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+<!-- p. 2 -->
+Imprimir página
+<<<DOC normas/decreto/decreto-14158-1994-17977.md>>>
+---
+documento: "DECRETO Nº 14.158 DE 21 DE SETEMBRO DE 1994"
+tipo: decreto
+numero: 14158
+data: "1994-09-21"
+ementa: "Dispõe sobre o diferimento parcial do ICMS nas saídas internas de sabão em barra, nas condições que indica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9e62113f-fff0-45d1-8fdd-adf40664d243
+atualizado_na_fonte: "2026-10-16 17:42:54"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.158 DE 21 DE SETEMBRO DE 1994
+
+_Dispõe sobre o diferimento parcial do ICMS nas saídas internas de sabão em barra, nas condições que indica._
+
+**Data:** 1994-09-21  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Publicada em duplicidade no portal (ids 17993); mantida uma cópia.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.358 DE 09 DE DEZEMBRO DE 1994 (DOE 15.12.94)
+
+Isenta do ICMS as saídas de veículos para portadores de deficiência física.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista os Convênios ICMS 43/94 e 83/94, celebrados e ratificados nos termos da Lei Complementar federal nº 24/75,
+
+
+DECRETA
+
+Art. 1º Ficam isentas do ICMS as saídas de veículo automotor que se destinar a uso exclusivo do adquirente, paraplégico ou portador de deficiência física, impossibilitado de utilizar o modelo comum.
+
+§ 1º A isenção de que trata este artigo será previamente reconhecida pelo Fisco, mediante requerimento do adquirente, instruído de:
+
+I - declaração expedida pelo vendedor, da qual conste:
+
+a) o número de inscrição do interessado no Cadastro de Pessoas Físicas do Ministério da Fazenda - CPF;
+
+b) que o benefício será repassado ao adquirente;
+
+c) que o veículo destina-se a uso do adquirente, paraplégico ou deficiente físico, impossibilitado de fazer uso de modelo comum;
+
+II - laudo de perícia médica, fornecido pelo Departamento Estadual de Trânsito - DETRAN, que
+
+<!-- p. 2 -->
+ateste a completa incapacidade do adquirente para dirigir automóveis comuns e sua habilitação para fazê-lo em veículos especialmente adaptados, bem como especifique o tipo de defeito físico e as adaptações necessárias.
+
+§ 2º - O adquirente do veículo deverá recolher o imposto com atualização monetária e acréscimos legais, a contar da aquisição, na hipótese de:
+
+I - transmiti-lo, a qualquer título, dentro do prazo de 03 (três) anos da data da aquisição, à pessoa que n_o faça jus ao mesmo tratamento fiscal;
+
+II - modificação das características do veículo, para retirar-lhe o caráter de especial;
+
+III - emprego do veículo em finalidade que n_o seja a que justificou a isenção.
+
+§ 3º - O estabelecimento que efetuar a operação isenta, nos termos deste artigo deverá:
+
+I - acrescentar ao documento fiscal o número de inscrição do adquirente no Cadastro de Pessoas Físicas do Ministério da Fazenda - CPF;
+
+II - entregar à repartição fiscal a que estiver vinculado, até o 15º dia útil, contado da data da operação, cópia reprográfica de 1ª via do respectivo documento fiscal.
+
+§ 4º Ressalvados os casos excepcionais em que ocorra a destruição completa do veículo ou seu desaparecimento, o benefício previsto neste artigo somente poderá ser utilizado uma única vez.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 31 de dezembro de 1994.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE DEZEMBRO DE 1994 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+
+<!-- p. 3 -->
+<<<DOC normas/decreto/decreto-14159-1994-17978.md>>>
+---
+documento: "DECRETO Nº 14.159 DE 21 DE SETEMBRO DE 1994"
+tipo: decreto
+numero: 14159
+data: "1994-09-21"
+ementa: "Altera dispositivos do Decreto nº 13.567, de 30 de novembro de 1993 e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bf0a5580-0e26-478c-abd4-eaba1c1ffd22
+atualizado_na_fonte: "2026-10-16 17:42:43"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.159 DE 21 DE SETEMBRO DE 1994
+
+_Altera dispositivos do Decreto nº 13.567, de 30 de novembro de 1993 e dá outras providências._
+
+**Data:** 1994-09-21  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.159 DE 21 DE SETEMBRO DE 1994.
+
+Altera dispositivos do Decreto nº 13.567, de 30 de novembro de 1993 e dá outras providências.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o Art. 64, III, da Constituição do Estado, e tendo em vista os Convênios ICMS 60/93, 02/94 e 33/94, celebrados e ratificados nos termos da Lei Complementar Federal nº 24/75.
+
+
+D E C R E T A
+
+Art. 1º. Fica acrescentado ao artigo 1º do Decreto 13.567, de 30 de novembro 1.993, o § 1º, com a redação que se segue, passando o seu atual parágrafo único a denominar-se § 2º:
+
+"§ 1º - O disposto neste artigo se estende, sob as mesmas condições, exceto no tocante à exigência de integração no ativo fixo:
+
+I - à importação efetuada pela empresa industrial de máquina ou equipamento decorrente de arrendamento mercantil celebrado com empresa industrial, para utilização na sua produção;
+
+II - à importação daqueles bens efetuada por empresa arrendante, decorrente de contrato de arrendamento mercantil celebrado com empresa industrial, para utilização na sua produção."
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de abril de 1.994, até 31 de dezembro de 1.994.
+
+Art. 3º - Revogam-se as disposições em contrário.
+
+<!-- p. 2 -->
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 21 DE SETEMBRO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+
+Imprimir página
+<<<DOC normas/decreto/decreto-14223-1994-17981.md>>>
+---
+documento: "DECRETO Nº 14.223 DE 13 DE OUTUBRO DE 1994"
+tipo: decreto
+numero: 14223
+data: "1994-10-13"
+ementa: "Dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=90dff797-09a4-4891-89da-d88fa13a8500
+atualizado_na_fonte: "2026-10-16 17:41:28"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "REVOGADA"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.223 DE 13 DE OUTUBRO DE 1994
+
+_Dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador._
+
+**Data:** 1994-10-13  
+**Remete a:** nada (norma autônoma)  
+**Situação:** REVOGADA
+
+> REVOGADA pela decreto 14553/1995 (normas/decreto/decreto-14553-1995-18016.md): "Revoga o Decreto nº 14.223, de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador."
+> REVOGADA pela decreto 14553/1995 (normas/decreto/decreto-14553-1995-18016.md): "1º Fica revogado o Decreto nº 14.223, de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador."
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.223 DE 13 DE OUTUBRO DE 1994 (DOE de 18.10.94)
+
+Dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador.
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o Art. 64, III, da Constituição do Estado, e tendo em vista o Convênio ICMS 03/94, celebrado nos termos da Lei Complementar nº 24/75,
+
+D E C R E T A
+
+Art. 1º - Na operação de importação de mercadoria ou bem, quando destinados a unidade federada diversa do domicílio do importador, o ICMS caberá ao Estado da destinação física do produto.
+Art. 2º - O imposto será recolhido pelo importador em favor da unidade federada para a qual tenha sido destinada a correspondente importação, através de documento de arrecadação próprio do sujeito ativo ou da Guia Nacional de Recolhimento de Tributos Estaduais - GNR.
+Art. 3º - Para acobertamento da operação serão emitidas pelo importador:
+I - Nota Fiscal de Entrada, sem destaque do ICMS, constando, além dos requisitos exigidos pela legislação pertinente, em seu corpo, a indicação de que o imposto foi recolhido ao Estado destinatário do produto;
+II - Nota Fiscal série "C" ou "única" para remessa simbólica ou real do produto ao destinatário, sem destaque do imposto, constando, além dos requisitos normativos próprios, as seguintes observações:
+
+<!-- p. 2 -->
+a) produto destinado a unidade federada diversa do importador, seguido dos números e datas das DI e da nota fiscal de entrada a que se refere o inciso anterior;
+b) recolhimento efetuado ao Estado destinatário; e
+c) a indicação do local de onde deverão sair fisicamente os produtos.
+
+<!-- p. 3 -->
+§ 1º - Deverá ser anexa às vias das Notas Fiscais, a que se referem os incisos anteriores, cópia do comprovante de recolhimento do imposto.
+§ 2º - A Nota Fiscal referida no inciso II será escriturada normalmente, pelo destinatário do produto, no seu livro Registro de Entradas de Mercadorias, com o aproveitamento do crédito fiscal correspondente, quando couber.
+Art. 4º As disposições deste Decreto n_o se aplicam a mercadorias importadas por contribuintes domiciliados nos Estados do Acre, Alagoas, Paraíba, Piauí, Rio de Janeiro e Rio Grande do Norte. * Redação dada pelo Decreto nº . / .
+Art. 5º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1994.
+Art. 6º - Revogam-se as disposições em contrário.
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 13 DE OUTUBRO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
 <<<DOC normas/decreto/decreto-14224-1994-17982.md>>>
 ---
 documento: "DECRETO Nº 14.224 DE 13 DE OUTUBRO DE 1994"
@@ -206,7 +1406,7 @@ ementa: "Dispõe sobre a redução da base de cálculo do ICMS nas operações d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce0e235c-a817-4573-81e2-99e686fae948
 atualizado_na_fonte: "2026-10-16 17:41:19"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -253,6 +1453,114 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 14 DE OUTUBRO DE 1994
 Imprimir página
 
 <!-- p. 3 -->
+<<<DOC normas/decreto/decreto-14253-1994-17983.md>>>
+---
+documento: "DECRETO Nº 14.253 DE 26 DE OUTUBRO DE 1994"
+tipo: decreto
+numero: 14253
+data: "1994-10-26"
+ementa: "Dispensa o pagamento de multa e juros relativos ao ICMS de empresa que indica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=141121b2-9dff-4e3d-83f6-eede3abb9061
+atualizado_na_fonte: "2026-10-16 17:40:53"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.253 DE 26 DE OUTUBRO DE 1994
+
+_Dispensa o pagamento de multa e juros relativos ao ICMS de empresa que indica._
+
+**Data:** 1994-10-26  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.253 DE 26 DE OUTUBRO DE 1994.
+D.O.E. DE 03.11.94
+
+Dispensa o pagamento de multa e juros relativos ao ICMS de empresa que indica.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o Art. 64, III, da Constituição do Estado, e tendo em vista o Convênio ICMS 107/94, celebrado e ratificado nos termos da Lei Complementar federal nº 24/75.
+
+
+D E C R E T A
+
+Art. 1º - Fica dispensada do pagamento de multa e juros relativos ao ICMS oriundo dos fatos geradores ocorridos até 31 de dezembro de 1993, a empresa da CEBRAS - Produtos de Exportação de Carvões Especiais Ltda, inscrita no CAD/ICMS sob o nº 12.105.731- 3.
+
+Parágrafo único. A dispensa condiciona-se ao efetivo pagamento do principal.
+
+Art. 2º - O benefício previsto neste Decreto n_o autoriza a restituição ou compensação de importâncias já pagas.
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 26 DE OUTUBRO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+
+Imprimir página
+
+<!-- p. 2 -->
+<<<DOC normas/decreto/decreto-14254-1994-17984.md>>>
+---
+documento: "DECRETO Nº 14.254 DE 26 DE OUTUBRO DE 1994"
+tipo: decreto
+numero: 14254
+data: "1994-10-26"
+ementa: "Estabelece regime especial de ofício para efeito de controle de abate de gado bovino em frigoríficos, por meio de contadores mecânicos ou eletrônicos."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dc05a751-5f5d-463e-8b57-d9ff84647b80
+atualizado_na_fonte: "2026-10-16 17:40:43"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.254 DE 26 DE OUTUBRO DE 1994
+
+_Estabelece regime especial de ofício para efeito de controle de abate de gado bovino em frigoríficos, por meio de contadores mecânicos ou eletrônicos._
+
+**Data:** 1994-10-26  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.254 DE 26 DE OUTUBRO DE 1994 (DOE DE 03.11.94)
+
+Estabelece regime especial de ofício para efeito de controle de abate de gado bovino em frigoríficos, por meio de contadores mecânicos ou eletrônicos.
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o Artigo 64, inciso III, da Constituição Estadual,
+
+D E C R E T A :
+
+Art. 1º.
+A critério da Superintendência de Administração Tributária, o controle do abate de gado bovino em frigoríficos, matadouros e estabelecimentos similares poderá ser feito mediante a instalação de aparelho contador mecânico, ou eletrônico, fornecido pela Secretaria de Estado da Fazenda.
+§ 1º. Serão instalados em cada estabelecimento, em locais adequados à sua finalidade, tantos aparelhos quanto o fisco entender necessário.
+§ 2º. No ato da instalação, os aparelhos serão lacrados pelo fisco, a fim da assegurar a sua inviolabilidade, vedado o deslacramento, por pessoa n_o credenciada.
+§ 3º. Periodicamente, o fisco efetuará intervenção no aparelho para leitura, controle e arquivo das informações registradas.
+
+<!-- p. 2 -->
+§ 4º.
+Os estabelecimentos cujos aparelhos apresentarem evidência de violação, poderão ter fixada, mediante arbitramento, a base de cálculo do ICMS devido.
+Art. 2º.
+Serão previamente notificados os contribuintes em cujos estabelecimentos a Superintendência de Administração Tributária entender necessária a instalação dos referidos aparelhos.
+Parágrafo único.
+As despesas de aquisição e instalação do aparelho contador correrão exclusivamente por conta da Secretaria de Estado da Fazenda, ficando o contribuinte responsável apenas pela guarda e conservação dos mesmos.
+Art. 3º. O contribuinte ao verificar dano ou defeito no aparelho, bem como rompimento do lacre de que trata o § 2º do Artigo 1º, deverá comunicar o fato à Diretoria Regional da Fazenda de sua jurisdição, no mesmo dia em que observar a ocorrência.
+Art. 4º. Por ocasião da instalação do aparelho da leitura do totalizador, bem como da constatação das ocorrências de que trata o artigo anterior, serão lavrados termos circunstanciados no livro fiscal próprio.
+Art. 5º. Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 26 DE OUTUBRO DE 1994, 173º DA INDEPENDÊNCIA e 106º DA REPÚBLICA.
+
+Imprimir página
 <<<DOC normas/decreto/decreto-14279-1994-17985.md>>>
 ---
 documento: "DECRETO Nº 14.279 DE 09 DE NOVEMBRO DE 1994"
@@ -263,7 +1571,7 @@ ementa: "Dispõe sobre a substituição tributária nas operações com produtos
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96443e09-a244-4a29-a141-ecbc8e38ab7c
 atualizado_na_fonte: "2026-10-16 17:40:24"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -461,7 +1769,7 @@ ementa: "Dispõe, excepcionalmente, sobre o parcelamento de créditos tributári
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03fe470f-a4e8-4f52-a81e-bfa0908ca8bd
 atualizado_na_fonte: "2026-10-16 17:40:13"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -509,6 +1817,54 @@ Art.4º. Este Decreto entra em vigor na data de sua publicação.
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE NOVEMBRO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPUBLICA.
 
 Imprimir página
+<<<DOC normas/decreto/decreto-14283-1994-17989.md>>>
+---
+documento: "DECRETO Nº 14.283 DE 09 DE NOVEMBRO DE 1994"
+tipo: decreto
+numero: 14283
+data: "1994-11-09"
+ementa: "Altera o Decreto nº 14.223 de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5f611287-515d-4d2c-8c29-73c880bdb642
+atualizado_na_fonte: "2026-10-16 17:39:41"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.283 DE 09 DE NOVEMBRO DE 1994
+
+_Altera o Decreto nº 14.223 de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador e dá outras providências._
+
+**Data:** 1994-11-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.283 DE 09 DE NOVEMBRO DE 1994
+
+Altera o Decreto nº 14.223 de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador e dá outras providências.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio ICMS 129/94, celebrado e ratificado nos termos da Lei Complementar federal nº 24/75,
+
+DECRETA
+
+Art. 1º O artigo 4º, renumerando-se os atuais 4º e 5º para 5º e 6º, respectivamente, do Decreto nº 14.223, de 13 de outubro de 1994, passa a vigorar com a seguinte redação:
+
+"Art. 4º As disposições deste Decreto n_o se aplicam a mercadorias importadas por contribuintes domiciliados nos Estados do Acre, Alagoas, Paraíba, Piauí, Rio de Janeiro e Rio Grande do Norte."
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE NOVEMBRO DE 1994 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+
+<!-- p. 2 -->
 <<<DOC normas/decreto/decreto-14293-1994-17991.md>>>
 ---
 documento: "DECRETO Nº 14.293 DE 21 DE NOVEMBRO DE 1994"
@@ -519,7 +1875,7 @@ ementa: "Exclui da lista de produtos semi-elaborados, constantes do Anexo 1 ao R
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=66bd22fd-e09e-4ce2-ab44-606736664212
 atualizado_na_fonte: "2026-10-16 17:39:09"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -572,7 +1928,7 @@ ementa: "Dispõe sobre regime de substituição tributária nas operações com 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=30930f06-6cdc-4d72-83dc-37349fc05a79
 atualizado_na_fonte: "2026-10-16 17:38:49"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -754,6 +2110,319 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE DEZEMBRO DE 199
 Imprimir página
 
 <!-- p. 11 -->
+<<<DOC normas/decreto/decreto-14359-1994-17994.md>>>
+---
+documento: "DECRETO Nº 14.359 DE 09 DE DEZEMBRO DE 1994"
+tipo: decreto
+numero: 14359
+data: "1994-12-09"
+ementa: "Concede isenção do ICMS às saídas de veículos para locomoção de deficientes físicos e de próteses."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ff44e1b8-a748-456c-9a1a-3ba906b8446c
+atualizado_na_fonte: "2026-10-16 17:34:59"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.359 DE 09 DE DEZEMBRO DE 1994
+
+_Concede isenção do ICMS às saídas de veículos para locomoção de deficientes físicos e de próteses._
+
+**Data:** 1994-12-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.359 DE 09 DE DEZEMBRO DE 1994 (DOE 15.12.94)
+
+Concede isenção do ICMS às saídas de veículos para locomoção de deficientes físicos e de próteses.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio ICMS 98/94, celebrado e ratificado nos termos da Lei Complementar federal nº 24/75,
+
+
+DECRETA
+
+Art. 1º Ficam isentas do ICMS as saídas dos produtos a seguir indicados, classificados pela Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH:
+
+I - cadeira de rodas e outros veículos para deficientes físicos, classificados na posição 8713;
+II - prótese femural e outras próteses articulares, classificadas na subposição 9021.11;
+III - braços, antebraços, mãos, pernas e articulações artificiais para quadris ou joelhos, classificados no código
+9021.30.9900.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 31 de dezembro de 1995.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE DEZEMBRO DE 1994 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+<!-- p. 2 -->
+Imprimir página
+<<<DOC normas/decreto/decreto-14382-1994-17995.md>>>
+---
+documento: "DECRETO Nº 14.382 DE 29 DE DEZEMBRO DE 1994"
+tipo: decreto
+numero: 14382
+data: "1994-12-29"
+ementa: "Indroduz modificações no Art. 4º do Decreto nº 14.279/94, que dispõe sobre a substituição tributária nas operações com produtos farmacêuticos."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f754a715-7878-4294-90f5-3e1245af10d0
+atualizado_na_fonte: "2026-10-16 17:34:38"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.382 DE 29 DE DEZEMBRO DE 1994
+
+_Indroduz modificações no Art. 4º do Decreto nº 14.279/94, que dispõe sobre a substituição tributária nas operações com produtos farmacêuticos._
+
+**Data:** 1994-12-29  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.382 DE 29 DE DEZEMBRO DE 1994  (DOE 29.12.94)
+
+Indroduz modificações no Art. 4º do Decreto nº 14.279/94, que dispõe sobre a substituição tributária nas operações com produtos farmacêuticos.
+O GOVERNADOR DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado e fundamentado no Convênio ICMS 76/94, celebrado e ratificado nos termos da Lei Complementar federal nº 24/75,
+
+DECRETA
+
+Art. 1º O Art. 4º do Decreto nº 14.279, de 09 de novembro de 1.994, passa a vigorar com a seguinte redação:
+
+"Art. 4º A base de cálculo do imposto, para fins de substituição tributária, é o valor da operação, incluídos os valores do imposto sobre produtos industrializados, do frete e/ou carreto e das demais despesas cobradas ou debitadas ao destinatário, adicionada a parcela resultante da aplicação, sobre o referido montante, dos seguintes percentuais:
+
+I - 60,07% (sessenta inteiros e sete centésimos por cento), nas operações originárias das Regiões Sul e Sudeste, exceto o Estado do Espírito Santo;
+
+II - 51,46% (cinqüenta e um inteiros e quarenta e seis centésimos por cento), nas operações originárias das Regiões Norte, Nordeste e Centro-Oeste e do Estado do Espírito Santo;
+
+III - 42,85% (quarenta e dois inteiros e oitenta e cinco centésimos por cento), nas operações internas.
+
+§ 1º - Nas operações de importação, a base de cálculo é o valor da importação, adicionados os impostos de importação, sobre produtos industrializados, sobre operações de câmbio, frete, seguro e demais despesas aduaneiras debitadas ao adquirente, acrescido do
+
+<!-- p. 2 -->
+percentual de 42,85% (quarenta e dois inteiros e oitenta e cinco centésimos por cento).
+
+§ 2º - Na impossibilidade da inclusão do valor do frete na composição da base de cálculo, o recolhimento do imposto correspondente será efetuado pelo estabelecimento destinatário, acrescido do percentual respectivo, aplicado sobre o valor total do serviço constante do Conhecimento de Transporte.
+
+§ 3º - Na hipótese do parágrafo anterior, o imposto devido será calculado e lançado no campo 002 "Outros Débitos" do livro Registro de Apuração do ICMS do respectivo período de apuração.
+
+§ 4º - Nas aquisições não destinadas à comercialização, a base de cálculo é o valor da operação correspondente ao custo de aquisição pelo destinatário."
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 29 DE DEZEMBRO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-14383-1994-17996.md>>>
+---
+documento: "DECRETO Nº 14.383 DE 29 DE DEZEMBRO DE 1994"
+tipo: decreto
+numero: 14383
+data: "1994-12-29"
+ementa: "Dispõe sobre a redução da base de cálculo do ICMS, nas operações internas, das mercadorias que compõem a cesta básica maranhense."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ba4ad922-80e6-402e-88dd-a02b3fd13413
+atualizado_na_fonte: "2026-10-16 17:33:39"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.383 DE 29 DE DEZEMBRO DE 1994
+
+_Dispõe sobre a redução da base de cálculo do ICMS, nas operações internas, das mercadorias que compõem a cesta básica maranhense._
+
+**Data:** 1994-12-29  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.383 DE 29 DE DEZEMBRO DE 1994.  DOE 29.12.94  V. DEC. 13.777/94, 14.074/94 E 14.282/94.
+
+Dispõe sobre a redução da base de cálculo do ICMS, nas operações internas, das mercadorias que compõem a cesta básica maranhense.
+O GOVERNO DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio ICMS 128/94, celebrado nos termos da Lei Complementar federal nº 24/75,
+
+D E C R E T A:
+
+Art. 1º Fica reduzida, até 30 de junho de 1.995, a base de cálculo do ICMS, nas operações internas, com as mercadorias que compõem a cesta básica maranhense, a seguir indicadas, de forma que a carga tributária seja de 12% (doze por cento):
+I - açúcar;
+II - arroz;
+III - biscoito;
+IV - café;
+V - farinha de mandioca;
+VI - farinha de milho;
+VII - farinha de trigo;
+VIII - macarrão;
+IX - margarina;
+X - óleo comestível;
+XI - sal.
+
+<!-- p. 2 -->
+§ 1º - A redução da base de cálculo será de 29,41% (vinte e nove inteiros e quarenta e um centésimos por cento).
+§ 2º - N_o será exigido estorno proporcional do crédito do imposto.
+§ 3º - A concessão do benefício se subordina a que o valor correspondente ao imposto reduzido seja abatido no preço do produto.
+Art. 2º Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 29 DE DEZEMBRO DE 1994, 173º DA INDEPENDÊNCIA E 106º DA REPÚBLICA.
+
+Imprimir página
+<<<DOC normas/decreto/decreto-14385-1995-17998.md>>>
+---
+documento: "DECRETO Nº 14.385 DE 02 DE JANEIRO DE 1995"
+tipo: decreto
+numero: 14385
+data: "1995-01-02"
+ementa: "Altera dispositivos do Decreto nº 14.357, de 09 de dezembro de 1994, que dispõe sobre substituição tributária nas operações com tintas, vernizes e outras mercadorias da indústria química."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b0966b62-efb7-481a-96e4-77cb8c05345b
+atualizado_na_fonte: "2026-10-16 17:32:57"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.385 DE 02 DE JANEIRO DE 1995
+
+_Altera dispositivos do Decreto nº 14.357, de 09 de dezembro de 1994, que dispõe sobre substituição tributária nas operações com tintas, vernizes e outras mercadorias da indústria química._
+
+**Data:** 1995-01-02  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.385 DE 02 DE JANEIRO DE 1995
+
+Altera dispositivos do Decreto nº 14.357, de 09 de dezembro de 1994, que dispõe sobre substituição tributária nas operações com tintas, vernizes e outras mercadorias da indústria química.
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o Art. 64, III, da Constituição do Estado, e tendo em vista os Convênios ICMS 81/93, 74/94, 99/94 e 153/94 celebrados e ratificados nos termos da Lei Complementar federal nº 24/75,
+
+D E C R E T A :
+
+Art. 1º Passam a vigorar com a seguinte redação os dispositivos adiante indicados do Decreto nº 14.357, de 09 de dezembro de 1994.
+I - o artigo 20: "Art. 20 Este Decreto entra em vigor na data da publicação, produzindo efeitos a partir de 1º de maio de 1995";
+II - o item IX do Anexo: "IX - xadrez e pós assemelhados 2821.10, 3204.17.0000, 3206".
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 02 DE JANEIRO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPUBLICA.
+
+Imprimir
+<<<DOC normas/decreto/decreto-14405-1995-18000.md>>>
+---
+documento: "DECRETO Nº 14.405 DE 03 DE JANEIRO DE 1995"
+tipo: decreto
+numero: 14405
+data: "1995-01-03"
+ementa: "Altera dispositivos do Decreto nº 13.807, de 20 de abril de 1.994, que concede isenção do ICMS às operações com automóveis de passageiros para utilização como táxi, nas condições que especifica e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=489baf14-08c7-4a93-8282-fe28586b2581
+atualizado_na_fonte: "2026-10-16 17:32:43"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.405 DE 03 DE JANEIRO DE 1995
+
+_Altera dispositivos do Decreto nº 13.807, de 20 de abril de 1.994, que concede isenção do ICMS às operações com automóveis de passageiros para utilização como táxi, nas condições que especifica e dá outras providências._
+
+**Data:** 1995-01-03  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.405 DE 03 DE JANEIRO DE 1995
+
+DOE (06.01.95)
+
+Altera dispositivos do Decreto nº 13.807, de 20 de abril de 1.994, que concede isenção do ICMS às operações com automóveis de passageiros para utilização como táxi, nas condições que especifica e dá outras providências.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado e com fundamento no Convênios ICMS 24/94 e 139/94, celebrados nos moldes da Lei Complementar federal nº 24, de 07 de janeiro de 1975,
+
+D E C R E T A :
+
+Art. 1º. Passa a vigorar com a seguinte redação o art. 10 do Decreto nº 13.807, de 20 de abril de 1994:
+
+"Art. 10 O benefício previsto neste Decreto vigorará a partir da data da publicação da ratificação nacional do Convênio 139/94 até:
+
+I - 30 de março de 1995, para as saídas efetuadas pelos estabelecimentos industriais;
+
+II - 30 de abril de 1995, para as saídas efetuadas pelos estabelecimentos revendedores dos veículos recebidos ao abrigo da isenção de que trata o inciso anterior."
+
+Art. 2º Este Decreto entra em vigor na data da sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 03 DE JANEIRO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
+
+<!-- p. 2 -->
+<<<DOC normas/decreto/decreto-14406-1995-18001.md>>>
+---
+documento: "DECRETO Nº 14.406 DE 03 DE JANEIRO DE 1995"
+tipo: decreto
+numero: 14406
+data: "1995-01-03"
+ementa: "Prorroga, até 30 de junho de 1995, a vigência do Decreto nº 12.389, de 08 de maio de 1992, que dispõe sobre o tratamento tributário do ICMS nas operações interestaduais, internas e de importação do exterior dos insumos agropecuários que especifica e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f20d5684-dc1d-4d94-9424-db1ce33e7551
+atualizado_na_fonte: "2026-10-16 17:32:36"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.406 DE 03 DE JANEIRO DE 1995
+
+_Prorroga, até 30 de junho de 1995, a vigência do Decreto nº 12.389, de 08 de maio de 1992, que dispõe sobre o tratamento tributário do ICMS nas operações interestaduais, internas e de importação do exterior dos insumos agropecuários que especifica e dá outras providências._
+
+**Data:** 1995-01-03  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.406 DE 03 DE JANEIRO DE 1995.
+
+(DOE 06.01.95)
+
+Prorroga, até 30 de junho de 1995, a vigência do Decreto nº 12.389, de 08 de maio de 1992, que dispõe sobre o tratamento tributário do ICMS nas operações interestaduais, internas e de importação do exterior dos insumos agropecuários que especifica e dá outras providências.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o Art. 64, III, da Constituição do Estado, e tendo em vista os Convênios ICMS 36/92 e 151/94, celebrados e ratificados nos termos da Lei Complementar federal nº 24/75.
+
+
+D E C R E T A :
+
+Art. 1º Ficam prorrogadas, até 30 de junho de 1995, as disposições do Decreto nº 12.389, de 08 de maio de 1992, que dispõe sobre o tratamento tributário do ICMS nas operações com insumos agropecuários que especifica.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos à data, de 1º de janeiro de 1.995, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO MARANHÃO, EM SÃO LUÍS, 03 DE JANEIRO DE 1995, 174º. DA INDEPENDÊNCIA E 107º. DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14413-1995-18002.md>>>
 ---
 documento: "DECRETO Nº 14.413 DE 23 DE JANEIRO DE 1995"
@@ -764,7 +2433,7 @@ ementa: "Introduz modificação no art. 40 do Regulamento do ICMS, aprovado pelo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fc327ec6-9df2-4aea-b645-4b6660d8e09c
 atualizado_na_fonte: "2026-10-16 17:32:22"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -809,6 +2478,51 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação, produzindo efe
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 23 DE JANEIRO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-14414-1995-18003.md>>>
+---
+documento: "DECRETO Nº 14.414 DE 23 DE JANEIRO DE 1995"
+tipo: decreto
+numero: 14414
+data: "1995-01-23"
+ementa: "Altera dispositivos do Decreto nº 13.423/93, que concede isenção do ICMS, relativamente ao diferencial de alíquota, para máquinas e implementos agrícolas e bens destinados ao ativo fixo."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=31dfb1a4-b9aa-45c6-a96b-edbe2057103b
+atualizado_na_fonte: "2026-10-16 17:32:10"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.414 DE 23 DE JANEIRO DE 1995
+
+_Altera dispositivos do Decreto nº 13.423/93, que concede isenção do ICMS, relativamente ao diferencial de alíquota, para máquinas e implementos agrícolas e bens destinados ao ativo fixo._
+
+**Data:** 1995-01-23  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.414 DE 23 DE JANEIRO DE 1995
+
+Altera dispositivos do Decreto nº 13.423/93, que concede isenção do ICMS, relativamente ao diferencial de alíquota, para máquinas e implementos agrícolas e bens destinados ao ativo fixo.
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e fundamentado nos Convênios ICMS 55/93 e 151/94, celebrados nos moldes da Lei Complementar federal nº 24, de 07 de janeiro de 1975,
+
+D E C R E T A
+
+Art. 1º O parágrafo único do Decreto nº 13.423, de 22 de outubro de 1993, passa a vigorar com a seguinte redação:
+
+"Parágrafo único. O disposto neste artigo terá eficácia até 30 de junho de 1995."
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1995.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 23 DE JANEIRO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14436-1995-18005.md>>>
 ---
 documento: "DECRETO Nº 14.436 DE 07 DE FEVEREIRO DE 1995"
@@ -819,7 +2533,7 @@ ementa: "Altera o art. 3º do Decreto nº 14.224, de 13 de outubro de 1994, que 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=012270d4-cd85-4c3b-b921-f19b68a8e9af
 atualizado_na_fonte: "2026-10-16 17:31:38"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -859,7 +2573,7 @@ ementa: "Dispõe sobre o diferimento do ICMS incidente sobre energia elétrica, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dae5b2c3-fa8b-4e9e-a37d-edbeb5a4dd27
 atualizado_na_fonte: "2026-10-16 17:31:25"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -888,6 +2602,58 @@ Art. 4º Revogam-se as disposições em contrário.
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 02 DE MARÇO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-14484-1995-18007.md>>>
+---
+documento: "DECRETO Nº 14.484 DE 21 DE MARÇO DE 1995"
+tipo: decreto
+numero: 14484
+data: "1995-03-21"
+ementa: "Concede isenção do ICMS na importação de máquinas e equipamentos, sem similar nacional, destinados ao ativo fixo do importador e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0cc184ef-9394-45bd-9fd6-d94dda5e88d8
+atualizado_na_fonte: "2026-10-16 17:30:58"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.484 DE 21 DE MARÇO DE 1995
+
+_Concede isenção do ICMS na importação de máquinas e equipamentos, sem similar nacional, destinados ao ativo fixo do importador e dá outras providências._
+
+**Data:** 1995-03-21  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.484 DE 21 DE MARÇO DE 1995 * PUBLICADO NO DOE DE / /95 * CONVÊNIOS 60/93, 02/94, 33/94 e 152/94. * VIDE DECRETO 14.159/94
+
+Concede isenção do ICMS na importação de máquinas e equipamentos, sem similar nacional, destinados ao ativo fixo do importador e dá outras providências.
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o art. 6º da Lei nº 4.914, de 29 de dezembro de 1988, e os Convênios ICMS 60/93, 02/94, 33/94 e 152/94, celebrados nos moldes da Lei Complementar Federal nº 24, de 07 de janeiro de 1975,
+
+D E C R E T A:
+Art. 1º Fica isenta do ICMS a entrada de máquinas e equipamentos, sem similar nacional, importados por empresa industrial diretamente do exterior para integrar o seu ativo fixo, desde que a importação esteja beneficiada com isenção ou com alíquota reduzida a zero dos impostos de importação ou sobre produtos industrializados.
+§ 1º O disposto neste artigo se estende, sob as mesmas condições, exceto no tocante à exigência de integração no ativo fixo:
+I - à importação efetuada pela empresa industrial de máquina ou equipamento decorrente de arrendamento mercantil celebrado com empresa industrial, para utilização na sua produção;
+II - à importação daqueles bens efetuada por empresa arrendante, decorrente de contrato de arrendamento mercantil celebrado com empresa industrial, para utilização na sua produção.
+§ 2º A comprovação da ausência de similaridade nacional deverá ser feita por laudo emitido por entidade
+
+<!-- p. 2 -->
+representativa do setor de abrangência nacional ou por órgão federal especializado.
+
+Art. 2º A isenção será efetivada, em cada caso, por despacho do Superintendente de Administração Tributária da Secretaria de Estado da Fazenda, em requerimento com o qual o interessado faça prova do preenchimento dos requisitos previstos no artigo primeiro.
+Art. 3º O disposto neste Decreto n_o implica restituição ou devolução de importâncias já pagas.
+Art. 4º Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 31 de dezembro de 1995.
+
+Art. 5º Revogam-se as disposições em contrário.
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 21 DE MARÇO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14485-1995-18008.md>>>
 ---
 documento: "DECRETO Nº 14.485 DE 21 DE MARÇO DE 1995"
@@ -898,7 +2664,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto 11.41
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=12c7ac57-fd70-4386-b729-d948d5371db9
 atualizado_na_fonte: "2026-10-16 17:30:46"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -1521,9 +3287,9 @@ ementa: "Dispõe sobre a redução da base de cálculo do ICMS na exportação d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6bd5e9f9-6414-4377-863e-c1e88fa74051
 atualizado_na_fonte: "2026-10-16 17:30:32"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
-situacao: "vigente (sem revogação identificada)"
+situacao: "REVOGADA"
 percentual_tachado: 0.0
 ---
 
@@ -1533,7 +3299,10 @@ _Dispõe sobre a redução da base de cálculo do ICMS na exportação de soja e
 
 **Data:** 1995-03-27  
 **Remete a:** RICMS  
-**Situação:** vigente (sem revogação identificada)
+**Situação:** REVOGADA
+
+> REVOGADA pela decreto 14599/1995 (normas/decreto/decreto-14599-1995-18022.md): "Revoga o Decreto nº 14.488, de 27 de março de 1995, que dispõe sobre a redução da base de cálculo do ICMS na exportação de soja em grão."
+> REVOGADA pela decreto 14599/1995 (normas/decreto/decreto-14599-1995-18022.md): "1º - Fica revogado o Decreto nº 14.488, de 27 de março de 1995, que dispõe sobre a redução da base de cálculo do ICMS na exportação de soja em grão."
 
 > Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
 <!-- p. 1 -->
@@ -1550,6 +3319,241 @@ Art. 4º Revogam-se as disposições em contrário.
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 27 DE MARÇO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-14506-1995-18011.md>>>
+---
+documento: "DECRETO Nº 14.506 DE 19 DE ABRIL DE 1995"
+tipo: decreto
+numero: 14506
+data: "1995-04-19"
+ementa: "Rejeita o Convênio ICMS 13/95, que autoriza os Estados do Pará e Maranhão a conceder tratamento tributário especial nas saídas de minério de manganês, publicado no D.O.U de 07 de abril de 1995."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e3a097a2-7a5d-4c10-a631-eca5cc0293fe
+atualizado_na_fonte: "2026-10-16 17:30:06"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.506 DE 19 DE ABRIL DE 1995
+
+_Rejeita o Convênio ICMS 13/95, que autoriza os Estados do Pará e Maranhão a conceder tratamento tributário especial nas saídas de minério de manganês, publicado no D.O.U de 07 de abril de 1995._
+
+**Data:** 1995-04-19  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO Nº 14.506, DE 19 DE ABRIL DE 1995.  DOE DE 26.04.95
+
+
+Rejeita o Convênio ICMS 13/95, que autoriza os Estados do Pará e Maranhão a conceder tratamento tributário especial nas saídas de minério de manganês, publicado no
+D.O.U de 07 de abril de 1995.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado e tendo em vista o que dispõe o art. 4º da Lei Complementar nº 24, de 07 de janeiro de 1975,
+
+
+D E C R E T A :
+Art. 1º Fica rejeitado o Convênio ICMS 13/95, que autoriza os Estados do Pará e Maranhão a conceder tratamento tributário especial nas saídas de minério de manganês, publicado no D.O.U de 07 de abril de 1995.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 19 DE ABRIL DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+
+Imprimir
+<<<DOC normas/decreto/decreto-14517-1995-18012.md>>>
+---
+documento: "DECRETO Nº 14.517 DE 26 DE ABRIL DE 1995"
+tipo: decreto
+numero: 14517
+data: "1995-04-26"
+ementa: "Consolida e altera as normas que regulamentam o regime jurídico aplicável à microempresa maranhense e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=899ed385-806c-47ed-9e2e-ed99ce95cabf
+atualizado_na_fonte: "2026-10-16 17:29:44"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.517 DE 26 DE ABRIL DE 1995
+
+_Consolida e altera as normas que regulamentam o regime jurídico aplicável à microempresa maranhense e dá outras providências._
+
+**Data:** 1995-04-26  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO Nº 14.517 DE 26 DE ABRIL DE 1995.
+
+Consolida e altera as normas que regulamentam o regime jurídico aplicável à microempresa maranhense e dá outras providências.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+
+
+D E C R E T A :
+
+Art. 1º Fica dispensado à microempresa maranhense tratamento simplificado, nos termos deste Decreto.
+
+
+Art. 2º Considera-se microempresa o estabelecimento comercial varejista que anualmente adquirir mercadorias no valor de até doze mil Unidades Fiscais de Referência - UFR.
+
+
+§ 1º O limite das aquisições de que trata este artigo, apurado no período de 1º de janeiro a 31 de dezembro de cada ano, será calculado considerando-se o somatório das aquisições mensais divididas pelos valores das Unidades Fiscais de Referência - UFR vigentes nos respectivos meses.
+
+
+§ 2º No primeiro ano de atividade, o limite das aquisições será calculado proporcionalmente ao número de meses decorridos entre o mês de constituição da empresa a 31 de dezembro do mesmo ano, desconsideradas as frações de mês, observado o disposto no art. 9º.
+
+
+§ 3º Entende-se por aquisições todas as compras realizadas pelo estabelecimento, exceto as destinadas ao consumo ou ativo fixo.
+
+
+Art. 3º Não será enquadrada como microempresa aquela que :
+
+<!-- p. 2 -->
+I - possuir mais de um estabelecimento;
+II - possuir débito, constituído definitivamente, para com o erário estadual;
+
+III - seja constituída sob a forma de sociedade por ações;
+
+IV - o titular ou sócio seja pessoa jurídica ou pessoa física domiciliada no exterior;
+
+V - o titular ou sócio participe do capital de outra empresa;
+
+VI - participe do capital de outra pessoa jurídica.
+Art. 4º A inscrição de microempresa será procedida no domicílio tributário do requerente, mediante apresentação de cópia dos seguintes documentos:
+
+I - cartão de inscrição no Cadastro Geral de Contribuintes do Ministério da Fazenda CGC/MF;
+
+
+II - atos constitutivos da sociedade, ou declaração de firma individual, devidamente registrada na Junta Comercial do Estado do Maranhão;
+
+
+III - Cédula de Identidade e CPF dos sócios e, se for o caso, de seu procurador.
+
+
+Art. 5º Tratando-se de empresa já constituída, respeitadas as condições deste Decreto, o enquadramento será procedido mediante apresentação da Ficha de Atualização Cadastral - FAC, instruído com demonstrativo das aquisições nos últimos doze meses imediatamente anteriores.
+
+
+Parágrafo único. No período de 1º de janeiro deste exercício à data do requerimento de que trata o caput, será procedido ao fechamento regular de débitos e créditos, nos seguintes termos:
+
+
+I - caso apresente saldo credor, será compensado no mês ou meses seguintes;
+
+
+II - caso apresente saldo devedor, será pago em DAR específico, em até 3 (três) parcelas, iguais e
+
+<!-- p. 3 -->
+sucessivas, a partir do nono dia subsequente ao mês do requerimento.
+
+
+Art. 6º A microempresa definida no art. 2º fica sujeita ao seguinte tratamento fiscal:
+
+
+I - regime de pagamento do ICMS mediante estimativa do valor mensal de débito do imposto;
+
+
+II - dispensa parcial das obrigações acessórias;
+
+III - retenção, pelo fornecedor, do ICMS relativo às aquisições de mercadorias submetidas ao regime de substituição tributária.
+
+
+§ 1º O recolhimento do valor mensal estimado, nos termos deste artigo, será feito opcionalmente ao sistema normal de tributação.
+
+
+§ 2º Fica vedado às microempresas que optarem pelo regime de pagamento previsto no inciso I, a apropriação e a transferência de crédito do ICMS.
+
+
+Art. 7º O valor do ICMS a ser estimado mensalmente observará os seguintes critérios:
+
+
+I - tomará por base as aquisições de mercadorias no mês imediatamente anterior ao que se referir o pagamento;
+
+
+II - sobre o valor das aquisições, aplicar-se-á o percentual de 10% (dez por cento);
+
+
+III - sobre o resultado do inciso anterior, aplicarse-á a alíquota de 17% (dezessete por cento);
+
+
+IV - o valor mensal do ICMS estimado corresponderá ao valor apurado no inciso anterior, deduzido , se for o caso, o imposto pago antecipadamente em decorrência do regime de compras governamentais.
+
+
+§ 1º O valor do ICMS estimado não poderá ser inferior ao equivalente a uma UFR, mensalmente.
+
+§ 2º Na formação da base tributável a que se refere o inciso I, ficam excluídas as mercadorias sujeitas ao regime de substituição tributária e as destinadas ao consumo ou ativo fixo.
+
+<!-- p. 4 -->
+§ 3º Não será exigido o pagamento do ICMS no percentual correspondente à diferença entre a alíquota interestadual aplicada na unidade federada de origem e a interna neste Estado.
+
+§ 4º O disposto no parágrafo anterior não se aplica à entrada de mercadoria destinada a consumo ou a ativo fixo.
+
+Art. 8º O pagamento do imposto estimado será efetuado no prazo de pagamento dos contribuintes sujeitos ao regime normal.
+
+Art. 9º Tratando-se de estabelecimento em início de atividade, nos três primeiros meses, o imposto será calculado aplicando-se o percentual de 1,7% (um vírgula sete por cento) sobre as aquisições de mercadorias.
+
+
+§ 1º A partir do quarto mês, caso o contribuinte tenha adquirido mercadoria no período a que se refere o caput, em valor superior a 3.000 (três mil) UFRs, passará a recolher o imposto pelo regime normal de tributação.
+
+§ 2º Na hipótese do parágrafo anterior, o saldo devedor apurado no período da estimativa será recolhido até o nono dia do quarto mês subsequente ao do início das atividades.
+
+§ 3º Remanescendo saldo credor, este será escriturado na coluna “outros créditos”do livro Registro de Apuração do ICMS, com a expressão: “regime de estimativa - Decreto nº 14.517/95.”
+
+Art. 10. A microempresa deverá escriturar mensalmente a Guia Simplificada de Informação Anual do ICMS para Microempresa - GIAM, modelo anexo, e entregar na repartição fiscal do seu domicílio tributário, nos seguintes prazos:
+
+I - até o dia 5 do quarto mês subsequente ao do início da atividade do estabelecimento;
+
+II - até o dia 15 de janeiro do exercício subsequente ao do ano base.
+
+Art. 11. A microempresa deverá arquivar em ordem cronológica e guardar pelo período de 5 (cinco)
+
+<!-- p. 5 -->
+anos, as notas fiscais de compra e de venda de mercadorias, GIAMs e os documentos de arrecadação, ficando dispensada de:
+
+I - escrituração de livros fiscais;
+II - apresentação de GIM e GIA.
+
+Art. 12. Acarretará suspensão do enquadramento da microempresa:
+
+I - por 2 (dois) anos, quando, nos termos da legislação penal, incidir em crime contra a ordem tributária;
+
+II - por 1 (um) ano, quando deixar de recolher o imposto por 3 (três) meses consecutivos.
+
+
+Art 13. A microempresa que deixar de cumprir ou preencher os requisitos previstos neste Decreto:
+
+I - deverá comunicar o fato à repartição fiscal do seu domicílio tributário, no prazo de 30 (trinta) dias, contados da respectiva ocorrência;
+
+II - perderá o direito ao tratamento fiscal simplificado, a partir da data que ocorrer o evento.
+
+III - passará a cumprir plenamente as obrigações tributárias previstas na legislação estadual em vigor.
+
+Art. 14. No cumprimento deste Decreto aplicarse-á, no que couber, a legislação tributária do Estado.
+
+
+Art. 15. O Secretário de Estado da Fazenda baixará atos necessários à execução deste Decreto.
+
+Art. 16. Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de abril de 1995.
+
+Art. 17. Revogam-se as disposições em contrário, especialmente os Decretos nºs 14.481, de 10 de março de 1995; 12.731, de 28 de outubro de 1992; 13.148, de 09 de julho de 1993 e suas alterações.
+
+<!-- p. 6 -->
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 26 DE ABRIL DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14542-1995-18013.md>>>
 ---
 documento: "DECRETO Nº 14.542 DE 12 DE MAIO DE 1995"
@@ -1560,7 +3564,7 @@ ementa: "Prorroga o prazo de pagamento do ICMS dos contribuintes enquadrados no 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=41c9d11c-ff11-4057-8adb-1bb75a4c0036
 atualizado_na_fonte: "2026-10-16 17:29:27"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1591,6 +3595,50 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação.
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 12 DE MAIO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-14543-1995-18014.md>>>
+---
+documento: "DECRETO Nº 14.543 DE 12 DE MAIO DE 1995"
+tipo: decreto
+numero: 14543
+data: "1995-05-12"
+ementa: "Revoga o Decreto nº 13.647, de 28 de dezembro de 1993, que determina o crédito direto, em conta especial, do ICMS cobrado pela CEMAR no fornecimento de energia elétrica e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fd7f73d8-cda6-4899-9de2-d57992c76001
+atualizado_na_fonte: "2026-10-16 17:29:14"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.543 DE 12 DE MAIO DE 1995
+
+_Revoga o Decreto nº 13.647, de 28 de dezembro de 1993, que determina o crédito direto, em conta especial, do ICMS cobrado pela CEMAR no fornecimento de energia elétrica e dá outras providências._
+
+**Data:** 1995-05-12  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO Nº 14.543 DE 12 DE MAIO DE 1995.
+
+Revoga o Decreto nº 13.647, de 28 de dezembro de 1993, que determina o crédito direto, em conta especial, do ICMS cobrado pela CEMAR no fornecimento de energia elétrica e dá outras providências.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+
+D E C R E T A :
+Art. 1º Fica revogado o Decreto nº 13.647, de 28 de dezembro de 1993, que determina o crédito direto, em conta especial, do ICMS cobrado pela CEMAR no fornecimento de energia elétrica.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 12 DE MAIO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14552-1995-18015.md>>>
 ---
 documento: "DECRETO Nº 14.552 DE 22 DE MAIO DE 1995"
@@ -1601,7 +3649,7 @@ ementa: "Altera e consolida a legislação que dispõe sobre a substituição tr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3c7627ab-14a8-49de-ab02-447e9663af66
 atualizado_na_fonte: "2026-10-16 17:28:51"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1779,6 +3827,102 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 22 DE MAIO DE 1995, 1
 
 <!-- p. 9 -->
 Imprimir
+<<<DOC normas/decreto/decreto-14553-1995-18016.md>>>
+---
+documento: "DECRETO Nº 14.553 DE 22 DE MAIO DE 1995"
+tipo: decreto
+numero: 14553
+data: "1995-05-22"
+ementa: "Revoga o Decreto nº 14.223, de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=71f476c6-d11f-4d16-9874-51aa5639f4f0
+atualizado_na_fonte: "2026-10-16 17:28:39"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.553 DE 22 DE MAIO DE 1995
+
+_Revoga o Decreto nº 14.223, de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador._
+
+**Data:** 1995-05-22  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO Nº 14.553 DE 22 DE MAIO DE 1995.
+
+Revoga o Decreto nº 14.223, de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado e tendo em vista o Convênio ICMS ICMS 02/95, de 04 de abril de 1995,
+
+
+D E C R E T A :
+
+Art. 1º Fica revogado o Decreto nº 14.223, de 13 de outubro de 1994, que dispõe sobre a operação de importação de bem e mercadoria destinados a unidade federada diversa do domicílio do importador.
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 22 DE MAIO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
+<<<DOC normas/decreto/decreto-14557-1995-18017.md>>>
+---
+documento: "DECRETO Nº 14.557 DE 22 DE MAIO DE 1995"
+tipo: decreto
+numero: 14557
+data: "1995-05-22"
+ementa: "Concede isenção do ICMS às prestações internas de serviços de transporte realizadas por veículo tipo Ferry-Boat na travessia da Baia de São Marcos."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03ad5886-e7f6-488f-b948-150f361053e3
+atualizado_na_fonte: "2026-10-16 17:28:23"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.557 DE 22 DE MAIO DE 1995
+
+_Concede isenção do ICMS às prestações internas de serviços de transporte realizadas por veículo tipo Ferry-Boat na travessia da Baia de São Marcos._
+
+**Data:** 1995-05-22  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO Nº 14.557 DE 22 DE MAIO DE 1995.  DOE DE 29.05.95
+
+
+Concede isenção do ICMS às prestações internas de serviços de transporte realizadas por veículo tipo “Ferry-Boat” na travessia da Baia de São Marcos.
+
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado e tendo em vista o que dispõe o Convênio nº 22/95, de 04 de abril de 1995, celebrado e ratificado nos termos da Lei Complementar Federal nº 24/75,
+
+
+D E C R E T A
+
+
+Art. 1º Ficam isentas do ICMS as prestações internas de serviços de transporte realizadas por veículo tipo "Ferry-Boat", na travessia da Baia de São Marcos, entre os Municípios de São Luís (Porto do Itaqui) e Alcântara (terminais de Itaúna e Cujupe), pela Companhia Docas do Maranhão - CODOMAR.
+
+
+Art. 2º Este Decreto entra em vigor na data da publicação, produzindo efeitos até 30 de abril de 1996.
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 22 DE MAIO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14575-1995-18018.md>>>
 ---
 documento: "DECRETO Nº 14.575 DE 30 DE MAIO DE 1995"
@@ -1789,7 +3933,7 @@ ementa: "Altera e consolida a legislação que dispõe sobre o regime de substit
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f19b633d-6c9c-43d6-8c84-ab93b8710174
 atualizado_na_fonte: "2026-10-16 17:27:39"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -1955,6 +4099,55 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 30 DE MAIO DE 1995, 1
 
 <!-- p. 8 -->
 Imprimir
+<<<DOC normas/decreto/decreto-14576-1995-18019.md>>>
+---
+documento: "DECRETO Nº 14.576 DE 30 DE MAIO DE 1995"
+tipo: decreto
+numero: 14576
+data: "1995-05-30"
+ementa: "Estabelece procedimentos para o transporte de mercadorias ou bens contidos em encomendas aéreas internacionais e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ee5e5429-fdef-47e0-8f3a-79210a3e6cc9
+atualizado_na_fonte: "2026-10-16 17:27:31"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.576 DE 30 DE MAIO DE 1995
+
+_Estabelece procedimentos para o transporte de mercadorias ou bens contidos em encomendas aéreas internacionais e dá outras providências._
+
+**Data:** 1995-05-30  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.576 DE 30 DE MAIO DE 1995.  DOE DE 02.06.95
+
+Estabelece procedimentos para o transporte de mercadorias ou bens contidos em encomendas aéreas internacionais e dá outras providências.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio 17/95, de 04 de abril de 1995,
+
+
+D E C R E T A :
+Art. 1º As mercadorias ou bens contidos em encomendas aéreas internacionais transportadas por empresas de "courier" ou a elas equiparadas, até sua entrega no domicílio destinatário, serão acompanhadas, em todo território nacional, unicamente, pelo Conhecimento de Transporte Aéreo Internacional (AWB), fatura comercial e guia de recolhimento do ICMS, quando devido.
+Art. 2º O transporte das mercadorias ou bens só poderá ser iniciado após o recolhimento do ICMS incidente na operação, em favor da unidade federada do domicílio do destinatário.
+Art. 3º O recolhimento do ICMS, individualizado para cada destinatário, será efetuado por meio da Guia Nacional de Recolhimento de Tributos Estaduais-GNR, inclusive na hipótese em que o desembaraço aduaneiro ocorra neste Estado e o destinatário seja domiciliado em território maranhense.
+Parágrafo único. Fica autorizada a emissão, por processamento de dados, da guia de recolhimento prevista neste Artigo.
+
+Art. 4º Decreto entra em vigor na data de sua publicação.
+
+<!-- p. 2 -->
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 30 DE MAIO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14597-1995-18020.md>>>
 ---
 documento: "DECRETO Nº 14.597 DE 09 DE JUNHO DE 1995"
@@ -1965,7 +4158,7 @@ ementa: "Concede isenção do ICMS nas operações com mercadorias ou bens desti
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ffe6d27a-7891-4152-a942-b4fc74624eb9
 atualizado_na_fonte: "2026-10-16 17:27:03"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2035,6 +4228,99 @@ Art. 3º - Ficam revogados os incisos XIV, XV e XVI e os §§ 8º e 9º do art.1
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE JUNHO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-14598-1995-18021.md>>>
+---
+documento: "DECRETO Nº 14.598 DE 09 DE JUNHO DE 1995"
+tipo: decreto
+numero: 14598
+data: "1995-06-09"
+ementa: "Isenta do ICMS o recebimento, por doação, de produtos importados do exterior, nas condições que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=234707c9-52c2-422e-8530-a013a195fc13
+atualizado_na_fonte: "2026-10-16 17:26:55"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.598 DE 09 DE JUNHO DE 1995
+
+_Isenta do ICMS o recebimento, por doação, de produtos importados do exterior, nas condições que especifica._
+
+**Data:** 1995-06-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.598 DE 09 DE JUNHO DE 1995.  DOE DE 14.06.95
+
+Isenta do ICMS o recebimento, por doação, de produtos importados do exterior, nas condições que especifica.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio ICMS 20/95, celebrado e ratificado nos termos da Lei Complementar federal nº 24/75, de 07 de janeiro de l975,
+
+
+D E C R E T A :
+Art. 1º - Fica isento do ICMS o recebimento, por doação, de produtos importados do exterior, diretamente por órgãos ou entidades da administração pública, direta ou indireta, bem como fundações ou entidades beneficentes ou de assistência social que preencham os requisitos previstos no artigo 14 do Código Tributário Nacional.
+§ 1º - A fruição do benefício fica condicionada a que:
+I - não haja contratação de câmbio;
+II - a operação de importação não seja tributada ou tenha tributação com alíquota reduzida a zero, dos impostos de Importação e sobre Produtos Industrializados;
+III - os produtos recebidos sejam utilizados na consecução dos objetivos fins do importador.
+§ 2º - O benefício será concedido, caso a caso, mediante despacho do Superintendente da Administração Tributária, em petição do interessado.
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 31 de dezembro de l996.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE JUNHO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
+<<<DOC normas/decreto/decreto-14599-1995-18022.md>>>
+---
+documento: "DECRETO Nº 14.599 DE 09 DE JUNHO DE 1995"
+tipo: decreto
+numero: 14599
+data: "1995-06-09"
+ementa: "Revoga o Decreto nº 14.488, de 27 de março de 1995, que dispõe sobre a redução da base de cálculo do ICMS na exportação de soja em grão."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ad876007-941b-40cd-983b-48c3018165e4
+atualizado_na_fonte: "2026-10-16 17:26:45"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.599 DE 09 DE JUNHO DE 1995
+
+_Revoga o Decreto nº 14.488, de 27 de março de 1995, que dispõe sobre a redução da base de cálculo do ICMS na exportação de soja em grão._
+
+**Data:** 1995-06-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.599 DE 09 DE JUNHO DE 1995  DOE DE 14.06.95
+
+Revoga o Decreto nº 14.488, de 27 de março de 1995, que dispõe sobre a redução da base de cálculo do ICMS na exportação de soja em grão.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+D E C R E T A:
+
+Art. 1º - Fica revogado o Decreto nº 14.488, de 27 de março de 1995, que dispõe sobre a redução da base de cálculo do ICMS na exportação de soja em grão.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação.
+
+Art. 3º - Revogam-se as disposições em contrário.
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 09 DE JUNHO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14610-1995-18023.md>>>
 ---
 documento: "DECRETO Nº 14.610 DE 13 DE JUNHO DE 1995"
@@ -2045,7 +4331,7 @@ ementa: "Revoga dispositivo do Regulamento do ICMS e dá outras providências."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd8b6011-580c-438d-9ad2-c7bd08adb894
 atualizado_na_fonte: "2026-10-16 17:26:26"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2078,6 +4364,156 @@ Art. 2º - Este Decreto entra em vigor na data de sua publicação, retroagindo 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 13 DE JUNHO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-14621-1995-18024.md>>>
+---
+documento: "DECRETO Nº 14.621 DE 28 DE JUNHO DE 1995"
+tipo: decreto
+numero: 14621
+data: "1995-06-28"
+ementa: "Altera dispositivo do Decreto nº 14.383, de 29 de dezembro de 1994, que dispõe sobre a redução da base de cálculo do ICMS, nas operações internas, das mercadorias que compõem a cesta básica maranhense."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=573e189f-99e7-469a-badb-60141a948b85
+atualizado_na_fonte: "2026-10-16 17:25:56"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.621 DE 28 DE JUNHO DE 1995
+
+_Altera dispositivo do Decreto nº 14.383, de 29 de dezembro de 1994, que dispõe sobre a redução da base de cálculo do ICMS, nas operações internas, das mercadorias que compõem a cesta básica maranhense._
+
+**Data:** 1995-06-28  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.621 DE 28 DE JUNHO DE 1995.  DOE DE 03.07.95
+
+Altera dispositivo do Decreto nº 14.383, de 29 de dezembro de 1994, que dispõe sobre a redução da base de cálculo do ICMS, nas operações internas, das mercadorias que compõem a cesta básica maranhense.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o Convênio ICMS 128/94, celebrado nos termos da Lei Complementar federal nº 24/75, de 07 de janeiro de 1975,
+
+D E C R E T A:
+
+Art. 1º - Passa a vigorar com a seguinte redação o art. 1º do Decreto nº 14.383, de 29 de dezembro de 1994:
+
+“Art. 1º - Fica reduzida, até 31 de dezembro de 1.995, a base de cálculo do ICMS, nas operações internas, com as mercadorias que compõem a cesta básica maranhense, a seguir indicadas, de forma que a carga tributária seja de 12% (doze por cento):
+
+I - açúcar e arroz;
+II - biscoito e café;
+III - feijão, farinhas de mandioca, milho e trigo;
+IV - macarrão e margarina;
+V - óleo comestível e sal. ....................................................................................... ......................... ....................................................................................... ..........................”
+
+<!-- p. 2 -->
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de julho de 1995.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO EM SÃO LUÍS, 28 DE JUNHO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
+<<<DOC normas/decreto/decreto-14622-1995-18025.md>>>
+---
+documento: "DECRETO Nº 14.622 DE 28 DE JUNHO DE 1995"
+tipo: decreto
+numero: 14622
+data: "1995-06-28"
+ementa: "Altera dispositivos do Decreto nº 13.423/93, que concede isenção do ICMS, relativamente ao diferencial de alíquota, para máquinas e implementos agrícolas e bens destinados ao ativo fixo."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d49f4686-919a-4693-ae66-7f4fbc1d180b
+atualizado_na_fonte: "2026-10-16 17:25:48"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.622 DE 28 DE JUNHO DE 1995
+
+_Altera dispositivos do Decreto nº 13.423/93, que concede isenção do ICMS, relativamente ao diferencial de alíquota, para máquinas e implementos agrícolas e bens destinados ao ativo fixo._
+
+**Data:** 1995-06-28  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.622 DE 28 DE JUNHO DE 1995.  DOE DE 03.07.95
+
+Altera dispositivos do Decreto nº 13.423/93, que concede isenção do ICMS, relativamente ao diferencial de alíquota, para máquinas e implementos agrícolas e bens destinados ao ativo fixo.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e com fundamento nos Convênios ICMS 55/93 e 151/94, celebrados nos moldes da Lei Complementar federal nº 24, de 07 de janeiro de 1975,
+
+D E C R E T A
+
+Art. 1º - O parágrafo único do Decreto nº 13.423, de 22 de outubro de 1993, passa a vigorar com a seguinte redação:
+
+"Parágrafo único - O disposto neste artigo terá eficácia até 31 de dezembro de 1995."
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de julho de 1995.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 28 DE JUNHO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+
+Imprimir
+<<<DOC normas/decreto/decreto-14637-1995-18026.md>>>
+---
+documento: "DECRETO Nº 14.637 DE 04 DE JULHO DE 1995"
+tipo: decreto
+numero: 14637
+data: "1995-07-04"
+ementa: "Concede isenção do ICMS na doação de mercadorias pelo Governo Federal nas condições que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6b27147e-4478-422b-9015-1d1349e0c306
+atualizado_na_fonte: "2026-10-16 17:25:32"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.637 DE 04 DE JULHO DE 1995
+
+_Concede isenção do ICMS na doação de mercadorias pelo Governo Federal nas condições que especifica._
+
+**Data:** 1995-07-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.637 DE 04 DE JULHO DE 1995.
+
+ DOE DE 07.07.95
+
+
+Concede isenção do ICMS na doação de mercadorias pelo Governo Federal nas condições que especifica.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e com fundamento nos Convênios ICMS 108/93 e 22/95, celebrados nos moldes da Lei Complementar federal nº 24, de 07 de janeiro de 1975,
+
+D E C R E T A
+
+
+Art. 1º - Ficam isentas do ICMS as saídas de arroz, feijão, milho e farinha de mandioca, promovidas pela Companhia Nacional de Abastecimento - CONAB - dentro do Programa de Distribuição Emergencial de Alimentos no Nordeste Semi-Árido (PRODEA) e doadas à SUDENE para serem distribuídas às populações alistadas em frentes de emergência constituídas no âmbito do Programa de Combate à Fome no Nordeste.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 30 de abril de 1996.
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 04 DE JULHO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14676-1995-18028.md>>>
 ---
 documento: "DECRETO Nº 14.676 DE 27 DE JULHO DE 1995"
@@ -2088,7 +4524,7 @@ ementa: "Introduz modificações nos arts. 574, 579 e 580 do Regulamento do ICMS
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b875f81-685f-4e75-ad6b-eb86b2c2cf6a
 atualizado_na_fonte: "2026-10-16 17:25:11"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -2153,7 +4589,7 @@ ementa: "Consolida e altera o Regulamento da Administração Tributária e do Pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e5e71ae8-1687-4d82-a94f-5077c4710f87
 atualizado_na_fonte: "2026-10-16 17:24:48"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -2937,6 +5373,121 @@ Art. 114 - O Secretário de Estado da Fazenda fica autorizado a baixar os atos q
 
 
 Imprimir
+<<<DOC normas/decreto/decreto-14701-1995-18030.md>>>
+---
+documento: "DECRETO Nº 14.701 DE 25 DE AGOSTO DE 1995"
+tipo: decreto
+numero: 14701
+data: "1995-08-25"
+ementa: "Atribui a condição de substituto tributário do ICMS ao atacadista de produtos farmacêuticos, nas operações internas, exclui produtos farmacêuticos da substituição tributária na fonte e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e26f3fd4-c7d0-4276-adf3-f3dad22bc0a5
+atualizado_na_fonte: "2026-10-16 17:24:37"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.701 DE 25 DE AGOSTO DE 1995
+
+_Atribui a condição de substituto tributário do ICMS ao atacadista de produtos farmacêuticos, nas operações internas, exclui produtos farmacêuticos da substituição tributária na fonte e dá outras providências._
+
+**Data:** 1995-08-25  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.701 DE 25 DE AGOSTO DE 1 .995
+
+Atribui a condição de substituto tributário do ICMS ao atacadista de produtos farmacêuticos, nas operações internas, exclui produtos farmacêuticos da substituição tributária na fonte e dá outras providências.
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inc. III, da Constituição do Estado, e fundamentado no Art. 30, inc. II, da Lei nº 4.914, de 29 de dezembro de 1.988, bem como tendo em vista a cláusula quinta, inc. I, do Convênio ICMS 81/93, de 10 de setembro de 1993,
+
+
+DECRETA
+
+Art. 1º - Fica atribuída ao estabelecimento comercial atacadista de produtos farmacêuticos relacionados no Anexo, na qualidade de sujeito passivo por substituição tributária, a responsabilidade pela retenção e recolhimento do ICMS relativo às operações subsequentes realizadas no território maranhense, nas condições deste Decreto.
+
+Parágrafo único - Para os efeitos deste artigo, o estabelecimento deve ser enquadrado em qualquer subitem do Código de Atividade Econômica 7.26 - Produtos Farmacêuticos.
+
+Art. 2º - A substituição tributária de que trata o Convênio ICMS 76/94, de 30 de junho de 1.994, e disciplinada neste Estado pelo Decreto nº 14.552, de 22 de maio de 1.995, não se aplica às operações com os produtos ali indicados e destinados a contribuintes maranhenses enquadrados no artigo anterior regularmente credenciados pelo Superintendente de Administração Tributária.
+
+Parágrafo único - O credenciamento se subordina à condição de permanente adimplência tributária do credenciado.
+
+Art. 3º - A antecipação do ICMS, decorrente das disposições do art. 1º, observará, ainda, os seguintes critérios:
+
+<!-- p. 2 -->
+I - a base de cálculo, será a mesma prevista na cláusula segunda do Convênio ICMS 76/94, no que for aplicável;
+
+II - a redução de 10% (dez por cento) na base de cálculo do inciso anterior, será aplicada igualmente;
+
+III - o pagamento, far-se-á até o dia 9 (nove) do mês subsequente ao da entrada do produto no estabelecimento credenciado, no domicílio tributário deste;
+
+IV - a escrituração fiscal, será procedida na coluna “Outras”, tanto no livro Registro de Entradas, como no Registro de Saídas;
+
+V - a emissão da nota fiscal, modelos 1 ou 1-A, na saída subsequente, além dos demais requisitos regulamentares, exigirá a declaração: “Imposto retido por substituição - Decreto nº 14.701/95”.
+
+Art. 4º - O disposto nos incisos III e IV do artigo anterior não se aplica ao contribuinte que, satisfazendo a todas as condições deste Decreto, realizar operações de vendas interestaduais dos produtos relacionados, em quantidade que represente regular e mensalmente mais da metade de suas vendas.
+
+Parágrafo único - Na hipótese deste artigo, serão observados, excepcionalmente, os seguintes critérios:
+
+I - o recolhimento, far-se-á até o dia 9 (nove) do mês subsequente ao da saída realizada pelo contribuinte;
+
+II - a escrituração fiscal será procedida com lançamentos de créditos e débitos regulares, na forma do Regime Normal de Apuração.
+
+Art. 5º - O contribuinte que não se enquadrar nas condições dos arts. 1º e 2º, ou deles se desenquadrar, ficará sujeito ao pagamento do ICMS, no momento da entrada dos produtos neste Estado, diretamente ao Posto Fiscal de divisa interestadual por onde transitar.
+
+Art. 6º - O estabelecimento que preencher aos requisitos deste Decreto e que tenha recebido mercadorias, por qualquer motivo, sem a retenção do ICMS, deverá adotar os seguintes procedimentos:
+
+<!-- p. 3 -->
+I - fará o levantamento dos documentos fiscais que se enquadrarem na condição deste artigo;
+
+II - acrescentará, ao valor total da relação, o percentual correspondente;
+
+III - reduzirá os 10% (dez por cento) no montante da base de cálculo aludida no inciso precedente;
+
+IV - aplicará sobre o montante tributável, apurado no inciso III, a alíquota de 17% (dezessete por cento) e deduzirá o valor dos créditos fiscais respectivos;
+
+V- efetuará o pagamento do imposto apurado, observado:
+
+a) se o valor do imposto for igual, ou inferior, ao equivalente a 50 (cinquenta) UFR, em cota única, no dia 25 de agosto de 1.995;
+
+b) se o valor do imposto for superior ao equivalente a 50 (cinquenta) UFR, em até três parcelas mensais, iguais e sucessivas, vencendo-se:
+
+1 - a primeira, em 25 de agosto de 1.995;
+2 - a segunda, em 25 de setembro de 1.995;
+3 - a terceira, em 25 de outubro de 1.995.
+Art. 7º - A antecipação tributária, nos moldes deste Decreto, ensejará a restituição imediata e preferencial, sob a forma de crédito dedutível no próprio mês de apuração, sempre que não se realize o fato gerador presumido quando da cobrança.
+
+Art. 8º - A restituição aludida no art. 7º se procederá automaticamente, mediante demonstrativo detalhado elaborado pelo próprio contribuinte, sempre que a saída subsequente seja destinada a não contribuinte do ICMS ou a adquirente localizado fora deste Estado.
+
+§ 1º - O demonstrativo, que será de periodicidade mensal, deverá ser entregue à repartição fiscal do domicílio tributário do contribuinte, juntamente com a GIM.
+
+§ 2º O demonstrativo deve conter, no mínimo, as seguintes indicações:
+
+<!-- p. 4 -->
+I - a denominação: “Documento para Restituição Imediata e Preferencial de ICMS/Substituição Tributária”;
+
+II - a identificação cadastral do contribuinte;
+III - o mês e ano de referência do demonstrativo;
+IV - o montante do ICMS a ter substituição tributária antecipada;
+
+V - o montante do ICMS que deixou de ser repassado pelo enquadramento no “caput” deste artigo;
+
+VI - a identificação nominal dos compradores aludidos no inciso anterior;
+
+VII - o valor do ICMS apurado e a ser efetivamente recolhido na forma e prazo previstos no art. 3º deste Decreto.
+
+Art. 9º - Este Decreto entra em vigor na data de sua publicação, revogadas as dosposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 14.701, DE 25 AGOSTO DE 1.995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+<!-- p. 5 -->
+Imprimir
 <<<DOC normas/decreto/decreto-14757-1995-18031.md>>>
 ---
 documento: "DECRETO Nº 14.757 DE 09 DE OUTUBRO DE 1995"
@@ -2947,7 +5498,7 @@ ementa: "Institui a Nota Fiscal do Produtor."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1bcd7486-67c7-4e58-92e6-1cc5f5bf325b
 atualizado_na_fonte: "2026-10-16 17:24:12"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3166,6 +5717,54 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, DE OUTUBRO DE 1995, 1
 
 
 Imprimir
+<<<DOC normas/decreto/decreto-14763-1995-18032.md>>>
+---
+documento: "DECRETO Nº 14.763 DE 17 DE OUTUBRO DE 1995"
+tipo: decreto
+numero: 14763
+data: "1995-10-17"
+ementa: "Dispõe sobre o prazo de pagamento do ICMS pelos estabelecimentos inscritos no Código de Atividade Econômica - CAE3.08.01."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=aac977fd-b1c5-4543-8697-e93e9e29b8b6
+atualizado_na_fonte: "2026-10-16 17:23:53"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.763 DE 17 DE OUTUBRO DE 1995
+
+_Dispõe sobre o prazo de pagamento do ICMS pelos estabelecimentos inscritos no Código de Atividade Econômica - CAE3.08.01._
+
+**Data:** 1995-10-17  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.763 DE 17 DE OUTUBRO DE 1995.
+
+Dispõe sobre o prazo de pagamentodo ICMS pelos estabelecimentos inscritos no Código de Atividade Econômica - CAE3.08.01.
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+D E C R E T A
+
+
+
+Art. 1º - O pagamento do ICMS, pelos estabelecimentos industriais de transformação de café ( CAE 3.08.01), far-se-á até o 25º (vigésimo quinto) dia do mês subsequente ao da ocorrência dos fatos geradores.
+
+Art. 2º - Este Decreto entra em vigor na data da sua publicação, produzindo efeitos a partir de 1º de novembro de 1.995.
+
+Art. 3 º - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, DE OUTUBRO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+
+Imprimir
 <<<DOC normas/decreto/decreto-14764-1995-18033.md>>>
 ---
 documento: "DECRETO Nº 14.764 DE 18 DE OUTUBRO DE 1995"
@@ -3176,7 +5775,7 @@ ementa: "Altera dispositivo do Regulamento do ICMS, aprovado pelo Decreto 14.744
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dbfd6fc9-a7ba-4ccf-86fd-36c8e1d01986
 atualizado_na_fonte: "2026-10-16 17:23:38"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3224,7 +5823,7 @@ ementa: "Altera o § 1º do art. 10 do RICMS, aprovado pelo Decreto nº 14.744, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6cecbc10-5706-466f-b484-99218be35a84
 atualizado_na_fonte: "2026-10-16 17:23:14"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3279,7 +5878,7 @@ ementa: "Institui o lacre em bombas de combustíveis e dá outras providências.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cc1bc4f1-b049-47d2-8516-ba0c37879816
 atualizado_na_fonte: "2026-10-16 17:22:52"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3440,7 +6039,7 @@ ementa: "Dispõe sobre o regime jurídico aplicável à microempresa industrial 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cb3864ad-0855-4084-8811-1d5879eceb46
 atualizado_na_fonte: "2026-10-16 17:22:32"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3567,7 +6166,7 @@ ementa: "Introduz modificações no Regulamento do ICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a9e16e7e-5b1d-4776-9ede-5f3156a84a85
 atualizado_na_fonte: "2026-10-16 17:22:17"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3739,7 +6338,7 @@ ementa: "Prorroga, excepcionalmente, o prazo de recolhimento do ICMS decorrente 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3d53febf-a74b-4ebe-9819-0f857a32c4a1
 atualizado_na_fonte: "2026-10-16 17:22:10"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3786,6 +6385,114 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 27 DE DEZEMBRO DE 199
 
 <!-- p. 2 -->
 Imprimir
+<<<DOC normas/decreto/decreto-14872-1995-18040.md>>>
+---
+documento: "DECRETO Nº 14.872 DE 27 DE DEZEMBRO DE 1995"
+tipo: decreto
+numero: 14872
+data: "1995-12-27"
+ementa: "Concede crédito presumido do ICMS na aquisição de Equipamento Emissor de Cupom Fiscal"
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96be2fb7-623f-45ac-a409-f96fc3c7b9ae
+atualizado_na_fonte: "2026-10-16 17:20:20"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.872 DE 27 DE DEZEMBRO DE 1995
+
+_Concede crédito presumido do ICMS na aquisição de Equipamento Emissor de Cupom Fiscal_
+
+**Data:** 1995-12-27  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 14.872 DE 27 DE DEZEMBRO DE 1995  Alterado pelo Dec. 14.995, de 15.04.96
+
+Concede crédito presumido do ICMS na aquisição de Equipamento Emissor de Cupom Fiscal.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+D E C R E T A
+
+Art. 1º - Constitui crédito presumido do ICMS o equivalente ao valor de aquisição de Equipamento Emissor de Cupom Fiscal - ECF, observado o limite máximo de R$ 2.000,00 (dois mil reais) por equipamento, que atenda aos requisitos definidos no Convênio ICMS 156/94, de 07/12/94.
+
+Art. 1º - Constitui crédito presumido do ICMS o equivalente ao valor de aquisição de Equipamento Emissor de Cupom Fiscal - ECF/MR ou de emissor de Cupom Fiscal ECF/PDV, observados os limites máximos de R$ 2.000,00 (dois mil reais) e 6.000,00 (seis mil Reais) respectivamente, por equipamento, que atenda aos requisitos definidos no Convênio ICMS 156/94, de 07/12/94.
+
+ NR dada pelo Decreto n.º 14.995/96.
+§ 1º – O crédito fiscal de que trata este artigo será apropriado a partir do período de apuração imediatamente posterior àquele em que houver ocorrido o início da efetiva utilização do equipamento na forma prevista no Convênio ICMS 156/94.
+
+§ 2º - Na hipótese de venda do equipamento em prazo inferior a 2 (dois) anos, a contar do início da efetiva utilização do mesmo, o crédito fiscal de que trata este artigo deverá ser anulado integralmente no mesmo período de apuração em que houver sido efetuada a venda.
+
+§ 3º - O disposto neste artigo somente se aplica às aquisições de ECF realizadas no período compreendido entre a data da publicação deste Decreto até 31/05/96, em que o início da efetiva utilização, na forma prevista no Convênio ICMS 156/94, ocorra até 30/06/96.
+
+Art. 2º - O benefício de que trata este Decreto será concedido nos seguintes casos:
+
+I - em substituição proporcional ao número de máquinas registradoras e terminais de ponto de venda, sem memória fiscal, devidamente autorizados pela Secretaria de Estado da Fazenda;
+
+II - pelos estabelecimentos que, até a data da publicação deste Decreto, não utilizem ECF.
+
+<!-- p. 2 -->
+Art. 3º - Fica vedada, a partir de 31 de maio de 1996, a utilização de máquina registradora, terminais de ponto de venda e qualquer equipamento emissor de cupom fiscal que não atendam às exigências previstas no Convênio ICMS 156/94.
+
+Art. 4º - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 27 DE DEZEMBRO DE 1995, 174º DA INDEPENDÊNCIA E 107º DA REPÚBLICA.
+
+Imprimir
+<<<DOC normas/decreto/decreto-14888-1996-18041.md>>>
+---
+documento: "DECRETO Nº 14.888 DE 04 DE JANEIRO DE 1996"
+tipo: decreto
+numero: 14888
+data: "1996-01-04"
+ementa: "Prorroga, excepcionalmente, o prazo de recolhimento do ICMS nas operações interestaduais com veículos automotores sujeitos ao regime de substituição tributária."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92e6da7e-2d80-4500-8b35-7a6a7a27863e
+atualizado_na_fonte: "2026-10-16 17:19:56"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.888 DE 04 DE JANEIRO DE 1996
+
+_Prorroga, excepcionalmente, o prazo de recolhimento do ICMS nas operações interestaduais com veículos automotores sujeitos ao regime de substituição tributária._
+
+**Data:** 1996-01-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO Nº 14.888 DE 04 DE JANEIRO DE 1996.  DOE 006 de 01.01.96
+
+
+Prorroga, excepcionalmente, o prazo de recolhimento do ICMS nas operações interestaduais com veículos automotores sujeitos ao regime de substituição tributária.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado,
+
+D E C R E T A
+
+Art. 1º - Nas operações interestaduais com veículos automotores alcançadas pelo regime de substituição tributária, relativamente aos fatos geradores ocorridos no mês de dezembro de 1995, o recolhimento do ICMS poderá ser feito, excepcionalmente, até o dia
+15 (quinze) de janeiro de 1996.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1996.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 04 DE JANEIRO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-14893-1996-18042.md>>>
 ---
 documento: "DECRETO Nº 14.893 DE 08 DE JANEIRO DE 1996"
@@ -3796,7 +6503,7 @@ ementa: "Introduz modificações no art. 521 do Regulamento do ICMS, aprovado pe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b53230ad-a82c-41b5-b9b8-f7ef18baf596
 atualizado_na_fonte: "2026-10-16 17:19:39"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3858,7 +6565,7 @@ ementa: "Introduz modificações no Regulamento do ICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1c089d3f-22cf-42d9-8ea3-7869e285f724
 atualizado_na_fonte: "2026-10-16 17:19:13"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -3956,7 +6663,7 @@ ementa: "Introduz alterações nos arts. 10 e 706 do Regulamento do ICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=34a50633-5eed-4aa5-b067-ade89467d74c
 atualizado_na_fonte: "2026-10-16 17:18:19"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4014,7 +6721,7 @@ ementa: "Introduz alterações nos arts. 9º e 871 do Regulamento do ICMS, aprov
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb3a641c-ff2d-4444-ab63-ade387493dae
 atualizado_na_fonte: "2026-10-16 17:18:12"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4070,7 +6777,7 @@ ementa: "Dispõe sobre o período de apuração e prazo de pagamento do ICMS e d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c1a972c-89de-4443-8611-243a26a5dcf5
 atualizado_na_fonte: "2026-10-16 17:17:50"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 0.0
@@ -4129,7 +6836,7 @@ ementa: "Altera o § 1º do art. 82 do Regulamento do ICMS, aprovado pelo Decret
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0ee59813-9c5f-4869-8838-8bf4c962b45f
 atualizado_na_fonte: "2026-10-16 17:17:31"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4178,7 +6885,7 @@ ementa: "Altera o art. 770 do Regulamento do ICMS, aprovado pelo Decreto nº 14.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=29872625-b9da-4695-a0e9-aec4d2b11c60
 atualizado_na_fonte: "2026-10-16 17:17:20"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4230,7 +6937,7 @@ ementa: "Acrescenta parágrafo ao art. 734 do Regulamento do ICMS, aprovado pelo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e30c4fa9-3c9d-45ea-a9d2-81cee3ba6c44
 atualizado_na_fonte: "2026-10-16 17:17:10"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4280,7 +6987,7 @@ ementa: "Altera o art. 86 do Regulamento do ICMS, aprovado pelo Decreto nº 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=75ffdb2a-a22a-4489-8043-5ec4405eb442
 atualizado_na_fonte: "2026-10-16 17:16:38"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4325,7 +7032,7 @@ ementa: "Introduz modificação no anexo 1, ao Regulamento do ICMS, aprovado pel
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=eb674862-5d27-4469-b99d-911218cc28f5
 atualizado_na_fonte: "2026-10-16 17:16:30"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4359,6 +7066,51 @@ Art. 2º - Este Decreto entra em vigor na data de sua publicação, retroagindo 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 11 DE ABRIL DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-14995-1996-18053.md>>>
+---
+documento: "DECRETO Nº 14.995 DE 15 DE ABRIL DE 1996"
+tipo: decreto
+numero: 14995
+data: "1996-04-15"
+ementa: "Introduz alterações no art. 1º do Decreto nº 14.872, de 27 de dezembro de 1995."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e5d22606-5192-424f-a142-2b4c761920b1
+atualizado_na_fonte: "2026-10-16 17:16:15"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 14.995 DE 15 DE ABRIL DE 1996
+
+_Introduz alterações no art. 1º do Decreto nº 14.872, de 27 de dezembro de 1995._
+
+**Data:** 1996-04-15  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO N.º 14.995 DE 15 DE ABRIL DE 1996.
+DOE Nº 077 de 19.04.96
+
+Introduz alterações no art. 1º do Decreto nº 14.872, de 27 de dezembro de 1995.
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado,
+
+D E C R E T A
+Art. 1º - Passa a vigorar com a seguinte redação o caput do art. 1º do Decreto nº 14.872, de 27 de dezembro de 1995 :
+
+“Art. 1º - Constitui crédito presumido do ICMS o equivalente ao valor de aquisição de Equipamento Emissor de Cupom Fiscal - ECF/MR ou de Emissor de Cupom Fiscal ECF/PDV, observados os limites de R$ 2.000,00 ( dois mil Reais ) e R$ 6.000,00 ( seis mil Reais ) respectivamente, por equipamento, que atenda aos requisitos definidos no Convênio ICMS 156/94, de 07/12/94.”
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 27 de dezembro de 1995.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 15 DE ABRIL DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-15013-1996-18054.md>>>
 ---
 documento: "DECRETO Nº 15.013 DE 23 DE ABRIL DE 1996"
@@ -4369,7 +7121,7 @@ ementa: "Introduz modificações no Regulamento do ICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0bc0b151-6ef3-41c6-8da4-64ffa1c4736c
 atualizado_na_fonte: "2026-10-16 17:15:57"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4503,7 +7255,7 @@ ementa: "Dá nova redação ao art. 795 do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=41840af1-5098-4870-b4e0-2975485d314d
 atualizado_na_fonte: "2026-10-16 17:15:35"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4586,7 +7338,7 @@ ementa: "Altera o item III do Anexo 85 ao Regulamento do ICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2df8dc44-7f0c-4a79-973a-e6ee72de75a3
 atualizado_na_fonte: "2026-10-16 17:15:26"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4635,7 +7387,7 @@ ementa: "Dá nova redação ao Capítulo XI e revigora o art. 609 do Regulamento
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=48a2306a-8362-4f04-b41d-366754de4df9
 atualizado_na_fonte: "2026-10-16 17:15:09"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4699,7 +7451,7 @@ ementa: "Dá nova redação ao Capítulo XXVIII do Título VI do Regulamento do 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a303835f-1789-4626-94f5-5b03812f68fe
 atualizado_na_fonte: "2026-10-16 17:13:09"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4829,7 +7581,7 @@ ementa: "Introduz alteração no inciso VI, do art.11 e na alínea a , do inciso
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6bd75126-e533-4a6e-8001-a4a7f796f270
 atualizado_na_fonte: "2026-10-16 17:13:00"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -4888,7 +7640,7 @@ ementa: "Dá nova redação ao art. 1o do Decreto no 14.872, de 27 de dezembro d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0685a8d5-ff14-4522-8d3b-1dc4f61ac077
 atualizado_na_fonte: "2026-10-16 17:12:42"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4964,7 +7716,7 @@ ementa: "Dá nova redação ao art. 51 do RICMS, aprovado pelo Decreto no 14.744
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1e01756a-6808-4dce-acef-ec788ce769f7
 atualizado_na_fonte: "2026-10-16 17:12:33"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5027,7 +7779,7 @@ ementa: "Concede crédito presumido nas saídas de café torrado e moído da ind
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=976f223a-17da-4e2d-b11f-8c2f14218d50
 atualizado_na_fonte: "2026-10-16 17:12:24"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5083,7 +7835,7 @@ ementa: "Altera o art. 74 do Regulamento do ICMS, aprovado pelo Decreto no 14.74
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a4093a43-5c3a-47fa-b5c6-0ed47d48ca72
 atualizado_na_fonte: "2026-10-16 17:12:08"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5141,7 +7893,7 @@ ementa: "Introduz alterações no Regulamento do ICMS, aprovado pelo Decreto n.�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fdd31061-a6ac-4fb6-8b24-a3cd02eaf2aa
 atualizado_na_fonte: "2026-10-16 17:11:33"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5201,7 +7953,7 @@ ementa: "Dispõe sobre as operações com álcool anidro e combustíveis líquid
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82e84c66-cb8f-44a6-b8dd-1f187b6a0c35
 atualizado_na_fonte: "2026-10-16 17:11:19"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -5346,6 +8098,51 @@ Art. 13 - Este Decreto entra em vigor na data de sua publicação, produzindo os
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 19 DE JULHO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-15146-1996-18069.md>>>
+---
+documento: "DECRETO Nº 15.146 DE 19 DE JULHO DE 1996"
+tipo: decreto
+numero: 15146
+data: "1996-07-19"
+ementa: "Impõe o reconhecimento de idoneidade das notas fiscais de compras de bens ou serviços, realizadas pelos órgãos públicos estaduais, quando oriundos de outras unidades da Federação."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1a2c0f4e-95f2-4627-a118-f9772c56afb7
+atualizado_na_fonte: "2026-10-16 17:11:11"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.146 DE 19 DE JULHO DE 1996
+
+_Impõe o reconhecimento de idoneidade das notas fiscais de compras de bens ou serviços, realizadas pelos órgãos públicos estaduais, quando oriundos de outras unidades da Federação._
+
+**Data:** 1996-07-19  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO No 15.146 DE 19 DE JULHO DE 1996.
+
+Impõe o reconhecimento de idoneidade das notas fiscais de compras de bens ou serviços, realizadas pelos órgãos públicos estaduais, quando oriundos de outras unidades da Federação.
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe conferem os incisos III e V, do art. 64 da Constituição do Estado,
+
+
+D E C R E T A
+Art. 1º - Nas licitações realizadas por órgãos públicos estaduais da administração direta, indireta, autárquica e fundacional que envolvam compras de quaisquer bens ou serviços, sujeitos ao ICMS, de fornecedor ou prestador de outra unidade da Federação, fica exigida por ocasião da entrega do bem ou da prestação do serviço, a apresentação de declaração de idoneidade da nota fiscal relativa à aquisição ou prestação, emitida pela Secretaria de Economia, Finanças ou Fazenda da Unidade Federada ou do município do seu domicílio, respeitada a competência tributária.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 19 DE JULHO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-15154-1996-18070.md>>>
 ---
 documento: "DECRETO Nº 15.154 DE 24 DE JULHO DE 1996"
@@ -5356,7 +8153,7 @@ ementa: "Acrescenta, altera e revoga dispositivos do RICMS para reduzir a base d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6f20280b-27e6-48af-af9e-d71681cec3ee
 atualizado_na_fonte: "2026-10-16 17:10:59"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5460,7 +8257,7 @@ ementa: "Acrescenta o parágrafo único ao art. 719 do Regulamento do ICMS, apro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e74a4cb5-baab-435d-8952-5a4db6875337
 atualizado_na_fonte: "2026-10-16 17:10:47"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5506,7 +8303,7 @@ ementa: "Concede diferimento do ICMS nas operações internas e de importação 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce47251b-ddd0-4ca9-8342-dacf57e60648
 atualizado_na_fonte: "2026-10-16 17:10:22"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5546,6 +8343,114 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 01 DE AGOSTO DE 1996,
 Imprimir
 
 <!-- p. 2 -->
+<<<DOC normas/decreto/decreto-15179-1996-18073.md>>>
+---
+documento: "DECRETO Nº 15.179 DE 13 DE AGOSTO DE 1996"
+tipo: decreto
+numero: 15179
+data: "1996-08-13"
+ementa: "Dá nova redação ao art. 3o do Decreto no 14.872, de 27 de dezembro de 1995, e prorroga o prazo para a apropriação de crédito presumido decorrente da aquisição de equipamento Emissor de Cupom Fiscal - ECF."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=46f00ebc-563d-47a2-bc7d-ef5aa6c2f1fc
+atualizado_na_fonte: "2026-10-16 17:07:48"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.179 DE 13 DE AGOSTO DE 1996
+
+_Dá nova redação ao art. 3o do Decreto no 14.872, de 27 de dezembro de 1995, e prorroga o prazo para a apropriação de crédito presumido decorrente da aquisição de equipamento Emissor de Cupom Fiscal - ECF._
+
+**Data:** 1996-08-13  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO No 15.179 DE 13 DE AGOSTO DE 1996.
+
+
+Dá nova redação ao art. 3o do Decreto no 14.872, de 27 de dezembro de 1995, e prorroga o prazo para a apropriação de crédito presumido decorrente da aquisição de equipamento Emissor de Cupom Fiscal - ECF.
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado, e tendo em vista o art. 41 da Lei nº 4.914, de 29 de dezembro de 1988,
+
+D E C R E T A
+Art. 1o - Passa a vigorar com a seguinte redação o art. 3o do Decreto no 14.872, de 25 de dezembro de 1995 :
+
+“Art 3o - Fica vedada, a partir de 1o de outubro de 1996, a utilização de máquina registradora, terminais de ponto de venda e qualquer equipamento emissor de cupom fiscal que não atenda às exigências previstas no Convênio ICMS 156/94.”
+
+Art. 2º - Fica prorrogado, até o dia 31 de dezembro de 1996, o prazo para apropriação do crédito presumido decorrente da aquisição de Equipamento Emissor de Cupom Fiscal - ECF, de que trata o Decreto no 14.872, de 27 de dezembro de 1995.
+
+Art. 3o - Este Decreto entra em vigor na data da sua publicação, produzindo seus efeitos a partir de :
+
+I - 27 de dezembro de 1995, relativamente ao art. 1o ;
+
+II - 1o de agosto de 1996, relativamente ao art. 2o .
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 13 DE AGOSTO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
+
+<!-- p. 2 -->
+Imprimir
+<<<DOC normas/decreto/decreto-15180-1996-18074.md>>>
+---
+documento: "DECRETO Nº 15.180 DE 13 DE AGOSTO DE 1996"
+tipo: decreto
+numero: 15180
+data: "1996-08-13"
+ementa: "Dispõe sobre a tributação do estoque de álcool anidro e combustíveis líquidos e gasosos derivados de petróleo, exceto querosene de aviação e óleo combustível, existente nas distribuidoras destes produtos, inventariado em 31 de julho de 1996."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cd5950b1-d266-485f-ae61-661baa01f021
+atualizado_na_fonte: "2026-10-16 17:07:35"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.180 DE 13 DE AGOSTO DE 1996
+
+_Dispõe sobre a tributação do estoque de álcool anidro e combustíveis líquidos e gasosos derivados de petróleo, exceto querosene de aviação e óleo combustível, existente nas distribuidoras destes produtos, inventariado em 31 de julho de 1996._
+
+**Data:** 1996-08-13  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO No 15.180 DE 13 DE AGOSTO DE 1996.
+
+Dispõe sobre a tributação do estoque de álcool anidro e combustíveis líquidos e gasosos derivados de petróleo, exceto querosene de aviação e óleo combustível, existente nas distribuidoras destes produtos, inventariado em 31 de julho de 1996.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o art. 41 da Lei n.º 4.914, de 29 de dezembro de 1988, e o disposto no Decreto no 15.145, de 19 de julho de 1996,
+
+D E C R E T A
+
+Art. 1o - Relativamente ao álcool anidro e aos combustíveis líquidos e gasosos derivados de petróleo, exceto querosene de aviação e óleo combustível, para os fins de que trata o Decreto no 14.145, de 19 de julho de 1996, as distribuidoras destes produtos, no dia 1o de agosto de 1996, deverão :
+
+I - levantar o estoque existente no dia anterior, escriturando as quantidades e valores no livro Registro de Inventário ;
+
+II - calcular o imposto referente à substituição tributária, na forma regulamentar, relativo ao estoque mencionado no inciso anterior, podendo utilizar os créditos disponíveis na ocasião ;
+
+III - lançar o saldo devedor apurado no item 002 - “Outros débitos ” no livro Registro de Apuração do ICMS, no mês de julho de 1996, com a expressão “Estoque na implantação do Decreto no 15.145/96” ;
+
+IV - o imposto referente ao inciso anterior deverá ser recolhido até o dia 20 de agosto de 1996, podendo ser pago em até
+02 ( duas ) parcelas iguais, com vencimentos em 20 de agosto e 20 de setembro de 1996, respectivamente.
+
+Art. 2o - Este Decreto entra em vigor na data de sua publicação, produzindo os seus efeitos a partir de 31 de julho de 1996.
+
+<!-- p. 2 -->
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 13 DE AGOSTO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-15212-1996-18075.md>>>
 ---
 documento: "DECRETO Nº 15.212 DE 22 DE AGOSTO DE 1996"
@@ -5556,7 +8461,7 @@ ementa: "Dá nova redação aos §§ 1o e 2o do art. 3o do Decreto no 15.154, de
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ff717c22-3175-4cd4-b983-483ebd7d31cb
 atualizado_na_fonte: "2026-10-16 17:07:23"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5667,7 +8572,7 @@ ementa: "Dá nova redação ao inciso XI, do art. 13 do Regulamento do ICMS, apr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9e365ee4-abc8-4721-85df-92aa90b5ca66
 atualizado_na_fonte: "2026-10-16 17:07:12"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5706,6 +8611,56 @@ Art. 2o - Este Decreto entra em vigor na data de sua publicação.
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 28 DE AGOSTO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-15221-1996-18077.md>>>
+---
+documento: "DECRETO Nº 15.221 DE 28 DE AGOSTO DE 1996"
+tipo: decreto
+numero: 15221
+data: "1996-08-28"
+ementa: "Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=86f0b828-3064-4ba6-bb6f-bd3967a7c696
+atualizado_na_fonte: "2026-10-16 17:06:56"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "REVOGADA"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.221 DE 28 DE AGOSTO DE 1996
+
+_Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996._
+
+**Data:** 1996-08-28  
+**Remete a:** nada (norma autônoma)  
+**Situação:** REVOGADA
+
+> REVOGADA pela decreto 15246/1996 (normas/decreto/decreto-15246-1996-18079.md): "Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996, e revoga o Decreto no 15.221, de 28 de agosto de 1996."
+> REVOGADA pela decreto 15246/1996 (normas/decreto/decreto-15246-1996-18079.md): "2o - Fica revogado o Decreto no 15.221, de 28 de agosto de 1996."
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO No 15.221 DE 28 DE AGOSTO DE 1996.
+
+Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o art. 41 da Lei no 4.914, de 29 de dezembro de 1988,
+
+D E C R E T A
+
+Art. 1o - O caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996, passa a vigorar com a seguinte redação :
+
+“Art. 1o - No recebimento de contas de energia elétrica, fornecida pela Companhia Energética do Maranhão - CEMAR, as agências centralizadoras do Banco do Estado do Maranhão S/A - BEM e da Caixa Econômica Federal - CEF, em São Luís, deverão creditar o equivalente a 15 % ( quinze por cento ) do total recebido em conta especial, correspondente à parte do ICMS destacado na Nota Fiscal/Conta de Energia Elétrica, modelo 6.”
+
+Art. 2o - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 28 DE AGOSTO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-15229-1996-18078.md>>>
 ---
 documento: "DECRETO Nº 15.229 DE 04 DE SETEMBRO DE 1996"
@@ -5716,7 +8671,7 @@ ementa: "Dá nova redação ao inciso XI, do art. 13 do Regulamento do ICMS, apr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b4e6a71-c34e-4561-95ec-5537863f7f3b
 atualizado_na_fonte: "2026-10-16 17:06:33"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5754,6 +8709,54 @@ Art. 2o - Este Decreto entra em vigor na data de sua publicação.
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 04 DE SETEMBRO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-15246-1996-18079.md>>>
+---
+documento: "DECRETO Nº 15.246 DE 19 DE SETEMBRO DE 1996"
+tipo: decreto
+numero: 15246
+data: "1996-09-19"
+ementa: "Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996, e revoga o Decreto no 15.221, de 28 de agosto de 1996."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d1a6046b-2834-42a3-bf45-899567f97c16
+atualizado_na_fonte: "2026-10-16 17:02:01"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.246 DE 19 DE SETEMBRO DE 1996
+
+_Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996, e revoga o Decreto no 15.221, de 28 de agosto de 1996._
+
+**Data:** 1996-09-19  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO DECRETO No 15.246 DE 19 DE SETEMBRO DE 1996.
+
+Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996, e revoga o Decreto no 15.221, de 28 de agosto de 1996.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o art. 41 da Lei no 4.914, de 29 de dezembro de 1988,
+
+D E C R E T A
+
+Art. 1o - O caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996, passa a vigorar com a seguinte redação :
+
+“Art. 1o - No recebimento de contas de energia elétrica, fornecida pela Companhia Energética do Maranhão - CEMAR, as agências centralizadoras do Banco do Estado do Maranhão S/A - BEM e da Caixa Econômica Federal - CEF, em São Luís, deverão creditar o equivalente a 5 % ( cinco por cento ) do total recebido em conta especial, correspondente à parte do ICMS destacado na Nota Fiscal/Conta de Energia Elétrica, modelo 6.”
+
+Art. 2o - Fica revogado o Decreto no 15.221, de 28 de agosto de 1996.
+
+Art. 3o - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 19 DE SETEMBRO DE 1996, 175º DA INDEPENDÊNCIA E 108º DA REPÚBLICA.
+
+Imprimir
 <<<DOC normas/decreto/decreto-15263-1996-18080.md>>>
 ---
 documento: "DECRETO Nº 15.263 DE 08 DE OUTUBRO DE 1996"
@@ -5764,7 +8767,7 @@ ementa: "Concede isenção do ICMS nas prestações de serviço de transporte fe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=87302b12-0c9a-4e4e-8248-1a84b4f2d69c
 atualizado_na_fonte: "2026-10-16 17:01:32"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5806,6 +8809,72 @@ Art. 2o - Este Decreto entra em vigor na data de sua publicação.
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 08 DE OUTUBRO DE 1996, 175o DA INDEPENDÊNCIA E 108o DA REPÚBLICA.
 
 Imprimir
+<<<DOC normas/decreto/decreto-15269-1996-18081.md>>>
+---
+documento: "DECRETO Nº 15.269 DE 08 DE OUTUBRO DE 1996"
+tipo: decreto
+numero: 15269
+data: "1996-10-08"
+ementa: "Dispõe sobre o ressarcimento do ICMS incidente sobre a parcela do estoque de álcool anidro e combustíveis líquidos e gasosos derivados de petróleo, existente nas distribuidoras destes produtos, em 31 de julho de 1996, tributada na forma do Decreto no 15.180, de 13 de agosto de1996, e que tenha sido destinada a outra unidade da Federação."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e478a8ad-592c-47dd-8be4-eeee9c71c543
+atualizado_na_fonte: "2026-10-16 17:01:25"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.269 DE 08 DE OUTUBRO DE 1996
+
+_Dispõe sobre o ressarcimento do ICMS incidente sobre a parcela do estoque de álcool anidro e combustíveis líquidos e gasosos derivados de petróleo, existente nas distribuidoras destes produtos, em 31 de julho de 1996, tributada na forma do Decreto no 15.180, de 13 de agosto de1996, e que tenha sido destinada a outra unidade da Federação._
+
+**Data:** 1996-10-08  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO No 15.269 DE 08 DE OUTUBRO DE 1996
+
+
+Dispõe sobre o ressarcimento do ICMS incidente sobre a parcela do estoque de álcool anidro e combustíveis líquidos e gasosos derivados de petróleo, existente nas distribuidoras destes produtos, em 31 de julho de 1996, tributada na forma do Decreto no 15.180, de 13 de agosto de1996, e que tenha sido destinada a outra unidade da Federação.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o art.41 da Lei no 4.914, de 29 de dezembro de 1988, o Decreto no 15.145, de 19 de julho de 1996, e o Decreto no 15.180, de 13 de agosto de 1996,
+
+D E C R E T A
+Art. 1o - O valor do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicações - ICMS, normal e retido por substituição tributária, relativo à parcela do estoque de álcool anidro e de combustíveis líquidos e gasosos derivados de petróleo, exceto querosene de aviação e óleo combustível, existente nas distribuidoras destes produtos, em 31 de julho de 1996, que tenha sido destinada a outra unidade da Federação, e que tenha ensejado o recolhimento do ICMS por substituição tributária, nos termos do Decreto no 15.180, de 13 de agosto de 1996, será ressarcido à distribuidora, mediante a adoção, por parte desta, dos seguintes procedimentos:
+
+I - remessa à Superintendência da Receita Estadual de listagem contendo :
+
+a) o total e o valor do estoque de cada produto, antes mencionado, existente na distribuidora em 31 de julho de 1996;
+
+<!-- p. 2 -->
+b) o valor do crédito de ICMS normal, relativo a cada produto;
+
+c) o valor do ICMS, relativamente a cada produto, retido por substituição tributária, nos termos do Decreto no 15.180, de 13 de agosto de 1996, com cópia do comprovante de recolhimento deste;
+
+d) número das notas fiscais, data de emissão, destinatário, identificação do produto, valor total da nota, referente à parcela destinada a outra unidade da Federação, valor do crédito do ICMS normal remanescente e do ICMS retido por substituição tributária relativo a cada produto.
+
+II - remessa, juntamente com a listagem retromencionada, das cópias das notas fiscais relativas à alínea “d” do inciso anterior.
+
+III - emissão de nota fiscal no valor total da soma do crédito do ICMS remanescente com o valor do ICMS retido por substituição tributária, relativos à parcela do estoque de que trata o caput deste artigo, em favor da Petróleo Brasileiro S.A. - PETROBRAS, como forma de pagamento, cujo valor deverá ser abatido nas próximas operações com aquela empresa.
+
+Art. 3o - A Petróleo Brasileiro S.A. - PETROBRAS utilizará o crédito de que trata o inciso III do artigo anterior, quando do recolhimento aos cofres deste Estado, do ICMS de que trata o art. 6o do Decreto no 15.145, de 19 de julho de 1996.
+
+Art. 4o - A autorização para o ressarcimento de que trata este Decreto, dar-se-á por meio de ofício do Superintendente da Receita Estadual à Petróleo Brasileiro S.A. - PETROBRAS, após a homologação das informações contidas na listagem, pelas Coordenadorias de Fiscalização de Estabelecimentos e de Mercadorias em Trânsito.
+
+Art. 5o - Este Decreto entra em vigor na data de sua publicação, retroagindo os seus efeitos ao dia 1o de agosto de 1996.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 08 DE OUTUBRO DE 1996, 175o DA INDEPENDÊNCIA E 108o DA REPÚBLICA.
+
+<!-- p. 3 -->
+Imprimir
 <<<DOC normas/decreto/decreto-15296-1996-18083.md>>>
 ---
 documento: "DECRETO Nº 15.296 DE 11 DE NOVEMBRO DE 1996"
@@ -5816,7 +8885,7 @@ ementa: "Acrescenta o § 7o ao art. 598 e dá nova redação ao art. 599 do Regu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e619bf40-3d9c-4ee8-b6d7-f8c35c478ab6
 atualizado_na_fonte: "2026-10-16 17:00:56"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5865,7 +8934,7 @@ ementa: "Acrescenta o parágrafo único ao art. 263 do Regulamento do ICMS, apro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=32ac5873-efca-4759-8c94-c7da1c852b3f
 atualizado_na_fonte: "2026-10-16 17:00:35"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5918,7 +8987,7 @@ ementa: "Dá nova redação ao inciso XLVIII do art. 9o do Regulamento do ICMS, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2743fd4c-3066-4edd-94a0-540e6c07ecdf
 atualizado_na_fonte: "2026-10-16 17:00:29"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -5976,7 +9045,7 @@ ementa: "Dá nova redação à alínea b , do inciso VII, do art.13 e acrescenta
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cb5e72a8-51eb-42a9-a329-72c849744015
 atualizado_na_fonte: "2026-10-16 17:00:20"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6034,7 +9103,7 @@ ementa: "Acrescenta o parágrafo único ao art. 365 do Regulamento do ICMS, apro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b58dd892-f74e-4adb-ad18-fe5ce00bd87a
 atualizado_na_fonte: "2026-10-16 17:00:02"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6080,7 +9149,7 @@ ementa: "Acrescenta o § 7o ao art. 581 e dá nova redação ao art. 582 do Regu
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb7b45a2-77c3-4015-9e29-985888c6ee34
 atualizado_na_fonte: "2026-10-16 16:59:47"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6128,7 +9197,7 @@ ementa: "Altera a redação, revoga e acrescenta dispositivos ao Regulamento do 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=17cfd29c-eec4-4569-89f7-91df5f9f31d4
 atualizado_na_fonte: "2026-10-16 15:54:09"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6214,7 +9283,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto no 14
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f72e1626-8b2f-49bd-bb14-c505e540d7a3
 atualizado_na_fonte: "2026-10-16 15:54:44"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6507,7 +9576,7 @@ ementa: "Alterado pelo Decreto n.º 15.480, de 01.04.97. Alterado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=45fc3bcb-2fb3-4ed5-8217-a1bd6504233d
 atualizado_na_fonte: "2026-10-16 16:32:52"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -6635,7 +9704,7 @@ ementa: "Dá nova redação ao art. 582 do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=60dfc084-21e3-482f-9841-264dc6839678
 atualizado_na_fonte: "2026-10-16 16:33:13"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6693,7 +9762,7 @@ ementa: "Dá nova redação ao inciso VI do art. 581 do Regulamento do ICMS, apr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67e353bc-6542-4361-9620-3cb02f83e07a
 atualizado_na_fonte: "2026-10-16 16:33:21"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6736,7 +9805,7 @@ ementa: "Concede crédito presumido de 50% (cinqüenta por cento) sobre o ICMS i
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03f0049e-a7d4-4de7-b3cd-e1e3cbc56e5a
 atualizado_na_fonte: "2026-10-16 16:33:28"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -6788,7 +9857,7 @@ ementa: "Acrescenta o parágrafo único ao art. 353 do Regulamento do ICMS, apro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2d2e725-9387-43b3-aa49-a8a12964e9db
 atualizado_na_fonte: "2026-10-16 16:33:35"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6831,7 +9900,7 @@ ementa: "Dá nova redação ao caput do art. 685 do Regulamento do ICMS, aprovad
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=67d52c36-6e27-4f71-b3ee-366096dbd85b
 atualizado_na_fonte: "2026-10-16 16:33:40"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -6874,7 +9943,7 @@ ementa: "Dá nova redação aos arts. 490 e 493 do Regulamento do ICMS, aprovado
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96b178a1-5991-4ce4-b197-5cc34ea21b06
 atualizado_na_fonte: "2026-10-16 16:35:41"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7127,7 +10196,7 @@ ementa: "Dá nova redação ao art. 260 do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=251571dd-1fde-4648-809a-2f605efd8ca1
 atualizado_na_fonte: "2026-10-16 16:35:48"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7238,7 +10307,7 @@ ementa: "Dá nova redação ao art. 766 do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f00dc001-06d5-4627-8111-72e62e7c89fb
 atualizado_na_fonte: "2026-10-16 16:36:07"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7291,7 +10360,7 @@ ementa: "Dá nova redação ao caput do art. 842 e acrescenta o § 7o ao art. 85
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=959d46a0-b8bb-49e8-a446-5dad906347b3
 atualizado_na_fonte: "2026-10-16 16:36:17"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7340,7 +10409,7 @@ ementa: "Acrescenta o inciso XVII ao art. 37 do Regulamento do ICMS, aprovado pe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=65b620e9-7ea9-46b3-a99f-3043442b3518
 atualizado_na_fonte: "2026-10-16 16:36:31"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7387,7 +10456,7 @@ ementa: "Dá nova redação ao inciso XLVIII do art. 9o do Regulamento do ICMS, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=08d920cd-916a-444f-91fc-f27daf318fec
 atualizado_na_fonte: "2026-10-16 16:37:31"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7440,7 +10509,7 @@ ementa: "Acrescenta o §§ 3o , 4o e 5o ao art. 589 e o § 2o do art. 595 do Reg
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f125fb39-72ea-43e1-bf7b-d292bb6992ed
 atualizado_na_fonte: "2026-10-16 16:37:37"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7491,7 +10560,7 @@ ementa: "Dá nova redação ao parágrafo único do art. 675 do Regulamento do I
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=04c57704-fe79-483c-85ce-b30237466ca8
 atualizado_na_fonte: "2026-10-16 16:37:43"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7534,7 +10603,7 @@ ementa: "Altera o art. 76 do Regulamento do ICMS, aprovado pelo Decreto no 14.74
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=69d2b643-3662-4271-b6ea-5183cb39d0d4
 atualizado_na_fonte: "2026-10-16 16:38:03"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7586,7 +10655,7 @@ ementa: "Altera o art. 38 do RICMS e dispositivos do Decreto n.º 15.413 de 03 d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b2ba36ae-9941-4543-99c0-7380581ae49e
 atualizado_na_fonte: "2026-10-16 16:38:09"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -7644,7 +10713,7 @@ ementa: "Institui o Regime de Substituição Tributária para estabelecimentos a
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b9cc54ac-7b78-4216-b718-514397c9d589
 atualizado_na_fonte: "2026-10-16 16:38:26"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -7861,6 +10930,58 @@ Art. 3o - Fica o Secretário de Estado da Fazenda autorizado a editar os atos qu
 Art. 4o. - Este Decreto entra em vigor na data de sua publicação.
 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 30 DE ABRIL DE 1997, 176o DA INDEPENDÊNCIA E 109o DA REPÚBLICA.
+<<<DOC normas/decreto/decreto-15533-1997-18124.md>>>
+---
+documento: "DECRETO Nº 15.533 DE 30 DE ABRIL DE 1997"
+tipo: decreto
+numero: 15533
+data: "1997-04-30"
+ementa: "Concede isenção do diferencial de alíquotas e do ICMS relativo à importação de mercadorias na situação que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b8046fb-83b3-49f1-8818-9a0c063842a6
+atualizado_na_fonte: "2026-10-16 16:38:32"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.533 DE 30 DE ABRIL DE 1997
+
+_Concede isenção do diferencial de alíquotas e do ICMS relativo à importação de mercadorias na situação que especifica._
+
+**Data:** 1997-04-30  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 15.533 DE 30 DE ABRIL DE 1997.
+
+ Alterado pelo Decreto 15.752, de 14.08.97
+
+Concede isenção do diferencial de alíquotas e do ICMS relativo à importação de mercadorias na situação que especifica.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o Convênio ICMS 08/97, de 21 de março de 1997, celebrado e ratificado nos termos da Lei Complementar no 24, de 07 de janeiro de l975,
+
+Art. 1o - Fica isento do ICMS devido, relativamente ao diferencial de alíquotas, na entrada interestadual de máquinas, aparelhos, equipamentos, tubos e acessórios, bem como suas partes e peças, adquiridos pela empresa Confab Montagens Ltda, para a execução do projeto de construção e montagem do sistema de abastecimento de óleo Diesel e óleo combustível no Porto da Ponta da Madeira em São Luís - MA, mediante contrato firmado com a Petrobrás - Petróleo Brasileiro S. A .
+
+"Art. 1o - Fica isento do ICMS devido, relativamente ao diferencial de alíquotas, na entrada interestadual de máquinas, aparelhos, equipamentos, tubos e acessórios, bem como suas partes e peças, adquiridos pela empresa Confab Montagens Ltda, para a execução do projeto de construção e montagem do sistema de abastecimento de óleo Diesel e óleo combustível no Porto da Ponta da Madeira em São Luís – MA e para construção e montagem de uma esfera para armazenamento de Gás Liquefeito de Petróleo – GLP, nas instalações da PETROBRÁS, situadas no terminal de São Luís, mediante contrato firmado com a Petróleo Brasileiro S.A
+
+
+Parágrafo único - O disposto neste artigo aplica-se, também, à importação desses produtos, desde que sem similar nacional e a operação esteja beneficiada por isenção ou redução a zero das alíquotas dos impostos de Importação e sobre Produtos Industrializados.
+
+Art. 2o - Ficam prorrogadas, para o dia 30 de abril de 1997, as disposições do Decreto n.º 15.354, de 17 de dezembro de 1997.
+
+Art. 3o - Este Decreto entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 1o. de abril de 1997.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 30 DE ABRIL DE 1997, 176o DA INDEPENDÊNCIA E 108o DA REPÚBLICA.
 <<<DOC normas/decreto/decreto-15534-1997-18123.md>>>
 ---
 documento: "DECRETO Nº 15.534 DE 30 DE ABRIL DE 1997"
@@ -7871,7 +10992,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto no 14
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4e5771d5-2f41-4818-911e-e74dc616c7f2
 atualizado_na_fonte: "2026-10-16 16:38:41"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8115,7 +11236,7 @@ ementa: "Altera a redação do art. 92 do Regulamento do ICMS - RICMS, aprovado 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3fc1c250-ce85-4ce9-9e86-28c3f4fd26fb
 atualizado_na_fonte: "2026-10-16 16:38:48"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8167,6 +11288,56 @@ Art. 2o - Este Decreto entra em vigor na data de sua publicação.
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 30 DE ABRIL DE 1997, 176o DA INDEPENDÊNCIA E 109o DA REPÚBLICA.
 
 <!-- p. 2 -->
+<<<DOC normas/decreto/decreto-15553-1997-18121.md>>>
+---
+documento: "DECRETO Nº 15.553 DE 12 DE MAIO DE 1997"
+tipo: decreto
+numero: 15553
+data: "1997-05-12"
+ementa: "Estabelece prazo de pagamento do ICMS aos contribuintes sujeitos à apuração por período e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f9c66692-ec49-476f-922f-1a4d111242c6
+atualizado_na_fonte: "2026-10-16 16:40:28"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.553 DE 12 DE MAIO DE 1997
+
+_Estabelece prazo de pagamento do ICMS aos contribuintes sujeitos à apuração por período e dá outras providências._
+
+**Data:** 1997-05-12  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO No 15.553 DE 12 DE MAIO DE 1997.
+
+Estabelece prazo de pagamento do ICMS aos contribuintes sujeitos à apuração por período e dá outras providências.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+
+D E C R E T A
+
+
+Art. 1o - O pagamento do ICMS, pelos contribuintes sujeitos à apuração por período, far-se-á até o vigésimo dia do mês subsequente ao da ocorrência dos fatos geradores.
+
+
+Art. 2o - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir do dia 1o de maio de 1997.
+
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 12 DE MAIO DE 1997, 176o DA INDEPENDÊNCIA E 109o DA REPÚBLICA.
 <<<DOC normas/decreto/decreto-15554-1997-18120.md>>>
 ---
 documento: "DECRETO Nº 15.554 DE 12 DE MAIO DE 1997"
@@ -8177,7 +11348,7 @@ ementa: "Restabelece o art. 865 do Regulamento do ICMS aprovado pelo Decreto no 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5856a655-4128-4740-bc82-f855171aebda
 atualizado_na_fonte: "2026-10-16 16:41:24"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8217,6 +11388,56 @@ Art. 2o - Este Decreto entra em vigor na data de sua publicação.
 
 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 12 DE MAIO DE 1997, 176o DA INDEPENDÊNCIA E 109o DA REPÚBLICA.
+<<<DOC normas/decreto/decreto-15563-1997-18119.md>>>
+---
+documento: "DECRETO Nº 15.563 DE 12 DE MAIO DE 1997"
+tipo: decreto
+numero: 15563
+data: "1997-05-12"
+ementa: "Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7725b57c-e667-49c2-86e3-ee35cfcfa444
+atualizado_na_fonte: "2026-10-16 16:41:33"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.563 DE 12 DE MAIO DE 1997
+
+_Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996._
+
+**Data:** 1997-05-12  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO No 15.563 DE 12 DE MAIO DE 1997.
+
+Dá nova redação ao caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+
+D E C R E T A
+
+
+Art. 1o - O caput do art. 1o do Decreto no 15.153, de 24 de julho de 1996, passa a vigorar com a seguinte redação :
+
+"Art. 1o - No recebimento de contas de energia elétrica, fornecida pela Companhia Energética do Maranhão - CEMAR, as agências centralizadoras do Banco do Estado do Maranhão S/A - BEM e da Caixa Econômica Federal - CEF, em São Luís, deverão creditar o equivalente a 12 % (doze por cento) do total recebido em conta especial, correspondente à parte do ICMS destacado na Nota Fiscal/Conta de Energia Elétrica, modelo 6."
+
+
+Art. 2o - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 12 DE MAIO DE 1997, 176º DA INDEPENDÊNCIA E 109º DA REPÚBLICA.
 <<<DOC normas/decreto/decreto-15603-1997-18118.md>>>
 ---
 documento: "DECRETO Nº 15.603 DE 11 DE JUNHO DE 1997"
@@ -8227,7 +11448,7 @@ ementa: "Consolida os prazos de pagamento estabelecidos no Regulamento do ICMS, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b83f64ef-ddac-4087-aa0d-ee879706abf5
 atualizado_na_fonte: "2026-10-16 16:42:47"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8301,7 +11522,7 @@ ementa: "Consolida e altera as normas que regulamentam o regime jurídico aplic�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ccf864c8-0223-481e-945e-0591368dfa00
 atualizado_na_fonte: "2026-10-16 16:42:57"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8396,7 +11617,7 @@ ementa: "Altera os arts. 11, 38 e 51 do Regulamento do ICMS, aprovado pelo Decre
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3830d571-5624-46f4-a2ef-836754e7c664
 atualizado_na_fonte: "2026-10-16 16:43:08"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8559,7 +11780,7 @@ ementa: "Altera o art. 295 do Regulamento do ICMS, aprovado pelo Decreto no 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8e5ead3b-8ae2-48be-84bd-c037b1b59291
 atualizado_na_fonte: "2026-10-16 16:43:45"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8613,7 +11834,7 @@ ementa: "Altera os arts. 37 e 51 do Regulamento do ICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ff79bdfb-86aa-4a3d-8504-b10bd3571476
 atualizado_na_fonte: "2026-10-16 16:45:21"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8708,6 +11929,82 @@ Art. 2.º - Fica revogado o § 16 do art. 37, do citado Regulamento.
 Art. 3o - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1o. de julho de 1997.
 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 15 DE JULHO DE 1997, 176o DA INDEPENDÊNCIA E 109o DA REPÚBLICA.
+<<<DOC normas/decreto/decreto-15713-1997-18112.md>>>
+---
+documento: "DECRETO Nº 15.713 DE 25 DE JULHO DE 1997"
+tipo: decreto
+numero: 15713
+data: "1997-07-25"
+ementa: "Altera os arts. 5.º e 6.º Decreto n.º 15.413, de 03 de março de 1997, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fec1e79c-898e-4aa3-a4f1-badb4eeeb4ff
+atualizado_na_fonte: "2026-10-16 16:45:31"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.713 DE 25 DE JULHO DE 1997
+
+_Altera os arts. 5.º e 6.º Decreto n.º 15.413, de 03 de março de 1997, e dá outras providências._
+
+**Data:** 1997-07-25  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 15.713 DE 25 DE JULHO DE 1997.
+
+Altera os arts. 5.º e 6.º Decreto n.º 15.413, de 03 de março de 1997, e dá outras providências.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado.
+
+,
+
+D E C R E T A
+
+Art. 1.º Passa a vigorar com a seguinte redação os arts. 5.º e 6.º do Decreto n.º 15.413, de 03 de março de 1997:
+
+"Art. 5o - O contribuinte definido como microempresa deverá inscrever seu estabelecimento no cadastro de contribuintes do ICMS (CAD/ICMS), até o dia 31 de dezembro de 1997.
+
+§ 1o - O contribuinte de que trata o caput já devidamente cadastrado no CAD/ICMS deverá requerer alteração cadastral.
+
+§ 2o - O pedido de inscrição de que trata este artigo, deverá ser acompanhado dos seguintes documentos:
+
+I - termo de Opção ao SIMPLES expedido pela Secretaria da Receita Federal.
+
+II - cartão de inscrição no CGC/MF;
+
+III - atos constitutivos da sociedade, ou declaração de firma individual, devidamente registrada na Junta Comercial do Estado do Maranhão;
+
+IV - Cédula de Identidade e CPF dos sócios e, se for o caso, de seu procurador.
+
+§ 3o - O pedido de alteração de que trata este artigo, deverá ser acompanhado dos seguintes documentos:
+
+I - termo de Opção ao SIMPLES expedido pela Secretaria da Receita Federal.
+
+II - Ficha de Atualização Cadastral (FAC), preenchida com as devidas alterações.
+
+§ 4o Fica a Secretaria de Estado da Fazenda autorizada a proceder, de ofício, à inscrição ou alteração cadastral de contribuinte optante pelo SIMPLES, mediante informação da Secretaria da Receita Federal.
+
+<!-- p. 2 -->
+Art. 6o - Não poderá pagar o ICMS na forma do SIMPLES o contribuinte que:
+
+I - tenha débito inscrito em Dívida Ativa do Estado, cuja exigibilidade não esteja suspensa;
+
+II - incidir em crime contra a ordem tributária, nos termos da legislação penal."
+
+Art. 2.º - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 25 DE JULHO DE 1997, 176o DA INDEPENDÊNCIA E 108o DA REPÚBLICA.
 <<<DOC normas/decreto/decreto-15727-1997-18111.md>>>
 ---
 documento: "DECRETO Nº 15.727 DE 01 DE AGOSTO DE 1997"
@@ -8718,7 +12015,7 @@ ementa: "Acrescenta dispositivos ao Decreto 15.413, de 03 de março de 1997 que 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b74ba8f-fd19-4f2f-90e8-fd1afd5bac37
 atualizado_na_fonte: "2026-10-16 16:45:51"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -8888,7 +12185,7 @@ ementa: "Acrescenta alínea 'f' ao inciso VII do art. 13 do Regulamento do ICMS,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d5db723a-1fb1-432c-a4ee-53220ac10ede
 atualizado_na_fonte: "2026-10-16 16:46:01"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -8944,7 +12241,7 @@ ementa: "Restabelece o Capítulo XXVIII do Título VI do Regulamento do ICMS, ap
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=deca6f44-7f6e-41a1-b89d-243118a32ac4
 atualizado_na_fonte: "2026-10-16 16:46:13"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9072,7 +12369,7 @@ ementa: "Altera o art. 116 do Regulamento do ICMS, aprovado pelo Decreto n. 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=230e7bf4-41a1-41d5-bc97-76fe18813944
 atualizado_na_fonte: "2026-10-16 16:46:25"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9127,7 +12424,7 @@ ementa: "Institui o Regime de Substituição Tributária nas operações com gad
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c2b4a403-4c1b-4829-aa09-641f23c76045
 atualizado_na_fonte: "2026-10-16 16:46:44"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -9301,7 +12598,7 @@ ementa: "Altera o art. 753 do Regulamento do ICMS, aprovado pelo Decreto n.º 14
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=01016953-2499-4d06-b946-7b37e5e8dd4e
 atualizado_na_fonte: "2026-10-16 16:46:55"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9351,7 +12648,7 @@ ementa: "Altera os arts. 696 e 699 do Regulamento do ICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e08e6ed7-d1ac-4c7c-bcd0-401ff93e508c
 atualizado_na_fonte: "2026-10-16 16:47:14"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9413,7 +12710,7 @@ ementa: "Atribui aos remetentes de derivados de petróleo e dos demais combustí
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f50ce906-5f53-467c-b5e4-9fad8c6c564f
 atualizado_na_fonte: "2026-10-16 16:47:22"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -9749,7 +13046,7 @@ ementa: "Concede diferimento do ICMS na operações internas com insumos agropec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7ca20dae-4ac8-4946-aaee-404c9b423f8c
 atualizado_na_fonte: "2026-10-16 16:47:33"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -9889,7 +13186,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8aa70e3a-0522-4581-b680-d8b7af4d4591
 atualizado_na_fonte: "2026-10-16 16:49:11"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -9942,7 +13239,7 @@ ementa: "Restabelece o regime de substituição tributária, com produtos farmac
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d2af5ec0-af26-475d-b6d8-6b6825408703
 atualizado_na_fonte: "2026-10-16 16:49:17"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10100,7 +13397,7 @@ ementa: "Restabelece dispositivos do Regulamento do ICMS, aprovado pelo Decreto 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=52b6f0f4-64e5-4dcd-a951-3d92c41b231d
 atualizado_na_fonte: "2026-10-16 16:49:24"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10277,6 +13574,80 @@ Art. 2.º - O disposto neste Decreto não implica restituição ou compensação
 Art. 3.º - Este Decreto entra em vigor na data de sua publicação, retroagindo seu efeitos a 1o. de outubro de 1997.
 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 13 DE OUTUBRO DE 1997, 176o DA INDEPENDÊNCIA E 109o DA REPÚBLICA.
+<<<DOC normas/decreto/decreto-15908-1997-18099.md>>>
+---
+documento: "DECRETO Nº 15.908 DE 31 DE OUTUBRO DE 1997"
+tipo: decreto
+numero: 15908
+data: "1997-10-31"
+ementa: "Regulamenta o ressarcimento do ICMS às distribuidoras de combustíveis em relação ao álcool etílico anídro combustível, oriundo das empresas industriais e agroindustriais enquadradas no Sistema de Apoio à Indústria e ao Comércio Exterior do Maranhão-SINCOEX, instituído pela Lei nº 6.429, de 20 de setembro de 1995."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5db51fae-957a-4977-8b83-971b2f80ab88
+atualizado_na_fonte: "2026-10-16 16:50:14"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "PARCIALMENTE REVOGADA"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 15.908 DE 31 DE OUTUBRO DE 1997
+
+_Regulamenta o ressarcimento do ICMS às distribuidoras de combustíveis em relação ao álcool etílico anídro combustível, oriundo das empresas industriais e agroindustriais enquadradas no Sistema de Apoio à Indústria e ao Comércio Exterior do Maranhão-SINCOEX, instituído pela Lei nº 6.429, de 20 de setembro de 1995._
+
+**Data:** 1997-10-31  
+**Remete a:** nada (norma autônoma)  
+**Situação:** PARCIALMENTE REVOGADA
+
+> PARCIALMENTE REVOGADA pela decreto 18783/2002 (normas/decreto/decreto-18783-2002-18508.md): "Fica revogado o Capítulo XII do Título VII do Regulamento do ICMS, aprovado pelo Decreto nº 14.744 de 29 de setembro de 1995 e o Decreto nº 15.908 de 13 de outubro de 1997."
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+DECRETO Nº 15.908 DE 31 DE OUTUBRO DE 1997
+
+
+Regulamenta o ressarcimento do ICMS às distribuidoras de combustíveis em relação ao álcool etílico anídro combustível, oriundo das empresas industriais e agroindustriais enquadradas no Sistema de Apoio à Indústria e ao Comércio Exterior do Maranhão- SINCOEX, instituído pela Lei nº 6.429, de 20 de setembro de 1995.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da constituição do Estado e tendo em vista o Convênio ICMS nº 105/92 e suas alterações e o disposto no art. 15 do Decreto nº 15.825, de 29 de setembro de 1997.
+
+
+DECRETA
+
+Art. 1º - As empresas industriais e agroindustriais enquadradas no Sistema de Apoio à Industria e ao Comércio Exterior do Estado do Maranhão – SINCOEX, instituído pela Lei nº 6.429, de 20 de setembro de 1995, deverão emitir, quando do faturamento do álcool etílico anídro combustível, nota fiscal com destaque do ICMS devido.
+
+Art. 2º - O estabelecimento distribuidor de combustíveis destinatário que adquirir álcool etílico anídro combustível dos estabelecimentos previstos no artigo anterior deverá elaborar relação mensal contendo as indicações abaixo, encaminhando ao sujeito passivo por substituição tributária, o qual tiver originalmente retido o ICMS incidente sobre o produto, no momento da saída da gasolina, conforme determinação contida na cláusula décima quarta do Convênio ICMS nº80/97:
+
+
+I.
+Serie, número e data da nota fiscal do fornecedor;
+
+II. Quantidade e descrição da mercadoria
+
+III.
+Valor da operação;
+
+IV.
+Valor do imposto destacado;
+
+V. Identificação da empresa industrial ou agroindustrial fornecedora, com indicação do nome, endereço, inscrição no CAD- ICMS e no CGC/MF.
+
+<!-- p. 2 -->
+Art. 3º - O sujeito passivo por substituição tributária, de posse da relação prevista no artigo anterior, fará o ressarcimento á distribuidora de combustível da parcela referente ao ICMS do álcool etílico anídro combustível por ela paga ao produtor, deduzindo do valor a ser repassado à unidade federada de destino.
+
+§ 1º- O ressarcimento do imposto destacado nas notas fiscais de compra do produto será efetuado mediante emissão de nota fiscal, exclusiva para esse fim, em nome do estabelecimento fornecedor da gasolina que tenha retido originalmente o imposto.
+
+§ 2º- A nota fiscal emitida para o fim descrito no parágrafo anterior deverá ser visada pela Delegacia do Comércio Exterior e da Substituição Tributária acompanhada da relação de que trata o art. 2º.
+
+§ 3º - O sujeito passivo por substituição tributária ressarcirá à distribuidora até o décimo quinto dia útil do mês subseqüente ao da operação.
+
+Art. 4º - O valor do ICMS devido correspondente ao álcool etílico anídro combustível pelas empresas enquadradas no SINCOEX, destacado em documento fiscal, do período de 1º a 30 de setembro de 1997, poderá ser utilizado por referidas empresas na forma de crédito fiscal nas saídas subseqüentes de álcool junto ao Estado do Maranhão.
+
+Art. 5º - Este decreto entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 1º de outubro de 1997.
+
+Art. 6º - Revogam-se as disposições em contrário.
+
+PALACIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUIS 31 DE OUTUBRO DE 1997, 176ª DA INDEPENDÊNCIA E 109° DA REPÚBLICA.
 <<<DOC normas/decreto/decreto-15980-1997-18097.md>>>
 ---
 documento: "DECRETO Nº 15.980 DE 27 DE NOVEMBRO DE 1997"
@@ -10287,7 +13658,7 @@ ementa: "Dispõe sobre o Regime de Substituição Tributária para estabelecimen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e46a6044-ffab-40b1-89a0-d0ff3072ea00
 atualizado_na_fonte: "2026-10-16 16:50:52"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -10496,7 +13867,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto n.º 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=38081b57-e2da-4a57-8267-1873e46d7d7a
 atualizado_na_fonte: "2026-10-16 16:51:10"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10562,7 +13933,7 @@ ementa: "Acrescenta alínea d ao § 2.º do art. 13 do Regulamento do ICMS, apro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fbf87c5a-3d29-4d5e-8018-bfac1433422a
 atualizado_na_fonte: "2026-10-16 16:51:46"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10577,6 +13948,8 @@ _Acrescenta alínea d ao § 2.º do art. 13 do Regulamento do ICMS, aprovado pel
 **Situação:** histórica (alterava o RICMS/1995)
 
 > Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
+
+> Publicada em duplicidade no portal (ids 18093); mantida uma cópia.
 
 > Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
 <!-- p. 1 -->
@@ -10620,7 +13993,7 @@ ementa: "Restabelece, com a seguinte redação, os arts 579 a 588 do Regulamento
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=87f84889-047f-426c-b2ea-72d43f52a268
 atualizado_na_fonte: "2026-10-16 16:51:52"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10771,7 +14144,7 @@ ementa: "Acrescenta dispositivos ao Decreto no 15.820, de 22 de setembro de 1997
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=127f4a31-708a-4da8-bab6-2787dda55c58
 atualizado_na_fonte: "2026-10-16 16:51:59"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10840,7 +14213,7 @@ ementa: "Dá nova redação ao art. 51 do Regulamento do ICMS aprovado pelo Decr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=83e073b9-47d8-40e1-a1af-53d1e7b268c5
 atualizado_na_fonte: "2026-10-16 15:53:09"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -10936,6 +14309,88 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE JANEIRO DE 1998
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16065-1998-18147.md>>>
+---
+documento: "DECRETO Nº 16.065 DE 09 DE JANEIRO DE 1998"
+tipo: decreto
+numero: 16065
+data: "1998-01-09"
+ementa: "Acrescenta § 5.º ao art. 5.º do Decreto n.º 15.413, de 3 de março de 1997."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7e726709-0447-4379-976c-95483f3564a9
+atualizado_na_fonte: "2026-10-16 15:53:02"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.065 DE 09 DE JANEIRO DE 1998
+
+_Acrescenta § 5.º ao art. 5.º do Decreto n.º 15.413, de 3 de março de 1997._
+
+**Data:** 1998-01-09 (ano no PDF: 1997 (provável erro de digitação; mantida a data do portal))  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.065 DE 09 DE JANEIRO DE 1998.
+
+
+Acrescenta § 5.º ao art. 5.º do Decreto n.º 15.413, de 3 de março de 1997.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o art. 179 da Constituição Federal, bem como as leis federal n.º 9.317, de 5 de dezembro de 1996 e estadual n.º 6.872, de 16 de dezembro de 1996,
+
+
+D E C R E T A
+
+
+Art. 1o - Fica acrescentado o § 5.º ao art. 5.º do Decreto n.º 15.413, de 3 de março de 1997, com a seguinte redação:
+
+
+"§ 5.º - Fica o Delegado ou Diretor da Receita Estadual a que estiver circunscricionado o contribuinte, autorizado a inscrevêlo no CAD/ICMS, mediante apresentação do termo de opção ou comprovante de adesão (CGC/MF) ao SIMPLES, expedido pela Receita Federal até 31 de dezembro de 1997."
+
+
+Art. 2o - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a 1.º de janeiro de 1998.
+
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE JANEIRO DE 1997, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Acrescenta § 5.º ao art. 5.º do Decreto n.º 15.413, de 3 de março de 1997.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o art. 179
+
+<!-- p. 2 -->
+da Constituição Federal, bem como as leis federal n.º 9.317, de 5 de dezembro de 1996 e estadual n.º 6.872, de 16 de dezembro de 1996,
+
+
+D E C R E T A
+
+
+Art. 1o - Fica acrescentado o § 5.º ao art. 5.º do Decreto n.º 15.413, de 3 de março de 1997, com a seguinte redação:
+
+
+"§ 5.º - Fica o Delegado ou Diretor da Receita Estadual a que estiver circunscricionado o contribuinte, autorizado a inscrevêlo no CAD/ICMS, mediante apresentação do termo de opção ou comprovante de adesão (CGC/MF) ao SIMPLES, expedido pela Receita Federal até 31 de dezembro de 1997."
+
+
+Art. 2o - Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos a 1.º de janeiro de 1998.
+
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE JANEIRO DE 1997, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16066-1998-18148.md>>>
 ---
 documento: "DECRETO Nº 16.066 DE 09 DE JANEIRO DE 1998"
@@ -10946,7 +14401,7 @@ ementa: "Restabelece, com nova redação, art. 852 do Regulamento do ICMS."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=069b5de3-f175-47f9-ac2e-98f2f28cbf70
 atualizado_na_fonte: "2026-10-16 15:52:54"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11024,7 +14479,7 @@ ementa: "Prorroga prazos referentes à concessão de isenções fiscais e dá ou
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82c35c19-19de-4f08-bc0c-2b2d5552a0a1
 atualizado_na_fonte: "2026-10-16 15:52:46"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11223,7 +14678,7 @@ ementa: "Prorroga prazos referentes a reduções de bases de cálculo do ICMS e 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1b035791-9087-46eb-9fe4-1df42abf4759
 atualizado_na_fonte: "2026-10-16 15:52:38"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11353,7 +14808,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto n.º 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce1ed966-5853-49d1-a273-c90a9575181e
 atualizado_na_fonte: "2026-10-16 15:52:32"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11493,7 +14948,7 @@ ementa: "Concede isenção do ICMS às operações com equipamentos ou acessóri
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=09bf126f-73e7-4740-baf2-3737df0ff710
 atualizado_na_fonte: "2026-10-16 15:52:21"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11620,7 +15075,7 @@ ementa: "Dispõe sobre o parcelamento do ICMS nas condições que indica."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0c4a386f-1ea9-40ab-9fc9-446a5daec8f2
 atualizado_na_fonte: "2026-10-16 15:31:00"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11678,7 +15133,7 @@ ementa: "Altera os arts. 37 e 51 do Regulamento do ICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6c378da5-e2cd-47cb-a20f-0a1c15dc3189
 atualizado_na_fonte: "2026-10-16 15:29:37"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11836,6 +15291,77 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 03 DE FEVEREIRO DE 19
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16082-1998-18156.md>>>
+---
+documento: "DECRETO Nº 16.082 DE 19 DE FEVEREIRO DE 1998"
+tipo: decreto
+numero: 16082
+data: "1998-02-19"
+ementa: "Estabelece controle de conferência em estabelecimentos industriais e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=14231f9a-82d8-4973-a47a-7e710da9d5c3
+atualizado_na_fonte: "2026-10-16 15:29:11"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.082 DE 19 DE FEVEREIRO DE 1998
+
+_Estabelece controle de conferência em estabelecimentos industriais e dá outras providências._
+
+**Data:** 1998-02-19  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO No 16.082 DE 19 DE FEVEREIRO DE 1998.
+
+Estabelece controle de conferência em estabelecimentos industriais e dá outras providências.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado,
+
+D E C R E T A
+
+
+Art. 1.º - A critério da Superintendência de Administração Tributária, o controle de conferência de mercadorias em estabelecimentos industriais poderá ser feito mediante a instalação de aparelho contador mecânico ou eletrônico, fornecido pela Secretaria de Estado da Fazenda.
+
+§ 1.º - O disposto neste artigo aplica-se também aos estabelecimentos figoríficos, matadouros e similares.
+
+§ 2º - Serão instalados em cada estabelecimento, em locais adequados à sua finalidade, tantos aparelhos quanto o Fisco entender necessários.
+
+§ 3º - No ato da instalação, os aparelhos serão lacrados pelo Fisco, a fim de assegurar a sua inviolabilidade, vedado o deslacramento por pessoa não credenciada.
+
+§ 4º - O Fisco poderá efetuar intervenções periódicas no aparelho para leitura, controle e arquivo das informações registradas.
+
+§ 5.º - A critério do Secretário de Estado da Fazenda poderão ser instituídos outros mecanismos de controle para eferição da conferência de que trata o caput deste artigo.
+
+§ 6º - Os estabelecimentos cujos aparelhos apresentarem evidência de violação, poderão ter fixada, mediante arbitramento, a base de cálculo do ICMS devido.
+
+Art. 2.º - Serão previamente notificados os contribuintes em cujos estabelecimentos a Superintendência de Administração Tributária entender necessária a instalação dos referidos aparelhos.
+
+Parágrafo único - As despesas de aquisição e instalação dos aparelhos de conferência correrão exclusivamente por conta da Secretaria de Estado da Fazenda, ficando o contribuinte responsável apenas pela guarda e conservação dos mesmos.
+
+Art. 3.º - O contribuinte ao verificar dano ou defeito no aparelho, bem como rompimento do lacre de que trata o § 3º do art. 1.º, deverá comunicar o fato à Delegacia da Receita Estadual ou à Diretoria da Receita Estadual de sua circunscrição, no mesmo dia em que constatar a ocorrência.
+
+Art. 4.º - Por ocasião da instalação do aparelho de leitura do totalizador, bem como da constatação das ocorrências de que trata o artigo anterior, serão lavrados termos circunstanciados no livro fiscal próprio.
+
+<!-- p. 2 -->
+Art. 5.º - Ficam revogados os arts. 14 a 17 do Decreto n.º 15.820, de 22 de setembro de 1997.
+
+Art. 6o - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 19 DE FEVEREIRO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16083-1998-18157.md>>>
 ---
 documento: "DECRETO Nº 16.083 DE 19 DE FEVEREIRO DE 1998"
@@ -11846,7 +15372,7 @@ ementa: "Altera os arts. 241 e 306 do Regulamento do ICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=06bc29a5-abc8-453f-9f4d-6bc1f609997d
 atualizado_na_fonte: "2026-10-16 15:29:04"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11919,6 +15445,153 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 19 DE FEVEREIRO DE 19
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16084-1998-18158.md>>>
+---
+documento: "DECRETO Nº 16.084 DE 02 DE MARÇO DE 1998"
+tipo: decreto
+numero: 16084
+data: "1998-03-02"
+ementa: "Dispõe sobre a obrigatoriedade de uso de Equipamento Emissor de Cupom Fiscal (ECF) por estabelecimento que promova venda a varejo e prestação de serviço e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2898b8b4-82db-44f8-97e4-2c2a390c3f46
+atualizado_na_fonte: "2026-10-16 15:28:48"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "PARCIALMENTE REVOGADA"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.084 DE 02 DE MARÇO DE 1998
+
+_Dispõe sobre a obrigatoriedade de uso de Equipamento Emissor de Cupom Fiscal (ECF) por estabelecimento que promova venda a varejo e prestação de serviço e dá outras providências._
+
+**Data:** 1998-03-02  
+**Remete a:** nada (norma autônoma)  
+**Situação:** PARCIALMENTE REVOGADA
+
+> PARCIALMENTE REVOGADA pela decreto 26454/2010 (normas/decreto/decreto-26454-2010-19335.md): "Altera a redação do inciso V do § 1º do art. 145 do Regulamento do ICMS, aprovado pelo Decreto n° 19.714, de 10 de julho de 2003 e revoga o § 1° do art. 6° do Decreto n° 16.084 de 02 de março de 1998."
+> PARCIALMENTE REVOGADA pela decreto 26454/2010 (normas/decreto/decreto-26454-2010-19335.md): "2º Fica revogado o § 1° do art. 6° do Decreto n° 16.084 de 02 de março de 1998."
+> PARCIALMENTE REVOGADA pela decreto 26454/2010 (normas/decreto/decreto-26454-2010-19335.md): "Altera a redação do inciso V do § 1º do art. 145 do RICMS, aprovado pelo Decreto n° 19.714/2003 e revoga o § 1° do art. 6° do Decreto n° 16.084/1998."
+> PARCIALMENTE REVOGADA pela decreto 18337/2001 (normas/decreto/decreto-18337-2001-18461.md): "Dá nova redação ao inciso VI do § 1º do art. 157 do Regulamento do ICMS e revoga o § 11 do art. 6º do Decreto nº 16.084/98, de 02 de março de 1998, que dispõe sobre a obrigatoriedade de uso de equipamento Emissor de Cupo"
+> PARCIALMENTE REVOGADA pela decreto 18337/2001 (normas/decreto/decreto-18337-2001-18461.md): "2º- Fica revogado o § 11 do art. 6º do Decreto nº 16.084/98, de 02 de março de 1998."
+> PARCIALMENTE REVOGADA pela decreto 18337/2001 (normas/decreto/decreto-18337-2001-18461.md): "Dá nova redação ao inciso VI do § 1º do art. 157 do RICMS e revoga o § 11 do art. 6º do Decreto nº 16.084/1998 - obrigatoriedade de uso de equipamento ECF."
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO No 16.084 DE 02 DE MARÇO DE 1998.
+
+Dispõe sobre a obrigatoriedade de uso de Equipamento Emissor de Cupom Fiscal (ECF) por estabelecimento que promova venda a varejo e prestação de serviço e dá outras providências.
+
+A GOVERNADORA DO ESTADO DO MARANHÃO no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o disposto no art. 63 da Lei n.º 9.532, de 10 de dezembro de 1997,
+
+D E C R E T A
+
+
+1.º - Os estabelecimentos que exerçam a atividade de venda ou revenda de mercadorias ou bens a varejo ou de prestação de serviços estão obrigados ao uso de equipamento Emissor de Cupom Fiscal (ECF).
+
+§ 1º - As especificações do equipamento ECF de que trata este artigo são as definidas no Convênio ICMS 156/94, de 7 de dezembro de 1994, devendo o equipamento ter a capacidade de satisfazer as condições ali estabelecidas.
+
+§ 2º - Somente será permitida a emissão de documento fiscal por qualquer outro meio, inclusive o manual, por razões de força maior ou caso fortuito, tais como falta de energia elétrica, quebra ou furto do equipamento, e nas condições previstas no Ajuste SINIEF S/Nº de 15 de dezembro de 1970, devendo o usuário anotar o motivo no livro Registro de Utilização de Documentos Fiscais e Termos de Ocorrência (RUDFTO), modelo 6.
+
+§ 3º - O contribuinte, pessoa física ou jurídica, com receita bruta anual de até R$ 120.000,00 (cento e vinte mil Reais), sem estabelecimento fixo ou permanente, portando o seu estoque de mercadorias, com ou sem utilização de veículo, que exerça atividade comercial na condição de barraqueiro, ambulante, feirante, mascate, tenda e similares, será desobrigado do uso de ECF.
+
+§ 4º - O disposto no caput não se aplica às operações:
+
+I - com veículos automotores;
+
+II - realizadas fora do estabelecimento;
+
+III - realizadas por concessionárias ou permissionárias de serviço público.
+
+Art. 2.º Para efeito de comprovação de custos e despesas operacionais, no âmbito da legislação do imposto de renda e da contribuição social sobre o lucro líquido, os documentos emitidos pelo ECF devem conter, em relação à pessoa física ou jurídica compradora no mínimo:
+
+I - a sua identificação, mediante a indicação do número de inscrição no Cadastro de Pessoas Físicas (CPF), se pessoa física, ou no Cadastro Geral de Contribuinte (CGC), se pessoa jurídica, ambos do Ministério da Fazenda;
+
+<!-- p. 2 -->
+II - a descrição dos bens ou serviços objeto da operação, ainda que resumida ou por códigos;
+
+III - a data e o valor da operação.
+
+Art. 3.º A utilização, no recinto de atendimento ao público, de equipamento que possibilite o registro ou o processamento de dados relativos a operações com mercadorias ou com a prestação de serviços somente será admitida quando integrar o ECF, de acordo com autorização concedida pela repartição fiscal a que estiver vinculada o estabelecimento.
+
+Parágrafo único O equipamento em uso, sem a autorização a que se refere o caput ou que não satisfaça os requisitos desta, poderá ser apreendido pela Secretaria da Receita Federal ou pela Secretaria de Estado da Fazenda, e utilizado como prova de infração à legislação tributária.
+
+Art. 4.º A partir do uso de ECF pelas empresas a que se refere o art. 1.º, a emissão do comprovante de pagamento de operação ou prestação efetuado com cartão de crédito ou débito automático em conta corrente somente poderá ser feita por meio de ECF, devendo o comprovante estar vinculado ao documento fiscal emitido na operação ou prestação respectiva, conforme disposto na legislação pertinente.
+
+Parágrafo único A empresa já usuária de ECF ou de terminal ponto de venda (PDV), disciplinado no Convênio ICM 44/87, de 18 de agosto de 1987, deverá adequar-se ao disposto no caput até 31 de dezembro de 1998.
+
+Art. 5.º - A partir de 1º de julho de 1998, a utilização, por empresa não obrigada ao uso de ECF, de equipamento, eletrônico ou não, destinado ao registro de operação financeira com cartão de crédito ou equivalente, conforme disposto na legislação pertinente, somente será permitida se constar no anverso do respectivo comprovante:
+
+I - o tipo e o número do documento fiscal vinculado à operação ou prestação seguido, se for o caso, do número seqüencial do equipamento no estabelecimento, devendo o tipo do documento fiscal emitido ser indicado por:
+
+a) - CF, para Cupom Fiscal;
+
+b) - BP, para Bilhete de Passagem;
+
+c) - NF, para Nota Fiscal;
+
+d) - NC, para Nota Fiscal de Venda a Consumidor;
+
+II - a expressão "Exija o Documento Fiscal de Número Indicado Neste Comprovante", impressa, em caixa alta, tipograficamente ou no momento da emissão do comprovante
+
+Parágrafo único O disposto no caput aplicar-se-á também, ao usuário de equipamento do tipo máquina registradora (MR), disciplinada no Convênio ICM 24/86, de 17 de junho de 1986, e ao usuário de ECF do tipo máquina registradora (ECF - MR) sem capacidade de comunicação a computador e de emissão do respectivo comprovante, até a substituição destes por ECF com essa capacidade.
+
+<!-- p. 3 -->
+Art. 6.º - A utilização de ECF pelos estabelecimentos a que se refere art. 1.º, observará os seguintes prazos:
+
+I - imediatamente, em razão do início de suas atividades, para o estabelecimento com expectativa de receita bruta anual acima de R$ 120.000,00 (cento e vinte mil Reais);
+
+II - para o estabelecimento que já exerce suas atividades e que não seja usuário de equipamento que emita Cupom Fiscal:
+
+a) - até 30 de junho de 1998, para o estabelecimento com receita bruta anual superior a R$ 12.000.000,00 (doze milhões de Reais);
+
+b) - até 31 de setembro de 1998, para o estabelecimento com recita bruta anual acima de R$ 6.000.000,00 (seis milhões de Reais) até R$ 12.000.000,00 ( doze milhões de Reais ) ;
+
+c) - até 31 de dezembro de 1998, para o estabelecimento com receita bruta anual acima de R$ 2.000.000,00 ( dois milhões de Reais ) até R$ 6.000.000,00 ( seis milhões de Reais )
+
+d) - até 31 de março de 1999, para o estabelecimento com receita bruta anual acima de R$ 720.000,00 (setecentos e vinte mil Reais) até R$ 2.000.000,00 (dois milhões de Reais);
+
+e) - até 30 de junho de 1999, para o estabelecimento com receita bruta anual acima de R$ 480.000,00 (quatrocentos e oitenta mil Reais) até R$ 720.000,00 (setecentos e vinte mil Reais);
+
+f) - até 30 de setembro de 1999, para o estabelecimento com receita bruta anual acima de R$ 240.000,00 ( duzentos e quarenta mil Reais ) até R$ 480.000,00 (quatrocentos e oitenta mil Reais);
+
+g) - até 31 de dezembro de 1999, para o estabelecimento com receita bruta anual acima de R$ 120.000,00 (cento e vinte mil Reais) até R$ 240.000,00 (duzentos e quarenta mil Reais);
+
+III - para o estabelecimento que já exerce suas atividades e que seja usuário de equipamento que emita Cupom Fiscal:
+
+a) - até 30 de junho de 1999, para o estabelecimento com receita bruta anual superior a R$ 12.000.000,00 (doze milhões de Reais );
+
+b) - até 30 de setembro de 1999, para o estabelecimento com receita bruta anual acima de R$ 6.000.000,00 ( seis milhões de Reais) até R$ 12.000.000,00 (doze milhões de Reais);
+
+c) - até 31 de dezembro de 1999, para o estabelecimento com receita bruta anual acima de R$ 2.000.000,00 (dois milhões de Reais) até R$ 6.000.000,00 (seis milhões de Reais);
+
+d) - até 31 de março de 2000, para o estabelecimento com receita bruta anual acima de 720.000,00 (setecentos e vinte mil Reais) até R$ 2.000.000,00 (dois milhões de Reais);
+
+<!-- p. 4 -->
+e) - até 30 de junho de 2000, para o estabelecimento com receita bruta anual acima de 480.000,00 (quatrocentos e oitenta mil Reais) até R$ 720.000,00 (setecentos e vinte mil Reais);
+
+f) - até 30 de setembro de 2000, para o estabelecimento com receita bruta anual acima de R$ 240.000,00 (duzentos e quarenta mil Reais) até R$ 480.000,00 (quatrocentos e oitenta mil Reais);
+
+g) - até 31 de dezembro de 2000, para o estabelecimento com receita bruta anual acima de R$ 120.000,00 (cento e vinte mil Reais) até R$ 240.000,00 (duzentos e quarenta mil Reais);
+
+IV - até 31 de dezembro de 2000, para o estabelecimento prestador de serviços de transporte interestadual e intermunicipal e de comunicação, mesmo em razão do início de suas atividades.
+
+§ 1º - Legislação específica definirá, até 31 de dezembro de 1998, a data em que entrará em vigor o uso obrigatório de ECF, para estabelecimento com receita bruta anual de até R$ 120.000,00 (cento e vinte mil Reais).
+
+§ 2º - Para o enquadramento nos prazos previstos neste artigo, deverá ser considerado o somatório da receita bruta anual de todos os estabelecimentos da mesma empresa situados neste Estado.
+
+§ 3º - Considera-se receita bruta para os efeitos deste Decreto o produto da venda de bens e serviços nas operações de conta própria, o preço dos serviços prestados e o resultado auferido nas operações em conta alheia, não incluído o Imposto sobre Produtos Industrializados - IPI, as vendas canceladas e os descontos incondicionais concedidos.
+
+Art. 4o - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 02 DE MARÇO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16085-1998-18159.md>>>
 ---
 documento: "DECRETO Nº 16.085 DE 02 DE MARÇO DE 1998"
@@ -11929,7 +15602,7 @@ ementa: "Altera o art. 295 do Regulamento do ICMS, aprovado pelo Decreto n.º 14
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5fe4e4af-a930-4dd6-9ca2-5c4f170173e5
 atualizado_na_fonte: "2026-10-16 15:28:40"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -11998,7 +15671,7 @@ ementa: "Estabelece procedimentos para liberação de mercadorias em Postos Fisc
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7a087f4a-f4c6-4f01-a9e2-92fa009e75d4
 atualizado_na_fonte: "2026-10-16 15:28:28"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12083,7 +15756,7 @@ ementa: "Acrescenta o § 2.º ao art. 109 do Regulamento do ICMS, aprovado pelo 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c16734a7-9c95-4007-8c8a-d90c45ff287b
 atualizado_na_fonte: "2026-10-16 15:28:10"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12172,7 +15845,7 @@ ementa: "Altera os arts. 903 a 908 do Regulamento do ICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=410be2ae-49d2-47c8-9d19-9465d1e02599
 atualizado_na_fonte: "2026-10-16 15:27:45"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12390,6 +16063,74 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 01 DE ABRIL DE 1998, 
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16152-1998-18164.md>>>
+---
+documento: "DECRETO Nº 16.152 DE 02 DE ABRIL DE 1998"
+tipo: decreto
+numero: 16152
+data: "1998-04-02"
+ementa: "Institui a Campanha 'NOTA NA MÃO' no Estado do Maranhão e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ec441457-fe88-4cb9-95b0-4eda66117f71
+atualizado_na_fonte: "2026-10-16 15:27:27"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.152 DE 02 DE ABRIL DE 1998
+
+_Institui a Campanha "NOTA NA MÃO" no Estado do Maranhão e dá outras providências._
+
+**Data:** 1998-04-02  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.152 DE 02 DE ABRIL DE 1998.
+
+Institui a Campanha "NOTA NA MÃO" no Estado do Maranhão e dá outras providências.
+
+
+A GOVERNADORA DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 64, inciso III, da Constituição Estadual e,
+
+Considerando a necessidade de divulgar entre os cidadãos maranhenses a importância da Nota Fiscal como instrumento garantidor da arrecadação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS;
+
+Considerando que a premiação é um estímulo para a consolidação do hábito de o consumidor exigir a Nota Fiscal, que todo contribuinte está legalmente obrigado a emitir e, ainda, uma forma de incrementar a Receita Estadual,
+
+D E C R E T A
+
+Art. 1º Fica instituída a campanha de conscientização da população para os fins sociais da tributação e de incremento da arrecadação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, denominada "NOTA NA MÃO", a ser desenvolvida em todo o Estado do Maranhão.
+
+Art. 2º A sistemática da campanha consiste na troca de notas fiscais provenientes da aquisição de bens para consumo final por cupons que darão direito a participar de sorteios e ingresso nos jogos do Campeonato Maranhense de Futebol Profissional do ano de 1998.
+
+Parágrafo único - Para efeito da participação de que trata este artigo, será exigida a entrega de notas fiscais no valor mínimo de R$ 50,00 (cinquenta reais), por cupom, observado o limite máximo de R$ 600,00 (seiscentos reais) por documento fiscal, devendo ser desprezadas as frações e valores excedentes aos limites acima indicados.
+
+Art. 3º Os locais, as datas dos sorteios, a relação dos prêmios, assim como os nomes dos contemplados, serão amplamente divulgados pelos meios de comunicação.
+
+Art. 4º Caberá a Secretarias de Estado da Fazenda coordenar e supervisionar a campanha instituída por este Decreto.
+
+Parágrafo único – O Secretário da Fazenda, por portaria, editará o regulamento da campanha, disciplinando a forma de participação, os sorteios, a distribuição dos prêmios e o prazo de sua duração.
+
+Art. 5º As Secretarias de Estado e os órgãos e entidades da Administração Indireta do Estado, inclusive Fundacional, deverão prestar, sempre que lhes for solicitado, o apoio e a colaboração necessários ao êxito da campanha de que trata o presente Decreto.
+
+<!-- p. 2 -->
+Art. 6° A Secretaria de Estado do Planejamento alocará os recursos necessários à consecução dos objetivos da campanha de que trata este Decreto.
+
+Art. 7° No decorrer da Campanha "NOTA NA MÃO", serão desenvolvidas atividades artísticas e culturais, assim como, um trabalho de educação tributária junto as escolas públicas.
+
+Art. 8º Este Decreto entra em vigor na data de sua publicação.
+
+Art. 9º Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 02 DE ABRIL DE 1998, 177º DA INDEPENDÊNCIA E 110º DA REPÚBLICA.
 <<<DOC normas/decreto/decreto-16155-1998-18166.md>>>
 ---
 documento: "DECRETO Nº 16.155 DE 13 DE ABRIL DE 1998"
@@ -12400,7 +16141,7 @@ ementa: "Dá nova redação ao art. 614 do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c0c7fb92-2d52-4cf7-80f7-37a4329d750e
 atualizado_na_fonte: "2026-10-16 15:27:03"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12483,7 +16224,7 @@ ementa: "Dá nova redação aos arts 686 e 689 do Regulamento do ICMS, aprovado 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=960022e1-005d-464a-af53-16d3ff5048ff
 atualizado_na_fonte: "2026-10-16 15:26:56"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12741,7 +16482,7 @@ ementa: "Dá nova redação aos dispositivos que indica do Regulamento do ICMS, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c9b4f6d7-be3e-4224-b8a9-01f23bcdfd38
 atualizado_na_fonte: "2026-10-16 15:26:47"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12856,7 +16597,7 @@ ementa: "Dá nova redação aos arts. 37 e 51 do Regulamento do ICMS, aprovado p
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a40b496-f30f-4511-9e38-82d326339c67
 atualizado_na_fonte: "2026-10-16 15:26:40"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -12990,7 +16731,7 @@ ementa: "Acrescenta dispositivos ao art. 10 do Regulamento do ICMS, aprovado pel
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=242e63dd-3f77-4c94-915b-3be347a4fb52
 atualizado_na_fonte: "2026-10-16 15:25:02"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13043,6 +16784,65 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 20 DE ABRIL DE 1998, 
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16160-1998-18171.md>>>
+---
+documento: "DECRETO Nº 16.160 DE 14 DE ABRIL DE 1998"
+tipo: decreto
+numero: 16160
+data: "1998-04-20"
+ementa: "Acrescenta dispositivo ao Decreto n.º 15.413, de 3 de março de 1997, que dispõe sobre o regime jurídico tributário dispensado à microempresa maranhense."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a90f20c6-87b2-4763-bf6e-dfb34c90aeb5
+atualizado_na_fonte: "2026-10-16 15:24:51"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.160 DE 14 DE ABRIL DE 1998
+
+_Acrescenta dispositivo ao Decreto n.º 15.413, de 3 de março de 1997, que dispõe sobre o regime jurídico tributário dispensado à microempresa maranhense._
+
+**Data:** 1998-04-20 (data no portal: 1998-04-14 (divergente do PDF))  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.160 DE 14 DE ABRIL DE 1998.
+
+Acrescenta dispositivo ao Decreto n.º 15.413, de 3 de março de 1997, que dispõe sobre o regime jurídico tributário dispensado à microempresa maranhense.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado, e tendo em vista o disposto na Lei n.º 6.872, de 16 de dezembro de 1996,
+
+
+
+D E C R E T A
+
+
+
+Art. 1º - Fica acrescentado, com a seguinte redação, o art. 9.º ao Decreto n.º 15.413, de 3 de março de 1997, renumerando-se o atual art. 9.º para 10.
+
+"Art. 9.º – A exclusão do pagamento do ICMS pelo sistema de que trata este Decreto dar-se-á:
+
+I – por opção do contribuinte;
+
+II – obrigatoriamente, além dos casos previstos na Lei Federal n.º 9.317, de 5 de dezembro de 1996, quando, no anocalendário de início de atividades, o contribuinte ultrapassar o limite de receita bruta correspondente a R$ 10.000,00 (dez mil reais) multiplicados pelo número de meses de funcionamento nesse período."
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação.
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 20 DE ABRIL DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16183-1998-18173.md>>>
 ---
 documento: "DECRETO Nº 16.183 DE 30 DE ABRIL DE 1998"
@@ -13053,7 +16853,7 @@ ementa: "Acrescenta o inciso VI ao art. 256 e dá nova redação aos arts. 257 e
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=87c6995f-a159-46ff-98f4-5d5a2014b269
 atualizado_na_fonte: "2026-10-16 15:24:35"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13113,7 +16913,7 @@ ementa: "Dá nova redação ao inciso XXIII do art. 10 do Regulamento do ICMS, a
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b4aab403-71c9-45fb-aaf9-0c1fc139b337
 atualizado_na_fonte: "2026-10-16 15:24:20"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13195,7 +16995,7 @@ ementa: "Dá nova redação ao art. 156 do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cac90950-33bf-4eac-a149-1304711115c3
 atualizado_na_fonte: "2026-10-16 15:24:08"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13281,7 +17081,7 @@ ementa: "Altera os arts. 453 e 462 do Regulamento do ICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5fb2c80f-0a3b-4e5e-888c-a3ef95ee0fcc
 atualizado_na_fonte: "2026-10-16 15:24:01"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13407,7 +17207,7 @@ ementa: "Acrescenta o § 6º ao art. 714 do Regulamento do ICMS, aprovado pelo D
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f2205f51-c5c6-46c5-aba1-994e2287352c
 atualizado_na_fonte: "2026-10-16 15:23:52"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13492,7 +17292,7 @@ ementa: "Acrescenta o inciso LXXIII e o § 19 ao art. 9º do Regulamento do ICMS
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d23012a0-e3e9-4a8a-b3aa-2da39438cee7
 atualizado_na_fonte: "2026-10-16 15:23:44"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13569,7 +17369,7 @@ ementa: "Acrescenta alínea 'o' ao inciso XII do art. 37 do Regulamento do ICMS,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5ac3be6f-4950-45dd-b652-f4bbcefc9282
 atualizado_na_fonte: "2026-10-16 15:23:25"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13639,7 +17439,7 @@ ementa: "Acrescenta o inciso XIII ao art. 13 do RICMS, aprovado pelo Decreto n.�
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8b6cda95-050f-4fd5-b0e6-ec07fc90054c
 atualizado_na_fonte: "2026-10-16 15:23:09"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13701,7 +17501,7 @@ ementa: "Altera o art. 96 do RICMS, aprovado pelo Decreto n.º 14.744, de 29 de 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=823b191a-30a6-4bf6-b2b9-a438ba72441f
 atualizado_na_fonte: "2026-10-16 15:22:46"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13762,7 +17562,7 @@ ementa: "Acrescenta a alínea 'e' ao § 2.º do art. 13 do Regulamento do ICMS, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=92603865-10b4-4c25-a16a-79dd8656fcb4
 atualizado_na_fonte: "2026-10-16 15:22:31"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13831,7 +17631,7 @@ ementa: "Acrescenta o inciso XIII ao art. 13 do Regulamento do ICMS, aprovado pe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=221105c9-bd8e-4519-accf-233055dfd9ba
 atualizado_na_fonte: "2026-10-16 15:22:12"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -13900,7 +17700,7 @@ ementa: "Acrescenta o inciso XXXI ao art. 10 do Regulamento do ICMS, aprovado pe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7497b510-dc62-447d-ba09-7e8e069f5ac7
 atualizado_na_fonte: "2026-10-16 15:22:05"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14003,7 +17803,7 @@ ementa: "Altera o inciso LI, do art. 9.º do Regulamento do ICMS, aprovado pelo 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd2be2f6-a73f-4e58-8ce9-fa32d1d445ef
 atualizado_na_fonte: "2026-10-16 15:21:57"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14088,7 +17888,7 @@ ementa: "Acrescenta dispositivos aos arts. 444 e 468 do Regulamento do ICMS, apr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6b7fbcd7-76aa-4289-ad1d-d34809e5e719
 atualizado_na_fonte: "2026-10-16 15:21:46"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14252,7 +18052,7 @@ ementa: "Altera o § 4º do art. 277 do Regulamento do ICMS, aprovado pelo Decre
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e38fac9b-0e49-400e-add7-5f73d5117190
 atualizado_na_fonte: "2026-10-16 15:19:37"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14335,7 +18135,7 @@ ementa: "Acrescenta dispositivos aos arts. 263 e 282 do Regulamento do ICMS, apr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=adbb370f-699b-4e18-8116-cf580bcfe6c5
 atualizado_na_fonte: "2026-10-16 15:19:30"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14408,6 +18208,240 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 13 DE AGOSTO DE 1998,
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16406-1998-18190.md>>>
+---
+documento: "DECRETO Nº 16.406 DE 17 DE AGOSTO DE 1998"
+tipo: decreto
+numero: 16406
+data: "1998-08-17"
+ementa: "Dispõe sobre o diferimento nas operações com leite fresco destinado à industrialização."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=94878581-29dc-48ab-966c-2fa444b4a5f9
+atualizado_na_fonte: "2026-10-16 15:19:05"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.406 DE 17 DE AGOSTO DE 1998
+
+_Dispõe sobre o diferimento nas operações com leite fresco destinado à industrialização._
+
+**Data:** 1998-08-17  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.406 DE 17 DE AGOSTO DE 1998.
+
+Publicado no DOE de 26.08.98
+
+Dispõe sobre o diferimento nas operações com leite fresco destinado à industrialização.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+DECRETA
+
+Art. 1.º - São diferidos o lançamento e o pagamento do ICMS nas operações com leite fresco destinado ao Estado do Piauí com o fim específico de industrialização.
+
+Parágrafo único – Para fruição do benefício de que trata este Decreto, a nota fiscal que acobertar a mercadoria mencionada no caput deverá conter em seu corpo, carimbo ou etiqueta comprovadora de sua passagem pelo posto fiscal de divisa entre os Estados do Maranhão e do Piauí.
+
+Art. 2.º - Verificada a falta de veracidade nas operações de que trata o art. 1.º, a Secretaria de Estado da Fazenda tomará as seguintes medidas:
+
+I – notificará o contribuinte para recolher o ICMS no prazo não superior a 72 (setenta e duas) horas;
+
+II - aplicará as penalidades cabíveis sobre o estabelecimento infrator;
+
+III – comunicará o fato à Delegacia Fazendária para as providências devidas.
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1.º de setembro de 1998.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 17 DE AGOSTO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+Publicado no DOE de 26.08.98
+
+Dispõe sobre o diferimento nas operações com leite fresco destinado à industrialização.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+DECRETA
+
+Art. 1.º - São diferidos o lançamento e o pagamento do ICMS nas operações com leite fresco destinado ao Estado do Piauí com o fim específico de industrialização.
+
+<!-- p. 2 -->
+Parágrafo único – Para fruição do benefício de que trata este Decreto, a nota fiscal que acobertar a mercadoria mencionada no caput deverá conter em seu corpo, carimbo ou etiqueta comprovadora de sua passagem pelo posto fiscal de divisa entre os Estados do Maranhão e do Piauí.
+
+Art. 2.º - Verificada a falta de veracidade nas operações de que trata o art. 1.º, a Secretaria de Estado da Fazenda tomará as seguintes medidas:
+
+I – notificará o contribuinte para recolher o ICMS no prazo não superior a 72 (setenta e duas) horas;
+
+II - aplicará as penalidades cabíveis sobre o estabelecimento infrator;
+
+III – comunicará o fato à Delegacia Fazendária para as providências devidas.
+
+Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1.º de setembro de 1998.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 17 DE AGOSTO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
+<<<DOC normas/decreto/decreto-16407-1998-18191.md>>>
+---
+documento: "DECRETO Nº 16.407 DE 20 DE AGOSTO DE 1998"
+tipo: decreto
+numero: 16407
+data: "1998-08-20"
+ementa: "Determina o crédito em conta especial do ICMS cobrado pela Companhia de Águas e Esgotos do Maranhão."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8447563a-9e52-4b94-aa45-d641a778f3a9
+atualizado_na_fonte: "2026-10-16 15:18:46"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.407 DE 20 DE AGOSTO DE 1998
+
+_Determina o crédito em conta especial do ICMS cobrado pela Companhia de Águas e Esgotos do Maranhão._
+
+**Data:** 1998-08-20  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.407 DE 20 DE AGOSTO DE 1998.
+
+Publicado no DOE de 26.08.98
+
+Determina o crédito em conta especial do ICMS cobrado pela Companhia de Águas e Esgotos do Maranhão.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO em exercício, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+DECRETA
+
+Art. 1º - No recebimento de contas de água, fornecida pela Companhia de Águas e Esgotos do Maranhão – CAEMA, a agência centralizadora da Caixa Econômica Federal – CEF, em São Luís, deverá creditar o equivalente a 3,5% (três e meio por cento) do total recebido, em conta especial, correspondente a parte do ICMS destacado na fatura de água.
+
+Parágrafo único – O disposto neste artigo não dispensa apuração normal do imposto pela CAEMA.
+
+Art. 2º- Até o segundo dia útil de cada decêndio, a agência centralizadora deverá emitir um Documento de Arrecadação Estadual – DARE, em nome da Companhia de Águas e Esgotos do Maranhão.
+
+Art. 3º- Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1.º de setembro de 1998
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 20 DE AGOSTO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+Publicado no DOE de 26.08.98
+
+Determina o crédito em conta especial do ICMS cobrado pela Companhia de Águas e Esgotos do Maranhão.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO em exercício, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+DECRETA
+
+Art. 1º - No recebimento de contas de água, fornecida pela Companhia de Águas e Esgotos do Maranhão – CAEMA, a agência centralizadora da Caixa Econômica Federal – CEF, em São Luís, deverá creditar o equivalente a 3,5% (três e meio por cento) do total recebido, em conta especial, correspondente a parte do ICMS destacado na fatura de água.
+
+<!-- p. 2 -->
+Parágrafo único – O disposto neste artigo não dispensa apuração normal do imposto pela CAEMA.
+
+Art. 2º- Até o segundo dia útil de cada decêndio, a agência centralizadora deverá emitir um Documento de Arrecadação Estadual – DARE, em nome da Companhia de Águas e Esgotos do Maranhão.
+
+Art. 3º- Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1.º de setembro de 1998
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 20 DE AGOSTO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
+<<<DOC normas/decreto/decreto-16441-1998-18192.md>>>
+---
+documento: "DECRETO Nº 16.441 DE 31 DE AGOSTO DE 1998"
+tipo: decreto
+numero: 16441
+data: "1998-08-31"
+ementa: "Altera o Decreto n.º 15.980, de 27 de novembro de 1998 que dispõe sobre o Regime de Substituição Tributária para estabelecimentos atacadistas de produtos farmacêuticos e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=64e71fa6-393f-477c-899d-fcdf4dba6a0b
+atualizado_na_fonte: "2026-10-16 15:18:24"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.441 DE 31 DE AGOSTO DE 1998
+
+_Altera o Decreto n.º 15.980, de 27 de novembro de 1998 que dispõe sobre o Regime de Substituição Tributária para estabelecimentos atacadistas de produtos farmacêuticos e dá outras providências._
+
+**Data:** 1998-08-31  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.441 DE 31 DE AGOSTO DE 1998.
+
+Publicado no DOE de 10.09.98.
+
+Altera o Decreto n.º 15.980, de 27 de novembro de 1998 que dispõe sobre o Regime de Substituição Tributária para estabelecimentos atacadistas de produtos farmacêuticos e dá outras providências.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+DECRETA
+
+Art. 1º - Ficam acrescentados os §§ 5.º e 6.º ao art. 10 do Decreto n.º 15.980, de 27 de novembro de 1997, com a seguinte redação:
+
+"§ 5.º - O disposto neste artigo aplica-se, também, à saída de mercadoria destinada a contribuinte do ICMS, localizado em outra unidade da Federação, desobrigado do pagamento do imposto por substituição tributária, por força de decisão judicial ou de disposição expressa da legislação tributária do Estado de destino"
+
+§ 6.º - O contribuinte maranhense que realizar operações nos termos do parágrafo anterior deverá indicar, na nota fiscal que acobertar as mercadorias, o dispositivo da legislação do Estado de destino ou o número e a data do Diário Oficial em que estiver publicada a decisão judicial."
+
+Art. 2º- Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 31 DE AGOSTO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+Publicado no DOE de 10.09.98.
+
+Altera o Decreto n.º 15.980, de 27 de novembro de 1998 que dispõe sobre o Regime de Substituição Tributária para estabelecimentos atacadistas de produtos farmacêuticos e dá outras providências.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+DECRETA
+
+Art. 1º - Ficam acrescentados os §§ 5.º e 6.º ao art. 10 do Decreto n.º 15.980, de 27 de novembro de 1997, com a seguinte redação:
+
+<!-- p. 2 -->
+"§ 5.º - O disposto neste artigo aplica-se, também, à saída de mercadoria destinada a contribuinte do ICMS, localizado em outra unidade da Federação, desobrigado do pagamento do imposto por substituição tributária, por força de decisão judicial ou de disposição expressa da legislação tributária do Estado de destino"
+
+§ 6.º - O contribuinte maranhense que realizar operações nos termos do parágrafo anterior deverá indicar, na nota fiscal que acobertar as mercadorias, o dispositivo da legislação do Estado de destino ou o número e a data do Diário Oficial em que estiver publicada a decisão judicial."
+
+Art. 2º- Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 31 DE AGOSTO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16442-1998-18193.md>>>
 ---
 documento: "DECRETO Nº 16.442 DE 31 DE AGOSTO DE 1998"
@@ -14418,7 +18452,7 @@ ementa: "Dá nova redação aos Decretos 16.380, de 13 de agosto de 1998 e 16.38
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3e584b98-2dae-40da-a9de-1a058c4d1ea4
 atualizado_na_fonte: "2026-10-16 15:18:17"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14504,6 +18538,71 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 31 DE AGOSTO DE 1998,
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16483-1998-18195.md>>>
+---
+documento: "DECRETO Nº 16.483 DE 29 DE OUTUBRO DE 1998"
+tipo: decreto
+numero: 16483
+data: "1998-10-02"
+ementa: "Dispensa cobrança de multa moratória nas condições que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=69c7521d-29c3-485d-aeec-661aec9bd52e
+atualizado_na_fonte: "2026-10-16 15:14:48"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.483 DE 29 DE OUTUBRO DE 1998
+
+_Dispensa cobrança de multa moratória nas condições que especifica._
+
+**Data:** 1998-10-02 (data no portal: 1998-10-29 (divergente do PDF))  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.483 DE 29 DE OUTUBRO DE 1998.
+
+Publicado no DOE de 92.10.98
+
+Dispensa cobrança de multa moratória nas condições que especifica.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+DECRETA
+
+Art. 1º - Fica dispensada a cobrança de multa moratória ao contribuinte que solicitar o parcelamento do ICMS, nos termos do Decreto n.º 16.331, de 27 de julho de 1998, desde que comprove a sua liquidez negativa.
+
+Art. 2.º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 31 de dezembro de 1998.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 02 DE OUTUBRO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+Publicado no DOE de 92.10.98
+
+Dispensa cobrança de multa moratória nas condições que especifica.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+DECRETA
+
+Art. 1º - Fica dispensada a cobrança de multa moratória ao contribuinte que solicitar o parcelamento do ICMS, nos termos do Decreto n.º 16.331, de 27 de julho de 1998, desde que comprove a sua liquidez negativa.
+
+Art. 2.º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 31 de dezembro de 1998.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 02 DE OUTUBRO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16501-1998-18196.md>>>
 ---
 documento: "DECRETO Nº 16.501 DE 19 DE OUTUBRO DE 1998"
@@ -14514,9 +18613,9 @@ ementa: "Dispõe sobre a transferência de saldo credor do ICMS e dá outras pro
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4ca9c505-3b27-42b6-9fe9-678da958c9c8
 atualizado_na_fonte: "2026-10-16 15:14:35"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
-situacao: "PARCIALMENTE REVOGADA"
+situacao: "REVOGADA"
 percentual_tachado: 0.0
 ---
 
@@ -14526,8 +18625,9 @@ _Dispõe sobre a transferência de saldo credor do ICMS e dá outras providênci
 
 **Data:** 1998-10-19  
 **Remete a:** RICMS  
-**Situação:** PARCIALMENTE REVOGADA
+**Situação:** REVOGADA
 
+> REVOGADA pela decreto 18898/2002 (normas/decreto/decreto-18898-2002-18519.md): "Ficam revogados os Decretos nºs 16.501, de 19 de outubro de 1998;"
 > PARCIALMENTE REVOGADA pela decreto 16978/1999 (normas/decreto/decreto-16978-1999-18248.md): "2º - Ficam revogados o inciso VI do art. 2º do Decreto nº 16.501, de 19 de outubro de 1998 e o inciso II do art. 553 do Regulamento do ICMS aprovado pelo Decreto n° 14.744, de 29 de setembro de 1995."
 
 > Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
@@ -14720,7 +18820,7 @@ ementa: "Acrescenta dispositivos ao Regulamento do ICMS, aprovado pelo Decreto 1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b4bc120a-2219-459c-a2a5-038bc9add937
 atualizado_na_fonte: "2026-10-16 15:14:27"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14817,7 +18917,7 @@ ementa: "Altera o § 5º do art. 589 do Regulamento do ICMS, aprovado pelo Decre
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fb2e7afc-9d2d-4386-bdab-ef256939c9ca
 atualizado_na_fonte: "2026-10-16 15:14:19"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -14887,6 +18987,631 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 19 DE OUTUBRO DE 1998
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16506-1998-18199.md>>>
+---
+documento: "DECRETO Nº 16.506 DE 19 DE OUTUBRO DE 1998"
+tipo: decreto
+numero: 16506
+data: "1998-10-19"
+ementa: "Acrescenta e altera dispositivos do Decreto 15.825, de 29 de setembro de 1997, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=421fb38f-0aa3-4bb5-8e8f-658977e3c28b
+atualizado_na_fonte: "2026-10-16 15:14:11"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.506 DE 19 DE OUTUBRO DE 1998
+
+_Acrescenta e altera dispositivos do Decreto 15.825, de 29 de setembro de 1997, e dá outras providências._
+
+**Data:** 1998-10-19  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.506 DE 19 DE OUTUBRO DE 1998.
+
+Publicado no DOE de 27.10.98.
+
+Acrescenta e altera dispositivos do Decreto 15.825, de 29 de setembro de 1997, e dá outras providências.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado, e tendo em vista os Convênios ICMS 105/92 e 130, de 12 de dezembro de 1997, celebrados e ratificados nos termos da Lei Complementar nº 24, de 07 de janeiro de 1975,
+
+DECRETA
+
+Art. 1º - Os dispositivos a seguir enumerados do Decreto nº 15.825, de 29 de setembro de 1997, passam a vigorar as seguintes redações:
+
+I – o inciso II e o § 2º do art. 8º:
+
+"II – elaborar relatório mensal em 4 (quatro) vias, por unidade federada de destino, conforme modelo constante no Anexo II;"
+
+"§ 2º - Na hipótese da retenção ter sido efetuada pelo industrial, a distribuidora, com base na relação a que se refere a alínea "c" do inciso III, deverá elaborar relatório conforme modelo constante no Anexo VI e entregá-lo até o dia 05 do mês subsequente ao sujeito passivo por substituição, remetendo cópias para as Unidades Federadas de origem e destino."
+
+II – os incisos I, III e V e o § 2º do art. 10:
+
+"I – calcular o imposto a ser recolhido em favor da Unidade Federada de destino e informar no relatório citado no inciso III, adotando os seguintes procedimentos:
+
+a. adotar como preço de partida o valor utilizado pelo sujeito passivo
+
+por substituição na operação original para o contribuinte substituído, dele excluído o respectivo valor do ICMS; b. adicionar ao valor referido na alínea anterior o valor resultante da
+
+aplicação do correspondente percentual de agregação previsto para a operação interestadual, aplicável ao sujeito passivo por substituição; c. aplicar ao resultado obtido, conforme o previsto na alínea anterior, a
+
+alíquota vigente para as operações internas com a mercadoria na Unidade Federada de destino;"
+
+( ... )
+
+"III – elaborar relatório mensal, por Unidade Federada de destino e produto, de acordo com o modelo constante no Anexo IV;"
+
+<!-- p. 2 -->
+( ... )
+
+"V – remeter ao sujeito passivo por substituição, até o dia 05 de cada mês, um demonstrativo de acordo com os modelos constantes nos Anexos V e VI, contendo um resumo das operações realizadas para cada Unidade da Federação."
+
+( ... )
+
+" § 2º - O disposto neste artigo e no art. 8º não exclui a responsabilidade da distribuidora ou do TRR pela omissão ou pela apresentação de informações falsas constantes do relatório demonstrativo referidos nos incisos III e V, e no inciso II do artigo 8º, podendo as Unidades da Federação, destinatárias, exigir diretamente das distribuidoras ou TRR o imposto devido nas operações realizadas por eles."
+
+III – o § 2º do art. 11:
+
+"§ 2º - O sujeito passivo por substituição deverá elaborar mensalmente, demonstrativo de apuração e recolhimento do imposto retido, em três vias, de acordo com o modelo constante no Anexo VII, devendo enviar até o dia 15 de cada mês, uma via às Unidades Federadas de origem e destino das mercadorias, retendo uma via."
+
+IV – a alínea "a" do inciso II do art. 14:
+
+"a) o estabelecimento distribuidor de combustíveis destinatário elaborará relação mensal em quatro vias, conforme modelo constante no Anexo III, para o álcool etílico anidro combustível, devendo ser remetido, até o quinto dia do mês subsequente a entrada, uma via para a empresa refinadora de petróleo ou suas bases, outra via para a Unidade Federada remetente do ácool anidro e outra via à Unidade Federada onde estiver localizada a distribuidora, retendo 4.ª quarta;"
+
+Art. 2º - Fica revogado o inciso I do art. 11.
+
+Art. 3º - Ö art. 10 fica acrescido do § 4º, com a seguinte redação:
+
+"§ 4º - Na hipótese da alínea "a" do inciso I deste artigo, deverá o estabelecimento distribuidor de combustíveis praticar, para efeito de cálculo do repasse do imposto, os valores de referência estatuídos e vigentes na Unidade Federada de destino da mercadoria."
+
+Art. 4º - Fica o Anexo a que se refere o art. 10, inciso V do Decreto 15.825, de 29 de setembro de 1997, substituído pelo Relatório de Operações Interestaduais com Combustível Derivado do Petróleo efetuado por TRR, passando a integrar o referido decreto os seguintes anexos, com respectivas denominações:
+
+I – Anexo III – Relatório de Aquisição Interestadual de Álcool Anidro Realizada por Distribuidora;
+
+<!-- p. 3 -->
+II – Anexo IV – Relatório de Operações Interestaduais de Combustível Derivado do Petróleo;
+
+III – Anexo V – Resumo das Operações Interestaduais com Combustíveis Derivados do Petróleo;
+
+IV – Anexo VI – Relatório das Operações Interestaduais das TRR com Combustíveis Derivado do Petróleo;
+
+V – Anexo VII – Demonstrativo do Recolhimento de ICMS Substituição Tributária.
+
+Art. 5º - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 19 DE OUTUBRO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.506 DE 19 DE OUTUBRO DE 1998.
+
+Publicado no DOE de 27.10.98.
+
+ANEXO II
+
+RELATÓRIO DE OPERAÇÕES INTERESTADUAIS COM COMBUSTÍVEL
+
+DERIVADO DO PETRÓLEO E FETUADO POR TRR’S
+
+(CONV. 105/92) PERÍODO:
+
+
+
+DADOS DO EMITENTE DO RELATÓRIO
+
+RAZÃO SOCIAL: (T. R. R.)
+
+CGC: I. E.:
+
+END.:
+
+
+DADOS DO DESTINATÁRIO DO RELATÓRIO
+
+RAZÃO SOCIAL: (Distribuidora)
+
+CGC: I. E.:
+
+<!-- p. 4 -->
+END.:
+
+
+ESTADO DESTINATÁRIO DO RELATÓRIO:
+
+ADE Nº DA NOTA
+
+FISCAL
+
+DATA EMISSÃO
+
+TIPO COMBUSTÏVEL QUANTIDADE VALOR DA OPERAÇÃO
+
+ADE Nº DA NOTA
+
+FISCAL
+
+DATA EMISSÃO
+
+TIPO COMBUSTÏVEL QUANTIDADE VALOR DA OPERAÇÃO
+
+
+
+
+ANEXO III
+
+RELATÓRIO DE AQUISIÇÃO INTERESTADUAL DE ÁLCOOL ANIDRO
+
+REALIZADA POR DISTRIBUIDORA
+
+(CONV. 80/97) PERÍODO:
+
+
+DADOS DO EMITENTE DO RELATÓRIO:
+
+RAZÃO SOCIAL: (Distribuidora)
+
+CGC: IE:
+
+ENDEREÇO:
+
+DADOS DO DESTINATÁRIO DO RELATÓRIO:
+
+RAZÃO SOCIAL: (Petrobrás)
+
+CGC: IE:
+
+ENDEREÇO:
+
+ESTADO DE ORIGEM DO ÁLCOOL ANIDRO:
+
+CGC INSC. ESTADUAL QUANTIDADE VALOR DA OPERAÇÃO
+
+CGC INSC. ESTADUAL QUANTIDADE VALOR DA OPERAÇÃO
+
+<!-- p. 5 -->
+ANEXO IV
+
+RELATÓRIO DAS OPERAÇÕES INTERESTADUAIS DE COMBUSTÍVEL
+
+DERIVADO DO PETRÓLEO REALIZADAS POR DISTRIBUIDORAS
+
+(CLÁUSULA DÉCIMA PRIMEIRA DO CONVÊNIO ICMS 105/92)
+
+PERÍODO:
+
+
+DADOS DO EMITENTE DO RELATÓRIO:
+
+RAZÃO SOCIAL: ( Distribuidora)
+
+CGC: IE:
+
+END.:
+
+
+DADOS DO DESTINATÁRIO DO RELATÓRIO:
+
+RAZÃO SOCIAL: (Petrobrás)
+
+CGC: IE:
+
+END.:
+
+
+ESTADO DESTINATÁRIO DO RELATÓRIO: PRODUTO:
+
+
+ENÇA DE ICMS ICMS A SER
+
+OR **
+
+ÁRIO
+
+BC ICMS SUBST.
+
+TRIB.
+
+ICMS SUBST.
+
+VALOR ** UNITÁRIO
+
+BC ICMS SUBST.
+
+TRIB.
+
+ICMS SUBST.
+
+RESSARC. PARA DISTRIBUIDORA
+
+A COMPL. PELA DISTRIBUIDORA
+
+REPASSADO
+
+POR PETROBRÁS
+
+1. Razão Social: (Adquirente)
+
+CGC: IE:
+
+Endereço:
+
+<!-- p. 6 -->
+2. Razão Social: (Adquirente)
+
+CGC: IE:
+
+Endereço:
+
+
+
+
+
+Obs.: *Se o produto for Gasolina "C", especificar o volume correspondente a 78% da quantidade de combustível, exceto em relação às aquisições efetuadas pelas unidades federadas que não adotaram a substituição tributária relativamente ao álcool anidro, nos termos da Cláusula décima quarta do Convênio ICMS 105/92.
+
+** Caso o produto tenha o seu preço tabelado, deverá ser utilizado este preço como base de cálculo.
+
+
+
+ANEXO V
+
+RESUMO DAS OPERAÇÕES INTERESTADUAIS COM COMBUSTÍVEL
+
+DERIVADO DO PETRÓLEO REALIZADAS POR DISTRIBUIDORAS
+
+(CLÁUSULA DÉCIMA PRIMEIRA- Inciso V DO CONV. 105/92)
+
+PERÍODO:
+
+
+
+DADOS DO EMITENTE DO RELATÓRIO:
+
+RAZÃO SOCIAL: (Distribuidora)
+
+CGC: IE:
+
+ENDEREÇO:
+
+DADOS DO DESTINATÁRIO DO RELATÓRIO:
+
+<!-- p. 7 -->
+RAZÃO SOCIAL:
+
+CGC: IE:
+
+ENDEREÇO: (Petrobrás)
+
+1. REPASSE PARA OUTROS ESTADOS
+
+C. SUBSTITUIÇÃ0 TRIBUTÁRIA ALÍQUOTA VALOR DO REPASSE
+
+(valor da operação) %
+
+(valor do fornecedor + TVA) %
+
+
+C. SUBSTITUIÇÃ0 TRIBUTÁRIA ALÍQUOTA VALOR DO REPASSE
+
+(valor da operação) %
+
+(valor do fornecedor + TVA) %
+
+
+ADOS (A+B+...)
+
+2. DEDUÇÃO DO ESTADO REMETENTE
+
+QUANTIDADE QUANTIDADE SEM A.
+ANIDRO *
+
+B.C. SUBST.
+TRIBUTÁRIA
+
+ICMS RETIDO A SER ABATIDO
+
+QUANTIDADE QUANTIDADE SEM A.
+ANIDRO *
+
+B.C. SUBST.
+TRIBUTÁRIA
+
+ICMS RETIDO A SER ABATIDO
+
+
+Obs.: * Se o produto for Gasolina "C", especificar o volume correspondente a 78% da quantidade de combustível, exceto em relação às aquisições efetuadas pelas unidades federadas que não adotaram a substituição tributária relativamente ao álcool anidro, nos termos da Cláusula décima quarta do Convênio ICMS 105/92.
+
+** Caso o produto tenha o seu preço tabelado, deverá ser utilizado este preço como base de cálculo.
+
+
+ANEXO VI
+
+RESUMO DOS RELATÓRIOS (ANEXO II) DAS OPERAÇÕES INTERESTADUAIS
+
+REALIZADAS POR TRR’S COM COMBUSTÍVEL DERIVADO DO PETRÓLEO
+
+(PARÁGRAFO SEGUNDO DA CLÁUSULA NONA DO CONVÊNIO ICMS 105/92)
+
+PERÍODO:
+
+<!-- p. 8 -->
+DADOS DO EMITENTE DO RELATÓRIO:
+
+RAZÃO SOCIAL: ( Distribuidora)
+
+CGC: IE:
+
+END.:
+
+DADOS DO DESTINATÁRIO DO RELATÓRIO:
+
+RAZÃO SOCIAL: (Petrobrás)
+
+CGC: IE:
+
+END.:
+
+
+= X%) UF DESTINO (TVA = X%) DIFERENÇA DE ICMS ICMS A
+
+UBSTITUTO VALOR **
+
+UNITÁRIO
+
+B.
+CÁLCULO
+
+ICMS
+
+ICMSSUBSTITUTO RESSARCIMENTO COMPLEMENTO REPASSAR
+
+P/ PETROBRÁS
+
+
+
+
+
+VA = X%) UF DESTINO (TVA = X%) DIFERENÇA DE ICMS ICMS A
+
+ICMS UBSTITUTO
+
+VALOR ** UNITÁRIO
+
+B.
+CÁLCULO
+
+ICMS
+
+ICMSSUBSTITUTO RESSARCIMENTO COMPLEMENTO REPASSAR
+
+P/ PETROBRÁS
+
+
+
+
+
+
+Obs.: *Se o produto for Gasolina "C", especificar o volume correspondente a 78% da quantidade de combustível, exceto em relação às aquisições efetuadas pelas unidades federadas que não adotaram a substituição tributária relativamente ao álcool anidro, nos termos da Cláusula décima quarta do Convênio ICMS 105/92.
+
+<!-- p. 9 -->
+** Caso o produto tenha o seu preço tabelado, deverá ser utilizado este preço como base de cálculo.
+
+
+ANEXO VII
+
+DEMONSTRATIVO DO RECOLHIMENTO DE ICMS SUBSTITUIÇÃO
+
+TRIBUTÁRIA
+
+(CONV. 105/92)
+
+DADOS DO EMITENTE:
+
+RAZÃO SOCIAL:
+
+CGC: I. E. SUBSTITUTA:
+
+ENDEREÇO:
+
+ESTADO DE DESTINO: PERÍODO:
+
+APURAÇÃO DO ICMS SUBSTITUIÇÃO TRIBUTÁRIA R$
+
+ICMS RETIDO POR SUBSTITUIÇÃO (Quadro 1 - Conv. 105/92) (+)
+
+REPASSE DE ICMS SOBRE OPERAÇÕES DE DISTRIB. (Quadro 2 - Conv. 03/97) (+)
+
+REPASSE DE ICMS SOBRE ÁLCOOL ANIDRO DE OUTRAS UF (Quadro 3 – Conv. 80/97) (+)
+
+REPASSE DE ICMS OPERAÇÕES DISTRIB. (Quadro 4 - Conv. ICMS 52/97) (+)
+
+
+SUB TOTAL [1]
+
+DEDUÇÃO PARA RESSARCIMENTO A DISTRIBUIDORA (Quadro 5- Conv. 03/97) (-)
+
+DEDUÇÃO REPASSE DE ICMS PARA OUTRAS UF (Quadro 6 - Conv. 03/97) (-)
+
+DEDUÇÃO REPASSE DE ICMS Á. ANIDRO P/ OUTRAS UF (Quadro 7 – Conv. 80/97) (-)
+
+DEDUÇÃO DE ICMS OPERAÇÕES DISTRIB. (Quadro 8 - Conv. ICMS 52/97) (-)
+
+
+SUB TOTAL [2]
+
+ICMS A RECOLHER [1-2]
+
+DEMONSTRATIVO DOS QUADROS
+
+ADIÇÃO
+
+<!-- p. 10 -->
+QUADRO 1 ICMS OPERAÇÃO PRÓPRIA E RETIDO POR SUBSTITUIÇÃO TRIBUTÁRIA
+
+PRODUTO VALOR OPERAÇÃO
+
+ICMS PRÓPRIO
+
+ICMS RETIDO
+
+POR SUBST.
+TRIBUTÁRIA
+
+TOTAL
+
+
+
+TOTAL
+
+QUADRO 2 REPASSE DE ICMS SUBST. TRIBUTÁRIA, SOBRE OPERAÇÕES COM COMBUSTÍVEIS DERIVADOS DO PETRÓLEO, CONFORME RELATÓRIOS EMITIDOS
+
+POR DISTRIBUIDORAS DE OUTROS ESTADOS - (Anexos V e VI)
+
+1. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO REPASSE
+
+2. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO REPASSE
+
+3. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO REPASSE
+
+TOTAL
+
+QUADRO 3 REPASSE DE ICMS SOBRE ÁLCOOL ANIDRO, CONFORME RELATÓRIOS
+
+DAS DISTRIBUIDORAS DE OUTROS ESTADOS (Anexo III)
+
+1. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+QTDE. LITROS VALOR DO REPASSE
+
+2. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+QTDE. LITROS VALOR DO REPASSE
+
+3. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+QTDE. LITROS VALOR DO REPASSE
+
+TOTAL
+
+QUADRO 4 REPASSE DE ICMS SUBST. TRIBUTÁRIA, SOBRE OPERAÇÕES COM COMBUSTÍVEIS DERIVADOS DO PETRÓLEO, DE OUTROS ESTADOS - (Conv. ICMS
+
+52/97)
+
+1. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+UF DA PETROBRÁS NA 1ª OPERAÇÃO
+
+VALOR DO
+
+REPASSE
+
+2. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+UF DA PETROBRÁS NA 1ª OPERAÇÃO
+
+VALOR DO
+
+REPASSE
+
+3. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+UF DA PETROBRÁS NA 1ª OPERAÇÃO
+
+VALOR DO
+
+REPASSE
+
+TOTAL
+
+DEDUÇÃO
+
+QUADRO 5 DEDUÇÃO PARA RESSARCIMENTO ÀS DISTRIBUIDORAS - (ANEXO IV)
+
+<!-- p. 11 -->
+1. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO RESSARCIMENTO
+
+2. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO RESSARCIMENTO
+
+3. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO RESSARCIMENTO
+
+TOTAL
+
+QUADRO 6 DEDUÇÃO DOS VALORES DO ICMS SUBST. TRIBUTÁRIA, REPASSADO
+
+PARA OUTROS ESTADOS, CONFORME RELATÓRIOS DAS DISTRIBUIDORAS -
+
+(Anexo V e VI)
+
+1. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO REPASSE
+
+2. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO REPASSE
+
+3. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA VALOR DO REPASSE
+
+TOTAL
+
+QUADRO 7 DEDUÇÃO DO ICMS SOBRE ÁLCOOL ANIDRO REPASSADO PARA OUTROS ESTADOS, CONFORME RELATÓRIOS DAS DISTRIBUIDORAS - Anexo III)
+
+1. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+QTDE. LITROS VALOR DO REPASSE
+
+2. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+QTDE. LITROS VALOR DO REPASSE
+
+3. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+QTDE. LITROS VALOR DO REPASSE
+
+TOTAIS
+
+QUADRO 8 DEDUÇÃO DOS VALORES DO ICMS SUBST. TRIBUTÁRIA, REPASSADO
+
+PARA OUTROS ESTADOS - (Conv. ICMS 52/97)
+
+1. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+UF DA PETROBRÁS NA 1ª OPERAÇÃO
+
+VALOR DO
+
+REPASSE
+
+2. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+UF DA PETROBRÁS NA 1ª OPERAÇÃO
+
+VALOR DO
+
+REPASSE
+
+3. RAZÃO SOCIAL / CGC / U. F. DA DISTRIBUIDORA
+
+UF DA PETROBRÁS NA 1ª OPERAÇÃO
+
+VALOR DO
+
+REPASSE
+
+TOTAL
+
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16507-1998-18200.md>>>
 ---
 documento: "DECRETO Nº 16.507 DE 19 DE OUTUBRO DE 1998"
@@ -14897,7 +19622,7 @@ ementa: "Dá nova redação ao art. 89 do Regulamento do ICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e7cec44d-6afd-4c4f-925a-799cf696f872
 atualizado_na_fonte: "2026-10-16 15:14:03"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15154,7 +19879,7 @@ ementa: "Autoriza o parcelamento do ICMS decorrente de operações com produtos 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9571cc08-9d0e-4632-a573-205d6fdd09f1
 atualizado_na_fonte: "2026-10-16 15:13:55"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -15262,7 +19987,7 @@ ementa: "Dá nova redação ao § 22 do art. 153 do Regulamento do ICMS, aprovad
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=69dcc86e-8938-4147-951d-4dda7c7650a4
 atualizado_na_fonte: "2026-10-16 15:13:45"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15341,7 +20066,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d6cd036b-17e1-4f9e-8916-e23b61026d08
 atualizado_na_fonte: "2026-10-16 15:13:33"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -15781,7 +20506,7 @@ ementa: "Acrescenta dispositivos ao Anexo 07 do Regulamento do ICMS, aprovado pe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c2f9bde-9e11-48d1-8767-5bade4a307f2
 atualizado_na_fonte: "2026-10-16 15:13:26"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 0.0
@@ -15955,7 +20680,7 @@ ementa: "Altera o inciso XII do art. 9º do Regulamento do ICMS, aprovado pelo D
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8c9bd70e-f021-4ecd-8e62-f60e52f066d1
 atualizado_na_fonte: "2026-10-16 15:13:18"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16028,7 +20753,7 @@ ementa: "Altera o inciso VI do art. 581 do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fa2c0831-763b-49af-9f84-668294b46745
 atualizado_na_fonte: "2026-10-16 15:05:08"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16100,7 +20825,7 @@ ementa: "Acrescenta o § 8º ao artigo 340 do Regulamento do ICMS, aprovado pelo
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=995ca091-f698-44b8-98d0-2fdb1556a8c7
 atualizado_na_fonte: "2026-10-16 15:02:02"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16165,6 +20890,404 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 05 DE NOVEMBRO DE 199
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16535-1998-18208.md>>>
+---
+documento: "DECRETO Nº 16.535 DE 05 DE NOVEMBRO DE 1998"
+tipo: decreto
+numero: 16535
+data: "1998-10-05"
+ementa: "Institui documento destinado ao controle de crédito de ICMS do ativo permanente."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=944c539d-a1b8-454e-8c12-7bf304581d67
+atualizado_na_fonte: "2026-10-16 14:55:18"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "REVOGADA"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.535 DE 05 DE NOVEMBRO DE 1998
+
+_Institui documento destinado ao controle de crédito de ICMS do ativo permanente._
+
+**Data:** 1998-10-05  
+**Remete a:** nada (norma autônoma)  
+**Situação:** REVOGADA
+
+> REVOGADA pela resolucao 14/2013 (normas/resolucao/resolucao-014-2013-19931.md): "2° Ficam revogados os Decretos 16.535, de 5 de novembro de 1998, e 18.340, de 21 de novembro de 2001."
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.535 DE 05 DE NOVEMBRO DE 1998.
+
+Publicado no DOE de 11.11.98
+
+Institui documento destinado ao controle de crédito de ICMS do ativo permanente.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o disposto no Ajuste SINIEF n.º 08, de 12 de dezembro de 1997,
+
+DECRETA
+
+Art. 1º - Fica instituído o documento "Controle de Crédito de ICMS do Ativo Permanente - CIAP", modelos A e B anexos, destinado à apuração do valor base do estorno de crédito e do total do estorno mensal do crédito de bem do ativo permanente do estabelecimento, que deverá ser utilizado pelo contribuinte de acordo com o disposto neste decreto.
+
+§ 1º O documento fiscal relativo a bem do ativo permanente, além de sua escrituração nos livros próprios, será, também, escriturado no CIAP.
+
+§ 2º A adoção do modelo A ou B será feita de acordo com o disposto na legislação tributária estadual.
+
+§ 3º Poderá o contribuinte optar pelo modelo adotado pela unidade federada em que estiver localizada a sua matriz.
+
+Art. 2º - No CIAP, modelo A, o controle dos créditos de ICMS dos bens do ativo permanente será efetuado englobadamente, devendo a sua escrituração ser feita nas linhas, nos quadros e nas colunas próprias, da seguinte forma:
+
+I - linha Ano: o exercício objeto de escrituração;
+
+II - linha Número: o número atribuído ao documento, que será seqüencial por exercício, devendo ser reiniciada a numeração após o término do mesmo;
+
+III - quadro 1 - Identificação do Contribuinte: o nome, endereço, e inscrições estadual e federal do estabelecimento;
+
+IV - quadro 2 - Demonstrativo da Base do Estorno de Crédito:
+
+a) colunas sob o título Identificação do Bem:
+
+1. coluna Número ou Código: atribuição do número ou código ao bem, a critério do contribuinte, consoante a ordem seqüencial de entrada, seguido de dois algarismos indicando o exercício, findo o qual deverá ser reiniciada a numeração;
+
+<!-- p. 2 -->
+2. coluna Data: a data da ocorrência de qualquer movimentação do bem, tal como: aquisição, transferência, alienação, baixa pelo decurso do prazo de 5 (cinco) anos de utilização;
+
+3. coluna Nota Fiscal: o número do documento fiscal relativo à aquisição ou outra ocorrência;
+
+4. coluna Descrição Resumida: a identificação do bem, de forma sucinta;
+
+b) colunas sob o título Valor do ICMS:
+
+1. coluna Entrada (Crédito): o valor do crédito do imposto relativo à aquisição, acrescido, quando for o caso, do ICMS correspondente ao serviço de transporte e ao diferencial de alíquotas, vinculados à aquisição do bem;
+
+2. coluna Saída ou Baixa: o valor correspondente ao imposto creditado relativo à aquisição do bem, anteriormente escriturado na coluna Entrada (Crédito), quando ocorrer a alienação, a transferência, o perecimento, o extravio ou a deterioração do referido bem, ou, ainda, quando houver completado o quinquênio de sua utilização;
+
+3. coluna Saldo Acumulado (Base do Estorno): o somatório da coluna Entrada, subtraindo-se desse o somatório da coluna Saída ou Baixa, cujo resultado, no final do período de apuração, servirá de base para o cálculo do estorno de crédito;
+
+V - quadro 3 - Demonstrativo do Estorno de Crédito:
+
+a) coluna MÊS: o mês objeto de escrituração, caso o período de apuração seja mensal;
+
+b) colunas sob o título Operações e Prestações:
+
+1. coluna 1 - Isentas ou não Tributadas: o valor das operações e prestações isentas e não tributadas escrituradas no mês;
+
+2. coluna 2 - Total das Saídas: o valor total das operações e prestações de saídas escrituradas pelo contribuinte no mês;
+
+c) coluna 3 - Coeficiente de Estorno: o coeficiente de participação das saídas e prestações isentas ou não tributadas no total das saídas e prestações escrituradas no mês, encontrado mediante a divisão do valor das saídas e prestações isentas ou não tributadas pelo valor total das saídas e prestações, considerando-se, no mínimo, 4 (quatro) casas decimais;
+
+d) coluna 4 - Saldo Acumulado (Base do Estorno): valor base do estorno mensal, transcrito da coluna com o mesmo nome do quadro Demonstrativo do Estorno de Crédito;
+
+e) coluna 5 - Fração Mensal: o quociente de 1/60 (um sessenta avos), caso o período de apuração seja mensal;
+
+f) coluna 6 - Estorno por Saídas Isentas ou não Tributadas: o valor do estorno de crédito proporcional ao valor das saídas e prestações isentas ou não tributadas ocorridas no mês, encontrado mediante a multiplicação do coeficiente de estorno pelo saldo acumulado e pela fração mensal;
+
+<!-- p. 3 -->
+g) coluna 7 - Estorno por Saída ou Perda: o valor do estorno do crédito em função de perecimento, extravio, deterioração ou de alienação do bem antes de completado o qüinqüênio, contado da data da sua aquisição, ou, ainda, em outra situação estabelecida na legislação, deduzindo, se for o caso, o valor dos estornos ocorridos no ano da saída ou perda;
+
+h) coluna 8 - Total do Estorno Mensal: o valor obtido mediante a soma dos valores escriturados nas colunas Estorno por Saídas Isentas ou não Tributadas e Estorno por Saída ou Perda, cujo resultado deve ser escriturado na forma prevista na legislação.
+
+§ 1º Na escrituração do CIAP, modelo A, deverão ser observadas, ainda, as seguintes disposições:
+
+I - o saldo acumulado não sofrerá redução em função do estorno mensal de crédito, somente se alterando com nova aquisição ou na ocorrência de alienação, transferência, perecimento, extravio, deterioração, baixa ou outra movimentação de bem;
+
+II - quando o período de apuração do imposto for diferente do mensal, o quociente de 1/60 (um sessenta avos) deverá ser ajustado, sendo efetuadas as adaptações necessárias nas colunas Mês e Fração Mensal do quadro Demonstrativo do Estorno de Crédito;
+
+III - na alienação do bem, além da escrituração de baixa do valor total do crédito apropriado quando de sua aquisição, na coluna Saída ou Baixa do quadro 2, o contribuinte deverá escriturar, na coluna 7 - Estorno por Saída ou Perda, do quadro 3, o valor do crédito total apropriado, se a alienação ocorrer no primeiro ano de utilização, ou parcial, se ocorrer após esse prazo e até o final do qüinqüênio;
+
+IV - na transferência do bem, a escrituração de baixa do crédito relativo à sua aquisição será feita:
+
+a) pelo valor total, apenas na coluna Saída ou Baixa, do quadro 2, quando a legislação prever a incidência do imposto nessa operação;
+
+b) pelo valor total, na coluna Saída ou Baixa, do quadro 2, e pelo valor proporcional ao período restante para completar o quinquênio, na coluna 7 - Estorno por Saída ou Perda, do quadro 3, quando a legislação prever a não-incidência do imposto nessa operação;
+
+V - após decorrido o prazo de 5 (cinco) anos, contado da data de aquisição do bem, escriturar a baixa do valor total do crédito apropriado quando da entrada, apenas na coluna Saída ou Baixa do quadro 2;
+
+VI - na utilização do sistema eletrônico de processamento de dados, o quadro 3 - Demonstrativo do Estorno de Crédito poderá ser apresentado apenas na última folha do CIAP do período de apuração;
+
+§ 2º As folhas do CIAP, modelo A, relativas a cada exercício serão enfeixadas, encadernadas e autenticadas até o último dia do mês de fevereiro do ano subseqüente, salvo quando a legislação permitir a manutenção dos dados em meio magnético.
+
+<!-- p. 4 -->
+Art. 3.º - No CIAP, modelo B, o controle dos créditos de ICMS dos bens do ativo permanente será efetuado individualmente, devendo a sua escrituração ser feita nas linhas, nos campos, nos quadros e nas colunas próprias, da seguinte forma:
+
+I - campo Nº de Ordem: o número atribuído ao documento, que será seqüencial por bem;
+
+II - quadro 1 - Identificação: destina-se à identificação do contribuinte e do bem, contendo os seguintes campos:
+
+a) Contribuinte: o nome do contribuinte;
+
+b) Inscrição: o número da inscrição estadual do estabelecimento;
+
+c) Bem: a descrição do bem, modelo, números da série e da plaqueta de identificação, se houver;
+
+III - quadro 2 - Entrada: as informações fiscais relativas à entrada do bem, contendo os seguintes campos:
+
+a) Fornecedor: o nome do fornecedor;
+
+b) Nº da Nota Fiscal: o número do documento fiscal relativo à entrada do bem;
+
+c) Nº do LRE: o número do livro Registro de Entradas em que foi escriturado o documento fiscal e o seu crédito;
+
+d) Folha do LRE: o número da folha do livro Registro de Entradas em que foi escriturado o documento fiscal e o seu crédito;
+
+e) Data da Entrada: a data da entrada do bem no estabelecimento do contribuinte;
+
+f) Valor do Crédito: o valor do crédito do imposto relativo à aquisição, acrescido, quando for o caso, do ICMS correspondente ao serviço de transporte e ao diferencial de alíquotas, vinculados à aquisição do bem;
+
+IV - quadro 3 - Saída: as informações fiscais relativas à saída do bem, contendo os seguintes campos:
+
+a) Nº da Nota Fiscal: o número do documento fiscal relativo à saída do bem;
+
+b) Modelo: o modelo do documento fiscal relativo à saída do bem;
+
+c) Data da Saída: a data da saída do bem do estabelecimento do contribuinte;
+
+V - quadro 4 - Estorno Mensal: destina-se à escrituração, nas colunas sob os títulos correspondentes do 1º ao 5º ano, do estorno proporcional à relação entre as saídas e prestações isentas ou não tributadas e o total das saídas e prestações escrituradas no mês, contendo os seguintes campos:
+
+a) MÊS: o mês objeto de escrituração, caso o período de apuração seja mensal;
+
+<!-- p. 5 -->
+b) FATOR: o fator mensal será igual a 1/60 (um sessenta avos) da relação entre a soma das saídas e prestações isentas ou não tributadas e o total das saídas e prestações escrituradas no mês;
+
+c) VALOR: o valor do estorno, que será obtido pela multiplicação do fator pelo valor do crédito apropriado por ocasião da entrada do bem;
+
+VI - quadro 5 - Estorno por Saída ou Perda: destina-se à escrituração do saldo sujeito ao estorno, quando ocorrer perecimento, extravio, deterioração ou alienação do bem antes de completado o qüinqüênio, contado da data da sua aquisição, ou, ainda, em outra situação estabelecida na legislação, contendo os seguintes campos:
+
+a) Ano: o ano da ocorrência;
+
+b) Fator: o fator decorrente da saída ou perda do bem, que será de 20% (vinte por cento) ao ano ou fração que faltar para completar o qüinqüênio;
+
+c) Valor: o valor do estorno, que será obtido pela multiplicação do fator pelo valor do crédito apropriado por ocasião da entrada do bem, deduzindo, se for o caso, o valor dos estornos mensais ocorridos no ano da saída ou perda.
+
+§ 1º Quando o período de apuração do imposto for diferente do mensal, o Fator de 1/60 (um sessenta avos) deverá ser ajustado, sendo efetuadas as adaptações necessárias no quadro 4 - Estorno Mensal.
+
+§ 2º O CIAP, modelo B, deverá ser mantido à disposição do fisco.
+
+Art. 4.º - A escrituração do CIAP, modelos A e B, deverá ser feita até o dia seguinte ao da:
+
+I – entrada do bem;
+
+II - emissão da nota fiscal referente à saída do bem;
+
+III - ocorrência do perecimento, extravio ou deterioração do bem ou data em que se completar o qüinqüênio.
+
+Art. 5.º - Ao contribuinte será permitido, relativamente à escrituração do CIAP, modelos A e B:
+
+I - utilizar o sistema eletrônico de processamento de dados;
+
+II - manter os dados em meio magnético, conforme dispuser a legislação;
+
+III - substitui-lo, por livro, desde que este contenha, no mínimo, os dados do documento.
+
+Art. 6.º - Os créditos de ICMS relativos à aquisição de bens do ativo permanente apropriados no período de 1º de novembro de 1996 a 31 de dezembro de 1998 serão transcritos para o CIAP;
+
+Parágrafo único – O Secretário de Estado da Fazenda poderá estabelecer regras específicas para a escrituração dos valores relativos às transferências internas de bens.
+
+<!-- p. 6 -->
+Art. 7.º - Este Decreto entra em vigor na data de sua publicação.
+
+
+
+
+CONTROLE DE CRÉDITO DE ICMS DO ATIVO PERMANENTE – CIAP
+
+MODELO B
+
+Nº de ordem
+
+1 - IDENTIFICAÇÃO
+
+Contribuinte Inscrição
+
+Bem
+
+2 - ENTRADA
+
+Fornecedor Nº da Nota Fiscal
+
+Nº do LRE Folha do LRE Data da Entrada Valor do Crédito
+
+3 - SAÍDA
+
+Nº da Nota Fiscal Modelo Data da Saída
+
+4 - ESTORNO MENSAL
+
+1º ANO 2º ANO 3º ANO
+
+Mês Fator Valor Mês Fator Valor Mês Fator Valor
+
+1º 1º 1º
+
+2º 2º 2º
+
+3º 3º 3º
+
+4º 4º 4º
+
+5º 5º 5º
+
+6º 6º 6º
+
+7º 7º 7º
+
+8º 8º 8º
+
+9º 9º 9º
+
+10º 10º 10º
+
+11º 11º 11º
+
+12º 12º 12º
+
+<!-- p. 7 -->
+4º ANO 5º ANO
+5 – ESTORNO POR SAÍDA
+
+Mês Fator Valor Mês Fator Valor OU PERDA
+
+1º 1º Ano Fator Valor
+
+2º 2º 1º
+
+3º 3º 2º
+
+4º 4º 3º
+
+5º 5º 4º
+
+6º 6º 5º
+
+7º 7º
+
+8º 8º
+
+9º 9º
+
+10º 10º
+
+11º 11º
+
+12º 12º
+
+
+
+CONTROLE DE CRÉDITO DE ICMS DO ATIVO PERMANENTE - CIAP
+
+MODELO A
+
+TE
+
+CGC/MF nº Inscrição Estadual nº
+
+Bairro Município
+
+TORNO DE CRÉDITO
+
+AÇÃO DO BEM VALOR DO ICMS
+
+DESCRIÇÃO RESUMIDA ENTRADA
+
+(CRÉDITO)
+
+SAÍDA OU
+
+BAIXA
+
+SALDO
+ACUMULADO
+
+(BASE DO ESTORNO)
+
+<!-- p. 8 -->
+CRÉDITO
+
+S
+
+AS
+
+S
+
+COEFICIENTE
+
+DE ESTORNO
+
+(3 = 1 : 2)
+
+SALDO
+ACUMULADO
+
+(BASE DO ESTORNO)
+
+(4)
+
+FRAÇÃO
+
+MENSAL
+
+(5)
+
+ESTORNO POR
+
+SAÍDAS
+
+ISENTAS OU
+
+NÃO TRIBUTADAS
+
+(6 = 3 x 4 x 5)
+
+ESTORNO
+
+POR
+
+SAÍDA OU
+
+PERDA
+
+(7)
+
+TOTAL DO
+
+ESTORNO
+
+MENSAL
+
+(8 = 6 + 7)
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+1/60
+
+<!-- p. 9 -->
+Voltar
 <<<DOC normas/decreto/decreto-16565-1998-18209.md>>>
 ---
 documento: "DECRETO Nº 16.565 DE 16 DE NOVEMBRO DE 1998"
@@ -16175,7 +21298,7 @@ ementa: "Altera o art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.7
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b4f7ecce-8bbe-409d-9f6c-d489b7ea4810
 atualizado_na_fonte: "2026-10-16 14:54:45"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16281,7 +21404,7 @@ ementa: "Dá nova redação ao art. 9º do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7028a17a-5297-4c61-823c-5f86913bdbf6
 atualizado_na_fonte: "2026-10-16 14:54:37"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16362,7 +21485,7 @@ ementa: "Acrescenta os §§ 6º, 7º e 8º ao art. 589 do Regulamento do ICMS, a
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=21d74ea6-1c6f-4704-afab-f35ffe80a454
 atualizado_na_fonte: "2026-10-16 14:54:30"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16436,6 +21559,84 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 16 DE NOVEMBRO DE 199
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16568-1998-18212.md>>>
+---
+documento: "DECRETO Nº 16.568 DE 16 DE NOVEMBRO DE 1998"
+tipo: decreto
+numero: 16568
+data: "1998-11-16"
+ementa: "Dispõe sobre o parcelamento do ICMS e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=42553734-1be6-481b-9b04-ea79d046e288
+atualizado_na_fonte: "2026-10-16 14:52:12"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.568 DE 16 DE NOVEMBRO DE 1998
+
+_Dispõe sobre o parcelamento do ICMS e dá outras providências._
+
+**Data:** 1998-11-16  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.568 DE 16 DE NOVEMBRO DE 1998.
+
+Publicado no DOE de 24.11.98
+
+Dispõe sobre o parcelamento do ICMS e dá outras providências.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
+
+
+DECRETA
+
+
+Art. 1º – O Superintendente da Administração Tributária, mediante requerimento do interessado, poderá readmitir o parcelamento anteriormente deferido, inscrito ou não em dívida ativa, desde que:
+
+I – não tenha ocorrido o ajuizamento da ação contra o contribuinte inadimplente;
+
+II – o imposto não seja decorrente de sonegação, fraude ou conluio.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo seus efeitos até o dia 31 de dezembro de 1998.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 16 DE NOVEMBRO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+Publicado no DOE de 24.11.98
+
+Dispõe sobre o parcelamento do ICMS e dá outras providências.
+
+
+O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
+
+
+DECRETA
+
+
+Art. 1º – O Superintendente da Administração Tributária, mediante requerimento do interessado, poderá readmitir o parcelamento anteriormente deferido, inscrito ou não em dívida ativa, desde que:
+
+I – não tenha ocorrido o ajuizamento da ação contra o contribuinte inadimplente;
+
+<!-- p. 2 -->
+II – o imposto não seja decorrente de sonegação, fraude ou conluio.
+
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo seus efeitos até o dia 31 de dezembro de 1998.
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 16 DE NOVEMBRO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16569-1998-18213.md>>>
 ---
 documento: "DECRETO Nº 16.569 DE 16 DE NOVEMBRO DE 1998"
@@ -16446,7 +21647,7 @@ ementa: "Altera o inciso XXVII do art. 10 do Regulamento do ICMS, aprovado pelo 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=996a89b3-2489-4345-b655-17ca0dad9957
 atualizado_na_fonte: "2026-10-16 14:52:04"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16526,7 +21727,7 @@ ementa: "Acrescenta o § 20 ao art. 9º do Regulamento do ICMS, aprovado pelo De
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=be7ada14-86bf-4c4c-8686-18d5c52df1bf
 atualizado_na_fonte: "2026-10-16 14:51:42"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16612,9 +21813,9 @@ ementa: "Dispõe sobre a transferência de saldo credor do ICMS decorrente de op
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=02f716e6-1e8b-4dab-a460-227e7d5b35af
 atualizado_na_fonte: "2026-10-16 14:50:46"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
-situacao: "vigente (sem revogação identificada)"
+situacao: "PARCIALMENTE REVOGADA"
 percentual_tachado: 0.0
 ---
 
@@ -16624,7 +21825,9 @@ _Dispõe sobre a transferência de saldo credor do ICMS decorrente de operaçõe
 
 **Data:** 1998-12-10  
 **Remete a:** RICMS  
-**Situação:** vigente (sem revogação identificada)
+**Situação:** PARCIALMENTE REVOGADA
+
+> PARCIALMENTE REVOGADA pela decreto 17546/2000 (normas/decreto/decreto-17546-2000-18340.md): "3º - Ficam revogados o inciso VI do art. 2º e o art. 5º do Decreto nº 16.645 de 10 de dezembro de 1998."
 
 > Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
 <!-- p. 1 -->
@@ -16792,6 +21995,60 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 10 DE DEZEMBRO DE 199
 
 
 Voltar
+<<<DOC normas/decreto/decreto-16646-1998-18216.md>>>
+---
+documento: "DECRETO Nº 16.646 DE 10 DE DEZEMBRO DE 1998"
+tipo: decreto
+numero: 16646
+data: "1998-12-10"
+ementa: "Dispõe sobre o diferimento nas operações de importação do exterior de empilhadeiras autopropulsoras destinadas à modernização do Porto do Itaqui."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=00f775f4-ab5d-4689-b6d0-bf4a186723aa
+atualizado_na_fonte: "2026-10-16 14:50:38"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
+percentual_tachado: 0.0
+---
+
+# DECRETO Nº 16.646 DE 10 DE DEZEMBRO DE 1998
+
+_Dispõe sobre o diferimento nas operações de importação do exterior de empilhadeiras autopropulsoras destinadas à modernização do Porto do Itaqui._
+
+**Data:** 1998-12-10  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma anterior ao RICMS/2003 (vigência não verificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): confira se não foi revogada ou absorvida.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+DECRETO N.º 16.646 DE 10 DE DEZEMBRO DE 1998.
+
+Dispõe sobre o diferimento nas operações de importação do exterior de empilhadeiras autopropulsoras destinadas à modernização do Porto do Itaqui.
+
+
+A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
+
+
+
+DECRETA
+
+
+
+Art. 1º - Ficam diferidos o lançamento e o pagamento do ICMS, nas operações de importação do exterior de empilhadeiras autopropulsoras destinadas à modernização do Porto do Itaqui.
+
+
+Art. 2º - Este Decreto entra em vigor na data da sua publicação, produzindo seus efeitos até 31 de dezembro de 1998.
+
+
+PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 10 DE DEZEMBRO DE 1998, 177o DA INDEPENDÊNCIA E 110o DA REPÚBLICA.
+
+
+Voltar
 <<<DOC normas/decreto/decreto-16647-1998-18217.md>>>
 ---
 documento: "DECRETO Nº 16.647 DE 10 DE DEZEMBRO DE 1998"
@@ -16802,7 +22059,7 @@ ementa: "Altera os incisos XVI e XII, respectivamente, dos arts. 37 e 51 do RICM
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2bf9af65-fd79-433b-8c7e-e4c9f7c9101d
 atualizado_na_fonte: "2026-10-16 14:50:26"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -16904,7 +22161,7 @@ ementa: "Altera e revoga dispositivos do RICMS, aprovado pelo Decreto n.º 14.74
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=917337a1-f844-4fee-847b-ae634f433bdf
 atualizado_na_fonte: "2026-10-16 14:50:16"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17009,7 +22266,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto 14.74
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=28c60fc6-2813-40c0-9bd5-3f0d8d3a2618
 atualizado_na_fonte: "2026-10-16 14:49:23"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "histórica (alterava o RICMS/1995)"
 percentual_tachado: 0.0
@@ -17133,6058 +22390,3 @@ PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 30 DE DEZEMBRO DE 199
 
 
 Voltar
-<<<DOC normas/decreto/decreto-16724-1999-18284.md>>>
----
-documento: "DECRETO Nº 16.724 DE 18 DE FEVEREIRO DE 1999"
-tipo: decreto
-numero: 16724
-data: "1999-02-18"
-ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7af7ea9c-0280-48b5-ab35-26df63cbe7ab
-atualizado_na_fonte: "2026-10-15 14:57:24"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.724 DE 18 DE FEVEREIRO DE 1999
-
-_Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-02-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-DECRETO N.º 16.724 DE 18 DE FEVEREIRO DE 1999.
-
-Publicado no DOE de 25.02.99
-
-
-Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º – Passam a vigorar, com a seguinte redação, os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995:
-
-
-I - o caput e as alíneas "c" e "e" do inciso XV do art. 37:
-
-
-"Art. 37 - ( ... )
-
-
-XV – até 31 de dezembro de 1999, em percentual equivalente, de forma que a carga tributária resulte em 10% (dez por cento), nas operações internas realizadas por comerciantes atacadistas definidos em ato do Gerente da Receita Estadual, que destinem mercadorias para fins de comercialização, produção ou industrialização, desde que o contribuinte esteja credenciado pelo Subgerente de Fiscalização para a fruição do benefício previsto neste inciso, observado o seguinte:"
-
-
-.................................................................................................................... ...
-
-
-"c) para fruição do benefício de que trata este inciso, o contribuinte beneficiário deverá:
-
-1 - estornar, proporcionalmente, o crédito fiscal;
-
-<!-- p. 2 -->
-2 – apresentar, até o 10.º (décimo) dia do mês subseqüente ao da ocorrência do fato gerador, relatório sobre as mercadorias vendidas mensalmente, em meio magnético (disquete), no formato estabelecido pela Gerência da Receita Estadual;
-
-
-3 – apresentar, até o 10.º (décimo) dia de cada mês, relatório sobre as mercadorias adquiridas no mês anterior, em meio magnético (disquete), no formato estabelecido pela Gerência da Receita Estadual"
-
-
-( ... )
-
-
-"e) o contribuinte fica sujeito à antecipação parcial do imposto de 2% (dois por cento) sobre o valor das aquisições, cujo pagamento será efetuado até o dia 20 do mês subsequente ao da entrada da mercadoria em território maranhense."
-
-
-
-II - o inciso XI do art. 51:
-
-
-"XI – até 31 de dezembro de 1999, nas saídas interestaduais promovidas por contribuintes definidos em ato do Gerente da Receita Estadual, que destinem mercadorias para fins de comercialização, produção ou industrialização, o percentual equivalente, de forma que a carga tributária seja de 10% (dez por cento), desde que o contribuinte esteja credenciado pelo Subgerente de Fiscalização para a fruição do benefício previsto neste inciso, observado o seguinte:
-
-
-a) o credenciamento fica condicionado à comprovação de regularidade fiscal;
-
-
-b) constatada a ocorrência de infração à legislação tributária estadual que resulte na falta de pagamento do ICMS ou cumprimento de obrigações acessórias, será cancelado o credenciamento de que trata o inciso anterior;
-
-
-c) para fruição do benefício de que trata este inciso, o contribuinte beneficiário deverá:
-
-1 - estornar, proporcionalmente, o crédito fiscal;
-
-<!-- p. 3 -->
-2 – apresentar, até o 10.º (décimo) dia do mês subseqüente ao da ocorrência do fato gerador, relatório sobre as mercadorias vendidas mensalmente, em meio magnético (disquete), no formato estabelecido pela Gerência da Receita Estadual;
-
-
-3 – apresentar, até o 10.º (décimo) dia de cada mês, relatório sobre as mercadorias adquiridas no mês anterior, em meio magnético (disquete), no formato estabelecido pela Gerência da Receita Estadual;
-
-
-d) não se aplica às operações:
-
-
-1. destinadas a consumidor final;
-
-2. sujeitas ao regime de substituição tributária;
-
-3. com os produtos elencados no inciso IV, do art. 16 da Lei n.º 6.866, de 5 de dezembro de 1996;
-
-4. contemplados com quaisquer outros benefícios, podendo o contribuinte optar pelo que lhe for mais favorável;
-
-
-e) o contribuinte fica sujeito à antecipação parcial do imposto de 2% (dois por cento) sobre o valor das aquisições, cujo pagamento será efetuado até o dia 20 do mês subsequente ao da entrada da mercadoria em território maranhense."
-
-
-III – o inciso II do art. 527:
-
-
-"II - aos contribuintes enquadrados no C.A.E. 7.00.00 (comércio atacadista), credenciados pelo Subgerente de Fiscalização, para a fruição dos benefícios previstos no inciso XV do art.37 e no inciso XI do art. 51, exceto em relação às operações com os produtos elencados no inciso IV, do art. 16 da Lei n.º 6.866, de 5 de dezembro de 1996;"
-
-
-Art. 2.º - Fica acrescentado, com a seguinte redação, o § 2º ao art. 521 do RICMS, renumerando-se o atual parágrafo único para § 1º:
-
-<!-- p. 4 -->
-§ 2º - A Gerência da Receita Estadual poderá conceder Regime Especial de pagamento do ICMS incidente sobre as operações com bebidas alcoólicas (exceto cerveja e chope), realizadas por estabelecimentos comerciais inscritos no Código de Atividade Econômica 7.00.00 (comércio atacadista), nas seguintes condições:
-
-
-I – o recolhimento do ICMS será efetuado no momento da saída da mercadoria, nas operações internas, em percentual não inferior a 14% (quatorze por cento) sobre o valor da mercadoria;
-
-
-II – o estabelecimento deverá estar amparado pelo credenciamento de que trata os incisos XV e XI dos arts 37 e 51, repectivamente.
-
-
-Art. 3.º - Ficam revogados os incisos I e II do § 2.º do art. 523 do Regulamento do ICMS.
-
-
-Art. 4º - Este Decreto entra em vigor na data de sua publicação produzindo efeitos a partir de 1.º de janeiro de 1999.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE FEVEREIRO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16725-1999-18283.md>>>
----
-documento: "DECRETO Nº 16.725 DE 18 DE FEVEREIRO DE 1999"
-tipo: decreto
-numero: 16725
-data: "1999-02-18"
-ementa: "Dá nova redação aos incisos XXIX e XXXIII do art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=36d180a5-5ecf-46fa-8488-41c008331905
-atualizado_na_fonte: "2026-10-15 14:57:33"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.725 DE 18 DE FEVEREIRO DE 1999
-
-_Dá nova redação aos incisos XXIX e XXXIII do art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995._
-
-**Data:** 1999-02-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-DECRETO N.º 16.725 DE 18 DE FEVEREIRO DE 1999.
-
-Publicado no DOE de 25.02.99
-
-
-Dá nova redação aos incisos XXIX e XXXIII do art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995.
-
-
-O GOVERNADOR DO ESTADO DO MARANHÃO EM EXERCÍCIO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o disposto nos Convênios ICMS 116 e 117, de 11 de dezembro de 1.998:
-
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar com a seguinte redação, os incisos XXIX e XXXIII do art. 10 do Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de l.995:
-
-
-"XXIX- até 31 de dezembro de l.999, as operações com preservativos, classificados no código 4014.10.00 da Nomenclatura Brasileira de Mercadorias – Sistema Harmonizado – NBM / SH, desde que o contribuinte abata do preço da mercadoria o valor equivalente ao imposto que seria devido se houvesse a isenção, indicando expressamente no documento fiscal. (Convênio ICMS 116/98)".
-
-
-XXX – até 30 de junho de l.999, as operações e prestações referentes às saídas de mercadorias, em decorrência de doação a órgãos e entidades da administração direta e indireta da União, dos Estados e dos Municípios ou às entidades assistenciais reconhecidas como de utilidade pública, para assistência às vítimas de situação de seca nacionalmente reconhecida, na área de abrangência da SUDENE .( Convênio ICMS 117/98)".
-
-
-Art. 2º - Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE FEVEREIRO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-
-<!-- p. 2 -->
-<<<DOC normas/decreto/decreto-16726-1999-18282.md>>>
----
-documento: "DECRETO Nº 16.726 DE 18 DE FEVEREIRO DE 1999"
-tipo: decreto
-numero: 16726
-data: "1999-02-18"
-ementa: "Dá nova redação aos arts. 606 e 607 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências"
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7dd9c28a-04d4-4628-a45a-75adecbdd0e2
-atualizado_na_fonte: "2026-10-15 14:57:47"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.726 DE 18 DE FEVEREIRO DE 1999
-
-_Dá nova redação aos arts. 606 e 607 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências_
-
-**Data:** 1999-02-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-DECRETO N.º 16.726 DE 18 DE FEVEREIRO DE 1999
-
-Publicado no DOE de 25.02.99
-
-
-Dá nova redação aos arts. 606 e 607 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o Convênio ICMS 132, de 11 de dezembro de 1998, celebrado com fulcro no art.199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966),
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar com a seguinte redação os arts. 606 e 607 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-
-"Art. 606 – A não exigência do pagamento do imposto por ocasião da liberação da mercadoria ou bem, em virtude de isenção, não incidência, diferimento ou outro motivo, será comprovada mediante apresentação da "Guia para Liberação de Mercadoria Estrangeira sem Comprovação do Recolhimento do ICMS", Anexo 64, em relação à qual se observará o que segue:
-
-<!-- p. 2 -->
-I – ocorrendo o despacho aduaneiro neste Estado, o fisco estadual aporá o "visto" no campo próprio da Guia, sendo esta condição indispensável, em qualquer caso, para a liberação da mercadoria ou bem importado;
-
-II - sendo a não exigência do imposto decorrente de benefício fiscal, o "visto" de que trata o inciso anterior somente será aposto se houver o correspondente convênio, celebrado nos termos da Lei Complementar nº 24, de 7 de janeiro de 1975, com a necessária indicação na Guia.
-
-III - quando o despacho se verificar em território de unidade federada distinta daquela onde esteja localizado o importador e a não exigência do imposto se der em razão de diferimento ou por outros motivos previstos na legislação de sua unidade federada deverá apor o seu "visto", no campo próprio da Guia, antes do "visto" de que trata o inciso I";
-
-§ 1º O documento previsto neste artigo será preenchido pelo contribuinte em 4 (quatro) vias, que, após serem visadas, terão a seguinte destinação:
-
-
-I - 1ª via: contribuinte, devendo acompanhar a mercadoria ou bem no seu transporte;
-
-II - 2ª e 3ª vias: retidas pelo fisco estadual da localidade do despacho, no momento da entrega para recebimento do "visto" , devendo a 2ª via ser remetida, mensalmente, ao fisco da unidade federada da situação do importador;
-
-III - 4ª via: fisco federal - retida por ocasião do despacho ou liberação da mercadoria ou bem.
-
-§ 2º O "visto" de que tratam os incisos I e III deste artigo não tem efeito homologatório, sujeitando-se o contribuinte ao pagamento do imposto, das penalidades e dos acréscimos legais, quando cabíveis.(Convênio ICM 10/81; Protocolo ICM 10/81 e Convênio ICMS 132/98)."
-
-"Art. 607 - O formulário da "Declaração de Exoneração do ICM na Entrada de Mercadoria Estrangeira" previsto na cláusula sexta do Protocolo ICM 10/81, de 23 de outubro de 1981, Anexo 64 do RICMS, poderá ser utilizado até 31 de março de 1999. (Convênio ICMS 132/98)".
-
-<!-- p. 3 -->
-Art. 2º - Este Decreto entra em vigor na data da sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE FEVEREIRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-
-
-
-ANEXO 64
-
-
-GUIA PARA LIBERAÇÃO DE MERCADORIA ESTRANGEIRA SEM COMPROVAÇÃO DO
-
-RECOLHIMENTO DO ICMS
-
-SECRETARIA DE FAZENDA OU DE FINAÇAS
-
-DE:
-
-
-
-IMPORTADOR DECLARAÇÃO DE IMPORTAÇÃO
-
-NOME NÚMERO DATA
-
-<!-- p. 4 -->
-INSCRIÇÃO ESTADUAL CGC CAE VALOR DO DESPACHO ADUANEIRO UF
-
-ENDEREÇO BAIRRO OU DISTRITO
-
-VALOR CIF em R$
-
-CEP MUNICÍPIO UF TELEFONE
-
-
-DADOS DA OPERAÇÃO
-
-ADIÇÃO QUANT. UNID.
-VOLUME VALOR R$ CLASSIFICAÇÃO FISCAL
-
-TRATAMENTO TRIBUTÁRIO FUNDAMENTO LEGAL (CONVÊNIO, DECRETO, PROCESSO, ATO CONCESSÓRIO, ETC) DRAW-BACK NÃO INCIDÊNCIA
-
-REG. ESPECIAL ISENÇÃO
-
-DIFERIMENTO OUTROS (ESPECIFICAR)
-
-Solicitamos o desembaraço das mercadorias acima descritas, sem a comprovação do recolhimento do ICMS. Estamos cientes de que o tratamento tributário está sujeito a reexame e confirmação, inclusive, nos casos em que a legislação exigir a instauração de processo regular, a vista de requerimento do importador.
-
-DATA REPRESENTANTE LEGAL ou PROCURADOR (assinatura, nome, CPF, endereço, CEP e telefone)
-
-OBSERVAÇÕES DO FISCO
-
-<!-- p. 5 -->
-VISTO DO FISCO DA U.F. DO IMPORTADOR
-
-DEFERIDA A SOLICITAÇÃO, DATA E CARIMBO
-
-VISTO DO FISCO DA U.F. ONDE OCORRER O DESEMBARAÇO,
-
-DEFERIDA A SOLICITAÇÃO, DATA E CARIMBO
-<<<DOC normas/decreto/decreto-16727-1999-18281.md>>>
----
-documento: "DECRETO Nº 16.727 DE 18 DE FEVEREIRO DE 1999"
-tipo: decreto
-numero: 16727
-data: "1999-02-18"
-ementa: "Dá nova redação ao inciso XLVIII do art. 9o do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f02321a0-5c6b-44fc-8307-b5adcc49211c
-atualizado_na_fonte: "2026-10-15 14:57:56"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.727 DE 18 DE FEVEREIRO DE 1999
-
-_Dá nova redação ao inciso XLVIII do art. 9o do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995._
-
-**Data:** 1999-02-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-DECRETO NO 16.727 DE 18 DE FEVEREIRO DE 1999
-
-Publicado no DOE de 25.02.99
-
-
-Dá nova redação ao inciso XLVIII do art. 9o do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da constituição do Estado e tendo em vista o disposto no Convênio ICMS 114, de 11 de dezembro de 1998, celebrado nos termos da Lei Complementar no 24, de 7 de janeiro de 1975,
-
-
-DECRETA
-
-
-Art. 1o – Passam a vigorar com a seguinte redação, a alínea "a" e o item 2 da alínea "b" do inciso XLVIII do art. 9o do Regulamento do ICMS, aprovado pelo Decreto no
-
-14.744, de 29 de setembro de 1995.
-
-
-"Art. 9o – ( ... )
-
-
-XLVIII – ( ... )
-
-
-a) recebimento pelo importador dos fármacos Timidina, código NBM 2934.90.23, Zidovudina – AZT, código NBM/SH 2934.90.22, Lamivudina e Didonasina, ambos classificados no código NBM/SH 2934.90.29, e dos medicamentos Zalcitabina, Didanosina, Saquinavir, Sulfato de Indinavir, Ritonavir, Estavudina, Lamivudina e Delavirdina, todos classificados nos códigos NBM/SH 3003.90.99, 3004.90.69 e
-3004.90.99. (Conv. ICMS 51/94, 88/96, 24/97 e 114/98); "
-
-
-"b) (...)
-
-
-2) dos medicamentos de uso humano , destinados ao tratamento dos portadores do vírus da AIDS: os classificados nos códigos NBM/SH 3003.90.99, 3004.90.69 e
-3004.90.99, que tenham como princípio ativo os fármacos Zidovudina – AZT,
-
-<!-- p. 2 -->
-Ganciclovir, Zalcitabina, Didanosina, Estavudina, Saquinavir, Sulfato de Indinavir, Ritonavir, Lamivudina ou Delavirdina. (Conv. ICMS 51/94, 88/96, 24/97 e 114/98)."
-
-
-Art. 2o – Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE FEVEREIRO DE 1999, 178O DA INDEPENDÊNCIA E 111O DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16728-1999-18280.md>>>
----
-documento: "DECRETO Nº 16.728 DE 18 DE FEVEREIRO DE 1999"
-tipo: decreto
-numero: 16728
-data: "1999-02-18"
-ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0d0a8d2e-287e-43f0-9c68-09ccdb24846d
-atualizado_na_fonte: "2026-10-15 14:58:03"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.728 DE 18 DE FEVEREIRO DE 1999
-
-_Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-02-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-DECRETO N.º 16.728 DE 18 DE FEVEREIRO DE 1999
-
-Publicado no DOE de 25.02.99
-
-
-Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o Convênio ICMS 128, 129 e 130, de 11 de dezembro de 1998, celebrados com fulcro na Lei Complementar nº 24, de 7 de janeiro de 1995,
-
-
-
-DECRETA
-
-
-
-Art. 1º - Passam a vigorar, com a seguinte redação, os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-
-I – os incisos XXXIX e XLVII do art. 9º:
-
-
-"Art. 9º - ( . . . )
-
-
-XXXIX – as operações decorrentes de importação de máquina de limpar e selecionar frutas, classificada no código 8433.60.90 da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado – NBM/SH, sem similar produzido no país, quando a importação for efetuada diretamente do exterior para integração do ativo imobilizado, para uso exclusivo na atividade realizada pelo estabelecimento importador (Convênios ICMS 93/91 e 128/98);
-
-
-........................................................................................................
-
-<!-- p. 2 -->
-XLVII – as operações decorrentes de importação do exterior de tratores agrícolas de quatro rodas e de colheitadeiras mecânicas de algodão, classificados, respectivamente, no código 8701.90.00 e na subposição 8433.59 da Nomenclatura Brasileira de Mercadorias – Sistema Harmonizado – NBM/SH, sem similar produzido no país, quando a importação for efetuada diretamente do exterior para integração do ativo imobilizado, para uso exclusivo na atividade agrícola realizada pelo estabelecimento importador, desde que contemplados com isenção ou alíquota zero dos impostos de Importação e sobre Produtos Industrializados (Convênios ICMS 77/93 e 129/98;"
-
-
-II – o item 4 do § 1º do art. 681:
-
-
-"Art. 681 – ( . . . )
-
-
-§ 1º - ( . . . )
-
-
-4 – as mercadorias destinem-se a integrar o ativo imobilizado da empresa industrial adquirente, para uso exclusivo na atividade produtiva realizada pelo estabelecimento importador (Convênios ICMS 130/94 e 130/98)."
-
-
-Art. 2º - Fica acrescentado o § 21 ao art. 9º do RICMS:
-
-
-"§ 21 – A fruição do benefício previsto nos incisos XXXIX e XLVII, fica condicionada à inexistência de produto similar produzido no país, atestada por órgão federal competente ou por entidade representativa do setor produtivo de máquinas, aparelhos e equipamentos, com abrangência em todo o território nacional (Convênios ICMS 93/91; 77/93; 128/98 e 129/98)."
-
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-<!-- p. 3 -->
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE FEVEREIRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16729-1999-18279.md>>>
----
-documento: "DECRETO Nº 16.729 DE 18 DE FEVEREIRO DE 1999"
-tipo: decreto
-numero: 16729
-data: "1999-02-18"
-ementa: "Dá nova redação ao § 7o do art. 589 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=151726e1-cb4c-43bc-a1a8-cfc378d9b91a
-atualizado_na_fonte: "2026-10-15 14:58:12"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.729 DE 18 DE FEVEREIRO DE 1999
-
-_Dá nova redação ao § 7o do art. 589 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995._
-
-**Data:** 1999-02-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO No 16.729 DE 18 DE FEVEREIRO DE 1999
-
-
-Dá nova redação ao § 7o do art. 589 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o disposto no Convênio ICMS 124/98 celebrado com fulcro no art. 199 da Lei Federal no 5.172, de 26 de outubro de 1966 – Código Tributário Nacional,
-
-DECRETA
-
-Art. 1o – Passa a vigorar com a seguinte redação o §7o do art. 589 do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995:
-
-"Art. 589 – ( ... )
-
-§ 7o – As operações relacionadas com a securitização e o EGF-COV serão efetuadas sob a mesma inscrição utilizada no Cadastro de Contribuintes referente às operações de compra e venda de produtos agrícolas amparadas por contratos de opções denominados "Mercado de Opções do Estoque Estratégico" de que trata o Convênio ICMS 26/96, de 22 de março de 1996."(Conv. ICMS 63/98 e 124/98).
-
-Art. 2o – Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE FEVEREIRO DE 1999, 178O DA INDEPENDÊNCIA E 111O DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16730-1999-18278.md>>>
----
-documento: "DECRETO Nº 16.730 DE 18 DE FEVEREIRO DE 1999"
-tipo: decreto
-numero: 16730
-data: "1999-02-18"
-ementa: "Dá nova redação ao caput do art. 764 do Regulamento do ICMS aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ba2013b0-11f3-4948-804c-d4413b620300
-atualizado_na_fonte: "2026-10-15 14:58:25"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.730 DE 18 DE FEVEREIRO DE 1999
-
-_Dá nova redação ao caput do art. 764 do Regulamento do ICMS aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995._
-
-**Data:** 1999-02-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.730 DE 18 DE FEVEREIRO DE 1999
-
-Publicado no DOE de 25.02.99
-
-
-Dá nova redação ao caput do art. 764 do Regulamento do ICMS aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o Convênio ICMS 125, de 11 de dezembro de 1998, celebrado com fulcro nos arts. 102 e 199 do Código Tributário Nacional(Lei nº 5.172, de 25 de outubro de 1966),
-
-DECRETA
-
-Art. 1º - Passa a vigorar com a seguinte redação o "caput" do art. 764 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-"Art. 764 – Nas operações interestaduais com veículos novos classificados nos códigos da Nomenclatura Brasileira de Mercadorias – Sistema Harmonizado – NBM/SH, indicados no anexo 83, fica atribuída ao estabelecimento importador e ao estabelecimento industrial fabricante a responsabilidade pela retenção e recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS devido nas subsequentes saídas até e inclusive à promovida pelo primeiro estabelecimento revendedor varejista ou entrada com destino ao ativo imobilizado. (Convênios ICMS 132/92 e 125/98)."
-
-Art. 2º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1999.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE FEVEREIRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16735-1999-18276.md>>>
----
-documento: "DECRETO Nº 16.735 DE 26 DE FEVEREIRO DE 1999"
-tipo: decreto
-numero: 16735
-data: "1999-02-26"
-ementa: "Dá nova redação aos incisos I e IV do art. 91 e ao art. 96 do Regulamento do ICMS aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8c904c19-1865-4fb0-ad39-7b4434886b92
-atualizado_na_fonte: "2026-10-15 14:59:00"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.735 DE 26 DE FEVEREIRO DE 1999
-
-_Dá nova redação aos incisos I e IV do art. 91 e ao art. 96 do Regulamento do ICMS aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995._
-
-**Data:** 1999-02-26  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.735 DE 26 DE FEVEREIRO DE 1999
-
-
-Dá nova redação aos incisos I e IV do art. 91 e ao art. 96 do Regulamento do ICMS aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-DECRETA
-
-Art. 1º - Passam a vigorar com a seguinte redação os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – os incisos I e IV do art. 91:
-
-"I - ao contribuinte que estiver inadimplente em relação a parcelamento anterior;
-
-( ... )
-
-IV - de crédito tributário denunciado espontaneamente pelo contribuinte, em relação a fatos geradores ocorridos a partir de 1º janeiro de 1999."
-
-
-II – o art. 96:
-
-"Art. 96 – É competente para decidir sobre o pedido de parcelamento em até 18 (dezoito) parcelas:
-
-I – relativamente a créditos tributários não inscritos em dívida ativa, o Delegado ou Diretor da Unidade da Receita Estadual que circunscricionar o estabelecimento do contribuinte.
-
-II – relativamente a créditos tributários inscritos em dívida ativa, o Subgerente de Processos Fiscais."
-
-Art. 2º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 26 DE FEVEREIRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16740-1999-18274.md>>>
----
-documento: "DECRETO Nº 16.740 DE 12 DE MARÇO DE 1999"
-tipo: decreto
-numero: 16740
-data: "1999-03-12"
-ementa: "Acrescenta a Seção VI ao Capítulo III do Título II do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6c83af01-a565-4011-8915-429dc6e61ac9
-atualizado_na_fonte: "2026-10-15 15:00:40"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.740 DE 12 DE MARÇO DE 1999
-
-_Acrescenta a Seção VI ao Capítulo III do Título II do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-03-12  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO Nº 16.740 DE 12 DE MARÇO 1999.
-
-
-Acrescenta a Seção VI ao Capítulo III do Título II do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Fica acrescentada a Seção VI ao Capítulo III do Título II do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995:
-
-
-"SEÇÃO VI
-
-
-DO PAGAMENTO DO IMPOSTO NAS OPERAÇÕES INTERESTADUAIS COM
-
-MERCADORIAS DESTINADAS A NÃO CONTRIBUINTES
-
-
-Art. 88.A – Nas operações interestaduais de entrada de mercadorias neste Estado, destinadas a não contribuintes do imposto, será exigido, na primeira unidade da Receita Estadual por onde circularem, o pagamento do ICMS.
-
-
-Art. 88.B - O imposto a ser recolhido na forma do artigo anterior, resultará da diferença entre a alíquota interna deste Estado e a utilizada pelo Estado de origem da mercadoria, na referida operação.
-
-
-§ 1º – O imposto cobrado na forma deste artigo deverá ser recolhido em Documento de Arrecadação de Receitas Estaduais (DARE) específico.
-
-§ 2º - O disposto nesta seção não se aplica às mercadorias acompanhadas de notas fiscais cujo imposto já tenha sido cobrado com a alíquota plena no Estado de origem".
-
-<!-- p. 2 -->
-Art. 2º - Passa vigorar, com a seguinte redação, o inciso I do § 2.º do art. 521 do RICMS/95:
-
-"I – o recolhimento do ICMS será efetuado no momento da saída da mercadoria, nas operações internas, em percentual não inferior a 14% (quatorze por cento) sobre o valor da mercadoria;"
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUIS, 12 DE MARÇO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-
-Acrescenta a Seção VI ao Capítulo III do Título II do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Fica acrescentada a Seção VI ao Capítulo III do Título II do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995:
-
-
-"SEÇÃO VI
-
-
-DO PAGAMENTO DO IMPOSTO NAS OPERAÇÕES INTERESTADUAIS COM
-
-MERCADORIAS DESTINADAS A NÃO CONTRIBUINTES
-
-
-Art. 88.A – Nas operações interestaduais de entrada de mercadorias neste Estado, destinadas a não contribuintes do imposto, será exigido, na primeira unidade da Receita Estadual por onde circularem, o pagamento do ICMS.
-
-
-Art. 88.B - O imposto a ser recolhido na forma do artigo anterior, resultará da diferença entre a alíquota interna deste Estado e a utilizada pelo Estado de origem da mercadoria, na referida operação.
-
-<!-- p. 3 -->
-§ 1º – O imposto cobrado na forma deste artigo deverá ser recolhido em Documento de Arrecadação de Receitas Estaduais (DARE) específico.
-
-§ 2º - O disposto nesta seção não se aplica às mercadorias acompanhadas de notas fiscais cujo imposto já tenha sido cobrado com a alíquota plena no Estado de origem".
-
-Art. 2º - Passa vigorar, com a seguinte redação, o inciso I do § 2.º do art. 521 do RICMS/95:
-
-"I – o recolhimento do ICMS será efetuado no momento da saída da mercadoria, nas operações internas, em percentual não inferior a 14% (quatorze por cento) sobre o valor da mercadoria;"
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUIS, 12 DE MARÇO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16741-1999-18273.md>>>
----
-documento: "DECRETO Nº 16.741 DE 12 DE MARÇO DE 1999"
-tipo: decreto
-numero: 16741
-data: "1999-03-12"
-ementa: "Dá nova redação ao Capítulo XV do Título VI do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d8ecf2f7-f64a-475d-a4d3-399f91d0d7a0
-atualizado_na_fonte: "2026-10-15 15:00:49"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.741 DE 12 DE MARÇO DE 1999
-
-_Dá nova redação ao Capítulo XV do Título VI do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-03-12  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.741 DE 12 DE MARÇO DE 1999.
-
-Dá nova redação ao Capítulo XV do Título VI do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o disposto no Convênio ICMS 126, de 11 de dezembro de 1998, celebrado nos termos do art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966),
-
-
-DECRETA
-
-Art. 1º - Passa a vigorar com a seguinte redação o Capítulo XV do Título VI do Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de l995:
-
-CAPÍTULO XV
-
-Das prestações de serviços públicos de telecomunicações
-
-"Art. 623 - Fica concedido às empresas de serviços públicos de telecomunicações indicadas no Anexo 65, doravante denominadas simplesmente empresa de telecomunicação, regime especial para cumprimento de obrigações tributárias relacionadas com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, nos termos deste Capítulo ( Convênios ICM 04/89 e ICMS 126/98).
-
-Parágrafo único. Nas hipóteses não contempladas neste Capítulo, observar-se-ão as normas previstas na legislação tributária pertinente.
-
-Art. 624 - A empresa de telecomunicação, situada neste Estado, deverá manter:
-
-I - apenas um de seus estabelecimentos inscrito no Cadastro de Contribuintes do ICMS, dispensados dessa exigência os demais locais onde exercer sua atividade;
-
-II - centralizada a escrituração fiscal e o recolhimento do ICMS correspondente.
-
-Art. 625 - O imposto devido por todos os estabelecimentos da empresa de telecomunicação será apurado e recolhido por meio de um só documento de arrecadação, obedecidos os demais requisitos quanto à forma e prazos previstos na legislação, ressalvadas as hipóteses em que é exigido o recolhimento do imposto de forma especial.
-
-Parágrafo único Serão consideradas, para a apuração do imposto, as Notas Fiscais de Serviço de Telecomunicações (NFST), emitidas durante o período de apuração, juntamente com as Notas Fiscais referentes às operações com mercadorias.
-
-Art. 626 - A empresa de telecomunicação, relativamente aos estabelecimentos que não possuam inscrição própria, cumprirá todas as obrigações tributárias não
-
-<!-- p. 2 -->
-excepcionadas, devendo, no tocante à declaração de dados informativos necessários à apuração dos índices de participação dos Municípios no produto da arrecadação do ICMS, observar o estabelecido na legislação de cada unidade federada.
-
-Art. 627 - Fica a empresa de telecomunicação autorizada a emitir Nota Fiscal de Serviço de Telecomunicações (NFST), por sistema eletrônico de processamento de dados, observado o Convênio ICMS-57/95, de 28 de junho de 1995, em uma única via, com numeração seqüencial e mensal, abrangendo toda a área de operação, em cada unidade federada.
-
-§ 1º A emissão do documento previsto no caput será feita em papel que contenha dispositivos de segurança previstos no Convênio ICMS-58/95, de 28 de junho de 1995, dispensada a calcografia (talho-doce).
-
-§ 2º Poderá ser dispensada a exigência prevista no parágrafo anterior, quando o usuário do serviço não for pessoa inscrita no Cadastro de Contribuintes do ICMS, hipótese em que poderá, também, não ser exigida, a autorização para a sua impressão.
-
-Art. 627.A - Em relação a cada Posto de Serviço, poderá a empresa de telecomunicação ser autorizada:
-
-I - a emitir, ao final do dia, documento interno que conterá, além dos demais requisitos, o resumo diário dos serviços prestados, a série e subsérie e o número ou código de controle correspondente ao posto;
-
-II - a manter impresso do documento interno de que trata o inciso anterior, para os fins ali previstos, em poder de preposto.
-
-§ 1º Concedida a autorização prevista neste artigo, além das demais exigências, observar-se-á o que segue:
-
-I - deverão ser indicados no livro Registro de Utilização de Documentos Fiscais e Termos de Ocorrência os impressos dos documentos internos destinados a cada posto;
-
-II - no último dia de cada mês, será emitida a Nota Fiscal de Serviço de Telecomunicações (NFST), de subsérie especial, abrangendo todos os documentos internos emitidos no mês, com destaque do ICMS devido;
-
-§ 2º Serão conservados, para exibição ao fisco, durante o prazo previsto na legislação, uma via do documento interno emitido e todos os documentos que serviram de base para a sua emissão.
-
-§ 3º Sujeitar-se-á o documento interno previsto neste artigo todas as demais normas relativas a documentos fiscais, previstas na legislação pertinente.
-
-Art. 627.B - No caso de serviço de telecomunicação prestado mediante ficha, cartão ou assemelhados, por ocasião da entrega, real ou simbólica, a terceiro para fornecimento a usuário, a empresa de telecomunicação emitirá a Nota Fiscal de Serviço de Telecomunicações (NFST), com destaque do valor do imposto devido, calculado com base no valor tarifário vigente nessa data.
-
-<!-- p. 3 -->
-Parágrafo único. O disposto neste artigo aplica-se, também, à remessa a estabelecimento da mesma empresa de telecomunicação localizado na mesma unidade federada, para fornecimento ao usuário do serviço.
-
-Art. 627.C - O disposto neste Capítulo não dispensa a adoção e escrituração dos livros fiscais previstos na legislação pertinente.
-
-Art. 627.D - O Documento de Declaração de Tráfego e de Prestação de Serviços - DETRAF, instituído pelo Ministério das Comunicações, de emissão obrigatória pela EMBRATEL, é adotado como documento de controle relacionado com o ICMS devido pelas operadoras, que deverão guardá-lo durante o prazo previsto na legislação, para exibição ao fisco.
-
-Art. 627.E - Na cessão onerosa de meios das redes de telecomunicações a outras empresas de telecomunicações, nos casos em que a cessionária não se constitua usuário final, ou seja, quando utilizar tais meios para prestar serviços públicos de telecomunicações a seus próprios usuários, o imposto será devido apenas sobre o preço do serviço cobrado do usuário final."
-
-Art. 2º - Ficam revogados os incisos XVII e XVIII do art. 9º do RICMS.
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de março de 1999.
-
-Palácio do Governo do Estado do Maranhão, em São Luís, 12 de MARÇO de 1999, 178º da Independência e 111º da República.
-
-ANEXO 65
-
-EMPRESAS DE SERVIÇOS PÚBLICOS DE TELECOMUNICAÇÕES
-
-SEQ ENTIDADE NAT.
-SEDE
-
-01 Empresa Brasileira de Telecomunicações S.A. – EMBRATEL
-01 Rio de Janeiro
-
-02 Telecomunicações do Acre S.A. – TELEACRE
-02 Rio Branco
-
-03 Telecomunicações de Rondônia S.A. TELERON
-02 Porto Velho
-
-04 Telecomunicações do Amazonas S.A. – TELAMAZON
-02 Manaus
-
-05 Telecomunicações de Roraima S.A. TELAIMA
-02 Boa Vista
-
-06 Telecomunicações do Pará S.A. – TELEPARÁ
-02 Belém
-
-07 Telecomunicações do Amapá S.A. – TELEAMAPÁ
-02 Macapá
-
-08 Telecomunicações do Maranhão S.A. – TELMA
-02 São Luiz
-
-09 Telecomunicações do Piauí S.A. – TELEPISA
-02 Teresina
-
-10 Telecomunicações do Ceará S.A. – TELECEARÁ
-02 Fortaleza
-
-11 Telecomunicações do Rio Grande do Norte S.A. – TELERN
-02 Natal
-
-12 Telecomunicações da Paraíba S.A. – TELPA
-02 João Pessoa
-
-<!-- p. 4 -->
-13 Telecomunicações de Pernambuco S.A. – TELPE
-02 Recife
-
-14 Telecomunicações de Alagoas S.A. TELASA
-02 Maceió
-
-15 Telecomunicações de Sergipe S.A. – TELERGIPE
-02 Aracajú
-
-16 Telecomunicações da Bahia S.A. – TELEBAHIA
-02 Salvador
-
-17 Telecomunicações de Minas Gerais S.A. – TELEMIG
-02 Belo Horizonte
-
-18 Telecomunicações do Espírito Santo S.A. – TELEST
-02 Vitória
-
-19 Telecomunicações do Rio de Janeiro S.A. – TELERJ
-02 Rio de Janeiro
-
-20 Companhia Telefônica do Rio de Janeiro S.A. – CETEL/RJ
-02 Rio de Janeiro
-
-21 Telecomunicações de São Paulo S.A. – TELESP
-02 São Paulo
-
-22 Companhia Telefônica da Borda do Campo – CTRC
-02 Santo André - SP
-
-23 Telecomunicações do Paraná S.A. – TELEPAR
-02 Curitiba
-
-24 Companhia Pontagrossense de Telecomunicações – CPT
-02 Ponta Grossa - PR
-
-25 Companhia Telefônica de Paranaguá – COTELPA
-02 Paranaguá - PR
-
-26 Telecomunicações de Santa Catarina S.A. – TELESC
-02 Florianópolis
-
-27 Companhia Telefônica Melhoramento e Resistência – CTMR
-02 Pelotas - RS
-
-28 Telecomunicações de Mato Grosso S.A. – TELEMAT
-02 Cuiabá
-
-29 Telecomunicações de Mato Grosso do Sul S.A. – TELEMS
-02 Campo Grande
-
-30 Telecomunicações de Goiás S.A. – TELEGOIÁS
-02 Goiânia
-
-31 Telecomunicações de Brasília S.A. – TELEBRASÍLIA
-02 Brasília
-
-32 Companhia Riograndense de Telecomunicações - CRT
-03 Porto Alegre
-
-33 Companhia de Telefones do Brasil Central -
-04 Uberlândia
-
-34 Empresa Telefônica de Uberaba S.A.
-04 Uberaba
-
-35 Empresa Telefônica de Ituiutaba
-04 Uberlândia
-
-36 Companhia Telefônica de Pará de Minas
-04 Uberlândia
-
-37 CETERP - Centrais Telefônicas de Ribeirão Preto
-05 Ribeirão Preto
-
-38 SERCOMTEL – Serviços de Com. Telefônicas de Londrina
-06 Londrina
-
-39 Prefeitura Municipal de Belo Vale
-07 Belo Vale - MG
-
-40 Prefeitura Municipal de Aiuaba
-07 Aiuaba - CE
-
-41 Prefeitura Municipal de Antonina do Norte
-07 Ant. do Norte - CE
-
-<!-- p. 5 -->
-42 Prefeitura Municipal de Apuiarés
-07 Apuiarés - CE
-
-43 Prefeitura Municipal de Aracatí
-07 Aracatí - CE
-
-44 Prefeitura Municipal de Capistrano
-07 Capistrano _ CE
-
-45 Prefeitura Municipal de Cascavel
-07 Cascavel - CE
-
-46 Prefeitura Municipal de Caridade
-07 Caridade - CE
-
-47 Prefeitura Municipal de Catarina
-07 Catarina - CE
-
-48 Prefeitura Municipal de Chaval
-07 Chaval - CE
-
-49 Prefeitura Municipal de Frecheirinha
-07 Frecheirinha - CE
-
-50 Prefeitura Municipal de General Sampaio
-07 Gen. Sampaio - CE
-
-51 Prefeitura Municipal de Groairas
-07 Groairas - CE
-
-52 Prefeitura Municipal de Iracema
-07 Iracema - CE
-
-53 Prefeitura Municipal de Itaiçaba
-07 Itaiçaba - CE
-
-54 Prefeitura Municipal de Itapiuna
-07 Itapiuna - CE
-
-55 Prefeitura Municipal de Jaguaribara
-07 Jaguaribara - CE
-
-56 Prefeitura Municipal de Lavras de Mangabeira
-07
-L. de Mangabeira - CE
-
-57 Prefeitura Municipal de Martinópole
-07 Martinópole - CE
-
-58 Prefeitura Municipal de Massapê
-07 Massapê - CE
-
-59 Prefeitura Municipal de Moraújo
-07 Moraújo - CE
-
-60 Prefeitura Municipal de Mulungu
-07 Mulungu - CE
-
-61 Prefeitura Municipal de Pacajus
-07 Pacajus - CE
-
-62 Prefeitura Municipal de Pacoti
-07 Pacoti - CE
-
-63 Prefeitura Municipal de Pacujá
-07 Pacujá - CE
-
-64 Prefeitura Municipal de Paramoti
-07 Paramoti - CE
-
-65 Prefeitura Municipal de Pedra Branca
-07 Pedra Branca - CE
-
-66 Prefeitura Municipal de Pereiro
-07 Pereiro - CE
-
-67 Prefeitura Municipal de Saboeiro
-07 Saboeiro - CE
-
-68 Prefeitura Municipal de Santana de Acaraú
-07 S. de Acaraú - CE
-
-69 Prefeitura Municipal de São Luis do Curú
-07 S. L do Curú - CE
-
-70 Prefeitura Municipal de Uruoca
-07 Uruoca - CE
-
-<!-- p. 6 -->
-71 Prefeitura Municipal de Varjota
-07 Varjota - CE
-
-72 TELMA Celular S.A.
-02 São Luís-MA
-
-73 TELEPISA Celular S.A.
-02 Teresina-PI
-
-74 TELECEARÁ Celular S.A.
-02 Fortaleza-CE
-
-75 TELERN Celular S.A.
-02 Natal-RN
-
-76 TELPA Celular S.A.
-02 João Pessoa-PB
-
-77 TELPE Celular S.A.
-02 Recife-PE
-
-78 TELASA Celular S.A.
-02 Maceió-AL
-
-79 TELERGIPE Celular S.A.
-02 Aracajú-SE
-
-80 TELEBAHIA Celular S.A.
-02 Salvador-BA
-
-81 TELEMS Celular S.A.
-02 Campo Grande-MS
-
-82 TELEMAT Celular S.A.
-02 Cuiabá-MT
-
-83 TELEGOIÁS Celular S.A.
-02 Goiânia-GO
-
-84 TELEBRASÍLIA Celular S.A.
-02 Brasília-DF
-
-85 TELERON Celular S.A.
-02 Porto Velho-RO
-
-86 TELEACRE Celular S.A.
-02 Rio Branco-AC
-
-87 TELAIMA Celular S.A.
-02 Boa Vista-RR
-
-88 TELEAMAPÁ Celular S.A.
-02 Macapá-AP
-
-89 TELEMAZON Celular S.A.
-02 Manaus-AM
-
-90 TELEPARÁ Celular S.A.
-02 Belém-PA
-
-91 TELERJ Celular S.A.
-02 Rio De Janeiro-RJ
-
-92 TELEMIG Celular S.A.
-02 Belo Horizonte-MG
-
-93 TELEST Celular S.A.
-02 Vitória-ES
-
-94 TELESP Celular S.A.
-02 São Paulo-SP
-
-95 TELEPAR Celular S.A.
-02 Curitiba-PR
-
-96 TELESC Celular S.A.
-02 Florianópolis-SC
-
-97 CTMR Celular S.A.
-02 Pelotas-RS
-
-98 BCP S.A.
-04 São Paulo-SP
-
-99 BSE S.A.
-04 São Paulo-Sede (área de
-
-<!-- p. 7 -->
-abrangência:
-PE,AL,PB,CE,RN e PI)
-
-100 AMERICEL S.A.
-04 Brasília-DF
-
-101 Vicunha Telecomunicações LTDA.
-04 Salvador-BA (área de abrangência: BA e SE)
-
-102 CTBC CELULAR S.A.
-04 Uberlândia - MG
-
-103 SERCOMTEL CELULAR S.A.
-04 Londrina-PR
-
-104 GLOBAL TELECOM LTDA
-04 Curitiba-PR
-
-105 TESS S.A.
-01 São Paulo - SP
-
-106 ATL - Algar Telecom Leste S.A.
-01 Rio de Janeiro - RJ
-
-107 TELET S.A.
-01 Porto Alegre - RS
-
-108 IRIDIUM do Brasil S.A.
-01 Rio de Janeiro - RJ
-
-109 IRIDIUM SUDAMÉRICA-BRASIL LTDA
-04 Rio de Janeiro - RJ
-
-Natureza:
-
-01 Sociedade de Economia Mista Federal, controlada pela TELEBRÁS.
-
-02 Sociedade Anônima controlada pela TELEBRÁS.
-
-03 Sociedade de Economia Mista Estadual, associada à TELEBRÁS.
-
-04 Sociedade Anônima - empresa privada.
-
-05 Empresa Pública Municipal
-
-06 Autarquia Municipal.
-
-07 Administração Direta Municipal.
-<<<DOC normas/decreto/decreto-16752-1999-18272.md>>>
----
-documento: "DECRETO Nº 16.752 DE 23 DE MARÇO DE 1999"
-tipo: decreto
-numero: 16752
-data: "1999-03-23"
-ementa: "Altera e acrescenta dispositivos ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bbd79236-25ac-4148-a84d-3c0dcc802744
-atualizado_na_fonte: "2026-10-15 15:01:03"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.752 DE 23 DE MARÇO DE 1999
-
-_Altera e acrescenta dispositivos ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995._
-
-**Data:** 1999-03-23  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO No 16.752 DE 23 DE MARÇO DE 1999
-
-Publicado no DOE de 25.03.99
-
-
-Altera e acrescenta dispositivos ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995.
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista os Convênios ICMS 86 e 95, de 18 de setembro de 1998, ratificados nos termos da Lei Complementar nº 24, de 7 de janeiro de 1975,
-
-DECRETA
-
-Art. 1o – Passa a vigorar com a seguinte redação o inciso XIII do art. 9º do Regulamento do ICMS, aprovado pelo Decreto no 14.744, de 29 de setembro de 1995:
-
-"Art. 9º
-
-(...)
-
-XIII – a saída de reprodutores e matrizes de animais vacuns, ovinos, suínos e bufalinos, puros de origem ou puros por cruza, desde que possuam registro genealógico oficial e seja destinada a estabelecimento agropecuária inscrito no cadastro de contribuintes da unidade federada de sua circunscrição ou, quando não exigido, inscrição no Cadastro Geral de Contribuintes do Ministério da Fazenda, no Cadastro do Imposto Territorial Rural – ITR ou por outro meio de prova. (Convênios ICM 35/77; Conv. ICMS 124/93 e 86/98);"
-
-Art. 2o – Fica acrescentado o inciso LXXV ao art. 9º do RICMS/95:
-
-"Art. 9º
-
-(...)
-
-LXXV – as importações, realizadas pela Fundação Nacional de Saúde, dos produtos imunobiológicos, medicamentos e inseticidas, destinados às campanhas de vacinação e de combate à dengue, malária e febre amarela, promovidas pelo Governo Federal, abaixo relacionados: (Convênio ICMS 95/98).
-
-VACINAS
-
-DESCRIÇÃO CLASSIFICAÇÃO
-
-NBM/SH
-
-Vacina Tríplice Viral (sarampo, caxumba e rubéola)
-3002.20.26
-
-Vacina Tríplice DPT ( tétano, difteria e coqueluche)
-3002.20.27
-
-Vacina contra Sarampo
-3002.20.24
-
-<!-- p. 2 -->
-Vacina c/ Haemóphilus Influenza "B"
-3002.20.29
-
-Vacina contra Hepatite "B"
-3002.20.23
-
-Vacina Inativa contra Polio
-3002.20.29
-
-Vacina Liofilizada contra Raiva
-3002.30.10
-
-Vacina contra Pneumococo
-3002.20.29
-
-Vacina contra Febre Tifóide
-3002.20.29
-
-Vacina oral contra Poliomielite
-3002.20.22
-
-Vacina contra Meningite B + C
-3002.20.25
-
-Vacina Dupla Adulto DT (difteria e tétano)
-3002.20.29
-
-Vacina contra Meningite A + C
-3002.20.25
-
-Vacina contra Rubéola
-3002.20.29
-
-IMUNOGLOBULINAS
-
-DESCRIÇÃO CLASSIFICAÇÃO
-
-NBM/SH
-
-Anti-Hepatite "B"
-3002.10.29
-
-Anti Varicella Zóster
-3002.10.29
-
-Anti-Tetânica
-3002.10.29
-
-Anti-rábica
-3002.10.29
-
-SOROS
-
-DESCRIÇÃO CLASSIFICAÇÃO
-
-NBM/SH
-
-Anti Rábico
-3002.10.29
-
-Toxóide Tetânico
-3002.90.99
-
-MEDICAMENTOS
-
-DESCRIÇÃO CLASSIFICAÇÃO
-
-NBM/SH
-
-Antimonial Pentavalente
-3003.90.39
-
-Clindamicina 300 mg
-3004.20.99
-
-Doxiciclina 100 mg
-3004.20.99
-
-Mefloquina
-3004.90.99
-
-Cloroquina
-3004.90.99
-
-Praziquantel
-3004.90.63
-
-Mectizam
-3004.90.59
-
-Primaquina
-3004.90.99
-
-Oximiniquina
-3004.90.69
-
-Cypemetrina
-3003.90.56
-
-INSETICIDAS
-
-<!-- p. 3 -->
-DESCRIÇÃO CLASSIFICAÇÃO
-
-NBM/SH
-
-Piretróide Deltrametrina
-3808.10.29
-
-Fenitrothion
-3808.10.29
-
-Cythion
-3808.10.29
-
-Etofenprox
-3808.10.29
-
-Bendiocarb
-3808.10.29
-
-Temefós Granulado 1%
-3808.10.29
-
-Bromadiolone (raticida)
-3808.90.26
-
-OUTROS
-
-DESCRIÇÃO CLASSIFICAÇÃO
-
-NBM/SH
-
-Artesunato
-3004.90.99
-
-Vitamina "A"
-3004.50.40
-
-Kits para diagnóstico de Malária
-3006.30.29"
-
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 15 de outubro de 1998.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 23 DE MARÇO DE 1999, 178O DA INDEPENDÊNCIA E 111O DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16757-1999-18271.md>>>
----
-documento: "DECRETO Nº 16.757 DE 31 DE MARÇO DE 1999"
-tipo: decreto
-numero: 16757
-data: "1999-03-31"
-ementa: "Restabelece os arts. 852 a 865 do RICMS, aprovado pelo Decreto nº 14.744/1995 - Regime de ST para estabelecimentos atacadistas de produtos farmacêuticos."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=562009c0-ed45-48ce-970b-33b99b107f34
-atualizado_na_fonte: "2026-10-15 15:01:20"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "vigente (sem revogação identificada)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.757 DE 31 DE MARÇO DE 1999
-
-_Restabelece os arts. 852 a 865 do RICMS, aprovado pelo Decreto nº 14.744/1995 - Regime de ST para estabelecimentos atacadistas de produtos farmacêuticos._
-
-**Data:** 1999-03-31  
-**Remete a:** RICMS  
-**Situação:** vigente (sem revogação identificada)
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-
-DECRETO No 16.757 DE 31 DE MARÇO DE 1999.
-
-Publicado no DOE de 31.03.99
-
-Restabelece os arts. 852 a 865 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que dispõe sobre o Regime de Substituição Tributária para estabelecimentos atacadistas de produtos farmacêuticos, com a redação que indica e dá outras providências.
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o art. 23, da Lei n.º 6.866, de 5 de dezembro de 1996,
-
-
-D E C R E T A
-
-Art. 1º - Ficam restabelecidos os arts. 852 a 865 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-"CAPÍTULO XIX
-
-DAS OPERAÇÕES REALIZADAS COM ESTABELECIMENTOS ATACADISTAS DE
-
-PRODUTOS FARMACÊUTICOS
-
-SEÇÃO I
-
-DOS RESPONSÁVEIS
-
-Art. 852 - Os estabelecimentos enquadrados no grupo do Código de Atividade Econômica - CAE 7.26.00 (Comércio Atacadista - produtos farmacêuticos), compreendendo os códigos 7.26.01 a 7.26.06, na qualidade de contribuintes substitutos, ficam responsáveis pelo recolhimento do ICMS devido nas operações subseqüente e própria, com todas as mercadorias oriundas deste ou de outro Estado, inclusive na importação do exterior.
-
-§ 1o - O disposto neste Capítulo não se aplica às operações com mercadorias imunes, isentas ou não tributadas, para as quais se aplica a legislação específica.
-
-§ 2o - Não será exigido o pagamento da parcela antecipada do imposto, a que se refere o art. 521 deste Regulamento, sobre as entradas de mercadorias tributadas na forma deste Capítulo.
-
-§ 3.º - Os estabelecimentos importador ou industrial fabricante, remetentes de produtos farmacêuticos alcançados pelo Convênio ICMS 76/94, de 30 de junho de 1994, ficam dispensados de efetuar a retenção na fonte, prevista no citado convênio, quando os referidos produtos forem destinados a contribuintes maranhenses enquadrados no caput deste artigo.
-
-SEÇÃO II
-
-<!-- p. 2 -->
-DA BASE DE CÁLCULO
-
-Art. 853 - A base de cálculo do imposto a recolher nas operações de entrada de mercadorias, internas ou interestaduais, é o valor constante do documento fiscal respectivo, incluídos os valores do IPI, frete e/ou carreto, seguro e outros encargos transferidos ao destinatário, acrescido do percentual de agregação de 42,85% (quarenta e dois inteiros e oitenta e cinco centésimos por cento).
-
-§ 1o - Nas operações de importação, a base de cálculo é o valor da operação, adicionados os impostos de importação, sobre produtos industrializados, sobre operação de câmbio, frete, seguro e demais despesas aduaneiras debitadas ao adquirente, acrescido do percentual de 42,85% (quarenta e dois inteiros e oitenta e cinco centésimos por cento).
-
-§ 2o - Na entrada de mercadoria cuja saída esteja sujeita a redução de base de cálculo, esta será obtida, na forma deste artigo, a partir da parcela tributada.
-
-SEÇÃO III
-
-DA APURAÇÃO E RECOLHIMENTO DO IMPOSTO
-
-Art. 854 - O imposto a recolher será apurado da seguinte forma:
-
-I - sobre a base de cálculo definida no artigo anterior, aplicar-se-á a alíquota vigente para as operações internas;
-
-II - o valor do ICMS a recolher será a diferença entre o imposto calculado na forma do inciso anterior e o imposto destacado na nota fiscal relativa à operação de entrada da mercadoria e no respectivo conhecimento de transporte relativo à prestação desse serviço, quando este for de responsabilidade do destinatário, deduzido o imposto retido na forma do art. 858 e o apurado na forma do art. 861;
-
-III - Na impossibilidade de inclusão do valor do frete na composição da base de cálculo, o recolhimento do imposto correspondente será efetuado pelo estabelecimento destinatário, calculado sobre o valor total do serviço constante do conhecimento de transporte acrescido do percentual de que trata o art. 853.
-
-IV - nas operações de importação do exterior aplicar-se-á a alíquota interna cabível sobre o valor definido no § 1º do art. 853.
-
-§ 1o - Na hipótese de mercadoria sujeita à redução de base de cálculo, o crédito a ser utilizado será obtido a partir da parcela tributada.
-
-§ 2o - Na saída subseqüente de mercadoria tributada nos termos deste Capítulo não mais será exigida nenhuma complementação do imposto.
-
-§ 3o - Na transferência e na saída subseqüente internas de mercadoria tributada na forma deste Capítulo, não haverá destaque do ICMS, devendo constar no documento fiscal relativo à operação a expressão "ICMS retido por substituição tributária".
-
-§ 4o - O estabelecimento destinatário escriturará o documento fiscal a que se refere o parágrafo anterior na coluna "Outras" de "Operações sem Crédito do Imposto" e na saída subseqüente na coluna "Outras" de "Operações sem Débito do Imposto".
-
-<!-- p. 3 -->
-Art. 855 - O imposto apurado na forma do artigo anterior será recolhido:
-
-I - nas operações internas, até o 9o (nono) dia subseqüente ao mês da entrada da mercadoria no estabelecimento;
-
-II - nas entradas interestaduais, por ocasião da passagem da mercadoria no primeiro Posto Fiscal de divisa neste Estado;
-
-III - nas operações de importação, por ocasião do desembaraço aduaneiro.
-
-Parágrafo único - Na hipótese do inciso II, mediante requerimento do contribuinte, o Subgerente de Fiscalização poderá autorizar que seja o recolhimento do imposto efetuado na rede arrecadadora do seu domicílio, até o 9o (nono) dia do mês subseqüente ao da entrada da mercadoria no Estado.
-
-SEÇÃO IV
-
-DA DEVOLUÇÃO E DO DESFAZIMENTO DA OPERAÇÃO
-
-Art. 856 - Os contribuintes indicados no art. 852 que devolverem mercadoria tributada na forma deste Capítulo, emitirão nota fiscal de devolução, nos termos do art. 721 deste Regulamento.
-
-Parágrafo único - Na hipótese deste artigo, o valor do imposto retido apurado e recolhido, correspondente à mercadoria devolvida, será registrado no item "Outros Créditos" do livro Registro de Apuração do ICMS, seguido do número e data da nota fiscal emitida em devolução.
-
-Art. 857 - Caso ocorra o desfazimento da operação antes do recebimento das mercadorias, o contribuinte ficará desobrigado de proceder à apuração do ICMS prevista neste Capítulo.
-
-SEÇÃO V
-
-DAS SAÍDAS INTERESTADUAIS
-
-Art. 858 - Na saída de mercadoria tributada na forma deste Capítulo, para contribuinte substituído, sujeito ao regime de que trata o Convênio ICMS 76/94, localizado em outra unidade da Federação, adotar-se-á o seguinte:
-
-I - O imposto retido pelo sujeito passivo por substituição localizado neste Estado, deverá ser recolhido por meio da GNRE, em agência do banco oficial da unidade federada destinatária, ou na sua falta, em agência de qualquer banco oficial signatário do Convênio patrocinado pela Associação Brasileira dos Bancos Comerciais Estaduais - ASBACE, localizada na praça do estabelecimento remetente, em conta especial, a crédito do Governo em cujo território se encontra estabelecido o adquirente das mercadorias, ou, ainda, na falta deste, em agência de banco credenciado pela unidade federada interessada.
-
-II - O valor do imposto retido na forma do inciso anterior será registrado na coluna "Outros Créditos" do livro de Registro de Apuração do ICMS, com a expressão "restituição GNRE/ Convênio 76/94", ficando arquivada, para exame do fisco, a GNRE correspondente.
-
-<!-- p. 4 -->
-Art. 859 - O estabelecimento que efetuar o recolhimento do imposto na forma do artigo anterior remeterá ao Departamento do Comércio Exterior e da Substituição Tributária da Gerência da Receita Estadual, até 10 (dez) dias após o recolhimento do imposto substituído, listagem contendo as seguintes indicações:
-
-I - nome, endereço, CEP, número de inscrição estadual e no CGC, dos estabelecimentos emitente e destinatário;
-
-II - número, série e subsérie e data da emissão da nota fiscal;
-
-III - valores totais das mercadorias;
-
-IV - valor da operação;
-
-V - valores do IPI e ICMS relativos à operação;
-
-VI - valores das despesas acessórias;
-
-VII - valor da base de cálculo do imposto retido;
-
-VIII - valor do imposto retido;
-
-IX - nome do banco em que foi efetuado o recolhimento, data e número do respectivo documento de arrecadação.
-
-§ 1º - Na elaboração da listagem serão observadas:
-
-I - ordem crescente de CEP, com espacejamento maior na mudança de CEP;
-
-II - ordem crescente de inscrição do CGC, dentro de cada CEP;
-
-III - ordem crescente do número da nota fiscal dentro de cada CGC.
-
-§ 2º - Serão objeto de listagem em apartado, as operações em que tenha ocorrido o desfazimento do negócio.
-
-§ 3º - A Gerência da Receita Estadual poderá exigir a apresentação de outras informações que julgar necessárias.
-
-SEÇÃO VI
-
-DAS SAÍDAS PARA NÃO CONTRIBUINTE DO IMPOSTO
-
-Art. 860 - A antecipação tributária, nos moldes deste Capítulo, ensejará a restituição imediata e preferencial, sob a forma de crédito dedutível no próprio mês de apuração, sempre que não se realize o fato gerador presumido quando da cobrança.
-
-Art. 861 - A restituição aludida no artigo anterior se procederá automaticamente, mediante demonstrativo detalhado formulado pelo próprio contribuinte, sempre que a saída subsequente seja destinada a não contribuinte do ICMS.
-
-§ 1º - O demonstrativo, que será de periodicidade mensal, deverá ser entregue à repartição fiscal do domicílio tributário do contribuinte no mesmo prazo para
-
-<!-- p. 5 -->
-entrega da DIEF e encaminhada ao Departamento do Comércio Exterior e da Substituição Tributária.
-
-§ 2º - O demonstrativo deve conter, no mínimo, as seguintes indicações:
-
-I - a denominação: "Documento para Restituição Imediata e Preferencial de ICMS/Substituição Tributária";
-
-II - a identificação cadastral do contribuinte;
-
-III - o mês e ano de referência do demonstrativo;
-
-IV - o montante do ICMS a ter substituição tributária antecipada;
-
-V - o montante do ICMS que deixou de ser repassado pelo enquadramento no "caput" deste artigo;
-
-VI - a identificação nominal dos compradores aludidos no inciso anterior.
-
-§ 3o - O disposto no inciso V do parágrafo anterior resultará da aplicação da alíquota para as operações internas sobre a diferença entre o preço de venda e o da base de cálculo aludida no art. 853, se esta for superior àquela, ou, a critério do contribuinte, da aplicação do multiplicador de 1,42% (um inteiro e quarenta e dois centésimos por cento) sobre o preço de venda da mercadoria.
-
-§ 4o - o valor apurado no parágrafo anterior será registrado na coluna "outros créditos" do Livro Registro de Apuração do ICMS, com a expressão "restituição preferencial - art. 861 do RICMS/95".
-
-§ 5.º - O disposto neste artigo aplica-se, também, à saída de mercadoria destinada a contribuinte do ICMS, localizado em outra unidade da Federação, desobrigado do pagamento do imposto por substituição tributária, por força de decisão judicial ou de disposição expressa da legislação tributária do Estado de destino.
-
-§ 6.º - O contribuinte maranhense que realizar operações nos termos do parágrafo anterior deverá indicar, na nota fiscal que acobertar as mercadorias, o dispositivo da legislação do Estado de destino ou o número e a data do Diário Oficial em que estiver publicada a decisão judicial.
-
-SEÇÃO VII
-
-DAS OBRIGAÇÕES ACESSÓRIAS
-
-Art. 862 - Os contribuintes indicados no art. 852 adotarão os seguintes procedimentos:
-
-I - as notas fiscais correspondentes às entradas serão escrituradas normalmente no livro Registro de Entradas, com a totalização do crédito do ICMS exclusivamente para fins de demonstração;
-
-II - as saídas de mercadorias cujo imposto tenha sido pago na forma deste Capítulo serão escrituradas nas colunas "Documento Fiscal", "Valor Contábil" e "Operações sem Débito do Imposto" no livro Registro de Saídas;
-
-<!-- p. 6 -->
-III - o valor do imposto apurado na forma do art. 854 será registrado no espaço destinado a "Observações" do livro Registro de Entradas, no qual deverão ser abertas, sob o título de "Substituição Tributária", duas colunas com os subtítulos "Base de Cálculo" e "Imposto a Recolher".
-
-Parágrafo único - O valor do imposto a recolher, resultante da apuração mensal na coluna "Substituição Tributária", será lançado no livro Registro de Apuração do ICMS, no mês de referência, no espaço "Observações", com a expressão "Imposto a Recolher".
-
-SEÇÃO VIII
-
-DAS DISPOSIÇÕES FINAIS
-
-Art. 863 - As mercadorias ingressadas no estabelecimento a partir de 1o de novembro de 1997, ficarão sujeitas à sistemática prevista neste Capítulo, independentemente da data de emissão do documento fiscal respectivo.
-
-Art. 864 - Ficam mantidas as disposições do Convênio 76/94, de 30 de junho de 1994, relativamente às operações com os contribuintes não enquadrados no art. 852.
-
-Art. 865 - Fica o Gerente da Receita Estadual autorizado a editar os atos que se fizerem necessários à operacionalização deste Capítulo."
-
-Art. 2º - Revogam-se as disposições em contrário, de modo especial o Decreto nº 15.980 de 27 de novembro de 1997.
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 31 DE MARÇO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16758-1999-18270.md>>>
----
-documento: "DECRETO Nº 16.758 DE 31 DE MARÇO DE 1999"
-tipo: decreto
-numero: 16758
-data: "1999-03-31"
-ementa: "Acrescenta o inciso XXXIV e o § 13 ao art. 10 do RICMS, aprovado pelo Decreto nº 14.744/1995 - isenção do ICMS com equipamentos e insumos de serviços de saúde."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=06e9c9d2-8ce1-4ec5-b193-9821bbf2aee5
-atualizado_na_fonte: "2026-10-15 15:01:28"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.758 DE 31 DE MARÇO DE 1999
-
-_Acrescenta o inciso XXXIV e o § 13 ao art. 10 do RICMS, aprovado pelo Decreto nº 14.744/1995 - isenção do ICMS com equipamentos e insumos de serviços de saúde._
-
-**Data:** 1999-03-31  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-
-DECRETO N.º 16.758 DE 31 DE MARÇO DE 1999
-
-Publicado no DOE de 31.03.99
-
-
-Acrescenta o inciso XXXIV e o § 13 ao art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que concede isenção do ICMS às operações com equipamentos e insumos destinados à prestação de serviços de saúde e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o Convênio ICMS 01, de 2 de março de 1999, celebrado com fulcro na Lei Complementar nº 24, de 7 de janeiro de 1995,
-
-DECRETA
-
-Art. 1º - Ficam acrescentados o inciso XXXIV e o § 13 ao art. 10 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-"Art. 10 - ( . . . )
-
-XXXIV – até 30 de junho de 1999, as operações com os equipamentos e insumos abaixo indicados, classificados pela NBM/SH:
-
-MATERIAL NBM/SH
-
-Conector completo com tampa
-3917.40.10
-
-Filme plástico composto de polipropileno e nylon
-3920.20.90
-
-Filme extrusado tubular, PVC, não estratificado, sem costura
-3920.42.90
-
-Hemodialisador capilar
-8421.29.11
-
-Catéter ureteral duplo "rabo de porco"
-9018.39.29
-
-Catéter para subclavia duplo lumen para hemodiálise (2)
-9018.39.29
-
-Guia metálico para introdução de catéter duplo lumen
-9018.39.29
-
-Dilatador para implante de catéter duplo lumen (2)
-9018.39.29
-
-Bolsa para drenagem
-9018.90.99
-
-Marcapasso cardíaco multiprogramável com telimetria
-9021.50.00
-
-Marcapasso cardíaco câmara dupla (1,2)
-9021.50.00
-
-Introdutor de punção para implante de eletrodo endocárdico
-9021.90.91
-
-Rins artificiais
-9018.90.40
-
-Linhas arteriais
-9018.90.99
-
-Eletrodo para marcapasso temporário endocárdico
-9021.90.91
-
-<!-- p. 2 -->
-Eletrodo endocárdico definitivo (1)
-9021.90.91
-
-Eletrodo epicárdico definitivo (1)
-9021.90.91
-
-Eletrodo para marcapasso temporário epicárdico
-9021.90.91
-
-Protese valvular mecânica de duplo folheto (1,2)
-9121.30.11
-
-Prótese valvular mecânica de baixo perfil (disco) (1,2)
-9121.30.11
-
-Enxerto tubular de ptfe (por cm2)
-9021.90.99
-
-Enxerto arterial tubular inorgânico
-9021.90.99
-
-Enxerto arterial tubular bifurcado inorgânico
-9021.30.30
-
-Patch inorgânico (por cm2)
-9021.90.99
-
-Partes e acessórios para máquinas
-9033.00.00
-
-Catéter balão para embolectomia arterial ou venosa
-9018.39.22
-
-Catéter balão para septostomia (1)
-9018.39.29
-
-Catéter balão para angioplastia, recém-nato, lact., Berrmann (1)
-9018.39.29
-
-Catéter balão para angioplastia transluminal percuta
-9018.39.29
-
-Catéter guia para angioplastia transluminal percuta
-9018.39.29
-
-Catéter balão para valvoplastia
-9018.39.29
-
-Guia de troca para angioplastia (1)
-9018.39.29
-
-Catéter multipolar (estudo eletrofisiológico/diagnóstico)
-9018.39.29
-
-Catéter multipolar (estudo eletrofisiológico/terapêutico)
-9018.39.29
-
-Espacador de tendão
-9021.11.90
-
-Prótese de silicone (1)
-9021.11.90
-
-Componente femural não cimentado (1)
-9021.11.10
-
-Componente femural não cimentado para revisão (1)
-9021.11.10
-
-Componente acetabular metálico + polietileno
-9021.11.90
-
-Cabeça intercambiável
-9021.11.10
-
-Parafuso para componente acetabular
-9021.19.20
-
-Componente acetabular metálico + polietileno para revisão
-9021.11.90
-
-Componente patelar (1)
-9021.11.90
-
-Componente base tibial (1)
-9021.11.90
-
-Componente patelar não cimentado
-9021.11.90
-
-Componente femural (1)
-9021.11.10
-
-Componente plateau tibial (1)
-9021.11.90
-
-Cimento ortopédico (dose 40 grs)
-3006.40.20
-
-Catéter atrial/peritoneal
-9018.39.29
-
-Catéter ventricular com reservatório
-9018.39.29
-
-Conjunto para hidrocefalia de baixo perfil
-9021.90.80
-
-Clips para aneurisma
-9018.90.95
-
-Conjunto de catéter de drenagem externa
-9018.39.29
-
-Coletor para unidade de drenagem externa
-9021.90.80
-
-Shunt lombo-peritonal
-9021.90.80
-
-Conector em "Y"
-9021.90.80
-
-Conjunto para hidrocefalia standard
-9021.90.80
-
-<!-- p. 3 -->
-Válvula para hidrocefalia
-9021.90.80
-
-Catéter ventricular isolado
-9018.39.29
-
-Hemostático (base celulose ou colágeno)
-3006.10.90
-
-Catéter total implantável para infusão quimioterápica
-9018.39.29
-
-Introdutor para catéter com e sem válvula
-9018.39.29
-
-Kit grampeador intraluminar sap
-9018.90.95
-
-Catéter de termodiluição
-9018.39.29
-
-Tela inorgânica pequena (até 100 cm2)
-9021.30.30
-
-Tela inorgânica média (101 a 400 cm2)
-9021.30.30
-
-Tela inorgânica grande (acima de 401 cm2)
-9021.30.30
-
-Conjunto descartável de circulação assistida (1,2)
-9018.90.99
-
-Conjunto descartável de balão intra-aórtico
-9018.90.99
-
-Kit grampeador linear cortante
-9018.90.95
-
-Kit grampeador linear cortante + uma carga
-9018.90.95
-
-Kit grampeador linear cortante + duas cargas
-9018.90.95
-
-Válvula para tratamento de ascite
-9021.90.80
-
-Catéter tenckhoff ou sim. de longa perm. para diálise peritoneal
-9018.39.29
-
-Prótese valvular mecânica de bola (1)
-9021.30.11
-
-Prótese valvular biológica (1)
-9021.30.19
-
-Anel para aneloplastia valvular (1)
-9021.30.11
-
-Enxerto arterial tubular orgânico
-9021.30.30
-
-Enxerto arterial tubular valvado orgânico
-9021.30.30
-
-Patch orgânico (por cm2)
-9021.90.99
-
-Filtro de linha arterial (1)
-9021.90.19
-
-Hemoconcentrador para circulação extracorpórea (1,2)
-9019.20.90
-
-Reservatório de cardiotomia (1)
-9021.90.19
-
-Reservatório para cardioplegia com tubo sem filtro
-9019.20.90
-
-Filtro de sangue arterial para recirculação
-9021.90.19
-
-Filtro para cardioplegia (1)
-9021.90.19
-
-Oxigenador de bolha com tubos para C.E.C. (1)
-9019.20.10
-
-Oxigenador de membrana com tubos para C.E.C. (1,2)
-9019.20.10
-
-Kit canula
-9018.39.29
-
-Conjunto para autotransfusão (1,2)
-9018.39.29
-
-Tubo de ventilação de teflon ou silicone
-9021.30.80
-
-Prótese de aço-teflon (3)
-9021.30.80
-
-Prótese de quadril thompson normal
-9021.11.10
-
-Componente total femural cimentado
-9021.11.10
-
-Componente femural parcial sem cabeça
-9021.11.10
-
-Componente femural total cimentado sem cabeça
-9021.11.10
-
-Componente acetabular charnley convencional
-9021.11.90
-
-Tela de reforço de fundo acetabular
-9021.11.90
-
-Restritor de cimento acetabular
-9021.11.90
-
-<!-- p. 4 -->
-Restritor de cimento femural
-9021.11.90
-
-Anel de reforço acetabular
-9021.11.90
-
-Componente acetabular polietileno para revisão
-9021.11.90
-
-Componente umeral (1)
-9021.11.90
-
-Prótese total de cotovelo (1)
-9021.11.90
-
-Prótese ligamentar qualquer segmento (1)
-9021.11.90
-
-Componente glenoidal (1)
-9021.11.90
-
-Endoprótese umeral distal com articulação (1)
-9021.11.90
-
-Endoprótese umeral proximal (1)
-9021.11.90
-
-Endoprótese umeral total (1)
-9021.11.90
-
-Endoprótese umeral diafisaria (1)
-9021.11.90
-
-Endoprótese femural distal com articulação (1)
-9021.11.10
-
-Endoprótese femural proximal (1)
-9021.11.10
-
-Endoprótese femural diafisária (1,3)
-9021.11.10
-
-Endoprótese total biarticulada (1) 90.21.11.10
-
-Endoprótese proximal com articulação (1)
-9021.11.90
-
-Endoprótese diafisária
-9021.11.90
-
-Placa com finalidade específica L/T/Y
-9021.19.20
-
-Placa auto compress. largura ate 15 mm comprimento até 150 mm
-9021.19.20
-
-Placa auto compress. largura até 15 mm comprimemto acima 150 mm
-9021.19.20
-
-Placa auto compress. largura até 15 mm para uso parafuso 3,5 mm
-9021.19.20
-
-Placa auto compress. largura acima 15 mm comprimento até 220 mm
-9021.19.20
-
-Placa auto compress. largura acima 15 mm comprimento acima 220 mm
-9021.19.20
-
-Placa reta auto compress. estr. (abaixo 16 mm)
-9021.19.20
-
-Placa semitubular para parafuso 4,5 mm
-9021.19.20
-
-Placa semitubular para parafuso 3,5 mm
-9021.19.20
-
-Placa semitubular para parafuso 2,7 mm
-9021.19.20
-
-Placa angulada perfil "U" osteotomia
-9021.19.20
-
-Placa angulada perfil "U" autocompressão
-9021.19.20
-
-Conj. placa ang. (placa tubo + parafuso deslizante + contra-parafuso)
-9021.19.20
-
-Placa jewett comprimento até 150 mm
-9021.19.20
-
-Placa jewett comprimento acima 150 mm
-9021.19.20
-
-Conj. placa tipo coventry (placa e paraf. pediátrico)
-9021.19.20
-
-Placa com finalidade específica - todas para parafuso até 3,5 mm
-9021.19.20
-
-Placa com finalidade específica - todas para parafuso acima 3,5 mm
-9021.19.20
-
-Placa com finalidade específica - cobra para parafuso 4,5 mm
-9021.19.20
-
-Haste intramedular de ender
-9021.19.20
-
-Haste de compressão
-9021.19.20
-
-Haste de distração
-9021.19.20
-
-Haste de luque lisa
-9021.19.20
-
-Haste de luque em "L"
-9021.19.20
-
-Haste intramedular de rush
-9021.19.20
-
-<!-- p. 5 -->
-Retângulo tipo hartshill ou similar
-9021.19.20
-
-Haste intramedular de kuntscher tibial bifenestrada
-9021.19.20
-
-Haste intramedular de kuntscher femural bifenestrada
-9021.19.20
-
-Grampos de blount
-9018.90.95
-
-Grampos de coventry
-9018.90.95
-
-Arruela para parafuso
-9021.19.20
-
-Arruela em "C"
-9021.19.20
-
-Gancho superior de distração (todos)
-9021.19.20
-
-Gancho inferior de distração (todos)
-9021.19.20
-
-Ganchos de compressão (todos)
-9021.19.20
-
-Arruela dentada para ligamento
-9021.19.20
-
-Pino de Kknowles
-9021.19.20
-
-Pino tipo barr e tibias
-9021.19.20
-
-Pino de gouffon
-9021.19.20
-
-Prego "ops"
-9021.19.20
-
-Parafuso cortical, diâmetro de 4,5 mm
-9021.19.20
-
-Parafuso cortical diam. >= a 4,5 mm
-9021.19.20
-
-Parafuso maleolar (todos)
-9021.19.20
-
-Parafuso esponjoso, diâmetro de 6,5 mm
-9021.19.20
-
-Parafuso esponjoso, diâmetro de 4,0 mm
-9021.19.20
-
-Porca para haste de compressão
-9021.19.20
-
-Fio liso de kirschner
-9021.19.20
-
-Fio liso de steinmann
-9021.19.20
-
-Prego intramedular "rush"
-9021.19.20
-
-Fio rosqueado de kirschner
-9021.19.20
-
-Fio rosqueado de steinmann
-9021.19.20
-
-Fio maleável (sut. ou cerclagem diâmetro menor 1,00 mm por metro)
-9021.19.20
-
-Fio maleável (sut. ou cerclagem diâmetro >= 1,00 mm por metro)
-9021.19.20
-
-Fio maleável tipo luque diâmetro => 1,00 mm
-9021.19.20
-
-Fio de nylon 8.0 (1)
-3006.10.19
-
-Fio de nylon 10.0 (1)
-3006.10.19
-
-Fio de nylon 9.0 (1)
-3006.10.19
-
-Fixador dinâmico para mão ou pé
-9021.19.20
-
-Fixador dinâmico para buco-maxilo-facial
-9021.19.20
-
-Fixador dinâmico para radio ulna ou úmero
-9021.19.20
-
-Fixador dinâmico para pelve
-9021.19.20
-
-Fixador dinâmico para tíbia
-9021.19.20
-
-Fixador dinâmico para femur
-9021.19.20
-
-Clips venoso de prata
-9018.90.95
-
-Botão para crâneo
-9021.90.99
-
-Dreno para sucção
-9018.39.29
-
-Sonda para nutrição enteral
-9018.39.21
-
-<!-- p. 6 -->
-Substituto temp. de pele (biol./sinte). (por cm2)
-9021.90.90
-
-Prótese para esôfago
-9021.30.19
-
-Canula para traqueostomia sem balão
-9018.39.29
-
-Sistema de drenagem mediastinal
-9018.39.29"
-
-
-"§ 13 - A fruição do benefício previsto no inciso XXXIV fica condicionada ao estabelecimento de isenção ou alíquota zero do Imposto sobre Produtos Industrializados e do Imposto de Importação, para os equipamentos e insumos ali indicados."
-
-Art. 2º - Passa a vigorar com a seguinte redação o § 10 do art. 10 do RICMS:
-
-"Art. 10 – (...)
-
-§ 10 – Nas operações previstas nos incisos XXVI, XXXIII e XXXIV, não será exigido o estorno do crédito fiscal de que trata o art. 21 da Lei complementar nº 87, de 13 de setembro de 1996."
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 23 de março de 1999.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 31 DE MARÇO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16759-1999-18269.md>>>
----
-documento: "DECRETO Nº 16.759 DE 31 DE MARÇO DE 1999"
-tipo: decreto
-numero: 16759
-data: "1999-03-31"
-ementa: "Restabelece os arts. 546 a 559 e 564 do RICMS, aprovado pelo Decreto nº 14.744/1995 - operações com gado bovino, bubalino e produtos de sua matança."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f7913cda-2790-4235-8ab2-96609165bda4
-atualizado_na_fonte: "2026-10-15 15:01:46"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "vigente (sem revogação identificada)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.759 DE 31 DE MARÇO DE 1999
-
-_Restabelece os arts. 546 a 559 e 564 do RICMS, aprovado pelo Decreto nº 14.744/1995 - operações com gado bovino, bubalino e produtos de sua matança._
-
-**Data:** 1999-03-31  
-**Remete a:** RICMS  
-**Situação:** vigente (sem revogação identificada)
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-
-DECRETO No 16.759 DE 31 DE MARÇO DE 1999.
-
-Publicado no DOE de 31.03.99
-
-
-Restabelece os arts. 546 a 559 e 564 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que dispõe sobre as operações com gado bovino, bubalino e produtos de sua matança, com a redação que indica e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado, e tendo em vista o art. 23 da Lei nº 6.866, de 5 de dezembro de 1996,
-
-
-D E C R E T A
-
-Art. 1º – Ficam restabelecidos os arts. 546 a 559 e 564 do Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-
-"CAPÍTULO VI
-
-DAS OPERAÇÕES COM GADO BOVINO OU BUBALINO E DERIVADOS
-
-
-SEÇÃO I
-
-DOS RESPONSÁVEIS
-
-
-Art. 546 - Nas entradas neste Estado, de gado bovino ou bubalino, bem como de produtos comestíveis de sua matança, é atribuída ao contribuinte maranhense a responsabilidade pela retenção e recolhimento do ICMS devido nas saídas subseqüentes.
-
-Art. 547 - Nas saídas internas de gado bovino ou bubalino, bem como de produtos comestíveis de sua matança cabe ao estabelecimento produtor, a responsabilidade pela retenção e recolhimento do ICMS relativo às operações subsequentes.
-
-<!-- p. 2 -->
-SEÇÃO II
-
-DA BASE DE CÁLCULO
-
-
-Art. 548 - A base de cálculo, para os efeitos dos arts. 546 e 547, corresponderá ao valor da operação, não podendo este ser inferior ao valor constante de pauta fiscal, incluídos frete e/ou carreto, seguro e outros encargos transferidos ao destinatário, acrescido da margem de lucro de 25% (vinte e cinco por cento).
-
-Parágrafo único - A base de cálculo a que se refere o caput, fica reduzida em 41,67% (quarenta e um inteiros e sessenta e sete por cento) de forma que a carga tributária resulte em 7% (sete por cento).
-
-
-SEÇÃO III
-
-DA APURAÇÃO E RECOLHIMENTO DO IMPOSTO
-
-
-Art. 549 - O imposto a recolher será apurado da seguinte forma:
-
-I - sobre a base de cálculo definida no artigo anterior, aplicar-se-á a alíquota vigente para as operações internas;
-
-II - o valor do ICMS a recolher será a diferença entre o imposto calculado na forma do inciso anterior e o imposto destacado na nota fiscal relativa à operação de entrada ou de saída da mercadoria e no respectivo conhecimento de transporte relativo à prestação desse serviço, quando este for de responsabilidade do destinatário.
-
-III - Na impossibilidade de inclusão do valor do frete na composição da base de cálculo, o recolhimento do imposto correspondente será efetuado pelo estabelecimento destinatário, calculado sobre o valor total do serviço constante do conhecimento de transporte acrescido do percentual de 25% (vinte e cinco por cento).
-
-§ 1o - O crédito a ser utilizado será obtido a partir da parcela tributada.
-
-§ 2o - Na saída subseqüente de mercadoria tributada nos termos deste Capítulo não mais será exigida nenhuma complementação do imposto.
-
-§ 3o - Na saída subseqüente de mercadoria tributada na forma deste Capítulo, para contribuinte do ICMS localizado neste Estado, não haverá destaque do ICMS, devendo constar no documento fiscal relativo à operação a expressão "ICMS retido por substituição tributária".
-
-§ 4o - Na transferência interna de mercadoria tributada na forma deste Capítulo, entre estabelecimentos do mesmo titular, não haverá destaque do ICMS, devendo constar no documento fiscal relativo à operação a expressão " ICMS retido por substituição tributária ".
-
-<!-- p. 3 -->
-§ 5o - O estabelecimento destinatário escriturará o documento fiscal a que se refere o parágrafo anterior na coluna "Outras" de "Operações sem Crédito do Imposto" e na saída subseqüente na coluna "Outras" de "Operações sem Débito do Imposto".
-
-Art. 550 - O imposto apurado na forma do artigo anterior será recolhido:
-
-I - nas operações internas, antes da saída da mercadoria;
-
-II - nas entradas interestaduais, por ocasião da passagem da mercadoria no primeiro Posto Fiscal de divisa neste Estado;
-
-III - nas operações de importação, por ocasião do desembaraço aduaneiro.
-
-Parágrafo único - Na hipótese do inciso II, mediante requerimento do contribuinte, o Subgerente de Fiscalização poderá autorizar que seja o recolhimento do imposto efetuado na rede arrecadadora do seu domicílio, até o 20o (vigésimo) dia do mês subseqüente ao da entrada da mercadoria no Estado.
-
-
-SEÇÃO IV
-
-DA DEVOLUÇÃO E DO DESFAZIMENTO DA OPERAÇÃO
-
-
-Art. 551 - Os contribuintes indicados no art. 546 que devolverem mercadoria tributada na forma deste Capítulo, emitirão nota fiscal de devolução, nos termos do art. 721 deste Regulamento.
-
-Parágrafo único - Na hipótese deste artigo, o valor do imposto retido apurado e recolhido, correspondente à mercadoria devolvida, será registrado no item "Outros Créditos" do livro Registro de Apuração do ICMS, seguido do número e data da nota fiscal emitida em devolução.
-
-
-SEÇÃO V
-
-DAS SAÍDAS INTERESTADUAIS
-
-
-Art. 552 - Na saída para outro Estado dos produtos comestíveis de que trata o art. 546, cujo imposto já tenha sido pago na forma deste Capítulo:
-
-I – a nota fiscal será emitida com destaque do imposto;
-
-II – o valor do imposto destacado na nota fiscal será compensado mediante o registro na coluna "Outros créditos" do Livro Registro de Apuração do ICMS, com a expressão "crédito do ICMS decorrente de operações com gado bovino".
-
-Art. 553 – Fica o Gerente da Receita Estadual autorizado a editar os atos que se fizerem necessários à operacionalização deste Capítulo.
-
-<!-- p. 4 -->
-CAPÍTULO II
-
-DO ROMANEIO DE TRANSPORTE DE GADO
-
-
-Art. 554 - O Romaneio de Transporte de Gado (RTG), modelo do Anexo 62, de impressão e distribuição exclusiva da Gerência da Receita Estadual, tem por fim acobertar e controlar o transporte de gado bovino e bubalino, no território maranhense, constituindo-se documento necessário para o aproveitamento de crédito em operação subseqüente.
-
-Art. 555 - O RTG conterá as indicações constantes do seu modelo e será emitido pelas repartições fiscais no momento do transporte do gado.
-
-§ 1º - O funcionário responsável pelo preenchimento do RTG deverá apor seu nome, assinatura e matrícula.
-
-§ 2º - O RTG será emitido em 02 (duas) vias, com a seguinte destinação:
-
-a) a primeira via acompanhará a primeira via da nota fiscal a que estiver vinculado;
-
-b) a segunda via será enviada à Subgerência de Arrecadação.
-
-§ 3º - O número do RTG constará obrigatoriamente do corpo da nota fiscal correspondente, mesmo em se tratando de mercadorias procedentes de outras unidades da Federação.
-
-§ 4º - A primeira via do RTG será autenticada com o Selo Fiscal, série "A", em quadrícula própria, antes de sua distribuição às repartições fiscais.
-
-Art. 556 - O RTG será emitido nas operações internas e interestaduais de entrada, tributadas.
-
-Art. 557 - Havendo cancelamento do RTG, este deverá ser devolvido com todas as suas vias e com menção do motivo do seu cancelamento, à Subgerência de Arrecadação.
-
-Art. 558 - O controle e a distribuição do RTG compete à Subgerência de Arrecadação.
-
-Art. 559 - No caso de redespacho, será obrigatória a apresentação da primeira via do RTG, relativa à operação anterior, devendo acompanhar os novos documentos fiscais.
-
-
-CAPÍTULO IV
-
-DO DIFERIMENTO
-
-<!-- p. 5 -->
-Art. 564 - São diferidos, o lançamento e o pagamento do ICMS, nas saídas internas de gado, destinado a cria e recria em estabelecimento de produtores agropecuários registrados no Cadastro de Contribuinte do ICMS (CAD/ICMS), nas condições previstas neste Capítulo (Art. 263 da Constituição Estadual).
-
-§ 1º - Em se tratando de gado bovino, a Nota Fiscal deverá trazer discriminados os dados referentes a peso, raça, sexo, estado de engorda (magro, gordo) e, se houver, a última marca de fogo (ferro), a fim de estabelecer-se a necessária vinculação do gado ao respectivo documento fiscal, durante o seu trânsito, da origem ao destino.
-
-§ 2º - Encerra-se o diferimento:
-
-I - na saída do gado destinada a estabelecimento abatedor;
-
-II - na saída do gado para outro estabelecimento de produtor agropecuário não inscrito no CAD/ICMS;
-
-III - na saída do gado para outra unidade da Federação ou para o exterior.
-
-§ 3º - A responsabilidade pelo pagamento do imposto diferido é do remetente, por ocasião do encerramento do benefício.
-
-§ 4º - Os produtores agropecuários, que não promoverem com habitualidade operações de comercialização ou industrialização de gado, são dispensados da escrituração dos livros fiscais previstos no Capítulo II do Título IV deste Regulamento."
-
-Art. 2º - Revogam-se as disposições em contrário, de modo especial o Decreto nº 15.820, de 22 de setembro de 1997.
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 31 DE MARÇO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16808-1999-18266.md>>>
----
-documento: "DECRETO Nº 16.808 DE 18 DE MAIO DE 1999"
-tipo: decreto
-numero: 16808
-data: "1999-05-18"
-ementa: "Dá nova redação aos arts. 256, 260, 263 e 278 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c29440fd-5b8b-425c-bcc3-9e321966fca2
-atualizado_na_fonte: "2026-10-15 15:03:58"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.808 DE 18 DE MAIO DE 1999
-
-_Dá nova redação aos arts. 256, 260, 263 e 278 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-05-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.808 DE 18 DE MAIO DE 1999
-
-
-Dá nova redação aos arts. 256, 260, 263 e 278 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o Convênio ICMS 131/97, 45/98 e 66/98, celebrados com fulcro no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966),
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar, com a seguinte redação, os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o art. 278 do RICMS:
-
-"Art. 278 - Os livros fiscais escriturados por sistema eletrônico de processamento de dados, serão enfeixados ou encadernados e autenticados em até 120 (cento e vinte) dias, contados da data do último lançamento.(Conv. ICMS 75/96; 45/98)."
-
-II – o caput do art. 260 do RICMS:
-
-"Art. 260 - O contribuinte usuário de sistema eletrônico de processamento de dados estará obrigado a manter, pelo prazo decadencial, o arquivo magnético com registro fiscal dos documentos emitidos por qualquer meio, referente à totalidade das operações de entrada e de saída e das aquisições e prestações realizadas no exercício de apuração, na forma estabelecida neste Regulamento. (Conv. ICMS 75/96; 66/98)."
-
-III – o § 1º do art. 256 do RICMS:
-
-"Art. 256 – (...)
-
-§ 1º - Fica obrigado às disposições deste Regulamento o contribuinte que:
-
-1. emitir documento fiscal e/ou escriturar livro fiscal em equipamento que utilize ou tenha condições de utilizar arquivo magnético ou equivalente;
-
-2. utilizar equipamento Emissor de Cupom Fiscal (ECF), que tenha condições de gerar arquivo magnético, por si ou quando conectado a outro computador, em relação às obrigações previstas no art. 260;
-
-<!-- p. 2 -->
-3. não possuindo sistema eletrônico de processamento de dados próprio, utilize serviços de terceiros com essa finalidade. (Conv. ICMS 66/98)."
-
-IV – o inciso V do art. 263 do RICMS:
-
-"Art. 263 – (...)
-
-V – fica limitada a 98 (noventa e oito) a quantidade de itens de mercadoria por nota fiscal emitida. (Conv. ICMS 131/97)."
-
-Art. 2º - Fica acrescentado o § 4º ao art. 260 do RICMS:
-
-"Art. 260 – (...)
-
-§ 4º - O registro fiscal por item de mercadoria de que trata o inciso I fica dispensado quando o estabelecimento utilizar sistema eletrônico de processamento de dados somente para a escrituração de livro fiscal. (Conv. ICMS 66/98)."
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16809-1999-18265.md>>>
----
-documento: "DECRETO Nº 16.809 DE 18 DE MAIO DE 1999"
-tipo: decreto
-numero: 16809
-data: "1999-05-18"
-ementa: "Dá nova redação ao art. 634 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências"
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1bff29d1-2823-4e25-b5b3-81445a94ed80
-atualizado_na_fonte: "2026-10-15 15:04:10"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.809 DE 18 DE MAIO DE 1999
-
-_Dá nova redação ao art. 634 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências_
-
-**Data:** 1999-05-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.809 DE 18 DE MAIO DE 1999
-
-
- Dá nova redação ao art. 634 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista os Ajustes Sinief nºs 19/98, 26/89, 05/96, 01/97, 03/97, 10/97 e 08/98,
-
-
-DECRETA
-
-Art. 1º - Passam a vigorar, com a seguinte redação, os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o art. 634 do RICMS:
-
-"Art. 634 – O Documento de Informação e apuração do ICMS será entregue à Gerência da Receita Estadual até o 20º (vigésimo) dia do mês subsequente ao da emissão da Nota Fiscal de Serviço de Transporte."
-
-II – a alínea "d" do inciso III do art. 398 do RICMS:
-
-"d) – Fita Detalhe impressa com todas as operações citadas, as quais devem ser, sempre, registradas consecutivamente, e com o carimbo previsto no § 3º do artigo 378.";
-
-III – o Anexo 67 do RICMS:
-
-
-"ANEXO 67
-
-(Art. 628 – Ajuste Sinief 19/89 )
-
-I Empresa:
-Companhia Vale do Rio Doce – CVRD
-
-Nome da Ferrovia:
-Estrada de Ferro Vitória-Minas (EFVM)
-
-Estados abrangidos:
-Espirito Santo e Minas Gerais
-
-II Empresa:
-Companhia Vale do Rio Doce – CVRD
-
-<!-- p. 2 -->
-Nome da Ferrovia:
-Estrada de Ferro Carajás (E F C )
-
-Estados abrangidos:
-Pará e Maranhão
-
-III Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Superintendência Reg. Recife (SR 1)
-
-Estados abrangidos:
-Pernambuco, Alagoas, Paraíba, Rio Grande do Norte, Ceará, Piauí e Maranhão
-
-IV Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Superintendência Regional Belo Horizonte (SR 2)
-
-Estados abrangidos:
-Minas Gerais, Goiás, Distrito Federal, Rio de Janeiro e São Paulo
-
-V Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Superintendência Regional Juiz de Fora (SR 3)
-
-Estados abrangidos:
-Minas Gerais, São Paulo e Rio de Janeiro
-
-VI Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Superintendência Regional São Paulo (SR4)
-
-Estados abrangidos:
-São Paulo e Mato Grosso do Sul
-
-VII Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Superintendência Regional Curitiba (SR5)
-
-Estados abrangidos:
-Paraná e Santa Catarina
-
-VIII Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Superintendência Regional Porto Alegre (SR 6)
-
-Estados abrangidos:
-Rio Grande do Sul e Santa Catarina
-
-IX Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Superintendência Regional Salvador (SR 7)
-
-Estados abrangidos:
-Sergipe, Bahia e Minas Gerais
-
-X Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Divisão Operacional Tubarão (DOUTUB)
-
-Estados abrangidos:
-Santa Catarina
-
-XI Empresa:
-Rede Ferroviária Federal S.A – RFFSA
-
-Nome da Ferrovia:
-Divisão Operacional Campos (DO CAN)
-
-Estados abrangidos:
-Minas Gerais, Espírito Santo e Rio de Janeiro
-
-XII Empresa:
-FEPASA – Ferrovia Paulista S.A
-
-Nome da Ferrovia:
-FEPASA
-
-Estados abrangidos:
-São Paulo e Minas Gerais
-
-XIII Empresa:
-Ferrovia Centro-Atlântica S.A
-
-Nome da Ferrovia:
-Ferrovia Centro-Atlântica
-
-<!-- p. 3 -->
-Estados abrangidos:
-Minas Gerais, Goiás, Distrito Federal, Rio de Janeiro, Espírito Santo, Bahia e Sergipe. (Ajuste Sinief 05/96).
-
-XIV Empresa:
-Ferrovia Sul-Atlântico S.A
-
-Nome da Ferrovia:
-Ferrovia Sul-Atlântico
-
-Estados abrangidos:
-Paraná, Santa Catarina e Rio Grande do Sul. (Ajuste Sinief 0l/97).
-
-XV Empresa:
-Ferrovia Tereza Cristins S.A
-
-Nome da Ferrovia:
-Ferrovia Tereza Cristina
-
-Estados abrangidos:
-Santa Catarina (Ajuste Sinief 03/97).
-
-XVI Empresa:
-MRS Logística S.A
-
-Nome da Ferrovia:
-MRS Logística
-
-Estados abrangidos:
-Rio de Janeiro, Minas Gerais e São Paulo. (Ajuste Sinief 03/97).
-
-XVII Empresa:
-Ferrovia Paraná S.A
-
-Nome da Ferrovia:
-Ferrovia Guarapuava-Casacavel
-
-Estados abrangidos:
-Paraná (Ajuste 08/98)."
-
-XVIII Empresa:
-FERRONORTE S.A. Ferrovias Norte Brasil (Ajuste Sinief 01/99)
-
-Nome da Ferrovia:
-FERRONORTE
-
-Estados abrangidos:
-MATO GROSSO.
-
-XIX Empresa:
-FERROBAN – Ferrovias Bandeirantes S.A (Ajuste Sinief 01/99)
-
-Nome da Ferrovia:
-FERROBAN
-
-Estados abrangidos:
-Minas Gerais, Mato Grosso do Sul e São Paulo."
-
-
-Art. 2º - Ficam acrescentados com a seguinte redação os dispositivos adiante enumerados ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o § 2º ao art. 631 do RICMS, renumerando-se o atual parágrafo único para § 1º:
-
-"§ 2º - A atualização monetária do débito fiscal obedecerá às disposições da legislação de cada unidade da Federação." (Ajuste Sinief 26/89)."
-
-II – o § 4º ao art. 297 do RICMS:
-
-"§ 4º - A emissão e apresentação da Autorização para Impressão de Documentos Fiscais – AIDF poderão ser em meio magnético, observado o seguinte:
-
-1. deverão constar, no mínimo, as indicações previstas no caput, exceção feita às assinaturas a que se refere os incisos VII e VIII;
-
-2. para cumprimento do disposto no § 3º.
-
-<!-- p. 4 -->
-a) o programa de computador utilizado para emissão da AIDF deverá possibilitar a impressão do referido documento;
-
-b) mediante protocolo, as unidades federadas envolvidas poderão estabelecer procedimentos diversos para a concessão de autorização."(Ajuste Sinief 10/97).
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16810-1999-18264.md>>>
----
-documento: "DECRETO Nº 16.810 DE 18 DE MAIO DE 1999"
-tipo: decreto
-numero: 16810
-data: "1999-05-18"
-ementa: "Acrescenta dispositivos ao Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=85a6a6b4-072e-4baa-9078-d217ba47b805
-atualizado_na_fonte: "2026-10-15 15:04:18"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.810 DE 18 DE MAIO DE 1999
-
-_Acrescenta dispositivos ao Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-05-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-
-DECRETO Nº 16.810 DE 18 DE MAIO 1999
-
-
-Acrescenta dispositivos ao Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado, e tendo em vista o Ajuste Sinief nº 06, de 18 de setembro de 1998,
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar com a redação que se segue os dispositivos adiante enumerados do Anexo 07 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, referente ao Código Fiscal de Operações e Prestações – CFOP:
-
-I - o seguinte código fiscal:
-
-"6.97 - Remessas de mercadorias para vendas fora do estabelecimento em operações sujeitas ao regime de substituição tributária.";
-
-II - a seguinte nota explicativa:
-
-"6.97 - Remessas para vendas fora do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-As saídas de mercadorias remetidas para vendas a serem efetuadas fora do estabelecimento, inclusive por meio de veículo, em operações sujeitas ao regime de substituição tributária."
-
-Art. 2º - Ficam acrescentados ao Anexo 07 do RICMS, referente ao CFOP:
-
-I - os seguintes subgrupos, dentro dos respectivos grupos:
-
-"1.70 - Entradas de Mercadorias em operações sujeitas ao regime de Substituição Tributária"
-
-"2.70 - Entradas de Mercadorias em operações sujeitas ao regime de Substituição Tributária"
-
-<!-- p. 2 -->
-"5.70 - Saídas de Mercadorias em operações sujeitas ao regime de Substituição Tributária"
-
-"6.70 - Saídas de Mercadorias em operações sujeitas ao regime de Substituição Tributária";
-
-II - os seguintes códigos fiscais, dentro dos respectivos subgrupos:
-
-1.70.............................................................................................................. ...
-
-"1.71 - Compras para industrialização em operações sujeitas ao regime de substituição tributária.
-
-1.72 - Compras para comercialização em operações sujeitas ao regime de substituição tributária.
-
-1.73 - Compras para ativo imobilizado em operações sujeitas ao regime de substituição tributária.
-
-1.74 - Compras para uso ou consumo em operações sujeitas ao regime de substituição tributária.
-
-1.75 - Transferências para industrialização em operações sujeitas ao regime de substituição tributária.
-
-1.76 - Transferências para comercialização em operações sujeitas ao regime de substituição tributária.
-
-1.77 - Devoluções de vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-1.78 - Devoluções de vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária.
-
-1.79 - Ressarcimentos de ICMS retido por substituição tributária."
-
-1.90..............................................................................................................
-
-"1.96 - Retornos de remessas para vendas fora do estabelecimento em operações sujeitas ao regime de substituição tributária."
-
-2.70.........................................................................................................
-
-"2.71 - Compras para industrialização em operações sujeitas ao regime de substituição tributária.
-
-2.72 - Compras para comercialização em operações sujeitas ao regime de substituição tributária.
-
-2.73 - Compras para ativo imobilizado em operações sujeitas ao regime de substituição tributária.
-
-<!-- p. 3 -->
-2.74 - Compras para uso ou consumo em operações sujeitas ao regime de substituição tributária.
-
-2.75 - Transferências para industrialização em operações sujeitas ao regime de substituição tributária.
-
-2.76 - Transferências para comercialização em operações sujeitas ao regime de substituição tributária.
-
-2.77 - Devoluções de vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-2.78 - Devoluções de vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária.
-
-2.79 - Ressarcimentos de ICMS retido por substituição tributária."
-
-2.90..............................................................................................................
-
-"2.96 - Retornos de remessas para vendas fora do estabelecimento em operações sujeitas ao regime de substituição tributária."
-
-5.70..............................................................................................................
-
-"5.71 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente.
-
-5.72 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-5.73 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente.
-
-5.74 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-5.75 - Transferências de produção do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-5.76 - Transferências de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária.
-
-5.77 - Devoluções de compras para industrialização em operações sujeitas ao regime de substituição tributária.
-
-5.78 - Devoluções de compras para comercialização em operações sujeitas ao regime de substituição tributária.
-
-5.79 - Ressarcimentos de ICMS retido por substituição tributária."
-
-5.90..............................................................................................................
-
-<!-- p. 4 -->
-"5.97 - Remessas de mercadorias para vendas fora do estabelecimento em operações sujeitas ao regime de substituição tributária."
-
-6.70..............................................................................................................
-
-"6.71 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente.
-
-6.72 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-6.73 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente.
-
-6.74 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-6.75 - Transferências de produção do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-6.76 - Transferências de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária.
-
-6.77 - Devoluções de compras para industrialização em operações sujeitas ao regime de substituição tributária.
-
-6.78 - Devoluções de compras para comercialização em operações sujeitas ao regime de substituição tributária.
-
-6.79 - Ressarcimentos de ICMS retido por substituição tributária.";
-
-III - as seguintes notas explicativas, dentro dos respectivos subgrupos:
-
-1.70..............................................................................................................
-
-"1.71 - Compras para industrialização em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por compras, de mercadorias a serem utilizadas em processo de industrialização, decorrentes de operações sujeitas ao regime de substituição tributária. Também serão classificadas neste código as entradas de mercadorias em estabelecimento de cooperativa, quando recebidas de seus cooperados ou de estabelecimento de outra cooperativa.
-
-1.72 - Compras para comercialização em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por compras, de mercadoria a serem comercializadas, decorrentes de operações sujeitas ao regime de substituição tributária. Também serão classificadas neste código as entradas de mercadorias em estabelecimento de cooperativa, quando recebidas de seus cooperados ou de estabelecimento de outra cooperativa.
-
-<!-- p. 5 -->
-1.73 - Compras para ativo imobilizado em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por compras, de bens destinados ao ativo imobilizado, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-1.74 - Compras para uso ou consumo em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por compras, de materiais destinados ao uso ou consumo, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-1.75 - Transferências para industrialização em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por transferência, de mercadorias a serem industrializadas, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-1.76 - Transferências para comercialização em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por transferência, de mercadorias a serem comercializadas, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-1.77 - Devoluções de vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-Referentes a produtos industrializados no estabelecimento, cujas saídas tenham sido classificadas nos códigos 5.71 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente, ou 5.72 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-1.78 - Devoluções de vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária.
-
-Referentes a vendas de mercadorias, cujas saídas tenham sido classificadas no código 5.73 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente, ou 5.74 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-1.79 - Ressarcimentos de ICMS retido por substituição tributária.
-
-Referentes a ressarcimentos de ICMS retido por substituição tributária a contribuinte substituído, pelo sujeito passivo por substituição, nas hipóteses previstas na legislação aplicável."
-
-1:90..............................................................................................................
-
-"1.96 - Retornos de remessas para vendas fora do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-<!-- p. 6 -->
-As entradas, em retorno, de mercadorias remetidas para vendas fora do estabelecimento, inclusive por meio de veículo, em operações sujeitas ao regime de substituição tributária, e não comercializadas."
-
-2:70..............................................................................................................
-
-"2.71 - Compras para industrialização em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por compras, de mercadorias a serem utilizadas em processo de industrialização, decorrentes de operações sujeitas ao regime de substituição tributária. Também serão classificadas neste código as entradas de mercadorias em estabelecimento de cooperativa, quando recebidas de seus cooperados ou de estabelecimento de outra cooperativa.
-
-2.72 - Compras para comercialização em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por compras, de mercadoria a serem comercializadas, decorrentes de operações sujeitas ao regime de substituição tributária. Também serão classificadas neste código as entradas de mercadorias em estabelecimento de cooperativa, quando recebidas de seus cooperados ou de estabelecimento de outra cooperativa.
-
-2.73 - Compras para ativo imobilizado em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por compras, de bens destinados ao ativo imobilizado, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-2.74 - Compras para uso ou consumo em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por compras, de materiais destinados ao uso ou consumo, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-2.75 - Transferências para industrialização em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por transferência, de mercadorias a serem industrializadas, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-2.76 - Transferências para comercialização em operações sujeitas ao regime de substituição tributária.
-
-As entradas, por transferência, de mercadorias a serem comercializadas, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-2.77 - Devoluções de vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-Referentes a produtos industrializados no estabelecimento, cujas saídas tenham sido classificadas nos códigos 6.71 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente, ou 6.72 - Vendas de produção do
-
-<!-- p. 7 -->
-estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-2.78 - Devoluções de vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária.
-
-Referentes a vendas de mercadorias, cujas saídas tenham sido classificadas no código 6.73 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente, ou 6.74 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-2.79 - Ressarcimentos de ICMS retido por substituição tributária.
-
-Referentes a ressarcimentos de ICMS retido por substituição tributária a contribuinte substituído, pelo sujeito passivo por substituição, nas hipóteses previstas na legislação aplicável."
-
-2:90..............................................................................................................
-
-"2.96 - Retornos de remessas para vendas fora do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-As entradas, em retorno, de mercadorias remetidas para vendas fora do estabelecimento, inclusive por meio de veículo, em operações sujeitas ao regime de substituição tributária, e não comercializadas."
-
-5:70..............................................................................................................
-
-"5.71 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente.
-
-As saídas, por vendas, de produtos industrializados no estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente. Também serão classificadas neste código as saídas de mercadorias de estabelecimento de cooperativa, quando destinadas a seus cooperados ou estabelecimento de outra cooperativa.
-
-5.72 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-As saídas, por vendas, de produtos industrializados no estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final. Também serão classificadas neste código as saídas de mercadorias de estabelecimento de cooperativa, quando destinadas a seus cooperados ou estabelecimento de outra cooperativa.
-
-5.73 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente.
-
-As saídas, por vendas, de mercadorias entradas para industrialização e/ou comercialização, que não tenham sido objeto de qualquer processo industrial no
-
-<!-- p. 8 -->
-estabelecimento, em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente. Também serão classificadas neste código as saídas de mercadorias de estabelecimento de cooperativa, quando destinadas a seus cooperados ou estabelecimento de outra cooperativa.
-
-5.74 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-As saídas, por vendas, de mercadorias entradas para industrialização e/ou comercialização, que não tenham sido objeto de qualquer processo industrial no estabelecimento, em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final. Também serão classificadas neste código as saídas de mercadorias de estabelecimento de cooperativa, quando destinadas a seus cooperados ou estabelecimento de outra cooperativa.
-
-5.75 - Transferências de produção do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-As saídas, por transferência, de produtos industrializados no estabelecimento, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-5.76 - Transferências de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária.
-
-As saídas, por transferência, de mercadorias entradas para industrialização e/ou comercialização, que não tenham sido objeto de qualquer processo industrial no estabelecimento, decorrentes de operações sujeitas ao regime de substituição tributária."
-
-5.77 - Devoluções de compras para industrialização em operações sujeitas ao regime de substituição tributária.
-
-Referentes a mercadorias compradas para serem utilizadas em processo de industrialização, cujas entradas tenham sido classificadas no código 1.71 - Compra para industrialização em operações sujeitas ao regime de substituição tributária.
-
-5.78 - Devoluções de compras para comercialização em operações sujeitas ao regime de substituição tributária.
-
-Referentes a mercadorias compradas para serem comercializadas, cujas entradas tenham sido classificadas no código 1.72 - Compra para comercialização em operações sujeitas ao regime de substituição tributária.
-
-5.79 - Ressarcimentos de ICMS retido por substituição tributária.
-
-Referentes a ressarcimento de ICMS retido por substituição tributária a contribuinte substituído, pelo sujeito passivo por substituição, nas hipóteses previstas na legislação aplicável."
-
-5.90..............................................................................................................
-
-"5.97 - Remessas para vendas fora do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-<!-- p. 9 -->
-As saídas de mercadorias remetidas para vendas a serem efetuadas fora do estabelecimento, inclusive por meio de veículo, em operações sujeitas ao regime de substituição tributária."
-
-6:70..............................................................................................................
-
-"6.71 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente.
-
-As saídas, por vendas, de produtos industrializados no estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente. Também serão classificadas neste código as saídas de mercadorias de estabelecimento de cooperativa, quando destinadas a seus cooperados ou estabelecimento de outra cooperativa.
-
-6.72 - Vendas de produção do estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-As saídas, por vendas, de produtos industrializados no estabelecimento em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final. Também serão classificadas neste código as saídas de mercadorias de estabelecimento de cooperativa, quando destinadas a seus cooperados ou estabelecimento de outra cooperativa.
-
-6.73 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente.
-
-As saídas, por vendas, de mercadorias entradas para industrialização e/ou comercialização, que não tenham sido objeto de qualquer processo industrial no estabelecimento, em operações sujeitas ao regime de substituição tributária, quando destinadas a comercialização ou industrialização subseqüente. Também serão classificadas neste código as saídas de mercadorias de estabelecimento de cooperativa, quando destinadas a seus cooperados ou estabelecimento de outra cooperativa.
-
-6.74 - Vendas de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final.
-
-As saídas, por vendas, de mercadorias entradas para industrialização e/ou comercialização, que não tenham sido objeto de qualquer processo industrial no estabelecimento, em operações sujeitas ao regime de substituição tributária, quando destinadas a consumidor ou usuário final. Também serão classificadas neste código as saídas de mercadorias de estabelecimento de cooperativa, quando destinadas a seus cooperados ou estabelecimento de outra cooperativa.
-
-6.75 - Transferências de produção do estabelecimento em operações sujeitas ao regime de substituição tributária.
-
-As saídas, por transferência, de produtos industrializados no estabelecimento, decorrentes de operações sujeitas ao regime de substituição tributária.
-
-<!-- p. 10 -->
-6.76 - Transferências de mercadorias adquiridas e/ou recebidas de terceiros em operações sujeitas ao regime de substituição tributária.
-
-As saídas, por transferência, de mercadorias entradas para industrialização e/ou comercialização, que não tenham sido objeto de qualquer processo industrial no estabelecimento, decorrentes de operações sujeitas ao regime de substituição tributária."
-
-6.77 - Devoluções de compras para industrialização em operações sujeitas ao regime de substituição tributária.
-
-Referentes a mercadorias compradas para serem utilizadas em processo de industrialização, cujas entradas tenham sido classificadas no código 2.71 - Compra para industrialização em operações sujeitas ao regime de substituição tributária.
-
-6.78 - Devoluções de compras para comercialização em operações sujeitas ao regime de substituição tributária.
-
-Referentes a mercadorias compradas para serem comercializadas, cujas entradas tenham sido classificadas no código 2.72 - Compra para comercialização em operações sujeitas ao regime de substituição tributária.
-
-6.79 - Ressarcimentos de ICMS retido por substituição tributária.
-
-Referentes a ressarcimento de ICMS retido por substituição tributária a contribuinte substituído, pelo sujeito passivo por substituição, nas hipóteses previstas na legislação aplicável."
-
-Art. 3º - Ficam revogados no Anexo 07 do RICMS os códigos fiscais 2.15, 2.35, 2.36, 6.35 e 6.36 , assim como as correspondentes notas explicativas, acrescentados pelo Decreto nº 16.531 de 05 de novembro de 1998, publicado no Diário Oficial do Estado de 11 de novembro de 1998, referente ao Código Fiscal de Operações e Prestações - CFOP.
-
-Art. 4º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1999.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16811-1999-18263.md>>>
----
-documento: "DECRETO Nº 16.811 DE 18 DE MAIO DE 1999"
-tipo: decreto
-numero: 16811
-data: "1999-05-18"
-ementa: "Dá nova redação ao inciso I do art. 591, ao 'caput' do art. 595 e aos incisos II e III do art. 597 do RICMS, aprovado pelo Decreto nº 14.744/1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d8e0f4b5-b22c-47e5-9fc2-1a5f4a4aec99
-atualizado_na_fonte: "2026-10-15 15:04:28"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.811 DE 18 DE MAIO DE 1999
-
-_Dá nova redação ao inciso I do art. 591, ao "caput" do art. 595 e aos incisos II e III do art. 597 do RICMS, aprovado pelo Decreto nº 14.744/1995._
-
-**Data:** 1999-05-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.811 DE 18 DE MAIO DE 1999
-
-
-Dá nova redação ao inciso I do art. 591, ao "caput" do art. 595 e aos incisos II e III do art. 597 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o disposto no Convênio ICMS nº 62, de 19 de junho de 1998, com fulcro nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966),
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar, com a seguinte redação, os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o inciso I do art. 591 do RICMS/95:
-
-"Art. 591 (...)
-
-I – os estabelecimentos da CONAB/PGPM preencherão o documento denominado Demonstrativo de Estoques - DES, modelo do anexo 63, emitido quinzenalmente, por estabelecimento, registrando em seu verso, segundo a natureza da operação, o somatório das entradas e das saídas a título de valores contábeis, os códigos fiscais da operação e/ou prestação, a base de cálculo, o valor do ICMS, as operações e prestações isentas e outras, a ele anexando via dos documentos relativos às entradas e, relativamente às saídas, a 2ª via das notas fiscais correspondentes, remetendo-o ao estabelecimento centralizador." (Convênio ICMS 62/98).
-
-II – o "caput" do art. 595 do RICMS/95:
-
-"Art. 595 - A CONAB/PGPM emitirá a nota fiscal com numeração única por unidade da Federação, em seis (6) vias, com a seguinte destinação: (Convênio ICMS 62/98).
-
-I - 1ª via - destinatário;
-
-II - 2ª via - CONAB/contabilização (via fixa);
-
-III - 3ª via - fisco da unidade federada do emitente;
-
-IV - 4ª via - fisco da unidade federada de destino;
-
-<!-- p. 2 -->
-V - 5ª via - Armazém depositário;
-
-VI - 6ª via - Agência Operadora."
-
-III - os incisos II e III do art. 597:
-
-"Art. 597 (...)
-
-II - a 5ª via da nota fiscal será o documento hábil para efeitos de registro no armazém; (Convênio ICMS 62/98).
-
-III - nos casos de devolução simbólica de mercadoria, a retenção da 5ª via da nota fiscal pelo armazém dispensa a emissão de nota fiscal nas hipóteses previstas nos seguintes dispositivos do Capítulo III do Título IV: (Convênio ICMS 62/98).
-
-a) § 1º do art. 333;
-
-b) alínea "b" do § 2º do art. 334;
-
-c) § 1º do art. 337;
-
-d) alínea "a" do § 1º do art. 338;"
-
-Art. 2º - Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16812-1999-18262.md>>>
----
-documento: "DECRETO Nº 16.812 DE 18 DE MAIO DE 1999"
-tipo: decreto
-numero: 16812
-data: "1999-05-18"
-ementa: "Dá nova redação aos arts. 444, 446 e 461 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=47ee5554-61a2-4d6d-92fd-74ab25386130
-atualizado_na_fonte: "2026-10-15 15:04:36"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.812 DE 18 DE MAIO DE 1999
-
-_Dá nova redação aos arts. 444, 446 e 461 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-05-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.812 DE 18 DE MAIO DE 1999
-
-
-Dá nova redação aos arts. 444, 446 e 461 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o Convênio ICMS 65, de 19 de junho de 1998, celebrado com fulcro no art. 199 do Código Tributário Nacional (Lei 5.172, de 25.10.96),
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar, com a seguinte redação, os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – no art. 444:
-
-a) o § 1º:
-
-§ 1º - "§ 1º O Totalizador Geral, o Contador de Ordem de Operação, o Contador Geral de Comprovante Não Fiscal, se existir, o Número de Ordem Seqüencial do ECF, o Contador de Cupons Fiscais Cancelados, se existir, e os totalizadores parciais serão mantidos em memória não volátil residente no equipamento, que deverá ter capacidade de assegurar os dados acumulados por, pelo menos, setecentas e vinte horas, mesmo ante a ausência de energia elétrica.";
-
-b) o § 8º:
-
-"§ 8º - A impressão de Cupom Fiscal e da fita-detalhe deve ocorrer em uma mesma estação impressora.";
-
-c) o § 14:
-
-"§ 14 - Na hipótese do parágrafo anterior, o registro da forma de pagamento deve ser finalizado automaticamente quando o somatório das formas de pagamento igualar ou exceder o valor total do documento, devendo ser impresso imediatamente após o recebimento do primeiro comando enviado ao "software" básico:
-
-I - o valor total pago, indicado pela expressão "VALOR RECEBIDO", sendo esta integrante do "software" básico;
-
-<!-- p. 2 -->
-II - se for o caso, o valor referente à diferença entre o valor pago e o valor total do documento, indicado pela expressão "TROCO", sendo esta integrante do "software" básico.";
-
-d) o inciso II do § 16:
-
-"II - no Contador Geral de Comprovante Não Fiscal;";
-
-e) o § 18:
-
-"§ 18 - O controle do mecanismo impressor no ECF-IF e no ECF-PDV deverá ser gerenciado pelo "software" básico do equipamento, observadas as seguintes condições:
-
-I - estar localizado na placa controladora fiscal com processador único;
-
-II - em processador localizado em placa que não seja a placa controladora fiscal, se estiver junto a esta em gabinete que possibilite seu isolamento dos demais componentes do equipamento mediante utilização do lacre previsto no inciso XV do art. 444;"
-
-II - os incisos I e II do § 9º do art. 446, passando o atual inciso II a constituir o inciso III:
-
-"I - a nova PROM ou EPROM deverá ser fixada internamente na estrutura do ECF de forma permanente, envolvida em resina termoendurecedora opaca, impedindo o acesso e a remoção da mesma;
-
-II - a PROM ou EPROM anterior deverá ser mantida no equipamento, devendo:
-
-a) no caso de esgotamento, possibilitar a sua leitura;
-
-b) no caso de danificação, ser inutilizada de forma que não possibilite o seu uso;"
-
-III - o inciso XIII do art. 461:
-
-"XIII - Totalizadores Parciais e contadores de operações não fiscais, quando existentes;"
-
-IV – o art. 486:
-
-"Art. 486 - Ao equipamento Emissor de Cupom Fiscal (ECF) que não tenha sido adequado de forma a atender ao disposto na cláusula quarta do Convênio ICMS 132/97, de 12 de dezembro de 1997, e ao disposto na cláusula terceira do Convênio ICMS 02/98, de 18 de fevereiro de 1998, não poderá ser mais concedida autorização para uso fiscal a partir de 1º de janeiro de 1999."
-
-V - o título da Subseção II da Seção VI do Capítulo III do RICMS/95:
-
-"SUBSEÇÃO II
-
-DAS OPERAÇÕES NÃO FISCAIS"
-
-<!-- p. 3 -->
-VI – o parágrafo único do art. 447:
-
-"Parágrafo único – O pedido de credenciamento será obrigatoriamente precedido de cadastro no CAD/ICMS da Gerência da Receita Estadual, instruído com:
-
-I – qualificação da empresa;
-
-II – contrato social;
-
-III – comprovação de capital social superior a 22.200 (vinte e duas mil e duzentas) UFIR;
-
-IV – atestado de idoneidade fornecido por duas empresas comerciais ou industriais estabelecidas neste Estado, que possuam capital social no valor superior a 22.200 (vinte duas mil e duzentas) UFIR;
-
-V – Certidão negativa de débito dos interessados e dos atestantes;
-
-Art. 2º - Ficam acrescentados os seguintes dispositivos ao RICMS/95:
-
-I – o inciso I ao § 8º do art. 444:
-
-"I - o disposto neste parágrafo só se aplica em relação ao ECF-MR, cujo pedido de homologação seja protocolizado na forma do Convênio ICMS 72/97, de 25 de junho de 1997."
-
-II - os incisos III e IV ao § 16 do art. 444, renumerando os atuais incisos III e IV para V e VI, respectivamente:
-
-"III - no totalizador de cancelamento;
-
-IV - no totalizador de desconto";
-
-III - o item 6 ao § 4º do art. 446:
-
-"6 - documentos fiscais emitidos em formulários pré-impressos."
-
-IV - o inciso III ao art. 450:
-
-"III - em qualquer hipótese em que haja remoção do lacre.";
-
-V - o inciso XI ao art. 453:
-
-"XI - o Contador Geral de Comprovante Não Fiscal.";
-
-VI - o inciso XVII ao art. 456:
-
-"XVII - o Contador Geral de Comprovante Não Fiscal.";
-
-VII - o inciso XVI ao art. 461:
-
-"XVI - o Contador Geral de Comprovante Não Fiscal.".
-
-VIII - o inciso XIII ao art. 463:
-
-<!-- p. 4 -->
-"XIII - o valor acumulado em cada totalizador parcial de situação tributária".
-
-IX – o § 3º ao art. 452:
-
-"§ 3º - ocorrendo mais de 10 (dez) intervenções no ECF, no período de 12 (doze) meses, com incremento no Contador de Reinicio de Operações (CRO), o equipamento será automaticamente baixado pela Repartição fiscal de circunscrição do contribuinte."
-
-X – o § 7º ao art. 464:
-
-"§ 7º - Cópia do "Mapa Resumo ECF" deve ser encaminhada à Delegacia da Receita Estadual de circunscrição do contribuinte, até o 5º (quinto) dia do mês subsequente ao do registro das operações e/ou prestações, juntamente com a Leitura X e Redução Z, do período de apuração."
-
-XI – o inciso VI ao art. 442:
-
-"VI – identificação e endereço do responsável pelo "software" aplicativo, devendo constar:
-
-a. nome ou razão social; b. o número de inscrição no CNPJ ou no CPF/MF; c. número de inscrição estadual, se for o caso."
-
-XII – o inciso XVIII ao art. 451:
-
-"XVIII – no Atestado de Intervenção deverá constar a decodificação do GT."
-
-Art. 3º - Ficam revogados o § 1º do art. 464 e os arts. 466 e 481 do RICMS/95.
-
-Art. 4º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16813-1999-18261.md>>>
----
-documento: "DECRETO Nº 16.813 DE 18 DE MAIO DE 1999"
-tipo: decreto
-numero: 16813
-data: "1999-05-18"
-ementa: "Acrescenta o inciso XVI ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744 de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8a77b2cf-0184-4de5-bb9d-f6bb7fd634d7
-atualizado_na_fonte: "2026-10-15 15:04:43"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.813 DE 18 DE MAIO DE 1999
-
-_Acrescenta o inciso XVI ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744 de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-05-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO Nº 16.813 DE 18 DE MAIO DE 1999
-
-
-Acrescenta o inciso XVI ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744 de 29 de setembro de 1995 e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o disposto no § 4º da Lei nº 6.866, de 05 de dezembro de 1996,
-
-DECRETA
-
-
-Art. 1º - Fica acrescentado o inciso XVI ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-"Art. 51
-
-( . . . )
-
-XVI – o percentual equivalente , de forma que a carga tributária resulte nula, vedada a utilização de quaisquer outros créditos:
-
-a. nas saídas internas de amêndoa de babaçu para fins industriais; b. nas saídas de óleo bruto e refinado derivados da amêndoa de babaçu
-
-para fins industriais."
-
-Art. 2º - Passam a vigorar com a seguinte redação os itens 3 e 23 do inciso II do art. 74 do RICMS 95:
-
-"Art. 74
-
-( . . . )
-
-II
-
-3 – coco babaçu "in natura";
-
-( . . . )
-
-23 - óleos de algodão, de soja e de tucum cru ou refinado, a granel ou em tambores."
-
-Art. 3º - Ficam revogados a alínea "c" do § 3º do art. 74 e os arts. 536 a 543 do RICMS /95.
-
-<!-- p. 2 -->
-Artº 4º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16814-1999-18260.md>>>
----
-documento: "DECRETO Nº 16.814 DE 18 DE MAIO DE 1999"
-tipo: decreto
-numero: 16814
-data: "1999-05-18"
-ementa: "Da nova redação ao § 1º do art. 861 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=63e09c53-48f8-40dd-8c92-d78425909ed4
-atualizado_na_fonte: "2026-10-15 15:04:51"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.814 DE 18 DE MAIO DE 1999
-
-_Da nova redação ao § 1º do art. 861 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-05-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-
-DECRETO N.º 16.814 DE MAIO DE MAIO DE 1999
-
-
-Da nova redação ao § 1º do art. 861 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Passa a vigorar, com a seguinte redação, o § 1º do art. 861 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-"Art. 861 - (...)
-
-§ 1º - O demonstrativo que será de periodicidade mensal, deverá ser entregue à repartição fiscal do domicílio tributário do contribuinte no mesmo prazo para entrega da DIEF."
-
-"Art. 2º - Este Decreto entra em vigor na data de sua publicação.
-
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-
-Da nova redação ao § 1º do art. 861 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-<!-- p. 2 -->
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Passa a vigorar, com a seguinte redação, o § 1º do art. 861 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-"Art. 861 - (...)
-
-§ 1º - O demonstrativo que será de periodicidade mensal, deverá ser entregue à repartição fiscal do domicílio tributário do contribuinte no mesmo prazo para entrega da DIEF."
-
-"Art. 2º - Este Decreto entra em vigor na data de sua publicação.
-
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16834-1999-18259.md>>>
----
-documento: "DECRETO Nº 16.834 DE 27 DE MAIO DE 1999"
-tipo: decreto
-numero: 16834
-data: "1999-05-27"
-ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6afb48f0-3802-43b3-9b18-d13723ef27d1
-atualizado_na_fonte: "2026-10-15 15:05:12"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.834 DE 27 DE MAIO DE 1999
-
-_Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-05-27  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.834 DE 27 DE MAIO DE 1999
-
-
-Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar, com a seguinte redação, os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – a alínea "e" do inciso XV do art. 37 do RICMS:
-
-"e) o contribuinte fica sujeito à antecipação parcial do imposto de 3% (três por cento) sobre o valor das aquisições, cujo pagamento será efetuado até o dia 20 do mês subseqüente ao da entrada da mercadoria em território maranhense."
-
-II – a alínea "e" do inciso XI do art. 51 do RICMS:
-
-"e) o contribuinte fica sujeito à antecipação parcial do imposto de 3% (três por cento) sobre o valor das aquisições, cujo pagamento será efetuado até o dia 20 do mês subseqüente ao da entrada da mercadoria em território maranhense."
-
-Art. 2º - Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 27 DE MAIO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16835-1999-18258.md>>>
----
-documento: "DECRETO Nº 16.835 DE 27 DE MAIO DE 1999"
-tipo: decreto
-numero: 16835
-data: "1999-05-27"
-ementa: "Prorroga prazos referentes à concessão de benefícios fiscais e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3328cd1e-1107-40d9-b758-177487847abe
-atualizado_na_fonte: "2026-10-15 15:05:21"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "vigente (sem revogação identificada)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.835 DE 27 DE MAIO DE 1999
-
-_Prorroga prazos referentes à concessão de benefícios fiscais e dá outras providências._
-
-**Data:** 1999-05-27  
-**Remete a:** RICMS  
-**Situação:** vigente (sem revogação identificada)
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.835 DE 27 DE MAIO DE 1999
-
-
-Prorroga prazos referentes à concessão de benefícios fiscais e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o disposto no Convênio ICMS nº 05, de 16 de abril de 1999, celebrado com fulcro na Lei Complementar nº 24, de 07 de janeiro de 1975.
-
-
-DECRETA
-
-Art. 1º - Ficam prorrogados com suas redações atuais os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – até 30 de abril de 2.000 (Convênio ICMS 05/99):
-
-a. os incisos XXII e XXVI do art. 10 do RICMS; b. o inciso X do art. 37 do RICMS.
-
-II – até 30 de abril de 2.001 (Convênio ICMS 05/99):
-
-a. os incisos VI, VIII, IX, X, XI, XIV, XV, XVII, XVIII, XIX, XXVIII, XXX, XXXI,
-
-XXXIII do art. 10 do RICMS; b. o inciso VI do art. 37 do RICMS (Conv. ICMS nºs 75/91, 124/93, 45/96,
-
-121/97, 23/98 e 05/99); c. o inciso IV do art. 51 do RICMS (Conv. ICMS nºs 02/92, 22/95, 21/96,
-
-121/97, 23/98 e 05/99).
-
-
-Art. 2º - Passam a vigorar com a redação a seguir, os dispositivos adiante enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o art. 580 do RICMS:
-
-"Art. 580 – Os benefícios previstos neste Capítulo, atendidas as respectivas condições, terão eficácia até 30 de abril de 2.001 (Convênio ICMS nºs 100/97 e 05/99)."
-
-II – o § 8º do art. 13 do RICMS:
-
-"§ 8º - O disposto na alínea "b" do § 2º terá eficácia até 30 de abril de 2.001 (Convênios ICMS nºs 63/95, 102/96 e 05/99)."
-
-<!-- p. 2 -->
-III – o inciso II do art. 689 do RICMS:
-
-"II – terá eficácia até 30 de abril de 2.001 (Convênios ICMS 52/91, 22/95, 21/96, 21/97, 23/98 e 05/99)."
-
-IV – o inciso XXXIV do art. 10 do RICMS:
-
-"XXXIV – até 31 de dezembro de 1999, as operações com os equipamentos e insumos abaixo, indicados, classificados pela NBM/SH: (Convênios ICMS 01/99 e 05/99).
-
-NBM/SH MATERIAL
-
-3006.10.19 Fio de nylon 8.0
-
-3006.10.19 Fio de nylon 10.0
-
-3006.10.19 Fio de nylon 9.0
-
-3004.90.99 Conjunto de troca para diálise peritonial ambulatorial e automática
-
-3006.10.90 Hemostático (base celulose ou colágeno)
-
-3006.10.90 Tela inorgânica pequena (até 100 cm2)
-
-3006.10.90 Tela inorgânica média (101 a 400 cm2)
-
-3006.10.90 Tela inorgânica grande (acima de 401 cm2)
-
-3006.40.20 Cimento ortopédico (dose 40 grs)
-
-3702.10.10 Chapas e Filmes para raios-X, sensibilizados em uma face
-
-3701.10.29 Outras chapas e filmes para raios-X
-
-3701.10.10 Filmes especiais para raios-X sensibilizados em uma face
-
-3702.10.20 Filmes especiais para raios-X sensibilizados em ambas as faces
-
-3917.40.10 Conector completo com tampa
-
-8421.29.11 Hemodialisador capilar
-
-9018.39.21 Sonda para nutrição enteral
-
-9018.39.22 Cateter balão para embolectomia arterial ou venosa
-
-9018.39.29 Cateter ureteral duplo "rabo de porco"
-
-9018.39.29 Cateter para subclavia duplo lumen para hemodiálise
-
-9018.39.29 Guia metálico para introdução de cateter duplo lumen
-
-9018.39.29 Dilatador para implante de cateter duplo lumen
-
-9018.39.29 Cateter balão para septostomia
-
-9018.39.29 Cateter balão para angioplastia, recém-nato, lactente., Berrmann
-
-9018.39.29 Cateter balão para angioplastia transluminal percuta
-
-9018.39.29 Cateter guia para angioplastia transluminal percuta
-
-9018.39.29 Cateter balão para valvoplastia
-
-9018.39.29 Guia de troca para angioplastia
-
-9018.39.29 Cateter multipolar (estudo eletrofisiológico/diagnóstico)
-
-9018.39.29 Cateter multipolar (estudo eletrofisiológico/terapêutico)
-
-9018.39.29 Cateter atrial/peritoneal
-
-9018.39.29 Cateter ventricular com reservatório
-
-9018.39.29 Conjunto de cateter de drenagem externa
-
-<!-- p. 3 -->
-9018.39.29 Cateter ventricular isolado
-
-9018.39.29 Cateter total implantável para infusão quimioterápica
-
-9018.39.29 Introdutor para cateter com e sem válvula
-
-9018.39.29 Cateter de termodiluição
-
-9018.39.29 Cateter tenckhoff ou similar de longa permanência para diálise peritoneal
-
-9018.39.29 Kit cânula
-
-9018.39.29 Conjunto para autotransfusão
-
-9018.39.29 Dreno para sucção
-
-9018.39.29 Cânula para traqueostomia sem balão
-
-9018.39.29 Sistema de drenagem mediastinal
-
-9018.90.40 Rins artificiais
-
-9018.90.95 Clips para aneurisma
-
-9018.90.95 Kit grampeador intraluminar Sap
-
-9018.90.95 Kit grampeador linear cortante
-
-9018.90.95 Kit grampeador linear cortante + uma carga
-
-9018.90.95 Kit grampeador linear cortante + duas cargas
-
-9018.90.95 Grampos de Blount
-
-9018.90.95 Grampos de Coventry
-
-9018.90.95 Clips venoso de prata
-
-9018.90.99 Bolsa para drenagem
-
-9018.90.99 Linhas arteriais
-
-9018.90.99 Conjunto descartável de circulação assistida
-
-9018.90.99 Conjunto descartável de balão intra-aórtico
-
-9019.20.10 Oxigenador de bolha com tubos para Circulação Extra Corpórea
-
-9019.20.10 Oxigenador de membrana com tubos para Circulação Extra Corpórea
-
-9019.20.90 Hemoconcentrador para circulação extracorpórea
-
-9019.20.90 Reservatório para cardioplegia com tubo sem filtro
-
-9021.11.10 Endoprótese total biarticulada
-
-9021.11.10 Componente femural não cimentado
-
-9021.11.10 Componente femural não cimentado para revisão
-
-9021.11.10 Cabeça intercambiável
-
-9021.11.10 Componente femural
-
-9021.11.10 Prótese de quadril thompson normal
-
-9021.11.10 Componente total femural cimentado
-
-9021.11.10 Componente femural parcial sem cabeça
-
-9021.11.10 Componente femural total cimentado sem cabeça
-
-9021.11.10 Endoprótese femural distal com articulação
-
-9021.11.10 Endoprótese femural proximal
-
-9021.11.10 Endoprótese femural diafisária
-
-9021.11.90 Espacador de tendão
-
-9021.11.90 Prótese de silicone
-
-9021.11.90 Componente acetabular metálico + polietileno
-
-<!-- p. 4 -->
-9021.11.90 Componente acetabular metálico + polietileno para revisão
-
-9021.11.90 Componente patelar
-
-9021.11.90 Componente base tibial
-
-9021.11.90 Componente patelar não cimentado
-
-9021.11.90 Componente plateau tibial
-
-9021.11.90 Componente acetabular charnley convencional
-
-9021.11.90 Tela de reforço de fundo acetabular
-
-9021.11.90 Restritor de cimento acetabular
-
-9021.11.90 Restritor de cimento femural
-
-9021.11.90 Anel de reforço acetabular
-
-9021.11.90 Componente acetabular polietileno para revisão
-
-9021.11.90 Componente umeral
-
-9021.11.90 Prótese total de cotovelo
-
-9021.11.90 Prótese ligamentar qualquer segmento
-
-9021.11.90 Componente glenoidal
-
-9021.11.90 Endoprótese umeral distal com articulação
-
-9021.11.90 Endoprótese umeral proximal
-
-9021.11.90 Endoprótese umeral total
-
-9021.11.90 Endoprótese umeral diafisária
-
-9021.11.90 Endoprótese proximal com articulação
-
-9021.11.90 Endoprótese diafisária
-
-9021.19.20 Parafuso para componente acetabular
-
-9021.19.20 Placa com finalidade específica L/T/Y
-
-9021.19.20 Placa auto compressão largura ate 15 mm comprimento até 150 mm
-
-9021.19.20 Placa auto compressão largura até 15 mm comprimemto acima 150 mm
-
-9021.19.20 Placa auto compressão largura até 15 mm para uso parafuso 3,5 mm
-
-9021.19.20 Placa auto compressão largura acima 15 mm comprimento até 220 mm
-
-9021.19.20 Placa auto compressão largura acima 15 mm comprimento acima 220 mm
-
-9021.19.20 Placa reta auto compressão estreita (abaixo 16 mm)
-
-9021.19.20 Placa semitubular para parafuso 4,5 mm
-
-9021.19.20 Placa semitubular para parafuso 3,5 mm
-
-9021.19.20 Placa semitubular para parafuso 2,7 mm
-
-9021.19.20 Placa angulada perfil "U" osteotomia
-
-9021.19.20 Placa angulada perfil "U" autocompressão
-
-9021.19.20 Conjunto placa angular (placa tubo + parafuso deslizante + contra-parafuso)
-
-9021.19.20 Placa Jewett comprimento até 150 mm
-
-9021.19.20 Placa Jewett comprimento acima 150 mm
-
-9021.19.20 Conjunto placa tipo coventry (placa e parafuso pediátrico)
-
-9021.19.20 Placa com finalidade específica - todas para parafuso até 3,5 mm
-
-9021.19.20 Placa com finalidade específica - todas para parafuso acima 3,5 mm
-
-9021.19.20 Placa com finalidade específica - cobra para parafuso 4,5 mm
-
-9021.19.20 Haste intramedular de ender
-
-<!-- p. 5 -->
-9021.19.20 Haste de compressão
-
-9021.19.20 Haste de distração
-
-9021.19.20 Haste de luque lisa
-
-9021.19.20 Haste de luque em "L"
-
-9021.19.20 Haste intramedular de rush
-
-9021.19.20 Retângulo tipo hartshill ou similar
-
-9021.19.20 Haste intramedular de Kuntscher tibial bifenestrada
-
-9021.19.20 Haste intramedular de Kuntscher femural bifenestrada
-
-9021.19.20 Arruela para parafuso
-
-9021.19.20 Arruela em "C"
-
-9021.19.20 Gancho superior de distração (todos)
-
-9021.19.20 Gancho inferior de distração (todos)
-
-9021.19.20 Ganchos de compressão (todos)
-
-9021.19.20 Arruela dentada para ligamento
-
-9021.19.20 Pino de Kknowles
-
-9021.19.20 Pino tipo Barr e Tibiais
-
-9021.19.20 Pino de Gouffon
-
-9021.19.20 Prego "OPS"
-
-9021.19.20 Parafuso cortical, diâmetro de 4,5 mm
-
-9021.19.20 Parafuso cortical diâmetro >= a 4,5 mm
-
-9021.19.20 Parafuso maleolar (todos)
-
-9021.19.20 Parafuso esponjoso, diâmetro de 6,5 mm
-
-9021.19.20 Parafuso esponjoso, diâmetro de 4,0 mm
-
-9021.19.20 Porca para haste de compressão
-
-9021.19.20 Fio liso de Kirschner
-
-9021.19.20 Fio liso de Steinmann
-
-9021.19.20 Prego intramedular "rush"
-
-9021.19.20 Fio rosqueado de Kirschner
-
-9021.19.20 Fio rosqueado de Steinmann
-
-9021.19.20 Fio maleável (sutura ou cerclagem diâmetro menor 1,00 mm por metro)
-
-9021.19.20 Fio maleável (sutura ou cerclagem diâmetro >= 1,00 mm por metro)
-
-9021.19.20 Fio maleável tipo luque diâmetro => 1,00 mm
-
-9021.19.20 Fixador dinâmico para mão ou pé
-
-9021.19.20 Fixador dinâmico para buco-maxilo-facial
-
-9021.19.20 Fixador dinâmico para radio ulna ou úmero
-
-9021.19.20 Fixador dinâmico para pelve
-
-9021.19.20 Fixador dinâmico para tíbia
-
-9021.19.20 Fixador dinâmico para femur
-
-9021.30.11 Prótese valvular mecânica de bola
-
-9021.30.11 Anel para aneloplastia valvular
-
-9021.30.11 Prótese valvular mecânica de duplo folheto
-
-9021.30.11 Prótese valvular mecânica de baixo perfil (disco)
-
-<!-- p. 6 -->
-9021.30.19 Prótese valvular biológica
-
-9021.30.30 Enxerto arterial tubular bifurcado inorgânico
-
-9021.30.30 Enxerto arterial tubular orgânico
-
-9021.30.30 Enxerto arterial tubular valvado orgânico
-
-9021.30.80 Prótese para esôfago
-
-9021.30.80 Tubo de ventilação de teflon ou silicone
-
-9021.30.80 Prótese de aço-teflon
-
-9021.30.80 Patch inorgânico (por cm2)
-
-9021.30.80 Patch orgânico (por cm2)
-
-9021.50.00 Marcapasso cardíaco multiprogramável com telimetria
-
-9021.50.00 Marcapasso cardíaco câmara dupla
-
-9021.90.19 Filtro de linha arterial
-
-9021.90.19 Reservatório de cardiotomia
-
-9021.90.19 Filtro de sangue arterial para recirculação
-
-9021.90.19 Filtro para cardioplegia
-
-9021.90.80 Conjunto para hidrocefalia de baixo perfil
-
-9021.90.80 Coletor para unidade de drenagem externa
-
-9021.90.80 Shunt lombo-peritonal
-
-9021.90.80 Conector em "Y"
-
-9021.90.80 Conjunto para hidrocefalia standard
-
-9021.90.80 Válvula para hidrocefalia
-
-9021.90.80 Válvula para tratamento de ascite
-
-9021.90.91 Introdutor de punção para implante de eletrodo endocárdico
-
-9021.90.91 Eletrodo para marcapasso temporário endocárdico
-
-9021.90.91 Eletrodo endocárdico definitivo
-
-9021.90.91 Eletrodo epicárdico definitivo
-
-9021.90.91 Eletrodo para marcapasso temporário epicárdico
-
-9021.90.99 Substituto temporário de pele (biológica/sinética) (por cm2)
-
-9021.90.99 Enxerto tubular de ptfe (por cm2)
-
-9021.90.99 Enxerto arterial tubular inorgânico
-
-9021.90.99 Botão para crâneo"
-
-V – o § 13 do art. 10 do RICMS:
-
-"§ 13 – a fruição do benefício previsto nos incisos XXXIV e XXXV, fica condicionada ao estabelecimento de isenção ou alíquota zero dos Impostos de Importação ou sobre Produtos industrializados;
-
-VI – o inciso VII do art. 10 do RICMS:
-
-"VII – até 30 de abril de 2.000, o recebimento de aparelhos, máquinas, equipamentos e instrumentos médico – hospitalares ou técnico – científicos laboratoriais, sem similar produzido no país, importados do exterior diretamente por órgãos ou entidades da administração pública, direta ou indireta, bem como fundações ou entidades beneficentes ou de assistência social portadoras do
-
-<!-- p. 7 -->
-Certificado de Entidade de Fins Filantrópicos, fornecido pelo Conselho Nacional de Serviço Social. (Convênios ICMS 104/89, 68/94, 95/95, 121/95 e 20/99)."
-
-VII – o § 10 do art. 10 do RICMS:
-
-"§ 10 – Nas operações previstas no inciso XXXIII, não será exigido o estorno do crédito fiscal de que trata o art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996."
-
-Art. 3º - Ficam acrescentados com a redação a seguir o inciso XXXV e os § § 14 e 15 ao art. 10 do RICMS:
-
-"XXXV – até 30 de abril de 2.001, as operações com Coletores Eletrônicos de Voto (CEV), suas partes, peças de reposição e acessórios, adquiridos diretamente pelo Tribunal Superior Eleitoral – TSE."
-
-"§ 14 – Fica assegurada a manutenção do crédito relativamente às aquisições dos insumos, partes, peças e acessórios destinados à produção dos coletores a que se refere o inciso XXXV deste artigo."
-
-"§ 15 – A inexistência de produto similar produzido no país, de que trata o inciso VII deste artigo será atestada por órgão federal competente ou por entidade representativa do setor produtivo de máquinas, aparelhos e equipamentos com abrangência em todo o território nacional. (Convênio ICMS 20/89)."
-
-Art. 4º - Fica revogado o § 11 do art. 10 do RICMS.
-
-Art. 5º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 27 DE MAIO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16855-1999-18257.md>>>
----
-documento: "DECRETO Nº 16.855 DE 25 DE JUNHO DE 1999"
-tipo: decreto
-numero: 16855
-data: "1999-06-25"
-ementa: "Acrescenta o parágrafo único ao art. 97 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c70dd900-da9e-43ae-b36b-6d60fa28222a
-atualizado_na_fonte: "2026-10-15 15:05:55"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.855 DE 25 DE JUNHO DE 1999
-
-_Acrescenta o parágrafo único ao art. 97 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995._
-
-**Data:** 1999-06-25  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.855 DE 25 DE JUNHO DE 1999
-
-Publicado no DOE de 07.07.99
-
-
-Acrescenta o parágrafo único ao art. 97 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Fica acrescentado, com a seguinte redação, o parágrafo único ao art. 97 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-"Parágrafo único – O pagamento das prestações relativas à concessão de parcelamento do ICMS, obedecerá aos seguintes prazos:
-
-I – o primeira parcela, até o dia 20 (vinte) do mês seguinte ao do deferimento do pedido;
-
-II – as demais, até o dia 20 (vinte) de cada mês.
-
-Art. 2º - Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 25 DE JUNHO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16856-1999-18256.md>>>
----
-documento: "DECRETO Nº 16.856 DE 25 DE JUNHO DE 1999"
-tipo: decreto
-numero: 16856
-data: "1999-06-25"
-ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c762010e-4f8d-41fa-a749-b86bb72149d0
-atualizado_na_fonte: "2026-10-15 15:12:50"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.856 DE 25 DE JUNHO DE 1999
-
-_Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995._
-
-**Data:** 1999-06-25  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO No 16.856 DE 25 DE JUNHO DE 1999.
-
-Publicado no DOE de 7.7.99
-
-
-Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995.
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-
-D E C R E T A
-
-Art. 1º - Passa a vigorar com a seguinte redação o inciso XVI do art. 37 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-"XVI – até 31 de dezembro de 1999, nas saídas internas de camarão, de forma que a carga tributária resulte em 4% (quatro por cento)."
-
-Art. 2º - Passa a vigorar com a seguinte redação o inciso XII do art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-"XII – até 31 de dezembro de 1999, percentual equivalente de forma que a carga tributária resulte em 4% (quatro por cento) sobre o valor da saída interestadual de camarão, sendo o benefício previsto neste inciso utilizado opcionalmente, pelo contribuinte, em substituição ao sistema normal de tributação, vedado o aproveitamento de quaisquer outro créditos;"
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1999.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 25 DE JUNHO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-
-
-Publicado no DOE de 7.7.99
-
-
-Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995.
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-<!-- p. 2 -->
-D E C R E T A
-
-Art. 1º - Passa a vigorar com a seguinte redação o inciso XVI do art. 37 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-"XVI – até 31 de dezembro de 1999, nas saídas internas de camarão, de forma que a carga tributária resulte em 4% (quatro por cento)."
-
-Art. 2º - Passa a vigorar com a seguinte redação o inciso XII do art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-"XII – até 31 de dezembro de 1999, percentual equivalente de forma que a carga tributária resulte em 4% (quatro por cento) sobre o valor da saída interestadual de camarão, sendo o benefício previsto neste inciso utilizado opcionalmente, pelo contribuinte, em substituição ao sistema normal de tributação, vedado o aproveitamento de quaisquer outro créditos;"
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1999.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 25 DE JUNHO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16857-1999-18255.md>>>
----
-documento: "DECRETO Nº 16.857 DE 25 DE JUNHO DE 1999"
-tipo: decreto
-numero: 16857
-data: "1999-06-25"
-ementa: "Acrescenta o § 5.º ao art. 2.º do Processo Administrativo Tributário, aprovado pelo Decreto n.º 14.689, de 09 de agosto de 1.995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=77fedbd3-3adc-424e-b373-edadac463f02
-atualizado_na_fonte: "2026-10-15 16:28:55"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "vigente (sem revogação identificada)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.857 DE 25 DE JUNHO DE 1999
-
-_Acrescenta o § 5.º ao art. 2.º do Processo Administrativo Tributário, aprovado pelo Decreto n.º 14.689, de 09 de agosto de 1.995._
-
-**Data:** 1999-06-25  
-**Remete a:** RICMS  
-**Situação:** vigente (sem revogação identificada)
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO No 16.857 DE 25 DE JUNHO DE 1999.
-
-Publicado no DOE de 7.7.99
-
-
-Acrescenta o § 5.º ao art. 2.º do Processo Administrativo Tributário, aprovado pelo Decreto n.º 14.689, de 09 de agosto de 1.995.
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso da atribuição que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-D E C R E T A
-
-Art. 1º - Fica acrescentado, com a seguinte redação, o § 5.º ao art. 2.º do Processo Administrativo Tributário, aprovado pelo Decreto n.º 14.689, de 09 de agosto de 1.995:
-
-"Art. 2.º - ( ... )
-
-§ 5º- Salvo disposição em contrário, o funcionário não presidirá nem procederá a quaisquer diligências relativas ao auto de infração de sua autoria."
-
-Art. 2.º - Fica acrescentado, com a seguinte redação, o parágrafo único ao art. 91 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995.
-
-Parágrafo único - O Gerente da Receita Estadual, em casos excepcionais, poderá autorizar o parcelamento nos casos previstos neste artigo.
-
-Art. 3.º - Passa a vigorar com a seguinte redação o art. 891 do Regulamento do ICMS:
-
-Art. 891 – Sem prejuízo da lavratura do Auto de Infração, será feita retenção para verificação de mercadorias e documentos, quando:
-
-I - transportadas ou encontradas sem as vias dos documentos fiscais que devam acompanhálas;
-
-II - acobertadas por documentação fiscal falsa ou inidônea;.
-
-III – constatado o transporte de mercadorias sem o devido pagamento do imposto, nos termos deste Regulamento.
-
-<!-- p. 2 -->
-Parágrafo único – Serão também, retidos os documentos, papéis, livros fiscais, objetos ou bens que constituam provas de infração à legislação do imposto.
-
-Art. 4o - Este Decreto entra em vigor na data da sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 25 DE JUNHO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16858-1999-18254.md>>>
----
-documento: "DECRETO Nº 16.858 DE 25 DE JUNHO DE 1999"
-tipo: decreto
-numero: 16858
-data: "1999-06-25"
-ementa: "Acrescenta o inciso XVII ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d75f3688-27c3-4bbf-8c34-0d5269090367
-atualizado_na_fonte: "2026-10-15 16:29:03"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.858 DE 25 DE JUNHO DE 1999
-
-_Acrescenta o inciso XVII ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências._
-
-**Data:** 1999-06-25  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.858 DE 25 DE JUNHO DE 1999
-
-Publicado no DOE de 7.7.99
-
-
-Acrescenta o inciso XVII ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Fica acrescentado o inciso XVII ao art. 51 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a redação a seguir:
-
-"XVII – o percentual equivalente a 50% (cinqüenta por cento), do valor do imposto devido nas saídas promovidas por empresas preparadoras de refeições coletivas e aos estabelecimentos varejistas, usuários do Equipamento Emissor de Cupom Fiscal – ECF, enquadrados nas atividades de bares, restaurantes e similares.
-
-Art. 2º - Ficam acrescentados os § § 7º e 8º ao art. 51 do RICMS, com a seguinte redação:
-
-"§ 7º - Excetua-se do benefício previsto no inciso XVII, em qualquer hipótese, o fornecimento ou a saída de bebidas alcoólicas.
-
-§ 8º - O benefício previsto no inciso XVII, será utilizado opcionalmente pelo contribuinte, em substituição ao sistema normal de tributação, vedado o aproveitamento de quaisquer outros créditos, à exceção daqueles decorrentes do regime de antecipação parcial do ICMS, de que trata o art. 521 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995."
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de julho de 1999.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 25 DE JUNHO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16875-1999-18253.md>>>
----
-documento: "DECRETO Nº 16.875 DE 09 DE JULHO DE 1999"
-tipo: decreto
-numero: 16875
-data: "1999-07-09"
-ementa: "Restabelece os arts. 794 a 803 do RICMS, aprovado pelo Decreto nº 14.744/1995 - operações com combustíveis e lubrificantes, derivados ou não de petróleo."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=992fa8f8-2cd4-4f2a-a6e4-1353bea37e58
-atualizado_na_fonte: "2026-10-15 16:31:19"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "vigente (sem revogação identificada)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.875 DE 09 DE JULHO DE 1999
-
-_Restabelece os arts. 794 a 803 do RICMS, aprovado pelo Decreto nº 14.744/1995 - operações com combustíveis e lubrificantes, derivados ou não de petróleo._
-
-**Data:** 1999-07-09  
-**Remete a:** RICMS  
-**Situação:** vigente (sem revogação identificada)
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO No 16.875 DE 09 DE JULHO DE 1999.
-
-Publicado no DOE de 20.7.99
-
-Restabelece os arts. 794 a 803 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que dispõe sobre operações com combustíveis e lubrificantes, derivados ou não de petróleo, com a redação que indica e dá outras providências.
-
-A GOVERNADORA DO ESTADO DO MARANHÃO no uso da atribuição que lhe confere o art. 64, inciso III da Constituição do Estado e tendo em vista o Convênio ICMS 03/99 celebrado nos termos do art. 9º da Lei Complementar no 87, de 13 de setembro de l996 e nos arts. 102 e 199 do Código Tributário Nacional (Lei 5.172 de 25 de outubro de 1996),
-
-
-D E C R E T A
-
-Art. 1º - Ficam restabelecidos os artigos 794 a 803 do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-"CAPÍTULO XII
-
-DAS OPERAÇÕES COM COMBUSTÍVEIS E LUBRIFICANTES
-
-SEÇÃO I
-
-DA RESPONSABILIDADE
-
-Art. 794 – Fica atribuída à Petróleo Brasileiro S.A (PETROBRÁS), na qualidade de contribuinte substituto, nas saídas de combustíveis líquidos ou gasosos derivados ou não de petróleo destinadas a contribuintes sediados neste Estado, a responsabilidade pela retenção e recolhimento do ICMS devido nas operações com esses produtos, a partir da operação que estiver realizando, até a última, assegurado o seu recolhimento a esta unidade federada. (Convênio ICMS 03/99).
-
-§ 1º O disposto neste artigo também se aplica:
-
-I – às operações realizadas com:
-
-a) aditivos, anticorrosivos, desengraxantes, fluidos, graxas e óleos de têmpera, protetivos e para transformadores, ainda que não derivados de petróleo, todos para uso em aparelhos, equipamentos, máquinas, motores e veículos;
-
-b) aguarrás mineral, classificada no código 2710.00.92 da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH.
-
-II – em relação ao diferencial de alíquotas, a produto sujeito a tributação, quando destinado ao consumo e o adquirente for contribuinte do imposto;
-
-<!-- p. 2 -->
-III – na entrada de combustíveis e lubrificantes derivados de petróleo, quando não destinados à industrialização ou à comercialização pelo destinatário.
-
-§ 2º O disposto neste artigo não se aplica à operação de saída promovida por distribuidora de combustíveis, por Transportador Revendedor Retalhista - TRR - ou por importador que destine combustível derivado de petróleo a outra unidade da Federação, cujo imposto tenha sido retido anteriormente, observada a disciplina estabelecida na Seção III.
-
-Art. 795 - Na operação de importação de combustíveis derivados de petróleo, o imposto devido por substituição tributária será exigido do importador, por ocasião do desembaraço aduaneiro.
-
-§ 1 O disposto neste artigo não se aplica quando o importador for refinaria de petróleo ou suas bases.
-
-§ 2 Para efeitos de repasse do imposto em decorrência de posterior operação interestadual, o produto importado equipara-se ao adquirido de refinaria de petróleo ou de suas bases, no país, devendo o importador cumprir as obrigações atribuídas ao contribuinte substituído remetente da mercadoria a outra unidade federada.
-
-SEÇÃO II
-
-DO CÁLCULO DO IMPOSTO RETIDO E DO MOMENTO DO PAGAMENTO
-
-Art. 796 - A base de cálculo é o preço máximo ou único de venda a consumidor fixado por autoridade competente.
-
-§ 1º Na falta do preço a que se refere o "caput", a base de cálculo será o montante formado pelo preço estabelecido por autoridade competente para o remetente, ou, em caso de inexistência deste, o valor da operação acrescido dos valores correspondentes a frete, seguro, impostos e outros encargos transferíveis ou cobrados do destinatário, adicionados, ainda, em ambos os casos, do valor resultante da aplicação dos seguintes percentuais de margem de valor agregado:
-
-I - na hipótese em que o sujeito passivo por substituição seja a distribuidora de combustíveis, como tal definida e autorizada pelo órgão federal competente, em relação aos produtos indicados abaixo, os seguintes percentuais:
-
-Gasolina Automotiva e Álcool
-
-Anidro Álcool Hidratado Óleo Combustível
-
-Internas Interestaduais Internas Interestaduais Internas interestaduais
-
-Alíquota
-
-7%
-
-Alíquota
-
-12%
-
-
-20,00% 60,00% 25,00% 55,01% 46,68% 9,62% 36,42%
-
-II - na hipótese em que o sujeito passivo por substituição seja a refinaria de petróleo ou suas bases, em relação aos produtos indicados abaixo, os seguintes percentuais:
-
-Gasolina Automotiva Óleo Díesel Gás Liqüefeito de Óleo Combustível
-
-<!-- p. 3 -->
-Petróleo
-
-Internas Interestaduais Internas Interestaduais Internas Interestaduais Internas Interestaduais
-
-127,50% 203,33% 45,94% 75,83% 256,53% 317,23% 29,76% 56,34%
-
-III – em relação aos demais produtos não abrangidos pelos incisos I e II, contemplados com a não incidência prevista no art. 155, § 2º, X, "b", da Constituição Federal:
-
-a) 30% nas operações internas;
-
-b) 47,73% nas operações interestaduais quando a alíquota interna do produto na unidade federada de destino for 12%;
-
-c) 56,63% nas operações interestaduais quando a alíquota interna do produto na unidade federada de destino for 17%;
-
-d) 58,54% nas operações interestaduais quando a alíquota interna do produto na unidade federada de destino for 18%;
-
-e) 62,50% nas operações interestaduais quando a alíquota interna do produto na unidade federada de destino for 20%;
-
-f) 73,33% nas operações interestaduais quando a alíquota interna do produto na unidade federada de destino for 25%;
-
-g) 85,71% nas operações interestaduais quando a alíquota interna do produto na unidade federada de destino for 30%;
-
-IV - em relação aos demais produtos não referidos nos incisos anteriores, 30%.
-
-§ 2º Na hipótese do artigo anterior, na falta do preço a que se refere o "caput", a base de cálculo será o montante formado pelo valor da mercadoria constante no documento de importação, que não poderá ser inferior ao valor que serviu de base de cálculo para o Imposto de Importação, acrescido dos valores correspondentes a impostos, inclusive o ICMS devido pela importação, frete, seguro e outros encargos devidos pelo importador, adicionado, ainda, do valor resultante da aplicação dos percentuais de margem de valor agregado previstos para as operações internas indicados no inciso II do § 1º do art. 796.
-
-§ 3º Não se aplicam os percentuais de margem de valor agregado de que trata o inciso II do § 1º nas operações com gasolina automotiva:
-
-I - em razão do disposto no § 6º do art. 803.B, aos Estados de Goiás e do Paraná, hipótese em que serão aplicados os seguintes percentuais:
-
-a) Estado de Goiás, 77,99% e 137,34%, no tocante às operações internas e interestaduais, respectivamente;
-
-b) Estado do Paraná, 71,33% e 128,45%, no tocante às operações internas e interestaduais, respectivamente;
-
-<!-- p. 4 -->
-II - ao Estado do Rio Grande do Sul, enquanto não houver adição do álcool anidro à gasolina, hipótese em que serão aplicados os percentuais de 56% e de 108%, no tocante às operações internas e interestaduais, respectivamente;
-
-III - ao Estado de Santa Catarina, exclusivamente no que se refere à gasolina originária do Estado do Rio Grande do Sul, hipótese em que será aplicado o percentual de 140,93%.
-
-§ 4º Em substituição ao disposto nos parágrafos anteriores, poderá ser adotado como base de cálculo, o preço final a consumidor sugerido pelo fabricante ou importador, ou, ainda, o valor de referência estabelecido pela unidade federada de destino.
-
-§ 5º Na hipótese em que o sujeito passivo por substituição, em relação à gasolina automotiva, for a refinaria de petróleo ou suas bases e, em relação ao álcool anidro, a distribuidora de combustíveis, a base de cálculo, relativamente ao álcool anidro, será o valor correspondente ao da gasolina "A" no estabelecimento refinador, acrescido da parcela resultante da aplicação do percentual previsto no inciso I do § 3º.
-
-§ 6º Nas operações interestaduais com álcool anidro as margens de valor agregado estabelecidas neste artigo serão aplicadas sobre o valor da operação sem o ICMS.
-
-§ 7º Na impossibilidade de inclusão na base de cálculo da operação realizada pelo Transportador Revendedor Retalhista – TRR – do valor equivalente ao custo do transporte por este cobrado na venda do produto em operações internas, será atribuída ao TRR a responsabilidade pelo pagamento do imposto devido sobre esta parcela, caso em que o recolhimento deverá ser efetuado até o 10º (décimo) dia do mês subsequente ao da entrada da mercadoria no estabelecimento.
-
-Art. 797 - Nas operações interestaduais realizadas com mercadorias não destinadas à industrialização ou à comercialização, a base de cálculo é o valor da operação, como tal entendido o preço de aquisição pelo destinatário.
-
-Art. 798 - O valor do imposto retido é resultante da aplicação da alíquota interna prevista na legislação da unidade federada de destino sobre a base de cálculo a que se referem os arts. 796 e 797, deduzindo-se, quando houver, o valor do imposto devido na operação, inclusive na hipótese do art. 795.
-
-Art. 799 - O imposto retido deverá ser recolhido até o 10º (décimo) dia subseqüente ao término do período de apuração em que tiver ocorrido a retenção, a crédito da unidade federada, em cujo território se encontra estabelecido o destinatário das mercadorias.
-
-SEÇÃO III
-
-DAS OPERAÇÕES INTERESTADUAIS COM COMBUSTÍVEIS DERIVADOS DE
-
-PETRÓLEO EM QUE O IMPOSTO TENHA SIDO RETIDO ANTERIORMENTE
-
-Subseção I
-
-Das Disposições Preliminares
-
-Art. 800 - O disposto neste Capítulo aplica-se:
-
-<!-- p. 5 -->
-I - às operações interestaduais realizadas por distribuidora de combustíveis ou TRR com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente por refinaria de petróleo ou suas bases;
-
-II - à hipótese prevista no art. 795.
-
-Parágrafo único Às operações interestaduais não abrangidas por este artigo aplicar-se-ão as normas gerais pertinentes à substituição tributária.
-
-Art. 801 - A sistemática prevista nos arts. 802 a 803.A também será aplicada se o destinatário da mercadoria da unidade federada de destino realizar nova operação interestadual.
-
-Subseção II
-
-Das Operações Realizadas por Transportador Revendedor Retalhista - TRR
-
-Art. 802 - O Transportador Revendedor Retalhista – TRR – que promover operações interestaduais com combustíveis derivados de petróleo, cujo imposto tenha sido retido anteriormente, deverá:
-
-I - indicar no campo "INFORMAÇÕES COMPLEMENTARES" da Nota Fiscal a seguinte expressão: "ICMS retido a ser pago nos termos da Cláusula décima primeira do Convênio ICMS 03/99";
-
-II – registrar, com a utilização do programa aprovado pela COTEPE/ICMS, os dados relativos a cada operação;
-
-III – entregar as informações relativas a essas operações, na forma e prazos estabelecidos na Seção V:
-
-a) à unidade federada de origem da mercadoria;
-
-b) à unidade federada de destino da mercadoria;
-
-c) à distribuidora que forneceu, com o imposto retido, a mercadoria revendida.
-
-§ 1º A distribuidora, na condição de substituída, deverá registrar os dados recebidos do TRR, e entregá-los, juntamente com os dados de suas próprias operações interestaduais, quando houver, na forma e prazos estabelecidos na Seção V:
-
-I - à unidade federada de origem da mercadoria;
-
-II - à unidade federada de destino da mercadoria;
-
-III - à refinaria de petróleo ou suas bases, na condição de sujeito passivo por substituição.
-
-§ 2º Se o valor do imposto devido à unidade federada de destino for diverso do imposto cobrado na unidade federada de origem, serão adotados pela distribuidora os procedimentos previstos no § 2 do art. 803.A.
-
-Subseção III
-
-<!-- p. 6 -->
-Das Operações Realizadas por Distribuidora de Combustíveis ou Importador
-
-Art. 803 - A distribuidora de combustíveis ou o importador que promover operações interestaduais com combustíveis derivados de petróleo, cujo imposto tenha sido retido anteriormente, deverá:
-
-I - indicar no campo "INFORMAÇÕES COMPLEMENTARES" da Nota Fiscal a seguinte expressão: "ICMS retido a ser pago nos termos da Cláusula décima primeira do Convênio ICMS 03/99";
-
-II – registrar, com a utilização do programa aprovado pela COTEPE/ICMS, os dados relativos a cada operação;
-
-III – entregar as informações relativas a essas operações, na forma e prazos estabelecidos na Seção V:
-
-a) à unidade federada de origem da mercadoria;
-
-b) à unidade federada de destino da mercadoria;
-
-c) à refinaria de petróleo ou suas bases, na condição de sujeito passivo por substituição.
-
-Subseção IV
-
-Dos Procedimentos da Refinaria de Petróleo ou suas Bases
-
-Art. 803.A - A refinaria de petróleo ou suas bases, na condição de sujeito passivo por substituição, deverá:
-
-I – incluir no programa de computador aprovado pela COTEPE/ICMS os dados:
-
-a) recebidos da distribuidora ou do importador;
-
-b) relativos às próprias operações.
-
-II – determinar, por meio do referido programa, o valor do imposto a ser repassado às unidades federadas de destino das mercadorias;
-
-III – efetuar o repasse do valor do imposto às unidades federadas de destino das mercadorias até o 10 (décimo) dia do mês subseqüente àquele em que tenham ocorrido as operações interestaduais;
-
-IV – entregar as informações relativas a essas operações, na forma e prazos estabelecidos na Seção V:
-
-a. à unidade federada de origem da mercadoria;
-
-b) à unidade federada de destino da mercadoria.
-
-§ 1º A refinaria de petróleo ou suas bases deduzirão o valor do imposto cobrado em favor da unidade federada de origem da mercadoria, abrangendo os valores do imposto incidente sobre a operação própria e do imposto retido, do recolhimento seguinte que tiver que efetuar em favor dessa unidade federada.
-
-<!-- p. 7 -->
-§ 2º Se o valor do imposto devido à unidade federada de destino for diverso do imposto cobrado na unidade de origem, serão adotados os seguintes procedimentos:
-
-I - se superior, a refinaria de petróleo ou suas bases farão retenção complementar do contribuinte remetente para o necessário repasse, até o 15 (décimo quinto) dia do mês subseqüente àquele em que tenha ocorrido a operação, à unidade federada de destino;
-
-II - se inferior, a diferença será ressarcida ao contribuinte remetente, pela refinaria de petróleo ou suas bases, nos termos previstos na legislação da unidade federada de origem.
-
-§ 3 Se o valor do imposto devido à unidade federada de destino decorrente de operações interestaduais praticadas pelo importador, for diverso do imposto cobrado na unidade federada de origem, os procedimentos relacionados com o ressarcimento ou a retenção complementar, realizar-se-ão entre a refinaria de petróleo ou suas bases e o importador.
-
-§ 4º Caso a unidade federada adote período de apuração diferente do mensal ou prazo de recolhimento do imposto devido pela operação própria, anterior ao 10 (décimo) dia de cada mês, a dedução prevista no § 1º será efetuada nos termos definidos na legislação de cada unidade federada.
-
-§ 5 Se o imposto retido for insuficiente para comportar a dedução do valor a ser repassado à unidade federada de destino, poderá a referida dedução ser efetuada por outro estabelecimento do sujeito passivo por substituição indicado no "caput", ainda que localizado em outra unidade da Federação.
-
-SEÇÃO IV
-
-DAS OPERAÇÕES COM ÁLCOOL ETÍLICO ANIDRO COMBUSTÍVEL – AEAC
-
-
-Art. 803.B – Fica diferido o lançamento do imposto nas operações internas e interestaduais com álcool etílico anidro combustível para o momento em que ocorrer a saída da gasolina resultante da mistura com aquele produto promovida pela distribuidora de combustíveis.
-
-§ 1º O imposto diferido deverá ser pago de uma só vez englobadamente com o imposto retido por substituição tributária incidente sobre as operações subseqüentes com gasolina até o consumidor final.
-
-§ 2º Na remessa de AEAC de uma para outra unidade federada, o estabelecimento da distribuidora de combustíveis destinatária deverá:
-
-I – registrar, com a utilização do programa aprovado pela COTEPE/ICMS, os dados relativos a cada operação;
-
-II – entregar as informações relativas a essa operação, na forma e prazos estabelecidos na Seção V:
-
-a) à unidade federada de origem da mercadoria;
-
-<!-- p. 8 -->
-b) à unidade federada de destino da mercadoria;
-
-c) à refinaria de petróleo ou suas bases, na condição de sujeito passivo por substituição.
-
-§ 3º A refinaria de petróleo ou suas bases, no caso do parágrafo anterior, destinará à unidade federada remetente do AEAC a parcela correspondente ao imposto incidente sobre esse produto.
-
-§ 4º A distribuidora de combustíveis destinatária terá direito ao ressarcimento pelo sujeito passivo por substituição do valor referente ao imposto incidente na operação interestadual em que o AEAC tenha por origem os Estados indicados no parágrafo sexto, nos termos previstos na legislação da unidade federada de destino.
-
-§ 5º Para os efeitos deste artigo, inclusive no tocante ao repasse, aplicar-se-ão, no que couber, as disposições do art. 803.A.
-
-§ 6º O disposto neste artigo não se aplica às operações que tenham como remetente ou como destinatário estabelecimentos localizados nos Estados de Goiás e do Paraná.
-
-§ 7º O disposto neste artigo não prejudica a aplicação do contido no Convênio ICM 65/88, de 6 de dezembro de 1988.
-
-SEÇÃO V
-
-Das Informações relativas às operações interestaduais com combustíveis
-
-Art. 803.C - A entrega das informações relativas às operações interestaduais com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente, ou com álcool etílico anidro combustível será efetuada de acordo com as disposições desta seção em meio magnético ou por correio eletrônico "email".
-
-§ 1º Caberá à Comissão Técnica Permanente do ICMS – COTEPE/ICMS, aprovar programa de computador de uso obrigatório para registro, em meio magnético, dos dados relativos às operações referidas no "caput".
-
-§ 2º Ato da COTEPE/ICMS estabelecerá os procedimentos relativos à utilização do referido programa, bem como sobre a validação das informações geradas e sua reapresentação na hipótese de inconsistência dos dados.
-
-§ 3º O programa e as instruções para sua utilização, bem como suas eventuais alterações, ficarão disponíveis na Internet nos "sites" das unidades federadas, que também os fornecerão em mídia magnética por meio de suas Secretarias de Fazenda, Finanças ou Tributação, permitida a sua livre reprodução.
-
-§ 4º Sem prejuízo do disposto na cláusula décima quinta do Convênio ICMS 81/93, de 10 de setembro de 1993, as unidades federadas deverão comunicar formalmente à COTEPE/ICMS qualquer alteração, que implique modificação do cálculo do imposto a ser retido e repassado, não decorrente de convênio ou de fixação de preço por autoridade competente.
-
-<!-- p. 9 -->
-Art. 803.D - A partir da aprovação pela COTEPE/ICMS do programa referido no artigo anterior, sua utilização será obrigatória, devendo os sujeitos passivos por substituição e os contribuintes substituídos que realizarem operações interestaduais com combustíveis derivados de petróleo em que o imposto tenha sido retido anteriormente, ou com álcool etílico anidro combustível, proceder à entrega das informações relativas às mencionadas operações em disquete ou por correio eletrônico.
-
-Art. 803.E - Com base nos dados informados pelos contribuintes e nas tabelas anexas a este Regulamento, o programa de computador, aprovado pela COTEPE/ICMS, calculará o imposto cobrado em favor da unidade federada de origem da mercadoria e o imposto a ser repassado em favor da unidade federada de destino decorrente das operações interestaduais com combustíveis derivados de petróleo, bem como a parcela do imposto incidente sobre o álcool etílico anidro combustível destinada à unidade federada remetente desse produto.
-
-§ 1º Para o cálculo do imposto a ser repassado em favor da unidade federada de destino dos combustíveis derivados de petróleo, o programa:
-
-I – tratando-se de mercadorias destinadas à comercialização:
-
-a) adotará o preço máximo ou único de venda a consumidor fixado por autoridade competente;
-
-b) não existindo preço máximo ou único de venda a consumidor, adotará como preço de partida o valor unitário utilizado pelo sujeito passivo por substituição na operação original, dele excluído o respectivo valor do ICMS e adicionará a esse valor o valor resultante da aplicação do percentual da margem de valor agregado à operação interestadual, estabelecido para o sujeito passivo por substituição;
-
-c) multiplicará o preço obtido na forma das alíneas anteriores pela quantidade do produto;
-
-II – tratando-se de mercadorias não destinadas à industrialização ou à comercialização, adotará o valor unitário do produto em função do valor da operação, e o multiplicará pela quantidade de produto;
-
-III – aplicará, sobre o resultado obtido na forma dos incisos anteriores, a alíquota vigente para as operações internas com a mercadoria na unidade federada de destino.
-
-§ 2º Tratando-se de gasolina, da quantidade do produto referida nos incisos I e II do parágrafo anterior, será deduzida a parcela correspondente ao volume de álcool etílico anidro combustível a ela adicionado, se for o caso.
-
-§ 3º Existindo valor de referência estabelecido pela unidade federada de destino ou preço sugerido pelo fabricante ou importador adotado pela unidade federada como base de cálculo, o programa deverá adotá-lo, em substituição à forma de apuração prevista nas hipóteses do inciso I do § 1º.
-
-§ 4º Para o cálculo da parcela do imposto incidente sobre o álcool etílico anidro combustível destinado à unidade federada remetente desse produto o programa:
-
-I – tomará como preço de partida o valor fixado ou utilizado pela refinaria ou suas bases para a gasolina "A", o multiplicará pela quantidade de álcool adquirida, e
-
-<!-- p. 10 -->
-adicionará a esse valor o valor resultante da aplicação do percentual da margem de valor agregado prevista no Anexo 94 para a unidade federada de origem do produto;
-
-II – sobre o resultado obtido, aplicará a alíquota interestadual correspondente.
-
-Art. 803.F - As informações de que cuida esta seção, relativamente ao mês imediatamente anterior, serão entregues, em meio magnético ou por correio eletrônico, nos seguintes prazos:
-
-I – até o 2º (segundo) dia útil de cada mês, pelo TRR;
-
-II – até o dia 5 (cinco) de cada mês, pela distribuidora de combustíveis e pelo
-
-importador;
-
-III – até o dia 15 (quinze) de cada mês, pelo sujeito passivo por substituição.
-
-Parágrafo único As informações somente serão consideradas entregues após a validação dos arquivos magnéticos que as contêm feita pelo destinatário das mesmas através do programa.
-
-Art. 803.G - Os bancos de dados utilizados para a geração das informações na forma prevista nesta Seção deverão ser mantidos pelo contribuinte, em meio magnético, pelo prazo de 05 (cinco) anos.
-
-Art. 803.H - A COTEPE/ICMS divulgará no Diário Oficial da União os locais e os endereços eletrônicos das unidades federadas para entrega das informações previstas nesta Seção.
-
-§ 1º Para os fins previstos no "caput" as unidades federadas deverão comunicar a COTEPE/ICMS as alterações que ocorrerem em seus endereços.
-
-§ 2º A entrega das informações entre contribuintes será feita no local do estabelecimento destinatário das mesmas, ou em seu endereço eletrônico.
-
-SEÇÃO VI
-
-DAS DEMAIS DISPOSIÇÕES
-
-Art. 803.I - O disposto nos arts. 802 a 803.B não exclui a responsabilidade da distribuidora de combustíveis, do importador ou do TRR pela omissão ou pela apresentação de informações falsas ou inexatas, sendo exigido diretamente do estabelecimento responsável pela omissão ou pelas informações falsas ou inexatas o imposto devido nas operações interestaduais e respectivos acréscimos.
-
-Art. 803.J - A distribuidora de combustíveis, o importador ou TRR responderá pelo recolhimento dos acréscimos legais previstos na legislação da unidade federada de destino das mercadorias, na hipótese de entrega das informações previstas na Seção V fora do prazo estabelecido no art. 803.F.
-
-Art. 803.L - Para efeitos deste Capítulo considerar-se-ão distribuidora de combustíveis e Transportador Revendedor Retalhista – TRR – como os definidos e autorizados por órgão federal competente.
-
-<!-- p. 11 -->
-Art. 803.M - A Gerência da Receita Estadual atribuirá ao estabelecimento responsável pela retenção, número de inscrição e código de atividade econômica no cadastro de contribuintes do ICMS - CAD/ICMS.
-
-§ 1º - Para efeito deste artigo, o contribuinte remeterá à Subgerência de Arrecadação:
-
-I - cópia do instrumento constitutivo da empresa;
-
-II - cópia do documento de inscrição no Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda e outros que julgar necessários.
-
-§ 2º - O número de inscrição será aposto em todos os documentos fiscais dirigidos a este Estado.
-
-§ 3º Na falta da inscrição prevista no "caput", a distribuidora de combustíveis, o importador ou o TRR deverá efetuar, por meio da Guia Nacional de Recolhimento de Tributos Estaduais – GNRE, o recolhimento do imposto devido nas operações subsequentes, em favor da unidade federada de destino, por ocasião da saída do produto de seu estabelecimento, devendo a via específica da GNRE acompanhar o seu transporte.
-
-§ 4º Na hipótese do parágrafo anterior, o remetente da mercadoria solicitará à unidade federada de sua localização, nos termos previstos em sua legislação, a restituição do imposto que tiver sido pago em decorrência da aquisição do produto, bem como do imposto retido antecipadamente por substituição tributária, em seu favor.
-
-§ 5º Os contribuintes inscritos nos termos deste artigo que não tenham realizado operações interestaduais deverão entregar, no prazo previsto no art. 803.F, correspondência às unidades federadas nas quais mantenham inscrição, informando que deixaram de entregar as informações relativas a operações interestaduais com combustíveis, por não terem, naquele período, realizado tais operações.
-
-SEÇÃO VII
-
-DAS DISPOSIÇÕES TRANSITÓRIAS
-
-Art. 803.N - Enquanto o programa referido no § 1º do art. 803.C não for aprovado pela COTEPE/ICMS, as informações referidas na Seção V serão entregues por meio dos relatórios e demonstrativos aprovados pelo Convênio ICMS 105/92, de 25 de setembro de 1992, obedecidos os prazos e forma fixados no referido Convênio.
-
-§ 1º Caberá à distribuidora de combustíveis ou ao TRR observar a disciplina estabelecida nas cláusulas nona a décima primeira do Convênio ICMS 105/92, de 25 de setembro de 1992.
-
-§ 2º O importador observará a disciplina estabelecida para as distribuidoras de combustíveis.
-
-SEÇÃO VIII
-
-DAS DISPOSIÇÕES FINAIS
-
-<!-- p. 12 -->
-Art. 803.O – O disposto neste Capítulo não se aplica às empresas industriais enquadradas no Sistema de Apoio à Indústria e ao Comércio Exterior do Estado do Maranhão – SINCOEX, instituído pala Lei nº 6.429, de 20 de setembro de 1995".
-
-Art. 2º - Este Decreto entra em vigor na data de sua publicação, ficando revogados os Decretos nºs 15.145, de 19 de julho de 1996 e o Decreto nº 15.825, de 29 de setembro de 1997, ressalvado o disposto no art. 803.N, produzindo efeitos a partir de 1º de julho de 1999.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 09 DE JULHO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CONVÊNIO ICMS 03/99
-
-ANEXO 94 (art. 796, § 1º, I – RICMS)
-
-OPERAÇÕES REALIZADAS POR DISTRIBUIDORAS
-
-UF Gasolina Automotiva e Álcool
-
-Anidro
-
-Álcool Hidratado
-
-Internas Interestaduais Internas Interestaduais
-
-Alíquota 7% Alíquota 12%
-
-AC 16,25% 55,00% 20,00% 48,81% 40,81%
-
-<!-- p. 13 -->
-AL 31,63% 75,51% 33,00% 64,94% 56,07%
-
-AP 16,25% 55,00% 20,00% 48,81% 40,81%
-
-AM 20,00% 60,00% 25,00% 55,01% 46,68%
-
-BA 20,00% 60,00% 31,69% 63,30% 54,53%
-
-CE 27,59% 70,12% 33,28% 65,28% 56,40%
-
-DF 28,42% 71,23% 35,67% 68,24% 59,20%
-
-ES 22,39% 63,19% 32,45% 64,24% 55,42%
-
-GO 28,07% 70,76% 28,36% 59,18% 50,62%
-
-MA 20,00% 60,00% 25,00% 55,01% 46,68%
-
-MT 28,07% 70,76% 28,36% 59,18% 50,62%
-
-MS 28,07% 70,76% 36,05% 68,72% 59,65%
-
-MG 20,00% 60,00% 33,70% 65,80% 56,89%
-
-PA 24,69% 66,25% 29,16% 60,17% 51,56%
-
-PB 34,07% 78,76% 39,24% 72,67% 63,39%
-
-PR 24,19% 63,07% 40,34% 74,04% 64,68%
-
-PE 23,30% 64,39% 33,43% 65,47% 56,55%
-
-PI 20,00% 60,00% 25,00% 55,01% 46,68%
-
-RJ 22,30% 63,07% 28,30% 59,09% 50,54%
-
-RN 34,51% 79,35% 40,90% 74,73% 65,33%
-
-RS 20,00% 60,00% 29,00% 57,96% 51,35%
-
-RO 17,00% 56,00% 23,00% 52,53% 44,33%
-
-RR 16,25% 55,00% 20,00% 48,81% 40,81%
-
-SC 20,00% 60,00% 44,18% 78,79% 69,19%
-
-SP 34,68% 79,57% 46,81% 82,05% 72,27%
-
-SE 17,00% 56,00% 27,92% 58,63% 50,10%
-
-TO 20,00% 60,00% 33,79% 65,91% 57,00%
-
-CONVÊNIO ICMS 03/99
-
-ANEXO 95 (art. 796, § 1º, II – RICMS)
-
-OPERAÇÕES REALIZADAS POR REFINARIA DE PETRÓLEO OU SUAS BASES
-
-UF Gasolina Automotiva Óleo Díesel Gás Liqüefeito de Pet
-
-Internas Interestaduais Internas Interestaduais Internas Interest
-
-AC 131,03% 208,04% 54,65% 86,32% 362,62% 441,3
-
-AL 141,86% 222,47% 50,47% 81,28% 248,54% 290,4
-
-<!-- p. 14 -->
-AM 136,92% 215,89% 45,59% 75,41% 253,62% 313,8
-
-AP 106,69% 150,06% 55,00% 86,74% 353,72% 408,2
-
-BA 129,25% 205,67% 55,69% 87,58% 251,59% 293,8
-
-CE 111,95% 182,60% 53,95% 85,48% 244,05% 302,6
-
-DF 135,00% 213,33% 63,59% 85,90% 282,88% 328,9
-
-ES 115,43% 187,25% 46,64% 76,67% 259,41% 302,6
-
-GO 134,20% 212,26% 78,52% 100,98% 315,77% 366,9
-
-MA 127,50% 203,33% 45,94% 75,83% 256,53% 317,2
-
-MG 121,32% 195,09% 53,48% 87,16% 250,72% 292,8
-
-MS 142,79% 223,72% 62,98% 91,78% 310,26% 359,5
-
-MT 153,12% 237,49% 67,54% 101,85% 329,34% 402,4
-
-PA 117,99% 173,76% 57,78% 90,10% 272,88% 317,7
-
-PB 135,45% 213,93% 46,29% 76,25% 262,77% 324,5
-
-PE 127,03% 202,71% 52,91% 84,22% 237,24% 277,8
-
-PI 144,55% 226,07% 57,09% 89,26% 287,74% 353,7
-
-PR 125,43% 200,58% 50,30% 70,79% 238,98% 279,7
-
-RJ 119,43% 194,30% 53,25% 74,15% 224,64% 263,6
-
-RN 133,08% 210,77,% 43,16% 72,47% 243,64% 302,1
-
-RO 131,92% 209,23% 52,91,% 84,22% 321,56% 372,2
-
-RR 118,36% 164,12% 64,40% 98,07% 287,74% 353,7
-
-RS 103,95% 175,60% 52,14% 72,89% 241,74% 286,0
-
-SC 133,88% 222,59% 55,83% 77,09% 252,46% 294,8
-
-SE 115,43% 187,25% 51,17% 82,12% 238,54% 284,8
-
-SP 128,08% 204,11% 61,00% 82,96% 230,29% 270,0
-
-TO 145,00% 226,67% 79,47% 103,94% 323,29% 374,2
-
-
-
-
-CONVÊNIO ICMS 03/99
-
-ANEXO 94
-
-PERCENTUAIS DE AGREGAÇÃO FIXADA EM FUNÇÃO DA UNIDADE FEDERADA DE
-
-ORIGEM DO ÁLCOOL ANIDRO
-
-Unidades Federadas Alíquota 7% Alíquota 12%
-
-AC 72,77% 82,59%
-
-<!-- p. 15 -->
-AL 72,77% 82,59%
-
-AM (*) (*)
-
-AP 72,77% 82,59%
-
-BA 72,77% 82,59%
-
-CE 72,77% 82,59%
-
-DF 37,97% 45,81%
-
-ES 49,53 58,03%
-
-GO 37,97% 45,81%
-
-MA 72,77% 82,59%
-
-MG 47,34% 55,71%
-
-MS 49,44% 57,93%
-
-MT 58,37% 67,37%
-
-PA 72,77% 82,59%
-
-PB 72,77% 82,59%
-
-PE 57,13% 60,37%
-
-PI 72,77% 82,59%
-
-PR 37,97% 45,81%
-
-RJ 49,53% 58,03%
-
-RN 72,77% 82,59%
-
-RO 72,77% 82,59%
-
-RR 72,77% 82,59%
-
-RS 37,97% 45,81%
-
-SC 32,23% 39,74%
-
-SE 72,77% 82,59%
-
-SP 37,97% 45,81%
-
-TO 72,77% 82,59%
-
-(*) Relativamente ao Estado do Amazonas, exclusivamente para efeito do crédito presumido previsto no art. 49 inciso I, do Decreto - Lei nº 288, de 28 de fevereiro de 1967, serão observados os percentuais de 46,51%, em relação à alíquota de 7%, e de 56,40%, em relação à alíquota de 12%.
-<<<DOC normas/decreto/decreto-16893-1999-18252.md>>>
----
-documento: "DECRETO Nº 16.893 DE 21 DE JULHO DE 1999"
-tipo: decreto
-numero: 16893
-data: "1999-07-21"
-ementa: "Autoriza a redução da base de cálculo do ICMS nas operações com gado e dá outras providências."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=65c77103-1acf-4f00-8bda-5e3f9977bc40
-atualizado_na_fonte: "2026-10-15 16:31:40"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "REVOGADA"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.893 DE 21 DE JULHO DE 1999
-
-_Autoriza a redução da base de cálculo do ICMS nas operações com gado e dá outras providências._
-
-**Data:** 1999-07-21  
-**Remete a:** RICMS  
-**Situação:** REVOGADA
-
-> REVOGADA pela decreto 16925/1999 (normas/decreto/decreto-16925-1999-18251.md): "5º - Fica revogado o Decreto nº 16.893, de 27 de julho de 1999."
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.893 DE 21 DE JULHO DE 1999
-
-
-Autoriza a redução da base de cálculo do ICMS nas operações com gado e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-DECRETA
-
-Art. 1º - Fica facultado ao estabelecimento regularmente cadastrado, em substituição ao sistema normal de tributação, reduzir a base de cálculo do ICMS de forma que a carga tributária efetiva resulte em 3% (três por cento), nas operações internas com gado bovino, bufalino e suíno, destinados a estabelecimentos abatedouros ou frigoríficos.
-
-Parágrafo único - O disposto no caput somente se aplica às operações destinadas a estabelecimentos abatedouros ou frigoríficos, devidamente credenciados pelo Subgerente de Fiscalização da Gerência da Receita Estadual.
-
-Art. 2º - O Imposto previsto neste Decreto será recolhido em documento de arrecadação específico, no momento da saída dos animais com destino aos frigoríficos e abatedouros.
-
-Art. 3º - A base de cálculo nas operações previstas no caput será o valor do gado vivo, fixado pela Gerência da Receita Estadual.
-
-Art. 4.º - Fica dispensado qualquer outro recolhimento do imposto nas operações internas, com os produtos mencionados no inciso I do art. 5.º, praticadas pelos estabelecimentos de que trata o art. 1º deste Decreto.
-
-Parágrafo único – É vedado aos estabelecimentos de que trata o art. 1.º, o destaque do ICMS, exceto nas operações de que trata o art. 5.º.
-
-Art. 5º - Fica concedido crédito presumido, de forma que a carga tributária resulte:
-
-I - nula, nas saídas interestaduais de produtos resultantes do abate de gado bovino, bubalino e suíno, realizadas pelos estabelecimentos referidos no art. 1.º deste Decreto.
-
-II – em 7% (sete por cento), nas saídas interestaduais de gado adulto;
-
-III – em 12% (doze por cento), nas saídas interestaduais de bezerro e novilho.
-
-Art. 6º - Para a fruição do benefício previsto neste Decreto, o contribuinte:
-
-I – não aproveitará quaisquer outros créditos;
-
-<!-- p. 2 -->
-II – frigorífico ou matadouro, apresentará, até o 10.º (décimo) dia de cada mês, relatório sobre as mercadorias adquiridas e vendidas no mês anterior, em meio magnético (disquete), no formato estabelecido pela Gerência da Receita Estadual.
-
-Art. 7.º - Nas entradas neste Estado, de gado e aves, bem como dos produtos resultantes do abate, o imposto será pago nos termos definidos em ato da Gerência da Receita Estadual.
-
-Art. 8º - No período de vigência deste Decreto, fica suspensa a eficácia das normas relativas ao regime tributário concernente às operações com gado bovino, bubalino e seus derivados, previsto no RICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995.
-
-Parágrafo único – O disposto neste artigo não se aplica às regras relativas às obrigações acessórias, que serão observadas, no que couber.
-
-Art. 9º - Fica revogado o inciso VII do art. 51 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995.
-
-Art. 10 - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 30 de setembro de 1999.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 21 DE JULHO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-
-
-Autoriza a redução da base de cálculo do ICMS nas operações com gado e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-DECRETA
-
-Art. 1º - Fica facultado ao estabelecimento regularmente cadastrado, em substituição ao sistema normal de tributação, reduzir a base de cálculo do ICMS de forma que a carga tributária efetiva resulte em 3% (três por cento), nas operações internas com gado bovino, bufalino e suíno, destinados a estabelecimentos abatedouros ou frigoríficos.
-
-Parágrafo único - O disposto no caput somente se aplica às operações destinadas a estabelecimentos abatedouros ou frigoríficos, devidamente credenciados pelo Subgerente de Fiscalização da Gerência da Receita Estadual.
-
-Art. 2º - O Imposto previsto neste Decreto será recolhido em documento de arrecadação específico, no momento da saída dos animais com destino aos frigoríficos e abatedouros.
-
-Art. 3º - A base de cálculo nas operações previstas no caput será o valor do gado vivo, fixado pela Gerência da Receita Estadual.
-
-<!-- p. 3 -->
-Art. 4.º - Fica dispensado qualquer outro recolhimento do imposto nas operações internas, com os produtos mencionados no inciso I do art. 5.º, praticadas pelos estabelecimentos de que trata o art. 1º deste Decreto.
-
-Parágrafo único – É vedado aos estabelecimentos de que trata o art. 1.º, o destaque do ICMS, exceto nas operações de que trata o art. 5.º.
-
-Art. 5º - Fica concedido crédito presumido, de forma que a carga tributária resulte:
-
-I - nula, nas saídas interestaduais de produtos resultantes do abate de gado bovino, bubalino e suíno, realizadas pelos estabelecimentos referidos no art. 1.º deste Decreto.
-
-II – em 7% (sete por cento), nas saídas interestaduais de gado adulto;
-
-III – em 12% (doze por cento), nas saídas interestaduais de bezerro e novilho.
-
-Art. 6º - Para a fruição do benefício previsto neste Decreto, o contribuinte:
-
-I – não aproveitará quaisquer outros créditos;
-
-II – frigorífico ou matadouro, apresentará, até o 10.º (décimo) dia de cada mês, relatório sobre as mercadorias adquiridas e vendidas no mês anterior, em meio magnético (disquete), no formato estabelecido pela Gerência da Receita Estadual.
-
-Art. 7.º - Nas entradas neste Estado, de gado e aves, bem como dos produtos resultantes do abate, o imposto será pago nos termos definidos em ato da Gerência da Receita Estadual.
-
-Art. 8º - No período de vigência deste Decreto, fica suspensa a eficácia das normas relativas ao regime tributário concernente às operações com gado bovino, bubalino e seus derivados, previsto no RICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995.
-
-Parágrafo único – O disposto neste artigo não se aplica às regras relativas às obrigações acessórias, que serão observadas, no que couber.
-
-Art. 9º - Fica revogado o inciso VII do art. 51 do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995.
-
-Art. 10 - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos até 30 de setembro de 1999.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 21 DE JULHO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16925-1999-18251.md>>>
----
-documento: "DECRETO Nº 16.925 DE 26 DE AGOSTO DE 1999"
-tipo: decreto
-numero: 16925
-data: "1999-08-26"
-ementa: "Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=233425f2-297d-4abe-8fd5-ad70ae6c1644
-atualizado_na_fonte: "2026-10-15 16:31:53"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.925 DE 26 DE AGOSTO DE 1999
-
-_Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995._
-
-**Data:** 1999-08-26  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO Nº 16.925 DE 26 DE AGOSTO DE 1999
-
-Publicado no DOE de 6.9.99
-
-
-Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-DECRETA
-
-Art. 1º - Passam a vigorar com a redação a seguir, os dispositivos abaixo enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o Parágrafo único do art. 548:
-
-"Parágrafo único – A base de cálculo a que se refere o "caput", fica reduzida de forma que a carga tributária resulte em 3% (três por cento)."
-
-II –o art. 553:
-
-"Art. 553 – Fica concedido crédito presumido, nas saídas interestaduais, de forma que a carga tributária resulte:
-
-I – em 7% (sete por cento), nas saídas de gado adulto bovino ou bufalino;
-
-II – em 12% (doze por cento), nas saídas de bezerro e novilho."
-
-III – O inciso XIV do art. 37:
-
-"XIV – em 41,67 (quarenta e um inteiros e sessenta e sete centésimos por cento), nas saídas internas de gado suíno, bem como dos produtos comestíveis de sua matança em estado natural, resfriado ou congelado;"
-
-Art. 2º – O Capítulo II do Título VI do RICMS, denominado "Do Romaneio de Transporte de Gado", passa a denominar-se "Seção VI Do Romaneio de Transporte de Gado."
-
-Art. 3º – O Capítulo IV do Título VI do RICMS, denominado "Do Diferimento", passa a denominar-se "Seção VII Do Diferimento."
-
-Art. 4º - Fica acrescentado o art. 553-A ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 com a seguinte redação:
-
-<!-- p. 2 -->
-"Art. 553-A – O frigorífico ou matadouro apresentará até o 10º (décimo) dia de cada mês, relatório sobre as mercadorias adquiridas e vendidas no mês anterior, em meio magnético (disquete), no formato estabelecido pela Gerência da Receita Estadual."
-
-Art. 5º - Fica revogado o Decreto nº 16.893, de 27 de julho de 1999.
-
-Art. 6º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 26 DE AGOSTO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-
-Publicado no DOE de 6.9.99
-
-
-Altera dispositivos do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1.995.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-DECRETA
-
-Art. 1º - Passam a vigorar com a redação a seguir, os dispositivos abaixo enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o Parágrafo único do art. 548:
-
-"Parágrafo único – A base de cálculo a que se refere o "caput", fica reduzida de forma que a carga tributária resulte em 3% (três por cento)."
-
-II –o art. 553:
-
-"Art. 553 – Fica concedido crédito presumido, nas saídas interestaduais, de forma que a carga tributária resulte:
-
-I – em 7% (sete por cento), nas saídas de gado adulto bovino ou bufalino;
-
-II – em 12% (doze por cento), nas saídas de bezerro e novilho."
-
-III – O inciso XIV do art. 37:
-
-"XIV – em 41,67 (quarenta e um inteiros e sessenta e sete centésimos por cento), nas saídas internas de gado suíno, bem como dos produtos comestíveis de sua matança em estado natural, resfriado ou congelado;"
-
-<!-- p. 3 -->
-Art. 2º – O Capítulo II do Título VI do RICMS, denominado "Do Romaneio de Transporte de Gado", passa a denominar-se "Seção VI Do Romaneio de Transporte de Gado."
-
-Art. 3º – O Capítulo IV do Título VI do RICMS, denominado "Do Diferimento", passa a denominar-se "Seção VII Do Diferimento."
-
-Art. 4º - Fica acrescentado o art. 553-A ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995 com a seguinte redação:
-
-"Art. 553-A – O frigorífico ou matadouro apresentará até o 10º (décimo) dia de cada mês, relatório sobre as mercadorias adquiridas e vendidas no mês anterior, em meio magnético (disquete), no formato estabelecido pela Gerência da Receita Estadual."
-
-Art. 5º - Fica revogado o Decreto nº 16.893, de 27 de julho de 1999.
-
-Art. 6º - Este Decreto entra em vigor na data de sua publicação.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 26 DE AGOSTO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16943-1999-18249.md>>>
----
-documento: "DECRETO Nº 16.943 DE 16 DE SETEMBRO DE 1999"
-tipo: decreto
-numero: 16943
-data: "1999-09-16"
-ementa: "Dá nova redação ao capítulo XVIII do Título VI, do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6e1d9b50-5713-49e0-8c60-2dcb841110e8
-atualizado_na_fonte: "2026-10-15 16:32:37"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.943 DE 16 DE SETEMBRO DE 1999
-
-_Dá nova redação ao capítulo XVIII do Título VI, do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995._
-
-**Data:** 1999-09-16  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO Nº 16.943 DE 16 DE SETEMBRO DE 1999
-
-Publicado no DOE de 22.9.99
-
-
-Dá nova redação ao capítulo XVIII do Título VI, do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995.
-
-
-
-A GOVERNADORA DO ESTADO DO MARAHÃO, no uso de suas atribuições que lhe confere o art. 64, inciso III da Constituição do Estado do Maranhão, e tendo em vista o Convênio ICMS n.º 29/99, celebrado nos termos do art. 199 do Código Tributário Nacional (Lei n.º 5.172, de 25 de outubro de 1966),
-
-
-D E C R E T A
-
-
-Art. 1º - O capítulo XVIII do Título VI do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995, Do Serviço de Transporte de Cargas a Granel de Combustível, passa a denominar-se "Capítulo XVIII – Seção I – Do serviço do Transporte de Cargas a Granel de Combustível."
-
-Art. 2º - Fica acrescentada a Seção II ao Capítulo XVIII do Título VI do RICMS, com a redação a seguir: "Seção II - Do Regime Especial concedido à PETROBRÁS, para o transporte marítimo de petróleo e seus derivados líquidos a granel.
-
-Art. 646-A - Fica concedido à empresa PETRÓLEO BRASILEIRO S.A., doravante denominada simplesmente PETROBRÁS, regime especial, nos termos desta Seção, para cumprimento de obrigações tributárias relacionadas com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, no tocante às operações com petróleo e seus derivados líquidos a granel, com o transporte efetuado por navegação de cabotagem.
-
-Parágrafo único Nas hipóteses não contempladas nesta Seção, observar-se-ão as normas previstas na legislação pertinente.
-
-Art. 646-B - A PETROBRÁS, em relação ao carregamento efetuado e em função dos destinatários do produto, emitirá a Nota Fiscal correspondente.
-
-§ 1º - O transporte do produto até o porto de destino e o seu descarregamento poderão ser documentados por uma cópia da Nota Fiscal prevista no "caput" emitida por "fac-simile".
-
-<!-- p. 2 -->
-§ 2º - As vias originais da Nota Fiscal deverão estar no porto de destino até 24 (vinte e quatro) horas após o descarregamento do produto.
-
-Art. 646-C - Para efeito de transporte do produto, é admitida a emissão da Nota Fiscal prevista no artigo anterior com uma variação em relação à quantidade carregada de até 5% (cinco por cento).
-
-Parágrafo único - Apurada a quantidade exata do produto carregado e transportado:
-
-I - em relação à quantidade faturada a menor, será emitida Nota Fiscal complementar, pela PETROBRÁS;
-
-II – em relação à quantidade faturada a maior, será emitida Nota Fiscal de devolução simbólica, pelo destinatário.
-
-Art. 646-D - A apuração a que alude o parágrafo único do artigo anterior terá por base a medição volumétrica dos tanques do estabelecimento que der início à movimentação do produto, conhecida como MEDIÇÃO TERRA ORIGEM.
-
-Art. 646-E - A emissão das Notas Fiscais nos termos desta Seção não impedirá que a escrituração ocorra dentro do prazo previsto na legislação pertinente.
-
-Art. 646-F - Os documentos emitidos com base neste regime especial conterão impressa a expressão: "REGIME ESPECIAL - CONVÊNIO ICMS 29/99".
-
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 22 DE SETEMBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-Publicado no DOE de 22.9.99
-
-
-Dá nova redação ao capítulo XVIII do Título VI, do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995.
-
-
-
-A GOVERNADORA DO ESTADO DO MARAHÃO, no uso de suas atribuições que lhe confere o art. 64, inciso III da Constituição do Estado do Maranhão, e tendo em vista o Convênio ICMS n.º 29/99, celebrado nos termos do art. 199 do Código Tributário Nacional (Lei n.º 5.172, de 25 de outubro de 1966),
-
-<!-- p. 3 -->
-D E C R E T A
-
-
-Art. 1º - O capítulo XVIII do Título VI do Regulamento do ICMS, aprovado pelo Decreto n.º 14.744, de 29 de setembro de 1995, Do Serviço de Transporte de Cargas a Granel de Combustível, passa a denominar-se "Capítulo XVIII – Seção I – Do serviço do Transporte de Cargas a Granel de Combustível."
-
-Art. 2º - Fica acrescentada a Seção II ao Capítulo XVIII do Título VI do RICMS, com a redação a seguir: "Seção II - Do Regime Especial concedido à PETROBRÁS, para o transporte marítimo de petróleo e seus derivados líquidos a granel.
-
-Art. 646-A - Fica concedido à empresa PETRÓLEO BRASILEIRO S.A., doravante denominada simplesmente PETROBRÁS, regime especial, nos termos desta Seção, para cumprimento de obrigações tributárias relacionadas com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, no tocante às operações com petróleo e seus derivados líquidos a granel, com o transporte efetuado por navegação de cabotagem.
-
-Parágrafo único Nas hipóteses não contempladas nesta Seção, observar-se-ão as normas previstas na legislação pertinente.
-
-Art. 646-B - A PETROBRÁS, em relação ao carregamento efetuado e em função dos destinatários do produto, emitirá a Nota Fiscal correspondente.
-
-§ 1º - O transporte do produto até o porto de destino e o seu descarregamento poderão ser documentados por uma cópia da Nota Fiscal prevista no "caput" emitida por "fac-simile".
-
-§ 2º - As vias originais da Nota Fiscal deverão estar no porto de destino até 24 (vinte e quatro) horas após o descarregamento do produto.
-
-Art. 646-C - Para efeito de transporte do produto, é admitida a emissão da Nota Fiscal prevista no artigo anterior com uma variação em relação à quantidade carregada de até 5% (cinco por cento).
-
-Parágrafo único - Apurada a quantidade exata do produto carregado e transportado:
-
-I - em relação à quantidade faturada a menor, será emitida Nota Fiscal complementar, pela PETROBRÁS;
-
-II – em relação à quantidade faturada a maior, será emitida Nota Fiscal de devolução simbólica, pelo destinatário.
-
-Art. 646-D - A apuração a que alude o parágrafo único do artigo anterior terá por base a medição volumétrica dos tanques do estabelecimento que der início à movimentação do produto, conhecida como MEDIÇÃO TERRA ORIGEM.
-
-Art. 646-E - A emissão das Notas Fiscais nos termos desta Seção não impedirá que a escrituração ocorra dentro do prazo previsto na legislação pertinente.
-
-<!-- p. 4 -->
-Art. 646-F - Os documentos emitidos com base neste regime especial conterão impressa a expressão: "REGIME ESPECIAL - CONVÊNIO ICMS 29/99".
-
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 22 DE SETEMBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16978-1999-18248.md>>>
----
-documento: "DECRETO Nº 16.978 DE 18 DE OUTUBRO DE 1999"
-tipo: decreto
-numero: 16978
-data: "1999-10-18"
-ementa: "Da nova redação aos dispositivos que indica, do Decreto nº 16.501/1998, que dispõe sobre a transferência de saldo credor."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3b1b5842-feb4-4ac4-ad71-022f21a44896
-atualizado_na_fonte: "2026-10-15 16:33:08"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "vigente (sem revogação identificada)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.978 DE 18 DE OUTUBRO DE 1999
-
-_Da nova redação aos dispositivos que indica, do Decreto nº 16.501/1998, que dispõe sobre a transferência de saldo credor._
-
-**Data:** 1999-10-18  
-**Remete a:** RICMS  
-**Situação:** vigente (sem revogação identificada)
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO N.º 16.978 DE 18 DE OUTUBRO DE 1999.
-
-
-Da nova redação aos dispositivos que indica, do Decreto nº 16.501, de 19 de outubro de 1998, que dispõe sobre a transferência de saldo credor e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o disposto nos §§ 1.º e 2.º do art. 25 da Lei Complementar n.º 87, de 13 de setembro de 1996 e o disposto no Decreto nº 16.501, de 19 de outubro de 1998,
-
-DECRETA
-
-Art. 1.º - Passam a vigorar com a redação a seguir, os dispositivos abaixo enumerados do Decreto nº 16.501, de 19 de outubro de 1998;
-
-I – a alínea "c" do inciso I do art. 2º:
-
-"c) pagamento do ICMS incidente na entrada de mercadoria oriunda de outra unidade da Federação destinada ao ativo permanente;"
-
-II – os incisos IV e V do art. 2º:
-
-"IV – para pagamento do ICMS incidente na importação do exterior de bens para o ativo permanente do próprio estabelecimento;
-
-V – para pagamento do ICMS incidente na entrada de mercadoria oriunda de outra unidade da Federação destinada ao ativo permanente do próprio estabelecimento;"
-
-III – o caput do art. 3º:
-
-"Art. 3º - O estabelecimento industrial detentor do crédito deverá, para os efeitos do artigo anterior, apresentar demonstrativo do saldo credor, por período de apuração, à Delegacia da Receita Estadual (DERES), até o 10º (décimo) dia do período subsequente, contendo:"
-
-IV – os incisos I e II do § 1º do art. 3º:
-
-"I – 1ª via – DERES do domicílio tributário, que deverá mantê-la em arquivo;
-
-II – 2ª via – após visada pela Subgerência de Fiscalização, destinada ao contribuinte."
-
-V – o § 2º do art. 3º:
-
-<!-- p. 2 -->
-"§ 2º - A DERES, até o 5º (quinto) dia útil após o recebimento, deverá remeter cópia reprográfica do demonstrativo à Subgerência de Fiscalização da Gerência de Estado da Receita Estadual."
-
-
-
-VI – os §§ 1º e 2º do art. 4º:
-
-"§ 1º - A nota fiscal de transferência de crédito a que se refere este artigo deverá ser prévia e imediatamente visada pelo Delegado da Receita Estadual da circunscrição do contribuinte, não implicando, o referido "visto", reconhecimento da legitimidade dos créditos, nem homologação dos lançamentos efetuados pelo contribuinte.
-
-§ 2º - A 4ª via da nota fiscal de transferência de crédito será retida e arquivada pela Delegacia da Receita Estadual que circunscricionar o contribuinte."
-
-VII - § 3º do art. 5º:
-
-"§ 3º - O contribuinte deverá, antes da emissão da nota fiscal, requerer a quitação, anexando ao requerimento cópia do documento comprobatório do débito, que deverá ser entregue na DERES de sua circunscrição, devendo esta, na hipótese de Processo Administrativo Fiscal (PAF) ou débito inscrito em dívida ativa requisitar ao órgão competente, o respectivo expediente, de imediato;"
-
-VIII – o caput do art. 6º:
-
-"Art. 6º - Na utilização do crédito para pagamento do ICMS incidente na importação do exterior de bens destinados ao ativo permanente do próprio estabelecimento, deverá o contribuinte detentor original do crédito ou que o tenha recebido em transferência, antes do vencimento do prazo para pagamento do imposto, emitir nota fiscal, observando o disposto no art. 4º deste Decreto, inclusive as normas de seus §§ 1º e 2º, e constando como destinatário o próprio emitente e a informação de tratar-se de crédito utilizado para pagamento de ICMS incidente na importação do exterior de bens destinados ao ativo permanente do próprio estabelecimento."
-
-IX – os §§ 2º e 3º do art. 6º:
-
-"§ 2º - No caso de contribuinte que tenha recebido o crédito em transferência, além das informações referidas no parágrafo anterior, deverá, ainda, indicar o número da nota fiscal emitida pelo estabelecimento industrial exportador referido no art. 1º, identificando-o com sua razão social e números de inscrição estadual e no CGC, apresentando, no momento do "visto" a que se refere o parágrafo seguinte, à DERES a que estiver domiciliado, para arquivo, uma cópia da referida nota fiscal.
-
-§ 3º - Para o "visto" a que se refere o § 1º do art. 4º, deverá o interessado apresentar cópia da Declaração de Importação relativa à operação, que será arquivada pela DERES do seu domicílio tributário juntamente com a 4ª via retida da nota fiscal emitida nos termos deste artigo."
-
-X – o caput do art. 7º:
-
-<!-- p. 3 -->
-"Art. 7º - Na utilização do crédito para pagamento do ICMS incidente na entrada de mercadoria oriunda de outra unidade da Federação destinada ao ativo permanente do próprio estabelecimento, deverá o contribuinte detentor original do crédito ou que o tenha recebido em transferência, antes de vencido o prazo para pagamento do imposto, emitir nota fiscal, observando o disposto no art. 4º deste Decreto, inclusive as normas de seus §§ 1º e 2º, e constando como destinatário o próprio emitente e a informação de tratar-se de crédito utilizado para pagamento de ICMS incidente na entrada de mercadoria oriunda de outra unidade da Federação destinada ao ativo permanente do próprio estabelecimento."
-
-X I– os §§ 2º e 3º do art. 7º:
-
-"§ 2º - No caso de contribuinte que tenha recebido o crédito em transferência, além das informações referidas no parágrafo anterior, deverá ainda indicar o número da nota fiscal emitida pelo estabelecimento industrial exportador referido no art. 1º, identificando-o com sua razão social e números de inscrição estadual e no CGC, apresentando, no momento do "visto" a que se refere o parágrafo seguinte, à DERES de sua circunscrição fiscal, para arquivo, uma cópia da referida nota fiscal.
-
-§ 3º - Para o "visto" a que se refere o § 1º do art. 4º, deverá o interessado apresentar cópia dos documentos fiscais relativos à operação e à prestação interestaduais que serão arquivados pela DERES juntamente com a 4ª via retida da nota fiscal emitida nos termos deste artigo."
-
-XI I– o caput do art. 8º:
-
-"Art. 8º - O contribuinte que receber em transferência crédito do imposto, para utilização em quaisquer das modalidades previstas no inciso I do art. 2º, deverá apresentar à DERES de sua circunscrição, até o 10º (décimo) dia do período subsequente, demonstrativo do crédito recebido, fazendo constar:"
-
-XIII – os incisos I e II do § 1º do art. 8º:
-
-"I – 1ª via – DERES de circunscrição do contribuinte, para arquivo;
-
-II – 2ª via – após visada pela DERES, destinada ao contribuinte."
-
-XIV – o § 2º do art. 8º:
-
-"§ 2º - A DERES, até o 5º (quinto) dia útil após o recebimento, deverá remeter cópia reprográfica do demonstrativo à Subgerência de Fiscalização."
-
-XV – o caput do art. 11:
-
-"Art. 11 - O Gerente de Estado da Receita Estadual e o Gerente Adjunto de Meio Ambiente e Recursos Hídricos, mediante portaria conjunta, poderão estabelecer que valores correspondentes a percentual dos créditos acumulados pelos estabelecimentos de que trata o art. 1.º sejam destinados a:"
-
-Art. 2º - Ficam revogados o inciso VI do art. 2º do Decreto nº 16.501, de 19 de outubro de 1998 e o inciso II do art. 553 do Regulamento do ICMS aprovado pelo Decreto n° 14.744, de 29 de setembro de 1995.
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-<!-- p. 4 -->
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE OUTUBRO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-
-
-
-Da nova redação aos dispositivos que indica, do Decreto nº 16.501, de 19 de outubro de 1998, que dispõe sobre a transferência de saldo credor e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado, e tendo em vista o disposto nos §§ 1.º e 2.º do art. 25 da Lei Complementar n.º 87, de 13 de setembro de 1996 e o disposto no Decreto nº 16.501, de 19 de outubro de 1998,
-
-DECRETA
-
-Art. 1.º - Passam a vigorar com a redação a seguir, os dispositivos abaixo enumerados do Decreto nº 16.501, de 19 de outubro de 1998;
-
-I – a alínea "c" do inciso I do art. 2º:
-
-"c) pagamento do ICMS incidente na entrada de mercadoria oriunda de outra unidade da Federação destinada ao ativo permanente;"
-
-II – os incisos IV e V do art. 2º:
-
-"IV – para pagamento do ICMS incidente na importação do exterior de bens para o ativo permanente do próprio estabelecimento;
-
-V – para pagamento do ICMS incidente na entrada de mercadoria oriunda de outra unidade da Federação destinada ao ativo permanente do próprio estabelecimento;"
-
-III – o caput do art. 3º:
-
-"Art. 3º - O estabelecimento industrial detentor do crédito deverá, para os efeitos do artigo anterior, apresentar demonstrativo do saldo credor, por período de apuração, à Delegacia da Receita Estadual (DERES), até o 10º (décimo) dia do período subsequente, contendo:"
-
-IV – os incisos I e II do § 1º do art. 3º:
-
-"I – 1ª via – DERES do domicílio tributário, que deverá mantê-la em arquivo;
-
-II – 2ª via – após visada pela Subgerência de Fiscalização, destinada ao contribuinte."
-
-V – o § 2º do art. 3º:
-
-<!-- p. 5 -->
-"§ 2º - A DERES, até o 5º (quinto) dia útil após o recebimento, deverá remeter cópia reprográfica do demonstrativo à Subgerência de Fiscalização da Gerência de Estado da Receita Estadual."
-
-
-
-VI – os §§ 1º e 2º do art. 4º:
-
-"§ 1º - A nota fiscal de transferência de crédito a que se refere este artigo deverá ser prévia e imediatamente visada pelo Delegado da Receita Estadual da circunscrição do contribuinte, não implicando, o referido "visto", reconhecimento da legitimidade dos créditos, nem homologação dos lançamentos efetuados pelo contribuinte.
-
-§ 2º - A 4ª via da nota fiscal de transferência de crédito será retida e arquivada pela Delegacia da Receita Estadual que circunscricionar o contribuinte."
-
-VII - § 3º do art. 5º:
-
-"§ 3º - O contribuinte deverá, antes da emissão da nota fiscal, requerer a quitação, anexando ao requerimento cópia do documento comprobatório do débito, que deverá ser entregue na DERES de sua circunscrição, devendo esta, na hipótese de Processo Administrativo Fiscal (PAF) ou débito inscrito em dívida ativa requisitar ao órgão competente, o respectivo expediente, de imediato;"
-
-VIII – o caput do art. 6º:
-
-"Art. 6º - Na utilização do crédito para pagamento do ICMS incidente na importação do exterior de bens destinados ao ativo permanente do próprio estabelecimento, deverá o contribuinte detentor original do crédito ou que o tenha recebido em transferência, antes do vencimento do prazo para pagamento do imposto, emitir nota fiscal, observando o disposto no art. 4º deste Decreto, inclusive as normas de seus §§ 1º e 2º, e constando como destinatário o próprio emitente e a informação de tratar-se de crédito utilizado para pagamento de ICMS incidente na importação do exterior de bens destinados ao ativo permanente do próprio estabelecimento."
-
-IX – os §§ 2º e 3º do art. 6º:
-
-"§ 2º - No caso de contribuinte que tenha recebido o crédito em transferência, além das informações referidas no parágrafo anterior, deverá, ainda, indicar o número da nota fiscal emitida pelo estabelecimento industrial exportador referido no art. 1º, identificando-o com sua razão social e números de inscrição estadual e no CGC, apresentando, no momento do "visto" a que se refere o parágrafo seguinte, à DERES a que estiver domiciliado, para arquivo, uma cópia da referida nota fiscal.
-
-§ 3º - Para o "visto" a que se refere o § 1º do art. 4º, deverá o interessado apresentar cópia da Declaração de Importação relativa à operação, que será arquivada pela DERES do seu domicílio tributário juntamente com a 4ª via retida da nota fiscal emitida nos termos deste artigo."
-
-X – o caput do art. 7º:
-
-<!-- p. 6 -->
-"Art. 7º - Na utilização do crédito para pagamento do ICMS incidente na entrada de mercadoria oriunda de outra unidade da Federação destinada ao ativo permanente do próprio estabelecimento, deverá o contribuinte detentor original do crédito ou que o tenha recebido em transferência, antes de vencido o prazo para pagamento do imposto, emitir nota fiscal, observando o disposto no art. 4º deste Decreto, inclusive as normas de seus §§ 1º e 2º, e constando como destinatário o próprio emitente e a informação de tratar-se de crédito utilizado para pagamento de ICMS incidente na entrada de mercadoria oriunda de outra unidade da Federação destinada ao ativo permanente do próprio estabelecimento."
-
-X I– os §§ 2º e 3º do art. 7º:
-
-"§ 2º - No caso de contribuinte que tenha recebido o crédito em transferência, além das informações referidas no parágrafo anterior, deverá ainda indicar o número da nota fiscal emitida pelo estabelecimento industrial exportador referido no art. 1º, identificando-o com sua razão social e números de inscrição estadual e no CGC, apresentando, no momento do "visto" a que se refere o parágrafo seguinte, à DERES de sua circunscrição fiscal, para arquivo, uma cópia da referida nota fiscal.
-
-§ 3º - Para o "visto" a que se refere o § 1º do art. 4º, deverá o interessado apresentar cópia dos documentos fiscais relativos à operação e à prestação interestaduais que serão arquivados pela DERES juntamente com a 4ª via retida da nota fiscal emitida nos termos deste artigo."
-
-XI I– o caput do art. 8º:
-
-"Art. 8º - O contribuinte que receber em transferência crédito do imposto, para utilização em quaisquer das modalidades previstas no inciso I do art. 2º, deverá apresentar à DERES de sua circunscrição, até o 10º (décimo) dia do período subsequente, demonstrativo do crédito recebido, fazendo constar:"
-
-XIII – os incisos I e II do § 1º do art. 8º:
-
-"I – 1ª via – DERES de circunscrição do contribuinte, para arquivo;
-
-II – 2ª via – após visada pela DERES, destinada ao contribuinte."
-
-XIV – o § 2º do art. 8º:
-
-"§ 2º - A DERES, até o 5º (quinto) dia útil após o recebimento, deverá remeter cópia reprográfica do demonstrativo à Subgerência de Fiscalização."
-
-XV – o caput do art. 11:
-
-"Art. 11 - O Gerente de Estado da Receita Estadual e o Gerente Adjunto de Meio Ambiente e Recursos Hídricos, mediante portaria conjunta, poderão estabelecer que valores correspondentes a percentual dos créditos acumulados pelos estabelecimentos de que trata o art. 1.º sejam destinados a:"
-
-Art. 2º - Ficam revogados o inciso VI do art. 2º do Decreto nº 16.501, de 19 de outubro de 1998 e o inciso II do art. 553 do Regulamento do ICMS aprovado pelo Decreto n° 14.744, de 29 de setembro de 1995.
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-<!-- p. 7 -->
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE OUTUBRO DE 1999, 178o DA INDEPENDÊNCIA E 111o DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16979-1999-18247.md>>>
----
-documento: "DECRETO Nº 16.979 DE 18 DE OUTUBRO DE 1999"
-tipo: decreto
-numero: 16979
-data: "1999-10-18"
-ementa: "Altera e acrescenta dispositivos ao Capítulo XII do Título VII do RICMS, aprovado pelo Decreto nº 14.744/1995, que trata das operações com combustíveis e Lubrificantes."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b6e676a4-f01e-4779-9625-acdc663c8e03
-atualizado_na_fonte: "2026-10-15 16:33:17"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.979 DE 18 DE OUTUBRO DE 1999
-
-_Altera e acrescenta dispositivos ao Capítulo XII do Título VII do RICMS, aprovado pelo Decreto nº 14.744/1995, que trata das operações com combustíveis e Lubrificantes._
-
-**Data:** 1999-10-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-
-DECRETO Nº 16.979 DE 18 DE OUTUBRO DE 1999
-
-
-Altera e acrescenta dispositivos ao Capítulo XII do Título VII do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que trata das operações com combustíveis e Lubrificantes.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado, e tendo em vista os Convênios ICMS nºs 03/99; 27/99 e 46/99, celebrados com fulcro nos arts. 102 e 199 do Código Tributário Nacional (Lei 5.172, de 25 de outubro de 1966) e no disposto na Lei Complementar nº 87, de 13 de setembro de 1996,
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar com a redação a seguir, os dispositivos abaixo enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – os incisos I e II do § 4º do art. 803.E do RICMS:
-
-"I – adotará como base de cálculo o valor total da operação, nele incluindo o respectivo ICMS; (Convênio ICMS 27/99);
-
-II – sobre este valor, aplicará a alíquota interestadual correspondente (Convênio ICMS 27/99)."
-
-II - a alínea "a" do inciso I do § 3º do art. 796 do RICMS:
-
-"a) Estado de Goiás, 70,36% e 127,15%, no tocante às operações internas e interestaduais, respectivamente; (Convênio ICMS 46/99);"
-
-III – os incisos II e III do § 3º do art. 796 do RICMS:
-
-"II – ao Estado do Rio Grande do Sul, quando houver adição de MTBE (Metil Térci – Butil Éter) à gasolina serão aplicados os percentuais de 56% e de 108%, no tocante às operações internas e interestaduais, respectivamente; (Convênio ICMS 46/99)
-
-III – ao Estado de Santa Catarina, exclusivamente no que se refere à gasolina "B" originária do Estado do Rio Grande do Sul, hipótese em que será aplicado o percentual de 140,93% (Convênio ICMS 46/99)."
-
-<!-- p. 2 -->
-IV – o "caput" e o § 1º do art. 803.M do RICMS :
-
-"Art. 803.M – A distribuidora de combustíveis, o importador ou o Transportador Revendedor Retalhista – TRR que efetuar remessa de combustíveis derivados de petróleo para este Estado, inscrever-se-á no Cadastro de Contribuintes do ICMS (CAD/ICMS) da Gerência de Estado da Receita Estadual.
-
-§ 1º As empresas designadas no "caput" remeterão ao Departamento do Comércio Exterior e da Substituição Tributária – DCEST da Subgerência de Fiscalização da Gerência de Estado da Receita Estadual os seguintes documentos:
-
-I - requerimento solicitando sua inscrição no Cadastro de Contribuintes deste Estado;
-
-II – cópia autenticada do instrumento constitutivo da empresa devidamente atualizada e, quando se tratar de sociedade por ações, também da ata da última assembléia de designação ou eleição da diretoria;
-
-III – cópia do documento de inscrição no Cadastro Geral de Pessoa Jurídica (CNPJ);
-
-IV – cópia do CIC e RG do representante legal, procuração do responsável, certidão negativa de tributos estaduais e cópia do cadastro do ICMS.
-
-V - o § 3º do art. 803.M do RICMS:
-
-"§ 3º – Na falta da inscrição prevista no "caput" , a distribuidora de combustíveis, o importador ou o TRR deverão efetuar, por meio da Guia Nacional de Recolhimento de Tributos Estaduais – GNRE, o recolhimento do imposto devido nas operações subsequentes, em favor deste Estado, por ocasião da saída do produto de seu estabelecimento, devendo a via específica da GNRE acompanhar seu transporte.
-
-Art. 2º - Ficam acrescidos os dispositivos abaixo enumerados ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-I – o § 8º do art. 796 do RICMS:
-
-"§ 8º Tratando-se de operações internas, ao preço estabelecido por autoridade competente para obtenção da base de cálculo a que se refere o § 1º, deverá ser incluído o respectivo ICMS (Convênio ICMS 46/99)."
-
-II – o § 6º ao art. 803.M do RICMS:
-
-"§ 6º - prova de que não possui nenhuma medida judicial contra a sistemática de tributação dos combustíveis."
-
-Art. 3º - Fica revogado o Anexo 94 do RICMS.
-
-Art. 4º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos:
-
-I – desde 1º de julho de 1999, em relação às disposições do inciso III, do art. 1º e do art. 2º;
-
-<!-- p. 3 -->
-II – a partir de 1º de setembro de 1999, em relação às disposições da alínea "a" do inciso II do art. 1º.
-
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE OUTUBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-
-DECRETO Nº 16.979 DE 18 DE OUTUBRO DE 1999
-
-
-Altera e acrescenta dispositivos ao Capítulo XII do Título VII do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que trata das operações com combustíveis e Lubrificantes.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado, e tendo em vista os Convênios ICMS nºs 03/99; 27/99 e 46/99, celebrados com fulcro nos arts. 102 e 199 do Código Tributário Nacional (Lei 5.172, de 25 de outubro de 1966) e no disposto na Lei Complementar nº 87, de 13 de setembro de 1996,
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar com a redação a seguir, os dispositivos abaixo enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – os incisos I e II do § 4º do art. 803.E do RICMS:
-
-"I – adotará como base de cálculo o valor total da operação, nele incluindo o respectivo ICMS; (Convênio ICMS 27/99);
-
-II – sobre este valor, aplicará a alíquota interestadual correspondente (Convênio ICMS 27/99)."
-
-II - a alínea "a" do inciso I do § 3º do art. 796 do RICMS:
-
-"a) Estado de Goiás, 70,36% e 127,15%, no tocante às operações internas e interestaduais, respectivamente; (Convênio ICMS 46/99);"
-
-III – os incisos II e III do § 3º do art. 796 do RICMS:
-
-<!-- p. 4 -->
-"II – ao Estado do Rio Grande do Sul, quando houver adição de MTBE (Metil Térci – Butil Éter) à gasolina serão aplicados os percentuais de 56% e de 108%, no tocante às operações internas e interestaduais, respectivamente; (Convênio ICMS 46/99)
-
-III – ao Estado de Santa Catarina, exclusivamente no que se refere à gasolina "B" originária do Estado do Rio Grande do Sul, hipótese em que será aplicado o percentual de 140,93% (Convênio ICMS 46/99)."
-
-IV – o "caput" e o § 1º do art. 803.M do RICMS :
-
-"Art. 803.M – A distribuidora de combustíveis, o importador ou o Transportador Revendedor Retalhista – TRR que efetuar remessa de combustíveis derivados de petróleo para este Estado, inscrever-se-á no Cadastro de Contribuintes do ICMS (CAD/ICMS) da Gerência de Estado da Receita Estadual.
-
-§ 1º As empresas designadas no "caput" remeterão ao Departamento do Comércio Exterior e da Substituição Tributária – DCEST da Subgerência de Fiscalização da Gerência de Estado da Receita Estadual os seguintes documentos:
-
-I - requerimento solicitando sua inscrição no Cadastro de Contribuintes deste Estado;
-
-II – cópia autenticada do instrumento constitutivo da empresa devidamente atualizada e, quando se tratar de sociedade por ações, também da ata da última assembléia de designação ou eleição da diretoria;
-
-III – cópia do documento de inscrição no Cadastro Geral de Pessoa Jurídica (CNPJ);
-
-IV – cópia do CIC e RG do representante legal, procuração do responsável, certidão negativa de tributos estaduais e cópia do cadastro do ICMS.
-
-V - o § 3º do art. 803.M do RICMS:
-
-"§ 3º – Na falta da inscrição prevista no "caput" , a distribuidora de combustíveis, o importador ou o TRR deverão efetuar, por meio da Guia Nacional de Recolhimento de Tributos Estaduais – GNRE, o recolhimento do imposto devido nas operações subsequentes, em favor deste Estado, por ocasião da saída do produto de seu estabelecimento, devendo a via específica da GNRE acompanhar seu transporte.
-
-Art. 2º - Ficam acrescidos os dispositivos abaixo enumerados ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-I – o § 8º do art. 796 do RICMS:
-
-"§ 8º Tratando-se de operações internas, ao preço estabelecido por autoridade competente para obtenção da base de cálculo a que se refere o § 1º, deverá ser incluído o respectivo ICMS (Convênio ICMS 46/99)."
-
-II – o § 6º ao art. 803.M do RICMS:
-
-"§ 6º - prova de que não possui nenhuma medida judicial contra a sistemática de tributação dos combustíveis."
-
-Art. 3º - Fica revogado o Anexo 94 do RICMS.
-
-<!-- p. 5 -->
-Art. 4º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos:
-
-I – desde 1º de julho de 1999, em relação às disposições do inciso III, do art. 1º e do art. 2º;
-
-II – a partir de 1º de setembro de 1999, em relação às disposições da alínea "a" do inciso II do art. 1º.
-
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE OUTUBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-16982-1999-18245.md>>>
----
-documento: "DECRETO Nº 16.982 DE 18 DE OUTUBRO DE 1999"
-tipo: decreto
-numero: 16982
-data: "1999-10-18"
-ementa: "Altera e acrescenta dispositivos ao RICMS, aprovado pelo Decreto nº 14.744/1995, que dispõe sobre a concessão de Regimes Especiais, nos casos que especifica."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3810c08c-253e-4f7d-b9fc-c7ec29d375e0
-atualizado_na_fonte: "2026-10-15 16:33:58"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 16.982 DE 18 DE OUTUBRO DE 1999
-
-_Altera e acrescenta dispositivos ao RICMS, aprovado pelo Decreto nº 14.744/1995, que dispõe sobre a concessão de Regimes Especiais, nos casos que especifica._
-
-**Data:** 1999-10-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO Nº 16.982 DE 18 DE OUTUBRO DE 1999
-
-
-Altera e acrescenta dispositivos ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que dispõe sobre a concessão de Regimes Especiais, nos casos que especifica e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar com a redação a seguir, os dispositivos abaixo enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o parágrafo único do art. 88 do RICMS:
-
-"Parágrafo único – A critério do Gerente da Receita Estadual ou mediante Regime Especial concedido pela Subgerência de Tributação, em casos excepcionais, os prazos previstos nesta Seção poderão ser prorrogados."
-
-II – o inciso II do art. 96 do RICMS:
-
-"II – relativamente a créditos tributários inscritos em dívida ativa o Departamento da Dívida Ativa da Subgerência de Processos Fiscais."
-
-Art. 2º - Ficam acrescentados os dispositivos, abaixo enumerados, ao RICMS, com a redação a seguir:
-
-I – o inciso V ao art. 91:
-
-"V – de crédito tributário de estabelecimento enquadrado como Pequena Empresa Maranhense."
-
-II – o parágrafo único ao art. 920:
-
-"Parágrafo único – Considerando as peculiaridades e circunstâncias das operações poderão ser concedidos regimes especiais, mediante expedição de parecer pela Subgerência de Tributação."
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-<!-- p. 2 -->
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE OUTUBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-
-Altera e acrescenta dispositivos ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que dispõe sobre a concessão de Regimes Especiais, nos casos que especifica e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Passam a vigorar com a redação a seguir, os dispositivos abaixo enumerados do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995:
-
-I – o parágrafo único do art. 88 do RICMS:
-
-"Parágrafo único – A critério do Gerente da Receita Estadual ou mediante Regime Especial concedido pela Subgerência de Tributação, em casos excepcionais, os prazos previstos nesta Seção poderão ser prorrogados."
-
-II – o inciso II do art. 96 do RICMS:
-
-"II – relativamente a créditos tributários inscritos em dívida ativa o Departamento da Dívida Ativa da Subgerência de Processos Fiscais."
-
-Art. 2º - Ficam acrescentados os dispositivos, abaixo enumerados, ao RICMS, com a redação a seguir:
-
-I – o inciso V ao art. 91:
-
-"V – de crédito tributário de estabelecimento enquadrado como Pequena Empresa Maranhense."
-
-II – o parágrafo único ao art. 920:
-
-"Parágrafo único – Considerando as peculiaridades e circunstâncias das operações poderão ser concedidos regimes especiais, mediante expedição de parecer pela Subgerência de Tributação."
-
-<!-- p. 3 -->
-Art. 3º - Este Decreto entra em vigor na data de sua publicação.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE OUTUBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-17004-1999-18242.md>>>
----
-documento: "DECRETO Nº 17.004 DE 29 DE OUTUBRO DE 1999"
-tipo: decreto
-numero: 17004
-data: "1999-10-29"
-ementa: "Acrescenta o inciso LXXVIII ao art. 9º do RICMS, aprovado pelo Decreto nº 14.744/1995, que concede isenção do ICMS nas saídas de frutas frescas nacionais."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9a513c78-cad1-4e1c-869e-dfd895d37335
-atualizado_na_fonte: "2026-10-15 16:38:26"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 17.004 DE 29 DE OUTUBRO DE 1999
-
-_Acrescenta o inciso LXXVIII ao art. 9º do RICMS, aprovado pelo Decreto nº 14.744/1995, que concede isenção do ICMS nas saídas de frutas frescas nacionais._
-
-**Data:** 1999-10-29  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-
-DECRETO Nº 17.004 DE 29 DE OUTUBRO DE 1999
-
-
-Acrescenta o inciso LXXVIII ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que concede isenção do ICMS nas saídas de frutas frescas nacionais e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Fica acrescentado o inciso LXXVIII ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-"LXXVIII – as saídas de:
-
-a) polpas de frutas;
-
-b) frutas frescas nacionais, exceto maçã, pêra, uva, ameixa, morango, figo pêssego, cereja, amêndoas, avelãs, castanhas e nozes;
-
-c) funcho."
-
-Art. 2º - Ficam revogadas as alíneas "e" dos incisos IX e VIII dos arts. 9º e 37 do RICMS, respectivamente e o Decreto n.º 15.153, de 24 de julho de 1996.
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de novembro de 1999.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 29 DE OUTUBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-
-DECRETO Nº 17.004 DE 29 DE OUTUBRO DE 1999
-
-<!-- p. 2 -->
-Acrescenta o inciso LXXVIII ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, que concede isenção do ICMS nas saídas de frutas frescas nacionais e dá outras providências.
-
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Fica acrescentado o inciso LXXVIII ao art. 9º do Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a seguinte redação:
-
-"LXXVIII – as saídas de:
-
-a) polpas de frutas;
-
-b) frutas frescas nacionais, exceto maçã, pêra, uva, ameixa, morango, figo pêssego, cereja, amêndoas, avelãs, castanhas e nozes;
-
-c) funcho."
-
-Art. 2º - Ficam revogadas as alíneas "e" dos incisos IX e VIII dos arts. 9º e 37 do RICMS, respectivamente e o Decreto n.º 15.153, de 24 de julho de 1996.
-
-Art. 3º - Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de novembro de 1999.
-
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 29 DE OUTUBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-<<<DOC normas/decreto/decreto-17040-1999-18240.md>>>
----
-documento: "DECRETO Nº 17.040 DE 18 DE NOVEMBRO DE 1999"
-tipo: decreto
-numero: 17040
-data: "1999-11-18"
-ementa: "Acrescenta dispositivos ao RICMS, aprovado pelo Decreto 14.744/1995, que concede diferimento e redução de base de cálculo aos produtos que indica."
-orgao: SEFAZ-MA
-fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7b56add0-e278-4d03-8190-e7160f221df3
-atualizado_na_fonte: "2026-10-15 16:43:41"
-extraido_em: "2026-11-14"
-remete_a: "RICMS"
-situacao: "histórica (alterava o RICMS/1995)"
-percentual_tachado: 0.0
----
-
-# DECRETO Nº 17.040 DE 18 DE NOVEMBRO DE 1999
-
-_Acrescenta dispositivos ao RICMS, aprovado pelo Decreto 14.744/1995, que concede diferimento e redução de base de cálculo aos produtos que indica._
-
-**Data:** 1999-11-18  
-**Remete a:** RICMS  
-**Situação:** histórica (alterava o RICMS/1995)
-
-> Anterior ao RICMS/2003 (Decreto 19.714, de 10.07.2003): alterava o regulamento anterior; serve só como histórico.
-
-> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
-<!-- p. 1 -->
-ESTADO DO MARANHÃO
-
-DECRETO Nº 17.040 DE 18 DE NOVEMBRO DE 1999
-
-DOE DE 18.11.99
-
-Acrescenta dispositivos ao Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995, que concede diferimento e redução de base de cálculo aos produtos que indica e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Ficam acrescentados os dispositivos abaixo enumerados ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a redação a seguir:
-
-I – o inciso XVI ao art. 13 do RICMS:
-
-"XVI – até 31 de março de 2000, importação de trigo em grão."
-
-II – o inciso XVIII ao art. 37 do RICMS:
-
-"XVIII – até 31 de março de 2000, de forma que a carga tributária resulte em 7% (sete por cento), na saída de farinha de trigo do estabelecimento industrial."
-
-III – o § 18 ao art. 37 do RICMS:
-
-"§ 18 – Para fruição do benefício de que trata o inciso XVIII deste artigo, o contribuinte beneficiário deverá:
-
-I – estornar, proporcionalmente, o crédito fiscal;
-
-
-II – entregar à Subgerência de Fiscalização, até o 10º (décimo) dia do mês subseqüente ao da ocorrência do fato gerador, relatório sobre as mercadorias vendidas mensalmente, em meio magnético (disquete), no formato estabelecido pela Gerência de Estado da Receita Estadual;
-
-III – entregar à Subgerência de Fiscalização, até o 10º (décimo) dia de cada mês, relatório sobre as mercadorias adquiridas no mês anterior, em meio magnético (disquete), no formato estabelecido pela Gerência de Estado da Receita Estadual."
-
-<!-- p. 2 -->
-Art. 2º - Este Decreto entra em vigor no dia 1o de dezembro de 1999, produzindo seus efeitos até 30 de junho de 2.000.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE NOVEMBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.
-
-DOE DE 18.11.99
-
-Acrescenta dispositivos ao Regulamento do ICMS, aprovado pelo Decreto 14.744, de 29 de setembro de 1995, que concede diferimento e redução de base de cálculo aos produtos que indica e dá outras providências.
-
-
-A GOVERNADORA DO ESTADO DO MARANHÃO, no uso das atribuições que lhe confere o art. 64, inciso III, da Constituição do Estado,
-
-
-DECRETA
-
-
-Art. 1º - Ficam acrescentados os dispositivos abaixo enumerados ao Regulamento do ICMS, aprovado pelo Decreto nº 14.744, de 29 de setembro de 1995, com a redação a seguir:
-
-I – o inciso XVI ao art. 13 do RICMS:
-
-"XVI – até 31 de março de 2000, importação de trigo em grão."
-
-II – o inciso XVIII ao art. 37 do RICMS:
-
-"XVIII – até 31 de março de 2000, de forma que a carga tributária resulte em 7% (sete por cento), na saída de farinha de trigo do estabelecimento industrial."
-
-III – o § 18 ao art. 37 do RICMS:
-
-"§ 18 – Para fruição do benefício de que trata o inciso XVIII deste artigo, o contribuinte beneficiário deverá:
-
-I – estornar, proporcionalmente, o crédito fiscal;
-
-
-II – entregar à Subgerência de Fiscalização, até o 10º (décimo) dia do mês subseqüente ao da ocorrência do fato gerador, relatório sobre as mercadorias vendidas mensalmente, em meio magnético (disquete), no formato estabelecido pela Gerência de Estado da Receita Estadual;
-
-III – entregar à Subgerência de Fiscalização, até o 10º (décimo) dia de cada mês, relatório sobre as mercadorias adquiridas no mês anterior, em meio magnético (disquete), no formato estabelecido pela Gerência de Estado da Receita Estadual."
-
-<!-- p. 3 -->
-Art. 2º - Este Decreto entra em vigor no dia 1o de dezembro de 1999, produzindo seus efeitos até 30 de junho de 2.000.
-
-PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE NOVEMBRO DE 1999, 178º DA INDEPENDÊNCIA E 111º DA REPÚBLICA.

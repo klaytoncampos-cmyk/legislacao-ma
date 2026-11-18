@@ -18,14 +18,15 @@ Esta skill traz o **texto integral** das normas, extraído das fontes oficiais:
 
 - **SEFAZ-MA**: CTE (Lei 7.799/2002), RICMS (Decreto 19.714/2003; o RICMS/1995 só como histórico) e os anexos do RICMS (em torno de 140).
 - **Normas complementares da SEFAZ-MA**: portarias, resoluções administrativas, decretos e instruções normativas cujo texto remete
-  ao RICMS, a um anexo ou ao CTE (ex.: Portaria nº 410/2025 – GABIN, que regulamenta o credenciamento do Anexo 4.24). Ficam fora
-  as administrativas (repasses, códigos de receita, licitações…) e as tabelas de valores de referência.
+  ao RICMS, a um anexo ou ao CTE (ex.: Portaria nº 410/2025 – GABIN, que regulamenta o credenciamento do Anexo 4.24), e as
+  **autônomas** de ICMS, que valem por si sem citar o RICMS (ex.: Decreto nº 20.498/2004, redução de base de cálculo de veículos
+  novos). Ficam fora as administrativas (repasses, códigos de receita, licitações…) e as tabelas de valores de referência.
 - **CONFAZ**: os convênios ICMS, protocolos ICMS e ajustes SINIEF **citados** nesses documentos; as normas que **alteram, aderem,
   denunciam ou revogam** essas normas (citadas no cabeçalho e nas notas de alteração delas, ex.: o Prot. ICMS 50/16, que alterou o 41/08);
   e todas as do ano corrente. O texto das normas citadas já vem **consolidado** pelo CONFAZ, com as alterações incorporadas e as notas
   "Nova redação dada… pelo Prot. X"; a norma alteradora serve para conferir o texto original da alteração e suas regras de vigência.
 
-Os documentos (5.506 nesta edição: 143 da SEFAZ-MA, 1.831 normas complementares, 3.519 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
+Os documentos (5.994 nesta edição: 143 da SEFAZ-MA, 2.319 normas complementares, 3.519 do CONFAZ) ficam agrupados em poucos arquivos `dados/*.md`, cada um começando por uma linha
 `<<<DOC caminho>>>`. Use sempre `scripts/buscar.py`, que separa os documentos e busca/lê cada um pelo seu caminho. `INDICE.md` (na raiz da skill) lista todos os documentos, com descrição,
 situação (vigente/parcial/revogado), data de atualização na fonte e caminho.
 
@@ -70,6 +71,11 @@ Rode os comandos a partir da pasta da skill (onde está este `SKILL.md`). No Win
      consolidado; leia a própria norma.
    - *alteradora com dispositivos próprios*: altera o RICMS/anexo, mas também concede, convalida, remite ou prorroga algo. Leia a norma inteira.
    - *histórica*: alterava o RICMS/1995 (anterior a 10.07.2003); só serve como histórico.
+   - *autônoma*: decreto ou portaria de ICMS que vale por si e não cita o RICMS (benefício, credenciamento, prazo, regime). A
+     situação vem só das anotações do PDF e das revogações por outras normas da base. *autônoma anterior ao RICMS/2003 (vigência
+     não verificada)*: confira se não foi revogada ou absorvida antes de aplicar.
+   - *Nota de curadoria* no cabeçalho: informação conferida fora do portal (ex.: alteração por decreto que o portal não publica).
+     Normas que o portal não publica podem vir de outra fonte (ex.: LegisWeb); o cabeçalho avisa e traz o link.
    - sem etiqueta: nenhuma revogação identificada. **Não é garantia de vigência**, porque a detecção é automática e conservadora.
 5. **Siga as remissões.** Se o texto maranhense remete a um convênio ("Conv. ICMS 142/18", "Protocolo ICMS 41/08"), leia
    `confaz/<tipo>/<tipo>-NNN-AAAA.md` (ex.: `confaz/convenio/convenio-142-2018.md`, `confaz/protocolo/protocolo-041-2008.md`).

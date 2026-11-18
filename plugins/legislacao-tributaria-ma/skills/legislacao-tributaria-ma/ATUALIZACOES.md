@@ -1,5 +1,12 @@
 # Registro de atualizações da base
 
+## 2026-11-18 10:23
+
+- Normas complementares: entram agora as **normas autônomas de ICMS**, decretos, portarias e resoluções que valem por si sem citar o RICMS, anexo ou CTE (benefícios, credenciamentos, prazos, regimes). São 488 normas a mais, com situação própria: *autônoma (sem revogação identificada)* ou *autônoma anterior ao RICMS/2003 (vigência não verificada)*. Ex.: Decreto nº 20.498/2004 (redução de base de cálculo de veículos automotores novos, carga de 12%).
+- Decreto nº 20.498/2004: nota de curadoria com a nova redação do inciso I do § 1º do art. 1º dada pelo Decreto nº 30.725/2015 (o portal da SEFAZ traz só a redação original e não publica o 30.725).
+- Decreto nº 20.232/2004 incluído como REVOGADO (pelo Decreto nº 20.240/2004, que por sua vez foi revogado pelo 20.498/2004). O portal da SEFAZ não publica o 20.232; o texto veio da LegisWeb e o cabeçalho avisa.
+- Revogações corrigidas: a ementa "revoga Portaria nº 032/2026" deixou de marcar a própria Portaria 82/2026 como revogada; revogação de resolução de outro órgão (CONGEP) deixou de atingir a RA 01/19 da SEFAZ. Outras 7 normas ganharam revogação encontrada nas autônomas novas (ex.: Portaria 351/2021, revogada pela 409/2025).
+
 ## 2026-11-14 09:52
 
 - SEFAZ alterado: **DECRETO  Nº 19.714.pdf** (atualizado na fonte em 2026-11-13 08:58:20)

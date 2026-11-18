@@ -8,7 +8,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6fb1a01c-9dcc-4e48-8204-f1fa05755ab6
 atualizado_na_fonte: "2026-10-19 09:59:52"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.1
@@ -32943,6 +32943,58 @@ As s inado d e f or m a digit al por T ER EZA RA QU EL B R IT O B EZER R A
 FIALHO:45215170304
 
 SUPLEMENTO
+<<<DOC normas/portaria/portaria-528-2021-20338.md>>>
+---
+documento: "PORTARIA Nº 528, DE 25 DE NOVEMBRO DE 2021"
+tipo: portaria
+numero: 528
+data: "2021-11-25"
+ementa: "Altera a Portaria 358/2017 que dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2930c0a7-c212-41d8-9efc-802846e63e34
+atualizado_na_fonte: "2026-10-19 10:00:16"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 528, DE 25 DE NOVEMBRO DE 2021
+
+_Altera a Portaria 358/2017 que dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista._
+
+**Data:** 2021-11-25  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 528/2021 – GABIN DOE nº 221, de 26.11.21 SÃO LUÍS, 25 DE NOVEMBRO DE 2021.
+
+Altera a Portaria 358/2017 que dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe confere o art. 69, II, da Constituição Estadual,
+
+
+R E S O L V E:
+Art. 1º Alterar a Portaria nº 358/2017 o seu artigo 5°, inciso X e XVI, bem como o artigo 7° § 1º que passam a ter as seguintes redações:
+
+“Art. 5º ................................................................... ......................: “X – apresentar nos últimos doze meses de atividade, por 03 (três) meses consecutivos, declarações com valor do faturamento acumulado inferior a 100% (cem por cento) do valor calculado das entradas acumuladas no mesmo período, deduzindo-se o valor do estoque, independentemente do regime de pagamento;” “XVI - não tenha obtido, nos dozes meses antecedentes ao pedido, valor de agregação tributário positivo em, pelo menos, 30% (trinta por cento), apurado na relação entre o somatório do valor contábil das saídas e somatório do valor contábil das entradas de mercadorias sujeitas ao regime normal de pagamento do ICMS, deduzindo-se o valor dos estoques.” “Art. 7º ................................................................. ........................................ “§ 1º O credenciamento também será revogado caso o contribuinte no período de 12 (doze) meses de vigência da concessão do benefício não obtiver valor de agregação tributário positivo em, pelo menos, 20% (vinte por cento), apurado na relação entre o somatório do valor contábil das saídas e somatório do valor contábil das entradas de mercadorias sujeitas ao regime normal de
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO
+
+SECRETARIA DE ESTADO DA FAZENDA
+
+pagamento do ICMS, deduzindo-se o valor dos estoques.”.
+Art. 2° Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-529-2023-21057.md>>>
 ---
 documento: "PORTARIA Nº 529, DE 05 DE DEZEMBRO DE 2023"
@@ -32953,7 +33005,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1bf3bf44-46a8-4c9b-82ed-270b8666b23f
 atualizado_na_fonte: "2026-10-15 10:58:38"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -33011,6 +33063,261 @@ Art. 7º Esta Portaria será publicada no Diário Oficial do Estado, e produzir�
 DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE SECRETARIA DE ESTADO DA FAZENDA, em São Luís, 05 de dezembro de 2023.
 
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-532-2011-13482.md>>>
+---
+documento: "PORTARIA Nº 532, DE 25 DE OUTUBRO DE 2011"
+tipo: portaria
+numero: 532
+data: "2011-10-25"
+ementa: "Altera e acrescenta dispositivos à Portaria 470/2011 que dispõe sobre o Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota) ."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0a0c0aff-f46c-4d84-bb4d-2927f7db4e4e
+atualizado_na_fonte: "2026-10-28 14:37:50"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 532, DE 25 DE OUTUBRO DE 2011
+
+_Altera e acrescenta dispositivos à Portaria 470/2011 que dispõe sobre o Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota) ._
+
+**Data:** 2011-10-25  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA No 532 /2011- GABIN
+
+DOE 05.12.2011
+
+São Luís (MA), 25 de outubro de 2011.
+
+Altera e acrescenta dispositivos à Portaria 470/2011 que dispõe sobre o Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota).
+
+O Secretário de Estado da Fazenda, tendo em vista o disposto na Lei 9.120, de 23 de fevereiro de 2010 e na Portaria 470/2011-Gabin, de 31 de agosto de 2011,
+
+
+R E S O L V E
+
+Art. 1o Os seguintes dispositivos da Portaria 470/2011-GABIN, de 31 de agosto de 2011, que dispõe sobre o Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota), passam a vigorar com as redações a seguir:
+
+I – os incisos I e II do art. 7o:
+
+I – créditos do Tesouro do Estado, pelo consumidor que solicitar notas fiscais de compras de fornecedores com destaque do seu CPF;
+
+II – cupons para sorteio em dinheiro, a serem sorteados em datas previamente estabelecidas, de acordo com os resultados da Loteria Federal da Caixa Econômica Federal dos dias 29/10/2011, 30/11/2011 e 24/12/2011;
+
+II – o §§ 1o, 3o e 4o do art. 9o:
+
+§ 1o Para fins de participação no sorteio, será atribuído gratuitamente ao consumidor 01 (um) cupom a cada R$ 100,00 (cem reais), ou, caso este valor não seja atingido, será atribuído 01 (um) cupom para cada lote de 05 (cinco) documentos fiscais de qualquer valor, utilizados na aquisição de mercadorias, bens e serviços, desde que feito o registro e atendido o disposto no Art. 13.
+
+<!-- p. 2 -->
+§ 3o Excepcionalmente, serão emitidos, eletronicamente, 5 (cinco) cupons para cada consumidor cadastrado no Programa “Viva Nota” para participação nos sorteios de prêmios nas seguintes datas:
+
+Data Limite para Cadastramento
+
+Data da Publicação do Bônus no site do Programa
+
+Data sorteio Loteria Federal
+
+Dia da Premiação/ apuração
+
+26/10/2011 28/10/2011 29/10/2011 31/10/2011 28/11/2011 29/11/2011 30/11/2011 30/11/2011 22/12/2011 23/12/2011 24/12/2011 26/12/2011
+
+§ 4o O cadastramento de entidades maranhenses de assistência social, sem fins lucrativos, que desejarem participar do Programa requererá análise prévia e homologação ao pleito junto a Secretaria de Estado de Desenvolvimento Social – SEDES.
+
+III – as alíneas do inciso IV do art. 19:
+
+IV – (...):
+
+a) nome completo;
+b) nome da mãe;
+c) logradouro, número, bairro, complemento, referência, CEP, município, UF, fone ou fax e e-mail;
+d) frase de segurança;
+e) aceite ao regulamento do programa;
+f) senha;
+g) confirmação da senha;
+h) lembrete de senha.
+
+IV – o § 2o do art. 23:
+
+§ 2o A obtenção dos números dos cupons premiados pelo Programa far-se-á utilizando-se os números sorteados pela Loteria Federal, considerada a extração dos dias 29/10/2011, 30/11/2011 e 24/12/2011, sendo apurados e contemplados, conforme o seguinte procedimento e quadros exemplificativos:
+
+V – os §§ 6o e 9o do art. 24:
+
+§ 6o Antes do efetivo crédito em conta corrente ou poupança, poderão ser simbolicamente entregues, em data e local a serem fixados por ato do Secretário de Estado da Fazenda, os prêmios cujos valores estejam entre R$ 10.000,00 (dez mil reais) e R$ 100.000,00 (cem mil reais), devendo o ganhador comparecer pessoalmente, com o devido documento original de identidade ou cópia autenticada do contrato social, nos casos de pessoas jurídicas autorizadas a participarem do Programa.
+
+§ 9o Os créditos relativos à solicitação de transferência para conta corrente ou poupança, referente aos prêmios cujos valores estejam abaixo de R$ 10.000,00 (dez mil reais) serão creditados na conta indicada pelo consumidor até o 15o dia útil subsequente àquele em
+
+<!-- p. 3 -->
+que foi feita a solicitação, desde que aquele informe os dados bancários para a devida transferência dos valores.
+
+VI – o parágrafo único do art. 27:
+
+Parágrafo único. Os incentivos serão concedidos mensalmente, a partir de setembro/2011, de acordo com os percentuais estabelecidos no documento referido no caput, sendo que no primeiro mês será concedido o montante referente a 50% (cinquenta por cento) do total e o restante no mês de dezembro/2011.
+
+VII – o caput do art. 32:
+
+Art. 32. Excepcionalmente, devido as peculiaridades na recepção da Dief dos contribuintes do ICMS, no período de 1o de setembro a 24 de dezembro de 2011, a quantidade de bônus a ser liberada será condicionada ao simples cadastramento do participante do Programa no site do “Viva Nota”, recebendo este 5 (cinco) bônus para serem utilizados nos eventos esportivos até este período.
+
+Art. 2o Ficam acrescentados os dispositivos abaixo indicados à Portaria 470/2011, de 31 de agosto de 2011 (Viva Nota), com as redações a seguir:
+
+I – o inciso IV ao art. 7o:
+
+IV - sorteios ao vivo em estádios de futebol, na forma do art. 24.
+
+II – o § 6o ao art. 9o:
+
+§ 6o os cupons atribuídos aos consumidores para participação de sorteios do Programa terão sua validade prescrita após o sorteio para o qual foram gerados, sendo, portanto, inválidos para participação em outros sorteios.
+
+III – o § 2o ao art. 18, renumerando-se o parágrafo único para § 1o:
+
+§ 2o Os créditos relativos às aquisições ocorridas nos meses de janeiro a junho poderão ser utilizados a partir do mês de agosto do mesmo ano-calendário e os relativos às aquisições nos meses de julho a dezembro, a partir do mês de fevereiro do ano-calendário seguinte.
+
+IV – o inciso III ao § 4o do art. 24:
+
+III – os sorteios ao vivo dos prêmios referidos nos incisos I e II serão através da captura na URNA dos canhotos dos ingressos utilizados para acessar o interior do estádio onde ocorrer o evento.
+
+V - o inciso III ao § 1o do art. 33:
+
+<!-- p. 4 -->
+III – a partir de janeiro de 2012: empresas atacadistas ou industriais que realizarem operações diretamente com os consumidores finais descritos no Art. 4o.
+
+Art. 3o Esta Portaria entra em vigor na data de sua publicação, retroagindo seus efeitos a 1o de setembro de 2011.
+
+Cláudio José Trinchão Santos Secretário de Estado da Fazenda ,
+<<<DOC normas/portaria/portaria-532-2015-15351.md>>>
+---
+documento: "PORTARIA Nº 532, DE 09 DE NOVEMBRO DE 2015"
+tipo: portaria
+numero: 532
+data: "2015-11-09"
+ementa: "Determinar, para fins legais do disposto no art. 3º, da Lei nº 8.616/07, de 5 de junho de 2007, o percentual de crédito de ICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=807e351f-31f0-477d-8599-12506dfc8446
+atualizado_na_fonte: "2026-10-27 18:14:21"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 7.2
+---
+
+# PORTARIA Nº 532, DE 09 DE NOVEMBRO DE 2015
+
+_Determinar, para fins legais do disposto no art. 3º, da Lei nº 8.616/07, de 5 de junho de 2007, o percentual de crédito de ICMS._
+
+**Data:** 2015-11-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA N°532 /2015 - SEFAZ
+D.O.E. 12.11.2015.
+
+São Luís, 09 de novembro de 2015 Alterada pela Portaria 6/2016.
+
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições
+
+legais,
+
+
+RESOLVE:
+
+
+~~Art. 1º Determinar, para fins legais do disposto no art. 3º, da Lei nº 8.616/07, de 5 de junho de 2007, o percentual de crédito de ICMS que terá direito a empresa exportadora para transferência a terceiros, no período de novembro de 2015 a junho de 2016, conforme Anexo Único desta Portaria.~~
+
+
+Art. 1º Determinar, para fins legais do disposto no art. 3º, da Lei nº 8.616/07, de 5 de junho de 2007, e na Nota Técnica 008/2015 - SEPLAN constante no Processo 237897/2015, o percentual de crédito de ICMS que terá direito a empresa exportadora para transferência a terceiros, no período de novembro de 2015 a junho de 2016, conforme anexo único desta Portaria.
+
+NR – Portaria 6/2016.
+
+Parágrafo único. Caso os valores correspondentes aos percentuais, indicativos da participação mensal de cada empresa no valor global definido na Nota Técnica de que trata o caput e previstos no anexo único desta Portaria, não sejam utilizados por uma ou mais empresas, no período de novembro de 2015 a junho de 2016, poderão ser rateados entre as demais, na proporção prevista no anexo único desta Portaria.
+
+AC – Portaria 6/2016.
+Art. 2º Os percentuais definidos no Anexo Único desta Portaria foram apurados tomando-se por base a proporção do volume médio de exportação de cada empresa exportadora de ferro-gusa em relação ao volume total de exportação desse segmento no Estado do Maranhão, referentes aos exercícios de 2010 a 2014, conforme informações extraídas do site do Ministério do Desenvolvimento Indústria e Comércio – SECEX.
+
+<!-- p. 2 -->
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 09 DE NOVEMBRO DE 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+
+<!-- p. 3 -->
+Anexo Único da Portaria Nº °532 /2015 - SEFAZ
+
+São Luís, 09 de novembro de 2015.
+
+EXPORTAÇÃO DAS INDÚSTRIAS PRODUTORAS DE FERRO GUSA – Agregado de 2010 a 2014 (Valores em US$ F.O.B.)
+
+Empresa Total 2010-2014* Participação
+
+(%)**
+
+Companhia Siderúrgica Vale do Pindaré
+
+615.248.418 30%
+
+Viena Siderúrgica S/A 683.833.738 34%
+
+Gusa Nordeste S/A 424.318.233 21%
+
+Margusa-Maranhão Gusa S/A 212.722.119 11%
+
+Cosima - Siderúrgica do Maranhão Ltda
+84.854.305 4%
+
+TOTAL 2.020.976.813 100% * Valores exportados por empresa produtora de ferro-gusa nos exercícios 2010 a 2014, segundo registros do Ministério do Desenvolvimento Indústria e Comércio Exterior – SECEX. ** Percentual de participação de cada empresa produtora de ferro-gusa sobre o valor total exportado pelo conjunto das mesmas (as cinco listadas na Tabela acima) nos exercícios de 2010 a 2014, que servirá de limite para transferência de crédito de ICMS-Exportação de cada empresa sobre o total mensal autorizado pela Secretaria de Estado de Planejamento e Orçamento, nos Termos da Lei 8.616/2007.
+Obs. Na tabela abaixo, as exportações desagregadas das empresas listadas, por ano de 2010 a 2014, conforme dados do Ministério do Desenvolvimento Indústria e Comércio Exterior – SECEX.
+EXPORTAÇÃO DAS INDÚSTRIAS PRODUTORAS DE FERRO GUSA – Valores desagregados por ano, de 2010 a 2014 (Valores em US$ F.O.B.).
+
+Empresa 2010 % 2011 % 2012 % 2013 % 2014 % Total Participa-
+
+ção (%) Companhia Siderúrgica Vale do Pindaré
+
+12.418.501 0,06 116.403.855 0,27 141.782.099 0,28 192.312.274 0,40 152.331.689 0,40 615.248.418,00 30%
+
+Viena Siderúrgica S/A
+
+110.247.065 0,50 145.656.379 0,33 150.634.291 0,30 144.222.069 0,30 133.073.934 0,35 683.833.738,00 34%
+
+Gusa Nordeste S/A
+
+61.867.249 0,28 111.670.608 0,26 100.184.946 0,20
+86.503.754 0,18
+64.091.676 0,17 424.318.233,00 21%
+
+Margusa- Maranhão Gusa S/A
+
+27.560.842 0,12
+52.206.560 0,12
+55.403.658 0,11
+43.042.955 0,09
+34.508.104 0,09 212.722.119,00 11%
+
+Cosima - Siderúrgica do Maranhão Ltda
+
+10.426.214 0,05 9.984.500 0,02
+50.280.444 0,10
+14.163.147 0,03 0,00
+84.854.305,00 4%
+
+TOTAL 222.519.871 1,00 435.921.902 1,00 498.285.438 1,00 480.244.199 1,00 384.005.403 1,00 2.020.976.813,00 100%
 <<<DOC normas/portaria/portaria-533-2015-15352.md>>>
 ---
 documento: "PORTARIA Nº 533, DE 09 DE NOVEMBRO DE 2015"
@@ -33021,7 +33328,7 @@ ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complemen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bef5a8bf-d689-454e-b901-33a84d5e299e
 atualizado_na_fonte: "2026-10-27 18:14:13"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -33162,6 +33469,73 @@ CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares pro
 6%
 
 RS Arroz beneficiado 4,3% “
+<<<DOC normas/portaria/portaria-534-2015-15353.md>>>
+---
+documento: "PORTARIA Nº 534, DE 09 DE NOVEMBRO DE 2015"
+tipo: portaria
+numero: 534
+data: "2015-11-09"
+ementa: "A pessoa natural ou jurídica que possuir saldo de créditos remanescentes do Programa Viva Nota poderá:"
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=56941716-94f2-41d8-9a58-4d9249cb819b
+atualizado_na_fonte: "2026-10-27 18:14:01"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 534, DE 09 DE NOVEMBRO DE 2015
+
+_A pessoa natural ou jurídica que possuir saldo de créditos remanescentes do Programa Viva Nota poderá:_
+
+**Data:** 2015-11-09  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 534/15 – GABIN SÃO LUÍS, 09 DE NOVEMBRO DE 2015.
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e tendo em vista o disposto na Lei nº 10.279, de 10 de julho de 2015 e Decreto nº 30.989, de 03 de setembro de 2015,
+
+RESOLVE:
+
+Art. 1º A pessoa natural ou jurídica que possuir saldo de créditos remanescentes do Programa Viva Nota poderá:
+
+I – utilizá-lo para abater até 50% (cinquenta por cento) do valor do débito do imposto sobre a Propriedade de Veículos Automotores – IPVA, do exercício seguinte;
+
+II – fazer a sua conversão em bônus para recarga de aparelho de telefonia móvel, modalidade pré-pago, desde que o crédito acumulado alcance o valor mínimo de R$ 5,00 (cinco reais);
+
+III - solicitar depósito dos créditos acumulados em sua conta corrente ou poupança, mantida em instituição do Sistema Financeiro Nacional;
+
+IV – solicitar a conversão dos créditos acumulados em vale-transporte eletrônico e em meia-passagem eletrônica para uso no transporte coletivo urbano de passageiros.
+
+Art. 2º Os créditos de restituição de ICMS referentes às notas fiscais declaradas e lançadas no sistema VIVA NOTA entre os dias 1º de Julho e 31 de Agosto de 2015, deverão ser calculados e disponibilizados para resgate, aplicando-se as condições previstas no art 3º da Lei nº 10.279, de 10 de julho de 2015 e no art 3º do Decreto nº 30.989, de 31 de julho de 2015.
+
+
+Art. 3º Os créditos de sorteios de prêmios remanescentes do Programa Viva Nota, solicitados dentro do prazo de 90 (noventa dias), mas não resgatados pelo consumidor, terão o prazo de 180 (cento e oitenta dias) para efetuar o resgate, contado a partir da publicação desta Portaria.
+
+Art. 4º Os créditos de restituição de ICMS remanescentes do Programa Viva Nota, cujo consumidor tenha solicitado resgate dentro do prazo previsto, mas que o prazo do referido crédito tenha expirado por falta de indicação de nova opção de
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+recebimento, terão o prazo de 180 (cento e oitenta dias) para efetuar o resgate, contado a partir da publicação desta Portaria.
+
+Parágrafo Único. Os créditos de restituição de ICMS, previstos no caput deste artigo, poderão ser utilizados nas modalidades de resgate de crédito previstas no Programa Nota Legal.
+
+Art. 5 º Nos casos em que a conversão de crédito em vale-transporte eletrônico não for efetivada, conforme o previsto no inciso IV da Portaria nº 444/15-Gabin, o valor correspondente a esse crédito deverá ser devolvido à SEFAZ, para ser reutilizado pelo consumidor titular do mesmo.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 09 de novembro de 2015.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-535-2015-15354.md>>>
 ---
 documento: "PORTARIA Nº 535, DE 13 DE NOVEMBRO DE 2015"
@@ -33172,7 +33546,7 @@ ementa: "A redução da base de cálculo do ICMS, de forma que a carga tributár
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=50909467-eb65-4c38-9655-eea7b966ad9f
 atualizado_na_fonte: "2026-10-27 18:13:50"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 75.9
@@ -34695,6 +35069,164 @@ RICMS/MA, NO PERÍODO 02.2023
 
 NOME CNPJ INTERNACIONAL MARÍTIMA LTDA.
 12.539.110/0001-05
+<<<DOC normas/portaria/portaria-538-2015-15355.md>>>
+---
+documento: "PORTARIA Nº 538, DE 18 DE NOVEMBRO DE 2015"
+tipo: portaria
+numero: 538
+data: "2015-11-18"
+ementa: "Declarar a Autorização da centralização da apuração do ICMS das inscrições mencionadas no anexo desta Portaria na Inscrição Estadual nº 12.351.907-1."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=98f5678c-ad36-4da0-b562-95faffb21315
+atualizado_na_fonte: "2026-10-27 18:13:38"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "REVOGADA"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 538, DE 18 DE NOVEMBRO DE 2015
+
+_Declarar a Autorização da centralização da apuração do ICMS das inscrições mencionadas no anexo desta Portaria na Inscrição Estadual nº 12.351.907-1._
+
+**Data:** 2015-11-18  
+**Remete a:** nada (norma autônoma)  
+**Situação:** REVOGADA
+
+> REVOGADA pela portaria 396/2022 (normas/portaria/portaria-396-2022-20840.md): "Revoga a Portaria nº 538/2015 - GABIN, de 18 de novembro de 2015, que autoriza a centralização da apuração do ICMS das inscrições que menciona."
+> REVOGADA pela portaria 396/2022 (normas/portaria/portaria-396-2022-20840.md): "1º Fica revogada a Portaria nº 538/2015 - GABIN, de 18 de novembro de 2015."
+> REVOGADA pela portaria 396/2022 (normas/portaria/portaria-396-2022-20840.md), segundo anotação no cabeçalho do próprio PDF: "Alterada pela Portaria nº 275/19 Revogada pela Portaria nº 396/22"
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+GABINETE DO SECRETÁRIO
+
+PORTARIA Nº 538/15 - GABIN DOE 218, de 25.11.2015
+
+Alterada pela Portaria nº 275/19
+Revogada pela Portaria nº 396/22
+
+SÃO LUÍS, 18 DE NOVEMBRO DE 2015.
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, conforme art. 69, II, da Constituição do Estado do Maranhão,
+
+
+R E S O L V E:
+Art. 1º Declarar a Autorização da centralização da apuração do ICMS das inscrições mencionadas no anexo desta Portaria na Inscrição Estadual nº 12.351.907- 1, correspondente ao CNPJ nº 16.404.287/ 0222-05, nos termos do Processo nº 0213982/2015, podendo a centralização ser operada desde a criação de tais filiais.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 18 DE NOVEMBRO DE 2015.
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+
+ANEXO DA PORTARIA Nº 538/2015, DE 18/11/2015
+
+CNPJ
+I.E.
+
+16.404.287/0141-05
+12.204.967-5
+
+<!-- p. 2 -->
+16.404.287/0146-10 Isenta
+
+16.404.287/0171-20 Isenta
+
+16.404.287/0172-01
+12.309.188-8
+
+16.404.287/0174-73
+12.311.292-3
+
+16.404.287/0176-35
+12.312.509-0
+
+16.404.287/0177-16
+12.312.508-1
+
+16.404.287/0178-05
+12.314.051-0
+
+16.404.287/0179-88
+12.314.098-6
+16.404.287/0181-00
+12.319.298-6
+16.404.287/0182-83
+12.319.299-4
+16.404.287/0183-64 Isenta
+16.404.287/0185-26
+12.322.775-5 6.404.287/0186-07
+12.322.781-0
+16.404.287/0187-98
+12.322.778-0
+16.404.287/0188-79
+12.322.782-8
+16.404.287/0189-50
+12.322.777-1
+16.404.287/0190-93
+12.322.780-1
+16.404.287/0191-74
+12.322.779-8
+16.404.287/0192-55 12.322793-3
+16.404.287/0193-36 Isenta
+16.404.287/0202-61
+12.328.236-5
+16.404.287/0203-42
+12.328.228-4
+16.404.287/0205-04
+12.340.833-4
+16.404.287/0206-95
+12.340.836-9
+16.404.287/0207-76
+12.340.830-0 16 404.287/0208-57
+12.340.824-5
+16.404.287/0209-38 12.341 047-9
+16.404.287/0220-43
+12.351.906-3
+16.404.287/0221-24
+12.351.911-0
+16.404.287/0222-05
+12.351.907-1
+16.404.287/0274-36
+12.353.025 -3
+16.404.287/0313-87
+12.361.052 -4
+16.404.287/0314-68
+12.361.032 -0
+16.404.287/0315-49
+12.361.027 -3
+16.404.287/0319-72
+12.373.719 -2
+16.404.287/0320-06
+12.375.430 -5
+16.404.287/0321-97
+12.375.393 -7
+16.404.28 /0322-78
+12.376.182 -4
+
+<!-- p. 3 -->
+Incluídas pela Portaria nº 275/GABIN, de 06.05.2019
+
+
+EMPRESA
+
+CNPJ IE
+
+SUZANO PAPEL E CELULOSE S.A
+16.404.287/0400-25
+12.572.910-3 SUZANO PAPEL E CELULOSE S.A
+16.404.287/0600-50
+12.587.157-0 SUZANO PAPEL E CELULOSE S.A
+16.404.287/0620-02
+12.591.817-8 SUZANO PAPEL E CELULOSE S.A
+16.404.287/0619-60
+12.591.827-5
 <<<DOC normas/portaria/portaria-539-2015-15356.md>>>
 ---
 documento: "PORTARIA Nº 539, DE 17 DE NOVEMBRO DE 2015"
@@ -34705,7 +35237,7 @@ ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complemen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=93308e9c-26c3-465d-a6cd-53affc5ff4b0
 atualizado_na_fonte: "2026-10-27 18:13:27"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -34922,6 +35454,75 @@ Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de D
 
 
 . . .
+<<<DOC normas/portaria/portaria-544-2006-12702.md>>>
+---
+documento: "PORTARIA Nº 544, DE 10 DE NOVEMBRO DE 2006"
+tipo: portaria
+numero: 544
+data: "2006-11-10"
+ementa: "Altera os valores mínimos, para efeito de base de cálculo doo ICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=abcb546b-0c27-4467-ae97-efe022363d0f
+atualizado_na_fonte: "2026-10-28 09:05:41"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 544, DE 10 DE NOVEMBRO DE 2006
+
+_Altera os valores mínimos, para efeito de base de cálculo doo ICMS._
+
+**Data:** 2006-11-10  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N º 0544 /GABIN DE 10 DE NOVEMBRO DE 2006
+D.O.E 21.11.06
+
+A SECRETÁRIA DE ESTADO DA FAZENDA, em exercício, no uso de suas atribuições legais,
+
+R E S O L V E:
+
+Art. 1º Alterar os valores mínimos, para efeito de base de cálculo do ICMS
+
+incidente nas operações com produtos abaixo discriminados:
+
+PRODUTO UNIDADE VALOR R$
+
+Tijolo 4 furos MILHEIRO 150,00
+
+Tijolo 6 furos MILHEIRO 104,00
+
+Tijolo 8 furos MILHEIRO 138,00
+
+Tijolo Maciço MILHEIRO 90,00
+
+Tijolo Artesanal MILHEIRO 58,00
+
+Lajota MILHEIRO 207,00
+
+Telha Canal MILHEIRO 133,00
+
+Telha Colonial MILHEIRO 138,00
+
+Telha Paulista MILHEIRO 242,00
+
+Telha Tipo Plan MILHEIRO 173,00
+
+Art. 2º Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luís 10 de novembro de 2006.
+
+
+MARIA DE FÁTIMA PEREIRA DA SILVA Secretária de Estado da Fazenda, em exercício
 <<<DOC normas/portaria/portaria-544-2021-20341.md>>>
 ---
 documento: "PORTARIA Nº 544, DE 10 DE DEZEMBRO DE 2021"
@@ -34932,7 +35533,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=34eea61f-43f5-449f-9140-46b3158f52f1
 atualizado_na_fonte: "2026-10-19 10:01:39"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -35002,6 +35603,61 @@ SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 03 DE DEZEMBRO DE 2021.
 
 
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-545-2007-12844.md>>>
+---
+documento: "PORTARIA Nº 545, DE 22 DE AGOSTO DE 2007"
+tipo: portaria
+numero: 545
+data: "2007-08-22"
+ementa: "Alterar o valor de referência para fins de cobrança de ICMS do carvão."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d1d5544b-aa48-42f7-a71f-0a70da40ddaf
+atualizado_na_fonte: "2026-10-28 09:57:20"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 545, DE 22 DE AGOSTO DE 2007
+
+_Alterar o valor de referência para fins de cobrança de ICMS do carvão._
+
+**Data:** 2007-08-22  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº545/07 GABIN DE 22 AGOSTO DE 2007
+
+Ed: 172 04/09/07
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+R E S O L V E:
+
+Art. 1º Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado.
+
+UND DISCRIMINAÇÃO VALOR R$
+
+M³ Carvão de casca de babaçu 80,00
+
+M³ Carvão vegetal 80,00
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luis 22 de Agosto de 2007.
+
+JOSÉ DE JESUS DO ROSÁRIO AZZOLINI
+
+Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-546-2021-20342.md>>>
 ---
 documento: "PORTARIA Nº 546, DE 03 DE DEZEMBRO DE 2021"
@@ -35012,7 +35668,7 @@ ementa: "Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no an
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d9c5cc18-c51f-44a1-a9c8-ec9b63273cb1
 atualizado_na_fonte: "2026-10-19 10:02:01"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -36340,7 +36996,7 @@ ementa: "Altera a Portaria nº 318/2015, que dispõe sobre a suspensão de ofíc
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=89ae9e53-d8a8-4d2c-bd66-e81f999867ea
 atualizado_na_fonte: "2026-10-27 18:13:11"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -36396,7 +37052,7 @@ ementa: "Considerando a obrigatoriedade dos contribuintes à Escrituração Fisc
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c8d28d65-a6d4-4300-ac72-801cdf57f93a
 atualizado_na_fonte: "2026-10-27 18:13:03"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -36452,6 +37108,127 @@ SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 25 DE NOVEMBRO DE 2015.
 MARCELLUS RIBEIRO ALVES
 
 Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-552-2019-19771.md>>>
+---
+documento: "PORTARIA Nº 552, DE 26 DE SETEMBRO DE 2019"
+tipo: portaria
+numero: 552
+data: "2019-09-26"
+ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento da indústria de arroz."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=28a3ab24-8ff1-4e80-a1b9-afafa08941af
+atualizado_na_fonte: "2026-10-14 09:11:39"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 552, DE 26 DE SETEMBRO DE 2019
+
+_Dispõe sobre os requisitos e procedimentos para credenciamento da indústria de arroz._
+
+**Data:** 2019-09-26  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 552/2019 – GABIN DOE nº 186, de 30.09.19 SÃO LUÍS, 26 de setembro de 2019.
+
+Dispõe sobre os requisitos e procedimentos para credenciamento da indústria de arroz.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, em exercício, no uso das atribuições que lhe confere o art. 69, II, da Constituição Estadual,
+
+
+R E S O L V E:
+Art. 1º O credenciamento de estabelecimento beneficiário do previsto no Decreto nº 34.933, de 11 de junho de 2019, seguirá os requisitos e procedimentos estabelecidos nesta Portaria.
+
+Art. 2º O pedido de credenciamento será formalizado pelo contribuinte por meio do sítio desta Secretaria de Estado da Fazenda na internet, via SEFAZ.net, anexando os seguintes documentos:
+
+I - requerimento do pedido, disponível no sítio da SEFAZ, devidamente preenchido e assinado pelo sócio ou representante legal do contribuinte, com firma reconhecida;
+
+II - fotocópias:
+a) do estatuto ou contrato social e suas alterações registrados na Junta Comercial;
+
+b) das cédulas de identidade e CPF dos sócios, diretores no caso de empresa S.A. e declaração de habilitação profissional - Certidão de Regularidade Profissional dos contabilistas;
+
+c) do registro imobiliário do imóvel onde se situa o estabelecimento e, se alugado, com contrato de locação com firma reconhecida do locador e locatário;
+
+d) da última conta de energia elétrica do imóvel onde se situa o estabelecimento;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+e) do contrato de prestação de serviços do contador pela indústria de arroz, identificando o contratante e o contratado e acompanhado da Certidão de Regularidade Profissional dos contabilistas;
+
+f) último recibo de declaração de imposto de renda dos sócios, entregue à Receita Federal do Brasil;
+
+g) última Relação Anual de Informações Sociais – RAIS, entregue ao Ministério do Trabalho e, o Protocolo de entrega da GFIP/SEFIP do Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social.
+
+Art. 3º O pedido de credenciamento será examinado pela Secretaria Adjunta da Administração Tributária, que emitirá parecer, no prazo de 30 (trinta) dias, pelo deferimento ou indeferimento do pedido, com base nas informações e documentos apresentados pelo contribuinte e após as verificações pertinentes no banco de dados da SEFAZ.
+
+§ 1º O prazo de que trata este artigo começa a contar a partir do primeiro dia útil após a data de registro do pedido no sítio da Secretaria de Estado da Fazenda na internet, via SEFAZ.net.
+
+§ 2º Concedido o primeiro termo de credenciamento este produzirá efeitos a partir do 1º dia do mês subsequente ao de sua expedição e cessará no último dia do mês em que ocorrer a sua expiração ou revogação.
+
+Art. 5º Não será concedido credenciamento para o contribuinte que:
+I - esteja em situação de inadimplência com o pagamento do ICMS;
+II - esteja omisso quanto à entrega de Declaração de Informações Econômico-Fiscais - DIEF ou da Escrituração Fiscal Digital – EFD ou proceder a entrega em desacordo com a legislação;
+
+III - que tenha cometido infração à legislação tributária estadual, ressalvados os casos de suspensão de exigibilidade de crédito tributário na forma do art. 151 do Código Tributário Nacional, ou discussão judicial com as garantias necessárias;
+
+IV - não possuir, neste Estado, instalações físicas próprias, com capacidade de armazenamento de matéria-prima e produto acabado;
+
+V – não utilizar mão de obra local no percentual mínimo de 70% (setenta por cento) do total do seu quadro de pessoal;
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+VI – não manter estrutura de secador própria ou contrato de arrendamento de secador de terceiros;
+
+VII - não tenha realizado faturamento de, pelo menos, R$ 4.000.000,00 (quatro milhões de reais) nos últimos 12 meses anteriores ao pedido.
+
+§ 1º Não havendo impeditivos para a concessão do primeiro Termo de Credenciamento, este será expedido com validade de 24 (vinte e quatro) meses, contendo, no mínimo, as seguintes informações:
+
+I - identificação do contribuinte credenciado;
+II - número e data da expedição do termo;
+III - período de vigência do credenciamento.
+§ 2º No primeiro credenciamento não haverá aferição de cumprimento do previsto nos incisos VI e VII do caput do art. 5°.
+
+§ 3º Após o prazo estabelecido no § 1º, se o contribuinte comprovar o cumprimento do disposto no art. 5º desta Portaria, ele será recredenciado por mais 24 (vinte e quatro) meses.
+
+Art. 6º Para fruição do benefício de que trata esta Portaria, o contribuinte deverá comprovar, também, número de empregados, com carteira de trabalho assinada, de acordo com faixa de faturamento constante na tabela abaixo:
+
+
+FATURAMENTO MENSAL EMPREGADOS (MÍNIMO) Primeiro Credenciamento
+0 A partir de R$ 333.333,33 até R$ 1.000.000,00
+05 Mais de R$ 1.000.000,00 até R$ 2.500.000,00
+08 Mais de R$ 2.500.000,00 até R$ 3.500.000,00
+10 Mais de R$ 3.500.000,00 até R$ 5.000.000,00
+12 Mais de R$ 5.000.000,00 até R$ 6.000.000,00
+16 Mais de R$ 6.000.000,00
+20
+
+Parágrafo único. O contribuinte do tipo sociedade anônima deverá comprovar, através da RAIS e do Protocolo de entrega da GFIP/SEFIP do Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social, a existência de pelo menos 30 (trinta) empregados com carteira de trabalho assinada no primeiro credenciamento e 40 (quarenta) no recredenciamento.
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 7º Para fruição do benefício de que trata esta Portaria, o contribuinte credenciado deverá adquirir matéria-prima local (arroz em casca), no mínimo, conforme percentuais constantes na tabela abaixo:
+
+PRODUTO/ PERÍODO Até 2023 Até 2026 A partir de 2028 Matéria-prima local 30% 50% 60%
+Art. 8º Nos casos de indeferimento de pedido de credenciamento, renovação de credenciamento ou revogação do benefício, cabe recurso à Secretaria Adjunta da Administração Tributária, em até 30 (trinta) dias do envio da notificação.
+
+Art. 9º Esta Portaria entra em vigor na data de sua publicação, produzindo efeitos a partir do primeiro dia útil do mês subsequente ao de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+FERNANDO ANTONIO RESENDE DE JESUS Secretário de Estado da Fazenda, em Exercício.
 <<<DOC normas/portaria/portaria-555-2015-15361.md>>>
 ---
 documento: "PORTARIA Nº 555, DE 25 DE NOVEMBRO DE 2015"
@@ -36462,7 +37239,7 @@ ementa: "Nas operações interestaduais com contribuintes do Estado do Maranhão
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8e4c954f-9409-447c-ba74-da89d747573b
 atualizado_na_fonte: "2026-10-27 18:11:58"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 4.41, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -36593,7 +37370,7 @@ ementa: "Prorrogar para os fatos geradores do mês de janeiro de 2018, o prazo p
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=eee9841c-d0d2-41ab-ad31-eaa5d91fcc3b
 atualizado_na_fonte: "2026-10-22 09:35:30"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -36644,7 +37421,7 @@ ementa: "Dispõe sobre o credenciamento de contribuintes ao diferimento do lanç
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dff1ce06-f776-49c5-91fd-0f131e4499f0
 atualizado_na_fonte: "2026-10-19 10:04:57"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -36731,7 +37508,7 @@ ementa: "Delega competência para a restituição de tributos, na forma em que e
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a92af5b9-361f-4320-adf8-adaa6cc5ac4a
 atualizado_na_fonte: "2026-10-19 10:05:34"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -36819,7 +37596,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b27ce8b7-00d1-4002-93c8-eccf6b430f27
 atualizado_na_fonte: "2026-10-27 18:11:31"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -36924,7 +37701,7 @@ ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complemen
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0ed8efc8-1171-4d33-bb8a-dff7dc448944
 atualizado_na_fonte: "2026-10-27 18:11:06"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -37066,6 +37843,52 @@ RS Arroz beneficiado 4,3% ES Saídas de mercadorias, exceto café, cacau, piment
 
 
 SC Arroz beneficiado 3% PR Arroz beneficiado 6% . .
+<<<DOC normas/portaria/portaria-579-2017-16819.md>>>
+---
+documento: "PORTARIA Nº 579, DE 13 DE DEZEMBRO DE 2017"
+tipo: portaria
+numero: 579
+data: "2017-12-13"
+ementa: "Acrescenta a alínea 'a' ao inciso XI do artigo 5º da Portaria 358 de 04 de agosto de 2017."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=884089c2-cf7b-4edc-a663-7669c6c4e4e5
+atualizado_na_fonte: "2026-10-22 09:23:12"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 579, DE 13 DE DEZEMBRO DE 2017
+
+_Acrescenta a alínea "a" ao inciso XI do artigo 5º da Portaria 358 de 04 de agosto de 2017._
+
+**Data:** 2017-12-13  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 579/17 - GABIN.
+DOE nº 235, de 19.12.2017 SÃO LUÍS, 13 DE DEZEMBRO DE 2017.
+
+Acrescenta a alínea "a" ao inciso XI do artigo 5º da Portaria 358 de 04 de agosto de 2017.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais;
+
+R E S O L V E
+Art. 1º Acrescentar a alínea "a" ao inciso XI do artigo 5.º da Portaria de nº 358, de 04 de agosto de 2017, com a seguinte redação:
+
+"Art. 5º (..) (...) XI (...)
+a) em se tratando de atacadista exclusivamente de soja, sorgo, milho, milheto e arroz, ter efetuado recolhimento inferior a 2,0% (dois por cento) de ICMS sobre as vendas destes produtos, no período de 12 (doze) meses antecedentes ao pedido de credenciamento ".
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-580-2022-20884.md>>>
 ---
 documento: "PORTARIA Nº 580, DE 11 DE OUTUBRO DE 2022"
@@ -37076,7 +37899,7 @@ ementa: "Dispõe sobre a elaboração e a tramitação de propostas de atos norm
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=edf1a6a1-5adb-4dcb-b004-296131b6f1fa
 atualizado_na_fonte: "2026-10-21 09:29:04"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -38451,7 +39274,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7fb6c4f9-0aa2-4d4e-bda9-ad800cd9f448
 atualizado_na_fonte: "2026-10-28 14:36:36"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -38585,7 +39408,7 @@ ementa: "Fica revogado o Regime Especial, editado pela Secretaria de Estado da F
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=85e5c424-a79d-4c60-9af2-610e9cdbca1a
 atualizado_na_fonte: "2026-10-27 18:10:33"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -38640,7 +39463,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82880583-f88d-4886-840d-709c1d2cb634
 atualizado_na_fonte: "2026-10-14 09:46:46"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -38720,7 +39543,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=941dcc54-fddb-4266-994b-683a12e4aecd
 atualizado_na_fonte: "2026-10-21 11:12:38"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -38800,7 +39623,7 @@ ementa: "Altera a Portaria GABIN nº 527, de 30 de novembro de 2021."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fdcd3448-ffdf-4600-95b2-13a6378d3576
 atualizado_na_fonte: "2026-10-19 10:06:40"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -38843,6 +39666,167 @@ ESTADO DO MARANHÃO
 SECRETARIA DE ESTADO DA FAZENDA
 
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-595-2019-19788.md>>>
+---
+documento: "PORTARIA Nº 595, DE 22 DE OUTUBRO DE 2019"
+tipo: portaria
+numero: 595
+data: "2019-10-22"
+ementa: "Altera a Portaria nº 433/15 que dispõe sobre a mudança da situação da empresa em início de atividade."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1be65e66-fa0c-4a50-aa2b-c1d1cd6f3a1d
+atualizado_na_fonte: "2026-10-14 09:51:01"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 595, DE 22 DE OUTUBRO DE 2019
+
+_Altera a Portaria nº 433/15 que dispõe sobre a mudança da situação da empresa em início de atividade._
+
+**Data:** 2019-10-22  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 595/19 - GABIN
+
+SÃO LUÍS (MA), 22 DE OUTUBRO DE 2019.
+
+
+Altera a Portaria nº 433/15 que dispõe sobre a mudança da situação da empresa em início de atividade, no cadastro do ICMS, após a apresentação da documentação que relaciona.
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+R E S O L V E:
+Art. 1º Alterar os dispositivos abaixo indicados, da Portaria 433/15, que passam a vigorar com as seguintes redações:
+
+I – inciso I do art. 3º: “ I – cópia do Alvará de localização e funcionamento definitivo ou provisório, conforme o caso, e legislação de regência do estabelecimento indicado na ficha cadastral, expedido pelo Poder Executivo do Município da situação do estabelecimento, exceto para as atividades de baixo risco conforme Lei Federal nº 13.874/19.”
+II - § 2º do art. 4º: “ § 2º A inscrição de empresa nova será baixada de ofício quando permanecer por 60 (sessenta) dias sem a homologação prevista nesta Portaria.”
+III – caput do art. 5º: “Art. 5º As disposições previstas nesta Portaria não se aplicam:”
+Art. 2º Fica revogado o § 1º do art. 4º.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUIS, 22 DE OUTUBRO DE 2019.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-598-2011-13493.md>>>
+---
+documento: "PORTARIA Nº 598, DE 26 DE DEZEMBRO DE 2011"
+tipo: portaria
+numero: 598
+data: "2011-12-26"
+ementa: "Dispõe sobre a publicação dos cupons Premiados no 3º sorteio no Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota) ."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=46205fd0-8d02-4cf5-8172-9b69a3ed4e55
+atualizado_na_fonte: "2026-10-28 14:36:18"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 598, DE 26 DE DEZEMBRO DE 2011
+
+_Dispõe sobre a publicação dos cupons Premiados no 3º sorteio no Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota) ._
+
+**Data:** 2011-12-26  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA No 598/2011- GABIN São Luís (MA), 26 de dezembro de 2011.
+
+Dispõe sobre a publicação dos cupons Premiados no 3º sorteio no Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota).
+O Secretário de Estado da Fazenda, tendo em vista o disposto na Lei 9.120, de 23 de fevereiro de 2010 e legislação específica que a regulamenta,
+
+RESOLVE
+
+Art. 1o A utilização dos créditos concedidos aos adquirentes de mercadorias, bens e serviços, consumidores pessoas naturais ou jurídicas, no âmbito do Programa de Estímulo à Cidadania do Estado do Maranhão, denominado Viva Nota, deverá observar os procedimentos descritos nesta Portaria.
+
+Art. 2o Divulgar, conforme Anexo Único, a relação dos cupons premiados no 3º sorteio de prêmios do Programa Viva Nota, de 26/12/2011,
+
+Art. 3o A apuração dos números dos cupons premiados pelo Programa prevista no art. 24 e realizada nos termos do Art. 23, da Portaria nº 470/11, utilizou os números sorteados pela Loteria Federal, considerada a extração do dia 24 de dezembro de 2011.
+
+Parágrafo único – os números sorteados na extração da Loteria Federal do dia 24 de dezembro de 2011 foram os seguintes:
+
+1º prêmio - 06.652 2º prêmio - 64.453 3º prêmio - 67.545 4º prêmio - 37.093 5º prêmio - 71.937
+
+Art. 4o Os prêmios sorteados para o terceiro sorteio do Viva Nota, conforme previsto na Portaria nº 470 de 31/08/2011, correspondem aos seguintes valores:
+
+I – 1 (um) prêmio de R$ 100.000,00 (cem mil reais);
+II – 1 (um) prêmio de R$ 50.000,00 (cinquenta mil reais);
+III – 1 (um) prêmio de R$ 10.000,00 (dez mil reais);
+IV - 25 (vinte e cinco) prêmios de R$ 1.000,00 (um mil reais);
+V – 35 (trinta e cinco) prêmios de R$ 500,00 (quinhentos reais);
+VI – 2.000 (dois mil) prêmios de R$ 25,00 (vinte e cinco reais);
+VII – 4.500 (quatro mil e quinhentos) prêmios de R$ 15,00 (quinze reais).
+
+<!-- p. 2 -->
+§ 1o Antes do efetivo crédito em conta corrente, poderão ser simbolicamente entregues, em data e local a serem estabelecidos pela Sefaz, os prêmios de valores R$ 10.000,00 (dez mil reais), R$ 50.000,00 (cinquenta mil reais) e R$ 100.000,00 (cem mil reais), devendo os ganhadores comparecerem pessoalmente, em local e data a ser fixados por ato do Secretário da Fazenda, com o devido documento original de identidade ou cópia autenticada do contrato social, nos casos de pessoas jurídicas. autorizadas a participarem do programa Viva Nota..
+
+§ 2o Os prêmios cujos valores estejam abaixo de R$ 10.000,00 (dez mi reais) serão creditados, após solicitação, automaticamente na conta corrente ou conta poupança do consumidor constante no sistema “Viva Nota” no prazo e forma estabelecida na portaria nº 470/11.
+
+§ 3º. Sob pena de prescrição, os prêmios em dinheiro referentes aos sorteios por meio de cupons gerados pelo Programa “Viva Nota”, deverão ser solicitados, pelo ganhador ou responsável, no prazo de 90 (noventa) dias contados do dia da divulgação dos cupons premiados, na forma estabelecida na portaria nº 470/11.
+
+Art. 5o Conforme disposto no Art. 36 da Portaria 470/11, a inscrição dos participantes do Programa, com adesão ao regulamento, implica automaticamente, cessão dos direitos de uso de imagem e voz ao Governo do Estado do Maranhão para divulgação institucional da campanha do Programa “Viva Nota”.
+
+Parágrafo único. A Sefaz se reserva o direito de divulgar os nomes dos contemplados, bem como utilizar suas imagens e sons de vozes, sem que isso implique qualquer direito a remuneração ou indenização aos contemplados.
+
+Art. 6o O consumidor poderá utilizar os créditos disponíveis por meio de solicitação de depósito em conta corrente ou poupança, mantidas em instituição do Sistema Financeiro Nacional.
+
+Parágrafo único - O valor mínimo da solicitação deverá ser de R$ 15,00 (quinze reais).
+
+Art. 7o Para utilizar o crédito, o consumidor deverá seguir o seguinte procedimento:
+
+I - acessar o site do Viva Nota, no endereço eletrônico vivanota.sefaz.ma.gov.br, e selecionar as opções "Acesso ao Sistema" preencher os dados necessários à sua identificação;
+
+II - uma vez devidamente identificado, escolher a opção "Conta Corrente" e, em seguida, a opção "Consultar";
+
+III - na tela que contém o extrato dos créditos, ingressar na opção "Utilizar Créditos" e, em seguida, solicitar a transferência de valor para conta corrente ou poupança, o campo "Crédito em conta corrente" ou "Crédito em conta poupança";
+
+IV - preencher a tela que se seguirá, com as informações solicitadas.
+
+<!-- p. 3 -->
+Parágrafo único - Após selecionar a opção "Confirmar", o consumidor não poderá cancelar a solicitação, que será considerada irretratável.
+
+Art. 8o - Os créditos relativos à solicitação de transferência para conta corrente ou poupança serão creditados na conta indicada pelo consumidor até o 15o dia útil subsequente àquele em que foi feita a solicitação, desde que aquele informe os dados bancários para a devida transferência dos valores.
+
+Art. 9o O vencedor dos prêmios dos sorteio do Viva Nota, deverão observar o disposto nos parágrafos 1º ao 6º do Art. 4o da Portaria 470/11 conforme segue:
+
+§ 1o É vedado aos contribuintes do ICMS, inclusive os inscritos no Simples Nacional, a obtenção dos prêmios e outros benefícios do Programa.
+
+§ 2o É vedada a participação, como beneficiários dos prêmios em dinheiro (e de cupons para sorteio do Programa), de servidores desta Secretaria e de funcionários das sociedades empresárias de tecnologia contratadas pela Sefaz, bem como de seus parentes em linha reta até o primeiro grau, seus cônjuges ou companheiros (as).
+
+§ 3o Constatada a participação indevida de servidor da Sefaz no Programa, bem como qualquer de seus parentes, cônjuge ou companheiro (a) entre os indicados no parágrafo anterior aquele responderá inquérito administrativo para apuração de conduta imprópria, estando sujeito às penalidades cabíveis, e, se for o caso, devolução ao Erário dos valores dos prêmios obtidos irregularmente.
+
+§ 4o As pessoas físicas ou jurídicas em débito com o Tesouro Estadual, bem como aquelas com irregularidades cadastrais ou fiscais junto a Sefaz, só poderão receber os prêmios do Programa após a quitação do débito, e, se for o caso, após o saneamento da irregularidade.
+
+§ 5o Na hipótese de haver débito do beneficiário junto ao Tesouro Estadual - e não sendo este adimplido antes do recebimento do prêmio – o crédito ou o valor relativo ao prêmio poderá utilizado para abatê-lo ou quitá-lo, recebendo o beneficiário o saldo remanescente deste, se houver.
+
+§ 6o As pessoas civilmente incapazes podem participar do Programa, mas o recebimento dos prêmios fica condicionado à assistência ou representação daquelas por seus pais ou responsáveis (tutores ou curadores) na forma da Lei Civil.
+
+Art. 10o Esta portaria entra em vigor na data de sua publicação.
+
+Jorge Luis Castro dos Santos Secretário de Estado da Fazenda em Exercício
 <<<DOC normas/portaria/portaria-600-2011-13494.md>>>
 ---
 documento: "PORTARIA Nº 600, DE 28 DE DEZEMBRO DE 2011"
@@ -38853,7 +39837,7 @@ ementa: "Incluir no anexo único da Portaria nº 523/2009, de 29 de dezembro de 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6a24b82c-52e7-4492-8983-ace82e82398a
 atualizado_na_fonte: "2026-10-28 14:36:09"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -38908,7 +39892,7 @@ ementa: "Dispõe sobre o tratamento aplicado às operações internas com Gás L
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=481a9e7c-2fd3-4e19-8e97-a3f7abe7ee74
 atualizado_na_fonte: "2026-10-14 09:58:17"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39027,7 +40011,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dabedf49-a38b-4068-bc9e-6397ab6ebf32
 atualizado_na_fonte: "2026-10-14 10:00:23"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39097,6 +40081,218 @@ SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 18 DE NOVEMBRO DE 2019.
 
 
 MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-649-2019-19811.md>>>
+---
+documento: "PORTARIA Nº 649, DE 26 DE NOVEMBRO DE 2019"
+tipo: portaria
+numero: 649
+data: "2019-11-26"
+ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=000f7153-42e8-4e37-945d-18f076d0eada
+atualizado_na_fonte: "2026-10-14 10:00:47"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 649, DE 26 DE NOVEMBRO DE 2019
+
+_Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista._
+
+**Data:** 2019-11-26  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 649/2019 – GABIN/SEFAZ.
+DOE nº 234, de 09.12.19 SÃO LUÍS, 26 DE NOVEMBRO DE 2019.
+
+Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista no âmbito do Programa Estadual de Apoio ao Comércio Atacadista de Peças e Acessórios para Motocicletas e Motonetas, instituído pelo Decreto nº 35.383, de 11 de novembro de 2019.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe confere o art. 69, II, da Constituição Estadual,
+
+
+R E S O L V E:
+Art. 1º O credenciamento de estabelecimento atacadista, de que trata o Decreto nº 35.383, de 11 de novembro de 2019, observará os requisitos e procedimentos dispostos nesta Portaria e será formalizado pelo contribuinte, por meio do SEFAZ.net, anexando os seguintes documentos:
+
+I - requerimento do pedido, disponível no sítio da SEFAZ, devidamente preenchido e assinado pelo sócio ou representante legal do contribuinte, com firma reconhecida;
+
+II - fotocópias:
+a) do estatuto ou contrato social e suas alterações registrados na Junta Comercial;
+
+b) das cédulas de identidade e CPF dos sócios, diretores no caso de empresa S.A. e declaração de habilitação profissional - Certidão de Regularidade Profissional dos contabilistas;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+c) do registro imobiliário do imóvel onde se situa o estabelecimento e, se alugado, com contrato de locação com firma reconhecida do locador e locatário;
+
+d) da última conta de energia elétrica do imóvel onde se situa o estabelecimento;
+
+e) dos três últimos recibos de declaração de imposto de renda dos sócios, entregues à Receita Federal do Brasil;
+
+f) da última Relação Anual de Informações Sociais – RAIS entregue ao Ministério do Trabalho ou do Protocolo de entrega da GFIP/SEFIP do Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social;
+
+g) do contrato de prestação de serviços do contador pela empresa atacadista, identificando o contratante e o contratado e acompanhado da Certidão de Regularidade Profissional dos contabilistas;
+
+h) dos certificados de registro e licenciamento ou contrato de locação da frota de veículos a serviço da empresa, quando houver, sendo que 80% (oitenta por cento) da frota deve ter obrigatoriamente emplacamento no Estado.
+
+Art. 2º O pedido de credenciamento será examinado pela Secretaria Adjunta da Administração Tributária, que emitirá parecer, no prazo de até 30 (trinta) dias, pelo deferimento ou indeferimento do pedido, com base nas informações e documentos apresentados pelo contribuinte e após as verificações pertinentes no banco de dados da SEFAZ.
+
+Parágrafo único. O prazo de que trata este artigo começa a contar no primeiro dia útil após a data de registro do pedido no SEFAZ.net.
+
+Art. 3º Só poderão se credenciar os estabelecimentos atacadistas, considerados como tal, na forma prevista no Decreto no.., que estejam enquadrados no CNAE nº 4541-2/02 - Comércio por Atacado de Peças e Acessórios para Motocicletas e Motonetas, e sejam responsáveis, na condição de substituto tributário, pela retenção e recolhimento do ICMS devido, pela entrada, neste Estado, das mercadorias a seguir indicadas:
+
+I - autopeças, componentes e acessórios para motocicletas;
+II - pneumáticos e câmaras de ar para motocicletas.
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 4º O credenciamento será concedido, inicialmente, pelo período de 06 meses, contados a partir do 1º dia do mês seguinte ao se deferimento, podendo ser renovado, anualmente, mediante solicitação do contribuinte, desde que observado as condições definidas no Decreto nº 35.383, de 11 de novembro de 2019.
+
+Art. 5º Será devido o pagamento do ICMS, em DARE específico, sob o Código de Recolhimento 101 - ICMS - Imposto, Juros e Multa, calculado na forma prevista no Decreto nº 35.383, de 11 de novembro de 2019.
+
+Art. 6º O valor do ICMS será o equivalente à carga tributária líquida resultante da aplicação, na hipótese do inciso I do art. 3º, de 10%, e, na hipótese do inciso II do art. 3º, de 13%, sobre o valor do documento fiscal relativo às entradas das mercadorias, incluídos os valores do IPI, frete e carreto, seguro e outros encargos transferidos ao destinatário.
+
+Art. 7º O Secretário da Fazenda, mediante edição de ato específico, poderá estabelecer valores mínimos de referência, os quais serão admitidos para efeito de cálculo do imposto, levando em consideração os preços praticados no mercado interno consumidor, bem como rever o percentual aplicado com vista à correção de desequilíbrio do mercado.
+
+Art. 8º O prazo de recolhimento do ICMS será até o 15º dia do mês subsequente ao da operação de entrada.
+
+Art. 9º Não será concedido o credenciamento para o contribuinte que:
+I – não tenha anexado, ao requerimento do pedido, os documentos exigidos;
+
+II – esteja em situação de inadimplência com o pagamento do ICMS;
+III – esteja omisso quanto à entrega de DIEF ou da Escrituração Fiscal Digital – EFD ou proceder a entrega em desacordo com a legislação;
+
+IV – tenha inscrição em dívida ativa;
+V – não emita regularmente Nota Fiscal Eletrônica - NFe, Nota Fiscal do Consumidor Eletrônica - NFC-e ou NF-e em operações com não contribuintes;
+
+VI – deixar de entregar documentos fiscais, quando exigidos em processo de fiscalização;
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+VII – não possuir, neste Estado, instalações físicas com capacidade de armazenamento de mercadorias compatíveis com as atividades de atacadista;
+
+VIII - no caso de realizar vendas fora do estabelecimento, possuindo frota própria ou terceirizada, não demonstrar que, no mínimo, 80% (oitenta por cento) dos veículos são licenciados no Estado, ainda que o estabelecimento tenha filial em outra unidade federada;
+
+IX - tenha praticado ação caracterizada como crime contra a ordem tributária;
+
+X - apresentar nos últimos doze meses de atividade, por 03 (três) meses consecutivos, declarações com valor do faturamento acumulado inferior a 100% (cem por cento) do valor calculado das entradas acumuladas no mesmo período, independentemente do regime de pagamento;
+
+XI - não tenha realizado faturamento anual de, no mínimo, R$
+20.000.000,00 (vinte milhões de reais), nos últimos 12 meses anteriores ao pedido, e de R$ 25.000.000,00 (vinte e cinco milhões), nos 12 meses anteriores à renovação;
+
+XII – não tenha capital social, totalmente integralizado de, no mínimo, R$ 8.000.000,00 (oito milhões de reais);
+
+XIII - tenha pedido de credenciamento negado por três vezes consecutivas nos últimos doze meses;
+
+XIV - não tenha obtido, nos dozes meses antecedentes ao pedido, valor de agregação tributário positivo em, pelo menos, 30% (trinta por cento), apurado na relação entre o somatório do valor contábil das saídas e somatório do valor contábil das entradas de mercadorias sujeitas ao regime normal de pagamento do ICMS.
+
+§ 1º O disposto nos incisos II, III, IV, VI, IX, X, XI, XII, XIII, XIV e XV do caput, aplica-se também no caso de renovação do credenciamento.
+
+§ 2º A ocorrência de qualquer situação prevista nos incisos II, III, V e X, do caput, implicará na suspensão imediata do credenciamento concedido, retornando à situação do benefício após a regularização do motivo que deu causa à suspensão.
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 3º Para efeito de credenciamento o estabelecimento deverá comprovar através da RAIS ou do Protocolo de entrega da GFIP/SEFIP do Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social a existência de, pelo menos, 20 (vinte) empregados, no primeiro credenciamento e 40 (quarenta) no período de renovação, com carteira de trabalho assinada, admitindo-se a comprovação, de parte, através de contratos de terceirização.
+
+§ 4º Suspende-se o credenciamento do contribuinte que não atender ao número mínimo de empregados registrados durante o período de fruição do credenciamento.
+
+Art. 10. O credenciamento será suspenso automaticamente através do SefazNet, no caso de:
+
+I - atraso por mais de 20 dias, no pagamento:
+a) de parcelamento;
+b) do imposto apurado pela sistemática normal e pela sistemática deste regime especial;
+
+c) do imposto diferido;
+d) devido nas demais hipóteses que constituam fato gerador do ICMS;
+II - em atraso, por mais de 20 dias, no cumprimento das obrigações acessórias, inclusive aquelas via Internet, e no caso de apresentação de informações incompletas;
+
+III - com débito formalizado em Auto de Infração, transitado em julgado na esfera administrativa, exceto se houver recurso na esfera judicial com o respectivo depósito do valor da condenação;
+
+IV - com débito inscrito na Dívida Ativa Estadual;
+V - comprovadamente envolvido em atos lesivos ao erário, considerandose, dentre outros:
+
+a) a prática de subfaturamento;
+b) a emissão ou utilização de Nota Fiscal inidônea, tal como definida na legislação tributária estadual;
+
+<!-- p. 6 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+c) a aquisição de mercadorias desacompanhadas de documentação fiscal;
+
+d) a prática de qualquer artifício tendente a ocultar o fato gerador do imposto ou reduzir o seu montante;
+
+VI - envolvido na prática de embaraço à fiscalização;
+VII - que apresentar declaração sem movimento, relativamente a período em que se identifique realização de operações ou prestações;
+
+VIII - que não atender ao disposto em intimação, dentro do prazo estabelecido pelo Fisco;
+
+IX - que não se credenciar no Domicílio Tributário Eletrônico - DTe, nas hipóteses de obrigatoriedade;
+
+X - que infringir a legislação tributária deste Estado e, especialmente, as disposições desta portaria e de outros atos complementares, ainda que não fique configurada a sonegação do imposto.
+
+Art. 11. Na hipótese de suspensão a empresa fica sujeita, além dos recolhimentos normais, ao pagamento de adicional de ICMS pelas saídas que realizar durante o período em que durar a suspensão, correspondente a aplicação do multiplicador direto de 10% incidente nas saídas com as mercadorias indicadas.
+
+§ 1º A suspensão e o retomo à situação de regularidade se dará de forma automática, por meio do SefazNet, sendo o contribuinte comunicado da ocorrência através de DTe.
+
+§ 2º O registro do adicional na DIEF se dará da seguinte forma:
+I - o valor da base de cálculo deverá ser informado na ficha “Apuração do Imposto”, no campo “adicional de ICMS 10% - Suspensão”;
+
+II - o programa efetuará o cálculo do adicional com a carga tributária de 10% (dez por cento) e transportará o valor encontrado para a ficha recolhimento do período, linha 01 - Regime Normal.
+
+§ 3º O contribuinte que não informar na DIEF o valor da base de cálculo do adicional de ICMS, terá sua declaração processada com pendência.
+
+<!-- p. 7 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 4º Será excluído do benefício fiscal o contribuinte que:
+I - não sanar no prazo de 06 meses, as causas que deram origem a suspensão, contados da data da suspensão;
+
+II - tiver sua DIEF processada com pendência e não regularizar a pendência no prazo de 30 (trinta) dias.
+
+§ 5º O contribuinte excluído, a partir do dia 1º do mês subsequente ao da exclusão, volta ao regime de tributação aplicável à atividade, e somente poderá requerer novo regime transcorrido o prazo de um ano, contado da data da exclusão.
+
+Art. 12. Na hipótese de exclusão do contribuinte do Regime Especial deverá ser levantado o estoque das mercadorias existente no estabelecimento no último dia do mês, observado o que segue:
+
+I - separar as mercadorias de acordo com a alíquota aplicável;
+II - em relação às mercadorias arroladas indicar as quantidades e os valores unitário e total, tomando-se por base o valor médio da aquisição, ou, na falta deste, o valor da aquisição mais recente, acrescido do IPI, quando for o caso, observando-se o seguinte:
+
+a) aplicar sobre o valor total de cada grupo o percentual da carga tributária líquida estabelecido para as operações internas;
+
+b) calcular a substituição tributária referente as mercadorias inventariadas utilizando o crédito proporcional das notas fiscais de aquisição e o crédito correspondente ao valor pago.
+
+§ 1º O ICMS apurado poderá ser recolhido em até 03 parcelas mensais, iguais e sucessivas, sendo a primeira com vencimento até o 15º dia do mês subsequente ao da saída do Regime Especial e as demais, até o 15º dia dos meses subsequentes.
+
+§ 2º Na hipótese em que resultar crédito fiscal do cálculo efetuado mesmo não poderá ser utilizado para abater do imposto nas operações subsequentes, devendo ser objeto de estorno.
+
+Art. 13 Revogado o credenciamento, seus efeitos ocorrerão a partir do primeiro dia do mês subsequente ao do descredenciamento.
+
+<!-- p. 8 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 1º Será disponibilizado no sítio da SEFAZ, na internet, a relação das empresas que terão os seus credenciamentos revogados.
+
+§ 2º A notificação de revogação do benefício será encaminhada para o Domicílio Tributário Eletrônico - DTe do contribuinte constante do seu cadastro junto à SEFAZ.
+
+§ 3º Sendo o benefício revogado nos termos desta Portaria, somente poderá ser novamente concedido no exercício seguinte e desde que todas as pendências tenham sido sanadas.
+
+§ 4º Cabe recurso nos casos de indeferimento do pedido de credenciamento ao benefício, renovação do credenciamento e revogação do benefício, à Secretaria Adjunta da Administração Tributária, em até 30 (trinta) dias do envio da notificação.
+
+Art. 14 Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-659-2022-20892.md>>>
 ---
 documento: "PORTARIA Nº 659, DE 22 DE NOVEMBRO DE 2022"
@@ -39107,7 +40303,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8db6b419-f537-470c-975f-9d8372a04e98
 atualizado_na_fonte: "2026-10-21 09:11:17"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39180,7 +40376,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=422cb968-899c-4b7e-a9f1-3c8ea5b8b281
 atualizado_na_fonte: "2026-10-21 09:09:35"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39258,7 +40454,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e4a8c05d-4597-4482-9657-ebe6bb9c299c
 atualizado_na_fonte: "2026-10-14 10:23:20"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39338,7 +40534,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=66cc8a10-ff90-4b8b-8dd9-64cbc1940e2f
 atualizado_na_fonte: "2026-10-14 10:24:50"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39447,7 +40643,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c35b1ce9-a052-4402-9290-037c51875398
 atualizado_na_fonte: "2026-10-28 09:22:38"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39538,7 +40734,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8df79e64-c137-49be-9101-33f89952666e
 atualizado_na_fonte: "2026-10-14 10:25:48"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39618,7 +40814,7 @@ ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=079e1f34-9586-407f-932e-aee780d7816e
 atualizado_na_fonte: "2026-10-21 08:51:52"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39695,7 +40891,7 @@ ementa: "Determina que o reconhecimento da imunidade prevista no inciso II, do a
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=333ff0f4-4a8d-42d3-8c67-665186b99eb0
 atualizado_na_fonte: "2026-10-27 09:20:13"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -39743,7 +40939,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9b992b63-0426-436d-ae6b-e7c3c1ad807b
 atualizado_na_fonte: "2026-10-27 14:32:23"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -39853,6 +41049,45 @@ SECRETARIA DE ESTADO DA FAZENDA, São Luís, 11 de dezembro de 2020.
 MARCELLUS RIBEIRO ALVES
 
 Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-794-2004-12581.md>>>
+---
+documento: "PORTARIA Nº 794, DE 16 DE NOVEMBRO DE 2004"
+tipo: portaria
+numero: 794
+data: "2004-11-16"
+ementa: "Divulga os índices de participação dos municípios maranhenses."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e3aa398d-41e4-4b8d-97d0-f7a4f37e8060
+atualizado_na_fonte: "2026-10-27 09:19:09"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 794, DE 16 DE NOVEMBRO DE 2004
+
+_Divulga os índices de participação dos municípios maranhenses._
+
+**Data:** 2004-11-16  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA GABINETE DO SECRETÁRIO PORTARIA Nº 0794 /GABIN 16 DE NOVEMBRO DE 2004 O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista as disposições da Lei Complementar nº 63, de 11 de janeiro de 1990, e da Lei Estadual nº 5.599, de 24 de dezembro de 1992,
+
+R E S O L V E:
+Art. 1º. Divulgar os índices de participação dos municípios maranhenses, constantes do Anexo, para efeito da entrega das parcelas a eles pertencentes, dos 25% (vinte e cinco por cento) do produto da arrecadação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, durante o exercício de 2005.
+Art. 2º. Esta Portaria entra em vigor na data de sua publicação.
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUIS,
+16 DE NOVEMBRO DE 2004.
+
+JOSÉ DE JESUS DO ROSÁRIO AZZOLINI Secretário de Estado da Fazenda
+
+CEGAT /UNINF / JLCS
 <<<DOC normas/portaria/portaria-826-2004-12586.md>>>
 ---
 documento: "PORTARIA Nº 826, DE 06 DE DEZEMBRO DE 2004"
@@ -39863,7 +41098,7 @@ ementa: "Determina que a análise destinada à verificação das condições da 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=75c12abd-6e45-4edb-a834-a2e3472d1472
 atualizado_na_fonte: "2026-10-27 09:14:30"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0

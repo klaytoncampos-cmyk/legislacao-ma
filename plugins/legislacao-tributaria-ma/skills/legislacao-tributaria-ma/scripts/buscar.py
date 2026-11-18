@@ -113,6 +113,8 @@ def prioridade(nome, tags):
         return (8, nome)
     if "alteradora (incorporada)" in t:
         return (6, nome)
+    if "vigência não verificada" in t:
+        return (7, nome)
     if nome.startswith("sefaz/cte"):
         return (0, nome)
     if nome.startswith("sefaz/ricms-decreto"):

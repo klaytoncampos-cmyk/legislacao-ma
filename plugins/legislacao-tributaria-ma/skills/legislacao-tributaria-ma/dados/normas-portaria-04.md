@@ -1,3 +1,10579 @@
+<<<DOC normas/portaria/portaria-368-2015-15312.md>>>
+---
+documento: "PORTARIA Nº 368, DE 03 AGOSTO DE 2015"
+tipo: portaria
+numero: 368
+data: "2015-07-31"
+ementa: "Dispõe sobre a dispensa da emissão e impressão do comprovante de pagamento com cartão de crédito ou de débito, por TEF, conjugada a equipamento Emissor de Cupom Fiscal – ECF, nos casos em que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8547eed2-6d43-4452-a8e2-f8114d6f4f8c
+atualizado_na_fonte: "2026-10-27 18:31:40"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 368, DE 03 AGOSTO DE 2015
+
+_Dispõe sobre a dispensa da emissão e impressão do comprovante de pagamento com cartão de crédito ou de débito, por TEF, conjugada a equipamento Emissor de Cupom Fiscal – ECF, nos casos em que especifica._
+
+**Data:** 2015-07-31 (data no portal: 2015-08-03 (divergente do PDF))  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+D. O. PODER EXECUTIVO QUARTA-FEIRA, 05 - AGOSTO - 2015
+21
+
+PROCURADORIA GERAL DO ESTADO
+
+PORTARIA PGE Nº20 /2015/GPG/PGE
+
+O PROCURADOR GERAL DO ESTADO, no uso de suas atribuições legais, e tendo em vista o disposto na Lei Complementar nº. 20 de 30 de junho de 1994, alterada pelas Leis complementares nº. 100, de 30 de novembro de 2006 e 150, de 02 de outubro de 2012.
+
+RESOLVE:
+
+Art.1º. Designar os Procuradores do Estado, abaixo relacionados para compor a comissão organizadora no processo de seleção dos estagiários remunerados para esta Procuradoria.
+
+Bruno Tomé Fonseca - matrícula nº 1476209;
+Daniel Palácio de Azevedo - matrícula n.º 1476217;
+Rogério Belo Pires Matos - matricula n.º 1093137;
+
+Art.2º. Dê-se ciência, publique-se, anote-se e cumpra-se.
+
+PROCURADORIA GERAL DO ESTADO, EM SÃO LUÍS (MA) 31 DE JULHO DE 2015.
+
+RODRIGO MAIA ROCHA Procurador Geral do Estado do Maranhão
+
+SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 0368/15 - GABIN. SÃO LUÍS, 3 DE AGOSTO DE 2015
+
+Dispõe sobre a dispensa da emissão e impressão do comprovante de pagamento com cartão de crédito ou de débito, por Transferência Eletrônica de Fundos - TEF, conjugada a equipamento Emissor de Cupom Fiscal - ECF, nos casos em que especifica.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e considerando o disposto no art. 3º da Lei nº 9.271, de 03 de setembro de 2010, publicada no DOE de 10.09.10,
+
+R E S O L V E:
+
+Art. 1º. Ficam dispensados da emissão e impressão do comprovante de pagamento com cartão de crédito ou de débito por Transferência Eletrônica de Fundos - TEF, conjugada a equipamento Emissor de Cupom Fiscal - ECF, os estabelecimentos de contribuintes do ICMS, a seguir indicados:
+
+I - varejistas, enquadrados no Código Nacional de Atividades Econômicas - CNAE 4731-8/00 (postos revendedores de combustíveis);
+
+II - varejistas em geral, com faturamento anual de até R$ 720.000,00 (setecentos e vinte mil reais), no exercício fiscal imediatamente anterior;
+
+III - varejistas enquadrados no Código Nacional de Atividades Econômicas - CNAE 5611-2 (RESTAURANTES E OU- TROS ESTABELECIMENTOS DE SERVIÇOS DE ALIMENTAÇÃO E BEBIDAS).
+
+Parágrafo único. Na hipótese do inciso II deste artigo, o contribuinte em início de atividade deverá levar em conta o limite do faturamento e a proporcionalidade a partir do mês do seu efetivo funcionamento.
+
+Art. 2º. Esta portaria entra em vigor na data de sua publicação e revoga a de nº 427/2011.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS
+3 DE AGOSTO DE 2015
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+
+RESOLUÇÃO ADMINISTRATIVA Nº 015/15 - GABIN. SÃO LUÍS (MA), 31 DE JULHO DE 2015.
+
+Modifica a Resolução Administrativa nº 22/2014, que disciplina o pedido de uso de equipamento Emissor de Cupom Fiscal - ECF
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+RESOLVE:
+
+Art. 1º Modificar o art. 1º da Resolução Administrativa 22/14, que passa a vigorar com a seguinte redação:
+
+"Art. 1º. Os equipamentos ECF desenvolvidos nos termos do Convênio ICMS 85/01 serão autorizados até o dia 30 de outubro de 2015.
+
+Parágrafo único. Após a data prevista no caput, somente será concedido pedido de uso de ECF de modelos que possuem Módulo Fiscal Blindado, desenvolvidos nos termos do Convênio ICMS 09/09, de 3 de abril de 2009".
+
+Art. 2º Esta Resolução Administrativa entra em vigor na data de sua publicação, retroagindo seus efeitos a 31 de maio de 2015.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+
+SECRETARIA DE ESTADO DAS CIDADES E DESENVOLVIMENTO URBANO
+
+Companhia de Saneamento Ambiental do Maranhão CAEMA
+
+A COMPANHIA DE SANEAMENTO AMBIENTAL DO MARANHÃO - CAEMA, convoca os aprovados no Concurso Edital nº 01 de 14 de abril de 2014, abaixo relacionados, nos termos do item 13.2 do referido Edital, a se apresentarem munidos de originais e cópias dos documentos exigidos nos itens 12.1 e 13.6, no dia 10 de agosto de 2015, preferencialmente, no horário de 9:00 às 11:30, à Rua Silva Jardim, nº 307 - Centro (próximo ao Hospital Materno Infantil), São Luís - MA.
+<<<DOC normas/portaria/portaria-370-2026-24600.md>>>
+---
+documento: "PORTARIA Nº 370, DE 24 DE SETEMBRO DE 2026"
+tipo: portaria
+numero: 370
+data: "2026-09-24"
+ementa: "Determina a exclusão, para fins de apuração do Valor Adicionado Fiscal (VAF), de documento fiscal inidôneo, emitido com erro de valor pelo contribuinte, conforme especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=09935b40-39f9-4d20-be45-57918fdd8024
+atualizado_na_fonte: "2026-10-13 09:09:19"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 370, DE 24 DE SETEMBRO DE 2026
+
+_Determina a exclusão, para fins de apuração do Valor Adicionado Fiscal (VAF), de documento fiscal inidôneo, emitido com erro de valor pelo contribuinte, conforme especifica._
+
+**Data:** 2026-09-24  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 370/2026 – GABIN, DE 24 SETEMBRO DE 2026 DOE n° 180, de 06.10.26
+
+Determina a exclusão, para fins de apuração do Valor Adicionado Fiscal (VAF), de documento fiscal inidôneo, emitido com erro de valor pelo contribuinte, conforme especifica.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e considerando o disposto no inciso VII do § 1º do art. 27 da Lei 7.799 de 19 de dezembro de 2002,
+
+Considerando a necessidade de a administração pública — inclusive as Secretarias de Fazenda estaduais responsáveis pela apuração do índice — agir de forma neutra, em estrita observância ao Princípio da Impessoalidade, nos termos do art. 37, caput, da Constituição Federal,
+
+Considerando, enfim, a necessidade de apurar com exatidão o valor adicionado dos municípios (ano-base 2025), assegurando uma distribuição justa e evitando o favorecimento indevido de quaisquer municipalidades,
+
+RESOLVE:
+
+Art. 1º Desconsiderar do cômputo dos valores adicionados as notas fiscais inidôneas, emitidas equivocadamente com valores expressivos, preenchidas irregularmente e incompatíveis com a apuração fiscal, lançadas nos livros fiscais de saídas pelos contribuintes especificados no quadro abaixo.
+
+Quadro: Notas Fiscais com valores expressivos
+
+INSCRIÇÃO NF DATA VALOR CHAVE NFE
+
+127673938
+141 10/04/2025 2.295.000.000,00 212504000101088431
+
+06559200000001411249 467961 126505764 1.111 23/07/2025 2.370.000.000,00
+
+00
+
+2125070000238541797 9559200000011111388 693031
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+Fonte: Livros de saídas dos contribuintes
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 24 DE SETEMBRO DE 2026.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-371-2026-24645.md>>>
+---
+documento: "PORTARIA Nº 371, DE 28 DE SETEMBRO DE 2026"
+tipo: portaria
+numero: 371
+data: "2026-09-28"
+ementa: "Dispõe sobre os procedimentos a serem adotados, em caráter provisório, para a formalização de pedidos de Restituição do Imposto sobre a Propriedade de Veículos Automotores – IPVA, durante o período de indisponibilidade do meio eletrônico previsto na Portaria GABIN nº 053, de 24 de fevereiro de 2021."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=65c1a24f-24a5-41b2-9d2d-28b0d53e6099
+atualizado_na_fonte: "2026-10-14 08:44:24"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 371, DE 28 DE SETEMBRO DE 2026
+
+_Dispõe sobre os procedimentos a serem adotados, em caráter provisório, para a formalização de pedidos de Restituição do Imposto sobre a Propriedade de Veículos Automotores – IPVA, durante o período de indisponibilidade do meio eletrônico previsto na Portaria GABIN nº 053, de 24 de fevereiro de 2021._
+
+**Data:** 2026-09-28  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 371/2026 – GABIN, DE 28DE SETEMBRO DE 2026 DOE n° 183, de 09.10.26
+
+Dispõe sobre os procedimentos a serem adotados, em caráter provisório, para a formalização de pedidos de Restituição do Imposto sobre a Propriedade de Veículos Automotores – IPVA, durante o período de indisponibilidade do meio eletrônico previsto na Portaria GABIN nº 053, de 24 de fevereiro de 2021.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e considerando o disposto no art. 214-B da Lei nº 7.799, de 19 de dezembro de 2002, c/c os arts. 24 e 25 do Decreto nº 20.685, de 23 de julho de 2004,
+
+Considerando que a Portaria GABIN nº 053, de 24 de fevereiro de 2021, estabeleceu que a solicitação de restituição do Imposto sobre a Propriedade de Veículos Automotores – IPVA será formalizada, analisada e concluída exclusivamente por meio do site da Secretaria de Estado da Fazenda do Maranhão – SEFAZ,
+
+Considerando a indisponibilidade temporária do aplicativo PAF-e – Processo Administrativo Fiscal Eletrônico/Solicitação Tributária, em razão de manutenção, circunstância que impede, durante esse período, a formalização dos pedidos de restituição de IPVA pelo meio previsto no art. 2º da Portaria GABIN nº 053, de 24 de fevereiro de 2021, e
+
+Considerando a necessidade de assegurar aos contribuintes o direito de petição e de evitar prejuízos decorrentes da impossibilidade temporária de utilização do meio ordinariamente estabelecido para a formalização dos pedidos,
+
+
+RESOLVE:
+
+Art. 1º Fica autorizada, em caráter excepcional e provisório, durante o período de indisponibilidade do aplicativo PAF-e – Processo Administrativo Fiscal Eletrônico/Solicitação Tributária, a formalização de pedidos de restituição do Imposto
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+sobre a Propriedade de Veículos Automotores – IPVA por meio do Sistema Eletrônico de Informações – SEI, mediante o canal destinado ao Usuário Externo, ou mediante protocolo nas Agências de Atendimento da Secretaria de Estado da Fazenda, ou, ainda, por meio do endereço eletrônico do Setor de Protocolo da SEFAZ, protocolo.sefaz@sefaz.ma.gov.br.
+
+§ 1º Os meios previstos no caput deste artigo serão admitidos exclusivamente durante o período de indisponibilidade do aplicativo PAF-e – Processo Administrativo Fiscal Eletrônico/ Solicitação Tributária.
+
+§ 2º Restabelecida a possibilidade de formalização dos pedidos por meio do PAF-e – Processo Administrativo Fiscal Eletrônico/Solicitação Tributária, os pedidos de restituição de IPVA deverão observar, integralmente, o procedimento estabelecido na Portaria GABIN nº 053, de 24 de fevereiro de 2021.
+
+Art. 2º O pedido de restituição de IPVA deverá ser instruído, obrigatoriamente, com os seguintes documentos:
+
+I – requerimento devidamente assinado pelo proprietário do veículo ou por seu bastante procurador, acompanhado, neste último caso, de procuração com firma reconhecida ou de procuração eletrônica passível de autenticação, no qual deverão ser descritos a situação e os motivos que fundamentam o pedido de restituição;
+
+II – documento de identificação do requerente e, quando for o caso, do procurador;
+
+III – Certificado de Registro e Licenciamento de Veículo – CRLV-e;
+IV – comprovante de pagamento do IPVA objeto do pedido de restituição; e
+V – comprovante de titularidade da conta bancária indicada para o recebimento da restituição.
+
+Parágrafo único. A ausência de qualquer dos documentos exigidos neste artigo poderá ensejar a realização de diligência para complementação da instrução processual.
+
+Art. 3º Os pedidos formalizados na forma desta Portaria serão submetidos à análise e à conclusão pelo setor competente, observadas as disposições da legislação tributária aplicável e, no que couber, os procedimentos estabelecidos na Portaria GABIN nº 053, de 24 de fevereiro de 2021 e na Portaria GABIN nº 449, de 14 de outubro de 2021.
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 4º A presente autorização possui caráter excepcional e temporário e não altera, em caráter permanente, o procedimento estabelecido pela Portaria GABIN nº 053, de 24 de fevereiro de 2021.
+
+Art. 5º Os pedidos de restituição de IPVA formalizados durante a vigência desta Portaria produzirão os mesmos efeitos administrativos daqueles apresentados pelo meio ordinariamente previsto na Portaria GABIN nº 053, de 24 de fevereiro de 2021, desde que atendidos os requisitos legais e regulamentares aplicáveis.
+
+Art. 6º Esta Portaria entra em vigor na data de sua publicação, produzindo efeitos desde a data em que se verificou a indisponibilidade da aplicação do PAF-e, cessando sua vigência na data de restabelecimento do referido meio de formalização.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA DO MARANHÃO, EM SÃO LUÍS, 28 DE SETEMBRO DE 2026.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-372-2017-16662.md>>>
+---
+documento: "PORTARIA Nº 372, DE 18 DE AGOSTO DE 2017"
+tipo: portaria
+numero: 372
+data: "2017-08-18"
+ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e6115fa5-09fe-4a26-a7fc-063dbf419d63
+atualizado_na_fonte: "2026-10-22 10:07:18"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 4.24, RICMS"
+situacao: "REVOGADA"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 372, DE 18 DE AGOSTO DE 2017
+
+_Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos._
+
+**Data:** 2017-08-18  
+**Remete a:** Anexo 4.24, RICMS  
+**Situação:** REVOGADA
+
+> REVOGADA pela portaria 410/2025 (normas/portaria/portaria-410-2025-23042.md): "6º Fica revogada a Portaria nº 372/2017."
+> REVOGADA pela portaria 410/2025 (normas/portaria/portaria-410-2025-23042.md), segundo anotação no cabeçalho do próprio PDF: "Revogada pela Portaria n° 410/25"
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 372/2017 - GABIN DE 18 DE AGOSTO 2017.
+D.O.E. 25.08.2017.
+Revogada pela Portaria n° 410/25
+
+
+Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe confere o art. 69, II, da Constituição Estadual,
+
+R E S O L V E:
+
+Art. 1º O credenciamento de estabelecimentos atacadistas de produtos farmacêuticos, de que trata o Anexo 4.24 (Operações Realizadas com Estabelecimentos Atacadistas de Produtos Farmacêuticos) do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, com a redação dada pelo Decreto nº 33.117, de 14 de julho de 2017, observará aos requisitos e procedimentos dispostos nesta Portaria.
+
+Art. 2º O pedido de credenciamento será formalizado pelo contribuinte por meio do sítio desta Secretaria de Estado da Fazenda na internet, via SEFAZ.net, anexando os seguintes documentos:
+
+I - requerimento do pedido, disponível no sítio da SEFAZ, devidamente preenchido e assinado pelo titular ou representante legal do contribuinte, com firma reconhecida em cartório;
+
+II - fotocópias dos seguintes documentos:
+
+
+a) instrumento constitutivo da empresa (estatuto ou contrato social e aditivos) registrados na Junta Comercial;
+
+
+b) cédulas de identidade e CPF dos sócios, ou diretores no caso de empresa S.A.;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+c) registro imobiliário do imóvel onde se situa o estabelecimento e, se alugado, com contrato de locação com firma reconhecida em Cartório do locador e locatário;
+
+
+d) última conta de energia elétrica do imóvel onde se situa o estabelecimento;
+
+
+e) três últimos recibos de declaração de imposto de renda dos sócios, entregues à Receita Federal do Brasil;
+
+
+f) última Relação Anual de Informações Sociais - RAIS entregue ao Ministério do Trabalho, devidamente autenticada;
+
+
+g) GFIP (Guia de Recolhimento do FGTS e de Informações à Previdência Social) do mês anterior ao pedido de credenciamento;
+
+h) contrato de prestação de serviços do contador pela empresa atacadista, identificando o contratante e o contratado, devidamente registrado em cartório e acompanhado da Declaração de Habilitação Profissional - DHP dos contabilistas;
+
+
+i) licença da ANVISA - Agência Nacional de Vigilância Sanitária.
+
+Art. 3º Não será concedido credenciamento para o contribuinte que:
+
+
+I - esteja em situação de irregularidade fiscal e/ou cadastral;
+
+II - esteja omisso quanto à entrega de Declaração de Informações Econômico-Fiscais - DIEF ou da Escrituração Fiscal Digital - EFD ou proceder a entrega em desacordo com a legislação;
+
+
+III - apresentar nos últimos doze meses de atividade, por 03(três) meses consecutivos, declarações com valor do faturamento acumulado inferior a 100% do valor das entradas acumuladas no mesmo período, independentemente do regime de pagamento;
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+IV - não tenha realizado faturamento anual de, pelo menos, R$ 4.000.000,00 (quatro milhões de reais) no exercício anterior ao do pedido, ou, em se tratando de empresa em início de atividade, não ter média mensal de faturamento correspondente a R$ 333.333,33 (trezentos e trinta e três mil trezentos e trinta e três reais e trinta e três centavos).
+
+Art. 4º Para fruição do benefício de que trata esta Portaria, o contribuinte devera comprovar número de empregados, com carteira de trabalho assinada, de acordo com faixa de faturamento constante na tabela abaixo:
+
+FATURAMENTO MENSAL EMPREGADOS
+
+(MÍNIMO) A partir de R$ 333.333,33 até R$ 500.000,00
+08
+
+Mais de R$ 500.000,00 até R$ 1.000.000,00
+12
+
+Mais de R$ 1.000.000,00 até R$ 2.000.000,00
+16
+
+Mais de R$ 2.000.000,00 até R$ 3.000.000,00
+20
+
+Mais de R$ 3.000.000,00 até R$ 4.000.000,00
+24
+
+Mais de R$ 4.000.000,00 até R$ 5.000.000,00
+28
+
+Mais de R$ 5.000.000,00 até R$ 6.000.000,00
+32 Mais de R$ 6.000.000,00 até R$ 7.000.000,00
+36 Mais de R$ 7.000.000,00
+40
+Art. 5º Não havendo impeditivos para a concessão do Termo de Credenciamento, este será expedido com validade de 24 (vinte e quatro) meses, contendo, no mínimo, as seguintes informações:
+
+I - identificação do contribuinte credenciado;
+
+II - número e data da expedição do termo;
+
+III - período de vigência do credenciamento.
+
+§ 1º O prazo previsto no caput deste artigo não se aplica às empresas em início de atividade, que terão o credenciamento concedido pelo prazo de 6 (seis) meses.
+
+§ 2º Para efeitos do prazo previsto no § 1º deste artigo, considera-se início de atividade a empresa que tenha até 11 (onze) meses de atividade antes do pedido de credenciamento.
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 3º Após o prazo estabelecido no § 1º deste artigo, tendo o contribuinte mantido ou superado a média mensal de faturamento indicada no inciso V do art. 3º, o Termo de Credenciamento será revalidado por mais 18 meses, contados do primeiro dia do sétimo mês.
+
+§ 4º Os Termos de credenciamento serão renovados automaticamente por mais 24 (vinte e quatro) meses se o contribuinte mantiver as condições de regularidade fiscal e de concessão do benefício de que trata esta Portaria.
+
+Art. 6º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-375-2016-16067.md>>>
+---
+documento: "PORTARIA Nº 375, DE 29 DE SETEMBRO DE 2016"
+tipo: portaria
+numero: 375
+data: "2016-09-29"
+ementa: "Dispõe sobre a suspensão/cancelamento de benefícios fiscais de empresas amparadas pelos Programas SINCOEX e PROMARANHÃO."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5bfea00c-e43d-4f38-96d3-1dcf27cfc93c
+atualizado_na_fonte: "2026-10-20 08:22:33"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 375, DE 29 DE SETEMBRO DE 2016
+
+_Dispõe sobre a suspensão/cancelamento de benefícios fiscais de empresas amparadas pelos Programas SINCOEX e PROMARANHÃO._
+
+**Data:** 2016-09-29  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N.º 375/2016 - GABIN SÃO LUÍS, 29 DE SETEMBRO DE 2016.
+D.O.E. 07.10.2016.
+
+Dispõe sobre a suspensão/cancelamento de benefícios fiscais de empresas amparadas pelos Programas SINCOEX e PROMARANHÃO.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, na forma do disposto no parágrafo único do art. 18 da Lei 10.259/15, e,
+
+
+Considerando as irregularidades fiscais e a inadimplência com o pagamento do ICMS das empresas indicadas e o disposto no caput e incisos I e II, do art. 18, bem como no § 1º do art. 19, todos da Lei 10.259/15.
+
+RESOLVE:
+
+Art. 1º Ficam suspensos/cancelados os benefícios fiscais concedidos no âmbito das Leis nos. 5.261/91 e 6.429/95 (SINCOEX) e da Lei no. 9.121/10 (PROMARANHÃO) às empresas indicadas em anexo.
+
+
+Art. 2º Determinar a cobrança no que couber de todo o valor do incentivo utilizado indevidamente pelas mesmas na forma do § 1º do art. 19 da Lei 10.259/15.
+
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luís 29 de setembro de 2016.
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+ANEXO I (Portaria nº 375/2016/GABIN/SEFAZ)
+
+RELAÇÃO DE EMPRESAS INCENTIVADAS COM PENDÊNCIAS TRIBUTÁRIAS
+
+ITEM
+
+EMPRESA
+
+
+CNPJ/CAD ICMS
+
+PROGRAMA
+
+DECISÃO
+
+01
+
+ALUITZ INDÚSTRIA METALURGICA LTDA
+
+19.463.594/0001-03
+
+12.427.392-0
+
+PROMARANHÃO
+
+
+SUSPENSÃO
+
+02
+
+CERAMICA BLOCO FORTE LTDA
+
+41.469.503/0001-98
+
+12.116.429-2
+
+SINCOEX
+
+
+CANCELAMENTO
+
+03
+
+FINORTE S/A INDÚSTRIA TEXTIL
+
+02.092.356/0001-28
+
+12.171.752-6
+
+SINCOEX
+
+
+CANCELAMENTO
+
+04
+
+EMBREPACK EMBALAGENS DO NORDESTE LTDA
+
+02.626.608/0001-51
+
+12.166.345-0
+
+SINCOEX
+
+
+CANCELAMENTO
+
+05
+
+CIFITEX-CIA INSDÚSTRIAL DE FIOS TEXTEIS
+
+12.134.896/0001-80
+
+12.100.596-8
+
+SINCOEX
+
+
+CANCELAMENTO
+
+06
+
+TOCANTINS REFRIGERANTES LTDA
+
+06.375.398/0001-27
+
+12.078.440-8
+
+SINCOEX
+
+
+CANCELAMENTO
+
+07
+
+DESIGNER CRIAÇÕES LTDA
+
+02.158.217/0001-50
+
+12.160.594-9
+
+SINCOEX
+
+
+SUSPENSÃO
+
+08
+
+CEPEL CELULOSE E PAPÉS LTDA
+
+05.514.852/0001-10
+
+12.206.190-0
+
+SINCOEX
+
+
+SUSPENSÃO
+
+09
+
+BERTIN LTDA
+
+01.597.168/0066-34
+
+12.233.929-0
+
+SINCOEX
+
+
+SUSPENSÃO
+<<<DOC normas/portaria/portaria-376-2023-21004.md>>>
+---
+documento: "PORTARIA Nº 376, DE 17 DE AGOSTO DE 2023"
+tipo: portaria
+numero: 376
+data: "2023-08-17"
+ementa: "Altera a Portaria nº 175/2018 – GABIN, que dispõe sobre os critérios para o Credenciamento de conta Gráfica e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a549f3ef-beef-4df7-a30a-6bf080d0659a
+atualizado_na_fonte: "2026-10-15 09:59:19"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 376, DE 17 DE AGOSTO DE 2023
+
+_Altera a Portaria nº 175/2018 – GABIN, que dispõe sobre os critérios para o Credenciamento de conta Gráfica e dá outras providências._
+
+**Data:** 2023-08-17  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+PORTARIA Nº 376/2023-GABIN
+
+São Luís, 17 de agosto de 2023
+
+Altera a Portaria nº 175/2018 – GABIN, que dispõe sobre os critérios para o Credenciamento de conta Gráfica e dá outras providências.
+O SECRETÁRIO DE ESTADO DA FAZENDA, em exercício, no uso de suas atribuições e tendo em vista o disposto na Lei nº 10.708, de 27 de outubro de 2017;
+
+RESOLVE:
+
+Art. 1º - Fica acrescido o Art. 11-B à Portaria nº 175/2018 com a seguinte redação: “Art. 11-B. Produtores rurais exportadores com créditos acumulados de ICMS poderão, em substituição ao previsto no Art. 11, optar pelo recolhimento em conta gráfica do ICMS devido nas saídas tributadas em operações internas e interestaduais com milho, milheto, soja e sorgo, com utilização do saldo credor acumulado para compensação do imposto devido.
+Parágrafo primeiro. A opção pelo credenciamento nos termos do caput deste artigo não autoriza o aproveitamento de crédito presumido previsto no Art. 11
+Parágrafo segundo. O credenciamento nos termos do caput deste artigo exige a análise do Setor de Comércio Exterior desta Secretaria, que emitirá parecer pelo deferimento ou indeferimento com base na regularidade fiscal e cadastral do contribuinte e demais requisitos previstos nesta Portaria.”
+
+Art. 2º - Esta Portaria entra em vigor na data de sua publicação
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE STADO DA FAZENDA, EM SÃO LUÍS, 17 DE AGOSTO DE 2023
+
+FERNANDO ANTONIO RESENDE DE JESUS
+
+Secretário de Estado da Fazenda, em exercício.
+
+<!-- p. 2 -->
+<<<DOC normas/portaria/portaria-377-2015-15313.md>>>
+---
+documento: "PORTARIA Nº 377, DE 05 AGOSTO DE 2015"
+tipo: portaria
+numero: 377
+data: "2015-08-05"
+ementa: "Revoga os regimes especiais de tributação que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3f777afc-282f-4bfb-8976-1b479480139b
+atualizado_na_fonte: "2026-10-27 18:31:32"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 377, DE 05 AGOSTO DE 2015
+
+_Revoga os regimes especiais de tributação que especifica._
+
+**Data:** 2015-08-05  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 377/15 - GABIN. SÃO LUÍS (MA), 05 DE AGOSTO DE 2015.
+DOE 11.08.2015
+
+Revoga os regimes especiais de tributação que especifica.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e tendo em vista a prerrogativa inscrita no art. 578 do RICMS/2003, combinado com o § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, e com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade
+
+RESOLVE:
+
+Art. 1º Ficam revogados todos os regimes especiais editados pela Secretaria de Estado da Fazenda que autorizam o uso do crédito de energia elétrica utilizada em outros fins que não no processo de industrialização, processo esse tal como definido no Regulamento do Imposto sobre Produtos Industrializados - RIPI, aprovado pelo Decreto nº 7.212/2010.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 05 DE AGOSTO DE 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+<<<DOC normas/portaria/portaria-377-2021-20301.md>>>
+---
+documento: "PORTARIA Nº 377, DE 14 DE SETEMBRO DE 2021"
+tipo: portaria
+numero: 377
+data: "2021-09-14"
+ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9437e4f2-3832-4777-831f-837ea78c22ef
+atualizado_na_fonte: "2026-10-19 09:27:59"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.4, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 377, DE 14 DE SETEMBRO DE 2021
+
+_Altera o Anexo III da Portaria 535/2015 - GABIN._
+
+**Data:** 2021-09-14  
+**Remete a:** Anexo 1.4, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 377/21 - GABIN.
+DOE nº 175, de 17.09.21
+
+SÃO LUÍS, 14 DE SETEMBRO DE 2021.
+
+
+Altera o Anexo III da Portaria 535/2015 - GABIN.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+RESOLVE:
+
+Art. 1º Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 2015, que trata da previsão de consumo de óleo diesel marítimo nas operações internas destinadas às operadoras maranhenses do Sistema Ferry Boat, prevista no art. 25 do Anexo 1.4 do RICMS, aprovado pelo Decreto nº 19.714/03, que passa a vigorar com a seguinte redação:
+
+
+
+ANEXO III - DA PORTARIA 535/2015 – GABIN
+
+PREVISÃO DO CONSUMO DE ÓLEO DIESEL DO PERÍODO 10.2021
+
+NOME DA DISTRIBUIDORA CNPJ DA DISTRIBUIDORA
+
+MÊS DA PREVISÃO
+
+LITROS PREVISTOS
+
+IPIRANGA PRODUTOS DE PETRÓLEO SA
+
+33.337.122/0043-86 10.2021 360.000,00
+
+TOTAL: 10.2021 360.000,00 RELAÇÃO DAS EMPRESAS DE TRANSPORTE FERRY BOAT CREDENCIADAS PARA USO DO BENEFÍCIO PREVISTO NO ART. 25 DO ANEXO 1.4 DO RICMS, NO PERÍODO 10.2021.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+NOME CNPJ
+
+SERVIPORTO – SERVIÇOS PORTUÁRIOS LTDA
+12.097.762/0001 - 37
+
+INTERNACIONAL MARÍTIMA LTDA
+12.539.110/0001 - 05
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de outubro de 2021.
+
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 14 DE SETEMBRO DE 2021.
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-378-2011-13465.md>>>
+---
+documento: "PORTARIA Nº 378, DE 20 DE JULHO DE 2011"
+tipo: portaria
+numero: 378
+data: "2011-07-20"
+ementa: "Aprovar procedimento operacional padrão POP para concessão do de Incentivo à Regularização de débitos fiscais do Estado do Maranhão previsto na Resolução nº 01/2011, constante do Anexo I desta Portaria."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1556c761-ee9d-44b3-baad-a81b7a96bdef
+atualizado_na_fonte: "2026-10-28 14:40:47"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 378, DE 20 DE JULHO DE 2011
+
+_Aprovar procedimento operacional padrão POP para concessão do de Incentivo à Regularização de débitos fiscais do Estado do Maranhão previsto na Resolução nº 01/2011, constante do Anexo I desta Portaria._
+
+**Data:** 2011-07-20  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA N º 378/GABIN DE 20 DE JULHO DE 2011
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições,
+
+R E S O L V E
+
+Art. 1º Aprovar procedimento operacional padrão – POP para
+
+concessão do de Incentivo à Regularização de débitos fiscais do Estado do Maranhão
+
+previsto na Resolução nº 01/2011, constante do Anexo I desta Portaria.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação,
+
+retroagindo seus efeitos a partir de 13 de julho de 2011.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luís 20 de julho de 2011.
+
+
+CLÁUDIO JOSÉ TRINCHÃO SANTOS Secretário de Estado da Fazenda
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+ANEXO PORTARIA N º 378/GABIN DE 20 DE JULHO DE 2011
+
+Secretaria de Estado da Fazenda Célula de Gestão da Ação Fiscal Cobrança Administrativa
+
+Procedimento Operacional Padrão - POP
+
+Versão nº.: 01 Elaborado em: 20/07/2011
+
+Incentivo para regularização de débitos fiscais - pagamento em cota única com dispensa parcial de Multas e Juros.
+
+Aprovado em: 20/07/2011
+
+Formulários/Instrumentos Envolvidos:  Resolução nº 01/2011- SEFAZ;  Sistema Integrado da Administração Tributária - SIAT  SEFAZ. NET
+
+Responsável Procedimentos para pagamento em cota única
+
+Contribuinte
+
+1. Para pagamento em cota única do crédito tributário - CT, imprimir o DARE pelo site www.sefaz.ma.gov.br, escolhendo a opção “DARE”.
+2. Para emissão do DARE, selecionar o tipo - contribuinte do ICMS;
+3. Indicar a inscrição estadual para exibir os dados do contribuinte;
+4. Preencher o DARE conforme orientação de preenchimento, podendo recolher um ou mais débito em um mesmo documento – DARE Consolidado;
+5. No preenchimento selecionar o tipo de débito (ICMS, Auto de Infração, TVI, Honorários, Cartão de Crédito):
+a) Se ICMS escolher o código receita conforme natureza do débito:
+
+ 101 para valor declarado;  110 para FUMACOP;  112 para ICMS Complementar e Débito de cartão de crédito (conta corrente 7);
+b) Se Auto de Infração ou Notificação de Lançamento escolher o código de receita conforme natureza do débito:
+
+ 102 para AI não inscrito em dívida ativa  107 para debito inscrito na dívida ativa
+c) Se honorários advocatícios escolher o código de receita 405;
+d) Se TVI, escolher o código de receita 109;
+6. Para pagamento em cota única do saldo do parcelamento, o contribuinte deverá procurar a qualquer agência de atendimento;
+
+Agências de Atendimento
+
+7. Quando solicitado, emitir o DARE para pagamento em cota única do crédito tributário - CT, relativo a Valor Declarado, Auto de Infração, Notificação de Lançamento, TVI e diferença de cartão de crédito acessando a Visão Integral Tributária do referido débito.
+8. Para pagamento em cota única do saldo do parcelamento, o atendente deverá acessar no Módulo Visão Integral, opção parcelamento, escolher o parcelamento para abrir a conta corrente 4 e clicar no botão pagamento total onde está disponibilizado o cálculo e a opção para impressão do DARE (Só é possível esse procedimento se o parcelamento estiver ativo);
+9. Se o percentual de honorários não estiver no sistema da SEFAZ, procurar a
+
+<!-- p. 3 -->
+Secretaria de Estado da Fazenda Célula de Gestão da Ação Fiscal Cobrança Administrativa
+
+Procedimento Operacional Padrão - POP
+
+Versão nº.: 01 Elaborado em: 20/07/2011
+
+Área de Recuperação da Receita para obter o percentual dos honorários;
+10. Para crédito tributário que aguardam julgamento no Tribunal Administrativo de Recursos Fiscais, solicitar da empresa a desistência da impugnação ou recurso.
+11. No caso de extinção do crédito tributário (Auto de Infração e Notificação de Lançamento) pago na forma da Resolução nº 01/2011- SEFAZ, o gestor da Unidade de Processo e Cobrança ou gestor da agência adotará as seguintes providências:
+a) Emitir relatório da conta corrente do crédito tributário e anexar ao processo fiscal (se existir um processo físico);
+b) Encaminhar o processo fiscal cujo crédito tributário foi extinto, ao Arquivo da SEFAZ, obedecendo às seguintes orientações:
+
+ Se o processo pertencer ao módulo Dossiê Anterior, atualizar a situação para pagamento total e encaminhar o processo para a localização: arquivo da SEFAZ – motivo do arquivamento: pagamento Resolução nº 1/2011- SEFAZ;  Se o processo pertencer ao SIPAF, encaminhar o processo ao arquivo da SEFAZ, conforme parâmetro do sistema, mesmo que não exista processo físico (Notificação de Lançamento).
+
+Tribunal Administrativo Fiscal – TARF;
+
+12. Antes do proferimento das decisões ou acórdão, a partir de 13/07/2011, mesmo que o processo tenha sido distribuído para a autoridade julgadora em data anterior, consultar a conta corrente para verificar se o débito foi quitado pelo benefício da Resolução nº 01/2011- SEFAZ;
+
+
+COTEA/ Recuperação da Receita;
+
+13. No caso de extinção do crédito tributário (Auto de Infração e Notificação de Lançamento) pago na forma da Resolução nº 01/2011- SEFAZ, o gestor da Área de Recuperação da Receita adotará as seguintes providências:
+a) Emitir relatório da conta corrente do crédito tributário e anexar ao processo fiscal (se existir um processo físico);
+b) Encaminhar o processo fiscal cujo crédito tributário foi extinto, ao Arquivo da SEFAZ, obedecendo as seguintes orientações:
+
+ Se o processo pertencer ao módulo Dossiê Anterior, atualizar a situação para pagamento total e encaminhar o processo para a localização: arquivo da SEFAZ – motivo do arquivamento: pagamento Resolução nº 1/2011- SEFAZ;  Se o processo pertencer ao SIPAF, encaminhar o processo ao arquivo da SEFAZ, conforme parâmetro do sistema, mesmo que não exista processo físico (Notificação de Lançamento).
+14. Comunicar a PGE, preferencialmente via SIAT, que o crédito tributário foi extinto.
+
+CEGAF/Cobrança
+
+15. Acompanhar a extinção do crédito tributário pago na forma da Resolução nº 01/2011- SEFAZ, por unidade, por meio dos relatórios gerenciais;
+16. Solicitar ajustes na conta corrente para aplicação do benefício da Resolução nº 01/2011- SEFAZ;
+17. Solicitar a inclusão no Módulo Dossiê Anterior, na fase “arquivo da SEFAZ – motivo do arquivamento”, a opção: pagamento integral Resolução nº 01/2011- SEFAZ.
+<<<DOC normas/portaria/portaria-378-2015-15314.md>>>
+---
+documento: "PORTARIA Nº 378, DE 05 AGOSTO DE 2015"
+tipo: portaria
+numero: 378
+data: "2015-08-05"
+ementa: "Revoga os regimes especiais de tributação que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=210cd9b6-902d-4675-8067-df5ddf52b654
+atualizado_na_fonte: "2026-10-27 18:31:25"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 378, DE 05 AGOSTO DE 2015
+
+_Revoga os regimes especiais de tributação que especifica._
+
+**Data:** 2015-08-05  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 378/15 - GABIN. SÃO LUÍS (MA), 05 DE AGOSTO DE 2015.
+DOE 11.08.2015
+
+Revoga os regimes especiais de tributação que especifica.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e tendo em vista a prerrogativa inscrita no art. 578 do RICMS/2003, combinado com o § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, e com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade
+
+RESOLVE:
+
+Art. 1º Ficam revogados todos os regimes especiais editados pela Secretaria de Estado da Fazenda que concedem benefícios fiscais que resultem em diminuição da carga tributária às empresas maranhenses, em operações internas e interestaduais com grãos (arroz, milho, milheto, soja e sorgo).
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 05 DE AGOSTO DE 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-379-2015-15315.md>>>
+---
+documento: "PORTARIA Nº 379, DE 05 AGOSTO DE 2015"
+tipo: portaria
+numero: 379
+data: "2015-08-05"
+ementa: "Revoga os regimes especiais de tributação que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2ac3c262-fca2-44be-a3be-6d86a541df69
+atualizado_na_fonte: "2026-10-27 18:31:18"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 379, DE 05 AGOSTO DE 2015
+
+_Revoga os regimes especiais de tributação que especifica._
+
+**Data:** 2015-08-05  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 379/15 - GABIN. SÃO LUÍS (MA), 05 DE AGOSTO DE 2015. 11.08.2015
+
+Revoga os regimes especiais de tributação que especifica.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e tendo em vista a prerrogativa inscrita no art. 578 do RICMS/2003, combinado com o § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, e com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade
+
+RESOLVE:
+
+Art. 1º Ficam revogados todos os regimes especiais editados pela Secretaria de Estado da Fazenda que concedem crédito presumido às empresas varejistas de tecidos, de modo que a carga tributária resulte em 4% (quatro por cento) sobre o valor das operações de saídas internas e 2% (dois por cento) sobre o valor das operações de saídas interestaduais.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 05 DE AGOSTO DE 2015.
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-379-2024-21146.md>>>
+---
+documento: "PORTARIA Nº 379, DE 23 DE SETEMBRO DE 2024"
+tipo: portaria
+numero: 379
+data: "2024-09-13"
+ementa: "Dispõe sobre os requisitos e os procedimentos para o credenciamento previsto no Anexo 4.14 do RICMS, no que se refere à utilização de MVA ajustada para definição da base de cálculo nas operações interestaduais que destinem mercadorias a revendedores que efetuem venda porta-a-porta."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ac6e4f62-03ff-473f-9feb-1b462805c9e8
+atualizado_na_fonte: "2026-10-09 18:39:29"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 4.14, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 379, DE 23 DE SETEMBRO DE 2024
+
+_Dispõe sobre os requisitos e os procedimentos para o credenciamento previsto no Anexo 4.14 do RICMS, no que se refere à utilização de MVA ajustada para definição da base de cálculo nas operações interestaduais que destinem mercadorias a revendedores que efetuem venda porta-a-porta._
+
+**Data:** 2024-09-13 (data no portal: 2024-09-23 (divergente do PDF))  
+**Remete a:** Anexo 4.14, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 379/2024 – GABIN DOE n° 181, de 23.09.24
+
+Dispõe sobre os requisitos e os procedimentos para o credenciamento previsto no Anexo 4.14 do RICMS, no que se refere à utilização de MVA ajustada para definição da base de cálculo nas operações interestaduais que destinem mercadorias a revendedores que efetuem venda porta-a-porta.
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, e,
+
+Considerando o que dispõe o art. 69, II, da Constituição do Estado do Maranhão, Considerando o Decreto 19.714, de 10 de julho de 2003, que dispõe sobre o regulamento do ICMS no Estado do Maranhão,
+
+R E S O L V E:
+
+Art. 1º Estabelecer os requisitos e procedimentos para a realização do credenciamento pelos contribuintes interessados, conforme trata o § 2º do art. 3º do Anexo 4.14 do Regulamento do ICMS - RICMS (Substituição tributária nas operações que destinem mercadorias a revendedores que efetuem venda porta-a-porta), que observará o disposto nesta Portaria.
+
+Art. 2º O pedido de credenciamento será formalizado pelo contribuinte por meio do site da Secretaria Estadual da Fazenda do Maranhão (SEFAZ/MA), via SEFAZ.net, anexando os seguintes documentos:
+
+I - requerimento do pedido, disponível no site da SEFAZ/ MA, devidamente preenchido e assinado pelo titular ou representante legal do contribuinte, com firma reconhecida em cartório;
+
+II - cópias dos seguintes documentos:
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+a) instrumento constitutivo da empresa (estatuto ou contrato social e aditivos) registrados na Junta Comercial;
+
+b) cédulas de identidade e CPF dos sócios, ou diretores no caso de empresa S.A.
+§ 1º Não será concedido credenciamento para o contribuinte que:
+I - esteja em situação de irregularidade fiscal e/ou cadastral;
+II - esteja omisso quanto à entrega da Guia Nacional de Informação e Apuração do ICMS Substituição Tributária – GIA-ST - ou da Escrituração Fiscal Digital – EFD, bem como proceder à entrega em desacordo com a legislação;
+
+III - esteja em situação irregular no envio dos catálogos com preços sugeridos ao consumidor em formato e procedimentos previstos no Anexo 4.14 do RICMS.
+
+§ 2º O deferimento do credenciamento implica a aceitação pelo contribuinte credenciado do Domicílio Tributário Eletrônico (DTE) como meio de comunicação entre ele e a SEFAZ/MA.
+
+§ 3º Se, ao longo do prazo de vigência do credenciamento, for verificado que o contribuinte incorre em alguma das hipóteses relacionadas nos incisos do parágrafo §1º deste artigo, nos termos da legislação tributária, o mesmo poderá ter seus efeitos suspensos por ato de ofício da Administração Tributária, precedido de intimação, na qual se relatarão os fatos que justifiquem a suspensão, sendo concedido ao contribuinte o prazo de 20 (vinte) dias para esclarecimentos e regularização.
+
+§ 4º No caso de reincidência das hipóteses previstas no parágrafo anterior, durante a vigência do credenciamento, a suspensão poderá ser imediata, sendo dispensada a abertura de prazo para esclarecimentos e regularização.
+
+Art. 3º Não havendo impeditivos para a concessão do Termo de Credenciamento, este será expedido com validade de até 24 (vinte e quatro) meses, contendo, no mínimo, as seguintes informações:
+
+I - identificação do contribuinte credenciado;
+II - número e data da expedição do termo;
+III - período de vigência do credenciamento.
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Parágrafo único. O contribuinte deverá solicitar a renovação do credenciamento até 90 (noventa) dias antes do término do prazo previsto no Termo de Credenciamento.
+
+Art. 4º A gestão, controle e monitoramento de todo o processo de credenciamento a que se refere esta portaria serão realizados pelo Corpo Técnico para Ação Fiscal de Fiscalização de Substituição Tributária da SEFAZ/MA.
+
+Art. 5º O presente credenciamento está sujeito à legislação vigente e à superveniente, podendo ser alterado ou revogado, a qualquer tempo, a critério da Administração Tributária ou em virtude de situação de irregularidade fiscal ou cadastral.
+
+Art. 6º O pedido de credenciamento será deferido por ato da Secretaria Adjunta, com validade prevista no Termo de Credenciamento.
+
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, São Luís, 13 de setembro de 2024.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-380-2015-15316.md>>>
+---
+documento: "PORTARIA Nº 380, DE 05 AGOSTO DE 2015"
+tipo: portaria
+numero: 380
+data: "2015-08-05"
+ementa: "Revoga os regimes especiais de tributação que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=58d814a9-f0c9-4154-93e3-18fb5fad0c42
+atualizado_na_fonte: "2026-10-27 18:31:11"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 380, DE 05 AGOSTO DE 2015
+
+_Revoga os regimes especiais de tributação que especifica._
+
+**Data:** 2015-08-05  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 380/15 - GABIN. SÃO LUÍS (MA), 05 DE AGOSTO DE 2015.
+Doe 11.08.2015
+
+Revoga os regimes especiais de tributação que especifica.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e tendo em vista a prerrogativa inscrita no art. 578 do RICMS/2003, combinado com o § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, e com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade
+
+RESOLVE:
+
+Art. 1º Ficam revogados todos os regimes especiais editados pela Secretaria de Estado da Fazenda que concedem benefícios fiscais que resultem em diminuição da carga tributária às empresas maranhenses, em operações internas e interestaduais com aves e seus derivados.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 05 DE AGOSTO DE 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-380-2026-24703.md>>>
+---
+documento: "PORTARIA Nº 380, DE 01 DE OUTUBRO DE 2026"
+tipo: portaria
+numero: 380
+data: "2026-10-01"
+ementa: "Modifica a Portaria nº 410-GABIN, de 03 de dezembro de 2025, que dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=722179fa-06fa-4164-8e8e-e24fb7a80cd1
+atualizado_na_fonte: "2026-10-29 08:49:58"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 4.24, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 380, DE 01 DE OUTUBRO DE 2026
+
+_Modifica a Portaria nº 410-GABIN, de 03 de dezembro de 2025, que dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS._
+
+**Data:** 2026-10-01  
+**Remete a:** Anexo 4.24, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 380 – GABIN, DE 01 DE OUTUBRO DE 2026 DOE n° 193, de 26.10.26
+
+Modifica a Portaria nº 410-GABIN, de 03 de dezembro de 2025, que dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, conferidas pelo art. 69, inciso II, da Constituição Estadual,
+
+RESOLVE:
+
+Art. 1º Os dispositivos, abaixo relacionados, da Portaria nº 410-GABIN, de 03 de dezembro de 2025, passam a vigorar com a seguinte redação:
+
+I - a alínea “h” do inciso II do art. 2º: “Art. 2º ................................................................................
+II – .......................................................................................
+h) contrato de prestação de serviços do contador pela empresa atacadista, identificando o contratante e o contratado, com firma reconhecida em Cartório, acompanhado da Declaração de Habilitação Profissional - DHP dos contabilistas;” (NR)
+II – os incisos III, VI e VII do caput do art. 3º: “Art. 3º .................................................................................
+III - apresentar nos últimos doze meses de atividade, por 03 (três) meses consecutivos, declarações com valor do faturamento acumulado inferior a 100% (cem por cento) do valor das entradas acumuladas no mesmo período,
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+independentemente do regime de pagamento, não se aplicando à empresa em início de atividade definida no §2º do Art. 5º;
+VI – em suas operações, o montante das saídas dos itens I, II, III, VII, VIII, IX, XII, XIII, XVII, XVIII e XIX do da tabela I do Anexo 4.24, quando comparado ao montante das saídas de todos itens da mesma tabela, não atinja o percentual mínimo de 70%, tomando-se como base de aferição cada ano-calendário e considerando somente os valores acumulados durante os meses de vigência do benefício;
+VII - nas suas operações, o valor das saídas dos itens listados na Tabela I do Anexo 4.24 destinadas a estabelecimentos do mesmo grupo econômico não tenha atingido o percentual mínimo de 30% de agregação sobre o custo das mercadorias vendidas, considerando-se, para apuração, o conjunto de tais itens em cada exercício e apenas os meses em que o benefício esteve vigente;” (NR)
+III – os §§ 1º e 2º do art. 3º: “Art. 3º .................................................................................
+§ 1º Nos casos de contribuintes solicitantes que ainda não estejam em gozo do benefício e na ocorrência do não atendimento dos incisos VI ou VII do caput nos últimos 3 (três) meses de atividade, o credenciamento será concedido uma única vez pelo prazo estabelecido no § 1º do art. 5° desta Portaria, findo o qual e mediante pedido de renovação pelo beneficiário, será verificado o cumprimento da totalidade dos requisitos previstos pela legislação.
+§ 2º Nos casos de contribuintes que já estejam credenciados neste benefício na data da publicação desta Portaria e, exclusivamente, para o primeiro pedido de renovação após a citada data, na ocorrência do não atendimento apenas dos incisos VI ou VII do caput, o credenciamento será concedido uma única vez pelo prazo estabelecido no § 1º do art. 5° desta Portaria, findo o qual e mediante pedido de renovação pelo beneficiário, será verificado o cumprimento da totalidade dos requisitos previstos pela legislação naquele prazo.” (NR)
+
+Art. 2º Ficam acrescentados os dispositivos, abaixo relacionados, à Portaria nº 410-GABIN, de 03 de dezembro de 2025, com a seguinte redação:
+
+I - a alínea “j” ao inciso II do do art. 2º: “Art. 2º ................................................................................
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II – .......................................................................................
+j) Declaração de participação ou não em grupo econômico, relacionando, caso afirmativo, o nome empresarial e o Cadastro Nacional de Pessoa Jurídica (raiz) das outras entidades integrantes do grupo.”
+II – o §4º ao art. 4º: “Art. 4º ................................................................................
+§4º Nos casos de contribuintes que já estejam credenciados neste benefício na data da publicação desta Portaria e, exclusivamente, para o primeiro pedido de renovação após a citada data, na ocorrência do não atendimento apenas do requisito previsto no §1º deste artigo, o credenciamento será concedido uma única vez pelo prazo estabelecido no § 1º do art. 5° desta Portaria, findo o qual e mediante pedido de renovação pelo beneficiário, será verificado o cumprimento da totalidade dos requisitos previstos pela legislação naquele prazo.”
+Art. 3º Fica revogado o § 1º do art. 2º da Portaria nº 410-GABIN, de 03 de dezembro de 2025.
+
+Art. 4º Ficam convalidados os pedidos de credenciamento protocolados no período compreendido entre 3 de dezembro de 2025 e a data de publicação desta Portaria, desde que atendidas as regras anteriormente vigentes.
+
+Art. 5º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA DO MARANHÃO, EM SÃO LUÍS, 01 DE OUTUBRO DE 2026.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-384-2013-13942.md>>>
+---
+documento: "PORTARIA Nº 384, DE 12 DE DEZEMBRO DE 2013"
+tipo: portaria
+numero: 384
+data: "2013-12-12"
+ementa: "Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao exercício de 2014, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c2602d40-4777-41f7-8104-9b2d04783157
+atualizado_na_fonte: "2026-10-28 14:12:30"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 384, DE 12 DE DEZEMBRO DE 2013
+
+_Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao exercício de 2014, e dá outras providências._
+
+**Data:** 2013-12-12  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N º 384/GABIN SÃO LUÍS, 12 DE DEZEMBRO DE 2013.
+
+Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao exercício de 2014, e dá outras providências.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista o que dispõem os artigos 95 e 96 da Lei nº 7.799, de 19 de dezembro de 2002 e o parágrafo único do artigo 19 e artigo 20 do Decreto nº 20.685, de 23 de julho de 2004,
+
+
+R E S O L V E:
+
+Art. 1º. Fixar os valores do Imposto sobre a Propriedade de Veículos
+
+Automotores – IPVA, expressos em moeda corrente - REAL, para efeito de cobrança desse
+
+tributo, relativo ao exercício de 2014, na hipótese de renovação anual de licenciamento,
+
+os constantes da tabela do Anexo I desta Portaria.
+
+
+Art. 2º. O pagamento do tributo aludido no artigo anterior obedecerá aos
+
+seguintes prazos, para todos os veículos automotores sujeitos ao imposto, independente
+
+do número final da placa:
+
+
+I – para veículos terrestres, a tabela abaixo;
+
+
+Placa com
+
+final
+
+Atualização
+
+de endereço
+
+(até)
+
+1ª Cota 2ª Cota ou Cota Única
+
+3ª Cota Início da Fiscalização
+
+1 e 2 07 / 02 07 / 02 07 / 03 07 / 04 07 / 05 3 e 4 11 / 02 11 / 02 11 / 03 11 / 04 11 / 05 5 e 6 14 / 02 14 / 02 14 / 03 14 / 04 14 / 05 7 e 8 17 / 02 17 / 02 17 / 03 17 / 04 17 / 05 9 e 0 25 / 02 25 / 02 25 / 03 25 / 04 25 / 05
+
+
+Art. 3º Fica vedado o parcelamento de valores iguais ou inferiores a R$
+
+100,00 (cem reais), bem como valores relativos ao primeiro emplacamento.
+
+<!-- p. 2 -->
+Art. 4º Conceder desconto de 5% (cinco) para pagamento antecipado, em
+
+cota única, do IPVA, até 31 de janeiro de 2014.
+
+
+Art. 5º Esta Portaria será publicada no Diário Oficial do Estado, e produzirá
+
+seus efeitos a partir de 1º de janeiro de 2014.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luís 12 de dezembro de 2013.
+
+CLÁUDIO JOSÉ TRINCHÃO SANTOS
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-384-2026-24907.md>>>
+---
+documento: "PORTARIA Nº 384, DE 01 DE OUTUBRO DE 2026"
+tipo: portaria
+numero: 384
+data: "2026-10-01"
+ementa: "Institui o Laboratório de Inovação em Planejamento Fiscal, Fiscalização e Inteligência Fiscal em IBS – LAB IBS, no âmbito da Secretaria de Estado da Fazenda do Maranhão, estabelece sua organização, competências e funcionamento."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce171ce4-9b0a-4475-8365-34bced645ca8
+atualizado_na_fonte: "2026-11-13 08:37:33"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 384, DE 01 DE OUTUBRO DE 2026
+
+_Institui o Laboratório de Inovação em Planejamento Fiscal, Fiscalização e Inteligência Fiscal em IBS – LAB IBS, no âmbito da Secretaria de Estado da Fazenda do Maranhão, estabelece sua organização, competências e funcionamento._
+
+**Data:** 2026-10-01  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA GABIN/SEFAZ Nº384/2026 DOE n° 197, de 03.11.26 SÃO LUÍS, 01 DE OUTUBRO DE 2026.
+
+Institui o Laboratório de Inovação em Planejamento Fiscal, Fiscalização e Inteligência Fiscal em IBS – LAB IBS, no âmbito da Secretaria de Estado da Fazenda do Maranhão, estabelece sua organização, competências e funcionamento.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições legais e regulamentares que lhes são conferidas,
+
+CONSIDERANDO as alterações promovidas no Sistema Tributário Nacional pela Emenda Constitucional nº 132, de 20 de dezembro de 2023, e pelas Leis Complementares nº 214, de 16 de janeiro de 2025, e nº 227, de 13 de janeiro de 2026;
+
+CONSIDERANDO a instituição do Imposto sobre Bens e Serviços – IBS e a necessidade de adequação dos processos de planejamento fiscal, fiscalização e inteligência fiscal ao novo modelo de tributação sobre o consumo;
+
+CONSIDERANDO a necessidade de desenvolver metodologias, ferramentas, soluções tecnológicas e modelos de atuação fiscal compatíveis com as características do IBS e com a atuação coordenada das administrações tributárias,
+
+RESOLVE:
+
+CAPÍTULO I DA INSTITUIÇÃO E DAS FINALIDADES
+
+Art. 1º Fica instituído, no âmbito da Secretaria de Estado da Fazenda do Maranhão - SEFAZ/MA, o Laboratório de Inovação em Planejamento Fiscal, Fiscalização
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+e Inteligência Fiscal em IBS - LAB IBS, vinculado ao Comitê Técnico de Implementação da Reforma Tributária - CTRT.
+
+§1º O LAB IBS constitui ambiente institucional de natureza técnica, colaborativa, multidisciplinar e experimental, destinado ao desenvolvimento, à inovação e ao aperfeiçoamento de soluções relacionadas à administração tributária do IBS naquilo que cabe ao Estado do Maranhão.
+
+§2º O LAB IBS funcionará mediante articulação entre as unidades administrativas da SEFAZ/MA, observadas suas competências legais e regulamentares.
+
+§3º O LAB IBS possui natureza de projeto especial para a SEFAZ/MA, nos termos do Decreto nº 34.922, de 05 de junho de 2019, sendo liderado pelos servidores designados no Anexo Único desta Portaria.
+
+Art. 2º O LAB IBS tem por finalidade promover a inovação aberta e o desenvolvimento de capacidades institucionais da SEFAZ/MA para o exercício das atividades de planejamento fiscal, fiscalização e inteligência fiscal relativas ao IBS.
+
+
+CAPÍTULO II DAS COMPETÊNCIAS
+
+Art. 3º Compete ao LAB IBS:
+I – estudar os impactos da implementação do IBS sobre os processos de trabalho da Administração Tributária estadual;
+
+II – desenvolver e propor metodologias de planejamento fiscal, fiscalização e inteligência fiscal adequadas ao IBS;
+
+III – identificar oportunidades de inovação, automação e transformação digital dos processos fiscais;
+
+IV – desenvolver e testar modelos de análise de risco, seleção de contribuintes, cruzamento de dados e identificação de inconsistências tributárias;
+
+V – realizar estudos sobre os documentos fiscais eletrônicos, a apuração assistida, os créditos tributários e os demais elementos relevantes à fiscalização do IBS;
+
+VI – propor ferramentas e soluções tecnológicas para apoio às atividades fiscais;
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+VII – desenvolver projetos-piloto e provas de conceito, com avaliação dos resultados e da viabilidade de aplicação operacional;
+
+VIII – promover o intercâmbio de conhecimentos e a integração entre as áreas de planejamento fiscal, fiscalização, inteligência fiscal e tecnologia da informação;
+
+IX – elaborar notas técnicas, relatórios, estudos e recomendações destinados a subsidiar decisões da Administração Tributária;
+
+X – propor ações de capacitação e disseminação de conhecimentos relacionados aos novos processos de trabalho decorrentes da implementação do IBS;
+
+XI – acompanhar inovações normativas, tecnológicas e operacionais relevantes para suas atividades;
+
+XII – propor a incorporação das soluções desenvolvidas aos processos institucionais da SEFAZ/MA; e
+
+XIII – contribuir para o desenvolvimento de competências técnicas necessárias para a formação de especialistas em IBS. Parágrafo único. As atividades do LAB IBS terão caráter técnico, propositivo e experimental, não substituindo as atribuições legais e regulamentares das unidades responsáveis pela execução das atividades fiscais.
+
+CAPÍTULO III DA ORGANIZAÇÃO E DA COMPOSIÇÃO
+
+Art. 4º O LAB IBS terá a seguinte estrutura de funcionamento:
+I – Liderança Executiva;
+II – Liderança de Planejamento Fiscal;
+III – Liderança de Fiscalização de Estabelecimentos;
+IV – Liderança de Fiscalização de Mercadorias em Trânsito e de Análise Econômico-Fiscal; e
+
+V – membros provisórios.
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 1º As lideranças previstas nos incisos I a IV serão exercidas por servidores designados pelo Secretário de Estado da Fazenda no Anexo Único desta Portaria.
+
+§ 2º Cada processo contará com uma liderança técnica responsável por orientar, organizar e acompanhar as atividades de sua área.
+
+§ 3º A composição do LAB IBS poderá contemplar servidores de diferentes unidades administrativas da SEFAZ/MA, observadas as competências técnicas necessárias ao desenvolvimento de suas atividades.
+
+§ 4º A designação para o LAB IBS não implica alteração da lotação ou da subordinação administrativa originária do servidor.
+
+
+Seção I Das Lideranças
+
+Art. 5º Compete à Liderança Executiva:
+I – coordenar as atividades do laboratório e assegurar sua integração com as diretrizes estratégicas do planejamento estratégico da SEFAZ;
+
+II – articular a atuação das demais lideranças do LAB IBS;
+III – consolidar o planejamento das atividades e acompanhar a execução dos projetos;
+
+IV – promover a integração entre os membros permanentes e provisórios;
+V - solicitar a participação de membros provisórios;
+VI – identificar necessidades de recursos técnicos, tecnológicos e humanos;
+VII – submeter à autoridade competente propostas de projetos, soluções e medidas de aperfeiçoamento institucional; e
+
+VIII – acompanhar os resultados e os indicadores de desempenho dos projetos.
+Parágrafo único. A Liderança Executiva poderá propor a constituição de equipes multidisciplinares para a execução de projetos específicos.
+
+Art. 6º Compete à Liderança de Planejamento Fiscal:
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+I – coordenar os estudos e projetos relacionados ao planejamento das ações fiscais em IBS;
+
+II – desenvolver metodologias de identificação, classificação e priorização de riscos fiscais;
+
+III – propor critérios e modelos de seleção de contribuintes e operações para fiscalização;
+
+IV – desenvolver indicadores e instrumentos de monitoramento do comportamento tributário;
+
+V – avaliar oportunidades de integração entre as bases de dados do ICMS e do IBS; e
+
+VI – propor metodologias de planejamento fiscal baseadas em dados, evidências e avaliação de riscos.
+
+Art. 7º Compete à Liderança de Fiscalização de Estabelecimentos:
+I – coordenar o desenvolvimento e a avaliação de metodologias de fiscalização do IBS nos estabelecimentos de contribuintes, inclusive durante o período de coexistência com o ICMS;
+
+II – propor roteiros, procedimentos e instrumentos de auditoria fiscal aplicáveis à escrituração, à apuração e ao recolhimento do IBS;
+
+III – desenvolver e testar técnicas de verificação de inconsistências entre os documentos fiscais eletrônicos, a apuração assistida e os valores recolhidos, inclusive por meio da liquidação financeira;
+
+IV – desenvolver e avaliar soluções de análise avançada de dados e de inteligência artificial aplicadas à auditoria de estabelecimentos;
+
+V – avaliar procedimentos de auditoria de créditos, débitos, estornos e pedidos de ressarcimento do IBS;
+
+VI – desenvolver metodologias de auditoria dos saldos credores de ICMS e de sua utilização no período de transição;
+
+VII – propor procedimentos de fiscalização aplicáveis aos regimes diferenciados e específicos previstos na Lei Complementar nº 214, de 2025;
+
+<!-- p. 6 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+VIII – desenvolver metodologias de identificação de padrões, anomalias e indícios de irregularidades tributárias, incluindo a análise de vínculos societários, patrimoniais e operacionais e a detecção de fraudes estruturadas;
+
+IX – propor procedimentos de fiscalização integrada com as demais administrações tributárias, observadas as diretrizes do Comitê Gestor do IBS;
+
+X – propor soluções para automação e aperfeiçoamento dos procedimentos fiscais; e
+
+XI – sistematizar os resultados dos experimentos e propor sua aplicação aos processos operacionais de fiscalização de estabelecimentos.
+
+Art. 8º Compete à Liderança de Fiscalização de Mercadorias em Trânsito e de Análise Econômico-Fiscal:
+
+I – coordenar estudos e projetos relativos à fiscalização de mercadorias em trânsito no território maranhense, no contexto do IBS e da transição do ICMS;
+
+II – propor metodologias de controle dos fluxos interestaduais e intermunicipais de mercadorias, com base em documentos fiscais eletrônicos de operações e de transporte e em registros de passagem;
+
+III – desenvolver modelos de seleção e priorização de veículos, cargas e operações para verificação nas unidades de fiscalização de trânsito e em ações volantes;
+
+IV – propor o uso de tecnologias de monitoramento, tais como leitura automática de placas e rastreamento de cargas, integradas às bases de dados fiscais;
+
+V – desenvolver procedimentos de verificação, no trânsito, da regularidade das operações sujeitas ao IBS, com atenção à correta identificação do local de destino;
+
+VI – propor mecanismos de integração entre as informações obtidas no trânsito e as ações de planejamento fiscal e de fiscalização de estabelecimentos;
+
+VII – elaborar estudos econômicos sobre o comportamento da arrecadação no período de transição, a estimativa das bases tributáveis e o potencial arrecadatório do IBS no Estado;
+
+VIII – desenvolver parâmetros setoriais de margem, produtividade e carga tributária efetiva para uso na seleção de contribuintes e nos procedimentos de auditoria;
+
+<!-- p. 7 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+IX – estimar o hiato tributário do ICMS e do IBS, por setor econômico e por perfil de contribuinte;
+
+X – analisar os efeitos das regras de transição sobre a receita estadual, inclusive quanto à participação do Estado no produto da arrecadação do IBS; e
+
+XI – produzir estudos e subsídios técnicos para as demais lideranças.
+
+Seção II Dos Membros Permanentes e Provisórios
+
+Art. 9º O LAB IBS será integrado por membros permanentes e poderá contar com membros provisórios, de acordo com as necessidades dos projetos e das atividades desenvolvidas.
+
+§ 1º São membros permanentes os servidores designados no Anexo Único desta Portaria.
+
+§ 2º São membros provisórios os servidores designados para participação temporária em projetos, estudos, experimentos ou atividades específicas.
+
+Art. 10. A participação de membros provisórios será formalizada mediante designação em Portaria que indique:
+
+I – o servidor participante;
+II – o projeto ou a atividade a que estará vinculado;
+III – o processo ou a liderança técnica de referência;
+IV – o período previsto de participação; e
+V – as entregas ou responsabilidades atribuídas.
+§ 1º A designação poderá ser prorrogada ou encerrada antecipadamente, conforme as necessidades do LAB IBS.
+
+§ 2º A participação provisória poderá ocorrer em regime de dedicação parcial, observada a compatibilidade com as atribuições ordinárias do servidor.
+
+<!-- p. 8 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+CAPÍTULO IV DAS ATIVIDADES DO LAB IBS
+
+Art. 11. O LAB IBS desenvolverá suas atividades mediante projetos e ciclos de trabalho, orientados por objetivos, entregas e resultados verificáveis.
+
+Parágrafo único. Os resultados das atividades do LAB IBS deverão ser apresentados trimestralmente ao Comitê Técnico de Implementação da Reforma Tributária - CTRT.
+
+Art. 12. Os produtos desenvolvidos pelo LAB IBS poderão compreender:
+I – modelos de planejamento e seleção fiscal;
+II – matrizes e indicadores de risco;
+III – malhas fiscais e metodologias de cruzamento de dados;
+IV – roteiros e procedimentos de auditoria;
+V – modelos e ferramentas de inteligência fiscal;
+VI – painéis de monitoramento e soluções analíticas;
+VII – relatórios, estudos e notas técnicas;
+VIII – propostas de aperfeiçoamento de processos administrativos e sistemas informatizados;
+
+IX – manuais de trabalho.
+Art. 13. A Liderança Executiva promoverá reuniões periódicas de acompanhamento dos projetos, com participação das demais lideranças e, quando necessário, dos demais membros.
+
+Parágrafo único. As reuniões poderão ocorrer presencialmente ou por meio eletrônico, devendo seus encaminhamentos relevantes ser registrados.
+
+CAPÍTULO V DA INTEGRAÇÃO INSTITUCIONAL
+
+<!-- p. 9 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 14. O LAB IBS deverá atuar em articulação com outras unidades da SEFAZ/MA e com órgãos e entidades públicas envolvidos na implementação do IBS, observadas as competências institucionais e os instrumentos de cooperação aplicáveis.
+
+Parágrafo único. A Liderança Executiva do LAB IBS poderá convidar outros servidores da SEFAZ/MA para colaborar com as suas discussões, ações e projetos.
+
+CAPÍTULO VI DAS DISPOSIÇÕES FINAIS
+
+Art. 15. A participação no LAB IBS será considerada atividade de interesse institucional, sem prejuízo das atribuições ordinárias dos servidores e observadas as condições estabelecidas nas respectivas designações.
+
+Art. 16. Esta Portaria entra em vigor na data de sua publicação.
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 01 DE OUTBRO DE 2026.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-386-2023-21009.md>>>
+---
+documento: "PORTARIA Nº 386, DE 25 DE AGOSTO DE 2023"
+tipo: portaria
+numero: 386
+data: "2023-08-25"
+ementa: "Disciplina o Plantão Fiscal de orientação tributária, de pedidos de informações de contribuintes, com vistas a dirimir dúvidas sobre a aplicação e interpretação da legislação tributária."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c0281a17-e458-4b50-a549-51f28bff70f9
+atualizado_na_fonte: "2026-10-15 10:01:47"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 386, DE 25 DE AGOSTO DE 2023
+
+_Disciplina o Plantão Fiscal de orientação tributária, de pedidos de informações de contribuintes, com vistas a dirimir dúvidas sobre a aplicação e interpretação da legislação tributária._
+
+**Data:** 2023-08-25  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 386/2023 - GABIN DOE nº 158, de 25.08.23 São Luís - MA, 25 de agosto de 2023.
+
+Disciplina o Plantão Fiscal de orientação tributária, de pedidos de informações de contribuintes, com vistas a dirimir dúvidas sobre a aplicação e interpretação da legislação tributária.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso da atribuição que lhe confere o art. 69, I e II, da Constituição do Estado do Maranhão,
+
+Considerando a necessidade de regulamentar o Plantão Fiscal, de pedidos de orientação tributária de contribuintes, com vistas a dirimir dúvidas sobre a aplicação e interpretação da legislação tributária, conforme o inciso VI do art. 21 da Lei n° 10.151, de 23 de outubro de 2014;
+
+Considerando ainda a necessidade de assegurar a definição de procedimentos de controle e coordenação da atividade de orientação tributária entre as unidades da SEFAZ,
+
+RESOLVE:
+
+CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES
+
+Art. 1º Compete ao Corpo Técnico para a Tributação da Célula de Gestão para a Administração Tributária da Secretaria de Estado da Fazenda coordenar e executar as atividades de orientação tributária no âmbito da SEFAZ.
+
+Parágrafo único. Para fins do disposto neste artigo, considera-se pedido de orientação tributária a solicitação formulada por qualquer interessado sobre a aplicação e interpretação de dispositivos da legislação tributária.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+CAPÍTULO II DO ATENDIMENTO E TRIAGEM
+
+Art. 2º As unidades de atendimento da SEFAZ, ao verificar que o atendimento que o contribuinte ou interessado busca refere-se exclusivamente a dirimir dúvidas sobre a aplicação e interpretação da legislação tributária, deverão proceder com o agendamento do Plantão Fiscal de orientação tributária.
+
+Parágrafo único. Não se encontra na atribuição do Plantão Fiscal de orientação tributária a intervenção em sistemas, informação de tramitação de processos, a solução de pendências de malha, intimações e notificações ao contribuinte, emissão de DARE, a emissão de certidão negativa, solução de problemas de transmissão de declaração, escrituração ou emissão de documento fiscal, e demais atividades de orientação previstas no Plantão Fiscal disposto na Portaria nº 570/2017.
+
+Art. 3º As unidades de atendimento da SEFAZ, quando procederem com o agendamento do Plantão Fiscal ao contribuinte, deverão:
+
+I- preencher os dados cadastrais do solicitante de orientação tributária, incluindo a indicação de tratar-se ou não de contribuinte/ solicitante com inscrição estadual (ICMS, IPVA e ITCD) e o e-mail para contato;
+
+II- transcrever a situação fática e/ou dúvida interpretativa do contribuinte, fazendo constar a legislação que o interessado entender aplicável;
+
+III- agendar a data e horário que contribuinte desejar ser atendido, conforme a disponibilidade.
+
+
+CAPÍTULO III DO AGENDAMENTO
+
+Art. 4º O agendamento do Plantão Fiscal de orientação tributária deverá ser feito por meio do Sistema de Solicitação Tributária do Processo Administrativo Fiscal Eletrônico (PAF-e), seja via acesso pelo próprio contribuinte, seja com auxilio das unidades de atendimento da SEFAZ.
+
+§ 1º A pedido do contribuinte e havendo disponibilidade tecnológica, o atendimento do Plantão Fiscal poderá ocorrer por meio de videoconferência.
+
+§ 2º O agendamento ocorrerá no prazo mínimo de 5 dias úteis após o pedido protocolado, conforme a disponibilidade de senhas de atendimento.
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 3º O prazo mínimo no § 2º deste artigo não se aplica quando a dúvida interpretativa já constar de Boletim ou Informativo Jurisprudencial, cartilhas de orientação ou tratar de disposição expressa de norma, conforme dispostos em ato do Gestor Chefe da CEGAT/COTET.
+
+Art. 5º As intimações e notificações no curso do Plantão Fiscal de orientação tributária ocorrerão por meio eletrônico encaminhadas ao domicílio tributário eletrônico na forma da Lei Estadual nº 10.210, de 25 de fevereiro de 2015.
+
+Parágrafo único. Quando a solicitação tiver sido iniciada com auxilio das unidades de atendimento da SEFAZ de solicitante que não seja credenciado na forma da Lei Estadual nº 10.210, de 25 de fevereiro de 2015, as intimação e notificações serão encaminhadas ao e-mail indicado pelo solicitante na abertura da demanda.
+
+CAPÍTULO III DA ORIENTAÇÃO TRIBUTÁRIA
+
+Art. 6º Recebida a solicitação de agendamento pela CEGAT/COTET, o processo será distribuído pelos Gestores da CEGAT/ COTET entre os Auditores Fiscais da Receita Estadual lotados na área de orientação tributária.
+
+§ 1º O Plantonista poderá, mediante despacho fundamentado, solicitar arquivamento do pedido caso o objeto do atendimento não seja de orientação tributária.
+
+§ 2º A solicitação de arquivamento será submetida à deliberação do Gestor do COTET.
+
+Art. 7º Em sede de análise preliminar, o Auditor Fiscal da Receita Estadual responsável pela orientação poderá expedir Parecer de Orientação Tributária por escrito, que venha a sanar a dúvida suscitada pelo contribuinte e/ou interessado.
+
+§ 1º A orientação a que se refere o caput deverá ocorrer em até dois dias úteis anteriores à data agendada.
+
+§ 2º Não havendo jurisprudência da via administrativa e com fundamento no grau de complexidade matéria o plantonista poderá orientar o contribuinte a solicitar uma consulta fiscal de forma adequada as previstas no Decreto nº 31.865, de 14 de junho de 2016, regulamenta o Processo da Consulta.
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 3º Caso haja a expedição de orientação escrita a que se refere o caput, o interessado deverá se manifestar quanto à resolução da dúvida no prazo máximo de 10 dias do envio ou até o prazo mínimo de 1 dia útil anterior à data do agendamento (o que acontecer primeiro), presumindo a resolução da orientação quando da ausência de manifestação.
+
+§ 4º A orientação a que se refere o caput, não analisa a situação fática do eventual caso concreto apresentado e não produz os efeitos da consulta fiscal, prevista nos artigos 215 a 225 da Lei nº 7.999, de 2002.
+
+§ 5º Não será admitida solicitação de agendamento do Plantão Fiscal de orientação tributária de contribuinte que já possua consulta fiscal pendente de análise com o mesmo objeto.
+
+Art. 8º Tratando o objeto do pedido de orientação do cumprimento de obrigação acessória (escrituração e documentação fiscal) ou principal sujeito a regime especial ou específico de tributação ou fiscalização, poderá o Gestor Chefe da CEGAT/COTET requisitar o atendimento em conjunto com Auditor Fiscal da Receita Estadual do setor específico relacionado ao pedido, que esteja escalado para o Plantão Fiscal disposto na Portaria nº 570/2017.
+
+Art. 9º Na data do agendamento o plantonista buscará solucionar as dúvidas sobre a aplicação e interpretação da legislação tributária expresso nas normas e jurisprudência da via administrativa, expondo a legislação aplicável e orientando quando ao correto cumprimento das obrigações tributárias.
+
+§ 1º É vedado a praticar consultoria no âmbito do Plantão Fiscal, tal qual:
+I- procurar a melhor opção ou estudar caminhos para se recolher menos tributo (planejamento tributário);
+
+II- prescrever todas as obrigações acessórias necessárias a uma empresa de um setor específico ou de início de funcionamento;
+
+III- praticar atos de obrigação do contribuinte.
+§ 2º Finalizado o atendimento o plantonista poderá fazer constar de relato do que foi discutido na orientação.
+
+CAPÍTULO IV DAS DISPOSIÇÕES FINAIS
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 10. O Gestor Chefe do COTET:
+I - proporá modificar os prazos mínimos e máximos previstos nos § 2º do art. 4º e no § 2º do art. 6º desta portaria, com fundamento no grau de complexidade da matéria e ou da disponibilidade de plantonistas;
+
+II - poderá expedir atos complementares para a execução das disposições desta Portaria e a resolução de casos omissos.
+
+Art. 11. Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 25 DE AGOSTO DE 2023.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-387-2023-21010.md>>>
+---
+documento: "PORTARIA Nº 387, DE 25 DE AGOSTO DE 2023"
+tipo: portaria
+numero: 387
+data: "2023-08-25"
+ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de empresas contratadas pela concessionária dos serviços de gás natural localizadas neste Estado, para a construção e montagem do sistema de distribuição de gás natural."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8e171a34-c154-410a-a986-9d7aeb81f407
+atualizado_na_fonte: "2026-10-15 10:02:05"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.3, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 387, DE 25 DE AGOSTO DE 2023
+
+_Dispõe sobre os requisitos e procedimentos para credenciamento de empresas contratadas pela concessionária dos serviços de gás natural localizadas neste Estado, para a construção e montagem do sistema de distribuição de gás natural._
+
+**Data:** 2023-08-25  
+**Remete a:** Anexo 1.3, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 387/2023 –GABIN DOE n 158, de 25.08.23 SÃO LUÍS, 25 DE AGOSTO DE 2023.
+
+Dispõe sobre os requisitos e procedimentos para credenciamento de empresas contratadas pela concessionária dos serviços de gás natural localizadas neste Estado, para a construção e montagem do sistema de distribuição de gás natural
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe confere o art. 69, II, da Constituição Estadual,
+
+R E S O L V E:
+
+Art. 1º O credenciamento de empresas contratadas pela concessionária dos serviços de gás natural localizadas neste Estado, para a construção e montagem do sistema de distribuição de gás natural, nos termos do § 5º do 34 do Anexo 1.3 do Regulamento do ICMS, aprovado pelo Decreto no 19.714, de 10 de julho de 2003, com a redação dada pelo Decreto 38.446, de 31 de julho de 2023, observará aos requisitos e procedimentos dispostos nesta Portaria.
+
+Art. 2º O pedido de credenciamento será formalizado pelo contribuinte por meio do sítio desta Secretaria de Estado da Fazenda na internet, via SEFAZ.net, anexando os seguintes documentos:
+
+I - requerimento do pedido, disponível no sítio da SEFAZ, devidamente preenchido e assinado pelo sócio ou representante legal do contribuinte, com firma reconhecida;
+
+II - fotocópias:
+a) do estatuto ou contrato social e suas alterações registrados na Junta Comercial;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+b) das cédulas de identidade e CPF do titular da empresa, dos sócios, diretores no caso de empresa S.A.
+
+c) do registro imobiliário do imóvel onde se situa o estabelecimento e, se alugado, com contrato de locação com firma reconhecida do locador e locatário;
+
+d) da última Relação Anual de Informações Sociais – RAIS entregue ao Ministério do Trabalho ou do Protocolo de entrega da GFIP/SEFIP do Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social;
+
+e) do contrato de prestação de serviços do contador pela empresa prestadora de serviço, identificando o contratante e o contratado e acompanhado da Certidão de Regularidade Profissional dos contabilistas;
+
+f) o contrato com a concessionária dos serviços de gás canalizado neste Estado;
+
+g) dos certificados de registro e licenciamento ambiental.
+Art. 3º O pedido de credenciamento será examinado pela Secretaria Adjunta da Administração Tributária, que emitirá parecer, no prazo de 30 (trinta) dias úteis, pelo deferimento ou indeferimento do pedido, com base nas informações e documentos apresentados pelo contribuinte e após as verificações pertinentes no banco de dados da SEFAZ.
+
+Parágrafo único. O prazo de que trata este artigo começa a contar no primeiro dia útil após a data de registro do pedido no sítio da Secretaria de Estado da Fazenda na internet, via SEFAZ.net.
+
+Art. 4º Concedido o primeiro termo de credenciamento este produzirá efeitos a partir do 1º dia do mês subsequente ao de sua expedição e cessará no último dia do mês em que ocorrer a sua expiração ou revogação.
+
+Art. 5º Não será concedido credenciamento para o contribuinte que:
+I - não tenha anexado, ao requerimento do pedido, os documentos referidos no inciso II do art. 2º;
+
+II - esteja em situação de inadimplência com o pagamento do ICMS;
+III - esteja omisso quanto à entrega de Declaração de Informações Econômico-Fiscais - DIEF ou da Escrituração Fiscal Digital – EFD ou proceder à entrega em desacordo com a legislação;
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+IV - com inscrição em dívida ativa;
+V - não seja emitente regular de Nota Fiscal Eletrônica - NFe, Nota Fiscal do Consumidor Eletrônica - NFC-e ou NF-e em operações com não contribuintes;
+
+VI - deixar de entregar documentos fiscais, quando exigidos em processo de fiscalização;
+
+VII - tenha praticado ação caracterizada como crime contra a ordem tributária;
+
+VIII - tenha pedido de credenciamento negado por três vezes consecutivas nos últimos doze meses.
+
+§ 1º A ocorrência de qualquer situação prevista nos incisos II, III e V do caput deste artigo implicará suspensão imediata do credenciamento concedido retornando à situação do benefício após a regularização do motivo que deu causa à suspensão.
+
+Art. 6º Não havendo impeditivos para a concessão do Termo de Credenciamento, este será expedido com validade de 12 (doze) meses, contendo, no mínimo, as seguintes informações:
+
+I - identificação do contribuinte credenciado;
+II - número e data da expedição do termo;
+III - período de vigência do credenciamento.
+Art. 7º Constatada a ocorrência dos impeditivos indicados nos incisos IV, VI e VII do art. 5º o credenciamento será revogado automaticamente.
+
+Parágrafo único. Revogado o credenciamento, seus efeitos ocorrerão a partir do primeiro dia do mês subsequente ao do descredenciamento.
+
+Art. 8º A notificação de revogação do benefício será encaminhada para o Domicílio Tributário Eletrônico - DTe do contribuinte constante do seu cadastro junto à SEFAZ.
+
+Art. 9º Sendo o benefício revogado nos termos desta Portaria, somente poderá ser novamente concedido no exercício seguinte e desde que todas as pendências tenham sido sanadas.
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 10. Cabe recurso nos casos de indeferimento do pedido de credenciamento ao benefício, renovação do credenciamento e revogação do benefício à Secretaria Adjunta da Administração Tributária, em até 30 (trinta) dias úteis do envio da notificação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-388-2015-15317.md>>>
+---
+documento: "PORTARIA Nº 388, DE 14 DE AGOSTO DE 2015"
+tipo: portaria
+numero: 388
+data: "2015-08-14"
+ementa: "Revoga os Regimes Especiais que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2d0f1c8c-ff63-4353-aad5-ced6f00fc6aa
+atualizado_na_fonte: "2026-10-27 18:30:58"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 388, DE 14 DE AGOSTO DE 2015
+
+_Revoga os Regimes Especiais que especifica._
+
+**Data:** 2015-08-14  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 388/15- GABIN - SÃO LUÍS (MA), 14 DE AGOSTO DE 2015.
+DOE 19.08.2015
+
+
+Revoga os Regimes Especiais que especifica
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade
+
+
+RESOLVE:
+
+
+Art. 1º Ficam revogados todos os Regimes Especiais editados pela Secretaria de Estado da Fazenda, que concederam crédito presumido, de modo que a carga tributária seja de 2% (dois por cento), sobre a o valor das operações de venda interna e 1% (um por cento) nas operações interestadual de: arroz, feijão, milho, milheto, soja sorgo, leite, achocolatados, produtos lácteos e afins.
+
+Parágrafo único. Fica também revogado o benefício fiscal que concedeu crédito presumido às transferências internas entre filiais, de modo que a incidência do imposto para recolhimento se torne nula.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, e, expressamente, revoga os Regimes Especiais 02/2011 e 04/2013, de 20 de fevereiro de 2013.
+
+Revogadas as disposições em contrário.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE. SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 14 de AGOSTO de 2015
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-389-2015-15318.md>>>
+---
+documento: "PORTARIA Nº 389, DE 14 DE AGOSTO DE 2015"
+tipo: portaria
+numero: 389
+data: "2015-08-14"
+ementa: "Revoga os Regime Especial que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4a5c020c-09a1-4b4e-985d-6c2a1fa16dab
+atualizado_na_fonte: "2026-10-27 18:30:51"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 389, DE 14 DE AGOSTO DE 2015
+
+_Revoga os Regime Especial que especifica._
+
+**Data:** 2015-08-14  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 389/15- GABIN-SÃO LUÍS (MA), 14 DE AGOSTO DE 2015.
+DOE 19.08.2015
+
+Revoga os Regime Especial que especifica
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade
+
+
+RESOLVE:
+
+
+Art. 1º Fica revogado o Regime Especial editado pela Secretaria de Estado da Fazenda, que concedeu, para o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual, Intermunicipal e de Comunicação (ICMS):
+
+I - Diferimento do lançamento e do pagamento, na transferência de arroz, inclusive em relação ao respectivo serviço de transporte;
+
+II - Crédito presumido, de modo que a carga tributária resultante seja de 2% (dois por cento), sobre o valor das operações de saída interna com arroz; III- Exclusão da glosa estabelecida pela portaria 523/2009, de 29 de dezembro de 2009 e suas alterações;
+
+IV - A possibilidade de emissão da nota fiscal relativa às operações internas - mencionadas no inciso I -, com redução de valor de base de cálculo correspondente a 29,41% (vinte e nove inteiros e quarenta e um centésimo por cento), de forma que o imposto a destacar corresponda a 12% (doze por cento), do valor da operação.
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação e, expressamente revoga o regime Especial 05/2012, de 13 de março de 2012.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 14 de AGOSTO de 2015
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-390-2015-15319.md>>>
+---
+documento: "PORTARIA Nº 390, DE 14 DE AGOSTO DE 2015"
+tipo: portaria
+numero: 390
+data: "2015-08-17"
+ementa: "Dispõe sobre a complementação da alíquota do ICMS, relativa às operações ou prestações provenientes de unidades da Federação que concedem benefícios fiscais não autorizados por convênio celebrado nos termos da Lei Complementar nº 24, de 7/1/1975."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3a8cbcf2-5e63-43b9-85bd-bca6ee083871
+atualizado_na_fonte: "2026-10-27 18:30:45"
+extraido_em: "2026-11-18"
+remete_a: "RICMS"
+situacao: "REVOGADA"
+percentual_tachado: 84.8
+---
+
+# PORTARIA Nº 390, DE 14 DE AGOSTO DE 2015
+
+_Dispõe sobre a complementação da alíquota do ICMS, relativa às operações ou prestações provenientes de unidades da Federação que concedem benefícios fiscais não autorizados por convênio celebrado nos termos da Lei Complementar nº 24, de 7/1/1975._
+
+**Data:** 2015-08-17 (data no portal: 2015-08-14 (divergente do PDF))  
+**Remete a:** RICMS  
+**Situação:** REVOGADA
+
+> REVOGADA pela portaria 174/2018 (normas/portaria/portaria-174-2018-17823.md): "Revoga a Portaria no 390/15, que dispõe sobre a complementação da alíquota do ICMS, relativa às operações ou prestações provenientes de unidades da Federação que concedem benefícios fiscais não autorizados por convênio c"
+> REVOGADA pela portaria 174/2018 (normas/portaria/portaria-174-2018-17823.md): "1o Revogar a Portaria no 390/15, de 17 de agosto de 2015, que"
+> REVOGADA pela portaria 174/2018 (normas/portaria/portaria-174-2018-17823.md): "Revoga a Portaria no 390/15, que dispõe sobre a complementação da alíquota do ICMS."
+> REVOGADA pela portaria 174/2018 (normas/portaria/portaria-174-2018-17823.md), segundo anotação no cabeçalho do próprio PDF: "Revogada pela Portaria nº 174/2018."
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 390/15 - SEFAZ. SÃO LUÍS (MA), 17 DE AGOSTO DE 2015.
+D.O.E.: 28.08.15 Alteraões: Portaria nº 478/2015, 533/2015, 539/2015, 571/2015, 163/2016, 272/2016, 306/2016, 400/16, 115/17, 330/17, 359/17.
+Revogada pela Portaria nº 174/2018.
+
+Dispõe sobre a complementação da alíquota do ICMS, relativa às operações ou prestações provenientes de unidades da Federação que concedem benefícios fiscais não autorizados por convênio celebrado nos termos da Lei Complementar nº 24, de 7/1/1975.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das suas atribuições, considerando a necessidade de atualização e consolidação das portarias que disciplina o I do art. 55-A do RICMS, aprovado pelo Decreto 19.714/2003, bem como o disposto nos artigos 1º ao 8º, da Lei Complementar 24, de 7 de Janeiro de 1975, tendo como base o disposto nos arts. 155, §2º, I, e XII, "g" e 170, IV, da Constituição Federal,
+
+RESOLVE:
+
+Art. 1º. Identificar, conforme anexo único desta Portaria, os estabelecimentos ou produtos ou serviços amparados com benefícios fiscais relativos ao ICMS não autorizados por Convênio, em conformidade com Art. 55-A, §1º, I, do RICMS, aprovado pelo Decreto 19.714/2003.
+
+Art. 2º. Deverá ser pago antecipadamente, até o momento de entrada neste Estado, o ICMS complementar correspondente à diferença entre a alíquota interestadual prevista para a operação ou prestação e o valor do crédito admitido, ainda que a mercadoria, o bem ou o serviço estejam beneficiados com diferimento.
+
+Parágrafo Único. O recolhimento do ICMS ocorrerá na Rede Bancária credenciada e será realizado por meio do Documento de Arrecadação da Receita Estadual - DARE, com indicação do Código de Receita Estadual 112.
+
+Art. 3º. Ficam revogadas as Portarias nº 523/2009, 52/2010 e 83/2010.
+Art. 4º. Esta Portaria entra em vigor na data da sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 17 DE AGOSTO de 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+<!-- p. 2 -->
+Secretário de Estado da Fazenda
+
+Republicado por Incorreção.
+~~ANEXO ÚNICO~~
+
+~~UF de Origem~~
+
+
+~~Produto/Atividade/Empresa~~
+
+~~Percentual de ICMS Complementar a ser cobrado sobre o valor da~~
+
+~~Base de Cálculo PA Gado bovino – boi gordo para abate 7%~~
+
+~~PA Gado bovino – carne e produto de sua matança 10,2%~~
+
+~~PA~~
+
+
+~~Produtos ILDA/Laticínios/Ind. e Com de Laticínios da Amazônia Ltda. – ILDA~~
+
+~~10%~~
+
+
+~~PA Bebida Quente (uísque, vodca, vinho, champagne, conhaque etc.) 7%~~
+
+~~PA~~
+
+
+~~Comércio Atacadista/Centro de Distribuição ou Varejista Obs.: mediante Regime Especial. 11%~~
+
+~~TO Arroz, exceto em casca, proveniente da indústria de beneficiamento 10%~~
+
+~~TO~~
+
+
+~~Gado bovino – carne em estado natural, resfriada ou congelada 7%~~
+
+~~TO Gado Bovino destinado ao abate, saídas praticadas por produtor rural . 9%~~
+
+~~TO~~
+
+
+~~Gado Bovino – carne desossada embalada a vácuo. 7%~~
+
+~~TO~~
+
+
+~~Comercio Atacadista/ Centro de Distribuição Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE).~~
+
+~~11%~~
+
+
+~~PI~~
+
+
+~~Todas as mercadorias do regime normal de tributação / remetidas por atacadistas e distribuidores.~~
+
+~~8%~~
+
+~~PI Camarão em Cativeiro 12%~~
+
+~~PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã 12%~~
+
+~~PI Bebida Quente (uísque, vodca, vinho, champagne, conhaque etc 5%~~
+
+~~GO~~
+
+
+~~Frigorífico ou abatedor, na saída para comercialização ou industrialização, de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível resultantes do abate ou da industrialização, em seu próprio estabelecimento de asinino, bovino, bufalino, eqüino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6º do Decreto nº 4852 de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+
+~~9%~~
+
+
+~~GO Arroz, exceto em casca 9%~~
+
+~~GO~~
+
+
+~~Estabelecimento de comércio atacadista/Centro de Distribuição que destine mercadoria para comercialização, produção ou industrialização.~~
+
+~~3%~~
+
+
+~~GO Saída de medicamentos de uso humano promovida 4%~~
+
+<!-- p. 3 -->
+~~por estabelecimento atacadista/ Centro de Distribuição CE~~
+
+
+~~Saídas de mercadorias em geral promovidas por estabelecimento atacadista/Centro de Distribuição 2%~~
+
+~~CE~~
+
+
+~~Medicamentos e produtos farmacêuticos em operações de transferência . 3,4%~~
+
+~~CE~~
+
+
+~~Medicamentos e produtos farmacêuticos em operações de vendas . 3%~~
+
+~~PE~~
+
+
+~~Comercio atacadista de produtos importados. 6,3%~~
+
+~~PE~~
+
+
+~~Central de distribuição/Comércio atacadista. 8%~~
+
+~~PE~~
+
+
+~~Produtos das indústrias de celulose e siderúrgica de redução de minério de ferro e de laminação de aços planos~~
+
+~~9%~~
+
+
+
+~~ANEXO ÚNICO~~
+
+~~(NR Portaria Nº 478/2015, de 15 de outubro – D.O.E. 20.10.2015)~~
+
+~~UF de Origem Produto/Atividade/Empresa Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+~~cálculo~~
+
+~~PA Produtos ILDA/Laticínios Ind. e Com de Laticínios da Amazônia Ltda. - ILDA~~
+
+~~10%~~
+
+~~PA Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)~~
+
+~~7%~~
+
+~~PA Comércio atacadista/Centro de Distribuição ou Varejista. Obs.: mediante Regime Especial~~
+
+~~11%~~
+
+~~PA Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~8%~~
+
+~~TO Arroz, exceto em casca, proveniente da indústria de beneficiamento.~~
+
+~~10%~~
+
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada.~~
+
+~~7%~~
+
+~~TO Gado bovino destinado ao abate, saídas praticadas por produtor~~
+
+~~9%~~
+
+<!-- p. 4 -->
+~~rural.~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo.~~
+
+~~7%~~
+
+~~TO Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10%~~
+
+~~TO Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE)~~
+
+~~11%~~
+
+~~PI Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.~~
+
+~~8%~~
+
+~~PI Camarão de cativeiro 12%~~
+
+~~PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã.~~
+
+~~12%~~
+
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)~~
+
+~~5%~~
+
+~~PI Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+~~GO Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6~~o ~~do Decreto 4852, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+
+~~9%~~
+
+~~GO Arroz, exceto em casca. 9%~~
+
+~~GO Estabelecimento de comércio Atacadista / Centro de~~
+
+~~3%~~
+
+<!-- p. 5 -->
+~~Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+
+~~GO Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~4%~~
+
+~~CE Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+~~CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência.~~
+
+~~6%~~
+
+
+~~ANEXO ÚNICO~~
+
+~~(NR Portaria Nº 533/2015, de 9 de novembro de 2015 – D.O.E. 12.11.2015)~~
+
+~~UF de Origem Produto/Atividade/Empresa Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+~~cálculo PA Gado bovino – boi gordo para abate~~
+
+~~7%~~
+
+~~PA Gado bovino – carne e produtos de sua matança~~
+
+~~10,2%~~
+
+~~PA Produtos ILDA/Laticínios Ind. e Com de Laticínios da Amazônia Ltda. - ILDA~~
+
+~~10%~~
+
+~~PA Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)~~
+
+~~7%~~
+
+~~PA Comércio atacadista/Centro de Distribuição ou Varejista.~~
+~~Obs.: mediante Regime Especial~~
+
+~~11%~~
+
+~~PA Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~8%~~
+
+~~TO Arroz, exceto em casca, 10%~~
+
+<!-- p. 6 -->
+~~proveniente da indústria de beneficiamento.~~
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada.~~
+
+~~7%~~
+
+~~TO Gado bovino destinado ao abate, saídas praticadas por produtor rural.~~
+
+~~9%~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo.~~
+
+~~7%~~
+
+~~TO Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10%~~
+
+~~TO Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE)~~
+
+~~11%~~
+
+~~PI Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.~~
+
+~~8%~~
+
+~~PI Camarão de cativeiro 12% PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã.~~
+
+~~12%~~
+
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)~~
+
+~~5%~~
+
+~~PI Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+~~GO Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6~~o ~~do Decreto 4852, de~~
+
+~~9%~~
+
+<!-- p. 7 -->
+~~29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+~~GO Arroz, exceto em casca. 9% GO Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+
+~~3%~~
+
+~~GO Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~4%~~
+
+~~CE Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+~~CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência.~~
+
+~~6%~~
+
+~~RS Arroz beneficiado 4,3%~~
+
+~~ANEXO ÚNICO~~
+
+~~(NR Portaria Nº 539/2015, de 17 de novembro de 2015 – D.O.E. 25.11.2015)~~
+
+~~UF de Origem Produto/Atividade/Empresa Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+~~cálculo PA Produtos ILDA/Laticínios Ind. e Com de Laticínios da Amazônia Ltda. - ILDA~~
+
+~~10%~~
+
+~~PA Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)~~
+
+~~7%~~
+
+~~PA Comércio atacadista/Centro de Distribuição ou Varejista.~~
+~~Obs.: mediante Regime Especial~~
+
+~~11%~~
+
+~~PA Medicamentos, produtos farmacêuticos e materiais hospitalares por~~
+
+~~8%~~
+
+<!-- p. 8 -->
+~~estabelecimento Atacadista / Centro de Distribuição.~~
+~~TO Arroz, exceto em casca, proveniente da indústria de beneficiamento.~~
+
+~~10%~~
+
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada.~~
+
+~~7%~~
+
+~~TO Gado bovino destinado ao abate, saídas praticadas por produtor rural.~~
+
+~~9%~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo.~~
+
+~~7%~~
+
+~~TO Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10%~~
+
+~~TO Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE)~~
+
+~~11%~~
+
+~~PI Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.~~
+
+~~8%~~
+
+~~PI Camarão de cativeiro 12% PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã.~~
+
+~~12%~~
+
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)~~
+
+~~5%~~
+
+~~PI Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+~~GO Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação~~
+
+~~9%~~
+
+<!-- p. 9 -->
+~~interna com a isenção de que trata o inciso CXVI do art. 6~~o ~~do Decreto 4852, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+~~GO Arroz, exceto em casca. 9% GO Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+
+~~3%~~
+
+~~GO Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~4%~~
+
+~~CE Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+~~CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência.~~
+
+~~6%~~
+
+~~RS Arroz beneficiado 4,3% ES Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado –SEDES (consultar Portaria 095-R/2015- SEDES/ES)~~
+
+~~10,9%~~
+
+<!-- p. 10 -->
+~~ANEXO ÚNICO~~
+~~(NR Portaria Nº 571/2015, de 7 de novembro de 2015 – D.O.E. 11.12.2015)~~
+
+~~UF de Origem Produto/Atividade/Empresa Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+~~cálculo PA Produtos ILDA/Laticínios Ind.~~
+~~E Com de Laticínios da Amazônia Ltda. – ILDA~~
+
+~~10%~~
+
+~~PA Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)~~
+
+~~7%~~
+
+~~PA Comércio atacadista/Centro de Distribuição ou Varejista.~~
+~~Obs.: mediante Regime Especial~~
+
+~~11%~~
+
+~~PA Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~8%~~
+
+~~TO Arroz, exceto em casca, proveniente da indústria de beneficiamento.~~
+
+~~10%~~
+
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada.~~
+
+~~7%~~
+
+~~TO Gado bovino destinado ao abate, saídas praticadas por produtor rural.~~
+
+~~9%~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo.~~
+
+~~7%~~
+
+~~TO Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10%~~
+
+~~TO Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE)~~
+
+~~11%~~
+
+~~PI Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.~~
+
+~~8%~~
+
+~~PI Camarão de cativeiro 12% PI Pescados, exceto crustáceos, 12%~~
+
+<!-- p. 11 -->
+~~moluscos, hadoque, bacalhau, salmão e rã.~~
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)~~
+
+~~5%~~
+
+~~PI Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+~~GO Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6~~o ~~do Decreto 4852, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+
+~~9%~~
+
+~~GO Arroz, exceto em casca. 9% GO Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+
+~~3%~~
+
+~~GO Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~4%~~
+
+~~CE Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+~~CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista /~~
+
+~~6%~~
+
+<!-- p. 12 -->
+~~Centro de Distribuição, em operação de venda ou transferência.~~
+~~RS Arroz beneficiado 4,3% ES Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado –SEDES (consultar Portaria 095-R/2015- SEDES/ES)~~
+
+~~10,9%~~
+
+~~SC Arroz beneficiado 3% PR Arroz beneficiado 6%~~
+
+~~ANEXO ÚNICO~~
+~~(NR Portaria Nº 163/2016, de 9 de maio de 2016 – D.O.E. 11.05.2016)~~
+
+~~UF de Origem~~
+
+~~Produto/Atividade/Empresa~~
+
+~~Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+~~cálculo MG Mercadorias oriundas de estabelecimentos com regime especial que concede redução de carga tributária~~
+
+~~(art. 75, XIV, RICMS/MG)~~
+
+~~9%~~
+
+~~MG Saídas de estabelecimento industrial de~~
+
+~~medicamento genérico (art. 75, XXII, RICMS/MG)~~
+
+~~8%~~
+
+~~PA Álcool hidratado e açúcar fabricados pela empresa PAGRISA – PARÁ PASTORIL E AGRÍCOLA S/A, inscrita no Cadastro de Contribuintes do ICMS do Pará sob o nº 15.075430-2 (Dec. 772/08 – PA)~~
+
+~~9%~~
+
+~~PA Produtos ILDA/Laticínios Ind. E Com de Laticínios da Amazônia Ltda. – ILDA~~
+
+~~10%~~
+
+~~PA Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)~~
+
+~~7%~~
+
+~~PA Comércio atacadista/Centro de Distribuição ou Varejista. Obs.:~~
+
+~~11%~~
+
+<!-- p. 13 -->
+~~mediante Regime Especial PA Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~8%~~
+
+~~TO Arroz, exceto em casca, proveniente da indústria de beneficiamento.~~
+
+~~10%~~
+
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada.~~
+
+~~7%~~
+
+~~TO Gado bovino destinado ao abate, saídas praticadas por produtor rural.~~
+
+~~9%~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo.~~
+
+~~7%~~
+
+~~TO Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10%~~
+
+~~TO Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE)~~
+
+~~11%~~
+
+~~PB Saídas de aves e produtos de sua matança, congelados ou simplesmente temperados.~~
+
+~~12%~~
+
+~~PI Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.~~
+
+~~8%~~
+
+~~PI Camarão de cativeiro 12% PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã.~~
+
+~~12%~~
+
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)~~
+
+~~5%~~
+
+~~PI Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+~~GO Produto comestível decorrente da industrialização de ave e suíno. (Art. 11, XII, do Anexo IX, RCTE/GO, Dec. 4852/97)~~
+
+~~7%~~
+
+~~GO Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6~~o ~~do~~
+
+~~9%~~
+
+<!-- p. 14 -->
+~~Decreto 4852, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+~~GO Arroz, exceto em casca. 9% GO Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+
+~~3%~~
+
+~~GO Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~4%~~
+
+~~CE Saídas de ovos férteis, pintos de um dia, ovos, aves e suas correspondentes partes e miúdos em estado natural, congelados ou resfriados, quando praticadas por estabelecimento produtor. (art. 64,VI, RICMS/CE, Dec. 24.569/97)~~
+
+~~12%~~
+
+~~CE Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+~~CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência.~~
+
+~~6%~~
+
+~~RS Arroz beneficiado 4,3% ES Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado –SEDES (consultar Portaria 095-R/2015-SEDES/ES)~~
+
+~~10,9%~~
+
+~~SC Arroz beneficiado 3% PR Arroz beneficiado 6%~~
+
+~~ANEXO ÚNICO~~
+~~(NR Portaria Nº 272/2016, de 13 de julho de 2016 D.O.E. 18.07.2016)~~
+
+~~UF de Origem Produto/Atividade/Empresa Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+~~cálculo MG Mercadorias oriundas de estabelecimentos com regime especial que concede redução~~
+
+~~de carga tributária (art. 75,~~
+
+~~XIV, RICMS/MG)~~
+
+~~9%~~
+
+<!-- p. 15 -->
+~~MG Saídas de estabelecimento industrial de medicamento~~
+
+~~genérico (art. 75, XXII, RICMS/MG)~~
+
+~~8%~~
+
+~~PA Álcool hidratado e açúcar fabricados pela empresa PAGRISA – PARÁ PASTORIL E AGRÍCOLA S/A, inscrita no Cadastro de Contribuintes do ICMS do Pará sob o nº 15.075430-2 (Dec. 772/08 – PA)~~
+
+~~9%~~
+
+~~PA Produtos ILDA/Laticínios Ind. E Com de Laticínios da Amazônia Ltda. – ILDA~~
+
+~~10%~~
+
+~~PA Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)~~
+
+~~7%~~
+
+~~PA Comércio atacadista/Centro de Distribuição ou Varejista.~~
+~~Obs.: mediante Regime Especial~~
+
+~~11%~~
+
+~~PA Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~8%~~
+
+~~TO Arroz, exceto em casca, proveniente da indústria de beneficiamento.~~
+
+~~10%~~
+
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada.~~
+
+~~7%~~
+
+~~TO Gado bovino destinado ao abate, saídas praticadas por produtor rural.~~
+
+~~9%~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo.~~
+
+~~7%~~
+
+~~TO Ovos, inclusive férteis, pintos de um dia e produtos resultantes do abate de aves e gado suíno, caprino e ovino e ração (ref.: inc. II, art. 3~~o~~, Lei 1695/06-TO)~~
+
+~~11,5%~~
+
+~~TO Aves vivas (ref.: inc. III, art.~~ 3o~~, Lei 1695/06-TO)~~
+
+~~11%~~
+
+~~TO Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10%~~
+
+~~TO Comércio Atacadista / Centro 11%~~
+
+<!-- p. 16 -->
+~~de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE)~~
+
+~~PB Saídas de aves e produtos de sua matança, congelados ou simplesmente temperados.~~
+
+~~12%~~
+
+~~PI Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.~~
+
+~~8%~~
+
+~~PI Camarão de cativeiro 12% PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã.~~
+
+~~12%~~
+
+~~PI Aves vivas e os produtos resultantes do abate destas. (ref.: Lei 4.859/96 - PI)~~
+
+~~12%~~
+
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)~~
+
+~~5%~~
+
+~~PI Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+~~GO Produto comestível decorrente da industrialização de ave e suíno. (Art. 11, XII, do Anexo IX, RCTE/GO, Dec. 4852/97)~~
+
+~~7%~~
+
+~~GO Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6~~o ~~do Decreto 4852, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+
+~~9%~~
+
+~~GO Arroz, exceto em casca. 9%~~
+
+<!-- p. 17 -->
+~~GO Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+
+~~3%~~
+
+~~GO Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~4%~~
+
+~~CE Saídas de ovos férteis, pintos de um dia, ovos, aves e suas correspondentes partes e miúdos em estado natural, congelados ou resfriados, quando praticadas por estabelecimento produtor. (art. 64,VI, RICMS/CE, Dec. 24.569/97)~~
+
+~~12%~~
+
+~~CE Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+~~CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência.~~
+
+~~6%~~
+
+~~RS Arroz beneficiado 4,3% ES Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado –SEDES (consultar Portaria 095-R/2015- SEDES/ES)~~
+
+~~10,9%~~
+
+~~SC Arroz beneficiado 3% PR Arroz beneficiado 6%~~
+
+<!-- p. 18 -->
+~~“ANEXO ÚNICO”~~
+~~(NR Portaria Nº 306/2016, de 9 de agosto de 2016 - D.O.E. 24.08.2016)~~
+
+~~(Republicada por incorreções)~~
+
+
+~~UF de Origem~~
+
+
+~~Produto/Atividade/Empresa~~
+
+~~Percentual de~~
+
+~~ICMS complementar a ser~~
+
+~~cobrado sobre a~~
+
+~~base de~~
+
+
+~~MG~~
+
+~~Mercadorias oriundas de estabelecimentos com regime especial que concede redução de carga tributária (art. 75, XIV, RICMS/MG)~~
+
+~~9%~~
+
+
+~~MG Saídas de estabelecimento industrial de medicamento genérico (art. 75, XXII, RICMS/MG) 8%~~
+
+
+~~PA~~
+
+~~Saídas de produtos resultantes do processo de verticalização industrial de aves de estabelecimento que possua Regime Tributário Diferenciado. (art. 334 c/c art.333 do Anexo I do RICMS/PA, redação do Decreto 1.383/15 - PA) 10,2%~~
+
+
+~~PA~~
+
+~~Saídas de aves vivas ou abatidas e demais produtos comestíveis, resultantes do abate de aves, realizadas por estabelecimento que promova a verticalização industrial de produtos comestíveis e que NÂO possua Regime Tributário Diferenciado. (art. 336 do RICMS/PA, redação dada pelo Decreto 1.383/15 – PA) 9%~~
+
+
+~~PA~~
+
+~~Álcool hidratado e açúcar fabricados pela empresa PAGRISA – PARÁ PASTORIL E AGRÍCOLA S/A, inscrita no Cadastro de Contribuintes do ICMS do Pará sob o nº 15.075430-2 (Dec. 772/08 – PA) 9%~~
+
+~~PA Produtos ILDA/Laticínios Ind. E Com de Laticínios da Amazônia Ltda. – ILDA 10%~~
+
+~~PA~~
+
+~~Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.) 7%~~
+
+~~PA Comércio atacadista/Centro de Distribuição ou Varejista. Obs.: mediante Regime Especial 11%~~
+
+
+~~PA~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista /Centro de Distribuição. 8%~~
+
+
+~~PA~~
+
+~~Aves e produtos comestíveis resultante do abate de aves, leporídeos e gado bovino, bufalino, caprino ou ovino (item XV, caput e~~
+
+~~TO~~
+
+~~Arroz, exceto em casca, proveniente da indústria de beneficiamento. 10%~~
+
+~~TO~~
+
+~~Gado bovino – carne em estado natural, resfriada ou congelada. 7%~~
+
+~~TO Gado bovino destinado ao abate, saídas praticadas por produtor rural.~~
+
+~~9%~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo. 7%~~
+
+<!-- p. 19 -->
+~~TO Ovos, inclusive férteis, pintos de um dia e produtos resultantes do abate de aves e gado suíno, caprino e ovino e ração (ref.: inc. II, art. 3o, Lei 1695/06-TO) 11,5%~~
+
+~~TO Aves vivas (ref.: inc. III, art. 3o, Lei 1695/06-TO) 11%~~
+
+
+~~TO~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição. 10%~~
+
+~~TO Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE) 11%~~
+
+~~PB Saídas de aves e produtos de sua matança, congelados ou simplesmente temperados. 12%~~
+
+~~PI Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores. 8%~~
+
+~~PI Camarão de cativeiro 12%~~
+
+~~PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã. 12%~~
+
+~~PI Aves vivas e os produtos resultantes do abate destas. (ref.: Lei 4.859/96 - PI) 12%~~
+
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.) 5%~~
+
+~~PI Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição. 10,5%~~
+
+~~GO Produto comestível decorrente da industrialização de ave e suíno. (Art. 11, XII, do Anexo IX, RCTE/GO, Dec. 4852/97) 7%~~
+
+
+
+~~GO~~
+
+~~Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6o do Decreto 4852, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado. 9%~~
+
+~~GO Arroz, exceto em casca. 9%~~
+
+~~GO Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização. 3%~~
+
+~~GO Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição 4%~~
+
+
+~~CE~~
+
+~~Saídas de ovos férteis, pintos de um dia, ovos, aves e suas correspondentes partes e miúdos em estado natural, congelados ou resfriados, quando praticadas por estabelecimento produtor. (art. 64,VI, RICMS/CE, Dec. 24.569/97) 12%~~
+
+~~CE Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição. 2%~~
+
+~~CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por 6%~~
+
+<!-- p. 20 -->
+~~estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência RS Arroz beneficiado 4,3%~~
+
+
+~~ES~~
+
+~~Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado –SEDES (consultar Portaria 095- R/2015-SEDES/ES) 10,9%~~
+
+~~SC Arroz beneficiado 3%~~
+
+~~PR Arroz beneficiado 6%~~
+
+
+~~ANEXO ÚNICO~~
+~~(NR Portaria Nº 400/2016, de 1 de novembro de 2016 - D.O.E. 07.11.2016)~~
+
+~~(8ª Alteração)~~
+
+~~UF de Origem Produto/Atividade/Empresa Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+
+~~MG~~
+
+
+~~Mercadorias oriundas de estabelecimentos com regime especial que concede redução de carga tributária (art. 75, XIV, RICMS/MG) 4%~~
+
+
+~~MG~~
+
+~~Saídas de estabelecimento industrial de medicamento genérico (art. 75, XXII, RICMS/MG) 3%~~
+
+
+~~PA~~
+
+~~Saídas de produtos resultantes do processo de verticalização industrial de aves de estabelecimento que possua Regime Tributário Diferenciado. (art. 334 c/c art.333 do Anexo I do RICMS/PA, redação do Decreto 1.383/15 - PA) 10,2%~~
+
+
+~~PA~~
+
+~~Saídas de aves vivas ou abatidas e demais produtos comestíveis, resultantes do abate de aves, realizadas por estabelecimento que promova a verticalização industrial de produtos comestíveis e que NÂO possua Regime Tributário Diferenciado. (art. 336 do RICMS/PA, redação dada pelo Decreto 1.383/15 – PA) 9%~~
+
+
+~~PA~~
+
+~~Álcool hidratado e açúcar fabricados pela empresa PAGRISA – PARÁ PASTORIL E AGRÍCOLA S/A, inscrita no Cadastro de Contribuintes do ICMS do Pará sob o nº 15.075430-2. (Dec. 772/08 – PA) 9%~~
+
+<!-- p. 21 -->
+~~PA~~
+
+~~Produtos ILDA/Laticínios Ind. E Com de Laticínios da Amazônia Ltda. – ILDA 10%~~
+
+~~PA~~
+
+~~Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.) 7%~~
+
+
+~~PA~~
+
+~~Comércio atacadista/Centro de Distribuição ou Varejista.~~
+~~Obs.: mediante Regime Especial 11%~~
+
+
+~~PA~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição. 8%~~
+
+
+
+~~PA~~
+
+~~Carne fresca, resfriada, congelada, salgada, temperada ou salmorada e couro, resultante do abate ou da industrialização pela Empresa JBS Carnes e JBS Couros (ref.:~~
+~~Resolução 022, de 09/11/15 da Comissão Política de Incentivos ao Desenvolvimento Socioeconômico do Estado do Pará – CPIDS)~~
+
+~~10,83%~~
+
+~~PA~~
+
+~~Móveis, colchões e estufados, oriundos de estabelecimento industrial (Maqumóveis Ind e Com de Móveis Ltda – ref: Resolução 002, de 14/01/15 – CPIDS/PA)~~
+
+~~11,4%~~
+
+
+~~PA~~
+
+~~Moveis, colchões e estufados, oriundos de estabelecimento industrial (Indústria e Comércio de Espumas e Colchões Belém Ltda e Platspuma Pará Indústria e Comércio de Colchões Ltda ORTOLITE– ref: Resoluções 004 e 005, de 30/03/10 – CPIDS/PA)~~
+
+~~9%~~
+
+
+~~TO~~
+
+
+~~Arroz, exceto em casca, proveniente da indústria de beneficiamento. 10%~~
+
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada. 7%~~
+
+~~TO~~
+
+~~Gado bovino destinado ao abate, saídas praticadas por produtor rural. 9%~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo. 7%~~
+
+
+~~TO~~
+
+~~Ovos, inclusive férteis, pintos de um dia e produtos resultantes do abate de aves e gado suíno, caprino e ovino e ração (ref.: inc. II, art. 3~~o, ~~Lei 1695/06-TO)~~
+
+~~11,5%~~
+
+~~TO Aves vivas (ref.: inc. III, art. 3~~o~~, Lei 1695/06-TO) 11%~~
+
+<!-- p. 22 -->
+~~TO~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10%~~
+
+~~TO~~
+
+~~Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE).~~
+
+~~11%~~
+
+
+~~TO~~
+
+~~Móveis, estofados e colchões oriundos da indústria tocantina (ref.: art. 4º, II, a, Lei 1.385, de 09/07/03).~~
+
+~~10%~~
+
+~~PB~~
+
+~~Saídas de aves e produtos de sua matança, congelados ou simplesmente temperados. 12%~~
+
+~~PI~~
+
+~~Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores. 8%~~
+
+~~PI Camarão de cativeiro. 12%~~
+
+~~PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã. 12%~~
+
+~~PI Aves vivas e os produtos resultantes do abate destas. (ref.: Lei 4.859/96 - PI). 12%~~
+
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.) 5%~~
+
+
+~~PI~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+
+~~GO~~
+
+~~Mercadorias oriundas da empresa QUIMICA AMPARO LTDA, no âmbito do Programa de Desenvolvimento Industrial de Goiás – PRODUZIR (§ 2º, art. 17 c/c art. 20, I, “a”, da Lei 13.591/2000).~~
+
+~~8,76%~~
+
+~~GO Produto comestível decorrente da industrialização de ave e suíno. (Art. 11, XII, do Anexo IX, RCTE/GO, Dec. 4852/97).~~
+
+~~7%~~
+
+
+
+
+~~GO~~
+
+~~Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6~~o ~~do Decreto 4852, de 29/12/1997 ou criados pelo~~
+
+~~9%~~
+
+<!-- p. 23 -->
+~~beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+~~GO Arroz, exceto em casca. 9%~~
+
+
+~~GO~~
+
+~~Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+
+~~3%~~
+
+~~GO~~
+
+~~Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~4%~~
+
+
+~~GO~~
+
+~~Móveis, estofados e colchões oriundos da indústria goiânia (ref.: art. 4º, I, a, Lei 13.591, de 18/01/00).~~
+
+~~8,76%~~
+
+
+~~CE~~
+
+~~Saídas de ovos férteis, pintos de um dia, ovos, aves e suas correspondentes partes e miúdos em estado natural, congelados ou resfriados, quando praticadas por estabelecimento produtor. (art. 64,VI, RICMS/CE, Dec. 24.569/97)~~
+
+~~12%~~
+
+~~CE~~
+
+~~Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+
+~~CE~~
+
+~~Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência~~
+
+~~6%~~
+
+~~RS Arroz beneficiado 4,3%~~
+
+
+
+~~ES~~
+
+~~Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado – SEDES (consultar Portaria 095- R/2015-SEDES/ES)~~
+
+~~10,9%~~
+
+~~SC Arroz beneficiado 3%~~
+
+~~PR Arroz beneficiado 6%~~
+
+<!-- p. 24 -->
+~~ANEXO ÚNICO~~
+~~(NR Portaria Nº 115/2017, de 13 de fevereiro de 2017 - D.O.E. 21.02.2017)~~
+
+~~(9ª Alteração)~~
+
+~~UF de Origem Produto/Atividade/Empresa Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+~~GO Máquinas e Equipamentos rodoviários (Crédito outorgado de 5% - Art. 1º 1º, I, “a”, Lei 13.453/99 e Art. 4º do Decreto 14.065/01). 5%~~
+
+
+~~MG~~
+
+
+~~Mercadorias oriundas de estabelecimentos com regime especial que concede redução de carga tributária (art. 75, XIV, RICMS/MG) 4%~~
+
+
+~~MG~~
+
+~~Saídas de estabelecimento industrial de medicamento genérico (art. 75, XXII, RICMS/MG) 3%~~
+
+
+~~PA~~
+
+~~Saídas de produtos resultantes do processo de verticalização industrial de aves de estabelecimento que possua Regime Tributário Diferenciado. (art. 334 c/c art.333 do Anexo I do RICMS/PA, redação do Decreto 1.383/15 - PA) 10,2%~~
+
+
+~~PA~~
+
+~~Saídas de aves vivas ou abatidas e demais produtos comestíveis, resultantes do abate de aves, realizadas por estabelecimento que promova a verticalização industrial de produtos comestíveis e que NÂO possua Regime Tributário Diferenciado. (art. 336 do RICMS/PA, redação dada pelo Decreto 1.383/15 – PA) 9%~~
+
+
+~~PA~~
+
+~~Álcool hidratado e açúcar fabricados pela empresa PAGRISA – PARÁ PASTORIL E AGRÍCOLA S/A, inscrita no Cadastro de Contribuintes do ICMS do Pará sob o nº 15.075430-2. (Dec. 772/08 – PA) 9%~~
+
+
+~~PA~~
+
+~~Produtos ILDA/Laticínios Ind. E Com de Laticínios da Amazônia Ltda. – ILDA 10%~~
+
+~~PA~~
+
+~~Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.) 7%~~
+
+
+~~PA~~
+
+~~Comércio atacadista/Centro de Distribuição ou Varejista.~~
+~~Obs.: mediante Regime 11%~~
+
+<!-- p. 25 -->
+~~Especial~~
+
+~~PA~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição. 8%~~
+
+
+
+~~PA~~
+
+~~Carne fresca, resfriada, congelada, salgada, temperada ou salmorada e couro, resultante do abate ou da industrialização pela Empresa JBS Carnes e JBS Couros (ref.:~~
+~~Resolução 022, de 09/11/15 da Comissão Política de Incentivos ao Desenvolvimento Socioeconômico do Estado do Pará – CPIDS)~~
+
+~~10,83%~~
+
+~~PA~~
+
+~~Móveis, colchões e estufados, oriundos de estabelecimento industrial (Maqumóveis Ind e Com de Móveis Ltda – ref: Resolução 002, de 14/01/15 – CPIDS/PA)~~
+
+~~11,4%~~
+
+
+~~PA~~
+
+~~Moveis, colchões e estufados, oriundos de estabelecimento industrial (Indústria e Comércio de Espumas e Colchões Belém Ltda e Platspuma Pará Indústria e Comércio de Colchões Ltda ORTOLITE– ref: Resoluções 004 e 005, de 30/03/10 – CPIDS/PA)~~
+
+~~9%~~
+
+
+~~TO~~
+
+
+~~Arroz, exceto em casca, proveniente da indústria de beneficiamento. 10%~~
+
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada. 7%~~
+
+~~TO~~
+
+~~Gado bovino destinado ao abate, saídas praticadas por produtor rural. 9%~~
+
+~~TO Gado bovino – carne desossada embalada a vácuo. 7%~~
+
+
+~~TO~~
+
+~~Ovos, inclusive férteis, pintos de um dia e produtos resultantes do abate de aves e gado suíno, caprino e ovino e ração (ref.: inc. II, art. 3~~o, ~~Lei 1695/06-TO)~~
+
+~~11,5%~~
+
+~~TO Aves vivas (ref.: inc. III, art. 3~~o~~, Lei 1695/06-TO) 11%~~
+
+~~TO~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10%~~
+
+~~TO~~
+
+~~Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE).~~
+
+~~11%~~
+
+~~Móveis, estofados e colchões oriundos da indústria tocantina~~
+
+~~10%~~
+
+<!-- p. 26 -->
+~~TO~~
+
+~~(ref.: art. 4º, II, a, Lei 1.385, de 09/07/03).~~
+~~PB~~
+
+~~Saídas de aves e produtos de sua matança, congelados ou simplesmente temperados. 12%~~
+
+~~PI~~
+
+~~Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores. 8%~~
+
+~~PI Camarão de cativeiro. 12%~~
+
+~~PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã. 12%~~
+
+~~PI Aves vivas e os produtos resultantes do abate destas. (ref.: Lei 4.859/96 - PI). 12%~~
+
+~~PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.) 5%~~
+
+
+~~PI~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+
+~~GO~~
+
+~~Mercadorias oriundas da empresa QUIMICA AMPARO LTDA, no âmbito do Programa de Desenvolvimento Industrial de Goiás – PRODUZIR (§ 2º, art. 17 c/c art. 20, I, “a”, da Lei 13.591/2000).~~
+
+~~8,76%~~
+
+~~GO Produto comestível decorrente da industrialização de ave e suíno. (Art. 11, XII, do Anexo IX, RCTE/GO, Dec. 4852/97).~~
+
+~~7%~~
+
+
+
+
+~~GO~~
+
+~~Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6~~o ~~do Decreto 4852, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+
+~~9%~~
+
+
+~~GO Arroz, exceto em casca. 9%~~
+
+
+~~GO~~
+
+~~Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+
+~~3%~~
+
+<!-- p. 27 -->
+~~GO~~
+
+~~Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~4%~~
+
+
+~~GO~~
+
+~~Móveis, estofados e colchões oriundos da indústria goiânia (ref.: art. 4º, I, a, Lei 13.591, de 18/01/00).~~
+
+~~8,76%~~
+
+
+~~CE~~
+
+~~Saídas de ovos férteis, pintos de um dia, ovos, aves e suas correspondentes partes e miúdos em estado natural, congelados ou resfriados, quando praticadas por estabelecimento produtor. (art. 64,VI, RICMS/CE, Dec. 24.569/97)~~
+
+~~12%~~
+
+~~CE~~
+
+~~Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+
+~~CE~~
+
+~~Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência~~
+
+~~6%~~
+
+~~RS Arroz beneficiado 4,3%~~
+
+
+
+~~ES~~
+
+~~Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado – SEDES (consultar Portaria 095- R/2015-SEDES/ES)~~
+
+~~10,9%~~
+
+~~SC Arroz beneficiado 3%~~
+
+~~PR Arroz beneficiado 6%~~
+
+~~ANEXO ÚNICO~~
+~~(NR Portaria Nº 330/2017, de 21 de julho de 2017 - D.O.E. 25.07.2017,~~
+
+~~alterada pela Portaria 340/2017, de 27.07.17 – D.O.E. 27.07.2017)~~
+
+~~(11ª Alteração)~~
+
+~~UF de Origem Produto/Atividade/Empresa~~
+
+~~Percentual de ICMS~~
+
+~~complementar a ser cobrado sobre a base de~~
+
+~~GO~~
+
+~~Máquinas e Equipamento rodoviários (Crédito outorgado de 5% - Art. 1º 1º, I, “a”, Lei~~
+
+~~5%~~
+
+<!-- p. 28 -->
+~~13.453/99 e Art. 4º do Decreto 14.065/01).~~
+
+
+~~MG~~
+
+~~Mercadorias oriundas de estabelecimentos com Regime Especial que concede redução de carga tributária (art. 75, XIV, RICMS/MG)~~
+
+~~4%~~
+
+~~MG Saídas de estabelecimento industrial de medicamento genérico (art. 75, XXII, RICMS/MG)~~
+
+~~3%~~
+
+~~PA~~
+
+~~Saídas de produtos resultantes do processo de verticalização industrial de aves de estabelecimento que possua Regime Tributário Diferenciado. (art. 334 c/c art.333 do Anexo I do RICM S/PA, redação do Decreto 1.383/15 - PA)~~
+
+~~10,2%~~
+
+~~PA~~
+
+~~Saídas de aves vivas ou abatidas e demais produtos comestíveis, Resultantes do abate de aves, realizadas por estabelecimento que promova a verticalização industrial de produtos comestíveis e que NÂO possua Regime Tributário Diferenciado. (art. 336 do RICMS/PA, redação dada pelo Decreto 1.383/15 – PA)~~
+
+~~9%~~
+
+~~PA~~
+
+~~Álcool hidratado e açúcar fabricados pela empresa PAGRISA – PARÁ PASTORIL E AGRÍCOLA S/A , inscrita no Cadastro de Contribuintes do ICMS do Pará sob o nº 15.075430-2. (Dec. 772/08 - PA)~~
+
+~~9%~~
+
+~~PA~~
+
+~~Produtos ILDA/Laticínios Ind.~~
+~~E Com de Laticínios da Amazônia Ltda. – ILDA~~
+
+~~10%~~
+
+~~PA~~
+
+~~Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)~~
+
+~~7%~~
+
+~~PA~~
+
+~~Comércio atacadista/Centro de Distribuição ou Varejista.~~
+~~Obs: mediante Regime Especial.~~
+
+~~11%~~
+
+~~PA~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de~~
+
+~~8%~~
+
+<!-- p. 29 -->
+~~Distribuição.~~
+~~PA~~
+
+~~Carne fresca, resfriada, congelada, salgada, temperada ou salmorada e couro, resultante do abate ou da industrialização pela Empresa JBS Carnes e JBS Couros (ref.: Resolução 022, de 09/11/15 da Comissão Política de Incentivos ao Desenvolvimento Socioeconômico do Estado do Pará – CPIDS)~~
+
+~~10,83%~~
+
+~~PA~~
+
+~~Móveis, colchões e estufados, oriundos de estabelecimento industrial (Maquimóveis Ind e Com de Móveis Ltda – ref:~~
+~~Resolução 002, de 14/01/15 – CPIDS/PA)~~
+
+~~11,4%~~
+
+~~PA~~
+
+~~Moveis, colchões e estufados, oriundos de estabelecimento industrial (Indústria e Comércio de Espumas e Colchões Belém Ltda. e Platspuma Pará Indústria e Comércio de Colchões Ltda.~~
+~~ORTOLITE– ref: Resoluções 004 e 005, de 30/03/10 – CPIDS/PA)~~
+
+~~9%~~
+
+~~TO~~
+
+~~Arroz, exceto em casca, proveniente da indústria de beneficiamento.~~
+
+~~10%~~
+
+~~TO Gado bovino – carne em estado natural, resfriada ou congelada.~~
+
+~~7%~~
+
+~~TO Gado bovino destinado ao abate, saídas praticadas por produtor rural.~~
+
+~~9%~~
+
+
+~~TO Gado bovino – carne desossada em balada a vácuo. 7%~~
+
+~~TO~~
+
+~~Ovos, inclusive férteis, pintos de um dia e produtos resultantes do abate de aves e gado suíno, caprino e ovino e ração (ref.: inc.~~
+~~II, art. 3º, Lei 1695/06-TO)~~
+
+~~11,5%~~
+
+
+~~TO Aves vivas (ref.: inc. III, art. 3º, Lei 1695/06-TO) 11%~~
+
+~~TO~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição~~
+
+~~10%~~
+
+~~TO~~
+
+~~Móveis, estofados e colchões oriundos da indústria tocantina (ref.: art. 4º, II, a, Lei 1.385,~~
+
+~~10%~~
+
+<!-- p. 30 -->
+~~de 09/07/03).~~
+~~PB Saídas de aves e produtos de sua matança, congelados ou simplesmente temperados.~~
+
+~~12%~~
+
+
+~~PI~~
+
+~~Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.~~
+
+~~8%~~
+
+~~PI Camarão de cativeiro. 12% PI~~
+
+~~Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã.~~
+
+~~12%~~
+
+~~PI~~
+
+~~Aves vivas e os produtos resultantes do abate destas. (ref.:~~
+~~Lei 4.859/96 - P I).~~
+
+~~12%~~
+
+~~PI~~
+
+~~Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)~~
+
+~~5%~~
+
+
+~~PI~~
+
+~~Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~10,5%~~
+
+
+~~GO~~
+
+~~Mercadorias oriundas da empresa QUIM ICA AMPARO LTDA, no âmbito do Programa de Desenvolvimento Industrial de Goiás – PRODUZIR (§ 2º, art. 17 c/c art. 20, I, “a”, da Lei 13.591/2000).~~
+
+~~8,76%~~
+
+~~GO~~
+
+~~Produto comestível decorrente da industrialização de ave e suíno. (Art. 11, XII, do Anexo IX, RCTE/GO, Dec. 4852/97).~~
+
+~~7%~~
+
+
+~~GO~~
+
+~~Frigorifico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmoura e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6º do Decreto 48552, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.~~
+
+~~9%~~
+
+~~GO Arroz, exceto em casca. 9% Estabelecimento de comércio 3%~~
+
+<!-- p. 31 -->
+~~GO~~
+
+~~Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.~~
+~~GO~~
+
+~~Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~4%~~
+
+~~GO~~
+
+~~Móveis, estofados e colchões oriundos da indústria goiânia (ref.: art. 4º, I, a, Lei 13.591, de 18/01/00).~~
+
+~~8,76%~~
+
+~~CE~~
+
+~~Saídas de ovos férteis, pintos de um dia, ovos, aves e suas correspondentes partes e miúdos em Estado natural, congelados ou resfriados, quando praticadas por estabelecimento produtor. (art. 64,VI, RICMS/CE, Dec. 24.569/97)~~
+
+~~12%~~
+
+~~CE~~
+
+~~Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.~~
+
+~~2%~~
+
+~~CE~~
+
+~~Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência.~~
+
+~~6%~~
+
+~~RS Arroz beneficiado 4,3% ES~~
+
+~~Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e Couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado – SEDES (consultar Portaria 095- R/2015- SEDES/ES).~~
+
+~~10,9%~~
+
+~~SC Arroz beneficiado. 3% PR Arroz beneficiado. 6% PE Gipsita, Gesso e seus derivados. 5% PE Transporte relativo à Gipsita, Gesso e seus derivados. 4,8%~~
+
+<!-- p. 32 -->
+ANEXO ÚNICO
+
+(NR Portaria Nº 359/2017, de 7 de agosto de 2017 - D.O.E. 07.08.2017)
+
+(12ª Alteração)
+
+UF de Origem Produto/Atividade/Empresa
+
+Percentual de ICMS
+
+complementar a ser cobrado sobre a base de
+
+GO
+
+Máquinas e Equipamentos rodoviários (Crédito outorgado de 5% - Art. 1º, I, “a”, Lei 13.453/99 e Art. 4º do Decreto 14.065/01).
+
+5%
+
+MG
+
+Mercadorias oriundas de estabelecimentos com Regime Especial que concede redução de carga tributária (art. 75, XIV, RICMS/MG)
+
+4%
+
+MG
+
+Saídas de estabelecimento industrial de medicamento genérico (art. 75, XXII, RICMS/MG)
+
+3%
+
+PA
+
+Saídas de produtos resultantes do processo de verticalização industrial de aves de estabelecimento que possua Regime Tributário Diferenciado. (art. 334 c/c art.333 do Anexo I do RICMS/PA, redação do Decreto 1.383/15 - PA)
+
+10,2%
+
+PA
+
+Saídas de aves vivas ou abatidas e demais produtos comestíveis, Resultantes do abate de aves, realizadas por estabelecimento que promova a verticalização industrial de produtos comestíveis e que NÂO possua Regime Tributário Diferenciado. (art. 336 do RICMS/PA, redação dada pelo Decreto 1.383/15 – PA)
+
+9%
+
+PA
+
+Produtos ILDA/Laticínios Ind.
+E Com de Laticínios da Amazônia Ltda. – ILDA
+
+10%
+
+PA
+
+Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)
+
+7%
+
+PA
+
+Comércio atacadista/Centro de Distribuição ou Varejista.
+Obs: mediante Regime Especial.
+
+11%
+
+<!-- p. 33 -->
+PA
+
+Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.
+
+8%
+
+PA
+
+Carne fresca, resfriada, congelada, salgada, temperada ou salmorada e couro, resultante do abate ou da industrialização pela Empresa JBS Carnes e JBS Couros (ref.: Resolução 022, de 09/11/15 da Comissão Política de Incentivos ao Desenvolvimento Socioeconômico do Estado do Pará – CPIDS)
+
+10,83%
+
+PA
+
+Móveis, colchões e estufados, oriundos de estabelecimento industrial (M aqum óveis Ind e Com de Móveis Ltda – ref:
+Resolução 002, de 14/01/15 – CPIDS/PA)
+
+11,4%
+
+PA
+
+Moveis, colchões e estufados, oriundos de estabelecimento industrial (Indústria e Comércio de Espumas e Colchões Belém Ltda e Platspuma Pará Indústria e Comércio de Colchões Ltda ORTOLITE– ref: Resoluções 004 e 005, de 30/03/10 – CPIDS/PA)
+
+9%
+
+TO
+
+Arroz, exceto em casca, proveniente da indústria de beneficiamento.
+
+10%
+
+TO Gado bovino – carne em estado natural, resfriada ou congelada.
+
+7%
+
+TO
+
+Gado bovino destinado ao abate, saídas praticadas por produtor rural.
+
+9%
+
+TO Gado bovino – carne desossada embalada a vácuo. 7%
+
+TO
+
+Ovos, inclusive férteis, pintos de um dia e produtos resultantes do abate de aves e gado suíno, caprino e ovino e ração (ref.: inc.
+II, art. 3º, Lei 1695/06-TO)
+
+11,5%
+
+
+TO Aves vivas (ref.: inc. III, art. 3º, Lei 1695/06-TO) 11%
+
+TO
+
+Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de
+
+10%
+
+<!-- p. 34 -->
+Distribuição TO
+
+Móveis, estofados e colchões oriundos da indústria tocantina (ref.: art. 4º, II, a, Lei 1.385, de 09/07/03).
+
+10%
+
+PB Saídas de aves e produtos de sua matança, congelados ou simplesmente temperados.
+
+12%
+
+
+PI
+
+Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.
+
+8%
+
+PI Camarão de cativeiro. 12% PI
+
+Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã.
+
+12%
+
+PI
+
+Aves vivas e os produtos resultantes do abate destas. (ref.:
+Lei 4.859/96 - P I).
+
+12%
+
+PI
+
+Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)
+
+5%
+
+
+PI
+
+Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.
+
+10,5%
+
+
+GO
+
+Mercadorias oriundas da empresa QUIM ICA AMPARO LTDA, no âmbito do Programa de Desenvolvimento Industrial de Goiás – PRODUZIR (§ 2º, art. 17 c/c art. 20, I, “a”, da Lei 13.591/2000).
+
+8,76%
+
+GO
+
+Produto comestível decorrente da industrialização de ave e suíno. (Art. 11, XII, do Anexo IX, RCTE/GO, Dec. 4852/97).
+
+7%
+
+
+GO
+
+Frigorifico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmoura e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6º do Decreto 48552, de 29/12/1997 ou criados pelo beneficiário de
+
+9%
+
+<!-- p. 35 -->
+crédito outorgado ou por produtor rural a ele integrado.
+GO Arroz, exceto em casca. 9% GO
+
+Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.
+
+3%
+
+GO
+
+Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição.
+
+4%
+
+GO
+
+Móveis, estofados e colchões oriundos da indústria goiânia (ref.: art. 4º, I, a, Lei 13.591, de 18/01/00).
+
+8,76%
+
+CE
+
+Saídas de ovos férteis, pintos de um dia, ovos, aves e suas correspondentes partes e miúdos em estado natural, congelados ou resfriados, quando praticadas por estabelecimento produtor. (art. 64,VI, RICMS/CE, Dec. 24.569/97)
+
+12%
+
+CE
+
+Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.
+
+2%
+
+CE
+
+Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência.
+
+6%
+
+RS Arroz beneficiado 4,3% ES
+
+Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e Couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado – SEDES (consultar Portaria 095- R/2015- SEDES/ES) .
+
+10,9%
+
+SC Arroz beneficiado. 3% PR Arroz beneficiado. 6%
+
+<!-- p. 36 -->
+PE Gipsita, Gesso e seus derivados 5% PE Transporte relativo à Gipsita, Gesso e seus derivados. 4,8%
+<<<DOC normas/portaria/portaria-392-2015-15320.md>>>
+---
+documento: "PORTARIA Nº 392, DE 18 DE AGOSTO DE 2015"
+tipo: portaria
+numero: 392
+data: "2015-08-18"
+ementa: "A organização do Programa de Estímulo à Cidadania Tributária do Estado do Maranhão - Nota Legal e a sistemática para obtenção de créditos."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f69c2688-4b90-48c7-bbee-58c7f7161885
+atualizado_na_fonte: "2026-10-27 18:30:34"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 392, DE 18 DE AGOSTO DE 2015
+
+_A organização do Programa de Estímulo à Cidadania Tributária do Estado do Maranhão - Nota Legal e a sistemática para obtenção de créditos._
+
+**Data:** 2015-08-18  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 392/2015 SÃO LUÍS, 18 DE AGOSTO DE 2015
+D.O.E.: 20.08.2015
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e tendo em vista o disposto na Lei nº 10.279, de 10/07/15, e respectivo regulamento,
+
+RESOLVE:
+
+Art. 1º A organização do Programa de Estímulo à Cidadania Tributária do Estado do Maranhão - Nota Legal e a sistemática para obtenção de créditos e outros prêmios previstos na Lei nº 10.279/ 2015, que instituiu o Programa, serão regidos pelas disposições legais aplicáveis e por esta Portaria.
+
+DA COORDENAÇÃO DO PROGRAMA
+
+Art. 2º A coordenação do Programa será exercida por grupo de trabalho composto por até 07 (sete) servidores desta Secretaria designados em ato próprio.
+
+Parágrafo único. O coordenador do grupo de trabalho referido no caput, juntamente com o gestor chefe da Assessoria de Desenvolvimento Institucional serão responsáveis pela tarefa de articular internamente todas as instâncias e setores desta Secretaria de Estado da Fazenda (Sefaz) para o êxito do Programa e potencializar os seus efeitos pedagógicos, cabendo ao gestor chefe da Célula de Gestão para Administração Tributária/Planejamento Fiscal a incumbência de maximizar os ganhos tributários dele decorrentes.
+
+Art. 3º Competirá ao coordenador do Programa a administração dos assuntos operacionais, podendo, para tanto, adotar as providências necessárias para execução das atividades programadas.
+
+DOS PARTICIPANTES DO PROGRAMA, DAS VEDAÇÕES E DA
+
+FORMA DE PARTICIPAÇÃO
+
+Art. 4º Poderão participar do Programa o consumidor, pessoa natural ou jurídica, que adquirir mercadorias, bens ou serviços de transporte interestadual e intermunicipal de estabelecimento fornecedor localizado neste Estado, contribuinte do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação - ICMS, conforme segue:
+
+I - pessoa física, consumidora final, identificada com o CPF em documento fiscal hábil;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II - condomínio edilício;
+
+III - Micro Empreendedor Individual - MEI;
+
+IV - instituições maranhenses de assistência social, sem fins lucrativos, reconhecida como de utilidade pública estadual, previamente cadastradas no endereço eletrônico do Programa;
+
+V - entidades maranhenses de assistência social sem fins lucrativos cadastradas no endereço eletrônico do Programa, que tenham sido indicadas como favorecidas pelo crédito previsto no art. 5º da Lei nº 10.279/2015.
+
+§ 1º É vedado aos contribuintes do ICMS, exceto o Micro Empreendedor Individual - MEI, a obtenção dos prêmios e outros benefícios do Programa.
+
+§ 2º É vedada a participação, como beneficiários dos prêmios em dinheiro e de cupons para sorteio do Programa, de servidores desta Secretaria e de funcionários das sociedades empresárias de tecnologia contratadas pela Sefaz, bem como de seus parentes em linha reta até o primeiro grau, seus cônjuges ou companheiros (as).
+
+§ 3º As pessoas físicas ou jurídicas em débito com o Tesouro Estadual, bem como aquelas com irregularidades cadastrais ou fiscais junto à Sefaz, só poderão receber os prêmios do Programa após a quitação do débito, e, se for o caso, após o saneamento da irregularidade.
+
+§ 4º Na hipótese de haver débito do beneficiário junto ao Tesouro Estadual - e não sendo este adimplido antes do recebimento do prêmio - o crédito ou o valor relativo ao prêmio poderá ser utilizado para abatê-lo ou quitá-lo, recebendo o beneficiário o saldo remanescente deste, se houver.
+
+Art. 5º Além da inscrição, é requisito para participar dos sorteios a manifestação de concordância com o Regulamento do Programa no portal do Nota Legal, notalegal.sefaz.ma.gov.br:
+
+I - pela pessoa física e pelo condomínio edilício, por meio da internet, mediante utilização de senha de acesso, a partir da data da edição desta Portaria;
+
+II - pelas instituições maranhenses de assistência social sem fins lucrativos, pelas entidades de cultura e desporto, desde que enquadradas pelo Decreto governamental e após o seu cadastramento.
+
+DOS PRÊMIOS
+
+Art. 6º A pessoa natural ou jurídica que solicitar o documento fiscal hábil na aquisição de mercadorias, bens ou serviços de transporte interestadual e intermunicipal de estabelecimento fornecedor, que seja contribuinte do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+transporte interestadual e intermunicipal e de comunicação - ICMS, receberá créditos do Tesouro Estadual, da seguinte forma:
+
+I - o montante correspondente a 2% (dois por cento) do valor do ICMS da operação própria destacado na nota fiscal;
+
+II - o montante de 3% (três por cento) do valor do ICMS da operação própria, destacado na nota fiscal, será atribuído exclusivamente aos adquirentes de mercadorias em comércio varejista de gêneros alimentícios, comércio varejista de autopeças e restaurantes.
+
+§ 1º Excetuam-se do comércio varejista de gêneros alimentícios de que trata o inciso II do caput, os estabelecimentos com Equipamentos Emissores de Cupons Fiscais - ECF autorizados pela SEFAZ. Os adquirentes de mercadorias nesses estabelecimentos permanecem na faixa prevista no inciso I do art. 6º.
+
+§ 2º Para fins de cálculo do crédito a ser realizado na forma descrita no caput deste artigo, o valor máximo a ser considerado em cada nota fiscal será de R$ 8.000,00 (oito mil reais), por operação.
+
+§ 3º Para fins de cálculo do valor dos créditos a serem concedidos aos adquirentes, será considerado o mês de referência em que ocorreram as operações ou prestações.
+
+Art. 7º Os prêmios pela participação no Programa, na forma autorizada pela Lei nº 10.279/2015 e disciplinados nos demais dispositivos desta Portaria, consistirão em:
+
+I - créditos do Tesouro do Estado, para o consumidor que solicitar notas fiscais de compras de fornecedores;
+
+II - cupons para sorteios em dinheiro, a serem realizados em datas previamente estabelecidas, de acordo com os resultados de Loteria Federal da Caixa Econômica Federal, do sábado imediatamente anterior à data da divulgação dos cupons premiados, além de sorteios ao vivo em estádios de futebol, na forma do § 4º do art. 25 desta Portaria;
+
+III - bônus para obter ingressos para assistir competições esportivas com a participação de clubes de futebol maranhenses, espetáculos esportivos amadores, shows e eventos culturais.
+
+Art. 8º A pessoa natural ou jurídica que tiver crédito a receber nos termos do art. 6º desta Portaria, poderá:
+
+I - solicitar depósito em conta corrente ou poupança, mantida em instituição financeira do Sistema Financeiro Nacional;
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II - abater até 50% (cinquenta por cento) do valor do débito do Imposto sobre a Propriedade de Veículos Automotores - IPVA de veículo de sua propriedade, do exercício seguinte;
+
+III - solicitar a conversão dos créditos em bônus para recarga de telefone celular modalidade pré-pago, a partir de R$ 5,00 (cinco reais);
+
+IV - solicitar a conversão dos créditos em bônus para outras finalidades conforme norma a ser estabelecida, a qualquer tempo, pelo Secretário de Estado da Fazenda.
+
+Art. 9º A Secretaria de Estado da Fazenda firmará Acordos de Cooperação Técnica com as empresas prestadoras de serviços de telefonia celular com a finalidade de viabilizar a conversão de créditos recebidos no âmbito do Programa Nota Legal em bônus para o uso de telefones celulares de que trata o inciso III do art. 8º.
+
+§ 1º O valor mínimo para conversão será R$ de 5,00 (cinco reais), que somente poderão ser transferidos para cada linha telefônica em múltiplos de R$ 5,00 (cinco reais);
+
+§ 2º O tomador dos serviços poderá indicar até cinco números de telefones celulares em cujo benefício será feita a conversão de que trata o inciso III do artigo 8º.
+
+§ 3º A indicação dos números de telefones beneficiários das conversões deverá ser feita por meio de campo próprio disponibilizado no Portal Eletrônico do Programa Nota Legal.
+
+§ 4º Uma vez indicados os números, estes somente poderão ser alterados no Portal Eletrônico do Programa após o prazo de 30 (trinta dias), a contar da primeira conversão.
+
+§ 5º A alteração de que trata o § 4º poderá ser realizada a qualquer tempo, desde que presencialmente, nos postos de atendimento da Sefaz.
+
+§ 6º O limite de recarga por CPF cadastrado no Programa Nota Legal será de até R$ 40,00 (quarenta reais) por mês.
+
+§ 7º O limite de recarga por número de telefone celular cadastrado no Programa Nota Legal será de até R$ 60,00 (sessenta reais) por mês.
+
+§ 8º O bônus convertido em recarga tem um limite para uso de trinta dias.
+
+§ 9º Uma vez concedido o bônus, esse é irreversível, não podendo ser reconvertido em crédito.
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 10. A conversão dos créditos em bônus poderá ser realizada, a qualquer momento, em campo próprio do Portal Eletrônico do Programa Nota Legal, por conta e ordem do tomador do serviço titular do crédito.
+
+§ 1º Para efetivação da conversão, será exigida autorização pessoal do titular do crédito, mediante acesso ao sistema com login e senha para preenchimento do Termo de Autorização de Conversão de Crédito em Bônus.
+
+§ 2º A qualquer tempo, por ato do Secretário de Estado da Fazenda, o modo de acesso ao sistema do Portal Eletrônico do Programa Nota Legal poderá ser alterado para garantia da segurança do usuário e do próprio Portal.
+
+§ 3º A conversão do crédito em bônus para o uso de telefones celulares deverá ser disponibilizada no prazo de até 60 (sessenta) dias.
+
+§ 4º Caso ocorra divergência entre os dados fornecidos pelo titular do crédito e os constantes na empresa de telefonia celular, a conversão será rejeitada.
+
+§ 5º Para se credenciar para firmar o Acordo de Cooperação Técnica de que trata o artigo 9º desta Portaria, a empresa de telefonia celular deverá provar estar qualificada como operadora de serviço de telefonia móvel pessoal (SMP).
+
+§ 6º Para exercer a faculdade instituída por esta Portaria, o titular do crédito não poderá possuir registros no Cadastro Estadual de Inadimplentes - CEI, instituído pela Lei nº 6.690, de 11 de julho de 1996.
+
+§ 7º A Secretaria de Estado da Fazenda realizará o controle das conversões realizadas mediante a emissão de relatórios eletrônicos com base nos dados de segurança exigidos para o acesso ao Portal Eletrônico do Nota Legal.
+
+Art. 11. A obtenção e distribuição de outros prêmios e incentivos autorizados na Lei instituidora do Programa Nota Legal e não tratados nesta Portaria serão, na conveniência dos promotores do Programa, disciplinados oportunamente em ato próprio.
+
+DOS PRÊMIOS EM CRÉDITOS DO TESOURO ESTADUAL
+
+Art. 12. Atendidas as condições descritas nesta Portaria, o participante consumidor inscrito no Programa Nota Legal fará jus a prêmios, na forma de créditos em dinheiro em conta corrente ou de poupança mantida em Instituição do Sistema Financeiro Nacional.
+
+§ 1º Para fins de participação no sorteio, será atribuído gratuitamente ao consumidor um cupom a cada R$ 50,00 (cinquenta reais) ou, caso este valor não seja atingido, será atribuído um cupom para cada lote de 05 (cinco) documentos fiscais utilizados na aquisição de mercadorias, bens ou serviços, desde que feito o registro e atendido o disposto no art. 12.
+
+<!-- p. 6 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 2º Poderão participar do sorteio o condomínio edilício e a entidade maranhense de assistência social, sem fins lucrativos, previamente cadastrada na SEFAZ, desde que indicada como favorecida pelo crédito do Tesouro relativo à aquisição de mercadorias, bens ou serviços, desde que o documento fiscal seja um dos relacionados no inciso I, § 1º do art. 2º do Decreto nº 30.989/2015.
+
+§ 3º Compete à Secretaria de Desenvolvimento Social – Sedes receber, analisar e efetuar o cadastramento de entidades maranhenses de assistência social, sem fins lucrativos, que desejarem constar no cadastro da Sefaz, para fins do disposto nesta Portaria.
+
+§ 4º Não serão cumulativos o direito ao cupom por valor e por quantidade de documentos fiscais, pois para estes o direito somente ocorrerá se o valor não atingir o limite mínimo de R$ 50,00 (cinquenta reais).
+
+Art. 13. O valor do crédito (VC) a ser atribuído a cada consumidor será determinado conforme a fórmula VC (k, m) = ∑ CA (k, m, f) - ∑ DD (k, m, f), onde:
+
+I - VC (k, m) corresponde ao valor do crédito a ser atribuído ao consumidor "k" relativamente ao mês de referência "m";
+
+II - CA (k, m, f) corresponde ao somatório dos créditos atribuídos ao consumidor "k", relativamente às aquisições efetuadas no mês de referência "m", do fornecedor "f";
+
+III - DD (k, m, f) corresponde ao somatório das deduções relativas às devoluções, cancelamentos, manifestação de desconhecimento da operação, manifestação de desfazimento da operação ou qualquer outro evento que resulte na não concretização da operação de compras efetuadas pelo consumidor "k" no mês de referência "m", do fornecedor "f";
+
+IV - ? corresponde ao somatório.
+
+§ 1º O mês de referência "m" identifica tanto o mês do ano em que a aquisição foi efetuada quanto o período de competência da apuração do ICMS recolhido e o período de devolução.
+
+§ 2º Os valores relativos a eventuais devoluções serão deduzidos dos créditos do mesmo semestre e o eventual saldo negativo será transferido ao semestre seguinte.
+
+Art. 14. O valor do crédito a ser atribuído relativamente a cada aquisição de mercadorias, bens ou serviços de transporte interestadual e intermunicipal de fornecedor localizado no Estado do Maranhão será determinado conforme as seguintes fórmulas:
+
+I - CA (k, m, f) = 0,03 * VICMS-NF (f, m) para adquirentes de mercadorias em comércio varejista de gêneros alimentícios, comércio varejista de autopeças e
+
+<!-- p. 7 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+restaurantes nos termos, inciso II e § 1º do art. 3º da Lei nº 10.279, de 10 de julho de 2015.
+
+II - CA (k, m, f) = 0,02 * VICMS-NF (f, m) para adquirentes de mercadorias nos demais estabelecimentos, nos termos do inciso I do art. 3º da Lei nº 10.279, de 10 de julho de 2015.
+
+III - VICMS-NF (f, m) corresponde ao valor do ICMS destacado na Nota Fiscal de aquisição pelo consumidor no estabelecimento fornecedor "f" relativamente ao mês de referência "m";
+
+IV - 0,03 corresponde a 3% a ser aplicado sobre o valor do ICMS destacado na Nota Fiscal;
+
+V - 0,02 corresponde a 2% a ser aplicado sobre o valor do ICMS destacado na Nota Fiscal.
+
+Parágrafo único. O cálculo será efetuado com 4 (quatro) casas decimais e o valor do crédito será atribuído com duas casas decimais, desprezando-se as frações de centavos.
+
+Art. 15. Para fins de determinação do VICMS-NF (f, m) serão considerados os valores constantes nos seguintes documentos fiscais, desde que efetuado o respectivo registro na Declaração de Informações Econômico Fiscais - Dief:
+
+I - Cupom fiscal, emitido por equipamento Emissor de Cupom Fiscal - ECF;
+
+II - Nota fiscal de venda a consumidor (série D);
+
+III - Nota fiscal (modelo 1 ou 1-A);
+
+IV - Nota fiscal eletrônica - NF-e (modelo 55);
+
+V - Nota fiscal de serviço de transporte - (Modelo 7);
+
+VI - Conhecimento de transporte (Modelos: 8, 9, 10, 11 e 57);
+
+VII - Conhecimento de Transporte Rodoviário de Cargas, modelo 8;
+
+VIII - Conhecimento de Transporte Aquaviário de Cargas, modelo 9;
+
+IX - Conhecimento Aéreo, modelo 10;
+
+X - Conhecimento de Transporte Ferroviário de Cargas, modelo 11;
+
+XI - Nota Fiscal de Serviço de Transporte Ferroviário de Cargas, modelo 27;
+
+<!-- p. 8 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+XII - Nota Fiscal de Serviço de Transporte, modelo 7, quando utilizada em transporte de cargas.
+
+§ 1º Serão considerados os valores constantes em Nota Fiscal, modelo 1 ou 1-A, e nos itens da Nota Fiscal Eletrônica - NF-e, modelo 55, desde que no campo "CFOP" (Código Fiscal de Operações e Prestações) esteja indicada a operação relativa à venda de mercadorias, bens ou serviços.
+
+§ 2º Não serão considerados os valores constantes em documento fiscal:
+
+I - emitido por contribuinte que, em razão de sua atividade econômica preponderante, esteja classificado em "CNAE" (Classificação Nacional de Atividades Econômicas) que não conste do cronograma de implementação do Programa relativamente ao mês de referência "m";
+
+II - cujo registro eletrônico na Sefaz não tenha sido efetuado pelo emitente até o último dia do segundo mês subsequente àquele em que foi emitido;
+
+III - que tenha sido cancelado pelo emitente.
+
+§ 3º Serão consideradas as retificações registradas na DIEF e efetuadas pelo emitente do documento fiscal até o último dia do segundo mês subsequente àquele em que ocorreu a emissão do documento fiscal relativo à aquisição.
+
+Art. 16. Para fins de determinação do somatório das deduções ∑ DD (k, m, f) relativas às devoluções de compras efetuadas pelo consumidor serão considerados:
+
+I - Os documentos fiscais emitidos pelo estabelecimento que receber a devolução da mercadoria ou bem;
+
+II - Informações prestadas à Sefaz pelo estabelecimento que receber a devolução da mercadoria ou bem.
+
+Art. 17. O crédito atribuído na forma dos artigos precedentes não será disponibilizado ao consumidor, além de outras hipóteses previstas na legislação, se a Sefaz constatar que o documento fiscal relativo à aquisição tiver sido emitido ou utilizado com dolo, fraude ou simulação, ou que tenha possibilitado ao emitente, destinatário ou a terceiros o não pagamento do imposto devido ou qualquer outra vantagem indevida.
+
+Art. 18. O cálculo de que trata esta Portaria será efetuado como disposto a seguir:
+
+I - inicialmente, com os dados disponíveis até o último dia do primeiro mês após o mês de referência "m";
+
+<!-- p. 9 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II - definitivo, com os dados disponíveis até o último dia do segundo mês após o mês de referência "m".
+
+Art. 19. Para fins de consulta e utilização dos créditos concedidos pela Sefaz em razão da aquisição de mercadorias, bens e serviços, de transporte interestadual e intermunicipal, devidamente acompanhados de documento fiscal hábil, de acordo com o estabelecido no âmbito do Programa, deverá providenciar o seu cadastramento no endereço eletrônico notalegal.sefaz.ma.gov.br, o consumidor:
+
+I - pessoa física residente ou não neste Estado;
+
+II - pessoa jurídica não inscrita no Cadastro de Contribuintes do ICMS do Estado;
+
+III - o Micro Empreendedor Individual - MEI.
+
+Parágrafo único. Os cadastrados poderão consultar e utilizar os créditos concedidos no âmbito do Programa acessando o endereço eletrônico notalegal.sefaz.ma.gov.br, mediante uso do nome de usuário e senha.
+
+Art. 20. Para efetuar o cadastramento a que se refere o artigo anterior, o consumidor deverá:
+
+I - acessar o endereço notalegal.sefaz.ma.gov.br e selecionar as opções:
+
+a) pessoa física; ou
+
+b) pessoa jurídica.
+
+II - se pessoa física, deverá preencher os seguintes campos:
+
+a) cadastro de pessoa física - CPF;
+
+b) data de nascimento.
+
+III - se pessoa jurídica, deverá preencher os seguintes campos:
+
+a) cadastro nacional de pessoa jurídica - CNPJ;
+
+b) CPF do representante legal perante a Receita Federal do Brasil - RFB;
+
+c) nome do representante legal perante a RFB.
+
+IV - o consumidor informará ainda os seguintes dados ao sistema:
+
+a) nome completo;
+
+<!-- p. 10 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+b) logradouro, número, bairro, complemento, referência, CEP, município, UF, fone e e-mail;
+
+c) Cadastrar até 5 (cinco) números de telefones celulares para recebimento de créditos oriundos dos bônus previstos no art. 7º da Lei 10.279/2015;
+
+d) frase de segurança;
+
+e) senha;
+f) confirmação da senha;
+
+g) lembrete de senha.
+
+Art. 21. A senha cadastrada no campo indicado na alínea "e" do inciso IV do artigo anterior será:
+
+I - pessoal, intransferível e de conhecimento exclusivo do consumidor que a cadastrou, devendo ele responder pelos atos praticados mediante o uso de sua senha;
+
+II - automaticamente liberada, para uso quando os dados informados pelo consumidor para sua identificação coincidir com os dados constantes no CPF ou no CNPJ.
+
+Art. 22. Na hipótese de senha bloqueada pela Sefaz, o consumidor deverá efetuar o desbloqueio de sua senha mediante apresentação dos seguintes documentos em qualquer Unidade de Atendimento desta Secretaria, desde que atenda os requisitos abaixo exigidos:
+
+I - em se tratando de consumidor, pessoa física:
+a) pessoalmente, munido de requerimento, disponibilizado no endereço notalegal.sefaz.ma.gov.br, devidamente impresso e assinado e portando os documentos originais de identidade e do CPF, que possibilitará o desbloqueio imediato da senha na ocasião;
+
+b) por meio de procurador, desde que munido de documento de procuração com firma reconhecida em cartório;
+
+c) por via postal, anexando requerimento, disponibilizado no endereço notalegal.sefaz.ma.gov.br, devidamente impresso e assinado e fotocópia autenticada dos documentos de identidade, para o endereço:
+
+Secretaria de Estado da Fazenda
+
+Ed. Dep. Luciano Moreira, Assunto: Programa Nota Legal Av. Carlos Cunha, s/n - Calhau São Luís - MA - CEP 65.074-905
+
+<!-- p. 11 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II - em se tratando de consumidor pessoa jurídica:
+
+a) por meio do comparecimento do seu representante legal na Unidade de Atendimento da Sefaz de sua escolha, desde que apresente o requerimento disponibilizado no endereço notalegal.sefaz.ma.gov.br, devidamente impresso e assinado pelo respectivo interessado e cópia simples do CNPJ com firma reconhecida, momento em que o desbloqueio da senha poderá ser efetuado;
+
+b) por meio de procuração com firma reconhecida, quando o signatário do requerimento atuar na condição de procurador do respectivo interessado, portando o requerimento disponibilizado no endereço notalegal.sefaz.ma.gov.br, devidamente impresso e assinado pelo interessado com firma reconhecida e cópia do CNPJ;
+
+c) por via postal, anexando requerimento, disponibilizado no endereço notalegal.sefaz.ma.gov.br, devidamente impresso e assinado, e fotocópia autenticada dos documentos de constituição da entidade jurídica e de seus representantes legais para o endereço indicado na alínea "c" do inciso I deste artigo.
+
+§ 1º O requerimento de que trata este artigo deverá conter, além da identificação do consumidor, o seguinte texto:
+
+O consumidor acima identificado vem requer à Secretaria de Estado da Fazenda, nos termos da Portaria nº 392/2015, o desbloqueio da sua senha pessoal previamente cadastrada por meio do endereço notalegal.sefaz.ma.gov.br e declara ter plena ciência de que:
+
+a) a senha cadastrada permitirá o acesso a todas as funcionalidades do Programa de Estímulo à Cidadania Tributária do Estado do Maranhão - Nota Legal, destinadas ao consumidor, inclusive à utilização dos créditos concedidos a seu favor;
+
+b) responderá pelos atos praticados mediante o uso de sua senha.
+
+Nestes termos, solicita o desbloqueio.
+
+(data e assinatura)
+
+§ 2º A autoridade administrativa competente poderá, a seu critério, conceder ao consumidor um prazo de até 15 (quinze) dias para eventual saneamento da documentação apresentada.
+
+Art. 23. A efetivação do cadastramento previsto nesta Portaria só será concluída após a liberação da senha no endereço notalegal.sefaz.ma.gov.br, sendo esta uma condição essencial para a utilização dos créditos concedidos nos termos da Lei nº 10.279/2015.
+
+<!-- p. 12 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+DA OBTENÇÃO DE CUPONS PARA SORTEIO DE PRÊMIOS EM
+
+DINHEIRO
+
+Art. 24. O sorteio de prêmios em dinheiro no âmbito do Programa será realizado a partir do mês de outubro de 2015.
+
+§ 1º A apuração dos contemplados será efetuada de forma eletrônica, como descrito a seguir:
+
+I - O aplicativo consulta no banco de dados do Programa Nota Legal todos os documentos fiscais, emitidos pelos estabelecimentos varejistas, marcados para gerar cupons para sorteio e que tenham sido emitidos a partir de zero hora do dia 12 de setembro de 2014, gerando uma relação ordenada com os seguintes campos:
+
+a) Campo A: CPF/CNPJ do consumidor;
+
+b) Campo B: Quantidade total de documentos fiscais;
+
+c) Campo C: Soma do valor total dos documentos fiscais;
+
+d) Campo D: Campo B / 5;
+
+e) Campo E: Campo C / 100.
+
+II - para cada consumidor da relação, o aplicativo gerará uma quantidade de bilhetes igual ao maior dos números, dentre os campos D e E (apenas a parte inteira será considerada);
+
+III - cada um dos bilhetes será gerado com 9 (nove) dígitos, com numeração aleatória e única, podendo ser escolhido qualquer número entre 000.000.001 a 999.999.999;
+
+IV - os números dos bilhetes gerados eletronicamente serão disponibilizados para consulta e emissão pelos participantes do Programa no site do Nota Legal.
+
+§ 2º A obtenção dos números dos cupons premiados pelo Programa far-se-á utilizando-se os números sorteados pela Loteria Federal, considerada a extração do sábado correspondente às datas indicadas no § 3º do art. 13, campo "data do sorteio Loteria Federal", sendo apurados e contemplados, conforme os seguintes procedimentos:
+
+I - Primeiro prêmio: será o número que coincida com o número do primeiro prêmio da Loteria Federal, ou o número que mais se aproxime do mesmo, pelo lado inferior.
+
+<!-- p. 13 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II - Segundo prêmio: será o número que coincida com o número do segundo prêmio da Loteria Federal, ou o número que mais se aproxime do mesmo, pelo lado inferior.
+
+III - Terceiro prêmio: será o número que coincida com o número do terceiro prêmio da Loteria Federal, ou o número que mais se aproxime do mesmo, pelo lado inferior.
+
+IV - Quarto prêmio: será o número que coincida com o número do quarto prêmio da Loteria Federal, ou o número que mais se aproxime do mesmo, pelo lado inferior.
+
+V - Quinto prêmio: será o número que coincida com o número do quinto prêmio da Loteria Federal, ou o número que mais se aproxime do mesmo, pelo lado inferior.
+
+§ 3º - na hipótese de existirem 2 (dois) cupons na mesma situação do item anterior, será escolhido o que tiver menor número.
+
+§ 4º Quando a distribuição de prêmios do Programa for maior que 1 (um), como no exemplo do quinto prêmio do terceiro sorteio (20 prêmios de R$ 500,00), haverá a seguinte distribuição:
+
+I - serão premiados o cupom contemplado, mais os cupons com numeração imediatamente inferior ao número do cupom contemplado;
+
+II - caso não exista quantidade suficiente de cupons gerados com numeração inferior ao número do cupom contemplado, que preencha a quantidade de prêmios a serem distribuídos, serão contemplados, ainda, os cupons com numeração imediatamente superior ao número do cupom contemplado, até que seja preenchida a quantidade de prêmios a serem distribuídos.
+
+§ 5º O algoritmo matemático a ser utilizado para geração dos bilhetes eletrônicos de que trata o § 2º é de responsabilidade da Célula de Gestão para a Administração e Pessoas - Tecnologia da Informação - CEGPA/COTEC da Sefaz, à qual caberá a publicação do respectivo Termo de Responsabilidade Técnica.
+
+Art. 25. Os prêmios serão sorteados conforme datas e valores definidos em ato próprio do Poder Executivo.
+
+§ 1º Excetuada a sistemática de sorteio de prêmios prevista nos dispositivos anteriores, nas datas indicadas nos §§ 1º, 2º e 3º deste artigo, também serão sorteados, em sorteios ao vivo, nos estádios de futebol, quando da realização das partidas finais dos turnos a serem pagos somente para os presentes aos jogos, com a utilização do ingresso adquirido com o Vale Ingresso obtido no Programa Nota Legal, mediante sorteio do canhoto.
+
+<!-- p. 14 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 2º Excetuados os sorteios do parágrafo anterior, os prêmios de que trata este artigo serão numerados em ordem decrescente de valor, de modo que o maior prêmio receba o número 1 (um), o segundo maior prêmio o número 2 (dois), e assim, sucessivamente.
+
+§ 3º Antes do efetivo crédito em conta corrente, poderão ser simbolicamente entregues, em data e local a serem estabelecidos pela Sefaz, os prêmios cujos valores estejam entre R$ 10.000,00 (dez mil reais) e R$ 100.000,00 (cem mil reais), devendo o ganhador comparecer pessoalmente, em local e data a serem fixados, com o devido documento de identidade ou cópia do contrato social, nos casos de pessoas jurídicas.
+
+§ 4º Em caso de prêmio superior a R$ 10.000,00 (dez mil reais), o condomínio edilício será representado pelo síndico, que deverá apresentar a Ata da Assembleia que o constituiu.
+
+§ 5º Na hipótese de não comparecimento no local e data fixada, o ganhador deverá nomear representante, o qual deverá comparecer no local e data designados munido de procuração com firma reconhecida e poderes específicos para o recebimento do prêmio, sob pena de perda do prêmio.
+
+§ 6º Os prêmios cujos valores estejam abaixo de R$ 10.000,00 (dez mi reais) serão creditados automaticamente na conta corrente ou conta poupança do consumidor constante no sistema Nota Legal.
+
+§ 7° Sob pena de prescrição, os prêmios em dinheiro referentes aos sorteios por meio de cupons gerados pelo Programa Nota Legal, deverão ser solicitados, pelo ganhador ou responsável, no prazo de até 90 (noventa) dias contados do dia da divulgação dos cupons premiados.
+
+Art. 26. Para efeito de participação nos sorteios de que trata esta Portaria, serão considerados os documentos fiscais válidos e registrados eletronicamente na Sefaz, emitidos no período referente aos meses anteriores ao do sorteio.
+
+
+DO INCENTIVO ÀS INSTITUIÇÕES DE DESPORTO (AQUISIÇÃO DE INGRESSOS PARA DISTRIBUIÇÃO AOS PARTICIPANTES
+
+DO PROGRAMA)
+
+Art. 27. A Comissão Setorial de Licitação desta Secretaria ultimará as providências para adquirir junto à entidade competente os ingressos dos jogos dos clubes maranhenses integrantes dos campeonatos e torneios esportivos que envolvam os clubes profissionais do futebol maranhense além de atividades esportivas amadoras bem como de shows e eventos culturais.
+
+Parágrafo único. Será definido, por ato do Secretário de Estado da Fazenda, limites para a aquisição de bônus para troca por ingressos para atividades esportivas e culturais conforme definição do caput.
+
+<!-- p. 15 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 28. O valor do incentivo para aquisição dos ingressos referidos no artigo anterior será distribuído aos clubes obedecendo aos percentuais informados, em documento específico para esse fim, pela Federação Maranhense de Futebol - FMF ou por entidade por ela autorizada, como resultado de prévio ajuste entre os interessados e a Secretaria de Estado de Esporte e Lazer (SEDEL).
+
+Art. 29. Os clubes de futebol envolvidos no Programa serão aqueles indicados pela FMF ou outra entidade por ela autorizada, através de documentação de concessão de poderes para esse fim, para participação nos campeonatos e torneios esportivos que envolvam clubes de futebol profissional.
+
+DA OBTENÇÃO DOS BÔNUS PELOS PARTICIPANTES E DA FORMA DE
+
+TROCA POR INGRESSOS
+
+Art. 30. Para aquisição de ingressos para eventos esportivos, a cada R$ 50,00 (cinquenta reais) em notas fiscais registrados com o CPF da pessoa física ou a cada lote de 15 documentos fiscais, de qualquer valor, o consumidor participante do Programa terá direito a 01 (um) bônus ("Vale Ingresso") para troca por ingresso para acesso aos estádios de futebol, o qual deverá ser trocado na sede dos clubes esportivos, na bilheteria dos estádios onde ocorrerem os eventos esportivos que envolvam os clubes de futebol profissional maranhenses ou em outros locais definidos por Portaria pela Secretaria de Estado do Esporte e Lazer - SEDEL:
+
+I - nos locais definidos pela SEDEL e nas sedes dos clubes ou em local designado por estes, até o dia anterior ao evento ou em outros dias e horários por eles fixados;
+
+II - nas bilheterias dos estádios, até às 12 horas do dia do evento.
+
+§ 1º Não será cumulativo o direito ao bônus por valor e por quantidade de documentos fiscais, pois para estes o direito somente ocorrerá se o valor não atingir o limite mínimo de R$ 50,00 (cinquenta reais).
+
+§ 2º Para efeito da troca referida no caput deste artigo, deverá ser observado o limite máximo de 05 (cinco) bônus para troca por ingressos por rodada conforme tabela a ser divulgada no site do Nota Legal.
+
+§ 3º As frações encontradas não serão consideradas para fins de distribuição de bônus.
+
+§ 4º O bônus baixado no sistema, pelo participante do Programa, para determinada rodada do campeonato, terá validade exclusiva para a referida rodada indicada no momento da solicitação desse bônus.
+
+§ 5º Os endereços dos postos de troca, Estádios de Futebol e sedes dos clubes Profissionais referidos nesta Portaria serão divulgados no portal do Nota Legal.
+
+<!-- p. 16 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 31. O controle da troca do bônus pelo ingresso será feita pelos clubes em sua sede ou no próprio estádio, pelo sistema no site do Nota Legal.
+
+§ 1º Ao receber do participante do Programa o bônus ou mesmo somente o número deste e o CPF, o clube deverá inserir no sistema de controle de trocas de ingressos no site do Nota Legal o número do bônus ou do CPF para identificar se o mesmo possui direito a ingressos e a quantidade a ser liberada;
+
+§ 2º Após efetuar essa alimentação de dados do participante do Programa e confirmar que a transação foi realizada, deverá ser liberada a quantidade de ingressos que o participante faz jus.
+
+Art. 32. No portal do Programa Nota Legal serão disponibilizadas as tabelas dos jogos, as datas e os estádios de realização das partidas definidas para o evento esportivo e a quantidade de ingressos disponível para a troca por documentos fiscais.
+
+DOS TERMOS E PRAZOS DO PROGRAMA
+
+Art. 33. O Programa terá prazo compreendido do dia de seu início, em 10 de julho de 2015, prorrogando-se até seu termo final.
+
+Parágrafo único. O termo final do Programa Nota legal será definido em ato próprio da Sefaz devendo ser divulgado com antecedência mínima de 30 (trinta) dias.
+
+Art. 34. Os bônus poderão ser solicitados através do sistema no site do Nota legal.
+
+Art. 35. Os fornecedores localizados neste Estado, que sejam contribuintes do ICMS, em conformidade com o disposto na Lei nº 10.279/2015, ficam obrigados a exibir no interior de seus estabelecimentos e, em locais visíveis ao público, o adesivo de divulgação do referido Programa fornecido pela Sefaz.
+
+§ 1º O não atendimento ao disposto no caput deste artigo implicará na imposição de multa no valor de R$ 300,00 (trezentos reais) conforme previsto no art. 8º, inciso IV, do Decreto nº 30.989/2015.
+
+§ 2º A sanção referida no § 1º deste artigo será imposta ao contribuinte do ICMS que, notificado para o cumprimento da obrigação, não atender no prazo de até 10 (dez) dias a notificação preliminar.
+
+DAS DISPOSIÇÕES GERAIS
+
+Art. 36. A inscrição dos participantes do Programa, com adesão ao regulamento, implica automaticamente, cessão dos direitos de uso de imagem e voz ao Governo do Estado do Maranhão para divulgação institucional da campanha do Programa Nota legal.
+
+<!-- p. 17 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Parágrafo único. A Sefaz se reserva o direito de divulgar os nomes dos contemplados, bem como utilizar suas imagens e sons de vozes, sem que isso implique qualquer direito a remuneração ou indenização aos contemplados.
+
+Art. 37. Os casos omissos ou especiais serão resolvidos em primeira instância pela coordenação do Programa e em instância superior pelo Secretário de Estado da Fazenda, através de ato próprio.
+
+DÊ-SE CIÊNCIA. PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 18 DE AGOSTO DE 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-394-2005-12604.md>>>
+---
+documento: "PORTARIA Nº 394, DE 22 DE JULHO DE 2005"
+tipo: portaria
+numero: 394
+data: "2005-07-22"
+ementa: "Aprovar procedimento operacional padrão para concessão do regime especial de parcelamento previsto na Lei nº. 8.271 de 30 de junho de 2005, constante do Anexo Único desta Portaria"
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3f53ccce-6d7b-4aaf-b1b6-f3e3f71485f5
+atualizado_na_fonte: "2026-10-27 11:42:32"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 394, DE 22 DE JULHO DE 2005
+
+_Aprovar procedimento operacional padrão para concessão do regime especial de parcelamento previsto na Lei nº. 8.271 de 30 de junho de 2005, constante do Anexo Único desta Portaria_
+
+**Data:** 2005-07-22  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+SECRETARIA DE ESTADO DA FAZENDA
+
+
+
+
+PORTARIA N º 0394/ GABIN DE 22 DE JULHO DE 2005.
+
+
+
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições,
+
+
+
+R E S O L V E
+
+
+Art.1º Aprovar procedimento operacional padrão para
+
+concessão do regime especial de parcelamento previsto na Lei nº. 8.271
+
+de 30 de junho de 2005, constante do Anexo Único desta Portaria.
+
+Art.2º Esta Portaria entra em vigor na data de sua
+
+publicação, produzindo os seus efeitos a partir de 21 de julho de 2005.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luís 22 de julho de 2005.
+
+<!-- p. 2 -->
+ROMUALDO HENRIQUE SILVA DE OLIVEIRA
+
+Secretário de Estado da Fazenda, em Exercício
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO
+
+SECRETARIA DE ESTADO DA FAZENDA
+
+
+ANEXO ÚNICO DA PORTARIA Nº 0394 - GABIN DE 22 DE JULHO DE 2005.
+
+
+Secretaria de Estado da Fazenda
+
+Célula de Gestão da Ação Fiscal
+
+Cobrança Administrativa
+
+Procedimento Operacional Padrão POP nº. 01/2005
+
+Versão nº.:
+02
+
+Elab. em: 20/07/05
+
+Concessão de Regime Especial de Parcelamento - REPAR
+
+Aprov. em: 22/07/05
+
+Formulários/Instrumentos Envolvidos:
+
+
+ Lei nº. 8.271 de 30 de junho de 2005
+
+
+ Módulos do SIAT (Visão Integral, Dossiê Anterior, SIPAF, Parcelamento e Arrecadação)
+
+Responsável Procedimentos
+
+Gestores:
+AGCEN, AGESP, AGLOC e Recuperação da Receita.
+
+
+1. Consultar por meio da intranet as adesões ao
+
+REPAR, por agência e data de solicitação;
+
+2. Consultar omisso de declaração;
+
+3. Solicitar a apresentação das declarações, no
+
+caso de omissão;
+
+4. Consultar no módulo VIT se os débitos
+
+relacionados no documento de adesão correspondem a todos os créditos tributários – CT existentes em nome da empresa (dívidas pendentes, autos de infração em qualquer fase, tanto no SIPAF como no Dossiê Anterior,
+
+<!-- p. 4 -->
+inclusive os débitos parcelados);
+
+5. Incorporar no módulo Dossiê Anterior os
+
+autos de infração lavrados até 31.03.2004, ainda não cadastrados, conforme determina a Portaria 780/02.
+
+6. Atualizar as fases no módulo Dossiê Anterior,
+
+dos processos fiscais, conforme determina a Portaria 780/02.
+
+7. Atualizar monetariamente os valores dos
+
+autos de infração do Dossiê Anterior, criando conta corrente para todos os autos de infração, observando:
+
+a) se os valores do imposto, multa e juros
+
+foram cadastrados corretamente;
+
+b) caso tenha divergência proceder à retificação, por meio da aplicação modificação especial, observando os procedimentos da Portaria 016/2004;
+
+c) criar o conta corrente conforme orientação
+
+dos itens 20 e 21.
+
+8. Em caso de reparcelamento de parcelamento
+
+ativo, cancelar o parcelamento anterior;
+
+
+9. Em caso de parcelamento pelo REPAR de
+
+crédito tributário igual ou superior R$ 100.000,00, exigir garantia real;
+
+10. Consultar se a empresa possui TVI em
+
+aberto. Caso positivo, e em se tratando de débitos com fatos geradores ocorridos até abril de 2005 apresentar o valor ao sujeito passivo, como possibilidade de inclusão no REPAR, devendo para isso ser lavrado AI.
+
+11. Informar ao contribuinte:
+
+a) que a simples adesão ao REPAR não
+
+implica suspensão de qualquer restrição existente em nome da empresa. Somente após o pagamento da primeira parcela haverá alteração do status da empresa;
+
+b) o valor da parcela mínima:
+
+ R$ 200,00, para os estabelecimentos enquadrados no PEM;  R$ 250,00, para os estabelecimentos que perderam a condição de PEM, desde que o desenquadramento tenha ocorrido por inadimplência de valor declarado;  R$ 1.000,00 para os demais
+
+estabelecimentos.
+
+<!-- p. 5 -->
+c) número de parcelas:
+
+ até 120 para fatos geradores
+
+ocorridos até 31/12/2004;
+
+ até
+18 para fatos geradores ocorridos no período de janeiro a abril de 2005 (geração no módulo de parcelamento normal);
+
+12. Não poderão parcelar débitos fiscais oriundos
+
+da falta de recolhimento do imposto retido de contribuinte substituído.
+
+13. Redução de multas:
+
+a) de 100%, 80%, 60% e 40%, para
+
+pagamento integral, nos períodos de trinta, sessenta, noventa e cento e vinte dias, respectivamente;
+b) de 100%, 80%, 60% e 40%, incidente
+
+sobre o valor da entrada igual ou superior a 10%, nos períodos de trinta, sessenta, noventa e cento e vinte dias, respectivamente;
+
+c) de 50% para cada parcela paga até o
+
+vencimento, se efetuar entrada igual ou superior a 10%.
+
+Gestor / Agências
+
+14. Inadimplência de valor declarado:
+
+
+a) consultar a inadimplência de valor declarado – no módulo visão integral tributária - VIT, sub-módulo dívidas pendentes;
+b) verificar se os períodos em aberto
+
+encontram-se no Termo de Solicitação de REPAR.
+Caso não esteja requerer solicitação complementar;
+c) encaminhar os débitos a UFRE ou COTAF,
+
+para lavratura e ciência do AI. Em se tratando de Agloc, será solicitada por email a UFRE de jurisdição a lavratura do AI;
+
+Gestor/Agloc
+
+15. Acessará o SIAT, módulo lavratura de AI,
+
+sub-módulo consulta para sua impressão, dando imediata ciência pessoal ao contribuinte;
+
+16. Imprimirá termos de início e encerramento
+
+de fiscalização;
+17. Informará a UFRE data da ciência do AI,
+
+para que o auditor finalize a auditoria e remeta o processo à agência para protocolização do processo fiscal.
+
+<!-- p. 6 -->
+Gestor / Agências
+
+18. Débitos lançados, consultar por inscrição:
+
+a) no módulo cadastro, sub-módulo dossiê
+
+anterior, aplicação relatório;
+
+b) no sub-modulo os auto de infração
+
+lançados a partir de 1/04/2004;
+c) Solicitar garantia real para parcelamento
+
+de crédito tributário igual ou superior a R$100.000,00;
+d) Informar à Unidade detentora do processo
+
+o interesse do contribuinte em aderir ao REPAR
+
+
+
+Unidade detentora do processo
+
+
+19. Cancelar todos os parcelamentos cujo auto
+
+de infração foram objeto do pedido de REPAR.
+O cancelamento deverá ser feito no sub – módulo de cancelamento de parcelamento e atualizar o conta corrente no VIT.
+
+20. Se CT lançado até 31 de março de 2004,
+
+criar conta corrente para os AI cadastrados no Dossiê Anterior, obedecendo os seguintes critérios:
+
+
+a) Autos lavrados a partir de 1/01/1992 até
+
+31/03/2004:
+
+
+ acessar o sub-modulo modificação
+
+de dossiê:  selecionar o AI;  verificar se os valores originais do
+
+ICMS, multa e juros do AI foram cadastrados corretamente.
+Caso haja divergência de valores proceder a retificação;  criar o conta corrente, clicando na
+
+opção “conta corrente”;  a data da criação da conta é igual
+
+a data da lavratura do AI;  o número do AI no conta corrente
+
+será igual ao numero do AI cadastrado no Dossiê, sem a barra.
+
+
+b) Autos lavrados anterior a 1/01/1992
+
+ acessar o sub-modulo modificação
+
+<!-- p. 7 -->
+de dossiê:  selecionar o AI;  corrigir os valores manualmente
+
+até 1/01/1992 e deduzir as parcelas pagas, até 1/01/1992;  incorporar os valores nos campos
+
+dos valores originais (ICMS, multa e juros);  criar o conta corrente, clicando na
+
+opção “conta correte”;  a data de criação da conta será
+
+sempre 1/01/1992, que corresponderá no c/c, a data da lavratura do AI;  o número do AI no conta corrente
+
+será igual ao numero do AI cadastro no Dossiê Anterior, sem a barra.
+b) atualização do conta corrente, em caso de
+
+haver pagamento parcial do AI (códigos de receita 102, 104, 107 e 108):
+
+ acessar o sub-modulo modificação
+
+de dossiê:  selecionar a aplicação transferência
+
+de pagamento;  informar a inscrição e acionar a
+
+opção buscar;  selecionar o AI e o(s) pagamento(s), um a um, e aciona o botão transferir;  nos pagamentos transferidos, códigos 102, 104, 107 e 108, o número do documento assumirá o número do AI sem a barra;
+
+
+Gestores:
+AGCEN, AGESP, AGLOC, Recuperação da Receita
+
+21. Gerar o DARE da primeira parcela/entrada no
+
+Módulo REPAR;
+
+22. Emitir o Termo de Parcelamento no sub-
+
+módulo geração de parcelamento _ REPAR.
+
+23. Assinar o TP e dar ciência ao contribuinte ou
+
+seu representante legal, exigir documento de identificação;
+
+24. 24. Orientar o contribuinte que o reflexo no
+
+cadastro só ocorrerá após o pagamento da primeira/entrada;
+
+Recuperação da Receita
+
+25. Excluir da remissão se comprovado o
+
+pagamento da primeira parcela;
+
+Nota:
+1. Os parcelamentos dos débitos na fase
+
+administrativa serão gerados pela Agência
+
+<!-- p. 8 -->
+de Atendimento;
+
+2. Os parcelamentos dos débitos na fase
+
+judicial serão gerados pela área de Recuperação da Receita;
+
+3. Excepcionalmente, o parcelamento poderá
+
+ser gerado, onde o contribuinte procurar o atendimento. Cabendo a atualização do débito e geração da conta corrente/Dossiê Anterior a área gestora do processo;
+<<<DOC normas/portaria/portaria-396-2022-20840.md>>>
+---
+documento: "PORTARIA Nº 396, DE 04 DE AGOSTO DE 2022"
+tipo: portaria
+numero: 396
+data: "2022-08-04"
+ementa: "Revoga a Portaria nº 538/2015 - GABIN, de 18 de novembro de 2015, que autoriza a centralização da apuração do ICMS das inscrições que menciona."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3508b7e8-c790-4c15-a6c7-55c089c389a8
+atualizado_na_fonte: "2026-10-21 10:02:42"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 396, DE 04 DE AGOSTO DE 2022
+
+_Revoga a Portaria nº 538/2015 - GABIN, de 18 de novembro de 2015, que autoriza a centralização da apuração do ICMS das inscrições que menciona._
+
+**Data:** 2022-08-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 396/2022 – GABIN DOE nº 149, de 10.08.22 SÃO LUÍS (MA), 04 DE AGOSTO DE 2022.
+
+Revoga a Portaria nº 538/2015 - GABIN, de 18 de novembro de 2015, que autoriza a centralização da apuração do ICMS das inscrições que menciona.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+RESOLVE:
+
+Art. 1º Fica revogada a Portaria nº 538/2015 - GABIN, de 18 de novembro de 2015.
+
+Art. 2º Esta Portaria entra em vigor na data da sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-397-2015-15324.md>>>
+---
+documento: "PORTARIA Nº 397, DE 24 DE AGOSTO DE 2015"
+tipo: portaria
+numero: 397
+data: "2015-08-24"
+ementa: "Revoga os Regimes Especiais que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f4e72790-98f0-4670-8a76-83b75a1ea9fe
+atualizado_na_fonte: "2026-10-27 18:30:02"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 397, DE 24 DE AGOSTO DE 2015
+
+_Revoga os Regimes Especiais que especifica._
+
+**Data:** 2015-08-24  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+PORTARIA nº 397/15- GABIN São Luís (MA), 24 de AGOSTO de 2015.
+
+Revoga os Regimes Especiais que especifica O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade
+
+RESOLVE:
+
+Art. 1º Ficam revogados todos os Regimes Especiais editados pela Secretaria de Estado da Fazenda, que concederam:
+
+I – Exclusão da sistemática de Substituição Tributária nas operações relativas à circulação de mercadorias e sobre prestação de serviços de transporte interestadual e intermunicipal e de comunicação – ICMS relativo a equipamentos, insumos e peças de reposição.
+
+II – Diferimento do lançamento e do pagamento do ICMS, em operações de importação do exterior, inclusive em relação ao respectivo serviço de transporte, quanto ao imposto que seria pago no momento do desembaraço aduaneiro, relativo a equipamento, insumo e peças de reposição de equipamentos;
+
+III – Crédito presumido, de modo que a carga tributária resultante seja de 5% (cinco por cento), sobre o valor das operações internas e 2% (dois por cento) nas operações interestaduais, em relação à empresa que comercializa os produtos mencionados no inciso I.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, e, expressamente, revoga o Regime Especial 13/2013, de 22 de agosto de 2013
+
+DÊ-SE CIÊNCIA,
+
+PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 24 de AGOSTO de 2015
+
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-400-2016-16090.md>>>
+---
+documento: "PORTARIA Nº 400, DE 01 DE NOVEMBRO DE 2016"
+tipo: portaria
+numero: 400
+data: "2016-11-01"
+ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complementação da alíquota do ICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7df31904-c199-468d-9382-6201867c62ff
+atualizado_na_fonte: "2026-10-19 10:58:29"
+extraido_em: "2026-11-18"
+remete_a: "RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 400, DE 01 DE NOVEMBRO DE 2016
+
+_Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complementação da alíquota do ICMS._
+
+**Data:** 2016-11-01  
+**Remete a:** RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 400/2016 - GABIN/SEFAZ
+D.O.E. 07.11.2016.
+
+SÃO LUÍS (MA), 1 DE NOVEMBRO DE 2016.
+
+Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complementação da alíquota do ICMS, relativa às operações ou prestações provenientes de unidades da Federação que concedem benefícios fiscais não autorizados por convênio celebrado nos termos da Lei Complementar nº 24, de 7/1/1975.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das suas atribuições, e, considerando o disposto no inciso I do art. 55-A do RICMS, aprovado pelo Decreto 19.714/2003,
+
+RESOLVE,
+
+Art. 1º Alterar o Anexo Único da Portaria 390/15, de 17 de agosto de 2015, que passa a vigorar com a redação dada pelo anexo desta Portaria (8ª alteração).
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+Dê-se ciência, publique-se e cumpra-se.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+ANEXO DA PORTARIA No 400/GABIN- SEFAZ de 1º de Novembro de 2016.
+
+(Altera o Anexo Único da Portaria 390/15 – 8ª alteração)
+
+“ANEXO ÚNICO”
+
+UF de Origem Produto/Atividade/Empresa Percentual de ICMS
+
+complementar a ser cobrado sobre a base de
+
+
+MG
+
+
+Mercadorias oriundas de estabelecimentos com regime especial que concede redução de carga tributária (art. 75, XIV, RICMS/MG) 4%
+
+
+MG
+
+Saídas de estabelecimento industrial de medicamento genérico (art. 75, XXII, RICMS/MG) 3%
+
+
+PA
+
+Saídas de produtos resultantes do processo de verticalização industrial de aves de estabelecimento que possua Regime Tributário Diferenciado. (art. 334 c/c art.333 do Anexo I do RICMS/PA, redação do Decreto 1.383/15 - PA) 10,2%
+
+
+PA
+
+Saídas de aves vivas ou abatidas e demais produtos comestíveis, resultantes do abate de aves, realizadas por estabelecimento que promova a verticalização industrial de produtos comestíveis e que NÂO possua Regime Tributário Diferenciado. (art.
+336 do RICMS/PA, redação dada pelo Decreto 1.383/15 – PA) 9%
+
+
+PA
+
+Álcool hidratado e açúcar fabricados pela empresa PAGRISA – PARÁ PASTORIL E AGRÍCOLA S/A, inscrita no Cadastro de Contribuintes do ICMS do Pará sob o nº 15.075430-2. (Dec. 772/08 – PA) 9%
+
+
+PA
+
+Produtos ILDA/Laticínios Ind. E Com de Laticínios da Amazônia Ltda. – ILDA 10%
+
+PA
+
+Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.) 7%
+
+Comércio atacadista/Centro de Distribuição ou Varejista. 11%
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PA
+
+Obs.: mediante Regime Especial
+
+PA
+
+Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição. 8%
+
+
+
+PA
+
+Carne fresca, resfriada, congelada, salgada, temperada ou salmorada e couro, resultante do abate ou da industrialização pela Empresa JBS Carnes e JBS Couros (ref.:
+Resolução 022, de 09/11/15 da Comissão Política de Incentivos ao Desenvolvimento Socioeconômico do Estado do Pará – CPIDS)
+
+10,83%
+
+PA
+
+Móveis, colchões e estufados, oriundos de estabelecimento industrial (Maqumóveis Ind e Com de Móveis Ltda – ref: Resolução 002, de 14/01/15 – CPIDS/PA)
+
+11,4%
+
+
+PA
+
+Moveis, colchões e estufados, oriundos de estabelecimento industrial (Indústria e Comércio de Espumas e Colchões Belém Ltda e Platspuma Pará Indústria e Comércio de Colchões Ltda ORTOLITE– ref: Resoluções 004 e 005, de 30/03/10 – CPIDS/PA)
+
+9%
+
+
+TO
+
+
+Arroz, exceto em casca, proveniente da indústria de beneficiamento. 10%
+
+TO Gado bovino – carne em estado natural, resfriada ou congelada. 7%
+
+TO
+
+Gado bovino destinado ao abate, saídas praticadas por produtor rural. 9%
+
+TO Gado bovino – carne desossada embalada a vácuo. 7%
+
+
+TO
+
+Ovos, inclusive férteis, pintos de um dia e produtos resultantes do abate de aves e gado suíno, caprino e ovino e ração (ref.: inc. II, art. 3o, Lei 1695/06-TO)
+
+11,5%
+
+TO Aves vivas (ref.: inc. III, art. 3o, Lei 1695/06-TO) 11%
+
+TO
+
+Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.
+
+10%
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+TO
+
+Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE).
+
+11%
+
+
+TO
+
+Móveis, estofados e colchões oriundos da indústria tocantina (ref.: art. 4º, II, a, Lei 1.385, de 09/07/03).
+
+10%
+
+PB
+
+Saídas de aves e produtos de sua matança, congelados ou simplesmente temperados. 12%
+
+PI
+
+Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores. 8%
+
+PI Camarão de cativeiro. 12%
+
+PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã. 12%
+
+PI Aves vivas e os produtos resultantes do abate destas. (ref.: Lei 4.859/96 - PI). 12%
+
+PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.) 5%
+
+
+PI
+
+Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.
+
+10,5%
+
+
+GO
+
+Mercadorias oriundas da empresa QUIMICA AMPARO LTDA, no âmbito do Programa de Desenvolvimento Industrial de Goiás – PRODUZIR (§ 2º, art. 17 c/c art. 20, I, “a”, da Lei 13.591/2000).
+
+8,76%
+
+GO Produto comestível decorrente da industrialização de ave e suíno. (Art. 11, XII, do Anexo IX, RCTE/GO, Dec. 4852/97).
+
+7%
+
+
+
+
+GO
+
+Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6o do Decreto 4852,
+
+9%
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.
+GO Arroz, exceto em casca. 9%
+
+
+GO
+
+Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.
+
+3%
+
+GO
+
+Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição
+
+4%
+
+
+GO
+
+Móveis, estofados e colchões oriundos da indústria goiânia (ref.: art. 4º, I, a, Lei 13.591, de 18/01/00).
+
+8,76%
+
+
+CE
+
+Saídas de ovos férteis, pintos de um dia, ovos, aves e suas correspondentes partes e miúdos em estado natural, congelados ou resfriados, quando praticadas por estabelecimento produtor. (art. 64,VI, RICMS/CE, Dec. 24.569/97)
+
+12%
+
+CE
+
+Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.
+
+2%
+
+
+CE
+
+Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência
+
+6%
+
+RS Arroz beneficiado 4,3%
+
+
+
+ES
+
+Saídas de mercadorias, exceto café, cacau, pimenta do reino in natura e couro bovino, oriundas de estabelecimento comercial atacadista estabelecido no Estado do Espírito Santo e cadastrado no Cadastro do Contrato de Competitividade da Secretaria de Desenvolvimento daquele Estado – SEDES (consultar Portaria 095- R/2015-SEDES/ES)
+
+10,9%
+
+SC Arroz beneficiado 3%
+
+PR Arroz beneficiado 6%
+<<<DOC normas/portaria/portaria-403-2019-19650.md>>>
+---
+documento: "PORTARIA Nº 403, DE 01 DE JULHO DE 2019"
+tipo: portaria
+numero: 403
+data: "2019-07-01"
+ementa: "Dispõe sobre a vedação de restrição cadastral e fiscal dos débitos fiscais existentes nas contas correntes do ICMS e ITCD até o limite de 10,00."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c8e900c-d1d9-4dfa-83b2-99ec668ccf14
+atualizado_na_fonte: "2026-10-13 11:34:22"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 403, DE 01 DE JULHO DE 2019
+
+_Dispõe sobre a vedação de restrição cadastral e fiscal dos débitos fiscais existentes nas contas correntes do ICMS e ITCD até o limite de 10,00._
+
+**Data:** 2019-07-01  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 403/2019 – GABIN DOE nº 124, de 04.07.19 SÃO LUÍS, 01 DE JULHO DE 2019.
+
+Dispõe sobre a vedação de restrição cadastral e fiscal dos débitos fiscais existentes nas contas correntes do ICMS e ITCD até o limite de 10,00.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, e,
+
+Considerando os princípios razoabilidade, racionalidade e eficiência administrativa, mormente na redução dos custos da arrecadação estadual e do valor pago pelas tarifas cobradas no recolhimento dos tributos estaduais à rede bancária.
+
+R E S O L V E:
+
+Art. 1º Os débitos fiscais existentes nas contas correntes do ICMS e ITCD, respectivamente, até o limite de 10,00 (dez reais), não poderão sofrer qualquer restrição cadastral ou fiscal no âmbito desta Secretaria.
+
+Parágrafo único. Os débitos fiscais de que trata o caput deste artigo permanecerão constando nas respectivas contas correntes.
+
+Art. 2º Fica revogada a Portaria no. 287/19 – GABIN.
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-403-2022-20841.md>>>
+---
+documento: "PORTARIA Nº 403, DE 11 DE AGOSTO DE 2022"
+tipo: portaria
+numero: 403
+data: "2022-08-11"
+ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bd8bd9b2-a665-4b1f-add8-43dbe3cf04a3
+atualizado_na_fonte: "2026-10-21 10:02:19"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.4, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 403, DE 11 DE AGOSTO DE 2022
+
+_Altera o Anexo III da Portaria 535/2015 - GABIN._
+
+**Data:** 2022-08-11  
+**Remete a:** Anexo 1.4, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 403 /22 - GABIN.
+DOE nº 153, de 16.08.22 SÃO LUÍS, 11 DE AGOSTO DE 2022.
+
+Altera o Anexo III da Portaria 535/2015 - GABIN.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+RESOLVE:
+
+Art. 1º Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 2015, que trata da previsão de consumo de óleo diesel marítimo nas operações internas destinadas às operadoras maranhenses do Sistema Ferry Boat, prevista no art. 25 do Anexo 1.4 do RICMS, aprovado pelo Decreto nº 19.714/03, que passa a vigorar com a seguinte redação:
+
+ANEXO III - DA PORTARIA 535/2015 – GABIN
+
+PREVISÃO DO CONSUMO DE ÓLEO DIESEL DO PERÍODO 09.2022
+
+NOME DA DISTRIBUIDORA
+
+CNPJ DA DISTRIBUIDORA
+
+MÊS DA PREVISÃO
+
+LITROS PREVISTOS
+
+IPIRANGA PRODUTOS DE
+
+PETROLEO AS
+
+
+33.337.122/0043-86 09.2022 180.000,00
+
+TOTAL: 09.2022
+
+
+180.000,00
+
+RELAÇÃO DAS EMPRESAS DE TRANSPORTE FERRY BOAT CREDENCIADAS PARA USO DO BENEFÍCIO PREVISTO NO ART. 25, DO ANEXO 1.4, DO RICMS/MA, NO PERÍODO 09.2022
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+NOME
+
+
+CNPJ
+
+INTERNACIONAL MARÍTIMA LTDA.
+12.539.110/0001-05
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de SETEMBRO de 2022.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 11 DE AGOSTO DE 2022.
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-403-2026-24698.md>>>
+---
+documento: "PORTARIA Nº 403, DE 16 DE OUTUBRO DE 2026"
+tipo: portaria
+numero: 403
+data: "2026-10-16"
+ementa: "Dispõe sobre a fixação de critérios eletrônicos para identificação, reconhecimento e baixa de créditos tributários decorrentes de multas por descumprimento de obrigações acessórias relativas ao ICMS, alcançados pela prescrição."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4ead593d-964f-46ed-846b-4cf3c6120c27
+atualizado_na_fonte: "2026-10-27 08:37:50"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 403, DE 16 DE OUTUBRO DE 2026
+
+_Dispõe sobre a fixação de critérios eletrônicos para identificação, reconhecimento e baixa de créditos tributários decorrentes de multas por descumprimento de obrigações acessórias relativas ao ICMS, alcançados pela prescrição._
+
+**Data:** 2026-10-16  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 403/2026 – GABIN DOE n° 191, de 22.10.26 São Luís (MA), 16 de outubro de 2026.
+
+Dispõe sobre a fixação de critérios eletrônicos para identificação, reconhecimento e baixa de créditos tributários decorrentes de multas por descumprimento de obrigações acessórias relativas ao ICMS, alcançados pela prescrição.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe conferem o art. 69, II, da Constituição do Estado do Maranhão, e o art. 3º, inc. I, c/c o art. 40, inc. IV, da Lei Estadual nº 10.151, de 23/10/2014;
+
+Considerando que, nos termos do art. 113, § 3º, do Código Tributário Nacional, a inobservância de obrigação tributária acessória converte-se em obrigação principal relativamente à penalidade pecuniária, constituindo crédito tributário sujeito às causas legais de extinção;
+
+Considerando que, conforme os arts. 156, inciso V, e 174 do Código Tributário Nacional, a prescrição constitui causa de extinção do crédito tributário, consumando-se, em regra, após o transcurso de 5 (cinco) anos contados de sua constituição definitiva, observadas as causas legais de suspensão e interrupção do prazo prescricional;
+
+Considerando que, nos termos da Súmula nº 622 do Superior Tribunal de Justiça, o prazo prescricional para a cobrança judicial tem início após o encerramento da instância administrativa e o esgotamento do prazo concedido para pagamento voluntário, devendo ser considerada a efetiva constituição definitiva dos créditos decorrentes de multas por descumprimento de obrigações acessórias;
+
+Considerando que a apuração da prescrição exige a verificação de eventuais causas suspensivas e interruptivas previstas na legislação tributária, especialmente a suspensão da exigibilidade, o parcelamento, o protesto judicial ou extrajudicial e os atos inequívocos de reconhecimento do débito pelo sujeito passivo, observada a legislação aplicável à época de cada ocorrência;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Considerando o disposto no art. 5º, inciso VIII, da Lei Estadual nº 10.977, de 19 de dezembro de 2018, que instituiu o Código de Defesa do Contribuinte do Estado do Maranhão, segundo o qual, consumada a prescrição dos créditos tributários e de outros débitos de responsabilidade do contribuinte, as repartições fazendárias deverão proceder, de ofício, à exclusão das respectivas referências de seus sistemas;
+
+Considerando os princípios da legalidade, eficiência, razoabilidade e economicidade administrativa, previstos na Constituição Federal, bem como a necessidade de racionalizar a gestão do estoque de créditos tributários, evitando a manutenção de cobranças juridicamente inexigíveis e a utilização de recursos públicos em procedimentos administrativos destituídos de utilidade; e
+
+Considerando, por fim, a necessidade de disciplinar procedimento padronizado de identificação, reconhecimento e baixa dos créditos tributários efetivamente alcançados pela prescrição, mediante utilização de ferramentas tecnológicas e mecanismos de controle que assegurem a legalidade, a rastreabilidade e a segurança dos procedimentos administrativos;
+
+RESOLVE:
+
+Art. 1º Esta Portaria estabelece critérios objetivos para a identificação e a baixa automatizada dos créditos tributários decorrentes exclusivamente de multas por descumprimento de obrigações acessórias relativas ao ICMS, alcançados pela prescrição, nos termos do art. 174 do Código Tributário Nacional e da Portaria nº 79/2023/ SEFAZ.
+
+Art. 2º Serão considerados, para fins de reconhecimento e baixa automatizada da prescrição, os créditos tributários anteriores a 1º de janeiro de 2020 que atendam, cumulativamente, aos seguintes requisitos:
+
+I – não tenham sido objeto de parcelamento;
+II – não tenham sido objeto de impugnação administrativa ou judicial;
+III – não estejam inscritos em Dívida Ativa;
+IV – se inscritos em Dívida Ativa, com manifestação expressa da Procuradoria-Geral do Estado (PGE) de que não foi proposta ação de execução fiscal para cobrança dos respectivos créditos.
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 3º O Corpo Técnico para a Tecnologia – COTEC realizará a identificação automatizada dos créditos que atendam aos critérios previstos no art. 2º desta portaria e procederá à baixa de forma eletrônica.
+
+Parágrafo único. Para fins de identificação da extinção do crédito tributário, do por meio da prescrição, o valor prescrito deverá ser registrado na conta corrente com a transação “28” para débitos inscritos em Dívida Ativa e “17” para débitos não inscritos.
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA DO MARANHÃO, EM SÃO LUÍS,
+16 DE OUTUBRO DE 2026.
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-405-2021-20310.md>>>
+---
+documento: "PORTARIA Nº 405, DE 24 DE SETEMBRO DE 2021"
+tipo: portaria
+numero: 405
+data: "2021-09-24"
+ementa: "Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no anexo, da apresentação da DIEF."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=533abb72-7540-4760-a37c-970c10ce548f
+atualizado_na_fonte: "2026-10-19 09:36:50"
+extraido_em: "2026-11-18"
+remete_a: "RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 405, DE 24 DE SETEMBRO DE 2021
+
+_Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no anexo, da apresentação da DIEF._
+
+**Data:** 2021-09-24  
+**Remete a:** RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+PORTARIA Nº 405/21 – GABIN/SEFAZ DOE nº 183, de 29.09.21
+
+
+São Luís, 24 de setembro de 2021.
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+Considerando o disposto no artigo 314 do RICMS/03, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, que normatiza que o Secretário da Fazenda mediante ato administrativo poderá dispensar a apresentação da DIEF para determinadas categorias de contribuintes:
+
+Considerando o disposto na Portaria nº 045/2021, de 15 de fevereiro de 2021, que define hipótese de suspensão de ofício de contribuintes do ICMS, com comunicação de inconformidades de informações na EFD.
+
+
+RESOLVE:
+
+
+Art. 1º Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no anexo, da apresentação da Declaração de Informações Econômico-Fiscais/DIEF, a partir do período de apuração de setembro de 2021, nos termos do inciso II, do artigo 314 do RICMS/03, e Parágrafo Único do Art. 10 da Portaria nº 045/2021, de 15 de fevereiro de 2021:
+
+Art. 2º A Escrituração Fiscal Digital – EFD substituirá para todos os efeitos legais, a partir do período de apuração de setembro de 2021, a Declaração de Informações Econômico-Fiscais/DIEF para os contribuintes constantes no Anexo único desta Portaria.
+
+Art. 3º A partir do período de apuração da dispensa da DIEF aos contribuintes de que trata o art. 1º desta Portaria, serão aplicadas aos mesmos as regras estabelecidas na Portaria n° 045/2021, que define hipótese de suspensão de ofício por meio da comunicação de inconformidades de informações na EFD, conforme previsto em seu Art. 10.
+
+Parágrafo Único. As regras da Portaria nº 045/2021 serão aplicadas também aos contribuintes já dispensados da Declaração de Informações Econômico- Fiscais/DIEF pelas Portarias nº 097/2019 e 209/2020, a partir do período de apuração setembro de 2021.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+Art. 4º Para fins da Autorregularização de que trata Portaria nº 045/2021, o contribuinte deverá acessar o SEFAZNET, Menu EFD/Autorregularização Malhas EFD;
+
+Art. 5º Na geração dos arquivos, além das Orientações do Guia Prático da Escrituração Fiscal Digital- EFD/ICMS IPI, conforme Ato COTEPE/ICMS nº 44 de 07 de agosto de 2018 e alterações, disponível no sítio http://sped.rfb.gov.br/, o contribuinte deverá observar o Guia de Orientação EFD – SEFAZ/MA, aprovado pela Portaria nº 351/21 – GABIN, de
+31 de agosto de 2021, (https://sistemas1.sefaz.ma.gov.br/portalsefaz/files?codigo=17830).
+
+Art. 6º No autoatendimento SEFAZNET, Menu EFD, está disponível no Sistema de Autorregularização, a aplicação “Auto Avaliação Preliminar”, que permite aos contribuintes, pré-validar os arquivos da EFD, antes do envio em definitivo para a Receita Federal do Brasil – RFB.
+
+Parágrafo Único. A pré-validação na aplicação “Auto Avaliação Preliminar”, restringe-se às malhas fiscais EFD ativas na SEFAZ/MA, e não substitui a validação prévia no Programa Validador e Assinador – PVA-EFD-ICMS/IPI, disponível no sitio http://sped.rfb.gov.br/.
+
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA. PUBLIQUE-SE E CUMPRA-SE.
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+
+ANEXO ÚNICO DA PORTARIA Nº 405/21 – GABIN
+
+Nº RAZÃO SOCIAL CNPJ RAIZ
+
+01 ACO MARANHAO LTDA 03062748
+02 ALCAN ALUMINA LTDA 06959319
+03 ALCOA ALUMINIO S A 23637697
+04 ALCOA WORLD ALUMINA BRASIL LTDA 06167730
+05 ALPHA MAQUINAS E VEICULOS DO NORDESTE LTDA 06495634
+06 AMBEV S A 07526557
+07 ARMAZEM MATEUS S A 23439441
+08 ATACADAO MENESES EIRELI 00853065
+09 ATACADAO S.A. 75315333
+10 ATACADAO SAO JOAO LTDA 03145305
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+11 AUDIOLAR MOVEIS E ELETROS LTDA 11828573
+12 BARTOFIL DISTRIBUIDORA AS 23797376
+13 BUNGE ALIMENTOS S A 84046101
+14 CAMIL ALIMENTOS S A 64904295
+15 CANTINHO DOCE ARTIGOS PARA FESTAS LTDA 08505025
+16 CARVALHO & FERNANDES LTDA 11596442
+17 CEARA DISTRIBUIDORA DE ALIMENTOS LTDA 07133563
+18 CERVEJARIA PETROPOLIS S A 73410326
+19 CIMENTO VERDE DO BRASIL S A 15733416
+20 CLAUDINO S/A LOJAS DE DEPARTAMENTOS 06862627
+21 COHAMA ARTIGOS PARA FESTAS LTDA 19644944
+22 COMABEL COMERCIO DE PRODUTOS DA CESTA BASICA EIRELI 07068224
+23 COMERCIAL FERRONORTE LTDA 10320422
+24 COMERCIAL ROFE LTDA 05300197
+25 COMPANHIA INDUSTRIAL DE CIMENTO APODI 10260249
+26 DISTRIBUIDORA DE MEDICAMENTOS TOTAL MA LTDA 24299152
+27 DISTRIBUIDORA MARANHENSE DE FRANGOS E FRIOS LTDA 04897346
+28 DISTRIBUIDORA MEDEIROS LTDA 08474030
+
+29
+
+DISTRIBUIDORA NASCENTE DE PRODUTOS DE LIMPEZA E CONSERVACAO EIRELI 07344186
+30 ELETROLAR MOVEIS E ELETRODOMESTICOS LTDA 03704924
+31 EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA 05402904
+32 ENEVA S A 04423567
+33 F C OLIVEIRA & CIA LTDA 07069487
+34 FERRONORTE COM DE FERRAGENS LTDA 00065130
+35 FERTILIZANTES TOCANTINS S.A 05571228
+36 HNK BR BEBIDAS LTDA 02864417
+37 HOT BEL COMERCIAL EIRELI 02871155
+38 I B I INDUSTRIA DE BEBIDAS IMPERATRIZ LTDA 03101558
+39 INDUSTRIA DE PAES E MASSAS MATEUS LTDA 08898073
+40 INVICTA - PRODUTOS FARMACEUTICOS LTDA. 03520924
+41 J GONCALVES DOS SANTOS FILHO CIA LTDA 07049976
+42 JACARE MADEIRAS E COMPENSADOS LTDA 04740760
+43 JORGE BATISTA & CIA LTDA 07222185
+44 LAVRONORTE MAQUINAS LTDA 05283031
+45 LILIANI MATERIAIS DE CONSTRUCOES LTDA 04322489
+46 LOJAS AMERICANAS S A 33014556
+47 LOJAS LE BISCUIT S A 16233389
+48 LOJAS RENNER SOCIEDADE ANONIMA 92754738
+49 LOJAS RIACHUELO S/A 33200056
+50 LOUVRE MAGAZINE COMERCIO LTDA 10854623
+51 M DIAS BRANCO S A INDUSTRIA E COMERCIO DE ALIMENTOS 07206816
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+52 MAGAZINE LILIANI S/A 11590296
+53 MAITY AGRICOLA LTDA 07908458
+54 MARDISA VEICULOS S/A 63411623
+55 MARTINS COMERCIO E SERVICOS DE DISTRIBUICAO S A 43214055
+56 MATEUS SUPERMERCADOS S A 03995515
+57 MERCADAO MENESES EIRELI EPP 20710862
+58 MOINHOS CRUZEIRO DO SUL S/A 88301155
+59 MONACO DIESEL CAMINHOES E ONIBUS LTDA 05442121
+60 NAZARIA DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS LTDA 07224991
+61 NESTLE BRASIL LTDA 60409075
+62 PEDRO DE OLIVEIRA COMERCIO ATACADISTA EIRELI 06098636
+63 POTIGUAR MATERIAIS DE CONSTRUCAO LTDA 06778591
+64 PREDILETA MARANHAO DISTRIBUIDORA DE MEDICAMENTOS LTDA 11785515
+65 PRODUTOS ALIMENTICIOS RIBAMAR CUNHA LTDA 63541825
+66 REFRESCOS GUARARAPES LTDA 08715757
+67 RI HAPPY BRINQUEDOS S.A. 58731662
+68 RISA S/A 06855894
+69 SBF COMERCIO DE PRODUTOS ESPORTIVOS S.A 06347409
+70 SLC AGRICOLA S A 89096457
+71 SMAAK BEBIDAS INDUSTRIA E COMERCIO EIRELI 05554455
+72 SOCIC-SOCIEDADE COMERCIAL IRMÃS CLAUDINO S/A. 04049497
+73 SOTREQ S A 34151100
+74 SOUTH32 MINERALS S/A 42105890
+75 SOUZA CRUZ LTDA 33009911
+76 TECIDOS E ARMARINHOS MIGUEL BARTOLOMEU AS 17359233
+77 TRÊS CORAÇÕES ALIMENTOS S A 63310411
+78 VIA VAREJO S A 33041260
+79 VIEIRA BRASIL DISTRIBUIDORA S A 06256879
+80 VOTORANTIM CIMENTOS N NE S A 10656452
+<<<DOC normas/portaria/portaria-405-2025-23007.md>>>
+---
+documento: "PORTARIA Nº 405, DE 28 DE NOVEMBRO DE 2025"
+tipo: portaria
+numero: 405
+data: "2025-11-28"
+ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2026, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=80868e3f-257a-4f72-a746-324c8eada030
+atualizado_na_fonte: "2026-10-09 16:26:27"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 405, DE 28 DE NOVEMBRO DE 2025
+
+_Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2026, e dá outras providências._
+
+**Data:** 2025-11-28  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA N º 405/2025 - GABIN DOE n° 226, de 09.12.25 SÃO LUÍS, 28 DE NOVEMBRO DE 2025.
+
+Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2026, e dá outras providências.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista o que dispõem os artigos 95 e 96 da Lei nº 7.799, de 19 de dezembro de 2002 e o parágrafo único do artigo 19 e artigo 20 do Decreto nº 20.685, de 23 de julho de 2004,
+
+R E S O L V E:
+
+Art. 1º. Fixar os valores do Imposto sobre a Propriedade de Veículos Automotores – IPVA para o exercício de 2026, constantes da tabela do Anexo Único desta Portaria, referente a veículos automotores terrestres usados.
+
+Parágrafo único. Os valores do IPVA referidos no caput deste artigo foram calculados com base nos preços dos veículos obtidos mediante pesquisa aplicada pela Fundação Instituto de Pesquisas Econômicas - FIPE.
+
+Art. 2º. Estabelecer que o pagamento do tributo, referente aos veículos terrestres usados, obedecerá aos seguintes prazos:
+Final de placa
+
+Cota Única
+
+1ª Cota
+
+2ª Cota
+
+3ª Cota
+
+Início da fiscalização 1 e 2 27/02/2026 06/03/2026 06/04/2026 04/05/2026 04/06/2026 3 e 4 27/02/2026 13/03/2026 10/04/2026 08/05/2026 08/06/2026 5 e 6 27/02/2026 20/03/2026 17/04/2026 15/05/2026 15/06/2026 7 e 8 27/02/2026 27/03/2026 24/04/2026 22/05/2026 22/06/2026 9 e 0 27/02/2026 31/03/2026 30/04/2026 29/05/2026 29/06/2026
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Parágrafo Único. A data de início da fiscalização a que se refere o quadro acima não alcança os veículos credenciados pelo DETRAN/MA, na condição de veículos de aprendizagem de propriedade de Centro de Formação de Condutores, cuja exigência para efeito de permanência, renovação ou de credenciamento novo poderá se dar, a critério do DETRAN/MA, desde a data de vencimento da 3ª cota, conforme o dígito final das placas.
+
+Art. 3º. Vedar o parcelamento de valores iguais ou inferiores a R$ 100,00 (cem reais), bem como o parcelamento de valores relativos ao primeiro emplacamento.
+
+Art. 4º. Conceder desconto de 10% (dez por cento) para pagamento antecipado do IPVA, apenas em cota única, até 27 de fevereiro de 2026.
+
+Art. 5º. Estabelecer que o pagamento do IPVA dar-se-á:
+I – em cota única;
+II – de forma parcelada, em três cotas iguais e sucessivas, de acordo com as datas de vencimento acima estabelecidas, observado os seguintes critérios:
+
+a) caso haja atraso no pagamento das referidas cotas, estas poderão ser quitadas com acréscimo de multa e juros moratórios calculados a partir do vencimento das mesmas.
+
+b) as cotas deverão ser quitadas em ordem crescente, de forma que o pagamento da segunda cota fique condicionado ao pagamento da primeira, e assim sucessivamente.
+
+Art. 6º. As marcas/modelos que não constem na tabela do Anexo Único serão incluídas durante o exercício de 2026, juntamente com o valor do respectivo imposto, com base na mesma metodologia descrita no Parágrafo Único do Art. 1º.
+
+Art. 7º. Esta Portaria será publicada no Diário Oficial do Estado, e produzirá seus efeitos a partir de 1º de janeiro de 2026.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE SECRETARIA DE ESTADO DA FAZENDA DO MARANHÃO, em São Luís, 28 de novembro de 2025.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+<<<DOC normas/portaria/portaria-406-2021-20311.md>>>
+---
+documento: "PORTARIA Nº 406, DE 27 DE SETEMBRO DE 2021"
+tipo: portaria
+numero: 406
+data: "2021-09-27"
+ementa: "Prorrogar até 27 de setembro de 2021, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da DIEF."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1c7eafd4-2c33-4cc2-9881-ad976c325789
+atualizado_na_fonte: "2026-10-19 09:37:12"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 406, DE 27 DE SETEMBRO DE 2021
+
+_Prorrogar até 27 de setembro de 2021, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da DIEF._
+
+**Data:** 2021-09-27  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO
+
+SECRETARIA DE ESTADO DA FAZENDA
+
+Portaria nº 406/2021 – GABIN/SEFAZ DOE nº 183, de 29.09.21 São Luís, 27 de setembro de 2021.
+
+O Secretário de Estado da Fazenda, no uso de suas atribuições legais,
+
+RESOLVE:
+
+Art. 1º Prorrogar, excepcionalmente, até 27 de setembro de 2021, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF referente à competência agosto de 2021.
+
+Art. 2º Cancelar as multas por entrega em atraso das Declarações Econômico - Fiscais (DIEF) referente ao período 08/2021, dos contribuintes do ICMS que entregarem os arquivos eletrônicos da declaração até o dia 27 de setembro de 2021.
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA PUBLIQUE-SE E CUMPRA-SE.
+Secretaria de Estado da Fazenda, em São Luís, 27 de setembro de 2021.
+
+Marcellus Ribeiro Alves Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-407-2016-16095.md>>>
+---
+documento: "PORTARIA Nº 407, DE 09 DE NOVEMBRO DE 2016"
+tipo: portaria
+numero: 407
+data: "2016-11-09"
+ementa: "Revoga os Regimes Especiais que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f70a6516-1883-4021-b9bf-ddb825eced3f
+atualizado_na_fonte: "2026-10-19 10:57:27"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 407, DE 09 DE NOVEMBRO DE 2016
+
+_Revoga os Regimes Especiais que especifica._
+
+**Data:** 2016-11-09  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 407/2016 – GABIN SÃO LUÍS, 09 DE NOVEMBRO DE 2016.
+D.O.E. 11.11.2016.
+
+Revoga os Regimes Especiais que especifica
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade.
+
+RESOLVE
+
+Art. 1º Ficam expressamente revogados os Regimes Especiais nº 05/2011 e 21/2011, respectivamente, de 1º de setembro de 2011 e 10 de novembro de 2011, editados pela Secretaria de Estado da Fazenda.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 09 de novembro de 2016.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-408-2016-16098.md>>>
+---
+documento: "PORTARIA Nº 408, DE 11 DE NOVEMBRO DE 2016"
+tipo: portaria
+numero: 408
+data: "2016-11-11"
+ementa: "Ficam expressamente revogados os Regimes Especiais nº 02/2014 e 19/2014."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e599ddbc-cc09-4c51-94a1-1e2996a5093b
+atualizado_na_fonte: "2026-10-19 10:57:06"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 408, DE 11 DE NOVEMBRO DE 2016
+
+_Ficam expressamente revogados os Regimes Especiais nº 02/2014 e 19/2014._
+
+**Data:** 2016-11-11  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 408/2016 – GABIN SÃO LUÍS, 11 DE NOVEMBRO DE 2016.
+D.O.E. 16.11.2016.
+
+Revoga os Regimes Especiais que especifica
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade.
+
+RESOLVE:
+
+Art. 1º Ficam expressamente revogados os Regimes Especiais nº 02/2014 e 19/2014, respectivamente, de 02 de setembro de 2014, ambos de 10 de setembro de 2014, editados pela Secretaria de Estado da Fazenda.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 11 de novembro de 2016.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-409-2009-13162.md>>>
+---
+documento: "PORTARIA Nº 409, DE 04 DE SETEMBRO DE 2009"
+tipo: portaria
+numero: 409
+data: "2009-09-04"
+ementa: "Considerando que, somente no mês de junho do corrente ano, a Declaração Anual do Simples Nacional DASN do exercício de 2007 foi disponibilizada pela Secretaria Receita Federal do Brasil..."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ab6554f8-67e4-430d-82ed-cb12f294240b
+atualizado_na_fonte: "2026-10-28 14:59:55"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 409, DE 04 DE SETEMBRO DE 2009
+
+_Considerando que, somente no mês de junho do corrente ano, a Declaração Anual do Simples Nacional DASN do exercício de 2007 foi disponibilizada pela Secretaria Receita Federal do Brasil..._
+
+**Data:** 2009-09-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº. 409/09 – GABIN DE 04 DE SETEMBRO DE 2009
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, em Exercício, no uso de suas atribuições e tendo em vista as disposições da Lei Complementar nº 63, de 11 de janeiro de 1990, e da Lei Estadual nº 5.599, de 24 de dezembro de 1992;
+
+Considerando que, somente no mês de junho do corrente ano, a Declaração Anual do Simples Nacional – DASN do exercício de 2007 foi disponibilizada pela Secretaria Receita Federal do Brasil;
+
+Considerando que a Lei Complementar 123, de 14 de dezembro de 2006, que alterou através do seu art. 87 o § 1o do art. 3o da Lei Complementar no 63, de 11 de janeiro de 1990, o qual determinou que o valor adicionado do município deverá ser calculado com percentual de 32% (trinta e dois por cento) da receita bruta;
+
+Considerando que a Declaração de Informações do Simples Nacional – DIS no exercício de 2007 não obrigava a empresa a declarar o faturamento para que se pudesse efetuar o cálculo do valor adicionado das empresas optantes pelo Simples Nacional;
+
+R E S O L V E:
+
+Art. 1º. Retificar os índices de participação dos municípios maranhenses, aprovados pela Portaria nº 509/08-GABIN de 19 dezembro de 2008, para efeito da entrega das parcelas a eles pertencentes, dos 25% (vinte e cinco por cento) do produto da arrecadação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, durante o exercício de 2009, para os constantes no Anexo que com esta portaria se publica.
+
+Art. 2º. Fica revogada a Portaria nº. 0509/08 – GABIN, de 19 dezembro de 2008.
+
+Art. 3º. Esta Portaria entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de janeiro de 2009.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, em São Luís, 04 de setembro de 2009.
+
+ROMUALDO HENRIQUE SILVA DE OLIVEIRA Secretário de Estado da Fazenda, em Exercício
+
+UNINF/CEGAT
+<<<DOC normas/portaria/portaria-409-2025-23126.md>>>
+---
+documento: "PORTARIA Nº 409, DE 03 DE DEZEMBRO DE 2025"
+tipo: portaria
+numero: 409
+data: "2025-12-03"
+ementa: "Aprova o Manual de Orientação da Escrituração Fiscal Digital-EFD."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7356e680-7979-4559-8c66-66a9ee8432b6
+atualizado_na_fonte: "2026-10-09 16:27:33"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 409, DE 03 DE DEZEMBRO DE 2025
+
+_Aprova o Manual de Orientação da Escrituração Fiscal Digital-EFD._
+
+**Data:** 2025-12-03  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+PORTARIA Nº 409 – GABIN, DE 03 DE DEZEMBRO DE 2025
+
+DOE n° 231, de 16.12.25
+
+Aprova o Manual de Orientação da Escrituração Fiscal Digital-EFD.
+O SECRETÁRIO DE ESTADO DA FAZENDA, em exercício, no uso das suas atribuições legais e considerando a implantação da Escrituração Fiscal Digital- EFD como declaração única do ICMS para os contribuintes do Regime Normal de Apuração,
+
+
+RESOLVE:
+
+
+Art. 1º Fica aprovado o Manual de Orientação da Escrituração Fiscal Digital- EFD, na forma do Anexo Único, com o objetivo de disponibilizar aos contribuintes informações sobre os procedimentos adotados pelo Estado do Maranhão em relação ao cumprimento da obrigação tributária das empresas sujeitas ao Regime Normal de Apuração do ICMS.
+
+Art. 2º Fica revogada a Portaria nº 351/21 - GABIN.
+
+Art. 3º Esta Portaria entra em vigor na data da sua publicação
+
+MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+PORTARIA Nº 409 – GABIN, DE 03 DE DEZEMBRO DE 2025
+
+ANEXO ÚNICO
+
+Manual de Orientação da Escrituração Fiscal Digital-EFD
+<<<DOC normas/portaria/portaria-410-2016-16101.md>>>
+---
+documento: "PORTARIA Nº 410, DE 14 DE NOVEMBRO DE 2016"
+tipo: portaria
+numero: 410
+data: "2016-11-14"
+ementa: "Fica revogado o Regime Especial nº 03/2014, de 16 de outubro de 2014."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2fd12711-ea62-4d3f-93e4-846d18861948
+atualizado_na_fonte: "2026-10-19 10:56:41"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 410, DE 14 DE NOVEMBRO DE 2016
+
+_Fica revogado o Regime Especial nº 03/2014, de 16 de outubro de 2014._
+
+**Data:** 2016-11-14  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 410/2016 – GABIN SÃO LUÍS, 14 DE NOVEMBRO DE 2016.
+D.O.E. 17.11.2016.
+
+Revoga o Regime Especial que especifica
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade.
+
+RESOLVE
+
+Art. 1º Fica revogado o Regime Especial nº 03/2014, de 16 de outubro de 2014, editado pela Secretaria de Estado da Fazenda.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 14 de novembro de 2016.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-410-2025-23042.md>>>
+---
+documento: "PORTARIA Nº 410, DE 03 DE DEZEMBRO DE 2025"
+tipo: portaria
+numero: 410
+data: "2025-12-03"
+ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=88a016ef-0f39-40cb-8e59-aa4b6ebf9499
+atualizado_na_fonte: "2026-11-09 09:40:34"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 4.24, RICMS"
+situacao: "PARCIALMENTE REVOGADA"
+percentual_tachado: 17.0
+---
+
+# PORTARIA Nº 410, DE 03 DE DEZEMBRO DE 2025
+
+_Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS._
+
+**Data:** 2025-12-03  
+**Remete a:** Anexo 4.24, RICMS  
+**Situação:** PARCIALMENTE REVOGADA
+
+> PARCIALMENTE REVOGADA pela portaria 380/2026 (normas/portaria/portaria-380-2026-24703.md): "3º Fica revogado o § 1º do art. 2º da Portaria nº 410-GABIN, de 03 de dezembro de 2025."
+> PARCIALMENTE REVOGADA pela portaria 380/2026 (nota no meio do texto do próprio PDF: algum dispositivo foi revogado): "(Revogado – Portaria n° 380/26) §2º A firma reconhecida em cartório, exigida nos documentos mencionados no caput e em seus incisos, poderá ser substituída por assinatura digital realizada com certificado digital emitido "
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 410 – GABIN, DE 03 DE DEZEMBRO DE 2025.
+DOE n° 231, de 16.12.25 Alterada pela Portaria n° 380/26
+
+Dispõe sobre os requisitos e procedimentos para credenciamento de contribuinte atacadista de produtos farmacêuticos, de que trata o Anexo 4.24 do RICMS.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, em exercício, no uso das suas atribuições legais, e considerando o disposto no Anexo 4.24 do RICMS,
+
+RESOLVE:
+
+Art. 1º O credenciamento de estabelecimentos atacadistas de produtos farmacêuticos, de que trata o Anexo 4.24 (Operações Realizadas com Estabelecimentos Atacadistas de Produtos Farmacêuticos) do RICMS, observará os requisitos e procedimentos dispostos nesta Portaria.
+
+Art. 2º O pedido de credenciamento será formalizado pelo contribuinte por meio do sítio desta Secretaria de Estado da Fazenda na internet, via SEFAZ.net, anexando os seguintes documentos:
+
+I- requerimento do pedido, disponível no sítio da SEFAZ, devidamente preenchido e assinado pelo titular ou representante legal do contribuinte, com firma reconhecida em cartório;
+
+II- fotocópias dos seguintes documentos:
+a) instrumento constitutivo da empresa (estatuto ou contrato social e aditivos) registrados na Junta Comercial;
+
+b) cédulas de identidade e CPF dos sócios, ou diretores no caso de empresa S.A.;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+c) registro imobiliário do imóvel onde se situa o estabelecimento e, se alugado, com contrato de locação com firma reconhecida em Cartório do locador e locatário;
+
+d) última conta de energia elétrica do imóvel onde se situa o estabelecimento ou outro comprovante de endereço emitido por concessionária de serviço público referente ao mês anterior ao pedido;
+
+e) três últimos recibos de declaração de imposto de renda dos sócios, entregues à Receita Federal do Brasil;
+
+f) última Relação Anual de Informações Sociais - RAIS entregue ao Ministério do Trabalho, devidamente autenticada ou outro documento oficial que a substitua;
+
+g) GFIP (Guia de Recolhimento do FGTS e de Informações à Previdência Social) dos 12 (doze) meses anteriores ao pedido de credenciamento ou outro documento oficial que a substitua;
+
+~~h) contrato de prestação de serviços do contador pela empresa atacadista, identificando o contratante e o contratado, devidamente registrado em cartório acompanhado da Declaração de Habilitação Profissional - DHP dos contabilistas;~~
+
+h) contrato de prestação de serviços do contador pela empresa atacadista, identificando o contratante e o contratado, com firma reconhecida em Cartório, acompanhado da Declaração de Habilitação Profissional - DHP dos contabilistas;
+
+(NR – Portaria n° 380/26)
+i) licença da ANVISA - Agência Nacional de Vigilância Sanitária.
+j) Declaração de participação ou não em grupo econômico, relacionando, caso afirmativo, o nome empresarial e o Cadastro Nacional de Pessoa Jurídica (raiz) das outras entidades integrantes do grupo.
+
+(AC – Portaria n° 380/26)
+~~§1º Caso o solicitante tenha estabelecimento varejista de medicamentos no mesmo grupo econômico em que está inserido, deverá informá-lo no ato da solicitação do credenciamento ou da sua renovação, relacionando o seu nome empresarial e Cadastro Nacional de Pessoa Jurídica (raiz).~~
+
+(Revogado – Portaria n° 380/26)
+§2º A firma reconhecida em cartório, exigida nos documentos mencionados no caput e em seus incisos, poderá ser substituída por assinatura digital realizada com certificado digital emitido por autoridade certificadora integrante da ICP-Brasil.
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 3º Não será concedido ou renovado o credenciamento para o contribuinte que:
+
+I - esteja em situação de irregularidade fiscal e/ou cadastral;
+II - esteja omisso quanto à entrega de Declaração de Informações Econômico- Fiscais - DIEF ou da Escrituração Fiscal Digital - EFD ou proceder a entrega em desacordo com a legislação;
+
+~~III - apresentar nos últimos doze meses de atividade, por 03(três) meses consecutivos, declarações com valor do faturamento acumulado inferior a 100% do valor das entradas acumuladas no mesmo período, independentemente do regime de pagamento;~~
+
+III - apresentar nos últimos doze meses de atividade, por 03 (três) meses consecutivos, declarações com valor do faturamento acumulado inferior a 100% (cem por cento) do valor das entradas acumuladas no mesmo período, independentemente do regime de pagamento, não se aplicando à empresa em início de atividade definida no §2º do Art. 5º;
+
+(NR – Portaria n° 380/26)
+IV - não tenha realizado faturamento de, pelo menos, R$ 4.000.000,00 (quatro milhões de reais) nos últimos 12 (doze) meses de atividade anteriores ao pedido ou, em se tratando de empresa em início de atividade, não ter média mensal de faturamento correspondente a R$ 333.333,33 (trezentos e trinta e três mil trezentos e trinta e três reais e trinta e três centavos);
+
+V - não possua como CNAE principal o CNAE 4644-3/01 (Comércio Atacadista de Medicamentos e Drogas de Uso Humano) ou o CNAE 4645-1 (Comércio Atacadista de Instrumentos e Materiais para uso Médico, Cirúrgico, Ortopédico e Odontológico);
+
+~~VI – em suas operações, o montante das saídas dos itens I, II, III, VII, IX, XII, XIII, XVII, XVIII e XIX do da tabela I do Anexo 4.24, quando comparado ao montante das saídas de todos itens da mesma tabela, não atinja o percentual mínimo de 70%, tomando-se como base de aferição cada ano-calendário e considerando somente os valores acumulados durante os meses de vigência do benefício;~~
+
+VI – em suas operações, o montante das saídas dos itens I, II, III, VII, VIII, IX, XII, XIII, XVII, XVIII e XIX do da tabela I do Anexo 4.24, quando comparado ao montante das saídas de todos itens da mesma tabela, não atinja o percentual mínimo de 70%, tomando-se como base de aferição cada ano-calendário e considerando somente os valores acumulados durante os meses de vigência do benefício;
+
+(NR – Portaria n° 380/26)
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+~~VII- nas suas operações, o valor das saídas dos itens listados na Tabela I do Anexo 4.24, destinadas a estabelecimentos varejistas do mesmo grupo econômico, não tenha atingido o percentual mínimo de 30% de agregação sobre o custo das mercadorias vendidas, considerando-se, para apuração, o conjunto de tais itens em cada exercício e apenas os meses em que o benefício esteve vigente;~~
+
+VII - nas suas operações, o valor das saídas dos itens listados na Tabela I do Anexo 4.24 destinadas a estabelecimentos do mesmo grupo econômico não tenha atingido o percentual mínimo de 30% de agregação sobre o custo das mercadorias vendidas, considerando-se, para apuração, o conjunto de tais itens em cada exercício e apenas os meses em que o benefício esteve vigente;
+
+(NR – Portaria n° 380/26)
+VIII- se envolver comprovadamente em atos lesivos ao erário, considerando– se, dentre outros previstos na legislação do Estado:
+
+a) a prática de subfaturamento;
+b) a emissão ou utilização de Nota Fiscal inidônea, tal como definida no RICMS;
+
+c) a aquisição de mercadorias desacompanhadas de documentação fiscal;
+d) a prática de qualquer artifício tendente a ocultar o fato gerador do imposto ou reduzir o seu montante.
+
+~~§ 1º Nos casos de contribuintes solicitantes que ainda não estejam em gozo do benefício e na ocorrência do não atendimento dos incisos VI e VII do caput nos últimos 3 (três) meses de atividade, o credenciamento será concedido uma única vez pelo prazo estabelecido no § 1º do art. 5° desta Portaria, findo o qual e mediante pedido de renovação pelo beneficiário, será verificado o cumprimento da totalidade dos requisitos previstos pela legislação.~~
+
+§ 1º Nos casos de contribuintes solicitantes que ainda não estejam em gozo do benefício e na ocorrência do não atendimento dos incisos VI ou VII do caput nos últimos 3 (três) meses de atividade, o credenciamento será concedido uma única vez pelo prazo estabelecido no § 1º do art. 5° desta Portaria, findo o qual e mediante pedido de renovação pelo beneficiário, será verificado o cumprimento da totalidade dos requisitos previstos pela legislação.
+
+(NR – Portaria n° 380/26)
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+~~§ 2º Nos casos de contribuintes que já estejam credenciados neste benefício na data da publicação desta Portaria e, exclusivamente, para o primeiro pedido de renovação após a citada data, na ocorrência do não atendimento apenas dos incisos VI e VII do caput, o credenciamento será concedido uma única vez pelo prazo estabelecido no § 1º do art. 5° desta Portaria, findo o qual e mediante pedido de renovação pelo beneficiário, será verificado o cumprimento da totalidade dos requisitos previstos pela legislação naquele prazo.~~
+
+§ 2º Nos casos de contribuintes que já estejam credenciados neste benefício na data da publicação desta Portaria e, exclusivamente, para o primeiro pedido de renovação após a citada data, na ocorrência do não atendimento apenas dos incisos VI ou VII do caput, o credenciamento será concedido uma única vez pelo prazo estabelecido no § 1º do art. 5° desta Portaria, findo o qual e mediante pedido de renovação pelo beneficiário, será verificado o cumprimento da totalidade dos requisitos previstos pela legislação naquele prazo.
+
+(NR – Portaria n° 380/26)
+§ 3º O contribuinte será descredenciado do benefício caso se constate que, durante a sua vigência, a empresa beneficiada tenha incorrido em uma ou mais das situações relacionadas no inciso VIII do caput.
+
+§ 4º O descredenciamento de que trata o §3º será precedido de notificação eletrônica, na qual se relatarão os fatos que o justifiquem, sendo concedido ao contribuinte o prazo de 20 (vinte) dias da data do envio para esclarecimentos e regularização.
+
+§ 5º Do ato de descredenciamento cabe recurso à autoridade que o proferiu no prazo de 10(dez) dias, a qual, se não a reconsiderar dentro de 5 (cinco) dias, o encaminhará à autoridade superior imediata para decisão.
+
+§ 6º Uma vez descredenciado, o contribuinte apenas poderá ter atendido novo pedido de credenciamento após 12 (doze) meses do ato de descredenciamento.
+
+§ 7º O pedido de renovação deverá ser apresentado com antecedência mínima ao término da vigência do credenciamento, observados os seguintes prazos:
+
+I - 90 (noventa) dias, nos casos de prazo de concessão superior a 6 (seis) meses;
+
+II - 45 (quarenta e cinco) dias, nos casos de prazo de concessão de até 6 (seis) meses.
+
+<!-- p. 6 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 8º Para os fins do disposto nesta Portaria, consideram-se do mesmo grupo econômico as empresas que, embora com personalidades jurídicas próprias, estiverem sob a mesma direção, controle ou administração.
+
+Art. 4º Para fruição do benefício previsto no Anexo 4.24 do RICMS, o contribuinte deverá comprovar número mínimo de empregados com carteira de trabalho assinada, de acordo com a faixa de faturamento médio mensal relativo aos 12 (doze) meses que antecedem o pedido, constante na tabela abaixo:
+
+FATURAMENTO MÉDIO MENSAL EMPREGADOS
+
+(MÍNIMO) A partir de R$ 333.333,33 até R$ 500.000,00
+08 Mais de R$ 500.000,00 até R$ 1.000.000,00
+12 Mais de R$ 1.000.000,00 até R$ 2.000.000,00
+16 Mais de R$ 2.000.000,00 até R$ 3.000.000,00
+20 Mais de R$ 3.000.000,00 até R$ 4.000.000,00
+24 Mais de R$ 4.000.000,00 até R$ 5.000.000,00
+28 Mais de R$ 5.000.000,00 até R$ 6.000.000,00
+32 Mais de R$ 6.000.000,00 até R$ 7.000.000,00
+36 Mais de R$ 7.000.000,00
+40
+
+§1º Em sede de renovação de credenciamento, além de comprovar a observância da regra do caput, será exigido do contribuinte o cumprimento de tal regra em no mínimo 8 (oito) dos últimos 12 (doze) meses, considerando, para fins dessa aferição, que:
+
+I- em cada ato de concessão ou renovação do benefício, o contribuinte será enquadrado em uma faixa de faturamento mensal, calculada conforme o estabelecido no caput deste artigo e que valerá para todo o período deferido;
+
+II - para fins de verificação do cumprimento do disposto no § 1º, será considerada como parâmetro a menor faixa de faturamento mensal entre a apurada no último pedido deferido do benefício e a enquadrada no processo de renovação em análise.
+
+§2º O descumprimento do contido no §1º resultará no indeferimento do pedido de renovação.
+
+§3º Em caso de empresa em início de atividade, para comprovar o requisito do caput deste artigo, será considerado o faturamento médio dos meses de funcionamento, não se aplicando o contido no §1º.
+
+§4º Nos casos de contribuintes que já estejam credenciados neste benefício na data da publicação desta Portaria e, exclusivamente, para o primeiro pedido de renovação
+
+<!-- p. 7 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+após a citada data, na ocorrência do não atendimento apenas do requisito previsto no §1º deste artigo, o credenciamento será concedido uma única vez pelo prazo estabelecido no § 1º do art. 5° desta Portaria, findo o qual e mediante pedido de renovação pelo beneficiário, será verificado o cumprimento da totalidade dos requisitos previstos pela legislação naquele prazo.
+
+(AC – Portaria n° 380/26)
+Art. 5º Não havendo impeditivos para a concessão do Termo de Credenciamento, este será expedido com validade de 24 (vinte e quatro) meses, contendo, no mínimo, as seguintes informações:
+
+I - identificação do contribuinte credenciado;
+II - número e data da expedição do termo;
+III - período de vigência do credenciamento.
+§ 1º O prazo previsto no caput deste artigo não se aplica às empresas em início de atividade, que terão o credenciamento concedido pelo prazo de 6 (seis) meses.
+
+§ 2º Para efeitos do prazo previsto no § 1º deste artigo e do disposto no §2º do art. 4º, considera-se início de atividade quando a empresa tiver até 11 (onze) meses de atividade antes do pedido de credenciamento.
+
+§ 3º Encerrado o prazo estabelecido no § 1º deste artigo, o Termo de Credenciamento será revalidado por mais 18 (dezoito) meses, a contar do primeiro dia do sétimo mês, desde que o contribuinte:
+
+I - tenha mantido ou superado a média mensal de faturamento prevista no inciso IV do art. 3º;
+
+II - tenha cumprido os demais requisitos estabelecidos no art. 3º;
+III - tenha solicitado a renovação, conforme o § 7º do art. 3º.
+§ 4º Os Termos de credenciamento serão renovados automaticamente por mais
+24 (vinte e quatro) meses se o contribuinte mantiver as condições de regularidade fiscal e de concessão do benefício de que trata esta Portaria, observada a necessidade de pedido de renovação conforme estabelecido no § 7º do art. 3º.
+
+<!-- p. 8 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 5º O credenciamento ou descredenciamento do benefício terá vigência a partir do primeiro dia do mês seguinte à sua concessão ou ao ato que o extinguiu, de forma a não abranger período fracionado.
+
+Art. 6º Fica revogada a Portaria nº 372/2017.
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+
+MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício.
+<<<DOC normas/portaria/portaria-411-2009-13165.md>>>
+---
+documento: "PORTARIA Nº 411, DE 04 DE SETEMBRO DE 2009"
+tipo: portaria
+numero: 411
+data: "2009-09-04"
+ementa: "Divulgar os índices de participação dos municípios maranhenses, provisórios, constantes do anexo para efeito da entrega das parcelas a eles pertencentes, dos 25% (vinte e cinco por cento) do produto da arrecadação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, durante o exercício de 2010."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6ec23c57-3b9f-46b9-9a6e-2e4bb7f94e4a
+atualizado_na_fonte: "2026-10-28 14:59:49"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 411, DE 04 DE SETEMBRO DE 2009
+
+_Divulgar os índices de participação dos municípios maranhenses, provisórios, constantes do anexo para efeito da entrega das parcelas a eles pertencentes, dos 25% (vinte e cinco por cento) do produto da arrecadação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, durante o exercício de 2010._
+
+**Data:** 2009-09-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº. 411/09 – GABIN DE 04 DE SETEMBRO DE 2009
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, em Exercício, no uso de suas atribuições e tendo em vista as disposições da Lei Complementar nº 63, de 11 de janeiro de 1990, e da Lei Estadual nº 5.599, de 24 de dezembro de 1992,
+
+R E S O L V E:
+
+Art. 1º. Divulgar os índices de participação dos municípios maranhenses, provisórios, constantes do Anexo, para efeito da entrega das parcelas a eles pertencentes, dos 25% (vinte e cinco por cento) do produto da arrecadação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, durante o exercício de 2010.
+
+Art. 2º. Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, em São Luís, 04 de setembro de 2009.
+
+ROMUALDO HENRIQUE SILVA DE OLIVEIRA Secretário de Estado da Fazenda, em Exercício
+
+UNINF/CEGAT
+<<<DOC normas/portaria/portaria-414-2015-15329.md>>>
+---
+documento: "PORTARIA Nº 414, DE 01 DE SETEMBRO DE 2015"
+tipo: portaria
+numero: 414
+data: "2015-09-01"
+ementa: "Revoga os Regime Especial que especifica."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e0224a7f-7185-42d6-ada7-04b8f02b04a6
+atualizado_na_fonte: "2026-10-27 18:19:08"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 414, DE 01 DE SETEMBRO DE 2015
+
+_Revoga os Regime Especial que especifica._
+
+**Data:** 2015-09-01  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N° 414/15 - GABIN. SÃO LUÍS (MA), 01 DE SETEMBRO DE 2015.
+D.O.E.: 04.09.15
+
+Revoga os Regime Especial que especifica.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7° do artigo 9° da Lei 7.799, de 19 de dezembro de 2002, incluídos pela Lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade.
+
+
+RESOLVE:
+Art. 1° Fica revogado o Regime Especial, editado pela Secretaria de Estado da Fazenda, que concedeu, para o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual, Intermunicipal e de Comunicação (ICMS):
+
+1 - Diferimento do lançamento e do pagamento do ICMS, nas entradas do exterior, inclusive em relação ao respectivo serviço de transporte;
+
+II - possibilidade de incorporação ao valor do ICMS devido do valor do imposto que havia deixado de ser recolhido nas etapas anteriores, na forma prevista no inciso anterior.
+
+Art. 2° Esta Portaria entra em vigor na data de sua publicação e, expressamente revoga o regime Especial 14/2013, de 15 de outubro de 2013.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-S CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 01° DE SETEMBRO DE 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-417-2016-16110.md>>>
+---
+documento: "PORTARIA Nº 417, DE 18 DE NOVEMBRO DE 2016"
+tipo: portaria
+numero: 417
+data: "2016-11-18"
+ementa: "Fica revogado o Regime Especial n° 16/2013."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=329b18c4-5398-44e8-bf30-faada6df623d
+atualizado_na_fonte: "2026-10-19 10:54:51"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 417, DE 18 DE NOVEMBRO DE 2016
+
+_Fica revogado o Regime Especial n° 16/2013._
+
+**Data:** 2016-11-18  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 417/2016 – GABIN SÃO LUÍS, 18 DE NOVEMBRO DE 2016.
+D.O.E. 23.11.2016.
+
+Revoga os Regimes Especiais que especifica
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade.
+
+RESOLVE:
+
+Art. 1º Art. 1º Fica revogado o Regime Especial n° 16/2013, de 10 de dezembro de 2013, editado pela Secretaria de 'Estado da Fazenda.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 18 de novembro de 2016.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-418-2018-17934.md>>>
+---
+documento: "PORTARIA Nº 418, DE 07 DE DEZEMBRO DE 2018"
+tipo: portaria
+numero: 418
+data: "2018-12-07"
+ementa: "Alterar o Anexo Único da Portaria nº 84 – GABIN, de 05 de março de 2018."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca56264d-2ef0-4c97-bf8b-426ef225a6a9
+atualizado_na_fonte: "2026-10-27 17:41:09"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 418, DE 07 DE DEZEMBRO DE 2018
+
+_Alterar o Anexo Único da Portaria nº 84 – GABIN, de 05 de março de 2018._
+
+**Data:** 2018-12-07  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 418/2018 – GABIN
+
+São Luís, 07 de dezembro de 2018.
+Altera o Anexo Único da Portaria nº 84 - GABIN, de 05 de março de 2018, que publicou a relação dos atos normativos instituidores de incentivos e benefícios fiscais ou financeiros-fiscais, relacionados ao ICMS, instituídos por legislação estadual publicada até 8 de agosto de 2017, em desacordo com o disposto na alínea “g” do inciso XII do § 2º do art. 155 da Constituição Federal, para fins da convalidação autorizada pela Lei Complementar 160/17.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, e na forma prevista na Resolução CONFAZ Nº 12/18, de 30 de novembro de 2018, que autoriza o Estado do Maranhão, nos termos do parágrafo único da cláusula terceira do Convênio ICMS 190/17, de 15 de dezembro de 2017, a publicar relação de atos normativos, conforme deliberação do Conselho Nacional de Política Fazendária – CONFAZ,
+
+R E S O L V E
+
+Art. 1º Alterar o Anexo Único da Portaria nº 84 – GABIN, de 05 de março de 2018, alterada pelas Portarias nos 103 – GABIN, de 26 março de 2018 e 212, de 14 de junho de 2018, para incluir:
+
+I - o Decreto nº 22.232, de 09 de janeiro de 2004, como item 117 do seu Apêndice I, que trata dos atos normativos vigentes 8 de agosto de 2017;
+
+II - o Decreto nº 14.900/96, de 17 de janeiro de 1996, e o Decreto 26.689, 30 de junho 2010, como, respectivamente, itens 75 e 76 do seu Apêndice II, que trata dos atos normativos não vigentes 8 de agosto de 2017.
+
+Art. 2º Esta portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+
+<!-- p. 2 -->
+(ANEXO ÚNICO DA PORTARIA Nº 418/18-GABIN)
+
+
+ANEXO ÚNICO
+
+RELAÇÃO DOS ATOS NORMATIVOS RELATIVOS AOS INCENTIVOS E AOS BENEFÍCIOS FISCAIS OU FINANCEIROS-FISCAIS DE QUE TRATA O INCISO I DO ARTIGO 3º DA LEI COMPLEMENTAR NO. 160/17
+
+APENDICE I - ATOS NORMATIVOS VIGENTES 8 DE AGOSTO DE 2017
+
+UNIDADE FEDERADA (MA) DISPOSITIVO
+
+ESPECÍFICO
+
+DATA DA PUBLICAÇÃO
+
+NO DOE
+
+TERMO INICIAL
+
+TERMO
+
+FINAL OBSERVAÇÕES ITEM ATOS NÚMERO EMENTA OU
+
+ASSUNTO
+
+117
+
+
+Decreto 20.232
+
+Dispõe sobre a redução de base de cálculo nas operações internas com veículos automotores Novos que especifica.
+
+X 20.01.04 20.01.04 X
+
+
+APENDICE II - ATOS NORMATIVOS NÃO VIGENTES EM 8 DE AGOSTO DE 2017
+
+UNIDADE FEDERADA (MA) DISPOSITIVO
+
+ESPECÍFICO
+
+DATA DA PUBLICAÇÃO
+
+NO DOE
+
+TERMO INICIAL
+
+TERMO
+
+FINAL
+
+OBSERVAÇÕES
+
+ITEM ATO NÚMERO EMENTA OU
+
+ASSUNTO
+
+75 Decreto 14.900
+
+Aprova o Regulamento do Sistema de Apoio à Indústria e ao Comércio Exterior do Estado do Maranhão – SINCOEX e dá outras providências.
+
+X 22.01.96 22.01.96 01.03.99
+
+Alterações:
+Decreto 15.190/96 e 16.731/99.
+
+76 Decreto 26.689
+
+Aprova o Regulamento do Programa de Incentivo às Atividades
+
+X 30.06.10 01.06.10 16.06.15
+
+<!-- p. 3 -->
+Indústrias e Tecnológicas no Estado do Maranhão, e dá outras providências
+<<<DOC normas/portaria/portaria-419-2020-20168.md>>>
+---
+documento: "PORTARIA Nº 419, DE 23 DE DEZEMBRO DE 2020"
+tipo: portaria
+numero: 419
+data: "2020-12-23"
+ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=44cf9ccc-7b8d-4d12-a666-0b97ce3de076
+atualizado_na_fonte: "2026-10-27 14:31:35"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.4, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 419, DE 23 DE DEZEMBRO DE 2020
+
+_Altera o Anexo III da Portaria 535/2015 - GABIN._
+
+**Data:** 2020-12-23  
+**Remete a:** Anexo 1.4, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 419/20 - GABIN.
+DOE nº 243, de 31.12.20
+
+SÃO LUÍS, 23 DE DEZEMBRO DE 2020.
+
+
+Altera o Anexo III da Portaria 535/2015 - GABIN.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+RESOLVE:
+
+Art. 1º Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 2015, que trata da previsão de consumo de óleo diesel marítimo nas operações internas destinadas às operadoras maranhenses do Sistema Ferry Boat, prevista no art. 25 do Anexo 1.4 do RICMS, aprovado pelo Decreto nº 19.714/03, que passa a vigorar com a seguinte redação:
+
+
+
+ANEXO III - DA PORTARIA 535/15 – GABIN
+
+PREVISÃO DO CONSUMO DE ÓLEO DIESEL MARÍTIMO DO PERÍODO 01.2021
+
+NOME DA DISTRIBUIDORA CNPJ DA DISTRIBUIDORA
+
+MÊS DA PREVISÃO
+
+LITROS PREVISTOS
+
+IPIRANGA PRODUTOS DE PETRÓLEO SA
+
+33.337.122/0043-86 01.2021 375.000,00
+
+TOTAL: 01.2021 375.000,00 RELAÇÃO DAS EMPRESAS DE TRANSPORTE FERRY BOAT CREDENCIADAS PARA USO DO BENEFÍCIO PREVISTO NO ART. 25 DO ANEXO 1.4 DO RICMS, NO PERÍODO 01.2021.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+NOME CNPJ
+
+SERVIPORTO SERVIÇOS PORTUÁRIOS LTDA
+12.097.762/0001-37
+
+INTERNACIONAL MARÍTIMA LTDA
+12.539.110/0001 - 05
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2021.
+
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 23 DE DEZEMBRO DE 2021.
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-419-2024-21155.md>>>
+---
+documento: "PORTARIA Nº 419, DE 16 DE OUTUBRO DE 2024"
+tipo: portaria
+numero: 419
+data: "2024-10-08"
+ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de empresa que opere exclusivamente como concessionária de transmissão de energia, para implantação de sua rede, conforme previsto na Resolução Administrativa n° 43/2023, por adesão ao Decreto nº 13.780, de 16 de março de 2012, do Estado da Bahia, com base na Lei Complementar nº 160/2017 e no Convênio-ICMS nº 190/2017."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=56bb10f0-8636-421f-92e1-e1056397d7a8
+atualizado_na_fonte: "2026-10-09 18:46:23"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.4, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 419, DE 16 DE OUTUBRO DE 2024
+
+_Dispõe sobre os requisitos e procedimentos para credenciamento de empresa que opere exclusivamente como concessionária de transmissão de energia, para implantação de sua rede, conforme previsto na Resolução Administrativa n° 43/2023, por adesão ao Decreto nº 13.780, de 16 de março de 2012, do Estado da Bahia, com base na Lei Complementar nº 160/2017 e no Convênio-ICMS nº 190/2017._
+
+**Data:** 2024-10-08 (data no portal: 2024-10-16 (divergente do PDF))  
+**Remete a:** Anexo 1.4, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 419/2024 GABIN DOE n° 197, de 16.10.24
+
+Dispõe sobre os requisitos e procedimentos para credenciamento de empresa que opere exclusivamente como concessionária de transmissão de energia, para implantação de sua rede, conforme previsto na Resolução Administrativa n° 43/2023, por adesão ao Decreto nº 13.780, de 16 de março de 2012, do Estado da Bahia, com base na Lei Complementar nº 160/2017 e no Convênio-ICMS nº 190/2017.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, em exercício, no uso de suas atribuições legais,
+
+R E S O L V E:
+
+Art. 1° O credenciamento para usufruto do previsto no art. 43 do Anexo 1.4 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, alterado pela Resolução Administrativa nº 43, de 4 de dezembro de 2023, que dispõe sobre entradas decorrentes de importação do exterior e aquisições interestaduais, relativamente ao diferencial de alíquota, de bens, partes, peças, cabos, máquinas, equipamentos e sobressalentes destinados a empresa que opere, exclusivamente, com a construção de linhas de transmissão de energia elétrica, observará o disposto nesta Portaria.
+
+Art. 2º O pedido de credenciamento será formalizado pelo contribuinte por meio do sítio desta Secretaria de Estado da Fazenda na internet, via Sefaz-Net, anexando os seguintes documentos:
+
+I - requerimento do pedido, disponível no sítio da SEFAZ, devidamente preenchido e assinado pelo sócio ou representante legal do contribuinte, com firma reconhecida;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II - fotocópias:
+a) do estatuto ou contrato social e suas alterações registrados na Junta Comercial;
+
+b) das cédulas de identidade e CPF dos sócios, diretores no caso de empresa S.A. e declaração de habilitação profissional – DHP dos contabilistas;
+
+c) do registro imobiliário do imóvel onde se situa o estabelecimento e, se alugado, com contrato de locação com firma reconhecida do locador e locatário;
+
+d) da última conta de energia elétrica do imóvel onde se situa o estabelecimento;
+
+e) dos três últimos recibos de declaração de imposto de renda dos sócios, entregues à Receita Federal do Brasil;
+
+f) do protocolo de entrega da GFIP/SEFIP do Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social, ou de outro documento oficial de comprovação para o mesmo fim, referente ao mínimo de empregados exigido com carteira de trabalho assinada
+
+g) do contrato de prestação de serviços do contador pela indústria de energia, identificando o contratante e o contratado, devidamente registrado em cartório e devidamente acompanhado da DHP.
+
+Art. 3º. O pedido de credenciamento será examinado pela Secretaria Adjunta da Administração Tributária da SEFAZ, que emitirá parecer, pelo deferimento ou indeferimento do pedido, com base nas informações e documentos apresentados pelo contribuinte e após as verificações pertinentes no banco de dados da Secretaria.
+
+Art. 4º. Concedido o termo de credenciamento este produzirá efeitos a partir do 1º dia do mês subsequente ao de sua expedição e cessará no último dia do mês em que ocorrer a sua expiração ou revogação.
+
+Art. 5º. Não será concedido credenciamento para o contribuinte que:
+I - não tenha anexado, ao requerimento do pedido, os documentos referidos no inciso II do art. 2º;
+
+II - esteja em situação de inadimplência com o pagamento do ICMS;
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+III - esteja omisso quanto à entrega de Declaração de Informações Econômico-Fiscais - DIEF ou da Escrituração Fiscal Digital - EFD ou proceder a entrega em desacordo com a legislação;
+
+IV - com inscrição em dívida ativa;
+V - Deixar de entregar documentos fiscais, quando exigidos em processo de fiscalização;
+
+VI- tenha praticado ação caracterizada como crime contra a ordem tributária.
+VII - tenha pedido de credenciamento negado por três vezes consecutivas nos últimos doze meses;
+
+VIII - a prática de subfaturamento;
+IX - a prática de qualquer artifício tendente a ocultar o fato gerador do imposto ou reduzir o seu montante.
+
+Art. 6º Não havendo impeditivos para a concessão do Termo de Credenciamento, este será expedido com validade de 24 (vinte e quatro) meses, contendo, no mínimo, as seguintes informações:
+
+I - identificação do contribuinte credenciado;
+II - número e data da expedição do termo;
+III - período de vigência do credenciamento.
+Parágrafo único. O credenciamento de que trata este artigo será concedido, inicialmente, pelo período de 06 (seis) meses contados a partir do 1º dia do mês seguinte ao do credenciamento, e somente poderá ser renovado, após comprovação por parte do contribuinte, junto a SEFAZ, que, efetivamente, enquadra-se na atividade econômica prevista no caput do artigo 1º.
+
+Art. 7º Constatada a ocorrência dos impeditivos de que trata o art. 5°, o credenciamento será revogado automaticamente.
+
+§1º Revogado o credenciamento, seus efeitos ocorrerão a partir do primeiro dia do mês subsequente ao do descredenciamento.
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§2º A Célula de Gestão da Ação Fiscal - CEGAF procederá análise anual da situação fiscal das empresas credenciadas e notificará eletronicamente o contribuinte, quando da revogação do benefício fiscal.
+
+§3º A notificação eletrônica de que trata o § 2º deste artigo será encaminhada ao endereço eletrônico do contribuinte constante do seu cadastro junto à SEFAZ.
+
+§4º A CEGAF disponibilizará no sítio da SEFAZ, na internet, a relação das empresas que terão os seus credenciamentos revogados.
+
+Art. 8º Sendo o benefício revogado nos termos desta Portaria, somente poderá ser novamente concedido no exercício seguinte e desde que todas as pendências tenham sido sanadas.
+
+Art. 9º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 08 DE OUTUBRO DE 2024.
+
+MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício.
+<<<DOC normas/portaria/portaria-420-2016-16114.md>>>
+---
+documento: "PORTARIA Nº 420, DE 21 DE NOVEMBRO DE 2016"
+tipo: portaria
+numero: 420
+data: "2016-11-21"
+ementa: "Fica revogado o Regime Especial n° 15/2012."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=72c151b6-c0d4-4bbc-a041-f99861c6e572
+atualizado_na_fonte: "2026-10-19 10:54:30"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 420, DE 21 DE NOVEMBRO DE 2016
+
+_Fica revogado o Regime Especial n° 15/2012._
+
+**Data:** 2016-11-21  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 420/2016 – GABIN SÃO LUÍS, 21 DE NOVEMBRO DE 2016.
+D.O.E. 24.11.2016.
+
+Revoga o Regime Especial que especifica
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade.
+
+RESOLVE:
+
+Art. 1º Fica revogado o Regime Especial n° 15/2012, de 09 de julho de 2012, editado pela Secretaria de 'Estado da Fazenda.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 21 DE NOVEMBRO DE 2016.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-423-2009-13167.md>>>
+---
+documento: "PORTARIA Nº 423, DE 18 DE SETEMBRO DE 2009"
+tipo: portaria
+numero: 423
+data: "2009-09-18"
+ementa: "Outras hipóteses de suspensão de ofício de inscrição cadastral de contribuintes maranhenses."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8d4c4eed-2205-4153-b14f-0cf499cc2495
+atualizado_na_fonte: "2026-10-28 14:59:39"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 423, DE 18 DE SETEMBRO DE 2009
+
+_Outras hipóteses de suspensão de ofício de inscrição cadastral de contribuintes maranhenses._
+
+**Data:** 2009-09-18  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 423/GABIN
+
+SÃO LUIS, 18 DE SETEMBRO DE 2009
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições,
+
+R E S O L V E
+
+Art. 1º Definir, com base no § 6°, artigo 66 da lei 7799 de 19 de dezembro de 2002, outras hipóteses de suspensão de ofício de inscrição cadastral de contribuintes maranhenses.
+
+Art. 2º Será suspensa de ofício a inscrição do contribuinte que tenha no mínimo dois meses de início de atividade e nos últimos doze meses se enquadre em pelo menos uma das seguintes situações:
+
+I - apresente em seus livros fiscais, valor total de saída inferior a 30% do valor calculado das entradas, caso o contribuinte esteja enquadrada no regime normal de apuração do ICMS;
+
+II - apresente valor do faturamento inferior a 30% do valor calculado das entradas no caso de contribuinte enquadrado no Simples Nacional;
+
+III - apresente valor de recolhimento inferior a 2,6% (dois inteiros e seis décimos por cento) do valor calculado das bases de cálculo das entradas para os contribuintes enquadrados no regime de apuração normal e inferior a 3% (três por cento) para os contribuintes enquadrados no Simples Nacional;
+
+Art. 3° Valor calculado das entradas (VCE) é definido da seguinte forma:
+
+VCE = ∑ED + (∑ES - ∑ED); Se ∑ES > ∑ED
+
+VCE = ∑ED; Se ∑ES < ∑ED
+
+VCE - Valor calculado das entradas ES - Valor das entradas registradas no SITRAN ED - Valor das entradas registradas nos livros fiscais E – Somatório
+
+Art. 4° Valor calculado das bases de cálculo das entradas (VCBE) é definido da seguinte forma:
+
+VCBE = ∑BED + (∑BES - ∑BED); Se ∑BES > ∑BED
+
+VCBE = ∑BED; Se ∑BES < ∑BED
+
+VCBE - Valor calculado das bases de cálculo de entradas BES - Valor das bases de cálculo de entradas registradas no SITRAN BED - Valor das bases de cálculo de entradas registradas nos livros fiscais
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 5° Os contribuintes enquadrados nas situações previstas no artigo 2°, ficam sujeitos ao recolhimento do ICMS por ocasião das operações e prestações, quando da passagem pela primeira repartição fiscal do Estado.
+Art. 6° É vedado emissão de Termo de Verificação Fiscal/Infração Fiscal – TVI/IF para os contribuintes que estejam enquadrados em uma das situações previstas no artigo 2°.
+
+Art. 7° Em caso de discordância por parte do contribuinte sobre os valores citados no artigo 2° cabe a este levantar toda documentação que prove o contrário.
+Art. 8º Esta Portaria entra em vigor na data da sua publicação.
+
+AKIO VALENTE WAKYIAMA Secretário de Estado da Fazenda, em Exercício
+<<<DOC normas/portaria/portaria-425-2018-17936.md>>>
+---
+documento: "PORTARIA Nº 425, DE 17 DE DEZEMBRO DE 2018"
+tipo: portaria
+numero: 425
+data: "2018-12-17"
+ementa: "Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao exercício de 2019, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=478cf30d-5f88-407b-a083-2c409f92a9a2
+atualizado_na_fonte: "2026-10-27 17:40:47"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 425, DE 17 DE DEZEMBRO DE 2018
+
+_Fixa valores e estabelece prazos para o pagamento do IPVA, relativo ao exercício de 2019, e dá outras providências._
+
+**Data:** 2018-12-17  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N º 425/GABIN DOE nº 243, de 27.12.18 SÃO LUÍS, 17 DE DEZEMBRO DE 2018.
+
+Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2019, e dá outras providências.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista o que dispõem os artigos 95 e 96 da Lei nº 7.799, de 19 de dezembro de 2002 e o parágrafo único do artigo 19 e artigo 20 do Decreto nº 20.685, de 23 de julho de 2004,
+
+R E S O L V E:
+
+Art. 1º Fixar os valores do Imposto sobre a Propriedade de Veículos Automotores – IPVA, constantes da tabela do Anexo Único desta Portaria, relativo ao exercício de 2019.
+
+Art. 2º Estabelecer que o pagamento do tributo, referente aos veículos terrestres, obedecerá aos seguintes prazos:
+
+Atualização de
+
+endereço
+
+(até)
+
+Final de
+
+placa
+
+1ª Cota
+
+
+2ª Cota ou Cota Única
+
+3ª Cota
+
+
+Início da fiscalização
+
+08/02/2019
+
+
+1 e 2
+
+
+08/02/2019
+
+
+08/03/2019
+
+
+08/04/2019
+
+
+08/05/2019
+
+
+11/02/2019
+
+
+3 e 4
+
+
+11/02/2019
+
+
+11/03/2019
+
+
+11/04/2019
+
+
+11/05/2019
+
+
+15/02/2019
+
+
+5 e 6
+
+
+15/02/2019
+
+
+15/03/2019
+
+
+15/04/2019
+
+
+15/05/2019
+
+
+18/02/2019
+
+
+7 e 8
+
+
+18/02/2019
+
+
+18/03/2019
+
+
+18/04/2019
+
+
+18/05/2019
+
+<!-- p. 2 -->
+26/02/2019
+
+
+9 e 0
+
+
+26/02/2019
+
+
+26/03/2019
+
+
+26/04/2019
+
+
+26/05/2019
+
+
+Parágrafo Único. A data de início da fiscalização a que se refere o quadro acima não alcança os veículos credenciados pelo DETRAN/MA, na condição de veículos de aprendizagem de propriedade de Centro de Formação de Condutores, cuja exigência para efeito de permanência, renovação ou de credenciamento novo poderá se dar, a critério do DETRAN/MA, desde a data de vencimento da 3ª cota, conforme o dígito final das placas.
+
+Art. 3º Vedar o parcelamento de valores iguais ou inferiores a R$ 100,00 (cem reais), bem como valores relativos ao primeiro emplacamento.
+
+Art. 4º Conceder desconto de 10% (dez por cento) para pagamento antecipado, em cota única, do IPVA, até 28 de fevereiro de 2019.
+
+Art. 5º Estabelecer que o pagamento do IPVA dar-se-á:
+I – em cota única;
+II – de forma parcelada, em três cotas iguais e sucessivas, de acordo com as datas de vencimento acima estabelecidas, observado o seguinte critério:
+
+Caso haja atraso no pagamento das referidas cotas, estas poderão ser quitadas com acréscimo de multa e juros moratórios calculados a partir do vencimento das mesmas.
+
+Art. 6º Esta Portaria será publicada no Diário Oficial do Estado, e produzirá seus efeitos a partir de 1º de janeiro de 2019.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE SECRETARIA DE ESTADO DA FAZENDA, São Luís, 17 de dezembro de 2018.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-425-2023-21019.md>>>
+---
+documento: "PORTARIA Nº 425, DE 19 DE SETEMBRO DE 2023"
+tipo: portaria
+numero: 425
+data: "2023-09-19"
+ementa: "Disciplina os procedimentos que devem ser adotados pelas microempresas e empresas de pequeno porte na conversão do Regime SIMPLES/MEI para o Regime Normal, com base na Lei Complementar 123 de 14 de dezembro de 2006 e em normas estaduais sobre o ICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7a58659a-3343-4116-97f8-2b93c1c913a1
+atualizado_na_fonte: "2026-10-15 10:06:39"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 425, DE 19 DE SETEMBRO DE 2023
+
+_Disciplina os procedimentos que devem ser adotados pelas microempresas e empresas de pequeno porte na conversão do Regime SIMPLES/MEI para o Regime Normal, com base na Lei Complementar 123 de 14 de dezembro de 2006 e em normas estaduais sobre o ICMS._
+
+**Data:** 2023-09-19  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 425/23 - GABIN DOE nº 178, de 26.09.23 São Luís, 19 de setembro de 2023
+
+Disciplina os procedimentos que devem ser adotados pelas microempresas e empresas de pequeno porte na conversão do Regime SIMPLES/MEI para o Regime Normal, com base na Lei Complementar
+123 de
+14 de dezembro de 2006 e em normas estaduais sobre o ICMS.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe confere o art. 69, II, da Constituição Estadual,
+
+R E S O L V E:
+
+Art. 1º Dispor sobre os procedimentos que devem ser adotados pelas microempresas e empresas de pequeno porte na conversão do Regime SIMPLES/MEI para o Regime Normal, com base na LC 123/06, no Regulamento do ICMS - RICMS, aprovado pelo Decreto 19.714, de 10 de julho de 2003 e na Lei 7.799 de 19 de dezembro de 2002.
+
+CAPÍTULO I DA EXCLUSÃO DO SIMPLES NACIONAL
+
+Art. 2º As microempresas e empresas de pequeno porte excluídas do Simples Nacional por quaisquer meios, nos termos da LC 123/06 e normas auxiliares, deverão, por meio de seus estabelecimentos localizados no Estado do Maranhão e inscritos no Cadastro de Contribuintes do ICMS, obedecer às determinações desta Portaria
+
+Art. 3º A exclusão do Simples Nacional dar-se-á:
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+I - de ofício e mediante comunicação das empresas optantes;
+II - mediante impedimento por ultrapassar o sublimite do Estado, seja no mercado interno ou externo.
+
+Art. 4° A microempresa (ME) ou empresa de pequeno porte (EPP) impedida ou excluída do Simples Nacional:
+
+I - ficará sujeita ao Regime de Apuração Normal do ICMS a partir da data de início dos efeitos da exclusão e/ou impedimento de recolhimento do ICMS dentro do regime simplificado, devendo cumprir as obrigações principais e acessórias previstas na legislação das demais pessoas jurídicas;
+
+II - poderá se creditar, quando admitido pela legislação, do valor do ICMS relativo às mercadorias existentes em estoque no último dia como optante do Simples Nacional.
+
+Art. 5° O aproveitamento dos créditos ficará condicionado a:
+I – escriturar no arquivo digital o Livro de Inventário, referente ao estoque de matéria–prima e/ou mercadoria remanescente após o encerramento do último dia como optante do Simples Nacional;
+
+II – separar, por categoria, as mercadorias sujeitas à substituição tributária, isentas ou não tributadas, que não dão direito ao crédito, daquelas com direito ao crédito, observado o seguinte critério:
+
+a) produtos adquiridos de empresas não optantes do Simples Nacional: o valor do crédito registrado no documento fiscal;
+
+b) produtos adquiridos de empresas optantes do Simples Nacional: de acordo com a previsão do §1° do artigo 23 da Lei complementar 123/2006 c/c o artigo 60 e parágrafos da Resolução 140/2018 do Comitê Gestor do Simples Nacional.
+
+III - verificar o crédito relativo a cada matéria-prima/mercadoria, tributável, tendo por base a relação entre a(s) última(s) nota(s) fiscais(l), e a quantidade existente, em estoque e na nota fiscal, observando a técnica de controle de estoque PEPS - primeiro que entra primeiro que sai.
+
+§1° O Livro do Inventário de que trata o inciso I deve ser escriturado no Bloco H do arquivo digital, referente ao primeiro mês de obrigatoriedade de realizar a EFD, conforme inciso III, §2º do Art. 321-N do RICMS/2003, indicando o motivo de inventário “04 – Na alteração de regime de pagamento – condição do contribuinte”.
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§2º Somente poderão ser utilizados créditos fiscais correspondentes a mercadorias/matérias-primas discriminadas em documentos fiscais autorizados pelo Fisco, em observância aos art. 27, §1º e §2º, art. 37, art. 41, da Lei nº 7.799/02, sem prejuízo de outros dispositivos da legislação.
+
+§3º O valor apurado do crédito do ICMS referente ao levantamento de estoque deverá ser lançado no Registro E111, com a utilização do código de ajuste “MA020041 - Outros Créditos - Estoque mercadoria/exclusão do Simples Nacional passando a apurar o imposto pelo Regime Normal”.
+
+§4° Na hipótese de que trata o caput, o contribuinte poderá se creditar do valor correspondente às parcelas restantes do ICMS relativo à entrada de bem destinado ao ativo imobilizado, observado o disposto no art. 39 da Lei nº 7.799/02, devendo escriturar no Bloco G, informando a apropriação de parcelas de créditos de ICMS do bem no registro 125 da EFD.
+
+Art. 6° Na hipótese de impedimento ou exclusão do Simples Nacional ocorrer de modo extemporâneo, a ME ou EPP, sem prejuízo do disposto no artigo anterior, deverá:
+
+I - recompor a escrituração fiscal mensal, a partir da data de início dos efeitos da exclusão ou impedimento, informando os créditos e débitos com base no Regime de Apuração Normal do ICMS:
+
+a) os créditos oriundos de documento fiscal de entrada devem ser informados em obediência ao Guia Prático EFD ICMS IPI;
+
+b) os débitos de saída não destacados em época própria no documento fiscal, devem, preferencialmente, ser ajustados, por documento, no livro de saída, registro C190, de acordo com a alíquota aplicável à operação, ou ainda ser lançados no Registro E111, com a utilização do código de ajuste “MA000002 – Apuração ICMS/Outros Débitos/Débitos de ICMS por exclusão extemporânea do Simples Nacional”, em valores absolutos mensais.
+
+II –recolher o ICMS devido, apurado com os acréscimos previstos na legislação, se for o caso.
+
+III - cumprir as obrigações acessórias relativas ao ICMS, conforme previsto na legislação.
+
+Parágrafo único. O valor do ICMS relativo a período posterior à data de início dos efeitos da exclusão do Simples Nacional, que tiver sido pago por meio de
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Documento de Arrecadação do Simples Nacional - DAS, poderá ser solicitada sua restituição junto à SEFAZ.
+
+Art. 7º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, em São Luís 19 de setembro de 2023.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-427-2011-13470.md>>>
+---
+documento: "PORTARIA Nº 427, DE 04 DE AGOSTO DE 2011"
+tipo: portaria
+numero: 427
+data: "2011-08-04"
+ementa: "Ficam dispensados da emissão e impressão do comprovante de pagamento com cartão de crédito ou de débito por Transferência Eletrônica de Fundos – TEF conjugada a equipamento Emissor de Cupom Fiscal – ECF os estabelecimentos de contribuintes do ICMS a seguir indicados."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=14913274-3188-4c77-a0f0-afd425463316
+atualizado_na_fonte: "2026-10-28 14:39:58"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 427, DE 04 DE AGOSTO DE 2011
+
+_Ficam dispensados da emissão e impressão do comprovante de pagamento com cartão de crédito ou de débito por Transferência Eletrônica de Fundos – TEF conjugada a equipamento Emissor de Cupom Fiscal – ECF os estabelecimentos de contribuintes do ICMS a seguir indicados._
+
+**Data:** 2011-08-04  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA N° 427/2011 - GABIN. SÃO LUÍS, 04 DE AGOSTO DE 2011.
+DOE 09.08.11
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, em exercício, no uso de suas atribuições e considerando o disposto no art. 3º da Lei nº 9.271, de 03 de setembro de 2010, publicada no DOE de 10.09.10,
+
+R E S O L V E:
+
+Art. 1º. Ficam dispensados da emissão e impressão do comprovante de pagamento com cartão de crédito ou de débito por Transferência Eletrônica de Fundos – TEF conjugada a equipamento Emissor de Cupom Fiscal – ECF os estabelecimentos de contribuintes do ICMS a seguir indicados:
+
+I – varejistas, enquadrados no Código Nacional de Atividades Econômicas – CNAE 4731-8/00 (postos revendedores de combustíveis);
+
+II – varejistas em geral, com faturamento anual de até R$ 720.000,00 (setecentos e vinte mil reais) no exercício fiscal imediatamente anterior;
+
+Parágrafo único. Na hipótese do inciso II deste artigo, o contribuinte em início de atividade deverá levar em conta o limite do faturamento e a proporcionalidade a partir do mês do seu efetivo funcionamento.
+
+Art. 2º. Esta portaria entra em vigor na data de sua publicação, produzindo efeitos a partir de 1o de setembro de 2011.
+
+AKIO VALENTE WAKIYAMA Secretário de Estado da Fazenda, em exercício
+<<<DOC normas/portaria/portaria-429-2019-19663.md>>>
+---
+documento: "PORTARIA Nº 429, DE 22 DE JULHO DE 2019"
+tipo: portaria
+numero: 429
+data: "2019-07-22"
+ementa: "Dispõe sobre a vedação de restrição cadastral e fiscal dos débitos fiscais existentes nas contas correntes do ICMS e ITCD até o limite de 10,00."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=01ed1801-5697-475f-ac6e-38deb8003505
+atualizado_na_fonte: "2026-10-13 11:37:04"
+extraido_em: "2026-11-18"
+remete_a: "RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 429, DE 22 DE JULHO DE 2019
+
+_Dispõe sobre a vedação de restrição cadastral e fiscal dos débitos fiscais existentes nas contas correntes do ICMS e ITCD até o limite de 10,00._
+
+**Data:** 2019-07-22  
+**Remete a:** RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 429/2019-GABIN DOE n° 140, de 26.07.19 SÃO LUÍS, 22 DE JULHO DE 2019.
+
+Inclui Código de Receita na Tabela de Codificação de Receitas Estaduais do Sistema de Arrecadação Estadual.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições que lhe confere o artigo 578 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714 de 10 de julho de 2003 e considerando a solicitação da COTEA/ITCD,
+
+
+R E S O L V E:
+Art. 1º Incluir na Tabela de Codificação de Receitas Estaduais, relativa ao Sistema de Arrecadação Estadual, instituída pela Portaria nº 273/2015-GABIN de 19/05/2015, os códigos de receita abaixo indicados.
+CÓDIGO DESCRIÇÃO DA RECEITA
+610 ITCD Intimação Fiscal
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA. PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, em São Luís, 22 de julho de 2019.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-432-2016-16128.md>>>
+---
+documento: "PORTARIA Nº 432, DE 24 DE NOVEMBRO DE 2016"
+tipo: portaria
+numero: 432
+data: "2016-11-30"
+ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2017, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=813efe5d-187f-4494-91e8-27171f7d0c76
+atualizado_na_fonte: "2026-10-19 10:29:57"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 432, DE 24 DE NOVEMBRO DE 2016
+
+_Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2017, e dá outras providências._
+
+**Data:** 2016-11-30 (data no portal: 2016-11-24 (divergente do PDF))  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N º 432/GABIN SÃO LUÍS, 30 DE NOVEMBRO DE 2016.
+D.O.E. 05.12.2016.
+
+Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2017, e dá outras providências.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista o que dispõem os artigos 95 e 96 da Lei nº 7.799, de 19 de dezembro de 2002 e o parágrafo único do artigo 19 e artigo 20 do Decreto nº 20.685, de 23 de julho de 2004,
+
+
+R E S O L V E:
+
+Art. 1º. Fixar os valores do Imposto sobre a Propriedade de Veículos Automotores – IPVA, constantes da tabela do Anexo Único desta Portaria, relativo ao exercício de 2017.
+
+Art. 2º. Estabelecer que o pagamento do tributo, referente aos veículos terrestres, obedecerá aos seguintes prazos:
+
+Atualização de endereço
+
+(até)
+
+Final de
+
+placa
+
+1ª Cota 2ª Cota ou Cota Única
+
+3ª Cota Início da fiscalização
+
+07/02/2017 1 e 2 07/02/2017 07/03/2017 07/04/2017 07/05/2017 10/02/2017 3 e 4 10/02/2017 10/03/2017 10/04/2017 10/05/2017 13/02/2017 5 e 6 13/02/2017 13/03/2017 13/04/2017 13/05/2017 17/02/2017 7 e 8 17/02/2017 17/03/2017 17/04/2017 17/05/2017 24/02/2017 9 e 0 24/02/2017 24/03/2017 24/04/2017 24/05/2017
+
+Parágrafo Único. A data de início da fiscalização a que se refere o quadro acima não alcança os veículos credenciados pelo DETRAN/MA, na condição de veículos de aprendizagem de propriedade de Centro de Formação de Condutores, cuja exigência para efeito de permanência, renovação ou de credenciamento novo poderá se dar, a critério do DETRAN/MA, desde a data de vencimento da 3ª cota, conforme o dígito final das placas.
+
+Art. 3º. Vedar o parcelamento de valores iguais ou inferiores a R$ 100,00 (cem reais), bem como valores relativos ao primeiro emplacamento.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 4º. Conceder desconto de 10% (dez por cento) para pagamento antecipado, em cota única, do IPVA, até 06 de fevereiro de 2017.
+
+Art. 5º. Estabelecer que o pagamento do IPVA dar-se-á:
+I – em cota única;
+II – de forma parcelada, em três cotas iguais e sucessivas, de acordo com as datas de vencimento acima estabelecidas, observado o seguinte critério:
+
+a) Caso haja atraso no pagamento das referidas cotas, estas poderão ser quitadas com os acréscimos moratórios calculados a partir do vencimento das mesmas.
+
+Art. 6º. Esta Portaria será publicada no Diário Oficial do Estado, e produzirá seus efeitos a partir de 1º de janeiro de 2017.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luís 30 de NOVEMBRO de 2016.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-432-2016-16139.md>>>
+---
+documento: "PORTARIA Nº 432, DE 30 DE DEZEMBRO DE 2016"
+tipo: portaria
+numero: 432
+data: "2016-11-30"
+ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2017, e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1d2c06ef-6fb2-4db7-8646-e4b8e9afe0c6
+atualizado_na_fonte: "2026-10-19 10:22:56"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 432, DE 30 DE DEZEMBRO DE 2016
+
+_Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2017, e dá outras providências._
+
+**Data:** 2016-11-30 (data no portal: 2016-12-30 (divergente do PDF))  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N º 432/GABIN SÃO LUÍS, 30 DE NOVEMBRO DE 2016.
+D.O.E. 29.12.2016.
+Republicada por Incorreções
+
+Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, relativo ao exercício de 2017, e dá outras providências.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista o que dispõem os artigos 95 e 96 da Lei nº 7.799, de 19 de dezembro de 2002 e o parágrafo único do artigo 19 e artigo 20 do Decreto nº 20.685, de 23 de julho de 2004,
+
+R E S O L V E:
+
+Art. 1º. Fixar os valores do Imposto sobre a Propriedade de Veículos Automotores - IPVA, constantes da tabela do Anexo Único desta Portaria, relativo ao exercício de 2017.
+
+Art. 2º. Estabelecer que o pagamento do tributo, referente aos veículos terrestres, obedecerá aos seguintes prazos:
+
+Atualização de endereço
+
+(até)
+
+Final de
+
+placa
+
+1ª Cota 2ª Cota ou Cota Única
+
+3ª Cota Início da fiscalização
+
+07/02/2017 1 e 2 07/02/2017 07/03/2017 07/04/2017 07/05/2017 10/02/2017 3 e 4 10/02/2017 10/03/2017 10/04/2017 10/05/2017 13/02/2017 5 e 6 13/02/2017 13/03/2017 13/04/2017 13/05/2017 17/02/2017 7 e 8 17/02/2017 17/03/2017 17/04/2017 17/05/2017 24/02/2017 9 e 0 24/02/2017 24/03/2017 24/04/2017 24/05/2017
+
+Parágrafo Único. A data de início da fiscalização a que se refere o quadro acima não alcança os veículos credenciados pelo DETRAN/MA, na condição de veículos de aprendizagem de propriedade de Centro de Formação de Condutores, cuja exigência para efeito de permanência, renovação ou de credenciamento novo poderá se dar, a critério do DETRAN/MA, desde a data de vencimento da 3ª cota, conforme o dígito final das placas.
+
+Art. 3º. Vedar o parcelamento de valores iguais ou inferiores a R$ 100,00 (cem reais), bem como valores relativos ao primeiro emplacamento.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 4º. Conceder desconto de 10% (dez por cento) para pagamento antecipado, em cota única, do IPVA, até 06 de fevereiro de 2017.
+
+Art. 5º. Estabelecer que o pagamento do IPVA dar-se-á:
+
+I - em cota única;
+II - de forma parcelada, em três cotas iguais e sucessivas, de acordo com as datas de vencimento acima estabelecidas, observado o seguinte critério:
+
+a) Caso haja atraso no pagamento das referidas cotas, estas poderão ser quitadas com os acréscimos moratórios calculados a partir do vencimento das mesmas.
+
+Art. 6º. Esta Portaria será publicada no Diário Oficial do Estado, e produzirá seus efeitos a partir de 1º de janeiro de 2017.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE SECRETARIA DE ESTADO DA FAZENDA, São Luís 30 de NOVEMBRO de 2016.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-433-2015-15331.md>>>
+---
+documento: "PORTARIA Nº 433, DE 16 DE SETEMBRO DE 2015"
+tipo: portaria
+numero: 433
+data: "2015-09-16"
+ementa: "Dispõe sobre a mudança da situação da empresa em início de atividade, no Cadastro de ICMS, após a apresentação da documentação que relaciona."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=07539e25-bca3-485b-b17c-df411036daa3
+atualizado_na_fonte: "2026-10-27 18:18:51"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "PARCIALMENTE REVOGADA"
+percentual_tachado: 18.2
+---
+
+# PORTARIA Nº 433, DE 16 DE SETEMBRO DE 2015
+
+_Dispõe sobre a mudança da situação da empresa em início de atividade, no Cadastro de ICMS, após a apresentação da documentação que relaciona._
+
+**Data:** 2015-09-16  
+**Remete a:** CTE  
+**Situação:** PARCIALMENTE REVOGADA
+
+> PARCIALMENTE REVOGADA pela portaria 595/2019 (nota no meio do texto do próprio PDF: algum dispositivo foi revogado): "(Revogado pela Portaria nº 595/19)"
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 433/15 - GABIN SÃO LUÍS, 16 de SETEMBRO DE 2015 Alterada pela Portaria nº 595/19 Alterada pela Portaria n° 212/26
+
+Dispõe sobre a mudança da situação da empresa em início de atividade, no Cadastro de ICMS, após a apresentação da documentação que relaciona.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, que lhe conferem o § 3º, do artigo 62, combinado com § 6º do artigo 66, ambos da Lei nº 7.799, de 19 de dezembro de 2002,
+
+
+R E S O L V E:
+
+
+Art. 1º Determinar que, após o deferimento dos pedidos de registros no Cadastro Estadual de Contribuintes do ICMS - CAD/ICMS, as empresas solicitantes tenham sua inscrição suspensa e, portanto, sujeitas ao recolhimento sob Regime de Antecipação, até que apresentem, por meio do Portal da SEFAZ, endereço eletrônico sefaz.ma.gov.br, cumulativamente:
+
+
+I - comprovação da origem e da integralização do capital social; e
+
+II - comprovação da existência física e da capacidade operacional da empresa.
+
+<!-- p. 2 -->
+Parágrafo Único - Caso haja o atendimento às disposições previstas nos incisos acima, o pagamento deverá acontecer no prazo regular previsto na legislação de regência, conforme o caso.
+
+Art 2º A integralização total ou parcial do capital social deverá ser comprovada pela efetiva transferência dos recursos para a sociedade, tais como: recibos de depósito bancário, recibos de transferência bancária de valores (dos sócios da pessoa jurídica), cheques com compensação comprovada, integralização em bens com registro de transferência efetiva lavrado em cartório, e acompanhada de laudo de avaliação, elaborado de acordo com as normas legais.
+
+Parágrafo Único - Será dispensado o Laudo de Avaliação, quando se tratar de integralização em valor inferior a R$ 720.000,00 (setecentos e vinte mil reais).
+
+Art 3º A comprovação de existência física e da capacidade operacional deverá ser realizada mediante:
+
+I ~~- cópia do Alvará de localização e funcionamento definitivo ou provisório, conforme o caso e legislação de regência, do estabelecimento indicado na ficha cadastral, expedido pelo Poder Executivo do Município da situação do estabelecimento, acompanhada do respectivo original para autenticação;~~
+
+I ~~- cópia do Alvará de localização e funcionamento definitivo ou provisório, conforme o caso, e legislação de regência do estabelecimento indicado na ficha cadastral, expedido pelo Poder Executivo do Município da situação do estabelecimento, exceto para as atividades de baixo risco conforme Lei federal nº 13.874/19;~~
+
+~~(NR – Portaria nº 595/19)~~.
+
+I - cópia da nota fiscal fatura de energia elétrica recente, em nome do estabelecimento, do representante legal ou do locatário, para comprovação do endereço do estabelecimento;
+
+(NR – Portaria n° 212/26)
+II – cópia do Registro de Imóvel onde funciona a empresa, ou, caso locatária, apresentação de cópia do Contrato de Aluguel acompanhada do respectivo original para autenticação, ou documento equivalente, hábil à comprovação da s;
+
+III – número de registro, junto ao Conselho Regional de Contabilidade do Estado do Maranhão – CRC/MA, do contabilista, escritório individual ou organização contábil responsável, pela escrituração contábil ou fiscal do estabelecimento, devendo ser obedecidas as disposições do artigo 12 do Decreto- Lei Nº 9.295/1946, com a redação dada pela Lei Nº 12.249/2010.
+
+<!-- p. 3 -->
+§ 1º As exigências previstas nos I e II deste artigo poderão ser supridas por documentos análogos, hábeis às comprovações, das respectivas disposições ali solicitadas.
+
+§2º Deverá haver compatibilidade entre as atividades descritas no Alvará e a(s) atividade(s) econômica(s) principal e secundária(s) indicada(s) no CAD/ICMS.
+
+~~Art. 4º A mudança para a situação cadastral ativa será realizada após parecer conclusivo e sumário, quando forem atendidos integralmente os requisitos estabelecidos nesta Portaria.~~
+
+Art. 4º A mudança para a situação cadastral ativa será realizada imediatamente após o pedido de ativação, podendo a documentação prevista nos arts. 2º e 3º ser enviada em até 45 (quarenta e cinco) dias.
+
+(NR – Portari n° 212/26)
+~~§ 1º Será considerada ativa a situação cadastral da empresa cujos documentos não sejam apreciados no prazo de 15 dias, contados de sua apresentação na Agência de Atendimento da Secretaria de Fazenda, sob condição resolutória de ulterior apreciação que a confirme.~~
+
+(Revogado pela Portaria nº 595/19)
+~~§ 2º A inscrição será baixada de ofício quando permanecer por 180 (cento e oitenta) dias sem a homologação prevista nesta Portaria, conforme previsto no inciso IV do § 7º do artigo 66 da Lei 7.799/2002.~~
+
+§ 2º A inscrição de empresa nova será baixada de ofício quando permanecer por 60 (sessenta) dias sem a homologação prevista nesta Portaria.
+
+(NR – Portaria nº 595/19).
+§ 3º Em até 15 dias, após o prazo previsto no caput, a documentação deverá ser analisada, e na hipótese do não atendimento dos requisitos estabelecidos nesta Portaria, o cadastro será alterado para suspenso de ofício.
+
+(AC – Portaria n° 212/26)
+§ 4º Caso haja discordância do parecer, o contribuinte poderá, no prazo de 10 (dez) dias, contado da respectiva ciência do parecer, requerer revisão da decisão.
+
+(AC – Portaria n° 212/26)
+~~Art. 5º A disposição prevista no inciso III do artigo 3º não se aplica:~~
+Art. 5º As disposições previstas nesta Portaria não se aplicam:
+(NR – Portaria nº 595/19)
+
+I - às empresas não contribuintes do ICMS; e
+
+<!-- p. 4 -->
+II - ao Microempreendedor Individual – MEI, previsto pela Lei Complementar nº 123/2006.
+
+III – à empresa (matriz ou filial) contribuinte do ICMS, que integre o mesmo grupo econômico, pessoa física ou jurídica (com o mesmo CPF ou CNPJ raiz respectivamente), desde que esteja em situação de regularidade cadastral e fiscal;
+
+(AC – Portaria n° 212/26)
+IV – às empresas com os seguintes Códigos de Classificação Nacional de Atvidades Econômicas - CNAE: (AC – Portaria n° 212/26)
+
+CNAE 1921-7/00 - Fabricação de produtos do refino de petróleo.
+CNAE 1922-5/01 - Formulação de combustíveis.
+CNAE 1931-4/00 - Fabricação de álcool CNAE 1932-2/00 - Fabricação de biocombustíveis CNAE 4681-8/01 - Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR) CNAE 4681-8/02 - Comércio atacadista de combustíveis realizado por transportador retalhista (TRR) CNAE 4681-8/04 - Comércio atacadista de combustíveis de origem mineral em bruto CNAE 4731-8/00 - Comércio varejista de combustíveis para veículos automotores.
+Art. 6º Fica resguardado, em qualquer caso, o direito de a Fazenda Pública realizar as diligências necessárias ao fiel cumprimento nos incisos I e II do artigo 1º desta Portaria.
+
+Parágrafo único - Havendo indícios de uso de documento falso ou adulterado, a SEFAZ suspenderá a verificação e validação da documentação e encaminhará o material às autoridades competentes para conhecimento e apuração de eventual infração penal.
+
+(AC – Portaria n° 212/26)
+Art. 7º O disposto nesta Portaria aplica-se, exclusivamente, aos pedidos relativos a registro ou alterações no CAD/ICMS de empresas localizadas em território maranhense a partir da vigência dessa Portaria.
+
+Art. 8º Ficam mantidas as disposições da Portaria Nº 209 de 11 de julho de 2012.
+
+Art. 9º Esta Portaria entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+<!-- p. 5 -->
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUIS 16 de SETEMBRO DE 2015.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-434-2021-20319.md>>>
+---
+documento: "PORTARIA Nº 434, DE 08 DE OUTUBRO DE 2021"
+tipo: portaria
+numero: 434
+data: "2021-10-08"
+ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3f65952d-00dc-4382-8b31-ba17fafb9f28
+atualizado_na_fonte: "2026-10-19 09:41:12"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.4, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 434, DE 08 DE OUTUBRO DE 2021
+
+_Altera o Anexo III da Portaria 535/2015 - GABIN._
+
+**Data:** 2021-10-08  
+**Remete a:** Anexo 1.4, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 434/21 - GABIN.
+DOE nº 194, de 15.10.21
+
+SÃO LUÍS, 08 DE OUTUBRO DE 2021.
+
+
+Altera o Anexo III da Portaria 535/2015 - GABIN.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+RESOLVE:
+
+Art. 1º Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 2015, que trata da previsão de consumo de óleo diesel marítimo nas operações internas destinadas às operadoras maranhenses do Sistema Ferry Boat, prevista no art. 25 do Anexo 1.4 do RICMS, aprovado pelo Decreto nº 19.714/03, que passa a vigorar com a seguinte redação:
+
+
+
+ANEXO III - DA PORTARIA 535/2015 – GABIN
+
+PREVISÃO DO CONSUMO DE ÓLEO DIESEL DO PERÍODO 11.2021
+
+NOME DA DISTRIBUIDORA CNPJ DA DISTRIBUIDORA
+
+MÊS DA PREVISÃO
+
+LITROS PREVISTOS
+
+IPIRANGA PRODUTOS DE PETRÓLEO SA
+
+33.337.122/0043-86 11.2021 330.000,00
+
+TOTAL: 11.2021 330.000,00 RELAÇÃO DAS EMPRESAS DE TRANSPORTE FERRY BOAT CREDENCIADAS PARA USO DO BENEFÍCIO PREVISTO NO ART. 25, DO ANEXO 1.4 DO RICMS/MA, NO PERÍODO 11.2021.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+NOME CNPJ
+
+SERVIPORTO – SERVIÇOS PORTUÁRIOS LTDA
+12.097.762/0001 - 37
+
+INTERNACIONAL MARÍTIMA LTDA
+12.539.110/0001 - 05
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de novembro de 2021.
+
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 08 DE OUTUBRO DE 2021.
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-435-2018-17939.md>>>
+---
+documento: "PORTARIA Nº 435, DE 24 DE DEZEMBRO DE 2018"
+tipo: portaria
+numero: 435
+data: "2018-12-24"
+ementa: "Prorrogar, excepcionalmente, até 26 de dezembro de 2018, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da DIEF referente ao período de referência novembro de 2018."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=319487f5-1eb2-4c0d-8c9b-837dc7a0494a
+atualizado_na_fonte: "2026-10-27 17:40:10"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 435, DE 24 DE DEZEMBRO DE 2018
+
+_Prorrogar, excepcionalmente, até 26 de dezembro de 2018, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da DIEF referente ao período de referência novembro de 2018._
+
+**Data:** 2018-12-24  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA Portaria n.º 435 /18 – GABIN/SEFAZ São Luís, 24 de dezembro de 2018.
+
+O Secretário de Estado da Fazenda, no uso de suas atribuições legais,
+
+
+RESOLVE:
+
+Art. 1º Prorrogar, excepcionalmente, até 26 de dezembro de 2018, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF referente ao período de referência novembro de 2018.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA PUBLIQUE-SE E CUMPRA-SE.
+Secretaria de Estado da Fazenda, em São Luís, 24 de dezembro de 2018.
+
+
+
+
+
+
+Magno Vasconcelos Pereira Secretário de Estado da Fazenda, em exercício.
+<<<DOC normas/portaria/portaria-436-2016-16134.md>>>
+---
+documento: "PORTARIA Nº 436, DE 06 DE DEZEMBRO DE 2016"
+tipo: portaria
+numero: 436
+data: "2016-12-06"
+ementa: "Ficam expressamente revogados os Regimes Especiais a seguir."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fd5c7bb8-817b-4730-92a9-28e2694296f7
+atualizado_na_fonte: "2026-10-19 10:28:46"
+extraido_em: "2026-11-18"
+remete_a: "RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 436, DE 06 DE DEZEMBRO DE 2016
+
+_Ficam expressamente revogados os Regimes Especiais a seguir._
+
+**Data:** 2016-12-06  
+**Remete a:** RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 436/2016 – GABIN SÃO LUÍS, 06 DE DEZEMBRO DE 2016.
+D.O.E. 12.12.2016.
+
+Revoga os Regimes Especiais que especifica
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais que lhe conferem o art. 578 do RICMS/2003, combinado com § 7º do artigo 9º da Lei 7.799, de 19 de dezembro de 2002, incluídos pela lei 9.379, de 18 de maio de 2011, com o objetivo de assegurar os princípios da publicidade, legalidade e impessoalidade.
+
+RESOLVE:
+
+Art. 1º Ficam expressamente revogados os Regimes Especiais a seguir identificados, editados pela Secretaria de Estado da Fazenda, nas datas abaixo:
+
+I- Regime Especial 07/2011, de 12 de Agosto de 2011;
+II- Regime Especial 10/2011, de 01º de setembro de 2011;
+III- Regime Especial 19/2011, de 19 de setembro de 2011;
+IV- Regime Especial 15/2012, de 09 de julho de 2012;
+V- Regime Especial 24/2012, de 27 de Agosto de 2012;
+VI- Regime Especial 12/2013, de 30 de julho de 2013;
+VII- Regime Especial 19/2013, de 03 de dezembro de 2013;
+VIII- Regime Especial 20/2013, de 03 de dezembro de 2013;
+IX- Regime Especial 21/2013, de 03 de Dezembro de 2013;
+X- Regime Especial 23/2013, de 03 de dezembro de 2013;
+XI- Regime Especial 01/2014, de 14 de abril de 2014;
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 06 DE DEZEMBRO DE 2016.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-442-2004-12568.md>>>
+---
+documento: "PORTARIA Nº 442, DE 19 DE JULHO DE 2004"
+tipo: portaria
+numero: 442
+data: "2004-07-19"
+ementa: "Aprova a relação das empresas que operam com o comércio exterior, localizadas em território maranhense e inscritas no CAD-ICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=33a7bc10-92d2-45be-91ea-3d7ba8f1a284
+atualizado_na_fonte: "2026-10-27 09:25:43"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 442, DE 19 DE JULHO DE 2004
+
+_Aprova a relação das empresas que operam com o comércio exterior, localizadas em território maranhense e inscritas no CAD-ICMS._
+
+**Data:** 2004-07-19  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA GABINETE DO SECRETÁRIO PORTARIA Nº 0442 - GABIN DE 19 DE JULHO DE 2004 O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+R E S O L V E
+
+Art.1º Aprovar a relação das empresas que operam com o comércio exterior, localizadas em território maranhense e inscritas no CAD-ICMS, constante do Anexo Único desta Portaria, a serem submetidas a monitoramento econômico-fical pela Área de Grandes Contribuintes do COTAF.
+
+Art.2º Esta Portaria entra em vigor na data de sua publicação, produzindo os seus efeitos a partir de 20 de julho de 2004, revogando-se as disposições em contrário.
+
+
+JOSÉ DE JESUS DO ROSÁRIO AZZOLINI
+
+Secretário de Estado da Fazenda
+
+
+CEGAT / FISC / ALB
+<<<DOC normas/portaria/portaria-445-2015-15333.md>>>
+---
+documento: "PORTARIA Nº 445, DE 18 DE SETEMBRO DE 2015"
+tipo: portaria
+numero: 445
+data: "2015-09-18"
+ementa: "Autorizar a inscrição no Cadastro de Contribuinte deste Estado do Instituto Nacional de Processamento de Embalagens Vazias - Inpev."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0470d671-629f-4a6e-8623-8986c608ad4c
+atualizado_na_fonte: "2026-10-27 18:18:30"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 445, DE 18 DE SETEMBRO DE 2015
+
+_Autorizar a inscrição no Cadastro de Contribuinte deste Estado do Instituto Nacional de Processamento de Embalagens Vazias - Inpev._
+
+**Data:** 2015-09-18  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N° 445/2015 - GABIN. SÃO LUÍS, 18 DE SETEMBRO DE 2015.
+D.O.E.: 25.09.15
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, considerando o disposto no art. 62, §9º da Lei 7.799, de 19 de dezembro de 2002, e o que consta no Processo n° 0087552/2015,
+
+RESOLVE:
+
+Art. 1° Autorizar a inscrição no Cadastro de Contribuinte deste Estado do Instituto Nacional de Processamento de Embalagens Vazias - Inpev, pessoa jurídica de direito privado sem fins lucrativos, inscrito no CNPJ/MF sob o Nº 04.875.587/0004-86, localizado na Rodovia MA 006, s/n, Km 01, CEP n° 65.810-000, Alto Parnaíba - MA, com o intuito de viabilizar as operações de coleta e remessa de embalagens vazias de agrotóxico para fins de reciclagem, nos termos da Lei Federal nº 7.802, de 11 de julho de 1989.
+
+Art. 2° A inscrição concedida mediante esta autorização fica sujeita às hipóteses de suspensão, cancelamento e baixa previstas na legislação tributária deste Estado.
+
+Art. 3º Esta Portaria entra em vigor na data da sua publicação.
+DÊ-SE CIÊNCIA,PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, São Luís, 18 de setembro de 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-446-2011-13473.md>>>
+---
+documento: "PORTARIA Nº 446, DE 16 DE AGOSTO DE 2011"
+tipo: portaria
+numero: 446
+data: "2011-08-16"
+ementa: "Prorrogar, para 20 de janeiro de 2012, o prazo de entrega dos arquivos da Escrituração Fiscal Digital – EFD, relativos aos meses de referência compreendidos no período janeiro a dezembro de 2011, dos contribuintes do ICMS sujeitos a essa obrigação."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ce448f82-d2c0-4249-b83d-83bd9ab48a2f
+atualizado_na_fonte: "2026-10-28 14:39:30"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 18, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 446, DE 16 DE AGOSTO DE 2011
+
+_Prorrogar, para 20 de janeiro de 2012, o prazo de entrega dos arquivos da Escrituração Fiscal Digital – EFD, relativos aos meses de referência compreendidos no período janeiro a dezembro de 2011, dos contribuintes do ICMS sujeitos a essa obrigação._
+
+**Data:** 2011-08-16  
+**Remete a:** Anexo 18, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+PORTARIA N° 446/2011 - GABIN. SÃO LUÍS(MA), 16 DE AGOSTO DE 2011.
+DOE 19.08.11
+
+O SECRETÀRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista o disposto no Anexo 18 do Regulamento do ICMS, aprovado pelo Decreto no 19.714, de 10 de julho de 2003, com a redação dada pelo Decreto 23.257/2007 e alterações posteriores; e,
+
+Considerando as dificuldades técnicas e operacionais causadas pela ampliação da obrigatoriedade do número de contribuintes do ICMS que estão sujeitos a entregar os arquivos da Escrituração Fiscal Digital – EFD; e,
+
+Considerando, ainda, a necessidade dos novos contribuintes do ICMS fazerem as devidas adequações em seus equipamentos de informática,
+
+RESOLVE:
+
+Art. 1º Prorrogar, para 20 de janeiro de 2012, o prazo de entrega dos arquivos da Escrituração Fiscal Digital – EFD, relativos aos meses de referência compreendidos no período janeiro a dezembro de 2011, dos contribuintes do ICMS sujeitos a essa obrigação.
+
+Art. 2º Prorrogar, para 20 de Janeiro de 2012, o prazo de entrega dos arquivos da Escrituração Fiscal Digital – EFD, relativos ao ano de 2011, dos contribuintes do ICMS sujeitos a essa obrigação.
+
+Art. 3º A prorrogação de que trata o artigo anterior não alcança os contribuintes já obrigados, de conformidade com a lista do Anexo IX do Protocolo ICMS no 77, de 18 de setembro de 2008, com a alteração dada pelo Ato Cotepe/ICMS no 1, de 7 de janeiro de 2009.
+
+Parágrafo único. Os contribuintes de que trata o art. 1º poderão visualizar o início da obrigatoriedade na consulta pública do cadastro do Sintegra.
+
+Art. 4º Esta Portaria entra em vigor na data de sua publicação.
+
+CLÁUDIO JOSÉ TRINCHÃO SANTOS
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-446-2024-21160.md>>>
+---
+documento: "PORTARIA Nº 446, DE 31 DE OUTUBRO DE 2024"
+tipo: portaria
+numero: 446
+data: "2024-10-30"
+ementa: "Dispõe sobre o Sistema de Arrecadação do Estado do Maranhão."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f0affcec-3891-4b97-82bf-a85493d0a30d
+atualizado_na_fonte: "2026-10-09 18:48:45"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 446, DE 31 DE OUTUBRO DE 2024
+
+_Dispõe sobre o Sistema de Arrecadação do Estado do Maranhão._
+
+**Data:** 2024-10-30 (data no portal: 2024-10-31 (divergente do PDF))  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 446/2024 – GABIN
+
+(DOE n° 207, de 31.10.24)
+
+
+Dispõe sobre o Sistema de Arrecadação do Estado do Maranhão.
+
+SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe conferem o art. 69, II, da Constituição do Estado do Maranhão,
+
+R E S O L V E:
+
+Art. 1º Fica consolidada a legislação que dispõe sobre o Sistema de Arrecadação do Estado do Maranhão.
+
+Parágrafo único. O Sistema de Arrecadação Estadual é de competência exclusiva da Secretaria Estadual da Fazenda do Maranhão (Sefaz/MA).
+
+Art. 2º O Sistema de Arrecadação Estadual é composto por:
+I - agente arrecadador e centralizador das receitas estaduais;
+II - outros agentes arrecadadores credenciados;
+III - a prestação dos serviços de arrecadação de receitas estaduais e suas extensões, que incluem:
+
+a) agências bancárias, terminais de autoatendimento e internet;
+b) agências lotéricas da Caixa Econômica Federal (CEF);
+c) correspondentes bancários; e
+d) outros pontos de atendimentos bancários interligados em rede de computadores centrais dos agentes arrecadadores credenciados.
+
+§ 1º A admissão do agente arrecadador credenciado será realizada por meio de um contrato de prestação de serviços celebrado através da Sefaz/MA.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 2º A celebração do contrato mencionado no § 1º estará condicionada à homologação do sistema que será desenvolvido pelo agente arrecadador credenciado para os fins devidos.
+
+§ 3º A homologação de que trata o § 2º dependerá da adequação técnica do sistema, que será aferida através da realização de um “teste piloto”, com duração de até 90 dias.
+
+§ 4º Para fins da aferição da adequação técnica do sistema a ser desenvolvido pelo agente arrecadador, observar-se-á:
+
+I - a recepção de dez remessas consecutivas ou vinte alternadas, desde que a arrecadação dos dias 10 e 20 de cada mês estejam contidas nas respectivas remessas;
+
+II - o saneamento de quaisquer inconsistências detectadas em relação ao conteúdo ou à especificação técnica do arquivo, contados da primeira remessa de dados;
+
+III - a assinatura de termo de compromisso (Anexo I).
+§ 5º Os tributos arrecadados durante o “teste-piloto” deverão ser repassados para as contas indicadas pela Sefaz/MA.
+
+§ 6º Não haverá remuneração pelos serviços prestados durante o “teste piloto”.
+
+§ 7º A remuneração do agente arrecadador credenciado será definida no próprio contrato de prestação de serviço.
+
+§ 8º O valor limite por documento de arrecadação será o estabelecido entre a instituição bancária e o prestador de serviço de arrecadação por ela contratado.
+
+Art. 3º O contrato de prestação de serviço de que trata o § 1º do art. 2º deverá observar, além da legislação específica, os procedimentos contidos em atos normativos, e conter, no mínimo, os seguintes requisitos:
+
+I - o valor da remuneração dos serviços;
+II - o prazo de guarda pelo agente arrecadador das informações e dos documentos por ele autenticados;
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+III - o prazo do repasse do produto da arrecadação;
+IV - o prazo e forma de transmissão dos arquivos eletrônicos de pagamento;
+V - a indicação das infrações e penalidades correspondentes;
+VI - os procedimentos de arrecadação;
+VII - os procedimentos a serem adotados na hipótese de documento inconsistente;
+
+VIII - a obrigatoriedade de verificação da autenticidade do documento, convalidando-o ou não, pelo período de cinco anos, exceto na hipótese de citação judicial dispondo em contrário.
+
+Art. 4º A Unidade da Sefaz/MA responsável pelo controle e monitoramento do produto da arrecadação deve manter o sujeito passivo informado dos locais e meios de pagamento das receitas estaduais por meio do endereço eletrônico http://portal.sefaz.ma.gov.br/ e do Domicílio Tributário Eletrônico (DTE).
+
+Art. 5º Os estabelecimentos interessados para obtenção da condição de agente arrecadador deverão:
+
+I - possuir, no mínimo, dez agências em funcionamento no território do Estado;
+
+II - comprovar junto à Sefaz/MA que estão aptos a:
+a) receber tributos estaduais utilizando código de barras no padrão da Federação Brasileira de Bancos (FEBRABAN);
+
+b) transmitir arquivos a cada 15 minutos, bem como o arquivo consolidado, que deverá ser enviado no primeiro dia útil seguinte à data da arrecadação.
+
+Art. 6º O recebimento das receitas estaduais far-se-á da seguinte forma:
+I - por Documento de Arrecadação de Receita Estadual (DARE), específico ou consolidado;
+
+II - por Documento de Arrecadação de Receita Estadual – ICMS Combustível (DARE-IC), para recolhimento do imposto referente à importação de combustível;
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+III - por Guia Nacional de Recolhimento de Tributos Estaduais (GNRE), para o recolhimento de tributos efetuado em outra unidade da federação;
+
+IV - por Documento de Arrecadação do Simples Nacional (DAS), para o recolhimento relativo ao Simples Nacional;
+
+V - por troca de bases de dados entre a Sefaz/MA e o Agente Arrecadador.
+§ 1º Os documentos de que tratam os incisos I a IV obedecerão ao modelo de código de barras no padrão FEBRABAN.
+
+§ 2º O pagamento das receitas estaduais efetuado aos agentes arrecadadores da rede credenciada será em moeda corrente do País.
+
+§ 3º A GNRE será utilizada para pagamento em qualquer banco signatário do contrato de prestação de serviço na forma do Convênio firmado no âmbito do Conselho Nacional de Política Fazendária (CONFAZ).
+
+§ 4º O cálculo dos acréscimos legais pelo atraso do pagamento das receitas estaduais será efetuado pelos programas emissores dos documentos de arrecadação.
+
+§ 5º Caso o documento de arrecadação seja preenchido incorretamente e a receita tenha sido repassada à conta única do Estado, o contribuinte poderá solicitar a correção das informações de pagamento, desde que autorizado por ato normativo que regulamente a matéria.
+
+§ 6º A prestação de contas das informações relativas à arrecadação e do repasse correspondente, efetuada mediante DARE, DARE-IC, GNRE e DAS ou por acesso à base de dados, deverá ser feita por transmissão eletrônica de dados.
+
+§ 7º Os documentos de controle devem ser encaminhados, nos prazos estabelecidos por ato normativo próprio, à unidade da Sefaz/MA responsável pelo controle e monitoramento da arrecadação.
+
+§ 8º Os recebimentos efetuados por meio de DARE, DARE-IC, GNRE, DAS, ou por troca de bases de dados referentes a débitos que possuam conta corrente fiscal serão imputados em contas específicas para a quitação total ou parcial do débito.
+
+§ 9º O comprovante de agendamento emitido pelos agentes arrecadadores não deve ser considerado como comprovante de pagamento.
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 10. Não será permitido o estorno do pagamento depois de autenticado.
+§ 11. Verificada a ocorrência de erro após a autenticação do documento de arrecadação, que resulte em repasse a maior, o agente arrecadador deve solicitar a restituição do valor repassado indevidamente.
+
+§ 12. O agente arrecadador tem direito à restituição de valores quando o pagamento:
+
+I - for autenticado em duplicidade;
+II - for enviado em duplicidade no arquivo de arrecadação;
+III - for de entidade diversa da Sefaz/MA;
+IV - for efetivado por meio de fraude eletrônica.
+§ 13. A restituição dos valores repassados que tenham ocorrido por meio de fraude eletrônica será efetivada após:
+
+I - o envio das informações relativas ao documento de arrecadação e ao repasse do produto da arrecadação;
+
+II – o trânsito em julgado de sentença penal condenatória, comprovando que o pagamento foi efetuado por meio de fraude.
+
+Art. 7º A solicitação de informações para instruir o processo judicial de pagamento de tributo com indício de ter sido realizado mediante fraude deve ser formalizada:
+
+I - por meio de requerimento fundamentado e assinado pelo representante legal do agente arrecadador;
+
+II - com a informação de que o CPF ou CNPJ do correntista é diferente do constante no documento de arrecadação, quando for o caso;
+
+III - instruída com os seguintes documentos:
+a) comprovante de comunicação do ocorrido à autoridade policial, fornecido pelo correntista ou pelo agente arrecadador;
+
+<!-- p. 6 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+b) comprovante do débito indevido realizado na conta do correntista lesado;
+c) comprovante de depósito do mesmo valor, efetuado pelo agente arrecadador, demonstrando a devolução do valor ao correntista lesado;
+
+d) declaração do correntista lesado afirmando que não realizou o pagamento contestado;
+
+e) documento emitido pelo sistema bancário contendo o código de barras e a autenticação;
+
+f) informação do CPF dos integrantes do quadro societário, além do CNPJ, no caso de o correntista ser pessoa jurídica.
+
+Art. 8º Os valores restituídos em qualquer hipótese deverão ser deduzidos da conta corrente fiscal do contribuinte e registrados no Sistema de Arrecadação contendo ainda o número do processo e o parecer do setor competente.
+
+Art. 9º Compete à unidade da Sefaz/MA responsável pelo controle e monitoramento do produto da arrecadação:
+
+I - solicitar à FEBRABAN o código a ser utilizado na estrutura do código de barras;
+
+II - informar ao agente arrecadador as regras de validação do código de barras, quando aplicável;
+
+III - harmonizar a forma de transmissão dos arquivos de pagamentos a cada 15 minutos, bem como o consolidado, ambos no padrão FEBRABAN, com os agentes arrecadadores credenciados;
+
+IV - encaminhar aos agentes arrecadadores credenciados os documentos de arrecadação na fase de “teste piloto”, com vistas a testar a conformidade do código de barras;
+
+V - gerenciar o processo de arrecadação do Estado.
+§ 1º A Unidade da Sefaz prevista no caput deste artigo é responsável pela certificação do pagamento no Sistema de Arrecadação do Estado.
+
+<!-- p. 7 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 2 º Havendo qualquer inconsistência no processo de arrecadação, o fato deve ser imediatamente comunicado à unidade de que trata o caput, por escrito, com a juntada dos documentos comprobatórios correspondentes.
+
+Art. 10. O repasse do produto da arrecadação pelas agências centralizadoras de cada instituição financeira será realizado da seguinte forma:
+
+I - para a conta única do Estado, até as 15 horas do primeiro dia útil após a arrecadação, por meio de Transferência Eletrônica Disponível (TED), utilizando o Sistema de Transferência de Reservas (STR) do Banco Central do Brasil, através da mensagem STR0020, destinada à transferência de recursos financeiros, exceto no caso da Caixa Econômica Federal;
+
+II - para a conta da Caixa Econômica Federal (Ag. 0027, Conta corrente: 6000-0), pelo valor total arrecadado, quando o recolhimento for realizado por essa instituição financeira, observando os seguintes prazos:
+
+a) até as 15 horas do segundo dia útil seguinte à arrecadação, quando realizado através de Unidades Lotéricas (UL) e Correspondentes Caixa Aqui (CCA) vinculados à Caixa Econômica Federal;
+
+b) até as 15 horas do primeiro dia útil seguinte à arrecadação, quando realizado por agências ou outros canais da Caixa Econômica Federal não previstos na alínea anterior;
+
+III – no caso de arrecadação do DARE-IC, o repasse deverá ser feito para a conta ICMS – Combustível (Banco do Brasil, Agência 3846-6, Conta 21.000-5), até as 15 horas do dia útil seguinte à arrecadação.
+
+§ 1º O disposto no inciso I do caput deste artigo não se aplica aos recolhimentos realizados pelo Banco do Brasil, cujo repasse da arrecadação deve ser feito para a conta transitória do Banco do Brasil (Agência 3846-6, Conta 21.176-1), também até as 15 horas do primeiro dia útil após a arrecadação.
+
+§ 2º O Sistema de Arrecadação emitirá a Nota de Crédito, diariamente, por agente arrecadador e convênio para fins de controle dos valores arrecadados e conciliação financeira dos valores efetivamente creditados nas contas indicadas nos incisos I e II do caput deste artigo, que será disponibilizada por meio eletrônico à unidade de Acompanhamento da Receita e à Secretaria de Estado do Planejamento e Orçamento (Seplan/MA).
+
+<!-- p. 8 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 3º A unidade da Sefaz/MA responsável pelo gerenciamento do processo de arrecadação, após realizar as deduções referentes a honorários, restituições, Programa Nota Legal e outras deduções especificadas na Nota de Crédito do Banco do Brasil (DARE/GNRE), deverá repassar diariamente o saldo restante da arrecadação, depositado na Conta Transitória (Banco do Brasil, agência 3846-6, conta 21.176-1), para a conta única do Estado.
+
+§ 4º Em se tratando de multas de trânsito, cabe à Sefaz/MA repassar, semanalmente, as parcelas para cada beneficiário, incluindo o Fundo Nacional de Segurança e Educação de Trânsito (FUNSET), em conformidade com o relatório de repasse de multas municipais e estaduais, emitido pelo sistema de arrecadação do Estado.
+
+§ 5º No caso de multas interestaduais RENAINF, cabe à Sefaz/MA repassar mensalmente o valor arrecadado a cada beneficiário, enquanto o agente arrecadador deve repassar diretamente ao Fundo Nacional de Segurança e Educação de Trânsito (FUNSET) o percentual de 5% do valor arrecadado diariamente.
+
+§ 6º A forma de cálculo para fins do repasse previsto nos § 4º e § 5º obedecerá às regras definidas pelo Departamento Estadual de Trânsito (Detran/MA), na estrutura da composição do código de barras.
+
+§ 7º No caso de arrecadação referente ao Simples Nacional, o repasse será realizado pelo agente centralizador por meio de Transferência Eletrônica Disponível (TED), com a finalidade “40 – Simples Nacional”, conforme os termos e prazos estabelecidos na legislação federal.
+
+§ 8º Compete ao agente centralizador creditar, em conta específica, a parcela dos impostos destinada a cada município, bem como a parcela destinada ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB).
+
+§ 9º Da parcela do produto da arrecadação das seguintes receitas tributárias, 20% (vinte por cento) serão destinadas ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB), conforme a Lei nº 14.113, de 25 de dezembro de 2020:
+
+I – impostos destinados ao Estado (ICMS, IPVA e ITCD);
+II - impostos destinados aos municípios (ICMS e IPVA).
+
+<!-- p. 9 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 11. A emissão do Documento de Arrecadação com código de barras no padrão FEBRABAN deverá ser realizada pelo sujeito passivo, utilizando:
+
+I - DARE, para empresas estabelecidas no Estado;
+II - GNRE, para empresas estabelecidas em outras unidades da Federação;
+III - DAS, para empresas enquadradas no Simples Nacional;
+IV - DARE-IC, para recolhimento do ICMS relativo à importação de combustíveis;
+
+V - troca de base de dados entre a Sefaz e o agente arrecadador.
+§ 1º O DARE e o DARE-IC devem ser emitidos acessando o site da Sefaz/MA, seguindo as regras de validação específicas para cada código de receita.
+
+§ 2º A GNRE será emitida acessando o site da Secretaria da Fazenda de Pernambuco ou por meio de link disponível no site da Sefaz/MA, obedecendo às regras de validação do sistema emissor nacional, assim como às regras próprias do Estado do Maranhão para cada receita.
+
+§ 3º Nos pagamentos realizados via GNRE, após o recebimento dos arquivos, os códigos de receita serão convertidos para os códigos de receita estaduais equivalentes, conforme o Anexo II desta Portaria.
+
+§ 4º O DAS será emitido por meio do programa disponibilizado pela Receita Federal do Brasil (RFB), conforme as regras de validação próprias.
+
+§ 5º Após o recebimento dos arquivos de pagamentos via DAS, esses serão convertidos para o código de receita 111.
+
+§ 6º O repasse das informações de arrecadação para a Seplan/MA será realizado diariamente, preferencialmente por meio eletrônico, contendo dados da Nota de Crédito e Repartição das Transferências Constitucionais (RTC).
+
+Art. 12. A prestação de contas da arrecadação pelos agentes arrecadadores incluirá:
+
+<!-- p. 10 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+I - a remessa eletrônica das informações de pagamento, utilizando o layout padrão FEBRABAN, em até 15 minutos após a autenticação, via agente centralizador, inclusive aos sábados, domingos e feriados;
+
+II - a remessa do arquivo consolidado até as 13 horas do primeiro dia útil seguinte à data da arrecadação, exceto para o Simples Nacional, cujo prazo é o segundo dia útil após a arrecadação;
+
+III - a guarda das informações dos pagamentos realizados;
+IV - a apresentação de arquivo consolidado diariamente, inclusive quando não houver pagamentos.
+
+§ 1º Nas transferências de arquivos de pagamento é vedada a repetição ou omissão de registros.
+
+§ 2º Nos dias em que não houver recebimento de pagamentos pelo agente arrecadador, o arquivo consolidado deverá ser enviado zerado para evitar omissão.
+
+Art. 13. As receitas estaduais podem ser pagas por meio de qualquer agente arrecadador credenciado.
+
+Art. 14. O sistema informatizado do agente arrecadador deve:
+I - ser capaz de realizar a leitura do código de barras e inibir o recebimento de documento inválido ou inconsistente;
+
+II - permitir a autenticação somente se o valor a ser autenticado for igual ao valor constante no código de barras;
+
+III - verificar a consistência das informações por meio do sistema eletrônico de processamento de dados, de acordo com as especificações contidas em ato normativo da Sefaz/MA.
+
+Parágrafo único O recebimento de receitas estaduais em desacordo com as especificações indicadas nesta Portaria implica a responsabilidade direta do agente arrecadador quanto aos danos que vierem a causar ao erário, sem prejuízo das penalidades administrativas, civis e penais cabíveis.
+
+Art. 15. O comprovante de pagamento no documento de receitas estaduais deve conter, no mínimo:
+
+<!-- p. 11 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+I - a sigla do agente arrecadador;
+II - a indicação da agência bancária;
+III - o número do terminal;
+IV - o número da autenticação ou o Número Sequencial Único (NSU) diário da operação;
+
+V - a data;
+VI - o valor autenticado do documento de arrecadação, com modelo padrão definido pela FEBRABAN;
+
+VII - o código de barras.
+§ 1º O comprovante de pagamento, quando realizado por meio de internet, terminal de autoatendimento ou outros meios eletrônicos, deve conter, no mínimo, os dados especificados nos incisos I a VII.
+
+§ 2º Quando o pagamento de receitas for realizado por meio de link de site de agente arrecadador, integrado ao banco de dados da Sefaz/MA, o comprovante de pagamento contendo a autenticação deve estar disponível para impressão imediatamente após a confirmação do pagamento.
+
+§ 3º O agente arrecadador deve disponibilizar ao sujeito passivo o comprovante de pagamento contendo os dados definidos nos incisos de I a VII.
+
+§ 4º É vedado ao agente arrecadador estornar, cancelar ou debitar valores autenticados, quando encaminhados nas remessas eletrônicas a cada quinze minutos.
+
+§ 5º Na hipótese de apresentação de documento de arrecadação autenticado, mas sem registro no Sistema em até cinco anos a partir da data da autenticação, a Sefaz/MA deverá notificar o agente arrecadador, solicitando a confirmação da legitimidade da autenticação. O agente arrecadador terá um prazo de 30 dias, prorrogável por igual período, a contar da data de recebimento da solicitação, para fornecer essa certificação.
+
+§ 6º O Número Sequencial Único (NSU) deve ser transferido e agrupado ao arquivo das informações dos documentos de arrecadação, conforme layout no padrão FEBRABAN.
+
+<!-- p. 12 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 16. Os agentes arrecadadores credenciados deverão:
+I - observar as instruções baixadas pela Sefaz/MA;
+II - permitir ao órgão de controle mencionado neste instrumento a verificação periódica ou eventual dos créditos registrados e oriundos da arrecadação e/ou recolhimento das receitas para efeito de fiscalização do fluxo de numerário em favor do Estado.
+
+Art. 17. Fica revogada a Portaria nº 351/2016.
+Art. 18. Esta Portaria entra em vigor na data de sua publicação.
+DÊ CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA DO MARANHÃO, EM SÃO LUÍS, 30 DE OUTUBRO DE 2024.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+
+ANEXO: I
+
+TERMO DE COMPROMISSO
+
+O Agente Arrecadador e seus respectivos estabelecimentos firmam, com a Sefaz/MA, compromisso objetivando a realização do “teste-piloto” para recebimento, captação e repasse de receitas e suas informações devidas ao Estado, por meio XXXXXXXXXXX
+
+A este termo de compromisso aplicar-se-ão os procedimentos consignados nesta Portaria, observada a legislação específica para captura eletrônica da XXXXXXX e do XXXXXXXXX, e as condições estabelecidas no padrão FEBRABAN de código de barras.
+SECRETARIA ESTADUAL DA FAZENDA/MA CGC / MF nº :
+ENDEREÇO:
+CEP nº :
+
+<!-- p. 13 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+AGENTE ARRECADADOR:
+CGC / MF nº:
+ENDEREÇO:
+CEP: CIDADE: UF:
+Cidade, ............................................. de........................................de ............... (Assinatura com firma reconhecida do representante do Agente Arrecadador). (Assinatura com firma reconhecida do Secretário de Estado da Fazenda do Maranhão).
+
+ANEXO: II
+
+GNRE – CÓDIGOS DE RECEITAS
+
+CÓDIGO
+
+GNRE
+
+DESCRIÇÃO CÓDIGO DE
+
+RECEITA 10001-3 ICMS Comunicação
+101 10002-1 ICMS Energia Elétrica
+101 10003-0 ICMS Transporte
+101 10004-8 ICMS Substituição Tributária por Apuração
+602 10005-6 ICMS Importação
+115 10006-4 ICMS Autuação Fiscal
+102 10007-2 ICMS Parcelamento
+104 10008-0 ICMS Recolhimentos Especiais
+101 10009-9 ICMS Subst. Tributária por Operação
+602 10011-0 ICMS Consumidor Final Não Contribuinte Outra UF por Apuração
+
+604
+
+10010-2 ICMS Consumidor Final Não Contribuinte Outra UF por operação
+
+604
+
+10013-7 ICMS Fundo Estadual de Combate à Pobreza por Apuração
+
+110
+
+10012-9 ICMS Fundo Estadual de Combate à Pobreza por operação
+
+110
+
+15001-0 ICMS Dívida Ativa
+107 50001-1 Multa p/ infração à obrigação
+102 60001-6 Taxa
+201
+
+<!-- p. 14 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+<<<DOC normas/portaria/portaria-449-2021-20321.md>>>
+---
+documento: "PORTARIA Nº 449, DE 14 DE OUTUBRO DE 2021"
+tipo: portaria
+numero: 449
+data: "2021-10-14"
+ementa: "Dispõe sobre limites de alçada para autorização de pagamento de requerimento de restituição de tributo, bem como delegação de competência, de que trata o parágrafo único do art. 243-B da Lei 7.799, de 19 de dezembro de 2002."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=63a705d8-e352-47dd-8b70-947a679bd11b
+atualizado_na_fonte: "2026-10-19 09:42:44"
+extraido_em: "2026-11-18"
+remete_a: "CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 6.6
+---
+
+# PORTARIA Nº 449, DE 14 DE OUTUBRO DE 2021
+
+_Dispõe sobre limites de alçada para autorização de pagamento de requerimento de restituição de tributo, bem como delegação de competência, de que trata o parágrafo único do art. 243-B da Lei 7.799, de 19 de dezembro de 2002._
+
+**Data:** 2021-10-14  
+**Remete a:** CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 449/2021-GABIN DOE nº 196, de 19.10.21 (Alterada pela Portaria 110/26)
+
+SÃO LUÍS, 14 DE OUTUBRO DE 2021.
+
+Dispõe sobre limites de alçada para autorização de pagamento de requerimento de restituição de tributo, bem como delegação de competência, de que trata o parágrafo único do art. 243-B da Lei 7.799, de 19 de dezembro de 2002.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições, e, Considerando o disposto no parágrafo único do art. 243-B da Lei nº 7.799, de 19 de dezembro de 2021, com a redação dada pela Medida Provisória 358, de 09 de julho de 2021, convertida na Lei nº 11.522, de 11 de agosto de 2021,
+
+Considerando a necessidade de aprimoramento contínuo dos serviços desta Secretaria de Estado da Fazenda, propiciando eficiência e rapidez na entrega de seus resultados,
+
+
+RESOLVE:
+Art. 1º A restituição de tributo será feita pela área da Secretaria de Estado da Fazenda - SEFAZ competente para a sua fiscalização, observados os limites de alçada para autorização de pagamento de requerimento de restituição de tributo, bem como delegação de competência, estabelecidos nesta Portaria.
+
+Art. 2º A autorização de pagamento de requerimento de restituição de ICMS, inclusive multa, juros e demais encargos, compete:
+
+I – aos gestores das Unidades de Fiscalização Regionais, da Unidade de Fiscalização dos Grandes Contribuintes e da Unidade de Fiscalização da Substituição Tributária, quando o montante a ser restituído for igual ou inferior a 10 (dez) salários mínimos em vigor na data do deferimento do requerimento de restituição;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+~~II - ao gestor da CEGAF/COTAF/Fiscalização de Estabelecimentos, quando o montante a ser restituído for superior a 10 (dez) e igual ou inferior a 100 (cem) salários mínimos em vigor na data do deferimento do requerimento de restituição;~~
+
+II – ao gestor da CEGAF/COTAF/Fiscalização de Estabelecimentos, quando o montante a ser restituído for superior a 10 (dez) e igual ou inferior a 100 (cem) salários-mínimos em vigor na data do deferimento do requerimento de restituição, podendo essa competência ser delegada, mediante ato formal, a Auditor Fiscal da Receita Estadual.
+
+(NR – Portaria 110/26)
+III – ao Secretário de Estado da Fazenda, quando o montante a ser restituído for superior a 100 (cem) salários mínimos em vigor na data do deferimento do requerimento de restituição.
+
+§ 1º A delegação prevista no inciso II do caput deste artigo deverá ser formalizada por ato específico do gestor da CEGAF/COTAF/Fiscalização de Estabelecimentos, com indicação expressa do Auditor Fiscal delegado.
+
+(AC – Portaria 110/26)
+Art. 3º A autorização de pagamento de requerimento de restituição de IPVA e ITCD, inclusive multa, juros e demais encargos, compete:
+
+I – ao gestor do Corpo Técnico para a Arrecadação – COTEA, quando o montante a ser restituído for igual ou inferior a 10 (dez) salários mínimos em vigor na data do deferimento do requerimento de restituição;
+
+II - ao Secretário de Estado da Fazenda, quando o montante a ser restituído for superior a 10 (dez) salários mínimos em vigor na data do deferimento do requerimento de restituição.
+
+Art. 4º A autorização de pagamento de requerimento de restituição de taxas pagas em favor da SEFAZ, inclusive multa, juros e demais encargos, compete ao gestor do Corpo Técnico para a Arrecadação – COTEA.
+
+Art. 5º Fica revogada a Portaria nº 247/2021 - GABIN, de 02 de julho de 2021.
+
+Art. 6º Esta Portaria entra em vigor na data de sua publicação.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-449-2023-21026.md>>>
+---
+documento: "PORTARIA Nº 449, DE 02 DE OUTUBRO DE 2023"
+tipo: portaria
+numero: 449
+data: "2023-10-02"
+ementa: "Dispõe sobre a concessão de crédito presumido de ICMS, nas opera- ções internas de saída de óleo diesel e biodiesel, destinados a empresa concessionária ou permissionária de transporte coletivo de passageiros, de que trata o art. 11 do Anexo 1.5 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0da140f3-675c-41ef-a55c-bef7affd84b6
+atualizado_na_fonte: "2026-10-15 10:15:37"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.5, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 449, DE 02 DE OUTUBRO DE 2023
+
+_Dispõe sobre a concessão de crédito presumido de ICMS, nas opera- ções internas de saída de óleo diesel e biodiesel, destinados a empresa concessionária ou permissionária de transporte coletivo de passageiros, de que trata o art. 11 do Anexo 1.5 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003._
+
+**Data:** 2023-10-02  
+**Remete a:** Anexo 1.5, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+PORTARIA Nº 449/2023 – GABIN
+
+DOE Nº 186, DE 06.10.23
+
+São Luís (MA), 2 de outubro de 2023
+
+Dispõe sobre a concessão de crédito presumido de ICMS, nas opera- ções internas de saída de óleo diesel e biodiesel, destinados a empresa concessionária ou permissionária de transporte coletivo de passageiros, de que trata o art. 11 do Anexo 1.5 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe conferem o art. 69, II, da Constituição do Estado do Maranhão, e o art. 3º, inc. I, c/c o art. 40, inc. IV, da Lei Estadual nº 10.151, de 23/10/2014,
+
+RESOLVE:
+
+Art. 1º De forma excepcional, para atender ao interesse público, durante o período de outubro de 2023, será concedido às empresas constantes no anexo único desta Portaria o benefício fiscal previsto no inciso II do art. 11 do Anexo 1.5 do RICMS/MA.
+
+Art. 2º Esta portaria entra em vigor na data de sua publicação, retroagindo seus efeitos a 01/10/2023.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA DO MARANHÃO, EM SÃO LUÍS, 02 DE OUTUBRO DE 2023.
+
+Marcellus Ribeiro Alves Secretário de Estado da Fazenda
+
+ANEXO ÚNICO EMPRESA CNPJ IE PERÍO DO
+
+KM (mensal)
+
+QUOTA MENSAL (L) AUTOVIARIA MATOS LTDA 5740287000100 126402400 out./23 98.449,70 47.002 EXPRESSO GRAPIUNA LTDA
+
+27958067000190 126420505 out./23 558.044,70 223.218
+
+EXPRESSO REI DE FRANCA LTDA
+
+15293907000163 124407927 out./23 898.852,40 413.472
+
+RIO ANIL TRANSPORTE E LOGISTICA LTDA 6997310000109 126483787 out./23 896.619 400.617
+
+RIO ANIL TRANSPORTE E LOGISTICA LTDA 6997310000290 124853064 out./23 510.001 244.326
+
+VIPER TRANSPORTE E TURISMO LTDA 10617301000112 123114675 out./23 127.639 62.756
+<<<DOC normas/portaria/portaria-450-2015-15334.md>>>
+---
+documento: "PORTARIA Nº 450, DE 22 DE SETEMBRO DE 2015"
+tipo: portaria
+numero: 450
+data: "2015-09-22"
+ementa: "Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cb03376e-f111-4d45-8f3d-37a5d864a335
+atualizado_na_fonte: "2026-10-27 18:18:21"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 450, DE 22 DE SETEMBRO DE 2015
+
+_Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado._
+
+**Data:** 2015-09-22  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 450/15 - GABIN DE 22 DE SETEMBRO 2015
+
+Edição: 181 Publicação: 30/09/2015
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+R E S O L V E:
+Art. 1º Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado.
+
+
+PRODUTO UNIDADE VALOR R$
+
+Cimento sc 21,50
+
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luis 22 de setembro 2015
+
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-451-2015-15335.md>>>
+---
+documento: "PORTARIA Nº 451, DE 22 DE SETEMBRO DE 2015"
+tipo: portaria
+numero: 451
+data: "2015-09-21"
+ementa: "Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=80e614fc-e11a-476b-a05f-c70a827e1e0d
+atualizado_na_fonte: "2026-10-27 18:18:12"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 451, DE 22 DE SETEMBRO DE 2015
+
+_Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado._
+
+**Data:** 2015-09-21 (data no portal: 2015-09-22 (divergente do PDF))  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 451/15 - GABIN DE 21 DE SETEMBRO 2015
+
+Edição: 181 Publicação: 30/09/2015
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+R E S O L V E:
+Art. 1º Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado.
+
+
+PRODUTO UNIDADE VALOR R$
+
+Carvão Vegetal- po. intena M³ 90,00
+
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luis 21 de setembro 2015
+
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-451-2016-16145.md>>>
+---
+documento: "PORTARIA Nº 451, DE 01 DE SETEMBRO DE 2016"
+tipo: portaria
+numero: 451
+data: "2016-09-01"
+ementa: "Dispõe sobre o Sistema de Arrecadação do Estado e dá outras providências."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=673b71db-e85f-4a1c-92bf-b15e52362170
+atualizado_na_fonte: "2026-10-13 14:13:53"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 451, DE 01 DE SETEMBRO DE 2016
+
+_Dispõe sobre o Sistema de Arrecadação do Estado e dá outras providências._
+
+**Data:** 2016-09-01  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 351/16 - GABIN
+
+SÃO LUÍS, 01 DE SETEMBRO DE 2016.
+
+Dispõe sobre o Sistema de Arrecadação do Estado e dá outras providências.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe conferem os incisos I, V e XVII do art. 3º da Lei nº 10.151 de 23 de outubro de 2014.
+
+R E S O L V E:
+Art. 1º Fica consolidada a legislação que dispõe sobre o Sistema de Arrecadação do Estado do Maranhão.
+
+Parágrafo único. O Sistema de Arrecadação Estadual é de competência exclusiva da Secretaria de Estado da Fazenda.
+
+Art. 2º O Sistema de Arrecadação Estadual compõe-se:
+
+I – do agente arrecadador e centralizador das receitas estaduais;
+
+II – de outros agentes arrecadadores credenciados;
+
+III – da prestação dos serviços de arrecadação de receitas estaduais e suas extensões, assim entendidas:
+
+a) a agência bancária, o terminal de autoatendimento e a internet;
+
+b) a agência lotérica da Caixa Econômica Federal – CEF;
+
+c) os correspondentes bancários;
+
+d) outros pontos de atendimentos bancário interligados em rede de computadores centrais
+
+dos agentes arrecadadores credenciados; e,
+
+e) cooperativas de crédito, quando acionista de banco cooperativo.
+
+§ 1º A admissão do agente arrecadador credenciado se fará por meio de contrato de prestação de serviço celebrado por intermédio da Secretaria de Estado da Fazenda.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 2º A celebração do contrato de que trata o § 1º ficará condicionada à homologação do sistema a ser desenvolvido para os devidos fins pelo agente arrecadador credenciado.
+
+§ 3º A homologação de que trata o § 2º dependerá da adequação técnica do sistema, que será aferida através da realização de um “teste piloto”, com duração de até 90 dias.
+
+§ 4º Para fins da aferição da adequação técnica do sistema a ser desenvolvido pelo agente arrecadador, observar-se-á:
+
+a) a recepção de dez remessas consecutivas ou vinte alternadas, desde que a arrecadação dos dias 10 e 20 estejam contidas nas respectivas remessas;
+
+b) o saneamento de quaisquer inconsistências detectadas em relação ao conteúdo ou à especificação técnica do arquivo, contados da primeira remessa de dados;
+
+c) a assinatura de termo de compromisso (Anexo I).
+
+§ 5º Os tributos arrecadados durante o “teste-piloto” deverão ser repassados para as contas indicadas na Nota de Crédito (NC).
+
+§ 6º Não haverá remuneração pelos serviços prestados durante o “teste piloto”.
+
+§ 7º A remuneração do agente arrecadador credenciado será definida no próprio contrato de prestação de serviço.
+
+§ 8º O valor limite por documento de arrecadação será o estabelecido entre a instituição bancária e o prestador de serviço de arrecadação por ela contratado.
+
+Art. 3º O contrato de prestação de serviço de que trata o § 1º do art. 2º deverá observar, além da legislação específica, os procedimentos contidos em atos normativos e conter, no mínimo, os seguintes requisitos:
+
+a) o valor da remuneração dos serviços;
+
+b) o prazo de guarda pelo agente arrecadador das informações e dos documentos por ele
+
+autenticados;
+
+c) o prazo do repasse do produto da arrecadação;
+
+d) o prazo e forma de transmissão dos arquivos eletrônicos de pagamento;
+
+e) a indicação das infrações e penalidades correspondentes;
+
+f) os procedimentos de arrecadação;
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+g) os procedimentos a serem adotados na hipótese de documento inconsistente;
+
+h) a obrigatoriedade da verificação da autenticidade do documento, convalidando-o ou não,
+
+pelo período de cinco anos, exceto na hipótese de citação judicial dispondo em contrário.
+Art. 4º A Unidade da Secretaria de Estado da Fazenda responsável pelo controle e monitoramento do produto da arrecadação deve manter o sujeito passivo informado dos locais e meios de pagamento das receitas estaduais por meio do endereço eletrônico http://portal.sefaz.ma.gov.br/ e do Domicílio Tributário Eletrônico (DTE).
+
+Art. 5º Os estabelecimentos interessados para obtenção da condição de agente arrecadador deverão:
+I - possuir, no mínimo, dez agências em funcionamento no território do Estado;
+
+II - comprovar junto à Secretaria de Estado da Fazenda que estão aptos:
+
+a) ao recebimento de tributos estaduais com código de barras no padrão da Federação Brasileira dos Bancos – FEBRABAN;
+
+b) à transmissão de arquivos a cada 15 minutos e do arquivo consolidado no primeiro dia útil seguinte ao da data da arrecadação.
+
+Art. 6º O recebimento das receitas estaduais far-se-á da seguinte forma:
+
+I – por Documento de Arrecadação de Receita Estadual (DARE), específico ou consolidado;
+
+II – por Guia Nacional de Recolhimento de Tributos Estaduais (GNRE), para o recolhimento de tributos efetuado em outra unidade da federação;
+
+III – por Documento de Arrecadação do Simples Nacional (DAS), para o recolhimento relativo ao Simples Nacional;
+
+IV – por troca de bases de dados entre a SEFAZ e o Agente Arrecadador.
+
+§ 1º Os documentos de que tratam os incisos I a IV obedecerão ao modelo de código de barra no padrão FEBRABAN.
+
+§ 2º O pagamento dos tributos estaduais efetuado nos agentes arrecadadores da rede credenciada será em moeda corrente do País.
+
+§ 3º Os recebimentos de cheques serão de inteira responsabilidade dos agentes arrecadadores.
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 4º A GNRE será utilizada para pagamento em qualquer banco signatário do contrato de prestação de serviço na forma do Convênio de Arrecadação 01/98, alterado pelo Convênio 01/99.
+
+§ 5º O agente arrecadador não poderá:
+
+I - receber GNRE/DARE que contenha rasura, emenda ou omissão que impossibilite a realização dos testes de consistência previstos em atos normativos próprios;
+
+II - efetuar qualquer modificação no documento;
+
+III - adotar procedimento com o objetivo de anulação ou alteração da receita.
+
+§ 6º O cálculo dos acréscimos legais pelo atraso do pagamento das receitas estaduais será efetuado pelos programas emissores dos documentos de arrecadação.
+
+§ 7º Quando o documento de arrecadação for incorretamente preenchido e a receita tiver sido repassada à conta única do Estado, o contribuinte poderá solicitar a correção das informações do pagamento, desde que seja permitido por ato normativo que disponha sobre correção de pagamento.
+
+§ 8º A prestação de contas das informações relativas à arrecadação e do repasse correspondente, efetuada mediante DARE, GNRE e DAS ou por acesso à base de dados, deverá ser feita por transmissão eletrônica de dados.
+
+§ 9º Os documentos de controle serão encaminhados nos prazos estabelecidos em ato normativo próprio à Unidade da Secretaria de Estado da Fazenda responsável pelo controle e monitoramento do produto da arrecadação.
+
+§ 10 Os recebimentos realizados por meio de DARE, GNRE, DAS e por troca de bases de dados, de débitos que possuam conta corrente fiscal, serão imputados em contas específicas para quitação total ou parcial do débito, conforme demonstrado no Anexo II, desta portaria.
+
+§ 11 O comprovante de agendamento emitido pelos agentes arrecadadores não deve ser considerado como comprovante de pagamento.
+
+§ 12 Não será permitido o estorno do pagamento depois de autenticado, exceto se solicitado pelo agente arrecadador e autorizado pela Secretaria de Estado da Fazenda, antes do repasse do produto da arrecadação.
+
+§ 13 Verificada a ocorrência de erro após a autenticação do documento de arrecadação, que resulte em repasse a maior, o agente arrecadador deve solicitar a restituição do valor repassado indevidamente.
+
+§ 14 O agente arrecadador tem direito à restituição de valores quando o pagamento:
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+I - for autenticado em duplicidade;
+
+II - for enviado em duplicidade no arquivo de arrecadação;
+
+III - for de entidade diversa da Secretaria de Estado da Fazenda;
+
+IV - for efetivado por meio de fraude eletrônica.
+
+§ 15 A restituição dos valores repassados que tenham ocorrido por meio de fraude eletrônica será efetivada após:
+
+I – o envio das informações relativas ao documento de arrecadação e ao repasse do produto da arrecadação;
+
+II – do trânsito em julgado de sentença penal condenatória, comprovando que o pagamento foi efetuado por meio de fraude.
+
+Art. 7º A solicitação de informações para instruir o processo judicial de pagamento de tributo com indicio de ter sido realizado mediante fraude deve ser formalizada:
+
+I - por meio de requerimento fundamentado e assinado pelo representante legal do agente arrecadador;
+
+II - com a informação de que o CPF ou CNPJ do correntista é diferente do constante no documento de arrecadação, quando for o caso;
+
+III - instruída com os seguintes documentos:
+
+a) comprovante de comunicação do feito a autoridade policial pelo correntista ou pelo agente arrecadador;
+
+b) comprovante do débito indevido efetuado na conta do correntista lesado;
+
+c) comprovante de deposito de idêntico valor, efetuado pelo agente arrecadador, demonstrando a devolução do valor para o correntista lesado;
+
+d) declaração do correntista lesado de que não efetuou o pagamento questionado;
+
+e) documento do sistema bancário contendo a barra e a autenticação.
+
+f) informação do CPF dos componentes do quadro societário, além do CNPJ, caso o correntista seja pessoa jurídica.
+
+Art. 8º Os valores restituídos em qualquer hipótese deverão ser deduzidos da conta corrente fiscal do contribuinte e registrados no Sistema de Arrecadação contendo ainda número do processo e o parecer do setor competente.
+
+<!-- p. 6 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 9º É de responsabilidade dos servidores da Unidade da Secretaria de Estado da Fazenda responsável pelo controle e monitoramento do produto da arrecadação:
+
+I - solicitar junto a FEBRABAN o código a ser utilizado na estrutura da barra;
+II - informar ao agente arrecadador as regras de validação do código de barra, quando for o caso;
+III - harmonizar a forma de transmissão dos arquivos de pagamentos a cada 15 minutos, bem como o consolidado, ambos no padrão FEBRABAN, com os agentes arrecadadores credenciados;
+IV - encaminhar aos agentes arrecadadores credenciados os documentos de arrecadação na fase de “teste piloto”, com vistas a testar a conformidade do código de barras;
+V - gerenciar o processo de arrecadação do Estado.
+Art. 10 É de responsabilidade dos servidores da Secretaria de Estado da Fazenda a certificação do pagamento no Sistema de Arrecadação do Estado.
+
+Parágrafo único Havendo qualquer inconsistência no processo de arrecadação, o fato deve ser imediatamente comunicado à unidade de que trata o caput, por escrito, com a juntada dos documentos comprobatórios correspondentes.
+
+Art. 11 O repasse do produto da arrecadação pelas agências arrecadadoras e seus prepostos para a conta única do Estado, em um mesmo dia, será efetuado:
+
+I - pela agência centralizadora do agente arrecadador, por meio de Transferência Eletrônica Disponível – TED, no sistema de reserva de catálogo do Banco Central, na modalidade da mensagem STR0020, utilizada para a transferência de recursos financeiros no prazo determinado em ato normativo;
+
+II - pelo valor total arrecadado e informado na Nota de Crédito, Anexo III, até às quinze horas do primeiro dia útil seguinte ao da data da arrecadação.
+
+§ 1º O agente centralizador repassará o valor por ele arrecadado para a conta única do Estado, com as deduções referentes aos processos de restituição, ao Programa Nota Legal e demais deduções discriminadas na NC.
+
+§ 2º Em se tratando de multas de trânsito e do Fundo Nacional de Segurança e Educação de Trânsito (FUNSET), cabe ao agente centralizador repassar as parcelas para cada ente, após o recebimento dos relatórios discriminando os dados do repasse, emitido pelo sistema de arrecadação do Estado.
+
+<!-- p. 7 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 3º A forma de cálculo para fins do repasse previsto no § 2º obedecerá as regras definidas pelo Departamento Estadual de Trânsito (DETRAN), na estrutura da composição do código de barras.
+
+§ 4º Na hipótese de arrecadação relativa ao Simples Nacional, o repasse será efetuado pelo agente centralizador, por meio de Transferência Eletrônica Disponível – TED, com a finalidade 40 – Simples Nacional, observados os termos e prazos definidos na legislação federal.
+
+§ 5º O agente centralizador disponibilizará, em documentos físico ou eletrônico, o seguinte:
+
+I – extrato de contas;
+
+II - informações da STR0020 lançadas na conta única do Estado.
+
+§ 6º O agente centralizador repassará 25% (vinte e cinco por cento) do produto da arrecadação para os municípios, quando se tratar de ICMS, e 50% do IPVA.
+
+§ 7º A forma de cálculo, para fins do repasse previsto no § 6º, obedecerá ao disposto no Anexo IV, sendo calculado pelo Sistema de Arrecadação do Estado e informado no Relatório de Repartição das Transferências Constitucionais (RTC), até o segundo dia útil de cada semana.
+
+§ 8º Cabe ao agente centralizador creditar em conta especifica a parcela pertencente a cada município, bem como a parcela destinada ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB).
+
+§ 9º A Nota de Crédito, prevista no inciso II do caput, será emitida em três vias e terão a seguinte destinação:
+
+I - a primeira via, à Secretaria de Planejamento e orçamento;
+II - a segunda via, ao agente arrecadador e centralizador; e,
+III - a terceira via, à Unidade da Secretaria de Estado da Fazenda responsável pelo controle e monitoramento do produto da arrecadação.
+
+Art. 12. A emissão do Documento de Arrecadação, com código de barras no padrão FEBRABAN, deverá ser feita pelo sujeito passivo, utilizando:
+
+I – DARE, para empresas estabelecidas no Estado;
+
+II – GNRE, para empresas estabelecidas em outra unidade da Federação;
+
+<!-- p. 8 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+III – DAS, para empresas enquadradas no Simples Nacional;
+
+IV - troca de base de dados entre a Sefaz e o agente arrecadador.
+
+§ 1º O DARE será emitido acessando o site da Secretaria de Estado da Fazenda, obedecendo as regras de validação própria para cada código de receita.
+
+§ 2º A GNRE será emitida acessando o site da Secretaria da Fazenda de Pernambuco ou por meio de link disponível no site da Secretaria de Estado da Fazenda, obedecendo as regras de validação do sistema emissor Nacional, bem como as regras de validação própria do Estado do Maranhão, para cada receita.
+
+§ 3º Nos pagamentos realizados por intermédio da GNRE, após o recebimento dos arquivos, os códigos de receitas serão migrados para os códigos de receitas estaduais equivalentes, na forma do Anexo II, item 2, desta portaria.
+
+§ 4º O DAS será emitido por meio do programa disponibilizado pela Receita Federal do Brasil - RFB, obedecendo a regras próprias de validação.
+
+§ 5º Os pagamentos realizados por intermédio do DAS, após o recebimento dos arquivos, serão migrados para código de receita 111, na forma do Anexo II, item 3, desta portaria.
+
+§ 6º O repasse das informações da arrecadação para a SEPLAN será realizado diariamente por meio de arquivos eletrônicos contendo dados da RTC diária.
+
+Art. 13. A prestação de contas da arrecadação pelos agentes arrecadadores compreende:
+
+I - a remessa eletrônica das informações do pagamento, utilizando o layout no padrão FEBRABAN, em até 15 minutos, contados de sua autenticação, via agente centralizador, inclusive aos sábados, domingos e feriados.
+II - a remessa do arquivo consolidado em até 12 horas contados do 1º dia útil seguinte a data da arrecadação, exceto o Simples Nacional que ocorre no 2º dia útil seguinte a data da arrecadação;
+III - a guarda das informações do pagamento.
+§ 1º Nas transferências de arquivos de pagamento fica vedado a repetição ou omissão de registros, bem como as transferências de arquivos vazios ou zerados.
+§ 2º No caso das inconsistências do arquivo de pagamento, quando forem efetuados por meio de débito em conta corrente, internet, terminais de autoatendimento e outro meio eletrônico de
+
+<!-- p. 9 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+pagamento, o agente arrecadador deverá solicitar uma via do documento de arrecadação ao cliente, enviando-a à Secretaria de Estado da Fazenda.
+Art. 14. As receitas estaduais podem ser pagas em qualquer agente arrecadador credenciado.
+
+§ 1º Antes de proceder ao recebimento da receita, o funcionário do agente arrecadador deve verificar se o documento de arrecadação:
+
+I - é o indicado para o pagamento da receita;
+II - possui o código de barra ou a linha digital para a sua leitura eletrônica no padrão FEBRABAN;
+III - está íntegro e preenchido de forma legível, sem emendas ou rasuras e na quantidade correta de vias;
+§ 2º O agente arrecadador deve orientar o sujeito passivo a apresentar um novo documento de arrecadação quando for detectada alguma incorreção em seu preenchimento.
+
+§ 3º O Sistema Informatizado do Agente arrecadador deve:
+
+I – ser capaz de realizar a leitura do código de barras e inibir o recebimento de documento inválido ou inconsistente;
+
+II – permitir a autenticação somente se o valor a ser autenticado for igual ao valor constante no código de barras;
+
+III – verificar a consistência das informações por meio do sistema eletrônico de processamento de dados, de acordo com as especificações contidas em ato normativo da Secretaria de Estado da Fazenda.
+
+§ 4º O recebimento de receitas estaduais em desacordo com as especificações indicadas nesta instrução implica a responsabilidade direta do agente arrecadador quanto aos danos que vier a causar ao Erário, sem prejuízo das penalidades administrativas, civis e penais cabíveis.
+
+Art. 15. O comprovante de pagamento no documento de receitas estaduais deve conter, no mínimo:
+
+I - a sigla do agente arrecadador;
+
+II - a indicação da agência bancária;
+
+<!-- p. 10 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+III - o número do terminal;
+
+IV - o número da autenticação ou o número sequencial único diário da operação – NSU;
+
+V - a data;
+
+VI - o valor autenticado do documento de arrecadação, com modelo padrão definido pela FEBRABAN.
+
+§ 1º A autenticação do documento de arrecadação será feita diretamente em cada uma das vias, devolvendo a via que pertencer ao sujeito passivo.
+
+§ 2º O comprovante de pagamento, no caso de pagamento realizado por meio de internet, terminal de autoatendimento ou outros meios eletrônicos, deve conter no mínimo os dados definidos nos incisos de I a VI do art. 15 desta portaria.
+
+§ 3º No caso de utilização de link do site do agente arrecadador com o site da Secretaria de Estado da Fazenda, para pagamento de receitas, o comprovante de pagamento, no qual deve constar a autenticação, deve está disponível para impressão no momento do efetivo pagamento.
+
+§ 4º O agente arrecadador deve disponibilizar ao sujeito passivo a opção de imprimir o comprovante de pagamento contendo os dados definidos nos incisos de I a VI do art. 15 desta portaria.
+
+§ 5º É vedado ao agente arrecadador estornar, cancelar ou debitar valores autenticados, quando encaminhados nas remessas eletrônicas a cada quinze minutos.
+
+§ 6º Na ocorrência de apresentação de documento de arrecadação autenticado, mas sem informação no Sistema de até cinco anos da data da autenticação, a Secretaria de Estado da Fazenda deve oficializar ao agente arrecadador que certifique a legitimidade ou não da autenticação, no prazo máximo de 30 dias, prorrogável por igual período, contados da data da ciência da solicitação.
+
+§ 7º A autenticação realizada pelo agente arrecadador deve ser feita de forma legível, sem prejudicar a leitura das demais informações, sendo vedada a oposição de assinaturas, carimbo ou quaisquer traços que impeçam ou dificultem a sua legibilidade, no campo apropriado do documento de arrecadação.
+
+§ 8º O numero sequencial único - NSU deve ser transferido e agrupado ao arquivo das informações dos documentos de arrecadação, conforme layout no padrão FEBRABAN.
+
+Art. 16. Os agentes arrecadadores credenciados deverão:
+
+I – observar as instruções baixadas pela Secretaria de Estado da Fazenda;
+
+<!-- p. 11 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II - permitir ao órgão de controle mencionado neste instrumento a verificação periódica ou eventual dos créditos registrados e oriundos da arrecadação e/ou recolhimento das receitas para efeito de fiscalização do fluxo de numerário em favor do Estado.
+
+Art. 17. Fica revogada as Portarias nºs 25/2003, 316 e 408/2001.
+
+Art. 18. Esta Portaria entra em vigor na data de sua publicação.
+
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-454-2017-16688.md>>>
+---
+documento: "PORTARIA Nº 454, DE 05 DE OUTUBRO DE 2017"
+tipo: portaria
+numero: 454
+data: "2017-10-05"
+ementa: "Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=417d03bd-13b6-4739-861a-c61ee1c2b18d
+atualizado_na_fonte: "2026-10-22 09:48:13"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 454, DE 05 DE OUTUBRO DE 2017
+
+_Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado._
+
+**Data:** 2017-10-05  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 454/17 - GABIN DE 05 DE OUTUBRO 2017
+
+Edição:189 Publicação: 10/10/2017
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+R E S O L V E:
+
+Art. 1º Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado.
+
+
+PRODUTO UNIDADE VALOR R$
+
+Cerveja Império - lata 269 ml 1,02
+
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luis 05 de outubro 2017
+
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-459-2008-12997.md>>>
+---
+documento: "PORTARIA Nº 459, DE 21 DE OUTUBRO DE 2008"
+tipo: portaria
+numero: 459
+data: "2008-10-21"
+ementa: "Alterar o valor de referência para fins de cobrança de ICMS do produto discriminado ."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0d66cf58-0d43-46e4-9882-e20bf6d2f491
+atualizado_na_fonte: "2026-10-28 11:38:50"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 459, DE 21 DE OUTUBRO DE 2008
+
+_Alterar o valor de referência para fins de cobrança de ICMS do produto discriminado ._
+
+**Data:** 2008-10-21  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 459 /08 GABIN DE 21 OUTUBRO DE 2008
+
+Ed: 213 - 31/10/08
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+R E S O L V E:
+
+Art. 1º Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado.
+
+UND DISCRIMINAÇÃO VALOR R$
+
+Kg Couro salmourado manual 2,00
+
+Kg Couro salmourado mecânico 2,00
+
+Kg Couro fresco ( op.interna ) 1,30
+
+Kg Couro fresco ( op. Interestadual ) 1,50
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luis 21 de Outubro de 2008.
+
+JOSÉ DE JESUS DO ROSÁRIO AZZOLINI
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-461-2023-21031.md>>>
+---
+documento: "PORTARIA Nº 461, DE 16 DE OUTUBRO DE 2023"
+tipo: portaria
+numero: 461
+data: "2023-10-16"
+ementa: "Dispõe sobre critérios para a utilização do crédito presumido previsto no inciso XVII do art. 1° do Anexo 1.5 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, pelos envasadores que comercializam água mineral natural, natural ou adicionada de sais em vasilhames retornáveis de volumes de 10 e 20 litros, e dá outras disposições."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4c28b53f-239a-4ac3-8896-7dd8110138b0
+atualizado_na_fonte: "2026-10-15 10:17:17"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.5, RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 461, DE 16 DE OUTUBRO DE 2023
+
+_Dispõe sobre critérios para a utilização do crédito presumido previsto no inciso XVII do art. 1° do Anexo 1.5 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, pelos envasadores que comercializam água mineral natural, natural ou adicionada de sais em vasilhames retornáveis de volumes de 10 e 20 litros, e dá outras disposições._
+
+**Data:** 2023-10-16  
+**Remete a:** Anexo 1.5, RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 461/2023 - GABIN DOE nº 193, de 19.10.23 São Luís, 16 de outubro de 2023.
+
+Dispõe sobre critérios para a utilização do crédito presumido previsto no inciso XVII do art. 1° do Anexo 1.5 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de
+10 de julho de 2003, pelos envasadores que comercializam água mineral natural, natural ou adicionada de sais em vasilhames retornáveis de volumes de 10 e 20 litros, e dá outras disposições.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe confere o art. 578 do Decreto nº 19.714, de 10 de julho de 2003,
+
+Considerando a necessidade de regulamentar o disposto na Resolução Administrativa nº 33/2023, de 26 de julho de 2023, que acrescentou dispositivo ao Anexo 1.5 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, para tratar de crédito presumido de ICMS aos contribuintes envasadores de água mineral natural, água natural ou água adicionada de sais,
+
+Considerando ainda a Portaria nº 365/2017 - GABIN/SEFAZ, de 09 de agosto de 2017, que estabelece valores de referência concernentes ao recolhimento do ICMS devido por substituição tributária incidente sobre as operações com água mineral natural, natural e adicionada de sais, envasadas em embalagens de 10 (dez) e 20 (vinte) litros,
+
+R E S O L V E:
+
+CAPÍTULO I DAS DISPOSIÇÕES INICIAIS
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Art. 1º Esta Portaria dispõe sobre critérios para a utilização do crédito presumido previsto no inciso XVII do art. 1° do Anexo 1.5 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, pelos envasadores que comercializam água mineral natural, natural ou adicionada de sais em vasilhames retornáveis de volumes de 10 (dez) e 20 (vinte) litros.
+
+Art. 2º Para fins do disposto nesta Portaria, o valor do crédito presumido será deduzido do saldo devedor do ICMS ST, apurado por estabelecimento industrial de água mineral natural ou adicionada de sais, no montante correspondente ao valor da aquisição dos Selos Fiscais de Controle.
+
+§ 1º Entende-se por “efetivamente utilizado”, a quantidade de selos fiscais solicitada pelo estabelecimento envasador, após deferimento efetuado pela autoridade fiscal.
+
+§ 2º Entende-se por crédito presumido, o montante pago pelo contribuinte para a confecção dos selos fiscais.
+
+§ 3º O crédito presumido será apropriado, integralmente, no período de apuração em que foi realizado o pedido do selo fiscal.
+
+§ 4º O valor do ICMS-ST recolhido por ocasião da aquisição do selo fiscal não gera direito a crédito em nenhuma hipótese.
+
+CAPÍTULO II DA EMISSÃO DA NOTA FISCAL ELETRÔNICA - NFE
+
+Art. 3º As notas fiscais emitidas em decorrência da saída de mercadorias cujo ICMS tenha sido recolhido, na forma do Decreto nº 33.096/2017, deverão ser preenchidas da seguinte forma:
+
+I - nas operações internas:
+a) sem destaque de ICMS Próprio e ICMS ST;
+b) inserir CST 60 - ICMS cobrado anteriormente por ST;
+c) no campo de informações complementares, inserir a expressão “ICMS retido por Substituição Tributária - modalidade de selo fiscal de controle, nos termos do Decreto nº 33.096/2017”;
+
+d) utilizar um dos seguintes CEST:
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+1. “0302400 - Água mineral em embalagens retornáveis com capacidade igual ou superior a 10 (dez) e inferior a 20 (vinte) litros”, ou;
+
+2. “0302500 - Água mineral em embalagens retornáveis com capacidade igual ou superior a 20 (vinte) litros.
+
+II - nas operações interestaduais de saída do Estado do Maranhão:
+a) destacar o ICMS Próprio, o destaque do ICMS ST dependerá de legislação do estado de destino;
+
+b) inserir CST 00 ou 10, a depender do tratamento do ICMS-ST;
+c) utilizar um dos seguintes CEST: 1. “0302400 - Água mineral em embalagens retornáveis com capacidade igual ou superior a 10 (dez) e inferior a 20 (vinte) litros”, ou;
+
+2. “0302500 - Água mineral em embalagens retornáveis com capacidade igual ou superior a 20 (vinte) litros”.
+
+Parágrafo único. Nas operações internas, o contribuinte emitirá o documento fiscal pelo efetivo valor da operação, preenchendo todos os campos exigidos pela legislação tributária, exceto o valor da base de cálculo e do imposto.
+
+Art. 4º Nas operações interestaduais com destino ao Maranhão, o remetente deve inserir no campo de informações complementares da nota fiscal a expressão: “ICMS retido por Substituição Tributária - modalidade de selo fiscal de controle, nos termos do Decreto nº 33.096/2017”.
+
+CAPÍTULO III DA ESCRITURAÇÃO FISCAL DIGITAL
+
+Art. 5º O contribuinte optante do regime de tributação normal, na condição de responsável pela substituição tributária, deverá lançar e apurar, na Escrituração Fiscal Digital - EFD, o valor do ICMS-ST a ser declarado pelo seu valor líquido, de acordo com art. 2º desta Portaria, observando ainda:
+
+I - no registro E210 (APURAÇÃO DO ICMS- SUBSTITUIÇÃO TRIBUTÁRIA), informar no campo 15 (DEB_ESP_ST) o valor correspondente ao somatório do ICMS substituição tributária apurado;
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+II - no registro E220 (AJUSTE DA APURAÇÃO DO ICMS SUBSTITUIÇÃO TRBUTÁRIA), informar:
+
+a) no campo 02 (COD_AJ_APUR), o código de ajuste “MA150001” - Débito especial/ débito de operação com água mineral natural, natural ou adicionada de sais;
+
+b) no campo 04 (VL_AJ_APUR), o valor do ICMS substituição tributária apresentado no campo 15 do registro E210, que se refira a operações com água mineral natural, natural ou adicionada de sais.
+
+Art. 6º O contribuinte optante do Simples Nacional deverá apurar e lançar, na DIEF- Documento de Informações Fiscais, o valor do ICMS-ST pelo seu valor líquido de acordo com art. 2º desta Portaria, observando o seguinte:
+
+I - o preenchimento deverá ser realizado no campo 04 - Substituição das Entradas (601) do Livro de apuração do imposto da DIEF;
+
+II - deverão segregar, no PGDAS-D, as receitas com operações com Água mineral natural, natural ou adicionada de sais em embalagens retornáveis de 10 litros e 20 litros, como “Venda de mercadorias industrializadas pelo contribuinte, exceto para o exterior > Com substituição tributária/tributação monofásica/antecipação com encerramento de tributação (o substituído tributário do ICMS deve utilizar essa opção)”.
+
+Art. 7º O contribuinte com cadastro de Substituto Tributário no Maranhão deverá escriturar suas transações dentro da GIA-ST - Guia Nacional de Informação e Apuração do ICMS-ST - e declarar o ICMS ST, pelo seu valor líquido, de acordo com o art. 2º desta Portaria.
+
+§ 1º O valor previsto no caput deste artigo deverá ser preenchido na aba “Valores – Campo 13 (ICMS retido por ST).
+
+§ 2º O substituto tributário, inscrito ou não neste Estado e estabelecido em outra unidade da Federação, pode utilizar o valor do crédito como dedução do montante de ICMS ST devido a este Estado no momento do recolhimento antecipado.
+
+CAPÍTULO IV DAS OUTRAS OBRIGAÇÕES
+
+Art. 8º A aplicação do selo fiscal nos vasilhames deverá ocorrer no imediato momento da aposição do lacre no recipiente envasado.
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 1º Será considerado irregular e, portanto, passível de multa, termos do art. 80, XXXIV, da Lei nº 7.799/2002, o recipiente lacrado sem selo, ainda que se encontre dentro do estabelecimento da empresa envasadora.
+
+§ 2º O disposto no caput deste artigo também alcança a empresa que transporta, adquire e comercialize as mercadorias passíveis de selo fiscal, na condição de responsável tributário, nos termos do Decreto nº 33.096, de 10 de julho de 2017.
+
+Art. 9º Nas operações de que trata esta Portaria, fica vedada a utilização de créditos fiscais de ICMS referentes às aquisições de insumos utilizados no processo de produção, devendo ser estornados os créditos fiscais eventualmente existentes na escrita fiscal do contribuinte.
+
+Art. 10. O recolhimento do ICMS-ST, efetuado na forma estabelecida nesta Portaria, corresponderá a todas as operações realizadas com os produtos nela especificados até o consumidor final.
+
+Art. 11. O código de receita a ser utilizado para o recolhimento do ICMS ST modalidade de selo fiscal é o 601 (ICMS Substituição de Entrada).
+
+CAPÍTULO V DAS DISPOSIÇÕES FINAIS
+
+Art. 12. As disposições desta Portaria também se aplicam aos contribuintes do ICMS optantes do regime do Simples Nacional.
+
+Art. 13. O prazo máximo para a Secretaria da Fazenda analisar os pedidos de selos fiscais é de 10 dias, contados a partir da solicitação do contribuinte.
+
+Art. 14. Fica revogado o art. 5º da Portaria nº 365/2017 - GABIN/SEFAZ.
+Art. 15. Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, em São Luís, 16 de outubro de 2023.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-464-2004-12569.md>>>
+---
+documento: "PORTARIA Nº 464, DE 29 DE JULHO DE 2004"
+tipo: portaria
+numero: 464
+data: "2004-07-29"
+ementa: "Divulga os índices provisórios de participação dos municípios maranhenses."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=98aeb340-c462-4488-be30-8d104be904a8
+atualizado_na_fonte: "2026-10-27 09:25:17"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 464, DE 29 DE JULHO DE 2004
+
+_Divulga os índices provisórios de participação dos municípios maranhenses._
+
+**Data:** 2004-07-29  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA GABINETE DO SECRETÁRIO
+
+PORTARIA Nº 0464 /GABIN 29 DE JULHO DE 2004
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e tendo em vista as disposições da Lei Complementar nº 63, de 11 de janeiro de 1990, e da Lei Estadual nº 5.599, de 24 de dezembro de 1992,
+
+
+R E S O L V E:
+Art. 1º. Divulgar os índices provisórios de participação dos municípios maranhenses, constantes do Anexo, para efeito da entrega das parcelas a eles pertencentes, dos 25% (vinte e cinco por cento) do produto da arrecadação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, durante o exercício de 2005.
+
+Art. 2º. Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA PUBLIQUE-SE E CUMPRA-SE
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUIS, 29 DE JULHO DE 2004.
+
+
+JOSÉ DE JESUS DO ROSÁRIO AZZOLINI Secretário de Estado da Fazenda CEGAT /UNINF / JLCS
+<<<DOC normas/portaria/portaria-470-2011-13474.md>>>
+---
+documento: "PORTARIA Nº 470, DE 31 DE AGOSTO DE 2011"
+tipo: portaria
+numero: 470
+data: "2011-08-31"
+ementa: "A organização do Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota) e a sistemática para obtenção de créditos e outros prêmios previstos na Lei 9.120, de 23 de fevereiro de 2010, que instituiu o Programa, serão regidos pelas disposições legais aplicáveis e por esta Portaria."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b719c7d8-e056-4396-a8a6-9aa929907ac3
+atualizado_na_fonte: "2026-10-28 14:39:17"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 470, DE 31 DE AGOSTO DE 2011
+
+_A organização do Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota) e a sistemática para obtenção de créditos e outros prêmios previstos na Lei 9.120, de 23 de fevereiro de 2010, que instituiu o Programa, serão regidos pelas disposições legais aplicáveis e por esta Portaria._
+
+**Data:** 2011-08-31  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA No 470/2011- GABIN São Luís (MA), 31 de agosto de 2011.
+
+DOE 25.10.2011
+
+O Secretário de Estado da Fazenda, em exercício, tendo em vista o disposto na Lei 9.120, de 23 de fevereiro de 2010 e legislação específica que a regulamenta,
+
+RESOLVE
+
+
+
+Art. 1o A organização do Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão (Viva Nota) e a sistemática para obtenção de créditos e outros prêmios previstos na Lei 9.120, de 23 de fevereiro de 2010, que instituiu o Programa, serão regidos pelas disposições legais aplicáveis e por esta Portaria.
+
+DA COORDENAÇÃO DO PROGRAMA
+
+Art. 2o A coordenação do Programa será exercida por grupo de trabalho composto por até 07 (sete) servidores desta Secretaria designados em ato próprio.
+
+Parágrafo único. O coordenador do grupo de trabalho referido no caput, juntamente com gestor chefe da Assessoria de Desenvolvimento Institucional serão responsáveis pela tarefa de articular internamente todas as instâncias e setores desta Secretaria de Estado da Fazenda (Sefaz) para o êxito do Programa e potencializar os seus efeitos pedagógicos, cabendo ao gestor chefe da Célula de Gestão para Administração Tributária/Planejamento Fiscal a incumbência de maximizar os ganhos tributários dele decorrentes.
+
+Art. 3o Competirá ao coordenador do Programa a administração dos assuntos operacionais, podendo, para tanto, adotar as providências necessárias para execução das atividades programadas.
+
+DOS PARTICIPANTES DO PROGRAMA, DAS VEDAÇÕES E DA FORMA DE PARTICIPAÇÃO
+
+Art. 4o Poderão participar do Programa o consumidor, pessoa natural ou jurídica, que adquirir mercadorias, bens ou serviços de transporte interestadual e intermunicipal de estabelecimento fornecedor localizado neste Estado, contribuinte do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação - ICMS, conforme segue:
+
+I – pessoa física, consumidora final, identificada com o CPF em documento fiscal hábil;
+
+II – instituições maranhenses de assistência social, sem fins lucrativos, cadastradas no endereço eletrônico do Programa;
+
+III – entidades maranhenses de cultura e desporto cadastrados na Secretaria da Fazenda, que tenham sido indicadas como favorecidas pelo crédito previsto no Art. 3o da Lei 9.120 de 23 de fevereiro de 2010, no caso de o documento fiscal não indicar o nome do consumidor;
+
+<!-- p. 2 -->
+IV – condomínio edilício.
+
+§ 1o É vedado aos contribuintes do ICMS, inclusive os inscritos no Simples Nacional, a obtenção dos prêmios e outros benefícios do Programa.
+
+§ 2o É vedada a participação, como beneficiários dos prêmios em dinheiro (e de cupons para sorteio do Programa), de servidores desta Secretaria e de funcionários das sociedades empresárias de tecnologia contratadas pela Sefaz, bem como de seus parentes em linha reta até o primeiro grau, seus cônjuges ou companheiros (as).
+
+§ 3o Constatada a participação indevida de servidor da Sefaz no Programa, bem como qualquer de seus parentes, cônjuge ou companheiro (a) entre os indicados no parágrafo anterior aquele responderá inquérito administrativo para apuração de conduta imprópria, estando sujeito às penalidades cabíveis, e, se for o caso, devolução ao Erário dos valores dos prêmios obtidos irregularmente.
+
+§ 4o As pessoas físicas ou jurídicas em débito com o Tesouro Estadual, bem como aquelas com irregularidades cadastrais ou fiscais junto a Sefaz, só poderão receber os prêmios do Programa após a quitação do débito, e, se for o caso, após o saneamento da irregularidade.
+
+§ 5o Na hipótese de haver débito do beneficiário junto ao Tesouro Estadual - e não sendo este adimplido antes do recebimento do prêmio – o crédito ou o valor relativo ao prêmio poderá utilizado para abatê-lo ou quitá-lo, recebendo o beneficiário o saldo remanescente deste, se houver.
+
+§ 6o As pessoas civilmente incapazes podem participar do Programa, mas o recebimento dos prêmios fica condicionado à assistência ou representação daquelas por seus pais ou responsáveis (tutores ou curadores) na forma da Lei Civil.
+
+Art. 5o Além da inscrição, é requisito para participar dos sorteios a manifestação de concordância com o regulamento do Programa no portal do “Viva Nota” vivanota.sefaz.ma.gov.br:
+
+I – pela pessoa física e pelo condomínio edilício, por meio da internet, mediante utilização de senha de acesso, a partir da data da edição desta Portaria;
+
+II – pelas instituições maranhenses de assistência social sem fins lucrativos, pelas entidades de cultura e desporto, desde que enquadradas pelo Decreto governamental e após o seu cadastramento.
+
+DOS PRÊMIOS
+
+Art. 6o O valor correspondente a até 30% (trinta por cento) do acréscimo no valor do ICMS, efetivamente recolhido por cada estabelecimento, será atribuído como crédito aos adquirentes de mercadorias, bens e serviços de transporte interestadual e intermunicipal na proporção do valor de suas aquisições em relação ao valor total das operações e prestações realizadas pelo estabelecimento fornecedor no período.
+
+§ 1o Para efeito de determinação do acréscimo no valor do ICMS será considerada a média da arrecadação dos últimos 12 (doze) meses anteriores ao período de apuração, atualizada pelo Índice Nacional de Preços ao Consumidor Amplo – IPCA.
+
+§ 2o Se estabelecimento em início de atividade, para efeito de determinação do acréscimo, nos onze meses posteriores ao do início de atividade, será utilizada a média aritmética da arrecadação dos meses anteriores ao do período de apuração, atualizada pelo IPCA.
+
+<!-- p. 3 -->
+§ 3o O crédito calculado na forma deste artigo fica limitado a 7,5% (sete e meio por cento) do valor do documento fiscal.
+
+§ 4o Para fins de cálculo do valor dos créditos a serem concedidos aos adquirentes, serão considerados:
+
+I - o mês de referência em que ocorreram as operações ou prestações;
+
+II - o valor do acréscimo do ICMS recolhido relativamente ao mês de referência indicado no inciso anterior.
+
+Art. 7o Os prêmios pela participação no Programa consistirão, na forma autorizada pela Lei 9.120/2010 e disciplinados nos demais dispositivos desta Portaria, em:
+
+I – créditos do Tesouro do Estado, pelo consumidor que solicitar notas fiscais de compras de fornecedores;
+
+II – cupons para sorteio em dinheiro, a serem sorteados em datas previamente estabelecidas, de acordo com os resultados de Loteria Federal da Caixa Econômica Federal do sábado imediatamente anterior à data da divulgação dos cupons premiados, além de sorteios ao vivo em estádios de futebol, na forma do art. 24;
+
+III – bônus para obter ingressos para assistir competições, esportivas com a participação de clubes de futebol maranhenses, espetáculos esportivos amadores e shows e eventos culturais.
+
+Parágrafo único. A obtenção e distribuição de outros prêmios e incentivos autorizados na Lei instituidora do Programa “Viva Nota” e não tratados nesta Portaria serão, na conveniência dos promotores do Programa, disciplinados oportunamente em ato próprio.
+
+DOS PRÊMIOS EM CRÉDITOS DO TESOURO ESTADUAL
+
+Art. 8o Atendidas às condições descritas nesta Portaria, o participante consumidor inscrito no Programa “Viva Nota” fará jus a prêmios, na forma de créditos em dinheiro em conta corrente ou de poupança mantida em Instituição do Sistema Financeiro Nacional.
+
+Art. 9o Serão atribuídos créditos em dinheiro – em conta corrente ou de poupança – ao consumidor inscrito no Programa que adquirir mercadorias, bens ou serviços de transporte interestadual e intermunicipal de fornecedor que, localizado no Estado do Maranhão, esteja inscrito no Cadastro de Contribuintes do ICMS e que conste no cronograma de implementação do Programa.
+
+§ 1o Para fins de participação no sorteio, será atribuído gratuitamente ao consumidor um cupom a cada R$ 100,00 (cem reais), ou, caso este valor não seja atingido, será atribuído um cupom para cada lote de 05 (cinco) documentos fiscais utilizados na aquisição de mercadorias, bens e serviços, desde que feito o registro e atendido o disposto no Art. 13.
+
+§ 2o Poderão participar do sorteio o condomínio edilício e a entidade maranhense de assistência social, sem fins lucrativos, previamente cadastrada na Sefaz, desde que indicada como favorecida pelo crédito do Tesouro relativo à aquisição de mercadorias, bens ou serviços, cujo
+
+<!-- p. 4 -->
+documento fiscal esteja relacionado nos incisos I a VI do Art. 13.
+
+§ 3o Excepcionalmente, serão emitidos, eletronicamente, 5 (cinco) cupons para cada consumidor cadastrado no Programa “Viva Nota” para participação nos sorteios de prêmios nas seguintes datas:
+
+Data Limite para Cadastramento
+
+Data da Publicação do Bônus no site do Programa
+
+Data sorteio Loteria Federal
+
+Dia da Premiação
+
+26/10/2011 28/10/2011 29/10/2011 31/10/2011 23/11/2011 25/11/2011 26/11/2011 30/11/2011 22/12/2011 23/12/2011 24/12/2011 26/12/2011
+
+§ 4o Compete à Secretaria de Desenvolvimento Social – Sedes receber, analisar e efetuar o cadastramento de entidades maranhenses de assistência social, sem fins lucrativos, que desejarem constar no cadastro da Sefaz, para fins do disposto nesta Portaria.
+
+§ 5o Não serão cumulativos o direito ao cupom por valor e por quantidade de documentos fiscais, pois para estes o direito somente ocorrerá se o valor não atingir o limite mínimo de R$ 100,00 (cem reais).
+
+Art. 10. O valor do crédito a ser atribuído a cada consumidor será determinado conforme a fórmula VC (k, m) = ∑ CA (k, m, f) – ∑ DD (k, m, f), onde:
+
+I – VC (k, m) corresponde ao valor do crédito a ser atribuído ao consumidor “k”, relativamente ao mês de referência “m”;
+
+II – CA (k, m, f) corresponde ao somatório dos créditos atribuídos ao consumidor “k”, relativamente às aquisições efetuadas no mês de referência “m”, do fornecedor “f”;
+
+III – DD (k, m, f) corresponde ao somatório das deduções relativas às devoluções de compras efetuadas pelo consumidor “k” no mês de referência “m”, do fornecedor “f”;
+
+IV - ∑ corresponde ao somatório.
+
+§ 1o O mês de referência “m” identifica tanto o mês do ano em que a aquisição foi efetuada quanto o período de competência de apuração do ICMS recolhido e o período da devolução.
+
+§ 2o Os valores relativos a eventuais devoluções serão deduzidos dos créditos do mesmo semestre e o eventual saldo negativo será transferido ao semestre seguinte.
+
+Art. 11. O valor do crédito a ser atribuído relativamente a cada aquisição de mercadorias, bens ou serviços de transporte interestadual e intermunicipal de fornecedor localizado no Estado do Maranhão será determinado conforme a fórmula CA (k, m, f) = [0,3* (VICMSR (f, m) – VICMSM)] x VA (k, m, f) / VTS (f, m), onde:
+
+I – VICMSR (f, m) corresponde ao valor do ICMS recolhido pelo estabelecimento fornecedor “f” relativamente ao mês de referência “m”, para fins do cálculo de que trata esta Portaria;
+
+<!-- p. 5 -->
+II – VICMSM (f, m) corresponde à média da arrecadação dos últimos 12 (doze) meses anteriores ao período de apuração, atualizada pelo Índice Nacional de Preços ao Consumidor Amplo – IPCA;
+
+III – VA (k, m, f) corresponde ao valor das aquisições de mercadorias, bens ou serviços tributadas efetuadas pelo consumidor “k” do estabelecimento fornecedor “f”, no mês de referência “m”, para fins do cálculo de que trata esta Portaria;
+
+IV – VTS (f, m) corresponde ao valor total das operações de saídas e prestações tributadas realizadas pelo estabelecimento fornecedor “f”, no mês de referência “m”, para fins do cálculo de que trata esta Portaria.
+
+§ 1o O cálculo será efetuado com 4 (quatro) casas decimais e o valor do crédito será atribuído com 2 (duas) casas decimais, desprezando-se as frações de centavos.
+
+§ 2o Na apuração do valor de CA, se CA (k, m, f) for > 0,075*VA, então, CA = 0,075*VA.
+
+Art. 12. Para fins de determinação do VICMSR (f, m) e do VICMSM serão considerados:
+
+I – o valor do ICMS recolhido no Documento de Arrecadação de Receita Estaduais – DARE ou em Guia Nacional de Recolhimento de Tributos Estaduais – GNRE, que indique como contribuinte o estabelecimento fornecedor “f” e como período de referência o mês “m”;
+
+II – a fração relativa ao ICMS, do valor recolhido em Documento de Arrecadação do Simples Nacional – DAS, que indique como contribuinte o estabelecimento fornecedor “f” e como período de referência o mês “m” (Resolução CGSN no 10/2007).
+
+§ 1o Serão considerados os valores recolhidos no respectivo prazo de recolhimento ou até o último dia do segundo mês subsequente àquele em que ocorreu a aquisição, respeitando o período de competência.
+
+§ 2o Não serão computados os valores relativos a acréscimos financeiros ou moratórios, multas e parcelamentos de débitos após efetuadas as devidas imputações pela Secretaria da Fazenda e os valores recolhidos a título de substituição tributária.
+
+Art. 13. Para fins de determinação do VA (k, m, f) serão considerados os valores constantes nos seguintes documentos fiscais, desde que efetuado o respectivo registro na Declaração de Informações Econômico Fiscais – Dief:
+
+I – Cupom fiscal, emitido por equipamento Emissor de Cupom Fiscal – ECF;
+
+II – Nota fiscal de venda a consumidor (série D);
+
+III – Nota fiscal (modelo 1 ou 1-A);
+
+IV – Nota fiscal eletrônica – NF-e (modelo 55);
+
+V – Nota fiscal de serviço de transporte – (Modelo 7);
+
+VI – Conhecimento de transporte (Modelos: 8, 9, 10, 11 e 57).
+
+§ 1o Serão considerados os valores constantes em Nota Fiscal, modelo 1 ou 1-A, e nos
+
+<!-- p. 6 -->
+itens da Nota Fiscal Eletrônica – NF-e, modelo 55, desde que no campo “CFOP” (Código Fiscal de Operações e Prestações) esteja indicada a operação relativa à venda de mercadorias, bens ou serviços.
+
+§ 2o Não serão considerados os valores constantes em documento fiscal:
+
+I – emitido por contribuinte que, em razão de sua atividade econômica preponderante, esteja classificado em “CNAE” (Classificação Nacional de Atividades Econômicas) que não conste do cronograma de implementação do Programa relativamente ao mês de referência “m”;
+
+II – cujo registro eletrônico na Sefaz não tenha sido efetuado pelo emitente até o último dia do segundo mês subsequente àquele em que foi emitido;
+
+III – que tenha sido cancelado pelo emitente.
+
+§ 3o Serão consideradas as retificações registradas na Dief e efetuadas pelo emitente do documento fiscal até o último dia do segundo mês subsequente aquele em que ocorreu a emissão do documento fiscal relativo à aquisição.
+
+Art. 14. Para fins de determinação do VTS (f, m) serão considerados os valores constantes na Dief.
+
+Parágrafo único. Serão consideradas as informações constantes nos documentos enviados ou entregues no prazo previsto na legislação para o respectivo envio ou entrega ou até o último dia do segundo mês subsequente àquele em que ocorreu a aquisição.
+
+Art. 15. Para fins de determinação do somatório das deduções relativas às devoluções de compras efetuadas pelo consumidor serão considerados:
+
+I – os documentos fiscais emitidos pelo estabelecimento que receber a devolução da mercadoria ou bem;
+
+II – informações prestadas à Sefaz pelo estabelecimento que receber a devolução da mercadoria ou bem.
+
+Art. 16. O crédito atribuído na forma dos artigos precedentes não será disponibilizado ao consumidor, além de outras hipóteses previstas na legislação, se a Sefaz constatar que o documento fiscal relativo à aquisição tiver sido emitido ou utilizado com dolo, fraude ou simulação, ou que tenha possibilitado ao emitente, destinatário ou a terceiros o não pagamento do imposto devido ou qualquer outra vantagem indevida.
+
+Art. 17. O cálculo de que trata esta Portaria será efetuado como se segue:
+
+I – inicialmente, com os dados disponíveis até o último dia do primeiro mês após o mês de referência “m”;
+
+II – definitivo, com os dados disponíveis até o último dia do segundo mês após o mês de referência “m”.
+
+Art. 18. Para fins de consulta e utilização dos créditos concedidos pela Sefaz em razão da aquisição de mercadorias, bens e serviços, de transporte interestadual e intermunicipal, devidamente acompanhados de documento fiscal hábil, de acordo com o estabelecido no âmbito do Programa, deverá providenciar o seu cadastramento no endereço eletrônico
+
+<!-- p. 7 -->
+vivanota.sefaz.ma.gov.br, o consumidor:
+
+I – pessoa física residente ou não neste Estado;
+
+II – pessoa jurídica não inscrita no Cadastro de Contribuintes do ICMS do Estado.
+
+Parágrafo único. Os cadastrados poderão consultar e utilizar os créditos concedidos no âmbito do Programa acessando o endereço eletrônico vivanota.sefaz.ma.gov.br, mediante uso do nome de usuário e senha.
+
+Art. 19. Para efetuar o cadastramento a que se refere o artigo anterior, o consumidor deverá:
+
+I – acessar o endereço vivanota.sefaz.ma.gov.br e selecionar as opções:
+
+a) pessoa física, ou
+
+b) pessoa jurídica.
+
+II – se pessoa física, deverá preencher os seguintes campos:
+
+a) cadastro de pessoa física – CPF;
+
+b) data de nascimento.
+
+III – se pessoa jurídica, deverá preencher os seguintes campos:
+
+a) cadastro nacional de pessoa jurídica – CNPJ;
+
+b) CPF do representante legal perante a Receita Federal do Brasil – RFB;
+
+c) nome do representante legal perante a RFB.
+
+IV – o consumidor informará ainda os seguintes dados ao sistema:
+
+a) nome completo;
+
+b) logradouro, número, bairro, complemento, referência, CEP, município, UF, fone ou fax e e-mail;
+
+c) frase de segurança;
+
+d) senha;
+
+e) confirmação da senha;
+
+f) lembrete de senha.
+
+Art. 20. A senha cadastrada no campo indicado na alínea “d” do inciso IV do artigo anterior será:
+
+I – pessoal, intransferível e de conhecimento exclusivo do consumidor que a cadastrou, devendo ele responder pelos atos praticados mediante o uso de sua senha;
+
+II – automaticamente liberada para uso quando os dados informados pelo consumidor
+
+<!-- p. 8 -->
+para sua identificação coincidir com os dados constantes no CPF ou no CNPJ.
+
+Art. 21. Na hipótese de senha bloqueada pela Sefaz, o consumidor deverá efetuar o desbloqueio de sua senha mediante apresentação dos seguintes documentos em qualquer Unidade de Atendimento desta Secretaria, desde que atenda os requisitos abaixo exigidos:
+
+I – em se tratando de consumidor, pessoa física:
+
+a) pessoalmente, munido de requerimento, disponibilizado no endereço vivanota.sefaz.ma.gov.br, devidamente impresso e assinado e portando os documentos originais de identidade e do CPF, que possibilitará o desbloqueio imediato da senha na ocasião;
+
+b) por meio de procurador, desde que munido de documento de procuração com firma reconhecida em cartório;
+
+c) por via postal, anexando requerimento, disponibilizado no endereço vivanota.sefaz.ma.gov.br, devidamente impresso e assinado e fotocópia autenticada dos documentos de identidade para o endereço:
+
+Secretaria de Estado da Fazenda do Maranhão Ed. Clodomir Millet, 5º andar Assunto: “Viva Nota” Av. Jerônimo de Albuquerque, s/n – Calhau São Luís – MA CEP 65070-901
+
+II – em se tratando de consumidor pessoa jurídica:
+
+a) por meio do comparecimento do seu representante legal na Unidade de Atendimento da Sefaz de sua escolha, desde que apresente o requerimento disponibilizado no endereço vivanota.sefaz.ma.gov.br, devidamente impresso e assinado pelo respectivo interessado e cópia simples do CNPJ com firma reconhecida, momento em que o desbloqueio da senha poderá ser efetuado;
+
+b) por meio de procuração com firma reconhecida, quando o signatário do requerimento atuar na condição de procurador do respectivo interessado, portando o requerimento disponibilizado no endereço vivanota.sefaz.ma.gov.br, devidamente impresso e assinado pelo interessado com firma reconhecida e cópia do CNPJ;
+
+c) por via postal, anexando requerimento, disponibilizado no endereço vivanota.sefaz.ma.gov.br, devidamente impresso e assinado, e fotocópia autenticada dos documentos de constituição da entidade jurídica e de seus representantes legais para o endereço indicado na alínea “c” do inciso I deste artigo.
+
+§ 1o O requerimento de que trata este artigo deverá conter, além da identificação do consumidor, o seguinte texto:
+
+O consumidor acima identificado vem requer à Secretaria de Estado da Fazenda do Maranhão, nos termos da Portaria 470/2011, o desbloqueio da sua senha pessoal previamente cadastrada por meio do endereço vivanota.sefaz.ma.gov.br e declara ter plena ciência de que:
+
+a) a senha cadastrada permitirá o acesso a todas as funcionalidades do Programa à Cidadania Fiscal do Estado do Maranhão destinadas ao consumidor, inclusive à
+
+<!-- p. 9 -->
+utilização dos créditos concedidos a seu favor;
+
+b) responderá pelos atos praticados mediante o uso de sua senha.
+
+Nestes termos, solicita o desbloqueio.
+
+(data e assinatura)
+
+§ 2o A autoridade administrativa competente poderá, a seu critério, conceder ao consumidor um prazo de até 15 (quinze) dias para eventual saneamento da documentação apresentada.
+
+Art. 22. A efetivação do cadastramento previsto nesta Portaria só será concluída após a liberação da senha no endereço vivanota.sefaz.ma.gov.br, sendo esta uma condição essencial para a utilização dos créditos concedidos nos termos da Lei 9.120, de 23 de fevereiro de 2010.
+
+DA OBTENÇÃO DE CUPONS PARA SORTEIO DE PRÊMIOS EM DINHEIRO
+
+Art. 23. O sorteio de prêmios em dinheiro no âmbito do Programa será realizado a partir do mês de outubro de 2011.
+
+§ 1o A apuração dos contemplados será efetuada de forma eletrônica, como descrita a seguir:
+
+I – O aplicativo consulta no banco de dados do Programa “Viva Nota” todos os documentos fiscais, emitidos pelos estabelecimento varejistas, marcados para gerar cupons para sorteio e que tenham sido emitidos a partir de setembro de 2011, gerando uma relação ordenada com os seguintes campos:
+
+a) Campo A: CPF/CNPJ do consumidor;
+
+b) Campo B: Quantidade total de documentos fiscais;
+
+c) Campo C: Soma do valor total dos documentos fiscais;
+
+d) Campo D: Campo B / 5;
+
+e) Campo E: Campo C / 100.
+
+II - Para cada consumidor da relação, o aplicativo gerará uma quantidade de bilhetes igual ao maior dos números, dentre os campos D e E (apenas a parte inteira será considerada);
+
+III – Cada um dos bilhetes será gerado com 9 (nove) dígitos, com numeração aleatória e única, podendo ser escolhido qualquer número entre 000.000.001 a 999.999.999;
+
+IV – Os números dos bilhetes gerados eletronicamente serão disponibilizados para consulta e emissão pelos participantes do Programa no site do “Viva Nota”.
+
+§ 2o A obtenção dos números dos cupons premiados pelo Programa far-se-á utilizandose os números sorteados pela Loteria Federal, considerada a extração do sábado imediatamente anterior às datas indicadas no art. 24, sendo apurados e contemplados, conforme o seguinte
+
+<!-- p. 10 -->
+procedimento e quadros exemplificativos:
+
+I – Primeiro prêmio: será o número obtido pelo terceiro, quarto e quinto algarismos do primeiro prêmio, mais os últimos algarismos do segundo ao quinto prêmio, mais o quarto e o terceiro algarismos do quinto prêmio da Loteria Federal;
+
+
+
+II – Segundo prêmio: será o número obtido pelo segundo, terceiro e quarto algarismos do primeiro prêmio, mais os quartos algarismos do segundo ao quinto prêmio, mais o terceiro e o segundo algarismos do quinto prêmio da Loteria Federal;
+
+
+III – Terceiro prêmio: será o número obtido pelo primeiro, segundo e terceiro algarismos do primeiro prêmio, mais os terceiros algarismos do segundo ao quinto prêmio, mais o segundo e o primeiro algarismos do quinto prêmio da Loteria Federal;
+
+
+
+IV – Quarto prêmio: será o número obtido pelo terceiro, quarto e quinto algarismos do quinto prêmio, mais últimos algarismos do quarto ao primeiro prêmio, mais o quarto e o terceiro algarismos do primeiro prêmio da Loteria Federal;
+
+
+
+V – Quinto prêmio: será o número obtido pelo segundo, terceiro e quarto algarismos do quinto prêmio, mais os quartos algarismos do quarto ao primeiro prêmio, mais o terceiro e o segundo algarismos do primeiro prêmio da Loteria Federal;
+
+
+VI – Sexto prêmio: será o número obtido pelo primeiro, segundo e terceiro algarismos do quinto prêmio, mais os terceiros algarismos do quarto ao primeiro prêmio, mais o segundo e o primeiro algarismos do primeiro prêmio da Loteria Federal;
+
+
+
+VII – Sétimo prêmio: será o número obtido pelo terceiro, segundo e primeiro algarismos do primeiro prêmio, mais primeiros algarismos do segundo ao quinto prêmio, mais o segundo e o terceiro algarismos do quinto prêmio da Loteria Federal.
+
+§ 3o Para cada prêmio do Programa, na ordem do primeiro para o último, serão
+
+<!-- p. 11 -->
+contemplados os seguintes cupons, nesta ordem:
+
+I – Cupom do Programa com numeração igual ao número obtido pelo procedimento indicado no parágrafo anterior para o prêmio correspondente;
+
+
+II – Na hipótese se não haver nenhum cupom com o número correspondente ao indicado item anterior, será escolhido o cupom com numeração mais próxima da do bilhete sorteado, acima ou abaixo deste, desde que a diferença, em valor absoluto, seja a menor dentre todos os cupons concorrentes;
+
+
+III – Na hipótese de existirem 2 (dois) cupons na mesma situação do item anterior, será escolhido o que tiver menor número.
+
+§ 4o Quando a distribuição de prêmios do Programa for maior que 1 (um), como no exemplo do oitavo prêmio do primeiro sorteio (4500 prêmios de R$ 15,00), haverá a seguinte distribuição:
+
+I – Serão premiados o cupom contemplado, mais os cupons com numeração imediatamente inferior ao número do cupom contemplado;
+
+
+II – Caso não exista quantidade suficiente de cupons gerados com numeração inferior ao número do cupom contemplado, que preencha a quantidade de prêmios a serem distribuídos, serão contemplados, ainda, os cupons com numeração imediatamente superior ao número do cupom contemplado, até que seja preenchida a quantidade de prêmios a serem distribuídos.
+
+§ 5o O algoritmo matemático a ser utilizado para geração dos bilhetes eletrônicos de que trata o § 2o é de responsabilidade da Célula de Gestão para a Administração e Pessoas CEGPA/COTEC da Sefaz, a qual caberá a publicação do respectivo Termo de Responsabilidade Técnica.
+
+Art. 24. Os prêmios a serem sorteados terão as seguintes datas e valores:
+
+§ 1o Em 31 de outubro de 2011:
+
+I – 1 (um) prêmio de R$ 100.000,00 (cem mil reais);
+
+II – 1 (um) prêmio de R$ 15.000,00 (quinze mil reais);
+
+III – 10 (dez) prêmios de R$ 1.000,00 (um mil reais);
+
+IV – 15 (quinze) prêmios de R$ 500,00 (quinhentos reais);
+
+V – 1.000 (mil) prêmios de R$ 25,00 (vinte e cinco reais);
+
+VI – 3.500 (três mil e quinhentos) prêmios de R$ 15,00 (quinze reais).
+
+§ 2o Em 30 de novembro de 2011:
+
+I – 1 (um) prêmio de R$ 50.000,00 (cinquenta mil reais);
+
+II – 1 (um) prêmio de R$ 15.000,00 (quinze mil reais);
+
+<!-- p. 12 -->
+III – 10 (dez) prêmios de R$ 1.000,00 (um mil reais)
+
+IV – 10 (dez) prêmios de R$ 500,00 (quinhentos reais);
+
+V – 1.400 (mil e quatrocentos) prêmios de R$ 25,00 (vinte e cinco reais);
+
+VI – 3.000 (três mil) prêmios de R$ 15,00 (quinze reais).
+
+§ 3o Em 26 de dezembro de 2011:
+
+I – 1 (um) prêmio de R$ 100.000,00 (cem mil reais);
+
+II – 1 (um) prêmio de R$ 50.000,00 (cinquenta mil reais);
+
+III – 1 (um) prêmio de R$ 10.000,00 (dez mil reais);
+
+IV – 5 (cinco) prêmios de R$ 1.000,00 (um mil reais);
+
+V – 35 (trinta e cinco) prêmios de 500,00 (quinhentos reais);
+VI – 2.000 (mil) prêmios de R$ 25,00 (vinte e cinco reais);
+VII – 4.500 (quatro mil e quinhentos) prêmios de R$ 15,00 (quinze reais).
+§ 4o Excetuada a sistemática de sorteio de prêmios prevista nos dispositivos anteriores, nas datas indicadas nos §§ 1O, 2O e 3o deste artigo, também serão sorteados, em sorteios ao vivo, nos estádios de futebol, quando da realização das partidas finais dos turnos e do Torneio Copa União/2011, a serem pagos somente para os presentes aos jogos, com a utilização do ingresso adquirido com o Vale Ingresso obtido no Programa “Viva Nota”, mediante sorteio do canhoto do ingresso na seguinte forma:
+
+I – 1 (um) prêmio de R$ 10.000,00 (dez mil reais), durante o jogo da final do 2o turno;
+II – 1 (um) prêmio de R$ 20.000,00 (vinte mil reais) durante o jogo da final do torneio.
+§ 5o Excetuado os do parágrafo anterior, os prêmios de que trata este artigo serão numerados em ordem decrescente de valor, de modo que o maior prêmio receba o número 1 (um), o segundo maior prêmio o número 2 (dois), e assim sucessivamente.
+
+§ 6o Antes do efetivo crédito em conta corrente, poderão ser simbolicamente entregues, em data e local a serem estabelecidos pela Sefaz, os prêmios cujos valores estejam entre R$ 10.000,00 (dez mil reais) e R$ 100.000,00 (cem mil reais), devendo o ganhador comparecer pessoalmente, em local e data a ser fixados, com o devido documento de identidade ou cópia do contrato social, nos casos de pessoas jurídicas.
+
+§ 7o Em caso de prêmio superior a R$ 10.000,00 (dez mil reais), o condomínio edilício será representado pelo síndico, que deverá apresentar a Ata da Assembléia que o constituiu.
+
+§ 8o Na hipótese de não comparecimento no local e data fixada, o ganhador deverá nomear representante, o qual deverá comparecer no local e data designados munido de procuração com firma reconhecida e poderes específicos para o recebimento do prêmio, sob pena de perda do prêmio.
+
+§ 9o Os prêmios cujos valores estejam abaixo de R$ 10.000,00 (dez mi reais) serão
+
+<!-- p. 13 -->
+creditados automaticamente na conta corrente ou conta poupança do consumidor constante no sistema “Viva Nota”.
+
+§ 10. Sob pena de prescrição, os prêmios em dinheiro referentes aos sorteios por meio de cupons gerados pelo Programa “Viva Nota”, deverão ser solicitados, pelo ganhador ou responsável, no prazo de 90 (noventa) dias contados do dia da divulgação dos cupons premiados.
+
+Art. 25. Para efeito de participação nos sorteios de que trata esta Portaria, serão considerados os documentos fiscais válidos e registrados eletronicamente na Sefaz emitidos no período referente ao mês anterior ao do sorteio.
+
+DO INCENTIVO A INSTITUIÇÕES DE DESPORTO
+
+(AQUISIÇÃO DE INGRESSOS PARA DISTRIBUIÇÃO AOS PARTICIPANTES DO PROGRAMA)
+
+Art. 26. A Comissão Setorial de Licitação desta Secretaria ultimará as providências para adquirir junto a entidade competente os ingressos dos jogos dos clubes maranhenses integrantes dos campeonatos e torneios esportivos que envolvam os clubes profissionais do futebol maranhense além de atividades esportivas amadoras bem como de shows e eventos culturais.
+
+Art. 27. O valor do incentivo para aquisição dos ingressos referidos no artigo anterior será distribuído aos clubes obedecendo aos percentuais informados, em documento específico para esse fim, pela Federação Maranhense de Futebol – FMF ou por entidade por ela autorizada, com resultado do prévio ajuste entre os interessados.
+
+Parágrafo único. Os incentivos serão concedidos mensalmente, a partir de setembro/2011, de acordo com os percentuais estabelecidos no documento referido no caput, sendo que no primeiro mês será concedido o montante referente a 50% (cinquenta por cento) do total e o restante nos três meses seguintes.
+
+Art. 28. Os clubes de futebol envolvidos no Programa serão aqueles indicados pela FMF ou outra entidade por ela autorizada, através de documentação de concessão de poderes para esse fim, para participação nos campeonatos e torneios esportivos que envolvam clubes de futebol profissional.
+
+DA OBTENÇÃO DOS BÔNUS PELOS PARTICIPANTES
+
+E DA FORMA DE TROCA POR INGRESSOS
+
+
+Art. 29. Para aquisição de ingressos para eventos esportivos, a cada R$ 100,00 (cem reais) em notas fiscais registrados com o CPF da pessoa física ou a cada lote de 15 documentos fiscais, de qualquer valor, o consumidor participante do Programa terá direito a 01 (um) bônus (“Vale Ingresso”) para troca de ingresso para acesso aos estádios de futebol, o qual deverá ser trocado na sede dos clubes esportivos ou na bilheteria dos estádios onde ocorrerem os eventos esportivos que envolvam os clubes de futebol profissional maranhenses:
+
+
+I – nas sedes dos clubes ou em local designado por estes, até o dia anterior ao evento ou em outros dias e horários por eles fixados, observado o disposto no art. 34;
+
+
+II – nas bilheterias, no dia do evento, até às 12 horas do dia deste.
+
+<!-- p. 14 -->
+§ 1o Caso o participante do Programa tenha adquirido mercadorias ou serviços, mas não tenha atingido o valor mínimo de R$ 100,00 (cem reais) para fazer jus a um bônus, terá direito a 01 (um) bônus a cada lote de 15 (quinze) documentos fiscais.
+
+
+§ 2o Não serão cumulativos o direito ao bônus por valor e por quantidade de documentos fiscais, pois para estes o direito somente ocorrerá se o valor não atingir o limite mínimo de R$ 100,00 (cem reais).
+
+§ 3o Para efeito da troca referida no caput deste artigo, deverá ser observado o limite máximo de 03 (três) bônus para troca por ingressos por rodada conforme tabela a ser divulgada no site do “Viva Nota”.
+
+§ 4o As frações encontradas não serão consideradas para fins de distribuição de bônus.
+
+§ 5o O bônus baixado no sistema, pelo participante do Programa, para determinada rodada do campeonato, terá validade exclusiva para a referida rodada indicada no momento da solicitação desse bônus.
+
+§ 6o Os endereços dos postos de troca, Estádios de Futebol e sedes dos clubes Profissionais referidos nesta Portaria serão divulgados no portal do “Viva Nota”.
+
+Art. 30. O controle da troca do bônus pelo ingresso será feita pelos clubes em sua sede ou no próprio estádio, pelo sistema no site do “Viva Nota”.
+
+§ 1o Ao receber do participante do Programa o bônus ou mesmo somente o número deste e o CPF, o clube deverá inserir no sistema de controle de trocas de ingressos no site do “Viva Nota” o no do bônus ou do CPF para identificar se o mesmo possui direito a ingressos e a quantidade a ser liberada;
+
+§ 2o Após efetuar essa alimentação de dados do participante do Programa e confirmar que a transação foi realizada, deverá ser liberada a quantidade de ingressos que o participante faz jus.
+
+Art. 31. No portal do “Viva Nota” serão disponibilizados a tabela dos jogos, as datas e os estádios de realização das partidas definidas para evento esportivo e a quantidade de ingressos disponível para a troca por documentos fiscais.
+
+Art. 32. Excepcionalmente, devido as peculiaridades na recepção da Dief dos contribuintes do ICMS, no período de 01 de setembro a 20 de outubro de 2011, a quantidade de bônus a ser liberada será condicionada ao simples cadastramento do participante do Programa no site do “Viva Nota” na internet, recebendo este 5 (cinco) bônus para serem utilizados nos eventos esportivos até este período.
+
+Parágrafo único. Os bônus adquiridos na forma do caput deste artigo serão utilizados apenas 01 (um) por rodada da Copa União 2011.
+
+
+DOS TERMOS E PRAZOS DO PROGRAMA
+
+Art. 33. O Programa terá prazo compreendido do dia de seu início, em 1o de setembro
+
+<!-- p. 15 -->
+de 2011, prorrogando-se até seu termo final, o qual será definido posteriormente.
+
+§ 1o A participação dos estabelecimentos contribuintes do ICMS no Programa será implementada pela atividade econômica e obedecerá ao seguinte cronograma:
+
+I – a partir de 1o de setembro de 2011: bares, restaurantes, lanchonetes, padarias e similares, roupas, calçados e acessórios, jogos eletrônicos, equipamentos de informática e softwares;
+
+II – a partir de 1o de outubro de 2011: todos os demais segmentos varejistas.
+
+§ 2o Excetuado o recebimento da devolução de parte do ICMS, o participante do Programa, por força do cronograma disposto no parágrafo anterior, não terá obstada a sua participação na obtenção de bônus para troca em ingressos de competições esportivas e a participação nos sorteios de prêmios em dinheiro.
+
+Art. 34. Os bônus poderão ser solicitados através do sistema no site do “Viva Nota”.
+
+Art. 35. O termo final do Programa “Viva Nota” será definido em ato próprio da Sefaz devendo ser divulgado com antecedência mínima de 30 (trinta) dias.
+
+DAS DISPOSIÇÕES GERAIS
+
+Art. 36. A inscrição dos participantes do Programa, com adesão ao regulamento, implica automaticamente, cessão dos direitos de uso de imagem e voz ao Governo do Estado do Maranhão para divulgação institucional da campanha do Programa “Viva Nota”.
+
+Parágrafo único. A Sefaz se reserva o direito de divulgar os nomes dos contemplados, bem como utilizar suas imagens e sons de vozes, sem que isso implique qualquer direito a remuneração ou indenização aos contemplados.
+
+Art. 37. Os casos omissos ou especiais serão resolvidos em primeira instância pela coordenação da campanha e em instância superior pelo Secretário de Estado da Fazenda.
+
+
+AKIO VALENTE WAKYIAMA Secretário de Estado da Fazenda, Em Exercício
+<<<DOC normas/portaria/portaria-470-2017-16748.md>>>
+---
+documento: "PORTARIA Nº 470, DE 13 DE OUTUBRO DE 2017"
+tipo: portaria
+numero: 470
+data: "2017-10-18"
+ementa: "Prorrogar, excepcionalmente, até 27 de outubro de 2017, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da DIEF referente ao mês de setembro de 2017."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=eeb23e20-15c5-4624-bfee-b5045ea76e16
+atualizado_na_fonte: "2026-10-22 09:45:20"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 470, DE 13 DE OUTUBRO DE 2017
+
+_Prorrogar, excepcionalmente, até 27 de outubro de 2017, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da DIEF referente ao mês de setembro de 2017._
+
+**Data:** 2017-10-18 (data no portal: 2017-10-13 (divergente do PDF))  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 470/2017 - GABIN
+D.O.E. 23.10.2017.
+
+SÃO LUÍS, 18 DE OUTUBRO DE 2017.
+
+
+O Secretário de Estado da Fazenda, em exercício, no uso de suas atribuições legais,
+
+RESOLVE:
+
+Art. 1º Prorrogar, excepcionalmente, até 27 de outubro de 2017, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF referente ao mês de setembro de 2017.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+Secretaria de Estado da Fazenda, em São Luís, 18 de outubro de 2017.
+
+MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício.
+<<<DOC normas/portaria/portaria-470-2021-20328.md>>>
+---
+documento: "PORTARIA Nº 470, DE 03 DE NOVEMBRO DE 2021"
+tipo: portaria
+numero: 470
+data: "2021-11-03"
+ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3a1c3cf6-7fd6-44de-ae32-bb6fd3224994
+atualizado_na_fonte: "2026-10-19 09:56:33"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.4, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 470, DE 03 DE NOVEMBRO DE 2021
+
+_Altera o Anexo III da Portaria 535/2015 - GABIN._
+
+**Data:** 2021-11-03  
+**Remete a:** Anexo 1.4, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 470/21 - GABIN.
+DOE nº 208, de 08.11.21
+
+SÃO LUÍS, 03 DE NOVEMBRO DE 2021.
+
+
+Altera o Anexo III da Portaria 535/2015 - GABIN.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+RESOLVE:
+
+Art. 1º Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 2015, que trata da previsão de consumo de óleo diesel marítimo nas operações internas destinadas às operadoras maranhenses do Sistema Ferry Boat, prevista no art. 25 do Anexo 1.4 do RICMS, aprovado pelo Decreto nº 19.714/03, que passa a vigorar com a seguinte redação:
+
+
+
+ANEXO III - DA PORTARIA 535/2015 – GABIN
+
+PREVISÃO DO CONSUMO DE ÓLEO DIESEL DO PERÍODO 12.2021
+
+NOME DA DISTRIBUIDORA CNPJ DA DISTRIBUIDORA
+
+MÊS DA PREVISÃO
+
+LITROS PREVISTOS
+
+IPIRANGA PRODUTOS DE PETRÓLEO SA
+
+33.337.122/0043-86 12.2021 315.000,00
+
+TOTAL: 12.2021 315.000,00 RELAÇÃO DAS EMPRESAS DE TRANSPORTE FERRY BOAT CREDENCIADAS PARA USO DO BENEFÍCIO PREVISTO NO ART. 25 DO ANEXO 1.4 DO RICMS, NO PERÍODO 12.2021.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+NOME CNPJ
+
+SERVIPORTO – SERVIÇOS PORTUÁRIOS LTDA
+12.097.762/0001 - 37
+
+INTERNACIONAL MARÍTIMA LTDA
+12.539.110/0001 - 05
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de dezembro de 2021.
+
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 03 DE NOVEMBRO DE 2021.
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-472-2009-13174.md>>>
+---
+documento: "PORTARIA Nº 472, DE 10 DE NOVEMBRO DE 2009"
+tipo: portaria
+numero: 472
+data: "2009-11-10"
+ementa: "Os incisos I e II do art. 2º da portaria Nº 423/GABIN de 18 de setembro de 2009, passam a vigorar com a seguinte redação..."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2f40e1d8-5ddb-4fa3-be80-d1c06393cd23
+atualizado_na_fonte: "2026-10-28 14:58:52"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 472, DE 10 DE NOVEMBRO DE 2009
+
+_Os incisos I e II do art. 2º da portaria Nº 423/GABIN de 18 de setembro de 2009, passam a vigorar com a seguinte redação..._
+
+**Data:** 2009-11-10  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 472/GABIN
+
+SÃO LUIS, 10 DE NOVEMBRO DE 2009
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições,
+
+R E S O L V E
+
+Art. 1º Os incisos I e II do art. 2º da portaria Nº 423/GABIN de 18 de setembro de 2009, passam a vigorar com a seguinte redação:
+
+
+I - apresente em seus livros fiscais, valor total de saída inferior a 70% do valor calculado das entradas, caso o contribuinte esteja enquadrada no regime normal de apuração do ICMS;
+
+II - apresente valor do faturamento inferior a 70% do valor calculado das entradas, no caso de contribuinte enquadrado no Simples Nacional;
+
+Art. 2º Esta Portaria entra em vigor na data da sua publicação.
+
+CLAUDIO JOSÉ TRINCHÃO SANTOS
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-473-2004-12570.md>>>
+---
+documento: "PORTARIA Nº 473, DE 10 DE AGOSTO DE 2004"
+tipo: portaria
+numero: 473
+data: "2004-08-10"
+ementa: "Dispõe sobre o acesso ao banco de dados, especificamente para consulta e impressão de listagens de notas fiscais de entrada e saída de mercadorias, relativas às operações interestaduais promovidas por contribuintes localizados neste Estado."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=844ccb14-3f04-4aba-801d-30cfaa0de154
+atualizado_na_fonte: "2026-10-27 09:22:19"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 473, DE 10 DE AGOSTO DE 2004
+
+_Dispõe sobre o acesso ao banco de dados, especificamente para consulta e impressão de listagens de notas fiscais de entrada e saída de mercadorias, relativas às operações interestaduais promovidas por contribuintes localizados neste Estado._
+
+**Data:** 2004-08-10  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA Portaria no 0473/2004 - GABIN São Luís, 10 de agosto de 2004.
+
+Dispõe sobre o acesso ao banco de dados, especificamente para consulta e impressão de listagens de notas fiscais de entrada e saída de mercadorias, relativas às operações interestaduais promovidas por contribuintes localizados neste Estado.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições e considerando deliberação aprovada na 38a reunião ordinária da Câmara de Planejamento e Política Tributária, realizada em 10 de agosto de 2004,
+
+R E S O L V E
+Art. 1o Determinar que o acesso ao banco de dados, especificamente para consulta e impressão de listagens de notas fiscais de entrada e saída de mercadorias, relativas às operações interestaduais promovidas por contribuintes localizados neste Estado, compete aos:
+I - gestores chefes da Cegat, da Cegaf, das Ufres, do Cotaf, da Correg e dos Postos Fiscais;
+II - Auditores Fiscais da Receita Estadual lotados nas Unidades indicadas no inciso anterior.
+Parágrafo único. A Cegat, a Cegaf e a Correg informarão, por meio de memorando, os nomes, cargos e matrículas dos servidores credenciados para liberação de acesso pela Uninf.
+
+Art. 2o As listagens de que trata o caput do artigo anterior serão emitidas, exclusivamente, para fins de:
+
+I – auditoria fiscal previamente autorizada e prevista na programação fiscal;
+
+II – apuração de denúncia, solicitada pela Correg;
+III – baixa, suspensão ou reativação no CAD-ICMS;
+IV – em casos especiais, por solicitação expressa de gestor da Cegaf ou Cegat, especificando o seu objetivo.
+
+Art. 3o O uso das informações contidas nas referidas listagens é restrito aos gestores chefes das unidades nominadas no art. 1o. e aos Auditores Fiscais da Receita Estadual, designados por Autorização para Execução de Serviços – Apes.
+
+<!-- p. 2 -->
+Art. 4o Para a emissão do relatório de que trata esta Portaria, o emitente deverá indicar, no campo destinado à informação do motivo, o número do expediente constante no Termo de Início, em se tratando de auditoria fiscal.
+
+Art. 5o O credenciamento de acesso, aludido nesta Portaria, ficará automaticamente suspenso, nos casos de afastamento do servidor, em virtude de férias ou licença de qualquer natureza.
+
+Art. 6o Esta Portaria entra em vigor na data de sua publicação, produzindo seus efeitos a partir desta data, revogando-se as disposições em contrário e em especial a Portaria Nº 432, de 9 de maio de 2002.
+
+Dê-se ciência, Publique-se e cumpra-se.
+
+
+José de Jesus do Rosário Azzolini
+
+Secretário de Estado da Fazenda
+
+
+
+
+
+CEGAT / FISC / AS
+<<<DOC normas/portaria/portaria-473-2009-13175.md>>>
+---
+documento: "PORTARIA Nº 473, DE 10 DE NOVEMBRO DE 2009"
+tipo: portaria
+numero: 473
+data: "2009-11-10"
+ementa: "Aprova o Procedimento Operacional Padrão (POP) que dispõe sobre a regularização de Termo de Verificação Fiscal - TVI relativos ao ICM e ICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=93f0fc37-3ef4-421e-8ba5-f90489e1670a
+atualizado_na_fonte: "2026-10-28 14:58:44"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 473, DE 10 DE NOVEMBRO DE 2009
+
+_Aprova o Procedimento Operacional Padrão (POP) que dispõe sobre a regularização de Termo de Verificação Fiscal - TVI relativos ao ICM e ICMS._
+
+**Data:** 2009-11-10  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA N º 473/GABIN DE 10 DE NOVEMBRO DE 2009.
+
+
+Aprova o Procedimento Operacional Padrão (POP) que dispõe sobre a regularização de Termo de Verificação Fiscal - TVI relativos ao ICM e ICMS.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições,
+
+R E S O L V E:
+
+Art. 1º Aprovar o Procedimento Operacional Padrão (POP) nº 01/09 que
+
+disciplina a regularização de Termo de Verificação Fiscal - TVI relativos ao ICMS, cujos
+
+valores estão em aberto na conta corrente “5”.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 10 DE NOVEMBRO DE 2009.
+
+CLAUDIO JOSÉ TRINCHÃO SANTOS Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-478-2015-15340.md>>>
+---
+documento: "PORTARIA Nº 478, DE 15 DE OUTUBRO DE 2015"
+tipo: portaria
+numero: 478
+data: "2015-10-15"
+ementa: "Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complementação da alíquota do ICMS."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f919d4fa-4309-43d2-a3cf-27a7dd6f774f
+atualizado_na_fonte: "2026-10-27 18:17:30"
+extraido_em: "2026-11-18"
+remete_a: "RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 478, DE 15 DE OUTUBRO DE 2015
+
+_Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complementação da alíquota do ICMS._
+
+**Data:** 2015-10-15  
+**Remete a:** RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+PORTARIA nº 478/2015 - GABIN/SEFAZ
+
+São Luís (MA), 15 de outubro de 2015.
+
+
+Altera o Anexo Único da Portaria 390/15, que dispõe sobre a complementação da alíquota do ICMS, relativa às operações ou prestações provenientes de unidades da Federação que concedem benefícios fiscais não autorizados por convênio celebrado nos termos da Lei Complementar nº 24, de 7/1/1975.
+
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das suas atribuições, e, considerando a necessidade de atualização e consolidação das portarias que disciplina o I do art. 55-A do RICMS, aprovado pelo Decreto 19.714/2003,
+
+
+R E S O L V E:
+
+
+Art. 1o Alterar o Anexo Único da Portaria 390/15, de 17 de agosto de 2015, que passa a vigorar com a redação dada pelo anexo desta Portaria.
+
+Art. 2o Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, São Luis, 15 de outubro de 2015.
+
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+ANEXO DA PORTARIA No 478 /2015 - GABIN- SEFAZ de 15 de outubro de 2015.
+
+(Altera o Anexo Único da Portaria 390/15)
+
+“ANEXO ÚNICO” UF de Origem Produto/Atividade/Empresa Percentual de ICMS complementar a ser cobrado sobre a base de
+
+cálculo PA Produtos ILDA/Laticínios Ind. e Com de Laticínios da Amazônia Ltda. - ILDA
+
+10%
+
+PA Bebida quente (uísque, vodca, vinho, champanhe, conhaque e etc.)
+
+7%
+
+PA Comércio atacadista/Centro de Distribuição ou Varejista. Obs.: mediante Regime Especial
+
+11%
+
+PA Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.
+
+8%
+
+TO Arroz, exceto em casca, proveniente da indústria de beneficiamento.
+
+10%
+
+TO Gado bovino – carne em estado natural, resfriada ou congelada.
+
+7%
+
+TO Gado bovino destinado ao abate, saídas praticadas por produtor rural.
+
+9%
+
+TO Gado bovino – carne desossada embalada a vácuo.
+
+7%
+
+TO Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.
+
+10%
+
+TO Comércio Atacadista / Centro de Distribuição. Obs.: exclusivamente por meio de Termo de Acordo de Regime Especial (TARE)
+
+11%
+
+PI Todas as mercadorias do regime normal de tributação remetidas por atacadistas e distribuidores.
+
+8%
+
+PI Camarão de cativeiro 12% PI Pescados, exceto crustáceos, moluscos, hadoque, bacalhau, salmão e rã.
+
+12%
+
+PI Bebida quente (uísque, vodca, vinho, champanhe, conhaque, etc.)
+
+5%
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PI Medicamentos, produtos farmacêuticos e materiais hospitalares por estabelecimento Atacadista / Centro de Distribuição.
+
+10,5%
+
+GO Frigorífico ou abatedor na saída para comercialização ou industrialização de carne fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo comestível, resultantes do abate ou da industrialização em seu estabelecimento de asinino, bovino, bufalino, equino, muar, ovino, caprino, leporídeo e ranídeo, adquiridos em operação interna com a isenção de que trata o inciso CXVI do art. 6o do Decreto 4852, de 29/12/1997 ou criados pelo beneficiário de crédito outorgado ou por produtor rural a ele integrado.
+
+9%
+
+GO Arroz, exceto em casca. 9% GO Estabelecimento de comércio Atacadista / Centro de Distribuição que destinem mercadoria para comercialização, produção ou industrialização.
+
+3%
+
+GO Saída de medicamentos de uso humano promovida por estabelecimento Atacadista / Centro de Distribuição
+
+4%
+
+CE Saídas de mercadorias em geral promovidas por estabelecimento Atacadista / Centro de Distribuição.
+
+2%
+
+CE Saídas de medicamentos, produtos farmacêuticos e materiais hospitalares promovidas por estabelecimento Atacadista / Centro de Distribuição, em operação de venda ou transferência.
+
+6%
+<<<DOC normas/portaria/portaria-479-2015-15341.md>>>
+---
+documento: "PORTARIA Nº 479, DE 02 DE OUTUBRO DE 2015"
+tipo: portaria
+numero: 479
+data: "2015-10-02"
+ementa: "Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=11c2a62a-cd56-4a0e-a7b3-628062897a80
+atualizado_na_fonte: "2026-10-27 18:17:04"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 479, DE 02 DE OUTUBRO DE 2015
+
+_Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado._
+
+**Data:** 2015-10-02  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 479/15 - GABIN DE 02 DE OUTUBRO 2015
+
+Edição: 194 Publicação: 20/10//2015
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+
+R E S O L V E:
+Art. 1º Alterar o valor de referência para fins de cobrança de ICMS do produto abaixo discriminado.
+
+
+PRODUTO UNIDADE VALOR R$
+
+Psiu Água Mineral 1.500 ml 1,40
+
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, São Luis 02 de outubro 2015
+
+
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-484-2009-13176.md>>>
+---
+documento: "PORTARIA Nº 484, DE 24 DE NOVEMBRO DE 2009"
+tipo: portaria
+numero: 484
+data: "2009-11-24"
+ementa: "Excluir do regime de antecipação do imposto previsto nos incisos III, IV e VI do art. 64-A do Regulamento do ICMS, aprovado pelo Decreto nº. 19.714, de 10 de julho de 2003, o contribuinte ERIC JAN ROORDA, Inscrição Estadual nº. 12.177.823-1, situado Na Fazenda Pequena Holanda Zona Rural - Alto Parnaíba Ma..."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0ef3aade-56d3-41f9-b117-03b939373575
+atualizado_na_fonte: "2026-10-28 14:58:35"
+extraido_em: "2026-11-18"
+remete_a: "RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 484, DE 24 DE NOVEMBRO DE 2009
+
+_Excluir do regime de antecipação do imposto previsto nos incisos III, IV e VI do art. 64-A do Regulamento do ICMS, aprovado pelo Decreto nº. 19.714, de 10 de julho de 2003, o contribuinte ERIC JAN ROORDA, Inscrição Estadual nº. 12.177.823-1, situado Na Fazenda Pequena Holanda Zona Rural - Alto Parnaíba Ma..._
+
+**Data:** 2009-11-24  
+**Remete a:** RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+GABINETE DO SECRETÁRIO
+
+PORTARIA N°484/2009 GABIN
+
+SÃO LUÍS, 24 de NOVEMBRO de 2009
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais e tendo em vista o disposto no § 3º do Art. 65 do Regulamento do ICMS, aprovado pelo Decreto nº. 19.714, de 10 de julho de 2003, e o que consta no Processo nº. 391/2007 – Balsas – Ma.
+
+R E S O L V E
+
+Art. 1° Excluir do regime de antecipação do imposto previsto nos
+
+incisos III, IV e VI do art. 64-A do Regulamento do ICMS, aprovado pelo Decreto
+
+nº. 19.714, de 10 de julho de 2003, o contribuinte ERIC JAN ROORDA, Inscrição
+
+Estadual nº. 12.177.823-1, situado Na Fazenda Pequena Holanda – Zona Rural -
+
+Alto Parnaíba – Ma.
+
+Art. 2º O recolhimento do imposto pelo estabelecimento indicado
+
+no art. 1º, far-se-á no 20º dia do mês subseqüente ao da operação.
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação,
+
+produzindo efeitos a partir de 1º de Janeiro de 2010.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA - SÃO LUÍS, 24 de NOVEMBRO de 2009.
+
+CLÁUDIO JOSÉ TRINCHÃO SANTOS
+
+Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-484-2011-13476.md>>>
+---
+documento: "PORTARIA Nº 484, DE 14 DE SETEMBRO DE 2011"
+tipo: portaria
+numero: 484
+data: "2011-09-14"
+ementa: "Definir, com base no § 6°, do artigo 66 da Lei nº 7.799, de 19 de dezembro de 2002, outras hipóteses de suspensão de ofício de inscrição estadual de contribuintes maranhenses."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1825f6eb-7ffa-49de-97d9-598c406aead2
+atualizado_na_fonte: "2026-10-28 14:39:00"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 3.3, RICMS, CTE"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 484, DE 14 DE SETEMBRO DE 2011
+
+_Definir, com base no § 6°, do artigo 66 da Lei nº 7.799, de 19 de dezembro de 2002, outras hipóteses de suspensão de ofício de inscrição estadual de contribuintes maranhenses._
+
+**Data:** 2011-09-14  
+**Remete a:** Anexo 3.3, RICMS, CTE  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA N° 484/ GABIN - SÃO LUÍS, 14 DE SETEMBRO DE 2011 DOE 19.09.11
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, em Exercício, no uso de suas atribuições,
+
+R E S O L V E:
+
+Art. 1º- Definir, com base no § 6°, do artigo 66 da Lei nº 7.799, de 19 de dezembro de 2002, outras hipóteses de suspensão de ofício de inscrição estadual de contribuintes maranhenses.
+
+Art. 2º- Será suspensa de ofício a inscrição do contribuinte usuário de Equipamento Emissor de Cupom Fiscal-ECF que não efetuar o cadastro nesta Secretaria do Programa Aplicativo Fiscal-PAF-ECF de que trata o Convênio ICMS 15/2008, em uso em seu estabelecimento, considerando que:
+
+I. A obrigatoriedade do uso Programa Aplicativo Fiscal-PAFECF por contribuintes usuários de Equipamento Emissor de Cupom Fiscal-ECF está estabelecido no
+§ 5º do artigo 2º e incisos II e III do artigo 3º do anexo 3.3 do Regulamento do RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003.
+
+II. O prazo da obrigatoriedade estabelecido no § 5º do artigo 2º do Anexo 3.3, que trata da substituição dos Programas Aplicativos pelos contribuintes usuários de ECF, autorizados até 30 de abril de 2010, para Programa Aplicativo Fiscal-PAF-ECF, foi prorrogado para a até 31 de dezembro 2010, conforme Decreto nº 27.017, de outubro de 2010;
+
+III. A partir de 01 de janeiro de 2011, todos os contribuintes usuários de Equipamento Emissor de Cupom Fiscal estão obrigados a usar somente Aplicativo Fiscal- PAF-ECF de que trata o Convênio ICMS 15/2008.
+
+Art. 3º O cadastramento do Aplicativo Fiscal-PAF-ECF de que trata o Convênio ICMS 15/2008 será feito pelo contribuinte no ambiente sefaznet disponível no sitio da sefaz.ma.gov.br, aplicação Auto Atendimento->ECF->Cadastro PAF-ECF.
+
+Art. 4º A suspensão de que trata o artigo 2º ocorrerá no prazo de 10(dez), a partir da publicação desta Portaria.
+
+Art. 5º- Esta Portaria entra em vigor na data da sua publicação.
+
+RAIMUNDO JOSÉ RODRIGUES DO NASCIMENTO
+
+Secretario de Estado da Fazenda, em exercício
+<<<DOC normas/portaria/portaria-484-2019-19685.md>>>
+---
+documento: "PORTARIA Nº 484, DE 19 DE AGOSTO DE 2019"
+tipo: portaria
+numero: 484
+data: "2019-08-19"
+ementa: "Aprova o Procedimento Operacional Padrão - POP nº. 1/2019."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=8e1365a9-0ef5-4958-b212-e619b26cebdf
+atualizado_na_fonte: "2026-10-14 09:00:05"
+extraido_em: "2026-11-18"
+remete_a: "RICMS"
+situacao: "REVOGADA"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 484, DE 19 DE AGOSTO DE 2019
+
+_Aprova o Procedimento Operacional Padrão - POP nº. 1/2019._
+
+**Data:** 2019-08-19  
+**Remete a:** RICMS  
+**Situação:** REVOGADA
+
+> REVOGADA pela portaria conjunta 2/2019 (norma não está na base), segundo anotação no cabeçalho do próprio PDF: "REVOGADA PELA PORTARIA CONJUNTA Nº 02/19"
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+PORTARIA N º 484/2019 – SEFAZ DOE nº 160, de 23.08.19
+
+REVOGADA PELA PORTARIA CONJUNTA Nº 02/19
+
+SÃO LUIS, 19 DE AGOSTO DE 2019.
+
+Aprova o Procedimento Operacional Padrão - POP nº. 1/2019.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições,
+
+R E S O L V E:
+
+Art. 1º Aprovar o Procedimento Operacional Padrão - POP nº 1/2019 constante do Anexo, que trata dos procedimentos relativos às restituições de receitas tributárias e não tributárias, inclusive do Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão – Nota Legal, bem como, do repasse dos honorários advocatícios no âmbito da Procuradoria Geral do Estado, do Fundo de Desenvolvimento da Agropecuária do Estado do Maranhão (FUNDEPEC) do Fundo Estadual de Pensão e Aposentadoria (FEPA), Fundo de Aparelhamento da Defensoria Pública do Estado (FADEP) e do Fundo de Benefícios dos Servidores do Estado do Maranhão (FUNBEN), ainda o repasse à empresa credenciada pelo DETRAN/MA dos valores da parcela da taxa contrato/veículo/DETRAN/MA, da parcela aos municípios das multas de trânsito municipal e estadual e da parcela da taxa de remoção à VIP Leilões.
+
+Art. 2º. Fica revogada a Portaria de nº 001/2015 e seus anexos.
+
+Art. 3º. Esta Portaria entra em vigor na data de sua publicação,
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE
+
+SECRETARIA DE ESTADO DA FAZENDA, em São Luís, 19 de agosto de 2019.
+
+<!-- p. 2 -->
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
+
+
+Secretaria de Estado da Fazenda do Maranhão
+
+Procedimento Operacional Padrão
+
+POP Nº. 1/2019
+
+Aprovado em: 12 de março de 2019 Objetivos Estabelecer procedimentos relativos ao processo de Arrecadação de Receitas Estaduais:
+
+1. Restituição de tributos estaduais pagos indevidamente ou a maior, qualquer que tenha sido o ano da cobrança;
+
+2. Repasse do produto da arrecadação;
+
+3. Restituição de parte do acréscimo de ICMS prevista na Lei 10.279/15 que institui o Programa de Estímulo à
+
+Cidadania Fiscal do Estado do Maranhão;
+
+4. Repasse do Fundo de Desenvolvimento da Agropecuária do Estado do Maranhão (FUNDEPEC);
+
+5. Repasse do Fundo Estadual de Pensão e Aposentadoria (FEPA);
+
+6. Repasse ao Fundo de Benefícios dos Servidores do Estado do Maranhão (FUNBEN);
+
+7. Repasse dos honorários advocatícios;
+
+8. Repasse dos valores parcela da taxa contrato/veículo/DETRAN/MA;
+
+9. Repasse da parcela aos municípios das multas de trânsito municipal e estadual;
+
+10. Repasse da parcela da taxa de remoção e guarda de veículo.
+
+Documentos/sistemas envolvidos: • Sistema Integrado de Administração Tributária – SIAT
+
+• Contrato de Prestação de Serviços com Agentes Arrecadadores
+
+• Nota de Crédito - NC
+
+• Relatório de Repasse de Transferências Constitucionais - RTC
+
+• Artigos 165 a 169 da Lei nº. 5.172, de 25/10/66 – (CTN)
+
+• Artigo 88 do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 19.714, de 10/07/03
+
+• Lei Complementar nº. 63, de 11/11/90
+
+• Lei Complementar nº 65, de 03/12/2003.
+
+ Lei Complementar nº 168, de 19/11/2014
+
+• Lei Estadual nº. 5.599, de 24/12/92
+
+• Lei Federal nº. 11.494, de 20/06/07 (FUNDEB)
+
+<!-- p. 3 -->
+• Lei nº 10.279/15 de 10/07/2015 (Nota Legal)
+
+• Resolução CGSN nº 94, de 29 de novembro de 2011;
+
+• Resolução CGSN nº 100, de 27 de junho de 2012;
+
+• Fundo de Desenvolvimento da Agropecuária do Estado do Maranhão (FUNDEPEC).
+
+• Lei Complementar n°. 35, de 12 de setembro de 1997 (FEPA)
+
+• Lei Estadual n°.7.374, de 31 de março de 1999 (FUNBEN);
+
+ Portaria 315/2016 – GABIN SEFAZ
+
+ Portaria 588/2015 (Nota Legal);
+
+
+Responsável Procedimentos Solicitante
+
+1. Solicita a restituição junto à Secretaria da Fazenda, observadas as seguintes condições:
+
+a) Se for contribuinte do ICMS, a restituição será realizada na forma de crédito em sua
+
+escrita fiscal, salvo os casos previstos no art. 88, §2º do RICMS que trata de restituição em moeda corrente;
+
+b) Se for contribuinte de IPVA ou de ITCD e nos demais caso de devolução em moeda
+
+corrente, o solicitante deverá por meio de requerimento, informar o nome completo, endereço, RG e CPF, anexando o comprovante bancário da conta corrente ou poupança do solicitante ou procurador para o crédito da restituição;
+
+c) Quando se tratar de receita não vinculada a órgão do poder Executivo Estadual, a
+
+restituição deverá ser requerida e concedida pelo órgão competente, exceto quando o solicitante for um agente arrecadador;
+
+d) Quando se tratar de multas, taxas e demais receitas cuja competência da arrecadação
+
+não seja da SEFAZ, a restituição deverá ser requerida e concedia pelo órgão competente, exceto quando se tratar de receitas não repassadas aos órgãos, bem como solicitado pelo agente arrecadador;
+
+e) Quando se tratar de restituição de crédito de ICMS, prevista na Lei 10.279/15 que instituiu o Programa de Estímulo à Cidadania Fiscal do Estado do Maranhão – Nota Legal, a restituição deverá ser requerida eletronicamente no sistema do programa, devendo o solicitante proceder da seguinte forma: • Acessa a página do programa: notalegal.sefaz.ma.gov.br; • Consulta os créditos referentes à restituição de ICMS, na guia “consultar conta corrente”; • Verifica o valor a título de crédito; • Solicita o crédito correspondente junto à Secretaria da Fazenda, informando o banco, agência, a conta corrente ou conta poupança.
+
+2. Recepciona a solicitação e formaliza o processo de restituição.
+
+a) Se o requerente for um agente arrecadador, encaminha o processo à CEGAT/COTEA/Área de Acompanhamento para emissão de parecer;
+
+<!-- p. 4 -->
+Protocolo da SEFAZ
+
+b) Se o requerente for contribuinte do IPVA, encaminha o processo à CEGAT/COTEA/Área de IPVA para emissão de parecer;
+c) Se o requerente for contribuinte do ITCD, encaminha o processo à CEGAT/COTEA/Área de ITCD para emissão de parecer;
+d) Se o requerente for contribuinte de ICMS, encaminha o processo à CEGAT/COTET
+
+para emissão do parecer;
+
+Nota importante: Não receber requerimento de restituição:
+
+ De multas, taxas e demais receitas cuja competência da arrecadação não seja da
+
+SEFAZ, nesse caso orienta o requerente para solicitar a restituição junto ao órgão competente, exceto quando se tratar de receitas não repassadas aos órgãos, nesse caso encaminha para CEGAT/COTEA/Área de Acompanhamento para emissão de parecer;
+
+• De créditos de ICMS no âmbito do programa de estimula a cidadania, devendo orientar que essa restituição deverá ser requerida e concedida por meio eletrônico, acessando a página do programa no site notalegal.sefaz.ma.gov.br.
+
+CEGAT/COTEA/ Acompanhamento da
+
+Receita/IPVA/ITCD
+
+
+
+3. Emite parecer nos processos de restituição de agente arrecadador, IPVA, ITCD e demais receitas:
+Se a solicitação tratar de pagamento em duplicidade, a maior ou equivocado, analisa e emite parecer:
+A solicitação é procedente?
+
+a) Sim: encaminha o processo ao GABIN para autorização do Secretário.
+
+b) Não: encaminha o processo para a agência de circunscrição do contribuinte para
+
+cientificação.
+Nota importante: Se a solicitação tratar de pagamento indevido, em virtude de interpretação da legislação, encaminha o processo à CEGAT/Cotet para emissão de parecer.
+CEGAT/COTET/
+
+Normatização
+
+4. Emite parecer nos processos de restituição de ICMS, inclusive de Simples Nacional.
+A solicitação é procedente?
+
+a) Sim: encaminha o processo ao GABIN para autorização do Secretário.
+
+b) Não: encaminha o processo para a agência de circunscrição do contribuinte para
+
+cientificação.
+
+
+Coordenador do Programa de Estimula
+
+5. Procede à análise das solicitações de restituição do crédito de ICMS, conforme as
+
+modalidades abaixo:
+
+a) Crédito em conta corrente ou poupança:
+
+<!-- p. 5 -->
+a Cidadania – Nota Legal
+
+ Gerar arquivo dos créditos de ICMS no âmbito do programa Nota Legal para permitir a dedução do valor da nota de crédito e a transferência do valor deduzido para a conta transitória do programa Nota Legal;  Proceder à conciliação da conta transitória do programa “Nota Legal” para verificar se o valor do crédito informado na Nota de Crédito foi creditado na conta transitória do programa “Nota Legal”;  Gerar o arquivo com os valores referentes aos créditos solicitados pelos beneficiários do programa e encaminhar ao agente centralizador - Banco do Brasil, via sistema gerenciador BB;  Liberar e assinar, em conjunto com outro servidor SEFAZ autorizado, o arquivo na conta corrente 7406-3 no sistema gerenciador do Brasil;  Verificar se no arquivo retorno do Banco do Brasil há alguma inconsistência que tenha impossibilitado o recebimento do crédito pelo beneficiário do programa Nota Legal. Caso positivo, sanar a inconsistência e encaminhar a solicitação novamente para o crédito na conta do beneficiário.  Encaminhar arquivos de retorno BB, por email, endereçados ao setor de banco de dados da SEFAZ e cópia à Central de Serviços para atualização do sistema Nota Legal.
+
+b) Desconto do IPVA:
+
+ Monitorar as solicitações de desconto de IPVA via sistema;  Acompanha o procedimento de conversão do crédito de restituição de ICMS
+
+em desconto do IPVA, observando a Portaria 588/2015;  Gerar, ao final do calendário do exercício do IPVA, para crédito na conta
+
+IPVA, arquivo contendo o valor exato do montante solicitado pelo consumidor a título de resgate para abatimento de IPVA  Liberar e assinar, em conjunto com outro servidor SEFAZ autorizado, o
+
+arquivo na conta corrente 7406-3 no sistema gerenciador do Brasil;  Emitir relatório contendo o montante das solicitações de desconto do IPVA,
+
+para envio à CEGAT/COTEA;
+
+c) Recarga bonificada de celular:
+
+ Monitorar via sistema, as solicitações de conversão de créditos em recarga
+
+bonificada de celular;  Gerar, mensalmente, arquivo de remessa BB, por operadora, com o valor do
+
+repasse Nota Legal correspondente.  Liberar e assinar, em conjunto com outro servidor SEFAZ autorizado, o
+
+arquivo na conta corrente 7406-3 no sistema gerenciador do Brasil;  Emitir relatório mensal, por operadora, contendo o montante das solicitações
+
+de resgate de créditos, incluindo os créditos autorizados e créditos rejeitados;  Verificar se no arquivo retorno do Banco do Brasil há alguma inconsistência que tenha impossibilitado o recebimento do crédito pelo beneficiário do programa Nota Legal. Caso positivo, sanar a inconsistência e encaminhar a solicitação novamente para o crédito na conta do beneficiário.
+
+d) Vale transporte eletrônico:
+
+<!-- p. 6 -->
+ Monitorar, por meio de sistema, as solicitações de conversão de créditos em
+
+vale transporte eletrônicas;  Gerar, quinzenalmente, arquivo de remessa BB, com o valor do repasse Nota
+
+Legal correspondente para a conta da MOB.  Liberar e assinar, em conjunto com outro servidor SEFAZ autorizado, o
+
+arquivo na conta corrente 7406-3 no sistema gerenciador do Brasil;  Emitir relatório quinzenal contendo o montante das solicitações de resgate de
+
+créditos, incluindo os créditos autorizados e créditos rejeitados;
+e) Entidades Beneficentes:
+
+
+ Monitorar, por meio de sistema, as solicitações de conversão de créditos
+
+destinados às entidades beneficentes;  Gerar, quinzenalmente, arquivo de remessa BB, com o valor do repasse Nota
+
+Legal correspondente para as contas das Entidades cadastradas.  Liberar e assinar, em conjunto com outro servidor SEFAZ autorizado, o
+
+arquivo na conta corrente 7406-3 no sistema gerenciador do Brasil;  Emitir relatório quinzenal contendo o montante das solicitações de resgate de
+
+créditos, incluindo os créditos autorizados e créditos rejeitados;  Verificar se no arquivo retorno do Banco do Brasil há alguma inconsistência que tenha impossibilitado o recebimento do crédito pelo beneficiário do programa Nota Legal. Caso positivo, sanar a inconsistência e encaminhar a solicitação novamente para o crédito na conta do beneficiário.  Encaminhar arquivos de retorno BB, por e-mail, endereçados ao setor de banco de dados da SEFAZ e cópia à Central de Serviços para atualização do sistema Nota Legal.
+6. Havendo divergência entre os dados da NC – Nota de Crédito, conta transitória do
+
+programa Nota Legal e o arquivo dos créditos, comunicar por escrito, à Célula de Gestão para Administração Tributária/Arrecadação e Célula de Gestão de Pessoa/COTEC, anexando documentos comprobatórios.
+
+O GABIN
+
+(SEFAZ)
+
+7. Submete o parecer ao Secretário para autorização:
+
+a) Se a restituição for concedida: encaminha a CEGAT/COTEA - Área de
+
+Acompanhamento da Receita para inclusão do valor no módulo de restituição do SIAT;
+b) Se a restituição não for concedida: encaminha para Área de origem do processo;
+CEGAT/COTEA -
+
+Área de Acompanhamento da
+
+Receita
+
+CEGAF/Fiscalização
+
+de Estabelecimentos
+
+8. PROCEDIMENTOS DE RESTITUIÇÕES
+
+1. Restituição de ICMS – em crédito
+
+a) Recebe os processos das restituições concedidas em forma crédito e autorizadas
+
+pelo Secretário.
+
+b) Incorpora os dados do processo no SIAT, módulo de restituição, selecionando o
+
+tipo de restituição = 2 – DIEF.
+
+c) Verifica se o contribuinte se apropriou corretamente do crédito na DIEF, cruzando
+
+o valor declarado com o valor da restituição concedida;
+
+<!-- p. 7 -->
+Nota Importante - Se a restituição for concedida no âmbito do Simples Nacional, encaminhar o processo a Área de Gestão do Simples Nacional para registrar os dados referentes à restituição processada no aplicativo específico do SN, para bloqueio de novas restituições ou compensações no mesmo valor, conforme Resolução CGSN nº 100/2012.
+
+2. Restituição de tributos – em moeda corrente
+
+a) Recebe os processos de restituição concedido autorizados pelo Secretário.
+
+b) Incorpora os dados do processo no SIAT, módulo de restituição selecionando o
+
+tipo de restituição = 1 - Arrecadação.
+
+c) Procede a transferência dos valores a ser restituído na conta bancária do
+
+beneficiado, por meio do gerenciador do banco Brasil;
+
+d) Verifica, se o valor total da restituição foi corretamente contemplado na Nota de
+
+Crédito do Banco Brasil Dare/GNRE, confrontando com o valor indicado no relatório de restituição.
+
+3. Restituição de crédito do Programa Nota Legal
+
+a) Recebe, por meio de e-mail, solicitação da Área – Nota Legal, com a informação
+
+da data e do valor do crédito;
+b) Verifica na Nota de Crédito se o valor informado no campo específico está em
+
+conformidade com o valor dos créditos solicitado e autorizado pelo gestor do programa Nota Legal.
+c) Gera a Nota de Crédito para contemplar o valor da Nota Legal no RTC
+9. PROCEDIMENTOS DE REPASSES DE RECEITAS
+
+1. Geração de Nota de Crédito
+
+a) Gera Nota de Crédito de cada Agente Arrecadador, pelo total arrecadado e pelos
+
+tipos DARE/GNRE, IPVA/TAXA/DETRAN e Simples Nacional pelo banco do Brasil;
+b) Verifica na Nota de Crédito/DARE/GNRE do Brasil, se as deduções das receitas,
+
+referentes aos honorários advocatícios, FUNDEPEC, FEPA, FUNBEN e DETRAN VIP LEILÕES e da Nota legal foram contemplados, conferindo se os valores estão em conformidade com os valores arrecadados nos seus respectivos códigos de receitas.
+c) Verifica na Nota de Crédito/IPVA/DETRAN do Brasil, se as deduções das
+
+receitas, referentes às receitas de DETRAN/CONTRATOS, parcela pertencentes aos municípios das multas de trânsito municipais e estaduais, foram contempladas, conferido se os valores estão em conformidade com o valor arrecadados pelos Agentes Arrecadadores;
+2. Repasse dos valores retidos
+
+<!-- p. 8 -->
+a) Realiza o repasse das receitas honorário advocatício, FUNDEPEC, FEPA
+
+FUNBEN, VIP Leilões e da Nota Legal para suas respectivas contas bancárias, por meio sistema gerenciador do banco do Brasil, em conformidade com os valores indicado na Nota de Crédito DARE/GNRE do Brasil;
+b) Realiza o repasse das receitas honorário advocatício, FUNDEPEC, FEPA e
+
+FUNBEN para suas respectivas contas bancárias, por meio sistema gerenciador do banco do Brasil, em conformidade com os valores indicado na Nota de Crédito DARE/GNRE do Brasil;
+
+c) Encaminha a Nota de Crédito à Secretaria de Estado do Planejamento e Orçamento
+
+para que esta proceda à conciliação bancária da conta única, com os valores informados na respectiva Nota de Crédito;
+
+d) Verifica na conta transitória do Banco do Brasil, por meio do extrato bancário, se
+
+foram debitados os valores a restituir, bem como, os repasses de honorários advocatícios, FUNDEPEC, FEPA, FUNBEN, VIP Leilão e INFOSOLO, parcela da multa estaduais/Bradesco e da parcela da multa municipal constantes na Nota de Crédito no respectivo anexo;
+
+e) Emite Relatório de Repasse de Transferências Constitucionais - RTC, observando
+
+as reduções dos valores restituídos, conforme indicados na Nota de Crédito;
+f) Encaminha, via SEFAZNET, com assinatura digital, a RTC à Secretaria do
+
+Planejamento e Orçamento para conhecimento das operações e demais procedimentos de competência daquela Secretaria.
+SEPLAN
+1. PROCEDIMENTOS DE RECEPÇÃO DOS ARQUIVOS
+a) Recepciona, diariamente, a Nota de Crédito, enviada pela SEFAZ, e procede à conciliação bancária para confirmação dos valores informados na referido documento;
+b) Recepciona, semanalmente, o Relatório de Repasse de Transferências Constitucionais - RTC, observando as reduções dos valores restituídos, conforme indicados na Nota de Crédito.
+2. REPASSE DAS TRANSFERÊNCIAS CONSTITUCIONAIS
+a) Autoriza o Banco do Brasil a efetuar o depósito nas contas dos municípios, com base no Relatório de Repasse de Transferências Constitucionais-RTC, enviado pela SEFAZ nos termos do §§ 6º e 7º do artigo 11 da portaria 351/2016 GABIN SEFAZ.
+<<<DOC normas/portaria/portaria-486-2022-20865.md>>>
+---
+documento: "PORTARIA Nº 486, DE 14 DE SETEMBRO DE 2022"
+tipo: portaria
+numero: 486
+data: "2022-09-14"
+ementa: "Dispõe sobre regras complementares à outorga de crédito de ICMS nas operações de saída interna de etanol hidratado combustível (EHC) promovidas por produtores e distribuidores estabelecidos neste Estado, de que trata a Resolução Administrativa nº 57/22 - GABIN."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=18a4fbd1-c9cc-4af0-90f8-b8d7c8ee77b3
+atualizado_na_fonte: "2026-10-21 09:39:40"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 4.11, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 486, DE 14 DE SETEMBRO DE 2022
+
+_Dispõe sobre regras complementares à outorga de crédito de ICMS nas operações de saída interna de etanol hidratado combustível (EHC) promovidas por produtores e distribuidores estabelecidos neste Estado, de que trata a Resolução Administrativa nº 57/22 - GABIN._
+
+**Data:** 2022-09-14  
+**Remete a:** Anexo 4.11, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 486/2022-GABIN DOE nº 175, de 20.09.22
+
+São Luís, de 14 de setembro de 2022
+
+
+Dispõe sobre regras complementares à outorga de crédito de ICMS nas operações de saída interna de etanol hidratado combustível (EHC) promovidas por produtores e distribuidores estabelecidos neste Estado, de que trata a Resolução Administrativa nº 57/22 - GABIN.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais, e
+
+CONSIDERANDO disposto no art. 578 do RICMS/MA e no art. 2º da Resolução Administrativa nº 57/22 - GABIN, que dispõe sobre a outorga de crédito de ICMS nas operações internas com etanol hidratado combustível, em conformidade com a Emenda Constitucional nº 123, de 14 de julho de 2022, e o Convênio ICMS nº 116, de 27 de julho de 2022, e dá outras providências,
+
+
+R E S O L V E:
+
+Art. 1º Disciplinar, nos termos desta Portaria, regras complementares à concessão de crédito outorgado de ICMS a produtores e distribuidores de etanol hidratado combustível - EHC, assim definidos e autorizados por órgão federal competente, instalados em território maranhense, de forma que a carga tributária resulte em 12% (doze por cento) nas operações de saída interna de EHC em que houver recolhimento do ICMS para o Estado do Maranhão.
+
+Art. 2º O crédito outorgado previsto no caput do art. 1º será concedido mediante ressarcimento, limitado ao montante repassado pela União ao Estado do Maranhão, na forma de auxílio financeiro, nos termos do inciso V do caput do art. 5º da Emenda Constitucional nº 123, de 14 de julho de 2022, e conforme o valor fixado no Anexo Único do Convênio ICMS nº 116, de 27 de julho de 2022.
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+Parágrafo único. O valor do ressarcimento de que trata o caput será liberado de acordo com a efetiva disponibilidade ao Estado do Maranhão das respectivas parcelas mensais do auxílio financeiro da União. Art. 3º O montante do crédito outorgado será rateado entre os produtores e distribuidores de EHC, de forma diretamente proporcional ao número de litros comercializados, e apurado no período de competência anterior ao da fruição do benefício.
+
+Art. 4º A empresa interessada em receber o crédito outorgado de que trata o art. 1º desta Portaria deverá cumprir as seguintes condições:
+
+I - estar estabelecida no território maranhense e regularmente autorizada a funcionar pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP, na data da publicação da Resolução Administrativa nº 57/22 - GABIN, de 29 de agosto de 2022;
+
+II - estar em situações cadastral ativa e fiscal regular perante a SEFAZ;
+III - se distribuidora de EHC, efetuar o correto lançamento na Escrituração Fiscal Digital (EFD) do valor do ICMS recolhido com a respectiva nota fiscal que deu origem ao débito;
+
+IV - se produtor de EHC, efetuar o correto destaque do valor de ICMS na nota fiscal eletrônica – NF-e de venda do produto.
+
+§ 1º A declaração na EFD, de que trata o inciso III do caput deste artigo, deverá ser feita em conformidade com o seguinte procedimento:
+
+I - no registro E220, preencher o valor do campo 04 com o valor do ICMS ST devido nas entradas de EHC e o campo 02 com o código “MA100011 - Apuração ICMS ST/Outros débitos/débito de ICMS ST pela entrada quando não possuir débito de ICMS ST pela saída”;
+
+II - no registro E250, preencher o valor do campo 02 igual a 001 e o valor do campo 03 igual ao campo 04 do registro E220 mencionado no inciso I;
+
+III - no registro E240, informar a relação de notas fiscais que deram origem ao débito de ICMS ST informado no registro E220, de forma a preencher, para cada registro, a chave da nota fiscal no campo 10 e o valor referente ao débito de ICMS ST correspondente a essa nota fiscal no campo 09.
+
+<!-- p. 3 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 2º Na hipótese de entrada interestadual de EHC ocorrida sem a respectiva retenção do ICMS-ST, conforme determina o art. 41-A do Anexo 4.11 do Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003, o adquirente da mercadoria observará o disposto no inciso III do caput deste artigo.
+
+Art. 5º A solicitação de ressarcimento de que trata esta Portaria estará disponível por meio eletrônico, através da plataforma “Processo Administrativo Fiscal Eletrônico/Solicitação Tributária (PAF-e/Solicitação Tributária)”, menu “Outras Solicitações”, disponível no sítio eletrônico da SEFAZ.
+
+§ 1º A solicitação de ressarcimento deverá ser instruída, obrigatoriamente, com os seguintes documentos e informações:
+
+I - relação das informações das Notas Fiscais Eletrônicas - NF-e (modelo
+55) com operações de EHC das quais se requer o crédito outorgado de ICMS, em arquivo “.xls”, conforme modelo do Anexo Único;
+
+II - demonstrativo do efetivo recolhimento do ICMS apurado no período;
+III - valor do ressarcimento que entende devido.
+§2º Na homologação do valor a ser ressarcido pelo fisco, só serão consideradas as NF-e que estiverem associadas a recolhimento ou destaque de ICMS, na forma estabelecida nos incisos III e IV do caput do art. 4º.
+
+Art. 6º As solicitações de ressarcimento deverão ser protocoladas:
+I - até 30 de setembro de 2022, nas operações com EHC realizadas de 1º a 31 de julho de 2022;
+
+II - até 30 de setembro de 2022, nas operações com EHC realizadas de 1º a 31 de agosto de 2022;
+
+III - até 31 de outubro de 2022, nas operações com EHC realizadas de 1º a 30 de setembro de 2022;
+
+IV - até 30 de novembro de 2022, nas operações com EHC realizadas de 1º a 31 de outubro de 2022;
+
+V - até 31 de dezembro de 2022, nas operações com EHC realizadas de 1º a 30 de novembro de 2022.
+
+§ 1º O ressarcimento de que trata esta Portaria somente poderá ser solicitado após a efetiva entrega da EFD do respectivo período objeto do pedido.
+
+<!-- p. 4 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+§ 2º A inobservância dos prazos previstos neste artigo acarretará no indeferimento da concessão do crédito outorgado previsto na Resolução Administrativa nº 57/22-GABIN.
+
+Art. 7º A SEFAZ homologará o valor solicitado por meio de Informação Fiscal, disponibilizado na plataforma eletrônica de que trata o art. 5º desta Portaria.
+
+Parágrafo único. O solicitante poderá apresentar, no prazo de até 2 (dois) dias úteis contados do recebimento da Informação Fiscal, contestação do indeferimento ou do valor do ressarcimento homologado pela SEFAZ.
+
+Art. 8º Após a homologação, por esta Secretaria, do valor de crédito outorgado a ser ressarcido, a empresa solicitante deverá emitir a NF-e de ressarcimento nos seguintes moldes:
+
+I - no campo xNome (ID: E04), preencher como destinatário PETROLEO BRASILEIRO S/A – PETROBRAS;
+
+II - no campo CNPJ do Destinatário (ID: E02), preencher com o CNPJ
+33.000.167/1056-39;
+
+III - no campo CFOP (ID: I08), preencher com o código 5.603 - “Ressarcimento de ICMS retido por substituição tributária”;
+
+IV - no campo do CST (ID: N12), preencher valor igual a “90”;
+V - repercutir no valor da operação o valor homologado pela SEFAZ; VI - no campo Informações Adicionais – “infAdFisco” (ID:Z02) –, preencher: “Nota Fiscal emitida conforme a Portaria nº 486/2022-GABIN. Ressarcimento decorrente de crédito outorgado previsto na Resolução Administrativa nº 57/22 - GABIN, de 29 de agosto de 2022.”
+
+Parágrafo único. O DANFE da NF-e deverá ser apresentado para visto da SEFAZ por meio da plataforma eletrônica de que trata o art. 5º desta Portaria. Art. 9° Esta portaria entra em vigor na data de sua publicação
+
+Art. 9° Esta portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+<!-- p. 5 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-490-2019-19696.md>>>
+---
+documento: "PORTARIA Nº 490, DE 23 DE AGOSTO DE 2019"
+tipo: portaria
+numero: 490
+data: "2019-08-23"
+ementa: "Altera o Anexo III da Portaria 535/2015 - GABIN."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=594cabd7-3a0d-42ff-94b9-a7d8ea06e19f
+atualizado_na_fonte: "2026-10-14 09:01:22"
+extraido_em: "2026-11-18"
+remete_a: "Anexo 1.4, RICMS"
+situacao: "vigente (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 490, DE 23 DE AGOSTO DE 2019
+
+_Altera o Anexo III da Portaria 535/2015 - GABIN._
+
+**Data:** 2019-08-23  
+**Remete a:** Anexo 1.4, RICMS  
+**Situação:** vigente (sem revogação identificada)
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 490/19 - GABIN.
+SÃO LUÍS (MA), 23 DE AGOSTO DE 2019.
+
+Altera o Anexo III da Portaria 535/2015 - GABIN.
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+RESOLVE:
+
+Art. 1º Alterar o Anexo III da Portaria nº 535/GABIN, de 13 de novembro de 2015, que trata da previsão de consumo de óleo diesel marítimo pelas empresas de transporte Ferry Boat credenciadas, que passa a vigorar com a seguinte redação:
+
+
+ANEXO III - DA PORTARIA 535/15 – GABIN
+
+PREVISÃO DO CONSUMO DE ÓLEO DIESEL MARÍTIMO, NO PERÍODO
+
+09/2019
+
+PREVISÃO DO CONSUMO DE ÓLEO DIESEL MARÍTIMO NO PERÍODO
+
+NOME DA DISTRIBUIDORA
+
+CNPJ DA DISTRIBUIDORA
+
+MÊS DA PREVISÃO
+
+LITROS PREVISTOS IPIRANGA PRODUTOS DE PETRÓLEO S/A
+33.337.122/0043-86 09.2019 145.500 TOTAL: 09.2019 145.500
+
+RELAÇÃO DAS EMPRESAS DE TRANSPORTE FERRY BOAT CREDENCIADAS
+
+PARA USO DO BENEFÍCIO PREVISTO NO ART. 25, DO ANEXO 1.4, DO
+
+RICMS/MA, NO PERÍODO 09.2019
+
+NOME CNPJ SERVIPORTO – SERVIÇOS PORTUÁRIOS LTDA
+12.097.762/0001-37
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de setembro de 2019.
+
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 23 DE AGOSTO DE 2019.
+
+MARCELLUS RIBEIRO ALVES Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-491-2021-20332.md>>>
 ---
 documento: "PORTARIA Nº 491, DE 10 DE NOVEMBRO DE 2021"
@@ -8,7 +10584,7 @@ ementa: "Dispensar os contribuintes vinculados aos CNPJ raiz, relacionados no an
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=278e5744-7b64-49cc-99b5-8944a86a0a91
 atualizado_na_fonte: "2026-10-19 09:57:51"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3097,6 +13673,55 @@ ZALTRON COMERCIO DE MATERIAIS P CONSTRUCAO LTDA EPP 07156609 8685 ZALTRON CONDOM
 8691
 
 ZARPLAST INDUSTRIA E COMERCIO DE EMBALAGENS PLASTICAS LTDA - ME 10807785 8692 ZD GAMA DISTRIBUIDORA DE PNEUS LTDA 13022952 8693 ZE DO FEIRA AUTO POSTO LTDA 17262342 8694 ZE DO FEIRA GAS LTDA 33470116 8695 ZE DO FEIRA HOME CENTER LTDA 37462541 8696 ZE SERAFIM COMERCIO DE FERRO E ACO LTDA EPP 23440530 8697 ZENOR C PEREIRA E CIA LTDA 12531962 8698 ZEPPELIN ALIMENTOS E EVENTOS LTDA ME 07018863 8699 ZEUS EMPREENDIMENTOS E CONSTRUCOES LTDA 40348632 8700 ZEZUEDE CALDAS MARINHO SOUSA 13061177 8701 ZILFARMA PRODUTOS FARMACEUTICOS LTDA-EPP 06046371 8702 ZILZA S DA S MESQUITA 01948841 8703 ZIMA C AROUCHA ME 02381095 8704 ZINZANE COMERCIO E CONFECCAO DE VESTUARIO LTDA EPP 05027195 8705 ZONIN & ZONIN COMERCIO E REPRESENTACOES LTDA EPP 21950545 8706 ZORTEA CONSTRUCOES LTDA 83693366 8707 ZUCATELLI AGRONEGOCIOS LTDA 41677699 8708 ZUCATELLI EMPREENDIMENTOS EIRELI 22113403 8709 ZUCATELLI MAQUINAS E VEICULOS LTDA 09244582 8710 ZUCATELLI MOTORES LTDA 08633047 8711 ZUCATRANS MAQUINAS E SERVICOS EIRELI 12558034 8712 ZURIQUE LOCACOES LTDA EPP 18042750 8713 ZURIQUE TRANSPORTES EIRELI 14910516
+<<<DOC normas/portaria/portaria-492-2015-15348.md>>>
+---
+documento: "PORTARIA Nº 492, DE 26 DE OUTUBRO DE 2015"
+tipo: portaria
+numero: 492
+data: "2015-10-26"
+ementa: "Alterar a medida de referência para fins de cobrança de ICMS do produto abaixo discriminado."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c4291a0c-f205-4332-8667-7ffe0920b2cc
+atualizado_na_fonte: "2026-10-27 18:14:51"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 492, DE 26 DE OUTUBRO DE 2015
+
+_Alterar a medida de referência para fins de cobrança de ICMS do produto abaixo discriminado._
+
+**Data:** 2015-10-26  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+PORTARIA Nº 492/15 - GABIN, DE 26 DE OUTUBRO DE 2015.
+DOE 29.10.2015
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso de suas atribuições legais,
+
+R E S O L V E:
+
+Art. 1º Alterar a medida de referência para fins de cobrança de ICMS do produto abaixo discriminado
+
+PRODUTO UNIDADE VALOR R$ Cerveja Skol Ultra 275 ml 2,49
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, São Luís 26 de outubro 2015.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-495-2008-13010.md>>>
 ---
 documento: "PORTARIA Nº 495, DE 04 DE DEZEMBRO DE 2008"
@@ -3107,7 +13732,7 @@ ementa: "Os valores do Imposto sobre a Propriedade de Veículos Automotores – 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=43f50204-4466-487e-8136-3a16acec37e9
 atualizado_na_fonte: "2026-10-28 10:24:12"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3176,6 +13801,87 @@ DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE SECRETARIA DE ESTADO DA FAZENDA, SÃO L
 
 
 JOSÉ DE JESUS DO ROSÁRIO AZZOLINI Secretário de Estado da Fazenda
+<<<DOC normas/portaria/portaria-495-2017-16752.md>>>
+---
+documento: "PORTARIA Nº 495, DE 26 DE OUTUBRO DE 2017"
+tipo: portaria
+numero: 495
+data: "2017-10-26"
+ementa: "Dispõe sobre a criação da Unidade de Auditoria e Monitoramento Especialista em Comércio Exterior da SEFAZ - MA."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6ae200de-2071-4da8-a908-551c22c7d235
+atualizado_na_fonte: "2026-10-22 09:43:14"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 495, DE 26 DE OUTUBRO DE 2017
+
+_Dispõe sobre a criação da Unidade de Auditoria e Monitoramento Especialista em Comércio Exterior da SEFAZ - MA._
+
+**Data:** 2017-10-26  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 495/2017 - GABIN
+D.O.E. 23.11.2017.
+Republicada por incorreções.
+
+SÃO LUÍS, 26 DE OUTUBRO DE 2017.
+
+Dispõe sobre a criação do Grupo de Auditoria e Monitoramento Especialista em Comércio Exterior da SEFAZ-MA.
+
+O SECRETÁRIO DE ESTADO DA FAZENDA, no uso das atribuições que lhe conferem os incisos I, V, XVII do art. 3º da Lei nº 10.151 de 23 de outubro de 2014,
+
+R E S O L V E:
+
+Art. 1º Criar no âmbito desta Secretaria o Grupo de Auditoria e Monitoramento Especialista em Comércio Exterior, com a seguinte estrutura de pessoal: quatro Auditores Fiscais da Receita Estadual (AFRE), um Técnico da Receita Estadual (TRE) e um Assistente Administrativo, podendo esse Grupo ser alterado a qualquer tempo a critério do Secretário da Fazenda.
+
+Art. 2º Ao Grupo de Auditoria e Monitoramento Especialista em Comércio Exterior, subordinado diretamente ao Corpo Técnico da Ação Fiscal - Grandes Contribuintes - COTAF/GC, compete as atividades de planejar, executar e gerenciar as ações de controle e monitoramento fiscal das operações comerciais com o exterior, e:
+
+I - planejar as atividades de desenvolvimento, aperfeiçoamento e captação de dados das operações sob sua responsabilidade, bem como participar com as demais áreas na definição da estrutura de arquivos eletrônicos que contenham informações de natureza cadastral, econômica, tributária ou fiscal;
+
+II - estudar os aspectos técnicos, econômicos e legais dessas operações;
+III - analisar as operações equiparadas a importação e/ou exportação, para subsidiar a elaboração de metas e adoção de medidas estratégicas de combate à sonegação fiscal;
+
+IV - manter intercâmbio com órgãos governamentais que regulamentam ou controlam essas operações e acompanhar a legislação específica expedida por eles;
+
+<!-- p. 2 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA
+
+V - manter intercâmbio com outras unidades da federação para troca de experiências e informações sobre as atividades de sua competência;
+
+VI - participar da elaboração e possíveis alterações da legislação tributária concernente às operações;
+
+VII - acompanhar e executar projetos e ações com outros órgãos governamentais;
+
+VIII - definir mecanismos, instrumentos e sistemas de informática a serem utilizados na execução, acompanhamento e avaliação dos projetos e ações de controle fiscal;
+
+IX - dar despachos, pareceres e informações em processos administrativos ou judiciais;
+
+X - promover o saneamento processual dos autos de infração para a correta tramitação do processo;
+
+XI - operar o Sistema de Controle de Importações analisando as situações de exoneração do ICMS;
+
+XII - efetuar auditorias solicitadas pelo contribuinte para homologação de créditos de ICMS acumulados, em virtude de operações de exportação;
+
+XIII - inserir e controlar os créditos homologados no Sistema Integrado da Administração Tributária - SIAT;
+
+XIV - sugerir aos setores competentes a realização de capacitação para aperfeiçoamento dos integrantes do Grupo;
+
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+SECRETARIA DE ESTADO DA FAZENDA, SÃO LUÍS, 26 DE OUTUBRO DE 2017.
+
+MARCELLUS RIBEIRO ALVES
+
+Secretário de Estado da Fazenda
 <<<DOC normas/portaria/portaria-496-2011-13477.md>>>
 ---
 documento: "PORTARIA Nº 496, DE 20 DE SETEMBRO DE 2011"
@@ -3186,7 +13892,7 @@ ementa: "Deverá ser cobrado antecipadamente na primeira unidade fazendária des
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=96a90703-931a-415e-a3d8-4c8ab666447e
 atualizado_na_fonte: "2026-10-28 14:38:51"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 4.32, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3240,7 +13946,7 @@ ementa: "Deverá ser cobrado antecipadamente na primeira unidade fazendária des
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=09be636d-f8a0-4f5b-82b0-c97e77a86eb4
 atualizado_na_fonte: "2026-10-28 14:38:44"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3290,7 +13996,7 @@ ementa: "Dispõe sobre a concessão de crédito presumido de ICMS, nas operaçõ
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=958fca1c-ab0d-481b-829a-8f88f7af5b85
 atualizado_na_fonte: "2026-10-15 10:38:51"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3363,7 +14069,7 @@ ementa: "Alterar o percentual do crédito a glosar dos produtos abaixo especific
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e9dc4d6e-d685-49fb-951f-93dee6a8d398
 atualizado_na_fonte: "2026-10-28 14:38:30"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3408,6 +14114,53 @@ DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
 SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 20 DE SETEMBRO DE 2011.
 
 MARIA DE FÁTIMA PEREIRA DA SILVA Secretária de Estado da Fazenda, em exercício
+<<<DOC normas/portaria/portaria-500-2017-16754.md>>>
+---
+documento: "PORTARIA Nº 500, DE 27 DE OUTUBRO DE 2017"
+tipo: portaria
+numero: 500
+data: "2017-10-27"
+ementa: "Prorrogar, excepcionalmente, até 31 de outubro de 2017, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da DIEF referente ao mês de setembro de 2017."
+orgao: SEFAZ-MA
+fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0ba468ed-1e6f-4aa9-8161-c7b5754894b5
+atualizado_na_fonte: "2026-10-22 09:42:31"
+extraido_em: "2026-11-18"
+remete_a: "nada (norma autônoma)"
+situacao: "autônoma (sem revogação identificada)"
+percentual_tachado: 0.0
+---
+
+# PORTARIA Nº 500, DE 27 DE OUTUBRO DE 2017
+
+_Prorrogar, excepcionalmente, até 31 de outubro de 2017, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da DIEF referente ao mês de setembro de 2017._
+
+**Data:** 2017-10-27  
+**Remete a:** nada (norma autônoma)  
+**Situação:** autônoma (sem revogação identificada)
+
+> Norma autônoma: não cita o RICMS, anexo nem o CTE e vale por si. A situação vem só das anotações do PDF e das revogações feitas por normas da base; confirme a vigência antes de aplicar.
+
+> Convenção: `~~texto~~` = tachado no PDF oficial (revogado/alterado). `<!-- p. N -->` = página do PDF.
+<!-- p. 1 -->
+ESTADO DO MARANHÃO SECRETARIA DE ESTADO DA FAZENDA PORTARIA Nº 500/2017 - GABIN
+D.O.E. 31.10.2017.
+
+SÃO LUÍS, 27 DE OUTUBRO DE 2017.
+
+
+O Secretário de Estado da Fazenda, em exercício, no uso de suas atribuições legais,
+
+RESOLVE:
+
+Art. 1º Prorrogar, excepcionalmente, até 31 de outubro de 2017, o prazo para os contribuintes do ICMS transmitirem os arquivos digitais da Declaração de Informações Econômico-Fiscais – DIEF referente ao mês de setembro de 2017.
+
+Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+
+DÊ-SE CIÊNCIA, PUBLIQUE-SE E CUMPRA-SE.
+
+SECRETARIA DE ESTADO DA FAZENDA, EM SÃO LUÍS, 27 DE UTUBRO DE 2017.
+
+MAGNO VASCONCELOS PEREIRA Secretário de Estado da Fazenda, em exercício.
 <<<DOC normas/portaria/portaria-501-2022-20874.md>>>
 ---
 documento: "PORTARIA Nº 501, DE 21 DE SETEMBRO DE 2022"
@@ -3418,7 +14171,7 @@ ementa: "Altera o Anexo III da Portaria 535/ 2015 - GABIN."
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0cdd1c7b-9fab-426a-98fc-1819348d874f
 atualizado_na_fonte: "2026-10-21 09:36:07"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3495,7 +14248,7 @@ ementa: "Fixa valores e estabelece prazos para o pagamento do Imposto sobre a Pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=605fa924-96a2-438e-953a-72f9dffb412a
 atualizado_na_fonte: "2026-10-09 18:57:39"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3574,7 +14327,7 @@ ementa: "Dispõe sobre os requisitos e procedimentos para credenciamento de cont
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2bb1b874-e31c-48bd-812b-4407abd2e48f
 atualizado_na_fonte: "2026-10-22 09:40:03"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3632,7 +14385,7 @@ ementa: "Dispõe sobre prazo para recadastramento de contribuintes produtores ru
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=584ea88f-c7f2-4b82-a359-767fad272862
 atualizado_na_fonte: "2026-10-15 10:40:40"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3694,7 +14447,7 @@ ementa: "Dispõe sobre os requisitos e procedimentos concernentes ao credenciame
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e392a827-cfad-403e-82fd-bfe2723456e8
 atualizado_na_fonte: "2026-10-22 09:39:18"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -3798,7 +14551,7 @@ ementa: "Dispõe sobre a cobrança complementar do Imposto sobre Operações Rel
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=73f61b9c-0b1a-4c67-a687-9d904672817b
 atualizado_na_fonte: "2026-10-28 14:57:52"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -3901,7 +14654,7 @@ ementa: "Institui o Sistema de Fiscalização e Monitoramento do Agronegócio �
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=fae7c837-dcb8-40ec-b821-9370b0b7fb2a
 atualizado_na_fonte: "2026-10-15 10:57:58"
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-18"
 remete_a: "Anexo 1.3, Anexo 1.5, RICMS, CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
