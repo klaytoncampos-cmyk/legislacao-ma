@@ -4,7 +4,7 @@
 Situação lida do cabeçalho da norma no CONFAZ (vazio = nenhuma revogação/denúncia/saída do MA registrada no cabeçalho; isso não garante a vigência de cada cláusula; leia as notas `>` do texto). "citado em": documentos da SEFAZ-MA que a citam; "via:" = entrou por alterar/aderir/denunciar uma norma citada (2º nível).
 
 
-## Convênios ICMS (2283)
+## Convênios ICMS (2291)
 
 | arquivo | norma | ementa | situação | citado em |
 |---|---|---|---|---|
@@ -2291,6 +2291,14 @@ Situação lida do cabeçalho da norma no CONFAZ (vazio = nenhuma revogação/de
 | confaz/convenio/convenio-129-2026.md | CONVÊNIO ICMS 129/26 | Altera o Convênio ICMS nº 15, de 31 de março de 2023, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com gasolina e etanol anidro combustível, nos termos da Lei Complementar nº 19 |  |  |
 | confaz/convenio/convenio-130-2026.md | CONVÊNIO ICMS 130/26 | Altera o Convênio ICMS nº 199, de 22 de dezembro de 2022, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com combustíveis nos termos da Lei Complementar nº 192, de 11 de março de  |  |  |
 | confaz/convenio/convenio-131-2026.md | CONVÊNIO ICMS 131/26 | Prorroga as disposições de convênios ICMS que dispõem sobre benefícios fiscais e altera o Convênio ICMS nº 22, de 14 de abril de 2023. |  |  |
+| confaz/convenio/convenio-132-2026.md | CONVÊNIO ICMS 132/26 | Dispõe sobre o atendimento de condicionantes relativas ao PIS/Pasep, à Cofins e ao IPI previstas em convênios ICMS. |  |  |
+| confaz/convenio/convenio-133-2026.md | CONVÊNIO ICMS 133/26 | Prorroga benefícios fiscais previstos em convênios ICMS e regula o atendimento das condicionantes relativas ao PIS/Pasep, à Cofins e ao IPI. |  |  |
+| confaz/convenio/convenio-134-2026.md | CONVÊNIO ICMS 134/26 | Prorroga as disposições de convênios ICMS que dispõem sobre benefícios fiscais. |  |  |
+| confaz/convenio/convenio-135-2026.md | CONVÊNIO ICMS 135/26 | Altera o Convênio ICMS nº 87, de 28 de junho de 2002, que concede isenção do ICMS nas operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal. |  |  |
+| confaz/convenio/convenio-136-2026.md | CONVÊNIO ICMS 136/26 | Altera o Convênio ICMS nº 140, de 19 de dezembro de 2001, que concede isenção do ICMS nas operações com medicamentos. |  |  |
+| confaz/convenio/convenio-137-2026.md | CONVÊNIO ICMS 137/26 | Autoriza a concessão, às empresas prestadoras de serviço de transporte rodoviário intermunicipal de passageiros, crédito outorgado de ICMS equivalente ao valor da gratuidade concedida a pessoas com deficiência ou descont |  |  |
+| confaz/convenio/convenio-138-2026.md | CONVÊNIO ICMS 138/26 | Altera o Convênio ICMS nº 4, de 27 de janeiro de 2026, que concede isenção e suspensão do ICMS nas operações e prestações relacionadas com a Copa do Mundo Feminina da FIFA 2027, e dá outras providências. |  |  |
+| confaz/convenio/convenio-139-2026.md | CONVÊNIO ICMS 139/26 | Altera o Convênio ICMS nº 77, de 5 de agosto de 2011, que dispõe sobre o regime de substituição tributária aplicável ao ICMS incidente sobre as sucessivas operações internas ou interestaduais relativas à circulação de en |  |  |
 
 ## Protocolos ICMS (849)
 

@@ -1,6 +1,6 @@
 # Índice da base: legislação tributária do Maranhão
 
-Gerado em 2026-11-18. Este índice traz os documentos da SEFAZ-MA (CTE, RICMS, anexos) e as normas complementares por anexo; os catálogos completos ficam em `catalogo/normas.md` e `catalogo/confaz.md`. Os caminhos são os usados por `python3 scripts/buscar.py --ler <caminho>`.
+Gerado em 2026-11-19. Este índice traz os documentos da SEFAZ-MA (CTE, RICMS, anexos) e as normas complementares por anexo; os catálogos completos ficam em `catalogo/normas.md` e `catalogo/confaz.md`. Os caminhos são os usados por `python3 scripts/buscar.py --ler <caminho>`.
 
 ## SEFAZ-MA (CTE, RICMS e anexos)
 
@@ -12,7 +12,7 @@ Alertas (⚠): o anexo se apoia em norma do CONFAZ que, segundo o cabeçalho del
 |---|---|---|---|---|---|---|---|
 | sefaz/cte-lei-7799-2002.md | LEI Nº 7.799, DE 19 DE DEZEMBRO DE 2002 | Dispõe sobre o Sistema Tributário do Estado do Maranhão. | vigente |  | 254 | 28.8 | 2026-10-22 |
 | sefaz/ricms-1995-anterior.md | RICMS anterior - 1995 | RICMS anterior - 1995 | **HISTÓRICO** (substituído pelo Dec. 19.714/03) |  | 381 | 0.0 | 2025-02-13 |
-| sefaz/ricms-decreto-19714-2003.md | DECRETO  Nº 19.714 | Aprova o Regulamento do ICMS e dá outras providências. | vigente |  | 598 | 16.4 | 2026-11-13 |
+| sefaz/ricms-decreto-19714-2003.md | DECRETO  Nº 19.714,  DE 10  DE  JULHO DE   2003 | Aprova o Regulamento do ICMS e dá outras providências. | vigente |  | 600 | 16.7 | 2026-11-18 |
 | sefaz/anexo-1.1.md | ANEXO 1.1 Isenção por tempo indeterminado Alterado pela RA 37 - 25  - última atualização | Isenção por tempo Indeterminado | vigente |  | 56 | 18.6 | 2026-08-03 |
 | sefaz/anexo-1.2.md | ANEXO 1.2 | Isenção por tempo Determinado | vigente |  | 138 | 17.2 | 2026-08-03 |
 | sefaz/anexo-1.3.md | Anexo 1.3 | Diferimento do Lançamentoe do Pagamento do ICMS nas Operações Internas | vigente |  | 49 | 28.5 | 2026-08-03 |
@@ -297,7 +297,7 @@ Portarias, resoluções administrativas, decretos e instruções normativas cujo
 
 ## CONFAZ
 
-A base tem 2283 convênios icms, 849 protocolos icms, 387 ajustes sinief: os citados pela SEFAZ-MA, as normas que os alteram/aderem/denunciam (2º nível) e todas as do ano corrente. Catálogo com ementa e situação de cada uma: `catalogo/confaz.md` (ex.: `python3 scripts/buscar.py "autopeças" --doc catalogo/confaz`).
+A base tem 2291 convênios icms, 849 protocolos icms, 387 ajustes sinief: os citados pela SEFAZ-MA, as normas que os alteram/aderem/denunciam (2º nível) e todas as do ano corrente. Catálogo com ementa e situação de cada uma: `catalogo/confaz.md` (ex.: `python3 scripts/buscar.py "autopeças" --doc catalogo/confaz`).
 
 ## Citados mas NÃO disponíveis na base (42)
 

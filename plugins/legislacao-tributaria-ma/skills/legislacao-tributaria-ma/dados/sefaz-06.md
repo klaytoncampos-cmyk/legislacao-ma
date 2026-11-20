@@ -1,19 +1,19 @@
 <<<DOC sefaz/ricms-decreto-19714-2003.md>>>
 ---
-documento: "DECRETO  Nº 19.714"
+documento: "DECRETO  Nº 19.714,  DE 10  DE  JULHO DE   2003"
 descricao: "Aprova o Regulamento do ICMS e dá outras providências."
 orgao: SEFAZ-MA
 categoria_id: 243
 arquivo_id: 5512
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=99eaa3a0-b9c2-44ee-968f-d241aa074ff4
-atualizado_na_fonte: "2026-11-13 08:58:20"
-extraido_em: "2026-11-14"
-paginas: 598
-percentual_tachado: 16.4
+atualizado_na_fonte: "2026-11-18 08:44:21"
+extraido_em: "2026-11-19"
+paginas: 600
+percentual_tachado: 16.7
 paginas_escaneadas: []
 ---
 
-# DECRETO  Nº 19.714
+# DECRETO  Nº 19.714,  DE 10  DE  JULHO DE   2003
 
 _Aprova o Regulamento do ICMS e dá outras providências._
 
@@ -8850,6 +8850,33 @@ II - os campos destinados à informação da documentação da prestação do se
 § 5º Na hipótese de emissão de CT-e, modelo 57, com o tipo de serviço identificado como "serviço vinculado a Multimodal", deve ser informada a chave de acesso do CT-e multimodal, em substituição aos dados dos documentos fiscais da carga transportada, ficando dispensado o preenchimento dos campos destinados ao remetente e destinatário.
 
 (§§ 4º e 5º - AC pela RA16/2017)
+Art. 231-P-A. Nas prestações de serviços de transporte intermunicipal ou interestadual de mercadorias, que envolvam diversos remetentes ou destinatários, e um único tomador de serviço, o transportador poderá emitir, antes do início da prestação de serviço de transporte, um único CT-e, denominado nesta situação de Conhecimento de Transporte Eletrônico Simplificado - CT-e Simplificado - referente a todas as prestações a serem realizadas para este tomador.
+
+§ 1º Na hipótese do disposto no caput, a emissão do CT-e Simplificado é condicionada a que:
+
+I - a carga contenha mercadorias de no mínimo dois remetentes ou dois destinatários;
+II - as mercadorias transportadas estejam acobertadas por notas fiscais eletrônicas;
+III - as prestações de serviço de transporte iniciem na mesma unidade federada;
+IV - as prestações de serviço de transporte terminem na mesma unidade federada; (efeitos a partir de 1° de setembro/26)
+V - as prestações de serviço de transporte possuam o mesmo CFOP;
+VI - as prestações de serviço de transporte estejam submetidas à mesma tributação, inclusive relativamente aos percentuais de redução de base de cálculo e de diferimento eventualmente incidentes;
+
+VII - as prestações de serviço de transporte possuam o mesmo código de benefício fiscal, a critério da unidade federada.
+
+§ 2º Na emissão do CT-e Simplificado, fica dispensado o preenchimento dos campos destinados ao remetente e destinatário, podendo ser utilizado no redespacho e na subcontratação.
+
+§ 3º No CT-e Simplificado, a correção de valores indicados a menor deverá ser realizada exclusivamente mediante a emissão de um CT-e de substituição, vedada a utilização de CT-e de complemento de valores, sendo que a substituição poderá ser efetuada em virtude de erro
+
+<!-- p. 242 -->
+226
+
+226
+
+devidamente comprovado como exigido em cada unidade federada, e desde que não descaracterize a prestação do serviço.
+
+§ 4º O procedimento previsto no § 3º, dispensa o registro do evento de que trata o inciso XV do § 1° do art. 231-X.
+
+(Art. 231-P-A - AC pela RA 21/26, com efeitos a partir de 05.10.26)
 
 Sub seção II Da Autorização de Uso de CT-e
 
@@ -8877,15 +8904,14 @@ II - o credenciamento do emitente;
 
 III - a autoria da assinatura do arquivo digital;
 
-<!-- p. 242 -->
-226
-
-226
-
-
 IV - a integridade do arquivo digital;
 
 V ~~- a observância ao leiaute do arquivo estabelecido em Ato COTEPE;~~
+
+<!-- p. 243 -->
+227
+
+227
 
 V - a observância ao leiaute do arquivo estabelecido no Manual de Orientações do Contribuinte – MOC;
 
@@ -8923,13 +8949,13 @@ III - da concessão da Autorização de Uso do CT-e.
 
 § 8º A cientificação de que trata o § 6º será efetuada mediante protocolo disponibilizado ao emitente ou a terceiro autorizado pelo emitente, via internet, contendo, conforme o caso, a “chave de acesso”, o número do CT-e, a data e a hora do recebimento da solicitação pela administração tributária e o número do protocolo, podendo ser autenticado mediante assinatura digital gerada com certificação digital da administração tributária ou outro mecanismo de confirmação de recebimento.
 
-<!-- p. 243 -->
-227
-
-227
 
 § 9º Não sendo concedida a Autorização de Uso, o protocolo de que trata o § 8º conterá informações que justifiquem o motivo, de forma clara e precisa.
 
+<!-- p. 244 -->
+228
+
+228
 
 § 10. Rejeitado o arquivo digital, o mesmo não será arquivado na administração tributária para consulta, sendo permitida, ao interessado, nova transmissão do arquivo do CT-e nas
 
@@ -8965,14 +8991,15 @@ II - identifica de forma única um CT-e através do conjunto de informações fo
 
 (Renumerado pela RA 16/2017)
 
-<!-- p. 244 -->
-228
-
-228
-
 ~~§ 16. Após o prazo previsto no § 16, a consulta poderá ser substituída pela prestação de informações parciais que identifiquem o CT-e (número, data de emissão, CNPJ do emitente e do tomador, valor e sua situação), que ficarão disponíveis pelo prazo de cinco anos.~~
 
 (~~Renumerado pela RA16/2017)~~
+
+<!-- p. 245 -->
+229
+
+229
+
 
 § 16. Após o prazo previsto no § 15, a consulta poderá ser substituída pela prestação de informações parciais que identifiquem o CT-e (número, data de emissão, CNPJ do emitente e do tomador, valor e sua situação), que ficarão disponíveis pelo prazo de cinco anos. NR - RA Nº 16/18.
 
@@ -9008,12 +9035,14 @@ Art. 231-R. Para acompanhar a carga durante o transporte ou para facilitar a con
 
 § 1º O DACTE:
 
-<!-- p. 245 -->
-229
+I - deverá ter formato mínimo A5 (210 x 148 mm) e máximo ofício 2 (230 x 330 mm), impresso em papel, exceto papel jornal, podendo ser utilizadas folhas soltas, formulário de segurança, Formulário de Segurança para Impressão de Documento Auxiliar de Documento
 
-229
+<!-- p. 246 -->
+230
 
-I - deverá ter formato mínimo A5 (210 x 148 mm) e máximo ofício 2 (230 x 330 mm), impresso em papel, exceto papel jornal, podendo ser utilizadas folhas soltas, formulário de segurança, Formulário de Segurança para Impressão de Documento Auxiliar de Documento Fiscal Eletrônico (FS-DA) ou formulário contínuo ou pré-impresso, e possuir títulos e informações dos campos grafados de modo que seus dizeres e indicações estejam legíveis;
+230
+
+Fiscal Eletrônico (FS-DA) ou formulário contínuo ou pré-impresso, e possuir títulos e informações dos campos grafados de modo que seus dizeres e indicações estejam legíveis;
 
 
 II ~~- conterá código de barras, conforme padrão estabelecido em Ato COTEPE;~~
@@ -9043,13 +9072,18 @@ IV - será utilizado para acompanhar a carga durante o transporte somente após 
 
 § 6º É permitida a impressão, fora do DACTE, de informações complementares de interesse do emitente e não existentes em seu leiaute.
 
+§ 7º Na hipótese de emissão em contingência off-line o DACTE deve conter um código bidimensional com mecanismo de autenticação digital que possibilite a identificação da autoria do DACTE conforme padrões técnicos estabelecidos no MOC.
 
-~~Art. 231- R- A. Nas prestações de serviço de transporte de cargas realizadas nos modais ferroviário e aquaviário de cabotagem, acobertadas por CT-e, fica dispensada a impressão dos respectivos Documentos Auxiliares do Conhecimento de Transporte Eletrônico - DACTE, desde que emitido MDF-e.~~
+(AC – RA 21/26, com efeitos a partir de 05.10.26)
 
-<!-- p. 246 -->
-230
+~~Art. 231- R- A. Nas prestações de serviço de transporte de cargas realizadas nos modais ferroviário e aquaviário de cabotagem, acobertadas por CT-e, fica dispensada a impressão~~
 
-230
+<!-- p. 247 -->
+231
+
+231
+
+~~dos respectivos Documentos Auxiliares do Conhecimento de Transporte Eletrônico - DACTE, desde que emitido MDF-e.~~
 
 ~~Art. 231-R-A. Exceto nos casos de contingência com uso de Formulário de Segurança ou quando solicitado pelo tomador, o DACTE poderá, de forma alternativa à impressão em papel, ser apresentado em meio eletrônico, seguindo a disposição gráfica especificada no MOC, desde que tenha sido emitido o MDF-e, nas seguintes situações:~~
 
@@ -9081,16 +9115,17 @@ Parágrafo único. O disposto no inciso II não se aplica no caso de contingênc
 
 (Art.231-R-B, incisos e parágrafo único - AC pela RA 16/2017)
 
-~~Art. 231 - R - C. Fica instituído o Documento Auxiliar do CT-e Outros Serviços - DACTE OS conforme leiaute estabelecido no Manual de Orientação do Contribuinte - DACTE (MOCDACTE), para acompanhar o veículo durante a prestação do serviço de transporte ou para facilitar a consulta do CT-e OS, modelo 67, prevista no §15 do Art. 231-Q.~~
+~~Art. 231 - R - C. Fica instituído o Documento Auxiliar do CT-e Outros Serviços - DACTE OS conforme leiaute estabelecido no Manual de Orientação do Contribuinte - DACTE~~
+
+<!-- p. 248 -->
+232
+
+232
+
+~~(MOCDACTE), para acompanhar o veículo durante a prestação do serviço de transporte ou para facilitar a consulta do CT-e OS, modelo 67, prevista no §15 do Art. 231-Q.~~
 
 ~~(AC - pela RA 16/2017)~~
 (Revogado pela RA 14/22)
-
-<!-- p. 247 -->
-231
-
-231
-
 
 Parágrafo único. Aplica-se ao DACTE OS o disposto nos § 1º ao § 6º do Art. 231-R.
 (AC pela RA 16/2017)
@@ -9122,12 +9157,13 @@ Art. 231-S. O transportador e o tomador do serviço de transporte deverão mante
 
 ~~Art. 231-T. Quando em decorrência de problemas técnicos não for possível transmitir o CTe para a unidade federada do emitente, ou obter resposta à solicitação de Autorização de Uso do CT-e, o contribuinte deverá gerar novo arquivo, conforme definido em Ato COTEPE, informando que o respectivo CT-e foi emitido em contingência e adotar uma das seguintes medidas:~~
 
+<!-- p. 249 -->
+233
+
+233
+
 ~~I - imprimir o DACTE em Formulário de Segurança (FS), observado o disposto na cláusula vigésima;~~
 
-<!-- p. 248 -->
-232
-
-232
 
 ~~II - imprimir o DACTE em Formulário de Segurança para Impressão de Documento Auxiliar de Documento Fiscal Eletrônico (FS-DA), observado o disposto em Convênio ICMS;~~
 
@@ -9142,35 +9178,36 @@ I - imprimir o DACTE em Formulário de Segurança – Documento Auxiliar (FS- DA
 II - transmitir o CT-e para o Sistema de Sefaz Virtual de Contingência (SVC), nos termos dos art. 231-O e 231-Q;
 
 
-III - transmitir o Evento Prévio de Emissão em Contingência - EPEC, para o Sistema de Sefaz Virtual de Contingência (SVC), nos termos do art. 231-T-A.
+III ~~- transmitir o Evento Prévio de Emissão em Contingência - EPEC, para o Sistema de Sefaz Virtual de Contingência (SVC), nos termos do art. 231-T-A.~~
 
-(Art. 231-T e incisos I, II e III - NR pela RA 16/2017)
+~~(Art. 231-T e incisos I, II e III - NR pela RA 16/2017)~~
+(Revogado – RA 21/26, com efeitos a partir de 05.10.26)
+IV - operar em contingência off-line, indicando o tipo de emissão como contingência off-line, conforme definições constantes no MOC, devendo ainda: a) imprimir o DACTE em papel comum, constando no corpo a expressão: ‘EMITIDO EM CONTINGÊNCIA OFF-LINE’;
+b) transmitir o CT-e imediatamente após a cessação dos problemas técnicos que impediram a sua transmissão ou a recepção da Autorização de Uso do CT-e, respeitado o prazo máximo definido no MOC.
+
+(AC – RA 21/26, com efeitos a partir de 05.10.26)
 
 ~~§ 1º A hipótese do inciso III do caput é permitida apenas na emissão do CT-e, modelo 57, situação em que o DACTE deverá ser impresso em no mínimo três vias, constando no corpo do documento a expressão "DACTE impresso em contingência - EPEC regularmente recebido pela SVC", tendo a seguinte destinação:~~
 
-§ 1º Na hipótese do inciso III do caput deste artigo, o DACTE deverá ser impresso em no mínimo três vias, constando no corpo do documento a expressão “DACTE impresso em contingência - EPEC regularmente recebido pela SVC”, tendo a seguinte destinação:
+~~§ 1º Na hipótese do inciso III do caput deste artigo, o DACTE deverá ser impresso em no mínimo três vias, constando no corpo do documento a expressão “DACTE impresso em contingência - EPEC regularmente recebido pela SVC”, tendo a seguinte destinação:~~
 
-(NR – RA 14/22)
-I - acompanhar o trânsito de cargas;
+~~(NR – RA 14/22)~~ I ~~- acompanhar o trânsito de cargas;~~
 
-II - ser mantida em arquivo pelo emitente no prazo estabelecido na legislação tributária para a guarda dos documentos fiscais;
+II ~~- ser mantida em arquivo pelo emitente no prazo estabelecido na legislação tributária para a guarda dos documentos fiscais;~~
 
-III - ser mantida em arquivo pelo tomador no prazo estabelecido na legislação tributária para a guarda de documentos fiscais.
+<!-- p. 250 -->
+234
 
-(§15 e incisos I, II e III AC e Renumerado pela RA16/2017)
+234
 
-§ 2º Presume-se inábil o DACTE impresso nos termos do § 1º, quando não houver a regular recepção do EPEC pela SVC, nos termos do Art. 231-T-A.
+III ~~- ser mantida em arquivo pelo tomador no prazo estabelecido na legislação tributária para a guarda de documentos fiscais.~~
 
-(AC e Renumerado pela RA 16/2017)
+~~(§15 e incisos I, II e III AC e Renumerado pela RA16/2017)~~ (§ 1° - Revogado pela RA 21/26, com efeitos a partir de 05.10.26)
 
-~~§ 1º Na hipótese do inciso I e II do caput, o Formulário de Segurança ou Formulário de Segurança para Impressão de Documento Auxiliar de Documento Fiscal Eletrônico (FS-DA) deverá ser utilizado para impressão de no mínimo três vias do DACTE, constando no corpo a~~
+~~§ 2º Presume-se inábil o DACTE impresso nos termos do § 1º, quando não houver a regular recepção do EPEC pela SVC, nos termos do Art. 231-T-A.~~
 
-<!-- p. 249 -->
-233
-
-233
-
-~~expressão “DACTE em Contingência – impresso em decorrência de problemas técnicos”, tendo a seguinte destinação:~~
+~~(AC e Renumerado pela RA 16/2017)~~ (§ 2° - Revogado pela RA 21/26, com efeitos a partir de 05.10.26)
+~~§ 1º Na hipótese do inciso I e II do caput, o Formulário de Segurança ou Formulário de Segurança para Impressão de Documento Auxiliar de Documento Fiscal Eletrônico (FS-DA) deverá ser utilizado para impressão de no mínimo três vias do DACTE, constando no corpo a expressão “DACTE em Contingência – impresso em decorrência de problemas técnicos”, tendo a seguinte destinação:~~
 
 ~~I - acompanhar o trânsito de cargas;~~
 
@@ -9191,9 +9228,14 @@ III - ser mantida em arquivo pelo tomador pelo prazo estabelecido na legislaçã
 ~~§ 2º Nas hipóteses dos incisos I e II do caput, fica dispensada a impressão da 3a via caso o tomador do serviço seja o destinatário da carga, devendo o tomador manter a via que acompanhou o trânsito da carga.~~
 
 
-§ 4º Nas hipóteses dos incisos I e III do caput, fica dispensada a impressão da 3ª via caso o tomador do serviço seja o destinatário da carga, devendo o tomador manter a via que acompanhou o trânsito da carga."
+~~§ 4º Nas hipóteses dos incisos I e III do caput, fica dispensada a impressão da 3ª via caso o tomador do serviço seja o destinatário da carga, devendo o tomador manter a via que acompanhou o trânsito da carga."~~
 
-(NR e Renumerado pela RA 16/2017)
+~~(NR e Renumerado pela RA 16/2017)~~ (§4° - Revogado pela RA 21/26, com efeitos a partir de 05.10.26)
+
+<!-- p. 251 -->
+235
+
+235
 
 ~~§ 3º Nas hipóteses dos incisos I e II do caput, fica dispensado o uso do Formulário de Segurança ou Formulário de Segurança para Impressão de Documento Auxiliar de Documento Fiscal Eletrônico (FS-DA) para a impressão de vias adicionais do DACTE.~~
 
@@ -9204,17 +9246,12 @@ III - ser mantida em arquivo pelo tomador pelo prazo estabelecido na legislaçã
 
 (NR – RA 14/22)
 
-<!-- p. 250 -->
-234
-
-234
-
 ~~§ 4º Na hipótese dos incisos I ou II do caput, imediatamente após a cessação dos problemas técnicos que impediram a transmissão ou recepção do retorno da autorização do CT-e, e até o prazo limite definido em Ato COTEPE, contado a partir da emissão do CT-e de que trata o~~
 ~~§ 11, o emitente deverá transmitir à administração tributária de sua vinculação os CT-e gerados em contingência.~~
 
-§ 6º Na hipótese dos incisos I ou III do caput, imediatamente após a cessação dos problemas técnicos que impediram a transmissão ou recepção do retorno da autorização do CT-e, e até o prazo limite definido no MOC, contado a partir da emissão do CT-e de que trata o § 13, o emitente deverá transmitir à administração tributária de sua vinculação os CT-e gerados em contingência.
+~~§ 6º Na hipótese dos incisos I ou III do caput, imediatamente após a cessação dos problemas técnicos que impediram a transmissão ou recepção do retorno da autorização do CT-e, e até o prazo limite definido no MOC, contado a partir da emissão do CT-e de que trata o § 13, o emitente deverá transmitir à administração tributária de sua vinculação os CT-e gerados em contingência.~~
 
-(NR e Renumerado pela RA 16/2017)
+~~(NR e Renumerado pela RA 16/2017)~~ (§6° - Revogado pela RA 21/26, com efeitos a partir de 05.10.26)
 
 ~~§ 5º Se o CT-e transmitido nos termos do § 4º vier a ser rejeitado pela administração tributária, o contribuinte deverá:~~
 
@@ -9233,6 +9270,11 @@ b) a correção de dados cadastrais que implique mudança do emitente, tomador, 
 
 c) a data de emissão ou de saída.
 
+<!-- p. 252 -->
+236
+
+236
+
 II - solicitar Autorização de Uso do CT-e;
 
 III ~~- imprimir o DACTE correspondente ao CT-e autorizado, no mesmo tipo de papel utilizado para imprimir o DACTE original, caso a geração saneadora da irregularidade do CT-e tenha promovido alguma alteração no DACTE;~~
@@ -9242,11 +9284,6 @@ III ~~- imprimir o DACTE ou DACTE OS correspondente ao CT-e autorizado, no mesmo
 
 ~~(NR - RA16/2017)~~
 ~~III - imprimir o DACTE correspondente ao CT-e autorizado, no mesmo tipo de papel utilizado para imprimir o DACTE original, caso a geração saneadora da irregularidade do CT-e tenha promovido alguma alteração no DACTE;~~
-
-<!-- p. 251 -->
-235
-
-235
 
 ~~(NR – RA 14/22)~~
 III - imprimir o DACTE correspondente ao CT-e autorizado, no mesmo tipo de papel utilizado para imprimir o DACTE original, caso a geração saneadora da irregularidade do CT-e tenha promovido alguma alteração no DACTE, observado o disposto no art. 231-R-A.
@@ -9268,20 +9305,23 @@ IV - providenciar, junto ao tomador, a entrega do CT-e autorizado bem como do no
 (NR – RA 02/23)
 ~~§ 6º O tomador deverá manter em arquivo pelo prazo decadencial estabelecido pela legislação tributária, junto à via mencionada no inciso III do § 1º, a via do DACTE recebida nos termos do inciso IV do § 5º.~~
 
+<!-- p. 253 -->
+237
+
+237
 
 ~~§ 8º O tomador deverá manter em arquivo pelo prazo decadencial estabelecido pela legislação tributária junto à via mencionada no inciso III do § 1º ou no inciso III do § 3º, a via do DACTE ou DACTE OS recebidos nos termos do inciso IV do § 7º.~~
 
 ~~(NR e Renumerado pela RA 16/2017)~~
-§ 8º O tomador deverá manter em arquivo pelo prazo decadencial estabelecido pela legislação tributária junto à via mencionada no inciso III do § 1º ou no inciso III do § 3º deste artigo, a via do DACTE recebidos nos termos do inciso IV do § 7º também deste artigo.
+~~§ 8º O tomador deverá manter em arquivo pelo prazo decadencial estabelecido pela legislação tributária junto à via mencionada no inciso III do § 1º ou no inciso III do § 3º deste artigo, a via do DACTE recebidos nos termos do inciso IV do § 7º também deste artigo.~~
 
-(NR – RA 14/22)
+~~(NR – RA 14/22)~~
+§ 8º O tomador deverá manter em arquivo pelo prazo decadencial estabelecido pela legislação tributária o DACTE recebido nos termos do inciso IV do § 7º.
+
+(NR – RA 21/26, com efeitos a partir de 05.10.26)
 
 ~~§ 7º Se decorrido o prazo limite de transmissão do CT-e, referido no § 4º, o tomador não puder confirmar a existência da Autorização de Uso do CT-e correspondente, deverá comunicar o fato à administração tributária do seu domicílio dentro do prazo de 30 (trinta) dias.~~
 
-<!-- p. 252 -->
-236
-
-236
 
 § 9º Se decorrido o prazo limite de transmissão do CT-e, referido no § 6º, o tomador não puder confirmar a existência da Autorização de Uso do CT-e correspondente, deverá comunicar o fato à administração tributária do seu domicílio dentro do prazo de 30 (trinta) dias.
 
@@ -9306,29 +9346,31 @@ IV - providenciar, junto ao tomador, a entrega do CT-e autorizado bem como do no
 
 (NR e Renumerado pela RA 16/2017)
 
+<!-- p. 254 -->
+238
+
+238
+
 ~~§ 11. Considera-se emitido o CT-e, na hipótese dos incisos I e II do caput, no momento da impressão do respectivo DACTE em contingência.~~
 
 § 13. Considera-se emitido o CT-e em contingência, tendo como condição resolutória a sua autorização de uso:
 
 
-I - na hipótese do inciso III do caput, no momento da regular recepção do EPEC pela SVC;
+I ~~- na hipótese do inciso III do caput, no momento da regular recepção do EPEC pela SVC;~~
 
-II ~~- na hipótese do inciso I do caput, no momento da impressão do respectivo DACTE ou DACTE OS em contingência;~~
+(Revogado – RA 21/26, com efeitos a partir de 05.10.26) II ~~- na hipótese do inciso I do caput, no momento da impressão do respectivo DACTE ou DACTE OS em contingência;~~
 
 ~~(NR e Renumerado pela RA 16/2017)~~
 II - na hipótese do inciso I do caput deste artigo, no momento da impressão do respectivo DACTE em contingência.
 
 (NR – RA 14/22)
+III - na hipótese do inciso IV do caput deste artigo, no momento da impressão do respectivo DACTE em contingência off-line.
+
+(AC – RA 21/26, com efeitos a partir de 05.10.26)
 
 § 14. Em relação ao CT-e transmitido antes da contingência e pendente de retorno, o emitente deverá, após a cessação do problema:
 
 (Renumerado pela RA 16/2017)
-
-<!-- p. 253 -->
-237
-
-237
-
 
 I - solicitar o cancelamento, nos termos do art. 231-Z-F, do Cte que retornar com Autorização de Uso e cuja prestação de serviço não se efetivaram ou que for acobertada por CT-e emitido em contingência;
 
@@ -9347,85 +9389,91 @@ III - identificar, dentre as alternativas do caput, qual foi a utilizada. (Renum
 
 (AC e Renumerado pela RA 16/2017)
 
-Art. 231-T-A O Evento Prévio de Emissão em Contingência - EPEC deverá ser gerado com base em leiaute estabelecido no MOC, observadas as seguintes:
-
-(AC RA 16/2017)
-
-I - o arquivo digital do EPEC deverá ser elaborado no padrão XML (ExtendedMarkupLanguage);
-
-
-II - a transmissão do arquivo digital do EPEC deverá ser efetuada via internet;
-
-III - o EPEC deverá ser assinado pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, contendo o nº do CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital.
-
-§ 1º O arquivo do EPEC deverá conter, no mínimo, as seguintes informações:
-
-I - identificação do emitente;
-
-II - informações do CT-e emitido, contendo:
-
-a) chave de Acesso;
-~~b) CNPJ ou CPF do tomador;~~
-
-<!-- p. 254 -->
-238
-
-238
-
-~~b) CPF do destinatário, quando ele for identificado;~~
-~~(NR – RA 19/25)~~
-b) CNPJ ou CPF do tomador
-(NR – RA 11/26)
-c) unidade federada de localização do tomador, do início e do fim da prestação;
-d) valor da prestação do serviço;
-e) valor do ICMS da prestação do serviço;
-f) valor da carga.
-
-§ 2º Recebida a transmissão do arquivo do EPEC, a SVC analisará:
-
-I - o credenciamento do emitente, para emissão de CT-e;
-
-II - a autoria da assinatura do arquivo digital do EPEC;
-
-III - a integridade do arquivo digital do EPEC;
-
-IV - a observância ao leiaute do arquivo estabelecido no MOC;
-
-V - outras validações previstas no MOC.
-
-§ 3º Do resultado da análise, a SVC cientificará o emitente:
-
-I - da rejeição do arquivo do EPEC, em virtude de:
-
-a) falha na recepção ou no processamento do arquivo;
-b) falha no reconhecimento da autoria ou da integridade do arquivo digital;
-c) emitente não credenciado para emissão do CT-e;
-d) duplicidade de número do EPEC;
-e) falhas no preenchimento ou no leiaute do arquivo do EPEC;
-
-II - da regular recepção do arquivo do EPEC.
-
-§ 4º A cientificação de que trata o § 3º será efetuada via internet, contendo o motivo da rejeição na hipótese do inciso I ou o número do protocolo de autorização do EPEC, data, hora e minuto da sua autorização na hipótese do inciso II.
-
-§ 5º Presume-se emitido o CT-e referido no EPEC, quando de sua regular autorização pela SVC.
-
-§ 6º A SVC deverá transmitir o EPEC para o Ambiente Nacional da RFB, que o disponibilizará para as UF envolvidas.
-
 <!-- p. 255 -->
 239
 
 239
 
-§ 7º Em caso de rejeição do arquivo digital do EPEC, o mesmo não será arquivado na SVC para consulta.
+~~Art. 231-T-A O Evento Prévio de Emissão em Contingência - EPEC deverá ser gerado com base em leiaute estabelecido no MOC, observadas as seguintes:~~
 
-(Art. 231-T-A, incisos e §§ - AC RA 16/2017)
+~~(AC RA 16/2017)~~
+
+I ~~- o arquivo digital do EPEC deverá ser elaborado no padrão XML (ExtendedMarkupLanguage);~~
+
+
+II ~~- a transmissão do arquivo digital do EPEC deverá ser efetuada via internet;~~
+
+III ~~- o EPEC deverá ser assinado pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, contendo o nº do CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital.~~
+
+~~§ 1º O arquivo do EPEC deverá conter, no mínimo, as seguintes informações:~~
+
+I ~~- identificação do emitente;~~
+
+II ~~- informações do CT-e emitido, contendo:~~
+
+a) ~~chave de Acesso;~~
+~~b) CNPJ ou CPF do tomador;~~
+~~b) CPF do destinatário, quando ele for identificado;~~
+~~(NR – RA 19/25)~~
+~~b) CNPJ ou CPF do tomador~~
+~~(NR – RA 11/26)~~
+~~c) unidade federada de localização do tomador, do início e do fim da prestação;~~
+~~d) valor da prestação do serviço;~~
+~~e) valor do ICMS da prestação do serviço;~~
+~~f) valor da carga.~~
+
+~~§ 2º Recebida a transmissão do arquivo do EPEC, a SVC analisará:~~
+
+I ~~- o credenciamento do emitente, para emissão de CT-e;~~
+
+II ~~- a autoria da assinatura do arquivo digital do EPEC;~~
+
+III ~~- a integridade do arquivo digital do EPEC;~~
+
+<!-- p. 256 -->
+240
+
+240
+
+IV ~~- a observância ao leiaute do arquivo estabelecido no MOC;~~
+
+V ~~- outras validações previstas no MOC.~~
+
+~~§ 3º Do resultado da análise, a SVC cientificará o emitente:~~
+
+~~I - da rejeição do arquivo do EPEC, em virtude de:~~
+
+a) ~~falha na recepção ou no processamento do arquivo;~~
+b) ~~falha no reconhecimento da autoria ou da integridade do arquivo digital;~~
+c) ~~emitente não credenciado para emissão do CT-e;~~
+d) ~~duplicidade de número do EPEC;~~
+e) ~~falhas no preenchimento ou no leiaute do arquivo do EPEC;~~
+
+~~II - da regular recepção do arquivo do EPEC.~~
+
+~~§ 4º A cientificação de que trata o § 3º será efetuada via internet, contendo o motivo da rejeição na hipótese do inciso I ou o número do protocolo de autorização do EPEC, data, hora e minuto da sua autorização na hipótese do inciso II.~~
+
+~~§ 5º Presume-se emitido o CT-e referido no EPEC, quando de sua regular autorização pela SVC.~~
+
+~~§ 6º A SVC deverá transmitir o EPEC para o Ambiente Nacional da RFB, que o disponibilizará para as UF envolvidas.~~
+
+~~§ 7º Em caso de rejeição do arquivo digital do EPEC, o mesmo não será arquivado na SVC para consulta.~~
+
+~~(Art. 231-T-A, incisos e §§ - AC RA 16/2017)~~ (Art. 231-T-A – Revogado pela RA 21/26, com efeitos a partir de 05.10.26)
 
 Subseção V Da Carta de Correção Eletrônica – CC-e
 
 Art. 231-U. Após a concessão da Autorização de Uso do CT-e, de que trata o inciso III, § 6º do art. 231-Q, o emitente poderá sanar erros em campos específicos do CT-e, observado o disposto no artigo 58-B do Convênio SINIEF no 06/89, por meio de Carta de Correção Eletrônica - CC-e, transmitida à administração tributária da unidade federada do emitente.
 
 
-~~§ 1º A Carta de Correção Eletrônica - CC-e deverá atender ao leiaute estabelecido em Ato COTEPE e ser assinada pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, contendo o nº do CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital.~~
+~~§ 1º A Carta de Correção Eletrônica - CC-e deverá atender ao leiaute estabelecido em Ato COTEPE e ser assinada pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, contendo o nº do CNPJ~~
+
+<!-- p. 257 -->
+241
+
+241
+
+~~de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital.~~
 
 
 § 1º A Carta de Correção Eletrônica - CC-e deverá atender ao leiaute estabelecido no Manual de Orientações do Contribuinte - MOC e ser assinada pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, contendo o número do CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital.
@@ -9442,11 +9490,6 @@ Art. 231-U. Após a concessão da Autorização de Uso do CT-e, de que trata o i
 
 §6º O arquivo eletrônico da CC-e, com a respectiva informação do registro do evento, deve ser disponibilizado pelo emitente ao tomador do serviço.
 
-<!-- p. 256 -->
-240
-
-240
-
 §7ºFica vedada a utilização da Carta de Correção em papel para sanar erros em campos específicos do CT-e.
 
 (§§ 6º e 7º - AC RA 16/2017)
@@ -9460,6 +9503,11 @@ Art. 231-U. Após a concessão da Autorização de Uso do CT-e, de que trata o i
 Art. 231-V. Para a substituição de valores relativos à prestação de serviço de transporte, em virtude de erro devidamente comprovado, e desde que não descaracterize a prestação, deverá ser observado:
 
 (NR- RA 69/22, com efeitos a partir de 03.04.23)
+
+<!-- p. 258 -->
+242
+
+242
 
 ~~I - na hipótese do tomador de serviço ser contribuinte do ICMS:~~
 (Revogado _ RA 69/22, com efeitos a partir de 03.04.23)
@@ -9478,10 +9526,6 @@ a) ~~o tomador deverá emitir declaração mencionando o número e data de emiss
 
 b) ~~após receber o documento referido na alínea “a”, o transportador deverá emitir um CT-e de anulação para cada CT-e emitido com erro, referenciando-o, adotando os mesmos valores totais do serviço e do tributo, consignando como natureza da operação “Anulação de valor relativo à prestação de serviço de transporte”, informando o número do CT-e emitido com erro e o motivo;~~
 
-<!-- p. 257 -->
-241
-
-241
 
 c) ~~após emitir o documento referido na alínea “b”, o transportador deverá emitir um CT-e substituto, referenciando o CT-e emitido com erro e consignando a expressão “Este documento substitui o Cte número e data em virtude de (especificar o motivo do erro)”.~~
 
@@ -9496,6 +9540,12 @@ a) o tomador registrará o evento XV do §1º do Art. 231-X;
 b) ~~após o registro do evento referido na alínea "a", o transportador emitirá um CT-e de anulação para cada CT-e emitido com erro, referenciando-o, adotando os mesmos valores totais do serviço e do tributo, consignando como natureza da operação "Anulação de valor relativo à prestação de serviço de transporte", informando o número do CT-e emitido com erro e o motivo;~~
 
 (Revogado _ RA 69/22, com efeitos a partir de 03.04.23)
+
+<!-- p. 259 -->
+243
+
+243
+
 c) ~~após a emissão do documento referido na alínea "b", o transportador emitirá um CT-e substituto, referenciando o CT-e emitido com erro e consignando a expressão "Este documento substitui o CT-e número e data em virtude de (especificar o motivo do erro).~~
 
 ~~(Inciso III e alíneas - AC pela RA 16/2017)~~
@@ -9513,11 +9563,6 @@ c) após o registro do evento referido na alínea “a”, o transportador emiti
 
 ~~§ 4º Para cada CT-e emitido com erro somente é possível a emissão de um CT-e de anulação e um substituto, que não poderão ser cancelados.~~
 
-<!-- p. 258 -->
-242
-
-242
-
 ~~§ 5º O prazo para autorização do CT-e de anulação assim como o respectivo CT-e de Substituição será de 60 (sessenta) dias contados da data da autorização de uso do CT-e a ser corrigido.~~
 
 ~~§ 6º O prazo para emissão do documento de anulação de valores ou do registro de um dos eventos citados no inciso III alínea "a" será de 45 (quarenta e cinco) dias contados da data da autorização de uso do CT-e a ser corrigido.~~
@@ -9532,12 +9577,21 @@ c) após o registro do evento referido na alínea “a”, o transportador emiti
 § 5º O prazo para autorização do CT-e de Substituição será de 60 (sessenta) dias, contados da data da autorização de uso do CT-e a ser corrigido.
 
 (NR – RA 69/22, com efeitos a partir de 03.04.23)
+
+<!-- p. 260 -->
+244
+
+244
+
 § 6º O prazo para registro de um dos eventos citados no inciso III da alínea “a” deste artigo será de 45 (quarenta e cinco) dias, contados da data da autorização de uso do CT-e a ser corrigido.
 
 (NR – RA 69/22, com efeitos a partir de 03.04.23)
 § 7º O tomador do serviço não contribuinte poderá registrar o evento relacionado no inciso III alínea “a” deste artigo.
 
 (NR – RA 69/22, com efeitos a partir de 03.04.23)
+§ 8º O tomador de serviço do CT-e original estabelecido no exterior fica dispensado de registrar o evento citado na alínea “a” do inciso III do caput deste artigo.
+
+(AC – RA 21/26)
 
 Art. 231-V-A Para a alteração de tomador de serviço informado indevidamente no CT-e, em virtude de erro devidamente comprovado, deverá ser observado:
 
@@ -9546,11 +9600,6 @@ I - o tomador indicado no CT-e original deverá registrar o evento XV do §1º d
 II ~~- após o registro do evento referido no inciso I, o transportador deverá emitir um CT-e de anulação para cada CT-e emitido com erro, referenciando-o, adotando os mesmos valores totais do serviço e do tributo, consignando como natureza da operação "Anulação de valor relativo à prestação de serviço de transporte", informando o número do CT-e emitido com erro e o motivo;~~
 
 (Revogado - RA 69/22, com efeitos a partir de 03.04.23) III ~~- após a emissão do documento referido no inciso II, o transportador deverá emitir um CT-e substituto, referenciando o CT-e emitido com erro e consignando a expressão "Este documento substitui o CT-e "número" de "data" em virtude de tomador informado erroneamente".~~
-
-<!-- p. 259 -->
-243
-
-243
 
 III - após o registro do evento referido no inciso I, o transportador deverá emitir um CT-e substituto, referenciando o CT-e emitido com erro e consignando a expressão “Este documento substitui o CT-e “número” de “data” em virtude de tomador informado erroneamente.
 
@@ -9563,6 +9612,11 @@ III - após o registro do evento referido no inciso I, o transportador deverá e
 ~~§ 3º Para cada CT-e emitido com erro somente é possível a emissão de um CT-e de anulação e um substituto, que não poderão ser cancelados.~~
 
 § 3º Para cada CT-e emitido com erro somente é possível a emissão de um CT-e substituto, que não poderá ser cancelado.
+
+<!-- p. 261 -->
+245
+
+245
 
 (NR – RA 69/22, com efeitos a partir de 03.04.23)
 
@@ -9579,15 +9633,13 @@ III - após o registro do evento referido no inciso I, o transportador deverá e
 § 7º Além do disposto no § 6º, o tomador do serviço do CT-e de substituição poderá ser um estabelecimento diverso do anteriormente indicado, desde que pertencente a alguma das empresas originalmente consignadas como remetente, destinatário, tomador, expedidor ou recebedor no CT-e original, e desde que localizado na mesma UF do tomador original.
 
 (Art. 231-V-A, incisos e §§ - AC pela RA16/2017)
+§ 8º O tomador de serviço do CT-e original estabelecido no exterior fica dispensado de registrar o evento citado no inciso I do caput deste artigo.
+
+(AC RA 21/26)
 
 Subseção VI Da Obrigatoriedade do CT-e
 
 Art. 231-W. A utilização do CT-e será obrigatória:
-
-<!-- p. 260 -->
-244
-
-244
 
 I - a partir de 1º de março de 2012, para os contribuintes que tenha inscrição apenas neste Estado e que efetuarem prestação de serviço de transporte interno e interestadual, cujo início ocorra em território maranhense.
 
@@ -9597,6 +9649,11 @@ II - Aos não alcançados pela regra do inciso I, a partir de:
 ~~a) 1º de setembro de 2012, para os contribuintes do modal: 1. rodoviário relacionados no Anexo Único do Ajuste SINIEF 09/07; 2. dutoviário; 3. aéreo;~~
 
 ~~a) 1º de dezembro de 2012, para os contribuintes do modal:~~
+
+<!-- p. 262 -->
+246
+
+246
 
 ~~1. rodoviário, relacionados no Anexo Único do Ajuste SINIEF 09/07; 2. dutoviário; 3. aéreo; 4. ferroviário.~~
 ~~(NR RA 28/12)~~
@@ -9621,12 +9678,6 @@ f) 1º de fevereiro de 2013, para os contribuintes do modal aéreo.
 
 g) 3 de novembro de 2014, para os contribuintes do Transporte Multimodal de Carga;
 (AC – RA 16/17)
-
-<!-- p. 261 -->
-245
-
-245
-
 h) ~~2 de outubro de 2017, para o CT-e OS, modelo 67."~~
 ~~(AC- RA 16/2017)~~
 (Revogado pela RA 14/22)
@@ -9634,6 +9685,11 @@ h) ~~2 de outubro de 2017, para o CT-e OS, modelo 67."~~
 §1º Para efeito do previsto neste artigo, o requerimento formulado por um estabelecimento se comunica a todos os demais, localizados no território maranhense, pertencentes ao mesmo titular.
 
 ~~§ 2º A obrigatoriedade de uso do CT-e aplica-se a todas as prestações efetuadas por todos os estabelecimentos dos contribuintes referidos neste artigo, ficando vedada a emissão dos documentos referidos nos incisos do caput do art. 231-O, no transporte de cargas.~~
+
+<!-- p. 263 -->
+247
+
+247
 
 § 2º A obrigatoriedade de uso do CT-e por modal aplica-se a todas as prestações efetuadas por todos os estabelecimentos dos contribuintes, daquele modal, referidos nos incisos do caput, ficando vedada a emissão dos documentos referidos nos incisos do caput do Art. 231-O.
 
@@ -9661,11 +9717,6 @@ Subseção VII Das Disposições Finais
 
 ~~§ 2º A Informação de Recebimento será efetivada via Internet.~~
 
-<!-- p. 262 -->
-246
-
-246
-
 ~~§ 3º A cientificação do resultado da Informação de Recebimento será feita mediante arquivo, contendo, no mínimo, as Chaves de Acesso do CT-e, a data e a hora do recebimento da solicitação pela administração tributária da unidade federada do emitente, a confirmação ou declaração realizada, conforme o caso, e o número do recibo, podendo ser autenticado mediante assinatura digital gerada com certificação digital da administração tributária ou outro mecanismo que garanta a sua recepção.~~
 
 
@@ -9673,11 +9724,18 @@ Art. 231-X A ocorrência de fatos relacionados com um CT-e denomina-se "Evento d
 
 § 1º Os eventos relacionados a um CT-e são:
 
+<!-- p. 264 -->
+248
+
+248
+
 I - Cancelamento, conforme disposto no inciso II do Art. 231-Z-F;
 
 II - Carta de Correção Eletrônica, conforme disposto no Art. 231-U;
 
-III - EPEC, conforme disposto no inciso III do Art. 231-T;
+III ~~- EPEC, conforme disposto no inciso III do Art. 231-T;~~
+
+(Revogado – RA 21/26, com efeitos a parti)
 
 IV - Registros do Multimodal, registro de ocorrências relacionadas à prestação multimodal;
 
@@ -9700,18 +9758,16 @@ XII - Autorizado CT-e de Substituição, registro de que este CT-e foi referenci
 
 XIII ~~- Autorizado CT-e de Anulação, registro de que este CT-e foi referenciado em um CTe de anulação;~~
 
-(Revogado – RA 69/22, com efeitos a partir de 03.04.23)
-
-<!-- p. 263 -->
-247
-
-247
-
-XIV - Autorizado CT-e com serviço vinculado ao multimodal, registro de que o CT-e foi referenciado em um CT-e vinculado ao multimodal;
+(Revogado – RA 69/22, com efeitos a partir de 03.04.23) XIV - Autorizado CT-e com serviço vinculado ao multimodal, registro de que o CT-e foi referenciado em um CT-e vinculado ao multimodal;
 
 XV - Prestação de serviço em desacordo com o informado no CT-e, manifestação do tomador de serviço declarando que a prestação descrita do CT-e não foi descrita conforme acordado;
 
 XVI - Manifestação do Fisco, registro realizado pela autoridade fiscal com referência ao conteúdo ou à situação do CT-e;
+
+<!-- p. 265 -->
+249
+
+249
 
 XVII ~~- Informações da GTV, registro das informações constantes nas Guias de Transporte de Valores;~~
 
@@ -9740,11 +9796,6 @@ XXIV - Cancelamento do Insucesso na Entrega do CT-e, registro de que houve o can
 
 I - pelas pessoas estabelecidas no §5, envolvidas ou relacionadas com a operação descrita no CT-e, conforme leiaute e procedimentos estabelecidos no Manual de Orientação do Contribuinte;
 
-<!-- p. 264 -->
-248
-
-248
-
 II - por órgãos da Administração Pública direta ou indireta, conforme leiaute e procedimentos estabelecidos no Manual de Orientação do Contribuinte.
 
 
@@ -9754,6 +9805,12 @@ II - por órgãos da Administração Pública direta ou indireta, conforme leiau
 I - a Secretaria da Receita Federal do Brasil;
 
 II - a unidade federada:
+
+<!-- p. 266 -->
+250
+
+250
+
 
 a) de início da prestação do serviço de transporte;
 b) de término da prestação do serviço de transporte;
@@ -9776,7 +9833,9 @@ III - a Superintendência da Zona Franca de Manaus - SUFRAMA, se a prestação d
 I - pelo emitente do CT-e, modelo 57:
 a) Carta de Correção Eletrônica;
 b) Cancelamento;
-c) EPEC;
+c) ~~EPEC;~~
+
+(Revogada – RA 21/26, com efeitos a partir de 05.10.26)
 d) Registros do Multimodal;
 e) Comprovante de Entrega do CT-e;
 (AC – RA 14/22)
@@ -9789,11 +9848,6 @@ b) ~~Cancelamento;~~
 c) ~~Informações da GTV;~~
 (Revogado pela RA 14/22)
 
-<!-- p. 265 -->
-249
-
-249
-
 ~~III - pelo tomador do serviço do CT-e, modelos 57 e 67, o evento "prestação de serviço em desacordo com o informado no CT-e.~~
 
 III - pelo tomador do serviço do CT-e, modelos 57, o evento “prestação de serviço em desacordo com o informado no CT-e.
@@ -9801,6 +9855,11 @@ III - pelo tomador do serviço do CT-e, modelos 57, o evento “prestação de s
 (NR – RA 14/22)
 
 § 6º A administração tributária pode registrar os eventos previstos nos incisos V a XIV, XVI e XVIII a XX do § 1º deste artigo.
+
+<!-- p. 267 -->
+251
+
+251
 
 (Art. 231-X, §§, incisos e alíneas - NR RA 16/2017)
 § 7° O registro do Insucesso na Entrega do CT-e realizado pelo transportador, nos termos do inciso XXIII do §1º deste artigo, substitui a indicação do motivo do retorno no verso do documento de que trata o art. 72 do Convênio SINIEF nº 6/89.
@@ -9826,16 +9885,16 @@ III - por transportador de passageiro para englobar, no final do período de apu
 
 § 1º Considera-se CT-e OS o documento emitido e armazenado eletronicamente, de existência apenas digital, com o intuito de documentar prestações de serviço de transporte, elencadas nos incisos I a III do caput deste artigo, cuja validade jurídica é garantida pela assinatura digital do emitente e pela autorização de uso de que trata o inciso III do art. 231-X-G desta seção.
 
-<!-- p. 266 -->
-250
-
-250
-
 § 2º A obrigatoriedade de uso do CT-e OS aplica-se a todas as prestações efetuadas por todos os estabelecimentos dos contribuintes, ficando vedada a emissão da Nota Fiscal de Serviço de Transporte, modelo 7.
 
 § 3º Nos casos em que a emissão do CT-e OS for obrigatória, o tomador do serviço deverá exigir sua emissão, vedada a aceitação de qualquer outro documento em sua substituição.
 
 § 4º O disposto nesta seção não se aplica ao Microempreendedor Individual (MEI), de que trata o art. 18-A da Lei Complementar nº 123, de 14 de dezembro de 2006.
+
+<!-- p. 268 -->
+252
+
+252
 
 Art. 231-X-B Ato COTEPE/ICMS publicará o Manual de Orientação do Contribuinte do CT-e (MOC- -CT-e), disciplinando a definição das especificações e critérios técnicos necessários para a integração entre os Portais das Secretarias de Fazendas, Finanças, Tributação e Economia dos Estados e os sistemas de informações das empresas emissoras de CT- e OS.
 
@@ -9859,14 +9918,14 @@ III - possuir numeração sequencial de 1 a 999.999.999, por estabelecimento e p
 
 IV - ser assinado digitalmente pelo emitente.
 
-<!-- p. 267 -->
-251
-
-251
-
 § 2º Para a assinatura digital deverá ser utilizado certificado digital emitido dentro da cadeia de certificação da Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, que contenha o CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital.
 
 § 3º O contribuinte poderá adotar séries distintas para a emissão do CT-e OS, designadas por algarismos arábicos, em ordem crescente, vedada a utilização de subsérie, observado o disposto no MOC-CT-e.
+
+<!-- p. 269 -->
+253
+
+253
 
 § 4º Quando o transportador efetuar prestação de serviço de transporte iniciada em unidade federada diversa daquela em que possui credenciamento para a emissão do CT-e OS, deverá utilizar séries distintas, observado o disposto no § 2º do art. 231-X-E desta seção.
 
@@ -9894,11 +9953,6 @@ VI - a numeração e série do documento.
 
 Parágrafo único. A autorização de uso poderá ser concedida pela SEFAZ através da infraestrutura tecnológica de outra unidade federada.
 
-<!-- p. 268 -->
-252
-
-252
-
 Art. 231-X-G Do resultado da análise referida no art. 231-X-F, a SEFAZ cientificará o emitente:
 
 I - da rejeição do arquivo do CT-e OS, em virtude de:
@@ -9906,6 +9960,11 @@ I - da rejeição do arquivo do CT-e OS, em virtude de:
 a) falha na recepção ou no processamento do arquivo;
 
 b) falha no reconhecimento da autoria ou da integridade do arquivo digital;
+
+<!-- p. 270 -->
+254
+
+254
 
 c) emitente não credenciado para emissão do CT-e OS;
 
@@ -9933,16 +9992,16 @@ III - da concessão da Autorização de Uso do CT-e OS.
 
 § 6º No caso do § 5º do caput deste artigo, não será possível sanar a irregularidade e solicitar nova Autorização de Uso do CT-e OS que contenha a mesma numeração.
 
-<!-- p. 269 -->
-253
-
-253
-
 § 7º A concessão da Autorização de Uso do CT-e OS:
 
 I - é resultado da aplicação de regras formais especificadas no MOC-CT-e e não implica a convalidação das informações tributárias contidas no CT-e OS;
 
 II - identifica de forma única um CT-e OS através do conjunto de informações formado por CNPJ do emitente, número, série e ambiente de autorização.
+
+<!-- p. 271 -->
+255
+
+255
 
 § 8º O emitente do CT-e OS deverá encaminhar ou disponibilizar o arquivo eletrônico do CT-e OS e seu respectivo protocolo de autorização ao tomador do serviço, observado leiaute e padrões técnicos definidos no MOC-CT-e.
 
@@ -9966,14 +10025,16 @@ III - poderá conter outros elementos gráficos, desde que não prejudiquem a le
 
 IV - será utilizado para acompanhar a prestação do serviço durante o transporte somente após a concessão da Autorização de Uso do CT-e OS, de que trata o inciso III do art. 231-X-G, ou na hipótese prevista no art. 231-X-K.
 
-<!-- p. 270 -->
-254
-
-254
-
 § 2º Quando o tomador do serviço de transporte não for credenciado para emitir documentos fiscais eletrônicos, a escrituração do CT-e OS poderá ser efetuada com base nas informações contidas no DACTE OS, observado o disposto no art. 231-X-J.
 
-§ 3º Quando a legislação tributária previr a utilização de vias adicionais para os documentos previstos nos incisos do art. 231-X-A, o contribuinte que utilizar o CT-e OS deverá imprimir o DACTE OS com o número de cópias necessárias para cumprir a respectiva norma, sendo todas consideradas originais.
+§ 3º Quando a legislação tributária previr a utilização de vias adicionais para os documentos previstos nos incisos do art. 231-X-A, o contribuinte que utilizar o CT-e OS deverá
+
+<!-- p. 272 -->
+256
+
+256
+
+imprimir o DACTE OS com o número de cópias necessárias para cumprir a respectiva norma, sendo todas consideradas originais.
 
 § 4º As alterações de leiaute do DACTE OS permitidas são as previstas no MOC-CT- e.
 
@@ -9995,14 +10056,14 @@ II - transmitir o CT-e OS para o Sistema de Sefaz Virtual de Contingência - SVC
 
 I - acompanhar o veículo durante a prestação do serviço;
 
-<!-- p. 271 -->
-255
-
-255
-
 II - ser mantida em arquivo pelo emitente pelo prazo estabelecido na legislação tributária para a guarda dos documentos fiscais;
 
 III - ser mantida em arquivo pelo tomador pelo prazo estabelecido na legislação tributária para a guarda de documentos fiscais.
+
+<!-- p. 273 -->
+257
+
+257
 
 § 2º Nas hipóteses dos incisos I, II e III do caput deste artigo, fica dispensada a impressão da 3ª via caso o tomador do serviço seja o destinatário, devendo o tomador manter a via que acompanhou o trânsito.
 
@@ -10028,15 +10089,15 @@ IV - providenciar, junto ao tomador, a entrega do CT-e OS autorizado bem como do
 
 § 6º O tomador deverá manter em arquivo, pelo prazo decadencial estabelecido pela legislação tributária, junto à via mencionada no inciso III do § 1º deste artigo, a via do DACTE OS recebidos nos termos do inciso IV do § 5º deste artigo.
 
-<!-- p. 272 -->
-256
-
-256
-
 § 7º Se decorrido o prazo limite de transmissão do CT-e OS, referido no § 4º deste artigo, o tomador não puder confirmar a existência da Autorização de Uso do CT-e OS correspondente, deverá comunicar o fato à SEFAZ, se a esta estiver vinculado, dentro do prazo de
 30 (trinta) dias.
 
 § 8º Na hipótese prevista no inciso II do caput deste artigo, a SEFAZ poderá autorizar o CT-e OS utilizando-se da infraestrutura tecnológica de outra unidade federada.
+
+<!-- p. 274 -->
+258
+
+258
 
 § 9º O contribuinte deverá registrar a ocorrência de problema técnico, conforme definido no MOC-CT-e
 
@@ -10064,14 +10125,14 @@ Art. 231-X-L Após a concessão de Autorização de Uso do CT-e OS, de que trata
 
 § 2º O cancelamento somente poderá ser efetuado mediante Pedido de Cancelamento de CT-e OS, transmitido pelo emitente à SEFAZ, se foi esta que o autorizou.
 
-<!-- p. 273 -->
-257
-
-257
-
 § 3° Cada Pedido de Cancelamento de CT-e OS corresponderá a um único Conhecimento de Transporte Eletrônico para Outros Serviços, devendo atender ao leiaute estabelecido no MOC-CT-e.
 
 § 4º O Pedido de Cancelamento de CT-e OS deverá ser assinado pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira (ICP- -Brasil), contendo o CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital.
+
+<!-- p. 275 -->
+259
+
+259
 
 § 5° A transmissão do Pedido de Cancelamento de CT-e OS será efetivada via Internet, por meio de protocolo de segurança ou criptografia, podendo ser realizada por meio de software desenvolvido ou adquirido pelo contribuinte.
 
@@ -10091,16 +10152,14 @@ Art. 231-X-M O emitente deverá solicitar, mediante Pedido de Inutilização de 
 
 § 2º A transmissão do Pedido de Inutilização de Número do CT-e OS, será efetivada via Internet, por meio de protocolo de segurança ou criptografia.
 
-§ 3º A cientificação do resultado do Pedido de Inutilização de Número do CT-e OS será feita mediante protocolo disponibilizado ao emitente, via Internet, contendo, conforme o caso, o número do CT-e OS, a data e a hora do recebimento da solicitação pela administração
-
-<!-- p. 274 -->
-258
-
-258
-
-tributária da unidade federada do contribuinte e o número do protocolo, podendo ser autenticado mediante assinatura digital gerada com certificação digital da administração tributária ou outro mecanismo de confirmação de recebimento.
+§ 3º A cientificação do resultado do Pedido de Inutilização de Número do CT-e OS será feita mediante protocolo disponibilizado ao emitente, via Internet, contendo, conforme o caso, o número do CT-e OS, a data e a hora do recebimento da solicitação pela administração tributária da unidade federada do contribuinte e o número do protocolo, podendo ser autenticado mediante assinatura digital gerada com certificação digital da administração tributária ou outro mecanismo de confirmação de recebimento.
 
 Art. 231-X-N Após a concessão da Autorização de Uso do CT-e OS, de que trata o inciso III do art. 231- X-G desta Seção, o emitente poderá sanar erros em campos específicos do CT-e OS, observado o disposto no art. 58-B do Convênio SINIEF 06/89, de 21 de fevereiro de 1989, por meio de Carta de Correção Eletrônica - CC-e, transmitida à SEFAZ.
+
+<!-- p. 276 -->
+260
+
+260
 
 § 1º A CC-e deverá atender ao leiaute estabelecido no MOC-CT-e e ser assinada pelo emitente com assinatura digital certificada por entidade credenciada pela ICP-Brasil, contendo o número do CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital.
 
@@ -10122,14 +10181,14 @@ I - na hipótese do tomador de serviço ser contribuinte do ICMS:
 
 a) o tomador deverá emitir documento fiscal próprio, pelos valores totais do serviço e do tributo, consignando como natureza da operação “Anulação de valor relativo à aquisição de serviço de transporte”, informando o número do CT-e OS emitido com erro, os valores anulados e o motivo, podendo consolidar as informações de um mesmo período de apuração em um único documento fiscal, devendo a primeira via do documento ser enviada ao transportador;
 
-<!-- p. 275 -->
-259
-
-259
-
 b) após receber o documento referido na alínea “a” deste inciso, o transportador deverá emitir um CT-e OS substituto, referenciando o CT-e OS emitido com erro e consignando a expressão “Este documento substitui o CT-e OS n° XXXXXXX, Série XXX, Data dd/mm/aaaa, em virtude de (especificar o motivo do erro)”;
 
 II - na hipótese de tomador de serviço não ser contribuinte do ICMS:
+
+<!-- p. 277 -->
+261
+
+261
 
 a) o tomador deverá emitir declaração mencionando o número e data de emissão do CT-e OS emitido com erro, bem como o motivo do erro, podendo consolidar as informações de um mesmo período de apuração em uma ou mais declarações;
 
@@ -10149,14 +10208,14 @@ c) após a emissão do documento referido na alínea “b” deste inciso, o tra
 
 § 2º Na hipótese em que a legislação vedar o destaque do imposto pelo tomador contribuinte do ICMS, deverá ser adotado o procedimento previsto no inciso II do caput deste artigo, substituindo-se a declaração prevista na alínea “a” do inciso II do caput deste artigo por documento fiscal emitido pelo tomador que deverá indicar, no campo “Informações Adicionais”, a base de cálculo, o imposto destacado e o número do CT-e OS emitido com erro.
 
-<!-- p. 276 -->
-260
-
-260
-
 § 3º O disposto neste artigo não se aplica nas hipóteses de erro passível de correção mediante CC-e ou emissão de documento fiscal complementar.
 
 § 4º Para cada CT-e OS emitido com erro somente é possível a emissão de um CT-e OS de anulação e um substituto, que não poderão ser cancelados.
+
+<!-- p. 278 -->
+262
+
+262
 
 § 5º O prazo para autorização do CT-e OS de anulação assim como o respectivo CT-e OS de substituição será de 60 (sessenta) dias contados da data da autorização de uso do CT-e OS a ser corrigido.
 
@@ -10182,14 +10241,14 @@ Art. 231-X-Q A ocorrência de fatos relacionados com um CT-e OS denomina-se “E
 
 I - Cancelamento, conforme disposto no art. 231-X-L desta seção;
 
-<!-- p. 277 -->
-261
-
-261
-
 II - CCE, conforme disposto no art. 231-X-N desta seção;
 
 III - Autorizado CT-e OS Complementar, registro de que o CT-e OS foi referenciado em um CT-e OS complementar;
+
+<!-- p. 279 -->
+263
+
+263
 
 IV - Cancelado CT-e OS Complementar, registro de que houve o cancelamento de um CT-e OS complementar que referencia o CT-e OS original;
 
@@ -10223,12 +10282,12 @@ c) Informações da GTV;
 
 II - pelo tomador do serviço do CT-e OS, o evento “prestação de serviço em desacordo com o informado no CT-e OS”.
 
-<!-- p. 278 -->
-262
-
-262
-
 Parágrafo único. A SEFAZ pode registrar os eventos previstos nos incisos III, IV, V, VI e VIII do § 1º do art. 231-X-Q desta seção.
+
+<!-- p. 280 -->
+264
+
+264
 
 Art. 231-X-S A SEFAZ disponibilizará às empresas autorizadas à emissão de CT-e OS consulta eletrônica referente à situação cadastral dos contribuintes do ICMS de sua unidade, conforme padrão estabelecido no MOC-CT-e.
 
@@ -10251,14 +10310,12 @@ II - Extrato de Faturamento. Parágrafo único. Considera-se GTV-e o documento e
 
 Art. 231-X-X Ato COTEPE/ICMS publicará o Manual de Orientação do Contribuinte - MOC do CT-e contendo capítulo específico a respeito da GTV-e, disciplinando a definição das especificações e critérios técnicos necessários para a integração entre os Portais das Secretarias de Fazendas, Economia, Finanças, Receita e Tributação dos Estados e os sistemas de informações das empresas emissoras de GTV-e.
 
-Parágrafo único. Nota técnica publicada no Portal Nacional do CT-e poderá esclarecer questões referentes ao MOC. Art. 231-X-Y. Para emissão da GTV-e, o contribuinte
+Parágrafo único. Nota técnica publicada no Portal Nacional do CT-e poderá esclarecer questões referentes ao MOC. Art. 231-X-Y. Para emissão da GTV-e, o contribuinte deverá estar previamente credenciado como emissor do CT-e OS, modelo 67, na unidade federada em cujo cadastro de contribuinte do ICMS estiver inscrito.
 
-<!-- p. 279 -->
-263
+<!-- p. 281 -->
+265
 
-263
-
-deverá estar previamente credenciado como emissor do CT-e OS, modelo 67, na unidade federada em cujo cadastro de contribuinte do ICMS estiver inscrito.
+265
 
 Art. 231-X-Z A GTV-e deverá ser emitida com base em leiaute estabelecido no MOC, por meio de software desenvolvido ou adquirido pelo contribuinte.
 
@@ -10286,12 +10343,12 @@ Art. 231-X-Z-A O contribuinte credenciado deverá solicitar a concessão de Auto
 
 § 1º O prazo máximo para autorização da GTV-e será até o momento da autorização do CT-e OS que a referencie.
 
-<!-- p. 280 -->
-264
-
-264
-
 § 2º Quando o transportador estiver credenciado para emissão da GTV-e na unidade federada em que tiver início a prestação do serviço de transporte, a solicitação de autorização de uso deverá ser transmitida à administração tributária desta unidade federada.
+
+<!-- p. 282 -->
+266
+
+266
 
 § 3º Quando o transportador não estiver credenciado para emissão da GTV-e na unidade federada em que tiver início a prestação do serviço de transporte, a solicitação de autorização de uso deverá ser transmitida à administração tributária em que estiver credenciado.
 
@@ -10331,12 +10388,14 @@ II - da concessão da Autorização de Uso da GTV-e.
 
 § 1º Após a concessão da Autorização de Uso da GTV-e, o arquivo da GTV-e não poderá ser alterado.
 
-<!-- p. 281 -->
-265
+§ 2º A cientificação de que trata o caput deste artigo será efetuada mediante protocolo disponibilizado ao emitente ou a terceiro autorizado pelo emitente, via internet, contendo, conforme o caso, a “chave de acesso”, o número da GTV-e, a data e a hora do recebimento da
 
-265
+<!-- p. 283 -->
+267
 
-§ 2º A cientificação de que trata o caput deste artigo será efetuada mediante protocolo disponibilizado ao emitente ou a terceiro autorizado pelo emitente, via internet, contendo, conforme o caso, a “chave de acesso”, o número da GTV-e, a data e a hora do recebimento da solicitação pela administração tributária e o número do protocolo, podendo ser autenticado mediante assinatura digital gerada com certificação digital da administração tributária ou outro mecanismo de confirmação de recebimento.
+267
+
+solicitação pela administração tributária e o número do protocolo, podendo ser autenticado mediante assinatura digital gerada com certificação digital da administração tributária ou outro mecanismo de confirmação de recebimento.
 
 § 3º Não sendo concedida a Autorização de Uso, o protocolo de que trata o § 2º deste artigo conterá informações que justifiquem o motivo, de forma clara e precisa.
 
@@ -10358,12 +10417,12 @@ Art. 231-X-Z-F Quando em decorrência de problemas técnicos não for possível 
 
 § 1º Na hipótese prevista no caput deste artigo, a administração tributária da unidade federada do emitente poderá autorizar a GTV-e utilizando-se da infraestrutura tecnológica de outra unidade federada.
 
-<!-- p. 282 -->
-266
-
-266
-
 § 2º Após a concessão da Autorização de Uso da GTV-e, conforme disposto no § 1º, a unidade federada cuja infraestrutura foi utilizada deverá disponibilizar a GTV-e para a SEFAZ Virtual do Rio Grande do Sul, que disponibilizará para as UF interessadas, sem prejuízo do disposto no § 2º do art. 231-X-Z-B deste regulamento.
+
+<!-- p. 284 -->
+268
+
+268
 
 Art. 231-X-Z-G Após a concessão de Autorização de Uso da GTV-e, de que trata o inciso II do art. 231-X-Z-C deste regulamento, o emitente poderá solicitar o cancelamento da GTV-e, no prazo não superior ao da autorização do CT-e OS que a referencie, observadas as demais normas da legislação pertinente.
 
@@ -10389,12 +10448,12 @@ II -CT-e OS Autorizado, registro de que uma GTV-e foi referenciada em um CT-e OS
 
 III -CT-e OS Cancelado, registro de que o CT-e OS que referenciava uma GTV-e foi cancelado.
 
-<!-- p. 283 -->
-267
-
-267
-
 § 2º A administração tributária registrará os eventos previstos nos incisos II e III do § 1º deste artigo.
+
+<!-- p. 285 -->
+269
+
+269
 
 Art. 231-X-Z-I As administrações tributárias autorizadoras de GTV-e poderão suspender, de forma temporária ou definitiva, o acesso aos seus respectivos ambientes autorizadores ao contribuinte que praticar, mesmo que de maneira não intencional, o consumo indevido de tais ambientes em desacordo com os padrões estabelecidos no MOC.
 
@@ -10419,12 +10478,13 @@ I - Nota Fiscal de Serviço de Comunicação, modelo 21;
 II - Nota Fiscal de Serviço de Telecomunicação, modelo 22.
 § 1º Considera-se Nota Fiscal Fatura de Serviços de Comunicação Eletrônica - NFCom, o documento emitido e armazenado eletronicamente, de existência apenas digital, com o intuito de documentar prestações relativas aos serviços de comunicação e telecomunicação, cuja validade jurídica é garantida pela assinatura digital do emitente e autorização de uso pela administração tributária da unidade federada do contribuinte.
 
-<!-- p. 284 -->
-268
-
-268
-
 § 2º A NFCom deverá conter todas as cobranças aos tomadores dos serviços.
+
+<!-- p. 286 -->
+270
+
+270
+
 ~~§ 3º Os contribuintes do ICMS ficam obrigados ao uso da NFCom previsto no “caput”, a partir de 1º de abril de 2025.~~
 
 § 3º Os contribuintes do ICMS ficam obrigados ao uso da NFCom previsto no “caput” a partir de 1º de novembro de 2025.
@@ -10451,12 +10511,12 @@ Art. 231-X-W-C. Ato COTEPE/ICMS publicará o “Manual de Orientação do Contri
 
 Parágrafo único. Nota técnica publicada em sítio eletrônico do portal da NFCom poderá esclarecer questões referentes ao MOC.
 
-<!-- p. 285 -->
-269
-
-269
-
 Art. 231-X-W-D. A NFCom deve ser emitida com base em leiaute estabelecido no MOC, por meio de software desenvolvido ou adquirido pelo contribuinte, observadas as seguintes formalidades:
+
+<!-- p. 287 -->
+271
+
+271
 
 I - o arquivo digital da NFCom deve ser elaborado no padrão XML (“Extensible Markup Language”;
 
@@ -10482,15 +10542,15 @@ II - conter o número do protocolo de concessão da autorização de uso, confor
 
 Art. 231-X-W-F. O arquivo digital da NFCom só poderá ser utilizado como documento fiscal após:
 
-<!-- p. 286 -->
-270
-
-270
-
 I - ser transmitido eletronicamente à administração tributária, nos termos da art. 231-
 X-W-G;
 
 II - ter seu uso autorizado por meio de concessão de Autorização de uso da NFCom, nos termos do inciso I da art. 231-X-W-I.
+
+<!-- p. 288 -->
+272
+
+272
 
 § 1º Ainda que formalmente regular, será considerado documento fiscal inidôneo a NFCom que tiver sido emitida ou utilizada com dolo, fraude, simulação ou erro, que possibilite, mesmo que a terceiro, o não-pagamento do imposto ou qualquer outra vantagem indevida.
 
@@ -10513,15 +10573,14 @@ III - a autoria da assinatura do arquivo digital da NFCom;
 IV - a integridade do arquivo digital da NFCom;
 V - a observância ao leiaute do arquivo estabelecido no MOC;
 VI - a numeração do documento.
-
-<!-- p. 287 -->
-271
-
-271
-
 § 1º A unidade federada que tiver interesse, poderá, por convênio, estabelecer que a autorização de uso será concedida mediante a utilização de ambiente de autorização disponibilizado por meio de infraestrutura tecnológica de outra unidade federada.
 
 § 2º Na situação constante no § 1º, a administração tributária que autorizar o uso da NFCom deverá:
+
+<!-- p. 289 -->
+273
+
+273
 
 I - observar as disposições constantes deste ajuste estabelecidas para a administração tributária da unidade federada do contribuinte emitente;
 
@@ -10544,14 +10603,14 @@ f) outras falhas no preenchimento ou no leiaute do arquivo da NFCom.
 
 § 4º Nos casos previstos no inciso II, o protocolo de que trata o § 3º conterá informações que justifiquem, de forma clara e precisa, o motivo pelo qual a autorização de uso não foi concedida.
 
-<!-- p. 288 -->
-272
-
-272
-
 § 5º Quando solicitado, o emitente deverá encaminhar ou disponibilizar download do arquivo da NFCom e seu respectivo protocolo de autorização de uso ao tomador do serviço.
 
 § 6º Para os efeitos do disposto na alínea “a” do inciso II, considera-se irregular a situação do contribuinte emitente do documento fiscal que, nos termos da respectiva legislação estadual, estiver impedido de praticar operações na condição de contribuinte do ICMS.
+
+<!-- p. 290 -->
+274
+
+274
 
 § 7º A administração tributária da unidade federada do emitente deverá disponibilizar a NFCom para a Secretaria Especial da Receita Federal do Brasil - SRFB, para uso em suas atividades de fiscalização e controle.
 
@@ -10572,14 +10631,15 @@ II - imediatamente após a cessação dos problemas técnicos que impediram a tr
 
 III - se a NFCom, transmitida nos termos do inciso anterior, vier a ser rejeitada pela administração tributária, o emitente deve:
 
-<!-- p. 289 -->
-273
-
-273
-
 a) gerar novamente o arquivo com a mesma chave de acesso, sanando a irregularidade, desde que não se alterem as variáveis que determinam o valor do imposto, a correção de dados cadastrais que implique mudança do emitente ou do destinatário e a data de emissão;
 
 b) solicitar autorização de uso da NFCom;
+
+<!-- p. 291 -->
+275
+
+275
+
 IV - considera-se emitida a NFCom em contingência, tendo como condição resolutória a sua autorização de uso, no momento da disponibilização do respectivo DANFE- COM em contingência ao destinatário.
 
 § 2º É vedada a reutilização, em contingência, de número de NFCom transmitida com tipo de emissão “Normal”.
@@ -10602,14 +10662,14 @@ IV - Autorizada NFCom de Substituição: registra que a NFCom foi referenciada p
 
 V Autorizada NFCom de Cofaturamento: registra que a NFCom foi referenciada por outra NFCom de tipo de faturamento cofaturamento, emitida conforme disposto no inciso II do art. 231-X-W-S;
 
-<!-- p. 290 -->
-274
-
-274
-
 VI - Cancelada NFCom de Cofaturamento: registra, no documento que recebeu o registro do evento do inciso V, o cancelamento da NFCom de tipo de faturamento cofaturamento, emitida conforme disposto no inciso II da art. 231-X-W-S;
 
 VII - Substituída NFCom de Cofaturamento: registra, no documento que recebeu o registro do evento do inciso V, que este foi referenciado por uma NFCom de Substituição, cujo tipo de faturamento é cofaturamento, emitida conforme inciso II da art. 231-X-W-S.
+
+<!-- p. 292 -->
+276
+
+276
 
 § 2ºO evento indicado no inciso I do § 1º deve ser registrado pelo emitente.
 § 3º Os eventos indicados nos incisos II a VII do § 1º devem ser registrados pela unidade federada autorizadora ou por órgãos da administração pública direta ou indireta que a ela prestem este serviço.
@@ -10631,15 +10691,15 @@ II - ser assinado pelo emitente com assinatura digital, certificada por entidade
 § 5º Na hipótese de a administração tributária da unidade federada do emitente utilizar ambiente de autorização disponibilizado através de infraestrutura tecnológica de outra unidade federada, a administração tributária autorizadora deve disponibilizar acesso aos cancelamentos da NFCom para a unidade federada do emitente e para as entidades previstas nos
 §§ 7º e 8º da art. 231-X-W-I.
 
-<!-- p. 291 -->
-275
-
-275
-
 § 6º A critério da SEFAZ, pode ser recepcionado o pedido de cancelamento de forma extemporânea, quando excedido o limite de que trata o “caput”.
 
 § 7º A NFCom cancelada é dispensada de escrituração.
 Art. 231-X-W-P. Na hipótese de prestação de serviços na modalidade pré-paga, o emitente deverá emitir em cada período tantas NFCom quantas forem as respectivas aquisições antecipadas de créditos, pelo valor integral adquirido.
+
+<!-- p. 293 -->
+277
+
+277
 
 § 1° Nas situações em que os créditos referidos no “caput” tiverem utilização diversa de serviços de telecomunicação, o contribuinte poderá emitir, no período de apuração correspondente, NFCom de finalidade de ajuste, por terminal, detalhando por itens cada serviço diverso tomado, referenciando as chaves de acesso das respectivas NFCom anteriores a que se referem os créditos utilizados de forma diversa.
 
@@ -10659,15 +10719,14 @@ I - caso a NFCom não seja cancelada e ocorra ressarcimento ao tomador do servi�
 II - caso a NFCom seja emitida com erro, o emitente poderá emitir uma NFCom de Substituição, referenciando a NFCom com erro e consignando no DANFE-COM a expressão “Este documento substitui a NFCom série, número e data em virtude de (especificar o motivo do erro);
 
 (NR – RA 15/25)
-
-<!-- p. 292 -->
-276
-
-276
-
 III - nos casos em que não for possível o enquadramento nas situações dos incisos I e II, poderá ser emitida uma NFCom de finalidade de ajuste, observadas as disposições especificas da legislação de cada unidade federada.
 
 § 1º O contribuinte poderá, a critério de cada unidade federada, utilizar-se do eventual crédito decorrente do procedimento previsto no inciso II somente após a emissão da NFCom de Substituição.
+
+<!-- p. 294 -->
+278
+
+278
 
 § 2º Alternativamente ao disposto nos incisos I a III do “caput”, a unidade federada poderá:
 
@@ -10693,14 +10752,14 @@ I.
 
 § 3º Durante o período de transição para a NFCom, poderão ser seguidos os seguintes procedimentos:
 
-<!-- p. 293 -->
-277
-
-277
-
 I – quando apenas o prestador de serviço que efetuará a cobrança emitir a NFCom, o prestador do serviço cuja cobrança será efetuada por terceiro:
 
 a) fará a declaração do imposto devido, através de ajuste a débito e por emitente de NFCom, diretamente na escrituração fiscal, com base no arquivo XML recebido; e
+
+<!-- p. 295 -->
+279
+
+279
 
 b) emitirá os documentos fiscais eletrônicos correspondentes (NFCom), em até 90 (noventa) dias do início da obrigatoriedade, realizando o estorno do imposto, através de ajuste a crédito, diretamente na escrituração fiscal.
 
@@ -10724,14 +10783,14 @@ Subseção I Das Disposições Gerais
 
 Art. 231-Y. O Manifesto Eletrônico de Documentos Fiscais - MDF-e -, modelo 58, previsto no inciso XXV do artigo 122, será utilizado em substituição ao Manifesto de Carga, modelo 25, previsto no inciso XX do referido artigo, observados os acordos celebrados no âmbito do Conselho Nacional de Política Fazendária – CONFAZ, demais normas tributárias, especialmente, o disposto nesta Seção.
 
-<!-- p. 294 -->
-278
-
-278
-
 ~~§ 1º MDF-e é o documento fiscal eletrônico, de existência apenas digital, cuja validade jurídica é garantida pela assinatura digital do emitente e Autorização de uso de MDF-e pela administração tributária.~~
 
 § 1º MDF-e é o documento fiscal eletrônico, de existência apenas digital, cuja validade jurídica é garantida por uma assinatura eletrônica qualificada e pela autorização de uso por parte da administração tributária.
+
+<!-- p. 296 -->
+280
+
+280
 
 (NR – RA 56/22) (efeitos a partir de 01.09.22)
 § 1º-A A assinatura eletrônica qualificada, referida na presente seção, deve pertencer:
@@ -10759,16 +10818,17 @@ e) possuir numeração sequencial de 1 a 999.999.999, por estabelecimento e por 
 
 f) ser assinado digitalmente pelo emitente, com certificação digital realizada dentro da cadeia de certificação da Infraestrutura de Chaves Públicas Brasileiras - ICP-Brasil, contendo o número do CNPJ de qualquer dos estabelecimentos do contribuinte.
 
-<!-- p. 295 -->
-279
-
-279
 
 ~~§ 3º O contribuinte poderá adotar séries distintas para a emissão do MDF-e, designadas por algarismos arábicos, em ordem crescente de 1 a 999, vedada a utilização de subsérie.~~
 
 § 3º O contribuinte poderá adotar séries distintas para a emissão do MDF-e, designadas por algarismos arábicos, em ordem crescente, vedada a utilização de subsérie, observado o disposto no MOC.
 
 § 4º O Fisco poderá restringir a quantidade ou o uso de séries.
+
+<!-- p. 297 -->
+281
+
+281
 
 ~~Art. 231-Z. O MDF-e deverá ser emitido:~~
 ~~I - pelo transportador no transporte de carga fracionada, assim entendida a que corresponda a mais de um conhecimento de transporte;~~
@@ -10797,16 +10857,16 @@ I - pelo contribuinte emitente de CT-e, modelo 57, de que trata o Ajuste SINIEF 
 
 II ~~– pelo contribuinte emitente de NF-e de que trata o Ajuste SINIEF 07/05, de 30 de setembro de 2005, no transporte de bens ou mercadorias acobertadas por mais de uma NF-e, realizado em veículos próprios ou arrendados, ou mediante contratação de transportador autônomo de cargas.~~
 
-<!-- p. 296 -->
-280
-
-280
-
 II – pelo contribuinte emitente de NF-e de que trata o Ajuste SINIEF 07/05, de 30 de setembro de 2005, no transporte de bens ou mercadorias realizado em veículos próprios ou arrendados, ou mediante contratação de transportador autônomo de carga
 
 (NR – RA nº 16/18)
 
 ~~§ 1º O MDF-e deverá ser emitido nas situações descritas no caput e sempre que haja transbordo, redespacho, subcontratação ou substituição do veículo, do motorista, de contêiner ou inclusão de novas mercadorias ou documentos fiscais, bem como na hipótese de retenção imprevista de parte da carga transportada.~~
+
+<!-- p. 298 -->
+282
+
+282
 
 ~~(NR – RA nº 09/15)~~
 
@@ -10836,10 +10896,6 @@ II – pelo contribuinte emitente de NF-e de que trata o Ajuste SINIEF 07/05, de
 
 ~~Art. 231-Z-A A transmissão do arquivo digital do MDF-e deverá ser efetuada via Internet, por meio de protocolo de segurança ou criptografia, com utilização de software desenvolvido ou adquirido pelo contribuinte ou disponibilizado pela administração tributária.~~
 
-<!-- p. 297 -->
-281
-
-281
 
 Art. 231-Z-A A transmissão do arquivo digital do MDF-e deverá ser efetuada via Internet, por meio de protocolo de segurança ou criptografia, com utilização de software desenvolvido ou adquirido pelo contribuinte.
 
@@ -10847,7 +10903,14 @@ Art. 231-Z-A A transmissão do arquivo digital do MDF-e deverá ser efetuada via
 
 § 1º A transmissão referida no caput implica solicitação de concessão de Autorização de Uso de MDF-e.
 
-§ 2º Quando o emitente não estiver credenciado para emissão do MDF-e na unidade federada em que ocorrer o carregamento do veículo ou outra situação que exigir a emissão do MDF-e, a transmissão e a autorização deverá ser feita por administração tributária em que estiver credenciado.
+§ 2º Quando o emitente não estiver credenciado para emissão do MDF-e na unidade federada em que ocorrer o carregamento do veículo ou outra situação que exigir a emissão do
+
+<!-- p. 299 -->
+283
+
+283
+
+MDF-e, a transmissão e a autorização deverá ser feita por administração tributária em que estiver credenciado.
 
 
 Art. 231-Z-A-A A ocorrência de fatos relacionados com um MDF-e denomina-se “Evento do MDF-e”.
@@ -10878,10 +10941,6 @@ I – pelas pessoas envolvidas ou relacionadas com a operação descrita no MDF-
 
 II – por órgãos da Administração Pública direta ou indireta, conforme leiaute de procedimentos estabelecidos no Manual de Orientação do Contribuinte.
 
-<!-- p. 298 -->
-282
-
-282
 
 § 3º Na ocorrência dos eventos a seguir indicados, fica obrigado o seu registro pelo emitente do MDF-e:
 
@@ -10889,7 +10948,14 @@ I – Cancelamento de MDF-e;
 
 II – Encerramento de MDF-e; III – Inclusão de Motorista.
 
-~~§ 4º O MDF-e deverá ser encerrado após o final do percurso descrito no documento e sempre que haja transbordo, redespacho, subcontratação ou substituição do veículo, de contêiner, bem como na hipótese de retenção imprevista de parte da carga transportada, ou quando houver a inclusão de novas mercadorias para a mesma UF de descarregamento, através do registro deste evento conforme disposto no Manual de Orientação do Contribuinte – MDF-e.~~
+~~§ 4º O MDF-e deverá ser encerrado após o final do percurso descrito no documento e sempre que haja transbordo, redespacho, subcontratação ou substituição do veículo, de contêiner, bem como na hipótese de retenção imprevista de parte da carga transportada, ou quando houver~~
+
+<!-- p. 300 -->
+284
+
+284
+
+~~a inclusão de novas mercadorias para a mesma UF de descarregamento, através do registro deste evento conforme disposto no Manual de Orientação do Contribuinte – MDF-e.~~
 
 
 §4º O encerramento é o ato que estabelece o fim da vigência do MDF-e, por meio do registro do evento, conforme disposto no Manual de Orientação do Contribuinte - MDF-e, e deverá ocorrer:
@@ -10915,11 +10981,6 @@ II - a autoria da assinatura do arquivo digital;
 
 III - a integridade do arquivo digital;
 
-<!-- p. 299 -->
-283
-
-283
-
 IV ~~- a observância ao leiaute do arquivo estabelecido no Manual de Integração MDF-e Contribuinte;~~
 
 IV - a observância ao leiaute do arquivo estabelecido no MOC - MDF-e;
@@ -10929,6 +10990,11 @@ V - a numeração e série do documento.
 § 1º Do resultado da análise referida no caput a administração tributária cientificará o emitente:
 
 I - da rejeição do arquivo do MDF-e, em virtude de:
+
+<!-- p. 301 -->
+285
+
+285
 
 a) falha na recepção ou no processamento do arquivo;
 b) falha no reconhecimento da autoria ou da integridade do arquivo digital;
@@ -10957,16 +11023,15 @@ Subseção III Do Documento Auxiliar de MDF-e – DAMDFE
 
 ~~Art. 231-Z-C. Para acompanhar a carga durante o transporte e possibilitar ao Estado o controle dos documentos fiscais vinculados ao MDF-e, utiliza-se Documento Auxiliar do MDF-e - DAMDFE, instituído pelo Ajuste SINIEF 21/10, com leiaute estabelecido no Manual de Integração MDF-e - Contribuinte.~~
 
-<!-- p. 300 -->
-284
-
-284
-
 ~~§ 1º O DAMDFE é documento fiscal válido para acompanhar o veículo durante o transporte somente após a concessão da Autorização de Uso do MDF-e.~~
 
 
 Art. 231-Z-C. Para acompanhar a carga durante o transporte e possibilitar ao Estado o controle dos documentos fiscais vinculados ao MDF-e, utiliza-se Documento Auxiliar do MDF-e - DAMDFE, instituído pelo Ajuste SINIEF 21/10, com leiaute estabelecido no MOC - MDF-e.
 
+<!-- p. 302 -->
+286
+
+286
 
 § 1º O DAMDFE somente poderá ser utilizado para acompanhar a carga durante o transporte após a concessão da Autorização de Uso do MDF-e, de que trata o inciso II do § 1º do
 Art. 231-Z-B, ou na hipótese prevista no Art. 231-Z-D.
@@ -10997,16 +11062,15 @@ III - poderá conter outros elementos gráficos, desde que não prejudiquem a le
 
 I ~~– ao modal aéreo, após a decolagem da aeronave, desde que a emissão e a correspondente impressão ocorram antes da próxima aterrissagem;~~
 
-<!-- p. 301 -->
-285
-
-285
-
 I – ao modal aéreo, em até três horas após a decolagem da aeronave, ficando a carga retida, sob responsabilidade do transportador aéreo, até sua emissão;
 
 (NR – RA nº 18/21)
 II - à navegação de cabotagem, após a partida da embarcação, desde que a emissão e a correspondente impressão ocorram antes da próxima atracação.
 
+<!-- p. 303 -->
+287
+
+287
 
 ~~§ 5º No transporte de cargas realizado no modal ferroviário, fica dispensada a impressão do DAMDFE, devendo ser disponibilizado em meio eletrônico, quando solicitado pelo fisco.~~
 
@@ -11033,17 +11097,18 @@ III - se o MDF-e transmitido nos termos do inciso II vier a ser rejeitado pela a
 
 a) sanar a irregularidade que motivou a rejeição e regerar o arquivo com a mesma numeração e série (mantendo o mesmo tipo de emissão do documento original);
 
-<!-- p. 302 -->
-286
-
-286
-
 (NR – RA nº 09/15)
 b) solicitar nova Autorização de Uso do MDF-e.
 
 § 1º Considera-se emitido o MDF-e em contingência no momento da impressão do respectivo DAMDFE em contingência, tendo como condição resolutória a sua autorização de uso.
 
 (AC – RA nº 09/15)
+
+<!-- p. 304 -->
+288
+
+288
+
 
 § 2º É vedada a reutilização, em contingência, de número do MDF-e transmitido com tipo de emissão normal.
 
@@ -11074,16 +11139,18 @@ Subseção IV Da Obrigatoriedade do MDF-e
 
 ~~§ 3º A partir de 1º de janeiro de 2013, ato do Secretário de Estado da Fazenda poderá dispor sobre a obrigatoriedade de emissão de MDF-e para as operações e prestações de serviços indicadas nas alíneas “a” e “b” do inciso I do caput, em cujo território tenha:~~
 
-<!-- p. 303 -->
-287
-
-287
-
 
 ~~I~~ ~~- sido iniciada a prestação do serviço de transporte;~~
 ~~II~~ ~~- ocorrido a saída da mercadoria, na hipótese do inciso II do art. 231-Z.~~
 
-~~Art. 231-Z-E. A obrigatoriedade de emissão do MDF-e será imposta aos contribuintes de acordo com cronograma estabelecido na cláusula décima sétima do Ajuste SINIEF 21/2010, com as alterações dadas pelos Ajustes SINIEF 15/2012 e 10/2013, a seguir transcrito: NR – Resolução Administrativa nº 09/15.~~
+~~Art. 231-Z-E. A obrigatoriedade de emissão do MDF-e será imposta aos contribuintes de acordo com cronograma estabelecido na cláusula décima sétima do Ajuste SINIEF 21/2010,~~
+
+<!-- p. 305 -->
+289
+
+289
+
+~~com as alterações dadas pelos Ajustes SINIEF 15/2012 e 10/2013, a seguir transcrito: NR – Resolução Administrativa nº 09/15.~~
 
 
 Art. 231-Z-E. A obrigatoriedade de emissão do MDF-e será imposta aos contribuintes de acordo com cronograma estabelecido na cláusula décima sétima do Ajuste SINIEF 21/2010, com as alterações dadas pelos Ajustes SINIEF 15/2012, 10/2013, 09/2015, 22/2017 e 23/19, como segue:
@@ -11111,16 +11178,18 @@ b) 1º de outubro de 2014, para os contribuintes optantes pelo regime do Simples
 
 III – na hipótese do contribuinte emitente de CT-e, no transporte interestadual de carga lotação, assim entendida a que corresponda a único conhecimento de transporte, ou na hipótese do contribuinte emitente de NF-e, no transporte interestadual de bens ou mercadorias acobertadas por uma única NF-e, realizado em veículos próprios do emitente ou arrendados, ou mediante contratação de transportador autônomo de cargas, a partir de 4 de abril de 2016.
 
-<!-- p. 304 -->
-288
-
-288
 
 IV – na hipótese de contribuinte emitente do CT-e no transporte intermunicipal de cargas e na hipótese de contribuinte emitente de NF-e no transporte intermunicipal de bens ou mercadorias acobertadas por NF-e, realizadas em veículos próprios ou arrendados, ou mediante contratação de transportador autônomo de cargas, a partir de 6 de abril de 2020.
 
 (AC – RA nº 18/21)
 
 § 1º A emissão do MDF-e também é obrigatória:
+
+<!-- p. 306 -->
+290
+
+290
+
 
 ~~I- a partir de 1º de julho de 2015, para prestação de serviço de transporte interno, em qualquer modal, realizada por:~~
 
@@ -11151,15 +11220,14 @@ II – a partir de 03 de agosto de 2015, para o transporte interno e interestadu
 
 § 4º A obrigatoriedade de emissão do MDF-e não se aplica:
 (AC – Ra nº 18/21)
-
-<!-- p. 305 -->
-289
-
-289
-
 I - em operações e prestações realizadas por pessoa física ou jurídica responsável pelo transporte de veículo novo não emplacado, quando este for o próprio meio de transporte, inclusive quando estiver transportando veículo novo não emplacado do mesmo adquirente.
 
 II - na hipótese prevista no inciso II do caput do art. 231-Z, nas operações realizadas por:
+
+<!-- p. 307 -->
+291
+
+291
 
 a) Microempreendedor Individual - MEI, de que trata o art. 18-A da Lei Complementar
 
@@ -11192,16 +11260,14 @@ Art. 231-Z-E-A. O Bilhete de Passagem Eletrônico – BP-e, modelo 63, será uti
 I – ao Bilhete de Passagem Rodoviário, modelo 13;
 II – ao Bilhete de Passagem Aquaviário, modelo 14;
 
-<!-- p. 306 -->
-290
-
-290
-
-
 III – ao Bilhete de Passagem Ferroviário, modelo 16;
 
 IV – ao Cupom Fiscal Bilhete de Passagem emitido por equipamento Emissor de Cupom Fiscal (ECF).
 
+<!-- p. 308 -->
+292
+
+292
 
 § 1º - Feita a opção pela utilização do Bilhete de Passagem Eletrônico – BP-e, fica vedado ao contribuinte emitir cupom fiscal via utilização de equipamento Emissor de Cupom Fiscal (ECF)
 
@@ -11237,14 +11303,16 @@ Art. 231-Z-E-C. O BP-e deverá ser emitido com base em leiaute estabelecido no M
 
 I – a numeração será 189ubseqüent de 1 a 999.999.999, por estabelecimento e por série, devendo ser reiniciada quando atingido esse limite;
 
-<!-- p. 307 -->
-291
-
-291
-
 II – deverá conter um código numérico, gerado pelo emitente, que comporá a chave de acesso de identificação, juntamente com o CNPJ do emitente, número e série;
 
-III – deverá ser assinado pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira – ICP-Brasil, contendo o nº do CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital;
+III – deverá ser assinado pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira – ICP-Brasil, contendo o nº do
+
+<!-- p. 309 -->
+293
+
+293
+
+CNPJ de qualquer dos estabelecimentos do contribuinte, a fim de garantir a autoria do documento digital;
 
 IV – deverá conter a identificação do passageiro, a qual será feita pelo CPF ou outro documento de identificação admitido na legislação civil;
 
@@ -11275,14 +11343,14 @@ II – ter seu uso autorizado por meio de concessão de Autorização de Uso do 
 
 § 3º A concessão da Autorização de Uso:
 
-<!-- p. 308 -->
-292
-
-292
-
 I – é resultado da aplicação de regras formais especificadas no MOC e não implica a convalidação das informações tributárias contidas no BP-e;
 
 II – identifica de forma única, pelo prazo decadencial estabelecido pela legislação tributária, um BP-e através do conjunto de informações formado por CNPJ do emitente, número, série e ambiente de autorização.
+
+<!-- p. 310 -->
+294
+
+294
 
 
 Art. 231-Z-E-E. A transmissão do arquivo digital do BP-e deverá ser efetuada via Internet, por meio de protocolo de segurança ou criptografia, com utilização de software desenvolvido ou adquirido pelo contribuinte.
@@ -11314,16 +11382,16 @@ Art. 231-Z-E-G. Do resultado da análise referida no art. 231-Z-E-F, a administr
 
 
 I – da concessão da Autorização de Uso do BP-e;
-
-<!-- p. 309 -->
-293
-
-293
-
 II – da rejeição do arquivo, em virtude de:
 
 a) falha na recepção ou no processamento do arquivo;
 b) falha no reconhecimento da autoria ou da integridade do arquivo digital;
+
+<!-- p. 311 -->
+295
+
+295
+
 c) emitente não credenciado para emissão do BP-e;
 d) duplicidade de número do BP-e;
 e) falha na leitura do número do BP-e;
@@ -11349,15 +11417,12 @@ II – a unidade federada onde ocorrer o embarque do passageiro, quando iniciado
 
 III – a Secretaria da Receita Federal do Brasil – RFB.
 
-§ 8° A administração tributária da unidade federada do emitente, mediante prévio convênio ou protocolo no âmbito do CONFAZ e respeitado o sigilo fiscal, também poderá
+§ 8° A administração tributária da unidade federada do emitente, mediante prévio convênio ou protocolo no âmbito do CONFAZ e respeitado o sigilo fiscal, também poderá transmitir o BPe ou fornecer informações parciais para outros órgãos da administração direta, indireta, fundações e autarquias, que necessitem de informações do BP-e para desempenho de suas atividades.
 
-<!-- p. 310 -->
-294
+<!-- p. 312 -->
+296
 
-294
-
-transmitir o BPe ou fornecer informações parciais para outros órgãos da administração direta, indireta, fundações e autarquias, que necessitem de informações do BP-e para desempenho de suas atividades.
-
+296
 
 Art. 231-Z-E-H. O emitente deverá manter o BP-e em arquivo digital, sob sua guarda e responsabilidade, pelo prazo estabelecido na legislação tributária, mesmo que fora da empresa, devendo ser disponibilizado para a administração tributária quando solicitado.
 
@@ -11390,12 +11455,12 @@ a) o motivo da entrada em contingência (avaliar necessidade de impressão do mo
 
 b) a data, hora com minutos e segundos do seu início;
 
-<!-- p. 311 -->
-295
-
-295
-
 II – imediatamente após a cessação dos problemas técnicos que impediram a transmissão ou recepção do retorno da autorização do BP-e, o emitente deverá transmitir à SEFAZ os BP-e gerados em contingência até o primeiro dia útil 193ubseqüente contado a partir de sua emissão;
+
+<!-- p. 313 -->
+297
+
+297
 
 III – se o BP-e, transmitido nos termos do inciso II, vier a ser rejeitado pela administração tributária, o emitente deverá:
 
@@ -11429,13 +11494,13 @@ III – Evento de substituição do BP-e, conforme disposto no art. 231-Z-E-O
 
 Art. 231-Z-E-M. O emitente poderá solicitar o cancelamento do BP-e, até a data e hora de embarque para qual foi emitido o BP-e.
 
-<!-- p. 312 -->
-296
-
-296
-
 
 § 1º O cancelamento de que trata o caput será efetuado por meio do registro de evento correspondente.
+
+<!-- p. 314 -->
+298
+
+298
 
 § 2º O Pedido de Cancelamento de BP-e deverá:
 
@@ -11467,13 +11532,12 @@ II – ser assinado pelo emitente com assinatura digital, certificada por entida
 
 (NR – RA nº 03/18)
 
-<!-- p. 313 -->
-297
-
-297
-
 § 3º A transmissão do Evento de Não Embarque será efetivada via Internet, por meio de protocolo de segurança ou criptografia, podendo ser realizada por meio de software desenvolvido ou adquirido pelo contribuinte.
 
+<!-- p. 315 -->
+299
+
+299
 
 § 4º A cientificação do resultado da transmissão que trata o § 3º será feita mediante protocolo, via Internet, contendo, conforme o caso, a chave de acesso, o número do BP-e, a data e a hora do recebimento da solicitação pela SEFAZ e o número do protocolo, podendo ser autenticado mediante assinatura digital gerada com certificação digital da SEFAZ ou outro mecanismo de confirmação de recebimento.
 
@@ -11504,13 +11568,12 @@ Eletrônicos – DF-e
 
 Subseção I Do Cancelamento de DF-e e da Inutilização de Números de DF-e
 
-<!-- p. 314 -->
-298
-
-298
-
 Art. 231-Z-F. Após a concessão de Autorização de Uso dos documentos fiscais de que trata este Capítulo o emitente poderá solicitar o cancelamento:
 
+<!-- p. 316 -->
+300
+
+300
 
 I ~~– da NF-e, em prazo não superior ao máximo definido no ‘Manual de Integração – Contribuinte’, contado do momento em que foi concedida a respectiva Autorização de Uso da NF-e, desde que não tenha havido a circulação da mercadoria ou a prestação de serviço;~~
 
@@ -11533,13 +11596,12 @@ IV - Na hipótese do § 19 do art. 231-D, poderá solicitar o cancelamento da NF
 
 § 2º O cancelamento somente poderá ser efetuado mediante Pedido de Cancelamento do Documento Fiscal Eletrônico indicado no inciso I, II ou III, transmitido pelo emitente, à administração tributária que o autorizou.
 
-<!-- p. 315 -->
-299
-
-299
-
 § 3º O Pedido de Cancelamento deverá ser assinado pelo emitente com assinatura digital certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira – ICP Brasil, contendo, a fim de garantir a autoria do documento digital:
 
+<!-- p. 317 -->
+301
+
+301
 
 I ~~– o CNPJ de qualquer dos estabelecimentos do contribuinte, quando se tratar de cancelamento de NF-e ou de CT-e;~~
 
@@ -11570,13 +11632,13 @@ III - o CNPJ de qualquer dos estabelecimentos do contribuinte, quando se tratar 
 (Revogado pela RA 14/22)
 ~~§ 9º Na hipótese prevista no § 8º, o contribuinte deverá, no mesmo prazo previsto no inciso II do caput, contado a partir da data de autorização do cancelamento, emitir novo CT-e OS, referenciando o CT-e OS cancelado.~~
 
-<!-- p. 316 -->
-300
-
-300
-
 ~~(§§ 8º e 9º - AC pela RA 16/2017)~~
 (Revogado pela RA 14/22)
+
+<!-- p. 318 -->
+302
+
+302
 
 ~~Art. 231-Z-G. O contribuinte deverá solicitar, mediante Pedido de Inutilização de Número da NF-e, do CT-e ou do MDF-e até o 10 (décimo) dia do mês subsequente, a inutilização de números de NF-e, de CT-e ou de MDF-e não utilizados, na eventualidade de quebra de sequência da numeração de cada um destes Documentos Fiscais Eletrônicos.~~
 
@@ -11611,13 +11673,12 @@ Art. 231-Z-G. O contribuinte deverá solicitar, mediante Pedido de Inutilizaçã
 ~~§ 2º O Pedido de Inutilização de Número do CT-e e do CT-eOS, deverá atender ao leiaute estabelecido no MOC.~~
 
 ~~(NR – RA 16/18)~~
-
-<!-- p. 317 -->
-301
-
-301
-
 (Revogado – RA 69/22, com efeitos a partir de 01.06.23)
+
+<!-- p. 319 -->
+303
+
+303
 
 § 3º A transmissão do Pedido de Inutilização do caput, será efetivada via Internet, por meio de protocolo de segurança ou criptografia.
 
@@ -11649,16 +11710,15 @@ Art. 231-Z-G. O contribuinte deverá solicitar, mediante Pedido de Inutilizaçã
 ~~c)~~ ~~o número do protocolo.~~
 ~~(Revogado pela RA 09/15.~~
 
-~~§ 5º O protocolo de cientificação do resultado do Pedido de Inutilização de DF-e de que trata o parágrafo anterior pode ser autenticado mediante assinatura digital gerada com~~
-
-<!-- p. 318 -->
-302
-
-302
-
-~~certificação digital da administração tributária ou outro mecanismo de confirmação de recebimento.~~
+~~§ 5º O protocolo de cientificação do resultado do Pedido de Inutilização de DF-e de que trata o parágrafo anterior pode ser autenticado mediante assinatura digital gerada com certificação digital da administração tributária ou outro mecanismo de confirmação de recebimento.~~
 
 ~~(Revogado pela RA 09/15)~~
+
+<!-- p. 320 -->
+304
+
+304
+
 ~~§ 6º A transmissão do arquivo digital da NF-e ou do CT-e implica cancelamento de Pedido de Inutilização de Número da NF-e ou do CT-e já cientificado do resultado que trata o § 4º deste artigo.~~
 
 ~~(AC – RA 13/22)~~
@@ -11687,14 +11747,15 @@ II – ter seu uso autorizado por meio de Autorização de Uso, nos termos deste
 
 Art. 231-Z-I. Os DF-e cancelados, denegados e os números inutilizados devem ser escriturados, sem valores monetários, de acordo com a legislação tributária vigente.
 
-<!-- p. 319 -->
-303
-
-303
-
 § 1º Será denegada a autorização de uso e recebimento da Nota Fiscal Eletrônica - NF-e, modelo 55, do Conhecimento de Transporte Eletrônico - CT-e, modelo 57, e da Nota Fiscal Avulsa eletrônica – NFA-e, modelo 55, nas seguintes hipóteses:
 
 I - não comprovação, nos termos da Portaria 433/15 – GABIN:
+
+<!-- p. 321 -->
+305
+
+305
+
 a) da origem e da integralização do capital social; e
 b) da existência física e da capacidade operacional da empresa;
 II - omissão na entrega da DIEF, EFD, GIA-ST ou PGDAS- D, quando obrigatórios, por três meses consecutivos;
@@ -11716,14 +11777,14 @@ II - a descrição detalhada dos fatos e as provas inequívocas das operações 
 
 § 4° A área da SEFAZ responsável pela análise do pedido de que tratam os §§ 2º e 3º, em caso de deferimento, emitirá despacho ao Corpo Técnico de Tecnologia - COTEC para a denegação de autorização de uso e recebimento de documentos fiscais eletrônicos.
 
-<!-- p. 320 -->
-304
-
-304
-
 § 5º Antes da denegação da autorização de uso e recebimento dos documentos fiscais eletrônicos, o contribuinte será notificado para, no prazo de 10 (dez) dias, contado da data da ciência da comunicação enviada pela SEFAZ, contestar ou sanear as irregularidades.
 
 (§§ 1º ao 5º - AC pela RA 49/21)
+
+<!-- p. 322 -->
+306
+
+306
 
 ~~Art. 231-Z-J. Nas hipóteses de utilização de formulário de segurança para a impressão de DANFE e de DACTE previstas neste Capitulo:~~
 
@@ -11751,14 +11812,15 @@ II – 30 de junho de 2010, destinado a impressão de DANFE.
 
 Art. 231-Z-K Aplicam-se ao CT-e, CT-eOS e ao MDF-e, no que couber, as normas do Convênio SINIEF 06/89, de 21 de fevereiro de 1989 e demais disposições tributárias regentes relativas a cada modal.
 
-<!-- p. 321 -->
-305
-
-305
 
 CAPÍTULO IV DOS DEMAIS DOCUMENTOS FISCAIS
 
 Seção I Da Nota Fiscal Avulsa
+
+<!-- p. 323 -->
+307
+
+307
 
 Art. 232. A Nota Fiscal Avulsa será emitida pelas repartições fiscais nos seguintes casos:
 
@@ -11798,18 +11860,18 @@ b) o número de inscrição no CNPJ ou no CPF/MF;
 c) o endereço;
 d) o bairro ou distrito;
 e) o Código de Endereçamento Postal;
-
-<!-- p. 322 -->
-306
-
-306
-
 f) o Município e código;
 g) o telefone e/ou fax;
 h) a unidade da Federação;
 i) o número de inscrição estadual.
 
 III - no quadro “Dados do Produto”:
+
+<!-- p. 324 -->
+308
+
+308
+
 a) o código adotado pelo estabelecimento para identificação do produto;
 b) a descrição dos produtos, compreendendo: nome, marca, tipo, modelo, série, espécie, quantidade e demais elementos que permitam sua perfeita identificação;
 
@@ -11847,18 +11909,18 @@ e) o número de inscrição do transportador no CNPJ ou no CPF/MF;
 f) o endereço do transportador;
 g) o Município do transportador;
 h) a unidade da Federação do domicílio do transportador;
-
-<!-- p. 323 -->
-307
-
-307
-
 i) o número de inscrição estadual do transportador, quando for o caso;
 j) a quantidade de volumes transportados;
 l) a espécie dos volumes transportados;
 m) a marca dos volumes transportados;
 n) a numeração dos volumes transportados;
 o) o peso bruto dos volumes transportados;
+
+<!-- p. 325 -->
+309
+
+309
+
 p) o peso líquido dos volumes transportados;
 
 VII - no quadro “Dados Adicionais”:
@@ -11893,16 +11955,17 @@ I - a 1ª via acompanhará os objetos ou mercadorias no seu transporte, para ser
 
 II - a 2ª via ficará em poder da repartição expedidora;
 
-<!-- p. 324 -->
-308
-
-308
-
 III - a 3ª via acompanhará os objetos ou mercadorias e destinar-se-á a fins de controle na unidade da Federação do destinatário, quando se tratar de operação interestadual;
 
 IV - a 4ª via ficará em poder do remetente.
 
 Art. 236. A Nota Fiscal Avulsa será de emissão e distribuição da Receita Estadual.
+
+<!-- p. 326 -->
+310
+
+310
+
 
 Seção II Do Passe Fiscal
 
@@ -11935,15 +11998,15 @@ VI - a espécie e o valor das mercadorias;
 
 VII - o itinerário neste Estado;
 
-<!-- p. 325 -->
-309
-
-309
-
 VIII - o número da placa do veículo, o nome e o endereço do proprietário do veículo, o nome e o endereço do motorista, o número da carteira de habilitação do motorista e o nome da repartição que a expediu.
 
 
 Art. 241. As mercadorias destinadas a outras unidades da Federação de valor igual ou superior a R$ 100,00 (cem reais), serão acobertadas, igualmente, pelo Passe Fiscal, emitido pela repartição fiscal que circunscricionar o contribuinte que as remeter.
+
+<!-- p. 327 -->
+311
+
+311
 
 
 Art. 242. Verificado que as mercadorias em trânsito não tiverem saído pelo Posto Fiscal de divisa, constante do Passe Fiscal, ou forem negociadas em território maranhense, o transportador responderá pelo imposto devido, acrescido da respectiva penalidade.
@@ -11969,16 +12032,15 @@ III - modelo previsto pela Escrituração Fiscal Digital - EFD, instituído por 
 
 § 2º A adoção dos modelos A ou B e C ou D será feita de acordo com o disposto na legislação tributária estadual.
 
-<!-- p. 326 -->
-310
-
-310
-
 § 3º Poderá o contribuinte optar pelo modelo adotado pela unidade federada em que estiver localizada a sua matriz.
 
 
 Art. 243-B. No CIAP, modelo A, o controle dos créditos de ICMS dos bens do ativo permanente será efetuado englobadamente, devendo a sua escrituração ser feita nas linhas, nos quadros e nas colunas próprias, da seguinte forma:
 
+<!-- p. 328 -->
+312
+
+312
 
 I - linha ANO: o exercício objeto de escrituração;
 II - linha NÚMERO: o número atribuído ao documento, que será sequencial por exercício, devendo ser reiniciada a numeração após o término do mesmo;
@@ -12005,18 +12067,16 @@ b) colunas sob o título VALOR DO ICMS: 1. coluna ENTRADA (CRÉDITO): o valor do
 V - quadro 3 - DEMONSTRATIVO DO ESTORNO DE CRÉDITO:
 a) coluna MÊS: o mês objeto de escrituração, caso o período de apuração seja mensal;
 
-b) colunas sob o título OPERAÇÕES E PRESTAÇÕES: 1. coluna 1 - ISENTAS OU NÃO TRIBUTADAS: o valor das operações e prestações
-
-<!-- p. 327 -->
-311
-
-311
-
-isentas e não tributadas escrituradas no mês;
+b) colunas sob o título OPERAÇÕES E PRESTAÇÕES: 1. coluna 1 - ISENTAS OU NÃO TRIBUTADAS: o valor das operações e prestações isentas e não tributadas escrituradas no mês;
 
 2. coluna 2 - TOTAL DAS SAÍDAS: o valor total das operações e prestações de saídas escrituradas pelo contribuinte no mês.
 
 c) coluna 3 - COEFICIENTE DE ESTORNO: o coeficiente de participação das saídas e prestações isentas ou não tributadas no total das saídas e prestações escrituradas no mês, encontrado mediante a divisão do valor das saídas e prestações isentas ou não tributadas pelo valor total das saídas e prestações, considerando-se, no mínimo, 4 (quatro) casas decimais;
+
+<!-- p. 329 -->
+313
+
+313
 
 d) coluna 4 - SALDO ACUMULADO (BASE DO ESTORNO): valor base do estorno mensal, transcrito da coluna com o mesmo nome do quadro DEMONSTRATIVO DO ESTORNO DE CRÉDITO;
 
@@ -12039,15 +12099,14 @@ III - na alienação do bem, além da escrituração de baixa do valor total do 
 
 IV - na transferência do bem, a escrituração de baixa do crédito relativo à sua aquisição será feita:
 
-<!-- p. 328 -->
-312
-
-312
-
 a) pelo valor total, apenas na coluna SAÍDA OU BAIXA, do quadro 2, quando a legislação tributária estadual prever a incidência do imposto nessa operação;
 
 b) pelo valor total, na coluna SAÍDA OU BAIXA, do quadro 2, e pelo valor proporcional ao período restante para completar o quinquênio, na coluna 7 - ESTORNO POR SAÍDA OU PERDA, do quadro 3, quando a legislação tributária estadual prever a não-incidência do imposto nessa operação.
 
+<!-- p. 330 -->
+314
+
+314
 
 V - após decorrido o prazo de 5 (cinco) anos, contado da data de aquisição do bem, escriturar a baixa do valor total do crédito apropriado quando da entrada, apenas na coluna SAÍDA OU BAIXA do quadro 2;
 
@@ -12081,11 +12140,6 @@ e) DATA DA ENTRADA: a data da entrada do bem no estabelecimento do contribuinte;
 
 f) VALOR DO CRÉDITO: o valor do crédito do imposto relativo à aquisição, acrescido, quando for o caso, do ICMS correspondente ao serviço de transporte e ao diferencial de alíquotas, vinculados à aquisição do bem.
 
-<!-- p. 329 -->
-313
-
-313
-
 
 IV - quadro 3 - SAÍDA: as informações fiscais relativas à saída do bem, contendo os seguintes campos:
 
@@ -12093,6 +12147,12 @@ IV - quadro 3 - SAÍDA: as informações fiscais relativas à saída do bem, con
 a) Nº DA NOTA FISCAL: o número do documento fiscal relativo à saída do bem;
 b) MODELO: o modelo do documento fiscal relativo à saída do bem;
 c) DATA DA SAÍDA: a data da saída do bem do estabelecimento do contribuinte.
+
+<!-- p. 331 -->
+315
+
+315
+
 
 V - quadro 4 - ESTORNO MENSAL: destina-se à escrituração, nas colunas sob os títulos correspondentes do 1º ao 5º ano, do estorno proporcional à relação entre as saídas e prestações isentas ou não tributadas e o total das saídas e prestações escrituradas no mês, contendo os seguintes campos:
 
@@ -12124,16 +12184,14 @@ Art. 243-D. No CIAP modelo C o controle dos créditos de ICMS dos bens do ativo 
 I - linha ANO: o exercício objeto de escrituração;
 II - linha NÚMERO: o número atribuído ao documento, que será sequencial por exercício, devendo ser reiniciada a numeração após o término do mesmo;
 
-<!-- p. 330 -->
-314
-
-314
-
-
 III - quadro 1 - IDENTIFICAÇÃO DO CONTRIBUINTE: o nome, endereço, e inscrições estadual e federal do estabelecimento;
 
 IV - quadro 2 - DEMONSTRATIVO DA BASE DO CRÉDITO A SER APROPRIADO:
 
+<!-- p. 332 -->
+316
+
+316
 
 a) colunas sob o título IDENTIFICAÇÃO DO BEM: 1. coluna NÚMERO OU CÓDIGO - atribuição do número ou código ao bem, a critério do contribuinte, consoante a ordem sequencial de entrada, seguido de dois algarismos indicando o exercício, findo o qual deve ser reiniciada a numeração;
 
@@ -12161,16 +12219,14 @@ b) colunas sob o título OPERAÇÕES E PRESTAÇÕES (SAÍDAS):
 2. coluna 2 - TOTAL DAS SAÍDAS - o valor total das operações e prestações de saídas escrituradas pelo contribuinte no mês.
 
 
-c) coluna 3 - COEFICIENTE DE CREDITAMENTO - o índice de participação das saídas e prestações tributadas e de exportação no total das saídas e prestações escrituradas no
-
-<!-- p. 331 -->
-315
-
-315
-
-mês, encontrado mediante a divisão do valor das saídas e prestações tributadas e de exportação (item 1 da alínea anterior) pelo valor total das saídas e prestações (item 2 da alínea anterior), considerando-se, no mínimo, 4 (quatro) casas decimais;
+c) coluna 3 - COEFICIENTE DE CREDITAMENTO - o índice de participação das saídas e prestações tributadas e de exportação no total das saídas e prestações escrituradas no mês, encontrado mediante a divisão do valor das saídas e prestações tributadas e de exportação (item 1 da alínea anterior) pelo valor total das saídas e prestações (item 2 da alínea anterior), considerando-se, no mínimo, 4 (quatro) casas decimais;
 
 d) coluna 4 - SALDO ACUMULADO (BASE DO CRÉDITO A SER APROPRIADO) - valor base do crédito a ser apropriado mensalmente, transcrito da coluna com o mesmo nome do quadro DEMONSTRATIVO DO CRÉDITO A SER APROPRIADO;
+
+<!-- p. 333 -->
+317
+
+317
 
 e) coluna 5 - FRAÇÃO MENSAL - o quociente de 1/48 (um quarenta e oito avos) caso o período de apuração seja mensal;
 
@@ -12204,17 +12260,19 @@ c) BEM: a descrição do bem, modelo, números da série e da plaqueta de identi
 
 III - quadro 2 - ENTRADA: as informações fiscais relativas à entrada do bem, contendo os seguintes campos:
 
-<!-- p. 332 -->
-316
-
-316
-
 
 a) FORNECEDOR: o nome do fornecedor;
 b) Nº DA NOTA FISCAL: o número do documento fiscal relativo à entrada do bem;
 c) Nº DO LRE: o número do livro Registro de Entradas em que foi escriturado o documento fiscal;
 
-d) FOLHA DO LRE: o número da folha do livro Registro de Entradas em que foi escriturado o documento fiscal;
+d) FOLHA DO LRE: o número da folha do livro Registro de Entradas em que foi
+
+<!-- p. 334 -->
+318
+
+318
+
+escriturado o documento fiscal;
 
 e) DATA DA ENTRADA: a data da entrada do bem no estabelecimento do contribuinte;
 
@@ -12248,17 +12306,18 @@ c) VALOR: o valor do crédito a ser apropriado, que será obtido pela multiplica
 
 § 2º O CIAP modelo D, deverá ser mantido à disposição do fisco.
 
-<!-- p. 333 -->
-317
-
-317
-
 Art. 243-F. A escrituração do CIAP deverá ser feita:
 
 I - até o dia seguinte ao da:
 
 a) entrada do bem;
 b) emissão da nota fiscal referente à saída do bem;
+
+<!-- p. 335 -->
+319
+
+319
+
 c) ocorrência do perecimento, extravio ou deterioração do bem.
 
 II - no último dia do período de apuração, com relação aos lançamentos das parcelas correspondentes, conforme o caso, ao estorno ou ao crédito do imposto, não podendo atrasar-se por mais de 05 (cinco) dias.
@@ -12288,15 +12347,16 @@ Art. 243-I Os estabelecimentos envasadores de água mineral e adicionada de sais
 
 § 1º Os Selos Fiscais serão aplicados diretamente sobre o lacre do garrafão que contenha água mineral ou adicionada de sais, podendo ser o processo de aplicação de forma manual ou automatizada, desde que cumpra os critérios de controle estabelecidos.
 
-<!-- p. 334 -->
-318
-
-318
 
 § 2º Os vasilhames de que trata o caput e que foram envasados antes da vigência da obrigatoriedade de afixação do Selo Fiscal, somente poderão ser comercializados no Estado do Maranhão sem aposição do referido selo até 30 de setembro de 2016.
 
 
 Subseção II
+
+<!-- p. 336 -->
+320
+
+320
 
 Das Características e Especificações do Selo Fiscal de Controle
 
@@ -12318,16 +12378,15 @@ VI - numeração sequencial alfanumérica em processo de impressão InkJet com d
 
 VII - numeração sequencial alfanumérica em processo de impressão InkJet com definição mínima de 300x600DPI, a fim de garantir os mínimos textos impressos, na cor preta contendo código de check randômico, contendo 3 (três) letras e 5 (cinco) números, sendo que os números serão impressos abaixo da massa raspável;
 
-VIII - aplicação de barra de Hot Stamping holográfico em 2D/3D, de uso exclusivo do Estado do Maranhão, com tecnologia e geração de imagem totalmente computadorizados, resolução acima de 10.000 dpi (dez mil dots per inch), com tecnologia em alta
-
-<!-- p. 335 -->
-319
-
-319
-
-definição de cores, com volume e profundidade efetuados à base de maquete, apresentando movimento em angulação com dizeres SEFAZ-MA ORIGINAL;
+VIII - aplicação de barra de Hot Stamping holográfico em 2D/3D, de uso exclusivo do Estado do Maranhão, com tecnologia e geração de imagem totalmente computadorizados, resolução acima de 10.000 dpi (dez mil dots per inch), com tecnologia em alta definição de cores, com volume e profundidade efetuados à base de maquete, apresentando movimento em angulação com dizeres SEFAZ-MA ORIGINAL;
 
 IX - impressão de massa raspável (raspadinha) cinza fosco, composta por duas impressões, uma na cor branca e outra na cor preta, impenetrável à luz e a dispositivos de leitura externa na área de impressão do garrafão, protegidos por verniz entre os dados variáveis e a massa raspável, a fim de proteger os dados variáveis após a raspagem, ocultando os dados variáveis da impressão numérica do check randômico;
+
+<!-- p. 337 -->
+321
+
+321
+
 
 X - impressão do texto RASPE AQUI na parte superior da massa raspável, impresso na cor azul reflex blue C para o selo fiscal do tipo MINERAL e impresso na cor vermelha 185C para o selo fiscal do tipo ADICIONADA e, ao redor do texto RASPE AQUI, deverá conter símbolos ou traços impressos sob a massa raspável, contendo nos traços diferenciações entre si nas formas e nas tipologias utilizadas, de maneira a aumentar a segurança;
 
@@ -12351,17 +12410,17 @@ Parágrafo único. A holografia personalizada de uso exclusivo do Estado do Mara
 
 Subseção III
 
-<!-- p. 336 -->
-320
-
-320
-
 Da impressão do Selo Fiscal de Controle
 
 Art. 243-L A empresa responsável pela impressão dos selos deverá obter credenciamento prévio, nos termos estabelecidos em Ato do Secretário de Estado da Fazenda.
 
 
 Art. 243-M A empresa deverá aguardar a autorização concedida pela SEFAZ-MA para a impressão dos selos fiscais.
+
+<!-- p. 338 -->
+322
+
+322
 
 
 Parágrafo único. A partir da aprovação da SEFAZ-MA, os selos fiscais deverão ser entregues:
@@ -12391,16 +12450,15 @@ Parágrafo único. Ato do Secretário de Estado da Fazenda disciplinará o uso e
 
 
 Subseção V Do Extravio do Selo Fiscal de Controle
-
-<!-- p. 337 -->
-321
-
-321
-
 Art. 243-P. Ocorrendo extravio de Selo Fiscal no estabelecimento envasador ou no estabelecimento responsável pela impressão do mesmo, o fato deve ser comunicado à SEFAZ- MA no prazo de 5 (cinco) dias úteis, contados da data da ocorrência.
 
 
 Parágrafo único. Encontrados os selos fiscais desaparecidos, estes deverão ser entregues à SEFAZ-MA para inutilização.
+
+<!-- p. 339 -->
+323
+
+323
 
 
 Subseção V-A
@@ -12424,17 +12482,18 @@ I - o recolhimento do imposto até o dia 9 do mês subsequente ao da aquisição
 II - valor de referencia diferenciado do produto constante em pauta fiscal.
 § 4º O credenciamento de que trata o paragrafo 30 deste artigo será condicionado à:
 I - prévia regularidade fiscal do contribuinte;
-
-<!-- p. 338 -->
-322
-
-322
-
 II - assinatura de termo de compromisso para manutenção dos atuais níveis da arrecadação.
 
 § 5º O recolhimento do ICMS nos termos previstos nesta Subseção abrange, inclusive, o imposto decorrente da obrigação própria do contribuinte envasador deste Estado.
 
-§ 6º Na hipótese de operação interestadual de entrada neste Estado de água mineral natural, natural ou adicionada de sais, o recolhimento do ICMS deverá ser efetuado pelo estabelecimento envasador situado em outra Unidade da Federação mediante aquisição de Selo Fiscal de Controle, observado o disposto, no que couber, no Anexo 4.2 do Regulamento do ICMS.
+§ 6º Na hipótese de operação interestadual de entrada neste Estado de água mineral
+
+<!-- p. 340 -->
+324
+
+324
+
+natural, natural ou adicionada de sais, o recolhimento do ICMS deverá ser efetuado pelo estabelecimento envasador situado em outra Unidade da Federação mediante aquisição de Selo Fiscal de Controle, observado o disposto, no que couber, no Anexo 4.2 do Regulamento do ICMS.
 
 § 7º Não haverá direito a restituição ou ressarcimento do imposto pago, na forma desta Subseção, no caso do contribuinte efetuar venda inferior aos selos requisitados, em cada mês da apuração, bem como no caso de extravio, destruição, uso indevido ou defeito de impressão do selo fiscal ou erro no pagamento do imposto antecipado, salvo nos casos em que o erro seja imputável à autoridade administrativa, em conformidade com o disposto no art. 162, § 4°, do CTN.
 
@@ -12456,16 +12515,16 @@ a) da outorga de direito de uso da água para abastecimento;
 b) da outorga de execução de obra hídrica; e
 c) das atividades de captação de água nos diversos mananciais, providas pelas empresas envasadoras de água.
 
-<!-- p. 339 -->
-323
-
-323
-
 
 II - pela Secretaria de Estado da Saúde, complementarmente:
 
 a) na fiscalização sanitária; e
 b) na concessão ou na renovação de concessão de alvará sanitário. (Seção IV – AC Decreto nº 31.625/2016)
+
+<!-- p. 341 -->
+325
+
+325
 
 CAPÍTULO IV-A (Acrescentado pela RA nº 13/23, com efeitos a partir de 01.03.23)
 
@@ -12492,16 +12551,17 @@ a) Micro Empreendedor Individual – MEI ou produtor rural pessoa física emiten
 b) transportador autônomo de cargas, regularmente habilitado pela Agência Nacional de Transportes Terrestres – ANTT, nas prestações de serviço rodoviário de cargas iniciadas neste Estado.
 
 § 3º A adesão referida nos §§ 1º e 2º deste artigo:
-
-<!-- p. 340 -->
-324
-
-324
-
 I - implicará para o contribuinte:
 a) o cadastramento pela SEFAZ como optante pelo Regime Especial da NFF no Cadastro Centralizado de Contribuintes - CCC;
 
-b) a assunção da responsabilidade pela veracidade dos dados informados a respeito da operação a ser documentada, bem como pelas obrigações tributárias, comerciais e financeiras correspondentes que a ele possam ser legalmente atribuídas ao solicitar a autorização de uso dos documentos fiscais eletrônicos relacionados neste artigo pelo Regime Especial da NFF nos termos da art. 243-U deste Capítulo; e
+b) a assunção da responsabilidade pela veracidade dos dados informados a respeito da operação a ser documentada, bem como pelas obrigações tributárias, comerciais e financeiras correspondentes que a ele possam ser legalmente atribuídas ao solicitar a autorização de uso dos
+
+<!-- p. 342 -->
+326
+
+326
+
+documentos fiscais eletrônicos relacionados neste artigo pelo Regime Especial da NFF nos termos da art. 243-U deste Capítulo; e
 
 II - não veda a emissão dos documentos relacionados neste artigo por outros meios, quando exigido.
 
@@ -12521,14 +12581,14 @@ II - página no Portal Nacional da NFF;
 III - outro meio que venha a ser especificado no MOC NFF.
 § 2º A solicitação de autorização de uso dos documentos fiscais eletrônicos pelo Regime Especial da NFF provoca o envio dos dados correspondentes para o Portal Nacional da NFF, onde, seguido o procedimento de que trata a art. 243-X deste Capítulo, será gerado o documento fiscal eletrônico correspondente.
 
-<!-- p. 341 -->
-325
-
-325
-
 § 3º Os dados enviados pela ferramenta para o Portal Nacional da NFF serão assinados, nos termos da Medida Provisória 2.200, de 11 de setembro de 2001, ou legislação federal posterior que a venha a substituir, seguindo definições do MOC NFF.
 
 § 4º O contribuinte poderá utilizar mais de um dispositivo móvel elencado no inciso I do § 1º deste artigo, não podendo o referido dispositivo móvel estar cadastrado por mais de um contribuinte.
+
+<!-- p. 343 -->
+327
+
+327
 
 Art. 243-V. Na impossibilidade do envio dos dados para o Portal Nacional da NFF, a ferramenta emissora realizará a transmissão no momento que for restabelecida a comunicação.
 
@@ -12554,16 +12614,16 @@ Art. 243-W. São dados necessários para a solicitação de autorização de uso
 I - data, hora e número sequencial diário de emissão;
 II - código do ponto ou equipamento de emissão;
 III - dados de identificação do adquirente ou tomador:
-
-<!-- p. 342 -->
-326
-
-326
-
 a) por sua solicitação, o CNPJ ou CPF do adquirente ou, tratando-se de estrangeiro, número de documento de identificação admitido na legislação civil;
 
 b) nas operações de entrega a domicílio, nome e endereço do adquirente;
 c) nas prestações de serviço de transporte, nome do tomador e endereço de entrega;
+
+<!-- p. 344 -->
+328
+
+328
+
 d) dados que permitam o envio do endereço para consulta eletrônica do Documento Auxiliar especificado no art. 243-Z-A;
 
 IV - na circulação de mercadorias, especificação de cada um dos itens da operação por meio das seguintes informações:
@@ -12588,14 +12648,14 @@ VII - valor dos tributos referentes à operação ou prestação.
 
 Art. 243-X. O arquivo digital correspondente aos documentos fiscais eletrônicos previstos no art. 243-S:
 
-<!-- p. 343 -->
-327
-
-327
-
 I - será gerado no Portal Nacional da NFF a partir da solicitação de emissão de que trata o art. 243-U;
 
 II - será assinado digitalmente pela SVRS, nos termos do § 1º do art. 10 da Medida Provisória 2.200, de 11 de setembro de 2001, ou legislação federal posterior que a venha a substituir;
+
+<!-- p. 345 -->
+329
+
+329
 
 III - terá seu uso autorizado por meio de concessão de autorização de uso, nos termos do art. 243-Z;
 
@@ -12617,16 +12677,16 @@ Art. 243-Z-A. Os documentos auxiliares dos documentos fiscais eletrônicos relac
 
 § 1º O link mencionado no caput deste artigo será transmitido pela ferramenta emissora para o endereço eletrônico de que trata a alínea “d” do inciso III do caput do art. 243-W.
 
-<!-- p. 344 -->
-328
-
-328
-
 § 2º É dispensada a impressão dos documentos auxiliares dos documentos fiscais eletrônicos emitidos nos termos deste Capítulo, observado o disposto no § 3º deste artigo.
 
 § 3º Havendo exigência de apresentação do documento auxiliar para acompanhar a mercadoria ou prestação, deverá ser demonstrada à administração tributária a efetiva emissão do documento fiscal eletrônico na forma referida no caput deste artigo ou na forma impressa.
 
 Art. 243-Z-B. O emitente poderá solicitar o cancelamento do documento fiscal eletrônico autorizado nos termos deste Capítulo, por meio da ferramenta emissora, desde que:
+
+<!-- p. 346 -->
+330
+
+330
 
 I - não tenha ocorrido a saída da mercadoria ou o início da prestação de serviço de transporte; e
 
@@ -12650,16 +12710,16 @@ Art. 244. O pedido de concessão de regime especial para emissão e escrituraç�
 
 ~~§ 1° O pedido deve ser devidamente instruído quanto à identificação da empresa e de seus estabelecimentos, se houver, com fac-símile dos modelos e sistemas pretendidos, com a descrição geral de sua utilização.~~
 
-<!-- p. 345 -->
-329
-
-329
-
 (Revogado pela RA 19/22)
 
 § 2° Os modelos e sistemas devem ser apresentados em duas vias.
 
 ~~§ 3° Quando o regime pleiteado abranger estabelecimento contribuinte do IPI, a repartição fiscal, desde que favorável à sua concessão, encaminhará o processo com todas as suas peças à Delegacia da Receita Federal neste Estado.~~
+
+<!-- p. 347 -->
+331
+
+331
 
 ~~§ 3º Quando a empresa requerente declarar que o regime especial pleiteado abrange operações tributadas pelo Imposto sobre Produtos Industrializados, o órgão do fisco estadual encaminhará o pedido, desde que favorável à sua concessão, à Receita Federal do Brasil.~~
 
@@ -12689,12 +12749,12 @@ Art. 246. A extensão do regime especial concedido pelo Fisco de outra unidade d
 
 Art. 247. Na hipótese do artigo anterior, o contribuinte deverá instruir o pedido com cópia autêntica de todo o expediente relativo à concessão do regime especial aprovado.
 
-<!-- p. 346 -->
-330
-
-330
-
 Seção III Da Averbação e da Autorização
+
+<!-- p. 348 -->
+332
+
+332
 
 Art. 248. Concedido o regime especial, serão entregues ao requerente, devidamente autenticadas, uma das vias dos modelos e sistemas aprovados e uma cópia do despacho de aprovação.
 
@@ -12724,13 +12784,12 @@ Art. 252. O Fisco estadual poderá determinar, a qualquer tempo, a alteração o
 
 Art. 253. O beneficiário do regime especial poderá a ele renunciar, mediante comunicação à autoridade fiscal concedente.
 
-<!-- p. 347 -->
-331
-
-331
-
 ~~Art. 254. Do ato que indeferir o pedido ou determinar a revogação do regime especial não caberá recurso.~~
 
+<!-- p. 349 -->
+333
+
+333
 
 Art. 254. Do ato que indeferir o pedido ou determinar a cassação ou alteração do regime especial caberá pedido de reconsideração, no prazo de 30 (trinta) dias, contado da data da ciência do ato.
 
@@ -12767,13 +12826,12 @@ VI - Livro de Movimentação de Combustíveis - LMC.
 
 § 1° Fica obrigado às disposições deste Regulamento o contribuinte que:
 
-<!-- p. 348 -->
-332
-
-332
-
-
 I - emitir documento fiscal e/ou escriturar livro fiscal em equipamento que utilize ou tenha condições de utilizar arquivo magnético ou equivalente;
+
+<!-- p. 350 -->
+334
+
+334
 
 II - utilizar equipamento Emissor de Cupom Fiscal (ECF), que tenha condições de gerar arquivo magnético, por si ou quando conectado a outro computador, em relação às obrigações previstas no art. 260;
 
@@ -12804,13 +12862,12 @@ IV - livros e documentos fiscais objetos do requerimento;
 
 V - endereço, telefone e/ou e-mail do contribuinte;
 
-<!-- p. 349 -->
-333
-
-333
-
-
 VI - identificação e assinatura do sócio ou representante legal.
+
+<!-- p. 351 -->
+335
+
+335
 
 Art. 258. O pedido de cessação de uso total do sistema eletrônico de processamento de dados será apresentado na agência da Receita Estadual de circunscrição da empresa solicitante.
 
@@ -12842,15 +12899,15 @@ c) ~~a critério do Fisco, a Nota Fiscal do Produtor, modelo 4, e o cupom fiscal
 ~~ICMS 12/06). NR Dec.20.196/03, NR Dec.22.204/06~~
 
 (Revogado pela RA 67/2013)
-
-<!-- p. 350 -->
-334
-
-334
-
 c) Nota Fiscal do Produtor, modelo 4, a critério do Fisco; (Revigorado pela RA 10/14)
 
 II - por totais de documento fiscal, quando se tratar de: (Convênio ICMS 69/02)
+
+<!-- p. 352 -->
+336
+
+336
+
 
 a) Nota Fiscal/ Conta de Energia Elétrica, modelo 6;
 b) Nota Fiscal de Serviços de Transporte, modelo 7;
@@ -12884,10 +12941,6 @@ IV - por total diário, por espécie de documento fiscal, nos demais casos.
 
 ~~§ 6º As Notas Fiscais do Produtor, modelo 4, autorizadas poderão ser emitidas até 31 de dezembro de 2013. AC Resolução Administrativa 67/13~~
 
-<!-- p. 351 -->
-335
-
-335
 
 ~~§ 6º As Notas Fiscais do Produtor, modelo 4, poderão ser emitidas em contingência à Nota Fiscal Avulsa para os seguintes códigos de atividade:~~
 
@@ -12895,6 +12948,12 @@ IV - por total diário, por espécie de documento fiscal, nos demais casos.
 
 
 ~~I~~ ~~– 0115600 (cultivo de soja);~~
+
+<!-- p. 353 -->
+337
+
+337
+
 ~~II~~ ~~– 0111301 (cultivo de arroz);~~
 ~~III~~ ~~– 0111302 (cultivo de milho).~~
 
@@ -12928,13 +12987,13 @@ Art. 263. Os contribuintes maranhenses, usuários de sistema eletrônico de proc
 
 § 3º Estão dispensados da entrega do arquivo magnético a que se refere o caput, os contribuintes que só estejam autorizados ao uso de sistema eletrônico de processamento de dados para escrituração do livro registro de inventário. (Convênio ICMS 31/99)
 
-<!-- p. 352 -->
-336
-
-336
-
 
 § 4º Sempre que, informada uma operação em arquivo, por qualquer motivo a mercadoria não for entregue ao destinatário, far-se-á geração de arquivo esclarecendo o fato, com o código de finalidade “5” (item 09.1.3 do Manual de Orientação), que será remetido juntamente com o relativo ao mês em que se verificar a ocorrência. (Conv. ICMS 69/02)
+
+<!-- p. 354 -->
+338
+
+338
 
 
 § 5º Não deverão constar do arquivo os Conhecimentos emitidos em função de redespacho ou subcontratação. (Conv. ICMS 69/02)
@@ -12966,15 +13025,15 @@ V - fica limitada a 990 (novecentos e noventa) a quantidade de itens de mercador
 
 § 2° As indicações referentes ao transportador e à data da efetiva saída da mercadoria do estabelecimento, podem ser feitas mediante a utilização de qualquer meio gráfico indelével. (Convênio ICMS 31/99 e 69/02).
 
-<!-- p. 353 -->
-337
-
-337
-
 
 Subseção I-A Da emissão da Nota Fiscal Avulsa (NFA) via Internet
 
 (AC Dec. 24.046/08)
+
+<!-- p. 355 -->
+339
+
+339
 
 ~~Art. 264-A. A Nota Fiscal Avulsa (NFA) deverá ser emitida pelo próprio contribuinte mediante acesso à Internet nos seguintes casos:~~
 
@@ -13006,15 +13065,15 @@ V - agricultor familiar, empreendimento familiar de produção rural, cooperativ
 
 a) o termo “agricultor familiar” designará todos os beneficiários previstos no artigo 3o da Lei np 11.326, de 24 de julho de 2006;
 
-<!-- p. 354 -->
-338
-
-338
-
 b) as associações somente emitirão NFA-e nas operações relacionadas às compras governamentais.
 
 
 § 1o A NFA-e será emitida pelo Fisco na liberação de mercadoria ou bem apreendido e em outras hipóteses previstas na legislação.
+
+<!-- p. 356 -->
+340
+
+340
 
 § 2o A NFA-e será emitida por meio de aplicativo disponibilizado no sítio da Secretaria de Estado de Fazenda, na internet.
 
@@ -13052,18 +13111,18 @@ i) ~~a data/hora da impressão.~~
 ~~e)~~ ~~o código de endereçamento postal (CEP);~~
 ~~f)~~ ~~o nome do município;~~
 ~~g)~~ ~~o bairro ou distrito;~~
-
-<!-- p. 355 -->
-339
-
-339
-
 ~~h)~~ ~~o telefone/fax.~~
 
 ~~III - no quadro “Destinatário”:~~
 
 ~~a)~~ ~~o nome ou razão social;~~
 ~~b)~~ ~~o número de inscrição no CNPJ ou no CPF/MF;~~
+
+<!-- p. 357 -->
+341
+
+341
+
 ~~c)~~ ~~o endereço;~~
 ~~d)~~ ~~a unidade da federação;~~
 ~~e)~~ ~~o código de endereçamento postal (CEP);~~
@@ -13103,16 +13162,17 @@ i) ~~a data/hora da impressão.~~
 
 ~~VI - no quadro “Transportador/Volumes Transportados”:~~
 
-<!-- p. 356 -->
-340
-
-340
-
 ~~a)~~ ~~o nome ou razão social do transportador e a expressão “Autônomo”, se for o caso;~~
 ~~b)~~ ~~a condição de pagamento do frete: se por conta do emitente ou do destinatário;~~
 ~~c) a placa do veículo, no caso de transporte rodoviário, ou outro elemento identificativo, nos demais casos;~~
 
 ~~d)~~ ~~a unidade da Federação de registro do veículo;~~
+
+<!-- p. 358 -->
+342
+
+342
+
 ~~e)~~ ~~o número de inscrição do transportador no CNPJ ou no CPF/MF;~~
 ~~f)~~ ~~o endereço do transportador;~~
 ~~g)~~ ~~o Município do transportador;~~
@@ -13149,16 +13209,15 @@ Parágrafo único. A NFA-e será considerada inidônea caso seja detectado que o
 
 (NR - RA 14/2016)
 
-<!-- p. 357 -->
-341
-
-341
-
-
 ~~Art. 264-C. A Nota Fiscal Avulsa será emitida em 3 (três) vias, com a seguinte destinação:~~
 
 
 ~~I - a 1ª via acompanhará as mercadorias ou bens no seu transporte, para ser entregue pelo transportador ao destinatário;~~
+
+<!-- p. 359 -->
+343
+
+343
 
 ~~II - a 2ª via acompanhará as mercadorias ou bens e destinar-se - á a fins de controle na unidade da Federação do destinatário, quando se tratar de operação interestadual;~~
 
@@ -13190,16 +13249,14 @@ Aéreo
 Art. 265. Na hipótese de emissão por sistema eletrônico de processamento de dados de Conhecimento de Transporte Rodoviário de Cargas, Conhecimento de Transporte Aquaviário de Cargas e Conhecimento Aéreo, fica dispensada a via adicional para controle do Fisco de destino, prevista no Convênio SINIEF 06/89, de 21 de fevereiro de 1989. (Conv. ICMS 69/02)
 
 
-Subseção III
-
-<!-- p. 358 -->
-342
-
-342
-
-Das Disposições Comuns aos Documentos Fiscais
+Subseção III Das Disposições Comuns aos Documentos Fiscais
 
 Art. 266. No caso de impossibilidade técnica para a emissão dos documentos a que se refere o art. 256, por sistema eletrônico de processamento de dados, em caráter excepcional, poderá o documento ser preenchido de outra forma, hipótese em que deverá ser incluído no sistema. (Convênio ICMS 31/99)
+
+<!-- p. 360 -->
+344
+
+344
 
 Art. 267. Os documentos fiscais devem ser emitidos no estabelecimento que promover a operação ou prestação.
 
@@ -13226,15 +13283,16 @@ IV - conter o nome, o endereço e os números de inscrição, estadual e no CNPJ
 
 V - quando inutilizados, antes de se transformarem em documentos fiscais, ser enfeixados em grupos uniformes de até duzentos (200) jogos, em ordem numérica sequencial, permanecendo em poder do estabelecimento emitente, pelo prazo de cinco (5) anos, contado do encerramento do exercício de apuração em que ocorreu o fato.
 
-<!-- p. 359 -->
-343
-
-343
 
 Art. 270. À empresa que possua mais de um estabelecimento neste Estado, é permitido o uso do formulário com numeração tipográfica única, desde que destinado à emissão de documentos fiscais do mesmo modelo.
 
 
 § 1° O controle de utilização será exercido nos estabelecimentos do encomendante e dos usuários do formulário.
+
+<!-- p. 361 -->
+345
+
+345
 
 § 2° O uso de formulários com numeração tipográfica única poderá ser estendido a estabelecimento não relacionado na correspondente autorização, desde que haja aprovação prévia pela repartição fiscal a que estiver vinculado.
 
@@ -13262,18 +13320,18 @@ Art. 274. O arquivo magnético de registros fiscais, conforme especificação e 
 
 
 I - tipo do registro;
-
-<!-- p. 360 -->
-344
-
-344
-
 II - data de lançamento;
 III - CNPJ do emitente/remetente/destinatário;
 IV - inscrição estadual do emitente/remetente/destinatário;
 V - unidade da Federação do emitente/remetente/destinatário;
 VI - identificação do documento fiscal modelo, série e subsérie e número de ordem;
 VII - Código Fiscal de Operações e Prestações;
+
+<!-- p. 362 -->
+346
+
+346
+
 VIII - valores a serem consignados nos livros Registro de Entradas ou Registro de Saídas;
 
 IX - Código da Situação Tributária Federal da operação.
@@ -13299,15 +13357,16 @@ Art. 277. Os livros fiscais previstos neste Capítulo serão adotados com base n
 I - os formulários mensalmente e reiniciar a numeração, mensal ou anualmente;
 II - dois ou mais livros fiscais diferentes de um mesmo exercício num único volume de, no máximo, 500 (quinhentas) folhas, desde que sejam separados por contracapas com identificação do tipo de livro fiscal e expressamente nominados na capa da encadernação. (Convênio ICMS 31/99)
 
-<!-- p. 361 -->
-345
-
-345
 
 Art. 278. Os livros fiscais escriturados por sistema eletrônico de processamentos de dados serão encadernados e autenticados em até 120 (cento e vinte) dias, contados da data do último lançamento. (Convênio ICMS 31/99)
 
 
 Art. 279. É facultada a escrituração das operações ou prestações de todo o período de apuração por meio de emissão única.
+
+<!-- p. 363 -->
+347
+
+347
 
 
 § 1° Para os efeitos deste artigo, havendo desigualdade entre os períodos de apuração do IPI e do ICMS, tomar-se-á por base o menor.
@@ -13330,16 +13389,14 @@ Parágrafo único. A Lista de Códigos de Emitentes e a Tabela de Códigos de Me
 
 Seção V Da Fiscalização
 
-Art. 282. O contribuinte fornecerá ao Fisco, quando exigido, os documentos e arquivo magnético de que trata este Capítulo, no prazo de 5 (cinco) dias úteis contado da data da
-
-<!-- p. 362 -->
-346
-
-346
-
-exigência, sem prejuízo do acesso imediato às instalações, equipamentos e informações em meios magnéticos.
+Art. 282. O contribuinte fornecerá ao Fisco, quando exigido, os documentos e arquivo magnético de que trata este Capítulo, no prazo de 5 (cinco) dias úteis contado da data da exigência, sem prejuízo do acesso imediato às instalações, equipamentos e informações em meios magnéticos.
 
 §1° Por acesso imediato entende-se inclusive o fornecimento dos recursos e informações necessárias para verificação e/ou extração de quaisquer dados, tais como, senhas, manuais de aplicativos e sistemas operacionais e formas de desbloqueio de áreas de disco.
+
+<!-- p. 364 -->
+348
+
+348
 
 § 2° O arquivo magnético deverá ser previamente consistido por programa validador fornecido pela Receita Estadual. (Convênio ICMS 31/99).
 
@@ -13365,17 +13422,17 @@ CAPÍTULO VII Da Impressão e da Autenticação de Documentos Fiscais
 
 Seção I Do Credenciamento de Estabelecimentos Gráficos
 
-<!-- p. 363 -->
-347
-
-347
-
 ~~Art. 288. A impressão dos documentos fiscais somente poderá ser efetuada nos estabelecimentos gráficos ou em tipografia do próprio usuário previamente credenciados pelo administrador da área de Arrecadação.~~
 
 
 Art. 288. A impressão de documentos fiscais será efetuada nos estabelecimentos gráficos ou em tipografia do próprio usuário desde que previamente credenciados pelo administrador da área de Arrecadação da Secretaria de Estado da Fazenda – SEFAZ.
 
 (NR RA 31/12)
+
+<!-- p. 365 -->
+349
+
+349
 
 §1º O credenciamento a que se refere o caput também poderá ser realizado por entidades representativas da indústria gráfica que firmem Protocolo de Intenções com a SEFAZ.
 
@@ -13408,11 +13465,6 @@ Art. 291. O disposto no artigo anterior alcança também os estabelecimentos sit
 ~~IV~~ ~~- certidão negativa de pedido de falência ou concordata ou execução patrimonial;~~
 ~~V - pedido de credenciamento padronizado.~~
 
-<!-- p. 364 -->
-348
-
-348
-
 Art. 292. O pedido de credenciamento se efetivará mediante requerimento dirigido ao administrador da área de arrecadação ou às entidades da indústria gráfica, instruído com os seguintes documentos:
 
 
@@ -13421,6 +13473,11 @@ II - certidão negativa de débitos de tributos municipais;
 III – certidão negativa de cartório (falência, concordata, recuperação judicial ou execução patrimonial).
 
 (NR- RA 31/12)
+
+<!-- p. 366 -->
+350
+
+350
 
 Parágrafo único. Os documentos previstos nos incisos II e III deste artigo deverão ser renovados a cada 180 (cento e oitenta) dias e entregues nos locais de funcionamento das entidades da indústria gráfica ou na Sefaz/MA, sob pena de descredenciamento automático.
 
@@ -13448,16 +13505,14 @@ Seção II Dos Requisitos do Documento Fiscal
 
 ~~(AC Dec. 25.374/09)~~
 
-<!-- p. 365 -->
-349
-
-349
-
-
 Art. 294. Os documentos fiscais, além de obedecerem aos requisitos exigidos pela legislação própria, deverão ser autenticados na forma estabelecida em ato normativo do titular da SEFAZ.
 
 § 1º Nas operações interestaduais serão considerados sem validade jurídico-fiscal os documentos que não tenham seus dados inseridos na base de dados do SIAT (Sistema Integrado de Administração Tributária) da Sefaz e/ou registro de passagem de documentos fiscais eletrônicos no SVAN (Sefaz Virtual do Ambiente Nacional).
 
+<!-- p. 367 -->
+351
+
+351
 
 § 2º Nas operações internas, os documentos fiscais que acobertarem mercadorias ou bens em trânsito por rodovias que disponham de postos fiscais, somente terão validade jurídicofiscal se tiverem os seus registros efetuados nos termos descritos no § 1º.
 
@@ -13485,19 +13540,17 @@ Art. 295. O documento fiscal, uma vez confeccionado, deve ser utilizado pelo con
 § 1° Presume-se inidôneo o documento fiscal emitido após a fluência do prazo estabelecido para a sua utilização.
 
 
-~~§ 2° O documento fiscal não utilizado, quando for recolhido à repartição fazendária por motivo de baixa, cancelamento ou suspensão da inscrição no CAD/ICMS ou, ainda, por ter~~
-
-<!-- p. 366 -->
-350
-
-350
-
-~~esgotado o prazo para sua utilização, deve ser inutilizado pelo Fisco com fornecimento de comprovante ao interessado ou lavratura de ocorrência no livro próprio.~~
+~~§ 2° O documento fiscal não utilizado, quando for recolhido à repartição fazendária por motivo de baixa, cancelamento ou suspensão da inscrição no CAD/ICMS ou, ainda, por ter esgotado o prazo para sua utilização, deve ser inutilizado pelo Fisco com fornecimento de comprovante ao interessado ou lavratura de ocorrência no livro próprio.~~
 
 
 § 2º O documento fiscal não utilizado por motivo de baixa, cancelamento ou suspensão da inscrição no CAD/ICMS ou, ainda, por ter esgotado o prazo para sua utilização, deve ser inutilizado pelo contribuinte, desde que autorizado pelo Fisco, com lavratura de termo circunstanciado, em livro próprio, com assinatura de seus representantes e do sujeito passivo.
 
 (NR - RA 31/12)
+
+<!-- p. 368 -->
+352
+
+352
 
 ~~§ 3° A inutilização será efetuada pela repartição fiscal, de circunscrição do contribuinte, mediante a feitura de cortes ou da sua incineração, lavrando-se termo circunstanciado com assinatura de representantes do Fisco e do sujeito passivo.~~
 
@@ -13527,14 +13580,7 @@ II – equipamento Emissor de Cupom Fiscal (ECF).
 
 § 3º Para a inutilização do documento fiscal deverá ser observado o prazo decadencial.
 
-Seção III
-
-<!-- p. 367 -->
-351
-
-351
-
-Da Autorização para Impressão de Documentos Fiscais - AIDF
+Seção III Da Autorização para Impressão de Documentos Fiscais - AIDF
 
 ~~Art. 297. A Autorização para Impressão de Documentos Fiscais - AIDF, Anexo SINIEF 15, será impressa pelos estabelecimentos gráficos credenciados, contendo as seguintes indicações:~~
 
@@ -13542,6 +13588,11 @@ Da Autorização para Impressão de Documentos Fiscais - AIDF
 Art. 297. O formulário “Autorização para Impressão de Documentos Fiscais – AIDF” impresso pelo estabelecimento gráfico credenciado deverá conter as seguintes indicações:
 
 (NR- RA 31/12)
+
+<!-- p. 369 -->
+353
+
+353
 
 I - denominação: "Autorização para Impressão de Documentos Fiscais";
 ~~II- número de ordem atribuído pela Receita Estadual ou etiqueta de númeração;~~
@@ -13570,18 +13621,16 @@ X - data da homologação dos documentos fiscais;
 
 (Revogado - RA 31/12) XIII ~~- data da entrega dos documentos impressos, números e série do documento fiscal do estabelecimento gráfico correspondente à operação, bem como a identidade e assinatura da pessoa a quem tenha sido feita a entrega;~~
 
-(Revogado pela RA 31/12)
-
-<!-- p. 368 -->
-352
-
-352
-
-XIV ~~- autorização para utilização dos documentos fiscais, com a expressão: "Autorizo a utilização dos Documentos Fiscais acima especificados, por estarem de acordo com a legislação em vigor;~~
+(Revogado pela RA 31/12) XIV ~~- autorização para utilização dos documentos fiscais, com a expressão: "Autorizo a utilização dos Documentos Fiscais acima especificados, por estarem de acordo com a legislação em vigor;~~
 
 (Revogado pela RA 31/12) XV ~~- data, local, assinatura e carimbo do funcionário que autorizar a utilização dos documentos fiscais e carimbo da repartição;~~
 
 (Revogado pela RA nº 31/12)
+
+<!-- p. 370 -->
+354
+
+354
 
 ~~§ 1° As indicações dos incisos I, III, VII , XI, XIV , serão impressas tipograficamente.~~
 
@@ -13612,10 +13661,6 @@ XIV ~~- autorização para utilização dos documentos fiscais, com a expressão
 
 § 7º Após recepcionada a ordem de serviço e gerada a AIDF pelo estabelecimento gráfico, a conclusão da AIDF será realizada conjuntamente entre o estabelecimento do contribuinte usuário e do gráfico, que obedecerão aos seguintes prazos:
 
-<!-- p. 369 -->
-353
-
-353
 
 I – trinta dias a contar da data da autorização, se estabelecimento gráfico;
 II – cinco dias úteis a partir da conclusão pelo estabelecimento gráfico, se contribuinte usuário.
@@ -13624,6 +13669,11 @@ II – cinco dias úteis a partir da conclusão pelo estabelecimento gráfico, s
 
 
 § 9º Não cumpridos os prazos previstos no parágrafo anterior, ficarão os estabelecimentos gráfico e o contribuinte impedidos de respectivamente:
+
+<!-- p. 371 -->
+355
+
+355
 
 
 I - receber ordem de serviço de qualquer contribuinte usuário;
@@ -13656,17 +13706,16 @@ VI – indeferimento da prova zero.
 ~~Art. 298. O estabelecimento gráfico deverá apresentar para autorização de impressão, a seguinte documentação:~~
 
 ~~I~~ ~~- todas as vias da AIDF preenchidas;~~
-
-<!-- p. 370 -->
-354
-
-354
-
 ~~II - um jogo completo de cada modelo de documentos fiscais a imprimir, cuja numeração será toda composta de zeros (Prova Zero).~~
 
 ~~§ 1° As primeira e quarta vias da AIDF e a Prova Zero referida no inciso II, serão retidas pela Receita Estadual.~~
 
 ~~§ 2° No caso de impressão em “off - set”, a Prova Zero poderá ser apresentada em cópia da arte final.~~
+
+<!-- p. 372 -->
+356
+
+356
 
 ~~§ 3° Em se tratando de documentos fiscais não sujeitos a autenticação, após a verificação do cumprimento dos requisitos exigidos para impressão, a repartição fiscal de domicílio do usuário homologará a impressão e autorizará a utilização dos referidos documentos.~~
 
@@ -13699,16 +13748,17 @@ II – contribuinte. (Art. 298 - NR RA 31/12)
 
 ~~Art. 300. As etiquetas fornecidas pela Receita Estadual aos estabelecimentos gráficos deverão ser devolvidas:~~
 
-<!-- p. 371 -->
-355
-
-355
-
 ~~I - no caso de encerramento de atividades do estabelecimento gráfico;~~
 ~~II - no caso de inutilização ou defeito; III - no caso de descredenciamento.~~
 (Revogado pela RA 31/12)
 
 ~~Art. 301. Os estabelecimentos gráficos credenciados serão responsáveis:~~
+
+<!-- p. 373 -->
+357
+
+357
+
 ~~I - pela entrega da segunda via da AIDF, após homologada, ao usuário dos documentos fiscais impressos;~~
 
 ~~II - pela conservação, em seus arquivos, em rigorosa ordem sequencial, das 3ªs (terceiras) vias da Autorização para Impressão de Documentos Fiscais homologadas.~~
@@ -13737,16 +13787,15 @@ CAPÍTULO VIII DAS INFORMAÇÕES ECONÔMICO-FISCAIS
 
 Seção I Da Relação de Saída de Mercadorias
 
-<!-- p. 372 -->
-356
-
-356
-
 Art. 303. Os estabelecimentos inscritos como contribuintes do imposto, excluídos os produtores agropecuários, deverão apresentar Relação de Saída de Mercadorias, nos modelos que integram o Convênio SINIEF de 1970.
 
 
 Art. 304 Na Relação de Saída de Mercadorias, modelo 1, serão indicadas as saídas, a qualquer título, dentro do Estado, efetuadas no ano civil anterior.
 
+<!-- p. 374 -->
+358
+
+358
 
 § 1° As informações, a que se refere este artigo, deverão ser agrupadas por estabelecimento destinatário e declaradas pelos totais dos valores contábeis.
 
@@ -13784,19 +13833,20 @@ c) a 3ª via ficará em poder do contribuinte.
 
 
 a) os números de inscrição, estadual e no CNPJ, do estabelecimento remetente;
-
-<!-- p. 373 -->
-357
-
-357
-
 b) os números de inscrição, estadual e no CNPJ, do estabelecimento destinatário;
 c) o total do valores contábeis das operações.
 
 Art. 306. Para fins de preenchimento das Relações de Saída de Mercadorias, as unidades da Federação serão identificados em conformidade com o seguinte código numérico:
 
 Acre
-01 Alagoas
+01
+
+<!-- p. 375 -->
+359
+
+359
+
+Alagoas
 02 Amapá
 03 Amazonas
 04 Bahia
@@ -13833,14 +13883,16 @@ Art. 307. As remessas das Relações de Saída de Mercadorias às demais unidade
 
 § 2º A exigência para a elaboração e apresentação das relações de saídas e entradas de mercadorias fica suspensa por prazo indeterminado na forma do Ajuste Sinief 01/81.
 
-<!-- p. 374 -->
-358
-
-358
-
 Seção II Da Declaração de Informações Econômico - Fiscais - DIEF
 
-Art. 308. O contribuinte inscrito no Cadastro de Contribuintes de ICMS do Estado do Maranhão está obrigado, para os fatos geradores a partir do período fiscal de 2004, a enviar arquivo digital, intitulado Declaração de Informações Econômico-Fiscais – DIEF, em conformidade com o estabelecido nesta seção.
+Art. 308. O contribuinte inscrito no Cadastro de Contribuintes de ICMS do Estado do Maranhão está obrigado, para os fatos geradores a partir do período fiscal de 2004, a enviar
+
+<!-- p. 376 -->
+360
+
+360
+
+arquivo digital, intitulado Declaração de Informações Econômico-Fiscais – DIEF, em conformidade com o estabelecido nesta seção.
 
 § 1º A obrigatoriedade de que trata o caput deste artigo se aplica ao produtor rural pessoa física, nos prazos e condições estabelecidos no §4º do art. 231-J.
 
@@ -13870,15 +13922,15 @@ IV - que, a partir do período de apuração referente a abril de 2022, estiver 
 
 (AC RA 34/12)
 
-<!-- p. 375 -->
-359
-
-359
-
 Art. 309. Para gerar o arquivo digital de que trata o caput do artigo anterior, o contribuinte lançará os registros das respectivas operações e prestações:
 
 
 I – por meio de digitação no software oficial disponibilizado pela Receita Estadual, denominado DIEF versão 4.0 – ou posterior; ou,
+
+<!-- p. 377 -->
+361
+
+361
 
 II – no caso de ser usuário de processamento eletrônico de dados, conforme art. 256 deste Regulamento, importando arquivo gerado pelo seu próprio sistema para o software mencionado no item anterior, observando-se o leiaute e especificações definidos em Instrução Normativa da Receita Estadual.
 
@@ -13910,16 +13962,15 @@ Art. 311. O contribuinte do ICMS que não apresentar a DIEF, no prazo estabeleci
 
 I - suspensão do Cadastro de Contribuintes na forma do § 1º do art. 99;
 
-<!-- p. 376 -->
-360
-
-360
-
 II - não concessão de credenciamento de natureza tributária e de Autorização para Impressão de Documentos Fiscais – AIDF.
 
 
 Parágrafo único. Para efeito do disposto neste artigo, o credenciamento anteriormente concedido será cancelado.
 
+<!-- p. 378 -->
+362
+
+362
 
 Art. 312. Fica permitida a apresentação da DIEF substitutiva nas seguintes condições:
 
@@ -13957,16 +14008,16 @@ XI - livro Registro de Entradas;
 XII - livro Registro de Saídas;
 XIII - livro Registro de Apuração do ICMS;
 
-<!-- p. 377 -->
-361
-
-361
-
 XIV - demonstrativo registro de saídas-talão;
 
 XV - demonstrativo resumo de apuração;
 
 XVI - mapa resumo de ECF;
+
+<!-- p. 379 -->
+363
+
+363
 
 XVII - dos registros informacionais sobre a emissão de Nota Fiscal de Consumidor Eletrônica - NFC-e.
 
@@ -14003,15 +14054,17 @@ Subseção I
 
 Código de Situação Tributária – CST
 
-<!-- p. 378 -->
-362
-
-362
-
 Art. 316. O código de Situação Tributária é composto de três dígitos na forma ABB, onde o 1º dígito deve indicar a origem da mercadoria, com base na Tabela A e os 2º e 3º dígitos a tributação pelo ICMS, com base na Tabela B: (Ajuste SINIEF 02/01)
 
 
-~~I- Tabela A - Origem da Mercadoria~~ 0 ~~– Nacional~~ 1 ~~- Estrangeira - Importação direta~~ 2 ~~- Estrangeira - Adquirida no mercado interno~~
+~~I- Tabela A - Origem da Mercadoria~~
+
+<!-- p. 380 -->
+364
+
+364
+
+0 ~~– Nacional~~ 1 ~~- Estrangeira - Importação direta~~ 2 ~~- Estrangeira - Adquirida no mercado interno~~
 
 Tabela A - Origem da Mercadoria ou Serviço
 0 - Nacional, exceto as indicadas nos códigos 3 a 5;
@@ -14059,11 +14112,6 @@ II- Tabela B - Tributação pelo ICMS (Ajuste 06/00)
 
 10 - Tributada e com cobrança do ICMS por substituição tributária;
 
-<!-- p. 379 -->
-363
-
-363
-
 20 - Com redução de base de cálculo;
 
 30 -Isenta ou não tributada e com cobrança do ICMS por substituição tributária;
@@ -14071,6 +14119,11 @@ II- Tabela B - Tributação pelo ICMS (Ajuste 06/00)
 40 – Isenta;
 
 41 - Não tributada;
+
+<!-- p. 381 -->
+365
+
+365
 
 50 – Suspensão;
 
@@ -14102,15 +14155,15 @@ Art. 317. Os Códigos Fiscais de Operações e Prestações – CFOP são aquele
 
 ~~Art. 319. Na hipótese de baixa do cadastro, o contribuinte apresentará DIVA, relativa às operações do período em atividade, juntamente com o pedido para aquela finalidade.~~
 
-<!-- p. 380 -->
-364
-
-364
-
 ~~Art. 320. O titular da Receita Estadual, mediante ato normativo, poderá:~~
 
 ~~I~~ ~~- alterar o prazo de entrega da DIVA;~~
 ~~II~~ ~~- baixar os atos que julgar necessários à aplicação do disposto nesta Seção.~~
+
+<!-- p. 382 -->
+366
+
+366
 
 ~~Art. 321. O preenchimento do documento de que trata esta seção obedecerá disposições do manual aprovado.~~
 
@@ -14142,15 +14195,15 @@ VII - Livro Registro de Controle da Produção e do Estoque.
 
 § 1º Para garantir a autenticidade, a integridade e a validade jurídica da EFD, as informações a que se refere o caput serão prestadas em arquivo digital com assinatura digital do contribuinte ou seu representante legal, certificada por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil.
 
-<!-- p. 381 -->
-365
-
-365
 
 § 2º Poderão assinar a EFD, com certificados digitais ICP-Brasil do tipo A1 ou A3:
 
 I - o e-PJ ou e-CNPJ que contenha a mesma base do CNPJ (8 primeiros caracteres) do estabelecimento;
 
+<!-- p. 383 -->
+367
+
+367
 
 II - o e-PF ou e-CPF do produtor rural ou do representante legal da empresa no cadastro CNPJ;
 
@@ -14184,15 +14237,15 @@ b) cadastradas com pelo menos um dos seguintes CNAE:
 
 1. distribuidoras de combustível; 2. atacadistas de medicamento ou equivalente.
 
-<!-- p. 382 -->
-366
-
-366
-
-
 c) detentoras de pelo menos um dos seguintes benefícios:
 
 1. crédito presumido para atacadista;
+
+<!-- p. 384 -->
+368
+
+368
+
 2. Sistema de Apoio à Indústria e ao Comércio Exterior do Estado do Maranhão – SINCOEX (Anexo 8.2);
 
 3. Programa de Incentivo às Atividades Industriais e Tecnológicas no Estado do Maranhão – PROMARANHÃO (Lei 9.121, de 04 de março de 2010).
@@ -14221,14 +14274,12 @@ V – a partir de 1º de janeiro de 2013, todas as empresas do regime normal. (R
 
 ~~§ 5º Ficam dispensados da obrigatoriedade da entrega da EFD:~~
 
-~~I - as Microempresas e as Empresas de Pequeno Porte, previstas na Lei Complementar nº 123, de 14 de dezembro de 2006, optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno~~
+~~I - as Microempresas e as Empresas de Pequeno Porte, previstas na Lei Complementar nº 123, de 14 de dezembro de 2006, optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional) para todos os tributos (Protocolo ICMS 141/12), observado o sublimite de receita bruta anual de até R$ 2.520.000,00 (dois milhões e quinhentos e vinte mil reais).~~
 
-<!-- p. 383 -->
-367
+<!-- p. 385 -->
+369
 
-367
-
-~~Porte (Simples Nacional) para todos os tributos (Protocolo ICMS 141/12), observado o sublimite de receita bruta anual de até R$ 2.520.000,00 (dois milhões e quinhentos e vinte mil reais).~~
+369
 
 ~~II - o contribuinte que, concomitantemente, não tenha movimentação fiscal no mês e saldo de crédito para utilizar no período de apuração subsequente. NR Decreto 33.322/2017(§5º e~~
 ~~AC os incisos I e II)~~
@@ -14259,14 +14310,12 @@ Subseção III Da Geração, Transmissão e Guarda do Arquivo
 
 Relativo à Escrituração Fiscal Digital
 
-~~Art. 321-E. O arquivo digital da EFD será gerado pelo contribuinte de acordo com as especificações técnicas constantes do Manual de Orientação do Leiaute da Escrituração Fiscal Digital – EFD, instituídos no Anexo Único do Ato COTEPE/ICMS 09/08, de 18 de abril de 2008,~~
+~~Art. 321-E. O arquivo digital da EFD será gerado pelo contribuinte de acordo com as especificações técnicas constantes do Manual de Orientação do Leiaute da Escrituração Fiscal Digital – EFD, instituídos no Anexo Único do Ato COTEPE/ICMS 09/08, de 18 de abril de 2008, e alterações, com a totalidade das informações econômico-fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia do mês.~~
 
-<!-- p. 384 -->
-368
+<!-- p. 386 -->
+370
 
-368
-
-~~e alterações, com a totalidade das informações econômico-fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia do mês.~~
+370
 
 Art. 321-E. O arquivo digital da EFD será gerado pelo contribuinte de acordo com as especificações técnicas constantes do Manual de Orientação do Leiaute da Escrituração Fiscal Digital - EFD, de que trata o Ato COTEPE/ICMS nº 44, de 07 de agosto de 2018, com a totalidade das informações econômico fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia do mês.
 
@@ -14296,13 +14345,13 @@ Art. 321-F Para a geração do arquivo digital relativo à Escrituração Fiscal
 
 Art. 321-G. A pessoa jurídica que possuir mais de um estabelecimento, seja filial, sucursal, agência, depósito, fábrica ou outro qualquer, deverá prestar as informações relativas à EFD em arquivo digital individualizado por estabelecimento.
 
-<!-- p. 385 -->
-369
-
-369
 
 Art. 321-H. O contribuinte deverá armazenar o arquivo digital da EFD previsto nesta seção, observando os requisitos de segurança, autenticidade, integridade e validade jurídica, pelo prazo decadencial.
 
+<!-- p. 387 -->
+371
+
+371
 
 Parágrafo único. A geração, o armazenamento e o envio do arquivo digital não dispensam o contribuinte da guarda dos documentos que deram origem às informações nele constantes, na forma e prazos estabelecidos pela legislação aplicável.
 
@@ -14336,14 +14385,14 @@ V - outras tabelas e códigos que venham a ser estabelecidos pelas SEFAZ/MA e pe
 
 (Alterado pela RA nº 10/18)
 
-<!-- p. 386 -->
-370
-
-370
-
 § 2º Os códigos de receita da SEFAZ/MA a serem correlacionados aos códigos da Tabela 5.4 – Tabela de Códigos das Obrigações do ICMS a Recolher da EFD, são os estabelecidos no Anexo 18.1 deste Regulamento.
 
 (AC – RA nº 10/18)
+
+<!-- p. 388 -->
+372
+
+372
 
 Art. 321-K. O arquivo digital da EFD gerado pelo contribuinte deverá ser submetido à validação de consistência de leiaute efetuada pelo software denominado Programa de Validação e Assinatura da Escrituração Fiscal Digital - PVA-EFD que será disponibilizado na internet nos sítios da RFB.
 
@@ -14381,15 +14430,15 @@ V - da versão do PVA-EFD e tabelas utilizadas.
 
 I - falha ou recusa na recepção, hipótese em que a causa será informada;
 
-<!-- p. 387 -->
-371
-
-371
-
 II - regular recepção do arquivo, hipótese em que será emitido recibo de entrega, nos termos do § 1º do Art. 321-P.
 
 
 § 2º Consideram-se escriturados os livros e o documento de que trata o Art. 321-B no momento em que for emitido o recibo de entrega.
+
+<!-- p. 389 -->
+373
+
+373
 
 
 § 3º A recepção do arquivo digital da EFD não implicará no reconhecimento da veracidade e legitimidade das informações prestadas, nem na homologação da apuração do imposto efetuada pelo contribuinte.
@@ -14416,13 +14465,13 @@ II - quando a adesão ocorrer no mês de janeiro, o inventário dos estoques exi
 
 III - a obrigatoriedade relativa à EFD será restabelecida a partir da data em que o estabelecimento for excluído do Simples Nacional, devendo, neste caso, o Registro de Inventário ser escriturado no arquivo digital referente ao primeiro mês de obrigatoriedade de realizar a EFD.
 
-<!-- p. 388 -->
-372
-
-372
 
 § 3º Excepcionalmente, os arquivos digitais da EFD referentes aos meses de apuração anteriores a junho de 2015, poderão ser entregues até o dia 30 de junho de 2015. AC – Resolução Administrativa 05/15.
 
+<!-- p. 390 -->
+374
+
+374
 
 § 4º Excetua-se da norma do § 3º deste artigo, os estabelecimentos cujo faturamento da empresa no exercício de 2014 tenha sido até R$ 2.520.000,00 (dois milhões, quinhentos e vinte mil reais), que poderão entregar os arquivos digitais da EFD referentes aos meses de apuração anteriores a dezembro de 2015 até o dia 30 de dezembro de 2015.
 
@@ -14458,14 +14507,14 @@ III - após o prazo de que trata o inciso II, mediante autorização da Secretar
 
 § 6º O disposto no inciso II não caracteriza dilação do prazo de entrega de que trata o art.321-M.
 
-<!-- p. 389 -->
-373
-
-373
-
 (AC - RA 12/13)
 
 § 7º Não produzirá efeitos a retificação de EFD:
+
+<!-- p. 391 -->
+375
+
+375
 
 I - de período de apuração que tenha sido submetido ou esteja sob ação fiscal;
 
@@ -14506,12 +14555,12 @@ III - transmitida em desacordo com as disposições deste artigo.
 
 (AC - RA 12/13)
 
-<!-- p. 390 -->
-374
-
-374
-
 Art. 321-O. Para fins do cumprimento das obrigações a que se referem esta seção, o contribuinte deverá entregar o arquivo digital da EFD de cada período apenas uma única vez, salvo a entrega com finalidade de retificação de que trata o art.321-N.
+
+<!-- p. 392 -->
+376
+
+376
 
 Subseção V Da Recepção e Retransmissão dos Dados
 
@@ -14550,13 +14599,12 @@ Parágrafo único. Não se aplicam aos contribuintes obrigados à EFD os seguint
 
 I - os incisos I, II, III, IV, IX, X e XI, do art. 63;
 
-<!-- p. 391 -->
-375
-
-375
-
 II - o § 1º do art. 63 e os arts. 64, 65, 67, 68 e §§ 6º, 7º e 8º do art. 70 do Convênio S/N de 1970, relativamente aos livros e documento de que trata o § 3º do art. 1º.
 
+<!-- p. 393 -->
+377
+
+377
 
 Seção VI Da Declaração de Substituição Tributária, Diferencial de Alíquotas e Antecipação –
 
@@ -14583,12 +14631,12 @@ I - ICMS retido como Substituto Tributário (operações antecedentes, concomita
 
 II - ICMS devido em operações com bens ou mercadorias sujeitas ao regime de antecipação do recolhimento do imposto, nas aquisições em outros Estados e Distrito Federal;
 
-<!-- p. 392 -->
-376
-
-376
-
 III - ICMS devido em aquisições em outros Estados e no Distrito Federal de bens ou mercadorias, não sujeitas ao regime de antecipação do recolhimento do imposto, relativo à diferença entre a alíquota interna e a interestadual;
+
+<!-- p. 394 -->
+378
+
+378
 
 IV – ICMS devido nas operações e prestações interestaduais que destinem bens e serviços a consumidor final não contribuinte do imposto.
 
@@ -14615,13 +14663,13 @@ Parágrafo único. O disposto no caput não se aplica aos estabelecimentos local
 
 Art. 321-V. A geração e o envio do arquivo digital não dispensam o contribuinte da guarda dos documentos que deram origem às informações nele constantes, na forma e prazos estabelecidos pela legislação aplicável.
 
-<!-- p. 393 -->
-377
-
-377
-
 
 Subseção III
+
+<!-- p. 395 -->
+379
+
+379
 
 Da geração, Envio e Recepção do Arquivo Digital da DeSTDA
 
@@ -14655,14 +14703,15 @@ III - da integridade do arquivo;
 
 IV - da existência de arquivo já recepcionado para o mesmo período de referência;
 
-<!-- p. 394 -->
-378
-
-378
-
 V - da versão da DeSTDA e tabelas utilizadas;
 
 VI – da data limite de transmissão.
+
+<!-- p. 396 -->
+380
+
+380
+
 § 1o Quando do envio da DeSTDA, será automaticamente expedida pela administração tributária, comunicação ao respectivo declarante quanto à ocorrência de um dos seguintes eventos:
 
 I - falha ou recusa na recepção, decorrente das verificações previstas do caput deste artigo, hipótese em que a causa será informada;
@@ -14689,13 +14738,12 @@ II - após o prazo artigo anterior, conforme estabelecido por ato do Secretário
 
 Art. 321-AB. Para fins do cumprimento da obrigação a que se refere esta Seção, o contribuinte deverá entregar o arquivo digital da DeSTDA de cada período apenas uma única vez para este Estado e, se for o caso, para cada unidade federada, salvo a entrega com finalidade de retificação.
 
-<!-- p. 395 -->
-379
-
-379
-
 Art. 321-AC. O arquivo digital da DeSTDA será recepcionado diretamente pela Secretaria de Fazenda deste Estado, ou, se for o caso, pela unidade federada destinatária da declaração.
 
+<!-- p. 397 -->
+381
+
+381
 
 Subseção IV Das Disposições Transitórias
 
@@ -14727,15 +14775,17 @@ II - a legislação tributária nacional, a deste Estado e, quando o for o caso,
 
 I ~~- até o final do mês seguinte ao da ocorrência;~~
 
-<!-- p. 396 -->
-380
-
-380
-
 II ~~- as informações serão fornecidas através de arquivos eletrônicos gerado nos termos do "Manual de Orientação" Anexo ao Protocolo ECF 4/01, de 24/09/01, observada a retificação publicada no DOU de 09/10/01;~~
 
 
-III ~~- o arquivo eletrônico será transmitido através do programa Transmissor TED, após ter sido validado e gerado a mídia de transmissão pelo programa integrante do Validador TEF, disponível no endereço eletrônico do SINTEGRA (www.sintegra.org.br) ou no site da Secretaria de Estado da Fazenda (www.sefaz.ma.gov.br);~~
+III ~~- o arquivo eletrônico será transmitido através do programa Transmissor TED, após ter sido validado e gerado a mídia de transmissão pelo programa integrante do Validador~~
+
+<!-- p. 398 -->
+382
+
+382
+
+~~TEF, disponível no endereço eletrônico do SINTEGRA (www.sintegra.org.br) ou no site da Secretaria de Estado da Fazenda (www.sefaz.ma.gov.br);~~
 
 
 IV ~~- poderá ainda o arquivo eletrônico ser gerado, validado e transmitido através do sistema TED_TEF ou Connect Direct.~~
@@ -14764,15 +14814,15 @@ IX ~~- o valor da transação de crédito e de débito.~~
 
 ~~§2º Em substituição ao relatório impresso de que trata o § 1º, poderá ser solicitado a qualquer momento que as informações nele contidas sejam apresentadas em meio magnético, em conformidade com o manual de orientação e assinadas digitalmente pela administradora de cartão de crédito, de débito ou similar, de acordo com o processo de certificação disponibilizado pela ICP-Brasil.~~
 
-<!-- p. 397 -->
-381
-
-381
-
 
 ~~Art. 321- A-H. A emissão do comprovante de pagamento de operação ou prestação efetuada com cartões de débito, crédito, de loja (private label) e demais instrumentos de pagamento eletrônico, deve estar vinculada ao documento fiscal emitido na operação ou prestação respectiva (Convênio ICMS 134/16).~~
 
 ~~(AC pela RA nº 05/18)~~
+
+<!-- p. 399 -->
+383
+
+383
 
 ~~§ 1º O comprovante da transação, impresso ou emitido por meio digital, relativo ao uso dos instrumentos de pagamento, deverá conter no mínimo:~~
 
@@ -14801,16 +14851,18 @@ IV ~~- data e hora da operação; V - valor da operação.~~
 
 ~~§ 3º A omissão no envio das informações previstas no caput ou enviá-las em desacordo com a legislação, sujeita a instituição financeira e de pagamento à aplicação de penalidade prevista na legislação tributária.~~
 
-<!-- p. 398 -->
-382
-
-382
 
 ~~Art. 321 - A-J. A Secretaria de Estado da Fazenda, em virtude de procedimento administrativo, poderá solicitar, independente da territorialidade, em arquivo impresso ou eletrônico, as informações dispostas no Art. 321-A-I, bem como poderão solicitar informações complementares dos beneficiários de pagamento.~~
 
 ~~(AC pela RA nº 05/18)~~
 
 Seção VII
+
+<!-- p. 400 -->
+384
+
+384
+
 (NR - RA nº 07/21)
 
 Do fornecimento de informações por instituições e intermediadores financeiros e de pagamento,
@@ -14833,17 +14885,17 @@ Art. 321-A-G. Os estabelecimentos que exerçam a atividade de venda ou revenda d
 ~~IV - data e hora da operação; V - valor da operação.~~
 Art. 321-A-H. A emissão do comprovante de transação ou intermediação de vendas ou serviços efetuada com cartões de débito, crédito, de loja (private label), transferência de recursos, transações eletrônicas do Sistema de Pagamento Instantâneo, e demais instrumentos de pagamento eletrônico devem estar vinculados ao documento fiscal emitido na operação ou prestação respectiva, conforme disposto na legislação pertinente.
 
-<!-- p. 399 -->
-383
-
-383
-
 § 1º O comprovante da transação, impresso ou emitido por meio digital, relativo ao uso dos instrumentos de que trata este convênio deverá conter, no mínimo:
 
 I - dados do beneficiário do pagamento:
 a) no caso de Pessoa Jurídica, o CNPJ e o nome empresarial;
 
 b) no caso de Pessoa Física, o CPF e o respectivo nome cadastral, podendo conter caracteres mascarados para preservar a identidade da pessoa física;
+
+<!-- p. 401 -->
+385
+
+385
 
 II - código da autorização ou identificação do pedido;
 III - identificador do terminal em que ocorreu a transação, nos casos em que se aplica;
@@ -14863,16 +14915,16 @@ Art. 321-A-I. As instituições e os intermediadores financeiras e de pagamento,
 ~~§ 4º Os bancos de qualquer espécie, referentes às operações não relacionadas aos serviços de adquirência, deverão enviar as informações de que trata esta Seção a partir do movimento de janeiro de 2022, até o dia 31 de julho de 2022. O envio dos arquivos dos meses subsequentes obedecerá ao disposto no caput deste artigo.~~
 
 ~~(AC – RA 54/21)~~
-
-<!-- p. 400 -->
-384
-
-384
-
 § 4º Os bancos de qualquer espécie, referentes às operações não relacionadas aos serviços de adquirência, deverão enviar as informações de que trata esta Seção a partir do movimento de janeiro de 2022, conforme cronograma disposto nos incisos a seguir:
 
 I - janeiro, fevereiro e março de 2022 até o último dia do mês de abril de 2023;
 II - abril, maio e junho de 2022 até o último dia do mês de maio de 2023;
+
+<!-- p. 402 -->
+386
+
+386
+
 III - julho, agosto e setembro de 2022 até o último dia do mês de junho de 2023;
 IV - outubro, novembro e dezembro de 2022 até o último dia do mês de julho de 2023;
 V - janeiro, fevereiro e março de 2023 até o último dia do mês de agosto de 2023;
@@ -14895,16 +14947,17 @@ Art. 321-A-J. Os intermediadores de serviços e de negócios fornecerão à SEFA
 
 § 3º Os intermediadores definidos no caput deste artigo informarão à SEFAZ a não ocorrência de transações comerciais ou de prestação de serviços intermediadas no período por meio de arquivo com finalidade “remessa de arquivo zerado”.
 
-<!-- p. 401 -->
-385
-
-385
-
 ~~§ 4º Os arquivos contendo as informações a partir de 1º de fevereiro de 2017 até 31 de março de 2021 deverão ser enviados até o dia 30 de abril de 2021. O envio dos arquivos dos meses subsequentes obedecerá ao disposto no caput deste artigo.~~
 
 § 4º Os arquivos contendo as informações a partir 1º de agosto de 2020 até 30 de novembro de 2021 deverão ser enviados até o dia 31 de dezembro de 2021. O envio dos arquivos dos meses subsequentes obedecerá ao disposto no caput deste artigo.
 
 (NR – RA 54/21)
+
+<!-- p. 403 -->
+387
+
+387
+
 Art. 321-A-K. A SEFAZ, em virtude de procedimento administrativo, poderá solicitar, independente da territorialidade, em arquivo impresso ou eletrônico, as informações dispostas nos arts. 321-A-I e 321-A-J, bem como poderá solicitar informações complementares dos beneficiários de pagamento, estabelecimentos e usuários de seus serviços.
 
 ~~Art. 321-A-L. A obrigação disposta no art. 321-A-I poderá ser transferida a instituição ou arranjo distinta daquela responsável pelo cadastramento do estabelecimento ou prestador de serviço, visando agrupar ou simplificar os procedimentos, desde que seja mantida a segurança e a inviolabilidade do sigilo das informações.~~
@@ -14922,19 +14975,19 @@ Art. 321-A-N. Em caso de descumprimento das disposições previstas nos arts. 32
 
 §1° A intimação será realizada por via postal ou correspondência eletrônica, com prova de recebimento, ou por edital, quando resultarem improfícuos os meios anteriores, conforme dispuser a legislação tributária.
 
-§2° As informações solicitadas na intimação, com base no art. 321 -A-M, serão enviadas por meio do Simba, conforme modelo de leiaute estabelecido pelo Banco Central, através da Carta-Circular 3.454, de 14 de junho de 2010, o qual é utilizado pelas autoridades
-
-<!-- p. 402 -->
-386
-
-386
-
-judiciárias, nos termos da Instrução Normativa no 03, de 09 de agosto de 2010, da Corregedoria Nacional de Justiça.
+§2° As informações solicitadas na intimação, com base no art. 321 -A-M, serão enviadas por meio do Simba, conforme modelo de leiaute estabelecido pelo Banco Central, através da Carta-Circular 3.454, de 14 de junho de 2010, o qual é utilizado pelas autoridades judiciárias, nos termos da Instrução Normativa no 03, de 09 de agosto de 2010, da Corregedoria Nacional de Justiça.
 
 § 3° Transcorrido o prazo do caput deste artigo, as instituições ou intermediadores que deixarem de prestar as informações ou prestarem com omissão de operações elou prestações realizadas pelo contribuinte do imposto, ficam sujeitos à aplicação das multas previstas nos incisos XXX e XXXI do art. 80 da Lei 7.799, de 19 de dezembro de 2002, conforme o caso.
 
 
-CAPÍTULO IX DAS OPERAÇÕES E PRESTAÇÕES DIVERSAS
+CAPÍTULO IX
+
+<!-- p. 404 -->
+388
+
+388
+
+DAS OPERAÇÕES E PRESTAÇÕES DIVERSAS
 
 Seção I Das Operações Realizadas com Depósito Fechado
 
@@ -14965,17 +15018,17 @@ II - natureza da operação;
 
 III - destaque do imposto, se devido;
 
-<!-- p. 403 -->
-387
-
-387
-
 IV - circunstância de que as mercadorias serão retiradas do depósito fechado, mencionando-se endereço e números de inscrição, estadual e no CNPJ, deste.
 
 § 1° Na hipótese deste artigo, o depósito fechado, no ato da saída das mercadorias, emitirá Nota Fiscal em nome do estabelecimento depositante, sem destaque do imposto, contendo os requisitos exigidos e, especialmente:
 
 
 a) valor das mercadorias, que corresponderá àquele atribuído por ocasião de sua entrada no depósito fechado;
+
+<!-- p. 405 -->
+389
+
+389
 
 b) natureza da operação: "Outras Saídas" - Retorno Simbólico de Mercadorias Depositadas";
 
@@ -15011,16 +15064,15 @@ b) apor, na Nota Fiscal referida na alínea anterior, a data da entrada efetiva 
 
 § 2° O estabelecimento depositante deverá:
 
-<!-- p. 404 -->
-388
-
-388
-
 a) registrar a Nota Fiscal na coluna própria do livro Registro de Entradas, dentro de
 10 (dez) dias, contados da data de entrada efetiva das mercadorias no depósito fechado;
 
 b) emitir Nota Fiscal relativa à saída simbólica, dentro de 10 (dez) dias, contados da data da entrada efetiva das mercadorias no depósito fechado, na forma do art. 323 mencionando, ainda, número e data do documento fiscal emitido pelo remetente;
 
+<!-- p. 406 -->
+390
+
+390
 
 c) remeter a Nota Fiscal, aludida na alínea anterior, ao depósito, dentro de 5 (cinco) dias, contados da respectiva emissão.
 
@@ -15051,17 +15103,18 @@ I - valor das mercadorias;
 
 II - natureza da operação: "Outras Saídas - Retorno de Mercadorias Depositadas”;
 
-<!-- p. 405 -->
-389
-
-389
-
 III - dispositivos legais ou regulamentares que preveem a não incidência do imposto.
 
 Art. 328. Na saída de mercadorias depositadas em armazém geral, situado na mesma unidade da Federação do estabelecimento depositante, com destino a outro estabelecimento ainda que da mesma empresa, o depositante emitirá Nota Fiscal em nome do destinatário, contendo os requisitos exigidos e, especialmente:
 
 
 I - valor da operação;
+
+<!-- p. 407 -->
+391
+
+391
+
 
 II - natureza da operação;
 
@@ -15092,19 +15145,17 @@ d) nome, endereço e números de inscrição, estadual e no CNPJ, do estabelecim
 § 4° As mercadorias serão acompanhadas em seu transporte pela Nota Fiscal emitida pelo estabelecimento depositante.
 
 
-Art. 329. Na saída de mercadorias depositadas em armazém geral, situado neste Estado por estabelecimento depositante de outro Estado, com destino a outro estabelecimento,
-
-<!-- p. 406 -->
-390
-
-390
-
-ainda que da mesma empresa, o depositante emitirá Nota Fiscal contendo os requisitos exigidos e, especialmente:
+Art. 329. Na saída de mercadorias depositadas em armazém geral, situado neste Estado por estabelecimento depositante de outro Estado, com destino a outro estabelecimento, ainda que da mesma empresa, o depositante emitirá Nota Fiscal contendo os requisitos exigidos e, especialmente:
 
 
 I - valor da operação;
 
 II - natureza da operação;
+
+<!-- p. 408 -->
+392
+
+392
 
 III - circunstância de que as mercadorias serão retiradas do armazém geral, mencionando-se endereço e números de inscrição, estadual e no CNPJ, deste.
 
@@ -15136,14 +15187,14 @@ b) a Nota Fiscal em nome do estabelecimento depositante, sem destaque do imposto
 
 4 - nome, endereço e número de inscrição, estadual e no CNPJ, do estabelecimento destinatário, e número, série e data da Nota Fiscal referida na alínea "a".
 
-<!-- p. 407 -->
-391
-
-391
-
 § 3° As mercadorias serão acompanhadas em seu transporte pelas Notas Fiscais referidas no "caput" deste artigo e na alínea "a" do parágrafo anterior.
 
 § 4° A Nota Fiscal a que se refere a alínea "b" do § 2º, será enviada ao estabelecimento depositante que deverá registrá-la na coluna própria do livro Registro de Entradas, dentro de 10 (dez) dias, contados da saída efetiva das mercadorias do armazém geral.
+
+<!-- p. 409 -->
+393
+
+393
 
 § 5° O estabelecimento destinatário, ao receber as mercadorias, registrará no livro Registro de Entradas, a Nota Fiscal a que se refere o caput deste artigo, acrescentando na coluna "Observações" o número, série e data da Nota Fiscal a que alude a alínea "a" do § 2º, bem como nome, endereço e número de inscrição estadual e no CNPJ, do armazém geral e lançado nas colunas próprias, quando for o caso, o crédito do imposto pago pelo armazém geral.
 
@@ -15175,15 +15226,16 @@ a) registrar a Nota Fiscal na coluna própria do livro Registro de Entradas, den
 
 b) emitir Nota Fiscal relativa à saída simbólica, dentro de 10 (dez) dias, contados da data da entrada efetiva das mercadorias no armazém geral, na forma do art. 325, mencionando, ainda, o número e data do documento fiscal emitido pelo remetente;
 
-<!-- p. 408 -->
-392
-
-392
 
 c) remeter a Nota Fiscal, aludida na alínea anterior ao armazém geral, dentro de 5 (cinco) dias, contados da data da sua emissão.
 
 
 § 3° O armazém geral deverá acrescentar na coluna "Observações" do livro Registro de Entradas, relativamente ao lançamento previsto na alínea "a" do § 1º, o número, série e data da Nota Fiscal referida na alínea "b" do parágrafo anterior.
+
+<!-- p. 410 -->
+394
+
+394
 
 § 4° Todo e qualquer crédito do imposto, quando cabível, será conferido ao estabelecimento depositante.
 
@@ -15218,14 +15270,15 @@ b) natureza da operação: "Outras Saídas - Remessa para Depósito";
 c) destaque de imposto, se devido;
 d) circunstância de que as mercadorias foram entregues diretamente ao armazém geral, mencionando-se número, série, a data da Nota Fiscal emitida na forma do inciso I pelo estabelecimento remetente, bem como nome, endereço, números de inscrição, estadual e no CNPJ, deste.
 
-<!-- p. 409 -->
-393
-
-393
 
 § 2° A Nota Fiscal referida no parágrafo anterior deverá ser remetida ao armazém geral dentro de 5 (cinco) dias, contados da data da sua emissão.
 
 § 3° O armazém geral registrará a Nota Fiscal referida no § 1º, anotando, na coluna "Observações", do livro Registro de Entradas, o número, série e data da Nota Fiscal a que alude o inciso II, bem como nome, endereço e números de inscrição, estadual e no CNPJ, do estabelecimento remetente.
+
+<!-- p. 411 -->
+395
+
+395
 
 
 Art. 332. Nos casos de transmissão de propriedade de mercadorias, quando estas permanecerem no armazém geral deste Estado, e o estabelecimento depositante for contribuinte deste Estado, este emitirá Nota Fiscal para o estabelecimento adquirente, contendo os requisitos exigidos e, especialmente:
@@ -15257,15 +15310,16 @@ d) nome, endereço e números de inscrição, estadual e no CNPJ, do estabelecim
 
 § 3° O estabelecimento adquirente deverá registrar a Nota Fiscal referida no "caput" deste artigo, na coluna própria do livro Registro de Entradas, dentro de 10 (dez) dias, contados da data da sua emissão.
 
-<!-- p. 410 -->
-394
-
-394
 
 § 4° No prazo referido no parágrafo anterior, o estabelecimento adquirente emitirá Nota Fiscal para o armazém geral, sem destaque do imposto, contendo os requisitos exigidos e, especialmente:
 
 
 a) valor das mercadorias, que corresponderá ao da Nota Fiscal emitida pelo estabelecimento depositante e transmitente, na forma do "caput" deste artigo;
+
+<!-- p. 412 -->
+396
+
+396
 
 b) natureza da operação: "Outras Saídas - Remessa Simbólica de Mercadorias Depositadas";
 
@@ -15298,16 +15352,15 @@ a) Nota Fiscal para o estabelecimento depositante sem destaque de imposto, conte
 
 3 - número, série e data da Nota Fiscal emitidas pelo estabelecimento depositante e transmitente, na forma do "caput" deste artigo;
 
-<!-- p. 411 -->
-395
-
-395
-
 
 4 - nome, endereço e número de inscrição, estadual e no CNPJ, do estabelecimento adquirente.
 
 b) Nota Fiscal para o estabelecimento adquirente, contendo os requisitos exigidos e, especialmente:
 
+<!-- p. 413 -->
+397
+
+397
 
 1 - valor da operação, que corresponderá ao da Nota Fiscal emitida pelo estabelecimento depositante e transmitente, na forma do "caput" deste artigo;
 
@@ -15335,14 +15388,15 @@ b) natureza da operação: "Outras Saídas - Remessa Simbólica de Mercadorias D
 
 c) número, série e data da Nota Fiscal emitida na forma do caput deste artigo, pelo estabelecimento depositante e transmitente, bem como nome, endereço e números de inscrição, estadual e no CNPJ, deste.
 
-<!-- p. 412 -->
-396
-
-396
 
 § 5° Se o estabelecimento adquirente se situar em unidade da Federação diversa do armazém geral, na Nota Fiscal a que se refere o parágrafo anterior, será efetuado o destaque do imposto, se devido.
 
 § 6° A Nota Fiscal a que alude o § 4º será enviada, dentro de 5 (cinco) dias, contados da data de sua emissão, ao armazém geral, que deverá registrá-la no livro Registro de Entradas, dentro de 5 (cinco) dias, contados da data do seu recebimento.
+
+<!-- p. 414 -->
+398
+
+398
 
 
 Seção III Das Operações e Prestações Realizadas Fora do Estabelecimento
@@ -15369,15 +15423,15 @@ e) as séries e números das Notas Fiscais referente às vendas realizadas.
 
 Seção IV Da Remessa de Mercadorias para Zonas Francas
 
-<!-- p. 413 -->
-397
-
-397
-
 Art. 335. Na saída de produtos industrializados de origem nacional, remetidos a contribuinte do imposto, localizado no Município de Manaus, com a isenção do ICMS prevista no art. 9º, (Anexo 1.1) deste Regulamento, a nota fiscal será emitida, no mínimo, em 5 (cinco) vias, que terão a seguinte destinação: (Convênio ICM 65/88)
 
 
 I - a 1ª via, depois de visada previamente pela repartição do Fisco estadual a que estiver circunscricionado o contribuinte remetente, acompanhará a mercadoria e será entregue ao destinatário;
+
+<!-- p. 415 -->
+399
+
+399
 
 II - a 2ª via ficará presa ao bloco, para exibição ao Fisco;
 
@@ -15402,19 +15456,17 @@ V - a 5ª via, devidamente visada, acompanhará as mercadorias até o local de d
 § 6° Na aplicação da sistemática desta Seção serão observados, no que couber, os procedimentos previstos no Convênio ICMS 45/94.
 
 
-Seção V
-
-<!-- p. 414 -->
-398
-
-398
-
-Das Vendas a Ordem ou para Entrega Futura
+Seção V Das Vendas a Ordem ou para Entrega Futura
 
 Art. 336. Nas vendas à ordem ou para entrega futura, poderá ser emitida Nota Fiscal, para simples faturamento, com lançamento do IPI, vedado o destaque do ICMS.
 
 
 § 1° Na hipótese deste artigo, o IPI será destacado antecipadamente pelo vendedor por ocasião da venda e o ICMS será recolhido por ocasião da efetiva saída da mercadoria.
+
+<!-- p. 416 -->
+400
+
+400
 
 § 2° No caso de venda para entrega futura, por ocasião da efetiva saída global ou parcial, das mercadorias, o vendedor emitirá Nota Fiscal em nome do adquirente, com destaque do valor do ICMS, quando devido, indicando-se além dos requisitos exigidos, como natureza da operação, "Remessa - Entrega Futura", bem como número, data e valor da operação da Nota relativa ao simples faturamento.
 
@@ -15442,16 +15494,16 @@ Art. 336-A Esta Seção estabelece procedimentos para a emissão de documentos f
 
 I - venda para entrega futura, quando houver pagamento antecipado total ou parcial pelo adquirente;
 
-<!-- p. 415 -->
-399
-
-399
-
 II - perda no estoque de mercadoria por extravio, perecimento, deterioração, furto ou roubo;
 
 III - redução de valores ou quantidades, quando não for possível realizar o cancelamento da Nota Fiscal eletrônica - NF-e - de saída;
 
 IV - retorno por recusa, total ou parcial, na entrega ou por não localização do destinatário.
+
+<!-- p. 417 -->
+401
+
+401
 
 Art. 336-B Na hipótese prevista no inciso I do art. 336-A, o contribuinte emitirá NF-e de saída, contendo, além dos demais requisitos exigidos:
 
@@ -15475,17 +15527,16 @@ I - no campo “finNFe - Finalidade de emissão da NF-e”, o código “6=Nota 
 II - no campo “tpNFDebito - Tipo de Nota de Débito”, o código “07=Perda em estoque”;
 
 III - no campo “Código Fiscal de Operações e Prestações” - “CFOP”, o código 5.927;
-
-<!-- p. 416 -->
-400
-
-400
-
 IV - no campo “natOp - Descrição da Natureza da Operação”, o texto “Baixa de Estoque”;
 
 V – destaque do ICMS, quando a operação fiscal de aquisição tenha apropriado crédito de ICMS no registro de entrada da declaração fiscal;
 
 VI - no campo “infAdFisco - Informações Adicionais de Interesse do Fisco”, a explicação com a motivação de emissão da NF-e, contendo a justificativa da baixa do estoque;
+
+<!-- p. 418 -->
+402
+
+402
 
 VII - no “Grupo E. Identificação do Destinatário da Nota Fiscal eletrônica”, as informações do próprio emitente da NF-e.
 
@@ -15511,16 +15562,16 @@ VII - no grupo “Identificação do Destinatário da Nota Fiscal eletrônica”
 
 Parágrafo único. A NF-e de que trata o “caput” deve ser emitida com valores ou quantidades que serão deduzidos da NF-e de saída original.
 
-<!-- p. 417 -->
-401
-
-401
-
 Art. 336-E Na hipótese prevista no inciso IV do art. 336-A, o remetente da NF-e de saída original deve emitir NF-e de entrada, contendo, além dos demais requisitos exigidos:
 
 I - no campo “finNFe - Finalidade de emissão da NF-e”, o código “5=Nota de crédito”;
 
 II - no campo “tpNFCredito - Tipo de Nota de Crédito”, os códigos “03=Retorno por Recusa Total na Entrega ou Por Não Localização do Destinatário na Tentativa de Entrega” ou “06=Retorno por Recusa Parcial na Entrega”, conforme o caso;
+
+<!-- p. 419 -->
+403
+
+403
 
 III - no campo “natOp - Descrição da Natureza da Operação”, o texto “Retorno por Recusa ou não localização”;
 
@@ -15544,17 +15595,17 @@ Art. 337. A mercadoria posta à ordem poderá ser vendida a outro contribuinte r
 
 I - comunicar previamente ao órgão regional fazendário a ocorrência, indicando o nome, endereço e inscrição do novo comprador, acompanhado de documento deste, no qual declare que vai receber a mercadoria, e de documento de desistência do primitivo comprador;
 
-<!-- p. 418 -->
-402
-
-402
-
 II - emissão, pelo novo comprador, de Nota Fiscal pela entrada, para lançamento em sua escrita fiscal, documento que dará trânsito à mercadoria até o seu estabelecimento.
 
 
 Seção VI
 
 ~~Das Remessas para Industrialização por Ordem do Adquirente~~
+
+<!-- p. 420 -->
+404
+
+404
 
 Das Operações de Remessa para Industrialização
 
@@ -15583,14 +15634,12 @@ Das Operações de Remessa para Industrialização
 
 (Revogados pelo Decreto nº 34.687/19)
 
-<!-- p. 419 -->
-403
-
-403
-
-
 Art. 338 Na saída de mercadorias destinadas à industrialização, nos termos dos incisos II e III do art. 10 deste Regulamento, será emitida Nota Fiscal, sem destaque do ICMS, pelo estabelecimento encomendante, constando como natureza da operação “Remessa para Industrialização”, utilizando-se o CFOP 5.901 ou 6.901 (remessa para industrialização por encomenda) conforme o caso, e, nas remessa simbólicas, ou seja, sem que as mercadorias transitem pelo estabelecimento encomendante, será utilizado o CFOP 5.949 ou 6.949 (outra saída de mercadoria ou prestação de serviço não especificado), conforme o caso.
 
+<!-- p. 421 -->
+405
+
+405
 
 ~~Art. 339. Na hipótese do artigo anterior, se as mercadorias tiverem que transitar por mais de um estabelecimento industrializador, antes de serem entregues ao adquirente, autor da encomenda, cada industrializador deverá:~~
 
@@ -15622,11 +15671,6 @@ Art. 339. Na saída das mercadorias industrializadas, que estiverem retornando a
 
 (NR – Decreto nº 34.687/19)
 
-<!-- p. 420 -->
-404
-
-404
-
 I - emitir NF-e em nome do estabelecimento de origem, autor da encomenda, na qual, além dos requisitos exigidos pelo art. 231-B, constarão:
 
 
@@ -15634,6 +15678,11 @@ a) a chave de acesso da Nota Fiscal, pela qual as mercadorias foram recebidas no
 
 
 b) valor das mercadorias recebidas para industrialização, utilizando o CFOP 5.902 ou 6.902 (retorno de mercadoria utilizada na industrialização por encomenda), conforme o caso, e o valor total cobrado do autor da encomenda, destacando, deste, o valor das mercadorias empregadas.
+
+<!-- p. 422 -->
+406
+
+406
 
 
 II – efetuar na Nota Fiscal referida no inciso anterior, sobre o valor cobrado do autor da encomenda, o destaque do ICMS, quando devido, que será aproveitado como crédito pelo destinatário, devendo ser utilizado o CFOP 5.124 ou 6.124 (industrialização efetuada para outra empresa), conforme o caso.
@@ -15661,15 +15710,15 @@ V – informar chave de acesso da Nota Fiscal de venda de que trata o inciso I n
 
 § 2º Na saída do produto industrializado, o estabelecimento industrializador deverá:
 
-<!-- p. 421 -->
-405
-
-405
-
 I – emitir Nota Fiscal com o valor da mercadoria recebida para industrialização e o valor total cobrado do autor da encomenda, destacando deste o valor da mercadoria empregada, na saída do produto industrializado com destino ao autor da encomenda, utilizando o CFOP 5.925 ou 6.925 (retorno de mercadoria recebida para industrialização por conta e ordem do adquirente da mercadoria), conforme o caso;
 
 
 II – efetuar, na Nota Fiscal referida no inciso anterior, o destaque do ICMS sobre o valor total cobrado do autos da encomenda, se exigido, que será aproveitado como crédito por este, se for o caso, devendo ser utilizado o CFOP 5.124 ou 6.124 (industrialização efetuada para outra empresa);
+
+<!-- p. 423 -->
+407
+
+407
 
 
 III – informar a chave de acesso na NF-e de remessa simbólica emitida pelo autor da encomenda na tag documentos fiscais referenciados;
@@ -15698,14 +15747,7 @@ II – o estabelecimento industrializador deverá:
 
 a) emitir Nota Fiscal em nome do estabelecimento adquirente do produto industrializado, para acompanhar o transporte das mercadorias, sem destaque do ICMS, na qual, além dos requisitos exigidos, constarão: como natureza da operação – “Remessa por Conta e Ordem de Terceiro”, utilizando o CFOP 5.949 ou 6.949 (outra saída de mercadoria não especificada), conforme o caso;
 
-b) informar a chave de acesso da NF-e de retorno simbólico emitida para autor da
-
-<!-- p. 422 -->
-406
-
-406
-
-encomenda na tag documentos fiscais referenciados;
+b) informar a chave de acesso da NF-e de retorno simbólico emitida para autor da encomenda na tag documentos fiscais referenciados;
 
 
 c) indicar, nas informações complementares, o número, série, data da Nota Fiscal referida no inciso anterior, bem como nome, endereço e números de inscrição estadual e no CNPJ, do seu emitente;
@@ -15713,6 +15755,10 @@ c) indicar, nas informações complementares, o número, série, data da Nota Fi
 
 d) emitir Nota Fiscal em nome do estabelecimento autor da encomenda, na qual, além dos requisitos exigidos, constarão as informações:
 
+<!-- p. 424 -->
+408
+
+408
 
 1. natureza da operação – “Retorno Simbólico de Produtos Industrializados por Encomenda”; o valor das mercadorias recebidas para industrialização, sem o destaque do ICMS, utilizando o CFOP 5.925 ou 6.925 (retorno de mercadoria recebida para industrialização por conta e ordem do adquirente da mercadoria, quando aquela não transitar pelo estabelecimento do adquirente), conforme o caso;
 
@@ -15735,15 +15781,14 @@ Art. 340. O mecanismo de controle da circulação de café cru, em coco ou em gr
 
 Parágrafo único. As vendas de café cru em grão efetuadas em Bolsa de Mercadorias ou de Cereais pelo Ministério da Indústria, do Comércio e do Turismo - MICT, com a intermediação do Banco do Brasil, far-se-á nos termos do Convênio ICMS 132/95, publicado no Diário Oficial da União de 13 de dezembro de 1995.
 
-<!-- p. 423 -->
-407
-
-407
-
 Seção VIII Das Obrigações Acessórias das Empresas Transportadoras Aquaviárias
 
 Art. 341. As empresas de transporte aquaviário que não possuam sede ou filial neste Estado e quando aqui iniciarem prestações de serviços de transporte e que tenham optado pelo benefício previsto no art.39 (Anexo 1.5) deste Regulamento deverão: (Convênio ICMS 88/90 e 106/96).
 
+<!-- p. 425 -->
+409
+
+409
 
 I - providenciar sua inscrição no Cadastro de Contribuintes do ICMS deste Estado e a identificação dos Agentes dos Armadores;
 
@@ -15772,10 +15817,6 @@ Art. 342. Os Estados onde as empresas possuírem sede autorizarão a impressão 
 
 § 1° No caso do serviço ser prestado fora da sede, deverá constar do Conhecimento o nome e o endereço do Agente.
 
-<!-- p. 424 -->
-408
-
-408
 
 § 2° Havendo necessidade de correção no Conhecimento, deverá ser emitido outro com os dados corretos, mencionando, sempre, o documento anterior e o motivo da correção.
 
@@ -15785,6 +15826,10 @@ Art. 342. Os Estados onde as empresas possuírem sede autorizarão a impressão 
 
 Art. 343. A adoção da sistemática estabelecida nesta Seção dispensará as demais obrigações acessórias aqui não previstas, exceto o disposto no art. 265. (Convênio ICMS 26/95)
 
+<!-- p. 426 -->
+410
+
+410
 
 Seção IX Das Operações de Consignação Mercantil
 
@@ -15818,12 +15863,6 @@ Art. 345-A. Nas operações de consignação mercantil em que o consignante for 
 
 (AC – RA 55/22)
 
-<!-- p. 425 -->
-409
-
-409
-
-
 Art. 346. Na venda da mercadoria remetida a título de consignação mercantil:
 
 I - o consignatário deverá:
@@ -15832,6 +15871,11 @@ a) emitir nota fiscal contendo, além dos demais requisitos exigidos, como natur
 
 
 b) registrar a nota fiscal de que trata o inciso seguinte no livro Registro de Entradas, apenas nas colunas “Documento Fiscal” e “Observações”, indicando nesta a expressão: “Compra em consignação - NF n.º ........, de ......../........./.......”.
+
+<!-- p. 427 -->
+411
+
+411
 
 
 II - o consignante emitirá nota fiscal, sem destaque do ICMS e do IPI, contendo, além dos demais requisitos exigidos, o seguinte:
@@ -15863,10 +15907,6 @@ c) destaque do ICMS e indicação do IPI nos valores debitados, por ocasião da 
 
 d) a expressão: “Devolução (parcial ou total, conforme o caso) de mercadoria em consignação - NF n.º ........, de ......./......./.......”.
 
-<!-- p. 426 -->
-410
-
-410
 
 II - o consignante lançará a nota fiscal no livro Registro de Entradas, creditando-se do valor do imposto.
 
@@ -15877,6 +15917,12 @@ II - o consignante lançará a nota fiscal no livro Registro de Entradas, credit
 Art. 348. As disposições contidas nesta Seção não se aplicam a mercadorias sujeitas ao regime de substituição tributária, salvo quanto às operações com combustível realizadas por contribuinte devidamente credenciado na forma e condições estabelecidas em ato do Secretário de Estado da Fazenda
 
 (NR Dec. nº 34.014, de 18.04.18)
+
+<!-- p. 428 -->
+412
+
+412
+
 
 Seção X Dos Procedimentos no Transporte Nacional de Mercadorias ou Bens em
 
@@ -15901,10 +15947,6 @@ Art. 351. O recolhimento do ICMS, individualizado para cada destinatário, será
 
 § 3° No campo “Outras informações” da GNRE a empresa de “courier” fará constar, entre outras indicações, sua razão social e seu número de inscrição no CNPJ do Ministério da Fazenda. (Convênio ICMS 106/95)
 
-<!-- p. 427 -->
-411
-
-411
 
 ~~Art. 352. Caso o início da prestação ocorra em final de semana ou feriado, em que não seja possível o recolhimento do ICMS incidente sobre as mercadorias ou bens, o seu transporte poderá ser realizado sem o acompanhamento do comprovante de pagamento do imposto, desde que:~~
 
@@ -15912,6 +15954,11 @@ Art. 351. O recolhimento do ICMS, individualizado para cada destinatário, será
 Art. 352. Caso o início da prestação ocorra em final de semana, no feriado ou na hipótese de indisponibilidade dos sistemas da Receita Federal do Brasil, em que não seja possível o recolhimento do ICMS incidente sobre as mercadorias ou bens, o seu transporte poderá ser realizado sem o acompanhamento do comprovante de pagamento do imposto, desde que:
 
 (NR Resolução Administrativa 89/13)
+
+<!-- p. 429 -->
+413
+
+413
 
 I - a empresa de "courier" assuma a responsabilidade solidária pelo pagamento daquele imposto;
 
@@ -15943,14 +15990,14 @@ ou aeronaves exclusivamente em tráfego internacional com destino ao exterior
 
 (Convênio ICM 12/75)
 
-<!-- p. 428 -->
-412
-
-412
-
 Art. 353-A. Para fins da equiparação à exportação na saída de produtos destinada ao uso ou consumo de bordo, em embarcações ou aeronaves exclusivamente em tráfego internacional com destino ao exterior, o estabelecimento remetente deverá:
 
 I - emitir Nota Fiscal Eletrônica - NF-e, modelo 55, contendo, além dos requisitos exigidos pela legislação, a indicação de Código Fiscal de Operações e Prestações – CFOP - específico para a operação de saída de produtos destinada ao uso ou consumo de bordo, em embarcações ou aeronaves exclusivamente em tráfego internacional com destino ao exterior;
+
+<!-- p. 430 -->
+414
+
+414
 
 II - registrar a Declaração Única de Exportação - DU-E - para o correspondente despacho aduaneiro da operação junto à Receita Federal do Brasil - RFB;
 
@@ -15972,16 +16019,16 @@ Art. 353-C. Na hipótese de venda a consumidor final não contribuinte do ICMS r
 Parágrafo único. O ponto de retirada da mercadoria deve estar situado neste Estado.
 Art. 353-D. O vendedor que realizar as operações previstas no Art. 353-C, sem prejuízo das demais obrigações legais, deve:
 
-<!-- p. 429 -->
-413
-
-413
-
 I - informar à SEFAZ a relação dos locais disponibilizados para retirada e devolução de mercadoria pelo adquirente; e
 
 II - firmar contrato que preveja a utilização do espaço físico de ponto de retirada, quando este ponto pertencer a outra pessoa física ou jurídica.
 
 Parágrafo único. Quando as opções de retirada e devolução de mercadoria nas operações previstas no art. 353-C forem disponibilizadas por terceiros, através de plataformas telefônicas ou de informática, o responsável por estas plataformas poderá assumir as obrigações previstas neste artigo, desde que informe previamente à SEFAZ.
+
+<!-- p. 431 -->
+415
+
+415
 
 Art. 353-E. Os pontos de retirada, quando localizados em estabelecimentos do mesmo grupo econômico ou de terceiros, contribuintes ou não do ICMS, deverão possuir espaço físico separado e exclusivo para o armazenamento das mercadorias vinculadas às operações previstas no art. 353-C.
 
@@ -16001,16 +16048,16 @@ II - Grupo G. Local da Entrega: a identificação completa do ponto de entrega d
 
 III - Grupo Z. Informações Adicionais da NF-e: “NFe emitida nos termos do Ajuste SINIEF nº 14/22”.
 
-<!-- p. 430 -->
-414
-
-414
-
 § 2º O DANFE relativo à NF-e da operação de devolução da mercadoria ou de retorno de mercadoria não entregue, além das demais informações, deve conter no:
 
 I - Grupo E. Identificação do Destinatário: a identificação do contribuinte que efetuou as operações previstas no art. 353-C;
 
 II - Grupo F. Local da Retirada: a identificação completa do ponto de retirada da mercadoria devolvida ou não entregue;
+
+<!-- p. 432 -->
+416
+
+416
 
 III - Grupo BA. Documento Fiscal Referenciado: a chave de acesso da NF-e que acobertou a operação de venda; e
 
@@ -16028,11 +16075,6 @@ II - “3 - Operação não presencial, Teleatendimento”, no caso de operaçã
 
 § 7º A critério do contribuinte que efetuou as operações previstas no art. 353-C, poderá ser aplicado o “DANFE Simplificado – Etiqueta” previsto no § 15 da cláusula nona do Ajuste SINIEF nº 7/05.
 
-<!-- p. 431 -->
-415
-
-415
-
 § 8º Não se aplica a dispensa prevista no inciso I do § 16 da cláusula nona do Ajuste SINIEF nº 7/05.
 
 
@@ -16040,6 +16082,10 @@ CAPÍTULO X DAS OBRIGAÇÕES EM GERAL
 
 Art. 354. É obrigação de todo contribuinte exibir os livros fiscais e comerciais, comprovantes da escrita e documentos, instituídos pela legislação tributária, prestar informações e esclarecimentos, sempre que solicitem os agentes do Fisco, no prazo de 3 (três) dias úteis, a contar da data da intimação.
 
+<!-- p. 433 -->
+417
+
+417
 
 Parágrafo único. Os contribuintes são obrigados, independentemente de intimação, a franquear seus estabelecimentos e a mostrar todos os bens móveis, inclusive mercadorias.
 
@@ -16067,11 +16113,6 @@ b) o período a que se referir a escrituração, no caso de livro;
 
 c) a existência ou não de cópia do documento extraviado, ainda que em poder de terceiros, indicando-os se for o caso;
 
-<!-- p. 432 -->
-416
-
-416
-
 
 d) a existência ou não de débito do imposto, o valor e o período a que se referir o débito.
 
@@ -16081,7 +16122,14 @@ d) a existência ou não de débito do imposto, o valor e o período a que se re
 Art. 360. O contribuinte fica obrigado, em qualquer hipótese, a comprovar, no prazo de 8 (oito) dias, contado da ocorrência, os valores das operações a que se referirem os livros ou documentos extraviados ou inutilizados, para efeito de verificação do pagamento do imposto.
 
 
-Parágrafo único. Se o contribuinte, no prazo fixado neste artigo, deixar de fazer a comprovação, ou não puder fazê-la, assim como nos casos em que a mesma for considerada insuficiente ou inidônea, o valor das operações será arbitrado pelo Fisco, na forma estabelecida neste Regulamento, deduzindo-se do montante devido os recolhimentos efetivamente comprovados pelo contribuinte ou pelos registros da repartição.
+Parágrafo único. Se o contribuinte, no prazo fixado neste artigo, deixar de fazer a comprovação, ou não puder fazê-la, assim como nos casos em que a mesma for considerada
+
+<!-- p. 434 -->
+418
+
+418
+
+insuficiente ou inidônea, o valor das operações será arbitrado pelo Fisco, na forma estabelecida neste Regulamento, deduzindo-se do montante devido os recolhimentos efetivamente comprovados pelo contribuinte ou pelos registros da repartição.
 
 
 Art. 361. O destinatário que tiver extraviado ou inutilizado a nota fiscal correspondente a mercadorias recebidas, providenciará, junto ao remetente, cópia do documento devidamente autenticada pela repartição competente.
@@ -16098,11 +16146,6 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~§ 1° O impressor autônomo dos documentos fiscais deverá solicitar regime especial junto à Receita Estadual para fazer uso da faculdade prevista neste artigo.~~
 
-<!-- p. 433 -->
-417
-
-417
-
 ~~§ 2° Quando se tratar de contribuinte do IPI, a adoção deste sistema de impressão será comunicada à Delegacia da Receita Federal do Ministério da Fazenda.~~
 
 ~~Art. 364. A impressão de que trata o artigo anterior, fica condicionada à utilização de papel com dispositivos de segurança, denominado formulário de segurança (Convênio ICMS 58/95).~~
@@ -16112,6 +16155,10 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~I - numeração sequencial de 000.000.001 a 999.999.999, reiniciada a numeração quando atingido esse limite e seriação de "AA" a "ZZ", que suprirá o número de controle do formulário previsto na alínea "c" do inciso VII do art. 139;~~
 
+<!-- p. 435 -->
+419
+
+419
 
 ~~II~~ ~~- calcografia com microtexto e imagem latente.~~
 
@@ -16133,14 +16180,7 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~c) ter fundo numismático na cor cinza pantone n° 420, contendo fundo anticopiativo com a palavra "cópia" combinado com as Armas da República com efeito íris nas cores verde/ocre/verde com as tonalidades tênues pantone n°s 317, 143 e 317, respectivamente, e tinta reagente a produtos químicos;~~
 
-~~d)~~ ~~ter, na lateral direita, nome e CNPJ do fabricante do formulário de segurança, série,~~
-
-<!-- p. 434 -->
-418
-
-418
-
-~~numeração inicial e final do respectivo lote;~~
+~~d) ter, na lateral direita, nome e CNPJ do fabricante do formulário de segurança, série, numeração inicial e final do respectivo lote;~~
 
 ~~e) conter espaço em branco de um centímetro, no rodapé, para aposição de código de barras, de altura mínima de meio centímetro.~~
 
@@ -16150,6 +16190,11 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 
 ~~I - contrato social e respectivas alterações ou ata de constituição e das alterações, em se tratando de sociedade anônima, devidamente registradas na Junta Comercial;~~
+
+<!-- p. 436 -->
+420
+
+420
 
 ~~II - certidões negativas ou de regularidade expedidas pelos fiscos federal, municipal e de todos os Estados em que possuir estabelecimento;~~
 
@@ -16171,10 +16216,6 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~§ 7° Após análise do parecer do Subgrupo e do laudo apresentado pela requerente, o GT 46 emitirá parecer conclusivo sobre o pedido de credenciamento, a ser remetido à Secretaria Executiva da COTEPE/ICMS, que decidirá sobre o pleito e determinará a publicação dessa decisão no Diário Oficial da União, juntamente com o parecer, a partir da qual, em caso de aprovação, estará a requerente credenciada a produzir os formulários de segurança.~~
 
-<!-- p. 435 -->
-419
-
-419
 
 ~~§ 8° O Subgrupo referido neste artigo será composto por representantes de seis unidades da Federação, participantes do GT 46, designados em reunião da COTEPE/ICMS, renovados a cada dois anos.~~
 
@@ -16185,6 +16226,12 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 
 ~~Art. 365. O impressor autônomo deverá obedecer os seguintes procedimentos:~~
+
+<!-- p. 437 -->
+421
+
+421
+
 ~~I - emitir a 1ª e a 2ª vias dos documentos fiscais de que trata este Capítulo, utilizando o formulário de segurança, conforme definido no artigo anterior, em ordem sequencial de numeração, emitindo as demais vias em papel comum, vedado o uso de papel jornal;~~
 
 ~~II - imprimir em código de barras, conforme "lay-out", em anexo, em todas as vias do documento fiscal, os seguintes dados:~~
@@ -16206,11 +16253,6 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~(NR Dec.22.197/06)~~
 
-<!-- p. 436 -->
-420
-
-420
-
 ~~Art. 367. O fabricante fornecerá o formulário de segurança, mediante apresentação de Pedido para Aquisição de Formulário de Segurança - PAFS, autorizado pela Receita Estadual, quando domiciliado neste Estado o impressor autônomo, e que obedeça o seguinte:~~
 
 
@@ -16223,6 +16265,10 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 ~~f)~~ ~~quantidade autorizada de formulário de segurança;~~
 ~~g) numeração e seriação inicial e final do formulário de segurança fornecido, informadas pelo fabricante.~~
 
+<!-- p. 438 -->
+422
+
+422
 
 ~~II - o PAFS será impresso em formulário de segurança, em 3 (três) vias, tendo a seguinte destinação:~~
 
@@ -16245,11 +16291,6 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 
 ~~III - nome ou razão social, número de inscrição no CNPJ e número de inscrição estadual do estabelecimento solicitante;~~
 
-<!-- p. 437 -->
-421
-
-421
-
 ~~IV~~ ~~- numeração e seriação inicial e final do formulário de segurança fornecido.~~
 
 ~~§ 6º Aplicam-se aos formulários de segurança as seguintes disposições:~~
@@ -16261,6 +16302,11 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 ~~III - o seu uso poderá ser estendido a estabelecimento não relacionado na correspondente autorização, desde que haja aprovação prévia pela Receita Estadual.~~
 
 ~~§ 7° Na hipótese do disposto no item 1 do parágrafo anterior, será solicitada autorização única, indicando-se:~~
+
+<!-- p. 439 -->
+423
+
+423
 
 ~~I~~ ~~- a quantidade dos formulários a serem impressos e utilizados em comum;~~
 ~~II~~ ~~- os dados cadastrais dos estabelecimentos usuários;~~
@@ -16282,11 +16328,6 @@ Art.362. Os requisitos de hardware, de software e gerais a serem observados no d
 CAPÍTULO XII
 (NR Resolução Administrativa 15/13)
 
-<!-- p. 438 -->
-422
-
-422
-
 DA IMPRESSÃO E EMISSÃO DE DOCUMENTOS FISCAIS EM FORMULÁRIO DE
 
 SEGURANÇA.
@@ -16298,6 +16339,11 @@ impressão de documentos fiscais
 (Conv.ICMS 96/09)
 
 Art. 363. A fabricação, distribuição e aquisição de papéis com dispositivos de segurança para a impressão de documentos fiscais, denominados formulários de segurança, deverão seguir as disposições desta Seção, do Convênio ICMS 96/09 e do Ato COTEPE/ICMS 06/10.
+
+<!-- p. 440 -->
+424
+
+424
 
 Art. 364. Os formulários de segurança deverão ser fabricados em papel dotado de estampa fiscal com recursos de segurança impressos ou em papel de segurança com filigrana, com especificações detalhadas no Ato COTEPE/ICMS 06/10.
 
@@ -16321,10 +16367,6 @@ II - seriação de “AA” a “ZZ”, em caráter tipo “leibinger”, corpo 
 
 Art. 366. Os formulários de segurança somente serão utilizados para as seguintes finalidades:
 
-<!-- p. 439 -->
-423
-
-423
 
 I - impressão e emissão simultânea de documentos fiscais, nos termos do Convênio ICMS 97/09, sendo denominados “Formulário de Segurança - Impressor Autônomo” (FS-IA);
 
@@ -16334,6 +16376,11 @@ Parágrafo único. Os formulários de segurança, quando inutilizados antes de s
 
 
 Art. 367. O Estabelecimento gráfico interessado em:
+
+<!-- p. 441 -->
+425
+
+425
 
 
 I - se credenciar como fabricante de formulário de segurança deverá proceder conforme cláusula quinta do Convênio ICMS 96/09;
@@ -16362,10 +16409,6 @@ II - 2ª via: adquirente do formulário;
 
 III - 3ª via: fornecedor do formulário;
 
-<!-- p. 440 -->
-424
-
-424
 
 § 2º A autorização de aquisição poderá ser concedida via sistema informatizado, hipótese em que poderá ser dispensado o uso do formulário impresso.
 
@@ -16382,6 +16425,11 @@ III - identificação do estabelecimento adquirente;
 IV - identificação do fabricante credenciado;
 
 V - identificação do órgão da SEFAZ/MA que autorizou;
+
+<!-- p. 442 -->
+426
+
+426
 
 VII - número do pedido de aquisição, com 9 (nove) dígitos;
 
@@ -16412,10 +16460,6 @@ III - o seu uso poderá ser estendido a estabelecimento não relacionado na corr
 
 § 1° Na hipótese do inciso I será solicitada autorização única, indicando-se:
 
-<!-- p. 441 -->
-425
-
-425
 
 I - a quantidade dos formulários a serem impressos e utilizados em comum;
 
@@ -16427,6 +16471,11 @@ III - a critério da SEFAZ/MA, os números de ordem dos formulários destinados 
 
 
 § 2° Na hipótese do disposto dos incisos I e III do caput, a critério da SEFAZ/MA, poderá ser exigida nova autorização de aquisição.
+
+<!-- p. 443 -->
+427
+
+427
 
 
 Seção II Da impressão e emissão simultânea de documentos fiscais
@@ -16452,10 +16501,6 @@ Parágrafo único. A concessão da Autorização de Aquisição prevista no Conv
 
 Art. 369-D. O impressor autônomo deverá obedecer aos seguintes procedimentos:
 
-<!-- p. 442 -->
-426
-
-426
 
 I - emitir a 1ª e a 2ª via dos documentos fiscais de que trata esta Seção utilizando o FS-IA, em ordem sequencial consecutiva de numeração, emitindo as demais vias em papel comum, vedado o uso de papel jornal;
 
@@ -16469,6 +16514,11 @@ b) número do documento fiscal;
 c) inscrição no CNPJ dos estabelecimentos emitente e destinatário;
 
 d) unidade da Federação dos estabelecimentos emitente e destinatário;
+
+<!-- p. 444 -->
+428
+
+428
 
 e) data da operação ou prestação;
 
@@ -16500,18 +16550,17 @@ Art. 371. Para efeito do exame referido no artigo anterior, o fabricante ou impo
 
 I - remeter à COTEPE/ICMS o pedido de aprovação do equipamento;
 
-<!-- p. 443 -->
-427
-
-427
-
-
 II - encaminhar a cada Estado membro do subgrupo indicado pela Secretaria Executiva da COTEPE/ICMS e ao Estado do Rio Grande do Sul um exemplar do equipamento a ser examinado, acompanhado dos respectivos manuais, bem como de outros elementos necessários à sua homologação.
 
 
 § 1° Tratando-se de equipamento importado do exterior do País, os manuais de orientação e toda a documentação que lhes subsidiarem deverão ser acompanhados com a respectiva tradução para a língua portuguesa.
 
 § 2° A Secretaria Executiva da COTEPE/ICMS cientificará as unidades federadas dos pedidos de aprovação dos equipamentos.
+
+<!-- p. 445 -->
+429
+
+429
 
 § 3° Em substituição ao disposto no inciso II, poderá a COTEPE/ICMS por solicitação do fabricante ou importador, determinar que a análise do equipamento seja efetuada em conjunto pelos representantes das unidades da Federação. (Convênio ICMS 55/95)
 
@@ -16534,20 +16583,18 @@ DO SISTEMA DE REGISTRO E CONTROLE DAS OPERAÇÕES
 COM O PAPEL IMUNE NACIONAL - RECOPI NACIONAL
 
 Seção I Das Disposições Preliminares
-Art. 373-A. Os estabelecimentos que realizem operações sujeitas a não incidência do ICMS com o papel destinado à impressão de livro, jornal ou periódico deverão se credenciar na
-
-<!-- p. 444 -->
-428
-
-428
-
-Secretaria de Estado da Fazenda - SEFAZ e no Sistema de Registro e Controle das Operações com Papel Imune Nacional - RECOPI NACIONAL.
+Art. 373-A. Os estabelecimentos que realizem operações sujeitas a não incidência do ICMS com o papel destinado à impressão de livro, jornal ou periódico deverão se credenciar na Secretaria de Estado da Fazenda - SEFAZ e no Sistema de Registro e Controle das Operações com Papel Imune Nacional - RECOPI NACIONAL.
 
 
 § 1o O contribuinte, após credenciado, deve indicar na nota fiscal, no campo "Informações Complementares", o número de registro de controle da operação, que será gerado por cada operação realizada.
 
 
 § 2o Compete à SEFAZ, a qualquer tempo, suspender os efeitos do registro de controle da operação, caso verifique irregularidade das operações realizadas pelo contribuinte, que, tendo adquirido papel beneficiado com a não incidência, dê outra destinação, caracterizando desvio de finalidade.
+
+<!-- p. 446 -->
+430
+
+430
 
 § 3o O credenciamento do contribuinte no RECOPI NACIONAL deverá ser feito quando da obtenção de sua inscrição no CAD/ICMS.
 
@@ -16572,11 +16619,6 @@ II - usuário: empresa jornalística ou editora que explore a indústria de livr
 
 III - importador (IP);
 
-<!-- p. 445 -->
-429
-
-429
-
 IV - distribuidor (DP);
 
 V - gráfica: impressor de livro, jornal ou periódico, que recebe papel de terceiros ou o adquire com não incidência do imposto (GP);
@@ -16586,6 +16628,11 @@ VI - convertedor: indústria que converte o formato de apresentação do papel d
 
 
 VII - armazém geral ou depósito fechado (AP).
+
+<!-- p. 447 -->
+431
+
+431
 
 § 2o Para efetuar o credenciamento, o contribuinte deverá informar os dados solicitados quando do acesso ao Sistema RECOPI NACIONAL, devendo instruir o pedido de credenciamento com os documentos abaixo listados e apresentá-lo via SEFAZNet:
 
@@ -16606,16 +16653,16 @@ VI - demonstrativo das quantidades, em quilogramas, por tipo de papel, de acordo
 
 VII - quantidade, em quilogramas, por tipo de papel, de acordo com o tipo descrito em Ato COTEPE/ICMS 21/13, que cada estabelecimento a ser credenciado pretende receber, importar, remeter ou utilizar para impressão de livro, jornal ou periódico, mensalmente;
 
-<!-- p. 446 -->
-430
-
-430
-
 
 VIII - na hipótese de ter sido eleito estabelecimento diverso da matriz para definir o local de apresentação do pedido de credenciamento, demonstrativo da preponderância desse estabelecimento em relação aos demais, de acordo com as operações indicadas nos incisos V e VI deste parágrafo.
 
 
 § 3o A SEFAZ poderá exigir outros documentos relacionados ao registro ou atividade da empresa para aferir a veracidade e a consistência das informações prestadas, podendo, ainda, para tais fins, determinar a execução de diligência ou procedimento fiscal.
+
+<!-- p. 448 -->
+432
+
+432
 
 § 4o Diante da constatação do regular andamento do pedido apresentado nos termos deste artigo e da observância dos requisitos previstos neste Capítulo, poderá ser conferido provisoriamente ao interessado o credenciamento no Sistema RECOPI NACIONAL.
 
@@ -16644,17 +16691,16 @@ Art.373-E. Deferido o pedido, será atribuído ao contribuinte um número de cre
 
 
 Subseção II Do Registro das Operações e do Número de Registro de Controle
-
-<!-- p. 447 -->
-431
-
-431
-
 Art.373-F. O contribuinte credenciado no Sistema RECOPI NACIONAL é obrigado a registrar previamente cada operação com papel destinado à impressão de livro, jornal ou periódico, obtendo número de registro de controle da operação.
 
 Parágrafo único. O registro das operações determinado pelo caput caberá:
 
 I - ao estabelecimento remetente, nas operações realizadas entre contribuintes estabelecidos em unidades federadas signatárias do Convênio ICMS 48, de 12 de junho de 2013, desde que previamente credenciados;
+
+<!-- p. 449 -->
+433
+
+433
 
 II - ao estabelecimento importador, na importação realizada por contribuinte estabelecido em unidade federada alcançada pelo Convênio ICMS 48/13, devidamente credenciado;
 
@@ -16678,16 +16724,15 @@ II - à convalidação pela autoridade responsável competente que deferiu o cre
 
 
 Subseção III Da Emissão do Documento Fiscal
-
-<!-- p. 448 -->
-432
-
-432
-
 Art.373-H. No documento fiscal correspondente à operação com papel destinado à impressão de livro, jornal ou periódico, realizada nos termos deste Capítulo, somente poderão constar as mercadorias e correspondentes quantidades para as quais foi concedido o número de registro de controle da operação através do Sistema RECOPI NACIONAL.
 
 
 Art.373-I. O número de registro de controle concedido através do Sistema RECOPI NACIONAL deverá ser indicado no campo "Informações Complementares" da Nota Fiscal Eletrônica, NF-e, modelo 55, com a expressão "Não incidência do ICMS - Registro de Controle da Operação no Sistema RECOPI NACIONAL Nº...".
+
+<!-- p. 450 -->
+434
+
+434
 
 
 Subseção IV Da Transmissão do Registro da Operação
@@ -16712,14 +16757,7 @@ I - na importação, da data para a qual foi obtido o número de registro de con
 
 II - na remessa fracionada nos termos do Art.373-R, da data de cada remessa parcial.
 
-§ 2o No recebimento de mercadoria decorrente de operação interestadual realizada com contribuinte estabelecido em unidade federada não alcançada pelo Convênio ICMS 48/13,
-
-<!-- p. 449 -->
-433
-
-433
-
-nos termos previstos no inciso IV do art.373-F deste Capitulo, a confirmação de recebimento da mercadoria será dada pelo Sistema RECOPI NACIONAL de forma automática.
+§ 2o No recebimento de mercadoria decorrente de operação interestadual realizada com contribuinte estabelecido em unidade federada não alcançada pelo Convênio ICMS 48/13, nos termos previstos no inciso IV do art.373-F deste Capitulo, a confirmação de recebimento da mercadoria será dada pelo Sistema RECOPI NACIONAL de forma automática.
 
 
 § 3o A fim de evitar a hipótese de suspensão para novos registros, o contribuinte remetente poderá comprovar a operação à SEFAZ.
@@ -16729,6 +16767,11 @@ nos termos previstos no inciso IV do art.373-F deste Capitulo, a confirmação d
 
 
 Art.373-L. A reativação para novos registros somente se dará quando:
+
+<!-- p. 451 -->
+435
+
+435
 
 I - da confirmação da operação pelo seu destinatário no Sistema RECOPI NACIONAL, nos termos do caput do art.373-K;
 
@@ -16751,11 +16794,6 @@ IV - às eventuais conversões no formato de apresentação do papel, desde que 
 
 V - aos resíduos, perdas no processo de industrialização ou outros eventos previstos no Sistema RECOPI NACIONAL;
 
-<!-- p. 450 -->
-434
-
-434
-
 VI - aos papéis anteriormente recebidos com incidência do ICMS e que foram posteriormente utilizados na impressão de livro, jornal ou periódico.
 
 
@@ -16764,6 +16802,11 @@ VI - aos papéis anteriormente recebidos com incidência do ICMS e que foram pos
 
 § 2o As quantidades totais referidas no inciso III do caput deste artigo deverão ser registradas, com a indicação da tiragem, em relação aos:
 
+<!-- p. 452 -->
+436
+
+436
+
 
 I - livros, identificados de acordo com o Número Internacional Padronizado (ISBN);
 
@@ -16771,10 +16814,10 @@ II - jornais ou periódicos, hipótese em que será informado o correspondente N
 
 § 3o O estabelecimento com atividade exclusiva de fabricante de papel (FP) estará dispensado da prestação das informações previstas neste artigo.
 
-<!-- p. 451 -->
-435
+<!-- p. 453 -->
+437
 
-435
+437
 
 § 4 Identificada omissão na declaração de dados do estoque de qualquer referência, o contribuinte será notificado a regularizar sua situação em um prazo máximo de 60 (sessenta) dias para entregar as declarações omissas, sob pena de suspensão temporária do credenciamento da empresa no Sistema RECOPI NACIONAL, até que seja cumprida a referida obrigação.
 
@@ -16806,10 +16849,10 @@ Art.373-O. Nos procedimentos em que o contribuinte necessite acessar o Sistema R
 
 Seção III
 
-<!-- p. 452 -->
-436
+<!-- p. 454 -->
+438
 
-436
+438
 
 Das Disposições Aplicáveis a Determinadas Operações
 
@@ -16845,10 +16888,10 @@ d) quantidades totais devolvidas, por tipo de papel.
 
 § 3o Tratando-se de operação de devolução do papel de contribuinte estabelecido em unidade federada não alcançada pelo Convênio ICMS 48/13, ainda que parcial, o contribuinte que o receber deverá registrar a operação no Sistema RECOPI NACIONAL, mediante a indicação de "Recebimento de Devolução", com as seguintes informações:
 
-<!-- p. 453 -->
-437
+<!-- p. 455 -->
+439
 
-437
+439
 
 I - número de registro de controle da operação de remessa original;
 
@@ -16885,10 +16928,10 @@ IV - número e data do documento fiscal de retorno emitido pelo contribuinte, em
 
 § 8o Nas hipóteses listadas no § 7o deste artigo, a falta de confirmação da operação implica na suspensão de novos registros de controle para ambos os contribuintes relacionados nas respectivas operações.
 
-<!-- p. 454 -->
-438
+<!-- p. 456 -->
+440
 
-438
+440
 
 
 Subseção II Da Remessa por Conta e Ordem de Terceiro
@@ -16926,10 +16969,10 @@ I - número de registro de controle da operação gerado para a totalidade da im
 
 II - número e data do documento fiscal emitido para a totalidade da importação;
 
-<!-- p. 455 -->
-439
+<!-- p. 457 -->
+441
 
-439
+441
 
 III - número e data de cada documento fiscal emitido para acompanhar o transporte fracionado;
 
@@ -16962,10 +17005,10 @@ c) de resíduos ou perdas do processo de industrialização.
 
 § 5o Caso o estabelecimento industrializador utilize papel de sua propriedade, relacionado no Ato COTEPE/ICMS 21/13, no processo de industrialização por conta de terceiro, deverá observar as disposições do art. 373-F ao art.373-I, no que couber.
 
-<!-- p. 456 -->
-440
+<!-- p. 458 -->
+442
 
-440
+442
 
 § 6o Na operação interestadual de industrialização por conta de terceiro, aplicar-seão, no que couber, as disposições dos incisos III e IV do parágrafo único do art.373-F, sem prejuízo das disposições deste artigo.
 
@@ -16996,10 +17039,10 @@ b) efetivamente remetidas ao estabelecimento de origem.
 
 Art.373-U. A partir da data de produção de efeitos deste Capítulo, relativamente ao papel destinado à impressão de livro, jornal ou periódico que estiver em armazém geral ou
 
-<!-- p. 457 -->
-441
+<!-- p. 459 -->
+443
 
-441
+443
 
 depósito fechado ou em poder de terceiro para industrialização, deverá ser obtido o número de registro de controle no Sistema RECOPI NACIONAL.
 
@@ -17033,10 +17076,10 @@ IV – contribuinte cuja espécie, modalidade ou volume de negócios ou atividad
 
 § 2° O cálculo do imposto por estimativa levará em conta os elementos informativos levantados pelo Fisco e os fornecidos pelo contribuinte, e consistirá na previsão da média mensal do tributo devido pelo período estabelecido.
 
-<!-- p. 458 -->
-442
+<!-- p. 460 -->
+444
 
-442
+444
 
 § 3° Na elaboração do lançamento por estimativa, serão considerados os diversos tipos de operações praticadas pelo estabelecimento enquadrado.
 
@@ -17071,10 +17114,10 @@ CAPÍTULO II DA ANTECIPAÇÃO PARCIAL INTERESTADUAL
 
 Art. 378. Fica estabelecida a exigência antecipada do ICMS, no percentual correspondente à diferença entre a alíquota interestadual, aplicada na unidade Federada de
 
-<!-- p. 459 -->
-443
+<!-- p. 461 -->
+445
 
-443
+445
 
 origem e a interna deste Estado, quando da entrada em estabelecimento comercial inscrito nos Códigos de Atividade Econômica 7.00.00 (comércio atacadista) e 8.00.00 (comércio varejista), de mercadorias oriundas de outras unidades da Federação e destinadas à comercialização.
 
@@ -17112,10 +17155,10 @@ Art. 379. A base de cálculo para cobrança da antecipação parcial interestadu
 
 § 2° Para os fins do disposto no parágrafo anterior aplica-se, no que couber, o disposto na seção referente à base de cálculo arbitrada deste Regulamento.
 
-<!-- p. 460 -->
-444
+<!-- p. 462 -->
+446
 
-444
+446
 
 Art. 380. O pagamento do ICMS, resultante da aplicação do percentual encontrado no art. 378 sobre a base de cálculo de que trata o artigo anterior, far-se-á quando da passagem no primeiro órgão fazendário de entrada neste Estado.
 
@@ -17152,10 +17195,10 @@ IV ~~- até 31 de dezembro de 2014, nas aquisições de mercadorias utilizadas n
 
 ~~( NR - Resolução Administrativa 15/18)~~
 
-<!-- p. 461 -->
-445
+<!-- p. 463 -->
+447
 
-445
+447
 
 ~~IV - até 31 de março de 2022, nas aquisições de mercadorias utilizadas no preparo de refeições promovidas por bares, restaurantes e estabelecimentos similares, e por empresa preparadora de refeições coletivas, beneficiadas com redução de base de cálculo prevista no inciso XIII do Anexo 1.4 deste Regulamento.~~
 
@@ -17187,10 +17230,10 @@ DE ABASTECIMENTO - CONAB
 
 ~~§ 5° Será concedida inscrição distinta à CONAB, para acobertar as operações previstas no § 3º deste artigo.~~
 
-<!-- p. 462 -->
-446
+<!-- p. 464 -->
+448
 
-446
+448
 
 ~~§ 6° O disposto no “caput” deste artigo estende-se às operações de compra e venda de produtos agrícolas, promovidas pelo Governo Federal, por intermédio da CONAB, resultantes de Empréstimos do Governo Federal com Opção de Venda (EGF-COV) bem como a atos decorrentes da securitização prevista na Lei Federal nº 9.138, de 29 de novembro de 1995.~~
 
@@ -17221,10 +17264,10 @@ Art. 384. A CONAB manterá inscrição única no Cadastro de Contribuintes para 
 
 ~~I - os estabelecimentos da CONAB/PGPM preencherão mensalmente o documento denominado Demonstrativo de Estoques - DES, modelo anexo, por estabelecimento, registrando em seu verso, ou em separado, hipótese esta em que passará a integrar o demonstrativo, segundo a natureza da operação, o somatório das entradas e das saídas a título de valores contábeis, os~~
 
-<!-- p. 463 -->
-447
+<!-- p. 465 -->
+449
 
-447
+449
 
 ~~códigos fiscais da operação ou prestação, a base de cálculo, o valor do ICMS, as operações e prestações isentas e outras, a ele anexando via dos documentos relativos às entradas e, relativamente às saídas, a 2ª via das notas fiscais correspondentes, remetendo ao estabelecimento centralizador. (Conv. ICMS 56/06)~~
 
@@ -17263,10 +17306,10 @@ Art. 386. Fica dispensada a emissão de nota fiscal de produtor nas saídas dest
 
 ~~Art. 387. A CONAB manterá, em meio digital, para apresentação ao fisco quando solicitados, os dados do Demonstrativo de Estoque – DES citado no parágrafo único do art. 386, com posição do último dia de cada mês. (Conv. ICMS 56/06) Parágrafo único. O Fisco poderá:~~
 
-<!-- p. 464 -->
-448
+<!-- p. 466 -->
+450
 
-448
+450
 
 ~~I - exigir anualmente resumo consolidado, do País, dos Demonstrativos de Estoque, totalizado por unidade da Federação;~~
 
@@ -17306,10 +17349,10 @@ Parágrafo único. Nos casos de retorno simbólico de mercadoria depositada, fic
 
 ~~§ 2° Fica a CONAB, relativamente às operações previstas neste capítulo, autorizada a emitir os documentos fiscais, bem como a efetuar a sua escrituração, pelo sistema eletrônico de~~
 
-<!-- p. 465 -->
-449
+<!-- p. 467 -->
+451
 
-449
+451
 
 ~~processamento de dados, devendo comunicar esta opção à repartição fiscal a que estiver vinculado o estabelecimento. (Convênio ICMS 87/96)~~
 
@@ -17347,10 +17390,10 @@ Art. 390. Nas saídas internas promovidas por produtor agropecuário com destino
 
 (NR RA nº 12/2016)
 
-<!-- p. 466 -->
-450
+<!-- p. 468 -->
+452
 
-450
+452
 
 
 § 1º O imposto será calculado sobre o preço pago ao produtor.
@@ -17388,10 +17431,10 @@ Art. 390. Nas saídas internas promovidas por produtor agropecuário com destino
 
 (Revogado pela RA nº 12/2016)
 
-<!-- p. 467 -->
-451
+<!-- p. 469 -->
+453
 
-451
+453
 
 ~~Art. 393. Nas transferências interestaduais a base de cálculo é o preço mínimo da mercadoria fixado pelo Governo Federal vigente na data da ocorrência do fato gerador, acrescido dos valores do frete e do seguro e demais despesas acessórias.~~
 
@@ -17424,10 +17467,10 @@ BENS OU MERCADORIAS ESTRANGEIRAS NO PAÍS.
 
 ~~Art. 395. Na entrada no país, de bens ou mercadorias importados do exterior, por pessoa física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade, quando o desembaraço aduaneiro se verificar em território de outra unidade da~~
 
-<!-- p. 468 -->
-452
+<!-- p. 470 -->
+454
 
-452
+454
 
 ~~Federação, o recolhimento do ICMS será feito em Guia Nacional de Recolhimento de Tributos Estaduais – GNRE, com indicação deste Estado.~~
 
@@ -17461,10 +17504,10 @@ II - o depositário do recinto alfandegado do local onde ocorrer o desembaraço 
 
 § 2º A GLME será preenchida pelo contribuinte em 3 (três) vias, que, após serem visadas, terão a seguinte destinação:
 
-<!-- p. 469 -->
-453
+<!-- p. 471 -->
+455
 
-453
+455
 
 
 I – 1a via: importador, devendo acompanhar o bem ou mercadoria no seu transporte;
@@ -17504,10 +17547,10 @@ IV – unidade federada do destino da mercadoria ou bem.
 
 ~~(NR RA 22/13)~~
 
-<!-- p. 470 -->
-454
+<!-- p. 472 -->
+456
 
-454
+456
 
 Art. 397. A RFB exigirá, antes da entrega da mercadoria ou bem ao importador, a exibição do comprovante de pagamento do ICMS ou da GLME, de acordo com o art. 12, §§2º e 3º da Lei Complementar 87, de 13 de setembro de 1996, exceto se o pagamento ou a solicitação de exoneração for feito por meio do módulo “Pagamento Centralizado”, do Portal Único de Comércio Exterior.
 
@@ -17531,10 +17574,10 @@ Parágrafo único. Em qualquer hipótese de recolhimento ou exoneração do ICMS
 
 ~~(AC Dec. 22.518/06)~~
 
-<!-- p. 471 -->
-455
+<!-- p. 473 -->
+457
 
-455
+457
 
 ~~§ 2º Em qualquer das hipóteses, recolhimento, isenção ou não incidência, uma das vias dos documentos a que se refere o parágrafo anterior e o parágrafo segundo do art. 395 deverá acompanhar a mercadoria em seu trânsito.~~
 
@@ -17577,10 +17620,10 @@ Art. 399. A GLME também será exigida na hipótese de admissão em regime aduan
 
 Parágrafo único. O ICMS, na hipótese do caput, quando devido, será recolhido por ocasião do despacho aduaneiro de nacionalização da mercadoria ou bem importados ou nas
 
-<!-- p. 472 -->
-456
+<!-- p. 474 -->
+458
 
-456
+458
 
 hipóteses de extinção do regime aduaneiro especial previstas na legislação federal, nos termos da legislação estadual.
 
@@ -17612,10 +17655,10 @@ Art. 399-D. Para efeito de cumprimento das obrigações tributárias relativas a
 
 (AC RA 07/12)
 
-<!-- p. 473 -->
-457
+<!-- p. 475 -->
+459
 
-457
+459
 
 
 Art. 399-E. A entrega de mercadoria ou bem importados do exterior pelo depositário estabelecido em recinto alfandegado, somente poderá ser efetuada mediante prévia apresentação do comprovante de recolhimento do ICMS, ou do comprovante de exoneração do imposto, se for o caso, e dos outros documentos exigidos pela legislação estadual de localização do importador, conforme estabelecido no Anexo 30 deste Regulamento que trata dos procedimentos a serem adotados pelo depositário estabelecido em recinto alfandegado. (Conv. 143/02)
@@ -17647,10 +17690,10 @@ b) ~~imposto sobre produtos industrializados;~~
 
 ~~§ 3º Na determinação da base de cálculo prevista no item 1 do § 1º:~~
 
-<!-- p. 474 -->
-458
+<!-- p. 476 -->
+460
 
-458
+460
 
 1 ~~- desconsidera-se qualquer desoneração ou postergação do lançamento do imposto, caso aplicável;~~
 
@@ -17689,10 +17732,10 @@ b) ~~imposto sobre produtos industrializados;~~
 
 ~~§ 1º A FCI deverá ser entregue previamente à operação interestadual feita pelo contribuinte com o produto submetido a processo de industrialização e que contenha insumos importados.~~
 
-<!-- p. 475 -->
-459
+<!-- p. 477 -->
+461
 
-459
+461
 
 ~~§ 2º Deverá ser entregue nova FCI para o mesmo produto toda vez que houver alteração em percentual superior a 5% (cinco por cento) no Conteúdo de Importação ou que implique alteração da alíquota interestadual aplicável à operação.~~
 
@@ -17723,10 +17766,10 @@ b) ~~imposto sobre produtos industrializados;~~
 ~~399-J. Deverá ser informado em campo próprio da Nota Fiscal Eletrônica - NF-e:~~
 ~~I - no caso de bens ou mercadorias importados que tenham sido submetidos a processo de industrialização no estabelecimento do emitente, o valor da parcela importada do~~
 
-<!-- p. 476 -->
-460
+<!-- p. 478 -->
+462
 
-460
+462
 
 ~~exterior por unidade, o número de controle da FCI e o Conteúdo de Importação expresso percentualmente;~~
 
@@ -17763,10 +17806,10 @@ b) ~~imposto sobre produtos industrializados;~~
 
 ~~Art. 399-M. As disposições contidas neste Capítulo e nos Ajustes SINIEF que tratam sobre a matéria, aplicam-se a quaisquer saídas interestaduais de bens e mercadorias importados,~~
 
-<!-- p. 477 -->
-461
+<!-- p. 479 -->
+463
 
-461
+463
 
 ~~ou que possuam Conteúdo de Importação, que se encontrarem em estoque no estabelecimento do contribuinte em 31 de dezembro de 2012.~~
 
@@ -17805,10 +17848,10 @@ I - valor da parcela importada do exterior, quando os bens ou mercadorias forem:
 
 a) importados diretamente pelo industrializador, o valor aduaneiro, assim entendido como a soma do valor “free on board” (FOB) do bem ou mercadoria importada e os valores do frete e seguro internacional;
 
-<!-- p. 478 -->
-462
+<!-- p. 480 -->
+464
 
-462
+464
 
 
 b) adquiridos no mercado nacional:
@@ -17849,10 +17892,10 @@ V - unidade de medida;
 VI - valor da parcela importada do exterior;
 VII - valor total da saída interestadual;
 
-<!-- p. 479 -->
-463
+<!-- p. 481 -->
+465
 
-463
+465
 
 VIII - conteúdo de importação calculado nos termos do art. 399-O.
 § 1º Com base nas informações descritas nos incisos I a VIII do caput, a FCI deverá ser preenchida e entregue, nos termos do art. 399-Q:
@@ -17886,10 +17929,10 @@ II - utilizando-se o valor unitário, que será calculado pela média aritmétic
 
 § 2º Uma vez recepcionado o arquivo digital pela administração tributária, será automaticamente expedido recibo de entrega e número de controle da FCI, o qual deverá ser indicado pelo contribuinte nos documentos fiscais de saída que realizar com o bem ou mercadoria descrito na respectiva declaração.
 
-<!-- p. 480 -->
-464
+<!-- p. 482 -->
+466
 
-464
+466
 
 
 § 3º A informação prestada pelo contribuinte será disponibilizada para as unidades federadas envolvidas na operação.
@@ -17924,10 +17967,10 @@ III - o arquivo digital de que trata o art.399-Q, quando for o caso.
 
 399-U. Enquanto não forem criados campos próprios na NF-e para preenchimento da informação de que trata o art.399-R, deverá ser informado no campo “Dados Adicionais do Produto” (TAG 325 –infAdProd), por bem ou mercadoria, o número da FCI do correspondente item da NF-e, com a expressão: “Resolução do Senado Federal nº 13/12, Número da FCI_______.” (CV ICMS 88/13)
 
-<!-- p. 481 -->
-465
+<!-- p. 483 -->
+467
 
-465
+467
 
 399-V.
 A SEFAZ/MA poderá autorizar a remissão dos créditos tributários constituídos ou não em virtude do descumprimento das obrigações acessórias relativas ao período em que vigorou o Ajuste SINIEF nº 19, de 7 de novembro de 2012.
@@ -17958,10 +18001,10 @@ Art. 402. O estabelecimento gráfico que promover a saída de impressos nos term
 
 ~~Art. 403. Ficam estabelecidos mecanismos para controle nas saídas de mercadorias com o fim específico de exportação, promovidas por contribuintes localizados neste Estado para empresa comercial exportadora, inclusive “trading” ou outro estabelecimento da mesma empresa, localizado em outro Estado (Convênio ICMS 113/96).~~
 
-<!-- p. 482 -->
-466
+<!-- p. 484 -->
+468
 
-466
+468
 
 ~~Parágrafo único. Para os efeitos deste artigo, entende-se como empresa comercial exportadora: (Conv. ICMS 61/03).~~
 
@@ -17993,10 +18036,10 @@ IV ~~- nome, endereço e números de inscrição, estadual e no CNPJ, do estabel
 
 V ~~- nome, endereço e números de inscrição, estadual e no CNPJ, do estabelecimento remetente da mercadoria;~~
 
-<!-- p. 483 -->
-467
+<!-- p. 485 -->
+469
 
-467
+469
 
 VI ~~- série, número e data da Nota Fiscal do estabelecimento remetente e do destinatário exportador da mercadoria;~~
 
@@ -18028,10 +18071,10 @@ XII ~~– identificação individualizada do Estado produtor/fabricante no Regis
 
 ~~Parágrafo único. Até o último dia do mês subsequente ao da contratação cambial, o estabelecimento que promover a exportação emitirá o "Memorando- Exportação", conservando os comprovantes da venda.~~
 
-<!-- p. 484 -->
-468
+<!-- p. 486 -->
+470
 
-468
+470
 
 
 ~~Art. 408. O estabelecimento remetente ficará obrigado ao recolhimento do imposto devido, monetariamente atualizado, sujeitando-se aos acréscimos legais, inclusive multa, nos casos em que não se efetivar a exportação:~~
@@ -18064,10 +18107,10 @@ III ~~- em virtude de reintrodução da mercadoria no mercado interno.~~
 
 I ~~- está respondendo a processo administrativo;~~
 
-<!-- p. 485 -->
-469
+<!-- p. 487 -->
+471
 
-469
+471
 
 II ~~- foi punido em decisão administrativa por infringência à legislação fiscal de âmbito estadual.~~
 
@@ -18108,10 +18151,10 @@ CAPÍTULO VI
 
 ~~DE EXPORTAÇÃO (Convênios ICMS 84/09 e 59/07)~~
 
-<!-- p. 486 -->
-470
+<!-- p. 488 -->
+472
 
-470
+472
 
 DAS OPERAÇÕES DE COMÉRCIO EXTERIOR
 
@@ -18147,10 +18190,10 @@ III - no campo documentos fiscais referenciados, a chave de acesso da NF-e relat
 
 Art. 406. O estabelecimento remetente ficará obrigado ao recolhimento do imposto devido, inclusive o relativo à prestação de serviço de transporte quando for o caso,
 
-<!-- p. 487 -->
-471
+<!-- p. 489 -->
+473
 
-471
+473
 
 monetariamente atualizado, sujeitando-se aos acréscimos legais, inclusive multa, em qualquer dos seguintes casos em que não se efetivar a exportação:
 
@@ -18188,10 +18231,10 @@ II - a quantidade na unidade de medida tributável do item efetivamente exportad
 
 Parágrafo único. Para fins fiscais, nas operações de que trata o caput, considera-se não efetivada a exportação a falta de registro do evento de averbação na nota fiscal eletrônica de remessa com o fim específico, após o prazo de 180 (cento e oitenta) dias contados da data da saída, observando-se no que couber o disposto no art. 406.
 
-<!-- p. 488 -->
-472
+<!-- p. 490 -->
+474
 
-472
+474
 
 Art. 409. O estabelecimento remetente ficará exonerado do cumprimento da obrigação prevista no art. 406, se o pagamento do débito fiscal tiver sido efetuado pelo adquirente à unidade federada de origem da mercadoria.
 
@@ -18231,10 +18274,10 @@ II - no campo do CFOP: o código 7.949 (Outras saídas de mercadorias não espec
 
 III - no campo Informações Complementares:
 
-<!-- p. 489 -->
-473
+<!-- p. 491 -->
+475
 
-473
+475
 
 a) o número do Registro de Exportação (RE) do Siscomex (Sistema Integrado do Comércio Exterior), bem como o número, a série e a data da nota fiscal citada no § 1º;
 
@@ -18269,10 +18312,10 @@ c) no campo ‘Identificador do processo ou ato concessório- nProc’, o númer
 d) no campo ‘Indicador da origem do processo - indProc’, o código ‘4=Confaz’;
 e) no campo ‘Tipo do ato concessório - tpAto’, o código ‘14=Ajuste SINIEF’;
 
-<!-- p. 490 -->
-474
+<!-- p. 492 -->
+476
 
-474
+476
 
 f) no campo ‘Código Fiscal de Operações e Prestações - CFOP’, os códigos de venda relativos às operações de venda ao exterior, conforme o caso;
 
@@ -18305,10 +18348,10 @@ Art.412-C. A legislação pode estabelecer novas disposições para a fruição 
 
 CAPÍTULO VII
 
-<!-- p. 491 -->
-475
+<!-- p. 493 -->
+477
 
-475
+477
 
 DAS PRESTAÇÕES DE SERVIÇOS PÚBLICOS DE TELECOMUNICAÇÕES
 
@@ -18344,10 +18387,10 @@ Parágrafo único. A submissão ao regime especial obriga à elaboração e apre
 
 Art. 414. A empresa de telecomunicação, situada neste Estado, deverá manter:
 
-<!-- p. 492 -->
-476
+<!-- p. 494 -->
+478
 
-476
+478
 
 
 I - apenas um de seus estabelecimentos inscrito no Cadastro de Contribuintes do ICMS, dispensados dessa exigência os demais locais onde exercer sua atividade;
@@ -18381,10 +18424,10 @@ II - centralizada a escrituração fiscal e o recolhimento do ICMS correspondent
 (AC- RA 17/12)
 § 5º Poderão ser solicitados os livros, documentos e informações referenciados no “caput”, relativos aos fatos geradores que não tenham sido simultaneamente atingidos pelos prazos decadencial e prescricional.
 
-<!-- p. 493 -->
-477
+<!-- p. 495 -->
+479
 
-477
+479
 
 (AC – RA 17/24)
 § 6º Quando solicitadas, as empresas prestadoras de serviços de telecomunicações deverão disponibilizar livro razão auxiliar, em meio magnético ou eletrônico, contendo os registros das contas de ativo, passivo, resultado, custos, despesas e receitas auferidas, tributadas, isentas e não-tributadas, de todas as unidades da Federação onde atue, de forma discriminada e segregada por unidade federada, acompanhado dos respectivos documentos que comprovam os lançamentos nele efetuados, inclusive notas fiscais, faturas, escrituração fiscal e livro contábil diário e seus auxiliares.
@@ -18414,10 +18457,10 @@ Art. 415. O imposto devido por todos os estabelecimentos da empresa de telecomun
 
 ~~II - com base no relatório interno do que trata o inciso anterior deverá ser emitida Nota Fiscal de Serviço de Telecomunicações (NFST) ou Nota Fiscal de Serviço de Comunicação (NFSC), para documentar o registro do estorno do débito, cujos valores serão iguais aos constantes no referido relatório. (Conv. ICMS nº 22/08)~~
 
-<!-- p. 494 -->
-478
+<!-- p. 496 -->
+480
 
-478
+480
 
 ~~(NR Dec. 24.431/08)~~
 
@@ -18453,10 +18496,10 @@ I - CNPJ ou CPF, inscrição estadual, nome ou razão social e número do termin
 
 II - modelo, série, número, data de emissão, código de autenticação digital do documento, valor total, valor da base de cálculo do ICMS e valor do ICMS da nota fiscal objeto do estorno;
 
-<!-- p. 495 -->
-479
+<!-- p. 497 -->
+481
 
-479
+481
 
 III - número do item, código do item, descrição do item, valor total, valor da base de cálculo, valor do ICMS destacado na nota fiscal objeto do estorno;
 
@@ -18489,10 +18532,10 @@ Art. 415-A. Em substituição ao procedimento de estorno de débitos previsto no
 
 ~~Art. 416. A empresa de telecomunicação, relativamente aos estabelecimentos que não possuam inscrição própria, cumprirá todas as obrigações tributárias não excepcionadas, devendo, no tocante à declaração de dados informativos necessários à apuração dos índices de participação dos Municípios no produto da arrecadação do ICMS, observar o estabelecido na legislação de cada unidade federada.~~
 
-<!-- p. 496 -->
-480
+<!-- p. 498 -->
+482
 
-480
+482
 
 Art. 416. A empresa de telecomunicação, relativamente aos estabelecimentos que não possuam inscrição própria, cumprirá todas as obrigações tributárias não excepcionadas, devendo, no tocante à declaração de dados informativos necessários à apuração dos índices de participação dos Municípios no produto da arrecadação do ICMS, observar o estabelecido na legislação deste Estado.
 
@@ -18523,10 +18566,10 @@ II - os dados relativos ao faturamento de todas as unidades federadas de atuaç�
 
 ~~(§§ 4º e 5º - AC pelo Dec. 26.252/09)~~
 
-<!-- p. 497 -->
-481
+<!-- p. 499 -->
+483
 
-481
+483
 
 § 5º A empresa de telecomunicação, na hipótese do § 4º, deverá informar à repartição fiscal a que estiver vinculada, as séries e subséries das notas fiscais adotadas para cada tipo de prestação de serviço, antes do início da utilização, da alteração, da inclusão ou da exclusão da série ou da subsérie adotada.
 
@@ -18557,10 +18600,10 @@ I - à suspensão do Cadastro de Contribuintes nos termos do art. 66, §§ 1º, 
 
 II - à não concessão de credenciamento de natureza tributária.
 
-<!-- p. 498 -->
-482
+<!-- p. 500 -->
+484
 
-482
+484
 
 § 5º Fica permitida a substituição dos arquivos de que trata esse artigo:
 I - uma única vez, no decorrer do prazo de entrega regular;
@@ -18592,10 +18635,10 @@ I - a emitir, ao final do dia, documento interno que conterá, além dos demais 
 
 II - a manter impresso do documento interno de que trata o inciso anterior, para os fins ali previstos, em poder de preposto.
 
-<!-- p. 499 -->
-483
+<!-- p. 501 -->
+485
 
-483
+485
 
 § 1° Concedida a autorização prevista neste artigo, além das demais exigências, observar-se-á o que segue:
 
@@ -18626,10 +18669,10 @@ Art. 421. O Documento de Declaração de Tráfego e de Prestação de Serviços 
 
 ~~I - apresentação de demonstrativo de tráfego, contrato de cessão de meios de rede ou outro documento, contendo a natureza e o detalhamento dos serviços, endereços e características do local de instalação do meio;~~
 
-<!-- p. 500 -->
-484
+<!-- p. 502 -->
+486
 
-484
+486
 
 ~~II - declaração expressa do tomador do serviço confirmando o uso como meio de rede;~~
 
@@ -18669,10 +18712,10 @@ II ~~- ao menos uma das empresas envolvidas esteja relacionada em Ato Cotepe, po
 
 ~~(NR Dec. 21.609/05)~~
 
-<!-- p. 501 -->
-485
+<!-- p. 503 -->
+487
 
-485
+487
 
 II - ao menos uma das empresas envolvidas seja prestadora de Serviço Telefônico Fixo Comutado - STFC, Serviço Móvel Celular - SMC ou Serviço Móvel Pessoal - SMP, podendo a outra ser empresa prestadora de Serviço Móvel Especializado - SME ou Serviço de Comunicação Multimídia – SCM;
 
@@ -18709,10 +18752,10 @@ VI – as empresas envolvidas estejam em situação de regularidade fiscal e cad
 ~~(AC Dec. 21.609/05)~~
 ~~(NR Dec. 24.431/08)~~
 
-<!-- p. 502 -->
-486
+<!-- p. 504 -->
+488
 
-486
+488
 
 § 2º Na hipótese do inciso II, quando apenas uma das empresas prestar Serviço Telefônico Fixo Comutado - STFC, Serviço Móvel Celular - SMC ou Serviço Móvel Pessoal - SMP, a impressão do documento caberá a essa empresa.
 
@@ -18749,10 +18792,10 @@ IV - nome do responsável pela apresentação das informações, seu cargo, tele
 ~~(AC RA 32/12)~~
 (Revogado pela RA nº 17/15)
 
-<!-- p. 503 -->
-487
+<!-- p. 505 -->
+489
 
-487
+489
 
 §7º A transmissão do arquivo mencionado no § 4º deste artigo será na forma estabelecida no Anexo 8.3.1 do Regulamento do ICMS, aprovado pelo Decreto nº 19.714, de 10 de julho de 2003.
 
@@ -18787,10 +18830,10 @@ I - prestação de serviço a usuário final que seja isenta, não tributada ou 
 
 II - consumo próprio;
 
-<!-- p. 504 -->
-488
+<!-- p. 506 -->
+490
 
-488
+490
 
 III - qualquer saída ou evento que impossibilite o lançamento integral do imposto incidente sobre a aquisição dos meios de rede na forma prevista no caput da cláusula primeira.
 
@@ -18821,10 +18864,10 @@ II - utilizar os códigos de classificação de item específicos nos arquivos p
 
 Art. 423-D O regime especial previsto nesta Seção se aplica somente aos estabelecimentos da empresa inscritos nas unidades federadas indicadas no Anexo Único do Ato COTEPE 13/13, de 13 de março de 2013.
 
-<!-- p. 505 -->
-489
+<!-- p. 507 -->
+491
 
-489
+491
 
 Art. 423-E O disposto nesta Seção não se aplica nas prestações de serviços de telecomunicação cujo prestador ou tomador seja optante do Simples Nacional.
 
@@ -18846,10 +18889,10 @@ Parágrafo único. A inscrição individualizada no Cadastro de Contribuintes do
 
 Art. 423-I. O imposto devido por todos os estabelecimentos, nos termos do “caput” do art. 423-H, será apurado de forma centralizada e recolhido por meio de um só documento de
 
-<!-- p. 506 -->
-490
+<!-- p. 508 -->
+492
 
-490
+492
 
 arrecadação, ressalvadas as hipóteses em que é exigido o recolhimento do imposto de forma especial.
 
@@ -18873,10 +18916,10 @@ Art. 423-N. As Notas Fiscais Fatura de Serviços de Comunicação Eletrônica - 
 
 CAPÍTULO VIII DAS PRESTAÇÕES DE SERVIÇO DE TRANSPORTE FERROVIÁRIO
 
-<!-- p. 507 -->
-491
+<!-- p. 509 -->
+493
 
-491
+493
 
 Art. 424. Aos concessionários de serviço público de transporte ferroviário, relacionados em Ato COTEPE, denominados, no Ajuste SINIEF nº 11/07, de FERROVIAS, fica concedido regime especial de apuração e escrituração do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, na prestação de serviços de transporte ferroviário. (Ajuste SINIEF nº 11/07)
 
@@ -18913,10 +18956,10 @@ VI - o número e a data do Despacho;
 
 VII - procedência, destino, peso e importância, por despacho;
 
-<!-- p. 508 -->
-492
+<!-- p. 510 -->
+494
 
-492
+494
 
 VIII - total dos valores.
 
@@ -18963,10 +19006,10 @@ IV - 4ª via - estação emitente.
 
 I - denominação do documento;
 
-<!-- p. 509 -->
-493
+<!-- p. 511 -->
+495
 
-493
+495
 
 II - nome da ferrovia emitente;
 
@@ -19015,10 +19058,10 @@ XVII – o nome, o endereço e os números de inscrição estadual e no CNPJ do 
 
 Art. 426. As Ferrovias elaborarão, por estabelecimento centralizador, dentro dos 15 (quinze) dias subsequentes ao mês da emissão da Nota Fiscal de Serviço de Transporte, os seguintes demonstrativos:
 
-<!-- p. 510 -->
-494
+<!-- p. 512 -->
+496
 
-494
+496
 
 
 I – Revogado pelo Decreto nº 21.773/05. (Ajuste SINIEF nº 04/05)
@@ -19062,10 +19105,10 @@ Art. 427. O ICMS devido será recolhido pelas FERROVIAS até o 20º (vigésimo) 
 
 § 2° A atualização monetária do débito fiscal obedecerá às disposições específica da legislação. (Ajuste SINIEF 26/89)
 
-<!-- p. 511 -->
-495
+<!-- p. 513 -->
+497
 
-495
+497
 
 Art. 428. As Ferrovias encaminharão à Receita Estadual documento de informação anual consolidando os dados necessários ao cálculo do índice de participação dos Municípios na receita do ICMS.
 
@@ -19102,10 +19145,10 @@ IV - o nome do tomador dos serviços;
 V - o(s) número(s) da(s) guia(s) de transporte de valores;
 VI - o local de coleta (origem) e entrega (destino) de cada valor transportado;
 
-<!-- p. 512 -->
-496
+<!-- p. 514 -->
+498
 
-496
+498
 
 VII - o valor transportado em cada serviço;
 
@@ -19147,10 +19190,10 @@ X - o nome, o endereço e os números de inscrição na unidade federada e no CN
 
 § 3º Poderão ser acrescentados dados de acordo com as peculiaridades de cada prestador de serviço, desde que não prejudique a clareza do documento.
 
-<!-- p. 513 -->
-497
+<!-- p. 515 -->
+499
 
-497
+499
 
 § 4º A Guia de Transporte de Valores - GTV, cuja escrituração nos livros fiscais fica dispensada, será emitida antes da prestação do serviço, no mínimo, em 3 (três) vias, que terão a seguinte destinação: (Ajuste SINIEF 02/04)
 
@@ -19182,10 +19225,10 @@ Art. 437. As empresas de transporte de cargas a granel de combustíveis líquido
 
 Art. 438. O documento referido no artigo anterior conterá, no mínimo, as seguintes indicações:
 
-<!-- p. 514 -->
-498
+<!-- p. 516 -->
+500
 
-498
+500
 
 
 I - a denominação: "Autorização de Carregamento e Transporte";
@@ -19229,10 +19272,10 @@ Art. 439. A Autorização de Carregamento e Transporte será emitida antes do in
 
 I - a 1ª via acompanhará o transporte e retornará ao emitente para emissão do Conhecimento de Transporte Rodoviário de Cargas, devendo ser arquivada juntamente com a via fixa do Conhecimento;
 
-<!-- p. 515 -->
-499
+<!-- p. 517 -->
+501
 
-499
+501
 
 II - a 2ª via acompanhará o transporte, para fins de controle do Fisco do Estado de origem;
 
@@ -19273,10 +19316,10 @@ Cargas a Granel de Combustíveis
 
 Art. 443. Fica concedido, na forma do Convênio ICMS 05, de 03 de abril de 2009, à empresa PETRÓLEO BRASILEIRO S.A., doravante denominada simplesmente PETROBRAS,
 
-<!-- p. 516 -->
-500
+<!-- p. 518 -->
+502
 
-500
+502
 
 Regime Especial, para emissão de nota fiscal nas operações de transferência e destinadas a comercialização, inclusive aquelas sem destinatário certo, com petróleo e seus derivados, gás natural e seus derivados, biocombustíveis e seus derivados, e outros produtos comercializáveis a granel, no transporte efetuado através de navegação de cabotagem, fluvial ou lacustre.
 
@@ -19308,10 +19351,10 @@ Art. 446. No caso de emissão do Documento Auxiliar da Nota Fiscal Eletrônica (
 
 Art. 447. Os prazos para emissão de notas fiscais previstos nesta seção não afetam a data estabelecida na legislação para pagamento do imposto, devendo ser considerado para o período de apuração e recolhimento do ICMS o dia da efetiva saída, para unidade federada remetente e o da efetiva chegada, para unidade federada destinatária do produto.
 
-<!-- p. 517 -->
-501
+<!-- p. 519 -->
+503
 
-501
+503
 
 
 Art. 448. Para efeito do Regime Especial previsto nesta seção, observar-se-á ainda o que segue:
@@ -19346,10 +19389,10 @@ Art. 451. As instituições financeiras manterão arquivados em ordem cronológi
 
 Parágrafo único. O arquivo de que trata este artigo poderá ser mantido no estabelecimento sede ou outro indicado pela instituição financeira, que terá o prazo de 10 (dez) dias úteis, contados da data do recebimento da notificação no estabelecimento centralizador, para a sua apresentação.
 
-<!-- p. 518 -->
-502
+<!-- p. 520 -->
+504
 
-502
+504
 
 
 Art. 452. As instituições financeiras ficam dispensadas das demais obrigações acessórias, inclusive da apresentação de informações econômico- fiscais.
@@ -19383,10 +19426,10 @@ IV - os números dos documentos citados no "caput";
 
 V - o número de voo, atribuído pelo Departamento de Aviação Civil (DAC);
 
-<!-- p. 519 -->
-503
+<!-- p. 521 -->
+505
 
-503
+505
 
 VI - o código de classe ocupada ("F" - primeira; "S" executiva; "K" - econômica);
 
@@ -19422,10 +19465,10 @@ a) nome, número de inscrição estadual do estabelecimento centralizador em cad
 
 b) discriminação, por linha, de: o dia da prestação do serviço, o número do vôo, a
 
-<!-- p. 520 -->
-504
+<!-- p. 522 -->
+506
 
-504
+506
 
 especificação e o preço do serviço, a base de cálculo, a alíquota e o valor do ICMS devido;
 
@@ -19462,10 +19505,10 @@ Art. 459. Os Conhecimento Aéreos serão registrados, por agência, posto ou loj
 
 a) a denominação, "Relatório de Emissão de Conhecimento Aéreos";
 
-<!-- p. 521 -->
-505
+<!-- p. 523 -->
+507
 
-505
+507
 
 b) o nome do transportador e a identificação, ainda por meio de códigos, da loja, agência ou posto emitente;
 
@@ -19500,10 +19543,10 @@ PÚBLICO DE ENERGIA ELÉTRICA
 
 ~~Art. 462. As empresas concessionárias de serviço público de energia elétrica, nominadas no Anexo 78 SINIEF, doravante denominadas simplesmente concessionárias, gozam de regime especial para apuração e escrituração do ICMS, nos termos deste Capítulo (Ajuste SINIEF 28/89).~~
 
-<!-- p. 522 -->
-506
+<!-- p. 524 -->
+508
 
-506
+508
 
 Art. 462. As empresas concessionárias de serviço público de energia elétrica, nominadas no Anexo 7.0 deste Regulamento, doravante denominadas simplesmente concessionárias, gozam de regime especial para apuração e escrituração do ICMS, nos termos deste Capítulo e do Ajuste SINIEF 28/89.
 
@@ -19542,10 +19585,10 @@ Art. 467. O recolhimento do imposto será efetuado no prazo previsto no art. 69 
 
 Art. 467-A. A concessionária relacionada no Ato COTEPE referido na cláusula primeira do Ajuste SINIEF 28/89, deverá comunicar à Secretaria Executiva do CONFAZ as
 
-<!-- p. 523 -->
-507
+<!-- p. 525 -->
+509
 
-507
+509
 
 alterações ocorridas nos seus dados cadastrais em até 60 (sessenta) dias após a data da ocorrência, juntando os documentos comprobatórios dessas alterações.
 
@@ -19581,10 +19624,10 @@ IV - na saída para outra unidade da Federação.
 
 § 7° O animal com mais de 3 (três) anos de idade, cujo imposto ainda não tenha sido pago por não ter ocorrido nenhum dos momentos previstos nos incisos deste artigo, poderá circular acompanhado apenas do Certificado de Registro Definitivo ou Provisório, fornecido pelo “Stud
 
-<!-- p. 524 -->
-508
+<!-- p. 526 -->
+510
 
-508
+510
 
 Book” da raça, desde que o certificado contenha todos os dados que permitam a plena identificação do animal, permitida fotocópia autenticada por cartório, válida por 6 (seis) meses.
 
@@ -19612,10 +19655,10 @@ Art. 473. O recolhimento do ICMS devido na operação será efetuado pelo Banco 
 
 Parágrafo único. Na falta ou insuficiência do recolhimento do imposto, o valor pertinente será exigido do Banco do Brasil S.A., na qualidade de responsável solidário.
 
-<!-- p. 525 -->
-509
+<!-- p. 527 -->
+511
 
-509
+511
 
 Art. 474. Em substituição à Nota Fiscal do Produtor, o Banco do Brasil S.A. emitirá, relativamente às operações previstas no art.472, Nota Fiscal, conforme modelo do Anexo SINIEF 80, no mínimo, em 5 (cinco) vias, que terão a seguinte destinação:
 
@@ -19657,10 +19700,10 @@ III - mercadoria e sua quantidade;
 
 IV - valor da operação;
 
-<!-- p. 526 -->
-510
+<!-- p. 528 -->
+512
 
-510
+512
 
 
 V - valor do ICMS relativo à operação;
@@ -19697,10 +19740,10 @@ II - haja isenção do Imposto de Importação, na hipótese do inciso I;
 
 III - o adquirente da mercadoria seja empresa industrial;
 
-<!-- p. 527 -->
-511
+<!-- p. 529 -->
+513
 
-511
+513
 
 IV– as mercadorias destinem-se a integrar o ativo imobilizado da empresa industrial adquirente, para uso exclusivo na atividade produtiva realizada pelo estabelecimento importador. (Convênios ICMS 130/94 e 130/98)
 
@@ -19735,10 +19778,10 @@ II - nas entradas no estabelecimento destinatário, este pagará o diferencial d
 
 Art. 481. Para os efeitos do Art. 480, fica:
 
-<!-- p. 528 -->
-512
+<!-- p. 530 -->
+514
 
-512
+514
 
 I - concedido crédito presumido, se, do confronto entre os créditos e os débitos, resultar crédito inferior, no valor correspondente à diferença apurada;
 
@@ -19776,10 +19819,10 @@ II - terá eficácia conforme os prazos assinalados nos arts. 4º e 5º do Anexo
 
 CAPÍTULO XIX
 
-<!-- p. 529 -->
-513
+<!-- p. 531 -->
+515
 
-513
+515
 
 DAS OPERAÇÕES COM AUTOMÓVEIS DE PASSAGEIROS
 
@@ -19812,10 +19855,10 @@ II - o benefício correspondente seja transferido para o adquirente do veículo,
 
 III – as respectivas operações de saída sejam amparadas por isenção do Imposto sobre
 
-<!-- p. 530 -->
-514
+<!-- p. 532 -->
+516
 
-514
+516
 
 Produtos Industrializados – IPI, nos termos da legislação federal vigente. (Conv. ICMS 104/05)
 AC Dec. 21.611/05
@@ -19849,10 +19892,10 @@ Art. 488 - O benefício previsto neste Capítulo não alcança os acessórios op
 ~~I - transmissão do veículo em virtude do falecimento do beneficiário da isenção;~~
 ~~II - alienação fiduciária em garantia. (Art. 489 NR - RA 48/22)~~
 
-<!-- p. 531 -->
-515
+<!-- p. 533 -->
+517
 
-515
+517
 
 Art. 489. A transmissão do veículo adquirido com a isenção a pessoa que não satisfaça os requisitos e as condições estabelecidas no art. 486, sujeitará o transmitente ao pagamento do tributo dispensado, monetariamente corrigido.
 
@@ -19886,10 +19929,10 @@ Art. 492. Os revendedores autorizados, além do cumprimento das demais obrigaç�
 
 I - mencionar, na nota fiscal emitida para entrega do veículo ao adquirente, que a operação é beneficiada com isenção do ICMS, nos termos deste Capítulo, e que, nos primeiros dois anos, o veículo não poderá ser alienado sem autorização do Fisco; (Conv. ICMS 103/06) NR Dec 22.845/06
 
-<!-- p. 532 -->
-516
+<!-- p. 534 -->
+518
 
-516
+518
 
 II - encaminhar, mensalmente, à Célula de Gestão para Ação Fiscal da Receita Estadual, juntamente com a declaração referida no inciso I do art. 491, informações relativas a: (Conv. ICMS 143/05) NR Dec.21.940/06
 
@@ -19927,10 +19970,10 @@ IV - conservar à disposição da Gerência da Receita Estadual, pelo prazo de 0
 
 § 2º A obrigação aludida no inciso III poderá ser suprida por relação elaborada no prazo ali previsto e contendo os elementos indicados.
 
-<!-- p. 533 -->
-517
+<!-- p. 535 -->
+519
 
-517
+519
 
 § 3º Poderá o fisco arrecadar as relações referidas neste artigo e os elementos que lhe serviram de suporte, para as verificações que se fizerem necessárias.
 
@@ -19967,10 +20010,10 @@ Art. 496. Aplicam-se às disposições deste Capítulo às operações com veíc
 
 Art. 497. O benefício previsto neste Capítulo produzirá efeitos até 30 de abril de 2024. (Conv. ICMS 38/01, 115/02, 82/03, 92/06, 121/09, 01/10, 67/12 e 107/15, 49/17, 28/19, 22/20, 133/20, 28/21, 178/21)
 
-<!-- p. 534 -->
-518
+<!-- p. 536 -->
+520
 
-518
+520
 
 (NR – RA 46/21)
 
@@ -20004,10 +20047,10 @@ CAPÍTULO: XX
 
 ~~Art. 497-D. Nas vendas de mercadorias realizadas a bordo das aeronaves, as empresas ficam autorizadas a utilizar equipamentos eletrônicos portáteis (Personal Digital Assistant – PDA) acoplados a uma impressora térmica, observadas as disposições do Convênio ICMS no 57/95, para gerar a NF-e e imprimir:~~
 
-<!-- p. 535 -->
-519
+<!-- p. 537 -->
+521
 
-519
+521
 
 I ~~- documento denominado Documento Auxiliar de Venda, até 31 de dezembro de 2011;~~
 
@@ -20043,10 +20086,10 @@ I ~~- no encerramento de cada trecho voado, a NF-e simbólica de entrada relativ
 
 II ~~– no prazo máximo de 48 (quarenta e oito horas) contadas do encerramento do trecho voado, as NF-e correspondentes às vendas de mercadorias realizadas a bordo das aeronaves.~~
 
-<!-- p. 536 -->
-520
+<!-- p. 538 -->
+522
 
-520
+522
 
 ~~§ 1º Na hipótese prevista no inciso I do caput deste artigo a nota fiscal referenciará a nota fiscal de remessa e conterá a quantidade, a descrição e o valor dos produtos devolvidos.~~
 
@@ -20091,10 +20134,10 @@ I ~~– primeira via: para o doador;~~
 
 II ~~– segunda via: entidade ou município emitente.~~
 
-<!-- p. 537 -->
-521
+<!-- p. 539 -->
+523
 
-521
+523
 
 ~~Parágrafo único. A entidade assistencial deverá estar cadastrada junto ao Ministério Extraordinário de Segurança Alimentar e Combate à Fome – MESA.~~
 
@@ -20133,10 +20176,10 @@ Seção I
 
 (NR – Resolução Administrativa nº 74/22)
 
-<!-- p. 538 -->
-522
+<!-- p. 540 -->
+524
 
-522
+524
 
 Dos Mecanismos de Controle e Procedimentos nas Doações de Mercadorias e de Prestações de Serviço de Transportes Alcançadas pela Isenção do ICMS Prevista no Convênio ICMS 18/03. (Ajuste SINIEF 02/03)
 
@@ -20163,10 +20206,10 @@ Art. 497-K. O Ministério da Cidadania, por intermédio de seu sítio eletrônic
 
 Art. 497-L. Este Estado, os Ministérios da Cidadania e da Economia assistir-se-ão mutuamente, permitindo o acesso às informações do controle que dispuserem.
 
-<!-- p. 539 -->
-523
+<!-- p. 541 -->
+525
 
-523
+525
 
 Art. 497-M. Verificado, a qualquer tempo, que a mercadoria foi objeto de posterior comercialização, o imposto será exigido daquele que desvirtuou a finalidade do Programa de Segurança Alimentar e Nutricional com os acréscimos legais devidos desde a data da saída da mercadoria sem o pagamento do imposto e sem prejuízo das demais penalidades.
 
@@ -20195,10 +20238,10 @@ Parágrafo Único. Em substituição à Nota Fiscal indicada no inciso II do cap
 
 I – em substituição à discriminação das mercadorias, serão indicados os dados identificativos dos documentos fiscais relativos às aquisições das mercadorias, a que se refere o inciso I do caput deste artigo;
 
-<!-- p. 540 -->
-524
+<!-- p. 542 -->
+526
 
-524
+526
 
 II – a Nota Fiscal prevista neste parágrafo:
 
@@ -20227,10 +20270,10 @@ III - emitir nota fiscal de saída, utilizando Código Fiscal de Operações e P
 
 Art. 497-P. A exclusão de Prefeitura Municipal do Programa ensejará a baixa de ofício no Cadastro de Contribuintes do ICMS, ficando declarados inidôneos os documento fiscais, em seu poder, não utilizados.
 
-<!-- p. 541 -->
-525
+<!-- p. 543 -->
+527
 
-525
+527
 
 Art. 497-Q. Se a mercadoria adquirida sob o amparo desta Seção, tiver destinação diversa da prevista no Programa, a Prefeitura Municipal responsável arcará com o ônus do ICMS incidente sobre a operação, sem prejuízo de imposição das demais penalidades.
 
@@ -20260,10 +20303,10 @@ I - ao industrial, comerciante ou outra categoria de contribuinte, pelo pagament
 
 II - ao produtor, extrator, gerador, inclusive de energia, importador, industrial, distribuidor, comerciante ou transportador, pelo pagamento do imposto devido nas operações subsequentes;
 
-<!-- p. 542 -->
-526
+<!-- p. 544 -->
+528
 
-526
+528
 
 III - ao depositário, a qualquer título, em relação a mercadoria depositada por contribuinte;
 
@@ -20293,10 +20336,10 @@ III - no caso de contribuinte que utilize o sistema eletrônico de processamento
 
 Parágrafo único. Os valores constantes nas colunas relativas ao imposto retido e à sua base de cálculo serão totalizados no último dia do período de apuração para lançamento no livro Registro de Apuração do ICMS, separadamente, a saber:
 
-<!-- p. 543 -->
-527
+<!-- p. 545 -->
+529
 
-527
+529
 
 I - operações internas;
 II - operações interestaduais.
@@ -20330,10 +20373,10 @@ Art. 503. Os valores referidos no artigo anterior serão declarados ao Fisco, se
 
 I - relativamente às operações internas;
 
-<!-- p. 544 -->
-528
+<!-- p. 546 -->
+530
 
-528
+530
 
 II - relativamente às operações interestaduais, por arquivo magnético a que se refere o art.523.
 
@@ -20366,10 +20409,10 @@ Parágrafo único. O disposto neste artigo também se aplica em relação à mer
 
 Art. 507. O contribuinte substituído, na operação que realizar, relativamente à mercadoria recebida com imposto retido, emitirá documento fiscal sem destaque do imposto,
 
-<!-- p. 545 -->
-529
+<!-- p. 547 -->
+531
 
-529
+531
 
 contendo, além dos demais requisitos, a declaração: “Imposto retido por substituição - Convênio ou Protocolo ICMS ____/__ ”. (Ajuste SINIEF 01/04)
 
@@ -20403,10 +20446,10 @@ Seção IV Da Base de Cálculo da Substituição Tributária
 
 Art. 510. A base de cálculo, para fins de substituição tributária, será:
 
-<!-- p. 546 -->
-530
+<!-- p. 548 -->
+532
 
-530
+532
 
 
 I - em relação às operações ou prestações antecedentes ou concomitantes, o valor da operação ou prestação praticado pelo contribuinte substituído;
@@ -20440,10 +20483,10 @@ III - ocorrer qualquer saída ou evento que impossibilite a ocorrência do fato 
 
 § 5º O imposto a ser pago por substituição tributária, na hipótese do inciso II do caput, corresponderá à diferença entre o valor resultante da aplicação da alíquota prevista para as operações ou prestações internas deste Estado sobre a respectiva base de cálculo e o valor do imposto devido pela operação ou prestação própria do substituto.
 
-<!-- p. 547 -->
-531
+<!-- p. 549 -->
+533
 
-531
+533
 
 ~~§ 6º O valor inicial para o cálculo mencionado no inciso II do caput é o preço praticado pelo distribuidor ou atacadista nas hipóteses:~~
 
@@ -20475,10 +20518,10 @@ Parágrafo único. Para efeitos do disposto neste artigo, na hipótese em que o 
 
 Art. 511. A base de cálculo do imposto devido por empresa distribuidora de energia elétrica, responsável pelo pagamento do imposto relativamente às operações anteriores e
 
-<!-- p. 548 -->
-532
+<!-- p. 550 -->
+534
 
-532
+534
 
 posteriores, na qualidade de contribuinte substituto, é o valor da operação da qual decorra o fornecimento do produto a consumidor.
 
@@ -20513,10 +20556,10 @@ Art. 511-B. O Preço Médio Ponderado a Consumidor Final (PMPF) será fixado com
 
 (AC RA 27/20)
 
-<!-- p. 549 -->
-533
+<!-- p. 551 -->
+535
 
-533
+535
 
 Parágrafo único. O levantamento previsto no caput deste artigo será promovido pela administração tributária, assegurada a participação das entidades de classe representativas dos diferentes segmentos econômicos, observando-se:
 
@@ -20550,10 +20593,10 @@ Art. 511-D. A Secretaria de Estado da Fazenda poderá autorizar que a pesquisa s
 
 Parágrafo único. O resultado da pesquisa realizada nos termos do caput deste artigo deverá ser homologado pela Secretaria de Estado da Fazenda.
 
-<!-- p. 550 -->
-534
+<!-- p. 552 -->
+536
 
-534
+536
 
 Art. 511-E. A Secretaria de Estado da Fazenda, após a realização da pesquisa relativa à apuração da MVA e do PMPF, cientificará as entidades representativas do setor envolvido na produção e comercialização da mercadoria do resultado encontrado, para que, no prazo de 15 (quinze) dias, as entidades representativas se manifestem com a devida fundamentação.
 
@@ -20582,10 +20625,10 @@ Art. 512. Nas operações interestaduais realizadas por contribuinte com as merc
 
 § 3º A responsabilidade prevista neste artigo aplica-se também ao imposto correspondente à diferença entre a alíquota interna da unidade federada de destino e a alíquota interestadual incidente sobre as operações interestaduais com bens e mercadorias
 
-<!-- p. 551 -->
-535
+<!-- p. 553 -->
+537
 
-535
+537
 
 especificadas em convênio ou protocolo que disponha sobre o regime de substituição tributária e destinadas ao uso, consumo ou ativo imobilizado do destinatário.
 
@@ -20617,10 +20660,10 @@ Art. 513. Nas operações interestaduais com bens e mercadorias já alcançados 
 
 § 4º As notas fiscais de ressarcimento deverão ser autorizadas pela área de fiscalização de Contribuintes Substitutos, no prazo de 90 dias, que fornecerá parecer conclusivo sobre o pedido de ressarcimento, observados os seguintes procedimentos:
 
-<!-- p. 552 -->
-536
+<!-- p. 554 -->
+538
 
-536
+538
 
 (NR RA nº 27/20)
 
@@ -20656,10 +20699,10 @@ Art. 514. No caso de desfazimento do negócio, se o imposto retido houver sido r
 
 Seção III Do Recolhimento
 
-<!-- p. 553 -->
-537
+<!-- p. 555 -->
+539
 
-537
+539
 
 Art. 515. O imposto retido pelo sujeito passivo por substituição tributária, quando o adquirente das mercadorias se encontrar estabelecido neste Estado, deverá ser recolhido por meio da Guia Nacional de Recolhimento de Tributos Estaduais - GNRE, em código de barras, padrão FEBRABAN, gerada e emitida via site http.//www.gnre.pe.gov.br, na forma de pagamento disponibilizada pelo agente arrecadador credenciado por esta unidade federada. (Convênio ICMS 27/95)
 
@@ -20692,10 +20735,10 @@ I – no período em que a inscrição do sujeito passivo por substituição no 
 
 II – quando o sujeito passivo por substituição não recolher, no todo ou em parte, o ICMS devido a este Estado ou seus acréscimos legais.
 
-<!-- p. 554 -->
-538
+<!-- p. 556 -->
+540
 
-538
+540
 
 ~~Seção IV Da Inscrição no Cadastro de ICMS do Maranhão~~
 
@@ -20734,10 +20777,10 @@ VII ~~- outros documentos previstos na legislação.(Conv. ICMS 146/02)~~
 
 Seção IV
 
-<!-- p. 555 -->
-539
+<!-- p. 557 -->
+541
 
-539
+541
 
 Da Inscrição no Cadastro de ICMS do Maranhão
 
@@ -20773,10 +20816,10 @@ Parágrafo único. Na hipótese deste artigo, será emitida GNRE distinta para c
 
 Art. 517-B. O sujeito passivo por substituição terá a inscrição no CAD/ICMS suspensa, quando não recolher, no todo ou em parte, o ICMS devido a este Estado ou seus acréscimos legais. (AC Resolução Administrativa nº 27/20)
 
-<!-- p. 556 -->
-540
+<!-- p. 558 -->
+542
 
-540
+542
 
 Parágrafo único. O sujeito passivo por substituição que, por 2 (dois) meses consecutivos ou alternados, não remeter as informações previstas no art. 523, também terá a inscrição suspensa até a sua regularização.
 
@@ -20802,10 +20845,10 @@ Seção VI Da Suspensão do Regime
 
 ~~Art. 521. O sujeito passivo por substituição emitirá documento fiscal observando o disposto no artigo seguinte e fazendo constar, ainda, em seu corpo, o número da inscrição no CAD/ICMS - MA, quando este Estado for o beneficiário do imposto retido.~~
 
-<!-- p. 557 -->
-541
+<!-- p. 559 -->
+543
 
-541
+543
 
 ~~Art. 522. A nota fiscal emitida pelo sujeito passivo por substituição conterá, além das indicações exigidas pela legislação, o valor que serviu de base de cálculo para a retenção e o valor do imposto retido.~~
 
@@ -20837,10 +20880,10 @@ Seção VI Da Suspensão do Regime
 
 ~~§ 6° O sujeito passivo por substituição que, por 60 (sessenta) dias ou 2 (dois) meses alternados, não remeter o arquivo magnético previsto no inciso I do caput, deixar de informar por escrito não ter realizado operações sob o regime de substituição tributária, ou, ainda, deixar de entregar a Guia Nacional de Informação e Apuração do ICMS - Substituição Tributária, terá sua~~
 
-<!-- p. 558 -->
-542
+<!-- p. 560 -->
+544
 
-542
+544
 
 ~~inscrição suspensa ou cancelada até a regularização, aplicando-se o disposto no § 2° do art. 517. (Convênios ICMS 81/93, 71/97 e 73/99)~~
 
@@ -20877,10 +20920,10 @@ b) em campo específico, o número do CNPJ do respectivo fabricante.
 
 § 3º A inobservância do disposto no caput deste artigo implica exigência do imposto, sendo este Estado o sujeito ativo da operação, no momento da entrada da mercadoria no território maranhense, pelo Posto Fiscal por onde transitar.
 
-<!-- p. 559 -->
-543
+<!-- p. 561 -->
+545
 
-543
+545
 
 Art. 523. O sujeito passivo por substituição tributária remeterá à administração tributária deste Estado:
 
@@ -20913,10 +20956,10 @@ ICMS Substituição Tributária – GIA-ST
 
 Art. 524. A Guia Nacional de Informação e Apuração do ICMS Substituição Tributária – GIA-ST, será utilizada para a informação e apuração do ICMS devido por substituição tributária a este Estado, e conterá, além da denominação “Guia Nacional de
 
-<!-- p. 560 -->
-544
+<!-- p. 562 -->
+546
 
-544
+546
 
 Informação e Apuração do ICMS Substituição Tributária – GIA-ST”, o seguinte: (Ajuste SINIEF 04/93)
 
@@ -20952,10 +20995,10 @@ VIII – campo 8 – Valor do IPI: informar o valor do IPI incidente sobre os pr
 
 IX – campo 9 – Despesas Acessórias: informar o valor do frete, seguro e outras despesas acessórias cobradas ou debitadas ao destinatário;
 
-<!-- p. 561 -->
-545
+<!-- p. 563 -->
+547
 
-545
+547
 
 X – campo 10 – Base de Cálculo do ICMS Próprio: informar o valor que serviu de base para o cálculo do ICMS próprio. Quando destinados à Zona Franca de Manaus e Áreas de Livre Comércio, informar o valor da base de cálculo do crédito presumido;
 
@@ -20984,10 +21027,10 @@ a) ~~pela refinaria de petróleo que efetuar o cálculo de repasse, conforme rel
 
 a) Valor do Repasse do dia 10 -será preenchido pela refinaria de petróleo que efetuar o cálculo de repasse, conforme relatórios recebidos de distribuidoras de
 
-<!-- p. 562 -->
-546
+<!-- p. 564 -->
+548
 
-546
+548
 
 combustíveis, importador, formulador e Transportador Revendedor Retalhista -TRR, em relação às operações cujo imposto tenha sido anteriormente retido por refinaria de petróleo ou suas bases; (NR Resolução Administrativa 27/20)
 
@@ -21024,10 +21067,10 @@ XXVII – campo 27 – CEP: informar o número do Código de Endereçamento Post
 
 XXVIII – campo 28 – Inscrição no CNPJ: informar o número da inscrição do substituto no Cadastro Nacional de Pessoa Jurídica;
 
-<!-- p. 563 -->
-547
+<!-- p. 565 -->
+549
 
-547
+549
 
 XXIX – campo 29 – Nome do Declarante: informar o nome do declarante, que deverá ser sócio, gerente, contabilista ou pessoa legalmente autorizada pelo substituto;
 
@@ -21063,10 +21106,10 @@ a) cujo imposto tenha sido anteriormente retido por outros contribuintes;
 
 b) cujo imposto tenha sido retido por refinaria de petróleo ou suas bases, mas que tenham sido inicialmente objeto de glosa, parcial ou total, pela unidade federada devedora, sendo depois, porém, revertida a glosa em favor da unidade federada credora, nos termos definidos em Convênio.
 
-<!-- p. 564 -->
-548
+<!-- p. 566 -->
+550
 
-548
+550
 
 
 XL - Quadro Emenda Constitucional nº 87/15: assinalar com "x" na hipótese de realização de operações ou prestações que destinem bens ou serviços a consumidor final não contribuinte do imposto localizado em outra unidade federada nos termos do art. 155, § 2º, incisos VI, VII e VIII da Constituição Federal. (AC Resolução Administrativa 29/20)
@@ -21096,10 +21139,10 @@ SEM MOVIMENTO”.
 
 (AC Decreto 33.322/2017)
 
-<!-- p. 565 -->
-549
+<!-- p. 567 -->
+551
 
-549
+551
 
 § 9º Na hipótese de existir valor a informar de ICMS-ST relativo ao Fundo de Combate à Pobreza, previsto no § 1º do art. 82 do Ato das Disposições Constitucionais Transitórias da Constituição Federal:
 
@@ -21129,10 +21172,10 @@ V - Total do ICMS devido à unidade federada de destino: informar o saldo do val
 
 Parágrafo único. Na hipótese de existir valor a informar de ICMS relativo ao Fundo de Combate à Pobreza, previsto no § 1º do art. 82 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, no campo Data de Vencimento
 
-<!-- p. 566 -->
-550
+<!-- p. 568 -->
+552
 
-550
+552
 
 serão informados separadamente os valores do ICMS não relativo ao Fundo de Combate à Pobreza e do ICMS relativo ao Fundo de Combate à Pobreza, com as respectivas datas de vencimento.
 
@@ -21190,10 +21233,10 @@ Valor do 1º Vencimento
 15 N
 52
 
-<!-- p. 567 -->
-551
+<!-- p. 569 -->
+553
 
-551
+553
 
 Data do 2º Vencimento do ICMS-ST
 8 N
@@ -21306,10 +21349,10 @@ Ref. 29 Nome do declarante
 46 X
 454
 
-<!-- p. 568 -->
-552
+<!-- p. 570 -->
+554
 
-552
+554
 
 Ref. 30 CPF/MF do declarante
 11 N
@@ -21403,10 +21446,10 @@ REGISTRO ANEXO II CAMPO CONTEÚDO TAMANHO TIPO SOMA ID Registro A2
 8 N
 35
 
-<!-- p. 569 -->
-553
+<!-- p. 571 -->
+555
 
-553
+555
 
 Valor do ICMS-ST de ressarcimento
 15 N
@@ -21448,10 +21491,10 @@ III ~~– às operações internas destinadas a contribuintes industriais.~~
 
 ~~Art. 529. A Receita Estadual - MA comunicará à Secretaria Executiva da Comissão Técnica Permanente do ICMS-COTEPE/ICMS, que deverá providenciar a publicação no Diário Oficial da União:~~
 
-<!-- p. 570 -->
-554
+<!-- p. 572 -->
+556
 
-554
+556
 
 
 I ~~- qualquer alteração na alíquota ou na base de cálculo da mercadoria sujeita ao regime de substituição tributária;~~
@@ -21485,10 +21528,10 @@ Art. 526. Os acordos celebrados pelas unidades federadas para fins de adoção d
 
 § 2º As referências feitas ao regime da substituição tributária também se aplicam ao regime da antecipação do recolhimento do ICMS com encerramento de tributação.
 
-<!-- p. 571 -->
-555
+<!-- p. 573 -->
+557
 
-555
+557
 
 Art. 526-A. As regras relativas à substituição tributária serão tratadas em convênios específicos celebrados entre as unidades federadas em relação aos segmentos, bens e mercadorias a seguir descritos: (AC Resolução Administrativa 27/20)
 
@@ -21526,10 +21569,10 @@ Art. 527. O regime de substituição tributária não se aplica:
 
 I - às operações interestaduais que destinem bens e mercadorias submetidas ao regime de substituição tributária a estabelecimento industrial fabricante do mesmo bem e mercadoria;
 
-<!-- p. 572 -->
-556
+<!-- p. 574 -->
+558
 
-556
+558
 
 II - às transferências interestaduais promovidas entre estabelecimentos do remetente, exceto quando o destinatário for estabelecimento varejista;
 
@@ -21562,10 +21605,10 @@ IV – ser credenciado conforme ato do Secretário de Estado da Fazenda.
 
 § 2º Não se consideram fabricados em escala industrial não relevante os bens e mercadorias importados do exterior ou que possuam conteúdo de importação superior a 40% (quarenta por cento), nos termos da Resolução do Senado Federal nº 13, de 25 de abril de 2012.
 
-<!-- p. 573 -->
-557
+<!-- p. 575 -->
+559
 
-557
+559
 
 § 3º O contribuinte que atender as condições previstas nos incisos I a III deste artigo e desejar que os bens e mercadorias que fabricam, devidamente listados no Anexo XXVII do Convênio ICMS 142/18, não se subsumam ao regime de substituição tributária, deverá solicitar seu credenciamento a esta Secretaria de Estado da Fazenda, mediante a protocolização do formulário previsto no Anexo XXVIII do Convênio ICMS 142/18 devidamente preenchido.
 
@@ -21593,10 +21636,10 @@ Art. 529-A. Os bens e mercadorias sujeitos ao regime de substituição tributár
 
 § 2º As reclassificações, agrupamentos e desdobramentos de códigos da NCM/SH não implicam em inclusão ou exclusão de bem e mercadoria, classificados no código da referida nomenclatura, do regime de substituição tributária.
 
-<!-- p. 574 -->
-558
+<!-- p. 576 -->
+560
 
-558
+560
 
 § 3º Na hipótese do § 2º deste artigo, o contribuinte deverá informar nos documentos fiscais o código NCM/SH vigente, observado o mesmo tratamento tributário atribuído ao bem e mercadoria antes da reclassificação, agrupamento ou desdobramento.
 
@@ -21624,10 +21667,10 @@ Art. 532. O pagamento do ICMS decorrente deste Capítulo será, através de docu
 
 § 2° Na hipótese do parágrafo anterior, o pagamento poderá ser efetuado até o 20o (vigésimo) dia do mês subsequente ao da entrada da mercadoria no estabelecimento, englobadamente.
 
-<!-- p. 575 -->
-559
+<!-- p. 577 -->
+561
 
-559
+561
 
 Seção II Das Operações de Saída Interna
 
@@ -21662,10 +21705,10 @@ b) utilizar o saldo credor correspondente ao produto existente no dia anterior, 
 
 Seção III-A Da Exclusão de Mercadoria do Regime de Substituição Tributária
 
-<!-- p. 576 -->
-560
+<!-- p. 578 -->
+562
 
-560
+562
 
 (AC Resolução Administrativa nº 07/2016)
 
@@ -21702,10 +21745,10 @@ V - O campo "03 - NCM" deverá ser preenchido com o código da mercadoria consta
 
 VI - O campo "04 - quantidade da mercadoria" deverá ser preenchido com a quantidade da mercadoria disponível no dia anterior ao da exclusão;
 
-<!-- p. 577 -->
-561
+<!-- p. 579 -->
+563
 
-561
+563
 
 VII - O campo "05 - valor unitário da última aquisição" deverá ser preenchido com o valor contábil unitário da última aquisição até a data do dia anterior ao da exclusão;
 
@@ -21738,10 +21781,10 @@ XVIII - Os valores apurados na planilha eletrônica ficam sujeitos à homologaç
 
 XIX - A homologação de que trata o inciso anterior será efetuada com base nos registros da Escrituração Fiscal Digital - EFD do contribuinte e dos documentos fiscais referentes às origens dos créditos.
 
-<!-- p. 578 -->
-562
+<!-- p. 580 -->
+564
 
-562
+564
 
 Art. 535-B. A planilha eletrônica mencionada no inciso I do Art.535-A deverá estar disponível no SEFAZNET até 90 (noventa) dias após a exclusão das mercadorias do regime de substituição tributária.
 
@@ -21770,10 +21813,10 @@ CAPÍTULO IV DA RESTITUIÇÃO PREFERENCIAL
 
 Art. 539. É assegurado ao contribuinte substituído o direito à restituição do valor do imposto pago por força da substituição tributária, correspondente ao fato gerador presumido que não se realizar.
 
-<!-- p. 579 -->
-563
+<!-- p. 581 -->
+565
 
-563
+565
 
 
 § 1º Formulado o pedido de restituição e não havendo deliberação no prazo de noventa dias, o contribuinte substituído poderá se creditar, em sua escrita fiscal, do valor objeto do pedido, devidamente atualizado segundo os mesmos critérios aplicáveis ao tributo.
@@ -21801,10 +21844,10 @@ III - prova de não haver repassado o respectivo crédito a outro contribuinte.
 
 § 3° O direito de pleitear a restituição preferencial deste Capítulo, extingue-se em 06 (seis) meses, contados da saída não sujeita ao regime de substituição tributária, sem prejuízo do disposto na restituição normal.
 
-<!-- p. 580 -->
-564
+<!-- p. 582 -->
+566
 
-564
+566
 
 § 4° O contribuinte poderá pleitear a restituição pelas normas gerais de tributação vigentes, inclusive após indeferimento da restituição preferencial.
 
@@ -21832,10 +21875,10 @@ Art. 540-B. Ato do Secretário de Estado da Fazenda disporá sobre os procedimen
 
 CAPÍTULO V DO SISTEMA DE INFORMAÇÕES SOBRE SUBSTITUTO TRIBUTÁRIO
 
-<!-- p. 581 -->
-565
+<!-- p. 583 -->
+567
 
-565
+567
 
 Art. 541. O Sistema de Informações sobre Substituto Tributário - SIST, criado pelo Convênio ICMS 30/95, coordenado por unidade federada indicada, anualmente, em reunião do Conselho Nacional de Política Fazendária - CONFAZ, atenderá ao seguinte:
 
@@ -21870,10 +21913,10 @@ CAPÍTULO I DA FISCALIZAÇÃO
 
 Seção I Da Competência
 
-<!-- p. 582 -->
-566
+<!-- p. 584 -->
+568
 
-566
+568
 
 Art. 542. A fiscalização do ICMS compete à Receita Estadual e a execução dos seus serviços é incumbência da área de fiscalização, através de seus funcionários.
 
@@ -21900,10 +21943,10 @@ Seção II Do Levantamento Fiscal
 
 Art. 547. O movimento real tributável realizado pelo estabelecimento, em determinado período, poderá ser apurado através de levantamento fiscal, em que serão considerados o valor das mercadorias entradas, o das mercadorias saídas, e dos estoques inicial e final, as despesas, outros encargos e lucro do estabelecimento, como ainda outros elementos informativos.
 
-<!-- p. 583 -->
-567
+<!-- p. 585 -->
+569
 
-567
+569
 
 § 1° O levantamento fiscal poderá ser, também, efetuado com base no controle quantitativo dos estoques de mercadorias.
 
@@ -21936,10 +21979,10 @@ I - transportadas ou encontradas sem as vias dos documentos fiscais que devam ac
 
 II - acobertadas por documentação fiscal falsa ou inidônea;.
 
-<!-- p. 584 -->
-568
+<!-- p. 586 -->
+570
 
-568
+570
 
 III – constatado o transporte de mercadorias sem o devido pagamento do imposto, nos termos deste Regulamento.
 
@@ -21977,10 +22020,10 @@ I - em qualquer época, se o interessado, regularizando a situação, efetuar o 
 
 II - antes do julgamento definitivo do processo:
 
-<!-- p. 585 -->
-569
+<!-- p. 587 -->
+571
 
-569
+571
 
 a) mediante depósito administrativo da importância equivalente ao valor exigido no auto da infração;
 
@@ -22015,10 +22058,10 @@ III - a hora, o dia e o local do leilão.
 
 Art. 558. O arrematante pagará, após a arrematação, como sinal, o correspondente a 20% (vinte por cento) do valor desta, e, dentro de 3 (três) dias, o restante.
 
-<!-- p. 586 -->
-570
+<!-- p. 588 -->
+572
 
-570
+572
 
 
 Art. 559. Se o pagamento do sinal não for efetuado, serão tomadas as providências para a sua cobrança executiva, marcando-se a realização de novo leilão.
@@ -22057,10 +22100,10 @@ a) deixar de recolher o imposto, em virtude de haver registrado de forma incorre
 
 b) deixar de proceder à retenção do imposto por substituição tributária;
 
-<!-- p. 587 -->
-571
+<!-- p. 589 -->
+573
 
-571
+573
 
 IV - de 70% (setenta por cento) do valor do imposto, quando emitir documento fiscal de operações e/ou prestações tributadas, como isentas ou não-tributadas;
 
@@ -22097,10 +22140,10 @@ VIII - de R$ 21,00 (vinte e um reais), quando:
 
 a) utilizar livros ou documentos fiscais sem autenticação pela repartição competente, por unidade;
 
-<!-- p. 588 -->
-572
+<!-- p. 590 -->
+574
 
-572
+574
 
 b) atrasar a escrituração das operações e/ou prestações nos livros fiscais próprios;
 
@@ -22136,10 +22179,10 @@ b) deixar de apresentar demonstrativo de controle de estoque de produtos agropec
 
 c) escriturar livros de forma diversa da legislação tributária, sem prejuízo, se for o caso, do imposto devido;
 
-<!-- p. 589 -->
-573
+<!-- p. 591 -->
+575
 
-573
+575
 
 d) extraviar, perder ou inutilizar livro ou talonário de documento fiscal, sem prejuízo, se for o caso, do arbitramento das prestações e/ou operações realizadas;
 
@@ -22177,10 +22220,10 @@ b) entregar e/ou enviar arquivo magnético em condições que impossibilitem sua
 
 c) fornecer arquivo magnético em padrão diferente do estabelecido pela legislação.
 
-<!-- p. 590 -->
-574
+<!-- p. 592 -->
+576
 
-574
+576
 
 XVIII - de R$ 106,00 (cento e seis reais), por dia de atraso da entrega e/ou envio do arquivo magnético;
 
@@ -22210,10 +22253,10 @@ f) utilizar ECF com clichê não pertencente ao respectivo estabelecimento;
 
 g) utilizar ECF que contenha jumper desconectado ou não, ou qualquer outro dispositivo, eletrônico ou eletromecânico, que possibilite fraudar, total ou parcialmente, os registros relativos à apuração do ICMS;
 
-<!-- p. 591 -->
-575
+<!-- p. 593 -->
+577
 
-575
+577
 
 h) fornecer lacre em desacordo com a legislação tributária ou sem autorização do fisco, aplicável ao fabricante ou a qualquer pessoa que os detenha para quaisquer fins;
 
@@ -22247,10 +22290,10 @@ l) lacrar ECF com software aplicativo não cadastrado;
 
 m) atestar o funcionamento de ECF de controle fiscal em desacordo com as exigências previstas na legislação;
 
-<!-- p. 592 -->
-576
+<!-- p. 594 -->
+578
 
-576
+578
 
 n) realizar intervenção em ECF sem a emissão, imediatamente, antes e após da intervenção, dos cupons de leitura dos totalizadores;
 
@@ -22284,10 +22327,10 @@ j) infração não qualificada relativa a fornecimento, introdução ou instala�
 
 XXVI - de R$800,00 (oitocentos reais), quando:
 
-<!-- p. 593 -->
-577
+<!-- p. 595 -->
+579
 
-577
+579
 
 a) extraviar, perder, inutilizar bobinas; imprimi-las de forma ilegível, não conservá-las nas condições que permitam manter a integridade dos dados impressos, arquivá-las fora do estabelecimento ou não exibi-las à fiscalização, quando exigido, por unidade;
 
@@ -22322,10 +22365,10 @@ XXIX - de R$ 200,00 (duzentos reais), quando:
 
 a) deixar de emitir o comprovante de pagamento com cartão de crédito ou de débito automático em conta pelo ECF;
 
-<!-- p. 594 -->
-578
+<!-- p. 596 -->
+580
 
-578
+580
 
 b) deixar de emitir a Leitura X do equipamento fiscal no início de dia mantendo-a junto ao equipamento e no término da Fita-detalhe, por ocasião de cada troca de bobina.
 
@@ -22362,10 +22405,10 @@ III - falta de registro na escrita fiscal, de documentos referentes à entrada d
 
 Art. 565. As multas oriundas de Termo de Verificação ou Auto de Infração terão o seu valor reduzido:
 
-<!-- p. 595 -->
-579
+<!-- p. 597 -->
+581
 
-579
+581
 
 I - de 60% (sessenta por cento), quando o crédito tributário exigido for pago no prazo de até 30 (trinta) dias, a contar da data da intimação;
 
@@ -22396,10 +22439,10 @@ Art. 568. A declaração de remisso será feita pelo titular da repartição da 
 
 § 2° Quinzenalmente, os titulares de repartição da Receita Estadual enviarão, aos órgãos estaduais e estabelecimentos creditícios controlados pelo Estado, relação dos devedores remissos e de seus fiadores, fazendo publicar seus nomes no órgão de imprensa oficial ou outros
 
-<!-- p. 596 -->
-580
+<!-- p. 598 -->
+582
 
-580
+582
 
 de publicidade do Estado, sem prejuízo de afixação da relação em lugar visível do prédio da repartição fiscal do domicílio do devedor.
 
@@ -22430,10 +22473,10 @@ IV - sujeição a regime especial de pagamento de imposto.
 
 § 2° A imposição do sistema previsto neste artigo não prejudicará a aplicação de quaisquer penalidades previstas neste Regulamento.
 
-<!-- p. 597 -->
-581
+<!-- p. 599 -->
+583
 
-581
+583
 
 § 3° O contribuinte submetido ao sistema especial de controle e fiscalização não poderá embalar mercadorias, nem abrir fardos, caixas e outros, sem a presença dos agentes fiscais.
 
@@ -22460,7 +22503,7 @@ Parágrafo único. Considerando as peculiaridades e circunstâncias das operaç�
 
 SÃO LUÍS - MA, 10 de Julho de 2003.
 
-<!-- p. 598 -->
-582
+<!-- p. 600 -->
+584
 
-582
+584

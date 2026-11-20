@@ -8,7 +8,7 @@ ementa: "Acrescenta dispositivos ao Anexo 1.2 do RICMS/03 para dispor sobre a is
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=34d9c1b2-18a1-4a5f-b783-87f4a72c6f16
 atualizado_na_fonte: "2026-10-19 17:26:03"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, Anexo 1.3, Anexo 1.4, Anexo 1.6, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -188,7 +188,7 @@ ementa: "Declara falsas as Notas Fiscais Eletrônicas emitidas pelo contribuinte
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03f601f5-fc8d-4508-8791-3d65c51a5fab
 atualizado_na_fonte: "2026-10-19 16:49:19"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4414,7 +4414,7 @@ ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=11052129-919b-4b53-b2d3-0159043de108
 atualizado_na_fonte: "2026-10-19 15:36:00"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -4477,7 +4477,7 @@ ementa: "Acrescenta dispositivos ao Anexo 1.5 (Isenção, incentivos e benefíci
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=17d5cc45-0452-4ed6-b010-bac45d5866af
 atualizado_na_fonte: "2026-10-19 14:30:54"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -4533,7 +4533,7 @@ ementa: "Modifica o Anexo 1.5.1 (Crédito Outorgado) do Regulamento do Imposto d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b1f508d8-bd37-4207-95dd-b75db7a3a931
 atualizado_na_fonte: "2026-10-19 14:07:25"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.5.1, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -4583,7 +4583,7 @@ ementa: "Modifica o art. 29 do Anexo 1.1 do RICMS, aprovado pelo Decreto nº 19.
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=bb0a476e-0361-422d-bc6c-5c4f7e0cbec4
 atualizado_na_fonte: "2026-10-19 13:45:22"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -4652,7 +4652,7 @@ ementa: "Dispõe sobre os procedimentos dos tabeliães, escrivães e demais serv
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7974c780-89cf-4022-bed7-df5067417004
 atualizado_na_fonte: "2026-10-19 13:32:12"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -4720,7 +4720,7 @@ ementa: "Dá nova redação ao Anexo 4.41 do Regulamento do ICMS, que dispõe so
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dcff4073-837f-4664-9b7c-997ca78dd97b
 atualizado_na_fonte: "2026-10-20 15:25:58"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.41, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -5324,7 +5324,7 @@ ementa: "Altera o Anexo 8.3 do RICMS/03, que trata da emissão, escrituração, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4dafc990-6581-49b2-8aba-12441a315b6e
 atualizado_na_fonte: "2026-10-20 15:04:08"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 8.3, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -5650,7 +5650,7 @@ ementa: "Acrescenta dispositivo ao Anexo 1.1 (Isenção por Tempo Indeterminado)
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=10af7016-31bc-4b73-aa4d-452b6e956b0d
 atualizado_na_fonte: "2026-10-20 13:56:27"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -5715,7 +5715,7 @@ ementa: "Prorroga prazo referente à concessão do benefício fiscal de que trat
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=adae971e-adeb-4e77-9dde-3bebf8aa2d5a
 atualizado_na_fonte: "2026-10-19 17:25:42"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -5775,7 +5775,7 @@ ementa: "Declara falsas as Notas Fiscais Eletrônicas emitidas pelo contribuinte
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=171d12e0-5cbb-475b-8046-bd03bada127f
 atualizado_na_fonte: "2026-10-19 16:48:36"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -7157,7 +7157,7 @@ ementa: "Dá nova redação à Seção I-A do Capítulo III do Título IV do Reg
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=59543e80-63ad-48cd-b8db-8e8588b4547a
 atualizado_na_fonte: "2026-10-19 15:35:14"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -7477,7 +7477,7 @@ ementa: "Acrescenta dispositivos ao Anexo 1.5 (Crédito Presumido) do Regulament
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f02832cf-2e14-4424-bf42-6ab055deaf8d
 atualizado_na_fonte: "2026-10-19 14:30:29"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, Anexo 1.5, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -7549,7 +7549,7 @@ ementa: "Institui a Nota Fiscal Fatura de Serviços de Comunicação Eletrônica
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7e2f2e49-817a-416b-a8da-21dea11c6c77
 atualizado_na_fonte: "2026-10-19 14:08:51"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -7781,7 +7781,7 @@ ementa: "Altera dispositivo do Anexo 1.1 do RICMS, para dispor sobre a isenção
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=363e34db-6160-4ce3-bd08-996b11a5de61
 atualizado_na_fonte: "2026-10-19 13:45:12"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -7840,7 +7840,7 @@ ementa: "Acrescenta o Anexo 51 ao Regulamento do ICMS - RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ec5a6e18-d345-44df-b395-776c1f0b5559
 atualizado_na_fonte: "2026-10-19 13:32:06"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 44, Anexo 51, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -8055,7 +8055,7 @@ ementa: "Acrescenta dispositivos ao Anexo 1.8 do RICMS/03, que dispõem sobre a 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1011bd05-ae3f-4f7a-837e-225e92d770cb
 atualizado_na_fonte: "2026-10-20 15:25:41"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, Anexo 1.8, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -8142,7 +8142,7 @@ ementa: "Altera dispositivos e o Anexo Único do inciso XXIII, do art. 1º, do A
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c122cd62-41fa-4018-87d2-6b5284c52d01
 atualizado_na_fonte: "2026-10-20 15:03:44"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -8834,7 +8834,7 @@ ementa: "Acrescenta dispositivo ao Anexo 4.8 do Regulamento do ICMS - RICMS, apr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dde4b57d-be6e-4711-b95a-305fd949e6cd
 atualizado_na_fonte: "2026-10-19 17:25:25"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.8, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -8886,7 +8886,7 @@ ementa: "Acrescenta dispositivo ao Anexo 1.1 do RICMS sobre isenção de ICMS em
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=05d497d1-24a6-4fe1-a8e2-e566c85b5c35
 atualizado_na_fonte: "2026-10-19 16:47:29"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "REVOGADA"
 percentual_tachado: 0.0
@@ -8953,7 +8953,7 @@ ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto nº 19.714,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=28bcb1e5-698b-4a0e-be74-fd5606e26d86
 atualizado_na_fonte: "2026-10-19 15:34:52"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -9095,7 +9095,7 @@ ementa: "Altera a redação do Art. 98-A, revoga o seu Parágrafo Único, acresc
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c28625c5-db22-4a13-9059-a498327ef298
 atualizado_na_fonte: "2026-10-19 14:30:34"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -9152,7 +9152,7 @@ ementa: "Altera dispositivo do Regulamento do RICMS-RICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1ef03636-9f3a-4656-9a85-66dc251dc3cc
 atualizado_na_fonte: "2026-10-19 14:08:35"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -9205,7 +9205,7 @@ ementa: "Acrescenta o Anexo 4.48 ao Anexo 4.0 do Regulamento do ICMS - RICMS, pa
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=abc5afc2-84dc-4c84-893c-34b0a9136fe1
 atualizado_na_fonte: "2026-10-19 13:35:33"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.48, Anexo 50, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -9297,7 +9297,7 @@ ementa: "Altera o inciso III do art. 1º do Anexo 1.4 (Redução de Base de Cál
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9a3c0e45-07ba-4e47-aaf7-417f84abba26
 atualizado_na_fonte: "2026-10-20 15:25:06"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -9353,7 +9353,7 @@ ementa: "Dá nova redação ao Anexo 30 do RICMS/03, que dispõe sobre o cumprim
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2cbf9193-e37a-4438-b6e6-cfd9f56e9e7a
 atualizado_na_fonte: "2026-10-20 15:03:27"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 30, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -9736,7 +9736,7 @@ ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto no 19.714, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=14d1cc9c-405a-4451-ae3b-ebd332134029
 atualizado_na_fonte: "2026-10-19 13:32:28"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -9793,7 +9793,7 @@ ementa: "Altera dispositivos do Regulamento do ICMS - RICMS, aprovado pelo Decre
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a83287b2-4b77-4102-80fb-2bc9e79426b3
 atualizado_na_fonte: "2026-10-19 17:25:03"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 45, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -10063,7 +10063,7 @@ ementa: "Prorroga o prazo para adesão ao Programa de Pagamento e Parcelamento d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4cc90301-d183-48fb-a311-659740539298
 atualizado_na_fonte: "2026-10-19 16:47:42"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -10116,7 +10116,7 @@ ementa: "Altera o Anexo 1.1 (Isenção por tempo Indeterminado) do Regulamento d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cbf0103e-063d-4808-98e6-eb93c5825291
 atualizado_na_fonte: "2026-10-19 15:34:34"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -10169,7 +10169,7 @@ ementa: "Acrescenta o Anexo 49, ao Regulamento do ICMS – RICMS/03, aprovado pe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a8e31701-08aa-42ec-841f-edc3d5a21099
 atualizado_na_fonte: "2026-10-19 14:29:48"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 49, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -10671,7 +10671,7 @@ ementa: "Altera o artigo 231-W do RICMS/03, que trata da obrigatoriedade do Conh
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3dd907b3-d1be-44bd-9e09-0c2939fe06a9
 atualizado_na_fonte: "2026-10-20 15:24:37"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -10723,7 +10723,7 @@ ementa: "Altera o Anexo 40 do RICMS/03, que trata das Operações e Prestações
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2fc8286b-0789-4650-9135-8b0316200716
 atualizado_na_fonte: "2026-10-20 15:03:06"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 40, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -10794,7 +10794,7 @@ ementa: "Altera a redação do Anexo 4.19 do Regulamento do ICMS - RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e94148a0-176f-4c70-89e6-d9737f9a65f2
 atualizado_na_fonte: "2026-10-19 17:24:44"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.19, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -10885,7 +10885,7 @@ ementa: "Acrescenta dispositivo ao Anexo 1.2 do RICMS sobre isenção de ICMS no
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5208e156-c3d2-4b3e-9fe1-ef152bfcba33
 atualizado_na_fonte: "2026-10-19 16:04:42"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -10969,7 +10969,7 @@ ementa: "Altera o Anexo 1.1 (Isenção por tempo Indeterminado) do Regulamento d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a45b4866-6a41-4253-a374-d61b84541749
 atualizado_na_fonte: "2026-10-19 15:32:39"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -11024,7 +11024,7 @@ ementa: "Altera o Anexo 49 do Regulamento do ICMS - RICMS, aprovado pelo Decreto
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2ec8d1b4-f2ec-47bb-b88c-b689f5fc4176
 atualizado_na_fonte: "2026-10-19 14:29:31"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 49, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -11168,7 +11168,7 @@ ementa: "Modifica o Anexo 1.4 (Redução da Base de Cálculo) do Regulamento do 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=05127c6f-5434-4af6-895b-c906e69f90d9
 atualizado_na_fonte: "2026-10-19 14:08:27"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -11238,7 +11238,7 @@ ementa: "Prorroga, até 29 de agosto de 2025, o prazo de adesão ao Programa de 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1700fd1a-a52c-497c-833c-61e48b3142f3
 atualizado_na_fonte: "2026-10-19 14:02:34"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -11293,7 +11293,7 @@ ementa: "Modifica o Regulamento do ICMS – RICMS, relativamente à emissão de 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=de2ecf7f-de92-4da4-9518-1e57c23d5dbc
 atualizado_na_fonte: "2026-10-19 13:32:22"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -11411,7 +11411,7 @@ ementa: "Acrescenta o art. 27 ao Anexo 1.1 (Isenção por tempo Indeterminado) d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a4c471a9-8d77-431f-83f7-4e9e801da0cd
 atualizado_na_fonte: "2026-10-20 15:23:46"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -11464,7 +11464,7 @@ ementa: "Altera o Anexo 4.41 do RICMS/03, que trata da Substituição Tributári
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7c7b3e19-3fe0-49b9-9fa8-efbbaed04a7d
 atualizado_na_fonte: "2026-10-20 15:02:35"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.41, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -11529,7 +11529,7 @@ ementa: "Acrescenta o Anexo 44 ao Regulamento do ICMS – RICMS/03, para dispor 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9878f033-245d-4223-849d-ec5b668432a8
 atualizado_na_fonte: "2026-10-20 13:56:06"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 44, RICMS, CTE"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -11832,7 +11832,7 @@ ementa: "Altera a redação do Anexo 4.21 do Regulamento do ICMS - RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3a21b1c0-788f-4655-a8fb-9cd167796072
 atualizado_na_fonte: "2026-10-19 17:24:28"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.21, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -12030,7 +12030,7 @@ ementa: "Modifica o Anexo 4.11 do RICMS sobre substituição tributária nas ope
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c82f39de-7f09-4a71-b7b3-78849fd69a0a
 atualizado_na_fonte: "2026-10-19 16:04:14"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -12454,7 +12454,7 @@ ementa: "Altera o Anexo 1.1(Isenção por tempo Indeterminado) do Regulamento do
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=37ec4407-6653-434d-a4cb-2016c95853ad
 atualizado_na_fonte: "2026-10-19 15:32:15"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -12529,7 +12529,7 @@ ementa: "Estabelece a forma de cálculo do benefício previsto na Lei nº 10.690
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d0040c5d-d9a2-4304-b383-36fb0662a265
 atualizado_na_fonte: "2026-10-19 14:29:13"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.11, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -12594,7 +12594,7 @@ ementa: "Altera dispositivo do Anexo 1.2 do Regulamento do ICMS - RICMS, para pr
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dd87612b-30d8-40ae-9fdb-e3f52e5fb86a
 atualizado_na_fonte: "2026-10-19 14:02:06"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -12651,7 +12651,7 @@ ementa: "Altera o Anexo 1.2 (Isenção Por Tempo Determinado) do Regulamento do 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ddf6d6d0-8f3f-497f-bc0d-92cb4d008f90
 atualizado_na_fonte: "2026-10-27 08:41:19"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -12756,7 +12756,7 @@ ementa: "Revoga o § 5º do art. 73 do Anexo 3.0 do Regulamento do ICMS - RICMS/
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5fd934b3-046a-43fe-89f0-426083d30c24
 atualizado_na_fonte: "2026-10-20 14:59:58"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 3.0, Anexo 4.28, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -12841,7 +12841,7 @@ ementa: "Acrescenta o Capítulo VI ao Título VI que trata “Do Regime de Subst
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dde24331-31c7-468c-ae48-87155e19d77a
 atualizado_na_fonte: "2026-10-20 13:55:48"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.1, Anexo 45, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13003,7 +13003,7 @@ ementa: "Altera a redação do Anexo 4.22 do Regulamento do ICMS - RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2eac7e28-e071-4df4-810e-7f6e6c4e0e9f
 atualizado_na_fonte: "2026-10-19 17:24:09"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.22, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13082,7 +13082,7 @@ ementa: "Acrescenta dispositivo ao Anexo 1.1 do RICMS sobre isenção de ICMS em
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c62a6613-3f6f-4288-a1a3-862234b730a8
 atualizado_na_fonte: "2026-10-19 16:03:45"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13149,7 +13149,7 @@ ementa: "Altera o Anexo 1.1(Isenção por tempo Indeterminado) do Regulamento do
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=48352bd4-000b-4c3c-b769-e4d911fee308
 atualizado_na_fonte: "2026-10-19 15:31:50"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13207,7 +13207,7 @@ ementa: "Altera o Anexo 1.2 do RICMS sobre isenção de ICMS em fármacos e medi
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=7b84086f-f87f-4ede-bc95-954392d34f69
 atualizado_na_fonte: "2026-10-19 13:45:02"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13295,7 +13295,7 @@ ementa: "Altera o Regulamento do ICMSRICMS, aprovado pelo Decreto nº 19.714/03,
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=31da5336-6d38-4e0b-8c85-fdb7e88d640b
 atualizado_na_fonte: "2026-10-27 08:43:20"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13363,7 +13363,7 @@ ementa: "Altera o Capítulo VII do Regulamento do ICMS - RICMS/03, que versa sob
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=19d85d9d-68fe-4daf-b549-5591768131ed
 atualizado_na_fonte: "2026-10-20 15:23:10"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13563,7 +13563,7 @@ ementa: "Altera dispositivos do RICMS, aprovado pelo Decreto 19.714/03, que trat
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5daa45c4-66fc-4071-848e-909833b00d66
 atualizado_na_fonte: "2026-10-20 14:58:12"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13809,7 +13809,7 @@ ementa: "Institui o Anexo 4.46 ao Regulamento do ICMS - RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03c060c7-5a03-4ed1-89c4-5452ada6c9db
 atualizado_na_fonte: "2026-10-19 17:23:54"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.46, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -13933,7 +13933,7 @@ ementa: "Altera o inciso IV do art. 381 do Regulamento do ICMS - RICMS, aprovado
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=43c132b6-2a96-4857-83cf-1637b6ab6901
 atualizado_na_fonte: "2026-10-19 16:03:22"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -13987,7 +13987,7 @@ ementa: "Altera os Anexos 1.2 (Isenção por Tempo Determinado) e 1.4 (Redução
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=b5f9c0cc-5da5-4d98-a6a1-844d55d7954f
 atualizado_na_fonte: "2026-10-19 15:31:28"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -14055,7 +14055,7 @@ ementa: "Acrescenta e altera dispositivos do Anexo 1.2 do RICMS/MA para conceder
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=dc1867a7-de9d-4f14-a370-8ec03486a5bd
 atualizado_na_fonte: "2026-10-19 13:44:51"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -14117,7 +14117,7 @@ ementa: "Altera e acrescenta dispositivos ao Capítulo VII e acrescenta disposit
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f6595031-3448-4647-b784-a80bd3b29802
 atualizado_na_fonte: "2026-10-20 15:22:46"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -14254,7 +14254,7 @@ ementa: "Altera o Anexo 2.0 do RICMS/03, que trata sobre Código Fiscal de Opera
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=512c81f2-787d-4121-a10e-03c6bd81ef86
 atualizado_na_fonte: "2026-10-20 14:57:48"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 2.0, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -14347,7 +14347,7 @@ ementa: "Institui o Anexo 4.46 ao Regulamento do ICMS - RICMS, aprovado pelo Dec
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c2eff14d-f29f-4b63-9457-2f2db028a9a3
 atualizado_na_fonte: "2026-10-19 17:23:37"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.46, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -14471,7 +14471,7 @@ ementa: "Declara falsas as Notas Fiscais Eletrônicas emitidas pelo contribuinte
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0081607d-2f68-4b61-be5b-9a2b7ed2a304
 atualizado_na_fonte: "2026-10-19 16:03:00"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16476,7 +16476,7 @@ ementa: "Altera dispositivos do Anexo 1.2 do Regulamento do ICMS - RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0cd9aae9-6bb5-4151-8e4b-46e3a417c719
 atualizado_na_fonte: "2026-10-19 15:30:46"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -16530,7 +16530,7 @@ ementa: "Altera o inciso II do §1° do Art. 1° do Anexo 4.45 do RICMS/03, que 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=cfa5f855-e170-44fe-9f27-88a0a7284393
 atualizado_na_fonte: "2026-10-19 14:28:50"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.45, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -16585,7 +16585,7 @@ ementa: "Acrescenta e altera dispositivos do Anexo 1.2 do RICMS/MA para conceder
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4f20b1e7-06c3-48f2-a4cc-cf0e1975585c
 atualizado_na_fonte: "2026-10-19 13:44:41"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -16647,7 +16647,7 @@ ementa: "Altera o Regulamento do ICMS - RICMS, aprovado pelo Decreto no 19.714/0
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82dc0e71-e7b1-4d05-929d-e7bf45adfac1
 atualizado_na_fonte: "2026-11-13 08:45:54"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -16728,7 +16728,7 @@ ementa: "Acrescenta o Capítulo III ao Anexo 1.8 (Das Anistias e das Remissões)
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4e52236e-e6e2-493c-893c-d457065a5601
 atualizado_na_fonte: "2026-10-20 15:22:52"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.8, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -16787,7 +16787,7 @@ ementa: "Concede isenção do ICMS incidente na comercialização de sanduíches
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2832a1d1-ea21-48a2-bdad-ac1db4e448ca
 atualizado_na_fonte: "2026-10-20 14:56:45"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -16838,7 +16838,7 @@ ementa: "Altera a redação do Anexo 4.38 do Regulamento do ICMS - RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=be0143a2-c991-4a9c-ac9e-6312c8c7df95
 atualizado_na_fonte: "2026-10-19 17:23:07"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.38, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -16922,7 +16922,7 @@ ementa: "Declara falsas as Notas Fiscais Eletrônicas emitidas pelo contribuinte
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5e493c84-d193-481a-9180-84267b5f427f
 atualizado_na_fonte: "2026-10-19 16:02:20"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "CTE"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -18870,7 +18870,7 @@ ementa: "Altera o Anexo 47 do Regulamento do ICMS – RICMS, aprovado pelo Decre
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3bc690b0-8031-426e-ae53-29b3f3d6fa76
 atualizado_na_fonte: "2026-10-19 15:30:05"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 47, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -18935,7 +18935,7 @@ ementa: "Acrescenta dispositivo ao Anexo 1.5 do Regulamento do ICMS, aprovado pe
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6907d2f5-af51-4b3b-8687-e9a227457569
 atualizado_na_fonte: "2026-10-19 14:28:30"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.5, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -18990,7 +18990,7 @@ ementa: "Acrescenta inciso III ao art. 27 do Anexo 1.1 do RICMS/03, isentando de
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9695f7e7-a5a9-488a-a71d-b1ba25570a4e
 atualizado_na_fonte: "2026-10-19 13:44:23"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -19050,7 +19050,7 @@ ementa: "Prorroga, até 30 de novembro de 2026, o prazo para adesão ao Programa
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=89645926-e732-420b-acc1-e3a36b84ba34
 atualizado_na_fonte: "2026-11-13 08:47:10"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -19102,7 +19102,7 @@ ementa: "Altera e acrescenta dispositivos ao Regulamento do ICMS - RICMS/03, que
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f1c091dd-bf33-4a2a-92fa-dd6bd7eec8cf
 atualizado_na_fonte: "2026-10-20 15:21:42"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -19161,7 +19161,7 @@ ementa: "Prorroga prazos referentes à concessão de benefícios fiscais de que 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=03228d95-c070-4cab-b5df-377e150c4256
 atualizado_na_fonte: "2026-10-20 14:56:04"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.3, Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -19214,7 +19214,7 @@ ementa: "Altera a redação do Anexo 4.5 do Regulamento do ICMS - RICMS, aprovad
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=14e7d2d2-8e25-4db4-acc5-a8cfbeee14c2
 atualizado_na_fonte: "2026-10-19 17:22:46"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.5, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -19288,7 +19288,7 @@ ementa: "Altera o inciso XIII do art. 1º do Anexo 1.4 (Redução da Base de Cá
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d4efc301-bce0-4de7-b1e7-989db4775fff
 atualizado_na_fonte: "2026-10-19 16:02:00"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -19345,7 +19345,7 @@ ementa: "Divulga as empresas obrigadas ao envio da Nota Fiscal de Serviço de Co
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82f25603-22f9-4814-8ec7-d5ab1264e83a
 atualizado_na_fonte: "2026-10-19 15:00:00"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -19964,7 +19964,7 @@ ementa: "Altera o RICMS (Decreto 19.714) sobre saídas com fim específico de ex
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9e32f0bb-ade6-40e1-afd9-8bd66c5dbff1
 atualizado_na_fonte: "2026-10-19 13:44:16"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -20103,7 +20103,7 @@ ementa: "Altera o Anexo 48 do Regulamento do ICMS-RICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=ca73c6ee-a765-424b-afa3-3bfedc62af95
 atualizado_na_fonte: "2026-11-13 08:44:06"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 48, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -20159,7 +20159,7 @@ ementa: "Prorroga prazos referentes à concessão de benefícios fiscais de que 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9354965b-fd7e-4842-a573-754f0c1c3fe9
 atualizado_na_fonte: "2026-10-20 15:21:19"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.2, Anexo 1.3, Anexo 1.4, Anexo 1.5, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -20222,7 +20222,7 @@ ementa: "Altera a redação do Anexo 4.16 do Regulamento do ICMS - RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=e5a7af4d-cd59-4d57-aac7-940a6b3420ba
 atualizado_na_fonte: "2026-10-19 17:06:11"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.16, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -20341,7 +20341,7 @@ ementa: "Acrescenta e altera dispositivo do Anexo 1.1 do RICMS sobre isenção d
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f4245d85-877a-4af7-9f04-696d821efd26
 atualizado_na_fonte: "2026-10-19 15:59:34"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -20396,7 +20396,7 @@ ementa: "Acrescenta dispositivos ao Regulamento do ICMS - RICMS, aprovado pelo D
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3a12ec2f-6383-445f-b845-38f2a8d81242
 atualizado_na_fonte: "2026-10-19 14:59:32"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -20461,7 +20461,7 @@ ementa: "Altera o inciso II do §1° do art. 24 do Anexo 1.1 (Isenção por temp
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6e30f440-307a-48da-8622-b78045e01a0d
 atualizado_na_fonte: "2026-10-19 14:28:10"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -20516,7 +20516,7 @@ ementa: "Altera o RICMS (Decreto 19.714) sobre obrigações tributárias de pres
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6bf12a0f-10d7-4591-a812-d859c9e653d1
 atualizado_na_fonte: "2026-10-19 13:44:07"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -20609,7 +20609,7 @@ ementa: "Altera o Anexo 49 do Regulamento do ICMS-RICMS, aprovado pelo Decreto n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=4d932fe7-76b5-41d2-9a60-381d47fe3f8f
 atualizado_na_fonte: "2026-11-13 08:43:29"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 49, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -20665,7 +20665,7 @@ ementa: "Altera o parágrafo único do art. 12 do Anexo 1.8 (Das Anistias e das 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=baa060b5-0ba1-4075-ba87-74cc07f321f9
 atualizado_na_fonte: "2026-10-20 15:20:56"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.8, RICMS"
 situacao: "alteradora com dispositivos próprios"
 percentual_tachado: 0.0
@@ -20716,7 +20716,7 @@ ementa: "Altera os itens 6 e 7 da Tabela A ¿ Origem da Mercadoria ou Serviço, 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=50be8519-91ca-49af-ab22-fb0d42a2111d
 atualizado_na_fonte: "2026-10-20 14:55:44"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -20770,7 +20770,7 @@ ementa: "Altera a redação do Anexo 4.17 do Regulamento do ICMS - RICMS, aprova
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=34b6c32a-cdf1-4b32-9741-620de3ed606f
 atualizado_na_fonte: "2026-10-19 17:05:50"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.17, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -20977,7 +20977,7 @@ ementa: "Acrescenta alíneas 'r', 's' e 't' ao inciso VII do art. 1º do Anexo 1
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9805c547-af91-4383-8164-e08d90e08e99
 atualizado_na_fonte: "2026-10-19 15:59:16"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -21036,7 +21036,7 @@ ementa: "Prorroga e altera dispositivos do Anexo 1.4 do RICMS sobre redução da
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=6374256f-44ec-4905-94b6-a81d09621ca1
 atualizado_na_fonte: "2026-10-19 13:43:56"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.4, RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -21095,7 +21095,7 @@ ementa: "Altera dispositivo do Anexo 1.1 (Isenção por tempo Indeterminado) do 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a0da5e6c-8695-4154-a3df-7d4bb6518fe1
 atualizado_na_fonte: "2026-10-20 15:20:36"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 1.1, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -21146,7 +21146,7 @@ ementa: "Acrescenta dispositivos a o Anexo 4.23 do RICMS/03, que trata de Fatura
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=f20e472f-f671-45f3-abb2-3c492fbb1b42
 atualizado_na_fonte: "2026-10-20 14:55:26"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.23, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0
@@ -21383,7 +21383,7 @@ ementa: "Altera dispositivos do Anexo 4.41 do Regulamento do ICMS - RICMS, aprov
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=72d077c3-5006-472b-92a7-0d2ad7718835
 atualizado_na_fonte: "2026-10-19 17:05:30"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "Anexo 4.29, Anexo 4.41, RICMS"
 situacao: "alteradora (incorporada)"
 percentual_tachado: 0.0

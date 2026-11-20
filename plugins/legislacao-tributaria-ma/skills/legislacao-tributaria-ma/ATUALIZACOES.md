@@ -1,5 +1,25 @@
 # Registro de atualizações da base
 
+## 2026-11-19 22:25
+
+- SEFAZ alterado: **DECRETO  Nº 19.714,  DE 10  DE  JULHO DE   2003.pdf** (atualizado na fonte em 2026-11-18 08:44:21)
+- SEFAZ norma complementar NOVA: **RESOLUÇÃO ADMINISTRATIVA Nº 021/26**: Altera o Regulamento do ICMS-RICMS, aprovado pelo Decreto nº 19.714/03, relativamente ao Conhecimento de Transporte Eletrônico e Documento Auxiliar do Conhecime
+- SEFAZ norma complementar NOVA: **DECRETO Nº 42.891 DE 05 DE NOVEMBRO DE 2006**: Altera o Decreto nº 27.731, de 18 de outubro de 2011, que regulamenta a Lei 9.437, de 15 de agosto de 2011, que dispõe sobre a concessão de incentivo fiscal par
+- Pauta (valores de referência) NOVA: **PORTARIA Nº 422, DE 06 DE NOVEMBRO DE 2026**: Dispõe sobre alteração de valores de produtos na tabela de Valores de Referência.
+- Pauta (valores de referência) NOVA: **PORTARIA Nº 415, DE 03 DE NOVEMBRO DE 2026**: Dispõe sobre inclusão de valores de produtos na tabela de Valores de Referência.
+- CONFAZ NOVO: convenio 132/2026: Dispõe sobre o atendimento de condicionantes relativas ao PIS/Pasep, à Cofins e ao IPI previstas em convênios ICMS.
+- CONFAZ NOVO: convenio 133/2026: Prorroga benefícios fiscais previstos em convênios ICMS e regula o atendimento das condicionantes relativas ao PIS/Pasep, à Cofins e ao IPI.
+- CONFAZ NOVO: convenio 134/2026: Prorroga as disposições de convênios ICMS que dispõem sobre benefícios fiscais.
+- CONFAZ NOVO: convenio 135/2026: "> CONVÊNIO ICMS Nº 135, DE 17 DE NOVEMBRO DE 2026 Publicado no DOU de 18.11.26, pelo Despacho 54/26 . Altera o Convênio ICMS nº 87, de 28 de junho de 2002, que concede isenção do 
+  - ↳ norma alterada rebaixada: convenio 87/2002
+- CONFAZ NOVO: convenio 136/2026: "> CONVÊNIO ICMS Nº 136, DE 17 DE NOVEMBRO DE 2026 Publicado no DOU de 18.11.26, pelo Despacho 54/26 . Altera o Convênio ICMS nº 140, de 19 de dezembro de 2001, que concede isenção
+  - ↳ norma alterada rebaixada: convenio 140/2001
+- CONFAZ NOVO: convenio 137/2026: "> CONVÊNIO ICMS Nº 137, DE 17 DE NOVEMBRO DE 2026 Publicado no DOU de 18.11.26, pelo Despacho 54/26 . Autoriza a concessão, às empresas prestadoras de serviço de transporte rodovi
+- CONFAZ NOVO: convenio 138/2026: "> CONVÊNIO ICMS Nº 138, DE 17 DE NOVEMBRO DE 2026 Publicado no DOU de 18.11.2026, pelo Despacho 54/26 . Altera o Convênio ICMS nº 4, de 27 de janeiro de 2026, que concede isenção 
+  - ↳ norma alterada rebaixada: convenio 4/2026
+- CONFAZ NOVO: convenio 139/2026: "> CONVÊNIO ICMS N° 139, DE 17 DE NOVEMBRO DE 2026 Publicado no DOU de 18.11.2026, pelo Despacho 54/26 . Altera o Convênio ICMS nº 77, de 5 de agosto de 2011, que dispõe sobre o re
+  - ↳ norma alterada rebaixada: convenio 77/2011
+
 ## 2026-11-18 10:23
 
 - Normas complementares: entram agora as **normas autônomas de ICMS**, decretos, portarias e resoluções que valem por si sem citar o RICMS, anexo ou CTE (benefícios, credenciamentos, prazos, regimes). São 488 normas a mais, com situação própria: *autônoma (sem revogação identificada)* ou *autônoma anterior ao RICMS/2003 (vigência não verificada)*. Ex.: Decreto nº 20.498/2004 (redução de base de cálculo de veículos automotores novos, carga de 12%).

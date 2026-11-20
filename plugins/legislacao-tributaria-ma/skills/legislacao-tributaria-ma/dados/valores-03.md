@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: destilados e licores"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-14"
+gerado_em: "2026-11-19"
 portarias: 5
 registros: 10
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2015.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-19**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 - **Nesta categoria não há relação completa republicada**: "vigente" significa apenas "último valor publicado" para o item, sem confirmação de que continua na tabela.
 
@@ -122,9 +122,9 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: bebidas: energéticos e isotônicos"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-14"
-portarias: 145
-registros: 5939
+gerado_em: "2026-11-19"
+portarias: 146
+registros: 5942
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: energéticos e isotônicos
@@ -136,10 +136,10 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2004.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-19**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
-## Valores vigentes (470)
+## Valores vigentes (473)
 
 Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca de código e sem ausência em relação completa posterior.
 
@@ -270,10 +270,13 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 54514 | Energético Red Horse Tradicional – Pet 2.000 ml |  | 8,10 | 2026-09-18 (pub.) | Port. 340/2026 |
 | 54554 | Energético Red Horse Tradicional – Pet 250 ml |  | 2,50 | 2026-09-18 (pub.) | Port. 340/2026 |
 | 54519 | Energético Red Horse Uva Verde Zero – Pet 1.000 ml |  | 6,92 | 2026-09-18 (pub.) | Port. 340/2026 |
+| 50312 | Energético Vulcano Energ Drink Maçã Verde - Pet 2.000 ml |  | 13,52 | 2026-11-10 (pub.) | Port. 415/2026 |
+| 50311 | Energético Vulcano Energ Drink Melancia – Pet 2.000 ml |  | 13,52 | 2026-11-10 (pub.) | Port. 415/2026 |
 | 54561 | Energético Vulcano Energy Drink Maçã Verde - Lata 473 ml |  | 5,64 | 2026-09-24 (pub.) | Port. 353/2026 |
 | 54560 | Energético Vulcano Energy Drink Melancia – Lata 473 ml |  | 5,64 | 2026-09-24 (pub.) | Port. 353/2026 |
 | 54559 | Energético Vulcano Energy Drink Plus – Pet 1.250 ml |  | 6,99 | 2026-09-24 (pub.) | Port. 353/2026 |
 | 54562 | Energético Vulcano Energy Drink Sem Açucar (SF) - Lata 473 ml |  | 5,64 | 2026-09-24 (pub.) | Port. 353/2026 |
+| 50313 | Energético Vulcano Energy Drink Sugar Free - Pet 2.000ml |  | 13,52 | 2026-11-10 (pub.) | Port. 415/2026 |
 | 49108 | Energil Sport (PET 500 ml) | und | 4,69 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 45049 | Energil Sport - 500 ml | und | 6,87 | 2026-11-01 (efeitos) | Port. 402/2026 |
 | 48411 | Energy (lata 270 ml) | und | 7,39 | 2026-11-01 (efeitos) | Port. 402/2026 |
@@ -3788,6 +3791,18 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2022-11-16 (pub.) | 2022-11-04 | incluir | 3,71 |  |  | Energético Vulcano Combat Fruit Punch 310 ml | Port. 633/2022 |
 
+### Energético Vulcano Energ Drink Maçã Verde - Pet 2.000 ml (código 50312)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2026-11-10 (pub.) | 2026-11-03 | incluir | 13,52 |  |  | Energético Vulcano Energ Drink Maçã Verde - Pet 2.000 ml | Port. 415/2026 |
+
+### Energético Vulcano Energ Drink Melancia – Pet 2.000 ml (código 50311)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2026-11-10 (pub.) | 2026-11-03 | incluir | 13,52 |  |  | Energético Vulcano Energ Drink Melancia – Pet 2.000 ml | Port. 415/2026 |
+
 ### Energético Vulcano Energy Drink - Kit com seis garrafas - Pet 1.250 ml (código —)
 
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
@@ -3823,6 +3838,12 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 | vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
 |---|---|---|---|---|---|---|---|
 | 2026-09-24 (pub.) | 2026-09-16 | incluir | 5,64 |  |  | Energético Vulcano Energy Drink Sem Açucar (SF) - Lata 473 ml | Port. 353/2026 |
+
+### Energético Vulcano Energy Drink Sugar Free - Pet 2.000ml (código 50313)
+
+| vigência | assinatura | ação | valor (R$) | variação | unid. | descrição na portaria | portaria |
+|---|---|---|---|---|---|---|---|
+| 2026-11-10 (pub.) | 2026-11-03 | incluir | 13,52 |  |  | Energético Vulcano Energy Drink Sugar Free - Pet 2.000ml | Port. 415/2026 |
 
 ### Energético Vulcano Explosion 1.000 ml (código —)
 
@@ -11722,3 +11743,4 @@ Links para o texto de cada portaria usada acima.
 - Port. 340/2026: [Portaria nº 340/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=909512d9-dd85-4287-9df6-4e0a46f87fac), vigência 2026-09-18 (pub.)
 - Port. 353/2026: [Portaria nº 353/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=82bb94e1-f4eb-4ef4-b53b-49251231df2d), vigência 2026-09-24 (pub.)
 - Port. 402/2026: [Portaria nº 402/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=c97c66f2-9051-4f91-a763-ac27b07ba5e5), vigência 2026-11-01 (efeitos)
+- Port. 415/2026: [Portaria nº 415/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=5b63a586-075f-46f1-935d-d20f0bc14a95), vigência 2026-11-10 (pub.)

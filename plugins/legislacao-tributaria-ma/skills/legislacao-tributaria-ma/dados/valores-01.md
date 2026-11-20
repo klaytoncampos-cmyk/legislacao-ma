@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: produtos agrícolas (Grupo 01: arroz, feijão, farinhas, macarrão, biscoitos, babaçu, milho, soja, sementes, mel, castanhas, carvão e outros)"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-14"
+gerado_em: "2026-11-19"
 portarias: 60
 registros: 2072
 ---
@@ -17,7 +17,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-19**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (228)
@@ -4134,9 +4134,9 @@ Links para o texto de cada portaria usada acima.
 documento: "Tabela de Valores de Referência: bebidas: águas minerais, adicionadas de sais e saborizadas"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-14"
-portarias: 200
-registros: 2183
+gerado_em: "2026-11-19"
+portarias: 201
+registros: 2184
 ---
 
 # Tabela de Valores de Referência (ICMS): bebidas: águas minerais, adicionadas de sais e saborizadas
@@ -4148,7 +4148,7 @@ Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram 
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-19**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (457)
@@ -4307,6 +4307,7 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | — | Água mineral Vidda sem Gás 6.000 ml |  | 5,98 | 2025-06-09 (pub.) | Port. 200/2025 |
 | — | Água mineral Viena sem gás - Pet 1.500 ml |  | 2,20 | 2025-08-07 (pub.) | Port. 260/2025 |
 | 53565 | Água Mineral Viena sem Gás - Pet 20.000 ml |  | 5,78 | 2025-09-02 (pub.) | Port. 301/2025 |
+| 48727 | Água Mineral You Happy Sem Gás - Pet 1.000 ml |  | 3,07 | 2026-11-12 (pub.) | Port. 422/2026 |
 | 48322 | Àgua Saborizada Aquarius com gás (mineral descartável 500 ml) |  | 1,71 | 2024-12-05 (pub.) | Port. 500/2024 |
 | — | Água Saborizada Yerba Matte - Pet 510 ml |  | 2,40 | 2025-10-08 (pub.) | Port. 341/2025 |
 | 50983 | Aguas Prata Active sem gás (mineral descartável 600 ml) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
@@ -4607,7 +4608,6 @@ Item cuja última portaria é a mais recente sobre ele, sem exclusão, sem troca
 | 50236 | Vilagua (natural 20 L) |  | 2,07 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 50108 | You Happy (natural 5 L) |  | 6,88 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 47678 | Água Mineral You Happy sem gás 2.000 ml |  | 3,82 | 2024-12-05 (pub.) | Port. 500/2024 |
-| 48727 | You Happy sem gás (mineral descartável 1 L) |  | 2,21 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 48287 | You! Happy com gás (mineral copo 200 ml) |  | 0,56 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 48117 | You! Happy com gás (mineral descartável 250 ml) |  | 1,49 | 2024-12-05 (pub.) | Port. 500/2024 |
 | 48385 | You! Happy com gás (mineral descartável 500 ml) |  | 1,96 | 2024-12-05 (pub.) | Port. 500/2024 |
@@ -4944,7 +4944,6 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Água Mineral Ster Bom sem gás 5.000 ml | 4,50 | 2017-02-10 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Mineral Ster Bom Sem Gás 510 ml | 0,75 | 2017-08-22 | sem atualização desde 2017 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | 48385 | Água Mineral You Happy Com Gás – Pet 500 ml | 2,05 | 2021-11-25 | o mesmo código e produto aparece depois como "Água Mineral You Happy com gás 500 ml" (Portaria nº 91/2024, 2024-04-01) |
-| 48727 | Água Mineral You Happy Sem Gás - Pet 1.000 ml | 2,37 | 2021-11-25 | o mesmo código e produto aparece depois como "Água Mineral You Happy sem gás 1.000 ml" (Portaria nº 91/2024, 2024-04-01) |
 | — | Água Natural Psiu (mineral 330 ml) | 0,66 | 2015-06-01 | item sem código, sem atualização desde 2015; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Água Natural Psiu 330 ml | 0,60 | 2013-01-17 | não consta das relações completas das Portarias nº 283/2015 (2015-06-01) e nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | Água Natural Vilagua 20.000 ml | 2,00 | 2016-11-24 | sem atualização desde 2016 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -5422,6 +5421,7 @@ O valor abaixo foi o último fixado, mas há motivo para duvidar que continue va
 | — | Viena sem gás – 330 ml | 0,69 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Viena sem gás – 510 ml | 0,77 | 2018-11-23 | item sem código, sem atualização desde 2018; a tabela foi republicada depois (Portaria nº 500/2024, 2024-12-05) com os itens codificados |
 | — | Vilagua - 20.000 ml | 1,52 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
+| 48727 | You Happy sem gás (mineral descartável 1 L) | 2,21 | 2024-12-05 | o mesmo código e produto aparece depois como "Água Mineral You Happy Sem Gás - Pet 1.000 ml" (Portaria nº 422/2026, 2026-11-12) |
 | — | You Happy sem gás (mineral descartável 2 L) | 2,12 | 2018-12-14 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | You Happy – 5.000 ml | 5,00 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
 | — | You! Happy com gás (mineral 350 a 450 ml) | 1,43 | 2018-11-23 | sem atualização desde 2018 e fora da relação completa da Portaria nº 500/2024 (2024-12-05): saiu da tabela sem exclusão expressa |
@@ -8356,6 +8356,7 @@ Da portaria mais antiga à mais recente (ordem pela vigência). ⚠ marca mudan�
 |---|---|---|---|---|---|---|---|
 | 2019-05-30 (pub.) | 2019-05-19 | incluir | 1,50 |  |  | Água Mineral You Happy sem gás - pet 1.000 ml | Port. 305/2019 |
 | 2021-11-25 (pub.) | 2021-11-19 | alterar | 2,37 | +58.0% |  | Água Mineral You Happy Sem Gás - Pet 1.000 ml | Port. 516/2021 |
+| 2026-11-12 (pub.) | 2026-11-06 | alterar | 3,07 | +29.5% |  | Água Mineral You Happy Sem Gás - Pet 1.000 ml | Port. 422/2026 |
 
 ### Agua Mineral You Happy sem Gás - Pet 2.000 ml (código —)
 
@@ -14139,3 +14140,4 @@ Links para o texto de cada portaria usada acima.
 - Port. 291/2026: [Portaria nº 291/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=d19d0848-3686-4880-b660-852a5c044259), vigência 2026-08-06 (pub.)
 - Port. 333/2026: [Portaria nº 333/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=1146ca46-287c-4e51-88db-de9a6a14f575), vigência 2026-09-15 (pub.)
 - Port. 352/2026: [Portaria nº 352/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=975fdba3-f7ae-4a99-80a5-4f80704948be), vigência 2026-09-24 (pub.)
+- Port. 422/2026: [Portaria nº 422/2026](https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=a6001c9b-f152-44dc-b10c-27a71caf4264), vigência 2026-11-12 (pub.)

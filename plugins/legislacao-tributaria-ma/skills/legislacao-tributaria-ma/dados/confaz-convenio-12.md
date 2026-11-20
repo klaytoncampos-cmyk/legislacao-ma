@@ -1,3 +1,496 @@
+<<<DOC confaz/convenio/convenio-213-2017.md>>>
+---
+documento: "CONVÊNIO ICMS 213/17"
+tipo: convenio
+numero: 213
+ano: 2017
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV213_17
+extraido_em: "2026-11-19"
+---
+
+# CONVÊNIO ICMS 213/17
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 213, DE 15 DE DEZEMBRO DE 2017
+
+Publicado no DOU de 19.12.17, pelo Despacho 175/17.
+
+Alterado pelos Convs. ICMS 45/19, 171/21, 51/22, 154/25, 24/26.
+
+Exclusão do RN, a partir de 01.05.2020 pelo Conv ICMS 24/20.
+
+Exclusão do PI, a partir de 08.10.21, pelo Conv. ICMS 171/21.
+
+Exclusão do RS, a partir de 01.07.22 pelo Conv ICMS 51/22.
+
+Exclusão de RO, a partir de 01.03.23, pelo Conv. ICMS 04/23.
+
+Exclusão da BA, a partir de 01.01.24, pelo Conv. ICMS 208/23.
+
+Exclusão de AL, a partir de 01.09.24, pelo Conv. ICMS 94/24.
+
+Exclusão do PR, a partir de 03.03.26, pelo Conv. ICMS 24/26.
+
+> Nova redação dada à ementa pelo Conv. ICMS 45/19, efeitos a partir de 01.01.19.
+
+Dispõe sobre a substituição tributária nas operações com aparelhos celulares e cartões inteligentes relacionados no Anexo XX do Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.
+
+> Redação original, efeitos até 31.12.18.
+
+~~Dispõe sobre a substituição tributária nas operações com aparelhos celulares e cartões inteligentes relacionados no Anexo XX do Convênio ICMS 52/17, que dispõe sobre as normas gerais a serem aplicadas aos regimes de substituição tributária e de antecipação do ICMS com encerramento de tributação, relativos às operações subsequentes, instituídos por convênios ou protocolos firmados entres os Estados.~~
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 167ª Reunião Ordinária, realizada em Vitória, ES, no dia 15 de dezembro de 2017, considerando o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º, nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006 e no Convênio ICMS 52/17, de 7 de abril de 2017, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+> Nova redação dada à cláusula primeira pelo Conv. ICMS 24/26, efeitos a partir de 03.03.26.
+
+Cláusula primeira Os Estados do Acre, Amapá, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Rio de Janeiro, Sergipe e Tocantins, nos termos deste convênio e do Convênio ICMS nº 142, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com bens e mercadorias, classificados nos Códigos Especificadores da Substituição Tributária - CEST 21.053.00, 21.053.01, 21.063.00 e 21.064.00, relacionados no Anexo XX do referido convênio.
+
+> Redação anterior dada à cláusula primeira pelo Conv. ICMS 94/24, efeitos de 01.08.24 a 02.03.26.
+
+~~Cláusula primeira Os Estados do Acre, Amapá, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Rio de Janeiro, Sergipe e Tocantins, nos termos deste convênio e do Convênio ICMS nº 142, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com bens e mercadorias, classificados nos Códigos Especificadores da Substituição Tributária - CEST 21.053.00, 21.053.01, 21.063.00 e 21.064.00, relacionados no Anexo XX do referido convênio.~~
+
+> Redação anterior dada à cláusula primeira pelo Conv. ICMS 208/23, efeitos de 01.01.24. a 31.07.24.
+
+~~Cláusula primeira Os Estados do Acre, Alagoas, Amapá, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Rio de Janeiro, Sergipe e Tocantins, nos termos deste convênio e do Convênio ICMS nº 142, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com bens e mercadorias, classificados nos Códigos Especificadores da Substituição Tributária - CEST 21.053.00, 21.053.01, 21.063.00 e 21.064.00, relacionados no Anexo XX do referido convênio.~~
+
+> Redação anterior dada à cláusula primeira pelo Conv. ICMS 04/23, efeitos de 01.03.23. a 31.12.23
+
+~~Cláusula primeira Os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Rio de Janeiro, Sergipe e Tocantins, nos termos deste convênio e do Convênio ICMS 142/18, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com bens e mercadorias, classificados nos Códigos Especificadores da Substituição Tributária - CEST 21.053.00, 21.053.01, 21.063.00 e 21.064.00, relacionados no Anexo XX do referido convênio.~~
+
+> Redação anterior dada à cláusula primeira pelo Conv. ICMS 51/22, efeitos de 01.07.22. a 28.02.23
+
+~~Cláusula primeira Os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Rio de Janeiro, Rondônia, Sergipe e Tocantins, nos termos deste convênio e do Convênio ICMS 142/18, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com bens e mercadorias, classificados nos Códigos Especificadores da Substituição Tributária - CEST 21.053.00, 21.053.01, 21.063.00 e 21.064.00, relacionados no Anexo XX do referido convênio.~~
+
+> Redação anterior dada à cláusula primeira pelo Conv. ICMS 171/21, efeitosr de 08.10.21. a 30.06.22.
+
+~~Cláusula primeira Os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Rio de Janeiro, Rio Grande do Sul, Rondônia, Sergipe e Tocantins, nos termos deste convênio e do Convênio ICMS 142/18, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com bens e mercadorias, classificados nos Códigos Especificadores da Substituição Tributária - CEST 21.053.00, 21.053.01, 21.063.00 e 21.064.00, relacionados no Anexo XX do referido convênio.~~
+
+> Redação anterior dada à cláusula primeira pelo Conv. ICMS 45/19, efeitos de 01.01.19. até 07.10.21.
+
+~~Cláusula primeira Os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Sergipe e Tocantins, nos termos deste convênio e do Convênio ICMS 142/18, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com bens e mercadorias, classificados nos Códigos Especificadores da Substituição Tributária - CEST 21.053.00, 21.053.01, 21.063.00 e 21.064.00, relacionados no Anexo XX do referido convênio.~~
+
+> Redação original, efeitos até 31.12.18.
+
+~~Cláusula primeira Os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, Sergipe e Tocantins, nos termos deste convênio e do Convênio ICMS 52/17, de 7 de abril de 2017, acordam em adotar o regime de substituição tributária nas operações interestaduais com bens e mercadorias, classificados nos Códigos Especificadores da Substituição Tributária - CEST 21.053.00, 21.053.01, 21.063.00 e 21.064.00, relacionados no Anexo XX do referido convênio.~~
+
+> Acrescido o §1º à cláusula primeira, pelo Conv. ICMS 154/25, efeitos a partir de 01.12.25.
+
+§ 1º A critério da unidade federada, o regime de substituição tributária previsto neste convênio poderá ser dispensado nas operações destinadas a estabelecimentos prestadores de serviços de comunicação com atividade principal classificada nos códigos 6110-8/01 ou 6120-5/01 da Classificação Nacional de Atividade Econômica – CNAE, hipótese em que a retenção do imposto devido por substituição será realizada no momento da saída da mercadoria desses estabelecimentos.
+
+> Acrescido o §2º à cláusula primeira, pelo Conv. ICMS 154/25, efeitos a partir de 01.12.25.
+
+§ 2º O disposto no § 1º não se aplica ao Estado de Goiás.
+
+Cláusula segunda Ficam revogados os seguintes convênios:
+
+I - Convênio ICMS 135/06, de 15 de dezembro de 2006;
+
+II - Convênio ICMS 93/09, de 11 de dezembro de 2009;
+
+III - Convênio ICMS 119/17, de 29 de setembro de 2017.
+
+Cláusula terceira Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do dia 1º de janeiro de 2018.
+<<<DOC confaz/convenio/convenio-213-2021.md>>>
+---
+documento: "CONVÊNIO ICMS 213/21"
+tipo: convenio
+numero: 213
+ano: 2021
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV213_21
+extraido_em: "2026-11-19"
+---
+
+# CONVÊNIO ICMS 213/21
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 213, DE 09 DE DEZEMBRO DE 2021
+
+Publicado no DOU de 13.12.21, pelo despacho 84/21.
+
+Ratificação Nacional no DOU de 29.12.21, pelo Ato Declaratório 38/21.
+
+Adesão de AP pelo Conv. ICMS 133/22, efeitos a partir de 17.10.22.
+
+Alterado pelo Conv. ICMS 133/22.
+
+Prorrogado, até 30.04.26, pelo Conv. ICMS 226/23.
+
+Prorrogado, até 31.12.26, pelo Conv. ICMS 21/26.
+
+Autoriza as unidades federadas que menciona a conceder redução de base de cálculo do ICMS nas operações internas e interestaduais com caranguejos vivos.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 183ª Reunião Ordinária, realizada em Brasília, DF, no dia 09 de dezembro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+> Nova redação dada à clausula primeira pelo Conv. ICMS 133/22, efeitos a partir de 17.10.22
+
+Cláusula primeira Os Estados do Amapá, Maranhão e Pará ficam autorizados a conceder redução de base de cálculo do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - incidente nas operações internas e interestaduais com caranguejos vivos, produzidos em seus territórios, de modo que a carga tributária seja equivalente à aplicação do percentual de, no mínimo, 1,0% (um por cento) sobre o valor da respectiva operação.
+
+> Redação original, efeitos até 16.10.22.
+
+~~Cláusula primeira Os Estados do Maranhão e Pará ficam autorizados a conceder redução de base de cálculo do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - incidente nas operações internas e interestaduais com caranguejos vivos, produzidos em seus territórios, de modo que a carga tributária seja equivalente à aplicação do percentual de, no mínimo, 1,0% (um por cento) sobre o valor da respectiva operação.~~
+
+> Nova redação dada à cláusula segunda pelo Conv. ICMS 133/22, efeitos a partir de 17.10.22
+
+Cláusula segunda Os Estados do Amapá, Maranhão e Pará ficam autorizados a não exigir o estorno do crédito tributário de que trata o art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, na hipótese de concessão do benefício previsto neste convênio.
+
+> Redação original, efeitos até 16.10.22.
+
+~~Cláusula segunda Os Estados do Maranhão e Pará ficam autorizados a não exigir o estorno do crédito tributário de que trata o art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, na hipótese de concessão do benefício previsto neste convênio.~~
+
+Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 30 de abril de 2024.
+<<<DOC confaz/convenio/convenio-213-2023.md>>>
+---
+documento: "CONVÊNIO ICMS 213/23"
+tipo: convenio
+numero: 213
+ano: 2023
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV213_23
+extraido_em: "2026-11-19"
+---
+
+# CONVÊNIO ICMS 213/23
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 213, DE 21 DE DEZEMBRO DE 2023
+
+Publicado no DOU de 22.12.23, pelo despacho 82/23.
+
+Ratificação Nacional no DOU de 28.12.23, pelo Ato Declaratório 51/23.
+
+Adesão do AM, efeitos a partir de 06.05.25, pelo Conv. ICMS 26/25.
+
+Alterado pelo Conv. ICMS 26/25.
+
+Prorrogado, até 31.12.26, pelo Conv. ICMS 136/25.
+
+Adesão do CE, efeitos a partir de 24.12.25, pelo Conv. ICMS 187/25.
+
+> Nova redação dada à ementa pelo Conv. ICMS 26/25, efeitos a partir de 06.05.25.
+
+Autoriza a concessão de crédito presumido do ICMS na saída de óleo diesel e biodiesel destinadas às empresas concessionárias ou permissionárias de transporte público coletivo de passageiros das Regiões Metropolitanas que especifica.
+
+> Redação original, efeitos até 05.05.25
+
+~~Autoriza as unidades federadas que menciona a conceder crédito presumido do ICMS na saída de óleo diesel e biodiesel destinadas às empresas concessionárias ou permissionárias de transporte público coletivo de passageiros da Região Metropolitana de Belém.~~
+
+O Conselho Nacional de Política Fazendária – CONFAZ, na sua 386ª Reunião Extraordinária, realizada em Brasília, DF, no dia 21 de dezembro de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+> Nova redação dada ao caput da cláusula primeira pelo Conv ICMS 187/25, efeitos a partir de 24.12.25.
+
+Cláusula primeira Os Estados do Amazonas, Ceará, Pará e Sergipe ficam autorizados a conceder crédito presumido equivalente ao percentual de até 100% (cem por cento) do valor da alíquota “ad rem” do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, de que trata o inciso I da cláusula sétima do Convênio ICMS nº 199, de 22 de dezembro de 2022, para as operações com óleo diesel e biodiesel destinadas às empresas concessionárias ou permissionárias de transporte público coletivo de passageiros das Regiões Metropolitanas das respectivas capitais.
+
+> Redação anterior dada ao caput da cláusula primeira pelo Conv ICMS 26/25, efeitos de 06.05.25 a 23.12.25.
+
+~~Cláusula primeira Os Estados do Amazonas, Pará e Sergipe ficam autorizados a conceder crédito presumido equivalente ao percentual de até 100% (cem por cento) do valor da alíquota “ad rem” do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, de que trata o inciso I da cláusula sétima do Convênio ICMS nº 199, de 22 de dezembro de 2022, para as operações com óleo diesel e biodiesel destinadas às empresas concessionárias ou permissionárias de transporte público coletivo de passageiros das Regiões Metropolitanas das respectivas capitais.~~
+
+> Redação original, efeitos até 05.05.25.
+
+~~Cláusula primeira Os Estados do Pará e Sergipe ficam autorizados a conceder crédito presumido equivalente ao percentual de até 100% (cem por cento) do valor da alíquota “ad rem” do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, de que trata o inciso I da cláusula sétima do Convênio ICMS nº 199, de 22 de dezembro de 2022, para as operações com óleo diesel e biodiesel destinadas às empresas concessionárias ou permissionárias de transporte público coletivo de passageiros das Regiões Metropolitanas de Aracajú e Belém.~~
+
+Cláusula segunda O benefício previsto neste convênio:
+
+> Nova redação dada ao inciso I da cláusula segunda pelo Conv. ICMS 187/25, efeitos a partir de 24.12.25.
+
+I - em relação ao biodiesel, aplica-se somente à parcela do imposto devida aos Estados do Amazonas, Ceará, Pará e Sergipe;
+
+> Redação anterior dada ao inciso I da cláusula segunda pelo Conv. ICMS 26/25, efeitos de 06.05.25 a 23.12.25
+
+~~I - em relação ao biodiesel, aplica-se somente à parcela do imposto devida aos Estados do Amazonas, Pará e Sergipe;~~
+
+> Redação original, efeitos até 05.05.25.
+
+~~I - em relação ao biodiesel, aplica-se somente à parcela do imposto devida aos Estados do Pará e Sergipe;~~
+
+> Nova redação dada ao inciso II da cláusula segunda pelo Conv. ICMS 26/25, efeitos a partir de 06.05.25.
+
+II - fica condicionado à utilização do combustível na prestação de serviço de transporte coletivo de passageiros das Regiões Metropolitanas das respectivas capitais.
+
+> Redação original, efeitos até 05.05.25.
+
+~~II - fica condicionado à utilização do combustível na prestação de serviço de transporte coletivo de passageiros das Regiões Metropolitanas de Belém e Aracajú.~~
+
+> Inclusão do parágrafo único à cláusula segunda pelo Conv. ICMS 187/25, efeitos a partir de 24.12.25.
+
+Parágrafo único. Relativamente ao Estado do Ceará, o benefício previsto neste convênio poderá ser estendido às operações realizadas no âmbito de outras regiões metropolitanas do referido Estado, desde que assim definido na legislação estadual.
+
+Cláusula terceira A legislação estadual poderá estabelecer demais condições para fruição do benefício de que trata este convênio.
+
+Cláusula quarta Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2025.
+<<<DOC confaz/convenio/convenio-214-2017.md>>>
+---
+documento: "CONVÊNIO ICMS 214/17"
+tipo: convenio
+numero: 214
+ano: 2017
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV214_17
+extraido_em: "2026-11-19"
+---
+
+# CONVÊNIO ICMS 214/17
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 214/17, DE 15 DE DEZEMBRO DE 2017
+
+Publicado no DOU de 19.12.17, pelo Despacho 175/17.
+
+Altera o Convênio ICMS 52/17, que dispõe sobre as normas gerais a serem aplicadas aos regimes de substituição tributária e de antecipação do ICMS com encerramento de tributação, relativos às operações subsequentes, instituídos por convênios ou protocolos firmados entres os Estados e o Distrito Federal.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 167ª Reunião Ordinária, realizada em Vitória, ES, no dia 15 de dezembro de 2017, tendo em vista o disposto nos art. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º e nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira O § 3º da cláusula nona do Convênio ICMS 52/17, de 7 de abril de 2017, passa a vigorar com a seguinte redação:
+
+“§ 3º Em substituição ao disposto no inciso II do caput, nas transferências interestaduais destinadas aos Estados do Acre, Alagoas, Bahia, Minas Gerais, Paraíba, Piauí, Rio de Janeiro e Rio Grande do Norte e ao Distrito Federal, o regime de que trata o caput não se aplica quando promovidas entre estabelecimentos do industrial fabricante, exceto quando destinada a estabelecimento varejista.”.
+
+Cláusula segunda Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2018.
+<<<DOC confaz/convenio/convenio-214-2023.md>>>
+---
+documento: "CONVÊNIO ICMS 214/23"
+tipo: convenio
+numero: 214
+ano: 2023
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV214_23
+extraido_em: "2026-11-19"
+---
+
+# CONVÊNIO ICMS 214/23
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS Nº 214, DE 21 DE DEZEMBRO DE 2023
+
+Publicado no DOU de 22.12.23, pelo despacho 82/23.
+
+Ratificação Nacional no DOU de 28.12.23, pelo Ato Declaratório 51/23.
+
+Prorrogado, até 31.12.27, pelo Conv. ICMS 108/25.
+
+Alterado pelo Conv. ICMS 108/25, 41/26.
+
+> Nova redação dada à ementa pelo Conv. ICMS 41/26, efeitos a partir de 27.04.26.
+
+Autoriza o Estado da Paraíba a conceder isenção do ICMS, nas operações internas e em relação à diferença entre as alíquotas interna e interestadual, incidente nas aquisições de bens destinados ao ativo imobilizado da rede hoteleira paraibana e parques inseridos no “Polo Turístico Cabo Branco” e nos “Distritos Industriais do Turismo.
+
+> Redação original, efeitos até 26.04.26.
+
+~~Autoriza o Estado da Paraíba a conceder isenção do ICMS, nas operações internas e em relação à diferença entre as alíquotas interna e interestadual, incidente nas aquisições de bens destinados ao ativo imobilizado da rede hoteleira paraibana e parques inseridos no “Polo Turístico Cabo Branco”.~~
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 386ª Reunião Extraordinária, realizada em Brasília, DF, no dia 21 de dezembro de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+> Nova redação dada à clausula primeira pelo Conv. ICMS 41/26, efeitos a partir de 27.04.26.
+
+Cláusula primeira O Estado da Paraíba fica autorizado a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, nas operações internas e em relação à diferença entre as alíquotas interna e interestadual, incidente nas aquisições de bens destinados ao ativo imobilizado da rede hoteleira paraibana e parques, com vistas a estruturar o segmento para o “Polo Turístico Cabo Branco” e nos “Distritos Industriais do Turismo.
+
+> Redação original, efeitos até 26.04.26.
+
+~~Cláusula primeira O Estado da Paraíba fica autorizado a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, nas operações internas e em relação à diferença entre as alíquotas interna e interestadual, incidente nas aquisições de bens destinados ao ativo imobilizado da rede hoteleira paraibana e parques, com vistas a estruturar o segmento para o “Polo Turístico Cabo Branco”.~~
+
+> Acrescido o parágrafo único à cláusula primeira pelo Conv. ICMS 41/26, efeitos a partir de 27.04.26.
+
+Parágrafo único. A legislação do Estado definirá “Distritos Industriais do Turismo”.
+
+Cláusula segunda Para concessão do benefício previsto na cláusula primeira, o hotel, congênere ou parques interessados, deverão cumprir as condições estabelecidas pela legislação do Estado.
+
+> Nova redação dada à clausula primeira pelo Conv. ICMS 41/26, efeitos a partir de 27.04.26.
+
+Cláusula terceira O disposto neste convênio aplica-se igualmente a pousadas, albergues e motéis inseridos no “Polo Turístico Cabo Branco” e nos “Distritos Industriais do Turismo.
+
+> Redação original, efeitos até 26.04.26.
+
+~~Cláusula terceira O disposto neste convênio aplica-se igualmente a pousadas, albergues e motéis inseridos no “Polo Turístico Cabo Branco”.~~
+
+> Nova redação dada à clausula quarta pelo Conv. ICMS 108/25, efeitos a partir de 05.09.25.
+
+Cláusula quarta Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2027.
+
+> Redação original, efeitos até 04.09.25.
+
+~~Cláusula quarta Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2025.~~
+<<<DOC confaz/convenio/convenio-215-2017.md>>>
+---
+documento: "CONVÊNIO ICMS 215 /17"
+tipo: convenio
+numero: 215
+ano: 2017
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV215_17
+extraido_em: "2026-11-19"
+---
+
+# CONVÊNIO ICMS 215 /17
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 215/17, DE 15 DE DEZEMBRO DE 2017
+
+Publicado no DOU de 19.12.17, pelo Despacho 175/17.
+
+Ratificação Nacional no DOU de 05.01.18, pelo Ato Declaratório 1/18.
+
+Dispõe sobre a adesão do Estado do Espírito Santo ao Convênio ICMS 16/15, que autoriza a conceder isenção nas operações internas relativas à circulação de energia elétrica, sujeitas a faturamento sob o Sistema de Compensação de Energia Elétrica de que trata a Resolução Normativa nº 482, de 2012, da Agência Nacional de Energia Elétrica - ANEEL.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 167ª Reunião Ordinária, realizada em Vitória, ES, no dia 15 de dezembro de 2017, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975 e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira Fica o Estado do Espírito Santo incluído nas disposições do Convênio ICMS 16/15, de 22 de abril de 2015.
+
+Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.
+<<<DOC confaz/convenio/convenio-216-2017.md>>>
+---
+documento: "CONVÊNIO ICMS 216/17"
+tipo: convenio
+numero: 216
+ano: 2017
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV216_17
+extraido_em: "2026-11-19"
+---
+
+# CONVÊNIO ICMS 216/17
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 216/17, DE 15 DE DEZEMBRO DE 2017
+
+Publicado no DOU de 19.12.17, pelo Despacho 175/17.
+
+Altera o Manual de Orientação aprovado pelo Convênio ICMS 57/95, que dispõe sobre a emissão de documentos fiscais e a escrituração de livros fiscais por contribuinte usuário de sistema eletrônico de processamento de dados.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 167ª Reunião Ordinária, realizada em Vitória, ES, no dia 15 de dezembro de 2017, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte.
+
+C O N V Ê N I O
+
+Cláusula primeira O inciso II do caput da cláusula quinta do Convênio ICMS 57/95, de 28 de junho de 1995, fica acrescido da alínea “k”, com a seguinte redação:
+
+“k) Conhecimento de Transporte Eletrônico para Outros Serviços, modelo 67”.
+
+Cláusula segunda Ficam acrescentados os dispositivos a seguir indicados ao Manual de Orientação aprovado pelo Convênio ICMS 57/95, de 28 de junho de 1995, com a seguinte redação:
+
+I - os códigos 63 e 67 à Tabela de Modelos de Documentos Fiscais do subitem 3.3.1:
+
+| 63 | Bilhete de Passagem Eletrônico, modelo 63 |
+| 67 | Conhecimento de Transporte Eletrônico para Outros Serviços, modelo 67 |
+
+II - a alínea "k" ao subitem 2.1.2:
+
+“k) Conhecimento de Transporte Eletrônico para Outros Serviços, modelo 67”;
+
+III - a alínea "n" ao subitem 2.1.4:
+
+“n) Bilhete de Passagem Eletrônico, modelo 63”;
+
+IV - ao caput do item 18:
+
+"Conhecimento de Transporte Eletrônico para Outros Serviços”.
+
+Cláusula terceira Os dispositivos a seguir indicados do Manual de Orientação aprovado pelo Convênio ICMS 57/95, passam a vigorar com as seguintes redações:
+
+I - o subitem 7.1.11:
+
+“7.1.11 - Tipo 70 - Registro de total de Nota Fiscal de Serviço de Transporte, modelo 7, de Conhecimento de Transporte Rodoviário de Cargas, modelo 8, de Conhecimento de Transporte Aquaviário de Cargas, modelo 9, de Conhecimento Aéreo, modelo 10, e de Conhecimento de Transporte Ferroviário de Cargas, modelo 11, Conhecimento de Transporte Eletrônico, modelo 57 e Conhecimento de Transporte Eletrônico para Outros Serviços, modelo 67, destinado a especificar as informações de totalização do documento fiscal, relativamente ao ICMS;”;
+
+II - o subitem 11.1.14:
+
+"11.1.14 - CAMPO 17 - Preencher o campo de acordo com a tabela abaixo:
+
+| Situação | Conteúdo do Campo |
+| Documento Fiscal Normal | N |
+| Documento Fiscal Cancelado | S |
+| Lançamento Extemporâneo de Documento Fiscal Normal | E |
+| Lançamento Extemporâneo de Documento Fiscal Cancelado | X |
+| Documento com USO DENEGADO - exclusivamente para uso dos emitentes de Nota Fiscal Eletrônica - Modelo 55, Conhecimento de Transporte Eletrônico, Modelo 57 e Conhecimento de Transporte Eletrônico para Outros Serviços, modelo 67. | 2 |
+| Documento com USO inutilizado - exclusivamente para uso dos emitentes de Nota Fiscal Eletrônica - Modelo 55, Conhecimento de Transporte Eletrônico, Modelo 57 e Conhecimento de Transporte Eletrônico para Outros Serviços, modelo 67. | 4 |
+
+III - o caput do item 17:
+
+“17 - REGISTRO TIPO 61: Para os documentos fiscais descritos a seguir, quando não emitidos por equipamento emissor de cupom fiscal: Bilhete de Passagem Aquaviário (modelo 14), Bilhete de Passagem e Nota de Bagagem (modelo 15), Bilhete de Passagem Ferroviário (modelo 16), Bilhete de Passagem Rodoviário (modelo 13), Nota Fiscal de Venda a Consumidor (modelo 2), Nota Fiscal de Produtor (modelo 4) para as unidades da Federação que não o exigirem na forma prevista no item 11, Nota Fiscal de Consumidor Eletrônica (modelo 65) e Bilhete de Passagem Eletrônico, (modelo 63)”.
+
+Cláusula quarta Ficam convalidados os procedimentos adotados, no período de 1º de julho de 2017 até o início de produção de efeitos deste convênio, em conformidade com o disposto nas cláusulas primeira, segunda e terceira.
+
+Cláusula quinta Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
+<<<DOC confaz/convenio/convenio-216-2019.md>>>
+---
+documento: "Convênio ICMS 216/19"
+tipo: convenio
+numero: 216
+ano: 2019
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV216_19
+extraido_em: "2026-11-19"
+---
+
+# Convênio ICMS 216/19
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 216/19, DE 13 DE DEZEMBRO DE 2019
+
+Publicado no DOU de 17.12.19, pelo Despacho 93/19.
+
+Ratificação Nacional no DOU de 02.01.20, pelo Ato Declaratório 23/19.
+
+Dispõe sobre a adesão do Estado do Rio Grande do Norte e prorroga as disposições do Convênio ICMS 85/11, que autoriza os Estados que menciona a conceder crédito outorgado de ICMS destinado a aplicação em investimentos em infraestrutura.
+
+O Conselho Nacional de Política Fazendária - CONFAZ na sua 175ª Reunião Ordinária, realizada em Curitiba, PR, no dia 13 de dezembro de 2019, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira Fica o Estado do Rio Grande do Norte incluído nas disposições do Convênio ICMS 85/11, de 30 de setembro de 2011.
+
+Cláusula segunda Ficam prorrogadas até 31 de outubro de 2022, as disposições contidas no Convênio ICMS 85/11.
+
+Cláusula terceira Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional
+<<<DOC confaz/convenio/convenio-217-2017.md>>>
+---
+documento: "CONVÊNIO ICMS 217/17"
+tipo: convenio
+numero: 217
+ano: 2017
+orgao: CONFAZ
+fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV217_17
+extraido_em: "2026-11-19"
+---
+
+# CONVÊNIO ICMS 217/17
+
+> Convenção: `~~texto~~` = redação ANTERIOR (histórico, não vigente). Linhas iniciadas por `>` são notas de alteração do CONFAZ ("Nova redação dada…", "Redação anterior…", efeitos).
+
+## CONVÊNIO ICMS 217/17, DE 15 DE DEZEMBRO DE 2017
+
+Publicado no DOU de 19.12.17, pelo Despacho 175/17.
+
+Ratificação Nacional no DOU de 05.01.18, pelo Ato Declaratório 1/18.
+
+Autoriza o Estado de Minas Gerais a conceder o prazo adicional de até sessenta dias para a comprovação da efetiva exportação de insulina resultante da industrialização de mercadoria importada sob o regime aduaneiro de drawback integrado suspensão.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 167ª Reunião Ordinária, realizada em Vitória, ES, no dia 15 de dezembro de 2017, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte:
+
+C O N V Ê N I O
+
+Cláusula primeira Fica o Estado de Minas Gerais autorizado a conceder o prazo adicional de até 60 (sessenta) dias para a comprovação da efetiva exportação de insulina (NCM 2937.12.00), resultante da industrialização de mercadoria importada sob o regime aduaneiro de drawback integrado suspensão, contados a partir da data-limite para exportação prevista no Ato Concessório do drawback.
+
+Parágrafo único. Na hipótese desta cláusula, não se aplica o disposto na cláusula sexta do Convênio ICMS 27/90, de 13 de setembro de 1990.
+
+Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2019.
 <<<DOC confaz/convenio/convenio-217-2023.md>>>
 ---
 documento: "CONVÊNIO ICMS 217/23"
@@ -6,7 +499,7 @@ numero: 217
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV217_23
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 217/23
@@ -144,7 +637,7 @@ numero: 218
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV218_21
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 218/21
@@ -279,7 +772,7 @@ numero: 218
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV218_23
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 218/23
@@ -311,7 +804,7 @@ numero: 219
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV219_23
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 219/23
@@ -357,7 +850,7 @@ numero: 220
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV220_19
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # Convênio ICMS 220/19
@@ -477,7 +970,7 @@ numero: 223
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV223_21
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 223/21
@@ -509,7 +1002,7 @@ numero: 224
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV224_19
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # Convênio ICMS 224/19
@@ -549,7 +1042,7 @@ numero: 224
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV224_21
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 224/21
@@ -671,7 +1164,7 @@ numero: 225
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV225_21
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 225/21
@@ -711,7 +1204,7 @@ numero: 225
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV225_23
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 225/23
@@ -741,7 +1234,7 @@ numero: 226
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV226_21
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 226/21
@@ -775,7 +1268,7 @@ numero: 226
 ano: 2023
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV226_23
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 226/23
@@ -1321,7 +1814,7 @@ numero: 228
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV228_17
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 228/17
@@ -1351,7 +1844,7 @@ numero: 228
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV228_19
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # Convênio ICMS 228/19
@@ -1447,7 +1940,7 @@ numero: 228
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV228_21
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 228/21
@@ -1481,7 +1974,7 @@ numero: 230
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV230_17
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 230/17
@@ -1513,7 +2006,7 @@ numero: 230
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV230_21
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 230/21
@@ -1545,7 +2038,7 @@ numero: 231
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV231_17
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 231/17
@@ -1575,7 +2068,7 @@ numero: 232
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV232_17
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 232/17
@@ -1607,7 +2100,7 @@ numero: 234
 ano: 2017
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV234_17
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 234/17
@@ -1758,7 +2251,7 @@ numero: 234
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV234_19
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # Convênio ICMS 234/19
@@ -1788,7 +2281,7 @@ numero: 235
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV235_19
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # Convênio ICMS 235/19
@@ -1818,7 +2311,7 @@ numero: 236
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV236_19
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # Convênio ICMS 236/19
@@ -1848,7 +2341,7 @@ numero: 236
 ano: 2021
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV236_21
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # CONVÊNIO ICMS 236/21
@@ -1954,7 +2447,7 @@ numero: 240
 ano: 2019
 orgao: CONFAZ
 fonte: https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV240_19
-extraido_em: "2026-11-14"
+extraido_em: "2026-11-19"
 ---
 
 # Convênio ICMS 240/19

@@ -8,7 +8,7 @@ ementa: "Dispõe sobre procedimentos aplicáveis aos contribuintes enquadrados n
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=589b7176-e902-497e-99a9-04f8e7b4d0c8
 atualizado_na_fonte: "2026-10-22 18:13:52"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
 percentual_tachado: 0.0
@@ -55,7 +55,7 @@ ementa: "Dispõe sobre a lacração do ECF da marca URANO, tipo ECF-IF, modelo U
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=9a89054c-8133-4f70-8632-15f1580c358c
 atualizado_na_fonte: "2026-10-22 18:12:32"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -101,7 +101,7 @@ ementa: "Estabelece procedimentos relativos à validação e entrega de arquivos
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=0af1d684-38f3-431e-bb10-3c375ee1b93b
 atualizado_na_fonte: "2026-10-22 18:12:16"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -191,7 +191,7 @@ ementa: "Dispõe sobre a lacração do ECF da marca DARUMA, tipo ECF-IF, modelo 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=27559fdb-062d-491a-85a0-0f05157ddd98
 atualizado_na_fonte: "2026-10-22 18:11:46"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -235,7 +235,7 @@ ementa: "Dispõe sobre a lacração do ECF da marca ZPM, tipo ECF-IF, modelo 1 F
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=059a09f0-5916-499e-959b-1543254c405c
 atualizado_na_fonte: "2026-10-22 18:11:27"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -282,7 +282,7 @@ ementa: "Dispõe sobre procedimentos de consulta no SIAT, relativa a contribuint
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=36c31166-b387-409b-b418-4d5c8acfb371
 atualizado_na_fonte: "2026-10-22 18:13:26"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma anterior ao RICMS/2003 (vigência não verificada)"
 percentual_tachado: 0.0
@@ -332,7 +332,7 @@ ementa: "Disciplina as regras relativas à conversão de créditos recebidos no 
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=3017443a-2940-47df-acf6-3635b4ad11f8
 atualizado_na_fonte: "2026-10-22 18:10:50"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "nada (norma autônoma)"
 situacao: "autônoma (sem revogação identificada)"
 percentual_tachado: 0.0
@@ -745,7 +745,7 @@ ementa: "Dispõe sobre o preenchimento da DIEF relativo às operações com comb
 orgao: SEFAZ-MA
 fonte: https://portal-sgc.sefaz.ma.gov.br/sgc/api/portal/arquivos/public/identificador?identificador=2d4e37d8-8d10-47f7-b682-82a785d917d0
 atualizado_na_fonte: "2026-10-22 18:12:50"
-extraido_em: "2026-11-18"
+extraido_em: "2026-11-19"
 remete_a: "RICMS"
 situacao: "vigente (sem revogação identificada)"
 percentual_tachado: 0.0

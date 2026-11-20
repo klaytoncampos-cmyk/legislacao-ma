@@ -3,7 +3,7 @@
 documento: "Tabela de Valores de Referência: bebidas: cervejas e chopes"
 tipo: valores-de-referencia
 orgao: SEFAZ-MA
-gerado_em: "2026-11-14"
+gerado_em: "2026-11-19"
 portarias: 250
 registros: 24526
 ---
@@ -13,11 +13,11 @@ registros: 24526
 Montada automaticamente a partir das portarias da SEFAZ-MA que incluem, alteram ou excluem itens da Tabela de Valores de Referência (fundamento citado nas portarias: § 8º do art. 13 da Lei 7.799/2002). A leitura das tabelas em PDF é automática e **não foi revisada manualmente**. **Confira na portaria (link) antes de usar em lançamento.**
 
 - **Vigência desde** = data em que a portaria passou a valer: "efeitos a partir de", quando houver; senão a **publicação** no DOE (as portarias entram em vigor na publicação; republicação por incorreção vale da republicação); na falta das duas, a assinatura.
-- **Código** = o da própria tabela da SEFAZ (as portarias trazem código desde 2017, com exceções). A SEFAZ às vezes **troca o código** do mesmo produto e **reaproveita** códigos de outras categorias (aqui: 38079, 45029, 47720, 48365, 48484, 48627, 48648, 48727, 48838, 48961, 50520 também designam produtos de outras categorias em outras portarias); por isso o histórico liga códigos e descrições com cuidado e sinaliza mudanças de descrição.
+- **Código** = o da própria tabela da SEFAZ (as portarias trazem código desde 2017, com exceções). A SEFAZ às vezes **troca o código** do mesmo produto e **reaproveita** códigos de outras categorias (aqui: 38079, 45029, 47720, 48365, 48484, 48627, 48648, 48727, 48838, 48961, 50311, 50312, 50313, 50520 também designam produtos de outras categorias em outras portarias); por isso o histórico liga códigos e descrições com cuidado e sinaliza mudanças de descrição.
 - Esquisitices de unidade e de grafia vêm do próprio PDF da portaria.
 - **Não foi possível ler**: portarias de 2003–2008 cujo PDF no portal não traz o anexo com a tabela, as Portarias 83/2012 e 84/2012 (tabela em imagem) e a Portaria 142/2011 (o PDF no portal é de outra portaria). O histórico lido começa em 2003.
 - **Nem toda portaria de pauta está no portal da SEFAZ** (ex.: Portarias 158, 159 e 178/2026, só no DOE). As conhecidas entram como "DOE, fora do portal"; para valor recente, pesquise na web portarias posteriores.
-- **Gerado em 2026-11-14**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
+- **Gerado em 2026-11-19**: "vigente" é o valor em vigor nessa data. Portarias já publicadas com vigência posterior estão em "Valores com vigência futura" e marcadas com → ao lado do valor atual; **se a data da consulta já alcançou a vigência futura, o valor futuro é o que vale**.
 - "Situação incerta" e "superado" por ausência numa relação completa são **dedução** (as portarias de pauta "alteram" valores e raramente excluem itens de forma expressa); revogações de portarias não são tratadas. Seções que ficam de fora de uma republicação (ex.: barris de chope de 10 a 50 L na Portaria 402/2026) mantêm o valor anterior.
 
 ## Valores vigentes (1714)
